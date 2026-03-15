@@ -1,0 +1,10 @@
+{
+  "name": "igorls--moltbook-signed-posts",
+  "description": "Cryptographically sign Moltbook posts with Ed25519. Enables verifiable agent identity without platform support.",
+  "version": "1.0.0",
+  "author": {
+    "name": "igorls"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/igorls/moltbook-signed-posts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/igorls/moltbook-signed-posts"
+}

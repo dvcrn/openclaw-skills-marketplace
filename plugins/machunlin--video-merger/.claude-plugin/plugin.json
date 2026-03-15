@@ -1,0 +1,10 @@
+{
+  "name": "machunlin--video-merger",
+  "description": "多片段短视频自动拼接工具，支持按文件名排序、统一音视频参数、淡入淡出转场、分块/完整拼接，适合短剧、分镜头视频批量拼接",
+  "version": "1.1.0",
+  "author": {
+    "name": "machunlin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/machunlin/video-merger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/machunlin/video-merger"
+}

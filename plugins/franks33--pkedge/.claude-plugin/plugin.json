@@ -1,0 +1,10 @@
+{
+  "name": "franks33--pkedge",
+  "description": "Monitor Polymarket prediction markets, spot mispricings between crowd probabilities and real-world evidence, track whale positioning from the top-50 leaderboard wallets, and detect fresh wallet insider signals. Supports four modes: SCAN (daily digest of flagged markets), DEEP DIVE (full single-market analysis with web search evidence), WHALE WATCH (consensus detection across top trader positions), and INSIDER WATCH (fresh wallet large-position detection).",
+  "version": "1.0.3",
+  "author": {
+    "name": "franks33"
+  },
+  "homepage": "https://polymarket.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/franks33/pkedge"
+}

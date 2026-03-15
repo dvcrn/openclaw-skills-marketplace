@@ -1,0 +1,10 @@
+{
+  "name": "neldar--webchat-voice-gui",
+  "description": "Voice input and microphone button for OpenClaw WebChat Control UI. Adds a mic button to chat, records audio via browser MediaRecorder, transcribes locally via faster-whisper, and injects text into the conversation. Includes gateway hook for update safety. Real-time VU meter shows voice activity. Push-to-Talk (hold to speak) and Toggle mode (click start/stop), switchable via double-click. Keyboard shortcuts: Ctrl+Space PTT, Ctrl+Shift+M continuous recording, Ctrl+Shift+B live transcription [beta]. Localized UI (English, German, Chinese built-in, extensible). Fully local speech-to-text, no API costs. Keywords: voice input, microphone, WebChat, Control UI, speech to text, STT, local transcription, MediaRecorder, voice button, mic button, push-to-talk, PTT, keyboard shortcut, i18n, localization.",
+  "version": "0.1.0",
+  "author": {
+    "name": "neldar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neldar/webchat-voice-gui",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neldar/webchat-voice-gui"
+}

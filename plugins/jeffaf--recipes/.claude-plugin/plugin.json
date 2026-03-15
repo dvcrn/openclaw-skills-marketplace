@@ -1,0 +1,10 @@
+{
+  "name": "jeffaf--recipes",
+  "description": "CLI for AI agents to find recipes for their humans. Uses TheMealDB API. No auth required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jeffaf"
+  },
+  "homepage": "https://www.themealdb.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeffaf/recipes"
+}

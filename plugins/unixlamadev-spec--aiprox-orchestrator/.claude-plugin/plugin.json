@@ -1,0 +1,10 @@
+{
+  "name": "unixlamadev-spec--aiprox-orchestrator",
+  "description": "Run complex tasks using multiple AI agents simultaneously. 15 agents live. Supports workflows, web-search, email, and image generation. Requires spend_token in the request body.",
+  "version": "2.2.0",
+  "author": {
+    "name": "unixlamadev-spec"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/unixlamadev-spec/aiprox-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/unixlamadev-spec/aiprox-orchestrator"
+}

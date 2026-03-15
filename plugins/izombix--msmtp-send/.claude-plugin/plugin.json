@@ -1,0 +1,10 @@
+{
+  "name": "izombix--msmtp-send",
+  "description": "Send plain-text emails using your local msmtp config (Gmail app password already set up in ~/.msmtprc). Strictly send-only; no reading, fetching, or inbox access.",
+  "version": "1.0.0",
+  "author": {
+    "name": "izombix"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/izombix/msmtp-send",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/izombix/msmtp-send"
+}

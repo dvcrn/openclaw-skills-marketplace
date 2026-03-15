@@ -1,0 +1,10 @@
+{
+  "name": "simonfunk--google-tag-manager",
+  "description": "Manage Google Tag Manager containers, tags, triggers, variables, and versions via the GTM API v2. Use when the user wants to list, create, update, delete, or inspect GTM tags, triggers, variables, built-in variables, workspaces, or versions. Also use for publishing container versions, auditing GTM setups, creating conversion tags, setting up cross-domain tracking, or managing dataLayer events. Covers: \"GTM\", \"Tag Manager\", \"container tag\", \"conversion tag\", \"trigger\", \"GTM variable\", \"publish GTM\", \"GTM workspace\", \"dataLayer\", \"Google Ads tag\", \"GA4 tag\", \"cross-domain tracking\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "simonfunk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/simonfunk/google-tag-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/simonfunk/google-tag-manager"
+}

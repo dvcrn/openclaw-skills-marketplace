@@ -1,0 +1,10 @@
+{
+  "name": "vishalgojha--india-location-normalizer",
+  "description": "Normalize Indian real-estate location text into canonical city and locality fields (Mumbai and Pune v1) with confidence and unresolved flags. Use when leads contain aliases like Goregaon, Andheri W, PCMC, Hinjewadi, Baner, or Wakad. Recommended chain position: lead-extractor then india-location-normalizer then sentiment-priority-scorer. Do not use for writes or outbound actions.",
+  "version": "1.0.1",
+  "author": {
+    "name": "vishalgojha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vishalgojha/india-location-normalizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vishalgojha/india-location-normalizer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zhenstaff--video-generator",
+  "description": "Automated text-to-video pipeline with multi-provider TTS/ASR support - OpenAI, Azure, Aliyun, Tencent | 多厂商 TTS/ASR 支持的自动化文本转视频系统",
+  "version": "1.0.10",
+  "author": {
+    "name": "zhenstaff"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhenstaff/video-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhenstaff/video-generator"
+}

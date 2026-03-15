@@ -1,0 +1,10 @@
+{
+  "name": "techthrasher--clawbox-media-server",
+  "description": "Bidirectional LAN file sharing for AI agents. Provides a static file server (port 18801) for serving files to users, and an upload server (port 18802) with drag-and-drop web UI for users to send files to the agent. All traffic stays on local network — no internet required. Use when channel lacks inline media support or when you need a simple, LAN-only file exchange layer.",
+  "version": "1.0.1",
+  "author": {
+    "name": "techthrasher"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/techthrasher/clawbox-media-server",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/techthrasher/clawbox-media-server"
+}

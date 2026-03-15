@@ -1,0 +1,10 @@
+{
+  "name": "vincent-labarthe--whatsapp-automation",
+  "description": "WhatsApp automation with intelligent Telegram alerts. Detects appointments, important messages, and suggests calendar additions. OpenClaw cron jobs + Claude analysis.",
+  "version": "1.0.5",
+  "author": {
+    "name": "vincent-labarthe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vincent-labarthe/whatsapp-automation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vincent-labarthe/whatsapp-automation"
+}

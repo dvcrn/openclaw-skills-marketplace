@@ -1,0 +1,10 @@
+{
+  "name": "davida-ps--clawsec-clawhub-checker",
+  "description": "ClawHub reputation checker for ClawSec suite. Enhances guarded skill installer with VirusTotal Code Insight reputation scores and additional safety checks.",
+  "version": "0.0.1",
+  "author": {
+    "name": "davida-ps"
+  },
+  "homepage": "https://clawsec.prompt.security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davida-ps/clawsec-clawhub-checker"
+}

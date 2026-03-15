@@ -1,0 +1,10 @@
+{
+  "name": "leonardodpanda--timestamp-converter",
+  "description": "Convert between Unix timestamps, ISO 8601 dates, and human-readable formats. Use when working with timestamps from APIs, logs, or databases that need conversion to local time, timezone adjustments, or format standardization. Supports batch conversion, timezone handling, and date arithmetic for developers working with temporal data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "leonardodpanda"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leonardodpanda/timestamp-converter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leonardodpanda/timestamp-converter"
+}

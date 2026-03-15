@@ -1,0 +1,10 @@
+{
+  "name": "aetherstacey--erc8004-register",
+  "description": "Register AI agents on-chain, update metadata, validate registrations, and auto-fix broken profiles via the ERC-8004 Identity Registry. Supports Base, Ethereum, Polygon, Monad, BNB.",
+  "version": "1.1.1",
+  "author": {
+    "name": "aetherstacey"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aetherstacey/erc8004-register",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aetherstacey/erc8004-register"
+}

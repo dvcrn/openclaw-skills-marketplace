@@ -1,0 +1,10 @@
+{
+  "name": "darwin7381--openclaw-tmux-persistent-process",
+  "description": "Run programs that survive OpenClaw exec session cleanup and gateway restarts via tmux. Use when you need long-running servers, dev servers, tunnels (ngrok/cloudflared), coding agents, or any process that must outlive the current exec session. Solves: exec background processes getting SIGKILL on session cleanup. Recommended for all OpenClaw users running any long-lived process.",
+  "version": "1.0.0",
+  "author": {
+    "name": "darwin7381"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/darwin7381/openclaw-tmux-persistent-process",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/darwin7381/openclaw-tmux-persistent-process"
+}

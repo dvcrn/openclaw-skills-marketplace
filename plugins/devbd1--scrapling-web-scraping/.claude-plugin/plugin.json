@@ -1,0 +1,10 @@
+{
+  "name": "devbd1--scrapling-web-scraping",
+  "description": "Advanced web scraping with Scrapling — MCP-native guidance for extraction, crawling, and anti-bot handling. Use via mcporter (MCP) to call the `scrapling` MCP server for execution; this skill provides strategy, recipes, and best practices.",
+  "version": "1.2.0",
+  "author": {
+    "name": "devbd1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/devbd1/scrapling-web-scraping",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/devbd1/scrapling-web-scraping"
+}

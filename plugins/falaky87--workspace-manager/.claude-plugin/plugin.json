@@ -1,0 +1,10 @@
+{
+  "name": "falaky87--workspace-manager",
+  "description": "Workspace setup and organization assistant for ClawPad users. Triggers on: (1) First-time setup - \"just set up ClawPad\", \"new workspace\", \"help me organize\" (2) Project creation - \"new project\", \"create folder structure\" (3) Workspace maintenance - \"reorganize\", \"clean up workspace\", \"where should I put\" (4) Document creation - \"create a plan\", \"new tracking doc\", \"start a runbook\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "falaky87"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/falaky87/workspace-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/falaky87/workspace-manager"
+}

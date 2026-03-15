@@ -1,0 +1,10 @@
+{
+  "name": "bevanding--walletconnect-requester",
+  "description": "Secure WalletConnect integration for AI agents. Connect to user wallets as a DApp (Proposer) without ever handling private keys. Request transactions and signatures - users approve everything in their wallet. Zero custody, maximum security. Use when you need to interact with user wallets securely via WalletConnect v2.",
+  "version": "1.0.2",
+  "author": {
+    "name": "bevanding"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bevanding/walletconnect-requester",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bevanding/walletconnect-requester"
+}

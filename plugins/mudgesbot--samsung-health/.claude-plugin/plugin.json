@@ -1,0 +1,10 @@
+{
+  "name": "mudgesbot--samsung-health",
+  "description": "Analyze Samsung Health Connect data synced to Google Drive. Use for health tracking queries like sleep analysis, step counting, heart rate monitoring, SpO2 blood oxygen, workout history, and daily health reports. Requires Samsung Galaxy Watch/Ring with Health Connect backup to Google Drive enabled.",
+  "version": "1.0.1",
+  "author": {
+    "name": "mudgesbot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mudgesbot/samsung-health",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mudgesbot/samsung-health"
+}

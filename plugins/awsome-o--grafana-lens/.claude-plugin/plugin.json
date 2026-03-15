@@ -1,0 +1,10 @@
+{
+  "name": "awsome-o--grafana-lens",
+  "description": "Grafana tools for data visualization, monitoring, alerting, and security. Use grafana_query, grafana_query_logs, grafana_query_traces, grafana_create_dashboard, grafana_update_dashboard, grafana_create_alert, grafana_share_dashboard, grafana_annotate, grafana_explore_datasources, grafana_list_metrics, grafana_search, grafana_get_dashboard, grafana_check_alerts, grafana_push_metrics, grafana_explain_metric, and grafana_security_check. Trigger when asked about metrics, dashboards, monitoring, alerts, costs, token usage, data visualization, PromQL, Prometheus, LogQL, Loki, log queries, error logs, log search, TraceQL, Tempo, traces, distributed tracing, span search, find slow traces, debug session traces, annotations, deployments, sharing charts, investigating alert notifications, pushing custom data (calendar, git, fitness, finance) to Grafana for visualization, pushing historical data, backfilling metrics, recording past data with timestamps, modifying dashboards, adding panels, removing panels, changing dashboard settings, updating dashboard time range, explain metric, metric trend, what is this metric, how has this changed, is this metric normal, why did my bill spike, cost visibility, security monitoring, security check, security audit, am I being attacked, is my agent compromised, suspicious activity, threat detection, prompt injection detection, set up security alerts.",
+  "version": "0.2.0",
+  "author": {
+    "name": "awsome-o"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/awsome-o/grafana-lens",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/awsome-o/grafana-lens"
+}

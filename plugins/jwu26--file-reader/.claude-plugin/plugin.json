@@ -1,0 +1,10 @@
+{
+  "name": "jwu26--file-reader",
+  "description": "文件读取技能。当用户需要读取文件内容、查看文件、cat 文件时激活。支持读取文本文件、配置文件、代码文件等。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jwu26"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jwu26/file-reader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jwu26/file-reader"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "uchibeke--aport-handoff",
+  "description": "Package completed work for handoff to another agent or a human. Every item in the handoff must have a verified APort decision. The handoff document is verifiable — not a summary of what you think you did, but proof of what APort confirmed you delivered.",
+  "version": "0.1.0",
+  "author": {
+    "name": "uchibeke"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/uchibeke/aport-handoff",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/uchibeke/aport-handoff"
+}

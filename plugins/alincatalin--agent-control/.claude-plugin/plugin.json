@@ -1,0 +1,10 @@
+{
+  "name": "alincatalin--agent-control",
+  "description": "Manage OpenClaw isolated agents from chat with short commands. Use when the user asks to create/list/switch/bind/delete agents, route channels to a specific agent, or set an agent identity without manually typing full CLI syntax.",
+  "version": "0.1.0",
+  "author": {
+    "name": "alincatalin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alincatalin/agent-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alincatalin/agent-control"
+}

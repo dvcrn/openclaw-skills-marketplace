@@ -1,0 +1,10 @@
+{
+  "name": "gitboy123--jenkins-fix",
+  "description": "Jenkins 构建助手。触发关键词：\n - 构建、build、编译、打包、部署\n - Jenkins、CI/CD、job、项目\n - 分支、branch、tag\n - 构建状态、构建结果、产物下载\n \n 使用场景：\n 1. 用户要求构建项目：\"构建 xxx\"、\"build xxx\"、\"编译 xxx\"\n 2. 用户查询项目列表：\"Jenkins 项目列表\"、\"列出所有 job\"\n 3. 用户指定分支：\"构建 xxx 分支=yyy\"\n 4. 用户查看构建结果：\"xxx 构建状态\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "gitboy123"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gitboy123/jenkins-fix",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gitboy123/jenkins-fix"
+}

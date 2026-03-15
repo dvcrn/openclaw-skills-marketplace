@@ -1,0 +1,10 @@
+{
+  "name": "tunaissacoding--claude-oauth-refresher",
+  "description": "Keep your Claude access token fresh 24/7. Automatically refreshes OAuth tokens before expiry so you never see authentication failures.",
+  "version": "1.5.0",
+  "author": {
+    "name": "tunaissacoding"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tunaissacoding/claude-oauth-refresher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tunaissacoding/claude-oauth-refresher"
+}

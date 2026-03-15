@@ -1,0 +1,10 @@
+{
+  "name": "komelt--clawhub-thunderbird-skill",
+  "description": "Read and search local Mozilla Thunderbird mail storage on disk. Use when working with Thunderbird profiles, extracting emails from local folders or IMAP cache, locating messages by sender/recipient/subject/body, checking which account a mailbox belongs to, or answering inbox questions for a specific Thunderbird account such as \"do I have unread mail today?\" or \"search mail for user@example.com\".",
+  "version": "0.1.1",
+  "author": {
+    "name": "komelt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/komelt/clawhub-thunderbird-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/komelt/clawhub-thunderbird-skill"
+}

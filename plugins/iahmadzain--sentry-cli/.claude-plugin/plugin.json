@@ -1,0 +1,10 @@
+{
+  "name": "iahmadzain--sentry-cli",
+  "description": "Sentry.io error monitoring via sentry-cli. Use when working with Sentry releases, source maps, dSYMs, events, or issue management. Covers authentication, release workflows, deploy tracking, and debug file uploads.",
+  "version": "1.0.1",
+  "author": {
+    "name": "iahmadzain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iahmadzain/sentry-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iahmadzain/sentry-cli"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "myjnathan--medical-device-code-review",
+  "description": "医疗设备软件代码审核（符合IEC 62304、NMPA中国医疗器械注册要求）。当用户要求审核代码、审查代码、代码检查、代码安全审查、代码质量审查、代码合规检查、代码安全审计、代码评审、code review、代码审查、审核这段代码、帮我看看代码、有bug吗、代码有问题吗等关键词时触发。适用于手术机器人、监护仪、输液泵等二类、三类医疗器械软件，以及任何涉及患者安全的医疗设备软件。",
+  "version": "1.0.0",
+  "author": {
+    "name": "myjnathan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/myjnathan/medical-device-code-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/myjnathan/medical-device-code-review"
+}

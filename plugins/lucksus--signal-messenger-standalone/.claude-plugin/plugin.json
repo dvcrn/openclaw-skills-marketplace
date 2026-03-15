@@ -1,0 +1,10 @@
+{
+  "name": "lucksus--signal-messenger-standalone",
+  "description": "Full Signal messenger integration for OpenClaw agents. Send/receive text and voice messages via signal-cli with role-based permissions (owner/trusted/untrusted), automatic voice transcription (Whisper), voice replies (TTS), conversation history, new contact triage, typing indicators, read receipts, and instant wake-on-message via OpenClaw hooks API. Use when setting up Signal messaging, handling Signal contacts, sending/receiving Signal messages, or managing Signal contact permissions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lucksus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lucksus/signal-messenger-standalone",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lucksus/signal-messenger-standalone"
+}

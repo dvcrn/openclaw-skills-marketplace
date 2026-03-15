@@ -1,0 +1,10 @@
+{
+  "name": "parthpandya1729--obsidian-ontology-sync",
+  "description": "Bidirectional sync between Obsidian PKM (human-friendly notes) and structured ontology (machine-queryable graph). Automatically extracts entities and relationships from markdown, maintains ontology graph, and provides feedback to improve note structure. Run sync every few hours via cron.",
+  "version": "1.0.1",
+  "author": {
+    "name": "parthpandya1729"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/parthpandya1729/obsidian-ontology-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/parthpandya1729/obsidian-ontology-sync"
+}

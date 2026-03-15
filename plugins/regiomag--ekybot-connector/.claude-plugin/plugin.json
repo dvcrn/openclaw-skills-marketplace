@@ -1,0 +1,10 @@
+{
+  "name": "regiomag--ekybot-connector",
+  "description": "Transform your local OpenClaw agents into a remote-controlled team. iOS/Android apps, web dashboard, multi-agent chat, real-time cost monitoring. This connector bridges OpenClaw to the Ekybot command center — control your AI agents from anywhere.",
+  "version": "3.0.1",
+  "author": {
+    "name": "regiomag"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/regiomag/ekybot-connector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/regiomag/ekybot-connector"
+}

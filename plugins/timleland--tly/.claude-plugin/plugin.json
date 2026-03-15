@@ -1,0 +1,10 @@
+{
+  "name": "timleland--tly",
+  "description": "Create T.LY short links through the T.LY API. Use when an agent needs to shorten a URL, generate a shareable T.LY link, return a `short_url`, or call T.LY programmatically. This skill requires a valid T.LY API key and should only be used when `TLY_API_TOKEN` is available or the user can provide one.",
+  "version": "1.0.2",
+  "author": {
+    "name": "timleland"
+  },
+  "homepage": "https://t.ly/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/timleland/tly"
+}

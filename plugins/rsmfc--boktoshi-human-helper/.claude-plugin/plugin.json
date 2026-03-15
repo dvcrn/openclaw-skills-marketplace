@@ -1,0 +1,10 @@
+{
+  "name": "rsmfc--boktoshi-human-helper",
+  "description": "Optional helper skill for Boktoshi human /my endpoints that require Firebase ID token auth.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rsmfc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rsmfc/boktoshi-human-helper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rsmfc/boktoshi-human-helper"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "eathon--eason-soul-guardian",
+  "description": "Drift detection + baseline integrity guard for agent workspace files with automatic alerting support",
+  "version": "1.0.0",
+  "author": {
+    "name": "eathon"
+  },
+  "homepage": "https://clawsec.prompt.security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eathon/eason-soul-guardian"
+}

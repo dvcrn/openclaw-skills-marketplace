@@ -1,0 +1,10 @@
+{
+  "name": "phin--zight",
+  "description": "Extract structured data from Zight share links (a.cl.ly and share.zight.com), including title, stream URLs, AI smart summary, chapter markers, and full transcript text from captions. Use when a user shares a Zight video and asks to read, summarize, quote, or automate follow-up actions from video content.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phin/zight",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phin/zight"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hahahxx--web-search-instant",
+  "description": "Web search using DuckDuckGo Instant Answer API (no API key required). Use when you need to search the web for information, definitions, calculations, conversions, or quick facts. Also use when user mentions \"search\", \"look up\", \"find information\", \"what is\", \"how to\", or \"google something\". The skill provides instant answers, definitions, abstracts, and related topics without requiring external API credentials.",
+  "version": "1.1.0",
+  "author": {
+    "name": "hahahxx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hahahxx/web-search-instant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hahahxx/web-search-instant"
+}

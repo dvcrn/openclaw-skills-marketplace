@@ -1,0 +1,10 @@
+{
+  "name": "vvusu--whisper-transcriber",
+  "description": "Offline speech-to-text (ASR) using whisper.cpp (whisper-cli) + ffmpeg. Supports batch transcription, timestamps, SRT/TXT/JSON outputs, and model download. Cross-platform: macOS/Linux; Windows via WSL2 (recommended).",
+  "version": "1.0.0",
+  "author": {
+    "name": "vvusu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vvusu/whisper-transcriber",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vvusu/whisper-transcriber"
+}

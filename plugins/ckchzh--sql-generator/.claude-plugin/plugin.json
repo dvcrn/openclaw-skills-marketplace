@@ -1,0 +1,10 @@
+{
+  "name": "ckchzh--sql-generator",
+  "description": "SQL生成器。自然语言转SQL、SQL解释、性能优化、建表语句、测试数据生成、数据库迁移、SQL速查表。SQL generator from natural language, explainer, optimizer, DDL creator, mock data, migration scripts, cheatsheet. SQL、数据库、MySQL。",
+  "version": "2.2.0",
+  "author": {
+    "name": "ckchzh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ckchzh/sql-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ckchzh/sql-generator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zacjiang--bid-review-lite",
+  "description": "AI-powered bid/tender document review. Extracts text from .docx/.doc files, cross-references bid requirements vs responses, and generates a detailed audit report with risk ratings.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zacjiang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zacjiang/bid-review-lite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zacjiang/bid-review-lite"
+}

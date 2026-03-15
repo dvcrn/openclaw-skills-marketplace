@@ -1,0 +1,39 @@
+{
+  "intents": {
+    "clarify": {
+      "keywords": ["什么", "是指", "意思", "这个", "啥", "啥意思"],
+      "priority": 1,
+      "description": "澄清概念"
+    },
+    "supplement": {
+      "keywords": ["补充", "还有", "另外", "加上", "增加", "补充一点"],
+      "priority": 2,
+      "description": "补充信息"
+    },
+    "refute": {
+      "keywords": ["不对", "其实", "应该是", "错误", "错了", "不正确"],
+      "priority": 3,
+      "description": "反驳或修正"
+    },
+    "deepen": {
+      "keywords": ["继续", "展开", "深入", "详细", "扩展", "深入分析"],
+      "priority": 4,
+      "description": "深入讨论"
+    },
+    "relate": {
+      "keywords": ["关联", "关系", "联系", "类似", "相同", "相似"],
+      "priority": 5,
+      "description": "关联对话"
+    },
+    "example": {
+      "keywords": ["例子", "示例", "举个", "比如", "例如"],
+      "priority": 6,
+      "description": "举例说明"
+    }
+  },
+  "context_window": {
+    "before": 2,
+    "after": 2,
+    "description": "引用消息前后各取2条作为上下文"
+  }
+}

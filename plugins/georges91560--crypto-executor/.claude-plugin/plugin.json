@@ -1,0 +1,10 @@
+{
+  "name": "georges91560--crypto-executor",
+  "description": "Complete autonomous trading engine for Binance with WebSocket real-time, OCO orders, Kelly Criterion position sizing, trailing stops, circuit breakers, daily performance reports, AND NOW adaptive strategy mixing, memory persistence, and intelligent performance alerts. Self-learning trading bot that improves over time.",
+  "version": "2.3.4",
+  "author": {
+    "name": "georges91560"
+  },
+  "homepage": "https://github.com/georges91560/crypto-executor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/georges91560/crypto-executor"
+}

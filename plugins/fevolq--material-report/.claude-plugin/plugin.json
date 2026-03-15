@@ -1,0 +1,10 @@
+{
+  "name": "fevolq--material-report",
+  "description": "Analyze ad material videos and produce a markdown report with framework, material traits, and acquisition keywords, then propose new material production frameworks and detailed storyboard tables. Use when users provide a video asset and want analysis plus new creative guidance for performance ads.",
+  "version": "1.0.2",
+  "author": {
+    "name": "fevolq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fevolq/material-report",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fevolq/material-report"
+}

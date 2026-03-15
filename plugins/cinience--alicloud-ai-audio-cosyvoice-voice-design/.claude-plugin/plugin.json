@@ -1,0 +1,10 @@
+{
+  "name": "cinience--alicloud-ai-audio-cosyvoice-voice-design",
+  "description": "Use when designing custom voices with Alibaba Cloud Model Studio CosyVoice customization models, especially cosyvoice-v3.5-plus or cosyvoice-v3.5-flash, from a voice prompt plus preview text before using the returned voice_id in TTS.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-ai-audio-cosyvoice-voice-design",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-ai-audio-cosyvoice-voice-design"
+}

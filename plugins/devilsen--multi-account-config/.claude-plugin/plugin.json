@@ -1,0 +1,10 @@
+{
+  "name": "devilsen--multi-account-config",
+  "description": "Configure multiple messaging platform accounts for OpenClaw. Use when the user wants to add or configure additional accounts for Telegram, WhatsApp, Discord, or other supported channels. Triggers on requests like \"configure multiple accounts\", \"add another telegram bot\", \"setup multi-account\", \"add work account\", etc.",
+  "version": "1.0.0",
+  "author": {
+    "name": "devilsen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/devilsen/multi-account-config",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/devilsen/multi-account-config"
+}

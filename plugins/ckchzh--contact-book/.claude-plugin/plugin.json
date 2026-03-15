@@ -1,0 +1,10 @@
+{
+  "name": "ckchzh--contact-book",
+  "description": "Personal contact manager with groups, birthdays, and vCard export. Use when you need to store contacts (name/phone/email), organize into groups, track birthdays, search contacts, or export as CSV/vCard. Triggers on: contact, phone number, address book, birthday reminder, vCard.",
+  "version": "2.3.0",
+  "author": {
+    "name": "ckchzh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ckchzh/contact-book",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ckchzh/contact-book"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xukp20--arxiv-search-collector",
+  "description": "Model-driven arXiv retrieval workflow for building a paper set with a manual language parameter: initialize a run, fetch metadata for each model-designed query, let the model filter irrelevant items per query by keep indexes, then merge and dedupe into per-paper metadata directories. Use when query planning and relevance filtering should be done by the model, not rule-based heuristics.",
+  "version": "0.1.1",
+  "author": {
+    "name": "xukp20"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-search-collector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-search-collector"
+}

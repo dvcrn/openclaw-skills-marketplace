@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--qrcode2",
+  "description": "本地二维码生成与识别 Skill，支持将文本/URL 编码为 PNG 图片二维码，并从图片中识别二维码内容，可与远程版 jisu-qrcode Skill 搭配使用。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/qrcode2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/qrcode2"
+}

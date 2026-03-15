@@ -1,0 +1,10 @@
+{
+  "name": "vassiliylakhonin--agent-evals-lab",
+  "description": "Evaluate agent quality and reliability with practical scorecards: accuracy, relevance, actionability, risk flags, tool-call failures, regression checks, and prioritized fix plans. Use when users ask to audit agent quality, compare prompt/config/model changes, investigate failures, or validate performance after updates.",
+  "version": "0.3.0",
+  "author": {
+    "name": "vassiliylakhonin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vassiliylakhonin/agent-evals-lab",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vassiliylakhonin/agent-evals-lab"
+}

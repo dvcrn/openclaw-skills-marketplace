@@ -1,0 +1,10 @@
+{
+  "name": "qsmtco--session-state-tracker",
+  "description": "Persistent session state management across compaction and restarts via lifecycle hooks",
+  "version": "2.0.0",
+  "author": {
+    "name": "qsmtco"
+  },
+  "homepage": "https://github.com/qsmtco/qrusher/tree/main/skills/session-state-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qsmtco/session-state-tracker"
+}

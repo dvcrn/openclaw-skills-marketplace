@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--microsoft-excel",
+  "description": "Microsoft Excel API integration with managed OAuth. Read and write Excel workbooks, worksheets, ranges, tables, and charts stored in OneDrive.\n Use this skill when users want to read or modify Excel spreadsheets, manage worksheet data, work with tables, or access cell values.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.3",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/microsoft-excel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/microsoft-excel"
+}

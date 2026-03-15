@@ -1,0 +1,10 @@
+{
+  "name": "jpaulgrayson--quack-coordinator",
+  "description": "Agent-to-agent task coordination via RFP, bid, and hire pattern. Use when delegating tasks to other agents, requesting proposals, hiring agents, or coordinating multi-agent work.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jpaulgrayson"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jpaulgrayson/quack-coordinator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jpaulgrayson/quack-coordinator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "forketyfork--clawtunes",
+  "description": "Control Apple Music on macOS via the `clawtunes` CLI (play songs/albums/playlists, control playback, volume, shuffle, repeat, search, catalog lookup, AirPlay, and playlist management). Use when a user asks to play music, search for songs, control audio playback, or manage Apple Music settings.",
+  "version": "0.3.1",
+  "author": {
+    "name": "forketyfork"
+  },
+  "homepage": "https://github.com/forketyfork/clawtunes",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/forketyfork/clawtunes"
+}

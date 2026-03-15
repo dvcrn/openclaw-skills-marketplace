@@ -1,0 +1,10 @@
+{
+  "name": "odrobnik--cups-printer",
+  "description": "Print images and PDFs to any CUPS printer. PPD-aware: reads paper sizes, margins, resolution, and duplex at runtime. Use when the user wants to print files (images like PNG/JPG or PDFs) or query printer capabilities.",
+  "version": "1.2.2",
+  "author": {
+    "name": "odrobnik"
+  },
+  "homepage": "https://github.com/odrobnik/printer-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/cups-printer"
+}

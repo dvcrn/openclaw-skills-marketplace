@@ -1,0 +1,10 @@
+{
+  "name": "sercanmetalore--ai-c-plan",
+  "description": "AI-C plan klasöründeki MD/CSV planı okuyup dependency sırasına göre tamamen otomatik ilerler; geliştirir, test eder, raporlar.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sercanmetalore"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sercanmetalore/ai-c-plan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sercanmetalore/ai-c-plan"
+}

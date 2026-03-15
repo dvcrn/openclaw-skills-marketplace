@@ -1,0 +1,10 @@
+{
+  "name": "franckstone--market-configurable-skills",
+  "description": "Call guide and best practices for the configurable crypto price prediction market contracts GouGouBiMarketConfigurable.sol and GouGouBiMarketConfigurableFactory.sol, including factory creation parameters, market configuration fields, core trading/settlement methods, and conventions for calling the contracts from scripts, frontends, or OpenClow workflows via ethers/web3. Use this skill when you need to create new prediction markets, buy YES/NO, swap positions, or redeem settlements.",
+  "version": "0.1.0",
+  "author": {
+    "name": "franckstone"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/franckstone/market-configurable-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/franckstone/market-configurable-skills"
+}

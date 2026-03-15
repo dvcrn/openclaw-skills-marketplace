@@ -1,0 +1,10 @@
+{
+  "name": "thegovind--azure-ai-evaluation-py",
+  "description": "Azure AI Evaluation SDK for Python. Use for evaluating generative AI applications with quality, safety, and custom evaluators.\n Triggers: \"azure-ai-evaluation\", \"evaluators\", \"GroundednessEvaluator\", \"evaluate\", \"AI quality metrics\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "thegovind"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thegovind/azure-ai-evaluation-py",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thegovind/azure-ai-evaluation-py"
+}

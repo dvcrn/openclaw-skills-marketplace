@@ -1,0 +1,10 @@
+{
+  "name": "admin4giter--tor-browser",
+  "description": "Headless browser automation with Tor SOCKS5 proxy support for accessing .onion sites and anonymous browsing. Use when navigating dark web resources, scraping Tor hidden services, conducting security research on dark web forums, or when anonymity is required. Supports navigation, element interaction, screenshots, and data extraction through Tor network.",
+  "version": "1.1.0",
+  "author": {
+    "name": "admin4giter"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/admin4giter/tor-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/admin4giter/tor-browser"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "0xhyperdan--stock-watchlist",
+  "description": "Query real-time stock prices, basic quote fields, and manage a Markdown watchlist for A-share, Hong Kong, and US stocks. Use when users ask in Chinese or by ticker/code to search stocks, inspect current price and quote basics, or maintain a watchlist stored in a Markdown file.",
+  "version": "1.1.0",
+  "author": {
+    "name": "0xhyperdan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xhyperdan/stock-watchlist",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xhyperdan/stock-watchlist"
+}

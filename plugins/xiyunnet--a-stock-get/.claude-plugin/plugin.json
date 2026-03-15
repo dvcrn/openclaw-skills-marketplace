@@ -1,0 +1,10 @@
+{
+  "name": "xiyunnet--a-stock-get",
+  "description": "Specialized A-share stock data collector. Automatically fetch and store daily/weekly/monthly historical K-line data for all A-share stocks in SQLite database.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiyunnet"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiyunnet/a-stock-get",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiyunnet/a-stock-get"
+}

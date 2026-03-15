@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--launchagent-manager",
+  "description": "List, classify, prune LaunchAgents; analyze openclaw.json so the proper gateway LaunchAgent remains connected and tokens match. Keeps only OpenClaw-related agents; can unload/delete others.",
+  "version": "1.0.0",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/launchagent-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/launchagent-manager"
+}

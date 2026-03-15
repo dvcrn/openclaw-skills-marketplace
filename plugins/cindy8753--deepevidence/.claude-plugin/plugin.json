@@ -1,0 +1,10 @@
+{
+  "name": "cindy8753--deepevidence",
+  "description": "Evidence-based clinical assistant powered by DeepEvidence's OpenAI-compatible API (traceable citations). Use for complex clinical questions, drug safety evidence (dose/contraindications/interactions), guideline interpretation, and trial evidence synthesis. Outputs should be clinically verified before use. Triggers: DeepEvidence, evidence-based medicine, guideline interpretation, drug safety evidence, clinical trial evidence.",
+  "version": "1.0.1",
+  "author": {
+    "name": "cindy8753"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cindy8753/deepevidence",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cindy8753/deepevidence"
+}

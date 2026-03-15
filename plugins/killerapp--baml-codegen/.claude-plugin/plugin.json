@@ -1,0 +1,10 @@
+{
+  "name": "killerapp--baml-codegen",
+  "description": "Use when generating BAML code for type-safe LLM extraction, classification, RAG, or agent workflows - creates complete .baml files with types, functions, clients, tests, and framework integrations from natural language requirements. Queries official BoundaryML repositories via MCP for real-time patterns. Supports multimodal inputs (images, audio), Python/TypeScript/Ruby/Go, 10+ frameworks, 50-70% token optimization, 95%+ compilation success.",
+  "version": "2.0.0",
+  "author": {
+    "name": "killerapp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/killerapp/baml-codegen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/killerapp/baml-codegen"
+}

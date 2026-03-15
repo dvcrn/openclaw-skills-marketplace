@@ -1,0 +1,10 @@
+{
+  "name": "qidu--grab-videos",
+  "description": "Download videos and extract frames using yt-dlp and ffmpeg. Use when:\n - Download YouTube videos/Shorts: `yt-dlp <url>`\n - Extract frames from video: `ffmpeg -ss <time> -i <video> -vframes 1 <output>`\n - Batch extract frames: multiple videos, random timestamps\n - Convert video formats, trim clips\n\n NOT for: streaming-only sites without yt-dlp support, copyright-protected content.",
+  "version": "1.0.0",
+  "author": {
+    "name": "qidu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qidu/grab-videos",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qidu/grab-videos"
+}

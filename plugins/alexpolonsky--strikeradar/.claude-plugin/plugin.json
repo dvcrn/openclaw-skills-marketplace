@@ -1,0 +1,10 @@
+{
+  "name": "alexpolonsky--strikeradar",
+  "description": "Monitor US-Iran strike probability using open-source indicators - news alerts, Iran internet connectivity, oil prices, flight traffic, military tanker detection, weather, Polymarket odds, and Pentagon activity. Use when user asks about \"Iran strike probability\", \"strike radar\", \"Iran situation\", \"US attack Iran\", \"flights over Iran\", \"oil prices Iran\", \"Pentagon activity\", \"Polymarket Iran\", \"הסתברות תקיפה באיראן\", \"מצב איראן\", \"סטרייק ראדאר\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "alexpolonsky"
+  },
+  "homepage": "https://github.com/alexpolonsky/agent-skill-strikeradar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/strikeradar"
+}

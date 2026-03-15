@@ -1,0 +1,17 @@
+{
+  "skill_name": "openclaw-configurator",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "我想配置一个专门帮我写代码的助手。他应该很冷静，不废话，用 Emoji 🤖。我是个全栈开发。帮我生成所有的 OPENClaw 配置文件。",
+      "expected_output": "应该包含 AGENTS.md, SOUL.md, IDENTITY.md, USER.md, TOOLS.md, HEARTBEAT.md, MEMORY.md 的完整内容，风格冷静、高效。",
+      "files": []
+    },
+    {
+      "id": 1,
+      "prompt": "给我写个配置。",
+      "expected_output": "应该主动询问用户的性格、用途等细节，进行多轮引导，而不是直接生成通用的配置。",
+      "files": []
+    }
+  ]
+}

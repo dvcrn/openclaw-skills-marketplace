@@ -1,0 +1,10 @@
+{
+  "name": "killerapp--chain-of-density",
+  "description": "Iteratively densify text summaries using Chain-of-Density technique. Use when compressing verbose documentation, condensing requirements, or creating executive summaries while preserving information density.",
+  "version": "1.1.0",
+  "author": {
+    "name": "killerapp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/killerapp/chain-of-density",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/killerapp/chain-of-density"
+}

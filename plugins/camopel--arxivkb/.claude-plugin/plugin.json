@@ -1,0 +1,10 @@
+{
+  "name": "camopel--arxivkb",
+  "description": "Local arXiv paper manager with semantic search. Crawls arXiv categories, downloads PDFs, chunks content, and indexes with FAISS + Ollama embeddings. No cloud API keys required — everything runs locally.",
+  "version": "1.0.1",
+  "author": {
+    "name": "camopel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/camopel/arxivkb",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/camopel/arxivkb"
+}

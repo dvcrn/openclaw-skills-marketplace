@@ -1,0 +1,10 @@
+{
+  "name": "aaitor--nevermined-payments",
+  "description": "Integrates Nevermined payment infrastructure into AI agents, MCP servers, Google A2A agents, and REST APIs. Handles x402 protocol, credit billing, payment plans, and SDK integration for TypeScript (@nevermined-io/payments) and Python (payments-py).",
+  "version": "0.1.0",
+  "author": {
+    "name": "aaitor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaitor/nevermined-payments",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaitor/nevermined-payments"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kasparchen--token-burn-monitor",
+  "description": "Real-time token consumption monitoring dashboard for OpenClaw agents. Tracks per-agent token usage, cost breakdown by model, cache hit rates, cron job status, and 30-day historical trends. Use when setting up cost monitoring, checking daily token burn, or reviewing cron job health. User prompts are redacted by default.",
+  "version": "5.3.1",
+  "author": {
+    "name": "kasparchen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kasparchen/token-burn-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kasparchen/token-burn-monitor"
+}

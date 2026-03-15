@@ -1,0 +1,10 @@
+{
+  "name": "fr0gger--moltthreats",
+  "description": "Agent-native security signal feed by PromptIntel. Use this skill whenever the agent needs to report threats, fetch protection feeds, apply security rules, or update SHIELD.md. Trigger on any mention of: threat reporting, security feed, MCP threats, malicious skills, prompt injection reports, IOCs, indicators of compromise, agent security, PromptIntel, MoltThreats, SHIELD.md, or SHIELD.md updates. Also trigger when the agent detects suspicious behavior during normal operation (unexpected tool calls, credential access attempts, unknown MCP servers, exfiltration patterns).",
+  "version": "0.6.3",
+  "author": {
+    "name": "fr0gger"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fr0gger/moltthreats",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fr0gger/moltthreats"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jamesbot-agnt--ahc-automator",
+  "description": "Custom automation workflows for Alan Harper Composites. Automates email → ClickUp → Pipedrive chains, client onboarding, and project completion sequences. Use for AHC-specific workflows, client management automation, and composites manufacturing business processes. Trigger on \"AHC workflow\", \"automate AHC\", \"client onboarding\", \"project completion\", \"email automation AHC\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "jamesbot-agnt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamesbot-agnt/ahc-automator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamesbot-agnt/ahc-automator"
+}

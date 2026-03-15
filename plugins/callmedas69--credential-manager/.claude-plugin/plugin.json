@@ -1,0 +1,10 @@
+{
+  "name": "callmedas69--credential-manager",
+  "description": "MANDATORY security foundation for OpenClaw. Consolidate scattered API keys and credentials into a secure .env file with proper permissions. Use when setting up OpenClaw, migrating credentials, auditing security, or enforcing the .env standard. This is not optional — centralized credential management is a core requirement for secure OpenClaw deployments. Scans for credential files across common locations, backs up existing files, creates a unified .env with mode 600, validates security, and enforces best practices.",
+  "version": "1.3.0",
+  "author": {
+    "name": "callmedas69"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/callmedas69/credential-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/callmedas69/credential-manager"
+}

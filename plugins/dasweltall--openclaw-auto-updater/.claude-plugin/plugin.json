@@ -1,0 +1,10 @@
+{
+  "name": "dasweltall--openclaw-auto-updater",
+  "description": "Schedule automatic OpenClaw and skill updates with reliable cron templates, timezone-safe scheduling, and clear summary outputs. Use for hands-off maintenance, scheduled upgrades, and concise update reports.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dasweltall"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dasweltall/openclaw-auto-updater",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dasweltall/openclaw-auto-updater"
+}

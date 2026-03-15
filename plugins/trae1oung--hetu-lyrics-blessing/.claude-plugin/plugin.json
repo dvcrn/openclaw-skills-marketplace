@@ -1,0 +1,10 @@
+{
+  "name": "trae1oung--hetu-lyrics-blessing",
+  "description": "A daily lyrics blessing skill that sends a random Hetu (河图) song lyric to a designated \n recipient every day at 23:00. Lyrics are fetched from Baidu Baike using agent-browser.\n IMPORTANT: Uses browser automation to fetch exact lyrics from baike.baidu.com\n Use when: (1) Daily medicine reminder (2) Sending warm messages with verified lyrics",
+  "version": "1.0.2",
+  "author": {
+    "name": "trae1oung"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/trae1oung/hetu-lyrics-blessing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/trae1oung/hetu-lyrics-blessing"
+}

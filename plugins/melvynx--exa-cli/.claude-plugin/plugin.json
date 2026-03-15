@@ -1,0 +1,10 @@
+{
+  "name": "melvynx--exa-cli",
+  "description": "Manage Exa AI via CLI - search, contents, answer, context. Use when user mentions 'exa', 'web search', 'find similar pages', 'ai answer', or wants to interact with the Exa API.",
+  "version": "0.1.0",
+  "author": {
+    "name": "melvynx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/melvynx/exa-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/melvynx/exa-cli"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "multicul-silver-wolf--sawana-multicul-official-docs-to-mdx",
+  "description": "Download and normalize official documentation pages into local .mdx files at user-specified paths using markdown.new. Use when user asks to fetch docs from a URL, archive official docs locally, sync docs snapshots, or convert docs pages into clean MDX with frontmatter (title, description, sourceUrl, retrievedAt).",
+  "version": "1.0.0",
+  "author": {
+    "name": "multicul-silver-wolf"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/multicul-silver-wolf/sawana-multicul-official-docs-to-mdx",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/multicul-silver-wolf/sawana-multicul-official-docs-to-mdx"
+}

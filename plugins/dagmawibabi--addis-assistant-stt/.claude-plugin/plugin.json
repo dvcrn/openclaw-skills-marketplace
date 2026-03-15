@@ -1,0 +1,10 @@
+{
+  "name": "dagmawibabi--addis-assistant-stt",
+  "description": "Provides Speech-to-Text (STT) and text Translation using the Addis Assistant API (api.addisassistant.com). Use when the user needs to convert an audio file to text (specifically Amharic), or translate text between languages (e.g., Amharic to English). Requires 'x-api-key'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dagmawibabi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dagmawibabi/addis-assistant-stt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dagmawibabi/addis-assistant-stt"
+}

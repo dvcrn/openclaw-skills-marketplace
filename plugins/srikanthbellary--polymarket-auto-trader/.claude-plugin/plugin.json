@@ -1,0 +1,10 @@
+{
+  "name": "srikanthbellary--polymarket-auto-trader",
+  "description": "Autonomous Polymarket prediction market trading agent. Scans markets, evaluates probabilities with LLM, sizes positions with Kelly criterion, and executes trades via CLOB API. Use when user wants to trade on Polymarket, set up automated prediction market trading, or build a trading bot. Supports cron-based autonomous operation, P&L tracking, and budget management.",
+  "version": "1.0.1",
+  "author": {
+    "name": "srikanthbellary"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/srikanthbellary/polymarket-auto-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/srikanthbellary/polymarket-auto-trader"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "johnnyxu820--bilibili-video-publish",
+  "description": "B站视频发布。使用浏览器自动化在B站创作者平台发布视频。当用户说\"发布视频到B站\"、\"发B站\"、\"投稿B站\"时使用此技能。注意：B站审核转码较慢，建议最后发布。",
+  "version": "1.0.0",
+  "author": {
+    "name": "johnnyxu820"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnnyxu820/bilibili-video-publish",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnnyxu820/bilibili-video-publish"
+}

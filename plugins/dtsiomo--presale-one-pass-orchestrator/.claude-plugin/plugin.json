@@ -1,0 +1,10 @@
+{
+  "name": "dtsiomo--presale-one-pass-orchestrator",
+  "description": "Run or supervise a one-pass Codex implementation with preflight gates, stepwise plan execution, and strict QA defect loop. Use when executing approved presale plans end-to-end in one controlled run.",
+  "version": "0.1.0",
+  "author": {
+    "name": "dtsiomo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dtsiomo/presale-one-pass-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dtsiomo/presale-one-pass-orchestrator"
+}

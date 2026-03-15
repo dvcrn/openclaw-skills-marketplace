@@ -1,0 +1,10 @@
+{
+  "name": "austineral--agent-spawner",
+  "description": "Spawn a new OpenClaw agent through conversation. Uses official Docker setup and non-interactive onboarding, carries over API keys, tools, plugins, and skills from the current agent. User answers 2-3 questions. Use when the user wants to create, spin up, deploy, or provision a new OpenClaw agent.",
+  "version": "0.1.0",
+  "author": {
+    "name": "austineral"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/austineral/agent-spawner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/austineral/agent-spawner"
+}

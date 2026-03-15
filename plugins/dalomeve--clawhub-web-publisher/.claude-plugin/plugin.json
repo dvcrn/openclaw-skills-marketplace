@@ -1,0 +1,10 @@
+{
+  "name": "dalomeve--clawhub-web-publisher",
+  "description": "Publish OpenClaw skills to ClawHub using the web dashboard only (no CLI login). Use when an agent must reliably upload a local skill folder, avoid auth-loop failures, and enforce privacy-safe publishing with verification evidence.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dalomeve"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/clawhub-web-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/clawhub-web-publisher"
+}

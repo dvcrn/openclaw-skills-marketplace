@@ -1,0 +1,10 @@
+{
+  "name": "codehourra--web-scraper-pro",
+  "description": "Intelligent web scraper that fetches any URL and returns clean Markdown content. Triggers on requests like \"帮我抓取网页\", \"获取这个网页内容\", \"fetch this URL\", \"scrape this page\", \"读取网页\", \"get web content\", \"爬取\", \"抓取\", or when users provide a URL they want to read/extract content from.",
+  "version": "1.1.0",
+  "author": {
+    "name": "codehourra"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codehourra/web-scraper-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codehourra/web-scraper-pro"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "semantic-router",
+  "version": "7.9.5",
+  "description": "Intelligent semantic routing system. Four-pool architecture (Highspeed/Intelligence/Humanities/Agentic), trigger_groups_all non-contiguous keyword matching, five-branch routing with embedding-based context awareness.",
+  "main": "semantic_check.py",
+  "author": "halfmoon82",
+  "license": "MIT"
+}

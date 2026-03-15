@@ -1,0 +1,10 @@
+{
+  "name": "babysor--speak1",
+  "description": "Text-to-speech using Kokoro local TTS. Use when the user wants to convert text to audio, read aloud, or generate speech.",
+  "version": "1.0.0",
+  "author": {
+    "name": "babysor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/babysor/speak1",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/babysor/speak1"
+}

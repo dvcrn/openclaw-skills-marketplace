@@ -1,0 +1,10 @@
+{
+  "name": "joncik91--decision-topology",
+  "description": "Records the structure of conversations where ideas evolve, branch, get rejected, pivot, or combine. Saves each structural shift as a node in a local JSON tree the user can browse on demand. Zero network access, zero external dependencies. Covers proposals, rejections, pivots, and merges with cross-tree concept linking.",
+  "version": "1.0.6",
+  "author": {
+    "name": "joncik91"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/joncik91/decision-topology",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joncik91/decision-topology"
+}

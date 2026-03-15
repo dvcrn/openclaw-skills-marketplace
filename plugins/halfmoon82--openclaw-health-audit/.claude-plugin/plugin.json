@@ -1,0 +1,10 @@
+{
+  "name": "halfmoon82--openclaw-health-audit",
+  "description": "OpenClaw 系统健康审计与自动修复 — 监控 prompt 体积、Cron 合规、Session 清理、Token 消耗",
+  "version": "1.4.0",
+  "author": {
+    "name": "halfmoon82"
+  },
+  "homepage": "https://clawhub.ai/halfmoon82/openclaw-health-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/halfmoon82/openclaw-health-audit"
+}

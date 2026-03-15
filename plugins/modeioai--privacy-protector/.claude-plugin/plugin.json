@@ -1,0 +1,10 @@
+{
+  "name": "modeioai--privacy-protector",
+  "description": "Runs PII anonymization, local de-anonymization, and deterministic local detector checks for text and supported files. Use for redact/restore flows, file-first anonymization, or offline detector tuning with allowlist, blocklist, and threshold controls.",
+  "version": "0.1.0",
+  "author": {
+    "name": "modeioai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/modeioai/privacy-protector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/modeioai/privacy-protector"
+}

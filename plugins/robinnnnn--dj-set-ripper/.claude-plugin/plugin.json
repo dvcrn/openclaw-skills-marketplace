@@ -1,0 +1,10 @@
+{
+  "name": "robinnnnn--dj-set-ripper",
+  "description": "Download individual songs from a DJ set or mix. Given a link from YouTube, SoundCloud, Mixcloud, or 1001Tracklists, extract the tracklist from the page description or metadata, then look up and download each track individually using the dj-mp3-sourcer skill. Use when a user shares a DJ set/mix link and wants the individual tracks downloaded, or when they paste a tracklist and want all tracks sourced. Generates a timestamped log file showing the status of every track (downloaded, purchase link, not found, bootleg/unavailable, unidentified). Also optionally downloads the full mix as a backup.",
+  "version": "1.0.1",
+  "author": {
+    "name": "robinnnnn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/robinnnnn/dj-set-ripper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robinnnnn/dj-set-ripper"
+}

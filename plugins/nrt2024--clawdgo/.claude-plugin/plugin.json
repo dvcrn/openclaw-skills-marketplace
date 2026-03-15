@@ -1,0 +1,10 @@
+{
+  "name": "nrt2024--clawdgo",
+  "description": "Run ClawdGo, a phishing and social-engineering cyber range for Claw-style agents. Use this skill when the user explicitly asks to start ClawdGo, continue a ClawdGo scene, inspect training status, or play a phishing scenario with scene selection, investigation cards, chained follow-up pressure, and post-answer scoring.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nrt2024"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nrt2024/clawdgo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nrt2024/clawdgo"
+}

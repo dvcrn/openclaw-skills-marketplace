@@ -1,0 +1,10 @@
+{
+  "name": "lumenclaw-cloud--filtrix-image-gen-v2",
+  "description": "Generate images using AI providers (OpenAI gpt-image-1, Google Gemini, fal.ai). Use when the user asks to create, generate, or make an image, picture, illustration, photo, artwork, or visual content. Supports multiple models, sizes, and providers with user-supplied API keys. Prompt inspiration available at filtrix.ai/prompts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lumenclaw-cloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lumenclaw-cloud/filtrix-image-gen-v2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lumenclaw-cloud/filtrix-image-gen-v2"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kevdogg102396-afk--spec-first-dev",
+  "description": "Spec-driven development workflow. Before writing any code, generates a comprehensive SPEC.md covering data models, user flows, API contracts, file structure, and edge cases. Forces the right order — spec first, code second. Prevents building the wrong thing. Use at the start of any non-trivial build task.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kevdogg102396-afk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kevdogg102396-afk/spec-first-dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kevdogg102396-afk/spec-first-dev"
+}

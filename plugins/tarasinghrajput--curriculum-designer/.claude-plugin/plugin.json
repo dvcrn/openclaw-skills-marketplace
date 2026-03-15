@@ -1,0 +1,10 @@
+{
+  "name": "tarasinghrajput--curriculum-designer",
+  "description": "Design customized curricula for PODs with REAL resource links. Staged implementation with checkpointing and fallback logic. Use when user says 'Design curriculum', 'Create curriculum for POD', or 'Build learning plan'.",
+  "version": "1.0.1",
+  "author": {
+    "name": "tarasinghrajput"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tarasinghrajput/curriculum-designer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tarasinghrajput/curriculum-designer"
+}

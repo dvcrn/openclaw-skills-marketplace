@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--beehiiv",
+  "description": "beehiiv API integration with managed OAuth. Manage newsletter publications, subscriptions, posts, custom fields, segments, and automations.\n Use this skill when users want to manage newsletter subscribers, create posts, organize segments, or integrate with beehiiv publications.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/beehiiv",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/beehiiv"
+}

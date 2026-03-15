@@ -1,0 +1,10 @@
+{
+  "name": "doraemon-claw--pua-debugging-pro",
+  "description": "Professional anti-giveup debugging protocol for coding tasks where the agent starts looping, deflecting to users, or trying to end early without evidence. Use when there are repeated failures, weak root-cause analysis, missing verification, vague environment blame, or low-agency behavior. Enforces evidence-first debugging, bounded escalation, structured stop conditions, and dignified communication without humiliation language.",
+  "version": "1.0.0",
+  "author": {
+    "name": "doraemon-claw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/doraemon-claw/pua-debugging-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/doraemon-claw/pua-debugging-pro"
+}

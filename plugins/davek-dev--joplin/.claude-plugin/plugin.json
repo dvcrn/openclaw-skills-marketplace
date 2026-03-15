@@ -1,0 +1,10 @@
+{
+  "name": "davek-dev--joplin",
+  "description": "Interact with Joplin notes via CLI. Use for reading, creating, editing notes and managing todos. Supports WebDAV sync and kanban-formatted notes.",
+  "version": "1.3.2",
+  "author": {
+    "name": "davek-dev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/davek-dev/joplin",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davek-dev/joplin"
+}

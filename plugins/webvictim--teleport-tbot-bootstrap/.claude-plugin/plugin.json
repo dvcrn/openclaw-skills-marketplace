@@ -1,0 +1,10 @@
+{
+  "name": "webvictim--teleport-tbot-bootstrap",
+  "description": "Bootstrap a persistent Teleport Machine ID (tbot) setup on macOS using LaunchAgent and tbot configure identity. Trigger when asked to set up, automate, or validate local Teleport bot identity refresh, including proxy/token/join-method inputs, LaunchAgent persistence, and first-run verification with tsh. Complements the teleport-tsh-ssh skill for day-to-day SSH/command/scp usage with the refreshed identity.",
+  "version": "1.0.0",
+  "author": {
+    "name": "webvictim"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/webvictim/teleport-tbot-bootstrap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/webvictim/teleport-tbot-bootstrap"
+}

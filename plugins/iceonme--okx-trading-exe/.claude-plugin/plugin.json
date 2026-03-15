@@ -1,0 +1,10 @@
+{
+  "name": "iceonme--okx-trading-exe",
+  "description": "A standardized adapter gateway skill exclusively for OKX exchange to execute trading actions (buy/sell) and query capabilities across OKX Live and Demo environments.",
+  "version": "0.1.1",
+  "author": {
+    "name": "iceonme"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iceonme/okx-trading-exe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iceonme/okx-trading-exe"
+}

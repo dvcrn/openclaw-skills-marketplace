@@ -1,0 +1,10 @@
+{
+  "name": "0range-x--session-rotate-80",
+  "description": "Auto-create a new session when OpenClaw context usage reaches 80% without requiring Mem0 or file memory systems. Use when users want default OpenClaw to proactively rotate sessions and avoid context overflow in long chats.",
+  "version": "1.0.1",
+  "author": {
+    "name": "0range-x"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0range-x/session-rotate-80",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0range-x/session-rotate-80"
+}

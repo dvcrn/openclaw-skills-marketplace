@@ -1,0 +1,10 @@
+{
+  "name": "thesethrose--servicenow-agent",
+  "description": "Read-only CLI access to ServiceNow Table, Attachment, Aggregate, and Service Catalog APIs; includes schema inspection and history retrieval (read-only).",
+  "version": "0.1.1",
+  "author": {
+    "name": "thesethrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thesethrose/servicenow-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thesethrose/servicenow-agent"
+}

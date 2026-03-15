@@ -1,0 +1,10 @@
+{
+  "name": "ccormier--voipms-sms",
+  "description": "OpenClaw skill for sending and retrieving SMS messages via the VoIP.ms API (no Bitwarden dependency).",
+  "version": "1.0.1",
+  "author": {
+    "name": "ccormier"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ccormier/voipms-sms",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ccormier/voipms-sms"
+}

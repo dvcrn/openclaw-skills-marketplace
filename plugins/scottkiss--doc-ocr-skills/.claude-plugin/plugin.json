@@ -1,0 +1,10 @@
+{
+  "name": "scottkiss--doc-ocr-skills",
+  "description": "OCR documents (PDFs and images) using Gemini 2.5 Flash, PaddleOCR (local), or RapidOCR (local).",
+  "version": "0.1.0",
+  "author": {
+    "name": "scottkiss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/scottkiss/doc-ocr-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scottkiss/doc-ocr-skills"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jolestar--uxc",
+  "description": "Discover and call remote schema-exposed interfaces with UXC. Use when an agent or skill needs to list operations, inspect operation schemas, and execute OpenAPI, GraphQL, gRPC, MCP, or JSON-RPC calls via one CLI contract.",
+  "version": "1.0.4",
+  "author": {
+    "name": "jolestar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jolestar/uxc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jolestar/uxc"
+}

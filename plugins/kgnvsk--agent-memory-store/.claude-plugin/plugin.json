@@ -1,0 +1,10 @@
+{
+  "name": "kgnvsk--agent-memory-store",
+  "description": "Shared semantic memory store for AI agents. Store, search, and retrieve memories across agents with TTL decay. SQLite persistence — survives restarts.",
+  "version": "1.2.0",
+  "author": {
+    "name": "kgnvsk"
+  },
+  "homepage": "https://kgnvsk.github.io/paylock",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kgnvsk/agent-memory-store"
+}

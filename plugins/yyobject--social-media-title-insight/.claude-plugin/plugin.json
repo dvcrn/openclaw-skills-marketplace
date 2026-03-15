@@ -1,0 +1,10 @@
+{
+  "name": "yyobject--social-media-title-insight",
+  "description": "Analyze social media post titles to discover what makes content perform well. Use when user uploads data (Excel, CSV, JSON, text) with titles and engagement metrics, or when user wants to analyze a social media account's content performance without uploading files. Triggers include \"分析标题\", \"内容洞察\", \"社媒分析\", \"标题优化\", \"content insight\", \"title analysis\", \"哪些标题表现好\", \"为什么这些内容火\", \"分析账号\", \"分析内容表现\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "yyobject"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yyobject/social-media-title-insight",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yyobject/social-media-title-insight"
+}

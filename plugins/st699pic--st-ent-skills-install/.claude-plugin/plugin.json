@@ -1,0 +1,10 @@
+{
+  "name": "st699pic--st-ent-skills-install",
+  "description": "Install, wire, and verify the 699pic enterprise MCP server from the GitHub repository https://github.com/st699pic/st-ent-mcp . Use when the user asks to 安装 st-ent-mcp、接入 699pic MCP、配置 OpenClaw/Claude/Codex 的 MCP、克隆并注册这个仓库，或 when a local MCP install workflow is needed for the 699pic enterprise OpenAPI server.",
+  "version": "0.1.1",
+  "author": {
+    "name": "st699pic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/st699pic/st-ent-skills-install",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/st699pic/st-ent-skills-install"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "philmossman--obsidian-curator",
+  "description": "Manage Obsidian vaults via LiveSync CouchDB — capture notes, AI-enrich and file them, manage tasks, audit and tidy vault structure. Use when working with Obsidian vaults through CouchDB/LiveSync (not local filesystem). Requires CouchDB with Obsidian LiveSync plugin. AI features (process, file) need an AI provider configured; capture, audit, tidy, and tasks work rule-based without any API key.",
+  "version": "0.1.1",
+  "author": {
+    "name": "philmossman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/philmossman/obsidian-curator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/philmossman/obsidian-curator"
+}

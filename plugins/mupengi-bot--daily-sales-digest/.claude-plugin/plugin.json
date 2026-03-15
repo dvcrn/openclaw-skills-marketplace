@@ -1,0 +1,10 @@
+{
+  "name": "mupengi-bot--daily-sales-digest",
+  "description": "고객사용 일일 매출 요약 스킬. 네이버 스마트스토어, 쿠팡, 배민셀러, POS 연동하여 매출 데이터를 수집하고, 일일/주간/월간 요약 리포트를 자동 생성. Discord/카톡/이메일로 배달.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mupengi-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/daily-sales-digest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/daily-sales-digest"
+}

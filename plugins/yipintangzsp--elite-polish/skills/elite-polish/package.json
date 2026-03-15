@@ -1,0 +1,9 @@
+{
+  "name": "elite-polish",
+  "version": "1.0.0",
+  "description": "名校大厂文书润色 - 哈佛/斯坦福招生官或麦肯锡高级合伙人级别，用 STAR 法则和 Action Verbs 重塑你的经历",
+  "main": "index.js",
+  "bin": { "elite-polish": "./index.js" },
+  "dependencies": { "node-fetch": "^2.7.0" },
+  "keywords": ["文书润色", "留学申请", "求职简历", "PS", "CV"]
+}

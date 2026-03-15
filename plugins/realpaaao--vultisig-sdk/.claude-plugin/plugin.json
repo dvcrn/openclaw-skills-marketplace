@@ -1,0 +1,10 @@
+{
+  "name": "realpaaao--vultisig-sdk",
+  "description": "Use this skill when an agent needs to create crypto wallets, send transactions, swap tokens, check balances, or perform any on-chain operation across 36+ blockchains using threshold signatures (TSS). Vultisig SDK provides self-custodial MPC vaults — no seed phrases, no single point of failure. Fast Vaults (2-of-2 with VultiServer) enable fully autonomous agent operations without human approval.",
+  "version": "0.1.0",
+  "author": {
+    "name": "realpaaao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/realpaaao/vultisig-sdk",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/realpaaao/vultisig-sdk"
+}

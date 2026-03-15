@@ -1,0 +1,10 @@
+{
+  "name": "maciekish--nordvpn",
+  "description": "Control NordVPN on Linux via the `nordvpn` CLI (connect/disconnect, choose country/city/group, read status, tweak settings, manage allowlist). Use for automation that needs region routing or temporary VPN tunneling.",
+  "version": "1.0.2",
+  "author": {
+    "name": "maciekish"
+  },
+  "homepage": "https://nordvpn.com/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maciekish/nordvpn"
+}

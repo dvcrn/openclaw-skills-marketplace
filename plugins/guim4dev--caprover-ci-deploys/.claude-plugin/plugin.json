@@ -1,0 +1,10 @@
+{
+  "name": "guim4dev--caprover-ci-deploys",
+  "description": "Deploy apps to CapRover and set up GitHub Actions CI/CD workflows for new or existing projects. Use when the user says things like \"deploy X\", \"trigger a deploy of X\", \"deploy branch Y to Z\", \"set up CI/CD for this project\", \"configure CapRover deploy workflow\", \"add deploy workflow to my repo\", or asks about deployment status. Supports GitHub workflow triggers, CapRover webhook triggers, and direct CLI deploys. Also helps scaffold .github/workflows/deploy.yml, captain-definition, and GitHub secrets for any new project.",
+  "version": "1.0.0",
+  "author": {
+    "name": "guim4dev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guim4dev/caprover-ci-deploys",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guim4dev/caprover-ci-deploys"
+}

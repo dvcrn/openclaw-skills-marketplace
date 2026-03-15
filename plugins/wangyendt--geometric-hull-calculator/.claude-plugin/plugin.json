@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--geometric-hull-calculator",
+  "description": "Geometric hull calculator for 2D point sets supporting convex hull, concave hull (concave-hull, alphashape), and minimum bounding rectangle. Use when working with pywayne.cv.geometric_hull_calculator module to compute geometric hulls, visualize results with OpenCV or matplotlib, and generate random test point sets.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/geometric-hull-calculator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/geometric-hull-calculator"
+}

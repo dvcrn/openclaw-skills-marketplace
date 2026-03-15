@@ -1,0 +1,10 @@
+{
+  "name": "re-bruce-wayne--trade-router",
+  "description": "Solana swap execution, MEV-protected transaction submission, wallet scanning, and market-cap-based limit/trailing orders via the TradeRouter API. Use when the user wants to: swap SPL tokens on Solana (buy or sell), check wallet token holdings, submit signed transactions through an MEV-protected priority lane, place limit orders (buy/sell at a target market cap), set trailing stop orders (trailing_sell/trailing_buy), place combo orders (limit+TWAP, trailing+TWAP, limit+trailing, limit+trailing+TWAP), manage existing orders (check, list, cancel, extend), or implement DCA strategies. No API key required — wallet address is the only identity. Supports REST endpoints POST /swap, POST /holdings, POST /protect, and WebSocket wss://api.traderouter.ai/ws for limit orders.",
+  "version": "1.3.0",
+  "author": {
+    "name": "re-bruce-wayne"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/re-bruce-wayne/trade-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/re-bruce-wayne/trade-router"
+}

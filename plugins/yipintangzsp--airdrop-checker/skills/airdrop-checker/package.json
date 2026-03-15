@@ -1,0 +1,1 @@
+{"name":"airdrop-checker","version":"1.0.0","description":"空投资格检测器 - 一键检查钱包符合哪些空投资格，预估空投价值","main":"index.js","bin":{"airdrop-checker":"./index.js"},"dependencies":{"node-fetch":"^2.7.0"}}

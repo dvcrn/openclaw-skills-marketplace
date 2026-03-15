@@ -1,0 +1,10 @@
+{
+  "name": "ksswei--qq-mail-monitor",
+  "description": "QQ 邮箱自动监控技能，支持定时检查新邮件、TTS 语音播报提醒、邮件收发功能。适用于邮件通知、验证码提取、自动回复等场景。",
+  "version": "1.0.0",
+  "author": {
+    "name": "ksswei"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ksswei/qq-mail-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ksswei/qq-mail-monitor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "plgonzalezrx8--openrouter-analytics",
+  "description": "Review OpenRouter usage, analytics, and troubleshooting data via API. Use when the user asks for spend/usage monitoring, activity trends, per-key management reporting, or deep investigation of specific request IDs (latency, provider fallback, finish reason, token/cost breakdown).",
+  "version": "1.0.0",
+  "author": {
+    "name": "plgonzalezrx8"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/plgonzalezrx8/openrouter-analytics",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/plgonzalezrx8/openrouter-analytics"
+}

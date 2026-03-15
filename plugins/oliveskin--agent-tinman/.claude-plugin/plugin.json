@@ -1,0 +1,10 @@
+{
+  "name": "oliveskin--agent-tinman",
+  "description": "AI security scanner with active prevention - 168 detection patterns, 288 attack probes, safer/risky/yolo modes, agent self-protection via /tinman check, local Oilcan event streaming, and plain-language dashboard setup via /tinman oilcan",
+  "version": "0.6.4",
+  "author": {
+    "name": "oliveskin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oliveskin/agent-tinman",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oliveskin/agent-tinman"
+}

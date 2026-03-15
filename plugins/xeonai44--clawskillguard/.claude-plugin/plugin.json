@@ -1,0 +1,10 @@
+{
+  "name": "xeonai44--clawskillguard",
+  "description": "Security scanner for OpenClaw skills. Scans SKILL.md files and scripts for prompt injection, data exfiltration, malicious patterns, and unauthorized network calls. Use when a user asks to audit a skill, check skill security, scan for malicious code, verify skill safety, or before installing an untrusted skill.",
+  "version": "1.0.2",
+  "author": {
+    "name": "xeonai44"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xeonai44/clawskillguard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xeonai44/clawskillguard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "aranej--clawd-docs-v2",
+  "description": "Smart ClawdBot documentation access with local search index, cached snippets, and on-demand fetch. Token-efficient and freshness-aware.",
+  "version": "2.2.0",
+  "author": {
+    "name": "aranej"
+  },
+  "homepage": "https://docs.clawd.bot/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aranej/clawd-docs-v2"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "iamngoni--inkdrop",
+  "description": "Read, create, update, search, and delete notes in Inkdrop via its local HTTP server API. Use when the user asks to take notes, save ideas, manage project notes, read notes, search notes, or interact with Inkdrop in any way. Also use when organizing thoughts, project backlogs, or task lists that should persist in Inkdrop.",
+  "version": "1.0.1",
+  "author": {
+    "name": "iamngoni"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iamngoni/inkdrop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iamngoni/inkdrop"
+}

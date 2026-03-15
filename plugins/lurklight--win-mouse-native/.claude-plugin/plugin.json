@@ -1,0 +1,10 @@
+{
+  "name": "lurklight--win-mouse-native",
+  "description": "Native Windows mouse control (move, click, drag) via user32.dll. Use when the user asks you to move the mouse, click, drag, or automate pointer actions on Windows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lurklight"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lurklight/win-mouse-native",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lurklight/win-mouse-native"
+}

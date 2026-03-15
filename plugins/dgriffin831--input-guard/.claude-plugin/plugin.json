@@ -1,0 +1,10 @@
+{
+  "name": "dgriffin831--input-guard",
+  "description": "Scan untrusted external text (web pages, tweets, search results, API responses) for prompt injection attacks. Returns severity levels and alerts on dangerous content. Use BEFORE processing any text from untrusted sources.",
+  "version": "1.0.1",
+  "author": {
+    "name": "dgriffin831"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dgriffin831/input-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dgriffin831/input-guard"
+}

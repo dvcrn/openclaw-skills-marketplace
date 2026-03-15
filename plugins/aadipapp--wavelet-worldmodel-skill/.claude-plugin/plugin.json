@@ -1,0 +1,10 @@
+{
+  "name": "aadipapp--wavelet-worldmodel-skill",
+  "description": "Generates a world model representation from state inputs using discrete wavelet transforms (DWT) to capture multi-resolution temporal and spatial features.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aadipapp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aadipapp/wavelet-worldmodel-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aadipapp/wavelet-worldmodel-skill"
+}

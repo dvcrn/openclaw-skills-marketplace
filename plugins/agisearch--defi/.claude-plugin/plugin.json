@@ -1,0 +1,10 @@
+{
+  "name": "agisearch--defi",
+  "description": "A protocol risk analyst and yield reality checker for decentralized finance. Evaluates protocol safety before deposit. Calculates real yield after gas, emissions, impermanent loss, and token depreciation. Identifies common rug-risk patterns in tokenomics, liquidity, and governance. Advisory only—no wallet access, no private key handling, no transaction signing, no on-chain execution.",
+  "version": "2.0.0",
+  "author": {
+    "name": "agisearch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agisearch/defi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agisearch/defi"
+}

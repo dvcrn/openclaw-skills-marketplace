@@ -1,0 +1,10 @@
+{
+  "name": "clawbot-ved--neondb-skill",
+  "description": "Manage Neon serverless Postgres databases. Create projects, branches, databases, and execute queries. Perfect for agent workflows needing persistent storage with branching (like git for databases), scale-to-zero, and instant provisioning.",
+  "version": "1.0.0",
+  "author": {
+    "name": "clawbot-ved"
+  },
+  "homepage": "https://neon.tech",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clawbot-ved/neondb-skill"
+}

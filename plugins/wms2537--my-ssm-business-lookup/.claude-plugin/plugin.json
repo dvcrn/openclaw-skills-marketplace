@@ -1,0 +1,10 @@
+{
+  "name": "wms2537--my-ssm-business-lookup",
+  "description": "Look up Malaysian company registration data from SSM. Returns directors, status, filings, business type.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wms2537"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wms2537/my-ssm-business-lookup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wms2537/my-ssm-business-lookup"
+}

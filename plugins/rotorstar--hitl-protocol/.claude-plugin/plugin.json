@@ -1,0 +1,10 @@
+{
+  "name": "rotorstar--hitl-protocol",
+  "description": "HITL Protocol — the open standard for human decisions in autonomous agent workflows. When a website or API needs human input, it returns HTTP 202 with a review URL. Autonomous agents like OpenClaw, Claude, Codex, or Goose forward the URL, poll for the structured result, and continue. Use this skill to make any website agent-ready, or to handle human-in-the-loop responses in your agent. Covers approval, selection, input forms, confirmation, and escalation review types. Supports polling, SSE, webhook transports, channel-native inline buttons (Telegram, Slack, Discord, WhatsApp, Teams), opaque token security, multi-step form wizards, and multi-round edit cycles.",
+  "version": "0.7.2",
+  "author": {
+    "name": "rotorstar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rotorstar/hitl-protocol",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rotorstar/hitl-protocol"
+}

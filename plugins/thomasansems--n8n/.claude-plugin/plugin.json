@@ -1,0 +1,10 @@
+{
+  "name": "thomasansems--n8n",
+  "description": "Manage n8n workflows and automations via API. Use when working with n8n workflows, executions, or automation tasks - listing workflows, activating/deactivating, checking execution status, manually triggering workflows, or debugging automation issues.",
+  "version": "2.0.0",
+  "author": {
+    "name": "thomasansems"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thomasansems/n8n",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thomasansems/n8n"
+}

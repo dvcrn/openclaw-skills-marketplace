@@ -1,0 +1,10 @@
+{
+  "name": "devdha--slack-thread-export",
+  "description": "Export Slack thread messages from a logged-in Slack web tab into CSV using an attached Chrome Browser Relay tab. Use when the user wants to collect Slack conversations by person, channel, or time range; exclude DMs/comments; archive thread activity; or turn Slack search results into reusable CSV/JSONL datasets. Especially useful for requests like \"export this user's work-related thread messages\", \"collect Slack thread history into CSV\", or \"crawl Slack from my logged-in browser session\".",
+  "version": "0.2.0",
+  "author": {
+    "name": "devdha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/devdha/slack-thread-export",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/devdha/slack-thread-export"
+}

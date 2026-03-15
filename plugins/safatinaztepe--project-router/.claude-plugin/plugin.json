@@ -1,0 +1,10 @@
+{
+  "name": "safatinaztepe--project-router",
+  "description": "Terminal-first project bootstrapper and workspace context manager. Use when the user asks for /project-style workflows: detect current project, read project context/brief, run standardized targets (build/test/lint/deploy), init a .project bundle via plan/apply, manage artifacts, or expose these actions via MCP server mcp-project-router and CLI project.",
+  "version": "1.0.0",
+  "author": {
+    "name": "safatinaztepe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/safatinaztepe/project-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/safatinaztepe/project-router"
+}

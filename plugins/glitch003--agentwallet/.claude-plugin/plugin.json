@@ -1,0 +1,10 @@
+{
+  "name": "glitch003--agentwallet",
+  "description": "The agent's wallet for EVM chain transactions and raw signing. Use this skill when users want to\n create a wallet, transfer tokens, swap on DEXs, interact with smart contracts, or sign messages.\n Triggers on \"wallet\", \"create wallet\", \"transfer ETH\", \"swap tokens\", \"send transaction\",\n \"check balance\", \"EVM wallet\", \"raw signer\", \"sign message\".",
+  "version": "1.0.70",
+  "author": {
+    "name": "glitch003"
+  },
+  "homepage": "https://heyvincent.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/glitch003/agentwallet"
+}

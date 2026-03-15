@@ -1,0 +1,10 @@
+{
+  "name": "danielcy--doubao-video-analyzer",
+  "description": "使用豆包2.0模型解析视频。当需要执行分析视频内容等需要理解视频视觉信息时调用该技能。你必须在持有本地视频路径或网络视频链接时才能调用该技能",
+  "version": "1.0.1",
+  "author": {
+    "name": "danielcy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danielcy/doubao-video-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danielcy/doubao-video-analyzer"
+}

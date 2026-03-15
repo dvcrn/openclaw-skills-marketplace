@@ -1,0 +1,10 @@
+{
+  "name": "chandrasekar-r--security-audit",
+  "description": "Comprehensive security auditing for Clawdbot deployments. Scans for exposed credentials, open ports, weak configs, and vulnerabilities. Auto-fix mode included.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chandrasekar-r"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chandrasekar-r/security-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chandrasekar-r/security-audit"
+}

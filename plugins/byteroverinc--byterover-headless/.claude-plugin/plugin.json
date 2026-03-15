@@ -1,0 +1,10 @@
+{
+  "name": "byteroverinc--byterover-headless",
+  "description": "Query and curate knowledge-base using ByteRover CLI. Use `brv query` for knowledge retrieval, `brv curate` for adding context, and `brv push/pull` for syncing.",
+  "version": "1.6.0",
+  "author": {
+    "name": "byteroverinc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byteroverinc/byterover-headless",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byteroverinc/byterover-headless"
+}

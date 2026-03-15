@@ -1,0 +1,10 @@
+{
+  "name": "tylerbittner--spaced-repetition-teaching",
+  "description": "Adaptive spaced repetition engine using the FSRS-6 algorithm (Free Spaced Repetition Scheduler, Ye et al. 2024). Manages flashcard reviews with scientifically optimal intervals based on memory research. Triggers on: study sessions, flashcard reviews, \"what's due today\", \"review cards\", spaced repetition scheduling, and study session management. Developed through the Formation Fellowship technical interview prep program.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tylerbittner"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tylerbittner/spaced-repetition-teaching",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tylerbittner/spaced-repetition-teaching"
+}

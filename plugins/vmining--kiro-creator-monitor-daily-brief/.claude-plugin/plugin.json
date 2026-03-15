@@ -1,0 +1,10 @@
+{
+  "name": "vmining--kiro-creator-monitor-daily-brief",
+  "description": "Monitor creator topics across X, RSS, GitHub, and Reddit; deduplicate and score results; produce a daily top-5 brief plus one publish-ready X/LinkedIn draft; optional scheduled delivery to Telegram, Slack, or email.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vmining"
+  },
+  "homepage": "https://kiroai.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vmining/kiro-creator-monitor-daily-brief"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "p697--clawket",
+  "description": "Generate QR codes for Clawket mobile app to pair with the local OpenClaw Gateway. Use when user mentions: Clawket pairing, login Clawket, QR code, mobile app connection, connect phone to Gateway, or scan to login.",
+  "version": "1.0.1",
+  "author": {
+    "name": "p697"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/p697/clawket",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/p697/clawket"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "leonaaardob--lb-pocket-tts-skill",
+  "description": "Generate speech from text using Kyutai Pocket TTS - lightweight, CPU-friendly, streaming TTS with voice cloning. English only. ~6x real-time on M4 MacBook Air.",
+  "version": "0.1.0",
+  "author": {
+    "name": "leonaaardob"
+  },
+  "homepage": "https://kyutai.org/blog/2026-01-13-pocket-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leonaaardob/lb-pocket-tts-skill"
+}

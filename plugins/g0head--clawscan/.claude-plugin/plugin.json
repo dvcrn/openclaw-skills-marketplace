@@ -1,0 +1,10 @@
+{
+  "name": "g0head--clawscan",
+  "description": "Security scanner for ClawHub skills. Vet third-party skills before installation — detect dangerous patterns, suspicious code, and risky dependencies.",
+  "version": "2.0.0",
+  "author": {
+    "name": "g0head"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/g0head/clawscan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/g0head/clawscan"
+}

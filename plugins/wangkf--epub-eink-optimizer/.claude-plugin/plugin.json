@@ -1,0 +1,10 @@
+{
+  "name": "wangkf--epub-eink-optimizer",
+  "description": "This skill should be used when the user wants to optimize an epub file for e-ink readers (墨水屏电子书). It handles image deduplication, removal of tiny decorative images, resizing oversized images, and JPEG recompression — all targeting reduced file size while preserving readability on e-ink devices. Trigger phrases include: epub优化、墨水屏、电子书瘦身、epub压缩、 epub图片处理、epub减小体积、epub图片优化、epub图片去重、清理epub图片、缩小epub、 optimize epub, epub for kindle/kobo/boox.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wangkf"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangkf/epub-eink-optimizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangkf/epub-eink-optimizer"
+}

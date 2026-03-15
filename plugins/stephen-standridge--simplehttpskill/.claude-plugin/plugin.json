@@ -1,0 +1,10 @@
+{
+  "name": "stephen-standridge--simplehttpskill",
+  "description": "Make HTTP requests (GET, POST, PUT, PATCH, DELETE, HEAD, OPTIONS) with custom headers, automatic retries, and graceful error handling. Use when the user needs to call an API, fetch a URL, send webhooks, or make any HTTP request without external dependencies.",
+  "version": "0.1.0",
+  "author": {
+    "name": "stephen-standridge"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stephen-standridge/simplehttpskill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stephen-standridge/simplehttpskill"
+}

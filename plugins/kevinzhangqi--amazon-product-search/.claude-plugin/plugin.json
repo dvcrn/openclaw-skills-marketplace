@@ -1,0 +1,10 @@
+{
+  "name": "kevinzhangqi--amazon-product-search",
+  "description": "Amazon product research and seller intelligence via APIClaw. Use this skill to find profitable product opportunities, validate markets, analyze categories, compare competitors, review ASINs, spot low-competition niches, estimate demand, and recommend pricing and positioning for Amazon sellers. Triggers on requests like \"Amazon product research\", \"find products\", \"analyze competitors\", \"analyze this ASIN\", \"pricing strategy\", \"market validation\", and \"is this niche worth entering\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "kevinzhangqi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kevinzhangqi/amazon-product-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kevinzhangqi/amazon-product-search"
+}

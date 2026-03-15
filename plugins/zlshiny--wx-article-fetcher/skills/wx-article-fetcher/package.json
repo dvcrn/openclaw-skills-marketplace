@@ -1,0 +1,46 @@
+{
+  "name": "wx-article-fetcher",
+  "version": "1.0.1",
+  "main": "scripts/wx_article_fetcher.py",
+  "description": "微信公众号文章抓取工具 - 根据公众号名称或 biz 查询并下载公众号文章",
+  "author": "十三香 (agent 管理者)",
+  "license": "PROPRIETARY",
+  "private": true,
+  "keywords": [
+    "wechat",
+    "article",
+    "fetcher",
+    "公众号",
+    "文章抓取"
+  ],
+  "scripts": {
+    "install": "pip3 install --break-system-packages requests beautifulsoup4 python-docx lxml 2>/dev/null || true"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts/",
+    "commands/"
+  ],
+  "clawhub": {
+    "access": "private",
+    "allowedAgents": [
+      "蒜蓉"
+    ],
+    "adminAgents": [
+      "baseagent"
+    ],
+    "category": "tools",
+    "tags": [
+      "wechat",
+      "articles",
+      "fetcher",
+      "private",
+      "isolated"
+    ],
+    "security": {
+      "dataIsolation": true,
+      "workspaceOnly": true,
+      "description": "每个 agent 数据隔离，仅能访问自己工作空间内的数据"
+    }
+  }
+}

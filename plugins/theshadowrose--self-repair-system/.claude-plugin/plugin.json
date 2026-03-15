@@ -1,0 +1,10 @@
+{
+  "name": "theshadowrose--self-repair-system",
+  "description": "Automated self-diagnostics: restarts crashed Ollama, repairs broken configs, verifies workspace integrity, recovers from common failures.",
+  "version": "1.3.0",
+  "author": {
+    "name": "theshadowrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/self-repair-system",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/self-repair-system"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "maxiiwang--cogmate-client",
+  "description": "Access Cogmate personal knowledge systems via API. Use when querying someone's Cogmate/模拟世界 for knowledge retrieval, semantic search, or Q&A. Requires valid access token from CogNexus (https://github.com/MaxiiWang/CogNexus). Triggers on: \"ask Cogmate\", \"query knowledge base\", \"search Cogmate\", \"access 模拟世界\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "maxiiwang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maxiiwang/cogmate-client",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maxiiwang/cogmate-client"
+}

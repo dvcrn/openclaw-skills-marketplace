@@ -1,0 +1,10 @@
+{
+  "name": "raphaelxiao--lbs-market-analyzer",
+  "description": "Comprehensive geo-spatial market intelligence and site selection evaluation using AMAP (Gaode) LBS API. Use when the user needs: (1) Competitor distribution and market pressure analysis, (2) Site selection evaluation based on 'heat logic' (synergy with office buildings, residential areas, and transit nodes), (3) 'Golden Path' flow analysis, (4) Identification of market gaps or 'blue ocean' areas. Includes automated AMAP API Key provisioning.",
+  "version": "1.0.0",
+  "author": {
+    "name": "raphaelxiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/raphaelxiao/lbs-market-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/raphaelxiao/lbs-market-analyzer"
+}

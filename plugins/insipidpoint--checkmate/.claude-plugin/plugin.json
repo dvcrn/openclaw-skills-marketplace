@@ -1,0 +1,10 @@
+{
+  "name": "insipidpoint--checkmate",
+  "description": "Enforces task completion: turns your goal into pass/fail criteria, runs a worker, judges the output, feeds back what's missing, and loops until every criterion passes. Nothing ships until it's truly done. Trigger: 'checkmate: TASK'",
+  "version": "2.0.4",
+  "author": {
+    "name": "insipidpoint"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/insipidpoint/checkmate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/insipidpoint/checkmate"
+}

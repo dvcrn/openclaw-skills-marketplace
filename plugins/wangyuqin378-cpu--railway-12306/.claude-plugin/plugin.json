@@ -1,0 +1,10 @@
+{
+  "name": "wangyuqin378-cpu--railway-12306",
+  "description": "中国铁路12306火车票查询助手。支持余票查询、智能推荐车次、价格对比、时刻表查询。\n 核心能力：\n - 实时余票查询（支持高铁/动车/普速）\n - 智能推荐车次（最快/最便宜/直达/中转）\n - 多日期价格对比\n - 车站代码自动转换\n - 农历节假日智能提醒\n 触发场景：当用户询问\"火车票\"、\"高铁\"、\"动车\"、\"12306\"、\"余票\"、\"车次\"或需要查询铁路出行信息时激活。\n 输出物：车次列表 + 余票信息 + 价格对比 + 出行建议。",
+  "version": "1.0.0",
+  "author": {
+    "name": "wangyuqin378-cpu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyuqin378-cpu/railway-12306",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyuqin378-cpu/railway-12306"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "peti0402--anti-amnesia",
+  "description": "Complete anti-amnesia system for OpenClaw agents. Prevents context loss across sessions with structured state files, automatic session saving, health monitoring, and decision tracking. Your agent wakes up knowing everything — every time.",
+  "version": "1.0.0",
+  "author": {
+    "name": "peti0402"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/peti0402/anti-amnesia",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/peti0402/anti-amnesia"
+}

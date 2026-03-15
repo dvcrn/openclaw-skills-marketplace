@@ -1,0 +1,10 @@
+{
+  "name": "wangchengming666--broadcast-signed-transaction",
+  "description": "直接广播已签名的 hex 交易到链上，无需私钥，一步完成广播",
+  "version": "1.0.0",
+  "author": {
+    "name": "wangchengming666"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangchengming666/broadcast-signed-transaction",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangchengming666/broadcast-signed-transaction"
+}

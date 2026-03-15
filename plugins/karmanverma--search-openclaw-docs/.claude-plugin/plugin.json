@@ -1,0 +1,10 @@
+{
+  "name": "karmanverma--search-openclaw-docs",
+  "description": "MANDATORY before any openclaw.json changes. Prevents config breakage via embedded anti-patterns and correct patterns. Use when configuring OpenClaw (bindings, channels, sessions, cron, heartbeat) or troubleshooting config issues.",
+  "version": "1.1.0",
+  "author": {
+    "name": "karmanverma"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/karmanverma/search-openclaw-docs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/karmanverma/search-openclaw-docs"
+}

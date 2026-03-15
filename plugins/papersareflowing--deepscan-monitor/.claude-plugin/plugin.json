@@ -1,0 +1,10 @@
+{
+  "name": "papersareflowing--deepscan-monitor",
+  "description": "Run and monitor PapersFlow DeepScan jobs. Use when the user wants long-running research progress, intermediate findings, final reports, or plotting from a completed run.",
+  "version": "0.1.0",
+  "author": {
+    "name": "papersareflowing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/papersareflowing/deepscan-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/papersareflowing/deepscan-monitor"
+}

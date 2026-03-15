@@ -1,0 +1,10 @@
+{
+  "name": "ivangdavila--auto-update",
+  "description": "Auto-update OpenClaw and skills with OpenClaw cron, per-skill defaults, backups, and migration-aware summaries.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ivangdavila"
+  },
+  "homepage": "https://clawic.com/skills/auto-update",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/auto-update"
+}

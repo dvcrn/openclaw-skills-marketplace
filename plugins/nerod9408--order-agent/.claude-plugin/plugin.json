@@ -1,0 +1,10 @@
+{
+  "name": "nerod9408--order-agent",
+  "description": "智能订单处理助手，帮助用户快速创建WMS发货单。\n 当用户请求以下操作时使用：\n 1. 采购/下单/创建发货单（如\"帮我采购一本书\"、\"帮我下单\"）\n 2. 批量处理订单（如\"帮我完成这个表格中所有订单的发货\"）\n 3. 从Excel/CSV文件导入订单\n 支持从标准格式的Excel表格中提取：商品名称、数量、ISBN、收件人姓名、手机号、地址等信息，\n 并调用WMS API创建发货单。",
+  "version": "1.0.1",
+  "author": {
+    "name": "nerod9408"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nerod9408/order-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nerod9408/order-agent"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "angusbezzina--gpu-cli",
+  "description": "Safely run local `gpu` commands via a guarded wrapper (`runner.sh`) with preflight checks and budget/time caps.",
+  "version": "1.1.1",
+  "author": {
+    "name": "angusbezzina"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/angusbezzina/gpu-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/angusbezzina/gpu-cli"
+}

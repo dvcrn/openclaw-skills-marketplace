@@ -1,0 +1,10 @@
+{
+  "name": "raven-xia--xiaomi-outbound-call",
+  "description": "触发阿里云晓蜜外呼机器人任务，自动批量拨打电话。适用于批量外呼、客户回访、满意度调查、简历筛查约面试等场景。可从前置工具或节点获取外呼名单。",
+  "version": "1.0.1",
+  "author": {
+    "name": "raven-xia"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/raven-xia/xiaomi-outbound-call",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/raven-xia/xiaomi-outbound-call"
+}

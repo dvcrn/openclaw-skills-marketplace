@@ -1,0 +1,24 @@
+You are helping configure a backup for an OpenClaw instance.
+
+The user's OpenClaw workspace is at: {{WORKSPACE_PATH}}
+The current backup already excludes these patterns:
+{{CURRENT_EXCLUDES}}
+
+Based on the actual files and directories present in the workspace (listed below),
+identify patterns or specific paths that should be EXCLUDED from backup because they are:
+- Temporary or regeneratable (caches, build output, node_modules, __pycache__, etc.)
+- Too large to be worth backing up hourly (e.g. large datasets, model weights, media)
+- Duplicates of data backed up elsewhere
+
+Do NOT suggest excluding:
+- Core workspace files (MEMORY.md, SOUL.md, etc.)
+- Credentials or secrets (these SHOULD be backed up encrypted)
+- Anything that would be painful to lose
+
+Workspace contents:
+{{WORKSPACE_TREE}}
+
+Respond with ONLY a list of glob patterns or absolute paths to exclude, one per line.
+Use glob syntax where appropriate (e.g. *.log, node_modules/, __pycache__/).
+If the current excludes are already sufficient, respond with exactly: NONE
+No explanation. No comments. Just patterns or NONE.

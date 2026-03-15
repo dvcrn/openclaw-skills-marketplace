@@ -1,0 +1,10 @@
+{
+  "name": "korddie--sapi-tts",
+  "description": "Windows SAPI5 text-to-speech with Neural voices. Lightweight alternative to GPU-heavy TTS - zero GPU usage, instant generation. Auto-detects best available voice for your language. Works on Windows 10/11.",
+  "version": "1.1.0",
+  "author": {
+    "name": "korddie"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/korddie/sapi-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/korddie/sapi-tts"
+}

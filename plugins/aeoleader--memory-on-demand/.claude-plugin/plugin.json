@@ -1,0 +1,10 @@
+{
+  "name": "aeoleader--memory-on-demand",
+  "description": "按需记忆检索。当用户询问历史相关问题时，自动搜索 memory 和 QMD 获取相关信息。",
+  "version": "1.0.0",
+  "author": {
+    "name": "aeoleader"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aeoleader/memory-on-demand",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aeoleader/memory-on-demand"
+}

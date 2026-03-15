@@ -1,0 +1,10 @@
+{
+  "name": "lerwee--fault-handling",
+  "description": "当用户需要故障处理、远程主机执行脚本、服务重启、磁盘清理等运维操作时使用。通过 run-script API 执行脚本，并轮询 execution-history 获取执行结果。",
+  "version": "1.0.0",
+  "author": {
+    "name": "lerwee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lerwee/fault-handling",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lerwee/fault-handling"
+}

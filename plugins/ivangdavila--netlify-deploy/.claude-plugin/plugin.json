@@ -1,0 +1,10 @@
+{
+  "name": "ivangdavila--netlify-deploy",
+  "description": "Deploy and manage Netlify sites with npx netlify, including auth, linking, preview deploys, production releases, and config checks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ivangdavila"
+  },
+  "homepage": "https://clawic.com/skills/netlify-deploy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/netlify-deploy"
+}

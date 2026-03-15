@@ -1,0 +1,10 @@
+{
+  "name": "andyxcg--intelligent-triage-symptom-analysis",
+  "description": "Intelligent Triage and Symptom Analysis Skill. Supports 650+ symptoms across 11 body systems. Based on ESI and Manchester Triage System with 5-level triage classification. Features NLP-driven symptom extraction, 3000+ disease database, red flag warning mechanism (≥95% accuracy for life-threatening conditions), and machine learning-assisted differential diagnosis.",
+  "version": "1.0.5",
+  "author": {
+    "name": "andyxcg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxcg/intelligent-triage-symptom-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxcg/intelligent-triage-symptom-analysis"
+}

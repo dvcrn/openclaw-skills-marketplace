@@ -1,0 +1,10 @@
+{
+  "name": "morozsm--consilium",
+  "description": "Your personal board of AI advisors — the only skill that uses truly different AI models (not one model role-playing). Get better answers to hard questions by having 3-5 models from different providers analyze independently, then synthesizing consensus, disagreements, and action items. Each model brings genuinely different training and reasoning — catching blind spots that same-model approaches miss. Zero external dependencies: uses native OpenClaw sub-agents, no Python scripts, no API keys beyond your existing model config. Use when: user says /council, or asks for multi-model analysis of a decision, architecture, strategy, or any complex problem.",
+  "version": "1.1.0",
+  "author": {
+    "name": "morozsm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/morozsm/consilium",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/morozsm/consilium"
+}

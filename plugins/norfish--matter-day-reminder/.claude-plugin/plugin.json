@@ -1,0 +1,10 @@
+{
+  "name": "norfish--matter-day-reminder",
+  "description": "管理亲友重要日期（生日、纪念日等）的个人社交助理。当用户需要记录联系人信息、\n 设置生日提醒、管理纪念日或生成祝福语时使用此技能。支持农历/阳历日期、双节点提醒\n （提前7天准备礼物+当天推送祝福），以及AI生成个性化祝福语和礼物建议。\n \n 触发关键词：生日提醒、纪念日、重要日期、联系人管理、礼物建议、祝福语生成、\n 农历生日、阳历生日、社交助理、亲友管理",
+  "version": "0.1.0",
+  "author": {
+    "name": "norfish"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/norfish/matter-day-reminder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/norfish/matter-day-reminder"
+}

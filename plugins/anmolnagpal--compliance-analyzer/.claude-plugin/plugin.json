@@ -1,0 +1,10 @@
+{
+  "name": "anmolnagpal--compliance-analyzer",
+  "description": "Map AWS environment against CIS, SOC 2, HIPAA, or PCI-DSS controls with prioritized remediation",
+  "version": "1.0.0",
+  "author": {
+    "name": "anmolnagpal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/compliance-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/compliance-analyzer"
+}

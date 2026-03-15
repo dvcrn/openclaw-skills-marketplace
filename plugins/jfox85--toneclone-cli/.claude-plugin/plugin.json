@@ -1,0 +1,10 @@
+{
+  "name": "jfox85--toneclone-cli",
+  "description": "Write in the user's authentic voice using ToneClone. Generate emails, messages, social posts, and other content that sounds like the user — not generic AI. Use trained personas for different writing styles and knowledge cards for context. Requires ToneClone account and CLI setup at toneclone.ai.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jfox85"
+  },
+  "homepage": "https://toneclone.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jfox85/toneclone-cli"
+}

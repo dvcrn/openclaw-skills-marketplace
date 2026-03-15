@@ -1,0 +1,10 @@
+{
+  "name": "pax47--reva",
+  "description": "Complete Reva wallet management - passwordless authentication, PayID name claiming, multi-chain crypto transfers to PayIDs or wallet addresses, balance tracking across networks, account details information, and deposit management",
+  "version": "0.1.5",
+  "author": {
+    "name": "pax47"
+  },
+  "homepage": "https://revapay.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pax47/reva"
+}

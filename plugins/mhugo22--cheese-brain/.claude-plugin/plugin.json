@@ -1,0 +1,10 @@
+{
+  "name": "mhugo22--cheese-brain",
+  "description": "DuckDB-powered knowledge management system for fast retrieval across 22+ entity types (projects, contacts, tools, workflows, decisions, etc.). Use when you need to recall context about past projects, look up configuration details, find tool documentation, retrieve contact information, search workflows/procedures, or query any tracked knowledge. Supports sub-millisecond keyword search and BM25 full-text search with relevance ranking.",
+  "version": "1.0.1",
+  "author": {
+    "name": "mhugo22"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mhugo22/cheese-brain",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mhugo22/cheese-brain"
+}

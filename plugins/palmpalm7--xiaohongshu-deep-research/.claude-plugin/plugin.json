@@ -1,0 +1,10 @@
+{
+  "name": "palmpalm7--xiaohongshu-deep-research",
+  "description": "Deep research on Xiaohongshu (小红书) topics. Use when user wants to research a topic, analyze trends, gather insights from top posts, or produce a summary report. Crawls posts via search, extracts high-engagement content, generates analysis with post links. Requires xiaohongshu-mcp service running.",
+  "version": "1.2.1",
+  "author": {
+    "name": "palmpalm7"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/palmpalm7/xiaohongshu-deep-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/palmpalm7/xiaohongshu-deep-research"
+}

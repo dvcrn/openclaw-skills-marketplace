@@ -1,0 +1,10 @@
+{
+  "name": "elmariachi111--fhir-questionnaire",
+  "description": "Helps creating FHIR conforming questionnaire definitions from plain requirement ideation docs. Contains scripts to look up LOINC and SNOMED CT codes for medical conditions, findings, observations, medications, procedures from a official coding APIs. No API keys required at the moment.",
+  "version": "0.2.4",
+  "author": {
+    "name": "elmariachi111"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/elmariachi111/fhir-questionnaire",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/elmariachi111/fhir-questionnaire"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "expysf98--cloudflare-image-gen",
+  "description": "Generate images using Cloudflare Workers AI flux-1-schnell model. Use when user requests image generation with text-to-image using Cloudflare Workers API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "expysf98"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/expysf98/cloudflare-image-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/expysf98/cloudflare-image-gen"
+}

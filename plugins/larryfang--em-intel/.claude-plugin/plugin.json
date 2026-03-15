@@ -1,0 +1,10 @@
+{
+  "name": "larryfang--em-intel",
+  "description": "Engineering Manager Intelligence: track team performance, engineer contributions, and project health across GitLab/GitHub + Jira/GitHub Issues. Use when asked for morning briefs, EOD reviews, team reports, quiet engineer alerts, epic health checks, or weekly newsletters. Maps engineer contributions to Jira tickets via feature branch analysis. Supports Slack, Telegram, and email delivery. Trigger on: /morning-brief, /eod-review, /team-report, \"who worked on X\", \"which tickets are stalled\", \"send newsletter\", \"team performance\".",
+  "version": "2.1.1",
+  "author": {
+    "name": "larryfang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/larryfang/em-intel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/larryfang/em-intel"
+}

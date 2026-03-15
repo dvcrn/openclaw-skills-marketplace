@@ -1,0 +1,10 @@
+{
+  "name": "fengyang0317--adb-controller",
+  "description": "Control an Android device via ADB. Use when the user asks to control an Android device, tap, swipe, input text, or perform actions via adb. Automatically uses the adbServer configured in openclaw.json and takes screenshots.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fengyang0317"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fengyang0317/adb-controller",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fengyang0317/adb-controller"
+}

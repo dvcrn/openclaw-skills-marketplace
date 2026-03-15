@@ -1,0 +1,10 @@
+{
+  "name": "1oid--txt-to-epub",
+  "description": "将txt文本转换为epub文件，使用纯规则进行章节识别与分割。适用于小说、教程和一般长文，不内置AI接口。",
+  "version": "1.0.0",
+  "author": {
+    "name": "1oid"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/1oid/txt-to-epub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/1oid/txt-to-epub"
+}

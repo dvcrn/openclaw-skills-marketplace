@@ -1,0 +1,10 @@
+{
+  "name": "damiencronw--openclow-skill-manager",
+  "description": "管理 OpenClaw Skills：以表格形式列出所有 skills、显示功能介绍、找出功能重复的 skills。Use when: 用户想知道安装了哪些 skills、某个 skill 是做什么的、或者想找出重复功能的 skills。",
+  "version": "1.0.1",
+  "author": {
+    "name": "damiencronw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/damiencronw/openclow-skill-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/damiencronw/openclow-skill-manager"
+}

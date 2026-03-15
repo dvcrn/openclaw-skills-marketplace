@@ -1,0 +1,10 @@
+{
+  "name": "lethehades--agent-audit-log",
+  "description": "Lightweight operational audit logging for AI assistants, agent workspaces, and personal automation systems. Use when you need a structured way to record high-value actions such as installs, config changes, updates, repository operations, external publishing, secret injection, deletions, export-safety checks, and follow-up risks. Also use when designing or improving an audit trail with JSONL logs, risk levels, target indexes, human summaries, and open-item tracking.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lethehades"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lethehades/agent-audit-log",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lethehades/agent-audit-log"
+}

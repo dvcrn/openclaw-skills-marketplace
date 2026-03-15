@@ -1,0 +1,10 @@
+{
+  "name": "wscats--eno",
+  "description": "This skill should be used when the user needs to analyze frontend project architecture evaluate tech stack choices review component design patterns assess build configuration check monorepo structure audit VSCode extension setup or review OpenHarmony project layout. It generates structured architecture evaluation reports with scores grades strengths weaknesses and actionable refactoring suggestions. Trigger phrases include \"analyze architecture\" \"review frontend project\" \"tech stack evaluation\" \"component design review\" \"build config audit\" \"monorepo analysis\" \"前端架构分析\" \"技术栈评估\" \"组件设计评审\" \"工程化诊断\" \"构建配置审计\" \"项目体检\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "wscats"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wscats/eno",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wscats/eno"
+}

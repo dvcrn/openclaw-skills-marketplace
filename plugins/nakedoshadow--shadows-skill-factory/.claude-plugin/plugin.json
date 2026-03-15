@@ -1,0 +1,10 @@
+{
+  "name": "nakedoshadow--shadows-skill-factory",
+  "description": "Meta-skill for creating new agent skills — generates well-structured SKILL.md files with proper frontmatter, triggers, protocols, and rules. Use when building custom skills.",
+  "version": "1.1.0",
+  "author": {
+    "name": "nakedoshadow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nakedoshadow/shadows-skill-factory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nakedoshadow/shadows-skill-factory"
+}

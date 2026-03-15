@@ -1,0 +1,10 @@
+{
+  "name": "qingliu1617-art--ytb-transcript-long",
+  "description": "YouTube long video (>1 hour) full verbatim transcription and translation workflow. Use when user needs to (1) Extract subtitles from YouTube videos, (2) Translate English transcripts to Chinese, (3) Handle long videos that exceed session limits, (4) Process DownSub API responses and generate formatted documents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "qingliu1617-art"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qingliu1617-art/ytb-transcript-long",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qingliu1617-art/ytb-transcript-long"
+}

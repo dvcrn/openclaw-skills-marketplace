@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--sql-injection-scanner",
+  "description": "Detect SQL injection vulnerabilities in your codebase. Use when you need to find unsafe database queries before they get exploited.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/sql-injection-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/sql-injection-scanner"
+}

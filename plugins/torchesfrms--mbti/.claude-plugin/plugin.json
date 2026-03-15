@@ -1,0 +1,10 @@
+{
+  "name": "torchesfrms--mbti",
+  "description": "Agent 人格诊断与配置优化系统。用于诊断 Agent 的 MBTI 人格类型，对比用户期望，自动生成配置修改建议。触发场景：\"测试 Agent 人格\"、\"诊断 Agent 配置\"、\"优化 Agent 行为\"。",
+  "version": "1.0.0",
+  "author": {
+    "name": "torchesfrms"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/torchesfrms/mbti",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/torchesfrms/mbti"
+}

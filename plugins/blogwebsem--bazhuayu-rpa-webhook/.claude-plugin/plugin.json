@@ -1,0 +1,10 @@
+{
+  "name": "blogwebsem--bazhuayu-rpa-webhook",
+  "description": "八爪鱼 RPA Webhook 调用工具 - 通过 Webhook 触发 RPA 任务运行，支持自定义参数传递",
+  "version": "2.0.5",
+  "author": {
+    "name": "blogwebsem"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/blogwebsem/bazhuayu-rpa-webhook",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/blogwebsem/bazhuayu-rpa-webhook"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "georges91560--polymarket-executor-skill",
+  "description": "Autonomous multi-strategy trading bot for Polymarket prediction markets. Scans ALL markets (crypto, politics, sports, economics, entertainment) for parity arbitrage, tail-end trading, and logical arbitrage opportunities. Features paper trading mode, Kelly Criterion position sizing, circuit breakers, and full optimizer integration via learned_config.json.",
+  "version": "2.0.0",
+  "author": {
+    "name": "georges91560"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/georges91560/polymarket-executor-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/georges91560/polymarket-executor-skill"
+}

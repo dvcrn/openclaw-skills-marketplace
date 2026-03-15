@@ -1,0 +1,10 @@
+{
+  "name": "eugene9d--openclaw-workspace-pro",
+  "description": "Production-ready workspace setup for OpenClaw agents. Implements artifact workflows, secrets management, memory compaction, and long-running agent patterns based on OpenAI's Shell + Skills best practices. One-command installation transforms your workspace into a production-ready environment.",
+  "version": "1.0.0",
+  "author": {
+    "name": "eugene9d"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/eugene9d/openclaw-workspace-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eugene9d/openclaw-workspace-pro"
+}

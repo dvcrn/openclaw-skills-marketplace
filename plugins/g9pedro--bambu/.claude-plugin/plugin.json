@@ -1,0 +1,10 @@
+{
+  "name": "g9pedro--bambu",
+  "description": "Control Bambu Lab 3D printers (H2D, X1C, P1S, A1) via CLI. Print management, AMS filament control, temperature, fans, lights, calibration, file management, and live monitoring. Use when operating a 3D printer, starting prints, monitoring progress, managing filaments, or troubleshooting printer issues.",
+  "version": "1.0.0",
+  "author": {
+    "name": "g9pedro"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/g9pedro/bambu",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/g9pedro/bambu"
+}

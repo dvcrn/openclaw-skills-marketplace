@@ -1,0 +1,10 @@
+{
+  "name": "0xclanky--captcha-relay",
+  "description": "Human-in-the-loop CAPTCHA solving with two modes: screenshot (default, zero infrastructure) and token relay (requires network access). Screenshot mode captures the page with a grid overlay, sends it to the human, and injects clicks based on their reply. Token relay mode detects CAPTCHA type + sitekey, serves the real widget on a relay page for native solving, and injects the token via CDP.",
+  "version": "2.1.0",
+  "author": {
+    "name": "0xclanky"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xclanky/captcha-relay",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xclanky/captcha-relay"
+}

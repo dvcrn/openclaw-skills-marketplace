@@ -1,0 +1,10 @@
+{
+  "name": "xiucheng--xiucheng-memory-manager",
+  "description": "Long-term memory management system for OpenClaw agents. Automatically archives conversations, organizes memories, and provides semantic search capabilities.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiucheng"
+  },
+  "homepage": "https://github.com/xiucheng/memory-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiucheng/xiucheng-memory-manager"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "shapes--productai-skill",
+  "description": "Generate professional AI product photos using ProductAI.photo service. Use when users need to create, enhance, or transform product images for e-commerce, marketing, catalogs, or campaigns. Supports background replacement, product placement, scene generation, adaptive templates, and video ads. Use for tasks involving product photography, lifestyle shots, mockups, or marketing visuals.",
+  "version": "1.0.1",
+  "author": {
+    "name": "shapes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shapes/productai-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shapes/productai-skill"
+}

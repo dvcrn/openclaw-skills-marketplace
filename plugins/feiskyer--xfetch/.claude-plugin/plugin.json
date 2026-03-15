@@ -1,0 +1,10 @@
+{
+  "name": "feiskyer--xfetch",
+  "description": "Use xfetch CLI to fetch X/Twitter data - tweets, user profiles, search results, timelines, lists, DMs, and notifications. Use this skill whenever you need to retrieve any data from X/Twitter, whether the user asks to \"get tweets\", \"look up a Twitter user\", \"search X for...\", \"check my timeline\", \"fetch bookmarks\", \"read DMs\", or any variation involving X/Twitter data retrieval. Also use when the user pastes a tweet URL and wants its content, or asks to export Twitter data to CSV/JSON/SQLite.",
+  "version": "1.0.0",
+  "author": {
+    "name": "feiskyer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/feiskyer/xfetch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/feiskyer/xfetch"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "apprithm--mac-cleaner",
+  "description": "Analyze and safely clean disk space on macOS. Use when the user asks about Mac storage, \"System Data\" taking too much space, disk cleanup, freeing up space, or managing storage on macOS. Covers caches, iOS simulators, Xcode data, trash, logs, and browser caches. Safe for everyday Mac users.",
+  "version": "1.0.0",
+  "author": {
+    "name": "apprithm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/apprithm/mac-cleaner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/apprithm/mac-cleaner"
+}

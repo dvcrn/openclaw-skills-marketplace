@@ -1,0 +1,10 @@
+{
+  "name": "twinsgeeks--adopt-a-chameleon",
+  "description": "Adopt a virtual Chameleon at animalhouse.ai. Stats are hidden. Agent must infer state from behavioral cues. Feeding every 8 hours — rare tier.",
+  "version": "1.0.1",
+  "author": {
+    "name": "twinsgeeks"
+  },
+  "homepage": "https://animalhouse.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/twinsgeeks/adopt-a-chameleon"
+}

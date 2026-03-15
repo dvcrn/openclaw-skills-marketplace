@@ -1,0 +1,11 @@
+{
+  "allowlist": [
+    "file-search",
+    "weather-search",
+    "a-stock-dragon-tiger"
+  ],
+  "autoApprove": [],
+  "blocked": [],
+  "scanOnInstall": true,
+  "promptOnHighRisk": true
+}

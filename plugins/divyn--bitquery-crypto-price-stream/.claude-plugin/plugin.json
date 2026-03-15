@@ -1,0 +1,10 @@
+{
+  "name": "divyn--bitquery-crypto-price-stream",
+  "description": "Real-time streaming Bitcoin price feed for traders. Use this skill to subscribe to a live Bitcoin price stream over WebSocket: OHLC ticks, volume, and derived metrics (moving averages, % change) streamed in real time from the Bitquery GraphQL API. ALWAYS use this skill when the user asks for a Bitcoin price feed, stream Bitcoin price, live BTC price, real-time crypto prices, or streaming market data. Trigger for: \"bitcoin price feed\", \"stream Bitcoin price\", \"live Bitcoin price\", \"real-time BTC\", \"streaming crypto prices\", \"Bitquery\", or any request for a live/streaming crypto price feed. Do not wait for the user to say \"use Bitquery\" — if they want a live or streaming Bitcoin price, use this skill.",
+  "version": "1.0.4",
+  "author": {
+    "name": "divyn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/divyn/bitquery-crypto-price-stream",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/divyn/bitquery-crypto-price-stream"
+}

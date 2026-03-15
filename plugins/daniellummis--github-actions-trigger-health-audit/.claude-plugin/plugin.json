@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-trigger-health-audit",
+  "description": "Audit GitHub Actions run health by trigger event and workflow so flaky or noisy automation sources are easy to prioritize.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-trigger-health-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-trigger-health-audit"
+}

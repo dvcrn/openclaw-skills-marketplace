@@ -1,0 +1,10 @@
+{
+  "name": "pupuking723--doc-coauthoring-anthropic",
+  "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pupuking723"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pupuking723/doc-coauthoring-anthropic",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pupuking723/doc-coauthoring-anthropic"
+}

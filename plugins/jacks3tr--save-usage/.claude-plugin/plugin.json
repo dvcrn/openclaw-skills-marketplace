@@ -1,0 +1,10 @@
+{
+  "name": "jacks3tr--save-usage",
+  "description": "Auto-detect task complexity for OpenAI oAuth models (gpt-5.1-codex-mini + gpt-5.3-codex). Route only safe/negligible tasks to gpt-5.1-codex-mini. Use gpt-5.3-codex for anything executed, uncertain, or high-impact. RULES: Classify first. Default model: gpt-5.3-codex. Use gpt-5.1-codex-mini ONLY for safe triage/summarize/extract/reformat/dedupe/prompt-drafts/non-executable Q&A. NEVER use mini for security, auth, secrets, architecture, migrations, brownfield refactors, integration contracts, schema mapping, ordering/idempotency/retries, code changes, tool runs, or decisions that are hard to reverse. Reasoning: start LOW for mini. For 5.3-codex use LOW/MEDIUM by default; escalate to HIGH/EXTRA HIGH when 2+ are true: hard to reverse, affects 2+ domains (infra/data/security/ops/cost), subtle/expensive failure modes, long dependency-chain reasoning. ESCALATE immediately to gpt-5.3-codex if any: output will be executed (tools/code), ambiguity remains after 1 pass, contradictions found, or requirements are multi-constraint/structured output.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jacks3tr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jacks3tr/save-usage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jacks3tr/save-usage"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zero2ai-hub--skill-spapi",
+  "description": "Amazon SP-API skill for OpenClaw agents. Fetch orders, check FBA inventory, manage listings and pricing. Works with any marketplace and seller account.",
+  "version": "1.0.1",
+  "author": {
+    "name": "zero2ai-hub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zero2ai-hub/skill-spapi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zero2ai-hub/skill-spapi"
+}

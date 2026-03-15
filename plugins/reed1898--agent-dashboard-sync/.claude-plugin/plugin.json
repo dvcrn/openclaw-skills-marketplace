@@ -1,0 +1,10 @@
+{
+  "name": "reed1898--agent-dashboard-sync",
+  "description": "Sync OpenClaw fleet runtime/heartbeat/cron status to Cloudflare KV and serve dashboard-ready data via Worker API. Use when setting up or operating the Agent Fleet Dashboard data plane (collector, KV schema, Worker ingest/read API, crontab scheduling, and migration away from Git-backed high-frequency state).",
+  "version": "0.1.0",
+  "author": {
+    "name": "reed1898"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/reed1898/agent-dashboard-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/reed1898/agent-dashboard-sync"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "gm4leejun-stack--discord-connect-wizard",
+  "description": "One-machine Discord bot onboarding wizard for OpenClaw. Use when setting up Discord for the first time (create bot, enable intents, invite to a guild, auto-write OpenClaw config, restart gateway, and complete DM pairing). Designed for local Mac/Windows/Linux hosts with a localhost web UI + optional browser automation guidance.",
+  "version": "0.1.2",
+  "author": {
+    "name": "gm4leejun-stack"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gm4leejun-stack/discord-connect-wizard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gm4leejun-stack/discord-connect-wizard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "seekerzero--blender-plugin-dev",
+  "description": "Develop, debug, and upgrade Blender add-ons/plugins and `bpy` scripts with Blender 4.x and 5.x compatibility. Use when tasks involve generating new add-on code, scaffolding operators/panels, migrating deprecated Python API calls, resolving Blender version breakages, or validating scripts against Blender 4/5 API changes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "seekerzero"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seekerzero/blender-plugin-dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seekerzero/blender-plugin-dev"
+}

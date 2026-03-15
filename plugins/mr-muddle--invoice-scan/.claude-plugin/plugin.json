@@ -1,0 +1,10 @@
+{
+  "name": "mr-muddle--invoice-scan",
+  "description": "AI-powered invoice scanning and data extraction from images and PDFs. Use when: (1) user sends an invoice image/PDF to scan or extract data from, (2) converting paper/scanned invoices to structured JSON, CSV, or Excel, (3) validating invoice arithmetic or classifying document types (invoice vs receipt vs other), (4) processing handwritten invoices, stamps, or multi-language documents (Chinese, Russian, European, etc.), (5) user asks to read/parse/extract an invoice. Works in two modes: agent-native (uses your own vision — no API key needed) or CLI standalone (needs ANTHROPIC_API_KEY). Supports Claude vision models.",
+  "version": "1.3.0",
+  "author": {
+    "name": "mr-muddle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mr-muddle/invoice-scan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mr-muddle/invoice-scan"
+}

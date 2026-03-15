@@ -1,0 +1,10 @@
+{
+  "name": "ssrlxl123--openclaw-android",
+  "description": "通过openclaw控制android手机，所有命令在手机内部执行，先su切换到root权限后执行后续命令，支持获取安装软件列表、打开和关闭app、操作app（点击、滑动、输入文本）以及截图app。当用户需要控制android设备或执行app操作时调用。",
+  "version": "1.0.1",
+  "author": {
+    "name": "ssrlxl123"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ssrlxl123/openclaw-android",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ssrlxl123/openclaw-android"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "biohackerrrrrr--paper-fetcher",
+  "description": "Fetch academic papers from Sci-Hub given a DOI. Automatically downloads PDFs and saves them to research/papers/ with clean filenames. Use when the user provides a DOI or requests a paper from PubMed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "biohackerrrrrr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/biohackerrrrrr/paper-fetcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/biohackerrrrrr/paper-fetcher"
+}

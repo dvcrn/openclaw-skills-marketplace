@@ -1,0 +1,76 @@
+{
+  "aahp_version": "3.0",
+  "project": "openclaw-cli-bridge-elvatis",
+  "last_session": {
+    "agent": "claude-sonnet-4-6",
+    "session_id": "akido-2026-03-11-v0.2.25",
+    "timestamp": "2026-03-11T17:39:00Z",
+    "commit": "pending (v0.2.25 not yet committed)",
+    "phase": "implementation",
+    "duration_minutes": 70
+  },
+  "files": {
+    "STATUS.md": {
+      "checksum": "sha256:8b5d260441611e95f20818e51c1f6dba775deee32187162e3f4dfe89905c67d8",
+      "updated": "2026-03-11T17:39:00Z",
+      "lines": 78,
+      "summary": "v0.2.25 built + 51/51 tests pass. Staged switching + token stability. Ready to publish. Last published: v0.2.23."
+    },
+    "NEXT_ACTIONS.md": {
+      "checksum": "sha256:2a2c1696de45106e01063afa35859955f0d8827c1ea3bbc117d7b46769f89a6c",
+      "updated": "2026-03-11T17:39:00Z",
+      "lines": 48,
+      "summary": "1 task ready: T-010 — Publish v0.2.25. No blockers."
+    },
+    "LOG.md": {
+      "checksum": "sha256:b23892518fd5a5faa0b402bd2553d1d1cbca7b46675ba6dd4d413e1cbf03e19d",
+      "updated": "2026-03-11T17:39:00Z",
+      "lines": 141,
+      "summary": "Session 6: staged switch impl (T-011). Session 5: token refresh stability (T-009). Sessions 1-4: initial build, bugs, planning."
+    },
+    "DASHBOARD.md": {
+      "checksum": "sha256:cf1c47a18f52e0b94b932177d4e9b455a0e3ae7f29b1a34802088ffa7ad98cef",
+      "updated": "2026-03-11T17:39:00Z",
+      "lines": 50,
+      "summary": "Build ✅ Tests 51/51 ✅. Local v0.2.25, last published v0.2.23. T-010 (publish) ready."
+    },
+    "TRUST.md": {
+      "checksum": "sha256:cbfc8dcc17c00f8da8e220eba106aac56c63782caac655c30ba60c463994adc1",
+      "updated": "2026-03-11T16:30:00Z",
+      "lines": 58,
+      "summary": "Build verified. Runtime verified at v0.2.21. stopTokenRefresh assumed. Security verified."
+    },
+    "CONVENTIONS.md": {
+      "checksum": "sha256:2ba10012e05f7a64850b4b41ae35723f9677c0a5a0a78b76e3f74bf430f2d048",
+      "updated": "2026-03-08T00:00:00Z",
+      "lines": 101,
+      "summary": "TypeScript strict ESM, 3-platform release checklist, ClawHub rsync workaround, secrets policy."
+    },
+    "WORKFLOW.md": {
+      "checksum": "sha256:f9224bf9e993863b2b9e17f36ee605950359ba43d420fa7b4c829a6fbdc92482",
+      "updated": "2026-03-07T00:00:00Z",
+      "lines": 152,
+      "summary": "4-phase AAHP pipeline: Research → Architecture → Implementation → Review → Handoff."
+    }
+  },
+  "quick_context": "v0.2.25 built + 51/51 tests pass. Key changes: (1) staged model switching — /cli-* now stages by default, /cli-apply to execute after session, --now for immediate; (2) sleep-resilient token refresh via setInterval; (3) stopTokenRefresh cleanup. Last published: v0.2.23. Next: T-010 — publish to GitHub/npm/ClawHub.",
+  "token_budget": {
+    "manifest_only": 90,
+    "manifest_plus_core": 380,
+    "full_read": 850
+  },
+  "next_task_id": 12,
+  "tasks": {
+    "T-001": { "title": "Scaffold plugin structure + AAHP handoff", "status": "done", "priority": "high", "depends_on": [], "created": "2026-03-07T20:40:00Z", "completed": "2026-03-07T20:56:00Z" },
+    "T-002": { "title": "Implement openai-codex provider (Codex CLI auth bridge)", "status": "done", "priority": "high", "depends_on": ["T-001"], "created": "2026-03-07T20:40:00Z", "completed": "2026-03-07T20:56:00Z" },
+    "T-003": { "title": "Test auth flow: openclaw models auth login --provider openai-codex", "status": "done", "priority": "high", "depends_on": ["T-002"], "created": "2026-03-07T20:56:00Z", "completed": "2026-03-07T21:01:00Z" },
+    "T-004": { "title": "Verify model call: test gpt-5.2 or gpt-5.3-codex responds", "status": "done", "priority": "high", "depends_on": ["T-003"], "created": "2026-03-07T20:56:00Z", "completed": "2026-03-07T21:27:00Z" },
+    "T-005": { "title": "Implement Gemini CLI request bridge", "status": "done", "priority": "medium", "depends_on": ["T-003"], "created": "2026-03-07T20:56:00Z", "completed": "2026-03-07T21:23:00Z" },
+    "T-006": { "title": "Implement Claude Code CLI request bridge", "status": "done", "priority": "medium", "depends_on": ["T-003"], "created": "2026-03-07T20:56:00Z", "completed": "2026-03-07T21:23:00Z" },
+    "T-007": { "title": "Create GitHub repo and push initial code", "status": "done", "priority": "high", "depends_on": ["T-004"], "created": "2026-03-07T21:20:00Z", "completed": "2026-03-07T21:24:00Z" },
+    "T-008": { "title": "Validate proxy endpoints + vllm model calls end-to-end", "status": "done", "priority": "high", "depends_on": ["T-005", "T-006"], "created": "2026-03-07T21:29:00Z", "completed": "2026-03-08T08:08:44Z" },
+    "T-009": { "title": "Stability: sleep-resilient token refresh + stopTokenRefresh cleanup", "status": "done", "priority": "high", "depends_on": ["T-008"], "created": "2026-03-11T15:00:00Z", "completed": "2026-03-11T16:30:00Z" },
+    "T-010": { "title": "Publish v0.2.25 to GitHub + npm + ClawHub", "status": "ready", "priority": "medium", "depends_on": ["T-011"], "created": "2026-03-11T16:30:00Z" },
+    "T-011": { "title": "Session-safe staged model switching (/cli-apply, /cli-pending, --now)", "status": "done", "priority": "high", "depends_on": ["T-009"], "created": "2026-03-11T17:00:00Z", "completed": "2026-03-11T17:39:00Z" }
+  }
+}

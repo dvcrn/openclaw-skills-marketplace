@@ -1,0 +1,10 @@
+{
+  "name": "sharbelayy--x-bookmarks",
+  "description": "Fetch, summarize, and manage X/Twitter bookmarks via bird CLI or X API v2. Use when: (1) user says \"check my bookmarks\", \"what did I bookmark\", \"bookmark digest\", \"summarize my bookmarks\", \"x bookmarks\", \"twitter bookmarks\", (2) user wants a periodic digest of saved tweets, (3) user wants to categorize, search, or analyze their bookmarks, (4) scheduled bookmark digests via cron. Auth: bird CLI with browser cookies, OR X API v2 with OAuth 2.0 tokens.",
+  "version": "1.1.0",
+  "author": {
+    "name": "sharbelayy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sharbelayy/x-bookmarks",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sharbelayy/x-bookmarks"
+}

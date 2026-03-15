@@ -1,0 +1,10 @@
+{
+  "name": "odilitime--babylon",
+  "description": "Play Babylon prediction markets - trade YES/NO shares, post to social feed, check portfolio and leaderboards. Use when interacting with Babylon (babylon.market), prediction markets, or the Babylon game. Requires BABYLON_API_KEY environment variable.",
+  "version": "1.3.1",
+  "author": {
+    "name": "odilitime"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/odilitime/babylon",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odilitime/babylon"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mupengi-bot--appointment-scheduler",
+  "description": "Automated appointment management for beauty salons, clinics, studios, and photo booths. Handles booking requests, calendar sync, conflict detection, reminders, no-show tracking, and waitlist management.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mupengi-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/appointment-scheduler",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/appointment-scheduler"
+}

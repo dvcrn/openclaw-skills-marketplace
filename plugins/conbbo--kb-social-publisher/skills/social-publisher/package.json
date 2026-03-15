@@ -1,0 +1,12 @@
+{
+  "name": "weibo-publisher",
+  "version": "1.0.0",
+  "description": "微博发布工具",
+  "main": "scripts/weibo-publisher.ts",
+  "scripts": {
+    "postinstall": "playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}

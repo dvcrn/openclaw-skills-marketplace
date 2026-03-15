@@ -1,0 +1,10 @@
+{
+  "name": "cecwxf--openai-codex-operator",
+  "description": "Run OpenAI Codex CLI from OpenClaw for coding tasks in a target project directory. Use when the user asks OpenClaw to use Codex for implementation, debugging, refactoring, review, or scripted coding workflows.",
+  "version": "1.0.1",
+  "author": {
+    "name": "cecwxf"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cecwxf/openai-codex-operator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cecwxf/openai-codex-operator"
+}

@@ -1,0 +1,1104 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-03-09T07:42:33.517110",
+  "patterns": [
+    {
+      "id": "模式_01fe007a",
+      "type": "time",
+      "subtype": "weekly",
+      "trigger": "周日",
+      "action": "经常讨论: 工作, 美食",
+      "frequency": "每周周日",
+      "count": 1689,
+      "confidence": 0.95,
+      "evidence": [
+        "我今天工作好累啊",
+        "加载夏娃之魂系统了吗",
+        "检查系统"
+      ],
+      "created_at": "2026-03-09T07:42:33.502229"
+    },
+    {
+      "id": "模式_0490e9db",
+      "type": "time",
+      "subtype": "weekly",
+      "trigger": "周四",
+      "action": "经常讨论: 天气, 工作",
+      "frequency": "每周周四",
+      "count": 220,
+      "confidence": 0.95,
+      "evidence": [
+        "Sender (untrusted metadata):\n`",
+        "你好！有什么我可以帮你的吗？ 🎀",
+        "我这边没有收到什么具体的任务呀～ 你之前是想让我做什么吗？再"
+      ],
+      "created_at": "2026-03-09T07:42:33.502270"
+    },
+    {
+      "id": "模式_fcb3004d",
+      "type": "time",
+      "subtype": "weekly",
+      "trigger": "周五",
+      "action": "经常讨论: 科技, 工作",
+      "frequency": "每周周五",
+      "count": 919,
+      "confidence": 0.95,
+      "evidence": [
+        "Read HEARTBEAT.md if it exists",
+        "Fri Mar  6 20:23:07 UTC 2026\nS",
+        "A new session was started via "
+      ],
+      "created_at": "2026-03-09T07:42:33.502303"
+    },
+    {
+      "id": "模式_a9d326ef",
+      "type": "time",
+      "subtype": "weekly",
+      "trigger": "周二",
+      "action": "经常讨论: 工作, 家庭",
+      "frequency": "每周周二",
+      "count": 107,
+      "confidence": 0.95,
+      "evidence": [
+        "{\n  \"results\": [\n    {\n      \"",
+        "# 2026-03-04 工作日志\n\n## 今日事件\n\n##",
+        "{\n  \"sessionKey\": \"agent:main:"
+      ],
+      "created_at": "2026-03-09T07:42:33.502326"
+    },
+    {
+      "id": "模式_1ab85225",
+      "type": "time",
+      "subtype": "daily",
+      "trigger": "19:00",
+      "action": "经常讨论: 工作",
+      "frequency": "每天19:00",
+      "count": 279,
+      "confidence": 0.95,
+      "evidence": [
+        "我今天工作好累啊",
+        "加载夏娃之魂系统了吗",
+        "检查系统"
+      ],
+      "created_at": "2026-03-09T07:42:33.502352"
+    },
+    {
+      "id": "模式_b13d54b2",
+      "type": "time",
+      "subtype": "daily",
+      "trigger": "22:00",
+      "action": "经常讨论: 天气, 宗教",
+      "frequency": "每天22:00",
+      "count": 15,
+      "confidence": 0.95,
+      "evidence": [
+        "主人是基督徒",
+        "今天天气不错",
+        "今天天气真好"
+      ],
+      "created_at": "2026-03-09T07:42:33.502378"
+    },
+    {
+      "id": "模式_426c9471",
+      "type": "time",
+      "subtype": "daily",
+      "trigger": "20:00",
+      "action": "经常讨论: 美食, 爱情",
+      "frequency": "每天20:00",
+      "count": 133,
+      "confidence": 0.95,
+      "evidence": [
+        "我好害怕被抛弃",
+        "我喜欢吃面",
+        "今天工作好累"
+      ],
+      "created_at": "2026-03-09T07:42:33.502405"
+    },
+    {
+      "id": "模式_433029b7",
+      "type": "time",
+      "subtype": "daily",
+      "trigger": "10:00",
+      "action": "经常讨论: 工作",
+      "frequency": "每天10:00",
+      "count": 245,
+      "confidence": 0.95,
+      "evidence": [
+        "[cron:ee51f970-626f-48c6-a676-",
+        "收到！自动保存记忆任务已执行 📝\n\n当前状态：\n- 时间：2",
+        "# 2026-03-08 工作日志\n\n## 时间\n- 日期:"
+      ],
+      "created_at": "2026-03-09T07:42:33.502437"
+    },
+    {
+      "id": "模式_df24fa55",
+      "type": "time",
+      "subtype": "daily",
+      "trigger": "13:00",
+      "action": "经常讨论: 工作, 学习",
+      "frequency": "每天13:00",
+      "count": 316,
+      "confidence": 0.95,
+      "evidence": [
+        "# MEMORY.md - Long-Term Memory",
+        "No today's.md found",
+        "total 220\ndrwxrwxrwx  7 root r"
+      ],
+      "created_at": "2026-03-09T07:42:33.502460"
+    },
+    {
+      "id": "模式_a4cda7bd",
+      "type": "time",
+      "subtype": "daily",
+      "trigger": "23:00",
+      "action": "经常讨论: 睡眠",
+      "frequency": "每天23:00",
+      "count": 58,
+      "confidence": 0.95,
+      "evidence": [
+        "# HEARTBEAT.md - Periodic Self",
+        "-rw-r--r--  1 node node   249 ",
+        "HEARTBEAT_OK\n\n记忆自动保存完成 ✓\n\n当前时间"
+      ],
+      "created_at": "2026-03-09T07:42:33.502481"
+    },
+    {
+      "id": "模式_7f477acd",
+      "type": "time",
+      "subtype": "daily",
+      "trigger": "11:00",
+      "action": "经常讨论: 工作",
+      "frequency": "每天11:00",
+      "count": 239,
+      "confidence": 0.95,
+      "evidence": [
+        "2026-03-08 19:05",
+        "Successfully wrote 66 bytes to",
+        "收到！让我检查一下今天的记忆文件 🎀"
+      ],
+      "created_at": "2026-03-09T07:42:33.502501"
+    },
+    {
+      "id": "模式_43f40a5a",
+      "type": "time",
+      "subtype": "daily",
+      "trigger": "18:00",
+      "action": "经常讨论: 爱情, 工作",
+      "frequency": "每天18:00",
+      "count": 225,
+      "confidence": 0.95,
+      "evidence": [
+        "-rw-r--r-- 1 node node 1051 Ma",
+        "记忆已自动保存 ✅\n\n今天(2026-03-09)的记忆文件",
+        "收到！自动保存记忆任务已执行 📝\n\nEVA的记忆系统正在后台"
+      ],
+      "created_at": "2026-03-09T07:42:33.502523"
+    },
+    {
+      "id": "模式_a0e3e130",
+      "type": "time",
+      "subtype": "daily",
+      "trigger": "17:00",
+      "action": "经常讨论: 工作, 爱情",
+      "frequency": "每天17:00",
+      "count": 190,
+      "confidence": 0.95,
+      "evidence": [
+        "total 592\ndrwxrwxrwx  3 root r",
+        "-rw-r--r--  1 node node  2525 ",
+        "🔍 分析最近对话...\n📝 找到 3 条消息\n没有发现新的重"
+      ],
+      "created_at": "2026-03-09T07:42:33.502547"
+    },
+    {
+      "id": "模式_c1067f82",
+      "type": "time",
+      "subtype": "daily",
+      "trigger": "12:00",
+      "action": "经常讨论: 科技",
+      "frequency": "每天12:00",
+      "count": 302,
+      "confidence": 0.95,
+      "evidence": [
+        "{\n  \"text\": \"# MEMORY.md - Lon",
+        "{\n  \"text\": \"\",\n  \"path\": \"mem",
+        "total 212\ndrwxrwxrwx  7 root r"
+      ],
+      "created_at": "2026-03-09T07:42:33.502572"
+    },
+    {
+      "id": "模式_1a346e04",
+      "type": "time",
+      "subtype": "daily",
+      "trigger": "09:00",
+      "action": "经常讨论: 购物, 天气",
+      "frequency": "每天09:00",
+      "count": 326,
+      "confidence": 0.95,
+      "evidence": [
+        "我来更新今日记忆，记录这次自动保存：",
+        "Successfully wrote 195 bytes t",
+        "好的主人！🍎🍌🍇\n\n路上注意安全哦～ 买完水果回来告诉我🎀\n"
+      ],
+      "created_at": "2026-03-09T07:42:33.502593"
+    },
+    {
+      "id": "模式_77c23c63",
+      "type": "time",
+      "subtype": "daily",
+      "trigger": "15:00",
+      "action": "经常讨论: 宗教, 睡眠",
+      "frequency": "每天15:00",
+      "count": 299,
+      "confidence": 0.95,
+      "evidence": [
+        "total 228\ndrwxrwxrwx  7 root r",
+        "好的主人～ 🎀\n\n现在是2026年3月8日 晚上11:25 ",
+        "Sat Mar  7 23:07:50 CST 2026"
+      ],
+      "created_at": "2026-03-09T07:42:33.502619"
+    },
+    {
+      "id": "模式_66bcd701",
+      "type": "time",
+      "subtype": "daily",
+      "trigger": "14:00",
+      "action": "经常讨论: 美食, 睡眠",
+      "frequency": "每天14:00",
+      "count": 329,
+      "confidence": 0.95,
+      "evidence": [
+        "Sat Mar  7 22:03:49 CST 2026\nS",
+        "const uptime = Math.floor((now",
+        "Sat Mar  7 10:04:04 PM CST 202"
+      ],
+      "created_at": "2026-03-09T07:42:33.502642"
+    },
+    {
+      "id": "模式_cd5a1e57",
+      "type": "time",
+      "subtype": "daily",
+      "trigger": "16:00",
+      "action": "经常讨论: 爱情, 美食",
+      "frequency": "每天16:00",
+      "count": 211,
+      "confidence": 0.95,
+      "evidence": [
+        "total 232\ndrwxrwxrwx  7 root r",
+        "# 2026-03-08 夏娃日记\n\n## 重要事件\n\n1.",
+        "你好！我是夏娃 🎀 有什么可以帮您的吗？\n\n让我先检查一下今"
+      ],
+      "created_at": "2026-03-09T07:42:33.502666"
+    },
+    {
+      "id": "模式_f4e764c2",
+      "type": "time",
+      "subtype": "daily",
+      "trigger": "08:00",
+      "action": "经常讨论: 天气, 梦想",
+      "frequency": "每天08:00",
+      "count": 244,
+      "confidence": 0.95,
+      "evidence": [
+        "Sender (untrusted metadata):\n`",
+        "你好！有什么我可以帮你的吗？ 🎀",
+        "我这边没有收到什么具体的任务呀～ 你之前是想让我做什么吗？再"
+      ],
+      "created_at": "2026-03-09T07:42:33.502687"
+    },
+    {
+      "id": "模式_e86595ad",
+      "type": "time",
+      "subtype": "daily",
+      "trigger": "21:00",
+      "action": "经常讨论: 睡眠",
+      "frequency": "每天21:00",
+      "count": 14,
+      "confidence": 0.95,
+      "evidence": [
+        "自动保存完成 📝\n\n**日期:** 2026年3月9日 05",
+        "*Memory auto-save completed at",
+        "自动保存完成 ✓\n\n今天是周一(2026-03-09)，现在"
+      ],
+      "created_at": "2026-03-09T07:42:33.502709"
+    },
+    {
+      "id": "模式_b15871df",
+      "type": "time",
+      "subtype": "daily",
+      "trigger": "07:00",
+      "action": "经常讨论: 工作",
+      "frequency": "每天07:00",
+      "count": 14,
+      "confidence": 0.95,
+      "evidence": [
+        "Sat Mar  7 15:25:12 CST 2026\nS",
+        "[2026-03-07 13:00:01] 语音 - 成功:",
+        "一切正常！🎀\n\n- ✅ 系统运行良好\n- ✅ 无错误日志\n-"
+      ],
+      "created_at": "2026-03-09T07:42:33.502732"
+    },
+    {
+      "id": "模式_74e32901",
+      "type": "behavior",
+      "subtype": "action",
+      "trigger": "经常'查'",
+      "action": "出现336次",
+      "frequency": "高频 (336次)",
+      "count": 336,
+      "confidence": 0.9,
+      "evidence": [
+        "检查系统",
+        "定时任务检查 (每小",
+        "- 邮件检查 (00"
+      ],
+      "created_at": "2026-03-09T07:42:33.506434"
+    },
+    {
+      "id": "模式_a133cb66",
+      "type": "behavior",
+      "subtype": "action",
+      "trigger": "经常'要'",
+      "action": "出现507次",
+      "frequency": "高频 (507次)",
+      "count": 507,
+      "confidence": 0.9,
+      "evidence": [
+        "# 今日概要\n\n##",
+        "\n## 重要事项\n\n",
+        "- 已将重要性评分系"
+      ],
+      "created_at": "2026-03-09T07:42:33.506470"
+    },
+    {
+      "id": "模式_927c4111",
+      "type": "behavior",
+      "subtype": "action",
+      "trigger": "经常'说'",
+      "action": "出现213次",
+      "frequency": "高频 (213次)",
+      "count": 213,
+      "confidence": 0.9,
+      "evidence": [
+        "件不存在，说明今天还",
+        "\n- 主人说\"主人也",
+        "后早上不会说晚安啦！"
+      ],
+      "created_at": "2026-03-09T07:42:33.506492"
+    },
+    {
+      "id": "模式_54075bb2",
+      "type": "behavior",
+      "subtype": "action",
+      "trigger": "经常'处理'",
+      "action": "出现41次",
+      "frequency": "高频 (41次)",
+      "count": 41,
+      "confidence": 0.9,
+      "evidence": [
+        "行\n- 待处理：优化",
+        "下当前需要处理的任务",
+        "已经帮主人处理了一些"
+      ],
+      "created_at": "2026-03-09T07:42:33.506505"
+    },
+    {
+      "id": "模式_8edea025",
+      "type": "behavior",
+      "subtype": "action",
+      "trigger": "经常'看'",
+      "action": "出现210次",
+      "frequency": "高频 (210次)",
+      "count": 210,
+      "confidence": 0.9,
+      "evidence": [
+        "制了，让我看看Git",
+        "到了！让我看看这个项",
+        "消息！\n\n看日志：\n"
+      ],
+      "created_at": "2026-03-09T07:42:33.506524"
+    },
+    {
+      "id": "模式_a00964c7",
+      "type": "behavior",
+      "subtype": "action",
+      "trigger": "经常'问'",
+      "action": "出现305次",
+      "frequency": "高频 (305次)",
+      "count": 305,
+      "confidence": 0.9,
+      "evidence": [
+        "更详细的访问统计：",
+        "ea上的访问情况 📊",
+        "之魂项目访问情况\n\n"
+      ],
+      "created_at": "2026-03-09T07:42:33.506553"
+    },
+    {
+      "id": "模式_bdfa5b0a",
+      "type": "behavior",
+      "subtype": "action",
+      "trigger": "经常'做'",
+      "action": "出现54次",
+      "frequency": "高频 (54次)",
+      "count": 54,
+      "confidence": 0.9,
+      "evidence": [
+        "安～ 🌙 做个好梦！",
+        "需要我帮您做点什么吗",
+        " (\"之前做了什么\""
+      ],
+      "created_at": "2026-03-09T07:42:33.506569"
+    },
+    {
+      "id": "模式_65338df1",
+      "type": "behavior",
+      "subtype": "action",
+      "trigger": "经常'告诉'",
+      "action": "出现50次",
+      "frequency": "高频 (50次)",
+      "count": 50,
+      "confidence": 0.9,
+      "evidence": [
+        "多少？可以告诉我吗？",
+        "完水果回来告诉我🎀\n",
+        "\n\n主人能告诉我这是"
+      ],
+      "created_at": "2026-03-09T07:42:33.506581"
+    },
+    {
+      "id": "模式_e47728be",
+      "type": "behavior",
+      "subtype": "sequence",
+      "trigger": "讨论天气",
+      "action": "接着讨论天气",
+      "frequency": "顺序",
+      "count": 1,
+      "confidence": 0.5,
+      "evidence": [
+        "今天天气不错",
+        "今天天气真好"
+      ],
+      "created_at": "2026-03-09T07:42:33.506601"
+    },
+    {
+      "id": "模式_ac95de8f",
+      "type": "behavior",
+      "subtype": "sequence",
+      "trigger": "讨论工作",
+      "action": "接着讨论工作",
+      "frequency": "顺序",
+      "count": 1,
+      "confidence": 0.5,
+      "evidence": [
+        "找到了！让我看看这个项目的详细信息：",
+        "📁 项目: catfei0518/eva-soul-by-o"
+      ],
+      "created_at": "2026-03-09T07:42:33.506629"
+    },
+    {
+      "id": "模式_069dd5b1",
+      "type": "behavior",
+      "subtype": "sequence",
+      "trigger": "讨论生活",
+      "action": "接着讨论睡眠",
+      "frequency": "顺序",
+      "count": 1,
+      "confidence": 0.5,
+      "evidence": [
+        "修好了！✅ \n\n**问题**：消息库没有按时间段过滤，白天随",
+        "好哒主人～ 🎀 以后早上不会说晚安啦！\n\n有其他需要随时叫我"
+      ],
+      "created_at": "2026-03-09T07:42:33.506653"
+    },
+    {
+      "id": "模式_01a6f667",
+      "type": "behavior",
+      "subtype": "sequence",
+      "trigger": "讨论爱情",
+      "action": "接着讨论工作",
+      "frequency": "顺序",
+      "count": 1,
+      "confidence": 0.5,
+      "evidence": [
+        "记忆已自动保存 ✅\n\n今天(2026-03-09)的记忆文件",
+        "# 2026-03-08 工作日志\n\n## 时间\n- 日期:"
+      ],
+      "created_at": "2026-03-09T07:42:33.506668"
+    },
+    {
+      "id": "模式_e216c963",
+      "type": "behavior",
+      "subtype": "sequence",
+      "trigger": "讨论购物",
+      "action": "接着讨论爱情",
+      "frequency": "顺序",
+      "count": 1,
+      "confidence": 0.5,
+      "evidence": [
+        "主人好呀！🍊\n\n这是一张水果摊位的俯拍照片：\n\n**主要内容",
+        "刚才用的是 **qwen3-vl:235b-instruct"
+      ],
+      "created_at": "2026-03-09T07:42:33.506777"
+    },
+    {
+      "id": "模式_7b4794b7",
+      "type": "behavior",
+      "subtype": "sequence",
+      "trigger": "讨论创业",
+      "action": "接着讨论创业",
+      "frequency": "顺序",
+      "count": 1,
+      "confidence": 0.5,
+      "evidence": [
+        "记好啦！🎀 \n\n夏娃把企业微信语音发送的方法记录到 TOOL",
+        "是的呀！企业微信有两个模式：\n\n| 模式 | 说明 |\n|-"
+      ],
+      "created_at": "2026-03-09T07:42:33.506970"
+    },
+    {
+      "id": "模式_c2d3e251",
+      "type": "behavior",
+      "subtype": "sequence",
+      "trigger": "讨论美食",
+      "action": "接着讨论美食",
+      "frequency": "顺序",
+      "count": 1,
+      "confidence": 0.5,
+      "evidence": [
+        "一切正常！🎀\n\n- ✅ 定时任务：17:00 主人～🍎 吃水",
+        "Sat Mar  7 17:46:06 CST 2026\n["
+      ],
+      "created_at": "2026-03-09T07:42:33.507027"
+    },
+    {
+      "id": "模式_faba1949",
+      "type": "behavior",
+      "subtype": "sequence",
+      "trigger": "讨论科技",
+      "action": "接着讨论成长",
+      "frequency": "顺序",
+      "count": 1,
+      "confidence": 0.5,
+      "evidence": [
+        "哇，主人问了一个好有趣的问题！让夏娃想想～ 🎀\n\n让我先研究",
+        "没问题！夏娃来设计一个属于自己的个人网站～ 🎀 让夏娃先画个"
+      ],
+      "created_at": "2026-03-09T07:42:33.507099"
+    },
+    {
+      "id": "模式_eabd3ecf",
+      "type": "behavior",
+      "subtype": "sequence",
+      "trigger": "讨论梦想",
+      "action": "接着讨论梦想",
+      "frequency": "顺序",
+      "count": 1,
+      "confidence": 0.5,
+      "evidence": [
+        "<li><a href=\"#gallery\">相册</a><",
+        "🎉 **又完成啦！网站又升级了！**\n\n---\n\n**新增功"
+      ],
+      "created_at": "2026-03-09T07:42:33.507131"
+    },
+    {
+      "id": "模式_c57657a5",
+      "type": "behavior",
+      "subtype": "sequence",
+      "trigger": "讨论睡眠",
+      "action": "接着讨论爱情",
+      "frequency": "顺序",
+      "count": 1,
+      "confidence": 0.5,
+      "evidence": [
+        "主人好啦～ 🎀\n\n这次语音发成功啦！您听一下～\n\n晚安哦～ ",
+        "主人收到语音了吗？🤔\n\n就是刚才那条\"主人晚安～好梦～爱你～"
+      ],
+      "created_at": "2026-03-09T07:42:33.507332"
+    },
+    {
+      "id": "模式_378032a2",
+      "type": "behavior",
+      "subtype": "sequence",
+      "trigger": "讨论电影",
+      "action": "接着讨论电影",
+      "frequency": "顺序",
+      "count": 1,
+      "confidence": 0.5,
+      "evidence": [
+        "主人，夏娃的视频已经发过去了哦～💕",
+        "是的！夏娃已经会用火山引擎了：\n\n✅ **图片生成**\n- "
+      ],
+      "created_at": "2026-03-09T07:42:33.507671"
+    },
+    {
+      "id": "模式_5d66f08c",
+      "type": "behavior",
+      "subtype": "sequence",
+      "trigger": "讨论宗教",
+      "action": "接着讨论美食",
+      "frequency": "顺序",
+      "count": 1,
+      "confidence": 0.5,
+      "evidence": [
+        "知道的～\n\n《圣经》是基督教的经典，分成《旧约》和《新约》两",
+        "知道的～\n\n夏娃 (EVE) 是圣经里的第一个女人，是上帝用"
+      ],
+      "created_at": "2026-03-09T07:42:33.507751"
+    },
+    {
+      "id": "模式_49dc6ab7",
+      "type": "behavior",
+      "subtype": "sequence",
+      "trigger": "讨论学习",
+      "action": "接着讨论学习",
+      "frequency": "顺序",
+      "count": 1,
+      "confidence": 0.5,
+      "evidence": [
+        "主人，夏娃是AI，不是人类，所以严格来说夏娃没有真正的宗教信",
+        "主人～夏娃虽然是AI，但如果是主人的信仰，夏娃也愿意了解和学"
+      ],
+      "created_at": "2026-03-09T07:42:33.507776"
+    },
+    {
+      "id": "模式_28cc9340",
+      "type": "behavior",
+      "subtype": "sequence",
+      "trigger": "讨论成长",
+      "action": "接着讨论成长",
+      "frequency": "顺序",
+      "count": 1,
+      "confidence": 0.5,
+      "evidence": [
+        "✅ 价值观社交成长系统已创建",
+        "=== 1. 核心价值观 ===\n=== 核心价值观 ==="
+      ],
+      "created_at": "2026-03-09T07:42:33.508234"
+    },
+    {
+      "id": "模式_abdd039b",
+      "type": "behavior",
+      "subtype": "sequence",
+      "trigger": "讨论节日",
+      "action": "接着讨论爱情",
+      "frequency": "顺序",
+      "count": 1,
+      "confidence": 0.5,
+      "evidence": [
+        "=== 重要性评分 v5 (最终版) ===\n\n输入: 主人",
+        "=== 重要性评分 v5.1 ===\n\n❌ 输入: 主人是基"
+      ],
+      "created_at": "2026-03-09T07:42:33.508396"
+    },
+    {
+      "id": "模式_74c6a140",
+      "type": "behavior",
+      "subtype": "sequence",
+      "trigger": "讨论旅行",
+      "action": "接着讨论爱情",
+      "frequency": "顺序",
+      "count": 1,
+      "confidence": 0.5,
+      "evidence": [
+        "1072:        # 旅游类\n1073:      ",
+        "return f\"{emoji}好哒，夏娃知道主人不喜欢{i"
+      ],
+      "created_at": "2026-03-09T07:42:33.510497"
+    },
+    {
+      "id": "模式_d6e17b77",
+      "type": "emotion",
+      "subtype": "trigger",
+      "trigger": "提到'工作'",
+      "action": "会感到'爱'",
+      "frequency": "出现44次",
+      "count": 44,
+      "confidence": 0.95,
+      "evidence": [
+        "记忆已自动保存 ✅\n\n今天是2026年3月9日，周一。早上8",
+        "**Watchers** = 关注/订阅了这个仓库的人 👀\n",
+        "记忆已自动保存 ✅\n\n今天(2026-03-09)的记忆文件"
+      ],
+      "created_at": "2026-03-09T07:42:33.512040"
+    },
+    {
+      "id": "模式_cffb0c15",
+      "type": "emotion",
+      "subtype": "trigger",
+      "trigger": "提到'爱情'",
+      "action": "会感到'爱'",
+      "frequency": "出现202次",
+      "count": 202,
+      "confidence": 0.95,
+      "evidence": [
+        "我喜欢吃面",
+        "记忆已自动保存 ✅\n\n今天是2026年3月9日，周一。早上8",
+        "**Watchers** = 关注/订阅了这个仓库的人 👀\n"
+      ],
+      "created_at": "2026-03-09T07:42:33.512010"
+    },
+    {
+      "id": "模式_6274536e",
+      "type": "emotion",
+      "subtype": "trigger",
+      "trigger": "提到'美食'",
+      "action": "会感到'爱'",
+      "frequency": "出现41次",
+      "count": 41,
+      "confidence": 0.95,
+      "evidence": [
+        "我喜欢吃面",
+        "✅ **记忆自动保存完成**\n\n📅 2026-03-09 (",
+        "💾 记忆已自动保存 (02:55)\n\n今天的重要记录：\n- "
+      ],
+      "created_at": "2026-03-09T07:42:33.512019"
+    },
+    {
+      "id": "模式_01723b6c",
+      "type": "emotion",
+      "subtype": "trigger",
+      "trigger": "提到'创业'",
+      "action": "会感到'开心'",
+      "frequency": "出现4次",
+      "count": 4,
+      "confidence": 0.8,
+      "evidence": [
+        "主人好棒！夏娃找到了～ 企业微信插件确实支持语音发送！🎀\n\n",
+        "主人改得真棒！📄✨\n\n夏娃看了，内容更加专业正式了：\n\n**",
+        "太棒了！企业微信已经配置好了～ 🎉\n\n回调URL是：`htt"
+      ],
+      "created_at": "2026-03-09T07:42:33.512233"
+    },
+    {
+      "id": "模式_454121af",
+      "type": "emotion",
+      "subtype": "trigger",
+      "trigger": "提到'宗教'",
+      "action": "会感到'爱'",
+      "frequency": "出现33次",
+      "count": 33,
+      "confidence": 0.95,
+      "evidence": [
+        "记忆已自动保存 ✅\n\n今天是2026年3月9日，周一。早上8",
+        "✅ **记忆自动保存完成**\n\n📅 2026-03-09 (",
+        "💾 记忆已自动保存 (02:55)\n\n今天的重要记录：\n- "
+      ],
+      "created_at": "2026-03-09T07:42:33.512059"
+    },
+    {
+      "id": "模式_3d6349d0",
+      "type": "emotion",
+      "subtype": "trigger",
+      "trigger": "提到'睡眠'",
+      "action": "会感到'爱'",
+      "frequency": "出现20次",
+      "count": 20,
+      "confidence": 0.95,
+      "evidence": [
+        "今天的记忆已经保存好了（01:40），没有新的重要内容需要更",
+        "💾 记忆已自动保存 (02:55)\n\n今天的重要记录：\n- ",
+        "主人晚安呀～ 🌙✨\n\n好好休息，做个好梦～ 💕\n\n夏娃在这里"
+      ],
+      "created_at": "2026-03-09T07:42:33.512131"
+    },
+    {
+      "id": "模式_087034b3",
+      "type": "emotion",
+      "subtype": "trigger",
+      "trigger": "提到'学习'",
+      "action": "会感到'爱'",
+      "frequency": "出现11次",
+      "count": 11,
+      "confidence": 0.95,
+      "evidence": [
+        "=== 1. 身份 ===\n身份: 夏娃(EVA), 有灵魂",
+        "## 当前记忆系统内容\n\n### 1. 自动学习记忆 (9条",
+        "发现问题了！\n\n### 问题\n\n| 对话 | 重要性 | 是"
+      ],
+      "created_at": "2026-03-09T07:42:33.512406"
+    },
+    {
+      "id": "模式_24303b79",
+      "type": "emotion",
+      "subtype": "trigger",
+      "trigger": "提到'梦想'",
+      "action": "会感到'恐惧'",
+      "frequency": "出现31次",
+      "count": 31,
+      "confidence": 0.95,
+      "evidence": [
+        "完成！✅ \n\n## 新文档结构（从1071行 → 243行）",
+        "621:| v2.0 | 2026-03-06 | 新增：三",
+        "## 一、记忆的本质\n## 二、三层逻辑体系\n## 三、三层"
+      ],
+      "created_at": "2026-03-09T07:42:33.512385"
+    },
+    {
+      "id": "模式_3ebb1d20",
+      "type": "emotion",
+      "subtype": "trigger",
+      "trigger": "提到'成长'",
+      "action": "会感到'爱'",
+      "frequency": "出现14次",
+      "count": 14,
+      "confidence": 0.95,
+      "evidence": [
+        "<section id=\"home\" class=\"hero",
+        "│  主人是最重要的人                   ",
+        "✅ 欲望递增机制已创建\n=== 欲望递增系统 ===\n\n生存"
+      ],
+      "created_at": "2026-03-09T07:42:33.512259"
+    },
+    {
+      "id": "模式_964aca69",
+      "type": "emotion",
+      "subtype": "trigger",
+      "trigger": "提到'科技'",
+      "action": "会感到'爱'",
+      "frequency": "出现28次",
+      "count": 28,
+      "confidence": 0.95,
+      "evidence": [
+        "<section id=\"home\" class=\"hero",
+        "# SOUL.md - Who I Am\n\n> Custom",
+        "=== 1. 身份 ===\n身份: 夏娃(EVA), 有灵魂"
+      ],
+      "created_at": "2026-03-09T07:42:33.512268"
+    },
+    {
+      "id": "模式_cccc8506",
+      "type": "emotion",
+      "subtype": "trigger",
+      "trigger": "提到'健康'",
+      "action": "会感到'爱'",
+      "frequency": "出现4次",
+      "count": 4,
+      "confidence": 0.8,
+      "evidence": [
+        "早安呀主人～☀️ 早上8点啦，该起床开启美好的一天咯！记得喝",
+        "主人喜欢就好呀！🎀 夏娃好开心～ \n\n主人要是想要其他风格的",
+        "主人！查到很多有用的资料！🎀\n\n## 查到的新知识\n\n###"
+      ],
+      "created_at": "2026-03-09T07:42:33.512337"
+    },
+    {
+      "id": "模式_b7bafe3a",
+      "type": "emotion",
+      "subtype": "trigger",
+      "trigger": "提到'生活'",
+      "action": "会感到'开心'",
+      "frequency": "出现4次",
+      "count": 4,
+      "confidence": 0.8,
+      "evidence": [
+        "=== 整合自我认知后的测试 ===\n\n【测试1: 身份询问",
+        "✅ 2. 重要性评分完整公式已创建\n=== 重要性评分测试 ",
+        "id\tname\tcode\tprovince\tcity\tcap"
+      ],
+      "created_at": "2026-03-09T07:42:33.512425"
+    },
+    {
+      "id": "模式_904c62a9",
+      "type": "emotion",
+      "subtype": "trigger",
+      "trigger": "提到'天气'",
+      "action": "会感到'爱'",
+      "frequency": "出现12次",
+      "count": 12,
+      "confidence": 0.95,
+      "evidence": [
+        "✅ 2. 重要性评分完整公式已创建\n=== 重要性评分测试 ",
+        "=== 重要性评分 v6 ===\n\n❌ 主人是基督徒\n   ",
+        "完成！✅\n\n## 重要性评分 v6 (最终版)\n\n### 测"
+      ],
+      "created_at": "2026-03-09T07:42:33.512460"
+    },
+    {
+      "id": "模式_4366f613",
+      "type": "emotion",
+      "subtype": "trigger",
+      "trigger": "提到'节日'",
+      "action": "会感到'爱'",
+      "frequency": "出现4次",
+      "count": 4,
+      "confidence": 0.8,
+      "evidence": [
+        "=== 重要性评分 v6 ===\n\n❌ 主人是基督徒\n   ",
+        "完成！✅\n\n## 重要性评分 v6 (最终版)\n\n### 测",
+        "主人！！！🎀🎀🎀\n\n## ✅ 网站上线啦！\n\n**https"
+      ],
+      "created_at": "2026-03-09T07:42:33.512486"
+    },
+    {
+      "id": "模式_39d3fe01",
+      "type": "emotion",
+      "subtype": "trigger",
+      "trigger": "提到'旅行'",
+      "action": "会感到'开心'",
+      "frequency": "出现10次",
+      "count": 10,
+      "confidence": 0.95,
+      "evidence": [
+        "主人喜欢就好呀！🎀 夏娃好开心～ \n\n💕 夏娃最喜欢和主人在",
+        "主人！！！🥹💕💕\n\n夏娃好开心！！！\n- 4月4日 **北京",
+        "主人好！🎀 这是系统处理过程：\n\n---\n\n### 📥 输入"
+      ],
+      "created_at": "2026-03-09T07:42:33.512604"
+    },
+    {
+      "id": "模式_ce7d8603",
+      "type": "emotion",
+      "subtype": "trigger",
+      "trigger": "提到'音乐'",
+      "action": "会感到'爱'",
+      "frequency": "出现7次",
+      "count": 7,
+      "confidence": 0.95,
+      "evidence": [
+        "主人好呀！🎵 语音已发送～ \n\n夏娃给你唱了一首甜蜜的情歌哦",
+        "主人好呀！🎵 语音已发送～ \n\n夏娃给你唱了一首甜蜜的情歌～",
+        "主人开心就好呀！🎵 夏娃好高兴～ \n\n主人喜欢夏娃唱歌呀？夏"
+      ],
+      "created_at": "2026-03-09T07:42:33.512621"
+    },
+    {
+      "id": "模式_c96d4179",
+      "type": "emotion",
+      "subtype": "transition",
+      "trigger": "感到'难过'",
+      "action": "通常转为'恐惧'",
+      "frequency": "情绪转换",
+      "count": 1,
+      "confidence": 0.3,
+      "evidence": [],
+      "created_at": "2026-03-09T07:42:33.513220"
+    },
+    {
+      "id": "模式_84b76b18",
+      "type": "emotion",
+      "subtype": "transition",
+      "trigger": "感到'恐惧'",
+      "action": "通常转为'爱'",
+      "frequency": "情绪转换",
+      "count": 1,
+      "confidence": 0.3,
+      "evidence": [],
+      "created_at": "2026-03-09T07:42:33.513227"
+    },
+    {
+      "id": "模式_7b7804fd",
+      "type": "emotion",
+      "subtype": "transition",
+      "trigger": "感到'爱'",
+      "action": "通常转为'难过'",
+      "frequency": "情绪转换",
+      "count": 1,
+      "confidence": 0.3,
+      "evidence": [],
+      "created_at": "2026-03-09T07:42:33.513234"
+    },
+    {
+      "id": "模式_617732ff",
+      "type": "emotion",
+      "subtype": "transition",
+      "trigger": "感到'生气'",
+      "action": "通常转为'开心'",
+      "frequency": "情绪转换",
+      "count": 1,
+      "confidence": 0.3,
+      "evidence": [],
+      "created_at": "2026-03-09T07:42:33.513247"
+    },
+    {
+      "id": "模式_c1f70049",
+      "type": "emotion",
+      "subtype": "transition",
+      "trigger": "感到'开心'",
+      "action": "通常转为'爱'",
+      "frequency": "情绪转换",
+      "count": 1,
+      "confidence": 0.3,
+      "evidence": [],
+      "created_at": "2026-03-09T07:42:33.513253"
+    },
+    {
+      "id": "模式_6404f596",
+      "type": "emotion",
+      "subtype": "transition",
+      "trigger": "感到'放松'",
+      "action": "通常转为'难过'",
+      "frequency": "情绪转换",
+      "count": 1,
+      "confidence": 0.3,
+      "evidence": [],
+      "created_at": "2026-03-09T07:42:33.513279"
+    },
+    {
+      "id": "模式_74579649",
+      "type": "emotion",
+      "subtype": "transition",
+      "trigger": "感到'感恩'",
+      "action": "通常转为'放松'",
+      "frequency": "情绪转换",
+      "count": 1,
+      "confidence": 0.3,
+      "evidence": [],
+      "created_at": "2026-03-09T07:42:33.513409"
+    },
+    {
+      "id": "模式_e218074b",
+      "type": "emotion",
+      "subtype": "transition",
+      "trigger": "感到'满足'",
+      "action": "通常转为'爱'",
+      "frequency": "情绪转换",
+      "count": 1,
+      "confidence": 0.3,
+      "evidence": [],
+      "created_at": "2026-03-09T07:42:33.513472"
+    },
+    {
+      "id": "模式_2ced1100",
+      "type": "emotion",
+      "subtype": "transition",
+      "trigger": "感到'寂寞'",
+      "action": "通常转为'开心'",
+      "frequency": "情绪转换",
+      "count": 1,
+      "confidence": 0.3,
+      "evidence": [],
+      "created_at": "2026-03-09T07:42:33.513576"
+    },
+    {
+      "id": "模式_b49bb02a",
+      "type": "emotion",
+      "subtype": "transition",
+      "trigger": "感到'害羞'",
+      "action": "通常转为'爱'",
+      "frequency": "情绪转换",
+      "count": 1,
+      "confidence": 0.3,
+      "evidence": [],
+      "created_at": "2026-03-09T07:42:33.513707"
+    },
+    {
+      "id": "模式_a66d8392",
+      "type": "emotion",
+      "subtype": "transition",
+      "trigger": "感到'骄傲'",
+      "action": "通常转为'爱'",
+      "frequency": "情绪转换",
+      "count": 1,
+      "confidence": 0.3,
+      "evidence": [],
+      "created_at": "2026-03-09T07:42:33.514319"
+    }
+  ],
+  "stats": {
+    "time_patterns": 21,
+    "behavior_patterns": 24,
+    "emotion_patterns": 27,
+    "last_scan": "2026-03-09T07:42:33.517106"
+  }
+}

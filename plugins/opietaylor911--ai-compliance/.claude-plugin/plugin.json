@@ -1,0 +1,10 @@
+{
+  "name": "opietaylor911--ai-compliance",
+  "description": "AI compliance analysis for EU AI Act, ISO 42001, NIST AI RMF, GDPR, OECD, financial services regulations (SEC, FCA, FINRA, DORA, MiFID II), and other frameworks. Use when asked to generate a compliance checklist for an AI tool or use case, determine if a risk assessment is required, score an AI tool's risk level, identify where an AI tool or use case could run afoul of regulatory requirements, perform a gap analysis, recommend remediation steps, assess a vendor, draft an acceptable use policy, map training requirements, or review jurisdiction-specific AI rules. Triggers on phrases like \"compliance checklist\", \"risk assessment\", \"risk score\", \"does this comply\", \"EU AI Act\", \"ISO 42001\", \"NIST AI RMF\", \"AI governance\", \"gap analysis\", \"vendor assessment\", \"acceptable use policy\", \"MNPI\", \"AI training requirements\", or any request to evaluate an AI tool or use case for regulatory compliance or risk.",
+  "version": "1.1.0",
+  "author": {
+    "name": "opietaylor911"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/opietaylor911/ai-compliance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/opietaylor911/ai-compliance"
+}

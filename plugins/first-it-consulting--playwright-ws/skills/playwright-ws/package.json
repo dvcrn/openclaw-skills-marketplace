@@ -1,0 +1,23 @@
+{
+  "name": "playwright-skill",
+  "version": "1.0.2",
+  "description": "Remote Playwright browser automation for screenshots and PDFs",
+  "main": "scripts/screenshot.js",
+  "scripts": {
+    "screenshot": "node scripts/screenshot.js",
+    "pdf": "node scripts/pdf-export.js",
+    "test": "bash test.sh"
+  },
+  "keywords": [
+    "playwright",
+    "browser-automation",
+    "screenshot",
+    "pdf",
+    "websocket"
+  ],
+  "author": "First IT Consulting",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}

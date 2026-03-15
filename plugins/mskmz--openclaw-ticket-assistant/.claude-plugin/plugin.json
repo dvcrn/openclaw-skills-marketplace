@@ -1,0 +1,10 @@
+{
+  "name": "mskmz--openclaw-ticket-assistant",
+  "description": "OpenClaw工单助手，根据客服截图自动分析客户问题并创建工单。触发词：工单、创建工单、客服截图、提工单。",
+  "version": "1.0.0",
+  "author": {
+    "name": "mskmz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mskmz/openclaw-ticket-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mskmz/openclaw-ticket-assistant"
+}

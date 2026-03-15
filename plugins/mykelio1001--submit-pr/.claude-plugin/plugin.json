@@ -1,0 +1,10 @@
+{
+  "name": "mykelio1001--submit-pr",
+  "description": "规范化 PR 提交工作流。当用户需要提交 PR 时使用，自动完成敏感信息扫描、文件范围确认、规范 commit 生成和 PR 创建",
+  "version": "1.0.2",
+  "author": {
+    "name": "mykelio1001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mykelio1001/submit-pr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mykelio1001/submit-pr"
+}

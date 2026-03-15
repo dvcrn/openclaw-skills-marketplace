@@ -1,0 +1,10 @@
+{
+  "name": "zats--brave-images",
+  "description": "Search for images using Brave Search API. Use when you need to find images, pictures, photos, or visual content on any topic. Requires BRAVE_API_KEY environment variable.",
+  "version": "1.0.1",
+  "author": {
+    "name": "zats"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zats/brave-images",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zats/brave-images"
+}

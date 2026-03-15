@@ -1,0 +1,10 @@
+{
+  "name": "gregertw--managing-actingweb-memory",
+  "description": "Stores and retrieves personal preferences, decisions, and context across conversations using ActingWeb Personal AI Memory via MCP. Activates when the user mentions remembering things, recalling past decisions, saving information for later, personalized recommendations, shared context with other people, controlling connected devices, or anything benefiting from long-term memory. Also activates when personal context would improve the response including trip planning, meeting prep, purchase decisions, diet and health topics, or any request where knowing user history and preferences matters.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gregertw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gregertw/managing-actingweb-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gregertw/managing-actingweb-memory"
+}

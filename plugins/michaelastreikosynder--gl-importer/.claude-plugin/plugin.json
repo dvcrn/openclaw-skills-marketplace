@@ -1,0 +1,10 @@
+{
+  "name": "michaelastreikosynder--gl-importer",
+  "description": "Import CSV/XLSX accounting data into QuickBooks Online or Xero via the Synder Importer REST API. Use when asked to import invoices, bills, journal entries, customers, vendors, or any accounting data from spreadsheets/CSV files into QBO or Xero. Handles field mapping, file upload, import execution, status polling, and result retrieval. Supports smart auto-mapping for quick imports. NOT for reading/exporting data from QBO/Xero — this is import-only.",
+  "version": "1.0.1",
+  "author": {
+    "name": "michaelastreikosynder"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/michaelastreikosynder/gl-importer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/michaelastreikosynder/gl-importer"
+}

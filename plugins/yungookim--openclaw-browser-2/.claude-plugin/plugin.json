@@ -1,0 +1,10 @@
+{
+  "name": "yungookim--openclaw-browser-2",
+  "description": "A stable native browser (WKWebView) for OpenClaw agents. Opens a visible window with tab management, URL bar, and login helpers — every website works, including Perplexity, Grok, Claude, and ChatGPT.",
+  "version": "0.1.0",
+  "author": {
+    "name": "yungookim"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yungookim/openclaw-browser-2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yungookim/openclaw-browser-2"
+}

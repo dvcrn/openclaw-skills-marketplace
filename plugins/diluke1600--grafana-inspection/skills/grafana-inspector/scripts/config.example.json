@@ -1,0 +1,11 @@
+{
+  "grafana_url": "http://localhost:3000",
+  "api_key": "your_grafana_api_key",
+  "dashboard_uid": "your_dashboard_uid",
+  "panel_ids": [1, 2, 3],
+  "screenshot_dir": "./screenshots",
+  "output_dir": "./reports",
+  "feishu_app_id": "your_feishu_app_id",
+  "feishu_app_secret": "your_feishu_app_secret",
+  "feishu_folder_token": "your_folder_token"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zer0yu--sec-daily-digest",
+  "description": "Use when asked to generate a cybersecurity daily digest from CyberSecurityRSS OPML feeds and Twitter/X KOL accounts, with provider selection, recent-window filtering, archive dedup, vulnerability merging, source health monitoring, and markdown output.",
+  "version": "0.2.1",
+  "author": {
+    "name": "zer0yu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zer0yu/sec-daily-digest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zer0yu/sec-daily-digest"
+}

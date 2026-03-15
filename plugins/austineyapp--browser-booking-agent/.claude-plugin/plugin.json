@@ -1,0 +1,10 @@
+{
+  "name": "austineyapp--browser-booking-agent",
+  "description": "Execute booking/search flows via browser automation with verification artifacts. Use for reservation forms, availability checks, and capture of proof (screenshots/confirmation IDs).",
+  "version": "1.0.0",
+  "author": {
+    "name": "austineyapp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/austineyapp/browser-booking-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/austineyapp/browser-booking-agent"
+}

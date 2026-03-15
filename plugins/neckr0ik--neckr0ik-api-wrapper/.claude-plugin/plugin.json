@@ -1,0 +1,10 @@
+{
+  "name": "neckr0ik--neckr0ik-api-wrapper",
+  "description": "Convert any REST API into an OpenClaw skill automatically. Generates SKILL.md, scripts, and claw.json from OpenAPI spec or URL. Use when you want to quickly create a skill for any API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "neckr0ik"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neckr0ik/neckr0ik-api-wrapper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neckr0ik/neckr0ik-api-wrapper"
+}

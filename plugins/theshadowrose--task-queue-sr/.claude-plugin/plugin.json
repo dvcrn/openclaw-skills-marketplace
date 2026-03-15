@@ -1,0 +1,10 @@
+{
+  "name": "theshadowrose--task-queue-sr",
+  "description": "Queue async tasks for your agent with retry logic, priority levels, dependency chains, concurrency, per-task timeouts, event hooks, cancel/clear, and run metrics. Production-ready task orchestration for AI agents.",
+  "version": "1.1.0",
+  "author": {
+    "name": "theshadowrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/task-queue-sr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/task-queue-sr"
+}

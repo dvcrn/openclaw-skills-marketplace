@@ -1,0 +1,10 @@
+{
+  "name": "johnnywang2001--sitemap-generator",
+  "description": "Generate XML sitemaps by crawling a website. Use when a user needs to create a sitemap.xml for SEO, audit site structure, discover all pages on a domain, or generate a sitemap for submission to Google Search Console or other search engines. Handles BFS crawling with configurable depth, page limits, and polite delays.",
+  "version": "1.0.0",
+  "author": {
+    "name": "johnnywang2001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/sitemap-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/sitemap-generator"
+}

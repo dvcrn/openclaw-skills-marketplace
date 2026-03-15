@@ -1,0 +1,10 @@
+{
+  "name": "wpank--auto-context",
+  "description": "Automatically read relevant context before major actions. Loads TODO.md, roadmap.md, handoffs, task plans, and other project context files so the AI operates with full situational awareness. Use when starting a task, implementing a feature, refactoring, debugging, planning, or resuming a session.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/auto-context",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/auto-context"
+}

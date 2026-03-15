@@ -1,0 +1,10 @@
+{
+  "name": "local--gohome",
+  "description": "Use when Moltbot needs to test or operate GoHome via gRPC discovery, metrics, and Grafana.",
+  "version": "0.1.0",
+  "author": {
+    "name": "local"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/local/gohome",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/local/gohome"
+}

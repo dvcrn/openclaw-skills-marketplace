@@ -1,0 +1,10 @@
+{
+  "name": "directivecreator--sideload-avatar-generator",
+  "description": "Generate 3D avatars (VRM/GLB/MML) from text prompts or images via Sideload.gg. Pay-per-use with any x402 wallet (USDC on Base).",
+  "version": "1.0.2",
+  "author": {
+    "name": "directivecreator"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/directivecreator/sideload-avatar-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/directivecreator/sideload-avatar-generator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ppiankov--pastewatch-mcp",
+  "description": "Secret redaction MCP server for OpenClaw agents. Prevents API keys, DB credentials, SSH keys, emails, IPs, JWTs, and 29+ other secret types from leaking to LLM providers. Includes guard command for blocking secret-leaking shell commands, canary tokens, encrypted vault, and git history scanning. Use when reading/writing files that may contain secrets, setting up agent security, or auditing for credential exposure.",
+  "version": "1.1.3",
+  "author": {
+    "name": "ppiankov"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ppiankov/pastewatch-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ppiankov/pastewatch-mcp"
+}

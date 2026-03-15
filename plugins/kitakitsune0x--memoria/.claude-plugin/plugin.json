@@ -1,0 +1,10 @@
+{
+  "name": "kitakitsune0x--memoria",
+  "description": "Structured memory system for AI agents. Use when the user wants to store, recall, or search memories, manage session lifecycle (wake/sleep/checkpoint), sync to Notion, or when the user shares important information that should be remembered (facts, decisions, preferences, lessons, commitments, relationships, projects).",
+  "version": "0.2.1",
+  "author": {
+    "name": "kitakitsune0x"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kitakitsune0x/memoria",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kitakitsune0x/memoria"
+}

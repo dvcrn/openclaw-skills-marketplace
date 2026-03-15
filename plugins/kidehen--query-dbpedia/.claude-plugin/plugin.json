@@ -1,0 +1,10 @@
+{
+  "name": "kidehen--query-dbpedia",
+  "description": "Transform natural language questions into SPARQL queries for DBpedia and generate beautiful HTML results pages. Query the DBpedia knowledge graph using plain English prompts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kidehen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kidehen/query-dbpedia",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kidehen/query-dbpedia"
+}

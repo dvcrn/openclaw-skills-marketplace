@@ -1,0 +1,10 @@
+{
+  "name": "zhaog100--context-manager-v2",
+  "description": "Auto context management with seamless session switching. Monitors usage, triggers at 85% threshold, automatically creates new session with loaded memory. Zero user intervention required. Trigger on \"context\", \"memory\", \"session management\", \"context limit\", \"memory transfer\".",
+  "version": "2.2.2",
+  "author": {
+    "name": "zhaog100"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhaog100/context-manager-v2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhaog100/context-manager-v2"
+}

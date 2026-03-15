@@ -1,0 +1,10 @@
+{
+  "name": "harrylabsj--skill-safety-auditor",
+  "description": "Perform comprehensive security audits on skills to identify vulnerabilities, unsafe patterns, and compliance issues. Use when auditing skills for security, checking for hardcoded secrets, injection risks, or before releasing skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "harrylabsj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/skill-safety-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/skill-safety-auditor"
+}

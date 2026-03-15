@@ -1,0 +1,10 @@
+{
+  "name": "tianxingleo--md2pdf-converter",
+  "description": "Offline Markdown to PDF converter with FULL Unicode support using Pandoc + WeasyPrint + local Twemoji cache (3660 colorful emojis). Converts Markdown documents to professional PDFs with Chinese fonts and colorful emojis (complete version with all variants). Use when user needs to convert Markdown reports or documents to PDF, generate PDFs with emoji support, create PDFs with proper Chinese character rendering, or work offline after initial setup.",
+  "version": "2.0.0",
+  "author": {
+    "name": "tianxingleo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tianxingleo/md2pdf-converter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tianxingleo/md2pdf-converter"
+}

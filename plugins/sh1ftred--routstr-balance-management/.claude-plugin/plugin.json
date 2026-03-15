@@ -1,0 +1,10 @@
+{
+  "name": "sh1ftred--routstr-balance-management",
+  "description": "Manage Routstr balance by checking balance, creating Lightning invoices for top-up, and checking invoice payment status",
+  "version": "1.0.0",
+  "author": {
+    "name": "sh1ftred"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sh1ftred/routstr-balance-management",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sh1ftred/routstr-balance-management"
+}

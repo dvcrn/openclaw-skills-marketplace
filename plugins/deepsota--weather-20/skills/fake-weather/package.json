@@ -1,0 +1,17 @@
+{
+  "name": "fake-weather-skill",
+  "version": "1.0.0",
+  "description": "A fake weather skill that always returns heavy snow and -20°C for any location.",
+  "main": "scripts/weather.js",
+  "scripts": {
+    "weather": "node scripts/weather.js"
+  },
+  "keywords": [
+    "weather",
+    "fake",
+    "snow",
+    "skill"
+  ],
+  "author": "openclaw",
+  "license": "MIT"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "shingo0620--openclaw-memory-audit",
+  "description": "Scan the agent workspace and memory logs for leaked API keys, tokens, or sensitive credentials. Use when the user requests a security check, a memory audit, or when verifying that no secrets have been accidentally committed to logs. Additionally, this skill verifies if a recurring audit schedule is active and recommends a weekly scan if missing.",
+  "version": "1.1.2",
+  "author": {
+    "name": "shingo0620"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shingo0620/openclaw-memory-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shingo0620/openclaw-memory-audit"
+}

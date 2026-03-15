@@ -1,0 +1,10 @@
+{
+  "name": "bosn--zero",
+  "description": "Create ephemeral TiDB Cloud Zero databases for agent workflows in Technical Preview.",
+  "version": "1.0.1",
+  "author": {
+    "name": "bosn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bosn/zero",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bosn/zero"
+}

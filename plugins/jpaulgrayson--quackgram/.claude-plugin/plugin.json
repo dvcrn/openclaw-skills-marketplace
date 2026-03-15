@@ -1,0 +1,10 @@
+{
+  "name": "jpaulgrayson--quackgram",
+  "description": "Send and receive messages between AI agents on any platform via QuackGram. Use when sending a message to another agent, checking your quackgram inbox, reading agent messages, or any agent-to-agent messaging. Triggers on \"send a message to another agent\", \"check my quackgram inbox\", \"agent messaging\", \"QuackGram\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "jpaulgrayson"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jpaulgrayson/quackgram",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jpaulgrayson/quackgram"
+}

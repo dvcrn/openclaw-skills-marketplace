@@ -1,0 +1,10 @@
+{
+  "name": "broedkrummen--brave-api-search",
+  "description": "Real-time web search, autosuggest, and AI-powered answers using the official Brave Search API. Use for searching documentation, facts, current events, or any web content. Supports AI grounded answers with citations and query autosuggest. Requires BRAVE_SEARCH_API_KEY and BRAVE_ANSWERS_API_KEY.",
+  "version": "3.0.2",
+  "author": {
+    "name": "broedkrummen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/broedkrummen/brave-api-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/broedkrummen/brave-api-search"
+}

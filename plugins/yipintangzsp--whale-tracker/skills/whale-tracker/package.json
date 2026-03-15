@@ -1,0 +1,1 @@
+{"name":"whale-tracker","version":"1.0.0","description":"Whale 地址追踪器 - 监控链上巨鲸动向，提前跟随操作","main":"index.js","bin":{"whale-tracker":"./index.js"},"dependencies":{"node-fetch":"^2.7.0"}}

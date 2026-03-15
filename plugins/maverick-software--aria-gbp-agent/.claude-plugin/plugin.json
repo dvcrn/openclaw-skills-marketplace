@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--aria-gbp-agent",
+  "description": "Agent identity package for Aria 📍 — installs SOUL.md, IDENTITY.md, and AGENTS.md into an OpenClaw workspace to give an AI agent its personality, name, and operational rules. Use when setting up a new agent or replacing an agent's identity files.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/aria-gbp-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/aria-gbp-agent"
+}

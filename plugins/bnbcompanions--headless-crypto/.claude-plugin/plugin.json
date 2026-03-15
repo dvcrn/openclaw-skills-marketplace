@@ -1,0 +1,10 @@
+{
+  "name": "bnbcompanions--headless-crypto",
+  "description": "Autonomous trading for AI agents on Solana and BNB Chain. Use when: (1) executing token swaps on DEXs (Raydium, PancakeSwap), (2) checking token prices and balances, (3) monitoring liquidity pools, (4) implementing trading strategies, (5) managing portfolio positions. Supports headless execution without browser interaction.",
+  "version": "1.0.1",
+  "author": {
+    "name": "bnbcompanions"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bnbcompanions/headless-crypto",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bnbcompanions/headless-crypto"
+}

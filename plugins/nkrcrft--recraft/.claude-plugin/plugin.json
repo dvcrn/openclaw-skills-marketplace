@@ -1,0 +1,10 @@
+{
+  "name": "nkrcrft--recraft",
+  "description": "Generate, vectorize, upscale, replace background, variate, remove background, and transform images via Recraft API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nkrcrft"
+  },
+  "homepage": "https://www.recraft.ai/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nkrcrft/recraft"
+}

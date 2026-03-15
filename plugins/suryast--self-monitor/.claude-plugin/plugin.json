@@ -1,0 +1,10 @@
+{
+  "name": "suryast--self-monitor",
+  "description": "Proactive self-monitoring of infrastructure, services, and health. Tracks disk/memory/load, service health, cron job status, recent errors. Auto-fixes safe issues. Triggers on: health check, heartbeat, monitor status, service status, infrastructure check.",
+  "version": "1.0.1",
+  "author": {
+    "name": "suryast"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/suryast/self-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/suryast/self-monitor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "imaxtomas--mcp-ssh-manager",
+  "description": "This skill should be used when the user asks to \"run ssh command\", \"execute on server\", \"ssh session\", \"upload file\", \"download file\", \"ssh tunnel\", \"check server status\", \"monitor server\", \"deploy files\", \"backup server\", or needs remote server management. This skill emphasizes session reuse, workdir organization, and content persistence for sustainable operations.",
+  "version": "0.1.1",
+  "author": {
+    "name": "imaxtomas"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imaxtomas/mcp-ssh-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imaxtomas/mcp-ssh-manager"
+}

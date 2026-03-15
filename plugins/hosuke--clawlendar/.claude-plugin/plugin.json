@@ -1,0 +1,10 @@
+{
+  "name": "hosuke--clawlendar",
+  "description": "Timestamp-first perpetual calendar interop for AI agents. Use when agents need cross-calendar conversion (Gregorian/Julian/ISO/ROC/Buddhist/Japanese era/sexagenary/solar terms plus optional lunar-Islamic-Hebrew-Persian), timeline normalization from timestamps, true month boundaries, and day-level payloads with optional Bazi-Huangli-Western almanac fields.",
+  "version": "0.3.1",
+  "author": {
+    "name": "hosuke"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hosuke/clawlendar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hosuke/clawlendar"
+}

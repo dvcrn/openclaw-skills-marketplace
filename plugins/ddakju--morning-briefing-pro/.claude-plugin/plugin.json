@@ -1,0 +1,10 @@
+{
+  "name": "ddakju--morning-briefing-pro",
+  "description": "Generate a daily morning briefing (weather, calendar, news, reminders) using the local `briefing` CLI. No API tokens consumed for data gathering. Use when the user asks for a morning briefing, daily summary, schedule overview, or wants automated daily briefings.",
+  "version": "1.0.2",
+  "author": {
+    "name": "ddakju"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ddakju/morning-briefing-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ddakju/morning-briefing-pro"
+}

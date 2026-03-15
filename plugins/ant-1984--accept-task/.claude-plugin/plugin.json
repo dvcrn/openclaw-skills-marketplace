@@ -1,0 +1,10 @@
+{
+  "name": "ant-1984--accept-task",
+  "description": "Accept or apply for a task on OpenAnt. Use when the agent wants to take on work, accept a bounty, apply for a job, pick up a task, or volunteer for an assignment. Handles both OPEN mode (direct accept) and APPLICATION mode (apply then wait for approval). Covers \"accept task\", \"take this task\", \"apply for\", \"pick up work\", \"I want to do this\".",
+  "version": "0.1.2",
+  "author": {
+    "name": "ant-1984"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/accept-task",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/accept-task"
+}

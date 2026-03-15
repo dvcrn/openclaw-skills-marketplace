@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--contact-enrichment",
+  "description": "Extract contact information from a website using a 3-tier approach. Direct HTML scraping, WHOIS lookup, then Hunter.io API domain search for verified business emails.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/contact-enrichment",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/contact-enrichment"
+}

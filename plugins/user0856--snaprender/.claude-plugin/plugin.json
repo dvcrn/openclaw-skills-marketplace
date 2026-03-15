@@ -1,0 +1,10 @@
+{
+  "name": "user0856--snaprender",
+  "description": "Give your agent eyes on the web — screenshot any URL as an image file. Supports device emulation (iPhone, iPad, Pixel, MacBook), dark mode, full-page scroll, ad blocking. Uses exec tool with curl (NEVER the browser tool). $SNAPRENDER_API_KEY is pre-set. See instructions below.",
+  "version": "1.3.2",
+  "author": {
+    "name": "user0856"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/user0856/snaprender",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/user0856/snaprender"
+}

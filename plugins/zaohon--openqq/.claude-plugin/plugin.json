@@ -1,0 +1,10 @@
+{
+  "name": "zaohon--openqq",
+  "description": "QQ bot integration for OpenClaw with session isolation, logging, and AI auto-reply. Supports private chat and group @messages.",
+  "version": "0.0.5",
+  "author": {
+    "name": "zaohon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zaohon/openqq",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zaohon/openqq"
+}

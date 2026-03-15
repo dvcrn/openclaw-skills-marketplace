@@ -1,0 +1,10 @@
+{
+  "name": "trendinghot--openexec-skill",
+  "description": "Source-distributed deterministic execution service with pinned dependencies. Runs only with a signed approval artifact (ClawShield mode) and emits verifiable receipts. Performs no outbound HTTP or governance calls. No runtime package installation or dynamic downloads occur.",
+  "version": "0.1.10",
+  "author": {
+    "name": "trendinghot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/trendinghot/openexec-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/trendinghot/openexec-skill"
+}

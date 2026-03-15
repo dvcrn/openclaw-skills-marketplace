@@ -1,0 +1,10 @@
+{
+  "name": "fatcatmaofei--openclaw-guardian",
+  "description": "A security layer plugin for OpenClaw that intercepts dangerous tool calls (exec, write, edit) through two-tier regex blacklist rules and LLM-based intent verification. Critical operations require 3/3 unanimous LLM votes, warning-level operations require 1 LLM confirmation. 99% of normal operations pass instantly with zero overhead. Includes bypass/pipe-attack detection, path canonicalization, SHA-256 hash-chain audit logging, and auto-discovers a cheap model from your existing provider config.",
+  "version": "1.0.1",
+  "author": {
+    "name": "fatcatmaofei"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fatcatmaofei/openclaw-guardian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fatcatmaofei/openclaw-guardian"
+}

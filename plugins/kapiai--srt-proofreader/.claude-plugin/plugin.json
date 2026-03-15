@@ -1,0 +1,10 @@
+{
+  "name": "kapiai--srt-proofreader",
+  "description": "Proofread SRT subtitles by using srts/source.md as terminology reference while preserving subtitle indices and timestamps. Use when users ask to proofread or correct srts/*.srt files and require git-tracked edits, optional large-file section splitting, and merge-back.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kapiai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kapiai/srt-proofreader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kapiai/srt-proofreader"
+}

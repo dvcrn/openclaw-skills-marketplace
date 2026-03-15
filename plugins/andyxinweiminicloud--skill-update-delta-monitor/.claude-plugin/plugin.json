@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--skill-update-delta-monitor",
+  "description": "Helps detect security-relevant changes in AI skills after installation. Tracks deltas between the audited version and current version, flagging updates that expand permissions, add new network endpoints, or alter behavior in ways that bypass install-time security checks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/skill-update-delta-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/skill-update-delta-monitor"
+}

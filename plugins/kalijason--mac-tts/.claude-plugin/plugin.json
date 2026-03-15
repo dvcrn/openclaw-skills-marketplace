@@ -1,0 +1,10 @@
+{
+  "name": "kalijason--mac-tts",
+  "description": "Text-to-speech using macOS built-in `say` command. Use for voice notifications, audio alerts, reading text aloud, or announcing messages through Mac speakers. Supports multiple languages including Chinese (Mandarin), English, Japanese, etc.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kalijason"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kalijason/mac-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kalijason/mac-tts"
+}

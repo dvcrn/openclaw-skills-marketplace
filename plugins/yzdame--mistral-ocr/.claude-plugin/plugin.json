@@ -1,0 +1,10 @@
+{
+  "name": "yzdame--mistral-ocr",
+  "description": "Convert PDF/images to Markdown/JSON/HTML using Mistral OCR API. Supports image extraction, table recognition, header/footer handling. Usage: Upload a file and say \"Use Mistral OCR to process this\".",
+  "version": "1.0.4",
+  "author": {
+    "name": "yzdame"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yzdame/mistral-ocr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yzdame/mistral-ocr"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xiaoski--ms-todo-sync",
+  "description": "A CLI skill to manage Microsoft To Do tasks via Microsoft Graph API. Supports listing, creating, completing, deleting, searching tasks and lists, viewing overdue/today/pending tasks, and exporting data.",
+  "version": "1.0.2",
+  "author": {
+    "name": "xiaoski"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaoski/ms-todo-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaoski/ms-todo-sync"
+}

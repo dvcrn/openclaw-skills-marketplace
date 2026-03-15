@@ -1,0 +1,10 @@
+{
+  "name": "coderwpf--miniqmt",
+  "description": "miniQMT Minimalist Quantitative Trading Terminal — Supports external Python for market data retrieval and programmatic trading via the xtquant SDK.",
+  "version": "1.0.1",
+  "author": {
+    "name": "coderwpf"
+  },
+  "homepage": "http://dict.thinktrader.net/nativeApi/start_now.html",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/coderwpf/miniqmt"
+}

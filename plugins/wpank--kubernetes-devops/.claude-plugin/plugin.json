@@ -1,0 +1,10 @@
+{
+  "name": "wpank--kubernetes-devops",
+  "description": "WHAT: Kubernetes manifest generation - Deployments, StatefulSets, CronJobs, Services, Ingresses, \n ConfigMaps, Secrets, and PVCs with production-grade security and health checks.\n \n WHEN: User needs to create K8s manifests, deploy containers, configure Services/Ingress, \n manage ConfigMaps/Secrets, set up persistent storage, or organize multi-environment configs.\n \n KEYWORDS: kubernetes, k8s, manifest, deployment, statefulset, cronjob, service, ingress, \n configmap, secret, pvc, pod, container, yaml, kustomize, helm, namespace, probe, security context",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/kubernetes-devops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/kubernetes-devops"
+}

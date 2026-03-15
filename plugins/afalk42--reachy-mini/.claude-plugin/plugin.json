@@ -1,0 +1,10 @@
+{
+  "name": "afalk42--reachy-mini",
+  "description": "Control a Reachy Mini robot (by Pollen Robotics / Hugging Face) via its REST API and SSH. Use for any request involving the Reachy Mini robot — moving the head, body, or antennas; playing emotions or dances; capturing camera snapshots; adjusting volume; managing apps; checking robot status; or any physical robot interaction. The robot has a 6-DoF head, 360° body rotation, two animated antennas, a wide-angle camera (with non-disruptive WebRTC snapshot), 4-mic array, and speaker.",
+  "version": "1.1.0",
+  "author": {
+    "name": "afalk42"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/afalk42/reachy-mini",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/afalk42/reachy-mini"
+}

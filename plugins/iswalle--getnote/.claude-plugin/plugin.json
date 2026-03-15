@@ -1,0 +1,10 @@
+{
+  "name": "iswalle--getnote",
+  "description": "Get笔记 - 个人笔记和知识库管理工具。\n\n 当用户提到以下意图时使用此技能：\n 「记一下」「存到笔记」「保存到Get笔记」「记录到Get笔记」\n 「保存这个链接」「保存这张图」「查我的笔记」「找一下笔记」\n 「加标签」「删标签」「删笔记」\n 「查知识库」「建知识库」「把笔记加到知识库」「从知识库移除」\n 「知识库里订阅了哪些博主」「博主发了什么内容」「直播总结」「直播原文」\n\n 支持：纯文本笔记、链接笔记（自动抓取网页内容并生成摘要）、图片笔记（OCR识别）、知识库管理（含博主订阅列表、直播总结）。",
+  "version": "1.3.0",
+  "author": {
+    "name": "iswalle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iswalle/getnote",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iswalle/getnote"
+}

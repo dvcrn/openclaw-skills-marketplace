@@ -1,0 +1,10 @@
+{
+  "name": "flyingtimes--twitter-command",
+  "description": "Use twitter-cli for ALL Twitter/X operations — reading tweets, posting, replying, quoting, liking, retweeting, following, searching, user lookups. Invoke whenever user requests any Twitter interaction.",
+  "version": "0.1.0",
+  "author": {
+    "name": "flyingtimes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/flyingtimes/twitter-command",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/flyingtimes/twitter-command"
+}

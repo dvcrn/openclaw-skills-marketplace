@@ -1,0 +1,10 @@
+{
+  "name": "anmolnagpal--guardduty-explainer",
+  "description": "Translate GuardDuty findings into plain-English incident summaries with actionable response steps",
+  "version": "1.0.0",
+  "author": {
+    "name": "anmolnagpal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/guardduty-explainer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/guardduty-explainer"
+}

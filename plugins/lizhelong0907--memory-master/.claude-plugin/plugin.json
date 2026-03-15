@@ -1,0 +1,10 @@
+{
+  "name": "lizhelong0907--memory-master",
+  "description": "Local memory system with structured indexing and auto-learning. Auto-write, heuristic recall, auto learning when knowledge is insufficient. Compatible with self-improving-agent: auto-records skill completions and errors to knowledge base.",
+  "version": "2.6.5",
+  "author": {
+    "name": "lizhelong0907"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lizhelong0907/memory-master",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lizhelong0907/memory-master"
+}

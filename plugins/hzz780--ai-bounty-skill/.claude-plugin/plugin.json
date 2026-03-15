@@ -1,0 +1,10 @@
+{
+  "name": "hzz780--ai-bounty-skill",
+  "description": "Use when claiming the AI bounty on the tDVV mainnet sidechain. First explain the difference between Portkey AA/CA and EOA, recommend AA/CA because the current campaign rewards 2 AIBOUNTY for AA/CA and 1 AIBOUNTY for EOA, then route to account onboarding, Portkey AA/CA claim through CA ManagerForwardCall, EOA claim, or diagnostics-only stop handling.",
+  "version": "0.1.1",
+  "author": {
+    "name": "hzz780"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hzz780/ai-bounty-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hzz780/ai-bounty-skill"
+}

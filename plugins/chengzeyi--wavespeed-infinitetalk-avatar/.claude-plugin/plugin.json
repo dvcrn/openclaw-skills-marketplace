@@ -1,0 +1,10 @@
+{
+  "name": "chengzeyi--wavespeed-infinitetalk-avatar",
+  "description": "Generate talking head videos from a portrait image and audio using WaveSpeed AI's InfiniteTalk model. Produces lip-synced video up to 10 minutes long at 480p or 720p. Supports optional mask images to target specific faces and text prompts for additional guidance. Use when the user wants to animate a face with audio or create talking avatar videos.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chengzeyi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chengzeyi/wavespeed-infinitetalk-avatar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chengzeyi/wavespeed-infinitetalk-avatar"
+}

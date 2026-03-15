@@ -1,0 +1,10 @@
+{
+  "name": "borahm--recipe-to-list",
+  "description": "Turn recipes into a Todoist Shopping list. Extract ingredients from recipe photos (Gemini Flash vision) or recipe web pages (search + fetch), then compare against the existing Shopping project with conservative synonym/overlap rules, skip pantry staples (salt/pepper), and sum quantities when units match. Also saves each cooked recipe into the workspace cookbook (recipes/).",
+  "version": "0.1.3",
+  "author": {
+    "name": "borahm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/borahm/recipe-to-list",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/borahm/recipe-to-list"
+}

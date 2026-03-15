@@ -1,0 +1,10 @@
+{
+  "name": "testlbin--skill-evolver",
+  "description": "A complete skill lifecycle manager for discovering, orchestrating, fusing, and evolving skills.\n\n Helps decide which skills to use, how to compose or fuse them, and whether to materialize\n a successful workflow into a new reusable skill.\n\n Trigger when:\n - User asks how to choose or combine skills\n - No single skill is sufficient and orchestration is needed\n - A solved workflow may need to be preserved as a new skill\n - Multiple skills need to be fused into one\n\n Do not trigger when:\n - User explicitly requests one specific skill\n - Native Claude ability is obviously sufficient",
+  "version": "0.1.0",
+  "author": {
+    "name": "testlbin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/testlbin/skill-evolver",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/testlbin/skill-evolver"
+}

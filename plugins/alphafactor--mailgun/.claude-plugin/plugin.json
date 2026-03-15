@@ -1,0 +1,10 @@
+{
+  "name": "alphafactor--mailgun",
+  "description": "Send emails via Mailgun API. Use when the user needs to send emails programmatically, such as newsletters, notifications, alerts, or automated reports. Requires MAILGUN_API_KEY and MAILGUN_DOMAIN environment variables to be configured.",
+  "version": "1.0.6",
+  "author": {
+    "name": "alphafactor"
+  },
+  "homepage": "https://github.com/openclaw/openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/mailgun"
+}

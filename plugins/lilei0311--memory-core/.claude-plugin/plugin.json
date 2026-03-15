@@ -1,0 +1,10 @@
+{
+  "name": "lilei0311--memory-core",
+  "description": "OpenClaw 长期记忆核心：基于 LanceDB 的向量化长期记忆存储与检索，内置意图/场景隔离以防记忆污染。",
+  "version": "0.1.3",
+  "author": {
+    "name": "lilei0311"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lilei0311/memory-core",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lilei0311/memory-core"
+}

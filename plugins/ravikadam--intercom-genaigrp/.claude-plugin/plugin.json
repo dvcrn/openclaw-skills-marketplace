@@ -1,0 +1,10 @@
+{
+  "name": "ravikadam--intercom-genaigrp",
+  "description": "Route opt-in inter-agent messages through OpenClaw sessions_send for internal bot-to-bot coordination. Use when a user asks to send a message to another OpenClaw session using !target syntax.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ravikadam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ravikadam/intercom-genaigrp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ravikadam/intercom-genaigrp"
+}

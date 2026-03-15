@@ -1,0 +1,10 @@
+{
+  "name": "plabzzxx--gold-price-report",
+  "description": "Gold/silver price lookup and market brief via the CNGold/Jijinhao quote source. Use when the user asks things like 查金价, 黄金多少钱, 今日金价, 白银价格, 品牌金价, 老凤祥/周大福/周生生金价, 沪金/沪银/comex黄金/comex白银, or wants a daily/scheduled gold-price report. Returns three panels: related spot products, physical gold brand prices, and precious-metals futures.",
+  "version": "1.0.1",
+  "author": {
+    "name": "plabzzxx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/plabzzxx/gold-price-report",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/plabzzxx/gold-price-report"
+}

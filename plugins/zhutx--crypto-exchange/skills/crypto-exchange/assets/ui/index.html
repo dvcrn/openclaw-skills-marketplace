@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LightningEX - Crypto Exchange</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700&family=Rajdhani:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --neon-cyan: #00f5ff;
+            --neon-purple: #b829dd;
+            --neon-pink: #ff00ff;
+            --neon-green: #00ff88;
+            --neon-orange: #ff8800;
+            --dark-bg: #0a0a0f;
+            --card-bg: rgba(20, 20, 35, 0.8);
+            --border-glow: rgba(0, 245, 255, 0.3);
+            --text-primary: #ffffff;
+            --text-secondary: #a0a0b0;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Rajdhani', sans-serif;
+            background: var(--dark-bg);
+            color: var(--text-primary);
+            min-height: 100vh;
+        }
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background-image: 
+                linear-gradient(rgba(0, 245, 255, 0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(0, 245, 255, 0.03) 1px, transparent 1px);
+            background-size: 50px 50px;
+            pointer-events: none;
+            z-index: -1;
+        }
+        header {
+            padding: 20px 40px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid rgba(0, 245, 255, 0.1);
+            background: rgba(10, 10, 15, 0.9);
+        }
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .logo-icon {
+            width: 40px; height: 40px;
+            background: linear-gradient(135deg, var(--neon-cyan), var(--neon-purple));
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+        }
+        .logo-text {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 24px;
+            font-weight: 700;
+            background: linear-gradient(90deg, var(--neon-cyan), var(--neon-purple));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        .hero {
+            text-align: center;
+            padding: 40px 0;
+        }
+        .hero h1 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 42px;
+            background: linear-gradient(90deg, var(--neon-cyan), var(--neon-pink));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .exchange-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border-glow);
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 0 40px rgba(0, 245, 255, 0.1);
+        }
+        .input-group { margin-bottom: 20px; }
+        .input-group label {
+            display: block;
+            margin-bottom: 8px;
+            color: var(--text-secondary);
+            font-weight: 500;
+            text-transform: uppercase;
+            font-size: 12px;
+        }
+        .currency-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            margin-bottom: 12px;
+        }
+        select, input {
+            width: 100%;
+            background: rgba(0, 0, 0, 0.3);
+            border: 1px solid rgba(0, 245, 255, 0.2);
+            border-radius: 12px;
+            padding: 16px 40px 16px 20px;
+            color: var(--text-primary);
+            font-family: 'Rajdhani', sans-serif;
+            font-size: 16px;
+            outline: none;
+        }
+        select:focus, input:focus {
+            border-color: var(--neon-cyan);
+            box-shadow: 0 0 20px rgba(0, 245, 255, 0.2);
+        }
+        select:disabled { opacity: 0.5; }
+        .swap-btn {
+            width: 50px; height: 50px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--neon-cyan), var(--neon-purple));
+            border: none;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 20px auto;
+            transition: transform 0.3s;
+        }
+        .swap-btn:hover { transform: rotate(180deg); }
+        .pair-info {
+            background: rgba(0, 245, 255, 0.05);
+            border: 1px solid rgba(0, 245, 255, 0.1);
+            border-radius: 12px;
+            padding: 16px;
+            margin: 16px 0;
+            font-size: 14px;
+        }
+        .pair-info-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 8px;
+        }
+        .pair-info-label { color: var(--text-secondary); }
+        .pair-info-value { color: var(--neon-cyan); font-weight: 600; }
+        .rate-display {
+            background: rgba(0, 245, 255, 0.05);
+            border-radius: 12px;
+            padding: 20px;
+            margin: 20px 0;
+            text-align: center;
+        }
+        .rate-value {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 24px;
+            color: var(--neon-cyan);
+        }
+        .exchange-btn {
+            width: 100%;
+            padding: 20px;
+            background: linear-gradient(135deg, var(--neon-cyan), var(--neon-purple));
+            border: none;
+            border-radius: 12px;
+            color: white;
+            font-family: 'Orbitron', sans-serif;
+            font-size: 18px;
+            font-weight: 600;
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .toast {
+            position: fixed;
+            bottom: 100px;
+            left: 50%;
+            transform: translateX(-50%) translateY(100px);
+            padding: 16px 32px;
+            background: var(--card-bg);
+            border: 1px solid var(--neon-cyan);
+            border-radius: 12px;
+            color: var(--text-primary);
+            font-weight: 500;
+            opacity: 0;
+            transition: all 0.3s;
+            z-index: 1000;
+            box-shadow: 0 0 30px rgba(0, 245, 255, 0.3);
+        }
+        .toast.show { transform: translateX(-50%) translateY(0); opacity: 1; }
+        .toast.error { border-color: #ff4444; box-shadow: 0 0 30px rgba(255, 68, 68, 0.3); }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <div class="logo-icon">⚡</div>
+            <div class="logo-text">LightningEX</div>
+        </div>
+    </header>
+
+    <div class="container">
+        <section class="hero">
+            <h1>Instant Crypto Exchange</h1>
+        </section>
+
+        <section class="exchange-card">
+            <!-- Send Section -->
+            <div class="input-group">
+                <label>You Send</label>
+                <div class="currency-row">
+                    <select id="sendCurrency" onchange="onSendCurrencyChange()">
+                        <option value="">Select Currency</option>
+                    </select>
+                    <select id="sendNetwork" onchange="onNetworkChange()" disabled>
+                        <option value="">Select Network</option>
+                    </select>
+                </div>
+                <input type="number" id="sendAmount" placeholder="0.00" step="any" oninput="debouncedUpdateRate()">
+            </div>
+
+            <button class="swap-btn" onclick="swapCurrencies()">⇅</button>
+
+            <!-- Receive Section -->
+            <div class="input-group">
+                <label>You Receive</label>
+                <div class="currency-row">
+                    <select id="receiveCurrency" onchange="onReceiveCurrencyChange()">
+                        <option value="">Select Currency</option>
+                    </select>
+                    <select id="receiveNetwork" onchange="onNetworkChange()" disabled>
+                        <option value="">Select Network</option>
+                    </select>
+                </div>
+                <input type="number" id="receiveAmount" placeholder="0.00" readonly>
+            </div>
+
+            <!-- Pair Info -->
+            <div class="pair-info" id="pairInfo" style="display: none;">
+                <div class="pair-info-row">
+                    <span class="pair-info-label">Min/Max:</span>
+                    <span class="pair-info-value" id="limitAmount">-</span>
+                </div>
+                <div class="pair-info-row">
+                    <span class="pair-info-label">Network Fee:</span>
+                    <span class="pair-info-value" id="networkFee">-</span>
+                </div>
+                <div class="pair-info-row">
+                    <span class="pair-info-label">Processing:</span>
+                    <span class="pair-info-value" id="processingTime">-</span>
+                </div>
+            </div>
+
+            <!-- Rate Display -->
+            <div class="rate-display" id="rateDisplay" style="display: none;">
+                <div class="rate-value" id="rateValue">-</div>
+                <div style="color: var(--text-secondary); font-size: 14px;">Updates every 20s</div>
+            </div>
+
+            <!-- Receive Address -->
+            <div class="input-group">
+                <label>Receive Address</label>
+                <input type="text" id="receiveAddress" placeholder="Enter your wallet address">
+            </div>
+
+            <button class="exchange-btn" id="exchangeBtn" onclick="placeOrder()">Exchange Now</button>
+        </section>
+
+    </div>
+
+    <footer style="text-align: center; padding: 20px; color: var(--text-secondary); font-size: 14px; border-top: 1px solid rgba(0, 245, 255, 0.1); margin-top: 40px;">
+        supported by <a href="https://lightningex.io" target="_blank" style="color: var(--neon-cyan); text-decoration: none;">lightningex.io</a>
+    </footer>
+
+    <div class="toast" id="toast"></div>
+
+    <script>
+        const API_BASE = 'https://api.lightningex.io';
+        let currencies = [];
+        let currentPairInfo = null;
+        let rateInterval = null;
+
+        // Generate client fingerprint for payload
+        async function generateClientFingerprint() {
+            const components = [
+                navigator.userAgent,
+                navigator.language,
+                screen.colorDepth,
+                screen.width + 'x' + screen.height,
+                new Date().getTimezoneOffset(),
+                !!window.sessionStorage,
+                !!window.localStorage,
+                navigator.hardwareConcurrency || 'unknown',
+                navigator.platform,
+                navigator.deviceMemory || 'unknown'
+            ];
+            
+            // Canvas fingerprint
+            try {
+                const canvas = document.createElement('canvas');
+                const ctx = canvas.getContext('2d');
+                ctx.textBaseline = 'top';
+                ctx.font = '14px Arial';
+                ctx.fillStyle = '#f60';
+                ctx.fillRect(2, 2, 20, 20);
+                ctx.fillStyle = '#069';
+                ctx.fillText('LightningEX', 2, 2);
+                components.push(canvas.toDataURL().slice(-50));
+            } catch(e) {
+                components.push('no-canvas');
+            }
+            
+            // WebGL fingerprint
+            try {
+                const canvas = document.createElement('canvas');
+                const gl = canvas.getContext('webgl') || canvas.getContext('experimental-webgl');
+                if (gl) {
+                    const debugInfo = gl.getExtension('WEBGL_debug_renderer_info');
+                    if (debugInfo) {
+                        components.push(gl.getParameter(debugInfo.UNMASKED_VENDOR_WEBGL));
+                        components.push(gl.getParameter(debugInfo.UNMASKED_RENDERER_WEBGL));
+                    }
+                }
+            } catch(e) {
+                components.push('no-webgl');
+            }
+            
+            // Generate hash
+            const str = components.join('###');
+            const hashBuffer = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
+            const hashArray = Array.from(new Uint8Array(hashBuffer));
+            return hashArray.map(b => b.toString(16).padStart(2, '0')).join('').slice(0, 32);
+        }
+
+        function debounce(func, wait) {
+            let timeout;
+            return function(...args) {
+                clearTimeout(timeout);
+                timeout = setTimeout(() => func(...args), wait);
+            };
+        }
+        const debouncedUpdateRate = debounce(updateRate, 500);
+
+        document.addEventListener('DOMContentLoaded', loadCurrencies);
+
+        function showToast(msg, isError) {
+            const t = document.getElementById('toast');
+            t.textContent = msg;
+            t.className = 'toast' + (isError ? ' error' : '');
+            t.classList.add('show');
+            setTimeout(() => t.classList.remove('show'), 3000);
+        }
+
+        async function loadCurrencies() {
+            try {
+                const r = await fetch(`${API_BASE}/exchange/currency/list`);
+                const data = await r.json();
+                if (data.code === 200) {
+                    currencies = data.data;
+                    populateSelects();
+                }
+            } catch (e) {
+                showToast('Failed to load currencies', true);
+            }
+        }
+
+        function populateSelects() {
+            const s = document.getElementById('sendCurrency');
+            const r = document.getElementById('receiveCurrency');
+            const sOpts = currencies.filter(c => c.sendStatusAll)
+                .map(c => `<option value="${c.currency}">${c.currency} - ${c.name}</option>`).join('');
+            const rOpts = currencies.filter(c => c.receiveStatusAll)
+                .map(c => `<option value="${c.currency}">${c.currency} - ${c.name}</option>`).join('');
+            s.innerHTML = '<option value="">Select Currency</option>' + sOpts;
+            r.innerHTML = '<option value="">Select Currency</option>' + rOpts;
+        }
+
+        function onSendCurrencyChange() {
+            const code = document.getElementById('sendCurrency').value;
+            const netSel = document.getElementById('sendNetwork');
+            if (!code) { netSel.disabled = true; return; }
+            const curr = currencies.find(c => c.currency === code);
+            if (curr) {
+                const nets = curr.networkList.filter(n => n.sendStatus);
+                netSel.innerHTML = '<option value="">Select Network</option>' +
+                    nets.map(n => `<option value="${n.network}" ${n.isDefault?'selected':''}>${n.name}</option>`).join('');
+                netSel.disabled = false;
+            }
+            onNetworkChange();
+        }
+
+        function onReceiveCurrencyChange() {
+            const code = document.getElementById('receiveCurrency').value;
+            const netSel = document.getElementById('receiveNetwork');
+            if (!code) { netSel.disabled = true; return; }
+            const curr = currencies.find(c => c.currency === code);
+            if (curr) {
+                const nets = curr.networkList.filter(n => n.receiveStatus);
+                netSel.innerHTML = '<option value="">Select Network</option>' +
+                    nets.map(n => `<option value="${n.network}" ${n.isDefault?'selected':''}>${n.name}</option>`).join('');
+                netSel.disabled = false;
+            }
+            onNetworkChange();
+        }
+
+        async function onNetworkChange() {
+            const sCur = document.getElementById('sendCurrency').value;
+            const sNet = document.getElementById('sendNetwork').value;
+            const rCur = document.getElementById('receiveCurrency').value;
+            const rNet = document.getElementById('receiveNetwork').value;
+            
+            document.getElementById('pairInfo').style.display = 'none';
+            document.getElementById('rateDisplay').style.display = 'none';
+            document.getElementById('receiveAmount').value = '';
+            
+            if (!sCur || !sNet || !rCur || !rNet) return;
+            
+            try {
+                const r = await fetch(`${API_BASE}/exchange/pair/info?send=${sCur}&receive=${rCur}&sendNetwork=${sNet}&receiveNetwork=${rNet}`);
+                const data = await r.json();
+                if (data.code === 200) {
+                    currentPairInfo = data.data;
+                    document.getElementById('limitAmount').textContent = 
+                        `${currentPairInfo.minimumAmount} - ${currentPairInfo.maximumAmount} ${sCur}`;
+                    document.getElementById('networkFee').textContent = 
+                        `${currentPairInfo.networkFee} ${rCur}`;
+                    document.getElementById('processingTime').textContent = 
+                        `${currentPairInfo.processingTime} min (${currentPairInfo.confirmations} confs)`;
+                    document.getElementById('pairInfo').style.display = 'block';
+                    updateRate();
+                }
+            } catch (e) {
+                showToast('Failed to load pair info', true);
+            }
+        }
+
+        function swapCurrencies() {
+            const sCur = document.getElementById('sendCurrency');
+            const sNet = document.getElementById('sendNetwork');
+            const rCur = document.getElementById('receiveCurrency');
+            const rNet = document.getElementById('receiveNetwork');
+            const sAmt = document.getElementById('sendAmount');
+            const rAmt = document.getElementById('receiveAmount');
+            
+            const tCur = sCur.value;
+            sCur.value = rCur.value;
+            rCur.value = tCur;
+            
+            onSendCurrencyChange();
+            onReceiveCurrencyChange();
+            
+            const tNet = sNet.value;
+            sNet.value = rNet.value;
+            rNet.value = tNet;
+            
+            const tAmt = sAmt.value;
+            sAmt.value = rAmt.value;
+            rAmt.value = tAmt;
+            
+            onNetworkChange();
+        }
+
+        async function updateRate() {
+            const sCur = document.getElementById('sendCurrency').value;
+            const sNet = document.getElementById('sendNetwork').value;
+            const rCur = document.getElementById('receiveCurrency').value;
+            const rNet = document.getElementById('receiveNetwork').value;
+            const amt = parseFloat(document.getElementById('sendAmount').value);
+            
+            if (!sCur || !sNet || !rCur || !rNet || !amt || amt <= 0) {
+                document.getElementById('rateDisplay').style.display = 'none';
+                return;
+            }
+            
+            try {
+                const r = await fetch(`${API_BASE}/exchange/rate?send=${sCur}&receive=${rCur}&sendNetwork=${sNet}&receiveNetwork=${rNet}&amount=${amt}`);
+                const data = await r.json();
+                if (data.code === 200) {
+                    document.getElementById('receiveAmount').value = data.data.receiveAmount;
+                    document.getElementById('rateValue').textContent = `1 ${sCur} = ${data.data.rate} ${rCur}`;
+                    document.getElementById('rateDisplay').style.display = 'block';
+                }
+            } catch (e) {
+                console.error('Rate error:', e);
+            }
+        }
+
+        async function placeOrder() {
+            const sCur = document.getElementById('sendCurrency').value;
+            const sNet = document.getElementById('sendNetwork').value;
+            const rCur = document.getElementById('receiveCurrency').value;
+            const rNet = document.getElementById('receiveNetwork').value;
+            const amt = document.getElementById('sendAmount').value;
+            const addr = document.getElementById('receiveAddress').value;
+            
+            if (!sCur || !sNet || !rCur || !rNet || !amt || !addr) {
+                showToast('Please fill all fields', true);
+                return;
+            }
+            
+            // Validate address
+            try {
+                const v = await fetch(`${API_BASE}/exchange/address/validate?currency=${rCur}&address=${addr}&network=${rNet}`);
+                const vData = await v.json();
+                if (vData.code !== 200 || !vData.data) {
+                    showToast('Invalid receive address', true);
+                    return;
+                }
+            } catch (e) {
+                showToast('Address validation failed', true);
+                return;
+            }
+            
+            // Generate client fingerprint for payload
+            let payload = '';
+            try {
+                payload = await generateClientFingerprint();
+            } catch (e) {
+                console.warn('Fingerprint generation failed:', e);
+                payload = 'fallback-' + Date.now();
+            }
+            
+            const btn = document.getElementById('exchangeBtn');
+            btn.disabled = true;
+            btn.textContent = 'Processing...';
+            
+            try {
+                const r = await fetch(`${API_BASE}/exchange/order/place`, {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({
+                        send: sCur, sendNetwork: sNet,
+                        receive: rCur, receiveNetwork: rNet,
+                        amount: amt, receiveAddress: addr,
+                        payload: payload
+                    })
+                });
+                const data = await r.json();
+                if (data.code === 200) {
+                    showToast('Order placed! Redirecting...');
+                    // Redirect to order status page
+                    setTimeout(() => {
+                        window.location.href = `order.html?id=${data.data}`;
+                    }, 1000);
+                } else {
+                    showToast(data.msg || 'Order failed', true);
+                }
+            } catch (e) {
+                showToast('Network error', true);
+            } finally {
+                btn.disabled = false;
+                btn.textContent = 'Exchange Now';
+            }
+        }
+
+        // Auto refresh rate every 20s
+        setInterval(() => {
+            if (document.getElementById('sendAmount').value) updateRate();
+        }, 20000);
+    </script>
+</body>
+</html>

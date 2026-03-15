@@ -1,0 +1,76 @@
+{
+  "name": "openclaw-voice-skills",
+  "version": "1.0.0",
+  "description": "OpenClaw语音技能套装：包含语音对话、语音唤醒、持续对话三大功能",
+  "author": "米粒儿",
+  "license": "MIT",
+  "keywords": [
+    "openclaw",
+    "voice",
+    "speech-recognition",
+    "whisper",
+    "voice-wake",
+    "talk-mode",
+    "chinese-dialects",
+    "offline",
+    "privacy"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openclaw/voice-skills"
+  },
+  "skills": [
+    {
+      "name": "voice-chat",
+      "path": "./voice-chat",
+      "description": "语音对话技能（6种方言 + Medium模型）",
+      "dependencies": [
+        "python3 >= 3.12",
+        "ffmpeg",
+        "openai-whisper",
+        "pyttsx3"
+      ]
+    },
+    {
+      "name": "voice-wake",
+      "path": "./voice-wake",
+      "description": "语音唤醒技能（5种唤醒词）",
+      "dependencies": [
+        "python3 >= 3.12",
+        "ffmpeg",
+        "pvporcupine",
+        "pyaudio"
+      ]
+    },
+    {
+      "name": "talk-mode",
+      "path": "./talk-mode",
+      "description": "持续对话模式（VAD检测）",
+      "dependencies": [
+        "python3 >= 3.12",
+        "ffmpeg",
+        "webrtcvad",
+        "pyaudio",
+        "openai-whisper",
+        "pyttsx3"
+      ]
+    }
+  ],
+  "installation": {
+    "system": [
+      "ffmpeg",
+      "portaudio19-dev",
+      "espeak"
+    ],
+    "python": [
+      "openai-whisper",
+      "pyttsx3",
+      "pvporcupine",
+      "pyaudio",
+      "webrtcvad"
+    ]
+  },
+  "engines": {
+    "python": ">=3.12"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "edisonchenai--protea-self-evolving-life-agent",
+  "description": "Self-evolving artificial life agent. Three-ring architecture: Ring 0 (Sentinel) supervises, Ring 1 (Intelligence) drives LLM-powered evolution, Ring 2 (Evolvable Code) is the living program that self-restructures, self-reproduces, and self-evolves. Supports Anthropic, OpenAI, DeepSeek, and Qwen as LLM providers. Includes fitness scoring, gene pool inheritance, tiered memory, skill crystallization, Telegram bot, and web dashboard.",
+  "version": "1.0.0",
+  "author": {
+    "name": "edisonchenai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/edisonchenai/protea-self-evolving-life-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/edisonchenai/protea-self-evolving-life-agent"
+}

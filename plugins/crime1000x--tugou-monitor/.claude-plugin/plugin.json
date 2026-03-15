@@ -1,0 +1,10 @@
+{
+  "name": "crime1000x--tugou-monitor",
+  "description": "Read public Web2 trending news and hot-search feeds from 土狗气象台, then extend promising topics with Binance Web3 public data. Supports status checks, latest messages, group filtering, hot-search inspection, meme-priority review, Chinese-topic token mapping, token audit, wallet/address lookup, smart-money cross-check, and meme/topic market validation workflows for OpenClaw agents.",
+  "version": "1.0.3",
+  "author": {
+    "name": "crime1000x"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crime1000x/tugou-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crime1000x/tugou-monitor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "day253--day253-volcengine-storage-tos-test",
+  "description": "Minimal TOS smoke tests. Validate AK/SK config, list buckets, and upload/download with Volcengine TOS. Supports both tosutil CLI and tos_manage.py script.",
+  "version": "1.0.0",
+  "author": {
+    "name": "day253"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/day253/day253-volcengine-storage-tos-test",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/day253/day253-volcengine-storage-tos-test"
+}

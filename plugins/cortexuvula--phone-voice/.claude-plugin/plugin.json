@@ -1,0 +1,10 @@
+{
+  "name": "cortexuvula--phone-voice",
+  "description": "Connect ElevenLabs Agents to your OpenClaw via phone with Twilio. Includes caller ID auth, voice PIN security, call screening, memory injection, and cost tracking.",
+  "version": "2.0.0",
+  "author": {
+    "name": "cortexuvula"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cortexuvula/phone-voice",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cortexuvula/phone-voice"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "aaron-he-zhu--technical-seo-checker",
+  "description": "This skill should be used when the user asks to \"technical SEO audit\", \"check page speed\", \"Core Web Vitals\", \"LCP is slow\", \"CLS problem\", \"INP issues\", \"crawl errors\", \"indexing problems\", \"robots.txt check\", \"XML sitemap errors\", \"hreflang issues\", \"canonical tag problems\", \"HTTPS not working\", \"mobile SEO\", \"JavaScript rendering\", or \"site health check\". Performs comprehensive technical SEO audits: Core Web Vitals (LCP/CLS/INP/TTFB), crawlability, indexability, mobile-friendliness, HTTPS/HSTS security, URL structure, redirect chains, robots.txt, XML sitemaps, hreflang, canonical tags, and structured data validation. Produces a scored technical health report (0–100) with critical/high/medium issue triage and a prioritized implementation roadmap. Works with Google PageSpeed Insights, Google Search Console, crawl tools, or manual audit. For content element issues, see on-page-seo-auditor. For link architecture, see internal-linking-optimizer.",
+  "version": "3.0.0",
+  "author": {
+    "name": "aaron-he-zhu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/technical-seo-checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/technical-seo-checker"
+}

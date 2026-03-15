@@ -1,0 +1,10 @@
+{
+  "name": "flotapponnier--mobula",
+  "description": "Real-time crypto market data, wallet portfolio tracking, and token analytics across 88+ blockchains. Use when the user wants to check any token price (by name, symbol, or contract address), look up wallet balances and holdings across all chains, get historical price data, track portfolio PnL, monitor whale wallets, find new tokens, or get oracle-grade pricing. Requires free API key from mobula.io.",
+  "version": "1.0.1",
+  "author": {
+    "name": "flotapponnier"
+  },
+  "homepage": "https://mobula.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/flotapponnier/mobula"
+}

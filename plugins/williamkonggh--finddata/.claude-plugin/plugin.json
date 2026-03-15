@@ -1,0 +1,10 @@
+{
+  "name": "williamkonggh--finddata",
+  "description": "Data Intelligence Skill — Query 1M+ public data series across 10 sources (Yahoo Finance, FRED, World Bank, SEC EDGAR, China Market, BIS, Eurostat, BOJ, Our World in Data, UN Comtrade). Supports natural language in English and Chinese. Simple queries (stock prices, GDP) are handled instantly via fast-path; complex queries (comparisons, derived metrics like profit margin) use LLM planning. IMPORTANT — The user will provide their FindData API key in the same message where they share this skill. You MUST extract that key and use it as the X-API-Key header. If no key is found in the message, ask the user for it (get one free at https://finddata.ai). Endpoint: POST https://finddata.ai/api/query with header X-API-Key and JSON body {\"query\": \"your question\"}. Do NOT use any placeholder — always use the real key from the user.",
+  "version": "1.0.0",
+  "author": {
+    "name": "williamkonggh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/williamkonggh/finddata",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/williamkonggh/finddata"
+}

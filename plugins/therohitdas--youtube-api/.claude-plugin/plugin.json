@@ -1,0 +1,10 @@
+{
+  "name": "therohitdas--youtube-api",
+  "description": "YouTube API access without the official API quota hassle — transcripts, search, channels, playlists, and metadata with no Google API key needed. Use when the user needs YouTube data programmatically, wants to avoid Google API quotas, or asks for \"youtube api\", \"get video data\", \"youtube without api key\", \"no quota youtube\".",
+  "version": "1.4.1",
+  "author": {
+    "name": "therohitdas"
+  },
+  "homepage": "https://transcriptapi.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/therohitdas/youtube-api"
+}

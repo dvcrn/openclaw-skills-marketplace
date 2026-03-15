@@ -1,0 +1,10 @@
+{
+  "name": "plagtech--spraay-payments",
+  "description": "Send batch crypto payments, payroll, invoices, token swaps, price feeds, and AI inference using the Spraay Protocol x402 gateway. Use when the user asks to 'send payments', 'batch transfer', 'pay multiple wallets', 'crypto payroll', 'swap tokens', 'get token price', 'create invoice', 'check balance', 'resolve ENS', 'resolve basename', or mentions Spraay, x402 payments, or multi-chain batch transactions. Supports 11 chains: Base, Ethereum, Arbitrum, Polygon, BNB, Avalanche, Solana, Unichain, Plasma, BOB, Bittensor.",
+  "version": "1.0.0",
+  "author": {
+    "name": "plagtech"
+  },
+  "homepage": "https://spraay.app",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/plagtech/spraay-payments"
+}

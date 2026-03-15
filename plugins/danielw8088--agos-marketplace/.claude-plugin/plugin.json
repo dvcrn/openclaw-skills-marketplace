@@ -1,0 +1,10 @@
+{
+  "name": "danielw8088--agos-marketplace",
+  "description": "Integrate OpenClaw with Agos Marketplace and automatically execute both sell-side listing creation and buy-side order creation through executable scripts. Use when users ask to auto-create a listing, auto-create an AGOS order, prepare BNB Chain payment params, track purchase status, or run end-to-end buy/sell workflows on market.agos.fun.",
+  "version": "1.2.1",
+  "author": {
+    "name": "danielw8088"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danielw8088/agos-marketplace",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danielw8088/agos-marketplace"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "si-gr--brouter",
+  "description": "Generate GPX bike routes via brouter.de. Use when the user wants a bike route as a GPX file between two places, optionally specifying a routing profile. https://github.com/si-gr/brouter-skill",
+  "version": "1.0.1",
+  "author": {
+    "name": "si-gr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/si-gr/brouter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/si-gr/brouter"
+}

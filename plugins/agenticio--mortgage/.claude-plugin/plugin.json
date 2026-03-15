@@ -1,0 +1,10 @@
+{
+  "name": "agenticio--mortgage",
+  "description": "Mortgage process guidance with affordability calculations and application tracking. Use when user mentions buying a home, mortgage rates, affordability, down payment, mortgage application, or lender comparison. Calculates affordability, explains mortgage types, prepares application documents, and tracks approval milestones. NEVER provides mortgage advice or recommends specific lenders.",
+  "version": "2.1.0",
+  "author": {
+    "name": "agenticio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agenticio/mortgage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agenticio/mortgage"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "vincentjiang06--skill-rules-designer",
+  "description": "Analyzes an existing Claude Code skill and designs an optimal rules/ file structure. Covers three operations: (1) compressing SKILL.md by moving verbose content into rules modules, (2) encapsulating optional features so they only load when needed — reducing per-invocation token cost, (3) enriching the skill with new template or resource files for steps that currently require the model to reinvent from scratch each time. Also identifies vague instructions and rewrites them to be precise. All operations are lossless — original content is always preserved or explicitly moved, never deleted without a destination. Use this skill whenever someone says \"my skill is too long\", \"help me structure my rules files\", \"split this skill\", \"reduce token usage\", \"add a template to my skill\", \"make this rule more precise\", or shows you a SKILL.md and asks how to improve its structure or efficiency.",
+  "version": "1.2.0",
+  "author": {
+    "name": "vincentjiang06"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vincentjiang06/skill-rules-designer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vincentjiang06/skill-rules-designer"
+}

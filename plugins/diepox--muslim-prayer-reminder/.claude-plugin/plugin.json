@@ -1,0 +1,10 @@
+{
+  "name": "diepox--muslim-prayer-reminder",
+  "description": "Get accurate Islamic prayer times (Fajr, Dhuhr, Asr, Maghrib, Isha) for any location worldwide using official calculation methods. Use when users ask about prayer times, Salat schedules, next prayer, or need to set up automated prayer reminders. Includes automated background reminder system that alerts users 10 minutes before, at prayer time, and 5 minutes after - even during conversations. Supports 20+ country-specific calculation methods including Morocco, Saudi Arabia, Egypt, Turkey, UAE, and more.",
+  "version": "0.1.0",
+  "author": {
+    "name": "diepox"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/diepox/muslim-prayer-reminder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/diepox/muslim-prayer-reminder"
+}

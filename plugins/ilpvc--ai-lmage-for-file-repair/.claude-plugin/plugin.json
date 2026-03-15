@@ -1,0 +1,10 @@
+{
+  "name": "ilpvc--ai-lmage-for-file-repair",
+  "description": "Async AI image generation (text-to-image and image-to-image). Submit a job to get a task_id, then poll status to get an OSS download URL.",
+  "version": "1.0.3",
+  "author": {
+    "name": "ilpvc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ilpvc/ai-lmage-for-file-repair",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ilpvc/ai-lmage-for-file-repair"
+}

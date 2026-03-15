@@ -1,0 +1,10 @@
+{
+  "name": "harrylabsj--medpilot",
+  "description": "Manage a single-patient medication and health-tracking workflow with MedPilot. Use when the user wants to ingest doctor orders, confirm active medications, record intakes or skipped doses, log blood pressure or glucose, generate follow-up summaries, or operate the MedPilot self-use edition through its CLI or local API. NOT for: multi-patient clinic workflows, diagnosis, treatment decisions, or replacing physician judgment.",
+  "version": "1.0.0",
+  "author": {
+    "name": "harrylabsj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/medpilot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/medpilot"
+}

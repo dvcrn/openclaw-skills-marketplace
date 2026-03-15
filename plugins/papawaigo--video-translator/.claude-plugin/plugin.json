@@ -1,0 +1,10 @@
+{
+  "name": "papawaigo--video-translator",
+  "description": "Real time video translation / dubbing skill. Translate user-provided video (file or URL) and return preview_url. 适用于视频直译、视频翻译、视频配音、字幕翻译出片。",
+  "version": "1.0.4",
+  "author": {
+    "name": "papawaigo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/papawaigo/video-translator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/papawaigo/video-translator"
+}

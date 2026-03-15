@@ -1,0 +1,10 @@
+{
+  "name": "phenomenoner--openclaw-agent-optimize",
+  "description": "Use when: you want a structured audit -> options -> recommended plan to improve an OpenClaw workspace\n (cost, model routing, context discipline, delegation, reliability).\n Don't use when: you want immediate config/cron mutations without review, or the question is unrelated to OpenClaw ops.\n Output: a prioritized plan with exact change proposals, expected impact, and rollback steps. No persistent changes without explicit approval.",
+  "version": "1.2.1",
+  "author": {
+    "name": "phenomenoner"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phenomenoner/openclaw-agent-optimize",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phenomenoner/openclaw-agent-optimize"
+}

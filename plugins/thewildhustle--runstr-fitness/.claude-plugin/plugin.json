@@ -1,0 +1,10 @@
+{
+  "name": "thewildhustle--runstr-fitness",
+  "description": "Give your AI agent access to your health and fitness data from RUNSTR. Fetches workouts, habits, journal entries, mood, steps, and more from Nostr. Use when the user asks about their workouts, fitness history, health habits, mood tracking, or wants AI fitness coaching based on real data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "thewildhustle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thewildhustle/runstr-fitness",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thewildhustle/runstr-fitness"
+}

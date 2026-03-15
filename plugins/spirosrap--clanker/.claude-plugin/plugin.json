@@ -1,0 +1,10 @@
+{
+  "name": "spirosrap--clanker",
+  "description": "Deploy ERC20 tokens on Base using Clanker SDK. Create tokens with built-in Uniswap V4 liquidity pools. Supports Base mainnet and Sepolia testnet. Requires PRIVATE_KEY in config.",
+  "version": "1.0.0",
+  "author": {
+    "name": "spirosrap"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spirosrap/clanker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spirosrap/clanker"
+}

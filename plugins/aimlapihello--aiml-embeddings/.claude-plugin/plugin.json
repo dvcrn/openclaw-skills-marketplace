@@ -1,0 +1,10 @@
+{
+  "name": "aimlapihello--aiml-embeddings",
+  "description": "Generate text embeddings via AIMLAPI. Use for semantic search, clustering, or high-dimensional text representations with text-embedding-3-large and other models.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aimlapihello"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aimlapihello/aiml-embeddings",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aimlapihello/aiml-embeddings"
+}

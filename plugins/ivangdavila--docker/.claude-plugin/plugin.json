@@ -1,0 +1,10 @@
+{
+  "name": "ivangdavila--docker",
+  "description": "Docker containers, images, Compose stacks, networking, volumes, debugging, production hardening, and the commands that keep real environments stable. Use when (1) the task touches Docker, Dockerfiles, images, containers, or Compose; (2) build reliability, runtime behavior, logs, ports, volumes, or security matter; (3) the agent needs Docker guidance and should apply it by default.",
+  "version": "1.0.4",
+  "author": {
+    "name": "ivangdavila"
+  },
+  "homepage": "https://clawic.com/skills/docker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/docker"
+}

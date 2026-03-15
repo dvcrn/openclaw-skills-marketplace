@@ -1,0 +1,10 @@
+{
+  "name": "xming521--weclone-twin-reply",
+  "description": "Build a review-gated digital twin reply from persona markdown, persona examples, and live conversation context. Use when you need to imitate a specific user's chat style, draft a reply on the user's behalf, or generate a persona-consistent message candidate from an existing persona pack.",
+  "version": "0.1.0",
+  "author": {
+    "name": "xming521"
+  },
+  "homepage": "https://github.com/xming521/WeClone-Skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xming521/weclone-twin-reply"
+}

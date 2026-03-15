@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--overstory-integration",
+  "description": "Integrates overstory Claude Code agent swarm with nanobot orchestrator. Manages agent lifecycle, SQLite mail bridge, and git worktree coordination.",
+  "version": "1.0.0",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/overstory-integration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/overstory-integration"
+}

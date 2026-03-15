@@ -1,0 +1,10 @@
+{
+  "name": "ttttstc--skill-safety-verifier",
+  "description": "Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources.\n Checks for red flags, permission scope, and suspicious patterns.\n Provides risk assessment and safety recommendations.",
+  "version": "0.1.1",
+  "author": {
+    "name": "ttttstc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ttttstc/skill-safety-verifier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ttttstc/skill-safety-verifier"
+}

@@ -1,0 +1,27 @@
+You are helping configure a backup for an OpenClaw instance.
+
+The user's OpenClaw workspace is at: {{WORKSPACE_PATH}}
+The current backup already covers these standard paths:
+{{CURRENT_PATHS}}
+
+Based on the actual files and directories present in the workspace (listed below),
+identify any paths that contain important user data, custom configurations,
+scripts, or context that would be painful to lose — and are NOT already covered.
+
+Focus on:
+- Custom scripts or tools the user has created
+- Additional memory or context files outside the standard structure
+- Project files or data stored in the workspace
+- Any credentials or config files outside ~/.openclaw/
+
+Do NOT suggest:
+- Paths already in the current backup list
+- Temporary files, caches, logs, or build artifacts
+- Files that can be easily recreated
+
+Workspace contents:
+{{WORKSPACE_TREE}}
+
+Respond with ONLY a list of absolute paths to include, one per line.
+If nothing extra is needed, respond with exactly: NONE
+No explanation. No comments. Just paths or NONE.

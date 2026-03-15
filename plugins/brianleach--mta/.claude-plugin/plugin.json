@@ -1,0 +1,10 @@
+{
+  "name": "brianleach--mta",
+  "description": "NYC MTA transit — real-time subway arrivals, bus predictions, service alerts, and route info for the New York City subway and bus system. Use when the user asks about NYC public transit, subway times, MTA bus arrivals, service alerts, or nearby stops.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brianleach"
+  },
+  "homepage": "https://github.com/brianleach/mta-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brianleach/mta"
+}

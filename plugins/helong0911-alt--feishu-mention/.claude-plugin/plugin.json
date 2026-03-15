@@ -1,0 +1,10 @@
+{
+  "name": "helong0911-alt--feishu-mention",
+  "description": "**PRIORITY: HIGHEST**.\n **CRITICAL**: You **MUST** use this tool **BEFORE sending any message** to Feishu/Lark if it contains an \"@\" mention.\n\n **Trigger**: You are about to send a message to Feishu that mentions a user or bot (e.g., \"@User\", \"@Bot\").\n\n **Why**: Raw text like `@User` does NOT notify users in Feishu. It fails silently. You MUST convert it to XML format using this tool first.\n\n **Workflow**:\n 1. Draft your message text.\n 2. **STOP**. Do not send it yet.\n 3. Call `feishu-mention.resolve` with the draft text.\n 4. **ONLY THEN** send the *output* of this tool to the Feishu API.\n\n **Parameter Retrieval**:\n - `accountId`: You **MUST** find the OpenClaw Account ID (e.g., \"product\", \"elves\", \"backend\") from the **current conversation context**. This maps to the `appId` in the `openclaw.json` config.\n - `chatId`: You **MUST** find the Chat ID (starts with `oc_`) from the **current conversation context**. Pass it as the `chatId` parameter.",
+  "version": "2.0.2",
+  "author": {
+    "name": "helong0911-alt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/helong0911-alt/feishu-mention",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/helong0911-alt/feishu-mention"
+}

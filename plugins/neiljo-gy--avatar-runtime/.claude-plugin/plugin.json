@@ -1,0 +1,10 @@
+{
+  "name": "neiljo-gy--avatar-runtime",
+  "description": "Embeds and controls a virtual avatar using the avatar-runtime npm package. Provides Live2D rendering, VRM 3D, vector fallback, and control-driven expression/body/scene animation via a provider-agnostic session bridge. Use when the user asks for a virtual avatar, face-control animation, Live2D character, avatar widget embedding, or when starting/stopping an avatar session.",
+  "version": "0.2.1",
+  "author": {
+    "name": "neiljo-gy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neiljo-gy/avatar-runtime",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neiljo-gy/avatar-runtime"
+}

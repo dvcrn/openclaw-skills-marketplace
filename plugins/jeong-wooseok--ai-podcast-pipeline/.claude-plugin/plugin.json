@@ -1,0 +1,10 @@
+{
+  "name": "jeong-wooseok--ai-podcast-pipeline",
+  "description": "Create Korean AI podcast packages from QuickView trend notes. Use for dual-host script writing (Callie × Nick), Gemini multi-speaker TTS audio generation, subtitle timing/render fixes, thumbnail+MP4 packaging, and YouTube title/description output. Supports both full (15~20 min) and compressed (5~7 min) editions.",
+  "version": "0.1.5",
+  "author": {
+    "name": "jeong-wooseok"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jeong-wooseok/ai-podcast-pipeline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeong-wooseok/ai-podcast-pipeline"
+}

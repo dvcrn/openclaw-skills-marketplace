@@ -1,0 +1,10 @@
+{
+  "name": "2233admin--config-rollback",
+  "description": "自动回滚保护。修改配置前先备份+设5分钟系统定时任务，改坏自动还原。当用户说\"自动回滚\"或需要改配置时使用此 Skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "2233admin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/2233admin/config-rollback",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/2233admin/config-rollback"
+}

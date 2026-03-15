@@ -1,0 +1,10 @@
+{
+  "name": "wpank--analyze-pool",
+  "description": "Analyze a specific Uniswap pool's performance, liquidity depth, fee APY, and risk factors. Use when the user asks about pool metrics, TVL, volume, or whether a pool is good for LPing.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/analyze-pool",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/analyze-pool"
+}

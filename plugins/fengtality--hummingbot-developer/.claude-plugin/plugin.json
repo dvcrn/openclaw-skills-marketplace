@@ -1,0 +1,10 @@
+{
+  "name": "fengtality--hummingbot-developer",
+  "description": "Developer skill for running Hummingbot and Gateway from source, building wheel and Docker images, and testing against Hummingbot API running from source. Use this skill when a developer wants to build, run, or test Hummingbot components locally.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fengtality"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fengtality/hummingbot-developer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fengtality/hummingbot-developer"
+}

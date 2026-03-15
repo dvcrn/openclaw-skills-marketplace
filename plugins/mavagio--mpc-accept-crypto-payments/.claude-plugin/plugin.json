@@ -1,0 +1,10 @@
+{
+  "name": "mavagio--mpc-accept-crypto-payments",
+  "description": "Accept crypto payments on Solana via MoonPay Commerce (formerly Helio). Create Pay Links, generate checkout URLs, check transactions, and list supported currencies. Use when the user wants to accept crypto payments, create payment links, charge for products/services with crypto, or query payment transactions. Requires a MoonPay Commerce account with API key and secret.",
+  "version": "0.3.0",
+  "author": {
+    "name": "mavagio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mavagio/mpc-accept-crypto-payments",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mavagio/mpc-accept-crypto-payments"
+}

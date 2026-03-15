@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--a6-gemini-video-analyzer",
+  "description": "Native video analysis using Google Gemini API. Upload and analyze video files — describe scenes, extract text/UI, answer questions about content, transcribe speech, identify objects and actions. Use when: (1) User sends a video file and wants it analyzed, (2) Video summarization or description needed, (3) Extracting text, UI elements, or information from screen recordings, (4) Answering questions about video content, (5) Comparing multiple videos, (6) Analyzing tutorials, demos, or walkthroughs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/a6-gemini-video-analyzer"
+}

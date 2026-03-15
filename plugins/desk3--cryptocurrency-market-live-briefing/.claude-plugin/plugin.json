@@ -1,0 +1,10 @@
+{
+  "name": "desk3--cryptocurrency-market-live-briefing",
+  "description": "Desk3 Crypto Market Real-time Briefing - Provides BTC/ETH/SOL core prices, Fear & Greed Index, Puell/Pi Cycle/Bitcoin Dominance technical indicators, geopolitical and blockchain industry news, and trending coins real-time prices. Based on Desk3 API, direct API calls without MCP installation. Credit: Desk3",
+  "version": "1.0.2",
+  "author": {
+    "name": "desk3"
+  },
+  "homepage": "https://www.desk3.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/desk3/cryptocurrency-market-live-briefing"
+}

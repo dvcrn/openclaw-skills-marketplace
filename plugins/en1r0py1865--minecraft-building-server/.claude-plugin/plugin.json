@@ -1,0 +1,10 @@
+{
+  "name": "en1r0py1865--minecraft-building-server",
+  "description": "Minecraft Java Edition creative building workflows and builder automation.\n Covers FAWE/WorldEdit large-scale editing, Mineflayer Bot construction,\n Litematica/schematic pipelines, material production lines, redstone automation for builders,\n villager trading systems, and pixel-art or large-build execution workflows.\n Assumes server infrastructure is already running.\n Use when user mentions: Minecraft build server, FAWE, WorldEdit, Mineflayer,\n schematic, Litematica, pixel art, redstone production, villager trading,\n or creative build workflows.\n NOT for: server lifecycle management, backups, plugin installation/update, health monitoring,\n Bedrock Edition, Forge/Fabric mod source code, PvP servers, anti-cheat bypass.",
+  "version": "1.0.0",
+  "author": {
+    "name": "en1r0py1865"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/en1r0py1865/minecraft-building-server",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/en1r0py1865/minecraft-building-server"
+}

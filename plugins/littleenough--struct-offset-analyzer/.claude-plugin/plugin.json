@@ -1,0 +1,10 @@
+{
+  "name": "littleenough--struct-offset-analyzer",
+  "description": "Statically analyze C struct member offsets through code reading to calculate memory layouts",
+  "version": "1.0.1",
+  "author": {
+    "name": "littleenough"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/littleenough/struct-offset-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/littleenough/struct-offset-analyzer"
+}

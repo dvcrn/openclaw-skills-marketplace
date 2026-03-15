@@ -1,0 +1,10 @@
+{
+  "name": "berthelol--scrapping",
+  "description": "Use this skill whenever a user wants to get, pull, grab, fetch, or look up public data from social media platforms — profiles, posts, videos, comments, followers, engagement stats, transcripts, trending content, hashtags, or creator info from TikTok, Instagram, YouTube, Twitter/X, LinkedIn, Facebook, Reddit, Threads, Bluesky, Pinterest, Snapchat, Twitch, Kick, Truth Social, or link-in-bio sites (Linktree, Komi, Pillar). Also covers ad library lookups (Meta, Google, LinkedIn, Reddit) and TikTok Shop data. Trigger even when users say \"scrape\", \"monitor\", \"search\", or \"check\" a platform. Do NOT trigger for building apps, using official platform SDKs/APIs (like PRAW, tweepy, YouTube Data API), analyzing local files, or creating dashboards — only when the user needs to retrieve data directly from a social platform.",
+  "version": "0.1.2",
+  "author": {
+    "name": "berthelol"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/berthelol/scrapping",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/berthelol/scrapping"
+}

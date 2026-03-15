@@ -1,0 +1,10 @@
+{
+  "name": "zedit42--solana-funding-arb",
+  "description": "Solana perpetual DEX funding rate arbitrage - scanner and auto-trader. Compares funding rates across Drift and Flash Trade to find and execute cross-DEX arbitrage opportunities. Use when analyzing Solana perp funding rates, finding funding arbitrage, setting up delta-neutral strategies, or running automated funding collection. Includes Monte Carlo simulation, backtesting, and full auto-trading capabilities.",
+  "version": "2.1.0",
+  "author": {
+    "name": "zedit42"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zedit42/solana-funding-arb",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zedit42/solana-funding-arb"
+}

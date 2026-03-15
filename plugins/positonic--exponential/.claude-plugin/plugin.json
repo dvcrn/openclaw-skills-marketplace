@@ -1,0 +1,10 @@
+{
+  "name": "positonic--exponential",
+  "description": "Manage tasks, projects, and workspaces in Exponential via the `exponential` CLI. Use when creating, listing, or updating actions/tasks, viewing projects, checking today's tasks, managing kanban boards, or any Exponential productivity workflow. Triggers on \"create a task\", \"what's on my plate\", \"list actions\", \"update task\", \"exponential\", \"daily plan\", or project management requests.",
+  "version": "1.0.0",
+  "author": {
+    "name": "positonic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/positonic/exponential",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/positonic/exponential"
+}

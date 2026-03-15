@@ -1,0 +1,10 @@
+{
+  "name": "chensanle--sticker",
+  "description": "对话情绪感知表情包技能。根据对话上下文的情绪和状况，自动选择合适的关键词搜索表情包并展示。当此技能被加载时，说明语境适合发表情——主动发一张。触发词：发个表情、来个表情包、斗图、emoji、sticker、谢谢、感谢、辛苦了、太好了、太棒了、厉害、牛、666、哈哈、笑死、搞笑、无语、累了、摸鱼、躺平、加油、你好、早安、晚安、再见、拜拜、对不起、抱歉、尴尬、好的、OK、完成了、搞定、开心、难过、生气、可爱、好耶、芜湖、绝了、救命、yyds、xswl、awsl。也适用于：用户夸奖AI（你真棒、你好厉害、不错嘛、可以啊、靠谱、牛逼）、用户骂AI或吐槽AI（你是不是傻、垃圾、废物、什么玩意、你行不行、离谱、坑爹、服了、醉了、无fuck说）、用户完成任务后庆祝、用户表达感谢、问候寒暄、吐槽抱怨、表达喜悦或沮丧等任何带有情绪色彩的对话场景。",
+  "version": "1.0.3",
+  "author": {
+    "name": "chensanle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chensanle/sticker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chensanle/sticker"
+}

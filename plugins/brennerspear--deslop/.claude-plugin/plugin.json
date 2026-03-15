@@ -1,0 +1,10 @@
+{
+  "name": "brennerspear--deslop",
+  "description": "Remove AI-style code slop from a branch by reviewing diffs, deleting inconsistent defensive noise, and preserving behavior and local style.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brennerspear"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brennerspear/deslop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brennerspear/deslop"
+}

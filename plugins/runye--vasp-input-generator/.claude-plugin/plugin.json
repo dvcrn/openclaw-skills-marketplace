@@ -1,0 +1,10 @@
+{
+  "name": "runye--vasp-input-generator",
+  "description": "Generate VASP DFT calculation input files (INCAR, KPOINTS, POSCAR, POTCAR). Use when Codex needs to create, modify, or validate VASP input files for: (1) Structural optimization, (2) Electronic structure calculations, (3) MD simulations, (4) Band structure calculations, (5) DOS calculations, or any other VASP-related tasks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "runye"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runye/vasp-input-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runye/vasp-input-generator"
+}

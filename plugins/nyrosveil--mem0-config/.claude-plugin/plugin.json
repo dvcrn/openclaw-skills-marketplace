@@ -1,0 +1,10 @@
+{
+  "name": "nyrosveil--mem0-config",
+  "description": "Install, configure, diagnose, and operate the openclaw-mem0 long-term memory plugin for OpenClaw agents. Use when the user wants to set up mem0 memory (platform or open-source/self-hosted mode), configure OSS components (embedder, vector store, LLM, historyDbPath), debug memory issues (SQLITE_CANTOPEN crash loops, memories not being stored or recalled, Qdrant/Ollama connectivity), use the `openclaw mem0` CLI (search, stats), or understand how auto-recall and auto-capture work in agent sessions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nyrosveil"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nyrosveil/mem0-config",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nyrosveil/mem0-config"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "genify--lsp-python",
+  "description": "Python code quality checking and LSP integration using pylsp. Provides code diagnostics, completion, hover tips, and style analysis. Use when: checking Python errors/warnings, getting code completions, viewing function signatures, analyzing code quality, or fixing style issues.",
+  "version": "1.1.0",
+  "author": {
+    "name": "genify"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/genify/lsp-python",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/genify/lsp-python"
+}

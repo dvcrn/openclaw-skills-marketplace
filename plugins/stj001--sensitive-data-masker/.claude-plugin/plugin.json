@@ -1,0 +1,10 @@
+{
+  "name": "stj001--sensitive-data-masker",
+  "description": "Intelligent sensitive data detection and masking. Uses Microsoft Presidio + SQLite for automatic PII redaction with local restoration support.",
+  "version": "1.0.7",
+  "author": {
+    "name": "stj001"
+  },
+  "homepage": "https://gitee.com/subline/onepeace/tree/develop/src/skills/sensitive-data-masker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stj001/sensitive-data-masker"
+}

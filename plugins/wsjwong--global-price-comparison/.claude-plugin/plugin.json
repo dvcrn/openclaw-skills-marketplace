@@ -1,0 +1,10 @@
+{
+  "name": "wsjwong--global-price-comparison",
+  "description": "Discover and compare the same product across multiple countries and source types (official stores, marketplaces, retailers) using Brave and/or Tavily web search, then normalize all offers to USD for ranking and spread analysis. Use when users ask for global product price comparison, cross-country official price checks, or cheapest-market analysis.",
+  "version": "1.0.2",
+  "author": {
+    "name": "wsjwong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wsjwong/global-price-comparison",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wsjwong/global-price-comparison"
+}

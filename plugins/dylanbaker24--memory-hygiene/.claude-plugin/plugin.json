@@ -1,0 +1,10 @@
+{
+  "name": "dylanbaker24--memory-hygiene",
+  "description": "Audit, clean, and optimize Clawdbot's vector memory (LanceDB). Use when memory is bloated with junk, token usage is high from irrelevant auto-recalls, or setting up memory maintenance automation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dylanbaker24"
+  },
+  "homepage": "https://github.com/xdylanbaker/memory-hygiene",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dylanbaker24/memory-hygiene"
+}

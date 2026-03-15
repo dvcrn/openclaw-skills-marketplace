@@ -1,0 +1,10 @@
+{
+  "name": "waqas-orcalo--comonyx-admin",
+  "description": "Admin skill to sign into Cosmonyx, fetch companies, filter/export (PDF or Excel), optionally email the export, or send reminder emails to filtered companies.",
+  "version": "1.0.1",
+  "author": {
+    "name": "waqas-orcalo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/waqas-orcalo/comonyx-admin",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/waqas-orcalo/comonyx-admin"
+}

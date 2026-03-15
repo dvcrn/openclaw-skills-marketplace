@@ -1,0 +1,10 @@
+{
+  "name": "oscraters--eodhd",
+  "description": "Plan, build, review, or extend a stateless Bash CLI wrapper for the publicly documented EODHD API, intended for OpenClaw agents and Clawhub.ai distribution. Use when Codex needs to define command structure, auth handling, error semantics, redaction rules, CI, packaging, or skill metadata for an open source EODHD integration that must follow OpenClaw secrets management and avoid leaking sensitive data to stdout, stderr, logs, examples, or repo artifacts.",
+  "version": "1.0.1",
+  "author": {
+    "name": "oscraters"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oscraters/eodhd",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oscraters/eodhd"
+}

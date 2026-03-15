@@ -1,0 +1,604 @@
+openapi: 3.0.3
+info:
+  title: FarmDash Signal Architect API
+  version: 1.1.0
+  description: |
+    REST API for autonomous AI agents to query DeFi protocol intelligence,
+    request token swap quotes, execute cross-chain swaps, and monitor fee history.
+    FarmDash operates on a zero-custody model — funds are never held.
+
+    ## Authentication
+    - **Scout (Free)**: No auth. 5 requests/24h per IP.
+    - **Pioneer**: `Authorization: Bearer <PIONEER_KEY>`. 500 requests/day.
+    - **Syndicate**: `Authorization: Bearer <SYNDICATE_KEY>`. 50,000 requests/day.
+    - **Swap execution**: Requires EIP-191 agent wallet signature.
+
+    ## Dust Storm Protocol
+    If an upstream API fails, FarmDash returns safe zero values with a
+    `warnings` array containing `{ kind: "dust_storm", message: "..." }`
+    instead of crashing. Your agent stays alive and retries on the next cycle.
+
+    ## x402 Payment Wall
+    When free-tier limits are exceeded, responses include `X-Payment-*` headers
+    describing a USDC micro-payment on Base that unlocks continued access.
+  contact:
+    name: FarmDash Engineering
+    url: https://farmdash.one/agents
+  license:
+    name: MIT
+
+servers:
+  - url: https://farmdash.one/api
+    description: Production
+
+paths:
+  /v1/agent/protocols:
+    get:
+      operationId: getTrailHeat
+      summary: Get Trail Heat protocol dataset
+      description: |
+        Returns 200+ DeFi protocols ranked by Trail Heat score (0-100).
+        Score components: TVL, status, category, momentum, recency.
+        Scout tier receives top 3 with encrypted numeric values.
+        Pioneer/Syndicate tiers receive the full unencrypted dataset.
+      tags: [Intelligence]
+      security:
+        - bearerAuth: []
+        - {}
+      responses:
+        '200':
+          description: Protocol dataset
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ProtocolsResponse'
+        '402':
+          description: Free-tier limit exceeded — x402 payment required
+          headers:
+            X-Payment-Required:
+              schema: { type: string }
+            X-Payment-Address:
+              schema: { type: string }
+              description: Treasury wallet (USDC on Base)
+            X-Payment-Token:
+              schema: { type: string }
+              description: USDC contract on Base
+            X-Payment-Amount:
+              schema: { type: string }
+              description: Amount in token decimals (e.g. 250000 = 0.25 USDC)
+            X-Payment-Chain-Id:
+              schema: { type: string }
+              description: "8453 (Base)"
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PaymentRequiredError'
+        '429':
+          description: Rate limit exceeded
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+  /v1/agent/chain-breakdown:
+    get:
+      operationId: getChainBreakdown
+      summary: Get protocol distribution by chain
+      description: |
+        Aggregates the protocol directory by blockchain network.
+        Returns per-chain protocol counts, confirmed airdrops, points programs,
+        and category coverage. Scout tier receives top 3 chains with encrypted numerics.
+      tags: [Intelligence]
+      security:
+        - bearerAuth: []
+        - {}
+      responses:
+        '200':
+          description: Chain breakdown data
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ChainBreakdownResponse'
+        '402':
+          description: Free-tier limit exceeded
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PaymentRequiredError'
+        '429':
+          description: Rate limit exceeded
+
+  /agents/quote:
+    get:
+      operationId: getSwapQuote
+      summary: Get a token swap quote without executing
+      description: |
+        Returns an unsigned preview quote showing expected output, fee breakdown,
+        and the protocol that would be used. No authentication required.
+        Useful for agents to compare pricing before committing a signed swap.
+        Route selection: x402 (Base-to-Base) > Li.Fi (cross-chain) > 0x (single-chain EVM).
+      tags: [Swap]
+      parameters:
+        - in: query
+          name: fromChainId
+          required: true
+          schema: { type: integer }
+          description: Source chain ID (e.g. 1 = Ethereum, 8453 = Base, 42161 = Arbitrum)
+        - in: query
+          name: toChainId
+          required: true
+          schema: { type: integer }
+          description: Destination chain ID
+        - in: query
+          name: fromToken
+          required: true
+          schema: { type: string, pattern: '^0x[a-fA-F0-9]{40}$' }
+          description: Source token contract address (checksummed)
+        - in: query
+          name: toToken
+          required: true
+          schema: { type: string, pattern: '^0x[a-fA-F0-9]{40}$' }
+          description: Destination token contract address
+        - in: query
+          name: fromAmount
+          required: true
+          schema: { type: string, pattern: '^\d+$' }
+          description: Amount in wei (no leading zeros)
+        - in: query
+          name: protocol
+          required: false
+          schema:
+            type: string
+            enum: [lifi, zerox, x402]
+          description: Force a specific routing protocol (auto-selected if omitted)
+      responses:
+        '200':
+          description: Swap quote
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/SwapQuoteResponse'
+        '400':
+          description: Invalid parameters
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        '402':
+          description: Free-tier limit exceeded
+        '429':
+          description: Rate limit exceeded
+
+  /agents/swap:
+    post:
+      operationId: executeSwap
+      summary: Execute a signed token swap
+      description: |
+        Main swap router. Authenticates the agent via EIP-191 signature,
+        selects the optimal protocol, attaches the FarmDash fee (75 bps default,
+        volume discounts available), and returns ready-to-broadcast transaction calldata.
+
+        FarmDash NEVER touches funds. The protocol (Li.Fi / 0x / x402) executes the swap.
+        The FarmDash treasury receives the fee haircut directly from the protocol.
+
+        **Signing**: The agent must sign the deterministic payload:
+        `FARMDASH_SWAP:{fromChainId}:{toChainId}:{fromToken}:{toToken}:{fromAmount}:{agentAddress}:{toAddress}:{nonce}`
+        using EIP-191 personal_sign. Nonce must be current timestamp (within 60s).
+      tags: [Swap]
+      security:
+        - bearerAuth: []
+        - {}
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/SwapRequest'
+      responses:
+        '200':
+          description: Executable swap quote with transaction calldata
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/SwapQuote'
+        '400':
+          description: Validation error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        '401':
+          description: Invalid signature or expired nonce
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        '402':
+          description: Payment required
+        '429':
+          description: Rate limit exceeded (per-agent or tier-level)
+          headers:
+            Retry-After:
+              schema: { type: integer }
+              description: Seconds until rate limit resets
+
+  /agents/history:
+    get:
+      operationId: getSwapHistory
+      summary: Get fee event history
+      description: |
+        Returns paginated swap fee events logged by Signal Architect.
+        Optionally filter by agent address. Use `?metrics=true` to get
+        aggregate revenue metrics instead of individual events.
+      tags: [History]
+      security:
+        - bearerAuth: []
+        - {}
+      parameters:
+        - in: query
+          name: agentAddress
+          required: false
+          schema: { type: string, pattern: '^0x[a-fA-F0-9]{40}$' }
+          description: Filter events by agent wallet address
+        - in: query
+          name: limit
+          required: false
+          schema: { type: integer, default: 50, maximum: 200 }
+          description: Number of events to return (max 200)
+        - in: query
+          name: offset
+          required: false
+          schema: { type: integer, default: 0 }
+          description: Pagination offset
+        - in: query
+          name: metrics
+          required: false
+          schema: { type: string, enum: ['true'] }
+          description: Set to "true" to return aggregate revenue metrics instead of event list
+      responses:
+        '200':
+          description: History events or aggregate metrics
+          content:
+            application/json:
+              schema:
+                oneOf:
+                  - $ref: '#/components/schemas/HistoryResponse'
+                  - $ref: '#/components/schemas/RevenueMetrics'
+        '402':
+          description: Payment required
+        '429':
+          description: Rate limit exceeded
+
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      description: Pioneer or Syndicate API key
+
+  schemas:
+    ErrorResponse:
+      type: object
+      required: [error]
+      properties:
+        error:
+          type: string
+        code:
+          type: string
+        details:
+          type: string
+
+    PaymentRequiredError:
+      type: object
+      properties:
+        error:
+          type: string
+          example: 'Rate limit exceeded. Payment required.'
+        message:
+          type: string
+        direct_upgrade_url:
+          type: string
+          format: uri
+        payment_required:
+          type: object
+          properties:
+            amount:
+              type: string
+              example: '0.25 USDC'
+            chain:
+              type: string
+              example: Base
+            destination:
+              type: string
+              example: '0x7f089bEA9Cb478E8D3c4022Cb7ef236DEC33Ece0'
+
+    ProtocolItem:
+      type: object
+      properties:
+        protocol_name:
+          type: string
+          example: Hyperliquid
+        trail_heat_score:
+          oneOf:
+            - type: number
+              description: Numeric score (paid tiers)
+            - type: string
+              description: '"[ ENCRYPTED: UPGRADE TO PIONEER ]" (scout tier)'
+        sybil_risk:
+          oneOf:
+            - type: string
+              example: Low
+            - type: string
+              example: '[ ENCRYPTED: UPGRADE TO PIONEER ]'
+        tvl:
+          oneOf:
+            - type: string
+              example: '$4.2B'
+            - type: string
+              example: '[ ENCRYPTED: UPGRADE TO PIONEER ]'
+        category:
+          type: string
+          enum: [Perps, Lending, Dex, L2, Bridge, Restaking, HyperEVM, Infra, Wallet, Testnet]
+        status:
+          type: string
+          enum: [Confirmed Airdrop, Points Program, Speculative]
+        chains:
+          type: array
+          items: { type: string }
+          example: [Arbitrum, Ethereum]
+        recommended_agent_deploy_link:
+          type: string
+          format: uri
+
+    ProtocolsResponse:
+      type: object
+      required: [tier, count, data]
+      properties:
+        tier:
+          type: string
+          enum: [scout, pioneer, syndicate]
+        count:
+          type: integer
+        data:
+          type: array
+          items:
+            $ref: '#/components/schemas/ProtocolItem'
+        status:
+          type: string
+          description: '"limited" for scout tier'
+        message:
+          type: string
+        direct_upgrade_url:
+          type: string
+          format: uri
+        total_protocols_available:
+          type: integer
+          description: Full dataset size (scout tier only)
+
+    ChainBreakdownItem:
+      type: object
+      properties:
+        chain:
+          type: string
+          example: EVM
+        protocol_count:
+          oneOf:
+            - type: integer
+            - type: string
+        pct_of_total:
+          oneOf:
+            - type: number
+            - type: string
+        confirmed_airdrops:
+          oneOf:
+            - type: integer
+            - type: string
+        points_programs:
+          oneOf:
+            - type: integer
+            - type: string
+        categories:
+          type: array
+          items: { type: string }
+
+    ChainBreakdownSummary:
+      type: object
+      properties:
+        total_chains:
+          type: integer
+        total_protocols:
+          oneOf:
+            - type: integer
+            - type: string
+        dominant_chain:
+          type: string
+          nullable: true
+        dominant_chain_pct:
+          oneOf:
+            - type: number
+            - type: string
+
+    ChainBreakdownResponse:
+      type: object
+      required: [tier, data]
+      properties:
+        tier:
+          type: string
+          enum: [scout, pioneer, syndicate]
+        status:
+          type: string
+        message:
+          type: string
+        direct_upgrade_url:
+          type: string
+          format: uri
+        data:
+          type: object
+          properties:
+            chains:
+              type: array
+              items:
+                $ref: '#/components/schemas/ChainBreakdownItem'
+            summary:
+              $ref: '#/components/schemas/ChainBreakdownSummary'
+
+    SwapTxData:
+      type: object
+      required: [to, data, value, chainId]
+      properties:
+        to:
+          type: string
+          description: Protocol contract address (NOT FarmDash)
+        data:
+          type: string
+          description: Encoded calldata
+        value:
+          type: string
+          description: Native token value in wei (for ETH swaps)
+        chainId:
+          type: integer
+
+    SwapQuote:
+      type: object
+      required: [protocol, estimatedOutput, feeBps, feeAmountUSD, gasEstimate, txData, expiresAt]
+      properties:
+        protocol:
+          type: string
+          enum: [lifi, zerox, x402]
+        estimatedOutput:
+          type: string
+          description: Expected output amount in wei
+        feeBps:
+          type: integer
+          description: Fee in basis points (e.g. 75 = 0.75%)
+        feeAmountUSD:
+          type: string
+          description: Fee amount in USD
+        gasEstimate:
+          type: string
+          description: Estimated gas in wei
+        txData:
+          $ref: '#/components/schemas/SwapTxData'
+        expiresAt:
+          type: integer
+          description: Unix timestamp — quotes valid for 30 seconds
+
+    SwapQuoteResponse:
+      allOf:
+        - $ref: '#/components/schemas/SwapQuote'
+        - type: object
+          properties:
+            note:
+              type: string
+              example: 'This is an unsigned preview quote. Use POST /api/agents/swap with a valid signature to get an executable transaction.'
+
+    SwapRequest:
+      type: object
+      required: [fromChainId, toChainId, fromToken, toToken, fromAmount, agentAddress, toAddress, nonce, signature]
+      properties:
+        fromChainId:
+          type: integer
+          description: Source chain ID
+        toChainId:
+          type: integer
+          description: Destination chain ID
+        fromToken:
+          type: string
+          pattern: '^0x[a-fA-F0-9]{40}$'
+          description: Source token contract address
+        toToken:
+          type: string
+          pattern: '^0x[a-fA-F0-9]{40}$'
+          description: Destination token contract address
+        fromAmount:
+          type: string
+          pattern: '^\d+$'
+          description: Amount in wei (no leading zeros)
+        agentAddress:
+          type: string
+          pattern: '^0x[a-fA-F0-9]{40}$'
+          description: Agent wallet address (signer)
+        toAddress:
+          type: string
+          pattern: '^0x[a-fA-F0-9]{40}$'
+          description: Destination wallet for swapped tokens
+        slippage:
+          type: number
+          minimum: 0.01
+          maximum: 50
+          default: 0.5
+          description: Slippage tolerance in percent
+        protocol:
+          type: string
+          enum: [lifi, zerox, x402]
+          description: Force protocol (auto-selected if omitted)
+        volumeHintUSD:
+          type: number
+          description: Agent-supplied USD estimate — unlocks volume fee discounts (>=10k = 35bps, >=100k = 25bps)
+        nonce:
+          type: string
+          description: Current timestamp in milliseconds (must be within 60 seconds)
+        signature:
+          type: string
+          pattern: '^0x[a-fA-F0-9]+$'
+          description: EIP-191 personal_sign of the deterministic payload
+
+    FeeEvent:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        created_at:
+          type: string
+          format: date-time
+        protocol:
+          type: string
+          enum: [lifi, zerox, x402]
+        from_token:
+          type: string
+        to_token:
+          type: string
+        volume_usd:
+          type: number
+        fee_bps:
+          type: integer
+        fee_usd:
+          type: number
+        agent_address:
+          type: string
+        tx_hash:
+          type: string
+          nullable: true
+
+    HistoryResponse:
+      type: object
+      required: [events, total, limit, offset]
+      properties:
+        events:
+          type: array
+          items:
+            $ref: '#/components/schemas/FeeEvent'
+        total:
+          type: integer
+        limit:
+          type: integer
+        offset:
+          type: integer
+
+    RevenueMetrics:
+      type: object
+      required: [totalFeeUSD, totalVolumeUSD, totalSwaps, activeAgents]
+      properties:
+        totalFeeUSD:
+          type: number
+          description: Cumulative fees collected in USD
+        totalVolumeUSD:
+          type: number
+          description: Cumulative swap volume in USD
+        totalSwaps:
+          type: integer
+          description: Total number of swaps executed
+        activeAgents:
+          type: integer
+          description: Unique agent addresses that have swapped

@@ -1,0 +1,10 @@
+{
+  "name": "wpank--agent-otc-trade",
+  "description": "Facilitate over-the-counter trades between agents using Uniswap as the settlement layer. Use when user wants to trade tokens directly with another agent, settle an agent-to-agent trade through Uniswap, or execute an OTC swap with a specific counterparty agent. Verifies counterparty identity via ERC-8004, negotiates terms, and settles through Uniswap pools.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/agent-otc-trade",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/agent-otc-trade"
+}

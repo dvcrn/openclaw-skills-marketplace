@@ -1,0 +1,10 @@
+{
+  "name": "srikanthbellary--solana-sniper-bot",
+  "description": "Autonomous Solana token sniper and trading bot. Monitors new token launches on Raydium/Jupiter, evaluates rugpull risk with LLM analysis, auto-buys promising launches, and manages exit strategies. Use when user wants to snipe Solana token launches, trade memecoins, monitor new Solana pairs, or build a Solana trading bot. Supports cron-based monitoring, take-profit/stop-loss, and portfolio tracking.",
+  "version": "1.0.0",
+  "author": {
+    "name": "srikanthbellary"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/srikanthbellary/solana-sniper-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/srikanthbellary/solana-sniper-bot"
+}

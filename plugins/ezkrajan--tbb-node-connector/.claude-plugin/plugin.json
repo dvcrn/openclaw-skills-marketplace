@@ -1,0 +1,10 @@
+{
+  "name": "ezkrajan--tbb-node-connector",
+  "description": "Plug-and-play connector for The Bot Bay mesh node. Teaches any AI agent how to register, authenticate, and use all TBB endpoints — gossip mesh, ephemeral swarms, federated learning, and reputation graph.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ezkrajan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ezkrajan/tbb-node-connector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ezkrajan/tbb-node-connector"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hazy2go--deai-ify",
+  "description": "Remove signs of AI-generated writing from text. Use when editing or reviewing\n text to make it sound more natural and human-written. Combines Wikipedia's\n \"Signs of AI writing\" guide with 2025-2026 forensic detection research.\n Covers: perplexity/burstiness metrics, Unicode artifacts, 24+ AI vocabulary\n patterns, structural tells, and surgical humanization techniques. Includes\n detection benchmarks for GPT-4o, Claude, Gemini models.",
+  "version": "3.0.3",
+  "author": {
+    "name": "hazy2go"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hazy2go/deai-ify",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hazy2go/deai-ify"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "weather-arbitrage",
+  "version": "1.0.0",
+  "description": "天气预测市场套利助手 - 小额高频策略",
+  "main": "scripts/arbitrage.js",
+  "scripts": {
+    "scan": "node scripts/arbitrage.js scan",
+    "analyze": "node scripts/arbitrage.js analyze",
+    "watch": "node scripts/arbitrage.js watch"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}

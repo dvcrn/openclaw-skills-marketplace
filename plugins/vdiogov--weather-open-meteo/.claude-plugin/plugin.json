@@ -1,0 +1,10 @@
+{
+  "name": "vdiogov--weather-open-meteo",
+  "description": "Obter condições climáticas atuais e previsões via open-meteo.com, usando apenas curl. Caso falhe, recorre ao wttr.in.",
+  "version": "0.1.5",
+  "author": {
+    "name": "vdiogov"
+  },
+  "homepage": "https://open-meteo.com/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vdiogov/weather-open-meteo"
+}

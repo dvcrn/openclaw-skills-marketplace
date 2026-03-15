@@ -1,0 +1,10 @@
+{
+  "name": "katherineedwards2475--rdk-x5-ai-detect",
+  "description": "在 RDK X5 的 10TOPS BPU 上运行单个 AI 推理算法：YOLO 目标检测、图像分类、语义分割、人脸识别、手势识别、人体关键点、开放词汇检测（DOSOD/YOLO-World）、双目深度估计、语音识别、端侧轻量 LLM（≤2B 参数量化模型）。Use when the user wants to run a single AI algorithm, deploy pre-built .bin models to BPU, or ask what AI models/LLMs RDK X5 can run (能力咨询). Do NOT use for camera hardware setup (use rdk-x5-camera), multimedia encoding (use rdk-x5-media), running /app demo scripts (use rdk-x5-app), integrated camera+AI+output pipeline (use rdk-x5-tros), model conversion/quantization/export (use Horizon toolchain on PC), large generative models like Stable Diffusion (insufficient VRAM), or custom code that bridges AI results to external services like MQTT.",
+  "version": "1.0.0",
+  "author": {
+    "name": "katherineedwards2475"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/katherineedwards2475/rdk-x5-ai-detect",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/katherineedwards2475/rdk-x5-ai-detect"
+}

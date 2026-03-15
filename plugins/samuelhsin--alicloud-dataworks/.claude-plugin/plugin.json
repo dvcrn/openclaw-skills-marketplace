@@ -1,0 +1,10 @@
+{
+  "name": "samuelhsin--alicloud-dataworks",
+  "description": "Operate Alibaba Cloud DataWorks through dynamic API discovery and official SDKs (Node.js, Python, Java). Covers data development, workflow operations, data integration, data quality, metadata lineage, workspace management, and more. APIs are discovered at runtime from official docs and OpenAPI metadata — no hardcoded list.",
+  "version": "1.0.0",
+  "author": {
+    "name": "samuelhsin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/samuelhsin/alicloud-dataworks",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/samuelhsin/alicloud-dataworks"
+}

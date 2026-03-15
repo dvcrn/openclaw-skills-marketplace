@@ -1,0 +1,10 @@
+{
+  "name": "cewinharhar--lobster-bio-use",
+  "description": "Analyze biological data using Lobster AI — single-cell RNA-seq, bulk RNA-seq,\n literature mining, dataset discovery, quality control, and visualization.\n \n USE THIS SKILL WHEN:\n - Analyzing single-cell or bulk RNA-seq data\n - Searching PubMed/GEO for papers or datasets\n - Running quality control on biological data\n - Clustering cells, finding markers, differential expression\n - Creating publication-quality visualizations\n - Working with H5AD, CSV, 10X, GEO/SRA accessions\n \n TRIGGER PHRASES: \"analyze cells\", \"search PubMed\", \"download GEO\", \"run QC\",\n \"cluster\", \"find markers\", \"differential expression\", \"UMAP\", \"volcano plot\",\n \"single-cell\", \"RNA-seq\", \"bioinformatics\"\n \n ASSUMES: Lobster is installed and configured. For setup issues, tell user to\n run `lobster config-test` and fix any errors before proceeding.",
+  "version": "1.0.1",
+  "author": {
+    "name": "cewinharhar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cewinharhar/lobster-bio-use",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cewinharhar/lobster-bio-use"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "synthere--video-audio-replace",
+  "description": "Replace video audio with TTS voice while preserving original timing. Includes subtitle generation from video using Whisper. Uses ElevenLabs or Edge TTS, aligns each audio segment to original timestamp, adjusts speed (0.85-1.15x), and inserts silence gaps.",
+  "version": "1.0.0",
+  "author": {
+    "name": "synthere"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/synthere/video-audio-replace",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/synthere/video-audio-replace"
+}

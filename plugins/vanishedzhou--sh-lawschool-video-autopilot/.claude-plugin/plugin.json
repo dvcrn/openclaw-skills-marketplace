@@ -1,0 +1,10 @@
+{
+  "name": "vanishedzhou--sh-lawschool-video-autopilot",
+  "description": "Automate online law course video watching on 律师云学院 (lawschool.lawyerpass.com). Use when a user needs to automatically play through a list of training videos, handle course enrollment (\"选修并学习\"), detect video completion, switch to the next course, and send progress notifications. Supports both 培训计划 (training plan) courses and 课程广场 (course square) free-choice courses. Requires Chrome browser connected via OpenClaw Browser Relay.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vanishedzhou"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vanishedzhou/sh-lawschool-video-autopilot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vanishedzhou/sh-lawschool-video-autopilot"
+}

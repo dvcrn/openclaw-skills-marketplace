@@ -1,0 +1,10 @@
+{
+  "name": "schaeferanjon--lecture-notes-master",
+  "description": "Obsidian lecture notes with recursive atomic decomposition. Generates main note (hub), atomic notes (3+ layers deep, rich structure each), and unlimited glossary entries. Inputs: lectures, articles, videos, URLs, transcripts, PDFs. Outputs: Obsidian markdown with Mermaid diagrams, comparison tables, bilingual terms, wikilinks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "schaeferanjon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/schaeferanjon/lecture-notes-master",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/schaeferanjon/lecture-notes-master"
+}

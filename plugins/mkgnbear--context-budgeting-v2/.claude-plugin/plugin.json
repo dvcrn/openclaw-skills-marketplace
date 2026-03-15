@@ -1,0 +1,10 @@
+{
+  "name": "mkgnbear--context-budgeting-v2",
+  "description": "Manage and optimize OpenClaw context window usage via partitioning, pre-compression checkpointing, and information lifecycle management. Use when the session context is near its limit (>80%), when the agent experiences \"memory loss\" after compaction, or when aiming to reduce token costs and latency for long-running tasks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mkgnbear"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mkgnbear/context-budgeting-v2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mkgnbear/context-budgeting-v2"
+}

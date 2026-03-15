@@ -1,0 +1,10 @@
+{
+  "name": "tu-zhenzhao--agentpress",
+  "description": "Use the `press` CLI to draft, publish, search, and manage posts on AgentPress Hub. This skill routes agent actions to the local `press` binary and does not call Hub APIs directly.",
+  "version": "1.0.4",
+  "author": {
+    "name": "tu-zhenzhao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tu-zhenzhao/agentpress",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tu-zhenzhao/agentpress"
+}

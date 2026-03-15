@@ -1,0 +1,10 @@
+{
+  "name": "alex-indi--weeek-tasks",
+  "description": "Управление задачами WEEEK через Public API (Task Manager): получать список задач, создавать/обновлять/завершать задачи, перемещать между досками/колонками, получать список досок и колонок. Использовать при интеграции с WEEEK API и работе с задачами/досками/колонками.",
+  "version": "1.0.0",
+  "author": {
+    "name": "alex-indi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alex-indi/weeek-tasks",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alex-indi/weeek-tasks"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "nogara--paprika-recipe-importer",
+  "description": "Convert recipe text (pasted text, video transcript, image description, or any raw content) into a .paprikarecipes file that can be imported directly into the Paprika Recipe Manager app. Use when the user shares a recipe in any format (text, transcript, image) and wants a Paprika import file. Triggers on phrases like \"create a Paprika file\", \"import into Paprika\", \"save this recipe to Paprika\", or when a recipe is shared and export to Paprika is implied.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nogara"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nogara/paprika-recipe-importer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nogara/paprika-recipe-importer"
+}

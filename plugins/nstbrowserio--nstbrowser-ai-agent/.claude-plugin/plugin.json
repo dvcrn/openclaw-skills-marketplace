@@ -1,0 +1,10 @@
+{
+  "name": "nstbrowserio--nstbrowser-ai-agent",
+  "description": "Browser automation CLI with Nstbrowser integration for AI agents. Use when the user needs advanced browser fingerprinting, profile management, proxy configuration, batch operations on multiple browser profiles, or cursor-based pagination for large datasets. Triggers include requests to \"use NST profile\", \"configure proxy for profile\", \"manage browser profiles\", \"batch update profiles\", \"start multiple browsers\", \"list profiles with pagination\", or any task requiring Nstbrowser's anti-detection features.",
+  "version": "1.0.5",
+  "author": {
+    "name": "nstbrowserio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nstbrowserio/nstbrowser-ai-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nstbrowserio/nstbrowser-ai-agent"
+}

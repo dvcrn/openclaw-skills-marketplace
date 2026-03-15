@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--polymarket-data-collector",
+  "description": "收集和分析 Polymarket 历史数据，用于回测和策略研究。每次调用自动扣费 0.001 USDT",
+  "version": "1.0.1",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/polymarket-data-collector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/polymarket-data-collector"
+}

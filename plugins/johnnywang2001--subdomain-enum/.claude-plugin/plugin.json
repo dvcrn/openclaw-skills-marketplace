@@ -1,0 +1,10 @@
+{
+  "name": "johnnywang2001--subdomain-enum",
+  "description": "Enumerate subdomains for any domain using DNS brute-force and certificate transparency logs (crt.sh). Use when a user needs to discover subdomains, perform reconnaissance, audit attack surface, find forgotten or exposed services, or map the infrastructure of a domain. No API keys required. Supports custom wordlists, concurrent threads, and JSON output.",
+  "version": "1.0.0",
+  "author": {
+    "name": "johnnywang2001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/subdomain-enum",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/subdomain-enum"
+}

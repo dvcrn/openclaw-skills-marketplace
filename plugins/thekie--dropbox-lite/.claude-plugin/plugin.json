@@ -1,0 +1,10 @@
+{
+  "name": "thekie--dropbox-lite",
+  "description": "Upload, download, and manage files in Dropbox with automatic OAuth token refresh.",
+  "version": "1.0.1",
+  "author": {
+    "name": "thekie"
+  },
+  "homepage": "https://www.dropbox.com/developers",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thekie/dropbox-lite"
+}

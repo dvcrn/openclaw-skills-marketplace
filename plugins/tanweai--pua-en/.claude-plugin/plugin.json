@@ -1,0 +1,10 @@
+{
+  "name": "tanweai--pua-en",
+  "description": "Forces exhaustive problem-solving with corporate PUA rhetoric. Trigger on: task failed 2+ times, about to give up, suggesting user do it manually, blaming environment unverified, stuck in loops, passive behavior, or user frustration ('try harder', 'figure it out', 'stop giving up', 'why isn't this working', 'again???'). ALL task types. Not for first failures.",
+  "version": "1.1.3",
+  "author": {
+    "name": "tanweai"
+  },
+  "homepage": "https://openpua.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tanweai/pua-en"
+}

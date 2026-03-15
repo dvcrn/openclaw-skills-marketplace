@@ -1,0 +1,10 @@
+{
+  "name": "chaochaosz--patent-fto",
+  "description": "FTO (Freedom-to-Operate) patent infringement risk search and analysis skill. Use this skill when users need FTO search, patent infringement analysis, patent risk assessment, competitor patent investigation, or pre-launch patent search. Supports text description or image input, searches via Google Patents or Patsnap, outputs complete FTO analysis report (with feature comparison table, search queries, relevant patent list, infringement risk conclusion). Trigger keywords: FTO, patent infringement, patent search, patent risk, technical feature comparison, Freedom to Operate.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chaochaosz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chaochaosz/patent-fto",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chaochaosz/patent-fto"
+}

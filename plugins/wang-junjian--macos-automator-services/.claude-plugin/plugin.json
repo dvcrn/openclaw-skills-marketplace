@@ -1,0 +1,10 @@
+{
+  "name": "wang-junjian--macos-automator-services",
+  "description": "部署和使用军舰的 macOS Automator 自动化服务集合。包含 5 个实用工作流：PDF转JPG、PNG重命名并转JPG、图像拼接、解压RAR、顺序命名图像文件。一键安装所有服务到 ~/Library/Services/ 目录。使用场景：(1) \"安装我的自动化服务\"，(2) \"部署所有 Automator 工作流\"，(3) \"设置快捷操作\"，(4) \"批量处理图像\"，(5) \"解压 RAR 文件\"。",
+  "version": "1.0.0",
+  "author": {
+    "name": "wang-junjian"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wang-junjian/macos-automator-services",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wang-junjian/macos-automator-services"
+}

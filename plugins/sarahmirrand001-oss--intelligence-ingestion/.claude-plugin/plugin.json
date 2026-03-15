@@ -1,0 +1,10 @@
+{
+  "name": "sarahmirrand001-oss--intelligence-ingestion",
+  "description": "Analyze and evaluate URLs, links, articles, tweets, and external info sources for strategic value. NOT a summarizer — this skill classifies, scores importance, maps to architecture, stores structured notes in Obsidian, updates the Strategic Landscape, and auto-generates draft Skills when new capabilities are detected (Auto-Skill Synthesis). Use when: user shares a link (x.com, github.com, arxiv.org, any URL), pastes article text, says \"analyze this\", \"evaluate this\", \"what do you think about this\", or forwards content. Do NOT use for: simple summarization requests (use summarize skill instead).",
+  "version": "2.0.2",
+  "author": {
+    "name": "sarahmirrand001-oss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sarahmirrand001-oss/intelligence-ingestion",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sarahmirrand001-oss/intelligence-ingestion"
+}

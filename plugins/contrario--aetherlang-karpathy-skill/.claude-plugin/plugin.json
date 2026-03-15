@@ -1,0 +1,10 @@
+{
+  "name": "contrario--aetherlang-karpathy-skill",
+  "description": "Execute advanced AI agent workflows via the AetherLang Omega API — 10 Karpathy node types including self-programming plans, sandboxed code execution, critique loops, intelligent routing, multi-agent ensemble, persistent memory, external API tools, iterative loops, data transforms, and parallel execution. Use when the user wants to run agent pipelines, multi-agent synthesis, batch processing, live API data analysis, or any autonomous AI workflow through AetherLang.",
+  "version": "1.0.2",
+  "author": {
+    "name": "contrario"
+  },
+  "homepage": "https://clawhub.ai/contrario",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/contrario/aetherlang-karpathy-skill"
+}

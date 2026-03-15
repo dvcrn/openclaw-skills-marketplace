@@ -1,0 +1,10 @@
+{
+  "name": "lacymorrow--kalshi-cli-trading",
+  "description": "Trade prediction markets on Kalshi using the kalshi-cli command-line tool. Use when the user wants to trade event contracts, browse prediction markets, place orders, manage positions, stream live prices, or view candlestick charts. Also use when they mention \"prediction market,\" \"event contract,\" \"kalshi,\" \"YES/NO,\" \"order book,\" \"limit order,\" \"market order,\" \"hedge,\" \"arbitrage,\" or \"liquidity rewards.\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "lacymorrow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lacymorrow/kalshi-cli-trading",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lacymorrow/kalshi-cli-trading"
+}

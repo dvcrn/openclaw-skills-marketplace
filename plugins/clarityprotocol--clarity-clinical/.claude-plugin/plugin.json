@@ -1,0 +1,10 @@
+{
+  "name": "clarityprotocol--clarity-clinical",
+  "description": "Query clinical variant data from ClinVar and gnomAD via Clarity Protocol. Use when the user asks about ClinVar classification, clinical significance, pathogenicity, gnomAD frequency, population genetics, or clinical data for gene. Capabilities: search clinical variants by gene, get detailed variant annotations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "clarityprotocol"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-clinical",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-clinical"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "trypto1019--arc-memory-pruner",
+  "description": "Automatically prune and compact agent memory files to prevent unbounded growth. Circular buffer for logs, importance-based retention for state, and configurable size limits.",
+  "version": "1.1.0",
+  "author": {
+    "name": "trypto1019"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-memory-pruner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-memory-pruner"
+}

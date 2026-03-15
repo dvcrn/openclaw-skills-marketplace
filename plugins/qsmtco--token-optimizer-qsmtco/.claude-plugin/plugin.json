@@ -1,0 +1,10 @@
+{
+  "name": "qsmtco--token-optimizer-qsmtco",
+  "description": "Reduce OpenClaw token usage and API costs through smart model routing, heartbeat optimization, budget tracking, and multi-provider fallbacks. Use when token costs are high, API rate limits are being hit, or hosting multiple agents at scale. Includes ready-to-use scripts for task classification, usage monitoring, and optimized heartbeat scheduling. All operations are local file analysis only - no network requests, no code execution. See SECURITY.md for details.",
+  "version": "1.3.0",
+  "author": {
+    "name": "qsmtco"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qsmtco/token-optimizer-qsmtco",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qsmtco/token-optimizer-qsmtco"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "gushu333--reverse-image-search",
+  "description": "Reverse image search (find image source, visually similar images). Use when user provides an image and wants to find its origin, similar images, or verify authenticity. Supports Yandex, Google, and Bing engines. Works with both URLs and local files. No API key required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gushu333"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gushu333/reverse-image-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gushu333/reverse-image-search"
+}

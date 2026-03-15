@@ -1,0 +1,10 @@
+{
+  "name": "albertpurnama--setup-services",
+  "description": "Set up OpenSpend CLI and optional Coinbase payments-mcp for payment-enabled workflows. Use when openspend is missing, command not found, whoami fails, or user asks to install/update/authenticate.",
+  "version": "1.0.2",
+  "author": {
+    "name": "albertpurnama"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/albertpurnama/setup-services",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/albertpurnama/setup-services"
+}

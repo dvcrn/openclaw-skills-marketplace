@@ -1,0 +1,10 @@
+{
+  "name": "cinience--alicloud-ai-audio-asr-realtime",
+  "description": "Use when low-latency realtime speech recognition is needed with Alibaba Cloud Model Studio Qwen ASR Realtime models, including streaming microphone input, live captions, or duplex voice agents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-ai-audio-asr-realtime",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-ai-audio-asr-realtime"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-cancel-waste-audit",
+  "description": "Audit cancelled and timed-out GitHub Actions runs from JSON exports to surface wasted CI minutes and noisy workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-cancel-waste-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-cancel-waste-audit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cosformula--wakapi-sync-skill",
+  "description": "Daily Wakapi (WakaTime-compatible) summary → local CSV files. Fetch today stats and append/update CSVs for totals, top projects, and top languages.",
+  "version": "0.2.1",
+  "author": {
+    "name": "cosformula"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cosformula/wakapi-sync-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cosformula/wakapi-sync-skill"
+}

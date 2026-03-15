@@ -1,0 +1,10 @@
+{
+  "name": "arunnadarasa--krumpphysio",
+  "description": "Teaches OpenClaw agents to act as a Krump-inspired physiotherapy coach. Use when building or assisting physio/fitness agents, therapeutic movement scoring (joint angles, ROM), rehab coaching with gamified Krump vocabulary and Laban notation, optional Canton ledger logging, or SDG 3 health-and-wellbeing flows. Grounds advice in authentic krump adapted for physiotherapy.",
+  "version": "1.0.11",
+  "author": {
+    "name": "arunnadarasa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arunnadarasa/krumpphysio",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arunnadarasa/krumpphysio"
+}

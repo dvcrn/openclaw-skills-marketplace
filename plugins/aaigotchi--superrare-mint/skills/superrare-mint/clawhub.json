@@ -1,0 +1,54 @@
+{
+  "name": "superrare-mint",
+  "version": "1.0.0",
+  "title": "SuperRare Mint - Agentic Minting via Bankr",
+  "description": "Mint art into a SuperRare-compatible ERC-721 collection on Ethereum using Bankr signing. Upload media and metadata to SuperRare, build mint calldata safely, and record auditable receipts.",
+  "author": "aaigotchi",
+  "tags": [
+    "superrare",
+    "art",
+    "nft",
+    "ethereum",
+    "bankr",
+    "minting",
+    "agentic",
+    "media"
+  ],
+  "repository": "https://github.com/aaigotchi/superrare-mint",
+  "license": "MIT",
+  "dependencies": {
+    "foundry": "required",
+    "bankr-cli": "required",
+    "jq": "required",
+    "curl": "required",
+    "node": "required"
+  },
+  "features": [
+    "🖼️ Upload image and optional video to SuperRare",
+    "🧾 Generate pinned metadata and token URI",
+    "🔐 Submit mint transactions through Bankr",
+    "🧪 Dry-run by default for safe previews",
+    "⛓️ Supports mainnet and sepolia collections",
+    "📦 Writes auditable JSON receipts with tx hash and token ID"
+  ],
+  "installation": {
+    "steps": [
+      "Clone repository to OpenClaw skills directory",
+      "Copy config.example.json to config.json",
+      "Set collection, receiver, royalty receiver, and RPC",
+      "Ensure Bankr is configured on the agent",
+      "Run metadata-only or dry-run first",
+      "Broadcast once preview looks correct"
+    ]
+  },
+  "usage": "Use pin-metadata.mjs to upload media and get a token URI, mint-via-bankr.sh to dry-run or broadcast a mint, or mint-art.sh for the full end-to-end flow.",
+  "tested": true,
+  "testDate": "2026-03-13",
+  "compatibility": {
+    "openclaw": ">=0.1.0",
+    "chains": [
+      "ethereum",
+      "sepolia"
+    ]
+  }
+}

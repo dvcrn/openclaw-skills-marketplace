@@ -1,0 +1,10 @@
+{
+  "name": "theylon--clawditor",
+  "description": "Audit an OpenClaw agent workspace and generate standardized evaluation reports, scores, and patches. Use when asked to review memory quality, retrieval efficiency, productive output, reliability, or alignment by scanning memory/logs/configs/git/artifacts and writing eval/exec_summary.md, eval/scorecard.md, and eval/latest_report.json (with deltas if prior eval/history exists).",
+  "version": "1.0.0",
+  "author": {
+    "name": "theylon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theylon/clawditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theylon/clawditor"
+}

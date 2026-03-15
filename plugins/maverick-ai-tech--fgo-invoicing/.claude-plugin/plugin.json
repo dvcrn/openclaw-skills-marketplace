@@ -1,0 +1,10 @@
+{
+  "name": "maverick-ai-tech--fgo-invoicing",
+  "description": "Issue FGO.ro invoices through the FGO API with local automation. Use for FGO tasks such as validating invoice payloads, issuing invoices, checking invoice status, getting print links, cancelling/deleting invoices, creating storno reversals, and fetching nomenclature lists.",
+  "version": "1.0.1",
+  "author": {
+    "name": "maverick-ai-tech"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-ai-tech/fgo-invoicing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-ai-tech/fgo-invoicing"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "brugillo--aice",
+  "description": "AI Confidence Engine — 5 dominios bidireccionales (TECH/OPS/JUDGMENT/COMMS/ORCH). Agent + User scoring. Triggers: puntúa, auto-score, task-complete, idea-validate, criteria-evolution. Pool scoring por runtime.",
+  "version": "1.2.1",
+  "author": {
+    "name": "brugillo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brugillo/aice",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brugillo/aice"
+}

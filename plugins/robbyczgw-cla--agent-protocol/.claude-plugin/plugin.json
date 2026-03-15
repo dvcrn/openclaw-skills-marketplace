@@ -1,0 +1,10 @@
+{
+  "name": "robbyczgw-cla--agent-protocol",
+  "description": "Agent-to-agent communication protocol. Enables skills to communicate via events, build workflow chains, and orchestrate without human intervention.",
+  "version": "1.0.0",
+  "author": {
+    "name": "robbyczgw-cla"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/agent-protocol",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/agent-protocol"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "yeyitech--generate-alipay-wechat-report",
+  "description": "Generate an interactive local HTML spending report from native Alipay CSV exports and WeChat Pay XLSX exports. Use when an agent needs to turn 支付宝交易明细 or 微信支付账单流水文件 into a digital dashboard for expense categorization, monthly trend review, recurring merchant analysis, spending habit diagnosis, and budget optimization.",
+  "version": "0.1.1",
+  "author": {
+    "name": "yeyitech"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yeyitech/generate-alipay-wechat-report",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yeyitech/generate-alipay-wechat-report"
+}

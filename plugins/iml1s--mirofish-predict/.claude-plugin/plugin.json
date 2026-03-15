@@ -1,0 +1,10 @@
+{
+  "name": "iml1s--mirofish-predict",
+  "description": "MiroFish 群體智能推演引擎。當用戶要求「推演」「預測」「模擬」「如果…會怎樣」時使用。透過 55 個 AI Agent 在模擬社交平台上互動推演未來趨勢。",
+  "version": "1.0.1",
+  "author": {
+    "name": "iml1s"
+  },
+  "homepage": "https://github.com/666ghj/MiroFish",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iml1s/mirofish-predict"
+}

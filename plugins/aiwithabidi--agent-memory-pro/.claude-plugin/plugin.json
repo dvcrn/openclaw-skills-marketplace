@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--agent-memory-pro",
+  "description": "Full AI agent memory stack — Mem0 unified memory engine with vector search (Qdrant) and knowledge graph (Neo4j), plus SQLite for structured data. Complete setup script and tools. Give your OpenClaw agent a real brain with semantic recall, entity relationships, and structured storage.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/agent-memory-pro"
+}

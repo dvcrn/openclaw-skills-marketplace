@@ -1,0 +1,10 @@
+{
+  "name": "kesslerio--google-messages-openclaw-skill",
+  "description": "Send and receive SMS/RCS via Google Messages web interface (messages.google.com). Use when asked to \"send a text\", \"check texts\", \"SMS\", \"text message\", \"Google Messages\", or forward incoming texts to other channels.",
+  "version": "0.1.0",
+  "author": {
+    "name": "kesslerio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/google-messages-openclaw-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/google-messages-openclaw-skill"
+}

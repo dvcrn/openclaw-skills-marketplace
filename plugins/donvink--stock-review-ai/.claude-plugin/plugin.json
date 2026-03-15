@@ -1,0 +1,10 @@
+{
+  "name": "donvink--stock-review-ai",
+  "description": "A-share market automated review and analysis system, generating daily market insights with Gemini AI, supporting publishing to Hugo blog and WeChat Official Account",
+  "version": "1.0.0",
+  "author": {
+    "name": "donvink"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/donvink/stock-review-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/donvink/stock-review-ai"
+}

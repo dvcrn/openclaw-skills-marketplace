@@ -1,0 +1,10 @@
+{
+  "name": "ziwenwang28--feishu-file-sender",
+  "description": "飞书文件发送器 — 补齐飞书渠道缺失的文件投递能力，通过飞书 OpenAPI 上传并发送 agent 生成的本地文件。| Feishu File Sender — Upload & send files via Feishu OpenAPI, filling the channel's missing file delivery.",
+  "version": "1.0.9",
+  "author": {
+    "name": "ziwenwang28"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ziwenwang28/feishu-file-sender",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ziwenwang28/feishu-file-sender"
+}

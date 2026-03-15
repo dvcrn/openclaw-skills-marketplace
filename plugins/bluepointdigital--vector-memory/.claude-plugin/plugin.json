@@ -1,0 +1,10 @@
+{
+  "name": "bluepointdigital--vector-memory",
+  "description": "Smart memory search with automatic vector fallback. Uses semantic embeddings when available, falls back to built-in search otherwise. Zero configuration - works immediately after ClawHub install. No setup required - just install and memory_search works immediately, gets better after optional sync.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bluepointdigital"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bluepointdigital/vector-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bluepointdigital/vector-memory"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "rnwy--a2a-agent-lookup",
+  "description": "Use when you need to verify an AI agent before interacting, find an agent's A2A endpoint, or check reputation before hiring. Retrieves live A2A agent cards for 40,000+ verified agents by ID. The only registry with verified identity AND live A2A endpoints at scale.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rnwy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rnwy/a2a-agent-lookup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rnwy/a2a-agent-lookup"
+}

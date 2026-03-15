@@ -1,0 +1,10 @@
+{
+  "name": "javainthinking--web-i18n-nextjs",
+  "description": "Internationalization (i18n) guide for Next.js / Node.js web applications using the App Router. Covers translation file structure, locale routing, SEO metadata per locale, hreflang, structured JSON-LD data, UI component translations, and multi-language sitemap generation. Use when the user asks to: add i18n support, add a new language, translate a page or component, add SEO metadata for multiple locales, implement hreflang, update the sitemap for new locales, or follow i18n best practices in a Next.js project.",
+  "version": "1.0.0",
+  "author": {
+    "name": "javainthinking"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/javainthinking/web-i18n-nextjs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/javainthinking/web-i18n-nextjs"
+}

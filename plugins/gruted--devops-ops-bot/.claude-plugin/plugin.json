@@ -1,0 +1,10 @@
+{
+  "name": "gruted--devops-ops-bot",
+  "description": "Server health monitoring with alerts and auto-recovery. Checks CPU, memory, disk, and uptime with configurable thresholds. Sends Slack/Discord alerts and can auto-restart services on critical.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gruted"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gruted/devops-ops-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gruted/devops-ops-bot"
+}

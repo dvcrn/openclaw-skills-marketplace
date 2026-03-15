@@ -1,0 +1,10 @@
+{
+  "name": "mart1n-xyz--wanikani-sync",
+  "description": "Sync WaniKani Japanese learning progress data from the API to local storage for analysis and insights. Use when the user wants to backup their WaniKani progress, generate statistics about their learning, analyze review patterns, track level progression, or access their WaniKani data offline. Handles incremental sync to minimize API calls and stores data in SQLite for easy querying.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mart1n-xyz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mart1n-xyz/wanikani-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mart1n-xyz/wanikani-sync"
+}

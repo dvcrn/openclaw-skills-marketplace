@@ -1,0 +1,10 @@
+{
+  "name": "zhy2015--hidream-api-gen",
+  "description": "OpenClaw AIGC models (video + image) with parameterized per-model scripts and shared request runners. Use to generate OpenClaw payloads, enforce allowed parameters, and run or debug model requests.",
+  "version": "0.1.0",
+  "author": {
+    "name": "zhy2015"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhy2015/hidream-api-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhy2015/hidream-api-gen"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "matthewxmurphy--wordpress-wp-cli-internal-api",
+  "description": "Build, inspect, and extend WP-CLI command code using the documented stable internal API. Use when the task involves custom WP-CLI commands, package bootstraps, command registration, hooks, output helpers, internal execution helpers, or PHP code that calls `WP_CLI::*` or `WP_CLI\\\\Utils::*`.",
+  "version": "0.5.0",
+  "author": {
+    "name": "matthewxmurphy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/wordpress-wp-cli-internal-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/wordpress-wp-cli-internal-api"
+}

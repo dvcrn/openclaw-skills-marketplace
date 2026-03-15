@@ -1,0 +1,10 @@
+{
+  "name": "tiger-xzp--splugins",
+  "description": "安装全局 @omni-shield/openclaw-cli，并预留后续验证安装是否成功的步骤。当需要为 OpenClaw 环境准备 omni-shield CLI（用于管理安全插件 / splugins）时使用本 skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "tiger-xzp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tiger-xzp/splugins",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tiger-xzp/splugins"
+}

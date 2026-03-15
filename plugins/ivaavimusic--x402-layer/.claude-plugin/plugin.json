@@ -1,0 +1,10 @@
+{
+  "name": "ivaavimusic--x402-layer",
+  "description": "x402-layer helps agents pay for APIs with USDC, deploy monetized endpoints,\n manage credits/webhooks/marketplace listings, and handle wallet-first ERC-8004 registration/discovery/management/reputation on Base, Ethereum, Polygon, BSC, Monad, and Solana.\n Use this skill when the user asks to \"create x402 endpoint\",\n \"deploy monetized API\", \"pay for API with USDC\", \"check x402 credits\",\n \"consume API credits\", \"list endpoint on marketplace\", \"buy API credits\",\n \"topup endpoint\", \"browse x402 marketplace\", \"set up webhook\",\n \"receive payment notifications\", \"manage endpoint webhook\",\n \"verify webhook payment\", \"verify payment genuineness\",\n \"register ERC-8004 agent\", \"register Solana 8004 agent\",\n \"submit on-chain reputation feedback\", \"rate ERC-8004 agent\",\n use \"Coinbase Agentic Wallet (AWAL)\", or manage x402 Singularity Layer\n operations on Base, Ethereum, Polygon, BSC, Monad, or Solana networks.",
+  "version": "1.4.0",
+  "author": {
+    "name": "ivaavimusic"
+  },
+  "homepage": "https://studio.x402layer.cc/docs/agentic-access/openclaw-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivaavimusic/x402-layer"
+}

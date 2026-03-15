@@ -1,0 +1,10 @@
+{
+  "name": "kshern--use-chub-cli",
+  "description": "Use the Context Hub chub CLI to fetch current third-party SDK, API, and cloud-service documentation before writing, modifying, or reviewing integration code. Trigger this skill when the task involves external platforms such as OpenAI, Anthropic, Stripe, Slack, Twilio, databases, or vector stores, and when the user asks for official SDK usage, current endpoints, parameter shapes, model names, version-specific behavior, or integration troubleshooting.",
+  "version": "1.0.1",
+  "author": {
+    "name": "kshern"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kshern/use-chub-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kshern/use-chub-cli"
+}

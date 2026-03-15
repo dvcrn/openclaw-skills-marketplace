@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--env-sync",
+  "description": "Generate .env.example from your .env files. Use when onboarding developers.",
+  "version": "1.0.1",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/env-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/env-sync"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hacksing--safe-update",
+  "description": "Update OpenClaw from source code. Supports custom project path and branch. Includes pulling latest branch, rebasing, building and installing, restarting service. Triggered when user asks to update OpenClaw, sync source, rebase branch, or rebuild.",
+  "version": "1.0.6",
+  "author": {
+    "name": "hacksing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hacksing/safe-update",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hacksing/safe-update"
+}

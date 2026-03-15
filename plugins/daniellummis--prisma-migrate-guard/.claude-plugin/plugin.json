@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--prisma-migrate-guard",
+  "description": "Preflight Prisma migration state before deploy; fails fast on drift, failed migrations, missing DB URLs, or unapplied migration files.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/prisma-migrate-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/prisma-migrate-guard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lucky-2968--todo-management-1-1-2",
+  "description": "Per-workspace SQLite todo manager (./todo.db) with groups and task statuses (pending/in_progress/done/skipped), operated via {baseDir}/scripts/todo.sh for adding, listing, editing, moving, and removing entries and managing groups.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lucky-2968"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lucky-2968/todo-management-1-1-2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lucky-2968/todo-management-1-1-2"
+}

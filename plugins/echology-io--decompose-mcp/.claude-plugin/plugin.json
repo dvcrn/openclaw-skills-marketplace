@@ -1,0 +1,10 @@
+{
+  "name": "echology-io--decompose-mcp",
+  "description": "Decompose any text into classified semantic units — authority, risk, attention, entities. No LLM. Deterministic.",
+  "version": "0.1.2",
+  "author": {
+    "name": "echology-io"
+  },
+  "homepage": "https://echology.io/decompose",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/echology-io/decompose-mcp"
+}

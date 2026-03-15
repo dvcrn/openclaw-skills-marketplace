@@ -1,0 +1,10 @@
+{
+  "name": "eftalyurtseven--eachlabs-video-generation",
+  "description": "Generate new videos from text prompts, images, or reference inputs using EachLabs AI models. Supports text-to-video, image-to-video, transitions, motion control, talking head, and avatar generation. Use when the user wants to create new video content. For editing existing videos, see eachlabs-video-edit.",
+  "version": "0.1.0",
+  "author": {
+    "name": "eftalyurtseven"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-video-generation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-video-generation"
+}

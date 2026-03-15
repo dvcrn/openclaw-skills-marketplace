@@ -1,0 +1,10 @@
+{
+  "name": "cineglobe--osint-investigator",
+  "description": "Deep OSINT (Open Source Intelligence) investigations. Use when the user wants to research, find, or investigate any person, place, organisation, username, domain, IP address, phone number, image, vehicle, or object using publicly available information. Triggers on phrases like \"find information on\", \"investigate\", \"look up\", \"who is\", \"trace this\", \"dig into\", \"OSINT search\", \"background check\", or any request to gather open-source intelligence about a target. Performs deep multi-source analysis across web search, social media, DNS/WHOIS, image search, maps, public records, and more — returning a structured intelligence report.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cineglobe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cineglobe/osint-investigator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cineglobe/osint-investigator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "godefroy--linkedin-search-posts",
+  "description": "Search LinkedIn posts by keywords using the Apify actor harvestapi/linkedin-post-search. Use when the user wants to search, scrape, or retrieve LinkedIn posts matching specific keywords. Accepts search queries, optional profile/company filters, date filter, and sort options. Requires APIFY_API_TOKEN env variable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "godefroy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/godefroy/linkedin-search-posts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/godefroy/linkedin-search-posts"
+}

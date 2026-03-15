@@ -1,0 +1,10 @@
+{
+  "name": "tmigone--vikunja-fast",
+  "description": "Manage Vikunja projects and tasks (overdue/due/today), mark done, and get quick summaries via the Vikunja API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tmigone"
+  },
+  "homepage": "https://vikunja.io/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tmigone/vikunja-fast"
+}

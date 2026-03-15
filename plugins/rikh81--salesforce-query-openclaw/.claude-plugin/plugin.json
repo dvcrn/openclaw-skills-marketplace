@@ -1,0 +1,10 @@
+{
+  "name": "rikh81--salesforce-query-openclaw",
+  "description": "Salesforce querying skill that adapts to each org's schema. Use when hardcoded CRM scripts keep breaking across environments and you need reliable account/contact/opportunity/campaign/activity workflows with secure Keychain credential handling.",
+  "version": "1.0.4",
+  "author": {
+    "name": "rikh81"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rikh81/salesforce-query-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rikh81/salesforce-query-openclaw"
+}

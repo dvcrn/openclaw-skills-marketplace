@@ -1,0 +1,10 @@
+{
+  "name": "lstpsche--quick-reminders",
+  "description": "Zero-LLM one-shot reminders (<48h) via nohup sleep + openclaw message send, operated via {baseDir}/scripts/nohup-reminder.sh.",
+  "version": "1.1.4",
+  "author": {
+    "name": "lstpsche"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lstpsche/quick-reminders",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lstpsche/quick-reminders"
+}

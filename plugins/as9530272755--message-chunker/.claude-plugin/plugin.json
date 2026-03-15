@@ -1,0 +1,10 @@
+{
+  "name": "as9530272755--message-chunker",
+  "description": "智能消息分段工具。自动将长消息拆分成多条发送，避免飞书API消息长度限制。当需要发送长消息（如汇报、方案、日志）时自动激活。",
+  "version": "1.0.0",
+  "author": {
+    "name": "as9530272755"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/as9530272755/message-chunker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/as9530272755/message-chunker"
+}

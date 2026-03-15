@@ -1,0 +1,10 @@
+{
+  "name": "sherajdev--deploy-agent",
+  "description": "Multi-step deployment agent for full-stack apps. Build → Test → GitHub → Cloudflare Pages with human approval at each step.",
+  "version": "1.1.0",
+  "author": {
+    "name": "sherajdev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sherajdev/deploy-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sherajdev/deploy-agent"
+}

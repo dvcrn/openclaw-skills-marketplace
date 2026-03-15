@@ -1,0 +1,10 @@
+{
+  "name": "yinlihudong--openclaw-rd-pipeline",
+  "description": "Orchestrate OpenClaw end-to-end R&D delivery in Feishu from requirement intake to closure using PM, developer, reviewer, and tester subagents. Use when handling研发任务 that need structured requirement parsing, project-context enrichment from Feishu history/wiki, coding + PR flow, read-only review/testing gates, bug-loop rework, and final owner notification.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yinlihudong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yinlihudong/openclaw-rd-pipeline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yinlihudong/openclaw-rd-pipeline"
+}

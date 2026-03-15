@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--sharepoint",
+  "description": "SharePoint API integration via Microsoft Graph with managed OAuth. Access SharePoint sites, lists, document libraries, and files.\n Use this skill when users want to interact with SharePoint for document management, list operations, or site content.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.1",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/sharepoint",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/sharepoint"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "nicoxia--fxtwitter-extract",
+  "description": "使用 FxTwitter API 提取 X (Twitter) 文章内容。支持提取推文、线程、用户资料，包括文本、图片、视频、投票等。无需 API Key。",
+  "version": "1.0.0",
+  "author": {
+    "name": "nicoxia"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nicoxia/fxtwitter-extract",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nicoxia/fxtwitter-extract"
+}

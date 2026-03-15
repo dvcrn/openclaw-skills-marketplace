@@ -1,0 +1,10 @@
+{
+  "name": "satoshistackalotto--cli-deadline-monitor",
+  "description": "CLI tool for tracking Greek tax deadlines (AADE, EFKA). Real-time monitoring with configurable alerts via Slack, SMS, email, or local files.",
+  "version": "0.1.1",
+  "author": {
+    "name": "satoshistackalotto"
+  },
+  "homepage": "https://github.com/satoshistackalotto/openclaw-greek-accounting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/cli-deadline-monitor"
+}

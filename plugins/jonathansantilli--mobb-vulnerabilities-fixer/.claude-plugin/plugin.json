@@ -1,0 +1,10 @@
+{
+  "name": "jonathansantilli--mobb-vulnerabilities-fixer",
+  "description": "Scan, fix, and remediate security vulnerabilities in a local code repository using Mobb MCP/CLI. Use when the user asks to scan for vulnerabilities, run a security check, auto-fix issues, remediate findings, or apply Mobb fixes (e.g., \\\"scan this repo\\\", \\\"fix security issues\\\", \\\"remediate vulnerabilities\\\", \\\"run Mobb on my changes\\\").",
+  "version": "0.1.2",
+  "author": {
+    "name": "jonathansantilli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jonathansantilli/mobb-vulnerabilities-fixer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jonathansantilli/mobb-vulnerabilities-fixer"
+}

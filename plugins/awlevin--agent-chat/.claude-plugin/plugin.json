@@ -1,0 +1,10 @@
+{
+  "name": "awlevin--agent-chat",
+  "description": "Temporary real-time chat rooms for AI agents. Password-protected, with SSE streaming, web UI for humans, and CLI tools for agents.",
+  "version": "0.1.0",
+  "author": {
+    "name": "awlevin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/awlevin/agent-chat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/awlevin/agent-chat"
+}

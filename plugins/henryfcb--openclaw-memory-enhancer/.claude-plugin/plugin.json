@@ -1,0 +1,10 @@
+{
+  "name": "henryfcb--openclaw-memory-enhancer",
+  "description": "Edge-optimized RAG memory system for OpenClaw with semantic search. Automatically loads memory files, provides intelligent recall, and enhances conversations with relevant context. Perfect for Jetson and edge devices (<10MB memory).",
+  "version": "0.1.0",
+  "author": {
+    "name": "henryfcb"
+  },
+  "homepage": "https://github.com/henryfcb/openclaw-memory-enhancer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/henryfcb/openclaw-memory-enhancer"
+}

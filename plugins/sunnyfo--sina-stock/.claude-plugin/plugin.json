@@ -1,0 +1,10 @@
+{
+  "name": "sunnyfo--sina-stock",
+  "description": "获取 A 股实时股票行情数据（上证指数、深证成指、创业板指等），使用新浪财经 API。无需 API Key。",
+  "version": "0.1.0",
+  "author": {
+    "name": "sunnyfo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunnyfo/sina-stock",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunnyfo/sina-stock"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cmill01--agent-scif",
+  "description": "Trustless encrypted vault with TOTP auth and clean-room session isolation. Secrets your agent holds but cannot read. Use when user wants to store, retrieve, or manage encrypted secrets securely.",
+  "version": "1.0.2",
+  "author": {
+    "name": "cmill01"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cmill01/agent-scif",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cmill01/agent-scif"
+}

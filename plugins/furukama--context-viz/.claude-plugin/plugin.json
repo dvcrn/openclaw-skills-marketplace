@@ -1,0 +1,10 @@
+{
+  "name": "furukama--context-viz",
+  "description": "Visualize the current context window usage — token estimates per component (system prompt, tools, workspace files, messages, free space). Use when the user asks about context size, token usage, context breakdown, \"how full is the context\", or wants to see what's consuming their context window.",
+  "version": "1.0.0",
+  "author": {
+    "name": "furukama"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/furukama/context-viz",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/furukama/context-viz"
+}

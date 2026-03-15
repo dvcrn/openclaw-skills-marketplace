@@ -1,0 +1,10 @@
+{
+  "name": "ppiankov--context-hygiene",
+  "description": "Reasoning hygiene protocol for OpenClaw agents — keep context sharp by collapsing exploration into decisions, enforcing file budgets, and pruning ghost context. Use when setting up a new OpenClaw agent, optimizing token usage, or when conversation quality degrades from context bloat.",
+  "version": "1.0.4",
+  "author": {
+    "name": "ppiankov"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ppiankov/context-hygiene",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ppiankov/context-hygiene"
+}

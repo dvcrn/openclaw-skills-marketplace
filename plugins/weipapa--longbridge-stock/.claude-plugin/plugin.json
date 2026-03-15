@@ -1,0 +1,10 @@
+{
+  "name": "weipapa--longbridge-stock",
+  "description": "Real-time stock quotes and account queries for Longbridge (长桥证券) users. Query US/HK/China stocks, account balance, and positions. Use whenever user mentions stock prices, market data, checking portfolio value, or asking about specific stocks like Apple, Tencent, or Tesla—even if they don't name Longbridge explicitly. Supports AAPL.US, 700.HK, 600519.SH formats.",
+  "version": "1.0.0",
+  "author": {
+    "name": "weipapa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/weipapa/longbridge-stock",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/weipapa/longbridge-stock"
+}

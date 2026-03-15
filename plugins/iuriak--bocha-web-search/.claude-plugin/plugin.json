@@ -1,0 +1,10 @@
+{
+  "name": "iuriak--bocha-web-search",
+  "description": "Default web search tool using Bocha Web Search API. Use for online lookup, verification, time-sensitive information, and citation-based answers.",
+  "version": "1.0.1",
+  "author": {
+    "name": "iuriak"
+  },
+  "homepage": "https://api.bocha.cn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iuriak/bocha-web-search"
+}

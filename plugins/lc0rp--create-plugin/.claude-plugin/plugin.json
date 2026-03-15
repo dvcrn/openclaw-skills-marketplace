@@ -1,0 +1,10 @@
+{
+  "name": "lc0rp--create-plugin",
+  "description": "Create OpenClaw plugins/extensions (TypeScript modules) from natural‑language requests. Use when the user asks to create a plugin/extension, add a new slash command, add plugin tools, or says “create plugin that does …” or “create OpenClaw plugin called NAME …”. Trigger for /create-plugin NAME WHAT-IT-DOES, /create-plugin GENERAL-PROMPT, “create extension that does ACTION”, or similar.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lc0rp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lc0rp/create-plugin",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lc0rp/create-plugin"
+}

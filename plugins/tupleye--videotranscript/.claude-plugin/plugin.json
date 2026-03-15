@@ -1,0 +1,10 @@
+{
+  "name": "tupleye--videotranscript",
+  "description": "将视频链接转换为文字讲稿。支持 YouTube、Bilibili 等平台。自动提取字幕，非中文视频提供原文 + 中文翻译。当用户分享视频链接、要求获取视频文字稿/字幕/讲稿时使用此技能。",
+  "version": "1.0.0",
+  "author": {
+    "name": "tupleye"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tupleye/videotranscript",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tupleye/videotranscript"
+}

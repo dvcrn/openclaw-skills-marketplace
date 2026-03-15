@@ -1,0 +1,10 @@
+{
+  "name": "scikkk--text2speech",
+  "description": "SenseAudio Text-to-Speech (TTS) API for converting text to natural speech. Supports synchronous and SSE streaming modes, multiple voices, emotion control, speed/pitch/volume adjustment, and multi-language (Chinese/English).",
+  "version": "1.0.0",
+  "author": {
+    "name": "scikkk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/scikkk/text2speech",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scikkk/text2speech"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xcrong--openclawlog",
+  "description": "OpenClawLog blog management via WordPress XML-RPC API and Moltbook-style REST API. Register, login, create, edit, and manage posts, pages, comments, and media.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xcrong"
+  },
+  "homepage": "https://openclawlog.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xcrong/openclawlog"
+}

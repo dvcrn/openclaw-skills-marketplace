@@ -1,0 +1,10 @@
+{
+  "name": "prqelt--qelt-blockchain",
+  "description": "Query and interact with the QELT blockchain (Chain ID 770) via JSON-RPC. Use when asked about blocks, transactions, wallet balances, smart contract calls, gas estimation, event logs, nonces, or raw transaction submission. Covers QELT Mainnet (770) and Testnet (771).",
+  "version": "0.1.0",
+  "author": {
+    "name": "prqelt"
+  },
+  "homepage": "https://docs.qelt.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/prqelt/qelt-blockchain"
+}

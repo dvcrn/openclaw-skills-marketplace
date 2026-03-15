@@ -1,0 +1,10 @@
+{
+  "name": "silostack--silk",
+  "description": "Agent banking and payments on Solana. Send and receive stablecoins with cancellable escrow transfers. Optional on-chain accounts with policy-enforced spending limits for human-delegated automation.",
+  "version": "1.0.7",
+  "author": {
+    "name": "silostack"
+  },
+  "homepage": "https://silkyway.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/silostack/silk"
+}

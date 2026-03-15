@@ -1,0 +1,10 @@
+{
+  "name": "bshandley--stoic-quotes",
+  "description": "Provide Stoic philosophy quotes from Marcus Aurelius, Seneca, Epictetus, Cato, and other Stoic philosophers upon user request.\n \n Use when:\n 1. User explicitly asks for a \"Stoic quote\" or \"quote from [Stoic philosopher]\"\n 2. User requests philosophical wisdom or inspiration from Stoicism\n 3. User mentions specific Stoic themes (resilience, control, virtue, acceptance)\n 4. User asks for guidance from Marcus Aurelius, Seneca, Epictetus, or other Stoics\n \n Always acknowledge that quotes have been previously provided when delivering a quote.\n Reference the comprehensive quotes collection for selection.",
+  "version": "1.0.1",
+  "author": {
+    "name": "bshandley"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bshandley/stoic-quotes",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bshandley/stoic-quotes"
+}

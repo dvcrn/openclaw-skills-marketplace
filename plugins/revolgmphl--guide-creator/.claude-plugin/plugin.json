@@ -1,0 +1,10 @@
+{
+  "name": "revolgmphl--guide-creator",
+  "description": "通用项目文档指南生成器：为任何项目创建和维护标准化的 guide 文档体系（start.md + guide/ 目录），覆盖设计理念、技术架构、更新日志、踩坑记录等完整生命周期。支持三种模式：(1) 初始化模式 — 一键创建标准化文档骨架；(2) 更新模式 — 追加 changelog/pitfalls/版本号同步；(3) 上下文恢复 — AI 在新对话中快速理解项目全貌。触发关键词：'初始化项目guide'、'创建项目文档'、'更新guide'、'总结经验教训'、'project guide'、'init guide'、'update guide'、'context recovery'。当用户说'帮我建一套项目文档'、'记录这次的更新和踩坑'、'新对话帮我恢复项目上下文'时触发。",
+  "version": "1.0.0",
+  "author": {
+    "name": "revolgmphl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/revolgmphl/guide-creator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/revolgmphl/guide-creator"
+}

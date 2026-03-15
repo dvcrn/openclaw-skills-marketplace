@@ -1,0 +1,10 @@
+{
+  "name": "emberdesire--context-compactor",
+  "description": "Token-based context compaction for local models (MLX, llama.cpp, Ollama) that don't report context limits.",
+  "version": "0.3.8",
+  "author": {
+    "name": "emberdesire"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/emberdesire/context-compactor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/emberdesire/context-compactor"
+}

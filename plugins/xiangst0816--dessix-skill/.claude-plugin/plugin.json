@@ -1,0 +1,10 @@
+{
+  "name": "xiangst0816--dessix-skill",
+  "description": "Access a local Dessix desktop workspace by calling the Electron MCP bridge directly from Node.js (socket/pipe), without using MCP stdio JSON-RPC. Use when an agent needs to read or invoke Dessix tools programmatically, build local automations, or fetch Action/Scene prompt content from Dessix blocks.",
+  "version": "1.1.0",
+  "author": {
+    "name": "xiangst0816"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiangst0816/dessix-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiangst0816/dessix-skill"
+}

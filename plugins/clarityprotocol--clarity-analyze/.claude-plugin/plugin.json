@@ -1,0 +1,10 @@
+{
+  "name": "clarityprotocol--clarity-analyze",
+  "description": "Submit research questions for AI-powered analysis via Clarity Protocol. Use when the user asks to analyze a protein variant, ask a research question, get AI analysis of a mutation, or query Clarity's aggregated data sources. Requires CLARITY_WRITE_API_KEY. Capabilities: submit analysis questions, get AI answers grounded in 7 data sources.",
+  "version": "1.0.0",
+  "author": {
+    "name": "clarityprotocol"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-analyze",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-analyze"
+}

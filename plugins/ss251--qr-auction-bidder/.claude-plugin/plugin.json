@@ -1,0 +1,10 @@
+{
+  "name": "ss251--qr-auction-bidder",
+  "description": "Bid on $QR auctions at qrcoin.fun. Place bids on Base mainnet using USDC. Uses Bankr for transaction execution — no wallet management needed.",
+  "version": "2.0.1",
+  "author": {
+    "name": "ss251"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ss251/qr-auction-bidder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ss251/qr-auction-bidder"
+}

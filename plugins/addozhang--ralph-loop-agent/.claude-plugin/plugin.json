@@ -1,0 +1,10 @@
+{
+  "name": "addozhang--ralph-loop-agent",
+  "description": "Guide OpenClaw agents to execute Ralph Wiggum loops using exec and process tools. Agent orchestrates coding agents (Codex, Claude Code, OpenCode, Goose) with proper TTY support via pty:true. Plans/builds code via PROMPT.md + AGENTS.md, SPECS and IMPLEMENTATION_PLAN.md. Includes PLANNING vs BUILDING modes, backpressure, sandboxing, and completion conditions. Users request loops, agents execute using tools.",
+  "version": "1.1.0",
+  "author": {
+    "name": "addozhang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/addozhang/ralph-loop-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/addozhang/ralph-loop-agent"
+}

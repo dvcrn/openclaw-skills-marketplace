@@ -1,0 +1,10 @@
+{
+  "name": "chenhaubin--exposure-sentinel",
+  "description": "Check if IP addresses are listed on the OpenClaw Exposure Watchboard (openclaw.allegro.earth). Use when you need to verify whether specific IPs are publicly exposed as OpenClaw instances. Scans all 3,357 pages of exposed instances to check for the presence of target IPs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chenhaubin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chenhaubin/exposure-sentinel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chenhaubin/exposure-sentinel"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "neuyazvimyi--zoom-meeting",
+  "description": "How to create, retrieve, list, and delete Zoom meetings using the Zoom REST API.\n Use this skill whenever the user mentions Zoom meetings, wants to schedule a meeting,\n needs meeting details, or asks to manage Zoom calls—even if they don't explicitly\n say \"use the zoom-meeting skill.\" Supports both natural language requests and\n structured JSON commands. Always respond with human-readable output (no JSON).",
+  "version": "1.1.5",
+  "author": {
+    "name": "neuyazvimyi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neuyazvimyi/zoom-meeting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neuyazvimyi/zoom-meeting"
+}

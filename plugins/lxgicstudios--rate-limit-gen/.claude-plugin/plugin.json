@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--rate-limit-gen",
+  "description": "Generate rate limiting configuration. Use when protecting APIs from abuse.",
+  "version": "1.0.2",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/rate-limit-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/rate-limit-gen"
+}

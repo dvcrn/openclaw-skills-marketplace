@@ -1,0 +1,10 @@
+{
+  "name": "jeremiahdingal--trello-orchestrator-runner",
+  "description": "Run a Trello-backed closed-loop delivery workflow for OpenClaw multi-agent execution. Use when a user says to run tasks from Trello automatically, keep cards moving across workflow lists, enforce manager-only intake, local-first routing, reviewer-gated completion, and retry cycles until accepted or blocked.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jeremiahdingal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jeremiahdingal/trello-orchestrator-runner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeremiahdingal/trello-orchestrator-runner"
+}

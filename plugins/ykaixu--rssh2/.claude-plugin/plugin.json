@@ -1,0 +1,10 @@
+{
+  "name": "ykaixu--rssh2",
+  "description": "SSH远程自动化工具 - 会话管理、隧道、文件传输。使用场景：需要远程执行命令、建立SSH隧道、传输文件时。",
+  "version": "1.0.1",
+  "author": {
+    "name": "ykaixu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ykaixu/rssh2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ykaixu/rssh2"
+}

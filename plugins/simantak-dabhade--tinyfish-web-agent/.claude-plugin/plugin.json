@@ -1,0 +1,10 @@
+{
+  "name": "simantak-dabhade--tinyfish-web-agent",
+  "description": "Use TinyFish web agent to extract/scrape websites, extract data, and automate browser actions using natural language. Use when you need to extract/scrape data from websites, handle bot-protected sites, or automate web tasks.",
+  "version": "1.0.2",
+  "author": {
+    "name": "simantak-dabhade"
+  },
+  "homepage": "https://agent.tinyfish.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/simantak-dabhade/tinyfish-web-agent"
+}

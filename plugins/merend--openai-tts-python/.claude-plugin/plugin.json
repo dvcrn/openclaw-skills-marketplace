@@ -1,0 +1,10 @@
+{
+  "name": "merend--openai-tts-python",
+  "description": "Text-to-speech conversion using OpenAI's TTS API for generating high-quality, natural-sounding audio.\n Supports 6 voices (alloy, echo, fable, onyx, nova, shimmer), speed control (0.25x-4.0x),\n HD quality model, multiple output formats (mp3, opus, aac, flac), and automatic text chunking\n for long content (4096 char limit per request).\n Use when: (1) User requests audio/voice output with triggers like \"read this to me\",\n \"convert to audio\", \"generate speech\", \"text to speech\", \"tts\", \"narrate\", \"speak\",\n or when keywords \"openai tts\", \"voice\", \"podcast\" appear. (2) Content needs to be spoken\n rather than read (multitasking, accessibility). (3) User wants specific voice preferences\n like \"alloy\", \"echo\", \"fable\", \"onyx\", \"nova\", \"shimmer\" or speed adjustments.",
+  "version": "1.0.1",
+  "author": {
+    "name": "merend"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/merend/openai-tts-python",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/merend/openai-tts-python"
+}

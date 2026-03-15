@@ -1,0 +1,10 @@
+{
+  "name": "nabilrehman--clawdoctor",
+  "description": "Behavioral cost coach for OpenClaw fleets. Analyzes your sessions, shows what you did that cost money, and coaches you on what to do differently. Finds both technical waste (wrong model, no tool budget) and behavioral waste (blind retries, over-scheduled crons). Run daily via cron or trigger manually.",
+  "version": "4.0.0",
+  "author": {
+    "name": "nabilrehman"
+  },
+  "homepage": "https://faan.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nabilrehman/clawdoctor"
+}

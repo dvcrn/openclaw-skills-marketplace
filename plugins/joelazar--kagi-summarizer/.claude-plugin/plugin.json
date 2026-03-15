@@ -1,0 +1,10 @@
+{
+  "name": "joelazar--kagi-summarizer",
+  "description": "Summarize any URL or text using Kagi's Universal Summarizer API. Supports multiple engines (including the enterprise-grade Muriel model), bullet-point takeaways, and output translation to 28 languages. Use when you need a high-quality summary of an article, paper, video transcript, or any document.",
+  "version": "1.0.0",
+  "author": {
+    "name": "joelazar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/joelazar/kagi-summarizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joelazar/kagi-summarizer"
+}

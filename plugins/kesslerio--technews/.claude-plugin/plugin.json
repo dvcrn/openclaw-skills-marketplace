@@ -1,0 +1,10 @@
+{
+  "name": "kesslerio--technews",
+  "description": "Fetches top stories from TechMeme, summarizes linked articles, and highlights social media reactions. Use when user wants tech news or says /technews.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kesslerio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/technews",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/technews"
+}

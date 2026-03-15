@@ -1,0 +1,10 @@
+{
+  "name": "staryone--repliz",
+  "description": "Repliz social media management API integration. Use when working with Repliz to manage social media accounts, schedules, and comments. Requires REPLIZ_ACCESS_KEY and REPLIZ_SECRET_KEY environment variables.",
+  "version": "1.0.2",
+  "author": {
+    "name": "staryone"
+  },
+  "homepage": "https://repliz.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/staryone/repliz"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kyjus25--clawdbot-jira-skill",
+  "description": "Manage Jira issues, transitions, and worklogs via the Jira Cloud REST API.",
+  "version": "1.0.2",
+  "author": {
+    "name": "kyjus25"
+  },
+  "homepage": "https://developer.atlassian.com/cloud/jira/platform/rest/v3/intro/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kyjus25/clawdbot-jira-skill"
+}

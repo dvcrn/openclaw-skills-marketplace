@@ -1,0 +1,10 @@
+{
+  "name": "instant-picture--ddg",
+  "description": "Use ddgr (DuckDuckGo from the terminal) to perform privacy-focused web searches from the command line. Use when the user wants to (1) Search the web from the terminal, (2) Perform DuckDuckGo searches without opening a browser, (3) Get quick search results in text format, (4) Search privately without tracking, (5) Use DuckDuckGo bangs (!) from terminal.",
+  "version": "1.0.0",
+  "author": {
+    "name": "instant-picture"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/instant-picture/ddg",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/instant-picture/ddg"
+}

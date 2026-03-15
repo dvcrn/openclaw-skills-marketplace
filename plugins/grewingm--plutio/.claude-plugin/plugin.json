@@ -1,0 +1,10 @@
+{
+  "name": "grewingm--plutio",
+  "description": "Manage Plutio projects and tasks. Use when you need to create, update, close, or query tasks and projects in Plutio (task/project management platform). Supports listing projects, viewing tasks, creating tasks with full field support, updating task details (status, description, assignee, priority, dates), and closing tasks.",
+  "version": "1.0.1",
+  "author": {
+    "name": "grewingm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/grewingm/plutio",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/grewingm/plutio"
+}

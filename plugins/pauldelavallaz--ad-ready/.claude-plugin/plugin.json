@@ -1,0 +1,10 @@
+{
+  "name": "pauldelavallaz--ad-ready",
+  "description": "Generate advertising images automatically from a product URL + brand profile.\n \n ✅ USE WHEN:\n - User provides a product URL (e-commerce link)\n - Want automated product scraping + image generation\n - Have a brand profile to apply (70+ brands available)\n - Need funnel-stage targeting (awareness/consideration/conversion)\n - Want AI to auto-select model, scene, lighting based on brand\n \n ❌ DON'T USE WHEN:\n - User provides local product image file → use morpheus-fashion-design\n - Don't need a person in the image → use nano-banana-pro\n - Want manual control over model, scene, packs → use morpheus-fashion-design\n - Already have hero image, need variations → use multishot-ugc\n - Need video output → use veed-ugc after image generation\n \n INPUT: Product URL + brand name (optional) + funnel stage (optional)\n OUTPUT: PNG advertising image with product + model",
+  "version": "1.0.2",
+  "author": {
+    "name": "pauldelavallaz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/ad-ready",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/ad-ready"
+}

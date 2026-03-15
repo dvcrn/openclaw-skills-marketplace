@@ -1,0 +1,10 @@
+{
+  "name": "buddyh--alexa-cli",
+  "description": "Control Amazon Alexa devices and smart home via the `alexacli` CLI. Use when a user asks to speak/announce on Echo devices, control lights/thermostats/locks, send voice commands, or query Alexa.",
+  "version": "1.3.0",
+  "author": {
+    "name": "buddyh"
+  },
+  "homepage": "https://github.com/buddyh/alexa-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/buddyh/alexa-cli"
+}

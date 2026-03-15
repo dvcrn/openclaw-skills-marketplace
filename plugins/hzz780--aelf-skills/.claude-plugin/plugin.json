@@ -1,0 +1,10 @@
+{
+  "name": "hzz780--aelf-skills",
+  "description": "Discovery, download, and configuration hub for the entire aelf agent skill ecosystem. Use when the user wants to: (1) explore or list available aelf skills, (2) install/bootstrap aelf skills into Cursor, Claude Desktop, OpenClaw, Codex, or Claude Code, (3) route an aelf-related intent to the correct skill, (4) check health or audit installed skills, (5) onboard a new skill into the aelf ecosystem. Covers domains: Portkey CA wallet, Portkey EOA wallet, Awaken DEX, eForest NFT marketplace, AelfScan explorer, TomorrowDAO governance, aelf node interaction.",
+  "version": "0.1.0",
+  "author": {
+    "name": "hzz780"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hzz780/aelf-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hzz780/aelf-skills"
+}

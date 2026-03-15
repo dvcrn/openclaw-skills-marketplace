@@ -1,0 +1,10 @@
+{
+  "name": "dox012--meme-lord",
+  "description": "中文互联网玩梗技能 v2.1。支持四大功能：识梗（联网溯源+出处链接+可信度标注）、造梗、接梗、梗融合。v2.1 优化：两轮搜索策略（先泛搜再精搜）、百度优先、双重含义识别。触发条件：用户说\"玩梗\"、\"这是什么梗\"、\"造个梗\"、\"接梗\"、\"meme\"、\"整活\"、\"抽象\"。",
+  "version": "1.2.1",
+  "author": {
+    "name": "dox012"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dox012/meme-lord",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dox012/meme-lord"
+}

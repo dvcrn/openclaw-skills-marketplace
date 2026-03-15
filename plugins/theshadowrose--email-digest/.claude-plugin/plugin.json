@@ -1,0 +1,10 @@
+{
+  "name": "theshadowrose--email-digest",
+  "description": "Smart email categorizer and digest formatter for agents. Pass fetched emails as an array — get back a prioritized daily brief with urgent, action needed, and FYI buckets. Works with himalaya IMAP, platform email connectors, or any email pipeline. All processing is local.",
+  "version": "1.0.1",
+  "author": {
+    "name": "theshadowrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/email-digest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/email-digest"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "meimakes--nag",
+  "description": "Persistent reminder system that keeps bugging you until you confirm completion. Use when setting up recurring reminders, nag schedules, or any task that needs follow-up until acknowledged. Handles daily resets, configurable nag windows, escalating urgency, and natural-language confirmation matching. Do NOT use for one-shot reminders (use cron instead) or time-sensitive alerts that need immediate action (use cron with wakeMode now).",
+  "version": "1.0.0",
+  "author": {
+    "name": "meimakes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/meimakes/nag",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/meimakes/nag"
+}

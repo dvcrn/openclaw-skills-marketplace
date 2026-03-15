@@ -1,0 +1,10 @@
+{
+  "name": "datadrivenconstruction--historical-data-manager",
+  "description": "Extract, clean, and organize legacy construction data from archives. Migrate historical project data, cost records, and schedules into modern formats.",
+  "version": "2.1.0",
+  "author": {
+    "name": "datadrivenconstruction"
+  },
+  "homepage": "https://datadrivenconstruction.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/historical-data-manager"
+}

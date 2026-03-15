@@ -1,0 +1,10 @@
+{
+  "name": "jvy--shutdown",
+  "description": "Safe shutdown/reboot workflow for local or remote machines. Use when the user asks to power off, restart, schedule shutdown, cancel shutdown, or perform pre-shutdown checks while preserving OpenClaw and session safety. 中文触发：关机、重启、稍后关机、取消关机、定时关机、立即关机。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jvy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jvy/shutdown",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jvy/shutdown"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "murphys7017--qweather",
+  "description": "天气查询：使用和风天气（JWT+Host）获取实时天气与未来预报；支持城市名/LocationID/经纬度；缺省地点可用 QWEATHER_DEFAULT_LOCATION。",
+  "version": "1.0.0",
+  "author": {
+    "name": "murphys7017"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/murphys7017/qweather",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/murphys7017/qweather"
+}

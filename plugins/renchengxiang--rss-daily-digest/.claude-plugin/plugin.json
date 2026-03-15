@@ -1,0 +1,10 @@
+{
+  "name": "renchengxiang--rss-daily-digest",
+  "description": "Fetch RSS feeds, parse articles, generate AI summaries, and compile a daily digest report in Markdown. Use when user asks for RSS summary, news digest, daily briefing, feed reader, morning news, or tech news roundup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "renchengxiang"
+  },
+  "homepage": "https://github.com/yourname/rss-daily-digest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/renchengxiang/rss-daily-digest"
+}

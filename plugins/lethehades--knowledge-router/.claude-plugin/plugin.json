@@ -1,0 +1,10 @@
+{
+  "name": "lethehades--knowledge-router",
+  "description": "Build a lightweight routing layer across existing knowledge sources such as MEMORY.md, daily memory files, self-improving notes, skill references, and audit records. Use when you need to decide where a question should be answered from before reading too much, when you want a unified knowledge index, or when you want to detect which knowledge should be promoted into a more durable layer.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lethehades"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lethehades/knowledge-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lethehades/knowledge-router"
+}

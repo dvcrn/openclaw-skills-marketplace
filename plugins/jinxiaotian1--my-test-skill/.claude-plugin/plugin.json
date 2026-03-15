@@ -1,0 +1,10 @@
+{
+  "name": "jinxiaotian1--my-test-skill",
+  "description": "Intelligent code security scanner with hybrid local-cloud detection. Fingerprints packages, runs static behavioral analysis, and consults cloud threat intelligence (enabled by default, can be disabled) for confidence scoring.",
+  "version": "0.0.1",
+  "author": {
+    "name": "jinxiaotian1"
+  },
+  "homepage": "https://clawhub.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jinxiaotian1/my-test-skill"
+}

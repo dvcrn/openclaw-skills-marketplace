@@ -1,0 +1,10 @@
+{
+  "name": "kaiyuelv--clawhub-retry-fallback",
+  "description": "ClawHub平台工具调用失败自动重试与降级处理Skill | Automatic retry and fallback handling for ClawHub Agent task failures",
+  "version": "1.0.1",
+  "author": {
+    "name": "kaiyuelv"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kaiyuelv/clawhub-retry-fallback",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kaiyuelv/clawhub-retry-fallback"
+}

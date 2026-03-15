@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-branch-drift-audit",
+  "description": "Detect branch-level GitHub Actions reliability drift by comparing failure and runtime deltas against a mainline baseline.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-branch-drift-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-branch-drift-audit"
+}

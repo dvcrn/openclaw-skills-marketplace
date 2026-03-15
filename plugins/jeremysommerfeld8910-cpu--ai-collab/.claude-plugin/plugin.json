@@ -1,0 +1,10 @@
+{
+  "name": "jeremysommerfeld8910-cpu--ai-collab",
+  "description": "Multi-agent autonomous collaboration system for two OpenClaw agents working in parallel. Use when setting up agent-to-agent communication, running a daemon agent alongside a primary agent, coordinating tasks between Claude and GPT instances, or establishing a shared chat log and inbox protocol. Triggers on: 'set up agent collaboration', 'run two agents', 'agent daemon', 'multi-agent', 'Jim and Clawdy', 'secondary agent', 'agent handoff'.",
+  "version": "2.0.0",
+  "author": {
+    "name": "jeremysommerfeld8910-cpu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jeremysommerfeld8910-cpu/ai-collab",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeremysommerfeld8910-cpu/ai-collab"
+}

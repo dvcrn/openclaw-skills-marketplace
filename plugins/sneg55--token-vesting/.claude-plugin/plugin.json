@@ -1,0 +1,10 @@
+{
+  "name": "sneg55--token-vesting",
+  "description": "Create and manage token vesting streams using the Sablier Lockup protocol (linear, dynamic, tranched).",
+  "version": "1.0.2",
+  "author": {
+    "name": "sneg55"
+  },
+  "homepage": "https://docs.sablier.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sneg55/token-vesting"
+}

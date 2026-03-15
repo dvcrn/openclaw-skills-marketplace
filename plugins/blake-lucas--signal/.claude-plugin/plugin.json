@@ -1,0 +1,10 @@
+{
+  "name": "blake-lucas--signal",
+  "description": "Comprehensive Signal channel integration via signal-cli. Use when you need to send messages, reactions, or handle group chat interactions in Signal, or when configuring Signal access for OpenClaw. Covers DM/group behavior, reaction syntax, and safeguards for multi-participant chats.",
+  "version": "1.0.2",
+  "author": {
+    "name": "blake-lucas"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/blake-lucas/signal",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/blake-lucas/signal"
+}

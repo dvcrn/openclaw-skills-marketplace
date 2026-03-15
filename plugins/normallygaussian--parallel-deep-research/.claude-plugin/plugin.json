@@ -1,0 +1,10 @@
+{
+  "name": "normallygaussian--parallel-deep-research",
+  "description": "Deep multi-source research via Parallel API. Use when user explicitly asks for thorough research, comprehensive analysis, or investigation of a topic. For quick lookups or news, use parallel-search instead.",
+  "version": "1.0.0",
+  "author": {
+    "name": "normallygaussian"
+  },
+  "homepage": "https://parallel.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/normallygaussian/parallel-deep-research"
+}

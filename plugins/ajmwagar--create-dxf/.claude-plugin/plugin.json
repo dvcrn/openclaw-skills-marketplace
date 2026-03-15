@@ -1,0 +1,10 @@
+{
+  "name": "ajmwagar--create-dxf",
+  "description": "Create RFQ-ready 2D DXF (and optional SVG preview) files from a strict, validated JSON spec derived from a natural-language design prompt. Use for sheet/plate parts (waterjet/laser/router) like mounting plates, gussets, brackets, hole patterns, and slots.",
+  "version": "0.1.1",
+  "author": {
+    "name": "ajmwagar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ajmwagar/create-dxf",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ajmwagar/create-dxf"
+}

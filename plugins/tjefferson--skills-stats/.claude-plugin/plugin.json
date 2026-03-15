@@ -1,0 +1,10 @@
+{
+  "name": "tjefferson--skills-stats",
+  "description": "Query any ClawHub skill's statistics (stars, downloads, current installs, all-time installs) via curl and the public ClawHub API. Use when: user asks about a skill's popularity, stats, or metrics on ClawHub, wants to compare skill statistics, or needs to check how many stars/downloads/installs a ClawHub skill has — without opening the slow ClawHub web UI.",
+  "version": "1.1.0",
+  "author": {
+    "name": "tjefferson"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tjefferson/skills-stats",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tjefferson/skills-stats"
+}

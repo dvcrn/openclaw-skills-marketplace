@@ -1,0 +1,10 @@
+{
+  "name": "ricardodpalmeida--book-capture-obsidian",
+  "description": "Capture and normalize book metadata into Obsidian Markdown notes from photos or Goodreads CSV exports. Use for barcode and OCR ISBN extraction, metadata enrichment, idempotent note upsert, bulk migration, and dashboard generation.",
+  "version": "1.2.1",
+  "author": {
+    "name": "ricardodpalmeida"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ricardodpalmeida/book-capture-obsidian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ricardodpalmeida/book-capture-obsidian"
+}

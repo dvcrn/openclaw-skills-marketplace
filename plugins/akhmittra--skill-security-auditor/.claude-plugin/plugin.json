@@ -1,0 +1,10 @@
+{
+  "name": "akhmittra--skill-security-auditor",
+  "description": "Command-line security analyzer for ClawHub skills. Run analyze-skill.sh to scan SKILL.md files for malicious patterns, credential leaks, and C2 infrastructure before installation. Includes threat intelligence database with 20+ detection patterns.",
+  "version": "1.0.1",
+  "author": {
+    "name": "akhmittra"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/akhmittra/skill-security-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/akhmittra/skill-security-auditor"
+}

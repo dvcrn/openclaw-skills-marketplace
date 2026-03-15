@@ -1,0 +1,10 @@
+{
+  "name": "sharbelayy--agent-audit",
+  "description": "Audit your AI agent setup for performance, cost, and ROI. Scans OpenClaw config, cron jobs, session history, and model usage to find waste and recommend optimizations. Works with any model provider (Anthropic, OpenAI, Google, xAI, etc.). Use when: (1) user says \"audit my agents\", \"optimize my costs\", \"am I overspending on AI\", \"check my model usage\", \"agent audit\", \"cost optimization\", (2) user wants to know which cron jobs are expensive vs cheap, (3) user wants model-task fit recommendations, (4) user wants ROI analysis of their agent setup, (5) user says \"where am I wasting tokens\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "sharbelayy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sharbelayy/agent-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sharbelayy/agent-audit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "iammeter--iammeter-openclaw",
+  "description": "Query and export device/site data via the iammeter API (based on https://www.iammeter.com/swaggerui/swagger.json). Triggers: list sites/devices, get real-time or historical energy data, export CSV, run power or offline analysis.",
+  "version": "0.2.0",
+  "author": {
+    "name": "iammeter"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iammeter/iammeter-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iammeter/iammeter-openclaw"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lijiejoy--local-coding-orchestrator",
+  "description": "Use OpenClaw as a supervisor-driven orchestration scaffold for local coding CLIs such as Codex, Claude Code, and OpenCode. Supports task records, lifecycle transitions, worker launch and reconcile, retry briefs, pipeline presets, and environment-aware blocking for local coding workflows.",
+  "version": "0.2.2",
+  "author": {
+    "name": "lijiejoy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lijiejoy/local-coding-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lijiejoy/local-coding-orchestrator"
+}

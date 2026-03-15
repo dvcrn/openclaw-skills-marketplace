@@ -1,0 +1,10 @@
+{
+  "name": "thiagoruss0--todo-tracker1",
+  "description": "Persistent TODO scratch pad for tracking tasks across sessions. Use when user says \"add to TODO\", \"what's on the TODO\", \"mark X done\", \"show TODO list\", \"remove from TODO\", or asks about pending tasks. Also triggers on heartbeat to remind about stale items.",
+  "version": "1.0.0",
+  "author": {
+    "name": "thiagoruss0"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thiagoruss0/todo-tracker1",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thiagoruss0/todo-tracker1"
+}

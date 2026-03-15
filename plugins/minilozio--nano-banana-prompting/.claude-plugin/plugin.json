@@ -1,0 +1,10 @@
+{
+  "name": "minilozio--nano-banana-prompting",
+  "description": "Transform natural language image requests into optimized structured prompts for Gemini image generation. Automatically detects style and builds the perfect prompt — cinematic, illustration, anime, 3D, watercolor, product, and more.",
+  "version": "1.0.1",
+  "author": {
+    "name": "minilozio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/minilozio/nano-banana-prompting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/minilozio/nano-banana-prompting"
+}

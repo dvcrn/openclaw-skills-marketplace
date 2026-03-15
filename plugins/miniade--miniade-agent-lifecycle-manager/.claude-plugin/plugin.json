@@ -1,0 +1,10 @@
+{
+  "name": "miniade--miniade-agent-lifecycle-manager",
+  "description": "Manage full OpenClaw agent lifecycle operations on a node: create/register agents, configure channel bindings, optionally inherit credentials with explicit consent, approve pairing, archive and delete agents, refresh status dashboards, and write lifecycle change logs. Use when a user asks to onboard a new agent, reconfigure an existing agent, retire/archive/delete agents, or maintain agent status boards and lifecycle audit records.",
+  "version": "0.1.2",
+  "author": {
+    "name": "miniade"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/miniade/miniade-agent-lifecycle-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/miniade/miniade-agent-lifecycle-manager"
+}

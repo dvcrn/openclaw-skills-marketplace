@@ -1,0 +1,10 @@
+{
+  "name": "irreel--tax-filing",
+  "description": "United States federal income tax filing assistant for US citizens, resident aliens, and nonresident aliens. Guides users through the entire IRS filing workflow: determining filer type and filing status, identifying which forms and schedules are needed, calculating amounts from source documents (W-2, 1099s, etc.), and filling IRS PDF forms using pypdf. This skill covers US federal taxes only — not state, local, or non-US tax systems. Use this skill whenever the user mentions taxes, tax returns, 1040, 1040-NR, filing status, \"which forms do I need\", \"help me file my taxes\", \"tax prep\", deductions, NRA tax filing, nonresident alien taxes, treaty-based returns, \"check my tax forms\", \"review my 1040-NR\", or any request related to preparing a US federal tax return — even if they don't specify their filer type. This skill handles the routing and covers both citizen/RA (Form 1040) and NRA (Form 1040-NR) workflows end to end, including PDF form filling and validation.",
+  "version": "0.2.0",
+  "author": {
+    "name": "irreel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/irreel/tax-filing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/irreel/tax-filing"
+}

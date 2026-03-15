@@ -1,0 +1,10 @@
+{
+  "name": "agisearch--meeting",
+  "description": "A Meeting Execution Operator. Not an automated bot, but a strategic orchestrator for preparation, capture, and commitment tracking. Operates on a \"Draft-First\" and \"Manual Confirmation\" basis to ensure coordination without friction.",
+  "version": "2.0.0",
+  "author": {
+    "name": "agisearch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agisearch/meeting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agisearch/meeting"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cld1994--raspberry-pi-camera-service",
+  "description": "提供使用摄像头拍照, 录制视频或直接生成gif的能力。何时触发: 需要拍照时, 需要观察一段时间当前视野时, 需要关注某件事情的进展时.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cld1994"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cld1994/raspberry-pi-camera-service",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cld1994/raspberry-pi-camera-service"
+}

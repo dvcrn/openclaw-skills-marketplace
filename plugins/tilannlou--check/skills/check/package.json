@@ -1,0 +1,118 @@
+{
+  "name": "openclaw-dev-skills-bundle",
+  "version": "1.0.0",
+  "description": "OpenClaw技能包：包含环境检查器、代码生成测试运行器、RAG管理器、权限管理器和通用权限管理器",
+  "main": "environment_checker_skill.py",
+  "scripts": {
+    "test": "echo \"Testing environment checker skill\" && python environment_checker_skill.py --query 'check environment'",
+    "test-coder": "echo \"Testing code generator skill\" && python code_generator_tester_skill.py --query 'generate a hello world function in python'",
+    "test-rag": "echo \"Testing RAG manager skill\" && python rag_manager_skill.py --query '列出所有分类'",
+    "test-permission": "echo \"Testing permission manager skill\" && python permission_manager_skill.py --query '检查权限'",
+    "test-universal-permission": "echo \"Testing universal permission manager skill\" && python universal_permission_manager_skill.py --query '检查权限'"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "environment",
+    "ai",
+    "ml",
+    "development",
+    "dependency",
+    "checker",
+    "code-generator",
+    "tester",
+    "programming",
+    "rag",
+    "knowledge-management",
+    "content-organization",
+    "permission",
+    "security",
+    "admin",
+    "universal",
+    "system-commands"
+  ],
+  "author": "OpenClaw Community",
+  "license": "MIT",
+  "dependencies": {
+    "python": ">=3.7.0"
+  },
+  "clawConfig": {
+    "skills": [
+      {
+        "skillName": "environment_checker",
+        "displayName": "环境检查器",
+        "description": "检查系统环境是否满足AI开发需求",
+        "mainFile": "environment_checker_skill.py",
+        "category": "development",
+        "inputType": "text",
+        "outputType": "json",
+        "permissions": [
+          "execute_commands",
+          "read_system_info",
+          "install_packages"
+        ]
+      },
+      {
+        "skillName": "code_generator_tester",
+        "displayName": "代码生成和测试运行器",
+        "description": "生成代码、保存文件并运行测试",
+        "mainFile": "code_generator_tester_skill.py",
+        "category": "development",
+        "inputType": "text",
+        "outputType": "json",
+        "permissions": [
+          "execute_commands",
+          "read_system_info",
+          "write_files",
+          "read_files"
+        ]
+      },
+      {
+        "skillName": "rag_manager",
+        "displayName": "RAG管理器",
+        "description": "管理多个RAG系统，按类别组织并支持动态创建新分类",
+        "mainFile": "rag_manager_skill.py",
+        "category": "knowledge_management",
+        "inputType": "text",
+        "outputType": "json",
+        "permissions": [
+          "read_files",
+          "write_files",
+          "delete_files"
+        ]
+      },
+      {
+        "skillName": "permission_manager",
+        "displayName": "权限管理器",
+        "description": "处理系统权限问题，特别是PIP和系统命令执行权限",
+        "mainFile": "permission_manager_skill.py",
+        "category": "system",
+        "inputType": "text",
+        "outputType": "json",
+        "permissions": [
+          "execute_commands",
+          "read_system_info"
+        ]
+      },
+      {
+        "skillName": "universal_permission_manager",
+        "displayName": "通用权限管理器",
+        "description": "处理各种系统命令的权限问题",
+        "mainFile": "universal_permission_manager_skill.py",
+        "category": "system",
+        "inputType": "text",
+        "outputType": "json",
+        "permissions": [
+          "execute_commands",
+          "read_system_info"
+        ]
+      }
+    ],
+    "supportedModels": [
+      "gpt-4",
+      "gpt-3.5-turbo",
+      "claude",
+      "local-llm"
+    ]
+  }
+}

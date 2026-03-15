@@ -1,0 +1,10 @@
+{
+  "name": "rosasalberto--didit-sessions",
+  "description": "Integrate Didit Session & Workflow APIs — the central hub for managing verification sessions. Use when the user wants to create a verification session, set up a KYC workflow, create a session with a workflow_id, retrieve session results, get session decisions, list sessions, delete sessions, update session status, approve or decline sessions, request resubmission, generate PDF reports, share sessions between partners, import shared sessions, add or remove users from blocklist, manage blocked faces/documents/phones/emails, handle webhooks, or implement any end-to-end verification flow using Didit. Covers 11 API endpoints: create, retrieve, list, delete, update-status, generate-pdf, share, import-shared, blocklist-add, blocklist-remove, blocklist-list.",
+  "version": "2.0.0",
+  "author": {
+    "name": "rosasalberto"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-sessions",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-sessions"
+}

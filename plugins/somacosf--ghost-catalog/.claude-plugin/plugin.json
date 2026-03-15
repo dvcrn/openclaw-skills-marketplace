@@ -1,0 +1,10 @@
+{
+  "name": "somacosf--ghost-catalog",
+  "description": "Scan, tag, validate, and catalog files using the Ghost Catalog semantic file header system (SOM-XXX-NNNN-vX.X.X). Use when: discovering untagged files, onboarding to a new codebase, maintaining catalog compliance, searching for files by category/tag/agent, or generating compliance reports. Operates on the local file system with a SQLite catalog database.",
+  "version": "0.0.1",
+  "author": {
+    "name": "somacosf"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/somacosf/ghost-catalog",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/somacosf/ghost-catalog"
+}

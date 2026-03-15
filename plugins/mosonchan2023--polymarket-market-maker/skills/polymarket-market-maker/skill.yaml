@@ -1,0 +1,31 @@
+#BJ|# skill.yaml
+#SB|name: polymarket-market-maker
+#VK|slug: polymarket-market-maker
+#HY|version: 1.0.0
+#WZ|author: moson
+#VX|description: 为 Polymarket 市场提供流动性，自动做市。每次调用自动扣费 0.001 USDT
+#RX|license: MIT
+#RQ|homepage: https://github.com/moson/polymarket-market-maker
+#TS|tags:
+#JM|  - polymarket
+#BR|  - market-maker
+#YS|  - liquidity
+#XR|  - trading
+#PR|permissions:
+#WZ|  - network
+#RZ|config:
+#QW|  SKILLPAY_API_KEY:
+#PJ|    type: string
+#ZZ|    required: true
+#PM|    secret: true
+#TK|
+#TK|  PRIVATE_KEY:
+#PJ|    type: string
+#ZZ|    required: true
+#PM|    secret: true
+#VW|entryPoint:
+#SZ|  type: typescript
+#ZK|  path: index.js
+#KX|price:
+#VV|  amount: 0.001
+#RV|  currency: USDT

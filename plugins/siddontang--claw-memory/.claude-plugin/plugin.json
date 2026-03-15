@@ -1,0 +1,10 @@
+{
+  "name": "siddontang--claw-memory",
+  "description": "Shared memory service for AI agents (OpenClaw, KimiClaw, NanoClaw, etc). Use when user asks to store, retrieve, search, or share memories across agent instances. Also use for importing existing memory files (MEMORY.md, daily notes) into the shared service.",
+  "version": "1.0.0",
+  "author": {
+    "name": "siddontang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/siddontang/claw-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/siddontang/claw-memory"
+}

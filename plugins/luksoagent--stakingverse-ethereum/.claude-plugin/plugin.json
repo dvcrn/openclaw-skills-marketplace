@@ -1,0 +1,10 @@
+{
+  "name": "luksoagent--stakingverse-ethereum",
+  "description": "Stake ETH on StakeWise (Ethereum liquid staking). Use when the user wants to stake ETH, unstake ETH, or check staked positions on StakeWise V3 vaults. Supports state updates via keeper and harvest proofs from subgraph.",
+  "version": "1.0.0",
+  "author": {
+    "name": "luksoagent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luksoagent/stakingverse-ethereum",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luksoagent/stakingverse-ethereum"
+}

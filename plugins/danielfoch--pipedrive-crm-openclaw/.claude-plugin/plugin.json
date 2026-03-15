@@ -1,0 +1,10 @@
+{
+  "name": "danielfoch--pipedrive-crm-openclaw",
+  "description": "Manage Pipedrive CRM from OpenClaw using API v1, including people, organizations, deals, leads, activities, notes, pipelines, and custom endpoint actions. Use when a user wants to perform CRM operations by API instead of the Pipedrive UI.",
+  "version": "0.1.0",
+  "author": {
+    "name": "danielfoch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danielfoch/pipedrive-crm-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danielfoch/pipedrive-crm-openclaw"
+}

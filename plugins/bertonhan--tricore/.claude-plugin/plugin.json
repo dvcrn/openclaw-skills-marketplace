@@ -1,0 +1,10 @@
+{
+  "name": "bertonhan--tricore",
+  "description": "TriCore Architecture - A deterministic (Code-First) three-layer memory and cognitive framework designed for low-resource servers/Agents. It includes the underlying memctl engine, system policy constraints (Linter), and a fully refactored suite of cognitive tools for planning (Planning), reasoning (ReAct), and self-evolution (Self-Evolution).",
+  "version": "1.0.1",
+  "author": {
+    "name": "bertonhan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bertonhan/tricore",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bertonhan/tricore"
+}

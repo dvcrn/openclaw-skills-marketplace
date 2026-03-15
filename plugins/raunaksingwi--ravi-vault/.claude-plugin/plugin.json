@@ -1,0 +1,10 @@
+{
+  "name": "raunaksingwi--ravi-vault",
+  "description": "Store and retrieve key-value secrets — E2E encrypted vault for API keys and env vars. Do NOT use for website passwords (use ravi-passwords) or reading messages (use ravi-inbox).",
+  "version": "1.6.0",
+  "author": {
+    "name": "raunaksingwi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/raunaksingwi/ravi-vault",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/raunaksingwi/ravi-vault"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "simonvanlaak--kanban-workflow",
+  "description": "Kanban Workflow is a TypeScript skill for a stage-based agentic co-worker that integrates PM platforms via CLI-auth adapters only (no direct HTTP auth). It provides setup + verbs (show/next/start/update/ask/complete/create) around a canonical stage set (backlog/blocked/in-progress/in-review), plus polling/diffing foundations and automation hooks.",
+  "version": "0.1.12",
+  "author": {
+    "name": "simonvanlaak"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/simonvanlaak/kanban-workflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/simonvanlaak/kanban-workflow"
+}

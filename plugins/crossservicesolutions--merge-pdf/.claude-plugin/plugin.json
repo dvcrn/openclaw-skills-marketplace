@@ -1,0 +1,10 @@
+{
+  "name": "crossservicesolutions--merge-pdf",
+  "description": "Merge multiple user-provided PDF files by uploading them to Cross-Service-Solutions, polling until completion, then returning a download URL for the merged PDF.",
+  "version": "1.0.0",
+  "author": {
+    "name": "crossservicesolutions"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crossservicesolutions/merge-pdf",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crossservicesolutions/merge-pdf"
+}

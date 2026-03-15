@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--linkedin-api",
+  "description": "LinkedIn API integration with managed OAuth. Share posts, manage profile, run ads, and access LinkedIn features.\n Use this skill when users want to share content on LinkedIn, manage ad campaigns, get profile/organization information, or interact with LinkedIn's platform.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.3",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/linkedin-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/linkedin-api"
+}

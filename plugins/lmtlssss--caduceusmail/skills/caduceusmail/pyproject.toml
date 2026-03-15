@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "caduceusmail"
+version = "5.3.3"
+description = "OpenClaw skill bundle and tooling for Microsoft 365 plus Cloudflare mail lane orchestration"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [
+  { name = "lmtlssss" }
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/lmtlssss/caduceusmail"
+
+[project.scripts]
+caduceusmail-doctor = "caduceusmail.doctor:main"
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

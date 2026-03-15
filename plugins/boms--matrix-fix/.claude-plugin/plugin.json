@@ -1,0 +1,10 @@
+{
+  "name": "boms--matrix-fix",
+  "description": "修复 Matrix Channel 常见问题：加密模块安装、token 过期处理、重新登录等。 Use when: Matrix channel 无法正常工作、加密模块报错、token 失效等问题。",
+  "version": "1.0.0",
+  "author": {
+    "name": "boms"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/boms/matrix-fix",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/boms/matrix-fix"
+}

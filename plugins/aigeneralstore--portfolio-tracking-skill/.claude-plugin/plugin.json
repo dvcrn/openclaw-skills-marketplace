@@ -1,0 +1,10 @@
+{
+  "name": "aigeneralstore--portfolio-tracking-skill",
+  "description": "An investment portfolio tracker that runs entirely locally. All data stays in ~/.portfolio-tracker/.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aigeneralstore"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aigeneralstore/portfolio-tracking-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aigeneralstore/portfolio-tracking-skill"
+}

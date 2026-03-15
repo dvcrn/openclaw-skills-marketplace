@@ -1,0 +1,10 @@
+{
+  "name": "wpank--setup-local-testnet",
+  "description": "Spin up a local Anvil testnet with Uniswap deployed and pre-seeded liquidity. One command gives you a full development environment with funded accounts, real Uniswap pools, and zero gas costs. Use when developing, testing, or demoing Uniswap agent workflows.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/setup-local-testnet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/setup-local-testnet"
+}

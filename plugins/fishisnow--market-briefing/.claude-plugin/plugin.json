@@ -1,0 +1,10 @@
+{
+  "name": "fishisnow--market-briefing",
+  "description": "Scheduled market intelligence briefing workflow for A-shares, HK stocks, US markets, macro policy, and geopolitical news. Activate when: (1) running as a cron/scheduled job to push hourly market updates, (2) user asks to collect or summarize market news, (3) user mentions A股, 港股, 恒指, 特朗普, 地缘政治, 军事, or related investing topics. Delivers time-aware briefings (morning/intraday incremental/closing) with deduplication. Uses Tavily Search via mcporter + web_fetch fallback, delivers via Feishu message tool. NOT for: deep financial modeling, backtesting, or individual stock analysis unrelated to news collection.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fishisnow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fishisnow/market-briefing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fishisnow/market-briefing"
+}

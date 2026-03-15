@@ -1,0 +1,10 @@
+{
+  "name": "rusynandriy--rescuetime",
+  "description": "Fetch productivity data from RescueTime. Use when the user asks about their screen time, productivity score, app usage, time tracking, how they spent their day/week, or wants reports on their computer activity. Requires API key in TOOLS.md or passed directly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rusynandriy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rusynandriy/rescuetime",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rusynandriy/rescuetime"
+}

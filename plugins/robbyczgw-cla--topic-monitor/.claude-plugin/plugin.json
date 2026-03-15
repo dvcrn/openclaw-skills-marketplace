@@ -1,0 +1,10 @@
+{
+  "name": "robbyczgw-cla--topic-monitor",
+  "description": "Monitor topics of interest and proactively alert when important developments occur. Use when user wants automated monitoring of specific subjects (e.g., product releases, price changes, news topics, technology updates). Supports scheduled web searches, AI-powered importance scoring, smart alerts vs weekly digests, and memory-aware contextual summaries.",
+  "version": "1.3.5",
+  "author": {
+    "name": "robbyczgw-cla"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/topic-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/topic-monitor"
+}

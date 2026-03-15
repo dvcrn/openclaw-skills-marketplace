@@ -1,0 +1,10 @@
+{
+  "name": "zangzhicong--bili-sunflower-publish",
+  "description": "Publish HTML content to Bilibili — supports both 专栏 (article) and 小站 (tribee) targets. Handles login check, title input, HTML paste via clipboard, and direct publish. Trigger when user asks to publish to B站专栏/小站, or mentions 发布文章到B站/上传专栏/发B站文章/发小站帖子/tribee发帖.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zangzhicong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zangzhicong/bili-sunflower-publish",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zangzhicong/bili-sunflower-publish"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "voidlight00--failure-memory-log",
+  "description": "Automatic failure pattern recording and recall system. Prevents repeating the same mistakes by logging errors with context, root cause, and resolution. Use when: (1) a command/task fails and you want to record why, (2) starting a new task and want to check for known pitfalls, (3) reviewing accumulated failure patterns for learning, (4) agent makes an error and needs to log it for future prevention. Triggers: 'log failure', 'check failures', 'failure report', 'what went wrong', 'mistake log', or any error/failure during agent work.",
+  "version": "1.0.0",
+  "author": {
+    "name": "voidlight00"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/voidlight00/failure-memory-log",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/voidlight00/failure-memory-log"
+}

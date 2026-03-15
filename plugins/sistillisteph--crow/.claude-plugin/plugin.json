@@ -1,0 +1,10 @@
+{
+  "name": "sistillisteph--crow",
+  "description": "Agent payment service via CrowPay. Use when your agent needs to pay for APIs (x402/USDC) or merchants (credit card), handle 402 Payment Required responses, or set up a wallet with spending rules.",
+  "version": "0.1.0",
+  "author": {
+    "name": "sistillisteph"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sistillisteph/crow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sistillisteph/crow"
+}

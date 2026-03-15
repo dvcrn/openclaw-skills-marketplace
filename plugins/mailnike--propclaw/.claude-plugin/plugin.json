@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--propclaw",
+  "description": "AI-native property management for US landlords (20-500 units). 66 actions across 5 domains -- properties, leases, tenants, maintenance, trust accounting. Built on ERPClaw foundation with real double-entry GL, FCRA-compliant screening, state-specific late fees, and 1099 reporting.",
+  "version": "2.1.0",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.propclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/propclaw"
+}

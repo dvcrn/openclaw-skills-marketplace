@@ -1,0 +1,10 @@
+{
+  "name": "mrhah--outlookcli",
+  "description": "Manage personal Microsoft 365 (Outlook.com/Hotmail/Live) email, calendar, and OneDrive via the m365-cli command-line tool. Requires: Node.js 18+ and `m365-cli` installed globally (`npm install -g m365-cli`), plus OAuth authentication (`m365 login --account-type personal`). Accesses sensitive data: emails, calendar events, OneDrive files, and contacts. Use when: (1) reading, sending, or searching emails, (2) managing calendar events (list, create, update, delete), (3) uploading/downloading OneDrive files, (4) searching users/people, (5) deleting or moving emails, (6) managing mail folders, (7) any task involving personal Outlook/Hotmail/Live account management from the terminal. Triggers: \"check my email\", \"send an email\", \"schedule a meeting\", \"list my calendar\", \"upload to OneDrive\", \"download from OneDrive\", \"search mail\", \"what's on my calendar\", \"manage Outlook\", \"m365\", \"outlook\", \"delete email\", \"move email\", \"mail folders\", \"create folder\", \"organize email\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "mrhah"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrhah/outlookcli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrhah/outlookcli"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lanyasheng--apple-health-csv",
+  "description": "Query Apple Health data exported as CSV files from iOS apps like Simple Health Export or Health Auto Export. Supports 30+ health metrics including heart rate, steps, sleep analysis, blood oxygen, workouts, body measurements, and more. Fully local — no cloud services, no API keys, no third-party data sharing. Use when users ask about their health data, fitness trends, sleep patterns, or want a daily health summary.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lanyasheng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lanyasheng/apple-health-csv",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lanyasheng/apple-health-csv"
+}

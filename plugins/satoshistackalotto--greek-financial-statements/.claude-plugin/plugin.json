@@ -1,0 +1,10 @@
+{
+  "name": "satoshistackalotto--greek-financial-statements",
+  "description": "Greek financial statement generation — P&L, balance sheets, VAT summaries with EGLS integration. Completeness gates prevent partial outputs.",
+  "version": "0.1.0",
+  "author": {
+    "name": "satoshistackalotto"
+  },
+  "homepage": "https://github.com/satoshistackalotto/openclaw-greek-accounting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-financial-statements"
+}

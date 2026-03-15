@@ -1,0 +1,10 @@
+{
+  "name": "fontstep--send-email",
+  "description": "Send emails via SMTP. Configure in ~/.openclaw/openclaw.json under skills.entries.send-email.env.",
+  "version": "1.0.1",
+  "author": {
+    "name": "fontstep"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fontstep/send-email",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fontstep/send-email"
+}

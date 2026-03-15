@@ -1,0 +1,10 @@
+{
+  "name": "kickook--skill-security-review",
+  "description": "Review the security of an OpenClaw skill or agent before installation, import, activation, or trust. Use when the user asks whether a skill is safe, asks to review a .skill package, asks whether a GitHub/ClawHub/zip-based skill is safe, or expresses intent to install/import/enable a skill. Default behavior: if the user wants to install a skill, audit first, then present the verdict and ask for confirmation before installing. Focus on data exposure, local command execution, persistence, network access, privilege escalation, destructive behavior, and supply-chain risk.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kickook"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kickook/skill-security-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kickook/skill-security-review"
+}

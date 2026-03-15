@@ -1,0 +1,10 @@
+{
+  "name": "ndtchan--vnstock-free-expert",
+  "description": "Runs an end-to-end vnstock workflow for free-tier-safe Vietnam stock valuation, ranking, and API operations with strict rate-limit control; used when users request Vietnamese stock analysis under free-tier constraints.",
+  "version": "1.0.2",
+  "author": {
+    "name": "ndtchan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ndtchan/vnstock-free-expert",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ndtchan/vnstock-free-expert"
+}

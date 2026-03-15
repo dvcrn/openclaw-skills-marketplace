@@ -1,0 +1,10 @@
+{
+  "name": "neckr0ik--document-handler",
+  "description": "Read, extract, and convert document files (PDF, DOCX, XLSX, PPTX, EPUB, RTF, ODT, ODS, ODP). Use when working with any document format: extracting text, metadata, converting formats, or processing content. Triggers on mentions of document files, file paths with document extensions, or requests to read/convert documents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "neckr0ik"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neckr0ik/document-handler",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neckr0ik/document-handler"
+}

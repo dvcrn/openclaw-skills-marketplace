@@ -1,0 +1,10 @@
+{
+  "name": "ianchenx--substracker",
+  "description": "Manage SubsTracker subscriptions and configuration via CLI scripts. Handles login, subscription CRUD, config updates, notifications, and dashboard queries. Use this skill whenever the user mentions subscriptions, recurring payments, subscription tracking, renewal reminders, payment history, notification configuration (Telegram, Bark, email, webhook, Gotify), or anything related to their SubsTracker instance — even if they just say \"add a subscription\", \"what am I paying for\", \"check my renewals\", \"how much do I spend monthly\", \"update my Telegram config\", \"加个订阅\", \"我订阅了什么\", \"有哪些快到期了\", \"每月花多少钱\", \"续费\", \"订阅提醒\", \"通知设置\", \"看下订阅\", \"账单\" without explicitly mentioning SubsTracker.",
+  "version": "1.1.0",
+  "author": {
+    "name": "ianchenx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ianchenx/substracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ianchenx/substracker"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "photonixlaser-ux--lyrion-music-skill",
+  "description": "Steuere Lyrion Music Server (LMS) über die JSON-RPC API. Nutze diesen Skill für Wiedergabe-Steuerung (Play/Pause/Stop), Lautstärke, Playlist-Verwaltung, Player-Auswahl und Musikdatenbank-Abfragen. Erfordert LMS auf Port 9000.",
+  "version": "0.1.0",
+  "author": {
+    "name": "photonixlaser-ux"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/photonixlaser-ux/lyrion-music-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/photonixlaser-ux/lyrion-music-skill"
+}

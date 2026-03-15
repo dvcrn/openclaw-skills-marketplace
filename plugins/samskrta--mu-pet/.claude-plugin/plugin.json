@@ -1,0 +1,10 @@
+{
+  "name": "samskrta--mu-pet",
+  "description": "Animated pixel art desktop pet that roams the screen as an always-on-top Electron overlay. The pet avoids the cursor and active windows, walks along screen edges, climbs walls and ceilings, and responds to agent state changes via a local HTTP API. Use when a user wants a desktop companion, screen buddy, desktop mascot, virtual pet, or visual indicator of agent activity. Supports states like idle, walking, working, thinking, sleeping, and talking (faces user with speech bubble). macOS only.",
+  "version": "1.0.0",
+  "author": {
+    "name": "samskrta"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/samskrta/mu-pet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/samskrta/mu-pet"
+}

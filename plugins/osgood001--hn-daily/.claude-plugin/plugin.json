@@ -1,0 +1,10 @@
+{
+  "name": "osgood001--hn-daily",
+  "description": "Fetch and filter Hacker News top stories. Use when user asks for tech news, HN updates, daily news digest, or wants to set up automated HN fetching. Supports keyword filtering (AI, programming, startups) and caching.",
+  "version": "1.0.1",
+  "author": {
+    "name": "osgood001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/osgood001/hn-daily",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/osgood001/hn-daily"
+}

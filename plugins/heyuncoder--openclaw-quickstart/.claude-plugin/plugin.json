@@ -1,0 +1,10 @@
+{
+  "name": "heyuncoder--openclaw-quickstart",
+  "description": "OpenClaw onboarding guide for new users. Activate when a user asks how to get started with OpenClaw, says they are new, asks for a quickstart or tutorial, wants to learn OpenClaw basics, or mentions \"new user tasks\" / \"onboarding\" / \"新手任务\" / \"快速入门\". Guides users through 8 practical tasks with automatic progress detection and daily reminders until all tasks are complete.",
+  "version": "1.0.0",
+  "author": {
+    "name": "heyuncoder"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/heyuncoder/openclaw-quickstart",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/heyuncoder/openclaw-quickstart"
+}

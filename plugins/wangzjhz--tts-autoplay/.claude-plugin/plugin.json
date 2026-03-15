@@ -1,0 +1,10 @@
+{
+  "name": "wangzjhz--tts-autoplay",
+  "description": "Auto-play TTS voice files with wake word detection. Only plays audio when user message contains wake words like \"语音\", \"念出来\", \"voice\", etc. Perfect for Webchat users who want conditional voice responses.",
+  "version": "2.0.1",
+  "author": {
+    "name": "wangzjhz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tts-autoplay",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangzjhz/tts-autoplay"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "maxceem--groq-whisper-api",
+  "description": "Transcribe audio via Groq Automatic Speech Recognition (ASR) Models (Whisper).",
+  "version": "1.0.0",
+  "author": {
+    "name": "maxceem"
+  },
+  "homepage": "https://console.groq.com/docs/speech-to-text",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maxceem/groq-whisper-api"
+}

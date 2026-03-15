@@ -1,0 +1,10 @@
+{
+  "name": "rijoyai--abandoned-checkout-monitor",
+  "description": "Deep cart-to-checkout funnel monitoring, abnormal friction detection, and multi-touch recovery playbooks for e-commerce. Use this skill whenever the user mentions abandoned carts, checkout drop-off, low checkout conversion (under ~2%), why no orders, no sales, cart not converting, customers leaving at payment, shipping shock, high shipping cost by region, payment failed, gateway errors, high-AOV items stuck in cart without purchase, or wants recovery emails / win-back sequences for checkout leavers. Also trigger on real-time cart behavior, funnel leaks, or low checkout conversion — even if the merchant only asks vaguely (\"why no orders,\" \"nobody's buying\"). Do NOT use for simple stock lookups, basic order status or detail-only views, or pure inventory questions without checkout context.",
+  "version": "0.1.1",
+  "author": {
+    "name": "rijoyai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rijoyai/abandoned-checkout-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rijoyai/abandoned-checkout-monitor"
+}

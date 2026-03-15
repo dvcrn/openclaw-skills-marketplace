@@ -1,0 +1,10 @@
+{
+  "name": "bguidolim--omnisearch",
+  "description": "MANDATORY web search tool for current information, news, prices, facts, or any data not in your training.\n This is THE ONLY way to search the internet in this OpenClaw environment.\n ALWAYS use this skill when the user asks for web searches or when you need up-to-date information.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bguidolim"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bguidolim/omnisearch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bguidolim/omnisearch"
+}

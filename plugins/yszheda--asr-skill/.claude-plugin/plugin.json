@@ -1,0 +1,10 @@
+{
+  "name": "yszheda--asr-skill",
+  "description": "基于Qwen3-ASR-0.6B的语音转文字Skill，支持22种中文方言和多语言识别，让你可以用方言和OpenClaw交流。",
+  "version": "1.2.0",
+  "author": {
+    "name": "yszheda"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yszheda/asr-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yszheda/asr-skill"
+}

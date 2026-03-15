@@ -1,0 +1,10 @@
+{
+  "name": "0xmasayoshi--sushiswap-api",
+  "description": "REST API for optimized token swapping (including executable transaction generation), swap quoting, and pricing using the SushiSwap Aggregator. Use this skill when the user wants to: - Get a swap quote between two tokens on 40+ evm networks - Generate executable swap transaction data - Fetch token prices for a specific network or token - Retrieve token metadata - Discover supported AMM liquidity sources - Integrate SushiSwap swapping or pricing logic via HTTP/REST (and not the SushiSwap Javascript API)",
+  "version": "0.1.0",
+  "author": {
+    "name": "0xmasayoshi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xmasayoshi/sushiswap-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xmasayoshi/sushiswap-api"
+}

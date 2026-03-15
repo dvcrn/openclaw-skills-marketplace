@@ -1,0 +1,10 @@
+{
+  "name": "kunoiiv--uptime-monitor",
+  "description": "24/7 OpenClaw uptime monitor. Every 5min cron ping → writes dead.json if down, uptime.json after 7d (168h) continuous alive streak. Use when setting up persistent monitoring (cron setup, streak tracking, status files).",
+  "version": "1.0.0",
+  "author": {
+    "name": "kunoiiv"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kunoiiv/uptime-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kunoiiv/uptime-monitor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "thetail001--subtitle-translate-skill",
+  "description": "Translate SRT subtitle files using LLM APIs with OpenAI-compatible format. Supports both single-language and bilingual output. Use when you need to translate subtitle files (.srt) from one language to another while preserving timestamps. Processes in batches of 50 sentences with progress logging.",
+  "version": "0.1.1",
+  "author": {
+    "name": "thetail001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thetail001/subtitle-translate-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thetail001/subtitle-translate-skill"
+}

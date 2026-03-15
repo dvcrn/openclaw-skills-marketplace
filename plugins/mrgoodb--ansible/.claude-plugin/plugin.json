@@ -1,0 +1,10 @@
+{
+  "name": "mrgoodb--ansible",
+  "description": "Run Ansible playbooks and manage AWX/Tower via API. Automate infrastructure configuration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrgoodb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/ansible",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/ansible"
+}

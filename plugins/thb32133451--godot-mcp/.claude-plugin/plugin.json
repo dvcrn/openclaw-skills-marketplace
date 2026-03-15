@@ -1,0 +1,10 @@
+{
+  "name": "thb32133451--godot-mcp",
+  "description": "Godot MCP (Model Context Protocol) integration enabling AI assistants to directly interact with Godot Editor. Use when working with Godot projects through AI clients (Claude CLI, Codex, Cursor, Windsurf), automating scene creation, node manipulation, script editing, resource management, and project control. Includes setup guide for multiple AI clients.",
+  "version": "1.0.0",
+  "author": {
+    "name": "thb32133451"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thb32133451/godot-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thb32133451/godot-mcp"
+}

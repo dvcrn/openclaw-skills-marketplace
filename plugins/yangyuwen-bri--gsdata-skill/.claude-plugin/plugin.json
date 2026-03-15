@@ -1,0 +1,10 @@
+{
+  "name": "yangyuwen-bri--gsdata-skill",
+  "description": "Use GSData open platform via local adapter script for account/content/rank/pubsent/nlp queries.\n Use when user asks for 舆情检索、热点事件、平台榜单、账号数据、小红书/微博/抖音等数据查询。\n Triggers: \"gsdata\", \"清博\", \"舆情\", \"热点\", \"榜单\", \"关键词检索\".",
+  "version": "0.1.1",
+  "author": {
+    "name": "yangyuwen-bri"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yangyuwen-bri/gsdata-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yangyuwen-bri/gsdata-skill"
+}

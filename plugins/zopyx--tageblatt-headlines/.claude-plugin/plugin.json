@@ -1,0 +1,10 @@
+{
+  "name": "zopyx--tageblatt-headlines",
+  "description": "Download and archive daily Schlagzeilen from https://www.tageblatt.de/. Use when Master asks for TAGEBLATT headlines, wants them saved locally, or needs an automated 07:00 workflow that fetches and forwards the latest headlines.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zopyx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zopyx/tageblatt-headlines",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zopyx/tageblatt-headlines"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "thu-nmrc--zeelin-social-watch",
+  "description": "Zeelin Social Watch: monitor social media sentiment, trending events, platform rankings, and account data via GSData open platform.\n Use when user asks for 舆情检索、热点事件、平台榜单、账号数据、小红书/微博/抖音等数据查询。\n Triggers: \"gsdata\", \"智灵\", \"舆情\", \"热点\", \"榜单\", \"关键词检索\", \"social watch\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "thu-nmrc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thu-nmrc/zeelin-social-watch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thu-nmrc/zeelin-social-watch"
+}

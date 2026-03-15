@@ -1,0 +1,10 @@
+{
+  "name": "nasplycc--voice-reply-mode",
+  "description": "Add same-modality conversation behavior to an agent: voice in → voice out, text in → text out. Use when enabling Telegram/Feishu voice-note workflows with Edge TTS, documenting agent voice preferences, and providing gateway config snippets for inbound-only TTS auto replies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nasplycc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nasplycc/voice-reply-mode",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nasplycc/voice-reply-mode"
+}

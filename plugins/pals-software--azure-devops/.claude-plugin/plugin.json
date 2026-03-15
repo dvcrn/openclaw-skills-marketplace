@@ -1,0 +1,10 @@
+{
+  "name": "pals-software--azure-devops",
+  "description": "List Azure DevOps projects, repositories, and branches; create pull requests; manage work items; check build status. Use when working with Azure DevOps resources, checking PR status, querying project structure, or automating DevOps workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pals-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pals-software/azure-devops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pals-software/azure-devops"
+}

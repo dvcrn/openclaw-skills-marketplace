@@ -1,0 +1,10 @@
+{
+  "name": "davestarling--moltbot-adsb-overhead",
+  "description": "Notify when aircraft are overhead within a configurable radius using a local ADS-B SBS/BaseStation feed (readsb port 30003). Use when setting up or troubleshooting plane-overhead alerts, configuring radius/home coordinates/cooldowns, or creating a Clawdbot cron watcher that sends WhatsApp notifications for nearby aircraft.",
+  "version": "1.0.0",
+  "author": {
+    "name": "davestarling"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/davestarling/moltbot-adsb-overhead",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davestarling/moltbot-adsb-overhead"
+}

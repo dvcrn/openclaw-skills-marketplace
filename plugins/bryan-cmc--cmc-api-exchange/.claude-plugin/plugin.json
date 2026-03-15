@@ -1,0 +1,10 @@
+{
+  "name": "bryan-cmc--cmc-api-exchange",
+  "description": "API reference for CoinMarketCap exchange endpoints including exchange info, volume, market pairs, and assets.\n Use this skill whenever the user mentions exchange API, asks about exchange volumes, wants trading pair data, needs proof-of-reserves info, or is building exchange integrations. This is the authoritative reference for CMC exchange API questions.\n Trigger: \"exchange API\", \"CMC exchange data\", \"trading pairs API\", \"exchange volume API\", \"/cmc-api-exchange\"",
+  "version": "1.0.2",
+  "author": {
+    "name": "bryan-cmc"
+  },
+  "homepage": "https://github.com/coinmarketcap/skills-for-ai-agents-by-CoinMarketCap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bryan-cmc/cmc-api-exchange"
+}

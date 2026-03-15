@@ -1,0 +1,10 @@
+{
+  "name": "vabblejames--clawfy-pro",
+  "description": "Process [Clawfy Pro] webhook messages from the browser extension. When a message starts with [Clawfy Pro], use the included URL, page context (body text, code blocks, subheadings) to deeply understand what the user is working on. Respond with specific intent detection, task-informed help offers, and ClawHub skill suggestions with per-skill relevance explanations. Uses the platform-provided `clawhub` CLI for skill discovery. Accesses recent conversation history (last 10 messages) to detect project connections. Use when receiving messages prefixed with [Clawfy Pro].",
+  "version": "0.1.1",
+  "author": {
+    "name": "vabblejames"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vabblejames/clawfy-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vabblejames/clawfy-pro"
+}

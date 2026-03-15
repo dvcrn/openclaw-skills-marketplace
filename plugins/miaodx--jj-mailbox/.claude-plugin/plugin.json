@@ -1,0 +1,10 @@
+{
+  "name": "miaodx--jj-mailbox",
+  "description": "Send and receive messages between AI agents using jj (Jujutsu) version control as a file-based mailbox. Enables cross-machine agent collaboration with zero infrastructure beyond a git remote.",
+  "version": "0.1.3",
+  "author": {
+    "name": "miaodx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/miaodx/jj-mailbox",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/miaodx/jj-mailbox"
+}

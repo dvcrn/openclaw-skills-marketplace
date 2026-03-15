@@ -1,0 +1,10 @@
+{
+  "name": "niuqun2003--skll-scan",
+  "description": "Security scanning tool for OpenClaw Skills. Detects malicious code patterns, \n extracts domains, and checks threat intelligence APIs. Use when: installing new \n Skills (pre-installation security check), auditing installed Skills, detecting \n malicious code, scanning suspicious domains, generating security reports, or \n verifying Skill safety before distribution.",
+  "version": "1.0.0",
+  "author": {
+    "name": "niuqun2003"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/niuqun2003/skll-scan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/niuqun2003/skll-scan"
+}

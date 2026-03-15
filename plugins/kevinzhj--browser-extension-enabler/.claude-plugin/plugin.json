@@ -1,0 +1,10 @@
+{
+  "name": "kevinzhj--browser-extension-enabler",
+  "description": "Auto-detect and enable OpenClaw Browser Relay Chrome extension when disconnected. Uses native mouse control to click the extension icon.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kevinzhj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kevinzhj/browser-extension-enabler",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kevinzhj/browser-extension-enabler"
+}

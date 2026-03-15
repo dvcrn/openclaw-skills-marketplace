@@ -1,0 +1,10 @@
+{
+  "name": "xiaoluoboding--flomo-notes",
+  "description": "Save notes to Flomo via the Flomo inbox webhook. Use when the user says \"save to flomo\", \"记录到 flomo\", \"flomo note\", or asks to store a note in flomo.",
+  "version": "0.1.0",
+  "author": {
+    "name": "xiaoluoboding"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaoluoboding/flomo-notes",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaoluoboding/flomo-notes"
+}

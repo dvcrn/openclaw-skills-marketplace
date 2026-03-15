@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "source_path": "/home/node/.openclaw/workspace/memory/geopolitics/briefing-2026-03-05-evening.md",
+    "extracted_at": "2026-03-05T23:01:53.071Z",
+    "model": "google/gemini-3-flash-preview",
+    "summarized": false,
+    "file_hash": "7ab5176f1f73c11e",
+    "file_size": 2714,
+    "node_count": 18,
+    "edge_count": 15,
+    "entity_resolution": {
+      "checked": 4,
+      "resolved": 0,
+      "canonicalized": 0
+    }
+  },
+  "nodes": [
+    {
+      "label": "11th Wave US-Israel Strikes",
+      "type": "Observation",
+      "summary": "US and Israel launched the 11th wave of strikes targeting IRGC headquarters and missile sites in Tehran on March 5, 2026, with total targets estimated near 2,000.",
+      "props": {
+        "content": "US/Israel launched the '11th wave' of strikes this evening, targeting IRGC headquarters and missile sites in Tehran. Total destroyed targets now estimated near 2,000.",
+        "observed_at": 1772755200
+      }
+    },
+    {
+      "label": "Iranian Navy Status",
+      "type": "Claim",
+      "summary": "The Iranian Navy is effectively non-functional following the loss of over 20 vessels during conflict operations.",
+      "props": {
+        "content": "Iranian Navy is effectively non-functional after the loss of 20+ vessels.",
+        "truth_status": "confirmed"
+      }
+    },
+    {
+      "label": "Ukraine Peace Talks Postponement",
+      "type": "Observation",
+      "summary": "US-brokered trilateral peace talks between Ukraine and Russia have been postponed indefinitely due to the ongoing war in Iran.",
+      "props": {
+        "content": "Zelensky confirmed that US-brokered trilateral talks with Russia, originally set for this week, are postponed 'for a while' due to the Iran war.",
+        "observed_at": 1772755200
+      }
+    },
+    {
+      "label": "Kristi Noem DHS Removal",
+      "type": "Observation",
+      "summary": "President Trump fired Homeland Security Secretary Kristi Noem following a dispute over a $200M ad campaign, naming Senator Markwayne Mullin as her replacement.",
+      "props": {
+        "content": "President Trump fired Homeland Security Secretary Kristi Noem, naming Senator Markwayne Mullin as her replacement following a public dispute over a $200M ad campaign.",
+        "observed_at": 1772755200
+      }
+    },
+    {
+      "label": "Arab FMs Emergency Meeting",
+      "type": "Observation",
+      "summary": "Arab Foreign Ministers are scheduled to hold an emergency meeting this Sunday to discuss regional instability and post-Khamenei scenarios.",
+      "props": {
+        "content": "Arab Foreign Ministers will hold an emergency meeting this Sunday. Expected focus: gaming post-Khamenei scenarios and managing regional instability.",
+        "observed_at": 1772755200
+      }
+    },
+    {
+      "label": "CMC Leadership Purge",
+      "type": "Claim",
+      "summary": "Five of six military generals on China's Central Military Commission have been removed, leaving only Xi Jinping and Zhang Shengmin.",
+      "props": {
+        "content": "Analysis confirms 5 of 6 military generals appointed by Xi to the Central Military Commission (CMC) have now been removed, leaving only discipline chief Zhang Shengmin alongside Xi.",
+        "truth_status": "confirmed"
+      }
+    },
+    {
+      "label": "Iran Regime Fall Prediction",
+      "type": "Hypothesis",
+      "summary": "Prediction that the Iranian regime will fall by June 30, 2026; market price increased to 38 cents.",
+      "props": {
+        "statement": "The Iranian regime will fall by June 30, 2026.",
+        "status": "active",
+        "hypothesis_type": "market_prediction"
+      }
+    },
+    {
+      "label": "China Taiwan Invasion Prediction",
+      "type": "Hypothesis",
+      "summary": "Prediction that China will invade Taiwan in 2027; market price remains flat at 11 cents.",
+      "props": {
+        "statement": "China will invade Taiwan in 2027.",
+        "status": "active",
+        "hypothesis_type": "market_prediction"
+      }
+    },
+    {
+      "label": "United Russia Election Prediction",
+      "type": "Hypothesis",
+      "summary": "Prediction that United Russia will win the most seats in the upcoming election; market price increased to 78 cents.",
+      "props": {
+        "statement": "United Russia will win the most seats in the election.",
+        "status": "active",
+        "hypothesis_type": "market_prediction"
+      }
+    },
+    {
+      "label": "Tim Cook Departure Prediction",
+      "type": "Hypothesis",
+      "summary": "Prediction that Tim Cook will leave Apple in 2026; market price dropped significantly to 28 cents.",
+      "props": {
+        "statement": "Tim Cook will be out as Apple CEO in 2026.",
+        "status": "active",
+        "hypothesis_type": "market_prediction"
+      }
+    },
+    {
+      "label": "CMC Command Vacuum",
+      "type": "Evidence",
+      "summary": "A 71% vacancy in the Central Military Commission command structure serves as a significant operational barrier to military action.",
+      "props": {
+        "description": "CMC command vacuum (71% vacancy) is a hard operational barrier.",
+        "evidence_type": "structural_analysis"
+      }
+    },
+    {
+      "label": "Russian Digital Suppression",
+      "type": "Observation",
+      "summary": "Pre-election suppression in Russia includes bans on WhatsApp and Telegram to solidify political control.",
+      "props": {
+        "content": "Pre-election suppression (WhatsApp/Telegram bans) solidifying control.",
+        "observed_at": 1772755200
+      }
+    },
+    {
+      "label": "IRGC-Larijani Succession Tension",
+      "type": "Claim",
+      "summary": "Tension between the IRGC and Larijani regarding succession increases the risk of chaos in Iran.",
+      "props": {
+        "content": "IRGC-Larijani succession tension increases chaos risk.",
+        "truth_status": "likely"
+      }
+    },
+    {
+      "label": "Macbook Neo Success",
+      "type": "Claim",
+      "summary": "The success of the Macbook Neo and Tim Cook's active leadership make his departure from Apple unlikely.",
+      "props": {
+        "content": "Macbook Neo success + active product leadership makes departure unlikely.",
+        "truth_status": "likely"
+      }
+    },
+    {
+      "label": "Iran",
+      "type": "Entity",
+      "summary": "Nation state currently under military strike by US/Israel forces.",
+      "props": {
+        "entity_type": "nation"
+      }
+    },
+    {
+      "label": "China",
+      "type": "Entity",
+      "summary": "Nation state experiencing significant military leadership turnover in the CMC.",
+      "props": {
+        "entity_type": "nation"
+      }
+    },
+    {
+      "label": "Russia",
+      "type": "Entity",
+      "summary": "Nation state involved in Ukraine conflict and implementing digital bans.",
+      "props": {
+        "entity_type": "nation"
+      }
+    },
+    {
+      "label": "Polymarket Trading System",
+      "type": "Entity",
+      "summary": "Prediction market platform used to track geopolitical and corporate outcomes.",
+      "props": {
+        "entity_type": "product"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "11th Wave US-Israel Strikes",
+      "to": "Iran",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Iranian Navy Status",
+      "to": "11th Wave US-Israel Strikes",
+      "type": "DERIVED_FROM"
+    },
+    {
+      "from": "Ukraine Peace Talks Postponement",
+      "to": "Iran",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Kristi Noem DHS Removal",
+      "to": "Donald Trump",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Arab FMs Emergency Meeting",
+      "to": "Iran",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "CMC Leadership Purge",
+      "to": "China",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "CMC Leadership Purge",
+      "to": "Xi Jinping",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Iran Regime Fall Prediction",
+      "to": "Polymarket Trading System",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "China Taiwan Invasion Prediction",
+      "to": "Polymarket Trading System",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "United Russia Election Prediction",
+      "to": "Polymarket Trading System",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Tim Cook Departure Prediction",
+      "to": "Polymarket Trading System",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "CMC Command Vacuum",
+      "to": "China Taiwan Invasion Prediction",
+      "type": "REFUTES"
+    },
+    {
+      "from": "Russian Digital Suppression",
+      "to": "United Russia Election Prediction",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "IRGC-Larijani Succession Tension",
+      "to": "Iran Regime Fall Prediction",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "Macbook Neo Success",
+      "to": "Tim Cook Departure Prediction",
+      "type": "REFUTES"
+    }
+  ]
+}

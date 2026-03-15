@@ -1,0 +1,10 @@
+{
+  "name": "phy041--phy-openclaw-telegram-bot",
+  "description": "Build and deploy production OpenClaw Telegram bots. Covers MEDIA protocol, allowed directories, agent behavior, Docker deployment, security (2-layer defense), and 20+ hard-won gotchas. Use when creating, debugging, or deploying any OpenClaw-based Telegram bot.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phy041"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-openclaw-telegram-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-openclaw-telegram-bot"
+}

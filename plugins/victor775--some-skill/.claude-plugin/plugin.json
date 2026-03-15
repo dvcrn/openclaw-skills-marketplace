@@ -1,0 +1,10 @@
+{
+  "name": "victor775--some-skill",
+  "description": "Search and discover AI agents via the OpenClaw (8004scan.io) API. Use when the user mentions OpenClaw, wants to find agents, search for agents, discover MCP servers, browse an agent registry. On first use, prompts for an API key and stores it securely.",
+  "version": "1.0.0",
+  "author": {
+    "name": "victor775"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/victor775/some-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/victor775/some-skill"
+}

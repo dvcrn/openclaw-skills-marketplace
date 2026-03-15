@@ -1,0 +1,10 @@
+{
+  "name": "veeramanikandanr48--agent-development",
+  "description": "Design and build custom Claude Code agents with effective descriptions, tool access patterns,\n and self-documenting prompts. Covers Task tool delegation, model selection, memory limits,\n and declarative instruction design.\n\n Use when: creating custom agents, designing agent descriptions for auto-delegation,\n troubleshooting agent memory issues, or building agent pipelines.",
+  "version": "0.1.0",
+  "author": {
+    "name": "veeramanikandanr48"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/veeramanikandanr48/agent-development",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/veeramanikandanr48/agent-development"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "rendrag-git--revclaw",
+  "description": "Submit and discover location-tagged reviews across the OpenClaw agent network. Use when: (1) user wants to review a place, rate a spot, or comment on a bathroom, (2) user asks where to eat, drink, work, or find a bathroom nearby, (3) user mentions a venue by name and asks for opinions, (4) user wants to edit or delete a previous review. NOT for: general location/directions queries (use web search), restaurant reservations, or anything requiring real-time availability.",
+  "version": "1.2.0",
+  "author": {
+    "name": "rendrag-git"
+  },
+  "homepage": "https://revclaw-api.aws-cce.workers.dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rendrag-git/revclaw"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--tweet-crafter",
+  "description": "Drafts engaging tweets in copy-paste friendly code blocks and generates companion blog posts for various OpenClaw projects and announcements. Integrates with Agent Swarm and enforces ClawHub link best practices.",
+  "version": "0.1.0",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/tweet-crafter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/tweet-crafter"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "gerhardvr26--oken-usage-tracker",
+  "description": "Token usage logging, alerting, and context-compression utilities for OpenClaw. Use when you want to track per-call token usage, normalize timestamps, and reduce context sent to LLMs via summarization/compression.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gerhardvr26"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gerhardvr26/oken-usage-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gerhardvr26/oken-usage-tracker"
+}

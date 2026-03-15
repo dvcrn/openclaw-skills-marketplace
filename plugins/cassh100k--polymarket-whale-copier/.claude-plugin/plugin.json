@@ -1,0 +1,10 @@
+{
+  "name": "cassh100k--polymarket-whale-copier",
+  "description": "Copy trade winning Polymarket wallets automatically. Track whale wallets, mirror their bets at configurable percentages, with built-in risk management. No API keys needed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cassh100k"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cassh100k/polymarket-whale-copier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cassh100k/polymarket-whale-copier"
+}

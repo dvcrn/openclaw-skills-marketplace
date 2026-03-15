@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--outlook-api",
+  "description": "Microsoft Outlook API integration with managed OAuth. Read, send, and manage emails, folders, calendar events, and contacts via Microsoft Graph. Use this skill when users want to interact with Outlook. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.3",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/outlook-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/outlook-api"
+}

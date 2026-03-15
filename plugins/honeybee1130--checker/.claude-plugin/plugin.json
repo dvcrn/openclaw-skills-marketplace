@@ -1,0 +1,10 @@
+{
+  "name": "honeybee1130--checker",
+  "description": "QA and peer review agent. Reviews output from other agents before delivery. Use when: (1) content from Scribe needs review before posting, (2) research from Scout needs validation before acting on it, (3) outreach messages need a quality check before sending, (4) any deliverable needs a second pair of eyes before it reaches Honey B or goes public. NOT for: creating content (use scribe), doing research (use scout), generating images (use pixel), doing maintenance/cleanup (use janitor). Checker REVIEWS, doesn't create. Don't use for internal drafts or brainstorming — only for pre-delivery QA. Outputs: review verdicts saved to artifacts/checker/.",
+  "version": "1.0.0",
+  "author": {
+    "name": "honeybee1130"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/honeybee1130/checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/honeybee1130/checker"
+}

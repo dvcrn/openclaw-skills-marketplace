@@ -1,0 +1,10 @@
+{
+  "name": "dotheworknow--openclaw-flomo-skill",
+  "description": "Read and write flomo memos on macOS. Use when user asks to fetch recent flomo notes, search memo text in local flomo cache, or create/write a new memo to flomo via incoming webhook or URL scheme.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dotheworknow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dotheworknow/openclaw-flomo-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dotheworknow/openclaw-flomo-skill"
+}

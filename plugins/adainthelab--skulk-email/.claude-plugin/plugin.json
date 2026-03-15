@@ -1,0 +1,10 @@
+{
+  "name": "adainthelab--skulk-email",
+  "description": "Email via DreamHost — read inbox, send email, search messages. Send works from any VPS (including DigitalOcean) by routing through DreamHost's Roundcube webmail over HTTPS, bypassing SMTP port blocks. Optionally read a shared Gmail inbox via IMAP. Use when: sending email, checking inbox, reading messages, or setting up email for an agent. Dependencies: python3, curl, jq (must be installed on the host). Credentials: DreamHost mailbox email+password stored at ~/.config/skulk-email/credentials.json (user must create this file manually before use; see Setup). No third-party services or API keys needed.",
+  "version": "1.0.2",
+  "author": {
+    "name": "adainthelab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adainthelab/skulk-email",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adainthelab/skulk-email"
+}

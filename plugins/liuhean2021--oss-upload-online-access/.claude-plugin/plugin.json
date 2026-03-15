@@ -1,0 +1,10 @@
+{
+  "name": "liuhean2021--oss-upload-online-access",
+  "description": "Upload files to Aliyun OSS or Tencent COS and return public access URLs. Use when the user wants to upload files, access files online, upload to OSS, get remote file links, or any phrase implying \"upload for online/remote access\".",
+  "version": "1.6.0",
+  "author": {
+    "name": "liuhean2021"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/liuhean2021/oss-upload-online-access",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/liuhean2021/oss-upload-online-access"
+}

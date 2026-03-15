@@ -1,0 +1,10 @@
+{
+  "name": "8421bit--wechat-article-reader",
+  "description": "将微信公众号文章导出为 Markdown 格式。当用户提供微信公众号链接 (mp.weixin.qq.com) 或要求下载/导出/保存微信文章时触发。默认保存到工作空间的 source 目录。",
+  "version": "1.0.0",
+  "author": {
+    "name": "8421bit"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/8421bit/wechat-article-reader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/8421bit/wechat-article-reader"
+}

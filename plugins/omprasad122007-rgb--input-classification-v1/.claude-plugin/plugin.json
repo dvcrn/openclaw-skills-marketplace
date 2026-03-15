@@ -1,0 +1,10 @@
+{
+  "name": "omprasad122007-rgb--input-classification-v1",
+  "description": "Deterministic rule-based system for classifying clarified input into a single primary task category and assigning execution complexity. Use when the Main Agent needs to categorize user requests before task decomposition, route tasks to appropriate handlers, assess complexity and risk levels, or determine if clarification is needed. Triggers after clarification is complete and before decomposition begins.",
+  "version": "1.0.0",
+  "author": {
+    "name": "omprasad122007-rgb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/omprasad122007-rgb/input-classification-v1",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/omprasad122007-rgb/input-classification-v1"
+}

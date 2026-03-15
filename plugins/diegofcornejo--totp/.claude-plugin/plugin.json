@@ -1,0 +1,10 @@
+{
+  "name": "diegofcornejo--totp",
+  "description": "TOTP-based OTP verification for sensitive operations (env vars, gateway restarts, backup deletions, critical config changes). Uses otplib with window:2 (1 minute tolerance).",
+  "version": "1.0.2",
+  "author": {
+    "name": "diegofcornejo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/diegofcornejo/totp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/diegofcornejo/totp"
+}

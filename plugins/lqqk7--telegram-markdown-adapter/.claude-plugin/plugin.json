@@ -1,0 +1,10 @@
+{
+  "name": "lqqk7--telegram-markdown-adapter",
+  "description": "Adapt markdown-style replies into Telegram-friendly rich text without broken rendering. Use when the user prefers Markdown structure but the destination is Telegram, or when drafts contain headings, tables, nested lists, code fences, checklists, or other Markdown that Telegram will render poorly. Trigger for Telegram reply formatting, Telegram-friendly rewriting, converting Markdown to Telegram-safe output, or preserving Markdown clarity while avoiding raw Markdown artifacts. 将 Markdown 风格回复转换为 Telegram 友好的富文本格式，避免标题、表格、嵌套列表、代码块、任务列表等在 Telegram 中渲染异常。适用于用户偏好 Markdown 结构、但目标渠道是 Telegram，或需要把 Markdown 味道保留下来同时避免原始语法外露的场景。",
+  "version": "0.1.1",
+  "author": {
+    "name": "lqqk7"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lqqk7/telegram-markdown-adapter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lqqk7/telegram-markdown-adapter"
+}

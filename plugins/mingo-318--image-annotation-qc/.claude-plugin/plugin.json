@@ -1,0 +1,10 @@
+{
+  "name": "mingo-318--image-annotation-qc",
+  "description": "Image Annotation Quality Control Tool - Automatically detect quality issues in bounding box and polygon segmentation annotations, generate visual reports. Supports COCO/YOLO/VOC/LabelMe formats, suitable for autonomous driving, industrial inspection, security monitoring and other AI training data quality control scenarios.",
+  "version": "1.0.7",
+  "author": {
+    "name": "mingo-318"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mingo-318/image-annotation-qc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mingo-318/image-annotation-qc"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "otacu--zerox",
+  "description": "Convert documents (PDF, DOCX, PPTX, images, etc.) to Markdown using the zerox library. Use when the user needs to extract text content from document files.",
+  "version": "0.1.0",
+  "author": {
+    "name": "otacu"
+  },
+  "homepage": "https://github.com/getomni-ai/zerox",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/otacu/zerox"
+}

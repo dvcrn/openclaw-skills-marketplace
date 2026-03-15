@@ -1,0 +1,10 @@
+{
+  "name": "crossservicesolutions--remove-password-from-pdf",
+  "description": "Remove password protection from a PDF by uploading it (with its current password) to the Solutions API, polling until completion, then returning a download URL for the unlocked PDF.",
+  "version": "1.0.0",
+  "author": {
+    "name": "crossservicesolutions"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crossservicesolutions/remove-password-from-pdf",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crossservicesolutions/remove-password-from-pdf"
+}

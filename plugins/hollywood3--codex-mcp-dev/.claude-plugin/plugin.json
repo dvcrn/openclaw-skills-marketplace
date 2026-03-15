@@ -1,0 +1,10 @@
+{
+  "name": "hollywood3--codex-mcp-dev",
+  "description": "Use the local Codex CLI through mcporter and codex-mcp-server for real coding work in the current project. Use when the user asks to build features, fix bugs, refactor code, debug failures, write or update tests, review implementation options, or otherwise delegate non-trivial development work to the machine-local Codex installation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hollywood3"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hollywood3/codex-mcp-dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hollywood3/codex-mcp-dev"
+}

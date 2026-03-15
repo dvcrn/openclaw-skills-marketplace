@@ -1,0 +1,4 @@
+interface:
+  display_name: "八字每日运势 / Bazi Daily"
+  short_description: "基于四柱与当日流运，按“渊海定结构→穷通调候→滴天释理”输出宜忌；supports Chinese and English language-aware responses."
+  default_prompt: "请根据我的四柱和今日流年流月流日，按“渊海子平→穷通宝鉴→滴天髓”给出结论、依据与宜忌；if I ask in English, respond in English with the same B->C->A logic and structure."

@@ -1,0 +1,10 @@
+{
+  "name": "npfaerber--conversation-archiver",
+  "description": "Archive completed conversations and projects. Use on project completion, resolved threads, or when asked to archive a conversation. Writes structured summaries to files and optionally posts to a Discord channel.",
+  "version": "1.0.0",
+  "author": {
+    "name": "npfaerber"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/npfaerber/conversation-archiver",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/npfaerber/conversation-archiver"
+}

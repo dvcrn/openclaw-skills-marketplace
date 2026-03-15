@@ -1,0 +1,10 @@
+{
+  "name": "tdavis009--date-night",
+  "description": "Your AI date night concierge — plans, books, and coordinates an entire evening out through browser automation. Say \"plan a date night\" and it handles everything: restaurant reservations (OpenTable, Resy), movie tickets (Fandango, Megaplex, AMC), event tickets with price comparison (SeatGeek, Ticketmaster, StubHub), weather checks, drive-time estimates, budget totals, calendar events, and partner notifications. Configurable dietary preferences, childcare reminders, favorite theaters, and babysitter-rate budgeting. First run walks through a friendly onboarding — after that, just tell it what kind of night you want. Triggers: date night, dinner reservation, book a table, OpenTable, Resy, find restaurants, movie tickets, what's playing, concert tickets, sports tickets, events near me, dinner and a movie, plan a date, date ideas, cancel reservation, modify reservation, reconfigure date night preferences.",
+  "version": "1.4.0",
+  "author": {
+    "name": "tdavis009"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tdavis009/date-night",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tdavis009/date-night"
+}

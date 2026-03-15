@@ -1,0 +1,10 @@
+{
+  "name": "sdsdsdff--openclaw-model-card",
+  "description": "Generate OpenClaw model inventory and model-card images from openclaw.json. Use when asked to list all configured models, verify default/fallback chains, or render/share a visual model card screenshot.",
+  "version": "0.1.0",
+  "author": {
+    "name": "sdsdsdff"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sdsdsdff/openclaw-model-card",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sdsdsdff/openclaw-model-card"
+}

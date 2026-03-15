@@ -1,0 +1,10 @@
+{
+  "name": "elvismusli--openclaw-aicfo-agent",
+  "description": "Use when OpenClaw needs to access AICFO through one bearer API key. Covers agent-session introspection, company selection, app-level MCP usage, connector actions, Company-DB entity/file reads, and the local `bin/openclaw-aicfo-adapter.mjs` bridge.",
+  "version": "0.1.2",
+  "author": {
+    "name": "elvismusli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/elvismusli/openclaw-aicfo-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/elvismusli/openclaw-aicfo-agent"
+}

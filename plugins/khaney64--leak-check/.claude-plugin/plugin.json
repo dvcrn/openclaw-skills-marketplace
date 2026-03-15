@@ -1,0 +1,10 @@
+{
+  "name": "khaney64--leak-check",
+  "description": "Scan session logs for leaked credentials. Checks JSONL session files against known credential patterns and reports which AI provider received the data.",
+  "version": "0.1.7",
+  "author": {
+    "name": "khaney64"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/khaney64/leak-check",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/khaney64/leak-check"
+}

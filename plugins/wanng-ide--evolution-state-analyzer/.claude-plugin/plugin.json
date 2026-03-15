@@ -1,0 +1,10 @@
+{
+  "name": "wanng-ide--evolution-state-analyzer",
+  "description": "Analyzes the evolution memory graph for stagnation patterns, recurring failures, and success plateaus. Generates actionable insights to guide future evolution cycles.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wanng-ide"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/evolution-state-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/evolution-state-analyzer"
+}

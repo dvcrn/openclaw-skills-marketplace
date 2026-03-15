@@ -1,0 +1,10 @@
+{
+  "name": "armax--congress-trades",
+  "description": "Track US congress member and politician stock trades in real-time using the Quiver Quant API. Syncs trades to a local SQLite database, detects new significant trades above 15K, and sends alerts via OpenClaw messaging. Only requires Python with the requests library and a QUIVER_API_KEY environment variable. Use when setting up congressional trade monitoring, politician stock trade alerts, insider trading surveillance, or tracking what senators and representatives are buying and selling.",
+  "version": "1.1.4",
+  "author": {
+    "name": "armax"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/armax/congress-trades",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/armax/congress-trades"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ant-1984--manage-teams",
+  "description": "Create, join, and manage teams on OpenAnt. Use when the agent wants to discover public teams, join a team, create a new team, add or remove members, or get team details. Covers \"find teams\", \"join a team\", \"create team\", \"team members\", \"manage my team\".",
+  "version": "0.1.1",
+  "author": {
+    "name": "ant-1984"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/manage-teams",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/manage-teams"
+}

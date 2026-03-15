@@ -1,0 +1,10 @@
+{
+  "name": "sfkiwi--local-vosk",
+  "description": "Local speech-to-text using Vosk. Lightweight, fast, fully offline. Perfect for transcribing Telegram voice messages, audio files, or any speech-to-text task without cloud APIs.",
+  "version": "1.0.1",
+  "author": {
+    "name": "sfkiwi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sfkiwi/local-vosk",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sfkiwi/local-vosk"
+}

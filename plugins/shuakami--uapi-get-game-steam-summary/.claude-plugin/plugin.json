@@ -1,0 +1,10 @@
+{
+  "name": "shuakami--uapi-get-game-steam-summary",
+  "description": "使用 UAPI 的“查询 Steam 用户”单接口 skill，处理 查询 Steam 用户、Steam资料、Steam主页、Steam玩家、Steam用户信息 等请求。 Use when the user wants get game steam summary, game steam summary, summary, steam user, steam profile, steam account lookup, or when you need to call GET /game/steam/summary directly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shuakami"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-game-steam-summary",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-game-steam-summary"
+}

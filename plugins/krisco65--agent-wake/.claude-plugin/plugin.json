@@ -1,0 +1,10 @@
+{
+  "name": "krisco65--agent-wake",
+  "description": "Wake an OpenClaw agent session from an external script or process. Use when a background task (Claude Code CLI, cron job, webhook, price alert, or any script) finishes and you want the agent to automatically receive a notification and respond in the correct Discord channel without manual prompting. Solves the problem of agents not knowing when async work completes.",
+  "version": "1.0.1",
+  "author": {
+    "name": "krisco65"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/krisco65/agent-wake",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/krisco65/agent-wake"
+}

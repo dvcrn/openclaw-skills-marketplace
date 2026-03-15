@@ -1,0 +1,10 @@
+{
+  "name": "paperbuddha--confidence-scoring",
+  "description": "Gatekeeper skill that enforces confidence scoring rules before any entity link is written to DB2, preventing bad matches from poisoning the dataset.",
+  "version": "1.0.0",
+  "author": {
+    "name": "paperbuddha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/paperbuddha/confidence-scoring",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paperbuddha/confidence-scoring"
+}

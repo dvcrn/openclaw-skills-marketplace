@@ -1,0 +1,10 @@
+{
+  "name": "sunshine-del-ux--new-agent-task-tracker",
+  "description": "Proactive task state management. Use on EVERY task start, progress update, completion, or failure. Tracks what was requested, what's running (background processes, SSH sessions), what's done, and what's next. Survives session resets. Triggers automatically — not user-invoked.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sunshine-del-ux"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunshine-del-ux/new-agent-task-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunshine-del-ux/new-agent-task-tracker"
+}

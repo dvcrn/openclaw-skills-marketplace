@@ -1,0 +1,10 @@
+{
+  "name": "nicodlz--clawdship",
+  "description": "Deploy websites and apps to clawdship.dev with zero signup. Use when user says \"deploy\", \"host\", \"put this online\", \"publish site\", \"ship it\", or wants to deploy a static site, Docker app, or any web project. Supports static sites and Dockerfile-based apps. No account needed — first deploy auto-creates everything.",
+  "version": "1.0.1",
+  "author": {
+    "name": "nicodlz"
+  },
+  "homepage": "https://clawdship.dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nicodlz/clawdship"
+}

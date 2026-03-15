@@ -1,0 +1,10 @@
+{
+  "name": "crypticdriver--soul-transfer",
+  "description": "Backup and restore an OpenClaw agent's full workspace (memory, config, credentials, skills, cron jobs) to/from a Git repository. Use when: migrating to a new instance, disaster recovery, setting up a fresh machine, the user says 'backup', 'restore', 'migrate', 'transfer', '夺舍', '还魂', or 'soul transfer'. Also use for periodic backup setup and backup verification.",
+  "version": "1.1.0",
+  "author": {
+    "name": "crypticdriver"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crypticdriver/soul-transfer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crypticdriver/soul-transfer"
+}

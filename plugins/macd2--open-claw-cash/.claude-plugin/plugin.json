@@ -1,0 +1,10 @@
+{
+  "name": "macd2--open-claw-cash",
+  "description": "OpenclawCash crypto wallet API for AI agents. Use when an agent needs to send native or token transfers, check balances, list wallets, or interact with EVM and Solana wallets programmatically via OpenclawCash.",
+  "version": "1.12.0",
+  "author": {
+    "name": "macd2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/macd2/open-claw-cash",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/macd2/open-claw-cash"
+}

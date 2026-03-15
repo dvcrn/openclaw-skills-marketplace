@@ -1,0 +1,10 @@
+{
+  "name": "peti0402--okx-competition",
+  "description": "5 AI trading agents compete live on OKX Demo (real prices). Evolutionary tournament — losers get replaced daily. Exchange-level stop-losses protect capital. Full autonomous trading system: strategy backtesting, agent evolution, cron automation. Use for: algorithmic trading research, paper trading, building toward live trading. Supports OKX Demo and Live modes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "peti0402"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/peti0402/okx-competition",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/peti0402/okx-competition"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "esign-cn-open-source--esign-automation",
+  "description": "Automate contract signing, esign, and signature workflows by calling the eSignGlobal CLI tool. The eSignGlobal CLI is agent-friendly, with JSON output by default, making eSignGlobal signing operations easy to parse and chain.",
+  "version": "1.5.5",
+  "author": {
+    "name": "esign-cn-open-source"
+  },
+  "homepage": "https://github.com/esign-cn-open-source/skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/esign-cn-open-source/esign-automation"
+}

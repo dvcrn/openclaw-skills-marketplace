@@ -1,0 +1,69 @@
+{
+  "name": "midos-memory-cascade",
+  "version": "1.0.2",
+  "description": "5-tier self-tuning memory system for AI agents. Tiered routing from cache to vector search, with automatic shortcut learning.",
+  "created_at": "2026-03-04",
+  "updated_at": "2026-03-04",
+  "published": false,
+  "clawhub_url": "",
+  "source_tools": [
+    "tools/memory_cascade.py",
+    "tools/memory_router.py",
+    "hooks/memory_protocol.py",
+    "hooks/memory_feedback.py"
+  ],
+  "competitors": [
+    {
+      "slug": "elite-longterm-memory",
+      "author": "NextFrontierBuilds",
+      "downloads": 20400,
+      "weakness": "6 manual layers, no self-tune, requires OpenAI key"
+    },
+    {
+      "slug": "byterover",
+      "author": "byteroverinc",
+      "downloads": 24000,
+      "weakness": "CLI-only, external npm dep, sends data to LLM provider"
+    },
+    {
+      "slug": "proactive-agent",
+      "author": "halthelobster",
+      "downloads": 53700,
+      "weakness": "Memory is a side feature, not the core. Manual SESSION-STATE.md"
+    }
+  ],
+  "unique_features": [
+    "5-tier automatic routing (T0 cache → T1 JSON → T2 SQLite → T3 LanceDB → T4 Grep)",
+    "Self-tuning via usage feedback (evolve learns query→tier shortcuts)",
+    "No external dependencies or API keys required for core tiers",
+    "Feedback hook tracks every memory access for optimization",
+    "Cascade fallback ensures answers even when higher tiers miss"
+  ],
+  "backlog_id": "BL-250",
+  "releases": [
+    {
+      "version": "1.0.2",
+      "date": "2026-03-04",
+      "bump": "patch",
+      "message": "Initial release — 5-tier memory cascade"
+    },
+    {
+      "version": "1.0.1",
+      "date": "2026-03-04",
+      "bump": "patch",
+      "message": "patch bump"
+    },
+    {
+      "version": "1.0.0",
+      "date": "2026-03-04",
+      "bump": "major",
+      "message": "Initial release"
+    }
+  ],
+  "metrics": {
+    "downloads": 0,
+    "installs": 0,
+    "stars": 0,
+    "last_checked": ""
+  }
+}

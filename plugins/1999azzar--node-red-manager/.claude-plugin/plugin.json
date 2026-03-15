@@ -1,0 +1,10 @@
+{
+  "name": "1999azzar--node-red-manager",
+  "description": "Manage Node-RED instances via Admin API or CLI. Automate flow deployment, install nodes, and troubleshoot issues. Use when user wants to \"build automation\", \"connect devices\", or \"fix node-red\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "1999azzar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/1999azzar/node-red-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/1999azzar/node-red-manager"
+}

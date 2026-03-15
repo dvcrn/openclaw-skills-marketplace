@@ -1,0 +1,10 @@
+{
+  "name": "xanxustan--ai-screener",
+  "description": "Intellectia stock/crypto screener for Bullish/Bearish Tomorrow/Week/Month presets. Calls /gateway/v1/stock/screener-list (no auth) and summarizes results.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xanxustan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xanxustan/ai-screener",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xanxustan/ai-screener"
+}

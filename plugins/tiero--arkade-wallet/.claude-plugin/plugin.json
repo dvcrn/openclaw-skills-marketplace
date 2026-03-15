@@ -1,0 +1,10 @@
+{
+  "name": "tiero--arkade-wallet",
+  "description": "Send and receive Bitcoin over Arkade (offchain), onchain (via onboard/offboard), and Lightning. Swap USDC/USDT stablecoins.",
+  "version": "1.0.2",
+  "author": {
+    "name": "tiero"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tiero/arkade-wallet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tiero/arkade-wallet"
+}

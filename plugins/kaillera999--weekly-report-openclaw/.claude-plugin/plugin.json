@@ -1,0 +1,10 @@
+{
+  "name": "kaillera999--weekly-report-openclaw",
+  "description": "自动化工作周报生成系统。支持自动登录周报系统、获取团队周报数据、使用 AI 进行内容提炼总结、生成格式化的 Word 文档。\n 触发场景：(1) 用户要求生成周报 (2) 用户询问本周/上周工作总结 (3) 用户提到\"周报\"、\"weekly report\"、\"工作总结\"\n (4) 用户需要汇总团队成员工作内容",
+  "version": "1.0.0",
+  "author": {
+    "name": "kaillera999"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kaillera999/weekly-report-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kaillera999/weekly-report-openclaw"
+}

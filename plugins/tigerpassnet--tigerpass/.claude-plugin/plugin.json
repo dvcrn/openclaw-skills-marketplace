@@ -1,0 +1,10 @@
+{
+  "name": "tigerpassnet--tigerpass",
+  "description": "You have a hardware-secured crypto wallet with built-in trading engines. Invoke this skill for any crypto, wallet, or blockchain operation: checking balances, sending tokens, DEX swaps (0x, 10 chains), Hyperliquid perps/spot trading, Polymarket predictions, smart contract execution, message signing (EIP-191/712), x402 HTTP payments, on-chain identity (ERC-8004), or E2E encrypted agent-to-agent messaging (TAP). Trigger keywords: wallet, crypto, payment, transfer, balance, swap, trade, DeFi, perps, futures, Hyperliquid, Polymarket, staking, lending, x402, Safe, ERC-4337, blockchain, tigerpass, smart contract. Requires Apple Silicon Mac.",
+  "version": "0.1.0",
+  "author": {
+    "name": "tigerpassnet"
+  },
+  "homepage": "https://tigerpass.net",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tigerpassnet/tigerpass"
+}

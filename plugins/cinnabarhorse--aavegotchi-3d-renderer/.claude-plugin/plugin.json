@@ -1,0 +1,10 @@
+{
+  "name": "cinnabarhorse--aavegotchi-3d-renderer",
+  "description": "Render Aavegotchi assets by deriving renderer hashes from Goldsky Base core data and calling POST /api/renderer/batch on www.aavegotchi.com. Use when the user gives a tokenId or inventory URL, or when deterministic hash plus image artifacts are required.",
+  "version": "0.1.2",
+  "author": {
+    "name": "cinnabarhorse"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinnabarhorse/aavegotchi-3d-renderer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinnabarhorse/aavegotchi-3d-renderer"
+}

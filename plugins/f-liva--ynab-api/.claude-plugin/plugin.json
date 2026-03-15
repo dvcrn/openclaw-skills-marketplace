@@ -1,0 +1,10 @@
+{
+  "name": "f-liva--ynab-api",
+  "description": "YNAB (You Need A Budget) budget management via API. Add transactions, track goals, monitor spending, create transfers, and generate budget reports. Use this skill whenever the user mentions YNAB, budget tracking, spending analysis, budget goals, Age of Money, or wants to manage their personal finances -- even if they just say 'add an expense', 'how much did I spend', 'check my budget', or 'upcoming bills' without naming YNAB explicitly. Also use for automated budget reports and financial summaries.",
+  "version": "2.3.0",
+  "author": {
+    "name": "f-liva"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/f-liva/ynab-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/f-liva/ynab-api"
+}

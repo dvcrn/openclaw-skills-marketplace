@@ -1,0 +1,10 @@
+{
+  "name": "eplt--perplexica-search-local",
+  "description": "AI-powered search using your local Perplexica instance. Runs deep research (quality mode) with web search and LLM reasoning; returns answers with cited sources in OpenClaw while keeping search/RAG state in Perplexica. Use when the user asks to \"search with Perplexica\", \"ask Perplexica\", \"deep search\", \"research with sources\", or wants AI search with citations. Local-only; no data exfiltration.",
+  "version": "1.0.3",
+  "author": {
+    "name": "eplt"
+  },
+  "homepage": "https://github.com/eplt/perplexica-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eplt/perplexica-search-local"
+}

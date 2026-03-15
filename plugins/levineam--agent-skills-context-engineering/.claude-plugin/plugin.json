@@ -1,0 +1,10 @@
+{
+  "name": "levineam--agent-skills-context-engineering",
+  "description": "OpenClaw wrapper for Muratcan Koylan's Agent Skills for Context Engineering. 13 skills covering context optimization, multi-agent patterns, memory systems, tool design, and evaluation frameworks for production AI agents. Auto-read triggers proactively load the right sub-skill during normal operation (compaction, multi-agent spawns, failure recovery, tool building, memory setup).",
+  "version": "1.2.0",
+  "author": {
+    "name": "levineam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/levineam/agent-skills-context-engineering",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/levineam/agent-skills-context-engineering"
+}

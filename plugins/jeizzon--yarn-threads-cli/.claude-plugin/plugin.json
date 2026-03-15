@@ -1,0 +1,10 @@
+{
+  "name": "jeizzon--yarn-threads-cli",
+  "description": "Interact with Threads (by Meta) via the yarn-threads-cli. Use when the user wants to read their home feed, likes, saved posts, or a specific thread; look up a profile; search users; or post, reply, or quote on Threads. Requires yarn-threads-cli installed (npm install -g yarn-threads-cli). Auth via Chrome/Firefox profile (the user just needs to be logged in) or manual session tokens.",
+  "version": "0.1.3",
+  "author": {
+    "name": "jeizzon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jeizzon/yarn-threads-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeizzon/yarn-threads-cli"
+}

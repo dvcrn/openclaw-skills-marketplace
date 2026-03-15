@@ -1,0 +1,10 @@
+{
+  "name": "agisearch--converter",
+  "description": "A local-first conversion router and format strategist. Identifies the safest local path for document, image, audio, video, archive, and data transformations. Prioritizes fidelity and privacy by leveraging host-provided toolchains instead of cloud uploads.",
+  "version": "2.0.0",
+  "author": {
+    "name": "agisearch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agisearch/converter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agisearch/converter"
+}

@@ -1,0 +1,37 @@
+---
+name: yt-dlp-pro
+version: 1.0.0
+description: YouTube video search, download, subtitles & audio extraction. 40 Stars! Full yt-dlp wrapper. Each call charges 0.001 USDT via SkillPay.
+category: Media
+tags:
+  - youtube
+  - download
+  - video
+  - subtitles
+  - audio
+  - mp3
+  - yt-dlp
+  - media
+  - 下载视频
+  - YouTube下载
+  - 提取字幕
+author: moson
+price: 0.001
+currency: USDT
+triggers:
+  - "youtube download"
+  - "youtube search"
+  - "download video"
+  - "extract audio"
+  - "get subtitles"
+  - "下载视频"
+  - "YouTube下载"
+  - "提取音频"
+  - "字幕下载"
+  - "yt-dlp"
+  - "video to mp3"
+config:
+  SKILLPAY_API_KEY:
+    type: string
+    required: true
+    secret: true

@@ -1,0 +1,10 @@
+{
+  "name": "hsuyungfeng--changelog-generator-pro",
+  "description": "Automatically creates user-facing changelogs from git commits by analyzing commit history, categorizing changes, and transforming technical commits into clear, customer-friendly release notes. Turns hours of manual changelog writing into minutes of automated generation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hsuyungfeng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hsuyungfeng/changelog-generator-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hsuyungfeng/changelog-generator-pro"
+}

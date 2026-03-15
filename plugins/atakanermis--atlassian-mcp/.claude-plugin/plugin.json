@@ -1,0 +1,10 @@
+{
+  "name": "atakanermis--atlassian-mcp",
+  "description": "Run the Model Context Protocol (MCP) Atlassian server in Docker, enabling integration with Jira, Confluence, and other Atlassian products. Use when you need to query Jira issues, search Confluence, or interact with Atlassian services programmatically. Requires Docker and valid Jira API credentials.",
+  "version": "1.0.0",
+  "author": {
+    "name": "atakanermis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/atakanermis/atlassian-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/atakanermis/atlassian-mcp"
+}

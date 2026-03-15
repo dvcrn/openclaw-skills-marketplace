@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--google-search-console",
+  "description": "Google Search Console API integration with managed OAuth. Query search analytics, manage sitemaps, and monitor site performance. Use this skill when users want to access Search Console data. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.5",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/google-search-console",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/google-search-console"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "tkuehnl--swarm-self-heal",
+  "description": "Swarm reliability watchdog for OpenClaw — validates gateway/channel and every lane, performs bounded recovery, and emits auditable receipts.",
+  "version": "0.1.1",
+  "author": {
+    "name": "tkuehnl"
+  },
+  "homepage": "https://github.com/cacheforge-ai/cacheforge-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tkuehnl/swarm-self-heal"
+}

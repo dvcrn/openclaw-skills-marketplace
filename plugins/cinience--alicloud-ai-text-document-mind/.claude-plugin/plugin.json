@@ -1,0 +1,10 @@
+{
+  "name": "cinience--alicloud-ai-text-document-mind",
+  "description": "Use Document Mind (DocMind) via Node.js SDK to submit document parsing jobs and poll results. Designed for Claude Code/Codex document understanding workflows.",
+  "version": "1.0.2",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-ai-text-document-mind",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-ai-text-document-mind"
+}

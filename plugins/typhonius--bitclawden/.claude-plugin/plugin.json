@@ -1,0 +1,10 @@
+{
+  "name": "typhonius--bitclawden",
+  "description": "Look up, create, and edit credentials in Bitwarden vault via the bw CLI. Use when asked to store, retrieve, find, or manage passwords, secrets, or credentials.",
+  "version": "1.0.1",
+  "author": {
+    "name": "typhonius"
+  },
+  "homepage": "https://bitwarden.com/help/cli/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/typhonius/bitclawden"
+}

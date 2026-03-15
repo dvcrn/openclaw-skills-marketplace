@@ -1,0 +1,10 @@
+{
+  "name": "caoqi--x-brand-operator",
+  "description": "Automate X/Twitter brand account operations using OpenClaw native tools (xurl + browser fallback + cron). Use when setting up or managing automated posting, keyword engagement, weekly reporting, or Substack content generation for a brand account. Triggers on: \"set up X posting for [brand]\", \"automate my Twitter account\", \"schedule tweets\", \"keyword engagement on X\", \"brand social media automation\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "caoqi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/caoqi/x-brand-operator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/caoqi/x-brand-operator"
+}

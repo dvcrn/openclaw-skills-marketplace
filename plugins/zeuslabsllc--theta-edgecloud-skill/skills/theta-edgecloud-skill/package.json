@@ -1,0 +1,17 @@
+{
+  "name": "theta-edgecloud-skill",
+  "version": "0.1.20",
+  "private": true,
+  "description": "Wirework scaffold for Theta EdgeCloud integration",
+  "type": "module",
+  "scripts": {
+    "build": "node -e \"console.log('dist-only release (build step omitted)')\"",
+    "check": "node -e \"console.log('dist-only release (typecheck omitted)')\"",
+    "test": "node -e \"console.log('dist-only release (tests omitted)')\""
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "@types/node": "^22.10.2"
+  },
+  "homepage": "https://clawhub.ai/zeuslabsllc/theta-edgecloud-skill"
+}

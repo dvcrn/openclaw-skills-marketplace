@@ -1,0 +1,10 @@
+{
+  "name": "sendwealth--nano-agentguard",
+  "description": "Agent Identity & Permission Guardian - Trust middleware for credential management, permission scopes, human approval workflows, and audit trails. Use when AI agents need secure credential storage, permission boundaries, or human oversight for dangerous operations.",
+  "version": "0.4.0",
+  "author": {
+    "name": "sendwealth"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sendwealth/nano-agentguard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sendwealth/nano-agentguard"
+}

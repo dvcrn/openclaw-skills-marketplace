@@ -1,0 +1,10 @@
+{
+  "name": "xeric7--douban-self-taste-skill",
+  "description": "Collect, refresh, normalize, and analyze the user's own Douban history for taste analysis and recommendation reasoning. Use when the task involves the user's own Douban shelves, ratings, tags, comments, reviews, or recent activity, especially when you need to decide whether local cache is fresh enough, re-crawl logged-in data with cookies, store refreshed results locally, and then analyze them by category.",
+  "version": "0.1.2",
+  "author": {
+    "name": "xeric7"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xeric7/douban-self-taste-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xeric7/douban-self-taste-skill"
+}

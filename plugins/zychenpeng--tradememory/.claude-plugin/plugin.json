@@ -1,0 +1,10 @@
+{
+  "name": "zychenpeng--tradememory",
+  "description": "AI trading memory for MT5/forex traders. Record every trade, discover patterns, and get AI-powered reflections with automatic strategy adjustments. The only trading memory system with 3-layer architecture (raw trades -> patterns -> strategy).",
+  "version": "0.3.2",
+  "author": {
+    "name": "zychenpeng"
+  },
+  "homepage": "https://github.com/mnemox-ai/tradememory-protocol",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zychenpeng/tradememory"
+}

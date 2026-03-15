@@ -1,0 +1,10 @@
+{
+  "name": "digisal--youtrack-digisal",
+  "description": "Interact with YouTrack project management system via REST API. Read projects and issues, create tasks, generate invoices from time tracking data, and manage knowledge base articles. Use for reading projects and work items, creating or updating issues, generating client invoices from time tracking, and working with knowledge base articles.",
+  "version": "1.0.1",
+  "author": {
+    "name": "digisal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/digisal/youtrack-digisal",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/digisal/youtrack-digisal"
+}

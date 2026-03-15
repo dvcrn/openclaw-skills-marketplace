@@ -1,0 +1,10 @@
+{
+  "name": "charantejmandali18--voice-assistant",
+  "description": "Real-time voice assistant for OpenClaw. Streams mic audio through configurable STT (Deepgram or ElevenLabs) into your OpenClaw agent, then speaks the response via configurable TTS (Deepgram Aura or ElevenLabs). Sub-2s time-to-first-audio with full streaming at every stage.",
+  "version": "0.1.0",
+  "author": {
+    "name": "charantejmandali18"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/charantejmandali18/voice-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/charantejmandali18/voice-assistant"
+}

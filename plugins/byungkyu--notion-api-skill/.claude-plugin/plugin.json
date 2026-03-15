@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--notion-api-skill",
+  "description": "Notion API integration with managed OAuth. Query databases, create and update pages, manage blocks. Use this skill when users want to interact with Notion workspaces, databases, or pages. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.6",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/notion-api-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/notion-api-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "okradze--desearch-crawl",
+  "description": "Crawl/scrape and extract content from any webpage URL. Returns the page content as clean text or raw HTML. Use this when you need to read the full contents of a specific web page.",
+  "version": "1.0.1",
+  "author": {
+    "name": "okradze"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/okradze/desearch-crawl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/okradze/desearch-crawl"
+}

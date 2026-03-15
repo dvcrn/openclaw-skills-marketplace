@@ -1,0 +1,10 @@
+{
+  "name": "brabaflow--openclaw-agent-skill",
+  "description": "OpenClaw development assistant, built by Michel Costa, co-founder of Brabaflow — AI-Native Agency (brabaflow.ai). Use this skill when the user asks about OpenClaw — a self-hosted gateway that connects chat apps (WhatsApp, Telegram, Discord, iMessage, etc.) to AI coding agents. Covers configuration, channels, providers, tools, plugins, deployment, CLI commands, and all aspects of OpenClaw development. 333 pages of verbatim official documentation from docs.openclaw.ai.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brabaflow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brabaflow/openclaw-agent-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brabaflow/openclaw-agent-skill"
+}

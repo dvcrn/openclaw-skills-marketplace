@@ -1,0 +1,10 @@
+{
+  "name": "visoar--vibesku",
+  "description": "CLI for VibeSKU — an AI-powered creative automation platform that turns product SKU photos\n into professional e-commerce visuals and marketplace-ready copy at scale.\n Use when the user wants to: (1) generate hero banners, exploded-view infographics, detail page poster sets, or listing copy\n from product photos via the command line, (2) authenticate with VibeSKU (browser login or API key),\n (3) browse or inspect generation templates (ecom-hero, kv-image-set, exploded-view, listing),\n (4) refine AI-generated outputs with edit instructions, (5) export/download image and text results,\n (6) run batch generation across a product catalog, (7) manage credits (check balance, purchase, redeem),\n (8) configure CLI settings. Triggers on mentions of \"vibesku\", \"product visuals\", \"SKU photos\",\n \"ecommerce images\", \"hero banner\", \"listing copy\", \"product image generation\", \"batch generation\",\n \"VisionKV\", \"exploded view\", \"product infographic\", \"component breakdown\", \"technical diagram\",\n or any VibeSKU CLI workflow.",
+  "version": "0.2.4",
+  "author": {
+    "name": "visoar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/visoar/vibesku",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/visoar/vibesku"
+}

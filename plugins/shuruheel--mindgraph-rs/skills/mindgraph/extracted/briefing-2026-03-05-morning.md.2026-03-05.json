@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "source_path": "/home/node/.openclaw/workspace/memory/geopolitics/briefing-2026-03-05-morning.md",
+    "extracted_at": "2026-03-05T14:01:57.534Z",
+    "model": "google/gemini-3-flash-preview",
+    "summarized": false,
+    "file_hash": "b3220fde33eeacfb",
+    "file_size": 2258,
+    "node_count": 13,
+    "edge_count": 12,
+    "entity_resolution": {
+      "checked": 4,
+      "resolved": 0,
+      "canonicalized": 0
+    }
+  },
+  "nodes": [
+    {
+      "label": "Operation Epic Fury",
+      "type": "Project",
+      "summary": "US military operation against Iran involving naval strikes and regime-change framing.",
+      "props": {
+        "description": "A high-conviction US naval campaign against Iran, including the sinking of warships and submarines.",
+        "status": "active"
+      }
+    },
+    {
+      "label": "CMC Leadership Vacancy",
+      "type": "Observation",
+      "summary": "71% of China's Central Military Commission positions are vacant following inner-circle purges.",
+      "props": {
+        "content": "Analysts confirm 71% of CMC positions are vacant; Zhurihe training base went dark for a month.",
+        "observed_at": 1741132800
+      }
+    },
+    {
+      "label": "Taiwan Invasion Implausibility",
+      "type": "Claim",
+      "summary": "A near-term Taiwan invasion is operationally implausible due to the command vacuum in the CMC.",
+      "props": {
+        "content": "The command vacuum makes a near-term Taiwan invasion operationally implausible.",
+        "truth_status": "likely",
+        "certainty_degree": 0.8
+      }
+    },
+    {
+      "label": "Iran Regime Fall Prediction",
+      "type": "Claim",
+      "summary": "Prediction that the Iranian regime will fall by June 30, 2026, currently trading at 37 cents.",
+      "props": {
+        "content": "Thesis: Mojtaba Khamenei succession under IRGC pressure and US regime-change pressure.",
+        "truth_status": "uncertain"
+      }
+    },
+    {
+      "label": "Tim Cook Departure Prediction",
+      "type": "Claim",
+      "summary": "Prediction regarding Tim Cook leaving Apple, currently trading at 71 cents for 'No'.",
+      "props": {
+        "content": "Cook's operational centrality confirmed by CIA briefings and MacBook Neo launch.",
+        "truth_status": "unlikely"
+      }
+    },
+    {
+      "label": "China Taiwan 2027 Prediction",
+      "type": "Claim",
+      "summary": "Prediction that China will invade Taiwan by 2027, currently trading at 11 cents.",
+      "props": {
+        "content": "Structural barriers like the CMC vacancy hinder near-term invasion plans.",
+        "truth_status": "uncertain"
+      }
+    },
+    {
+      "label": "MacBook Neo Launch",
+      "type": "Observation",
+      "summary": "Successful launch of the MacBook Neo reinforcing Tim Cook's leadership.",
+      "props": {
+        "content": "MacBook Neo launch success reinforces Cook’s leadership during geopolitical volatility.",
+        "observed_at": 1741132800
+      }
+    },
+    {
+      "label": "Ukraine Peace Stalled",
+      "type": "Observation",
+      "summary": "Zelensky confirms US focus on Iran is delaying ceasefire diplomacy and air defense supplies.",
+      "props": {
+        "content": "US distraction in Iran is stalling ceasefire diplomacy and air defense supplies for Ukraine.",
+        "observed_at": 1741132800
+      }
+    },
+    {
+      "label": "Polymarket Trading System",
+      "type": "Project",
+      "summary": "System for tracking and trading on geopolitical and corporate predictions.",
+      "props": {
+        "description": "Platform for prediction markets including Iran regime status and executive departures.",
+        "status": "active"
+      }
+    },
+    {
+      "label": "Donald Trump",
+      "type": "Entity",
+      "summary": "President of the United States leading Operation Epic Fury.",
+      "props": {
+        "entity_type": "person"
+      }
+    },
+    {
+      "label": "Apple",
+      "type": "Entity",
+      "summary": "Global technology company led by Tim Cook.",
+      "props": {
+        "entity_type": "organization"
+      }
+    },
+    {
+      "label": "Iran",
+      "type": "Entity",
+      "summary": "Nation state currently under US naval operation Epic Fury.",
+      "props": {
+        "entity_type": "location"
+      }
+    },
+    {
+      "label": "China",
+      "type": "Entity",
+      "summary": "Nation state experiencing military leadership vacancies.",
+      "props": {
+        "entity_type": "location"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "CMC Leadership Vacancy",
+      "to": "Taiwan Invasion Implausibility",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "Taiwan Invasion Implausibility",
+      "to": "China Taiwan 2027 Prediction",
+      "type": "REFUTES"
+    },
+    {
+      "from": "MacBook Neo Launch",
+      "to": "Tim Cook Departure Prediction",
+      "type": "REFUTES"
+    },
+    {
+      "from": "Operation Epic Fury",
+      "to": "Iran Regime Fall Prediction",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "Iran Regime Fall Prediction",
+      "to": "Polymarket Trading System",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Tim Cook Departure Prediction",
+      "to": "Polymarket Trading System",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "China Taiwan 2027 Prediction",
+      "to": "Polymarket Trading System",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Donald Trump",
+      "to": "Operation Epic Fury",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Tim Cook Departure Prediction",
+      "to": "Apple",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Iran Regime Fall Prediction",
+      "to": "Iran",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "CMC Leadership Vacancy",
+      "to": "China",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Ukraine Peace Stalled",
+      "to": "Operation Epic Fury",
+      "type": "RELEVANT_TO"
+    }
+  ]
+}

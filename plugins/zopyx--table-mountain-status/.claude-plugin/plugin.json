@@ -1,0 +1,10 @@
+{
+  "name": "zopyx--table-mountain-status",
+  "description": "Fetch and report the Table Mountain Aerial Cableway status via the official weather API. Use when Master asks for “Tafelberg” updates, needs alerts about openings/closures, or wants automated Telegram reports about status, weather, and waiting times.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zopyx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zopyx/table-mountain-status",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zopyx/table-mountain-status"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "scytheshan-pixel--incident-fupan",
+  "description": "事故复盘 / Incident Fupan — structured root cause analysis for production failures, outages, bugs, and near-misses. Use when: (1) 事故复盘 or incident review is needed, (2) a production incident just happened and needs root cause analysis, (3) an agent made a costly mistake and you want to prevent recurrence, (4) building safety rules or kill switches from incident patterns. Triggers on: 复盘, fupan, postmortem, incident review, root cause analysis, 事故分析. Generates a full report with timeline, 5 Whys root cause, impact assessment, fix/prevention actions, and new defensive rules. NOT for: routine debugging, feature planning, or non-incident analysis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "scytheshan-pixel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/scytheshan-pixel/incident-fupan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scytheshan-pixel/incident-fupan"
+}

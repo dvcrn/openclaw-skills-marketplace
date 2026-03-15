@@ -1,0 +1,10 @@
+{
+  "name": "rmorse--help-scout",
+  "description": "CLI for the HelpScout API. Manage conversations, customers, mailboxes, knowledge base articles, and more from the terminal. Covers both Inbox and Docs APIs with full CRUD, PII redaction, permissions, and multiple output formats.",
+  "version": "0.0.2",
+  "author": {
+    "name": "rmorse"
+  },
+  "homepage": "https://github.com/operator-kit/hs-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rmorse/help-scout"
+}

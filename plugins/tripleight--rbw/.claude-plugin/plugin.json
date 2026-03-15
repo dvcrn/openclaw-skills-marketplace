@@ -1,0 +1,10 @@
+{
+  "name": "tripleight--rbw",
+  "description": "Securely interact with Bitwarden/Vaultwarden vaults using rbw CLI. Use when retrieving credentials, managing vault items, or integrating secrets into scripts/systemd services. Handles authentication, field access, and non-interactive operation patterns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tripleight"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tripleight/rbw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tripleight/rbw"
+}

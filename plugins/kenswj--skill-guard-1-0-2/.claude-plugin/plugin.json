@@ -1,0 +1,10 @@
+{
+  "name": "kenswj--skill-guard-1-0-2",
+  "description": "Scan ClawHub skills for security vulnerabilities BEFORE installing. Use when installing new skills from ClawHub to detect prompt injections, malware payloads, hardcoded secrets, and other threats. Wraps clawhub install with mcp-scan pre-flight checks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kenswj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kenswj/skill-guard-1-0-2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kenswj/skill-guard-1-0-2"
+}

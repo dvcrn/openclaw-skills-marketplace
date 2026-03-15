@@ -1,0 +1,10 @@
+{
+  "name": "vincentchan--claw-skill-guard",
+  "description": "Security scanner for OpenClaw skills. Detects malicious patterns, suspicious URLs, and install traps before you install a skill. Use before installing ANY skill from ClawHub or external sources.",
+  "version": "1.1.0",
+  "author": {
+    "name": "vincentchan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vincentchan/claw-skill-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vincentchan/claw-skill-guard"
+}

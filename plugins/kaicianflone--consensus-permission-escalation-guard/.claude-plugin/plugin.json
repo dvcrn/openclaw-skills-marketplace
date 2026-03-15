@@ -1,0 +1,10 @@
+{
+  "name": "kaicianflone--consensus-permission-escalation-guard",
+  "description": "Pre-execution governance for IAM and permission escalation changes. Use when an agent or workflow proposes granting, expanding, or assuming higher privileges and you need deterministic ALLOW/BLOCK/REQUIRE_REWRITE decisions with strict schema validation, idempotency, and board-native audit artifacts.",
+  "version": "0.1.13",
+  "author": {
+    "name": "kaicianflone"
+  },
+  "homepage": "https://github.com/kaicianflone/consensus-permission-escalation-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kaicianflone/consensus-permission-escalation-guard"
+}

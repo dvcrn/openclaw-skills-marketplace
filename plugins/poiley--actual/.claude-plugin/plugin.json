@@ -1,0 +1,10 @@
+{
+  "name": "poiley--actual",
+  "description": "Feature-complete companion for the actual CLI, an ADR-powered CLAUDE.md/AGENTS.md generator. Runs and troubleshoots actual adr-bot, status, auth, config, runners, and models. Covers all 5 runners (claude-cli, anthropic-api, openai-api, codex-cli, cursor-cli), all model patterns, all 3 output formats (claude-md, agents-md, cursor-rules), and all error types. Use when working with the actual CLI, running actual adr-bot, configuring runners or models, troubleshooting errors, or managing output files.",
+  "version": "0.1.0",
+  "author": {
+    "name": "poiley"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/poiley/actual",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/poiley/actual"
+}

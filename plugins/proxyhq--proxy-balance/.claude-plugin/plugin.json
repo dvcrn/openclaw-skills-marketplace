@@ -1,0 +1,10 @@
+{
+  "name": "proxyhq--proxy-balance",
+  "description": "Check Proxy account balance and available spending power. Shows pending intents and suggests funding if low.",
+  "version": "1.0.0",
+  "author": {
+    "name": "proxyhq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/proxyhq/proxy-balance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/proxyhq/proxy-balance"
+}

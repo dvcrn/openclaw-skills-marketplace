@@ -1,0 +1,10 @@
+{
+  "name": "youngbeauty--export-conversation-summary",
+  "description": "Export current Claude Code conversation to markdown document with full dialogue context and model operations",
+  "version": "1.0.0",
+  "author": {
+    "name": "youngbeauty"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/youngbeauty/export-conversation-summary",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/youngbeauty/export-conversation-summary"
+}

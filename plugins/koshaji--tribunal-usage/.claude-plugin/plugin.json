@@ -1,0 +1,10 @@
+{
+  "name": "koshaji--tribunal-usage",
+  "description": "Use Tribunal commands for TDD enforcement, quality gates, secret scanning, Agent Teams hooks, CI integration, and plugin packs. Use when running quality checks, configuring enforcement modes, checking audit logs, using tribunal ci in pipelines, managing plugin packs, or working with multi-agent Claude Code workflows that need quality gates between agents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "koshaji"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/koshaji/tribunal-usage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/koshaji/tribunal-usage"
+}

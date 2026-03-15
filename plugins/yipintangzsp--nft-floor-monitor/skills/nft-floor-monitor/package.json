@@ -1,0 +1,1 @@
+{"name":"nft-floor-monitor","version":"1.0.0","description":"NFT 地板价监控 - 多平台比价，稀有度分析，买入时机提醒","main":"index.js","bin":{"nft-floor-monitor":"./index.js"},"dependencies":{"node-fetch":"^2.7.0"}}

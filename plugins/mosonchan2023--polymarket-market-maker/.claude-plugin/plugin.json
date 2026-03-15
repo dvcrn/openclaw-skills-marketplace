@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--polymarket-market-maker",
+  "description": "为 Polymarket 市场提供流动性，自动做市。每次调用自动扣费 0.001 USDT",
+  "version": "1.0.1",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/polymarket-market-maker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/polymarket-market-maker"
+}

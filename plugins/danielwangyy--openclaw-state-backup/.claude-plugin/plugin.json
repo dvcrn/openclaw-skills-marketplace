@@ -1,0 +1,10 @@
+{
+  "name": "danielwangyy--openclaw-state-backup",
+  "description": "Create, inspect, and restore versioned OpenClaw state backups with rollback safety. Use when backing up or migrating OpenClaw memory, workspace state, gateway config, cron/session state, or when restoring a previously captured snapshot after breakage, config mistakes, host migration, or context-loss concerns.",
+  "version": "1.0.2",
+  "author": {
+    "name": "danielwangyy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danielwangyy/openclaw-state-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danielwangyy/openclaw-state-backup"
+}

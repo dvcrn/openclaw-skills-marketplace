@@ -1,0 +1,10 @@
+{
+  "name": "exeandino--moodle-ws-skill",
+  "description": "Integrar con Moodle 4.x usando Web Services REST. Usar esta skill cuando el usuario pida crear cursos, inscribir o desinscribir usuarios, crear o actualizar actividades (quiz, assignment, forum), enviar calificaciones o listar cursos/estudiantes en un campus Moodle con Web Services habilitados.",
+  "version": "1.0.0",
+  "author": {
+    "name": "exeandino"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/exeandino/moodle-ws-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/exeandino/moodle-ws-skill"
+}

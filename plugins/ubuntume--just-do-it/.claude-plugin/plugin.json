@@ -1,0 +1,10 @@
+{
+  "name": "ubuntume--just-do-it",
+  "description": "Autonomous programming mode for openclaw.ai. Use this skill whenever a user requests any code change, feature addition, refactor, bug fix, or project task — especially large or multi-part requests. This skill eliminates unnecessary clarifying questions, prevents false completion claims, enforces self-verification via code reading, and maintains the project constitution throughout execution. Trigger this skill any time the user asks Claude to build, fix, edit, or extend anything in the codebase. Do NOT wait for explicit permission — if there is code work to be done, this skill governs how to do it.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ubuntume"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ubuntume/just-do-it",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ubuntume/just-do-it"
+}

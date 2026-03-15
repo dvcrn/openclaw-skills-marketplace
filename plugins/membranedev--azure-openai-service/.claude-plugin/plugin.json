@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--azure-openai-service",
+  "description": "Azure OpenAI Service integration. Manage Models, Deployments, Prompts, Completions. Use when the user wants to interact with Azure OpenAI Service data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/azure-openai-service"
+}

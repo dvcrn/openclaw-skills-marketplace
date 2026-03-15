@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--security-monitor-deploy",
+  "description": "Comprehensive security audit for OpenClaw deployments. Checks Docker port bindings, SSH config, openclaw.json settings, file permissions, exposed services, and firewall rules. Scores your deployment 0-100 with actionable recommendations. Use for security hardening and compliance checks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/security-monitor-deploy"
+}

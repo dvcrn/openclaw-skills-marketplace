@@ -1,0 +1,10 @@
+{
+  "name": "ethagent--edit",
+  "description": "Professional editing assistant. Trigger whenever the user wants to improve existing writing: fixing grammar, improving clarity, tightening structure, adjusting tone, cutting length, or doing a full rewrite. Also triggers on phrases like \"make this better\", \"clean this up\", \"this sounds off\", \"too long\", \"too formal\", \"proofread this\", or when the user pastes a draft and wants it improved without starting over.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ethagent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ethagent/edit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ethagent/edit"
+}

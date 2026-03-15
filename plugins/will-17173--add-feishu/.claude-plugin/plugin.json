@@ -1,0 +1,10 @@
+{
+  "name": "will-17173--add-feishu",
+  "description": "Add Feishu (Lark) as a channel. Uses WebSocket long connection — no public URL or ngrok needed. Works alongside WhatsApp, Telegram, Slack, or as a standalone channel.",
+  "version": "1.0.0",
+  "author": {
+    "name": "will-17173"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/will-17173/add-feishu",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/will-17173/add-feishu"
+}

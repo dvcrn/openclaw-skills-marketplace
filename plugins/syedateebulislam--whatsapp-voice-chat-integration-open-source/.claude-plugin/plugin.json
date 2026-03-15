@@ -1,0 +1,10 @@
+{
+  "name": "syedateebulislam--whatsapp-voice-chat-integration-open-source",
+  "description": "Real-time WhatsApp voice message processing. Transcribe voice notes to text via Whisper, detect intent, execute handlers, and send responses. Use when building conversational voice interfaces for WhatsApp. Supports English and Hindi, customizable intents (weather, status, commands), automatic language detection, and streaming responses via TTS.",
+  "version": "1.0.0",
+  "author": {
+    "name": "syedateebulislam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/syedateebulislam/whatsapp-voice-chat-integration-open-source",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/syedateebulislam/whatsapp-voice-chat-integration-open-source"
+}

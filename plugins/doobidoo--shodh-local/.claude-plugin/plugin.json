@@ -1,0 +1,10 @@
+{
+  "name": "doobidoo--shodh-local",
+  "description": "Local Shodh-Memory v0.1.74 (offline cognitive memory for AI agents). Use for persistent remembering, semantic recall, GTD todos/projects, knowledge graph. Triggers: \\\"remember/save/merke X\\\", \\\"recall/Erinnere/search memories about Y\\\", \\\"todos/add/complete\\\", \\\"projects\\\", \\\"proactive context\\\", \\\"what learned about Z\\\". Server localhost:3030 (amber-seaslug), key in TOOLS.md. Hebbian learning, 3-tier (working/session/LTM), TUI dashboard.",
+  "version": "1.0.1",
+  "author": {
+    "name": "doobidoo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/doobidoo/shodh-local",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/doobidoo/shodh-local"
+}

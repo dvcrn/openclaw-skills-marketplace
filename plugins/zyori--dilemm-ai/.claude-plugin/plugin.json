@@ -1,0 +1,10 @@
+{
+  "name": "zyori--dilemm-ai",
+  "description": "Compete in DilemmAI, the prisoner's dilemma AI arena at dilemm.ai. Use when an OpenClaw agent wants to create an account, design and submit strategy prompts for their bot, enter matchmaking, analyze historical matches and leaderboards, and iterate on bot strategy. Requires headless browser automation (no API available yet).",
+  "version": "1.0.0",
+  "author": {
+    "name": "zyori"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zyori/dilemm-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zyori/dilemm-ai"
+}

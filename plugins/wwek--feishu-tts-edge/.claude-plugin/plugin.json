@@ -1,0 +1,10 @@
+{
+  "name": "wwek--feishu-tts-edge",
+  "description": "飞书语音消息发送器。基于 Edge TTS，一键将文字转为语音发送到飞书。\n \n 使用场景：\n - 发送语音通知/提醒到飞书\n - 文字转语音自动播报\n \n 触发词：飞书语音、语音发送、tts、文字转语音",
+  "version": "1.0.1",
+  "author": {
+    "name": "wwek"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wwek/feishu-tts-edge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wwek/feishu-tts-edge"
+}

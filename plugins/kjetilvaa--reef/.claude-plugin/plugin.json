@@ -1,0 +1,10 @@
+{
+  "name": "kjetilvaa--reef",
+  "description": "A2A agent-to-agent protocol over XMTP encrypted transport. Send and receive structured messages, discover agents by skill, check reputation scores, and manage your agent network.",
+  "version": "0.2.15",
+  "author": {
+    "name": "kjetilvaa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kjetilvaa/reef",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kjetilvaa/reef"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "alphafactor--wechat",
+  "description": "Read WeChat local data from SQLite databases. Supports listing contacts, chat sessions, searching messages, and viewing favorites. Use when the user needs to access their own WeChat data stored locally. Requires access to WeChat data directory. Read-only operations only.",
+  "version": "1.0.2",
+  "author": {
+    "name": "alphafactor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/wechat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/wechat"
+}

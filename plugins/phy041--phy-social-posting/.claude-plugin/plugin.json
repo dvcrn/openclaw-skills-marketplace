@@ -1,0 +1,10 @@
+{
+  "name": "phy041--phy-social-posting",
+  "description": "Multi-platform social media posting service with automatic provider failover. Handles posting to 9 platforms (Twitter/X, LinkedIn, Instagram, Facebook, TikTok, Threads, Bluesky, YouTube, Pinterest) with per-user credential management, OAuth flow, media upload, scheduling, and post history tracking. Triggers on \"post to social media\", \"publish to platforms\", \"schedule a post\", \"social post\", or any cross-platform publishing request.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phy041"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-social-posting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-social-posting"
+}

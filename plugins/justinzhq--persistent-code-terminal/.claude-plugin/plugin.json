@@ -1,0 +1,10 @@
+{
+  "name": "justinzhq--persistent-code-terminal",
+  "description": "Persistent per-project coding terminal (tmux). Run Codex CLI (codex exec) inside a stable session; mobile/SSH friendly.",
+  "version": "1.2.0",
+  "author": {
+    "name": "justinzhq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/justinzhq/persistent-code-terminal",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/justinzhq/persistent-code-terminal"
+}

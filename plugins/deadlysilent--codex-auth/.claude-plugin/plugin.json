@@ -1,0 +1,10 @@
+{
+  "name": "deadlysilent--codex-auth",
+  "description": "Manual Telegram slash-style command to start/finish OpenAI Codex OAuth profile auth refresh. Use for /codex_auth, /codex_auth <profile>, or callback URL paste handling.",
+  "version": "1.0.5",
+  "author": {
+    "name": "deadlysilent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deadlysilent/codex-auth",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deadlysilent/codex-auth"
+}

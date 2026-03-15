@@ -1,0 +1,22 @@
+# Research report: Research -> Synthesize -> Write -> Edit
+id: research_report
+name: Research Report
+description: Research a topic, synthesize findings, draft a report, then polish it.
+steps:
+  - id: research
+    agent: researcher
+    task_template: "Research the following topic thoroughly. Gather key facts, different perspectives, and relevant examples:\n\n{{ user_input }}"
+    timeout: 900
+
+  - id: outline
+    agent: architect
+    task_template: "Create a structured outline for a report based on these research findings. Identify the key themes, logical flow, and any gaps:\n\n{{ research_output }}"
+
+  - id: draft
+    agent: editor
+    task_template: "Write a clear, well-structured report following this outline. Use the research findings as source material:\n\nOutline:\n{{ outline_output }}\n\nResearch:\n{{ research_output }}"
+    timeout: 900
+
+  - id: polish
+    agent: editor
+    task_template: "Edit this draft for clarity, conciseness, and readability. Fix any errors and improve flow:\n\n{{ draft_output }}"

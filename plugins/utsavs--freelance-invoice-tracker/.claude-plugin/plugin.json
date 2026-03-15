@@ -1,0 +1,10 @@
+{
+  "name": "utsavs--freelance-invoice-tracker",
+  "description": "Automated invoice tracking and payment follow-up for Indian freelancers. Monitors a Google Sheet of invoices, auto-sends polite follow-up emails or WhatsApp messages at configurable intervals, tracks GST amounts, and generates monthly income reports. Built for India's 15M+ freelancers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "utsavs"
+  },
+  "homepage": "https://clawhub.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/utsavs/freelance-invoice-tracker"
+}

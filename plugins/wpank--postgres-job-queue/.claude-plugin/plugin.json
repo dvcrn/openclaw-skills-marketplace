@@ -1,0 +1,10 @@
+{
+  "name": "wpank--postgres-job-queue",
+  "description": "PostgreSQL-based job queue with priority scheduling, batch claiming, and progress tracking. Use when building job queues without external dependencies. Triggers on PostgreSQL job queue, background jobs, task queue, priority queue, SKIP LOCKED.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/postgres-job-queue",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/postgres-job-queue"
+}

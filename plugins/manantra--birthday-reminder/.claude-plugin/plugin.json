@@ -1,0 +1,10 @@
+{
+  "name": "manantra--birthday-reminder",
+  "description": "Manage birthdays with natural language. Store birthdays in /home/clawd/clawd/data/birthdays.md, get upcoming reminders, calculate ages. Use when the user mentions birthdays, wants to add/remember someone's birthday, check upcoming birthdays, or asks about someone's age/birthday. Understands phrases like \"X hat am DD.MM. Geburtstag\", \"Wann hat X Geburtstag?\", \"Nächste Geburtstage\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "manantra"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/manantra/birthday-reminder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/manantra/birthday-reminder"
+}

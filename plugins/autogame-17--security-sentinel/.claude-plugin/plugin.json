@@ -1,0 +1,10 @@
+{
+  "name": "autogame-17--security-sentinel",
+  "description": "Scan the workspace for security vulnerabilities, exposed secrets, and misconfigurations.",
+  "version": "1.0.1",
+  "author": {
+    "name": "autogame-17"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/security-sentinel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/security-sentinel"
+}

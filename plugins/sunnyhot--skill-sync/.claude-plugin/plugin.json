@@ -1,0 +1,10 @@
+{
+  "name": "sunnyhot--skill-sync",
+  "description": "Automatically sync local skills to ClawHub and GitHub. Detects new/modified skills, publishes to ClawHub, commits to GitHub, and maintains sync status.",
+  "version": "1.5.0",
+  "author": {
+    "name": "sunnyhot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunnyhot/skill-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunnyhot/skill-sync"
+}

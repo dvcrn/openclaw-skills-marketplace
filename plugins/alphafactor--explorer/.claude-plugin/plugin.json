@@ -1,0 +1,10 @@
+{
+  "name": "alphafactor--explorer",
+  "description": "Search and analyze trending GitHub repositories by topics, star count, and creation date. Supports filtering by multiple tags, minimum stars, and time range. Use when the user needs to discover popular open-source projects on GitHub. Optionally uses GITHUB_TOKEN for higher API rate limits.",
+  "version": "1.0.5",
+  "author": {
+    "name": "alphafactor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/explorer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/explorer"
+}

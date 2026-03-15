@@ -1,0 +1,10 @@
+{
+  "name": "crazyozzy--crazyozzy-auto-updater",
+  "description": "Automatically update OpenClaw and installed skills on a schedule. Use when setting up or maintaining daily/weekly update automation, checking for OpenClaw updates, updating all skills, and sending a summary of what changed.",
+  "version": "1.0.1",
+  "author": {
+    "name": "crazyozzy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crazyozzy/crazyozzy-auto-updater",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crazyozzy/crazyozzy-auto-updater"
+}

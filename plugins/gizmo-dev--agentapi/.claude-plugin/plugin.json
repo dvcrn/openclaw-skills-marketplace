@@ -1,0 +1,10 @@
+{
+  "name": "gizmo-dev--agentapi",
+  "description": "Browse and search the AgentAPI directory - a curated database of APIs designed for AI agents. Find MCP-compatible APIs for search, AI, communication, databases, payments, and more. Includes free directory access and optional x402 pay-per-use APIs.",
+  "version": "1.0.8",
+  "author": {
+    "name": "gizmo-dev"
+  },
+  "homepage": "https://agentapihub.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gizmo-dev/agentapi"
+}

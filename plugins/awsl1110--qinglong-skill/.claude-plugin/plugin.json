@@ -1,0 +1,10 @@
+{
+  "name": "awsl1110--qinglong-skill",
+  "description": "青龙面板管理助手。当用户需要操作青龙面板（定时任务/环境变量/脚本/订阅/依赖/系统设置）时触发。支持自然语言操作，例如：\"列出所有任务\"、\"添加环境变量\"、\"运行任务\"、\"查看日志\"等。",
+  "version": "0.1.1",
+  "author": {
+    "name": "awsl1110"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/awsl1110/qinglong-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/awsl1110/qinglong-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mlewislogic--spotify-connect",
+  "description": "Control Spotify playback on remote Spotify Connect devices (speakers, TVs, Echo, phone, desktop). Use when user wants to play music, pause, skip, adjust volume, list audio devices, or transfer playback to a specific device. Supports multiple Spotify accounts with named profiles. Requires Spotify Premium.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mlewislogic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mlewislogic/spotify-connect",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mlewislogic/spotify-connect"
+}

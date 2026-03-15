@@ -1,0 +1,10 @@
+{
+  "name": "brennerspear--gog-safety",
+  "description": "Build and deploy safety-profiled gogcli binaries with compile-time command removal. Use when setting up gog for an AI agent with restricted permissions — choosing between L1 (draft only), L2 (collaborate), or L3 (standard write). Covers building from PR #366, deploying to remote hosts, and verifying blocked commands.",
+  "version": "1.0.1",
+  "author": {
+    "name": "brennerspear"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brennerspear/gog-safety",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brennerspear/gog-safety"
+}

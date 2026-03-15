@@ -1,0 +1,10 @@
+{
+  "name": "georges91560--crypto-executor-optimizer",
+  "description": "Autonomous optimizer skill for Wesley — reads Binance trading performance every 6 hours, analyzes win rate and strategy metrics, then safely tunes executor.py parameters (OBI thresholds, Kelly factor, strategy mix) via backup → modify → validate → restart.",
+  "version": "1.0.3",
+  "author": {
+    "name": "georges91560"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/georges91560/crypto-executor-optimizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/georges91560/crypto-executor-optimizer"
+}

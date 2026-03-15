@@ -1,0 +1,10 @@
+{
+  "name": "robfig--roam",
+  "description": "Interact with Roam HQ via REST API. Search meetings, get transcripts, prompt transcripts with AI, send messages, and manage groups. Use when the user asks about meetings, call notes, transcripts, or wants to send messages in Roam.",
+  "version": "1.0.3",
+  "author": {
+    "name": "robfig"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/robfig/roam",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robfig/roam"
+}

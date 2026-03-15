@@ -1,0 +1,10 @@
+{
+  "name": "visionik--ouracli",
+  "description": "Access Oura Ring health data using the ouracli CLI tool. Use when user asks about \"oura data\", \"sleep stats\", \"activity data\", \"heart rate\", \"readiness score\", \"stress levels\", or wants health metrics from their Oura Ring.",
+  "version": "0.1.0",
+  "author": {
+    "name": "visionik"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/visionik/ouracli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/visionik/ouracli"
+}

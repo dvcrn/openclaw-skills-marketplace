@@ -1,0 +1,10 @@
+{
+  "name": "killerapp--skill-condenser",
+  "description": "Compress verbose SKILL.md files using Chain-of-Density with skill-aware formatting. Use when a skill exceeds 200 lines or needs terse refactoring.",
+  "version": "1.1.0",
+  "author": {
+    "name": "killerapp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/killerapp/skill-condenser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/killerapp/skill-condenser"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "nissan--observability-lgtm",
+  "description": "Set up a full local LGTM observability stack (Loki + Grafana + Tempo + Prometheus + Alloy) for FastAPI apps. One Docker Compose, one Python import, unified dashboards.",
+  "version": "1.2.0",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/reddinft/skill-observability-lgtm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/observability-lgtm"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ryan-srp--apiclaw-analysis-skill",
+  "description": "Amazon seller data analysis tool. Features: market research, product selection, competitor analysis, ASIN evaluation, pricing reference, category research. Uses scripts/apiclaw.py to call APIClaw API, requires APICLAW_API_KEY.",
+  "version": "0.1.2",
+  "author": {
+    "name": "ryan-srp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ryan-srp/apiclaw-analysis-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ryan-srp/apiclaw-analysis-skill"
+}

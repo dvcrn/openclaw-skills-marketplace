@@ -1,0 +1,10 @@
+{
+  "name": "rm289--hour-meter",
+  "description": "Track elapsed time from a set epoch with tamper-evident locking. Like an analog Hobbs meter but digital. Use for tracking uptime, service hours, time since events, sobriety counters, project duration, equipment runtime. Supports create, lock (seal), check, verify against external hash, list, and export operations.",
+  "version": "1.3.2",
+  "author": {
+    "name": "rm289"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rm289/hour-meter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rm289/hour-meter"
+}

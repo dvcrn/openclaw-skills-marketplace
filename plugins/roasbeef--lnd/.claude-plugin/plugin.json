@@ -1,0 +1,10 @@
+{
+  "name": "roasbeef--lnd",
+  "description": "Install and run Lightning Terminal (litd) which bundles lnd, loop, pool, tapd, and faraday in a single Docker container. Defaults to neutrino backend with SQLite storage on testnet. Supports watch-only mode with remote signer, standalone mode, and regtest development. Use when setting up a Lightning node for payments, channel management, liquidity management (loop), channel marketplace (pool), taproot assets (tapd), or enabling agent L402 commerce.",
+  "version": "1.0.1",
+  "author": {
+    "name": "roasbeef"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/roasbeef/lnd",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/roasbeef/lnd"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "0x-professor--ml-experiment-tracker",
+  "description": "Plan reproducible ML experiment runs with explicit parameters, metrics, and artifacts. Use before model training to standardize tracking-ready experiment definitions.",
+  "version": "0.1.0",
+  "author": {
+    "name": "0x-professor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0x-professor/ml-experiment-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0x-professor/ml-experiment-tracker"
+}

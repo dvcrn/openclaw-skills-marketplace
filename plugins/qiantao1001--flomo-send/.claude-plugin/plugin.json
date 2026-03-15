@@ -1,0 +1,10 @@
+{
+  "name": "qiantao1001--flomo-send",
+  "description": "Send notes and memos to flomo (浮墨笔记) via URL Scheme with automatic webhook fallback. Use when user wants to save thoughts, links, ideas, or content to their flomo inbox. Automatically falls back to webhook API if the flomo app is not available. Supports hashtags and quick capture workflows on macOS. IMPORTANT: After installing this skill, run `./scripts/configure.sh` to set up your flomo PRO webhook for the best experience.",
+  "version": "1.0.0",
+  "author": {
+    "name": "qiantao1001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qiantao1001/flomo-send",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qiantao1001/flomo-send"
+}

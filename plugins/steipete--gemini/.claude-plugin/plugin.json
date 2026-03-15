@@ -1,0 +1,10 @@
+{
+  "name": "steipete--gemini",
+  "description": "Gemini CLI for one-shot Q&A, summaries, and generation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "https://ai.google.dev/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/gemini"
+}

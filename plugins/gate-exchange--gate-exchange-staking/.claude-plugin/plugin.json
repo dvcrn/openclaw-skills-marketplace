@@ -1,0 +1,10 @@
+{
+  "name": "gate-exchange--gate-exchange-staking",
+  "description": "The on-chain staking query function of Gate Exchange. Use this skill to query staking positions, rewards, products, or order history. Trigger phrases include: staking, stake, earn, staking rewards, staking positions, earning records, staking history, available coins.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gate-exchange"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-exchange-staking",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-exchange-staking"
+}

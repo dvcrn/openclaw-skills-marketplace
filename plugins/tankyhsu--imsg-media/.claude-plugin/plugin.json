@@ -1,0 +1,10 @@
+{
+  "name": "tankyhsu--imsg-media",
+  "description": "Fetch iMessage/Messages.app attachments (voice memos and images) and process them — transcribe audio via Silicon Flow ASR (SenseVoiceSmall), and analyze images via the agent's vision model. Handles the full pipeline from locating the attachment to delivering results. Use when a user sends a voice message or image and you see the placeholder character \"￼\", or when they say \"语音转文字\", \"看图\", \"识别图片\", \"transcribe this\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "tankyhsu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tankyhsu/imsg-media",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tankyhsu/imsg-media"
+}

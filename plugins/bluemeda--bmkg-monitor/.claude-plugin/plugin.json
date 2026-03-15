@@ -1,0 +1,10 @@
+{
+  "name": "bluemeda--bmkg-monitor",
+  "description": "Monitoring earthquake data in Indonesia using BMKG official data. Use when the user asks for the latest earthquake, felt earthquakes, or information about a specific seismic event in Indonesia.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bluemeda"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bluemeda/bmkg-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bluemeda/bmkg-monitor"
+}

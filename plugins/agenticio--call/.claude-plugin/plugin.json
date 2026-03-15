@@ -1,0 +1,10 @@
+{
+  "name": "agenticio--call",
+  "description": "Call management system with preparation, real-time capture, and follow-up tracking. Use when user mentions phone calls, meetings, conversations, commitments made, or follow-ups needed. Prepares for calls, captures key points and decisions in real-time, tracks action items and commitments, drafts follow-ups, and builds conversation history. All data stored locally.",
+  "version": "2.1.0",
+  "author": {
+    "name": "agenticio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agenticio/call",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agenticio/call"
+}

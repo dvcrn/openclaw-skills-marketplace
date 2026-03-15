@@ -1,0 +1,10 @@
+{
+  "name": "cohenyehonatan--orgo-desktop-control",
+  "description": "Provision and control Orgo cloud computers using the orgo_client Python SDK. Use when launching remote desktops, automating browsers, running bash/python remotely, interacting with UI, managing files, or controlling streaming.",
+  "version": "1.0.2",
+  "author": {
+    "name": "cohenyehonatan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cohenyehonatan/orgo-desktop-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cohenyehonatan/orgo-desktop-control"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dadaniya99--sketch-illustration",
+  "description": "插画图片生成技能，支持多种手绘风格。使用 Imagen 3（ZenMux API）生成插图，适合流程图、功能说明、PPT配图、教程配图等场景。支持三种风格：A) Sketch 极简手绘风（Notion/Linear 风格，简笔人物，冷淡低饱和）；B) Watercolor 奶油彩铅水彩风（暖色调，纸纹彩铅，适合PPT讲义）；C) Flat Vector Retro 扁平矢量复古风（黑色轮廓线，几何简化，复古配色，适合NotebookLM PPT/课程封面）。生成后自动上传发送到飞书。当用户要求生成插画、配图、手绘风格图、流程示意图、产品插图、PPT配图时触发此技能。",
+  "version": "1.0.0",
+  "author": {
+    "name": "dadaniya99"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dadaniya99/sketch-illustration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dadaniya99/sketch-illustration"
+}

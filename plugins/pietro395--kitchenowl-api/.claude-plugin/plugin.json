@@ -1,0 +1,10 @@
+{
+  "name": "pietro395--kitchenowl-api",
+  "description": "Interact with KitchenOwl APIs (login, token handling, REST/GraphQL calls, and shopping-list read/update) through a reusable CLI script. Use when the user asks to read or modify shopping-list items on self-hosted or cloud KitchenOwl instances.",
+  "version": "1.1.0",
+  "author": {
+    "name": "pietro395"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pietro395/kitchenowl-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pietro395/kitchenowl-api"
+}

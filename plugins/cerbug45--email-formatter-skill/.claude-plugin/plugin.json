@@ -1,0 +1,10 @@
+{
+  "name": "cerbug45--email-formatter-skill",
+  "description": "Transform rough email drafts into polished, professional messages. Use this skill when the user wants to improve email quality, fix grammar and tone, format business emails, or convert casual messages into professional communication. Triggers include: 'format my email', 'make this professional', 'improve this message', 'fix my email', 'polish this draft', or any request to enhance email writing quality. Also use when converting bullet points or notes into complete emails, adjusting tone (formal/casual/friendly), or preparing important messages for clients, managers, or stakeholders.",
+  "version": "0.1.0",
+  "author": {
+    "name": "cerbug45"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cerbug45/email-formatter-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cerbug45/email-formatter-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lumenclaw-cloud--filtrix-image-gen",
+  "description": "Generate and edit images through Filtrix Remote MCP. Use when users ask to create images or refine existing ones. Supports gpt-image-1, nano-banana, and nano-banana-2 through one MCP endpoint.",
+  "version": "1.0.2",
+  "author": {
+    "name": "lumenclaw-cloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lumenclaw-cloud/filtrix-image-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lumenclaw-cloud/filtrix-image-gen"
+}

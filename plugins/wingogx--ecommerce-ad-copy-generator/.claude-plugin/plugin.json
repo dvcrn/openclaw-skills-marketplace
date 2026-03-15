@@ -1,0 +1,10 @@
+{
+  "name": "wingogx--ecommerce-ad-copy-generator",
+  "description": "Generate paid ecommerce ad copy in batch with SkillPay billing. Use when the user needs 5 ready-to-use ad copies from product name, selling points, and target audience; charge 0.10 USDT per request via /billing/charge; return payment_url when balance is insufficient; and enforce strict input validation plus error handling.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wingogx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wingogx/ecommerce-ad-copy-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wingogx/ecommerce-ad-copy-generator"
+}

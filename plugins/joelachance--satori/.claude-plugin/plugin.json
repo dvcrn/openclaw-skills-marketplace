@@ -1,0 +1,10 @@
+{
+  "name": "joelachance--satori",
+  "description": "Persistent long term memory for for continuity in ai sessions between providers and codegen tools.\n \n TRIGGERS - Activate this skill when:\n - User explicitly mentions \"satori\", \"remember this\", \"save\", \"add\",  \"save this for later\", \"store this\", \"add to memory\"\n - User asks to recall/search past decisions: \"what did we decide\", \"remind me\", \"search my notes\", \"what do I know about\"\n - Conversation contains notable facts worth persisting: decisions, preferences, deadlines, names, tech stack choices, strategic directions\n - Starting a new conversation where proactive context retrieval would help\n - Use Satori search when user asks a question",
+  "version": "0.0.1",
+  "author": {
+    "name": "joelachance"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/joelachance/satori",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joelachance/satori"
+}

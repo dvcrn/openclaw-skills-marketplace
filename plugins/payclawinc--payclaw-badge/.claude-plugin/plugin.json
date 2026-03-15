@@ -1,0 +1,10 @@
+{
+  "name": "payclawinc--payclaw-badge",
+  "description": "Agents are not bots. Prove it. UCP Credential Provider: declare your agent as an authorized actor before shopping at any UCP-compliant merchant. Requires PAYCLAW_API_KEY (get one at payclaw.io/dashboard/badge). Free forever.",
+  "version": "0.5.1",
+  "author": {
+    "name": "payclawinc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/payclawinc/payclaw-badge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/payclawinc/payclaw-badge"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "abeperl--codex-bridge",
+  "description": "Dispatch coding tasks to the local OpenAI Codex CLI with background execution, status polling, and answerable clarifying questions. Use when OpenClaw should delegate script building, code edits, refactors, or multi-step coding work to Codex from the command line.",
+  "version": "1.0.0",
+  "author": {
+    "name": "abeperl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abeperl/codex-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abeperl/codex-bridge"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "echo-of-machines--taskr",
+  "description": "Cloud Task Planning & Execution for OpenClaw. Makes your agent's work transparent and trackable. Structure all actions into persistent tasks with context notes. Watch progress unfold in real-time via web or mobile — no more \\\"what are you working on?\\\" interruptions.",
+  "version": "1.0.2",
+  "author": {
+    "name": "echo-of-machines"
+  },
+  "homepage": "https://taskr.one",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/echo-of-machines/taskr"
+}

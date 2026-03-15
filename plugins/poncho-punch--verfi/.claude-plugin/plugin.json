@@ -1,0 +1,10 @@
+{
+  "name": "poncho-punch--verfi",
+  "description": "TCPA consent verification for lead generation. Use when adding consent capture to web forms, verifying lead consent before contact, claiming/managing consent sessions, pulling proof for disputed leads, or integrating with the Verfi API. Covers SDK installation, API authentication, session lifecycle (create → claim → verify → proof), and compliance workflows.",
+  "version": "0.1.0",
+  "author": {
+    "name": "poncho-punch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/poncho-punch/verfi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/poncho-punch/verfi"
+}

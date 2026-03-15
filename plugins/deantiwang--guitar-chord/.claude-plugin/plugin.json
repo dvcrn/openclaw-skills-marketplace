@@ -1,0 +1,10 @@
+{
+  "name": "deantiwang--guitar-chord",
+  "description": "Guitar chord toolkit with chord identification, chord diagrams, capo calculation, and more.\n Features:\n - Identify chord from notes (reverse lookup)\n - Look up notes and diagrams from chord name\n - View chord inversions\n - View scales and scale diagrams\n - Capo transposition calculator",
+  "version": "1.0.1",
+  "author": {
+    "name": "deantiwang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deantiwang/guitar-chord",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deantiwang/guitar-chord"
+}

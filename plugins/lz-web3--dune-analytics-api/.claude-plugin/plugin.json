@@ -1,0 +1,10 @@
+{
+  "name": "lz-web3--dune-analytics-api",
+  "description": "Dune Analytics API skill for querying, analyzing, and uploading blockchain data. Use this skill whenever the user mentions Dune, on-chain data, blockchain analytics, token trading volume, DEX activity, wallet tracking, Solana/EVM transaction analysis, or wants to explore crypto data — even if they don't explicitly say 'Dune'. Also use for: running or creating Dune queries, finding blockchain tables and schemas, uploading CSV/NDJSON data to Dune, optimizing SQL for DuneSQL (Trino), checking token prices or trading pairs, analyzing wallet behavior, or any task involving dex.trades, decoded event logs, or raw blockchain transactions. Triggers on: Dune, blockchain data, on-chain, DEX trades, token volume, Solana transactions, wallet analysis, query optimization, data upload, table discovery, contract address lookup, crypto analytics, DuneSQL.",
+  "version": "2.0.0",
+  "author": {
+    "name": "lz-web3"
+  },
+  "homepage": "https://github.com/LZ-Web3/dune-analytics-api-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lz-web3/dune-analytics-api"
+}

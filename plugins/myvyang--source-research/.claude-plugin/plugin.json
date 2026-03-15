@@ -1,0 +1,10 @@
+{
+  "name": "myvyang--source-research",
+  "description": "Build and maintain a reusable source-research system for discovering source pools, evaluating whether they are worth ongoing investment, defining efficient acquisition/filtering methods, recording rejection decisions, and producing high-quality source lists or notes. Use when the user mentions 信源, 信源池, 高质量信源, 信息源, 来源池, 作者池, account/blog/source curation, or wants a repeatable framework for finding and using high-quality information sources.",
+  "version": "1.0.0",
+  "author": {
+    "name": "myvyang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/myvyang/source-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/myvyang/source-research"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kingmadellc--personality-engine",
+  "description": "Six-system behavior engine that makes any OpenClaw agent feel alive. Editorial voice injects opinions. Selective silence knows when NOT to talk. Variable timing scores urgency with time-of-day awareness. Micro-initiations send ambient pings. Context buffer enables back-references to earlier messages. Response tracker adapts to engagement patterns. Domain-agnostic — works with trading agents, personal assistants, DevOps monitors, or any proactive agent. Part of the OpenClaw Prediction Market Trading Stack with default trading configuration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kingmadellc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/personality-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/personality-engine"
+}

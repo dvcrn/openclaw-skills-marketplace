@@ -1,0 +1,10 @@
+{
+  "name": "piston4711--novita-sandbox",
+  "description": "Run browser operations and untrusted code in a secure Novita cloud sandbox (Firecracker VM). Use when: (1) browsing any external URL or website, (2) executing code from untrusted sources (cloned repos, downloaded scripts, web-fetched code), (3) running build/test commands on unfamiliar projects. NOT for: reading/writing local user files, running trusted local commands, or operating on the user's own workspace.",
+  "version": "0.1.8",
+  "author": {
+    "name": "piston4711"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/piston4711/novita-sandbox",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/piston4711/novita-sandbox"
+}

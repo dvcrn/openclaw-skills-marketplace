@@ -1,0 +1,10 @@
+{
+  "name": "wpank--api-rate-limiting",
+  "description": "Rate limiting algorithms, implementation strategies, HTTP conventions, tiered limits, distributed patterns, and client-side handling. Use when protecting APIs from abuse, implementing usage tiers, or configuring gateway-level throttling.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/api-rate-limiting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/api-rate-limiting"
+}

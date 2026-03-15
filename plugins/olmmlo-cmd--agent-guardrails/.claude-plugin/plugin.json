@@ -1,0 +1,10 @@
+{
+  "name": "olmmlo-cmd--agent-guardrails",
+  "description": "Stop AI agents from secretly bypassing your rules. Mechanical enforcement with git hooks, secret detection, deployment verification, and import registries. Born from real production incidents: server crashes, token leaks, code rewrites. Works with Claude Code, Clawdbot, Cursor. Install once, enforce forever.",
+  "version": "1.0.0",
+  "author": {
+    "name": "olmmlo-cmd"
+  },
+  "homepage": "https://github.com/jzOcb/agent-guardrails#readme",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/olmmlo-cmd/agent-guardrails"
+}

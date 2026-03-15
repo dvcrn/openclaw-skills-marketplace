@@ -1,0 +1,10 @@
+{
+  "name": "jkeesh--bool-cli",
+  "description": "Deploy sites to Bool.com via the bool CLI. Use when creating, deploying, updating, or managing Bool projects.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jkeesh"
+  },
+  "homepage": "https://bool.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jkeesh/bool-cli"
+}

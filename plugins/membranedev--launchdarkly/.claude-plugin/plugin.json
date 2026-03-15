@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--launchdarkly",
+  "description": "Launch Darkly integration. Manage Segments, Projects, Users. Use when the user wants to interact with Launch Darkly data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/launchdarkly"
+}

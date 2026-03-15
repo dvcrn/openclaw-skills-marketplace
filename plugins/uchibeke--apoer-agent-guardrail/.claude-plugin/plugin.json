@@ -1,0 +1,10 @@
+{
+  "name": "uchibeke--apoer-agent-guardrail",
+  "description": "Pre-action authorization for AI agents. Verifies permissions before every tool runs (shell, messaging, git, MCP, data export). Works with OpenClaw, IronClaw, PicoClaw. APort policy engine allows or denies each tool call deterministically; agent cannot skip it.",
+  "version": "1.0.0",
+  "author": {
+    "name": "uchibeke"
+  },
+  "homepage": "https://aport.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/uchibeke/apoer-agent-guardrail"
+}

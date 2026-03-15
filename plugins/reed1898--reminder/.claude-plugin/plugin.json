@@ -1,0 +1,10 @@
+{
+  "name": "reed1898--reminder",
+  "description": "Natural-language reminder secretary: capture events into git-synced workspace (data/logic separated), schedule Telegram reminders via OpenClaw cron, and answer \"what's coming up\" queries. Use when user mentions meetings, birthdays, deadlines, or asks for schedule/plans.",
+  "version": "0.1.1",
+  "author": {
+    "name": "reed1898"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/reed1898/reminder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/reed1898/reminder"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jamierossouw--crypto-macro-regime",
+  "description": "Classify current crypto macro regime (Risk-On / Risk-Off / Neutral) using Fear & Greed Index, BTC dominance, Reddit sentiment, on-chain signals, and macro news. Returns regime label, bias direction, and asset-specific adjustments. Use for macro analysis, regime detection, portfolio bias, or market context.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jamierossouw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/crypto-macro-regime",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/crypto-macro-regime"
+}

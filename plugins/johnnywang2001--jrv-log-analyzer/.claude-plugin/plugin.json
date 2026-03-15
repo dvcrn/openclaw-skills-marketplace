@@ -1,0 +1,10 @@
+{
+  "name": "johnnywang2001--jrv-log-analyzer",
+  "description": "Analyze log files to detect error patterns, aggregate by severity, group repeated errors by fingerprint, and flag anomaly time windows. Use when asked to analyze logs, find errors in log files, debug server issues from logs, summarize log output, or identify error spikes. Supports syslog, application logs, nginx/apache logs, and any text-based log format.",
+  "version": "1.0.0",
+  "author": {
+    "name": "johnnywang2001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/jrv-log-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/jrv-log-analyzer"
+}

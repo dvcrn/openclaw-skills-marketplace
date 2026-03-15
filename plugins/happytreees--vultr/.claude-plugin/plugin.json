@@ -1,0 +1,10 @@
+{
+  "name": "happytreees--vultr",
+  "description": "Manage Vultr cloud infrastructure including VPS instances, bare metal, Kubernetes clusters, databases, DNS, firewalls, VPCs, object storage, and more. Use when asked to deploy, manage, list, or modify Vultr resources. Handles instances, bare-metal, kubernetes, databases, load-balancers, dns, firewall, vpc, snapshots, ssh-keys, block-storage, object-storage, reserved-ips, and billing.",
+  "version": "1.0.1",
+  "author": {
+    "name": "happytreees"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/happytreees/vultr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/happytreees/vultr"
+}

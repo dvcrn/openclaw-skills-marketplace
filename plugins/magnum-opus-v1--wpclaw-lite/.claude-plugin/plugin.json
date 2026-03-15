@@ -1,0 +1,10 @@
+{
+  "name": "magnum-opus-v1--wpclaw-lite",
+  "description": "Connects to a WooCommerce store via the WPClaw Connector plugin to fetch orders and products.",
+  "version": "1.0.0",
+  "author": {
+    "name": "magnum-opus-v1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/magnum-opus-v1/wpclaw-lite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/magnum-opus-v1/wpclaw-lite"
+}

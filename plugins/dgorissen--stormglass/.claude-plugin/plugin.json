@@ -1,0 +1,10 @@
+{
+  "name": "dgorissen--stormglass",
+  "description": "Fetch surf-relevant ocean conditions from Stormglass by spot name or coordinates, including current snapshot and 1-3 day forecast windows with tides, gusts, and water temperature. Use when users ask for surf reports, wave or swell conditions, tide timing, wind, gusts, or water temperature for a beach or surf spot.",
+  "version": "1.0.2",
+  "author": {
+    "name": "dgorissen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dgorissen/stormglass",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dgorissen/stormglass"
+}

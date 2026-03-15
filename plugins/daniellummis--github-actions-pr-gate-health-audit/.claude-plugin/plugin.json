@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-pr-gate-health-audit",
+  "description": "Audit pull-request and merge-queue GitHub Actions reliability by scoring failure rate, queue latency, and stale-success risk for merge gates.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-pr-gate-health-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-pr-gate-health-audit"
+}

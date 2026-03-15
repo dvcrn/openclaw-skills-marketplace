@@ -1,0 +1,10 @@
+{
+  "name": "tuleyko--ride-receipts-llm",
+  "description": "Build, refresh, export, and query a local SQLite ride-history database from Gmail ride receipt emails (Uber, Bolt, Yandex Go, Lyft) using LLM extraction from full email HTML. Use when asked to ingest receipts, rebuild/update `rides.sqlite`, investigate ride totals/routes, or extend provider coverage. Requires `gog` Gmail CLI plus authenticated Google account access; processes sensitive receipt data and sends raw email HTML to the active LLM.",
+  "version": "0.1.2",
+  "author": {
+    "name": "tuleyko"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tuleyko/ride-receipts-llm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tuleyko/ride-receipts-llm"
+}

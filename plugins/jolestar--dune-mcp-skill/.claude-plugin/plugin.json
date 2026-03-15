@@ -1,0 +1,10 @@
+{
+  "name": "jolestar--dune-mcp-skill",
+  "description": "Use Dune MCP through UXC for blockchain table discovery, SQL query creation/execution, execution result retrieval, and visualization with help-first schema inspection, explicit auth binding, and guarded credit-consuming operations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jolestar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jolestar/dune-mcp-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jolestar/dune-mcp-skill"
+}

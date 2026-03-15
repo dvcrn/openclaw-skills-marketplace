@@ -1,0 +1,10 @@
+{
+  "name": "nickjlamb--redacta",
+  "description": "Redacta pseudonymises medical documents — replacing patient identifiers (NHS numbers, dates of birth, postcodes, phone numbers, hospital numbers) with labelled tokens so clinical content can be safely processed by AI. Built by PharmaTools.AI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nickjlamb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nickjlamb/redacta",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nickjlamb/redacta"
+}

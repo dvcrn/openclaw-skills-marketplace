@@ -1,0 +1,10 @@
+{
+  "name": "romainsantoli-web--firm-spec-compliance-pack",
+  "description": "MCP 2025-11-25 specification compliance audit pack. Validates elicitation, tasks, resources/prompts, audio content, JSON Schema 2020-12, SSE transport, and icon metadata compliance. 7 specialized audit tools.",
+  "version": "1.0.0",
+  "author": {
+    "name": "romainsantoli-web"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-spec-compliance-pack",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-spec-compliance-pack"
+}

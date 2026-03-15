@@ -1,0 +1,10 @@
+{
+  "name": "kelvincai522--comfyui",
+  "description": "Run local ComfyUI workflows via the HTTP API. Use when the user asks to run ComfyUI, execute a workflow by file path/name, or supply raw API-format JSON; supports the default workflow bundled in assets.",
+  "version": "1.0.1",
+  "author": {
+    "name": "kelvincai522"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kelvincai522/comfyui",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kelvincai522/comfyui"
+}

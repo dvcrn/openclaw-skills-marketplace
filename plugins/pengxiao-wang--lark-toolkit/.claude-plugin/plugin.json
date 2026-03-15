@@ -1,0 +1,10 @@
+{
+  "name": "pengxiao-wang--lark-toolkit",
+  "description": "Comprehensive Lark/Feishu API skill for OpenClaw agents. Covers all Lark operations via three access paths: claw-lark plugin (message tool), MCP tools (mcporter), and direct Open API (curl). Use when: (1) sending/receiving Lark messages, (2) managing groups or members, (3) listing department users or contacts, (4) creating calendar events, (5) working with docs/bitable/wiki/OKR/tasks, (6) setting up a new Lark bot, (7) debugging webhook/connection issues, (8) any Lark Open API operation the message tool or MCP doesn't support. Covers both Lark International (open.larksuite.com) and Feishu China (open.feishu.cn).",
+  "version": "1.0.0",
+  "author": {
+    "name": "pengxiao-wang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pengxiao-wang/lark-toolkit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pengxiao-wang/lark-toolkit"
+}

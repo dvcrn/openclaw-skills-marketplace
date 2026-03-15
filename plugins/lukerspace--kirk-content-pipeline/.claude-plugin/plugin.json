@@ -1,0 +1,10 @@
+{
+  "name": "lukerspace--kirk-content-pipeline",
+  "description": "Create KSVC-validated Twitter content from research PDFs. Content types: long threads, quick takes, breaking news, shitposts, personal commentary, victory laps. Triggers on \"create content\", \"write thread\", \"make a post\", \"shitpost\", or when working with PDFs in /Users/Shared/ksvc/pdfs. REQUIRED STEPS - (1a) Explore agents to scan PDFs, (1b) RLM for deep extraction, (1c) Cross-doc synthesis with rlm-multi, (2) KSVC holdings check (preliminary), (3) write data backbone, (4a) AUDIT with RLM verification, (4a.5) Gemini web cross-validation for FAIL/UNSOURCED inferences, (4b) Final holdings verification (ALL 7 models), (4c) Stylize with kirk-mode skill, (4d) humanizer pass, (5) save draft, (6) chart decision & generation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lukerspace"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lukerspace/kirk-content-pipeline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lukerspace/kirk-content-pipeline"
+}

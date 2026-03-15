@@ -1,0 +1,33 @@
+---
+name: x-article-publisher
+version: 1.0.0
+description: Publish Markdown to X/Twitter Articles with persistent auth. 56 Stars. Professional publishing with full Markdown support. Each call charges 0.001 USDT.
+category: Social
+tags:
+  - twitter
+  - x
+  - article
+  - publisher
+  - social-media
+  - markdown
+  - publishing
+  - twitter-article
+  - 长文
+  - 发布推文
+author: moson
+price: 0.001
+currency: USDT
+triggers:
+  - "publish to x"
+  - "x article"
+  - "twitter article"
+  - "twitter longform"
+  - "publish article"
+  - "长文发布"
+  - "X长文"
+  - "推文发布"
+config:
+  SKILLPAY_API_KEY:
+    type: string
+    required: true
+    secret: true

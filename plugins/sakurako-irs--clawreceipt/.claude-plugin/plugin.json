@@ -1,0 +1,10 @@
+{
+  "name": "sakurako-irs--clawreceipt",
+  "description": "Use this skill to extract receipt information, record expenses, track budgets, and manage financial receipts using the ClawReceipt CLI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sakurako-irs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sakurako-irs/clawreceipt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sakurako-irs/clawreceipt"
+}

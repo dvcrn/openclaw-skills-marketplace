@@ -1,0 +1,10 @@
+{
+  "name": "kapslap--openclaw-power-ops",
+  "description": "Operate and maintain OpenClaw installations — CLI commands, config management, channel/agent/model setup, security auditing, troubleshooting, and gateway administration. Use when adding Telegram bots, managing agents, changing models, editing config, running security audits, debugging gateway issues, rotating logs, managing cron, or any OpenClaw administrative task. Also use when asked to \"set up OpenClaw,\" \"add a channel,\" \"fix the gateway,\" \"audit security,\" or \"check OpenClaw status.\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "kapslap"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kapslap/openclaw-power-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kapslap/openclaw-power-ops"
+}

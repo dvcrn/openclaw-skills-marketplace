@@ -1,0 +1,10 @@
+{
+  "name": "yutou123--pmbuysell",
+  "description": "Executes Polymarket (pmbuysell) trade/balance via CLI or Python API. Use when the user or model needs to trade or query balances/positions. Auto-redeem is a separate paid addon (pmbuysell_redeem).",
+  "version": "1.0.3",
+  "author": {
+    "name": "yutou123"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yutou123/pmbuysell",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yutou123/pmbuysell"
+}

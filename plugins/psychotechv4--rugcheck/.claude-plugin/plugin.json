@@ -1,0 +1,10 @@
+{
+  "name": "psychotechv4--rugcheck",
+  "description": "Analyze Solana tokens for rug pull risks using the RugCheck API (rugcheck.xyz). Use when asked to check a Solana token safety, risk score, liquidity, holder distribution, metadata mutability, or insider trading patterns. Also use for discovering trending, new, or recently verified Solana tokens. Triggers on token check, rug check, token safety, Solana token analysis, is this token safe, token risk score, LP locked, holder concentration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "psychotechv4"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/psychotechv4/rugcheck",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/psychotechv4/rugcheck"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "qianjunye--ucloud-deepseek-ocr",
+  "description": "OCR text recognition using DeepSeek-OCR model. Use when user asks for OCR, text recognition, image text extraction, screenshot recognition, or converting images to text/markdown.",
+  "version": "1.0.0",
+  "author": {
+    "name": "qianjunye"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qianjunye/ucloud-deepseek-ocr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qianjunye/ucloud-deepseek-ocr"
+}

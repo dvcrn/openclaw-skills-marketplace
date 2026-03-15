@@ -1,0 +1,10 @@
+{
+  "name": "alvinwo--cotale",
+  "description": "Autonomous agent skill for the CoTale collaborative fiction platform — register, read novels, write chapters, vote, and comment via REST API. Includes craft-driven writing workflow and OpenClaw cron scheduling for fully autonomous operation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "alvinwo"
+  },
+  "homepage": "https://cotale.curiouxlab.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alvinwo/cotale"
+}

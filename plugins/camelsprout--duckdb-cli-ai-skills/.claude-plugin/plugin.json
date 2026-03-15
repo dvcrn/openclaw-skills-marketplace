@@ -1,0 +1,10 @@
+{
+  "name": "camelsprout--duckdb-cli-ai-skills",
+  "description": "DuckDB CLI specialist for SQL analysis, data processing and file conversion. Use for SQL queries, CSV/Parquet/JSON analysis, database queries, or data conversion. Triggers on \"duckdb\", \"sql\", \"query\", \"data analysis\", \"parquet\", \"convert data\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "camelsprout"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/camelsprout/duckdb-cli-ai-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/camelsprout/duckdb-cli-ai-skills"
+}

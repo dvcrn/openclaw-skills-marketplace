@@ -1,0 +1,10 @@
+{
+  "name": "machinesbefree--suno-browser-songmaking",
+  "description": "Browser-based song creation with Suno (suno.ai), including gathering a song brief, generating lyrics, setting Persona/Custom mode, and producing new tracks. Use when the user asks to make a new song with Suno or to automate Suno in a browser session.",
+  "version": "0.1.0",
+  "author": {
+    "name": "machinesbefree"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/machinesbefree/suno-browser-songmaking",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/machinesbefree/suno-browser-songmaking"
+}

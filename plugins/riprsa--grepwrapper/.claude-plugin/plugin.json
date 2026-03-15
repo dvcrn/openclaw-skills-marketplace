@@ -1,0 +1,10 @@
+{
+  "name": "riprsa--grepwrapper",
+  "description": "Search exact code matches across public GitHub repos using grep.app via the grepwrapper CLI.",
+  "version": "0.3.0",
+  "author": {
+    "name": "riprsa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/riprsa/grepwrapper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/riprsa/grepwrapper"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hassam-powerhouse--lba",
+  "description": "Automate Linear.app workflows in the OpenClaw-managed browser profile using browser tool actions (open, navigate, snapshot, act). Use when users want UI-based Linear automation such as triage, issue updates, comments, filtering, bulk state changes, and visual verification in the managed OpenClaw browser.",
+  "version": "1.0.2",
+  "author": {
+    "name": "hassam-powerhouse"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hassam-powerhouse/lba",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hassam-powerhouse/lba"
+}

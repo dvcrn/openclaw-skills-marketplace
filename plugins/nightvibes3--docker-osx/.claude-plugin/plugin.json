@@ -1,0 +1,10 @@
+{
+  "name": "nightvibes3--docker-osx",
+  "description": "Run macOS in Docker on Linux with KVM. Use when: user wants to build iOS apps/IPAs, needs macOS environment, wants to compile Apple apps without Mac, or wants to run macOS-only software. NOT for: servers without KVM, low-resource systems (needs 4+ CPU, 8GB RAM), or production macOS deployments. Requires Docker + KVM.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nightvibes3"
+  },
+  "homepage": "https://github.com/sickcodes/Docker-OSX",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nightvibes3/docker-osx"
+}

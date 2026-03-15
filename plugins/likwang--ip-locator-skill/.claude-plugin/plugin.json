@@ -1,0 +1,10 @@
+{
+  "name": "likwang--ip-locator-skill",
+  "description": "自动获取 IP 地址的归属地信息。支持查询任意 IP 或当前公网 IP。使用 ip-api.com 免费服务，无需 API 密钥。当用户需要查询 IP 位置、网络信息、归属地时触发此技能。",
+  "version": "1.0.1",
+  "author": {
+    "name": "likwang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/likwang/ip-locator-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/likwang/ip-locator-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "piperwallet--vincent-agent-wallet",
+  "description": "Use this skill to safely create a wallet the agent can use for transfers, swaps, and any EVM chain transaction.  Also supports raw signing and polymarket betting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "piperwallet"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/piperwallet/vincent-agent-wallet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/piperwallet/vincent-agent-wallet"
+}

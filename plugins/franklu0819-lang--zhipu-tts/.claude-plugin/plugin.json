@@ -1,0 +1,10 @@
+{
+  "name": "franklu0819-lang--zhipu-tts",
+  "description": "Text-to-speech conversion using Zhipu AI (BigModel) GLM-TTS model. Use when you need to convert text to audio files with various voice options. Supports Chinese text synthesis with multiple voice personas, speed control, and output formats.",
+  "version": "1.0.0",
+  "author": {
+    "name": "franklu0819-lang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/franklu0819-lang/zhipu-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/franklu0819-lang/zhipu-tts"
+}

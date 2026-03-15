@@ -1,0 +1,10 @@
+{
+  "name": "hinisal--qrcode-skills",
+  "description": "Generate and decode QR codes locally. Use when the user wants to create a QR code from text/URL, decode/read QR code content from an image, or asks about QR code generation and scanning.",
+  "version": "1.0.1",
+  "author": {
+    "name": "hinisal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hinisal/qrcode-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hinisal/qrcode-skills"
+}

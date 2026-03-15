@@ -1,0 +1,10 @@
+{
+  "name": "jmagar--gotify",
+  "description": "Send push notifications via Gotify when long-running tasks complete or important events occur. Use when the user asks to \"send a Gotify notification\", \"notify me when this finishes\", \"push notification\", \"alert me via Gotify\", or wants to be notified of task completion.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jmagar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jmagar/gotify",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jmagar/gotify"
+}

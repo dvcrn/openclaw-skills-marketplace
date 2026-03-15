@@ -1,0 +1,10 @@
+{
+  "name": "qrg-cloud--sim-trading-mvp",
+  "description": "Run a paper-trading / simulated investing workflow with explicit style selection, fixed risk rules, three decision windows per trading day, optional cron setup, persistent account and trade logs, and a post-market daily recap. Use when the user wants a simulated US stock trading account, asks the agent to act like an investor, maintain a model portfolio, make buy/sell/hold decisions, schedule trading decisions during market hours, or send a daily market/trading review. Especially use when the user cares about discipline, repeatability, and truthful reporting without fabricated data.",
+  "version": "0.2.1",
+  "author": {
+    "name": "qrg-cloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qrg-cloud/sim-trading-mvp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qrg-cloud/sim-trading-mvp"
+}

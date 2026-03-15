@@ -1,0 +1,10 @@
+{
+  "name": "palxislabs--arta",
+  "description": "In-memory awareness layer for agents to track their own activity within a single process. Provides queryable awareness of what an agent is doing in other sessions. Note: Cross-process/cross-instance sharing requires a shared backend (future enhancement).",
+  "version": "0.3.0",
+  "author": {
+    "name": "palxislabs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/palxislabs/arta",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/palxislabs/arta"
+}

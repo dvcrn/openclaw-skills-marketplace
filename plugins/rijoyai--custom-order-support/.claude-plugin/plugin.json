@@ -1,0 +1,10 @@
+{
+  "name": "rijoyai--custom-order-support",
+  "description": "Manage customer expectations, order changes, and post-purchase support for long-lead custom products (engraved necklaces, custom pet portraits, personalized gifts). Trigger whenever the customer asks \"where is my order,\" \"can I change my engraving,\" \"custom product damaged,\" \"order taking too long,\" \"production timeline,\" order status, shipment delays, modification requests, quality complaints, or return eligibility for personalized items—even if they do not say \"post-purchase\" or \"support\" explicitly.",
+  "version": "0.1.2",
+  "author": {
+    "name": "rijoyai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rijoyai/custom-order-support",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rijoyai/custom-order-support"
+}

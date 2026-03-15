@@ -1,0 +1,10 @@
+{
+  "name": "chefroger--ecommerce-scraper",
+  "description": "爬取动态电商网站数据。使用Playwright处理JavaScript渲染的页面，支持Cloudflare反爬、隐躲API发现、分页抓取。适用于： (1) 爬取京东/淘宝/拼多多等中国电商， (2) 爬取Amazon/eBay等国际电商， (3) 价格监控和竞品分析， (4) 批量商品数据采集。",
+  "version": "1.0.0",
+  "author": {
+    "name": "chefroger"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chefroger/ecommerce-scraper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chefroger/ecommerce-scraper"
+}

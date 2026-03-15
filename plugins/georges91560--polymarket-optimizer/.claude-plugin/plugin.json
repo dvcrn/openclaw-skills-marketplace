@@ -1,0 +1,10 @@
+{
+  "name": "georges91560--polymarket-optimizer",
+  "description": "Automatic parameter optimizer for polymarket-executor. Reads performance_metrics.json every 6 hours, analyzes win rates and P&L per strategy, adjusts learned_config.json to improve future performance. Also builds paper trade metrics and assesses live trading readiness. Part of the Wesley Agent Ecosystem — mirrors crypto-executor-optimizer pattern.",
+  "version": "1.0.0",
+  "author": {
+    "name": "georges91560"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/georges91560/polymarket-optimizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/georges91560/polymarket-optimizer"
+}

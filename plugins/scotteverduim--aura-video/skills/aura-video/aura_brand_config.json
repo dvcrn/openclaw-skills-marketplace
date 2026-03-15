@@ -1,0 +1,52 @@
+{
+  "brand": {
+    "name": "Aura Creatine",
+    "tagline": "Your scientific girlfriend",
+    "handles": {
+      "tiktok": "@auracreatine",
+      "instagram": "@aura.creatine"
+    }
+  },
+  "colors": {
+    "background": "#FAF8F5",
+    "beige": "#E8E0D0",
+    "sage_green": "#7A9E87",
+    "dark_text": "#2C2C2C",
+    "white": "#FFFFFF",
+    "gold": "#C9A96E"
+  },
+  "typography": {
+    "font_primary": "DM Sans",
+    "font_fallback": "Inter, sans-serif",
+    "weights": {
+      "light": 300,
+      "regular": 400,
+      "bold": 700
+    }
+  },
+  "video": {
+    "format": "9:16",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "scene_duration_seconds": 8,
+    "total_duration_seconds": 24,
+    "language": "English"
+  },
+  "kristina_photos": {
+    "photo_1": "Brand Kit/kristina_photo_1_morning_routine.png",
+    "photo_2": "Brand Kit/kristina_photo_2_post_workout.png",
+    "photo_4": "Brand Kit/kristina_photo_4_outdoor_wellness.png",
+    "photo_5": "Brand Kit/kristina_photo_5_product_hero.png",
+    "reference": "Brand Kit/kristina_reference_primary.png"
+  },
+  "remotion": {
+    "project_path": "/Users/ton/.openclaw-workspace/skills/aura-video/aura-remotion",
+    "compositions": {
+      "stat_card": "StatCard",
+      "bar_chart": "BarChart",
+      "percentage_ring": "PercentageRing",
+      "lower_third": "LowerThird"
+    }
+  }
+}

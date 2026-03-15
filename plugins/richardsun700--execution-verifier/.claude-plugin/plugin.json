@@ -1,0 +1,10 @@
+{
+  "name": "richardsun700--execution-verifier",
+  "description": "Enforce real progress for long-running tasks by separating execution from reporting. Use when users complain that the agent is \"saying it's working\" without concrete output, when a task is stalling, or when you need a hard proof loop (file changes, commit checks, and blocker alerts) every 15-30 minutes.",
+  "version": "1.1.0",
+  "author": {
+    "name": "richardsun700"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/richardsun700/execution-verifier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/richardsun700/execution-verifier"
+}

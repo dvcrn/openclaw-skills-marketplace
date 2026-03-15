@@ -1,0 +1,10 @@
+{
+  "name": "jsgoecke--openclaw-model-router",
+  "description": "Intelligent cost-aware model routing that classifies task complexity and selects the optimal AI model. Automatically routes simple tasks to cheap models and complex tasks to premium models. Use when you need \"which model should I use\", \"route this task\", \"optimize cost\", \"switch model\", \"cheapest model for this\", \"use the right model\", or to balance quality vs cost across AI providers. Supports progressive escalation, 5-tier routing, and current model pricing.",
+  "version": "0.1.0",
+  "author": {
+    "name": "jsgoecke"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jsgoecke/openclaw-model-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jsgoecke/openclaw-model-router"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "myx0m0p--todoist-orbit",
+  "description": "Operate Todoist through a Python CLI backed by the Todoist REST API. Use when the task requires deterministic Todoist automation instead of chatty natural-language parsing: listing, creating, updating, moving, completing, deleting, or resolving tasks; creating/updating/archiving/searching projects; creating/updating/archiving sections; listing/creating/updating/deleting/searching labels; uploading files and attaching them to task/project comments; or concurrent Todoist lookups. Prefer this skill when Todoist, projects, sections, labels, attachments, or task comments are involved.",
+  "version": "0.1.6",
+  "author": {
+    "name": "myx0m0p"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/myx0m0p/todoist-orbit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/myx0m0p/todoist-orbit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-step-flake-audit",
+  "description": "Detect flaky GitHub Actions job steps by finding mixed success/failure conclusions across runs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-step-flake-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-step-flake-audit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zjuphd--rtqpcr-primer-design",
+  "description": "Advanced RT-qPCR primer and probe design with specialized support for cross-species homology mapping (e.g., Human to Vero cells) and high-GC virus optimization. Use when needing to design high-specificity qPCR assays for: (1) Standard Human/Mouse/Monkey transcripts, (2) Predicted transcripts (XM_) lacking exon data via homology mapping, (3) High-GC viral templates (e.g., PRV), or (4) SYBR Green and TaqMan probe-based assays. Designed by ZJU PhD.",
+  "version": "5.1.0",
+  "author": {
+    "name": "zjuphd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zjuphd/rtqpcr-primer-design",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zjuphd/rtqpcr-primer-design"
+}

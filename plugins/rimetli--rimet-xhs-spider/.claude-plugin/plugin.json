@@ -1,0 +1,10 @@
+{
+  "name": "rimetli--rimet-xhs-spider",
+  "description": "自动化的小红书数据采集工具。支持获取博主基本信息、下载图文视频，以及提取笔记评论导出为 Excel。",
+  "version": "0.1.1",
+  "author": {
+    "name": "rimetli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rimetli/rimet-xhs-spider",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rimetli/rimet-xhs-spider"
+}

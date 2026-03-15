@@ -1,0 +1,10 @@
+{
+  "name": "nimachu--nima-skill-creator",
+  "description": "Hybrid skill creation framework combining interactive Chinese-guided workflows with English technical documentation. Use when users want to create, update, or improve Claude skills with guided requirement discovery and standardized implementation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "nimachu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nimachu/nima-skill-creator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nimachu/nima-skill-creator"
+}

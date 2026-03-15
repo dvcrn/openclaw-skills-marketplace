@@ -1,0 +1,10 @@
+{
+  "name": "macterra--archon-lightning",
+  "description": "Lightning Network payments via Archon DIDs - create wallets, send/receive sats, verify payments, Lightning Address zaps",
+  "version": "0.1.0",
+  "author": {
+    "name": "macterra"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/macterra/archon-lightning",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/macterra/archon-lightning"
+}

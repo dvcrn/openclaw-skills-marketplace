@@ -1,0 +1,10 @@
+{
+  "name": "harleyscodes--xrpl-token-snipe",
+  "description": "Snipe new token launches on XRPL via FirstLedger. Use for: (1) Detecting new token issuances, (2) Monitoring mempool for fresh offers, (3) Front-running token buys, (4) Managing XRP reserves.",
+  "version": "1.0.0",
+  "author": {
+    "name": "harleyscodes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harleyscodes/xrpl-token-snipe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harleyscodes/xrpl-token-snipe"
+}

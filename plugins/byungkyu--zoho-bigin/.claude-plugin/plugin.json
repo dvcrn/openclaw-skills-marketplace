@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--zoho-bigin",
+  "description": "Zoho Bigin API integration with managed OAuth. Manage contacts, companies, pipelines, and products in Bigin CRM.\n Use this skill when users want to read, create, update, or delete CRM records, search contacts, or manage sales pipelines.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.3",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/zoho-bigin",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/zoho-bigin"
+}

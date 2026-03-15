@@ -1,0 +1,10 @@
+{
+  "name": "mupengi-bot--gw-self-heal",
+  "description": "Self-healing watchdog for OpenClaw gateway. Auto-backup openclaw.json before changes, health-check the gateway process, and auto-rollback to last known good config on failure. Use when setting up gateway resilience, self-recovery, auto-restart, config backup, or when the user mentions watchdog, self-heal, gateway down, or config recovery.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mupengi-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/gw-self-heal",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/gw-self-heal"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "guleguleguru--osint-social",
+  "description": "Investigate a username across 1000+ social media platforms and websites using social-analyzer. Use this skill whenever the user wants to look up, investigate, trace, or find where a specific username exists online — including OSINT research, background checks on online handles, verifying if someone uses the same username across platforms, or checking their own digital footprint. Triggers on phrases like \"查一下这个用户名\", \"帮我找 X 在哪些平台\", \"investigate username\", \"OSINT lookup\", \"social media footprint\", \"trace this account\", \"find all accounts for X\". Always use this skill when a username investigation is requested, even if the user just says \"look up [name]\" or \"check if [name] exists on social media\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "guleguleguru"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guleguleguru/osint-social",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guleguleguru/osint-social"
+}

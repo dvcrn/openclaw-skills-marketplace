@@ -1,0 +1,10 @@
+{
+  "name": "deadblue22--feishu-bitable-query",
+  "description": "Query Feishu Bitable (多维表格) with server-side filter, sort, field selection, and multiple output formats. Activate when querying bitable records with conditions, filtering multidimensional table data, or when data volume is large and client-side filtering is inefficient. Preferred over feishu_bitable_list_records tool when filter expressions or full pagination is needed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "deadblue22"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deadblue22/feishu-bitable-query",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deadblue22/feishu-bitable-query"
+}

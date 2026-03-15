@@ -1,0 +1,10 @@
+{
+  "name": "peetzweg--trmnl-display",
+  "description": "Send messages to a terminal e-ink display device via webhook. Use this skill when the user wants to display text, notifications, or updates on their terminal display device.",
+  "version": "1.0.1",
+  "author": {
+    "name": "peetzweg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/peetzweg/trmnl-display",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/peetzweg/trmnl-display"
+}

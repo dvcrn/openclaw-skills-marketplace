@@ -1,0 +1,10 @@
+{
+  "name": "willamhou--arxiv-source",
+  "description": "Read and analyze arXiv papers by fetching LaTeX source, listing sections, or extracting abstracts",
+  "version": "1.0.1",
+  "author": {
+    "name": "willamhou"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/willamhou/arxiv-source",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/willamhou/arxiv-source"
+}

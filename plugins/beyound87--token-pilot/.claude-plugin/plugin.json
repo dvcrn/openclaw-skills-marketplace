@@ -1,0 +1,10 @@
+{
+  "name": "beyound87--token-pilot",
+  "description": "Automatic token optimization during interaction. Behavioral rules + plugin synergy + workspace analyzer. Pure Node.js, cross-platform. Activate on session start (rules auto-apply) or when user asks about token usage/cost/audit.",
+  "version": "1.4.0",
+  "author": {
+    "name": "beyound87"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/beyound87/token-pilot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/beyound87/token-pilot"
+}

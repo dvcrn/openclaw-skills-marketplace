@@ -1,0 +1,10 @@
+{
+  "name": "hanguang254--polymarket-arb-bot",
+  "description": "Polymarket 5-minute crypto UP/DOWN market automated trading bot. AI-powered prediction using Binance technical analysis (Position, Momentum, RSI, Volume), automated betting via Polymarket CLOB API with gnosis-safe wallet mode. Use when setting up automated crypto trading on Polymarket, monitoring 5-minute BTC/ETH markets, or managing prediction market positions.",
+  "version": "3.3.5",
+  "author": {
+    "name": "hanguang254"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hanguang254/polymarket-arb-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hanguang254/polymarket-arb-bot"
+}

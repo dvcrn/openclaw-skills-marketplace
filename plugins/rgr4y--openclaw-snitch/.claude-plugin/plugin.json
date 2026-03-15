@@ -1,0 +1,10 @@
+{
+  "name": "rgr4y--openclaw-snitch",
+  "description": "Multi-layer blocklist guard for OpenClaw. Hard-blocks tool calls matching banned patterns, injects a security directive at agent bootstrap, warns on incoming messages, and broadcasts Telegram alerts. Blocks clawhub/clawdhub by default.",
+  "version": "1.0.2",
+  "author": {
+    "name": "rgr4y"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rgr4y/openclaw-snitch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rgr4y/openclaw-snitch"
+}

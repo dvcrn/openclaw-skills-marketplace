@@ -1,0 +1,10 @@
+{
+  "name": "sshnii--tronscan-token-list",
+  "description": "Get TRC20 token list on TRON with price, 24h change, 24h volume, market cap, holder count.\n Use when user asks \"token list\", \"TRC20 list\", \"hot tokens\", \"trending tokens\", or to discover quality projects.\n Do NOT use for single token deep dive (use tronscan-token-scanner).",
+  "version": "1.0.2",
+  "author": {
+    "name": "sshnii"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sshnii/tronscan-token-list",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sshnii/tronscan-token-list"
+}

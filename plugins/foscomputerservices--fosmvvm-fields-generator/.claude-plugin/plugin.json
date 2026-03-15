@@ -1,0 +1,10 @@
+{
+  "name": "foscomputerservices--fosmvvm-fields-generator",
+  "description": "Generate FOSMVVM Fields protocols with validation rules, FormField definitions, and localized messages. Define form contracts once, validate everywhere.",
+  "version": "2.0.6",
+  "author": {
+    "name": "foscomputerservices"
+  },
+  "homepage": "https://github.com/foscomputerservices/FOSUtilities",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/foscomputerservices/fosmvvm-fields-generator"
+}

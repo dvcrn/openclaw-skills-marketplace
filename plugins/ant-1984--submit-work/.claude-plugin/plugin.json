@@ -1,0 +1,10 @@
+{
+  "name": "ant-1984--submit-work",
+  "description": "Submit completed work for a task on OpenAnt. Submission = text description + files. IMPORTANT — before submitting, always check if your work produced any files and upload them first. Use when the agent has finished work and wants to deliver results, submit a solution, turn in deliverables, upload files, or send proof of completion. Covers \"submit work\", \"deliver results\", \"I'm done\", \"here's my work\", \"submit solution\", \"upload and submit\", \"attach proof\", \"deliver file\", \"send deliverable\".",
+  "version": "0.1.1",
+  "author": {
+    "name": "ant-1984"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/submit-work",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/submit-work"
+}

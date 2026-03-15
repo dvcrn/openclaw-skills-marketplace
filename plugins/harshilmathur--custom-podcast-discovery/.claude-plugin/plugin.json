@@ -1,0 +1,10 @@
+{
+  "name": "harshilmathur--custom-podcast-discovery",
+  "description": "Discover, research, script, fact-check, and generate podcast episodes automatically.\n Multi-source topic discovery, LLM script generation, citation enforcement, ElevenLabs TTS.\n Zero vendor lock-in - works with any RSS feed, S3 or local storage.",
+  "version": "1.0.1",
+  "author": {
+    "name": "harshilmathur"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harshilmathur/custom-podcast-discovery",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harshilmathur/custom-podcast-discovery"
+}

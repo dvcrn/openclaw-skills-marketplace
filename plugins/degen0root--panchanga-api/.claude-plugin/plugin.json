@@ -1,0 +1,10 @@
+{
+  "name": "degen0root--panchanga-api",
+  "description": "Vedic astrology (Jyotish) REST API powered by Swiss Ephemeris. 16 endpoints: Panchanga, Kundali, Dasha, Muhurta, Compatibility, Transits, and more. All calculations use Lahiri ayanamsha and sidereal zodiac.",
+  "version": "3.1.7",
+  "author": {
+    "name": "degen0root"
+  },
+  "homepage": "https://api.moon-bot.cc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/degen0root/panchanga-api"
+}

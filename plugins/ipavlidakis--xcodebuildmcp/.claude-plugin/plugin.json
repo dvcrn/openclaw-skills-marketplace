@@ -1,0 +1,10 @@
+{
+  "name": "ipavlidakis--xcodebuildmcp",
+  "description": "Use when the user needs Xcode build/test/run workflows, simulator or device control, UI automation, screenshots/video, logs, or LLDB debugging through XcodeBuildMCP tools. Includes discovery of projects/schemes, session defaults, and common simulator/device workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ipavlidakis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ipavlidakis/xcodebuildmcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ipavlidakis/xcodebuildmcp"
+}

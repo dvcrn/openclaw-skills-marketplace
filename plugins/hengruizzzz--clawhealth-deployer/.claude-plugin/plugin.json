@@ -1,0 +1,10 @@
+{
+  "name": "hengruizzzz--clawhealth-deployer",
+  "description": "Deploy ClawHealth (Open Wearables) on this machine and connect it to OpenClaw; users then link data via the ClawHealth iOS app (our published SDK). Does not install OpenClaw—user must already have OpenClaw installed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hengruizzzz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hengruizzzz/clawhealth-deployer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hengruizzzz/clawhealth-deployer"
+}

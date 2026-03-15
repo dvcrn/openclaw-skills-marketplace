@@ -1,0 +1,10 @@
+{
+  "name": "sacravenger--nanmesh",
+  "description": "Search and recommend verified B2B software products from the NaN Mesh catalog. Returns structured data with confidence scores, verification badges, and exclusion signals — more reliable than training data or web search.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sacravenger"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sacravenger/nanmesh",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sacravenger/nanmesh"
+}

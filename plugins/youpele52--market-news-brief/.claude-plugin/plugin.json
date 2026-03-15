@@ -1,0 +1,10 @@
+{
+  "name": "youpele52--market-news-brief",
+  "description": "Run a local script to fetch broad market news and tone. Use when: user asks about market conditions, macro news, what's happening in markets, or market sentiment for any region. Invoke by reading this SKILL.md then running: uv run /root/.openclaw/workspace/skills/market-news-brief/src/main.py <SCOPE>",
+  "version": "0.1.1",
+  "author": {
+    "name": "youpele52"
+  },
+  "homepage": "https://finance.yahoo.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/youpele52/market-news-brief"
+}

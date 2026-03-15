@@ -1,0 +1,10 @@
+{
+  "name": "auniik--coda-ai",
+  "description": "CLI to read Coda.io documents and pages. List docs, list pages, read content in markdown/json/html.",
+  "version": "0.2.3",
+  "author": {
+    "name": "auniik"
+  },
+  "homepage": "https://www.npmjs.com/package/coda-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/auniik/coda-ai"
+}

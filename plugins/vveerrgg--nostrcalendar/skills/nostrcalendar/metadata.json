@@ -1,0 +1,37 @@
+{
+  "slug": "nostrcalendar",
+  "name": "NostrCalendar",
+  "version": "0.1.1",
+  "summary": "Nostr-native scheduling — manage availability, book meetings, and negotiate times over relay",
+  "author": {
+    "name": "Humanjava Enterprises",
+    "url": "https://loginwithnostr.com/openclaw"
+  },
+  "license": "MIT",
+  "acceptLicenseTerms": true,
+  "repository": "https://github.com/HumanjavaEnterprises/nostrcal.app.OC-python.src",
+  "tags": [
+    "nostr",
+    "calendar",
+    "scheduling",
+    "nip-52",
+    "nip-17",
+    "availability",
+    "ai-identity",
+    "sovereign"
+  ],
+  "install": {
+    "pip": "nostrcalendar"
+  },
+  "requires": {
+    "python": ">=3.10"
+  },
+  "dependencies": [
+    "nostrkey"
+  ],
+  "categories": [
+    "scheduling",
+    "communication",
+    "productivity"
+  ]
+}

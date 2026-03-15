@@ -1,0 +1,10 @@
+{
+  "name": "zhengmengkaizmk--finance-analyzer",
+  "description": "This skill should be used when a user needs to analyze financial statements (Income Statement, Balance Sheet, Cash Flow Statement) from Excel or CSV files. It extracts financial data and calculates key metrics such as ROE, ROA, gross margin, and net margin. Trigger scenarios include requests like \"analyze this financial report\", \"calculate ROE/ROA\", \"what's the gross margin\", or any task involving reading and interpreting financial spreadsheets.",
+  "version": "1.0.1",
+  "author": {
+    "name": "zhengmengkaizmk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhengmengkaizmk/finance-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhengmengkaizmk/finance-analyzer"
+}

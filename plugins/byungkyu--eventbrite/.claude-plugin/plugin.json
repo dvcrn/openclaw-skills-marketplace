@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--eventbrite",
+  "description": "Eventbrite API integration with managed OAuth. Manage events, venues, ticket classes, orders, and attendees.\n Use this skill when users want to create and manage events, check orders, view attendees, or access event categories.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.2",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/eventbrite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/eventbrite"
+}

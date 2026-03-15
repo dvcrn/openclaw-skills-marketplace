@@ -1,0 +1,10 @@
+{
+  "name": "gitgoodordietrying--log-analyzer",
+  "description": "Parse, search, and analyze application logs across formats. Use when debugging from log files, setting up structured logging, analyzing error patterns, correlating events across services, parsing stack traces, or monitoring log output in real time.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gitgoodordietrying"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/log-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/log-analyzer"
+}

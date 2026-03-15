@@ -1,0 +1,10 @@
+{
+  "name": "dophinl--youmind-youtube-transcript",
+  "description": "Extract YouTube video transcripts and subtitles via YouMind API — no yt-dlp, no proxy, no local dependencies.\n Batch extract up to 5 videos at once with parallel processing.\n Saves videos to your YouMind board with timestamped transcripts in markdown.\n Works from any IP (cloud, VPS, CI/CD, corporate networks).\n Use when user wants to \"get YouTube transcript\", \"extract video subtitles\",\n \"transcribe YouTube video\", \"batch transcribe videos\", \"get video captions\",\n \"summarize YouTube video\", \"YouTube 字幕\", \"YouTube 文字起こし\", \"YouTube 자막\",\n or \"download YouTube transcript\".",
+  "version": "1.3.4",
+  "author": {
+    "name": "dophinl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dophinl/youmind-youtube-transcript",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dophinl/youmind-youtube-transcript"
+}

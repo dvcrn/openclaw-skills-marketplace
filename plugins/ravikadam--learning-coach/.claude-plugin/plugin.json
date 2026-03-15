@@ -1,0 +1,10 @@
+{
+  "name": "ravikadam--learning-coach",
+  "description": "Production learning coach for personalized, multi-subject study planning with proactive reminders, curated resources, LLM-generated quizzes, rubric-based grading, and adaptive roadmap updates. Use when users want structured learning guidance over time, skill assessments, topic-wise progress tracking, or autonomous coaching with explicit cron consent.",
+  "version": "0.3.0",
+  "author": {
+    "name": "ravikadam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ravikadam/learning-coach",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ravikadam/learning-coach"
+}

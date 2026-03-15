@@ -1,0 +1,10 @@
+{
+  "name": "aurexcards--aurex",
+  "description": "Issue virtual crypto-funded cards and manage payments with the Aurex API. Use when users want to create virtual Visa/Mastercard cards, handle crypto deposits in SOL/USDT/USDC, manage user accounts, top up cards, or retrieve transaction history. Get your API key at aurex.cash → Dashboard → API Keys.",
+  "version": "1.0.2",
+  "author": {
+    "name": "aurexcards"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aurexcards/aurex",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aurexcards/aurex"
+}

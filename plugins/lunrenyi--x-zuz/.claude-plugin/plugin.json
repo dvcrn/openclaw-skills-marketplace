@@ -1,0 +1,10 @@
+{
+  "name": "lunrenyi--x-zuz",
+  "description": "Handle archive/compression tasks including compressing, extracting, archiving, packaging, listing contents, and viewing files.\n Supports formats: zip, tar, gz, 7z, rar, zst, xz, bz2 and more.\n You MUST use this skill whenever the user mentions or implies any archive, compression, extraction, packaging, or archive viewing needs.\n Even if the user doesn't explicitly mention x-zuz or specific commands, as long as there's an archive-related request, invoke this skill.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lunrenyi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lunrenyi/x-zuz",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lunrenyi/x-zuz"
+}

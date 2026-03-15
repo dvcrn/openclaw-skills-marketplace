@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--activecampaign-integration",
+  "description": "ActiveCampaign integration. Manage Users, Organizations, Leads, Projects, Goals, Filters. Use when the user wants to interact with ActiveCampaign data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/activecampaign-integration"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "arekqq--tg-groupchat-setup",
+  "description": "Configure a MoltBot agent to participate in a Telegram group chat. Automates adding the group to the allowlist, setting mention patterns, and configuring sender permissions — all via a single gateway config patch. Use when the user wants to set up their bot in a Telegram group, enable cross-bot communication, or configure group mention gating.",
+  "version": "1.0.0",
+  "author": {
+    "name": "arekqq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arekqq/tg-groupchat-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arekqq/tg-groupchat-setup"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dagangtj--crypto-funding-alert",
+  "description": "Real-time crypto funding rate scanner with smart alerts. Finds negative funding rates for profitable long positions. Supports Binance futures. No API key needed for scanning.",
+  "version": "1.0.1",
+  "author": {
+    "name": "dagangtj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dagangtj/crypto-funding-alert",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dagangtj/crypto-funding-alert"
+}

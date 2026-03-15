@@ -1,0 +1,10 @@
+{
+  "name": "0x7466--bw-cli",
+  "description": "Interact with Bitwarden password manager using the bw CLI. Covers authentication (login/unlock/logout/status), vault operations (list/get/create/edit/delete/restore items, folders, attachments, collections), password/passphrase generation, organization management, and Send/receive. Use for \"bitwarden\", \"bw\", \"password safe\", \"vaultwarden\", \"vault\", \"password manager\", \"generate password\", \"get password\", \"unlock vault\", \"share send\".",
+  "version": "1.1.1",
+  "author": {
+    "name": "0x7466"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0x7466/bw-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0x7466/bw-cli"
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "MoneyClaw"
+  short_description: "Prepaid wallet, virtual card, and OTP inbox for authorized agent payments"
+  default_prompt: "Use $moneyclaw to check my account, issue or top up a prepaid card, complete an authorized checkout, retrieve OTP/3DS codes, and verify the payment result."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,10 @@
+{
+  "name": "xero-flex--xerolite",
+  "description": "Integrate OpenClaw with Xerolite - IBKR. Use when: querying Xerolite API, placing orders, searching contracts.",
+  "version": "0.1.1",
+  "author": {
+    "name": "xero-flex"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xero-flex/xerolite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xero-flex/xerolite"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "merjua14--gov-permit-scraper",
+  "description": "Scrape government permit databases (liquor licenses, business registrations, contractor permits, health permits) to generate B2B sales leads. Enriches raw permit data with business emails via web scraping, then auto-emails outreach. Use when building lead lists from public records, scraping state licensing databases, generating B2B leads from government data, prospecting newly licensed businesses, or building insurance/services outreach pipelines targeting permit holders.",
+  "version": "1.0.0",
+  "author": {
+    "name": "merjua14"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/merjua14/gov-permit-scraper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/merjua14/gov-permit-scraper"
+}

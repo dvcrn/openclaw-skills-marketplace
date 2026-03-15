@@ -1,0 +1,454 @@
+ocui_version: "1.0"
+skill: educlaw-statereport
+skill_version: "1.0.0"
+display_name: EduClaw State Reporting
+icon: file-check
+color: "#6366f1"
+default_entity: collection_window
+
+domains:
+  - key: demographics
+    label: Demographics & EL/SPED
+  - key: discipline
+    label: Discipline
+  - key: ed_fi
+    label: Ed-Fi Integration
+  - key: state_reporting
+    label: State Reporting
+  - key: data_validation
+    label: Data Validation
+  - key: submission_tracking
+    label: Submission Tracking
+
+dashboard:
+  kpis:
+    - key: open_windows
+      label: "Open Windows"
+      type: count
+      action: list-collection-windows
+      filter: { window_status: open }
+      severity: info
+      icon: calendar-check
+      drill_action: list-collection-windows
+      drill_filter: { window_status: open }
+    - key: open_errors
+      label: "Open Errors"
+      type: count
+      action: list-submission-errors
+      filter: { resolution_status: open }
+      severity: warning
+      icon: alert-triangle
+      drill_action: list-submission-errors
+      drill_filter: { resolution_status: open }
+    - key: pending_submissions
+      label: "Pending Submissions"
+      type: count
+      action: list-submissions
+      filter: { submission_status: pending }
+      severity: warning
+      icon: send
+      drill_action: list-submissions
+      drill_filter: { submission_status: pending }
+    - key: missing_ssid
+      label: "Missing SSIDs"
+      type: count
+      action: list-student-supplements
+      filter: { missing_ssid: 1 }
+      severity: warning
+      icon: alert-circle
+      drill_action: list-student-supplements
+      drill_filter: { missing_ssid: 1 }
+  quick_actions:
+    - action: add-collection-window
+      label: "New Collection Window"
+      icon: calendar-plus
+    - action: add-student-supplement
+      label: "New Student Supplement"
+      icon: user-plus
+    - action: apply-validation
+      label: "Run Validation"
+      icon: shield-check
+
+workflows:
+  - after: add-collection-window
+    suggest:
+      - action: apply-window-status
+        label: "Advance window status"
+        pass: { window-id: id }
+      - action: import-validation-rules
+        label: "Load validation rules"
+  - after: apply-window-status
+    suggest:
+      - action: apply-validation
+        label: "Run data validation"
+        pass: { window-id: id }
+      - action: create-snapshot
+        label: "Freeze snapshot"
+        pass: { window-id: id }
+  - after: create-snapshot
+    suggest:
+      - action: add-submission
+        label: "Record submission"
+        pass: { window-id: window_id, snapshot-id: id }
+  - after: add-submission
+    suggest:
+      - action: approve-submission
+        label: "Certify submission"
+        pass: { submission-id: id }
+  - after: add-discipline-incident
+    suggest:
+      - action: add-discipline-student
+        label: "Add involved student"
+        pass: { incident-id: id }
+  - after: add-discipline-student
+    suggest:
+      - action: add-discipline-action
+        label: "Add disciplinary action"
+        pass: { discipline-student-id: id }
+  - after: add-edfi-config
+    suggest:
+      - action: get-edfi-connection-test
+        label: "Test ODS connectivity"
+        pass: { config-id: id }
+      - action: add-org-mapping
+        label: "Map LEA/school identifiers"
+  - after: add-student-supplement
+    suggest:
+      - action: assign-ssid
+        label: "Assign state SSID"
+        pass: { student-id: student_id }
+      - action: add-sped-placement
+        label: "Add SPED placement"
+        pass: { student-id: student_id }
+
+action_map:
+  add-collection-window:
+    component: FormView
+    mode: create
+  add-descriptor-mapping:
+    component: FormView
+    mode: create
+  add-discipline-action:
+    component: FormView
+    mode: create
+  add-discipline-incident:
+    component: FormView
+    mode: create
+  add-discipline-student:
+    component: FormView
+    mode: create
+  add-edfi-config:
+    component: FormView
+    mode: create
+  add-el-program:
+    component: FormView
+    mode: create
+  add-org-mapping:
+    component: FormView
+    mode: create
+  add-sped-placement:
+    component: FormView
+    mode: create
+  add-sped-service:
+    component: FormView
+    mode: create
+  add-student-supplement:
+    component: FormView
+    mode: create
+  add-submission:
+    component: FormView
+    mode: create
+  add-validation-rule:
+    component: FormView
+    mode: create
+  apply-student-validation:
+    component: FormView
+    mode: create
+  apply-validation:
+    component: FormView
+    mode: create
+  apply-window-status:
+    component: FormView
+    mode: create
+  approve-submission:
+    component: FormView
+    mode: create
+  assign-errors:
+    component: FormView
+    mode: create
+  assign-ssid:
+    component: FormView
+    mode: create
+  assign-submission-error:
+    component: FormView
+    mode: create
+  create-amendment:
+    component: FormView
+    mode: create
+  create-snapshot:
+    component: FormView
+    mode: create
+  delete-descriptor-mapping:
+    component: FormView
+    mode: create
+  delete-discipline-incident:
+    component: FormView
+    mode: create
+  delete-discipline-student:
+    component: FormView
+    mode: create
+  delete-sped-service:
+    component: FormView
+    mode: create
+  generate-ada:
+    component: FormView
+    mode: create
+  generate-crdc-report:
+    component: FormView
+    mode: create
+  generate-enrollment-report:
+    component: FormView
+    mode: create
+  generate-submission-package:
+    component: FormView
+    mode: create
+  get-ada-dashboard:
+    component: DashboardView
+  get-collection-window:
+    component: DetailView
+  get-data-readiness-report:
+    component: DashboardView
+  get-discipline-action:
+    component: DetailView
+  get-discipline-incident:
+    component: DetailView
+  get-discipline-summary:
+    component: DashboardView
+  get-edfi-config:
+    component: DetailView
+  get-edfi-connection-test:
+    component: FormView
+    mode: create
+  get-edfi-sync-log:
+    component: DataTable
+    default_sort: created_at
+    default_sort_dir: desc
+    searchable: true
+  get-el-program:
+    component: DetailView
+  get-error-dashboard:
+    component: DashboardView
+  get-org-mapping:
+    component: DetailView
+  get-snapshot:
+    component: DetailView
+  get-sped-placement:
+    component: DetailView
+  get-student-supplement:
+    component: DetailView
+  get-submission:
+    component: DetailView
+  get-submission-audit-trail:
+    component: DataTable
+    default_sort: created_at
+    default_sort_dir: desc
+  get-submission-history:
+    component: DataTable
+    default_sort: created_at
+    default_sort_dir: desc
+  get-validation-results:
+    component: DashboardView
+  get-validation-rule:
+    component: DetailView
+  import-descriptor-mappings:
+    component: FormView
+    mode: create
+  import-validation-rules:
+    component: FormView
+    mode: create
+  list-chronic-absenteeism:
+    component: DataTable
+    default_sort: absent_days
+    default_sort_dir: desc
+    searchable: true
+  list-collection-windows:
+    component: DataTable
+    default_sort: created_at
+    default_sort_dir: desc
+    searchable: true
+    add_action: add-collection-window
+  list-descriptor-mappings:
+    component: DataTable
+    default_sort: descriptor_type
+    default_sort_dir: asc
+    searchable: true
+    add_action: add-descriptor-mapping
+  list-discipline-actions:
+    component: DataTable
+    default_sort: created_at
+    default_sort_dir: desc
+    searchable: true
+    add_action: add-discipline-action
+  list-discipline-incidents:
+    component: DataTable
+    default_sort: incident_date
+    default_sort_dir: desc
+    searchable: true
+    add_action: add-discipline-incident
+  list-discipline-students:
+    component: DataTable
+    default_sort: created_at
+    default_sort_dir: desc
+    searchable: true
+  list-edfi-configs:
+    component: DataTable
+    default_sort: created_at
+    default_sort_dir: desc
+    searchable: true
+    add_action: add-edfi-config
+  list-edfi-sync-errors:
+    component: DataTable
+    default_sort: created_at
+    default_sort_dir: desc
+    searchable: true
+  list-el-programs:
+    component: DataTable
+    default_sort: school_year
+    default_sort_dir: desc
+    searchable: true
+    add_action: add-el-program
+  list-org-mappings:
+    component: DataTable
+    default_sort: state_code
+    default_sort_dir: asc
+    searchable: true
+    add_action: add-org-mapping
+  list-snapshot-records:
+    component: DataTable
+    default_sort: created_at
+    default_sort_dir: asc
+    searchable: true
+  list-sped-placements:
+    component: DataTable
+    default_sort: school_year
+    default_sort_dir: desc
+    searchable: true
+    add_action: add-sped-placement
+  list-sped-services:
+    component: DataTable
+    default_sort: created_at
+    default_sort_dir: desc
+    searchable: true
+    add_action: add-sped-service
+  list-student-supplements:
+    component: DataTable
+    default_sort: created_at
+    default_sort_dir: desc
+    searchable: true
+    add_action: add-student-supplement
+  list-submission-errors:
+    component: DataTable
+    default_sort: severity
+    default_sort_dir: desc
+    searchable: true
+  list-submissions:
+    component: DataTable
+    default_sort: created_at
+    default_sort_dir: desc
+    searchable: true
+    add_action: add-submission
+  list-validation-rules:
+    component: DataTable
+    default_sort: category
+    default_sort_dir: asc
+    searchable: true
+    add_action: add-validation-rule
+  record-mdr-outcome:
+    component: FormView
+    mode: create
+  status:
+    component: DashboardView
+  submit-attendance-to-edfi:
+    component: FormView
+    mode: create
+  submit-discipline-to-edfi:
+    component: FormView
+    mode: create
+  submit-el-to-edfi:
+    component: FormView
+    mode: create
+  submit-enrollment-to-edfi:
+    component: FormView
+    mode: create
+  submit-error-escalation:
+    component: FormView
+    mode: create
+  submit-failed-syncs:
+    component: FormView
+    mode: create
+  submit-sped-to-edfi:
+    component: FormView
+    mode: create
+  submit-staff-to-edfi:
+    component: FormView
+    mode: create
+  submit-student-to-edfi:
+    component: FormView
+    mode: create
+  update-collection-window:
+    component: FormView
+    mode: create
+  update-descriptor-mapping:
+    component: FormView
+    mode: create
+  update-discipline-action:
+    component: FormView
+    mode: create
+  update-discipline-incident:
+    component: FormView
+    mode: create
+  update-discipline-student:
+    component: FormView
+    mode: create
+  update-economic-status:
+    component: FormView
+    mode: create
+  update-edfi-config:
+    component: FormView
+    mode: create
+  update-el-program:
+    component: FormView
+    mode: create
+  update-el-status:
+    component: FormView
+    mode: create
+  update-error-resolution:
+    component: FormView
+    mode: create
+  update-org-mapping:
+    component: FormView
+    mode: create
+  update-sped-placement:
+    component: FormView
+    mode: create
+  update-sped-service:
+    component: FormView
+    mode: create
+  update-sped-status:
+    component: FormView
+    mode: create
+  update-student-race:
+    component: FormView
+    mode: create
+  update-student-supplement:
+    component: FormView
+    mode: create
+  update-submission-status:
+    component: FormView
+    mode: create
+  update-validation-rule:
+    component: FormView
+    mode: create
+  update-validation-rule-status:
+    component: FormView
+    mode: create

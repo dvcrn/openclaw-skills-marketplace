@@ -1,0 +1,10 @@
+{
+  "name": "evan966890--feishu-multi-agent",
+  "description": "Production blueprint for orchestrating multiple OpenClaw agents via Feishu with file-driven task queues, cron scheduling, and workspace sandbox workarounds.",
+  "version": "1.0.0",
+  "author": {
+    "name": "evan966890"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/evan966890/feishu-multi-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/evan966890/feishu-multi-agent"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ship_feature",
+  "name": "Ship Feature",
+  "description": "PM scopes tasks, Dev implements, Editor writes docs/changelog.",
+  "steps": [
+    {
+      "id": "scope",
+      "agent": "pm",
+      "task_template": "Scope and break down the following feature into clear, prioritized tasks with acceptance criteria: {{ user_input }}"
+    },
+    {
+      "id": "implement",
+      "agent": "dev",
+      "task_template": "Implement the following scoped tasks. Write clean code and tests:\n\n{{ scope_output }}",
+      "timeout": 900
+    },
+    {
+      "id": "docs",
+      "agent": "editor",
+      "task_template": "Write user-facing documentation and a changelog entry for this feature:\n\n{{ implement_output }}"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "contrario--agent-architect",
+  "description": "Transforms your OpenClaw agent from a reactive question-answerer into a proactive autonomous executor. ARCHITECT takes any high-level goal, decomposes it into a dependency-aware task graph, executes each step with validation, self-corrects on failure, and delivers results — all without hand-holding. The missing execution layer for personal AI agents. Zero dependencies. Zero config. Works with any model. Pairs with apex-agent and agent-memoria for the complete autonomous agent stack.",
+  "version": "1.0.4",
+  "author": {
+    "name": "contrario"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/contrario/agent-architect",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/contrario/agent-architect"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "trumppo--gitbackup",
+  "description": "Create a local Git bundle backup of the OpenClaw workspace repository. Use when running /gitbackup in Telegram or when the user asks to back up Git history/refs to a local file.",
+  "version": "0.1.0",
+  "author": {
+    "name": "trumppo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/trumppo/gitbackup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/trumppo/gitbackup"
+}

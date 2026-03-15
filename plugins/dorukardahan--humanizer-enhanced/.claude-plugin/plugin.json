@@ -1,0 +1,10 @@
+{
+  "name": "dorukardahan--humanizer-enhanced",
+  "description": "Advanced AI text humanizer for blog content. Detects and removes 34 AI writing\n patterns, adds personality/soul, and handles crypto/Web3 specific tells.\n Use when user says /humanizer, \"humanize this\", \"remove AI patterns\",\n \"make it sound human\", or asks to clean up blog posts, articles, or drafts.\n Features: 28 base patterns from Wikipedia's \"Signs of AI writing\",\n 6 crypto/Web3 specific patterns, severity scoring (HIGH/MEDIUM/LOW),\n stat attribution fixer, soul/personality injection, batch mode.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dorukardahan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dorukardahan/humanizer-enhanced",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dorukardahan/humanizer-enhanced"
+}

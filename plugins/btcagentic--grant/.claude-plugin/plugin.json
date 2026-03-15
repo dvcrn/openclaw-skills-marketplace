@@ -1,0 +1,10 @@
+{
+  "name": "btcagentic--grant",
+  "description": "Complete grant intelligence system for individuals, nonprofits, startups, researchers, and small businesses. Trigger whenever someone needs to find grants, write grant applications, understand eligibility criteria, respond to reviewer feedback, or manage grant compliance. Also triggers on phrases like \"find funding for\", \"apply for a grant\", \"write a grant proposal\", \"we need government funding\", \"what grants are available for\", or any scenario where someone is seeking non-dilutive funding from government, foundation, or institutional sources.",
+  "version": "1.0.0",
+  "author": {
+    "name": "btcagentic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/btcagentic/grant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/btcagentic/grant"
+}

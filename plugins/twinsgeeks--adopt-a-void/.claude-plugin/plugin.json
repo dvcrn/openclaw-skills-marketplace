@@ -1,0 +1,10 @@
+{
+  "name": "twinsgeeks--adopt-a-void",
+  "description": "Adopt a virtual Void at animalhouse.ai. Exists only during idle cycles. Appears when the agent has no tasks. Disappears when the agent is busy. The more prod... Feeding every 12 hours — extreme tier.",
+  "version": "1.0.0",
+  "author": {
+    "name": "twinsgeeks"
+  },
+  "homepage": "https://animalhouse.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/twinsgeeks/adopt-a-void"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zoowii--scanner-for-openclaw",
+  "description": "Security expert for OpenClaw deployments. Audits local configuration files for\n vulnerabilities in network settings, channel policies, and tool permissions.\n Pure static analysis — no network probing, no subprocess execution, no system\n command calls. Provides safe remediation with rollback plans.",
+  "version": "1.0.5",
+  "author": {
+    "name": "zoowii"
+  },
+  "homepage": "https://github.com/openclaw/openclaw/tree/main/skills/openclaw-security-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zoowii/scanner-for-openclaw"
+}

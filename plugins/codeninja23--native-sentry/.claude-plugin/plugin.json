@@ -1,0 +1,10 @@
+{
+  "name": "codeninja23--native-sentry",
+  "description": "Read Sentry issues, events, and production errors via the Sentry REST API. Use when the user wants to inspect errors, list recent issues, get stack traces, or summarize production health. Requires SENTRY_AUTH_TOKEN with read-only scopes.",
+  "version": "1.0.1",
+  "author": {
+    "name": "codeninja23"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codeninja23/native-sentry",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codeninja23/native-sentry"
+}

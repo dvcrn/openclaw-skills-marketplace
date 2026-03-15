@@ -1,0 +1,10 @@
+{
+  "name": "no-github--redc",
+  "description": "Red team infrastructure multi-cloud automated deployment tool. Deploy, manage, and monitor cloud instances across Alibaba Cloud, AWS, Tencent Cloud, Volcengine, Huawei Cloud, and more via MCP. Credentials are read from environment variables — only configure the single provider you intend to use. Always inspect templates before applying.",
+  "version": "1.0.3",
+  "author": {
+    "name": "no-github"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/no-github/redc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/no-github/redc"
+}

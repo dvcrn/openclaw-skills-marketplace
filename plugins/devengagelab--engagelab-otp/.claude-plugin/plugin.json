@@ -1,0 +1,10 @@
+{
+  "name": "devengagelab--engagelab-otp",
+  "description": "Call EngageLab OTP REST APIs to send one-time passwords (OTP), verify codes, send custom messages, and manage OTP templates across SMS, WhatsApp, Email, and Voice channels. Use this skill whenever the user wants to send an OTP or verification code via EngageLab, verify an OTP code, send custom messages through the OTP platform, manage OTP templates, configure callback webhooks, or integrate via SMPP. Also trigger when the user mentions \"engagelab otp\", \"otp api\", \"send otp\", \"verify otp\", \"one-time password\", \"verification code\", \"engagelab verification\", \"otp template\", \"multi-channel otp\", \"whatsapp otp\", \"sms otp\", \"voice otp\", \"email otp\", or asks to integrate with the EngageLab OTP platform. This skill covers OTP generation, delivery, verification, custom messaging, template management, callback configuration, and SMPP integration — use it even if the user only needs one of these capabilities.",
+  "version": "1.0.0",
+  "author": {
+    "name": "devengagelab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/devengagelab/engagelab-otp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/devengagelab/engagelab-otp"
+}

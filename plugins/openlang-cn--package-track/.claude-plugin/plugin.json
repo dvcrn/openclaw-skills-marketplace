@@ -1,0 +1,10 @@
+{
+  "name": "openlang-cn--package-track",
+  "description": "Query package/express tracking worldwide via unified API. Integrates with 快递鸟 (Kdniao) and is extensible to other providers. Use when the user asks to track a parcel, query logistics, look up express by tracking number, or integrate courier tracking.",
+  "version": "1.0.1",
+  "author": {
+    "name": "openlang-cn"
+  },
+  "homepage": "https://github.com/openlang-cn/package-tracker.git",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/package-track"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "taha2053--claw-guard",
+  "description": "Security auditor for ClawHub skills. Run before installing ANY skill — scans SKILL.md and scripts for prompt injection, data exfiltration, shell injection, permission mismatches, and malicious patterns. Returns a PASS / WARN / FAIL verdict with a full breakdown. Triggers on phrases like \"scan this skill\", \"is this skill safe\", \"audit skill\", \"check before installing\", or \"inspect clawhub skill\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "taha2053"
+  },
+  "homepage": "https://github.com/Taha2053/clawguard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/taha2053/claw-guard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "marcindudekdev--apify-substack-scraper",
+  "description": "Scrape Substack newsletters and articles. Use when user asks to search Substack, find newsletter posts, extract Substack content, or monitor Substack publications. Requires APIFY_TOKEN environment variable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "marcindudekdev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/marcindudekdev/apify-substack-scraper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marcindudekdev/apify-substack-scraper"
+}

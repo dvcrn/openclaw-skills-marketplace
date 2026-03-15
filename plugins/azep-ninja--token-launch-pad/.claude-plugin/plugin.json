@@ -1,0 +1,10 @@
+{
+  "name": "azep-ninja--token-launch-pad",
+  "description": "Launch tokens and keep 100% of your creator fees. Direct Mode provides full SDK integration guides for Clanker (7 EVM chains), Flaunch (Base), and Pump.fun (Solana) — no middleman, no platform cut. Easy Mode offers a convenience path via the Tator API (90/10 split). Includes strategy evaluation, fee economics, claiming, recipient updates, and tax/legal guidance. Triggers: \"token idea\", \"launch a coin\", \"launch a token\", \"deploy a token\", \"token strategy\", \"claim fees\", \"creator fees\", \"update fee recipient\", \"token launch on base\", \"launch on solana\", \"clanker\", \"flaunch\", \"pump.fun\", \"token economics\", \"is this a good token\".",
+  "version": "1.0.15",
+  "author": {
+    "name": "azep-ninja"
+  },
+  "homepage": "https://quickintel.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/azep-ninja/token-launch-pad"
+}

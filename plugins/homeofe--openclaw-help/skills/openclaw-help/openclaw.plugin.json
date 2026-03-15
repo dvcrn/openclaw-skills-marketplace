@@ -1,0 +1,29 @@
+{
+  "id": "openclaw-help",
+  "name": "OpenClaw Help",
+  "version": "0.2.0",
+  "description": "Config-driven /shortcuts command with safe placeholder defaults. Registers /shortcuts (not /help which is built-in).",
+  "configSchema": {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "enabled": { "type": "boolean", "default": true },
+      "includeTips": { "type": "boolean", "default": true },
+      "sections": {
+        "type": "array",
+        "description": "Custom shortcut sections (configure locally; keep repo placeholder-only).",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "title": { "type": "string" },
+            "lines": { "type": "array", "items": { "type": "string" } }
+          },
+          "required": ["title", "lines"]
+        },
+        "default": []
+      }
+    }
+  }
+}

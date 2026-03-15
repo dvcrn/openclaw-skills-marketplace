@@ -1,0 +1,10 @@
+{
+  "name": "cinience--volcengine-ai-image-generation",
+  "description": "Image generation workflow on Volcengine AI services. Use when users need text-to-image, style variants, prompt refinement, or deterministic image generation parameters and troubleshooting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/volcengine-ai-image-generation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/volcengine-ai-image-generation"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lugave11--bounty-hunter-pro",
+  "description": "Autonomous bug bounty hunting with scope safety. Scans targets for subdomains, secrets, vulnerabilities. Uses Certificate Transparency logs, JS analysis, entropy-based secret detection. LLM-powered vulnerability analysis. ALWAYS respects authorized targets only.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lugave11"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lugave11/bounty-hunter-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lugave11/bounty-hunter-pro"
+}

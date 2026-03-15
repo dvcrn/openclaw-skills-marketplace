@@ -1,0 +1,10 @@
+{
+  "name": "mmichelli--entur-travel",
+  "description": "Plan public transit trips in Norway using the Entur API. Covers all operators (Vy, Ruter, Kolumbus, etc.), all modes (bus, rail, tram, metro, ferry, coach). Use when: (1) planning a journey between places in Norway, (2) checking departure boards/next departures, (3) finding stop IDs or place names, (4) looking up real-time transit info. Triggers on questions about trains, buses, ferries, trams in Norway, getting to airports (Gardermoen, Torp, Flesland), or how do I get to X.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mmichelli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mmichelli/entur-travel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mmichelli/entur-travel"
+}

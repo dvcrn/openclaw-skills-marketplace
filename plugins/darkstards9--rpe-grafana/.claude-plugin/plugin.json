@@ -1,0 +1,10 @@
+{
+  "name": "darkstards9--rpe-grafana",
+  "description": "Read current values from Grafana dashboards without knowing the underlying queries. Use when: asked about values visible in a Grafana dashboard (sensor readings, metrics, stats). Navigate by dashboard and panel name — no PromQL/SQL needed. NOT for: writing to Grafana, admin operations, or raw query execution.",
+  "version": "1.0.2",
+  "author": {
+    "name": "darkstards9"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/darkstards9/rpe-grafana",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/darkstards9/rpe-grafana"
+}

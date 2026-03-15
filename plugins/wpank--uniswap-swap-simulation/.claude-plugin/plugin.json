@@ -1,0 +1,10 @@
+{
+  "name": "wpank--uniswap-swap-simulation",
+  "description": "Simulate and analyze Uniswap swaps including price impact, slippage, optimal routing, and gas estimation. Use when the user asks about swap execution, routing, price impact, or MEV considerations.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/uniswap-swap-simulation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/uniswap-swap-simulation"
+}

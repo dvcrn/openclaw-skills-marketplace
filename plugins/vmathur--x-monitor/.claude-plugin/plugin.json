@@ -1,0 +1,10 @@
+{
+  "name": "vmathur--x-monitor",
+  "description": "Monitor specific X/Twitter accounts and surface noteworthy tweets on a configurable schedule. Filters for high-value content about technology and trends, excluding political rage bait. Use when user wants to manage their X account list, run a manual check, or update filtering criteria.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vmathur"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vmathur/x-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vmathur/x-monitor"
+}

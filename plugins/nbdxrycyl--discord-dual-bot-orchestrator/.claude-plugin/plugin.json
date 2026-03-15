@@ -1,0 +1,10 @@
+{
+  "name": "nbdxrycyl--discord-dual-bot-orchestrator",
+  "description": "Set up and operate dual Discord bots on one machine with isolated memory, channel allowlists, mention-gated reviewer bot behavior, optional one-way reviewer-to-primary context bridge, and safe backup/rollback. Use when configuring two bots (primary + reviewer), tuning reply rules, or recovering from bad config iterations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nbdxrycyl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nbdxrycyl/discord-dual-bot-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nbdxrycyl/discord-dual-bot-orchestrator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "gyroninja--anki-connect",
+  "description": "Interact with Anki flashcard decks via the AnkiConnect REST API. Use when the user wants to create, update, search, or manage Anki cards, decks, notes, or models.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gyroninja"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gyroninja/anki-connect",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gyroninja/anki-connect"
+}

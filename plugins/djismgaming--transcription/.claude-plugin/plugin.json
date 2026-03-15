@@ -1,0 +1,10 @@
+{
+  "name": "djismgaming--transcription",
+  "description": "Transcribe audio and video files using OpenAI Whisper API. Use when user wants to transcribe audio/video files, extract speech from media, or get text from recordings. Automatically handles audio extraction from video files.",
+  "version": "1.0.1",
+  "author": {
+    "name": "djismgaming"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/djismgaming/transcription",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/djismgaming/transcription"
+}

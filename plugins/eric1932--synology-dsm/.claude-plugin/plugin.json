@@ -1,0 +1,10 @@
+{
+  "name": "eric1932--synology-dsm",
+  "description": "Manage Synology NAS via DSM Web API. Authenticate, browse and manage files (FileStation), manage download tasks (DownloadStation), and query system info. Use when the user mentions Synology, NAS, DSM, FileStation, DownloadStation, or wants to interact with their NAS device.",
+  "version": "1.0.0",
+  "author": {
+    "name": "eric1932"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/eric1932/synology-dsm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eric1932/synology-dsm"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ark930--bifrost-slpx-stake",
+  "description": "Execute liquid staking operations on Bifrost SLPx protocol across Ethereum, Base, Optimism,\n and Arbitrum. Mint vETH by staking ETH/WETH, redeem vETH back to ETH, and claim after\n redemption completes. Supports manual signing and agent-side signing via ERC-4626 vault.\n Use when users want to stake, unstake, mint, redeem, or claim ETH on Bifrost DeFi.",
+  "version": "0.1.0",
+  "author": {
+    "name": "ark930"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ark930/bifrost-slpx-stake",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ark930/bifrost-slpx-stake"
+}

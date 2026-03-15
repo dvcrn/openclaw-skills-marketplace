@@ -1,0 +1,10 @@
+{
+  "name": "mtple--deso-research",
+  "description": "Research and analyze content across decentralized social networks (Farcaster, Lens, Nostr, Bluesky) using the deso-ag CLI tool. Use this skill when users want to research topics on decentralized social platforms, analyze trending content, extract discussion terms, browse Farcaster channels, or compare engagement across networks. Trigger on phrases like \"research X on Farcaster\", \"what's trending on Lens\", \"analyze [topic] across deso networks\", \"search deso for [topic]\", \"extract trending terms\", \"browse Farcaster channels\", \"what are people saying about X on Farcaster/Lens/Nostr/Bluesky\", or any query about decentralized social media content. Make sure to use this skill for any decentralized social research tasks, even if the user just says \"check Farcaster\" or \"look up [topic] on Lens\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "mtple"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mtple/deso-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mtple/deso-research"
+}

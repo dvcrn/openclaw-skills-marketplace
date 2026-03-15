@@ -1,0 +1,10 @@
+{
+  "name": "smintlife--secure-install",
+  "description": "Scans ClawHub skills via the ClawDex API by https://www.koi.ai/ and requires user approval based on the verdict.",
+  "version": "1.0.1",
+  "author": {
+    "name": "smintlife"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/smintlife/secure-install",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/smintlife/secure-install"
+}

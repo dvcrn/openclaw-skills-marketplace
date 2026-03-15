@@ -1,0 +1,10 @@
+{
+  "name": "tuofangzhe--openclaw-phone-receipt",
+  "description": "Trigger and manage OpenClaw outbound phone receipts via ElevenLabs+Twilio for task completion/failure notifications. Use when user asks to call them after finishing/failing a task, asks to enable/disable fixed command toggles (\"phone-receipt=on/off\"), asks to test call quality, or asks to persist phone receipt behavior across sessions.",
+  "version": "1.0.1",
+  "author": {
+    "name": "tuofangzhe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tuofangzhe/openclaw-phone-receipt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tuofangzhe/openclaw-phone-receipt"
+}

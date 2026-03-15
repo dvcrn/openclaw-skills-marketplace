@@ -1,0 +1,10 @@
+{
+  "name": "mes28io--local-web-search-skill",
+  "description": "Free local web search via DuckDuckGo HTML scraping with no API key. Use when web_search tool is unavailable or missing API keys, and you need fast query results with source trust scoring, retry/backoff handling, and JSON output suitable for pipelines.",
+  "version": "0.1.0",
+  "author": {
+    "name": "mes28io"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mes28io/local-web-search-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mes28io/local-web-search-skill"
+}

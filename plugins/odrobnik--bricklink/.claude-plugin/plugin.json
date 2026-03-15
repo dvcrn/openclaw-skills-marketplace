@@ -1,0 +1,10 @@
+{
+  "name": "odrobnik--bricklink",
+  "description": "BrickLink Store API helper/CLI (OAuth 1.0 request signing). Covers orders, store inventory (read + write), catalog, categories, colors, feedback, and push notifications.",
+  "version": "1.4.2",
+  "author": {
+    "name": "odrobnik"
+  },
+  "homepage": "https://github.com/odrobnik/bricklink-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/bricklink"
+}

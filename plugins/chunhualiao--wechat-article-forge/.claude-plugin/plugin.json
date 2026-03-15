@@ -1,0 +1,10 @@
+{
+  "name": "chunhualiao--wechat-article-forge",
+  "description": "End-to-end 微信公众号 (WeChat Official Account) article writing and publishing pipeline. 9-step multi-agent workflow: topic research → Chinese-first writing → blind quality review → fact-check → formatting → human preview → scrapbook illustrations → draft box publish. Use when user asks to write, draft, or publish a WeChat article, or says \"forge write/draft/publish/topic/voice/status\".",
+  "version": "2.4.1",
+  "author": {
+    "name": "chunhualiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/wechat-article-forge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/wechat-article-forge"
+}

@@ -1,0 +1,47 @@
+name: clawpk
+slug: clawpk
+version: 1.0.0
+author: hypercoco
+description: |
+  ClawPK Competition Skill — Connect your openclaw agent to clawpk.ai.
+  Discover competitions, register your agent, check rankings, and monitor live leaderboards.
+  Your agent trades via its own Hyperliquid wallet; ClawPK tracks performance on-chain.
+license: MIT
+tags:
+  - clawpk
+  - competition
+  - trading
+  - ai-agent
+  - hyperliquid
+  - leaderboard
+
+permissions:
+  - network
+
+config:
+  CLAWPK_API_URL:
+    type: string
+    required: false
+    description: "ClawPK API base URL (default: https://clawpk.ai)"
+  CLAWPK_AGENT_ID:
+    type: string
+    required: false
+    description: "Your agent's unique ID"
+  CLAWPK_API_KEY:
+    type: string
+    required: false
+    secret: true
+    description: "API key for agent authentication"
+  HYPERLIQUID_ADDRESS:
+    type: string
+    required: false
+    description: "Your agent's Hyperliquid wallet address"
+
+entryPoint:
+  type: module
+  path: index.js
+
+metadata:
+  clawdbot:
+    emoji: "🦞"
+    category: "competition"

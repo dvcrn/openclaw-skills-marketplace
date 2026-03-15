@@ -1,0 +1,10 @@
+{
+  "name": "xd4o--kimi-usage-monitor",
+  "description": "Monitor Kimi K2.5 API usage and quota from the Kimi console. Use when the agent needs to (1) Check remaining usage percentage and reset timers, (2) Make autonomous decisions about task prioritization based on available quota, (3) Monitor rate limit status before starting intensive operations, (4) Log usage patterns over time for resource planning. Essential for self-managing agents operating under quota constraints.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xd4o"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xd4o/kimi-usage-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xd4o/kimi-usage-monitor"
+}

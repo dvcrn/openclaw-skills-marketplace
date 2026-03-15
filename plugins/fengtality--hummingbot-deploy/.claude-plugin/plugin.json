@@ -1,0 +1,10 @@
+{
+  "name": "fengtality--hummingbot-deploy",
+  "description": "Deploy Hummingbot trading infrastructure including API server, MCP server, and Condor Telegram bot. Use this skill when the user wants to install, deploy, set up, or configure Hummingbot.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fengtality"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fengtality/hummingbot-deploy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fengtality/hummingbot-deploy"
+}

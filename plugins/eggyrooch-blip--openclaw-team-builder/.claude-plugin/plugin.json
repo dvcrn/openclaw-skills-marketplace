@@ -1,0 +1,10 @@
+{
+  "name": "eggyrooch-blip--openclaw-team-builder",
+  "description": "Manage OpenClaw agent teams — add agents, deploy templates, health check, auto-fix, view org tree, rollback, goal-driven team suggestion. Use when user mentions: team management, add agent, org chart, health check, deploy solo template, rollback, suggest team, recommend agents. Triggers: \"加个助手\", \"新增 Agent\", \"看看团队\", \"组织架构\", \"体检\", \"修复\", \"回退\", \"超级个体\", \"推荐团队\", \"建议配置\", \"team builder\", \"add agent\", \"suggest team\", \"渠道\", \"channel\", \"绑定\", \"飞书配置\".",
+  "version": "3.6.1",
+  "author": {
+    "name": "eggyrooch-blip"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/eggyrooch-blip/openclaw-team-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eggyrooch-blip/openclaw-team-builder"
+}

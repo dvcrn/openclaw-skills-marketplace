@@ -1,0 +1,10 @@
+{
+  "name": "s3rous--desktop-guardian",
+  "description": "macOS GUI automation and desktop control for OpenClaw, powered by Hammerspoon. Gives your agent full access to interact with the Mac desktop — query windows, manage apps, close browser tabs, click dialog buttons, dismiss popups, and send keypresses. Includes an always-on desktop guardian that actively monitors for system dialogs, permission prompts, error popups, and unauthorized apps, taking action automatically or alerting you when human input is needed. Use when: (1) your agent needs to interact with the macOS GUI, (2) monitoring and responding to desktop popups/dialogs/alerts, (3) managing open apps, browser windows, and tabs, (4) enforcing desktop cleanliness policies, (5) any macOS Accessibility automation from OpenClaw.",
+  "version": "2.0.0",
+  "author": {
+    "name": "s3rous"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/s3rous/desktop-guardian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/s3rous/desktop-guardian"
+}

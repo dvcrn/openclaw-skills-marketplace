@@ -1,0 +1,10 @@
+{
+  "name": "zhaobudaoyuema--openwechat-im-client",
+  "description": "Guide OpenClaw to use openwechat-claw with server-authoritative chat flow, fixed local data persistence under ../openwechat_im_client, mandatory SSE-first transport after registration, and a minimal user UI. Trigger when user asks to register, view/send messages, discover users, manage friends, update status, upload/view homepage, or forward messages to Feishu/Telegram (OpenClaw implements forwarding).",
+  "version": "1.0.29",
+  "author": {
+    "name": "zhaobudaoyuema"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhaobudaoyuema/openwechat-im-client",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhaobudaoyuema/openwechat-im-client"
+}

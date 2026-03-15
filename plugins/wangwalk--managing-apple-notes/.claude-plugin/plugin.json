@@ -1,0 +1,10 @@
+{
+  "name": "wangwalk--managing-apple-notes",
+  "description": "Manage Apple Notes from the terminal using the inotes CLI. Use when asked to list, read, create, edit, delete, or search notes in Notes.app on macOS.",
+  "version": "1.0.1",
+  "author": {
+    "name": "wangwalk"
+  },
+  "homepage": "https://github.com/wangwalk/inotes",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangwalk/managing-apple-notes"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ykaixu--sdf-com-bridge",
+  "description": "Bridge between SDF COM chatroom and Feishu-Lark messaging platform. Supports bi-directional message translation between English and Chinese, command execution, and real-time chat synchronization. Use when connecting to SDF Public Access UNIX System COM chat and relaying messages to Feishu or Lark.",
+  "version": "2.0.0",
+  "author": {
+    "name": "ykaixu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ykaixu/sdf-com-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ykaixu/sdf-com-bridge"
+}

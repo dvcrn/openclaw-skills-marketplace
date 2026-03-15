@@ -1,0 +1,10 @@
+{
+  "name": "mehediahamed--travel-destination-brochure",
+  "description": "Build travel destination scenarios and brochures from a city name. Fetches street-level and landmark imagery from OpenStreetCam and Wikimedia Commons, then uses VLM Run (vlmrun) to generate a travel video and a travel plan. Use when the user wants a travel brochure, destination guide, travel video, or travel planning for a city.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mehediahamed"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mehediahamed/travel-destination-brochure",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mehediahamed/travel-destination-brochure"
+}

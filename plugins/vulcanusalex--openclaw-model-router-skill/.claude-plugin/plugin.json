@@ -1,0 +1,10 @@
+{
+  "name": "vulcanusalex--openclaw-model-router-skill",
+  "description": "Production-grade model router for OpenClaw: prefix routing (@codex/@mini), timezone-aware schedule switching, verify-after-switch, rollback, lock protection, and JSONL audit logs.",
+  "version": "0.2.1",
+  "author": {
+    "name": "vulcanusalex"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vulcanusalex/openclaw-model-router-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vulcanusalex/openclaw-model-router-skill"
+}

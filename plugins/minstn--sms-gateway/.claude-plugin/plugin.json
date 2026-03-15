@@ -1,0 +1,10 @@
+{
+  "name": "minstn--sms-gateway",
+  "description": "Send and receive SMS using a local sms-gate.app instance running on Android (via Termux) or a dedicated device. Use when the user needs to send text messages, check delivery status, list message history, or manage webhooks for incoming SMS.",
+  "version": "1.0.0",
+  "author": {
+    "name": "minstn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/minstn/sms-gateway",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/minstn/sms-gateway"
+}

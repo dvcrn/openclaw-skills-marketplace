@@ -1,0 +1,10 @@
+{
+  "name": "bailaner--celebrity-hot-money-tag",
+  "description": "Analyzes famous Chinese traders (游资) from dragon-tiger lists, provides win rates, investment recommendations, and trading style analysis. Invoke when user needs to identify trader seats, analyze trading patterns, or get follow-investment advice based on 龙虎榜 data.",
+  "version": "1.0.2",
+  "author": {
+    "name": "bailaner"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bailaner/celebrity-hot-money-tag",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bailaner/celebrity-hot-money-tag"
+}

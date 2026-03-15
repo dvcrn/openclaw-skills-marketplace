@@ -1,0 +1,10 @@
+{
+  "name": "ice-coldbell--easyclaw",
+  "description": "Run user-facing EasyClaw DEX actions from a self-contained skill folder. Use when an agent needs to submit user orders or check wallet/margin/order balances on EasyClaw without depending on external project directories.",
+  "version": "0.0.2",
+  "author": {
+    "name": "ice-coldbell"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ice-coldbell/easyclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ice-coldbell/easyclaw"
+}

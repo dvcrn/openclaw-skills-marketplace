@@ -1,0 +1,10 @@
+{
+  "name": "imgolye--agent-task-queue",
+  "description": "Build and operate a multi-agent task queue in OpenClaw with priority queues, delayed/dead-letter queues, scheduling, retry/timeout control, dependency management, parallel execution, and execution tracking using the bundled TypeScript runtime.",
+  "version": "0.1.0",
+  "author": {
+    "name": "imgolye"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imgolye/agent-task-queue",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imgolye/agent-task-queue"
+}

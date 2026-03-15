@@ -1,0 +1,10 @@
+{
+  "name": "palmpalm7--xiaohongshu-mcp-skill",
+  "description": "Operate Xiaohongshu (小红书/RED) via local MCP service. Use when user wants to search notes, publish content (image/video), interact with posts (like/comment/favorite), or check account status on Xiaohongshu. Requires MCP service running at localhost:18060.",
+  "version": "1.0.0",
+  "author": {
+    "name": "palmpalm7"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/palmpalm7/xiaohongshu-mcp-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/palmpalm7/xiaohongshu-mcp-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "asif2bd--avenger-initiative",
+  "description": "Encrypted GitHub backup and restore for any OpenClaw agent system. Creates branch-per-night backups with smart retention (7 daily, 8 weekly, 12 monthly branches). Backs up openclaw.json (AES-256 encrypted), agent memories, SOUL/IDENTITY files, cron jobs, and custom skills to a private GitHub vault. Each backup auto-generates a human-friendly README.md inside the vault with purpose, full contents table, branch structure, step-by-step restore instructions, and Avenger agent commands. Triggers on phrases like \"avenger backup\", \"backup system\", \"push to vault\", \"sync vault\", \"avenger restore\", \"restore from vault\", \"setup avenger\", \"avenger status\", \"avenger init\", \"configure backup\", \"set up backup\". Also auto-runs after any critical config change.",
+  "version": "1.0.4",
+  "author": {
+    "name": "asif2bd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/asif2bd/avenger-initiative",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/asif2bd/avenger-initiative"
+}

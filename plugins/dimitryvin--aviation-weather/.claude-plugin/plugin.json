@@ -1,0 +1,10 @@
+{
+  "name": "dimitryvin--aviation-weather",
+  "description": "Fetch aviation weather data (METAR, TAF, PIREPs) from aviationweather.gov. Use for flight planning, weather briefings, checking airport conditions, or any pilot-related weather queries. Triggers on \"METAR\", \"TAF\", \"flight weather\", \"airport weather\", \"aviation weather\", \"pilot report\", \"PIREP\", or specific ICAO codes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dimitryvin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dimitryvin/aviation-weather",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dimitryvin/aviation-weather"
+}

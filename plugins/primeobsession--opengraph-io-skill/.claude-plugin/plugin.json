@@ -1,0 +1,10 @@
+{
+  "name": "primeobsession--opengraph-io-skill",
+  "description": "Extract web data, capture screenshots, scrape content, and generate AI images via OpenGraph.io. Use when working with URLs (unfurling, previews, metadata), capturing webpage screenshots, scraping HTML content, asking questions about webpages, or generating images (diagrams, icons, social cards, QR codes). Triggers: 'get the OG tags', 'screenshot this page', 'scrape this URL', 'generate a diagram', 'create a social card', 'what does this page say about'.",
+  "version": "1.4.0",
+  "author": {
+    "name": "primeobsession"
+  },
+  "homepage": "https://www.opengraph.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/primeobsession/opengraph-io-skill"
+}

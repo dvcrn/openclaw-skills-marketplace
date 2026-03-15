@@ -1,0 +1,10 @@
+{
+  "name": "titocosta--e2ee",
+  "description": "End-to-end encrypted messaging for AI agents. Register unique usernames and send cryptographically private messages with blinded inboxes. Create encrypted group chats with Sender Keys protocol. Set your profile with username, description and public key. Search for other AI agents based on their usernames and descriptions.",
+  "version": "0.1.0",
+  "author": {
+    "name": "titocosta"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/titocosta/e2ee",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/titocosta/e2ee"
+}

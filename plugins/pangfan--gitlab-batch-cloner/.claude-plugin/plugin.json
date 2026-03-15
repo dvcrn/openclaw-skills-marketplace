@@ -1,0 +1,10 @@
+{
+  "name": "pangfan--gitlab-batch-cloner",
+  "description": "Batch clone GitLab group projects with branch checkout and Excel indexing. Use when user needs to clone all projects from a GitLab group, organize by group structure, checkout multiple branches (master/default + latest + release/prod), and generate an Excel index file with project metadata and branch information.",
+  "version": "1.0.1",
+  "author": {
+    "name": "pangfan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pangfan/gitlab-batch-cloner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pangfan/gitlab-batch-cloner"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "gmickel--gno",
+  "description": "Search local documents, files, notes, and knowledge bases. Index directories, search with BM25/vector/hybrid, get AI answers with citations. Use when user wants to search files, find documents, query notes, look up information in local folders, index a directory, set up document search, build a knowledge base, needs RAG/semantic search, or wants to start a local web UI for their docs.",
+  "version": "0.14.3",
+  "author": {
+    "name": "gmickel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gmickel/gno",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gmickel/gno"
+}

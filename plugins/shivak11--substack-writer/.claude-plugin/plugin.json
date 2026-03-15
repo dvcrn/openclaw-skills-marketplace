@@ -1,0 +1,10 @@
+{
+  "name": "shivak11--substack-writer",
+  "description": "Write long-form Substack newsletters about GenAI, education, edtech, and their intersections. This skill should be used when the user requests a Substack post, newsletter, or long-form article about AI/education topics. Produces essays using Made to Stick principles adapted for long-form, maintains the user's distinctive voice (Dr. Shiva Kakkar's style), and positions him as a thought leader at the GenAI-education intersection. Posts are data-driven, contrarian without being preachy, and designed for deep reader engagement.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shivak11"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shivak11/substack-writer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shivak11/substack-writer"
+}

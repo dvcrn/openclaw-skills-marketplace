@@ -1,0 +1,10 @@
+{
+  "name": "leadingot--opusflame-deep-research",
+  "description": "Autonomous multi-model deep research with framework-driven reasoning. Spawns 4 parallel model agents (Gemini 2.5 Pro, o3, Opus, MiniMax), each applies best-practice frameworks to the question, then merges into a cross-validated final report. Use when: (1) user asks for in-depth research, (2) 'research X' or 'deep dive on X', (3) complex questions requiring multiple sources. NOT for: simple factual lookups.",
+  "version": "2.0.0",
+  "author": {
+    "name": "leadingot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leadingot/opusflame-deep-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leadingot/opusflame-deep-research"
+}

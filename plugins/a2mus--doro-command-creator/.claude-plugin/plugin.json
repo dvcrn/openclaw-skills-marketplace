@@ -1,0 +1,10 @@
+{
+  "name": "a2mus--doro-command-creator",
+  "description": "WHAT: Create Claude Code slash commands - reusable markdown workflows invoked with /command-name.\n \n WHEN: User wants to create, make, or add a slash command. User wants to automate a repetitive workflow or document a consistent process for reuse.\n \n KEYWORDS: \"create a command\", \"make a slash command\", \"add a command\", \"new command\", \"/command\", \"automate this workflow\", \"make this repeatable\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "a2mus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/a2mus/doro-command-creator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/a2mus/doro-command-creator"
+}

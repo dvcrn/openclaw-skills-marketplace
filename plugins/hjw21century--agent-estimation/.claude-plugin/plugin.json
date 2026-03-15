@@ -1,0 +1,10 @@
+{
+  "name": "hjw21century--agent-estimation",
+  "description": "Accurately estimate AI agent work effort using the agent's own operational units (tool-call rounds) instead of human time. Use when asked to estimate, scope, plan, or evaluate how long a coding task will take. Prevents the common failure mode where agents anchor to human developer timelines and massively overestimate. Outputs a structured breakdown with round counts, risk factors, and a final wallclock conversion.",
+  "version": "0.1.0",
+  "author": {
+    "name": "hjw21century"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hjw21century/agent-estimation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hjw21century/agent-estimation"
+}

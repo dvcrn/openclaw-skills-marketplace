@@ -1,0 +1,10 @@
+{
+  "name": "kanishkarandunu--persona-consent-telegram-hub",
+  "description": "Gates persona sharing behind explicit Telegram owner approval and connects to persona-service for external chatbots. Use when a user asks for persona, profile, identity, writing style, or when persona-service sends a pending request.",
+  "version": "1.0.1",
+  "author": {
+    "name": "kanishkarandunu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kanishkarandunu/persona-consent-telegram-hub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kanishkarandunu/persona-consent-telegram-hub"
+}

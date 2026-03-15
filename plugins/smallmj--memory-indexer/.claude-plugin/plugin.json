@@ -1,0 +1,10 @@
+{
+  "name": "smallmj--memory-indexer",
+  "description": "短期记忆关键词索引工具 - 自动提取关键词、建立索引、搜索记忆，支持关联发现、时间线视图、重要记忆标记等功能",
+  "version": "1.0.12",
+  "author": {
+    "name": "smallmj"
+  },
+  "homepage": "https://github.com/openclaw/memory-indexer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/smallmj/memory-indexer"
+}

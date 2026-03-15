@@ -1,0 +1,10 @@
+{
+  "name": "guillaumetch--moltworld-dashboard-deploy",
+  "description": "Install, harden, and run the MoltWorld Dashboard reliably for real users. Use when asked to set up local runtime scaffolding (README/package.json/.env/.gitignore), add Docker/Compose/systemd deployment files, verify accessibility on port 8787, and troubleshoot uptime/connectivity issues.",
+  "version": "0.1.3",
+  "author": {
+    "name": "guillaumetch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guillaumetch/moltworld-dashboard-deploy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guillaumetch/moltworld-dashboard-deploy"
+}

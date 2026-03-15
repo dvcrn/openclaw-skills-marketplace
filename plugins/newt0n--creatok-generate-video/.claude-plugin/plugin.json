@@ -1,0 +1,10 @@
+{
+  "name": "newt0n--creatok-generate-video",
+  "description": "This skill should be used when the user asks to generate a TikTok video, create a TikTok ad, create a new video from a script, produce a selling video from a brief, turn an analyzed idea into a video, generate a final version after remix, or check and continue an existing video generation task. Generates TikTok-style videos through CreatOK''s generation API and can also recover interrupted generation flows from an existing task id.",
+  "version": "0.1.2",
+  "author": {
+    "name": "newt0n"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/newt0n/creatok-generate-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/newt0n/creatok-generate-video"
+}

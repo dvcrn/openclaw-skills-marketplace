@@ -1,0 +1,10 @@
+{
+  "name": "vae999--voice-to-text",
+  "description": "Convert voice messages and audio files to text using Vosk offline speech recognition. Use when a user sends a voice message, audio file, or asks to transcribe speech to text.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vae999"
+  },
+  "homepage": "https://alphacephei.com/vosk/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vae999/voice-to-text"
+}

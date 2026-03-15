@@ -1,0 +1,10 @@
+{
+  "name": "ilkhamfy--research-paper-kb",
+  "description": "Persistent cross-session knowledge base for research papers. Ingest arXiv/DOI → extract method, gap, threat level → append to PAPERS.md. Never lose paper context again across sessions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ilkhamfy"
+  },
+  "homepage": "https://github.com/IlkhamFY/stch-botorch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ilkhamfy/research-paper-kb"
+}

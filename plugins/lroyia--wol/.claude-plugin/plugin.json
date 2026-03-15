@@ -1,0 +1,10 @@
+{
+  "name": "lroyia--wol",
+  "description": "Wake-on-LAN (WOL) skill to remotely wake computers and manage device configurations. Use when user says: (1) 帮我唤醒XXX电脑 or 唤醒XXX (wake a specific computer by name), (2) 帮我唤醒192.168.x.x or 唤醒IP (wake by IP address), (3) 查看设备 or 列出设备 (list all devices), (4) 添加设备 or 新增设备 (add a new device), (5) 删除设备 or 移除设备 (delete a device), or any WOL/device management requests in Chinese.",
+  "version": "1.0.2",
+  "author": {
+    "name": "lroyia"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lroyia/wol",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lroyia/wol"
+}

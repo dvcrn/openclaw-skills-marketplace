@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--cell",
+  "description": "使用极速数据基站查询 API，通过移动/联通/电信基站参数查询粗略位置（经纬度与地址）。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/cell",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/cell"
+}

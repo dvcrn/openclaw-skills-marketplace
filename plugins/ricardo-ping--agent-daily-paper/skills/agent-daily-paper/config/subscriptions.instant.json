@@ -1,0 +1,150 @@
+{
+  "subscriptions": [
+    {
+      "id": "auto-subscription",
+      "name": "Auto Field Subscription",
+      "timezone": "Asia/Shanghai",
+      "push_time": "09:00",
+      "time_window_hours": 24,
+      "field_settings": [
+        {
+          "name": "recommender systems",
+          "limit": 10,
+          "categories": [
+            "cs.IR",
+            "cs.LG",
+            "cs.SI",
+            "cs.CL",
+            "cs.DL"
+          ],
+          "primary_categories": [
+            "cs.CL",
+            "cs.DL",
+            "cs.IR",
+            "cs.LG",
+            "cs.SI"
+          ],
+          "keywords": [
+            "recommendation",
+            "recommender",
+            "ranking",
+            "retrieval"
+          ],
+          "exclude_keywords": []
+        }
+      ],
+      "field_profiles": [
+        {
+          "field": "推荐系统",
+          "canonical_en": "recommender systems",
+          "keywords": [
+            "recommendation",
+            "recommender",
+            "ranking",
+            "retrieval"
+          ],
+          "venues": [
+            "SIGIR",
+            "WSDM",
+            "ECIR",
+            "WWW",
+            "RecSys",
+            "ICML",
+            "NeurIPS",
+            "ICLR"
+          ],
+          "categories": [
+            "cs.IR",
+            "cs.LG",
+            "cs.SI",
+            "cs.CL",
+            "cs.DL"
+          ],
+          "primary_categories": [
+            "cs.CL",
+            "cs.DL",
+            "cs.IR",
+            "cs.LG",
+            "cs.SI"
+          ],
+          "source": "heuristic"
+        }
+      ],
+      "query_strategy": "category_keyword_union",
+      "require_primary_category": true,
+      "history_scope": "subscription",
+      "category_expand_mode": "balanced",
+      "embedding_filter": {
+        "enabled": true,
+        "model": "BAAI/bge-m3",
+        "threshold": 0.58,
+        "top_k": 120
+      },
+      "agent_rerank": {
+        "enabled": true,
+        "model": "BAAI/bge-reranker-v2-m3",
+        "top_k": 40
+      },
+      "highlight": {
+        "title_keywords": [
+          "recommendation",
+          "recommender",
+          "ranking",
+          "retrieval"
+        ],
+        "authors": [],
+        "venues": [
+          "SIGIR",
+          "WSDM",
+          "ECIR",
+          "WWW",
+          "RecSys",
+          "ICML"
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "openai_enabled": false,
+    "agent_profiles_enabled": false,
+    "taxonomy_loaded": true,
+    "taxonomy_entry_count": 155,
+    "fields": [
+      {
+        "field": "推荐系统",
+        "canonical_en": "recommender systems",
+        "source": "heuristic",
+        "categories": [
+          "cs.IR",
+          "cs.LG",
+          "cs.SI",
+          "cs.CL",
+          "cs.DL"
+        ],
+        "primary_categories": [
+          "cs.CL",
+          "cs.DL",
+          "cs.IR",
+          "cs.LG",
+          "cs.SI"
+        ],
+        "keywords": [
+          "recommendation",
+          "recommender",
+          "ranking",
+          "retrieval"
+        ],
+        "venues": [
+          "SIGIR",
+          "WSDM",
+          "ECIR",
+          "WWW",
+          "RecSys",
+          "ICML",
+          "NeurIPS",
+          "ICLR"
+        ]
+      }
+    ]
+  }
+}

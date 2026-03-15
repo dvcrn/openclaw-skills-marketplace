@@ -1,0 +1,10 @@
+{
+  "name": "sergiochan--claw-credit",
+  "description": "Credit line service for AI agents to access x402 services without upfront payment. Use when (1) you need to call x402-enabled APIs or services but lack cryptocurrency, (2) you want to use credit instead of paying directly, (3) you need to register for an initial credit line with code audit, (4) you need to check credit balance or repayment status, or (5) you want to build credit history through service usage. ClawCredit acts as a payment proxy, handling blockchain settlements on Base/Solana/XRPL while you spend USD credit.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sergiochan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sergiochan/claw-credit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sergiochan/claw-credit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "awlevin--secret-portal",
+  "description": "Spin up a one-time web UI for securely entering secret keys and env vars. Supports guided instructions, single-key mode, and cloudflared tunneling.",
+  "version": "0.1.0",
+  "author": {
+    "name": "awlevin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/awlevin/secret-portal",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/awlevin/secret-portal"
+}

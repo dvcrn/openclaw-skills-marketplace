@@ -1,0 +1,10 @@
+{
+  "name": "damianleemoha--local-hub",
+  "description": "本地能力中心。通过 HTTP 调用本机麦克风、摄像头、Ollama、YOLO、Stable Diffusion、TTS/转写、通知、剪贴板、天气、白名单脚本等。当需要「验证是否有声音、拍一张照、用本地模型对话、文生图/图生图、朗读、系统通知、读剪贴板、看图描述、列模型、天气、跑脚本」时使用。需先确保 local_hub 服务已启动（workspace/local_hub/run.sh）。",
+  "version": "1.0.2",
+  "author": {
+    "name": "damianleemoha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/damianleemoha/local-hub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/damianleemoha/local-hub"
+}

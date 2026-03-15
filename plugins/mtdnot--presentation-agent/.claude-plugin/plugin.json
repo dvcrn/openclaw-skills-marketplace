@@ -1,0 +1,10 @@
+{
+  "name": "mtdnot--presentation-agent",
+  "description": "Convert Markdown documents to presentation slides (PDF/PPTX/HTML) using Marp. Supports Mermaid diagrams (gantt, flowchart, etc.) and data graphs. Use when a user asks to create slides, presentations, or decks from Markdown files or text content.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mtdnot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mtdnot/presentation-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mtdnot/presentation-agent"
+}

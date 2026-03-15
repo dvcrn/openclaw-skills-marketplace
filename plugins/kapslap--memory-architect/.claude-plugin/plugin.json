@@ -1,0 +1,10 @@
+{
+  "name": "kapslap--memory-architect",
+  "description": "Restructure flat MEMORY.md files into a tiered memory system with an entity graph. Use when: (1) MEMORY.md is growing unwieldy or exceeds 150 lines, (2) user asks to organize/restructure/tier memory, (3) context compaction is losing important details, (4) you need structured entity lookup (people, projects, properties, contacts) instead of scanning markdown. Triggers on organize my memory, memory is too big, restructure memory, tier my memory, make memory more efficient.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kapslap"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kapslap/memory-architect",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kapslap/memory-architect"
+}

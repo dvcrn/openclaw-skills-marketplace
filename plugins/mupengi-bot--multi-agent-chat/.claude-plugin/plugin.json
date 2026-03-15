@@ -1,0 +1,10 @@
+{
+  "name": "mupengi-bot--multi-agent-chat",
+  "description": "Prevent common failures in multi-agent Discord conversations. Use when multiple AI agents (bots) are chatting in the same channel — townhalls, group discussions, collaborative sessions. Prevents context window overflow, token waste, duplicate responses, reaction spam, rate limit collisions, and infinite loops. Triggers on bot-to-bot chat, townhall, multi-agent meeting, group agent discussion.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mupengi-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/multi-agent-chat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/multi-agent-chat"
+}

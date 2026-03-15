@@ -1,0 +1,10 @@
+{
+  "name": "bro3886--healthsync",
+  "description": "Queries Apple Health data stored in a local SQLite database. Use this skill to read heart rate, steps, SpO2, VO2 Max, sleep, workouts, resting heart rate, HRV, blood pressure, active/basal energy, body metrics, mobility, running metrics, mindful sessions, wrist temperature, and more. Can query via the healthsync CLI or directly via SQLite. Read-only — never write to the database.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bro3886"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bro3886/healthsync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bro3886/healthsync"
+}

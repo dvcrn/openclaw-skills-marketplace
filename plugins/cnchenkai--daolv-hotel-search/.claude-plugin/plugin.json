@@ -1,0 +1,10 @@
+{
+  "name": "cnchenkai--daolv-hotel-search",
+  "description": "Hotel search and shortlist comparison using the ai-go-hotel MCP server (getHotelSearchTags, searchHotels). Use when users need fast hotel discovery by city/POI/date/budget/amenities/brand, but do not yet need full booking-room confirmation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "cnchenkai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cnchenkai/daolv-hotel-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cnchenkai/daolv-hotel-search"
+}

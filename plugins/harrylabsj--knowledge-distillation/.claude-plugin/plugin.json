@@ -1,0 +1,10 @@
+{
+  "name": "harrylabsj--knowledge-distillation",
+  "description": "Distill OpenClaw daily memory, session transcripts, and newly generated report files into new knowledge points and deeper knowledge leads. Use when the input is workspace-native materials such as MEMORY.md, memory/*.md, session logs, daily notes, summaries, or generated report files, and the goal is to extract (1) newly formed knowledge worth retaining and (2) promising knowledge threads worth further study. Output should be a dated Markdown file.",
+  "version": "1.0.1",
+  "author": {
+    "name": "harrylabsj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/knowledge-distillation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/knowledge-distillation"
+}

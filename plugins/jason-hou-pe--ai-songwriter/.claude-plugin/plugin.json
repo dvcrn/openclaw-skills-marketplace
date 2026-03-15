@@ -1,0 +1,10 @@
+{
+  "name": "jason-hou-pe--ai-songwriter",
+  "description": "三道工序 AI 写歌。用户只需给主题，全自动跑完白描起草→注入灵魂金句→完美押韵排版→Suno生成，最终直接返回试听链接。中间不停顿、不等用户确认。",
+  "version": "1.1.0",
+  "author": {
+    "name": "jason-hou-pe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jason-hou-pe/ai-songwriter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jason-hou-pe/ai-songwriter"
+}

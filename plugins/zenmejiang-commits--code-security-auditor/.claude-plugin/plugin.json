@@ -1,0 +1,10 @@
+{
+  "name": "zenmejiang-commits--code-security-auditor",
+  "description": "Comprehensive code security audit with AI-powered vulnerability detection. Covers OWASP Top 10, dependency scanning, secret detection, SAST, and provides actionable fix recommendations. Use when security review, penetration testing, or compliance audit is needed.",
+  "version": "1.3.0",
+  "author": {
+    "name": "zenmejiang-commits"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zenmejiang-commits/code-security-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zenmejiang-commits/code-security-auditor"
+}

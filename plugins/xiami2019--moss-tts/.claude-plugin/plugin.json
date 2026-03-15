@@ -1,0 +1,10 @@
+{
+  "name": "xiami2019--moss-tts",
+  "description": "Voice-first OpenClaw skill powered by MOSS APIs. Use when a user wants spoken replies in a preferred timbre, either from an existing voice_id or from a reference audio clip.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiami2019"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiami2019/moss-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiami2019/moss-tts"
+}

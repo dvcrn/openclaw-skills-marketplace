@@ -1,0 +1,10 @@
+{
+  "name": "phy041--phy-brand-dna-extractor",
+  "description": "Extract brand identity (colors, typography, visual style, imagery) from any website URL. Scrapes the site, analyzes CSS/images with K-means and VLM, and returns a structured brand profile. Use when you need to understand a brand's visual language before generating on-brand content.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phy041"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-brand-dna-extractor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-brand-dna-extractor"
+}

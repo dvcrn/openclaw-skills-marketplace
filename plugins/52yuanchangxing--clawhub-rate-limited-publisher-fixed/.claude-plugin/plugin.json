@@ -1,0 +1,10 @@
+{
+  "name": "52yuanchangxing--clawhub-rate-limited-publisher-fixed",
+  "description": "Queue and publish local skills to ClawHub with a strict 5-per-hour cap using the local clawhub CLI and host scheduler.",
+  "version": "1.0.0",
+  "author": {
+    "name": "52yuanchangxing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/52yuanchangxing/clawhub-rate-limited-publisher-fixed",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/52yuanchangxing/clawhub-rate-limited-publisher-fixed"
+}

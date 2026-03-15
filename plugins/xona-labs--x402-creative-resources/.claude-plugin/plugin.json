@@ -1,0 +1,10 @@
+{
+  "name": "xona-labs--x402-creative-resources",
+  "description": "Access Xona's x402 creative resource APIs on api.xona-agent.com. Includes creative director (design research), image generation (nano-banana, seedream, grok-imagine, qwen, designer), video generation, X news extraction, and PumpFun token intelligence. Use when the user asks to research design trends, generate images or videos, get latest news from X, or check PumpFun trending tokens.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xona-labs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xona-labs/x402-creative-resources",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xona-labs/x402-creative-resources"
+}

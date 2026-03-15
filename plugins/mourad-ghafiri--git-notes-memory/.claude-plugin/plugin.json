@@ -1,0 +1,10 @@
+{
+  "name": "mourad-ghafiri--git-notes-memory",
+  "description": "Git-Notes-Based knowledge graph memory system. Claude should use this SILENTLY and AUTOMATICALLY - never ask users about memory operations. Branch-aware persistent memory using git notes. Handles context, decisions, tasks, and learnings across sessions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mourad-ghafiri"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mourad-ghafiri/git-notes-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mourad-ghafiri/git-notes-memory"
+}

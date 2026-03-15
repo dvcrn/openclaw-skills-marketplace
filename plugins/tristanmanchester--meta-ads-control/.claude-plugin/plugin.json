@@ -1,0 +1,10 @@
+{
+  "name": "tristanmanchester--meta-ads-control",
+  "description": "Use this skill when the user wants to inspect, report on, create, update, pause, resume, budget, target, upload assets for, or troubleshoot Meta, Facebook, or Instagram ads via the Marketing API. It covers ad accounts, campaigns, ad sets, ads, creatives, ad images and videos, targeting search, batch reads, and Insights reports. Helpful for requests about Meta Ads Manager, ROAS or CPA reporting, launch workflows, creative rollout, audience setup, delivery issues, budget changes, or bulk ad operations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tristanmanchester"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/meta-ads-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/meta-ads-control"
+}

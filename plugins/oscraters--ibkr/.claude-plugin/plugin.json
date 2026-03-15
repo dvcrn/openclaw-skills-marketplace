@@ -1,0 +1,10 @@
+{
+  "name": "oscraters--ibkr",
+  "description": "Comprehensive Interactive Brokers (IBKR) TWS/Gateway skill using ib_insync. Includes Python and bash CLIs for account, market data, historical data, contract lookup, scanners, and order lifecycle management.",
+  "version": "1.0.0",
+  "author": {
+    "name": "oscraters"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oscraters/ibkr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oscraters/ibkr"
+}

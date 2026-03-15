@@ -1,0 +1,10 @@
+{
+  "name": "zeron-g--heartbeat-manager",
+  "description": "Agent 心跳管理系统：自动检查任务状态、智能超时分析、日报/周报、健康度评分。与 OpenClaw 心跳同步运行。",
+  "version": "1.2.0",
+  "author": {
+    "name": "zeron-g"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zeron-g/heartbeat-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zeron-g/heartbeat-manager"
+}

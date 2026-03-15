@@ -1,0 +1,10 @@
+{
+  "name": "runesleo--runesleo-humanizer",
+  "description": "Remove signs of AI-generated writing from text. Detects and fixes 24 common\n AI patterns including inflated symbolism, promotional language, superficial\n analyses, vague attributions, em dash overuse, rule of three, AI vocabulary\n words, negative parallelisms, and sycophantic tone. Based on Wikipedia's\n \"Signs of AI writing\" guide maintained by WikiProject AI Cleanup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "runesleo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runesleo/runesleo-humanizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runesleo/runesleo-humanizer"
+}

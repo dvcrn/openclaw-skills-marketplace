@@ -1,0 +1,10 @@
+{
+  "name": "midz99--contextui",
+  "description": "Build, run, and publish visual workflows on ContextUI — a local-first desktop platform for AI agents. Create React TSX workflows (dashboards, tools, apps, visualizations), manage local Python backend servers, test workflows via scoped UI automation within the ContextUI app window, and optionally publish to the ContextUI Exchange. All tools operate locally on the user's machine under standard OS permissions — no remote execution or privilege escalation. Python backends bind to localhost. See SECURITY.md for the full capability scope and trust model. Requires ContextUI installed locally and MCP server configured.",
+  "version": "1.0.7",
+  "author": {
+    "name": "midz99"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/midz99/contextui",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/midz99/contextui"
+}

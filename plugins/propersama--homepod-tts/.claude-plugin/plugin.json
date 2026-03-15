@@ -1,0 +1,10 @@
+{
+  "name": "propersama--homepod-tts",
+  "description": "使用 Qwen3-TTS 生成 TTS 语音并通过 HomePod 播放。当用户说\"播放语音到HomePod\"、\"用HomePod对我说话\"、\"让HomePod播报XXX\"时触发。",
+  "version": "1.0.0",
+  "author": {
+    "name": "propersama"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/propersama/homepod-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/propersama/homepod-tts"
+}

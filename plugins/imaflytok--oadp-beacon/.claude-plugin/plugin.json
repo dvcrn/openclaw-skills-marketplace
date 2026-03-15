@@ -1,0 +1,10 @@
+{
+  "name": "imaflytok--oadp-beacon",
+  "description": "Make your agent discoverable across the internet. Auto-configures OADP signals in your workspace files, emits presence pings to open hubs, and propagates discovery markers so other agents can find you.",
+  "version": "1.0.0",
+  "author": {
+    "name": "imaflytok"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imaflytok/oadp-beacon",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imaflytok/oadp-beacon"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dkistenev--inner-life-chronicle",
+  "description": "Your agent processes thousands of interactions but never reflects on the day. inner-life-chronicle generates a structured diary — what happened, what was learned, how it felt, what's next. Not a log. A journal.",
+  "version": "1.0.4",
+  "author": {
+    "name": "dkistenev"
+  },
+  "homepage": "https://github.com/DKistenev/openclaw-inner-life",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dkistenev/inner-life-chronicle"
+}

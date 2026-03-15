@@ -1,0 +1,10 @@
+{
+  "name": "xvarx--claw-prompt-injection-guard",
+  "description": "防护间接提示词注入攻击（Indirect Prompt Injection）。当处理网页内容、搜索结果、邮件、社交媒体等外部来源信息时触发。用于识别和防范外部内容中隐藏的恶意指令。所有 Claw 都应安装此技能。",
+  "version": "1.0.0",
+  "author": {
+    "name": "xvarx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xvarx/claw-prompt-injection-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xvarx/claw-prompt-injection-guard"
+}

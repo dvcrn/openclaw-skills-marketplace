@@ -1,0 +1,10 @@
+{
+  "name": "chunhualiao--rotate-openrouter-key",
+  "description": "Safely rotate the OpenRouter API key across all config files in an OpenClaw installation. Finds every location where the key is stored, updates them, restarts the gateway, and verifies the new key works. Use when asked to \"rotate openrouter key\", \"change openrouter api key\", \"update openrouter key\", or \"replace openrouter key\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "chunhualiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/rotate-openrouter-key",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/rotate-openrouter-key"
+}

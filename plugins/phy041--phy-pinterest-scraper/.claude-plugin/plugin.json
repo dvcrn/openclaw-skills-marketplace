@@ -1,0 +1,10 @@
+{
+  "name": "phy041--phy-pinterest-scraper",
+  "description": "Scrape Pinterest search results and collect pins with image URLs, descriptions, and direct links using infinite scroll. Use when you want to collect visual inspiration, trend data, or product imagery from Pinterest for research, datasets, or content planning.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phy041"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-pinterest-scraper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-pinterest-scraper"
+}

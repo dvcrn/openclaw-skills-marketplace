@@ -1,0 +1,10 @@
+{
+  "name": "onenameneo--configure-openclaw",
+  "description": "Use when asked to change, configure, or update any OpenClaw setting — model selection, channel setup, auth, tools, gateway, session, cron, hooks, env, skills, multi-agent bindings, sandbox, heartbeat, or any other field in openclaw.json. Also use when user reports config errors, startup failures, or unknown field warnings. Covers all root-level sections including agents, channels, session, cron, hooks, gateway, tools, browser, skills, audio, talk, ui, logging, identity, bindings, broadcast, discovery, env, messages, plugins, and web.",
+  "version": "1.0.0",
+  "author": {
+    "name": "onenameneo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/onenameneo/configure-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/onenameneo/configure-openclaw"
+}

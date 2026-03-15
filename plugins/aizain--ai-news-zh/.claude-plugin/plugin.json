@@ -1,0 +1,10 @@
+{
+  "name": "aizain--ai-news-zh",
+  "description": "中文AI科技日报自动采集与推送。从The Verge、Wired、TechCrunch等英文源抓取最新AI资讯，自动翻译整理为中文，按分类推送到飞书/Telegram/Discord等渠道。适合关注AI行业动态的中文用户。",
+  "version": "1.0.0",
+  "author": {
+    "name": "aizain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aizain/ai-news-zh",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aizain/ai-news-zh"
+}

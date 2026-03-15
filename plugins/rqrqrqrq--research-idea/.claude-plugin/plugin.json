@@ -1,0 +1,10 @@
+{
+  "name": "rqrqrqrq--research-idea",
+  "description": "Launch background Clawdbot sessions to explore and analyze business ideas. Say 'Idea: [description]' to trigger. Fork of 'idea' skill rewritten to use sessions_spawn instead of claude CLI + tmux + telegram CLI. Results sent to current chat, not Saved Messages. Zero external dependencies.",
+  "version": "0.1.0",
+  "author": {
+    "name": "rqrqrqrq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rqrqrqrq/research-idea",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rqrqrqrq/research-idea"
+}

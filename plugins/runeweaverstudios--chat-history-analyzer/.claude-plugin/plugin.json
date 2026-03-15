@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--chat-history-analyzer",
+  "description": "Extracts and analyzes Cursor IDE chat history to identify key discoveries, obstacles, and solutions, saving findings to the journal.",
+  "version": "1.0.5",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/chat-history-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/chat-history-analyzer"
+}

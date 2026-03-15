@@ -1,0 +1,10 @@
+{
+  "name": "g9pedro--pdauth",
+  "description": "Dynamic OAuth for AI agents via Pipedream. Generate OAuth links for 2500+ APIs, let users authorize, then call MCP tools on their behalf.",
+  "version": "1.0.0",
+  "author": {
+    "name": "g9pedro"
+  },
+  "homepage": "https://github.com/Versatly/pdauth",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/g9pedro/pdauth"
+}

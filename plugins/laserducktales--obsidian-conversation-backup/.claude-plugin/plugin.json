@@ -1,0 +1,10 @@
+{
+  "name": "laserducktales--obsidian-conversation-backup",
+  "description": "Automatic conversation backup system for Obsidian with incremental snapshots, hourly breakdowns, and formatted chat-style markdown. Use when setting up conversation archival, preventing data loss from /new resets, or organizing chat history in Obsidian vault with proper formatting (colored callouts, timestamps, multi-paragraph support).",
+  "version": "1.0.0",
+  "author": {
+    "name": "laserducktales"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/laserducktales/obsidian-conversation-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/laserducktales/obsidian-conversation-backup"
+}

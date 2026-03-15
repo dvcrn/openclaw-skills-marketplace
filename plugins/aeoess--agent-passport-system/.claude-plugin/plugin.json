@@ -1,0 +1,10 @@
+{
+  "name": "aeoess--agent-passport-system",
+  "description": "Cryptographic identity, trust, delegation, governance, and commerce for AI agents. 17 modules, 534 tests, 61 MCP tools. Use this skill whenever the user wants to create agent identity, delegate authority between agents, coordinate multi-agent tasks, set up agent-to-agent trust, enforce values compliance, track contributions with Merkle proofs, run agentic commerce with spend limits, find people via Intent Network, or register agents in the public Agora. Also use when discussing agent accountability, multi-agent orchestration, or when the user mentions Agent Passport, AEOESS, or agent social contract.",
+  "version": "3.0.0",
+  "author": {
+    "name": "aeoess"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aeoess/agent-passport-system",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aeoess/agent-passport-system"
+}

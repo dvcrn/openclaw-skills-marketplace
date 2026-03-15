@@ -1,0 +1,10 @@
+{
+  "name": "flyingtimes--crawl-from-x",
+  "description": "X/Twitter 帖子抓取工具。管理关注用户列表，自动抓取当天最新帖子，导出 Markdown。",
+  "version": "2.7.0",
+  "author": {
+    "name": "flyingtimes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/flyingtimes/crawl-from-x",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/flyingtimes/crawl-from-x"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "afk101--feishu-card-v2",
+  "description": "发送飞书互动卡片（Card JSON 2.0）。当需要让飞书用户填写表单、做选择、确认操作、或查看 结构化数据时，发送交互卡片代替纯文字问答。需要 feishu-cards 插件工具： feishu_send_card / feishu_send_form / feishu_update_card。",
+  "version": "0.2.0",
+  "author": {
+    "name": "afk101"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/afk101/feishu-card-v2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/afk101/feishu-card-v2"
+}

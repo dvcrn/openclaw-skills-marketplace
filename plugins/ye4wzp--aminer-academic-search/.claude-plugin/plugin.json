@@ -1,0 +1,10 @@
+{
+  "name": "ye4wzp--aminer-academic-search",
+  "description": "Academic data search and analysis using AMiner Open Platform APIs. Query scholars, papers, institutions, journals, and patents. Includes 6 composite workflows (Scholar Profile, Paper Deep Dive, Org Analysis, Venue Papers, Paper QA, Patent Analysis) and 28 individual APIs. Triggers: \"AMiner\", \"学术数据\", \"查论文\", \"查学者\", \"学术搜索\", \"academic search\", \"paper search\", \"scholar lookup\", \"citation analysis\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "ye4wzp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ye4wzp/aminer-academic-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ye4wzp/aminer-academic-search"
+}

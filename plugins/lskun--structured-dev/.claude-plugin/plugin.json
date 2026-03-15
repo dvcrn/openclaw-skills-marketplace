@@ -1,0 +1,10 @@
+{
+  "name": "lskun--structured-dev",
+  "description": "结构化开发流水线：Research → Plan → Annotate → Implement。 基于 Boris Tane (Cloudflare) 的 Claude Code 工作流，确保 AI 在架构审查通过前不写一行代码。 触发词：\"结构化开发\", \"structured dev\", \"走流水线\", \"RPAI流程\", \"先调研再写代码\", \"深度开发\", \"Boris 流程\", \"research plan implement\"。",
+  "version": "0.1.0",
+  "author": {
+    "name": "lskun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lskun/structured-dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lskun/structured-dev"
+}

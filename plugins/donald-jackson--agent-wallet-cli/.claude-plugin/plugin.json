@@ -1,0 +1,10 @@
+{
+  "name": "donald-jackson--agent-wallet-cli",
+  "description": "Manage crypto wallets (Ethereum, Solana, Polygon, Arbitrum, Base) via agent-wallet-cli. Use for checking balances, sending tokens (ETH/SOL/ERC-20/SPL), signing messages, managing approvals, viewing transaction history, x402 payments, and wallet lifecycle (init, unlock, lock, export). Supports HD wallets (BIP-39), session tokens for time-limited access, and JSON output for automation. Open source — https://github.com/donald-jackson/agent-wallet-cli",
+  "version": "1.4.0",
+  "author": {
+    "name": "donald-jackson"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/donald-jackson/agent-wallet-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/donald-jackson/agent-wallet-cli"
+}

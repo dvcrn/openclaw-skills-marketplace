@@ -1,0 +1,10 @@
+{
+  "name": "roasbeef--lightning-security-module",
+  "description": "Set up an lnd remote signer container that holds private keys separately from the agent. Exports a credentials bundle (accounts JSON, TLS cert, admin macaroon) for watch-only litd nodes. Container-first with Docker, native fallback. Use when firewalling private key material from AI agents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "roasbeef"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/roasbeef/lightning-security-module",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/roasbeef/lightning-security-module"
+}

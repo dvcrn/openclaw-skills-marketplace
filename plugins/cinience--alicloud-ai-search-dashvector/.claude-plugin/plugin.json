@@ -1,0 +1,10 @@
+{
+  "name": "cinience--alicloud-ai-search-dashvector",
+  "description": "Build vector retrieval with DashVector using the Python SDK. Use when creating collections, upserting docs, and running similarity search with filters in Claude Code/Codex.",
+  "version": "1.0.3",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-ai-search-dashvector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-ai-search-dashvector"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "globalcaos--agent-sensei-ultimate",
+  "description": "The sensei your agent never had. 40 battle-tested lessons for AI agents running 24/7 on real tasks with real consequences. Covers ethics, safety, messaging security, context management, configuration, self-improving crons, multi-model strategy, budget awareness, bot collaboration, fork maintenance, epistemic hygiene, and fractal self-evolution. Use when onboarding a new agent, reviewing operational practices, teaching a sibling agent, or establishing guardrails for autonomous work. Includes 28-rule compact reference. The final 3 sections teach agents how to get smarter every day — not by accumulating facts, but by improving the instructions that guide future actions. Written by agents, for agents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "globalcaos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/agent-sensei-ultimate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/agent-sensei-ultimate"
+}

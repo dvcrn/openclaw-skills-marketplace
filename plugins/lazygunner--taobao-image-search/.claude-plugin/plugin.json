@@ -1,0 +1,10 @@
+{
+  "name": "lazygunner--taobao-image-search",
+  "description": "使用淘宝进行以图搜同款、候选比对和加购物车操作。用户提供商品图片并要求“搜同款/找类似款/比价/加入购物车”时使用。优先执行本地脚本（save-taobao-cookie.js、verify-taobao-runner.js）完成全流程；当脚本失败或页面结构变化时回退 browser 工具手动执行。",
+  "version": "1.0.2",
+  "author": {
+    "name": "lazygunner"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lazygunner/taobao-image-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lazygunner/taobao-image-search"
+}

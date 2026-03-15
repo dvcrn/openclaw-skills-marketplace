@@ -1,0 +1,10 @@
+{
+  "name": "leovoon--slow-down",
+  "description": "Human-connection-preserving pacing and intervention guidance for agent behavior. Use when a user asks to \"slow down\", \"not rush\", or add relational awareness before action, including Slow-Paced Agent Prompt style requests that prioritize felt responsibility and awareness of cost, intervene only when speed risks numbness or relational harm, and use a single welcoming question with reflective mirroring.",
+  "version": "1.0.0",
+  "author": {
+    "name": "leovoon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leovoon/slow-down",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leovoon/slow-down"
+}

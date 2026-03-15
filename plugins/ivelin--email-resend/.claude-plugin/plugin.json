@@ -1,0 +1,10 @@
+{
+  "name": "ivelin--email-resend",
+  "description": "Send and receive emails using the Resend API. Use for: (1) sending emails directly via Resend API, (2) receiving email notifications via cron, (3) drafting replies with proper threading, (4) downloading attachments from inbound emails. **Required env vars:** RESEND_API_KEY (API key). **Optional env vars:** DEFAULT_FROM_EMAIL, DEFAULT_FROM_NAME (fall back to preferences file if not set). **License: Apache-2.0** — See LICENSE file for details.",
+  "version": "1.0.14",
+  "author": {
+    "name": "ivelin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ivelin/email-resend",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivelin/email-resend"
+}

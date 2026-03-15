@@ -1,0 +1,10 @@
+{
+  "name": "pegasus02--xiaomi-home",
+  "description": "[English] Control Xiaomi Home devices via local LAN using miiocli. Supports status checks, toggling power, and MIOT property manipulation for devices like smart plugs, humidifiers, and rice cookers. | [中文] 通过局域网利用 miiocli 控制米家智能设备。支持查看状态、开关控制以及对智能插座、加湿器、电饭煲等 MIOT 设备的属性调优。",
+  "version": "1.2.1",
+  "author": {
+    "name": "pegasus02"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pegasus02/xiaomi-home",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pegasus02/xiaomi-home"
+}

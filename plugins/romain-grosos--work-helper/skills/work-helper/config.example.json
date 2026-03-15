@@ -1,0 +1,36 @@
+{
+  "language": "fr",
+  "timezone": "Europe/Paris",
+  "consultant_name": "",
+  "consultant_role": "Consultant Sysops / Freelance",
+  "default_project": "",
+  "cra_format": "markdown",
+  "cra_week_days": ["lundi", "mardi", "mercredi", "jeudi", "vendredi"],
+  "ingest_mode": "meeting",
+  "llm": {
+    "enabled": false,
+    "base_url": "https://api.openai.com/v1",
+    "api_key_file": "~/.openclaw/secrets/openai_api_key",
+    "model": "gpt-4o-mini",
+    "vision_model": "gpt-4o",
+    "max_tokens": 2048,
+    "vision_max_tokens": 4096
+  },
+  "outputs": [
+    {
+      "type": "nextcloud",
+      "path": "/Documents/OpenClaw/work-helper",
+      "enabled": false
+    },
+    {
+      "type": "mail-client",
+      "mail_to": "",
+      "enabled": false
+    },
+    {
+      "type": "file",
+      "path": "~/.openclaw/data/work-helper/exports",
+      "enabled": true
+    }
+  ]
+}

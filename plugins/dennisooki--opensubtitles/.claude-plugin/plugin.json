@@ -1,0 +1,10 @@
+{
+  "name": "dennisooki--opensubtitles",
+  "description": "Read-only OpenSubtitles skill to search and download subtitles via API, then extract scene context by timestamp to answer user questions regarding a show in context and avoid spoilers. Use when the user asks “what’s happening at this timestamp” or needs subtitle context; pairs well with trakt-readonly skill for playback progress. Requires an OpenSubtitles API key and User-Agent.",
+  "version": "1.0.4",
+  "author": {
+    "name": "dennisooki"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dennisooki/opensubtitles",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dennisooki/opensubtitles"
+}

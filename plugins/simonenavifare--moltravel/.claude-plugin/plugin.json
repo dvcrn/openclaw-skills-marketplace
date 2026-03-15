@@ -1,0 +1,10 @@
+{
+  "name": "simonenavifare--moltravel",
+  "description": "Use this skill when the user asks about travel planning, trip research, flight searches, visa requirements, airport/airline lookups, destination info, travel safety, or activities at a destination. Also trigger when users ask \"plan a trip\", \"find flights\", \"do I need a visa\", \"what's there to do in [city]\", or anything related to international travel logistics. Requires the MolTravel MCP server.",
+  "version": "1.0.0",
+  "author": {
+    "name": "simonenavifare"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/simonenavifare/moltravel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/simonenavifare/moltravel"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cedarscy--gmail-cleaner",
+  "description": "Clean and organize Gmail accounts in bulk. Use when asked to clean Gmail, remove spam, trash newsletters/promotional emails, bulk-delete emails by sender, create labels, set up auto-filters, or restore emails from trash. Handles single or multiple Gmail accounts via OAuth token files. Works with any Gmail account using the Gmail API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cedarscy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cedarscy/gmail-cleaner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cedarscy/gmail-cleaner"
+}

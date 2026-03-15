@@ -1,0 +1,10 @@
+{
+  "name": "glucksberg--anti-pattern-czar",
+  "description": "Detect and fix TypeScript error handling anti-patterns with state persistence and approval workflows. Use when scanning a codebase for silent error failures, empty catches, promise swallowing, or unlogged errors. Supports five modes — scan (detect all issues), review (interactive fix session), auto (batch fix with guardrails), resume (continue from last session), report (show progress). Triggers on phrases like 'scan for anti-patterns', 'fix error handling', 'find empty catches', 'anti-pattern czar', or 'check error handling'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "glucksberg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/glucksberg/anti-pattern-czar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/glucksberg/anti-pattern-czar"
+}

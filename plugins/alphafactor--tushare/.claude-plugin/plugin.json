@@ -1,0 +1,10 @@
+{
+  "name": "alphafactor--tushare",
+  "description": "Fetch Chinese stock and futures market data via Tushare API. Supports stock quotes, futures data, company fundamentals, and macroeconomic indicators. Use when the user needs financial data from Chinese markets. Requires TUSHARE_TOKEN environment variable.",
+  "version": "1.0.8",
+  "author": {
+    "name": "alphafactor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/tushare",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/tushare"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--google-ads-api",
+  "description": "Google Ads API integration with managed OAuth. Query campaigns, ad groups, keywords, and performance metrics with GAQL. Use this skill when users want to interact with Google Ads data. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.5",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/google-ads-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/google-ads-api"
+}

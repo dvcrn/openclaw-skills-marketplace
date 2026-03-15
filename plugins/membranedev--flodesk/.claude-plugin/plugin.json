@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--flodesk",
+  "description": "Flodesk integration. Manage Users, Subscribers, Emails, Workflows. Use when the user wants to interact with Flodesk data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/flodesk"
+}

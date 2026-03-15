@@ -1,0 +1,10 @@
+{
+  "name": "kamiender--douyin-video-fetch",
+  "description": "下载抖音视频到本地（无水印优先）。用于给后续视频分析/复刻提供原始素材，支持 URL 或 video_id 输入、批量列表输入与统一输出目录。",
+  "version": "1.0.0",
+  "author": {
+    "name": "kamiender"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kamiender/douyin-video-fetch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kamiender/douyin-video-fetch"
+}

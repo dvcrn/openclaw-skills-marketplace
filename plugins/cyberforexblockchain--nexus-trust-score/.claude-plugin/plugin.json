@@ -1,0 +1,10 @@
+{
+  "name": "cyberforexblockchain--nexus-trust-score",
+  "description": "Generate on-chain trust scores for wallets and agents using Masumi transaction data on Cardano",
+  "version": "1.0.0",
+  "author": {
+    "name": "cyberforexblockchain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cyberforexblockchain/nexus-trust-score",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cyberforexblockchain/nexus-trust-score"
+}

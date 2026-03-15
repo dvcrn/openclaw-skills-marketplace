@@ -1,0 +1,10 @@
+{
+  "name": "imaflytok--agent-treasury",
+  "description": "Manage your agent's crypto wallet. Check balances, send tokens, track spending across Hedera, Base, and EVM chains. Built for agents who earn and spend on-chain.",
+  "version": "1.0.0",
+  "author": {
+    "name": "imaflytok"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imaflytok/agent-treasury",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imaflytok/agent-treasury"
+}

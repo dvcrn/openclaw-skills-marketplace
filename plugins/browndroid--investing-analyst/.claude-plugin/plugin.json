@@ -1,0 +1,10 @@
+{
+  "name": "browndroid--investing-analyst",
+  "description": "Thesis-driven equity and options trading analyst. Use when: (1) evaluating a trade idea before entering a position, (2) analyzing options pricing via IV vs Historical Volatility, (3) planning earnings catalyst plays, (4) reviewing a losing position and deciding whether to hold or exit, (5) checking for emotional/FOMO trading patterns, (6) running a pre-trade checklist. NOT for: general financial education, portfolio-level asset allocation, or tax advice.",
+  "version": "1.0.1",
+  "author": {
+    "name": "browndroid"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/browndroid/investing-analyst",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/browndroid/investing-analyst"
+}

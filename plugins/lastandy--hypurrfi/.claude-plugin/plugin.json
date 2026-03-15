@@ -1,0 +1,10 @@
+{
+  "name": "lastandy--hypurrfi",
+  "description": "DeFi lending on Hyperliquid. Deposit to earn yield, borrow against collateral. Supports Pooled (Aave v3), Prime/Yield (Euler), and Vault markets. Use when an agent wants to earn yield on idle assets, borrow stablecoins against HYPE, or manage a DeFi treasury.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lastandy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lastandy/hypurrfi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lastandy/hypurrfi"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "enigami12--convertagent",
+  "description": "Use ConvertAgent for file format conversions through the local CLI. Trigger for any request to convert files (documents, images, audio, video, spreadsheets, presentations) or when a workflow needs deterministic file conversion output.",
+  "version": "0.1.0",
+  "author": {
+    "name": "enigami12"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/enigami12/convertagent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/enigami12/convertagent"
+}

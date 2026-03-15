@@ -1,0 +1,10 @@
+{
+  "name": "morozred--skill-audit",
+  "description": "Audit locally installed agent skills for security/policy issues using the SkillLens CLI (`skilllens scan`, `skilllens config`). Use when asked to scan a skills directory (Codex/Claude) and produce a risk-focused audit report based on each skill's `SKILL.md` and bundled resources.",
+  "version": "1.0.0",
+  "author": {
+    "name": "morozred"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/morozred/skill-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/morozred/skill-audit"
+}

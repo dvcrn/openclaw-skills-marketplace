@@ -1,0 +1,10 @@
+{
+  "name": "tassiedaddy--fastmail-suite",
+  "description": "Secure, safe-by-default Fastmail integration (email, contacts, calendar) via JMAP + CalDAV. Use when you want to verify Fastmail setup, triage/search email, inspect threads, read/search contacts, view upcoming events, or (only when explicitly enabled) send email and create/reschedule/cancel calendar events. Designed for least-privilege tokens, redacted output by default, and explicit write enable switches.",
+  "version": "0.1.4",
+  "author": {
+    "name": "tassiedaddy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tassiedaddy/fastmail-suite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tassiedaddy/fastmail-suite"
+}

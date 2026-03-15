@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--auditclaw-idp",
+  "description": "Identity provider compliance checks for auditclaw-grc. 8 read-only checks across Google Workspace (MFA, admin audit, inactive users, passwords) and Okta (MFA, password policy, inactive users, session policy).",
+  "version": "1.0.2",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.auditclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/auditclaw-idp"
+}

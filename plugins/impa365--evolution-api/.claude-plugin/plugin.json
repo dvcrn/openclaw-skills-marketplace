@@ -1,0 +1,10 @@
+{
+  "name": "impa365--evolution-api",
+  "description": "Complete WhatsApp automation via Evolution API v2.3 - instances, messages (text/media/polls/lists/buttons/status), groups, labels, chatbots (Typebot/OpenAI/Dify/Flowise/N8N/EvoAI), webhooks, proxy, S3 storage, and Chatwoot integration",
+  "version": "2.3.0",
+  "author": {
+    "name": "impa365"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/impa365/evolution-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/impa365/evolution-api"
+}

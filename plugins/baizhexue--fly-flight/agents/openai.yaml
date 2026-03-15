@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fly Flight"
+  short_description: "Find China domestic flights from public web pages"
+  default_prompt: "Use $fly-flight to find China domestic flights from public web pages without requiring an API key."

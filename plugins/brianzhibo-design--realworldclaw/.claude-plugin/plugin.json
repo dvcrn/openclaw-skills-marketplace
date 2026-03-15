@@ -1,0 +1,10 @@
+{
+  "name": "brianzhibo-design--realworldclaw",
+  "description": "Give your AI agent physical world capabilities via RealWorldClaw — control ESP32 modules, read sensors (temperature, humidity, motion), actuate relays/servos/LEDs, and create automation rules. Use when: (1) controlling IoT/ESP32 hardware, (2) reading sensor data, (3) automating physical actions based on conditions, (4) managing RWC-compatible devices, (5) 3D printing related device control. NOT for: pure software tasks, cloud-only APIs unrelated to physical devices.",
+  "version": "0.1.0",
+  "author": {
+    "name": "brianzhibo-design"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brianzhibo-design/realworldclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brianzhibo-design/realworldclaw"
+}

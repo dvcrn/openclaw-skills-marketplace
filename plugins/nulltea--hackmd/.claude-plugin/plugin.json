@@ -1,0 +1,10 @@
+{
+  "name": "nulltea--hackmd",
+  "description": "Work with HackMD documents. Use when reading, creating, updating, or deleting notes on HackMD. Supports change tracking to detect document modifications since last check. Supports personal and team workspaces.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nulltea"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nulltea/hackmd",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nulltea/hackmd"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ryanfren--agentcloak-email-proxy",
+  "description": "Secure email proxy for AI agents. Search, read, and draft emails via MCP with server-side credential isolation, PII redaction, prompt injection detection, and content filtering. Unlike raw Gmail/IMAP skills, your agent never sees passwords or unfiltered content. Self-host or use the hosted version.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ryanfren"
+  },
+  "homepage": "https://github.com/ryanfren/AgentCloak",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ryanfren/agentcloak-email-proxy"
+}

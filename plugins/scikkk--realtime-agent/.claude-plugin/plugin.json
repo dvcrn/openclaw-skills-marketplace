@@ -1,0 +1,10 @@
+{
+  "name": "scikkk--realtime-agent",
+  "description": "Implement and debug SenseAudio realtime Agent lifecycle APIs: list agents, invoke session, query status, and leave session (`/v1/realtime/agents`, `/invoke`, `/status`, `/leave`). Use this whenever user asks to start or manage SenseAudio conversational agents, continue dialogues, or handle room/conv/token lifecycle errors.",
+  "version": "1.0.1",
+  "author": {
+    "name": "scikkk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/scikkk/realtime-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scikkk/realtime-agent"
+}

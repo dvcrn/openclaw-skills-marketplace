@@ -1,0 +1,10 @@
+{
+  "name": "abeperl--torah-scholar",
+  "description": "Search and explore Jewish texts (Torah, Tanach, Talmud, Midrash, commentaries) via Sefaria API. Use when researching Torah sources, looking up verses, finding commentaries, cross-references, or preparing divrei Torah. Supports Hebrew and English. Handles references like \"Genesis 1:1\", \"Berakhot 2a\", \"Mishnah Avot 1:1\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "abeperl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abeperl/torah-scholar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abeperl/torah-scholar"
+}

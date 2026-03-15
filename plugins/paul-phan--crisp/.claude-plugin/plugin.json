@@ -1,0 +1,10 @@
+{
+  "name": "paul-phan--crisp",
+  "description": "Customer support via Crisp API. Use when the user asks to check, read, search, or respond to Crisp inbox messages. Requires Crisp website ID and plugin token (authenticated via environment variables CRISP_WEBSITE_ID, CRISP_TOKEN_ID, and CRISP_TOKEN_KEY).",
+  "version": "1.0.0",
+  "author": {
+    "name": "paul-phan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/paul-phan/crisp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paul-phan/crisp"
+}

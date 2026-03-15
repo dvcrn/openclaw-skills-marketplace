@@ -1,0 +1,10 @@
+{
+  "name": "velvet-shark--raindrop",
+  "description": "Search, list, and manage Raindrop.io bookmarks via CLI. Use when the user wants to find saved links, browse collections, add new bookmarks, organize with tags, move bookmarks between collections, or work with their Raindrop library. Supports reading (search, list, get, tags) and writing (add, delete, move, update, bulk operations).",
+  "version": "1.0.4",
+  "author": {
+    "name": "velvet-shark"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/velvet-shark/raindrop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/velvet-shark/raindrop"
+}

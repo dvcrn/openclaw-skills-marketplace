@@ -1,0 +1,10 @@
+{
+  "name": "harryboda--openclaw-xguardian",
+  "description": "Build, configure, and install a 24x7 OpenClaw watchdog on macOS, including scaffolding the Go project, wiring launchd, and tuning health/recovery behavior. Use for requests to create or share the OpenClaw guardian service, deploy it on a Mac, or troubleshoot its recovery/logging behavior.",
+  "version": "0.0.1",
+  "author": {
+    "name": "harryboda"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harryboda/openclaw-xguardian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harryboda/openclaw-xguardian"
+}

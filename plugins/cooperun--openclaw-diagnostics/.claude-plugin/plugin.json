@@ -1,0 +1,10 @@
+{
+  "name": "cooperun--openclaw-diagnostics",
+  "description": "OpenClaw configuration diagnostics and troubleshooting expert. Use when users encounter OpenClaw config issues, channel connection problems, group messages not responding, cron jobs not executing, authentication failures, or need help understanding OpenClaw settings. Triggers: diagnose, troubleshoot, why no reply, config problem, openclaw issue, log analysis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cooperun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cooperun/openclaw-diagnostics",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cooperun/openclaw-diagnostics"
+}

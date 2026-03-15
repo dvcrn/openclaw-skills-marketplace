@@ -1,0 +1,10 @@
+{
+  "name": "crazylion--aws-price-csv",
+  "description": "Generate AWS cost CSVs from a user-provided service list. Use when someone supplies an item list + AWS region and needs per-item pricing plus totals via AWS Price List API or bulk pricing JSON.",
+  "version": "1.0.0",
+  "author": {
+    "name": "crazylion"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crazylion/aws-price-csv",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crazylion/aws-price-csv"
+}

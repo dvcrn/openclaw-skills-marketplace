@@ -1,0 +1,10 @@
+{
+  "name": "tevfikgulep--youtube-transcript-tor",
+  "description": "Download YouTube video transcripts with Tor proxy. Automatically detects manual subtitles first, falls back to auto-generated if unavailable.",
+  "version": "1.0.1",
+  "author": {
+    "name": "tevfikgulep"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tevfikgulep/youtube-transcript-tor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tevfikgulep/youtube-transcript-tor"
+}

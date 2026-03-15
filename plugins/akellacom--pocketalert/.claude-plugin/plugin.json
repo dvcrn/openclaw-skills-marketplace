@@ -1,0 +1,10 @@
+{
+  "name": "akellacom--pocketalert",
+  "description": "The Pocket Alert (pocketalert.app) skill for OpenClaw enables OpenClaw agents and workflows to send push notifications to iOS and Android devices. It is used to deliver alerts and updates from automated tasks, workflows, and background processes.",
+  "version": "1.0.2",
+  "author": {
+    "name": "akellacom"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/akellacom/pocketalert",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/akellacom/pocketalert"
+}

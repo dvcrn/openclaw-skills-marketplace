@@ -1,0 +1,10 @@
+{
+  "name": "austinmao--airtable-participants",
+  "description": "Read and query retreat participant data from the Ceremonia Airtable base. Use this skill when asked about participants, subscriber counts, retreat attendance, contact segments, phone numbers, emails, or donation status. Also used by other skills (email-newsletter, sms-outreach) to retrieve recipient lists. Read-only by default.",
+  "version": "1.0.0",
+  "author": {
+    "name": "austinmao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/austinmao/airtable-participants",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/austinmao/airtable-participants"
+}

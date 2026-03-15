@@ -1,0 +1,10 @@
+{
+  "name": "devilsbibble--toutiao-auto-publish",
+  "description": "今日头条微头条自动发布工具。自动发布短内容到今日头条平台，支持文本和图片。\n 使用场景：(1) 用户说\"发布头条\"、\"发微头条\"、\"头条发布\"时触发 (2) \n 需要自动发布社交媒体内容时 (3) 需要定时发布今日头条时",
+  "version": "1.0.0",
+  "author": {
+    "name": "devilsbibble"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/devilsbibble/toutiao-auto-publish",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/devilsbibble/toutiao-auto-publish"
+}

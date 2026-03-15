@@ -1,0 +1,10 @@
+{
+  "name": "aohoyo--qiniu-kodo",
+  "description": "七牛云 KODO 对象存储技能。支持文件上传、下载、列出、删除、获取 URL 等操作。\n 三层架构：MCP 工具（优先）→ Node.js SDK → qshell CLI。",
+  "version": "1.0.3",
+  "author": {
+    "name": "aohoyo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aohoyo/qiniu-kodo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aohoyo/qiniu-kodo"
+}

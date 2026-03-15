@@ -1,0 +1,10 @@
+{
+  "name": "runawaydevil--cnpj-lookup",
+  "description": "Consulta CNPJ via APIs públicas brasileiras (BrasilAPI, CNPJ.ws, OpenCNPJ) com fallback automático, cache e rate limit. Ativar quando o usuário pedir consulta, pesquisa ou detalhes de CNPJ, razão social, situação cadastral, CNAE, QSA ou endereço de empresa.",
+  "version": "1.0.0",
+  "author": {
+    "name": "runawaydevil"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runawaydevil/cnpj-lookup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runawaydevil/cnpj-lookup"
+}

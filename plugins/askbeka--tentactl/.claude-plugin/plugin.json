@@ -1,0 +1,10 @@
+{
+  "name": "askbeka--tentactl",
+  "description": "Interact with the Kraken cryptocurrency exchange — spot + futures, REST + WebSocket. Use when: (1) checking crypto prices or market data, (2) viewing account balances, positions, or trade history, (3) placing or cancelling orders (spot or futures), (4) streaming live market data via WebSocket, (5) building DCA strategies, price alerts, or portfolio monitoring, (6) any mention of Kraken, crypto trading, or portfolio management. Requires the tentactl binary. Kraken API keys needed only for authenticated endpoints.",
+  "version": "0.3.2",
+  "author": {
+    "name": "askbeka"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/askbeka/tentactl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/askbeka/tentactl"
+}

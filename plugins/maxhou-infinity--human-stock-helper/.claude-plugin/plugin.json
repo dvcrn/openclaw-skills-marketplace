@@ -1,0 +1,10 @@
+{
+  "name": "maxhou-infinity--human-stock-helper",
+  "description": "为股票交易者提供理性分析、技术计算和策略执行提醒。基于AKShare、yfinance、pandas-ta等工具，帮助用户冰冷、果决地执行交易决策。",
+  "version": "1.0.0",
+  "author": {
+    "name": "maxhou-infinity"
+  },
+  "homepage": "https://github.com/openclaw/skills/human-stock-helper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maxhou-infinity/human-stock-helper"
+}

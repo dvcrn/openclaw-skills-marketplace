@@ -1,0 +1,10 @@
+{
+  "name": "ecosincronia--ecosincronia-supabase",
+  "description": "Connect to Supabase for database operations, vector search, and storage. Use for storing data, running SQL queries, similarity search with pgvector, and managing tables. Triggers on requests involving databases, vector stores, embeddings, or Supabase specifically.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ecosincronia"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ecosincronia/ecosincronia-supabase",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ecosincronia/ecosincronia-supabase"
+}

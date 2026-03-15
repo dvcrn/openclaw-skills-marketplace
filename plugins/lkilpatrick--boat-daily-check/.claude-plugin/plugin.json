@@ -1,0 +1,10 @@
+{
+  "name": "lkilpatrick--boat-daily-check",
+  "description": "Monitor Victron Energy power systems and generate beautiful daily email reports with battery status, solar generation, and active alarms. Integrates with Victron VRM API to fetch real-time metrics for multiple installations and sends formatted HTML emails. Perfect for boat owners, RV enthusiasts, and off-grid solar systems.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lkilpatrick"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lkilpatrick/boat-daily-check",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lkilpatrick/boat-daily-check"
+}

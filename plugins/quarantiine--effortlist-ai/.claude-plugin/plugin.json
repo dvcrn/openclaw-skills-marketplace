@@ -1,0 +1,10 @@
+{
+  "name": "quarantiine--effortlist-ai",
+  "description": "Manage EffortList AI folders, tasks, and todos. Use when the user wants to organize their life, track projects, or manage schedules via the EffortList AI platform. Supports full CRUD operations, cascading deletes, and atomic undo/redo history for data integrity.",
+  "version": "1.7.5",
+  "author": {
+    "name": "quarantiine"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/quarantiine/effortlist-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/quarantiine/effortlist-ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "darkdevelopers--bring-add",
+  "description": "Use when user wants to add items to Bring! shopping lists. For adding single items, batch items, or items from stdin/files. Supports dry-run preview and JSON output.",
+  "version": "1.0.0",
+  "author": {
+    "name": "darkdevelopers"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/darkdevelopers/bring-add",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/darkdevelopers/bring-add"
+}

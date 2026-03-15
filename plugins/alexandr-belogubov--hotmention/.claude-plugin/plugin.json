@@ -1,0 +1,10 @@
+{
+  "name": "alexandr-belogubov--hotmention",
+  "description": "Find people actively looking for products like yours on Reddit, X, LinkedIn, Quora, and Threads. Free mode uses web_search; paid mode uses the HotMention API.",
+  "version": "1.3.0",
+  "author": {
+    "name": "alexandr-belogubov"
+  },
+  "homepage": "https://hotmention.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alexandr-belogubov/hotmention"
+}

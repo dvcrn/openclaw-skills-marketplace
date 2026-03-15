@@ -1,0 +1,10 @@
+{
+  "name": "undertone0809--flomo-crud-skill",
+  "description": "Query, insert, edit, and delete flomo memos through the flomo Web UI using Chrome MCP tools (no official API required). Use when a user wants CRUD operations on live flomo memos in an already logged-in browser session.",
+  "version": "1.0.0",
+  "author": {
+    "name": "undertone0809"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/undertone0809/flomo-crud-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/undertone0809/flomo-crud-skill"
+}

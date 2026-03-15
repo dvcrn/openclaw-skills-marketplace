@@ -1,0 +1,10 @@
+{
+  "name": "pengxiao-wang--claw-lark-patches",
+  "description": "Re-apply custom patches to claw-lark plugin dist files after updates. Use when claw-lark plugin is updated/reinstalled and custom behaviors (requireMention filtering, reply_in_thread, thread-based replies) stop working. Also use when debugging Lark message routing issues.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pengxiao-wang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pengxiao-wang/claw-lark-patches",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pengxiao-wang/claw-lark-patches"
+}

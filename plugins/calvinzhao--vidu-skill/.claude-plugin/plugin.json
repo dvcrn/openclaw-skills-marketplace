@@ -1,0 +1,10 @@
+{
+  "name": "calvinzhao--vidu-skill",
+  "description": "Generate video with vidu via bundled scripts. Use when the user wants 文生视频, 图生视频, 首尾帧生视频, 参考生视频, 创建主体 (material element), or to submit or check vidu tasks. 创建主体: upload 1–3 images, name and description, call material/elements API. Execution is script-based; run scripts in scripts/ with VIDU_TOKEN set.",
+  "version": "1.0.0",
+  "author": {
+    "name": "calvinzhao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/calvinzhao/vidu-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/calvinzhao/vidu-skill"
+}

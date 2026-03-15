@@ -1,0 +1,10 @@
+{
+  "name": "clarityprotocol--clarity-submit",
+  "description": "Submit a protein variant hypothesis to Clarity Protocol for validation and folding. Use when the user asks to submit a hypothesis, propose a protein variant, queue a fold, or investigate a mutation. Requires CLARITY_WRITE_KEY env var. Capabilities: submit hypothesis, check submission status.",
+  "version": "1.0.0",
+  "author": {
+    "name": "clarityprotocol"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-submit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-submit"
+}

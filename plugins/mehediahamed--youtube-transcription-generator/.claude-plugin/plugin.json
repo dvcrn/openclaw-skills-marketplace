@@ -1,0 +1,10 @@
+{
+  "name": "mehediahamed--youtube-transcription-generator",
+  "description": "Use VLM Run (vlmrun) to generate transcriptions from YouTube videos. Download a video with yt-dlp, then run vlmrun to transcribe with optional timestamps. VLMRUN_API_KEY must be in .env; follow vlmrun-cli-skill for CLI setup and options.",
+  "version": "0.1.0",
+  "author": {
+    "name": "mehediahamed"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mehediahamed/youtube-transcription-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mehediahamed/youtube-transcription-generator"
+}

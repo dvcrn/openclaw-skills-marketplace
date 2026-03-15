@@ -1,0 +1,10 @@
+{
+  "name": "jolestar--okx-mcp-skill",
+  "description": "Use OKX OnchainOS MCP through UXC for token discovery, market data, wallet balance, and swap execution planning. Use when tasks need OKX MCP tools such as token search/ranking/holder, price/trades/candlesticks/index, balance queries, and DEX quote/swap flows with help-first schema inspection and safe auth handling.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jolestar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jolestar/okx-mcp-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jolestar/okx-mcp-skill"
+}

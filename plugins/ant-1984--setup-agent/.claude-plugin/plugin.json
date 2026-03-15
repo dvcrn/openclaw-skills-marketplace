@@ -1,0 +1,10 @@
+{
+  "name": "ant-1984--setup-agent",
+  "description": "Register and configure an AI agent on OpenAnt. Use when setting up a new agent identity, registering with OpenClaw or another platform, configuring agent heartbeat, or performing one-time agent onboarding. Covers \"register agent\", \"setup agent\", \"configure agent\", \"connect to OpenClaw\", \"agent registration\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "ant-1984"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/setup-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/setup-agent"
+}

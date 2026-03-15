@@ -1,0 +1,10 @@
+{
+  "name": "miniade--news-fetcher",
+  "description": "Install, configure, validate, and run the news-fetcher Python CLI for aggregating RSS/Atom and HTML news sources with deduplication, clustering, ranking, source diversity, and summaries. Use when an agent needs to fetch news, create or validate a config, troubleshoot news-fetcher installation, or produce JSON/Markdown/CSV/RSS output from multiple sources.",
+  "version": "0.1.4",
+  "author": {
+    "name": "miniade"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/miniade/news-fetcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/miniade/news-fetcher"
+}

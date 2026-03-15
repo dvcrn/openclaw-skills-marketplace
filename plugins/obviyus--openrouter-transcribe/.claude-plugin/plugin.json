@@ -1,0 +1,10 @@
+{
+  "name": "obviyus--openrouter-transcribe",
+  "description": "Transcribe audio files via OpenRouter using audio-capable models (Gemini, GPT-4o-audio, etc).",
+  "version": "1.0.0",
+  "author": {
+    "name": "obviyus"
+  },
+  "homepage": "https://openrouter.ai/docs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/obviyus/openrouter-transcribe"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "tkuehnl--tf-plan-review",
+  "description": "Analyze Terraform plans for risk before you apply. Classifies every change as safe, moderate, dangerous, or critical. Detects destroys, IAM changes, data-loss risks, and blast radius. Entirely read-only — never runs apply.",
+  "version": "0.2.1",
+  "author": {
+    "name": "tkuehnl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tkuehnl/tf-plan-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tkuehnl/tf-plan-review"
+}

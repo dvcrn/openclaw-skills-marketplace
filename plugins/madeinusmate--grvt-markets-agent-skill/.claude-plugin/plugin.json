@@ -1,0 +1,10 @@
+{
+  "name": "madeinusmate--grvt-markets-agent-skill",
+  "description": "Trade on GRVT (Gravity Markets) derivatives exchange via the grvt-cli tool. Use when the user wants to trade crypto derivatives, place or cancel orders, check positions, view market data (orderbook, candles, tickers, funding rates), manage account balances, transfer funds between sub-accounts, withdraw to Ethereum, set leverage, query trade or order history, or interact with the GRVT API in any way. Covers perpetuals, futures, and options on GRVT.",
+  "version": "1.0.0",
+  "author": {
+    "name": "madeinusmate"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/madeinusmate/grvt-markets-agent-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/madeinusmate/grvt-markets-agent-skill"
+}

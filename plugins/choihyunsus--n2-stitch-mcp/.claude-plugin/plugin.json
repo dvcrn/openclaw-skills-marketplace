@@ -1,0 +1,10 @@
+{
+  "name": "choihyunsus--n2-stitch-mcp",
+  "description": "Resilient MCP proxy for Google Stitch — 3-layer safety (auto-retry, token refresh, TCP drop recovery).",
+  "version": "1.0.0",
+  "author": {
+    "name": "choihyunsus"
+  },
+  "homepage": "https://nton2.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/choihyunsus/n2-stitch-mcp"
+}

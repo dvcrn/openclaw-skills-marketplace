@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--zoho-crm",
+  "description": "Zoho CRM API integration with managed OAuth. Manage leads, contacts, accounts, deals, and other CRM records.\n Use this skill when users want to read, create, update, or delete CRM records, search contacts, manage sales pipelines, access organization settings, manage users, or retrieve module metadata in Zoho CRM.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.4",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/zoho-crm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/zoho-crm"
+}

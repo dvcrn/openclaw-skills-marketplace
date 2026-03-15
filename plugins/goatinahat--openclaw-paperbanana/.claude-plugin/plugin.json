@@ -1,0 +1,10 @@
+{
+  "name": "goatinahat--openclaw-paperbanana",
+  "description": "Generate publication-quality academic diagrams, methodology figures, architecture illustrations, and statistical plots from text descriptions using the PaperBanana multi-agent AI pipeline. Also evaluate diagram quality against reference images. Use when: (1) user asks to generate, create, or make a research diagram, methodology figure, system architecture illustration, pipeline diagram, or framework figure, (2) user asks to create a statistical plot, bar chart, or data visualization from CSV/JSON data, (3) user asks to evaluate or score a generated diagram against a reference, (4) user asks to refine or improve a previously generated diagram. NOT for: analyzing existing images, general image generation (non-academic), or chart/graph discussions without explicit generation intent.",
+  "version": "0.1.1",
+  "author": {
+    "name": "goatinahat"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/goatinahat/openclaw-paperbanana",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/goatinahat/openclaw-paperbanana"
+}

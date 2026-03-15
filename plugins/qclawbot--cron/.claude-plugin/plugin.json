@@ -1,0 +1,10 @@
+{
+  "name": "qclawbot--cron",
+  "description": "Local-first recurring schedule engine for reminders, repeated tasks, and time-based execution plans. Use whenever the user mentions recurring timing, repetition, schedules, cadence, weekly/daily/monthly routines, future triggers, or wants to know what runs next. Captures natural language timing into structured local schedules, supports pause/resume, and surfaces upcoming executions. No external sync.",
+  "version": "1.0.0",
+  "author": {
+    "name": "qclawbot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qclawbot/cron",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qclawbot/cron"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "rockbotclub--wechat-pack",
+  "description": "Convert local .docx or Markdown files into WeChat-ready HTML and generate a publish folder (source/assets/cover/wechat). Use when packaging documents for WeChat public account publishing with local assets and copy-paste HTML output. 当用户要求打包微信文章、转换文章为微信格式、微信公众号排版、生成微信推文 HTML、或将 Markdown/Word 转成微信可粘贴的格式时触发。",
+  "version": "1.0.0",
+  "author": {
+    "name": "rockbotclub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rockbotclub/wechat-pack",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rockbotclub/wechat-pack"
+}

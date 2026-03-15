@@ -1,0 +1,10 @@
+{
+  "name": "sebastian-buitrag0--clawdbot-backup",
+  "description": "Backup and restore ClawdBot configuration, skills, commands, and settings. Sync across devices, version control with git, automate backups, and migrate to new machines.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sebastian-buitrag0"
+  },
+  "homepage": "https://github.com/clawdbot/backup-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sebastian-buitrag0/clawdbot-backup"
+}

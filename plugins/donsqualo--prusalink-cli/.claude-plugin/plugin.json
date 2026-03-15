@@ -1,0 +1,10 @@
+{
+  "name": "donsqualo--prusalink-cli",
+  "description": "OpenClaw skill: local PrusaLink CLI (curl wrapper) for status/upload/print using Digest auth (user/password) or optional X-Api-Key.",
+  "version": "1.0.2",
+  "author": {
+    "name": "donsqualo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/donsqualo/prusalink-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/donsqualo/prusalink-cli"
+}

@@ -1,0 +1,46 @@
+{
+  "platforms": {
+    "feishu": {
+      "patterns": [
+        "\\[quote:([a-zA-Z0-9_]+)\\]",
+        "\\[reply_to:([a-zA-Z0-9_]+)\\]",
+        "\\[message_id:\\s*([a-zA-Z0-9_]+)\\]"
+      ],
+      "message_id_prefix": "om_x",
+      "description": "飞书引用格式"
+    },
+    "qq": {
+      "patterns": [
+        "\\[reply:([0-9]+)\\]",
+        "\\[quote:([0-9]+)\\]"
+      ],
+      "message_id_prefix": "",
+      "description": "QQ引用格式"
+    },
+    "telegram": {
+      "patterns": [
+        "reply_to_message_id:\\s*([0-9]+)"
+      ],
+      "message_id_prefix": "",
+      "description": "Telegram引用格式"
+    },
+    "wechat": {
+      "patterns": [
+        "引用消息[：:]\\s*\\{.*?\\}",
+        "\\[引用\\]\\s*(.+?)(?=\\n|$)"
+      ],
+      "message_id_prefix": "",
+      "description": "微信引用格式"
+    }
+  },
+  "fallback_patterns": [
+    "引用[：:]\\s*(.+?)(?=\\n|$)",
+    "回复[：:]\\s*(.+?)(?=\\n|$)",
+    "前文[：:]\\s*(.+?)(?=\\n|$)",
+    "上文[：:]\\s*(.+?)(?=\\n|$)"
+  ],
+  "quote_markers": {
+    "start": ["[quote]", "[reply]", "[引用]", "[回复]"],
+    "end": ["[/quote]", "[/reply]", "[/引用]", "[/回复]"]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xukp20--arxiv-summarizer-orchestrator",
+  "description": "End-to-end orchestration skill for periodic arXiv collection and reporting using three sub-skills: arxiv-search-collector, arxiv-paper-processor, and arxiv-batch-reporter. Supports manual language control across all markdown outputs and Stage-B processing strategy (`subagent_parallel` default max 5, or serial).",
+  "version": "0.1.1",
+  "author": {
+    "name": "xukp20"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-summarizer-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-summarizer-orchestrator"
+}

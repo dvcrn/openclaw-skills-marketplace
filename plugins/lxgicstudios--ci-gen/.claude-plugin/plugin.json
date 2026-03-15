@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--ci-gen",
+  "description": "Generate GitHub Actions CI/CD workflows from project analysis. Use when setting up automated pipelines.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/ci-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/ci-gen"
+}

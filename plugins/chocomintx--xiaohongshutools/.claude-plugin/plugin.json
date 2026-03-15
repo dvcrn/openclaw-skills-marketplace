@@ -1,0 +1,10 @@
+{
+  "name": "chocomintx--xiaohongshutools",
+  "description": "XiaoHongShu (Little Red Book) data collection and interaction toolkit. Use when working with XiaoHongShu (小红书) platform for: (1) Searching and scraping notes/posts, (2) Getting user profiles and details, (3) Extracting comments and likes, (4) Following users and liking posts, (5) Fetching home feed and trending content. Automatically handles all encryption parameters (cookies, headers) including a1, webId, x-s, x-s-common, x-t, sec_poison_id, websectiga, gid, x-b3-traceid, x-xray-traceid. Supports guest mode and authenticated sessions via web_session cookie.",
+  "version": "0.1.0",
+  "author": {
+    "name": "chocomintx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chocomintx/xiaohongshutools",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chocomintx/xiaohongshutools"
+}

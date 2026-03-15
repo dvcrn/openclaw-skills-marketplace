@@ -1,0 +1,10 @@
+{
+  "name": "kingmadellc--prediction-stack-orchestrator",
+  "description": "Three-agent pipeline orchestrator (Kalshalyst, Eval, Executor) for automated Kalshi prediction market trading with validation loops and retry logic",
+  "version": "1.0.1",
+  "author": {
+    "name": "kingmadellc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/prediction-stack-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/prediction-stack-orchestrator"
+}

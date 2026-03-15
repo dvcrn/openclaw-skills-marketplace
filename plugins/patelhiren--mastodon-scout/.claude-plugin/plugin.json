@@ -1,0 +1,10 @@
+{
+  "name": "patelhiren--mastodon-scout",
+  "description": "Read-only Mastodon skill. Outputs human-readable timeline summaries or raw JSON.",
+  "version": "2.0.1",
+  "author": {
+    "name": "patelhiren"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/patelhiren/mastodon-scout",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/patelhiren/mastodon-scout"
+}

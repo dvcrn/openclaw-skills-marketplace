@@ -1,0 +1,10 @@
+{
+  "name": "truetechlabs--subtitle-refiner",
+  "description": "优化 SRT 字幕文件。去除填充词（嗯、啊等），修正 ASR 识别错误（如 XGBT→ChatGPT、RG→RAG），保持时间戳完全不变，通过 Feishu 发送优化结果和 token 消耗报告。",
+  "version": "1.0.0",
+  "author": {
+    "name": "truetechlabs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/truetechlabs/subtitle-refiner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/truetechlabs/subtitle-refiner"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "garibong-labs--daum-trends",
+  "description": "Daum 실시간 트렌드 TOP10 브리핑. 다음 메인 실시간 검색어 + 대표 뉴스 제목 추출. 크론/텔레그램/디스코드 알림용. Use when user asks for Korean real-time search trends, Daum trending keywords, or 실시간 검색어.",
+  "version": "1.0.0",
+  "author": {
+    "name": "garibong-labs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/garibong-labs/daum-trends",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/garibong-labs/daum-trends"
+}

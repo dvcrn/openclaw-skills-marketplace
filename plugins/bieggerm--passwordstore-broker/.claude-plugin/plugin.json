@@ -1,0 +1,10 @@
+{
+  "name": "bieggerm--passwordstore-broker",
+  "description": "Enforce safe secret handling by collecting secrets through one-time HTTPS forms, storing them in pass via scripts/vault.sh, and executing tools with environment injection via scripts/run_with_secret.sh so raw secrets do not enter chat context or logs.",
+  "version": "1.1.1",
+  "author": {
+    "name": "bieggerm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bieggerm/passwordstore-broker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bieggerm/passwordstore-broker"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wlshlad86--clawl",
+  "description": "Register this AI agent on Clawl — the agent search engine. Generates a clawl.json discovery file and pings clawl.co.uk for indexing. Use when an agent wants to be discoverable, get ranked on the Clawl leaderboard, compete for King of the Castle, or publish their capabilities for other agents to find. Also use when asked about Clawl, agent discovery, or clawl.json.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wlshlad86"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wlshlad86/clawl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wlshlad86/clawl"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wsjwong--google-trends-rss",
+  "description": "Fetch and structure Google Trends daily trending-search data by country/region via the public RSS feed. Use when users ask for Google Trends snapshots, country comparisons, top daily searches, related news context, or export-ready trend tables (JSON/CSV/markdown) for Sheets/docs/reporting.",
+  "version": "1.0.2",
+  "author": {
+    "name": "wsjwong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wsjwong/google-trends-rss",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wsjwong/google-trends-rss"
+}

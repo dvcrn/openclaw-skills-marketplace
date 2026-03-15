@@ -1,0 +1,10 @@
+{
+  "name": "odrobnik--klientenportal",
+  "description": "Automate RZL Klientenportal.at — a web-based portal by RZL Software for exchanging receipts, invoices, and reports with your tax accountant. Login/logout, upload documents (Belegübergabe), list released files, and download Kanzleidokumente via Playwright.",
+  "version": "1.5.1",
+  "author": {
+    "name": "odrobnik"
+  },
+  "homepage": "https://github.com/odrobnik/klientenportal-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/klientenportal"
+}

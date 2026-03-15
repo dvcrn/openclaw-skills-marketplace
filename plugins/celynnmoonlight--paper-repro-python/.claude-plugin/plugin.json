@@ -1,0 +1,10 @@
+{
+  "name": "celynnmoonlight--paper-repro-python",
+  "description": "This skill should be used when the user asks to \"reproduce a paper\", \"implement paper methods in Python\", \"extract paper content to Markdown\", or works on paper reproduction tasks. Use for TeX-first extraction, modular Python implementation, and bilingual documentation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "celynnmoonlight"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/celynnmoonlight/paper-repro-python",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/celynnmoonlight/paper-repro-python"
+}

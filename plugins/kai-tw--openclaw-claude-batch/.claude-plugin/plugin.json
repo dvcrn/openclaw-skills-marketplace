@@ -1,0 +1,10 @@
+{
+  "name": "kai-tw--openclaw-claude-batch",
+  "description": "Claude Batch API for processing large volumes of requests asynchronously with 50% cost savings. Use for bulk content generation, data analysis, content moderation, batch evaluations, or large-scale testing where immediate responses are not required.",
+  "version": "1.0.1",
+  "author": {
+    "name": "kai-tw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kai-tw/openclaw-claude-batch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kai-tw/openclaw-claude-batch"
+}

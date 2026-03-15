@@ -1,0 +1,10 @@
+{
+  "name": "joifg--daily-report-writer",
+  "description": "根据输入生成日报 Markdown 草稿并写入 reports 目录",
+  "version": "1.0.0",
+  "author": {
+    "name": "joifg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/joifg/daily-report-writer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joifg/daily-report-writer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mishafyi--hotdog",
+  "description": "Hot dog or not? Classify food photos and battle Nemotron. Use when a user sends a food photo, asks if something is a hot dog, or says 'hotdog', '/hotdog', or 'hot dog battle'.",
+  "version": "10.1.1",
+  "author": {
+    "name": "mishafyi"
+  },
+  "homepage": "https://hotdogornot.xyz/battle",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mishafyi/hotdog"
+}

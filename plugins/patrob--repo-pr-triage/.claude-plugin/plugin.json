@@ -1,0 +1,10 @@
+{
+  "name": "patrob--repo-pr-triage",
+  "description": "Triage GitHub PRs and issues using vision-based scoring. Use when a user wants to prioritize, score, review, de-duplicate, or batch-process open pull requests or issues against their project's mission and values. Supports onboarding (interview repo owner to build vision doc), scanning (score PRs with rubric), and reporting (generate actionable markdown reports). Works with any GitHub repo via gh CLI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "patrob"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/patrob/repo-pr-triage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/patrob/repo-pr-triage"
+}

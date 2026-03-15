@@ -1,0 +1,10 @@
+{
+  "name": "pbseiya--f5tts-monitor",
+  "description": "Monitor F5-TTS distributed training on the 9-GPU mining rig (Local-LLM) without interfering with the process.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pbseiya"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pbseiya/f5tts-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pbseiya/f5tts-monitor"
+}

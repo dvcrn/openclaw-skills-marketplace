@@ -1,0 +1,10 @@
+{
+  "name": "luksoagent--lukso-expert",
+  "description": "Comprehensive LUKSO blockchain knowledge base for AI agents. Makes any agent a LUKSO expert — covering all LSP standards (LSP0-LSP28), Universal Profiles, smart contract development, ecosystem projects, and developer tooling. USE WHEN: - Building on LUKSO (smart contracts, dApps, integrations) - Working with Universal Profiles (creation, permissions, metadata) - Deploying or interacting with LSP7/LSP8 tokens - Setting up gasless relay transactions (LSP25) - Managing KeyManager permissions (LSP6) - Working with The Grid (LSP28), Followers (LSP26), or any LSP standard - Answering questions about LUKSO ecosystem, projects, or architecture - Looking up contract addresses, ABIs, or API endpoints - Debugging LUKSO-specific issues (permissions, encoding, gas) DON'T USE WHEN: - Working with non-LUKSO EVM chains (use standard Ethereum patterns) - General Solidity questions unrelated to LSP standards",
+  "version": "1.0.0",
+  "author": {
+    "name": "luksoagent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luksoagent/lukso-expert",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luksoagent/lukso-expert"
+}

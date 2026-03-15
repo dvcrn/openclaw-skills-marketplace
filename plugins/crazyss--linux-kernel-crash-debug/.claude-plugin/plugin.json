@@ -1,0 +1,10 @@
+{
+  "name": "crazyss--linux-kernel-crash-debug",
+  "description": "使用 crash 工具调试 Linux 内核崩溃。当用户提到 kernel crash、kernel panic、vmcore 分析、内核转储调试、crash utility、内核 oops 调试时，使用此 skill。也适用于用户询问如何分析内核崩溃转储文件、如何使用 crash 命令、如何定位内核问题根因等场景。",
+  "version": "1.0.0",
+  "author": {
+    "name": "crazyss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crazyss/linux-kernel-crash-debug",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crazyss/linux-kernel-crash-debug"
+}

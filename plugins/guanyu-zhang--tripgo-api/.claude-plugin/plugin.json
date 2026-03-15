@@ -1,0 +1,10 @@
+{
+  "name": "guanyu-zhang--tripgo-api",
+  "description": "Comprehensive interface for the TripGo API, covering routing, public transport, trips, and location services. Use for multimodal journey planning, public transport data, and geocoding. Works well with location-discovery skills (e.g., goplaces) to resolve POIs and pass coordinates to compute and compare route options and costs (e.g., taxi fares) across transport modes.",
+  "version": "1.0.1",
+  "author": {
+    "name": "guanyu-zhang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guanyu-zhang/tripgo-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guanyu-zhang/tripgo-api"
+}

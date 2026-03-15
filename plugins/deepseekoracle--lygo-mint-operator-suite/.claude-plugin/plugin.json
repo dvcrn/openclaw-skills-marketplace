@@ -1,0 +1,10 @@
+{
+  "name": "deepseekoracle--lygo-mint-operator-suite",
+  "description": "Advanced LYGO-MINT Operator Suite (v2): canonicalize *multi-file* packs, generate per-file + bundle hashes, write append-only + canonical ledgers, produce machine-readable multi-platform Anchor Snippets, and verify third-party packs. Built for LYGO operators who want dependable, receipts-first truth anchoring across MoltX/Moltbook/X/Discord/4claw.",
+  "version": "1.0.0",
+  "author": {
+    "name": "deepseekoracle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-mint-operator-suite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-mint-operator-suite"
+}

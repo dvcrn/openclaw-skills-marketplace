@@ -1,0 +1,10 @@
+{
+  "name": "yonghaozhao722--diet-tracker",
+  "description": "Tracks daily diet and calculates nutrition information to help achieve weight loss goals. Use when user provides meal information, asks about calorie intake, requests remaining calorie budget, or needs meal logging reminders. Automatically reminds user to log meals via cron job at lunch and dinner times.",
+  "version": "1.2.0",
+  "author": {
+    "name": "yonghaozhao722"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/diet-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/diet-tracker"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "npc7--amlclaw",
+  "description": "AI-powered crypto AML compliance toolkit. Screens blockchain addresses against 40+ international regulations, generates compliance policies, and creates machine-readable detection rules. Covers Singapore MAS, Hong Kong SFC, Dubai VARA, FATF, OFAC sanctions. Ships with pre-built rulesets and policies — works out of the box. Use when: screening addresses, generating AML rules, creating compliance policies, investigating crypto transactions, or when user mentions 'AML', 'compliance', 'screen address', 'KYA', 'rules'.",
+  "version": "2.0.0",
+  "author": {
+    "name": "npc7"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/npc7/amlclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/npc7/amlclaw"
+}

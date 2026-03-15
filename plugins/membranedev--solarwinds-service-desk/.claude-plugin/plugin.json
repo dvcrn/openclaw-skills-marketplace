@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--solarwinds-service-desk",
+  "description": "SolarWinds Service Desk integration. Manage Incidents, Problems, Changes, Assets, Solutions, Users and more. Use when the user wants to interact with SolarWinds Service Desk data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/solarwinds-service-desk"
+}

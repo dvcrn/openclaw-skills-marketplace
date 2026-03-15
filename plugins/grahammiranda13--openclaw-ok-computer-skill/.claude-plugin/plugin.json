@@ -1,0 +1,10 @@
+{
+  "name": "grahammiranda13--openclaw-ok-computer-skill",
+  "description": "Spawn multiple sub‑agents to perform concurrent research on a list of topics,\n inspired by Kimi.com’s OK Computer and Agent Swarm features【453334500861599†L40-L99】.  Each\n sub‑agent performs a DuckDuckGo search for its assigned topic and returns the\n top results.  When all sub‑agents finish, the skill aggregates their\n findings into a single structured report.  Use this skill for broad,\n multi‑topic research where parallel exploration saves time.",
+  "version": "0.1.0",
+  "author": {
+    "name": "grahammiranda13"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/grahammiranda13/openclaw-ok-computer-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/grahammiranda13/openclaw-ok-computer-skill"
+}

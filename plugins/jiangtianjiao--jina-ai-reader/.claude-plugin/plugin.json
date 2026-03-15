@@ -1,0 +1,10 @@
+{
+  "name": "jiangtianjiao--jina-ai-reader",
+  "description": "Fetch clean, AI-friendly Markdown content from any URL using Jina.ai Reader. Bypasses paywalls, handles Twitter/X posts, renders JavaScript-heavy pages, returns structured content with titles and metadata. Use this when you need to read or extract content from web pages after search, or when dealing with paywalled sites, Twitter/X, or SPA pages that need JS rendering.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jiangtianjiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jiangtianjiao/jina-ai-reader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jiangtianjiao/jina-ai-reader"
+}

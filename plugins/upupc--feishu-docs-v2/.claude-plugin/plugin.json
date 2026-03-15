@@ -1,0 +1,10 @@
+{
+  "name": "upupc--feishu-docs-v2",
+  "description": "飞书文档管理工具，支持读取、创建、更新、删除飞书文档，导入本地文件为飞书文档，以及列出文件夹内容。用于在 Claude Code 中管理飞书云文档。",
+  "version": "0.1.3",
+  "author": {
+    "name": "upupc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/upupc/feishu-docs-v2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/upupc/feishu-docs-v2"
+}

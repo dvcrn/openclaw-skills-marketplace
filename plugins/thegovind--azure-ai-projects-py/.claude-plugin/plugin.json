@@ -1,0 +1,10 @@
+{
+  "name": "thegovind--azure-ai-projects-py",
+  "description": "Build AI applications using the Azure AI Projects Python SDK (azure-ai-projects). Use when working with Foundry project clients, creating versioned agents with PromptAgentDefinition, running evaluations, managing connections/deployments/datasets/indexes, or using OpenAI-compatible clients. This is the high-level Foundry SDK - for low-level agent operations, use azure-ai-agents-python skill.",
+  "version": "0.1.0",
+  "author": {
+    "name": "thegovind"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thegovind/azure-ai-projects-py",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thegovind/azure-ai-projects-py"
+}

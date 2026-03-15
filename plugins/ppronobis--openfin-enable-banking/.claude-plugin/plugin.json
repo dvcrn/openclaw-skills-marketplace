@@ -1,0 +1,10 @@
+{
+  "name": "ppronobis--openfin-enable-banking",
+  "description": "PSD2 Open Banking integration via Enable Banking API. Connect DACH bank accounts (Sparkasse, Volksbank, Deutsche Bank, Commerzbank, DKB, ING, Postbank + Austrian banks) to fetch balances and transactions. Multi-mandant architecture with 3 modes: onboard, fetch, renew. Designed for tax advisory automation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ppronobis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ppronobis/openfin-enable-banking",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ppronobis/openfin-enable-banking"
+}

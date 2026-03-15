@@ -1,0 +1,10 @@
+{
+  "name": "parkertoddbrooks--wip-file-guard",
+  "description": "Hook that blocks destructive edits to protected identity files. For Claude Code CLI and OpenClaw.",
+  "version": "1.9.6",
+  "author": {
+    "name": "parkertoddbrooks"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/parkertoddbrooks/wip-file-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/parkertoddbrooks/wip-file-guard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wilsonliu95--seedream-imagegen",
+  "description": "Generate high-quality images using Seedream 4.5 API (Volcengine/火山引擎). Supports text-to-image, image editing, multi-image fusion, and sequential image generation. Triggers include requests like \"generate an image\", \"create a picture\", \"make a poster\", \"edit this image\", \"生成图片\", \"画一张\", \"做一个海报\", image generation tasks, or any visual content creation request. This skill crafts optimized prompts based on user intent and then calls the Seedream API. Requires ARK_API_KEY environment variable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wilsonliu95"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wilsonliu95/seedream-imagegen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wilsonliu95/seedream-imagegen"
+}

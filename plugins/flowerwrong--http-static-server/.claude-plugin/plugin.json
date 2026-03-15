@@ -1,0 +1,10 @@
+{
+  "name": "flowerwrong--http-static-server",
+  "description": "Start an ad-hoc HTTP static file server in the current directory using one-line commands across 25+ languages and tools. Auto-detects available runtimes and recommends the best option.",
+  "version": "2026.3.10",
+  "author": {
+    "name": "flowerwrong"
+  },
+  "homepage": "https://gist.github.com/willurd/5720255",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/flowerwrong/http-static-server"
+}

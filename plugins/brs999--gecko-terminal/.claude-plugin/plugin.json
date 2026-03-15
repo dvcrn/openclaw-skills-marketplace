@@ -1,0 +1,10 @@
+{
+  "name": "brs999--gecko-terminal",
+  "description": "Query GeckoTerminal market data - networks, DEXes, pools, tokens, OHLCV, trades, and trending/new pools.",
+  "version": "1.0.1",
+  "author": {
+    "name": "brs999"
+  },
+  "homepage": "https://www.geckoterminal.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brs999/gecko-terminal"
+}

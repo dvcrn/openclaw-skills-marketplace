@@ -1,0 +1,10 @@
+{
+  "name": "phy041--phy-fal-model-selector",
+  "description": "Helps choose the right fal.ai model before API calls. Provides quick decision matrix for video generation (text-to-video, image-to-video), image editing (object removal, relighting, style transfer, virtual try-on, outpaint), image generation, background removal, upscaling, TTS, and 3D. Use when user wants to generate video, generate images, edit images, remove background, upscale, or use any fal.ai model. Triggers on \"which fal model\", \"fal.ai\", \"generate video\", \"image to video\", \"text to video\", \"video generation\", \"edit image\", \"remove background\", \"upscale\", \"style transfer\", \"which model should I use\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "phy041"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-fal-model-selector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-fal-model-selector"
+}

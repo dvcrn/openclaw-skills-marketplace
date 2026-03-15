@@ -1,0 +1,10 @@
+{
+  "name": "alphafactor--ghost",
+  "description": "Manage Ghost CMS blog posts via Admin API. Supports creating, updating, deleting, and listing posts. NEW: Upload images and set feature images for posts. Use when the user needs to programmatically manage Ghost blog content. Requires a JSON configuration file with API credentials.",
+  "version": "1.0.5",
+  "author": {
+    "name": "alphafactor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/ghost",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/ghost"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "contrario--masterswarm",
+  "description": "Analyze any document with 15 parallel AI engines via the MasterSwarm cloud API. Upload receipts, contracts, lab results, or ask business/crypto/legal questions — get professional intelligence reports. Requires a paid MasterSwarm API key purchased from masterswarm.net.",
+  "version": "1.1.2",
+  "author": {
+    "name": "contrario"
+  },
+  "homepage": "https://masterswarm.net",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/contrario/masterswarm"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "romainsantoli-web--firm-runtime-audit-pack",
+  "description": "Runtime environment and configuration audit pack. Validates Node.js version, secrets workflow, HTTP headers, allowed commands, trusted proxy, disk budget, and DM allowlist. 7 runtime security tools.",
+  "version": "1.0.0",
+  "author": {
+    "name": "romainsantoli-web"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-runtime-audit-pack",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-runtime-audit-pack"
+}

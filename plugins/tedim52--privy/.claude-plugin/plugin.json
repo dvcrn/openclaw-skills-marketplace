@@ -1,0 +1,10 @@
+{
+  "name": "tedim52--privy",
+  "description": "Create and manage agentic wallets with Privy. Use for autonomous onchain transactions, wallet creation, policy management, and transaction execution on Ethereum, Solana, and other chains. Triggers on requests involving crypto wallets for AI agents, server-side wallet operations, or autonomous transaction execution.",
+  "version": "1.0.1",
+  "author": {
+    "name": "tedim52"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tedim52/privy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tedim52/privy"
+}

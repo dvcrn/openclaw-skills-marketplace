@@ -1,0 +1,10 @@
+{
+  "name": "killerapp--para-pkm",
+  "description": "Manage PARA-based personal knowledge management (PKM) systems using Projects, Areas, Resources, and Archives organization method. Use when users need to (1) Create a new PARA knowledge base, (2) Organize or reorganize existing knowledge bases into PARA structure, (3) Decide where content belongs in PARA (Projects vs Areas vs Resources vs Archives), (4) Create AI-friendly navigation files for knowledge bases, (5) Archive completed projects, (6) Validate PARA structure, or (7) Learn PARA organizational patterns for specific use cases (developers, consultants, researchers, etc.)",
+  "version": "1.0.0",
+  "author": {
+    "name": "killerapp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/killerapp/para-pkm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/killerapp/para-pkm"
+}

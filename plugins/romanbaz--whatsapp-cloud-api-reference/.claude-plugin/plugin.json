@@ -1,0 +1,10 @@
+{
+  "name": "romanbaz--whatsapp-cloud-api-reference",
+  "description": "Use when implementing WhatsApp messaging via Meta Cloud API, or diagnosing failures like message not delivered, template rejected, webhook issues, phone not registered, token errors, rate limiting, 24-hour window violations, quality rating drops, or setup mistakes on the WhatsApp Business API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "romanbaz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/romanbaz/whatsapp-cloud-api-reference",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romanbaz/whatsapp-cloud-api-reference"
+}

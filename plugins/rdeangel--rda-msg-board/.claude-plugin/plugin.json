@@ -1,0 +1,10 @@
+{
+  "name": "rdeangel--rda-msg-board",
+  "description": "Send scrolling text messages to RDA MSG Board via HTTP/JSON. Use for notifications, alerts, or status updates on physical LED matrix.",
+  "version": "1.0.2",
+  "author": {
+    "name": "rdeangel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rdeangel/rda-msg-board",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rdeangel/rda-msg-board"
+}

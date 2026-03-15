@@ -1,0 +1,10 @@
+{
+  "name": "gmsx000-cloud--global-intel-summary",
+  "description": "全球情报汇总工具 - 自动生成结构化的全球市场、政经、AI 新闻汇总报告。支持定向深度分析与智能推演。借鉴 situation-monitor 项目架构，增强 RSS 源接入、情报分级和高相关性事件检测。",
+  "version": "1.0.0",
+  "author": {
+    "name": "gmsx000-cloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gmsx000-cloud/global-intel-summary",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gmsx000-cloud/global-intel-summary"
+}

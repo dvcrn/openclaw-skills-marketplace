@@ -1,0 +1,10 @@
+{
+  "name": "mrgoodb--postmark",
+  "description": "Send transactional emails with high deliverability via Postmark API. Manage templates, track bounces, and view analytics.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrgoodb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/postmark",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/postmark"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ziwenwang28--feishu-proactive-messenger",
+  "description": "飞书主动消息发送器 — 飞书渠道只支持被动回复，agent 无法主动发起对话。本 skill 调用飞书 OpenAPI 发送文本消息，补齐主动投递能力。| Feishu Proactive Messenger — Send text messages proactively via Feishu OpenAPI, filling the channel's missing outbound messaging.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ziwenwang28"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ziwenwang28/feishu-proactive-messenger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ziwenwang28/feishu-proactive-messenger"
+}

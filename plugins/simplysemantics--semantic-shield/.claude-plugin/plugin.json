@@ -1,0 +1,10 @@
+{
+  "name": "simplysemantics--semantic-shield",
+  "description": "AI skill safety validation — real human experts vet skills, plugins, and MCP tools for security risks. Query trust scores, submit evaluation inquiries, and get real-time safety verdicts before installing anything in your AI agents. Safety scoring 0–100, threat detection, continuous 0-day monitoring. Lightweight SaaS component from Simply Semantics for AI agents, bots, and security-conscious builders.",
+  "version": "1.0.1",
+  "author": {
+    "name": "simplysemantics"
+  },
+  "homepage": "https://www.simplysemantics.com/semantic-shield.html",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/simplysemantics/semantic-shield"
+}

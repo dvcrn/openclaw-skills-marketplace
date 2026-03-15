@@ -1,0 +1,10 @@
+{
+  "name": "jackfriks--post-bridge-social-manager",
+  "description": "Turn your OpenClaw into an autonomous social media manager using Post Bridge API. Use when scheduling, posting, or managing content across TikTok, Instagram Reels, YouTube Shorts, Twitter/X, LinkedIn, Pinterest, Facebook, Threads, or Bluesky. Covers media upload, post creation, scheduling, platform-specific configs, draft mode, and post result tracking.",
+  "version": "1.0.7",
+  "author": {
+    "name": "jackfriks"
+  },
+  "homepage": "https://clawhub.ai/jackfriks/post-bridge-social-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jackfriks/post-bridge-social-manager"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "baiguangmei--pyzhihu-cli",
+  "description": "提供知乎的 CLI 工具 (pyzhihu-cli），在终端完成搜索、热榜、看问题与回答、发想法/提问/文章、点赞关注等一整套操作；用自然语言说出需求即可由 Agent 代为执行，无需记命令。",
+  "version": "0.2.4",
+  "author": {
+    "name": "baiguangmei"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/baiguangmei/pyzhihu-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/baiguangmei/pyzhihu-cli"
+}

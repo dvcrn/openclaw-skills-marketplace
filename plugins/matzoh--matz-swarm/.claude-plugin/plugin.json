@@ -1,0 +1,10 @@
+{
+  "name": "matzoh--matz-swarm",
+  "description": "Orchestrate OpenClaw Agent Swarm workflows for multi-project coding automation. Use when user says \"合并\"/\"merge\" replying to a PR_READY notification, spawns a coding task, or asks about agent/task/MR status. Covers: Obsidian task intake, Claude coding, Codex review, GitLab MR flow, merge+sync, done-status closure.",
+  "version": "1.1.1",
+  "author": {
+    "name": "matzoh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/matzoh/matz-swarm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matzoh/matz-swarm"
+}

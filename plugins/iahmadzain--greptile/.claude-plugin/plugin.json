@@ -1,0 +1,10 @@
+{
+  "name": "iahmadzain--greptile",
+  "description": "Query, search, and manage repositories indexed by Greptile (AI codebase intelligence). Use when asking questions about a codebase, searching for code patterns, indexing repos for Greptile review, or checking Greptile index status. Requires GREPTILE_TOKEN and a GitHub/GitLab token.",
+  "version": "1.0.1",
+  "author": {
+    "name": "iahmadzain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iahmadzain/greptile",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iahmadzain/greptile"
+}

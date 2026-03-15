@@ -1,0 +1,10 @@
+{
+  "name": "flyingtimes--backupclaw",
+  "description": "Backup and restore OpenClaw configuration files. Use when the user wants to backup ~/.openclaw/ configuration (excluding workspace) to a date-stamped directory, or restore from a previous backup. Includes backup with diff-based change detection and changelog logging, and restore by date. The backup directory path ($backup_claw_dir) must be obtained from the user before first use.",
+  "version": "1.0.0",
+  "author": {
+    "name": "flyingtimes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/flyingtimes/backupclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/flyingtimes/backupclaw"
+}

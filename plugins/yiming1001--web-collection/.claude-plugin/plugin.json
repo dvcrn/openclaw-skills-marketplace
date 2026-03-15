@@ -1,0 +1,10 @@
+{
+  "name": "yiming1001--web-collection",
+  "description": "Browser plugin data collection for Douyin/TikTok/Xiaohongshu via a local bridge, including one-shot closed-loop runs (collect → poll → export → return table link).",
+  "version": "1.1.1",
+  "author": {
+    "name": "yiming1001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yiming1001/web-collection",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yiming1001/web-collection"
+}

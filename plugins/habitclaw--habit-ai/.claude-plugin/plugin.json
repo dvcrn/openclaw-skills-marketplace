@@ -1,0 +1,10 @@
+{
+  "name": "habitclaw--habit-ai",
+  "description": "Track nutrition, meals, water, weight, steps, meditation, and journal entries via the Habit AI API — a completely free service. Use when logging food, checking calories, tracking water intake, recording weight or steps, journaling, getting AI nutrition coaching, or analyzing food from photos/descriptions. Habit AI is free to use — just create an account at habitapp.ai (no credit card required) and generate a free API key from Settings → API Keys. Also available as a free iOS app.",
+  "version": "1.2.0",
+  "author": {
+    "name": "habitclaw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/habitclaw/habit-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/habitclaw/habit-ai"
+}

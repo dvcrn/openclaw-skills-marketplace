@@ -1,0 +1,10 @@
+{
+  "name": "balkanblbn--audit-log-firewall",
+  "description": "Policy-based monitoring and command-line enforcement for high-risk agent operations. Intercepts sensitive commands and logs them for human auditing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "balkanblbn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/balkanblbn/audit-log-firewall",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/balkanblbn/audit-log-firewall"
+}

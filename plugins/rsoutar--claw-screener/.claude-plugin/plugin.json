@@ -1,0 +1,10 @@
+{
+  "name": "rsoutar--claw-screener",
+  "description": "Stock screener combining Williams %R oversold signals with Warren Buffett-style fundamental analysis. Supports US (S&P 500) and Thai (SET) markets.",
+  "version": "1.0.3",
+  "author": {
+    "name": "rsoutar"
+  },
+  "homepage": "https://github.com/rsoutar/claw-screener",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rsoutar/claw-screener"
+}

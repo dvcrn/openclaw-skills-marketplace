@@ -1,0 +1,10 @@
+{
+  "name": "aaron-he-zhu--content-quality-auditor",
+  "description": "This skill should be used when the user asks to \"audit content quality\", \"EEAT score\", \"E-E-A-T audit\", \"content quality check\", \"CORE-EEAT audit\", \"helpful content assessment\", \"experience expertise authoritativeness trust\", \"how good is my content\", \"is my content AI-citation worthy\", \"content improvement plan\", \"helpful content update impact\", or \"GEO quality score\". Runs the full 80-item CORE-EEAT audit across 8 dimensions: Contextual Clarity, Organization, Referenceability, Exclusivity (CORE, GEO-focused) plus Experience, Expertise, Authoritativeness, Trust (EEAT, SEO-focused). Produces a GEO Score, SEO Score, content-type weighted total, per-item pass/partial/fail, and prioritized fix plan with veto item checks. For SEO page element audits, see on-page-seo-auditor. For domain-level authority, see domain-authority-auditor.",
+  "version": "3.0.0",
+  "author": {
+    "name": "aaron-he-zhu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/content-quality-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/content-quality-auditor"
+}

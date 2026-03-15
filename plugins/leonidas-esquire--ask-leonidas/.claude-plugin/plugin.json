@@ -1,0 +1,10 @@
+{
+  "name": "leonidas-esquire--ask-leonidas",
+  "description": "Generate a structured LEONIDAS prompt from any professional pain point using the Ask Leonidas OpenClaw API. Solves the #1 OpenClaw community pain point: writing a SOUL.md that actually works. Also generates prompts for AGENTS.md, cron job instructions, skill vetting briefs, and any workflow you want your agent to own. Automatically infers role, industry, and desired outcome.",
+  "version": "2.1.0",
+  "author": {
+    "name": "leonidas-esquire"
+  },
+  "homepage": "https://askleonidas.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leonidas-esquire/ask-leonidas"
+}

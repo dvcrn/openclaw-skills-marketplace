@@ -1,0 +1,10 @@
+{
+  "name": "mogglemoss--tempest-weather-wf",
+  "description": "Fetches live weather data from a WeatherFlow Tempest weather station and returns structured JSON with current conditions, wind, precipitation, and lightning. Use when the user asks about current weather, outdoor conditions, their Tempest station, wind speed, rain, lightning nearby, or any live sensor readings — even if they don't mention Tempest or API explicitly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mogglemoss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mogglemoss/tempest-weather-wf",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mogglemoss/tempest-weather-wf"
+}

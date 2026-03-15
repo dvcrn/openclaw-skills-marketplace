@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-permission-scope-audit",
+  "description": "Audit GitHub Actions workflow permission scope drift to enforce least-privilege token access.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-permission-scope-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-permission-scope-audit"
+}

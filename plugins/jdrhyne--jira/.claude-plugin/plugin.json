@@ -1,0 +1,10 @@
+{
+  "name": "jdrhyne--jira",
+  "description": "Use when the user mentions Jira issues (e.g., \"PROJ-123\"), asks about tickets, wants to create/view/update issues, check sprint status, or manage their Jira workflow. Triggers on keywords like \"jira\", \"issue\", \"ticket\", \"sprint\", \"backlog\", or issue key patterns.",
+  "version": "1.3.3",
+  "author": {
+    "name": "jdrhyne"
+  },
+  "homepage": "https://github.com/ankitpokhrel/jira-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jdrhyne/jira"
+}

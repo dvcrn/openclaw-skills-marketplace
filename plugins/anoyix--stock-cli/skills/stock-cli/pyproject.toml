@@ -1,0 +1,55 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "stock-cli"
+version = "0.1.0"
+description = "A CLI for Stock (Red) — search, read, interact via reverse-engineered API"
+readme = "README.md"
+license = "Apache-2.0"
+requires-python = ">=3.10"
+authors = [{ name = "AnoyiX", email = "anoyi@qq.com" }]
+keywords = ["stock", "cli"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Environment :: Console",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Utilities",
+]
+dependencies = [
+    "click>=8.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "pytest-asyncio>=0.23", "ruff>=0.11.0", "mypy>=1.15.0"]
+
+[project.urls]
+Homepage = "https://github.com/AnoyiX/stock-cli"
+Repository = "https://github.com/AnoyiX/stock-cli"
+Issues = "https://github.com/AnoyiX/stock-cli/issues"
+
+[project.scripts]
+stock = "stock_cli.cli:cli"
+
+[tool.hatch.build.targets.wheel]
+packages = ["stock_cli"]
+
+[tool.ruff]
+target-version = "py310"
+line-length = 120
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.mypy]
+python_version = "3.10"
+ignore_missing_imports = true
+check_untyped_defs = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = "-m 'not smoke'"
+markers = ["smoke: real-API integration tests (run with: pytest -m smoke)"]

@@ -1,0 +1,10 @@
+{
+  "name": "marcosathanasoulis--openclaw-universal-memory",
+  "description": "Connector-agnostic Postgres + pgvector memory ingestion and retrieval with incremental cursor history.",
+  "version": "1.0.0",
+  "author": {
+    "name": "marcosathanasoulis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/marcosathanasoulis/openclaw-universal-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marcosathanasoulis/openclaw-universal-memory"
+}

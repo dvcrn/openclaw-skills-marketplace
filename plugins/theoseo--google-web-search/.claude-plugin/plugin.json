@@ -1,0 +1,10 @@
+{
+  "name": "theoseo--google-web-search",
+  "description": "Enables grounded question answering by automatically executing the Google Search tool within Gemini models. Use when the required information is recent (post knowledge cutoff) or requires verifiable citation.",
+  "version": "1.0.3",
+  "author": {
+    "name": "theoseo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theoseo/google-web-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theoseo/google-web-search"
+}

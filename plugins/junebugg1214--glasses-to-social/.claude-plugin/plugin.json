@@ -1,0 +1,10 @@
+{
+  "name": "junebugg1214--glasses-to-social",
+  "description": "Turn smart glasses photos into social media posts. Monitors a Google Drive folder for new images from Meta Ray-Ban glasses (or any smart glasses), analyzes them with vision AI, drafts tweets/posts in the user's voice, and publishes on approval. Use when setting up a glasses-to-social pipeline, processing smart glasses photos for social media, or creating hands-free content workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "junebugg1214"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/junebugg1214/glasses-to-social",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/junebugg1214/glasses-to-social"
+}

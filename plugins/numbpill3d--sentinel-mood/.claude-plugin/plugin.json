@@ -1,0 +1,10 @@
+{
+  "name": "numbpill3d--sentinel-mood",
+  "description": "Analyze the sentiment and emotional tone of text using NLTK and VADER. Use this to gauge user mood, detect urgency, or analyze content tone.",
+  "version": "1.0.0",
+  "author": {
+    "name": "numbpill3d"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/numbpill3d/sentinel-mood",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/numbpill3d/sentinel-mood"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "tokyo-s--gemini-video-analyze",
+  "description": "Send a public video URL directly to a Google Gemini model for analysis. Use when Codex must summarize a video, answer questions about video content, or extract key points from a URL without local download or file upload steps.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tokyo-s"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tokyo-s/gemini-video-analyze",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tokyo-s/gemini-video-analyze"
+}

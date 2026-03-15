@@ -1,0 +1,10 @@
+{
+  "name": "theagentwire--agent-security-ops",
+  "description": "Stop leaking secrets. Pre-commit hooks + 10-point scans + cron monitoring. Agent-ops security in one command. By The Agent Wire (theagentwire.ai)",
+  "version": "1.2.2",
+  "author": {
+    "name": "theagentwire"
+  },
+  "homepage": "https://theagentwire.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theagentwire/agent-security-ops"
+}

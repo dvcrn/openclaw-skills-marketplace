@@ -1,0 +1,10 @@
+{
+  "name": "kellyclaudeai--memory-system-v2",
+  "description": "Fast semantic memory system with JSON indexing, auto-consolidation, and <20ms search. Capture learnings, decisions, insights, events. Use when you need persistent memory across sessions or want to recall prior work/decisions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kellyclaudeai"
+  },
+  "homepage": "https://github.com/austenallred/memory-system-v2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kellyclaudeai/memory-system-v2"
+}

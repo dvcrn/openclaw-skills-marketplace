@@ -1,0 +1,10 @@
+{
+  "name": "crotalus--manifold",
+  "description": "Read and trade on Manifold Markets (search markets, fetch probabilities, inspect users/bets, place bets/sell/comment). Never place a bet/sell/comment without explicit user confirmation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "crotalus"
+  },
+  "homepage": "https://manifold.markets",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crotalus/manifold"
+}

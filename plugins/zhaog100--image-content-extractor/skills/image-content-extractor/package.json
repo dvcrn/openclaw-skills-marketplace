@@ -1,0 +1,57 @@
+{
+  "name": "image-content-extractor",
+  "version": "2.0.0",
+  "description": "统一图片内容提取技能。集成terminal-ocr，支持终端/文档/通用三种模式，智能检测，自动提取内容生成Markdown。",
+  "author": "miliger",
+  "created": "2026-03-06",
+  "updated": "2026-03-06",
+  "keywords": [
+    "ocr",
+    "image",
+    "content-extraction",
+    "markdown",
+    "terminal",
+    "document",
+    "multi-mode"
+  ],
+  "skills": [
+    "image-analysis",
+    "text-extraction",
+    "structure-detection",
+    "terminal-ocr"
+  ],
+  "dependencies": {
+    "python": ">=3.8",
+    "tesseract-ocr": ">=4.0",
+    "opencv-python": ">=4.5",
+    "pillow": ">=8.0",
+    "pytesseract": ">=0.3",
+    "numpy": ">=1.20"
+  },
+  "config": {
+    "config_file": "config/extractor-config.json",
+    "main_script": "scripts/extract.py"
+  },
+  "modes": {
+    "terminal": {
+      "description": "终端/命令行截图",
+      "features": ["命令识别", "路径高亮", "错误检测"]
+    },
+    "document": {
+      "description": "文档截图",
+      "features": ["标题检测", "列表格式化", "代码块识别"]
+    },
+    "general": {
+      "description": "通用图片",
+      "features": ["自动检测", "结构分析", "灵活配置"]
+    }
+  },
+  "repository": {
+    "type": "local",
+    "path": "~/.openclaw/workspace/skills/image-content-extractor"
+  },
+  "changelog": {
+    "2.0.0": "统一版本，集成terminal-ocr，三大模式支持",
+    "1.0.0": "初始版本"
+  }
+}

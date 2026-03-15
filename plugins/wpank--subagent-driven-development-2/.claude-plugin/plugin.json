@@ -1,0 +1,10 @@
+{
+  "name": "wpank--subagent-driven-development-2",
+  "description": "Execute implementation plans by dispatching a fresh subagent per task with two-stage review (spec compliance then code quality). Use when you have an implementation plan with mostly independent tasks and want high-quality, fast iteration within a single session.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/subagent-driven-development-2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/subagent-driven-development-2"
+}

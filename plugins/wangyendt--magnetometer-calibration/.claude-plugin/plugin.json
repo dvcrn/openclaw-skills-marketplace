@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--magnetometer-calibration",
+  "description": "Sensor calibration toolkit with magnetometer calibration using close-form method. Use when calibrating IMU sensors (accelerometer, gyroscope, magnetometer) to compute soft-iron matrix and hard-iron offset for magnetometer correction. Requires sensor fusion with VQF for orientation estimation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/magnetometer-calibration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/magnetometer-calibration"
+}

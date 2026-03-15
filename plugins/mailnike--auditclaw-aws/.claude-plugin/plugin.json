@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--auditclaw-aws",
+  "description": "AWS compliance evidence collection for auditclaw-grc. 15 read-only checks across S3, IAM, CloudTrail, VPC, KMS, EC2, RDS, Lambda, EBS, SQS, SNS, Secrets Manager, Config, GuardDuty, and Security Hub.",
+  "version": "1.0.2",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.auditclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/auditclaw-aws"
+}

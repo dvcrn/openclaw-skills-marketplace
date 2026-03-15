@@ -1,0 +1,10 @@
+{
+  "name": "kandler3--yandex-tracker",
+  "description": "Work with Yandex Tracker (issues, queues, comments, attachments, links, search, bulk operations) via Python yandex_tracker_client. Use when the user asks to manage Tracker tasks, create/update/close issues, search, add comments, log time, manage links, or bulk-update issues.",
+  "version": "1.0.1",
+  "author": {
+    "name": "kandler3"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kandler3/yandex-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kandler3/yandex-tracker"
+}

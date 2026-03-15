@@ -1,0 +1,10 @@
+{
+  "name": "jackal092927--openclaw-cron-guardrails",
+  "description": "Create, review, repair, or route OpenClaw cron jobs and other scheduled agent actions with safe defaults and explicit delivery/session routing. Use when the user asks in natural language for reminders, alarms, recurring nudges, periodic scans, daily/nightly jobs, repeated prompt injection into the current session/thread, or any `openclaw cron add/edit/run` workflow. Especially use this in multi-channel setups (for example Discord + Feishu) or when delivery routing, `channel=last`, `sessionTarget`, `timeoutSeconds`, thread targeting, or natural-language schedule parsing could go wrong.",
+  "version": "0.1.5",
+  "author": {
+    "name": "jackal092927"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jackal092927/openclaw-cron-guardrails",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jackal092927/openclaw-cron-guardrails"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "robshabbir--agent-self-care",
+  "description": "Autonomous agent health, optimization, and cleanup. Use when: (1) running scheduled cron jobs for agent maintenance, (2) responding to \"optimize\", \"cleanup\", \"health check\", \"clear stalls\", or \"self-maintain\" requests, (3) performing BMAD-style retrospective and continuous improvement, (4) checking sub-agent sessions, process health, memory usage, and context bloat, (5) ensuring fast response times and autonomous operation. This skill handles all self-optimization workflows including stale session cleanup, context compaction, and performance monitoring.",
+  "version": "1.0.0",
+  "author": {
+    "name": "robshabbir"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/robshabbir/agent-self-care",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robshabbir/agent-self-care"
+}

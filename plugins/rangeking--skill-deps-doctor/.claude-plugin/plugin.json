@@ -1,0 +1,10 @@
+{
+  "name": "rangeking--skill-deps-doctor",
+  "description": "Cross-platform skill dependency doctor — preflight check for missing binaries, version mismatches, system libraries, CJK fonts, Playwright/Chromium runtime, and project-level deps. Use before running skills to prevent late runtime dependency failures.",
+  "version": "0.1.0",
+  "author": {
+    "name": "rangeking"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rangeking/skill-deps-doctor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rangeking/skill-deps-doctor"
+}

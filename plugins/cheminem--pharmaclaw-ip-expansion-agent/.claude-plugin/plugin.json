@@ -1,0 +1,10 @@
+{
+  "name": "cheminem--pharmaclaw-ip-expansion-agent",
+  "description": "Intellectual Property Expansion Agent for pharma drug discovery/development teams. Proactively manages/expands IP portfolios by analyzing SMILES/molecules from other agents (Drug Discovery/Synthesis), performing infringement/FTO analyses via RDKit similarity & patent APIs, mining prior art for novelty suggestions (bioisosteres/derivatives), and recommending strategic claims. Triggers on: IP/patent/FTO/infringement/novelty/prior art queries for molecules/SMILES/therapeutics; portfolio tracking; chaining with chemistry-query/Tox/Safety agents. Use for patentable derivative ideas, risk matrices, white space identification, expiration monitoring.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cheminem"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cheminem/pharmaclaw-ip-expansion-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cheminem/pharmaclaw-ip-expansion-agent"
+}

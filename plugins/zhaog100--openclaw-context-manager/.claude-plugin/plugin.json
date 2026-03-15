@@ -1,0 +1,10 @@
+{
+  "name": "zhaog100--openclaw-context-manager",
+  "description": "Auto context management - monitors usage and triggers memory transfer at 95% threshold to prevent overflow and ensure session continuity. Trigger on \"context\", \"memory\", \"session management\", \"context limit\", \"memory transfer\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhaog100"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhaog100/openclaw-context-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhaog100/openclaw-context-manager"
+}

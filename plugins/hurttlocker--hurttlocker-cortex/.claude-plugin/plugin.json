@@ -1,0 +1,10 @@
+{
+  "name": "hurttlocker--hurttlocker-cortex",
+  "description": "Local-first agent memory with Ebbinghaus decay, hybrid search, and MCP tools. Import files, extract facts, search with BM25 + semantic, track confidence over time. Zero dependencies, single Go binary, SQLite storage. Use when you need persistent memory beyond OpenClaw's built-in MEMORY.md — especially for multi-agent setups, large knowledge bases, or when compaction keeps losing your important context. Don't use for: conversation history (use memory_search), exact string matching (use ripgrep), or web lookups.",
+  "version": "4.0.0",
+  "author": {
+    "name": "hurttlocker"
+  },
+  "homepage": "https://github.com/hurttlocker/cortex",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hurttlocker/hurttlocker-cortex"
+}

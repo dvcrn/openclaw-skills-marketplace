@@ -1,0 +1,10 @@
+{
+  "name": "boilerrat--modular-market-brief",
+  "description": "Generate modular, data-backed market reports (AM/PM) across global assets. Use for daily market briefs, premarket/aftermarket summaries, cross-asset dashboards, sector/asset trend tables, top movers (gainers/losers) blocks, and a single best-idea wrap-up. Designed to be region-agnostic and configurable (tickers/regions/assets).",
+  "version": "0.1.0",
+  "author": {
+    "name": "boilerrat"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/boilerrat/modular-market-brief",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/boilerrat/modular-market-brief"
+}

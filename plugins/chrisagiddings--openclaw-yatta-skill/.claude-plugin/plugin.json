@@ -1,0 +1,10 @@
+{
+  "name": "chrisagiddings--openclaw-yatta-skill",
+  "description": "Personal productivity system for task and capacity management. Create and organize tasks with rich attributes (priority, effort, complexity, tags), track time and streaks, manage capacity across projects and contexts, view Eisenhower Matrix prioritization, sync calendar subscriptions, handle delegation and follow-ups, and get AI-powered insights. Supports batch operations, multi-project workflows, and real-time capacity planning to prevent overcommitment. Security: v0.2.0 eliminates RCE vulnerability from v0.1.3 (shell/JSON injection in examples), adds endpoint verification, safe jq patterns throughout.",
+  "version": "0.2.2",
+  "author": {
+    "name": "chrisagiddings"
+  },
+  "homepage": "https://github.com/chrisagiddings/openclaw-yatta-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chrisagiddings/openclaw-yatta-skill"
+}

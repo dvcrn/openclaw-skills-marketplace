@@ -1,0 +1,10 @@
+{
+  "name": "sidu--location-safety-skill",
+  "description": "Location-based safety monitoring with automatic alerts and escalation. Use when setting up safety monitoring for a user, tracking their location, checking for nearby dangers (weather, earthquakes, air quality, local emergencies), or configuring emergency contact escalation. Also includes self-preservation monitoring for the agent's host machine. Triggers on requests about safety alerts, location tracking, emergency monitoring, \"keep me safe,\" or \"monitor yourself.\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "sidu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sidu/location-safety-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sidu/location-safety-skill"
+}

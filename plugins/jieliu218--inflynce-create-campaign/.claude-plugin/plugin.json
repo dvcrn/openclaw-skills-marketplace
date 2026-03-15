@@ -1,0 +1,10 @@
+{
+  "name": "jieliu218--inflynce-create-campaign",
+  "description": "Create Inflynce Boost campaigns via postBoostWeb API. Inflynce Marketing lets anyone boost a link (tweet, website, cast) with USDC and reward real Farcaster users by Mindshare. Each campaign requires 0.25 USDC. Use when creating a boost campaign or promoting content. Requires prior 0.25 USDC payment on Base as proof.",
+  "version": "1.0.2",
+  "author": {
+    "name": "jieliu218"
+  },
+  "homepage": "https://boost.inflynce.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jieliu218/inflynce-create-campaign"
+}

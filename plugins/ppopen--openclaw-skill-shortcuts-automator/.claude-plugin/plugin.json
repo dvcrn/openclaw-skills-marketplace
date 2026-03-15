@@ -1,0 +1,10 @@
+{
+  "name": "ppopen--openclaw-skill-shortcuts-automator",
+  "description": "Run and manage macOS Shortcuts directly from OpenClaw. Use when user wants to: (1) Run a specific shortcut by name, (2) List all available shortcuts, (3) View details of a shortcut, (4) Sign/unsign shortcuts for automation, (5) Execute any macOS Shortcut workflow. Triggers include \"run shortcut\", \"execute shortcut\", \"list shortcuts\", \"run automation\", \"show shortcuts\", \"what shortcuts do I have\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "ppopen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ppopen/openclaw-skill-shortcuts-automator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ppopen/openclaw-skill-shortcuts-automator"
+}

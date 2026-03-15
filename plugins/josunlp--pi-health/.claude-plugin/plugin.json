@@ -1,0 +1,10 @@
+{
+  "name": "josunlp--pi-health",
+  "description": "Raspberry Pi health monitor. Check CPU temperature, throttling status, voltage levels, memory/disk usage, fan RPM, overclock detection, and power issues. Use when monitoring Pi health, diagnosing thermal throttling, checking for under-voltage, or verifying system stability on any Raspberry Pi (Pi 3/4/5, arm64/armhf).",
+  "version": "1.0.0",
+  "author": {
+    "name": "josunlp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/josunlp/pi-health",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/josunlp/pi-health"
+}

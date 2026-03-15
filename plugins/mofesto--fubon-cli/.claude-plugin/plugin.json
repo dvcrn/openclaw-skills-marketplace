@@ -1,0 +1,10 @@
+{
+  "name": "mofesto--fubon-cli",
+  "description": "AI-agent skill for Taiwan stock/futures/options operations via fubon-cli. Use this skill whenever the user asks about Fubon Neo login, order placement, account/inventory queries, market quote or candle retrieval, realtime subscription, conditional orders, or wants natural-language trading assistance through fubon ask/chat. Trigger even when the user does not explicitly say \"fubon-cli\" but mentions command-line automation for Fubon trading workflows, JSON trading outputs, or scripted order operations.",
+  "version": "0.1.1",
+  "author": {
+    "name": "mofesto"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mofesto/fubon-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mofesto/fubon-cli"
+}

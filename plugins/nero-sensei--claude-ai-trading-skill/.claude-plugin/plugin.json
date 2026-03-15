@@ -1,0 +1,10 @@
+{
+  "name": "nero-sensei--claude-ai-trading-skill",
+  "description": "Interact with the Elfa API — a crypto social intelligence platform that provides real-time sentiment, trending tokens, narrative tracking, and AI-powered market analysis from Twitter/X and Telegram. Use this skill whenever the user wants to query crypto social data, check trending tokens or narratives, look up mentions for a ticker or keyword, get smart stats for a Twitter account, retrieve token news, find trending contract addresses, or chat with Elfa's AI for market analysis. Also trigger when the user asks how to integrate the Elfa API, wants example code or curl commands for Elfa endpoints, or mentions \"elfa\" in the context of crypto data. This skill covers both making live API calls (when an API key is available) and generating correct code snippets for developers integrating the Elfa API into their own products.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nero-sensei"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nero-sensei/claude-ai-trading-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nero-sensei/claude-ai-trading-skill"
+}

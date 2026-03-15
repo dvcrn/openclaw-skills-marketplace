@@ -1,0 +1,10 @@
+{
+  "name": "willificent--off-peak-compute",
+  "description": "Run heavy compute tasks overnight when GPU/cloud capacity is cheapest (spot pricing). Use when you have non-time-sensitive tasks that would benefit from off-peak availability. Tasks execute at 2 AM via cron.",
+  "version": "1.0.2",
+  "author": {
+    "name": "willificent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/willificent/off-peak-compute",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/willificent/off-peak-compute"
+}

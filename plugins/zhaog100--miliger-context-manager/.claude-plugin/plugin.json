@@ -1,0 +1,10 @@
+{
+  "name": "zhaog100--miliger-context-manager",
+  "description": "Auto context management with seamless session switching. Monitors usage, triggers at 85% threshold, automatically creates new session with loaded memory. Zero user intervention required. Trigger on \"context\", \"memory\", \"session management\", \"context limit\", \"memory transfer\".",
+  "version": "7.0.1",
+  "author": {
+    "name": "zhaog100"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhaog100/miliger-context-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhaog100/miliger-context-manager"
+}

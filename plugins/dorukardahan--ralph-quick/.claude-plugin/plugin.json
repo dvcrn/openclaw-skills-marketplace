@@ -1,0 +1,10 @@
+{
+  "name": "dorukardahan--ralph-quick",
+  "description": "Fast security spot-check with 10 iterations (~5-10 min). Use when user says 'quick security check', 'pre-deploy audit', 'ralph quick', 'fast security scan', 'spot check before deploy', or 'daily security check'. Covers secrets, OWASP basics, auth, rate limiting, and containers.",
+  "version": "3.0.0",
+  "author": {
+    "name": "dorukardahan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dorukardahan/ralph-quick",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dorukardahan/ralph-quick"
+}

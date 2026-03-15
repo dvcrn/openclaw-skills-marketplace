@@ -1,0 +1,10 @@
+{
+  "name": "q7766206--metacognition-lite",
+  "description": "Metacognitive Protocol for AI Agents — Stop hallucinations, fake completions, and task drift. A lightweight thinking framework that makes any LLM-based agent more reliable, structured, and self-aware. Includes intent decoding, difficulty assessment, boundary declaration, execution monitoring, and delivery validation. Works with any model (GPT, Claude, Gemini, StepFun, LLaMA, etc.).",
+  "version": "1.0.0",
+  "author": {
+    "name": "q7766206"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/q7766206/metacognition-lite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/q7766206/metacognition-lite"
+}

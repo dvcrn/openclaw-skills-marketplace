@@ -1,0 +1,10 @@
+{
+  "name": "reed1898--defi-yield-monitor",
+  "description": "Monitor DeFi lending & savings positions across Aave v3, SparkLend, Spark Savings, and Kamino. Track balances, APY, health factors, and compute 7d/30d realized yield. No API keys required. Use when user asks about DeFi positions, lending yields, stablecoin earnings, portfolio health, or wants automated DeFi reporting. Triggers: \"check DeFi\", \"lending yield\", \"DeFi收益\", \"持仓\", \"APY\", \"health factor\", \"stablecoin yield\", \"Aave\", \"Spark savings\", \"Kamino\", \"DeFi report\".",
+  "version": "1.1.0",
+  "author": {
+    "name": "reed1898"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/reed1898/defi-yield-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/reed1898/defi-yield-monitor"
+}

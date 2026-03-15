@@ -1,0 +1,10 @@
+{
+  "name": "matthewxmurphy--homebrew-bridge",
+  "description": "Expose Mac Homebrew tools like brew, gh, and other /opt/homebrew/bin CLIs on a Linux OpenClaw gateway by installing explicit same-LAN SSH wrappers with optional Wake-on-LAN and OpenClaw config auto-discovery.",
+  "version": "0.6.1",
+  "author": {
+    "name": "matthewxmurphy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/homebrew-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/homebrew-bridge"
+}

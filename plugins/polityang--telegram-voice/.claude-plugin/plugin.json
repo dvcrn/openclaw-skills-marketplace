@@ -1,0 +1,10 @@
+{
+  "name": "polityang--telegram-voice",
+  "description": "Voice communication via Telegram. Automatically transcribes incoming voice messages using faster-whisper and replies with TTS voice. Use for all voice-related interactions on Telegram.",
+  "version": "1.0.0",
+  "author": {
+    "name": "polityang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/polityang/telegram-voice",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/polityang/telegram-voice"
+}

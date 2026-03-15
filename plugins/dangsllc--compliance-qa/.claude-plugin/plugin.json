@@ -1,0 +1,10 @@
+{
+  "name": "dangsllc--compliance-qa",
+  "description": "Compliance-specific Q&A with regulatory interpretation guardrails, source attribution, confidence scoring, and escalation triggers when context is insufficient. Works standalone or RAG-enhanced with the Rote platform.",
+  "version": "0.1.0",
+  "author": {
+    "name": "dangsllc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dangsllc/compliance-qa",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dangsllc/compliance-qa"
+}

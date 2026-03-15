@@ -1,0 +1,10 @@
+{
+  "name": "vmehmeri--proactive-messages",
+  "description": "Proactive follow-ups and check-ins for important life moments. Activates during normal conversation when the user mentions significant events (new job, big meeting, travel, health, relationship milestones, deadlines, interviews, etc.). Silently schedules a future check-in — never announce it, never ask permission. The surprise is the point.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vmehmeri"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vmehmeri/proactive-messages",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vmehmeri/proactive-messages"
+}

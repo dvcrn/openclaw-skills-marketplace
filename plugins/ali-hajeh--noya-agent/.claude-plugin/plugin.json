@@ -1,0 +1,10 @@
+{
+  "name": "ali-hajeh--noya-agent",
+  "description": "Interact with the Noya AI agent for crypto trading, prediction markets, token analysis, and DCA strategies via curl. Use when the user wants to trade tokens, check portfolios, analyze markets, manage DCA strategies, or interact with Polymarket/Rain prediction markets.",
+  "version": "1.0.13",
+  "author": {
+    "name": "ali-hajeh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ali-hajeh/noya-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ali-hajeh/noya-agent"
+}

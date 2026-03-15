@@ -1,0 +1,10 @@
+{
+  "name": "rursache--solo-cli",
+  "description": "Monitor and interact with SOLO.ro accounting platform via CLI or TUI (summary, revenues, expenses, queue, e-factura, company). Use when a user asks to check their accounting data, view invoices, expenses, or e-factura documents, or translate a task into safe solo-cli commands.",
+  "version": "1.1.0",
+  "author": {
+    "name": "rursache"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rursache/solo-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rursache/solo-cli"
+}

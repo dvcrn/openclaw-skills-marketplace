@@ -1,0 +1,10 @@
+{
+  "name": "davincievans--bilibili-subtitle-download-skill",
+  "description": "下载 Bilibili 视频字幕，将其进行分块以供 LLM（大语言模型）处理，并生成高质量的总结。当用户提供 Bilibili BV 号或 URL，并希望获取视频内容的总结、核心要点或详细的分解时使用。",
+  "version": "1.0.0",
+  "author": {
+    "name": "davincievans"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/davincievans/bilibili-subtitle-download-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davincievans/bilibili-subtitle-download-skill"
+}

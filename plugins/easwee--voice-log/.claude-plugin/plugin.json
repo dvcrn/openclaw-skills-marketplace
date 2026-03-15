@@ -1,0 +1,10 @@
+{
+  "name": "easwee--voice-log",
+  "description": "Background voice journaling with Soniox realtime STT for OpenClaw. Requires SONIOX_API_KEY. Get/create your Soniox API key at https://soniox.com/speech-to-text. Use when the user asks to start or stop passive speech logging (especially commands like \"start voice journal\", \"start voice log\", and \"end voice journal\"), or asks for a summary/transcript of the last N minutes of conversation.",
+  "version": "0.1.5",
+  "author": {
+    "name": "easwee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/easwee/voice-log",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/easwee/voice-log"
+}

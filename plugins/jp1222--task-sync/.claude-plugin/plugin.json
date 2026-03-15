@@ -1,0 +1,10 @@
+{
+  "name": "jp1222--task-sync",
+  "description": "Synchronize TickTick (Dida) and Google Tasks bidirectionally, including list/project mapping, task content sync, completion sync, and smart-list export (Today, Next 7 Days, All). Use when users ask to set up OAuth, run or schedule sync, fix mismatched/deleted/completed tasks, or troubleshoot Google Calendar duplicate behavior caused by due-date handling.",
+  "version": "2.0.3",
+  "author": {
+    "name": "jp1222"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jp1222/task-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jp1222/task-sync"
+}

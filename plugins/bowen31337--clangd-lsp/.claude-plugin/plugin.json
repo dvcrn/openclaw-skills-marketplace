@@ -1,0 +1,10 @@
+{
+  "name": "bowen31337--clangd-lsp",
+  "description": "C/C++ language server (clangd) providing code intelligence, diagnostics, and formatting for .c, .h, .cpp, .cc, .cxx, .hpp, .hxx files. Use when working with C or C++ code that needs autocomplete, go-to-definition, find references, error detection, or refactoring support.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bowen31337"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/clangd-lsp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/clangd-lsp"
+}

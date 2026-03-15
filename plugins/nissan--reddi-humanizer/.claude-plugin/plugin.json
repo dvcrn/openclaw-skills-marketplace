@@ -1,0 +1,10 @@
+{
+  "name": "nissan--reddi-humanizer",
+  "description": "reddi.tech fork of humanizer. Fork of humanizer by biostartechnology — enhanced for technical blog writing.\n Remove signs of AI-generated writing from text. Use when editing or reviewing\n text to make it sound more natural and human-written. Based on Wikipedia's\n comprehensive \"Signs of AI writing\" guide. Detects and fixes patterns including:\n inflated symbolism, promotional language, superficial -ing analyses, vague\n attributions, em dash overuse, rule of three, AI vocabulary words, negative\n parallelisms, and excessive conjunctive phrases.\n \n Enhancements over original: personality/soul injection guidance, technical\n writing patterns, voice guide integration, stronger \"soulless writing\" detection.attribution: |\n Original skill: humanizer by biostartechnology (https://clawhub.com/skills/humanizer)\n Forked and modified by ReddiTech (nissan)",
+  "version": "2.1.1",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/reddi-humanizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/reddi-humanizer"
+}

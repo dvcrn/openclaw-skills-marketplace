@@ -1,0 +1,10 @@
+{
+  "name": "clinchcc--notesctl-skill-for-openclaw",
+  "description": "Manage Apple Notes via deterministic local scripts (create, append, list, search, export, and edit). Use when a user asks OpenClaw to add a note, list notes, search notes, or manage note folders.",
+  "version": "0.1.0",
+  "author": {
+    "name": "clinchcc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clinchcc/notesctl-skill-for-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clinchcc/notesctl-skill-for-openclaw"
+}

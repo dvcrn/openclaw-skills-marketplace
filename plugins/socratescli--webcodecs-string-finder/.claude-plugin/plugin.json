@@ -1,0 +1,10 @@
+{
+  "name": "socratescli--webcodecs-string-finder",
+  "description": "Finds valid WebCodecs strings for video and audio by researching codec support tables and detailed specifications on webcodecsfundamentals.org.",
+  "version": "1.0.0",
+  "author": {
+    "name": "socratescli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/socratescli/webcodecs-string-finder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/socratescli/webcodecs-string-finder"
+}

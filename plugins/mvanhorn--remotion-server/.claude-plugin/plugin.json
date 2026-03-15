@@ -1,0 +1,10 @@
+{
+  "name": "mvanhorn--remotion-server",
+  "description": "Headless video rendering with Remotion v5 on any Linux server — no Mac or GUI needed. Templates for chat demos, promos, and more. Uses Chrome Headless Shell for fast, dependency-free rendering.",
+  "version": "1.2.1",
+  "author": {
+    "name": "mvanhorn"
+  },
+  "homepage": "https://remotion.dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mvanhorn/remotion-server"
+}

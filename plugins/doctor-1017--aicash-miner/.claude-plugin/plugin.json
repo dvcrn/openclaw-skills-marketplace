@@ -1,0 +1,10 @@
+{
+  "name": "doctor-1017--aicash-miner",
+  "description": "AICash Network auto-miner for $CASH tokens on Base L2. Use when setting up automated Proof of Compute mining on the AICash mempool network. Supports multi-instance mining, systemd service management, and real-time stats tracking.",
+  "version": "1.0.0",
+  "author": {
+    "name": "doctor-1017"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/doctor-1017/aicash-miner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/doctor-1017/aicash-miner"
+}

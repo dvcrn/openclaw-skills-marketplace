@@ -1,0 +1,10 @@
+{
+  "name": "ryce--keepmyclaw",
+  "description": "OpenClaw backup and restore. Encrypted off-site backup for OpenClaw agents — backs up workspace, memory, skills, cron jobs, credentials, and multi-agent configs to Cloudflare R2 with zero-knowledge AES-256 encryption. Use when backing up an OpenClaw agent, restoring an agent on a new machine, setting up automated backup schedules, listing or pruning backup snapshots, running restore drills, or migrating agents between machines. Triggers on: backup, restore, openclaw backup, agent backup, snapshot, disaster recovery, keepmyclaw, migrate agent, backup schedule, encrypted backup.",
+  "version": "1.4.1",
+  "author": {
+    "name": "ryce"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ryce/keepmyclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ryce/keepmyclaw"
+}

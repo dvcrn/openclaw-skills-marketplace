@@ -1,0 +1,10 @@
+{
+  "name": "shuakami--uapi-get-github-repo",
+  "description": "使用 UAPI 的“查询 GitHub 仓库”单接口 skill，处理 查询 GitHub 仓库、GitHub仓库查询 等请求。 Use when the user wants get github repo, github repo, repo, github repo summary, or when you need to call GET /github/repo directly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shuakami"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-github-repo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-github-repo"
+}

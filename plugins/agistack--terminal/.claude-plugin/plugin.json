@@ -1,0 +1,10 @@
+{
+  "name": "agistack--terminal",
+  "description": "Local shell copilot for command planning, safe execution, output summarization, and step-by-step terminal workflows. Use whenever the user wants to run terminal commands, inspect files, debug shell issues, automate local tasks, or translate natural language into shell actions. Prefer safe, preview-first workflows. Require explicit confirmation for destructive commands. Local-only.",
+  "version": "1.0.0",
+  "author": {
+    "name": "agistack"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agistack/terminal",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agistack/terminal"
+}

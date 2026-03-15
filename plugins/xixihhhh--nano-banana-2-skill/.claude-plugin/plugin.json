@@ -1,0 +1,10 @@
+{
+  "name": "xixihhhh--nano-banana-2-skill",
+  "description": "Generate and edit images using Google's Nano Banana 2 (Imagen) model — the latest high-quality AI image generation model. Supports text-to-image and image editing with up to 14 reference images, resolutions up to 4K, and 10+ aspect ratios. Two provider modes: Atlas Cloud (flat-rate pricing, 300+ AI models on one platform) and Google AI Studio (official). Use this skill whenever the user wants to generate images, create AI art, edit photos with AI, do image-to-image transformation, create illustrations, make visual content, or mentions Nano Banana, Imagen, Gemini image, or Google image generation. Also trigger when users ask to create sprites, thumbnails, banners, logos, product photos, concept art, or any visual asset using AI.",
+  "version": "1.0.1",
+  "author": {
+    "name": "xixihhhh"
+  },
+  "homepage": "https://github.com/AtlasCloudAI/nano-banana-2-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xixihhhh/nano-banana-2-skill"
+}

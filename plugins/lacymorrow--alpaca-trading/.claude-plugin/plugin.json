@@ -1,0 +1,10 @@
+{
+  "name": "lacymorrow--alpaca-trading",
+  "description": "Execute trades, analyze markets, and manage portfolios using apcacli command-line tool for Alpaca's Trading API. Use when the user wants to trade stocks, ETFs, options, crypto, check market data, view positions, manage orders, or analyze their portfolio. Also use when they mention \"buy,\" \"sell,\" \"trade,\" \"market data,\" \"stock price,\" \"portfolio,\" \"account balance,\" or \"alpaca trading.\"",
+  "version": "1.2.1",
+  "author": {
+    "name": "lacymorrow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lacymorrow/alpaca-trading",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lacymorrow/alpaca-trading"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "fortunto2--solo-metrics-track",
+  "description": "Set up PostHog metrics plan with event funnel, KPI benchmarks, and kill/iterate/scale decision thresholds. Use when user says \"set up metrics\", \"track KPIs\", \"PostHog events\", \"funnel analysis\", \"when to kill or scale\", or \"success metrics\". Do NOT use for SEO metrics (use /seo-audit).",
+  "version": "1.1.1",
+  "author": {
+    "name": "fortunto2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-metrics-track",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-metrics-track"
+}

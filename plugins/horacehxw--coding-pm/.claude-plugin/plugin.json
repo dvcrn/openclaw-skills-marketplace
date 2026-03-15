@@ -1,0 +1,10 @@
+{
+  "name": "horacehxw--coding-pm",
+  "description": "Your AI project manager. Delegates coding tasks to Claude Code running in the background — reviews plans, gates approval, monitors progress, validates with 3-layer testing, and reports results. You stay in chat; it handles the engineering loop.",
+  "version": "0.4.2",
+  "author": {
+    "name": "horacehxw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/horacehxw/coding-pm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/horacehxw/coding-pm"
+}

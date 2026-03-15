@@ -1,0 +1,10 @@
+{
+  "name": "chinasilva--peter-bugfix-loop",
+  "description": "代码缺陷修复闭环。聚焦“先复现、再定位、最小修复、同上下文补测试”，并衔接现有 Peter 门禁与 PR 收口流程。",
+  "version": "1.0.0",
+  "author": {
+    "name": "chinasilva"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chinasilva/peter-bugfix-loop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chinasilva/peter-bugfix-loop"
+}

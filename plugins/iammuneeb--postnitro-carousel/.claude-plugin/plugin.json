@@ -1,0 +1,10 @@
+{
+  "name": "iammuneeb--postnitro-carousel",
+  "description": "Generate professional social media carousel posts using the PostNitro.ai Embed API. Supports AI-powered content generation and manual content import for LinkedIn, Instagram, TikTok, and X (Twitter) carousels. Use this skill whenever the user wants to create a carousel, social media post, slide deck for social media, multi-slide content, or mentions PostNitro. Also trigger when the user asks to turn text, articles, blog posts, or topics into carousel posts, or wants to automate social media content creation. Outputs PNG images or PDF files. Requires a PostNitro API key.",
+  "version": "2.0.0",
+  "author": {
+    "name": "iammuneeb"
+  },
+  "homepage": "https://postnitro.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iammuneeb/postnitro-carousel"
+}

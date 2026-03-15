@@ -1,0 +1,10 @@
+{
+  "name": "zeyuyuyu--hidpi-mouse",
+  "description": "Universal HiDPI mouse click handling for Linux desktop automation. Auto-detects scale factor or allows calibration for any screen resolution/DPI. Converts Claude display coordinates to xdotool screen coordinates.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zeyuyuyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zeyuyuyu/hidpi-mouse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zeyuyuyu/hidpi-mouse"
+}

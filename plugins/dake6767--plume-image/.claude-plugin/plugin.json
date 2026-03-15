@@ -1,0 +1,10 @@
+{
+  "name": "dake6767--plume-image",
+  "description": "Plume AI Image Generation & Editing Service. Automatically triggered when users send images or describe image needs.\n Supports: text-to-image, image-to-image, background removal, watermark removal, style transfer, text-to-video, image-to-video.\n Activate when user mentions: generate image, edit image, remove background, change background, remove watermark,\n text-to-image, image-to-image, AI image, style transfer, generate poster, photo edit, generate video, AI video,\n animate this image, make it move, image-to-video, turn image into video, seedance2, seedance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dake6767"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dake6767/plume-image",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dake6767/plume-image"
+}

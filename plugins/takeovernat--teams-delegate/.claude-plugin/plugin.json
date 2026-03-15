@@ -1,0 +1,10 @@
+{
+  "name": "takeovernat--teams-delegate",
+  "description": "Delegate your Microsoft Teams inbox to your AI agent. Use when the user wants to: auto-reply to Teams messages, have the agent monitor and respond to their boss or colleagues, summarize unread Teams conversations, draft context-aware replies, filter what needs human attention vs what the agent can handle, or manage Teams communication hands-free. Triggers on requests like \"reply to my boss on Teams\", \"check my Teams messages\", \"handle my Teams inbox\", \"auto-reply on Teams\", or \"what did I miss on Teams\".",
+  "version": "1.0.4",
+  "author": {
+    "name": "takeovernat"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/takeovernat/teams-delegate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/takeovernat/teams-delegate"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "terminal-ocr",
+  "version": "0.2.0",
+  "description": "终端截图OCR识别技能。专门处理终端/命令行界面的截图，提取文本内容并进行分析。",
+  "author": "miliger",
+  "license": "MIT",
+  "keywords": [
+    "openclaw",
+    "skill",
+    "ocr",
+    "terminal",
+    "screenshot",
+    "text-extraction"
+  ],
+  "openclaw": {
+    "skillVersion": "0.2.0",
+    "minOpenClawVersion": "2026.3.1",
+    "triggers": [
+      "terminal ocr",
+      "终端截图",
+      "命令行ocr",
+      "terminal screenshot"
+    ],
+    "capabilities": [
+      "image-processing",
+      "ocr",
+      "text-extraction",
+      "ai-vision"
+    ],
+    "scripts": {
+      "install": "install.sh",
+      "main": "scripts/enhanced-terminal-ocr.py",
+      "preprocess": "scripts/preprocess-image.py",
+      "fallback": "scripts/fallback-ai-analysis.py"
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

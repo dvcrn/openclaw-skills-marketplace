@@ -1,0 +1,10 @@
+{
+  "name": "peters820-art--baoyu-image-gen",
+  "description": "AI image generation with OpenAI, Google, DashScope and Replicate APIs. Supports text-to-image, reference images, aspect ratios. Sequential by default; parallel generation available on request. Use when user asks to generate, create, or draw images.",
+  "version": "1.0.0",
+  "author": {
+    "name": "peters820-art"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/peters820-art/baoyu-image-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/peters820-art/baoyu-image-gen"
+}

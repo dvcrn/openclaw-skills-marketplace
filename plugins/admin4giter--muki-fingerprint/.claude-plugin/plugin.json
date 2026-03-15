@@ -1,0 +1,10 @@
+{
+  "name": "admin4giter--muki-fingerprint",
+  "description": "MUKI asset fingerprinting tool for red team reconnaissance. Use when performing authorized penetration testing, asset discovery, service fingerprinting, vulnerability scanning, and attack surface mapping. Supports active/passive fingerprinting with 30,000+ signatures, sensitive path detection, and sensitive information extraction. Requires explicit authorization for target systems.",
+  "version": "1.0.0",
+  "author": {
+    "name": "admin4giter"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/admin4giter/muki-fingerprint",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/admin4giter/muki-fingerprint"
+}

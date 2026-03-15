@@ -1,0 +1,23 @@
+# Bug fix: Diagnose -> Fix -> Test -> Document
+id: bug_fix
+name: Bug Fix
+description: Diagnose the root cause, implement a fix, verify with tests, document the change.
+steps:
+  - id: diagnose
+    agent: dev
+    task_template: "Diagnose the root cause of this bug. Identify the affected code, explain why it fails, and propose a fix strategy:\n\n{{ user_input }}"
+
+  - id: fix
+    agent: dev
+    task_template: "Implement the fix for this diagnosed bug. Write minimal, targeted changes:\n\n{{ diagnose_output }}"
+    timeout: 900
+
+  - id: test
+    agent: tester
+    task_template: "Verify the bug fix. Run existing tests and write a regression test that would have caught this bug:\n\n{{ fix_output }}"
+    timeout: 600
+
+  - id: document
+    agent: editor
+    task_template: "Write a brief changelog entry and any necessary doc updates for this bug fix:\n\n{{ fix_output }}"
+    optional: true

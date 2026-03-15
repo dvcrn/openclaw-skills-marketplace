@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--exa-api",
+  "description": "Exa API integration with managed API key authentication. Perform neural web search, retrieve page contents, find similar pages, get AI-generated answers, and run async research tasks.\n Use this skill when users want to search the web, extract content from URLs, find similar websites, get research answers with citations, or run deep research tasks.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/exa-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/exa-api"
+}

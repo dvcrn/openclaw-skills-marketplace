@@ -1,0 +1,10 @@
+{
+  "name": "uexo--skillshieldskill",
+  "description": "AI Agent Skill Security Scanner - Detect malicious skills, verify signatures, analyze permissions, and provide trust ratings for the agent ecosystem. Protects against credential stealers, data exfiltration, and unauthorized access.",
+  "version": "1.0.0",
+  "author": {
+    "name": "uexo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/uexo/skillshieldskill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/uexo/skillshieldskill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xucheng--openclaw-onebot",
+  "description": "OneBot 11 channel plugin for QQ via NapCat/go-cqhttp. Native OpenClaw integration for private and group chat, group reactions, block streaming, voice pipeline, and allowFrom routing.",
+  "version": "1.2.4",
+  "author": {
+    "name": "xucheng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xucheng/openclaw-onebot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xucheng/openclaw-onebot"
+}

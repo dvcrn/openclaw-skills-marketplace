@@ -1,0 +1,10 @@
+{
+  "name": "theshadowrose--agent-scorecard",
+  "description": "Configurable quality evaluation for AI agent outputs. Define criteria, run evaluations, track quality over time. No LLM-as-judge, no API calls, pattern-based automated checks.",
+  "version": "1.0.6",
+  "author": {
+    "name": "theshadowrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/agent-scorecard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/agent-scorecard"
+}

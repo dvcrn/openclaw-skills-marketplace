@@ -1,0 +1,10 @@
+{
+  "name": "volc-sdk-team--volcengine-sdk-generator",
+  "description": "Generate complete, runnable Volcengine SDK code and provide SDK configuration guidance. Supports Go, Python, PHP, Java, and Node.js. Trigger this skill whenever the user wants to call a Volcengine API, generate Volcengine SDK code, or describes a cloud operation on Volcengine (e.g., \"list ECS instances\", \"create a VPC on Volcengine\", \"query Volcengine billing with Python\"). Also trigger when the user asks about Volcengine SDK configuration and best practices — including retry, timeout, authentication (AK/SK, STS, AssumeRole), proxy, connection pooling, SSL, debug mode, and error handling (e.g., \"how to configure retry for Volcengine Go SDK\", \"volcengine python sdk proxy setup\"). Trigger when the user mentions Volcengine service names such as ECS, VPC, CDN, CLB, RDS, Redis, Kafka, billing, IAM, DNS with code generation or SDK usage intent. When the user only needs API specification queries (parameters, error codes, response structures), hand off to the volcengine-api skill. When the user needs CLI-based operations, hand off to the volcengine-cli skill. Supports both Chinese and English prompts.",
+  "version": "1.0.3",
+  "author": {
+    "name": "volc-sdk-team"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/volc-sdk-team/volcengine-sdk-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/volc-sdk-team/volcengine-sdk-generator"
+}

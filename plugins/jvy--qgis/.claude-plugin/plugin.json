@@ -1,0 +1,10 @@
+{
+  "name": "jvy--qgis",
+  "description": "Run QGIS geospatial processing with qgis_process for repeatable vector/raster workflows (reproject, clip, dissolve, buffer, merge, raster warping). Use when the user asks for GIS/QGIS automation, coordinate system conversion, geodata transformation, or batch map data processing. 中文触发：QGIS、地理处理、坐标转换、矢量裁剪、栅格重投影。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jvy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jvy/qgis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jvy/qgis"
+}

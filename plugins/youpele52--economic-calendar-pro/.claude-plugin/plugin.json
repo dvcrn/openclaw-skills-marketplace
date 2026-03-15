@@ -1,0 +1,10 @@
+{
+  "name": "youpele52--economic-calendar-pro",
+  "description": "Run a local script to fetch economic calendar events for a date range. Defaults to 7 days inclusive from the query day. Uses TradingEconomics when TRADING_ECONOMICS_API_KEY is present and falls back to Yahoo Finance otherwise.",
+  "version": "0.1.1",
+  "author": {
+    "name": "youpele52"
+  },
+  "homepage": "https://docs.tradingeconomics.com/economic_calendar/snapshot/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/youpele52/economic-calendar-pro"
+}

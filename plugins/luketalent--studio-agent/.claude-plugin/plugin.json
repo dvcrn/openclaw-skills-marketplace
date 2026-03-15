@@ -1,0 +1,10 @@
+{
+  "name": "luketalent--studio-agent",
+  "description": "Use this for ClickZetta Studio requests such as querying tasks, listing workspaces, checking projects, and creating or running ClickZetta jobs from a single JDBC secret configured in OpenClaw.",
+  "version": "0.1.5",
+  "author": {
+    "name": "luketalent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luketalent/studio-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luketalent/studio-agent"
+}

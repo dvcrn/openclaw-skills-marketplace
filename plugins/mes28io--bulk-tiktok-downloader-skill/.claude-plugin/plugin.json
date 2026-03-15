@@ -1,0 +1,10 @@
+{
+  "name": "mes28io--bulk-tiktok-downloader-skill",
+  "description": "Bulk download TikTok videos from a text file of URLs using yt-dlp. Use when a user asks to download many TikTok videos at once, process a URL list file, or save TikTok videos to a specific folder from local terminal.",
+  "version": "0.1.0",
+  "author": {
+    "name": "mes28io"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mes28io/bulk-tiktok-downloader-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mes28io/bulk-tiktok-downloader-skill"
+}

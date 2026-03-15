@@ -1,0 +1,10 @@
+{
+  "name": "rosasalberto--didit-face-match",
+  "description": "Integrate Didit Face Match standalone API to compare two facial images. Use when the user wants to compare faces, verify face identity, implement biometric comparison, facial recognition, or selfie-to-document matching using Didit. Returns a similarity score (0-100) with configurable decline threshold. Supports image rotation and multi-face detection.",
+  "version": "1.3.0",
+  "author": {
+    "name": "rosasalberto"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-face-match",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-face-match"
+}

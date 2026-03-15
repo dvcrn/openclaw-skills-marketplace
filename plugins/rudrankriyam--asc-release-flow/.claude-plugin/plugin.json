@@ -1,0 +1,10 @@
+{
+  "name": "rudrankriyam--asc-release-flow",
+  "description": "End-to-end release workflows for TestFlight and App Store using asc publish, builds, versions, and submit commands. Use when asked to upload a build, distribute to TestFlight, or submit to App Store.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rudrankriyam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rudrankriyam/asc-release-flow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rudrankriyam/asc-release-flow"
+}

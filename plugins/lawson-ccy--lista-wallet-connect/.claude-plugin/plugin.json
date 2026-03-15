@@ -1,0 +1,10 @@
+{
+  "name": "lawson-ccy--lista-wallet-connect",
+  "description": "Connect wallets via WalletConnect v2 and execute EVM signing/contract-call operations on Ethereum and BSC.",
+  "version": "0.1.1",
+  "author": {
+    "name": "lawson-ccy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lawson-ccy/lista-wallet-connect",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lawson-ccy/lista-wallet-connect"
+}

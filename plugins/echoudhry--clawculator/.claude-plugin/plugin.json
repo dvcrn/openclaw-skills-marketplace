@@ -1,0 +1,10 @@
+{
+  "name": "echoudhry--clawculator",
+  "description": "Analyze OpenClaw costs and detect billing issues. Source code is fully bundled — nothing is fetched at runtime. Requires only the node binary.",
+  "version": "1.2.1",
+  "author": {
+    "name": "echoudhry"
+  },
+  "homepage": "https://github.com/echoudhry/clawculator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/echoudhry/clawculator"
+}

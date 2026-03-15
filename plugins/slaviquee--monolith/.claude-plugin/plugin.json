@@ -1,0 +1,10 @@
+{
+  "name": "slaviquee--monolith",
+  "description": "Secure crypto wallet for AI agents. Hardware-isolated keys (Apple Secure Enclave), ERC-4337 smart wallet, on-chain spending caps, default-deny policy engine.",
+  "version": "0.1.10",
+  "author": {
+    "name": "slaviquee"
+  },
+  "homepage": "https://github.com/slaviquee/monolith",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/slaviquee/monolith"
+}

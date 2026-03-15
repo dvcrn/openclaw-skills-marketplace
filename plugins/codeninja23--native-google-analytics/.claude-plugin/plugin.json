@@ -1,0 +1,10 @@
+{
+  "name": "codeninja23--native-google-analytics",
+  "description": "Query Google Analytics 4 (GA4) data directly via the Analytics Data API. Use when you need website analytics like top pages, traffic sources, sessions, users, conversions, bounce rate, or any GA4 metrics and dimensions. Supports custom date ranges, filtering, and multi-metric queries. Calls analyticsdata.googleapis.com directly with no third-party proxy.",
+  "version": "0.1.1",
+  "author": {
+    "name": "codeninja23"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codeninja23/native-google-analytics",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codeninja23/native-google-analytics"
+}

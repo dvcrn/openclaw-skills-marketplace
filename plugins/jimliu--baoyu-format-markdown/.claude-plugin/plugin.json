@@ -1,0 +1,10 @@
+{
+  "name": "jimliu--baoyu-format-markdown",
+  "description": "Formats plain text or markdown files with frontmatter, titles, summaries, headings, bold, lists, and code blocks. Use when user asks to \"format markdown\", \"beautify article\", \"add formatting\", or improve article layout. Outputs to {filename}-formatted.md.",
+  "version": "1.60.0",
+  "author": {
+    "name": "jimliu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jimliu/baoyu-format-markdown",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jimliu/baoyu-format-markdown"
+}

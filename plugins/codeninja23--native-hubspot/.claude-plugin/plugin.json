@@ -1,0 +1,10 @@
+{
+  "name": "codeninja23--native-hubspot",
+  "description": "Query and manage HubSpot CRM data via the HubSpot API. Use when you need to search or manage contacts, companies, deals, tickets, or pipelines. Supports creating, updating, and associating CRM objects. Calls api.hubapi.com directly with no third-party proxy.",
+  "version": "1.0.1",
+  "author": {
+    "name": "codeninja23"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codeninja23/native-hubspot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codeninja23/native-hubspot"
+}

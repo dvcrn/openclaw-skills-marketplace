@@ -1,0 +1,10 @@
+{
+  "name": "c-joey--telegram-footer-patch",
+  "description": "Patch OpenClaw Telegram private-chat replies to append a footer at the platform layer (`🧠 Model + 💭 Think + 📊 Context`), with backup, syntax validation, upgrade-aware reapply hints, rollback, and restart workflow.",
+  "version": "1.0.6",
+  "author": {
+    "name": "c-joey"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/c-joey/telegram-footer-patch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/c-joey/telegram-footer-patch"
+}

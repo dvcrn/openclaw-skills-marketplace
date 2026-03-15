@@ -1,0 +1,33 @@
+{
+  "name": "api-hub-gateway",
+  "version": "1.0.0",
+  "description": "100+ AI Models, One API. Access OpenAI, Claude, Gemini, Replicate, and more through a unified gateway. Smart routing, cost tracking, and automatic failover.",
+  "author": "xiaoyinqu",
+  "license": "MIT",
+  "keywords": [
+    "ai",
+    "api",
+    "gateway",
+    "openai",
+    "claude",
+    "anthropic",
+    "gemini",
+    "google",
+    "replicate",
+    "flux",
+    "image-generation",
+    "tts",
+    "stt",
+    "multi-model",
+    "llm",
+    "unified-api"
+  ],
+  "categories": [
+    "ai",
+    "api",
+    "development"
+  ],
+  "repository": "https://github.com/heeyo-life/skillboss",
+  "homepage": "https://skillboss.co",
+  "documentation": "https://docs.skillboss.co"
+}

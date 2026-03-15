@@ -1,0 +1,10 @@
+{
+  "name": "isonaei--virtual-reading-group",
+  "description": "Orchestrate a multi-agent virtual academic reading group. Use when reading multiple papers, generating expert discussion notes, cross-examining positions across papers, and synthesizing integrated summaries with full citations. Triggers on requests to analyze academic literature, run paper discussions, create reading group sessions, or synthesize research across multiple sources. Supports 1-50 papers with configurable expert personas (1-4 papers work but produce simpler single-expert output).",
+  "version": "1.1.0",
+  "author": {
+    "name": "isonaei"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/isonaei/virtual-reading-group",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/isonaei/virtual-reading-group"
+}

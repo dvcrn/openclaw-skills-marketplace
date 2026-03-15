@@ -1,0 +1,10 @@
+{
+  "name": "upupc--video-download",
+  "description": "Download videos from 1800+ websites and generate subtitles using Faster Whisper AI. Use when user wants to download videos from YouTube, Bilibili, Twitter, TikTok, Facebook, Vimeo, or any other supported video site, extract audio, or transcribe video content to text/subtitles.",
+  "version": "0.1.6",
+  "author": {
+    "name": "upupc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/upupc/video-download",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/upupc/video-download"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ajmwagar--find-stl",
+  "description": "Search and download ready-to-print 3D model files (STL/3MF/ZIP) for a concept or specific part by querying Printables (first). Use when an agent needs to find an existing model, capture license/attribution, download the source files, and output a local folder + manifest for quoting/printing.",
+  "version": "0.1.0",
+  "author": {
+    "name": "ajmwagar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ajmwagar/find-stl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ajmwagar/find-stl"
+}

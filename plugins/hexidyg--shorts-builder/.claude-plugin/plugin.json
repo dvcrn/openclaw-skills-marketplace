@@ -1,0 +1,10 @@
+{
+  "name": "hexidyg--shorts-builder",
+  "description": "Story generation pipeline skill. Supports multi-episode continuous generation, graph management, AI quality check + human confirmation dual control mechanism. Automatically manages relationships between characters, scenes, and hooks.",
+  "version": "1.0.1",
+  "author": {
+    "name": "hexidyg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hexidyg/shorts-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hexidyg/shorts-builder"
+}

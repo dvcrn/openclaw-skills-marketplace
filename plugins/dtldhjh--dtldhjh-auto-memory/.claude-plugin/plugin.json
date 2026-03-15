@@ -1,0 +1,10 @@
+{
+  "name": "dtldhjh--dtldhjh-auto-memory",
+  "description": "自动记忆更新机制 — 提取对话、清理过期、优先级过滤、跨Agent共享、智能摘要、增量索引、定期提炼。解决 agent 跨 session 记忆丢失问题。",
+  "version": "1.3.0",
+  "author": {
+    "name": "dtldhjh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dtldhjh/dtldhjh-auto-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dtldhjh/dtldhjh-auto-memory"
+}

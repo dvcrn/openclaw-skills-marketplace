@@ -1,0 +1,10 @@
+{
+  "name": "nimo1987--ppt-translator",
+  "description": "Translate PowerPoint files to any language while preserving layout. Uses a render-and-verify agent loop (LibreOffice + Vision) to guarantee no text overflow. Activate when user wants to translate a PPT/PPTX file.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nimo1987"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nimo1987/ppt-translator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nimo1987/ppt-translator"
+}

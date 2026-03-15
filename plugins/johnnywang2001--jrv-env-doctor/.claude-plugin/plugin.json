@@ -1,0 +1,10 @@
+{
+  "name": "johnnywang2001--jrv-env-doctor",
+  "description": "Validate .env files for common issues — detect leaked secrets (AWS keys, GitHub tokens, Stripe keys, JWTs), find duplicate variables, flag empty values, compare against .env.example templates, and catch syntax errors. Use when asked to check .env files, audit environment variables, scan for leaked secrets, validate env configuration, or compare .env against .env.example. No external dependencies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "johnnywang2001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/jrv-env-doctor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/jrv-env-doctor"
+}

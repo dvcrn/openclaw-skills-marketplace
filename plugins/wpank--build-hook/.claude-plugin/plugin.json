@@ -1,0 +1,10 @@
+{
+  "name": "wpank--build-hook",
+  "description": "Build a Uniswap V4 hook. Use when user wants to create a custom V4 hook contract. Generates Solidity code, Foundry tests, mines CREATE2 address for hook flags, and produces deployment scripts. Handles the full hook development lifecycle.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/build-hook",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/build-hook"
+}

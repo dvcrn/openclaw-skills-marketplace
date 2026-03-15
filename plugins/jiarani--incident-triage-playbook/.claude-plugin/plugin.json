@@ -1,0 +1,10 @@
+{
+  "name": "jiarani--incident-triage-playbook",
+  "description": "Runbook-first incident triage workflow for service outages and high-error alerts.",
+  "version": "1.2.0",
+  "author": {
+    "name": "jiarani"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jiarani/incident-triage-playbook",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jiarani/incident-triage-playbook"
+}

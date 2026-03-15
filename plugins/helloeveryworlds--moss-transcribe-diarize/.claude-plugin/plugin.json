@@ -1,0 +1,10 @@
+{
+  "name": "helloeveryworlds--moss-transcribe-diarize",
+  "description": "Comprehensive MOSS Transcribe Diarize workflow for high-confidence multi-speaker ASR. Use when users need (1) timestamped transcription, (2) speaker-labeled segments/diarization, (3) meeting or interview transcript extraction, or (4) ASR from URL/Base64/local audio-video files with structured post-processing outputs (raw JSON, segment timeline, and by-speaker summary).",
+  "version": "0.1.0",
+  "author": {
+    "name": "helloeveryworlds"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/helloeveryworlds/moss-transcribe-diarize",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/helloeveryworlds/moss-transcribe-diarize"
+}

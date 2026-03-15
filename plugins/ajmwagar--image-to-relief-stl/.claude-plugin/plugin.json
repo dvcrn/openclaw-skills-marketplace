@@ -1,0 +1,10 @@
+{
+  "name": "ajmwagar--image-to-relief-stl",
+  "description": "Turn a source image (or multi-color mask image) into a 3D-printable bas-relief STL by mapping colors (or grayscale) to heights. Use when you have an image from an image-gen skill (nano-banana-pro, etc.) and want a real, printable model (STL) via a deterministic pipeline.",
+  "version": "0.1.0",
+  "author": {
+    "name": "ajmwagar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ajmwagar/image-to-relief-stl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ajmwagar/image-to-relief-stl"
+}

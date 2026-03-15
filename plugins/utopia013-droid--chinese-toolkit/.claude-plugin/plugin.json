@@ -1,0 +1,10 @@
+{
+  "name": "utopia013-droid--chinese-toolkit",
+  "description": "为OpenClaw提供中文文本处理、翻译、OCR、语音识别等功能的综合工具包。支持中文分词、拼音转换、中英文翻译、关键词提取、文本分析等功能。",
+  "version": "1.0.1",
+  "author": {
+    "name": "utopia013-droid"
+  },
+  "homepage": "https://github.com/openclaw/chinese-toolkit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/utopia013-droid/chinese-toolkit"
+}

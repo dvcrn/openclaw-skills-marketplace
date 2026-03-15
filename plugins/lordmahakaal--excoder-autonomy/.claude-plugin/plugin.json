@@ -1,0 +1,10 @@
+{
+  "name": "lordmahakaal--excoder-autonomy",
+  "description": "CRITICAL - Guide for using Ex-Coder Autonomy CLI with OpenRouter/Groq models. Includes agent modes (build/plan), snapshot system, session management, LSP integration, HTTP API server, MCP support, theming, and TUI dialogs. Use when user mentions external AI models, Excoder, OpenRouter, or alternative models.",
+  "version": "1.1.3",
+  "author": {
+    "name": "lordmahakaal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lordmahakaal/excoder-autonomy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lordmahakaal/excoder-autonomy"
+}

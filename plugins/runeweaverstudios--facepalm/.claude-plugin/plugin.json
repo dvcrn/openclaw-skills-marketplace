@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--facepalm",
+  "description": "Crosscheck OpenClaw console logs with chat history (last 5 mins) and use Codex 5.3 to troubleshoot issues. Standalone troubleshooting tool that can be invoked manually or integrated with other skills.",
+  "version": "1.0.1",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/facepalm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/facepalm"
+}

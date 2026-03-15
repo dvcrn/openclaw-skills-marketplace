@@ -1,0 +1,10 @@
+{
+  "name": "inaor--secops-by-joes",
+  "description": "SecOps checks for endpoints: EDR, Sysmon, updates, EVTX on heartbeat, least privilege, network visibility, credential protection (Kerberos/NTLM/pass-the-hash), device inventory and known vulnerabilities, weekly assessment, and skill integrity (hash-on-wake, version-aware). Use when implementing or reviewing host posture, heartbeat logic, EDR/Sysmon/EVTX, privilege, network exposure, credential hardening, vuln assessment, weekly SecOps review, or skill compromise checks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "inaor"
+  },
+  "homepage": "https://www.securityjoes.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/inaor/secops-by-joes"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "joinquant",
+  "version": "1.0.0",
+  "description": "JoinQuant Quantitative Trading Platform — Provides A-share, futures, and fund data queries with event-driven strategy backtesting, supporting online research and live trading.",
+  "author": "BossQuant",
+  "tags": ["量化交易", "A股", "期货", "基金", "回测", "聚宽", "JoinQuant", "策略开发"],
+  "repository": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "python": ">=3.8",
+    "packages": ["jqdatasdk>=1.8.0", "pandas>=1.5.0"]
+  },
+  "openclaw": {
+    "requires": {
+      "bins": ["python3"],
+      "env": ["JQ_USERNAME", "JQ_PASSWORD"]
+    }
+  }
+}

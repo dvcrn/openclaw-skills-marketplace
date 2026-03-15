@@ -1,0 +1,10 @@
+{
+  "name": "maheshmurthy--karma-setup-agent",
+  "description": "Set up or log in to Karma. Use when user says \"set up agent\", \"configure API key\", \"connect to Karma\", \"login to Karma\", \"log in\", or before first use of any Karma skill.",
+  "version": "0.2.0",
+  "author": {
+    "name": "maheshmurthy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maheshmurthy/karma-setup-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maheshmurthy/karma-setup-agent"
+}

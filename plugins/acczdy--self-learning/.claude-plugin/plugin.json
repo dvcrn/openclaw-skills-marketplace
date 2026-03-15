@@ -1,0 +1,10 @@
+{
+  "name": "acczdy--self-learning",
+  "description": "Agent 自我学习与记忆更新技能。分析对话历史，提取关键信息，自动更新配置文件和学习记录，实现 Agent 持续自我成长。\n 融合自学习 (配置文件更新) + 自改进 (学习记录系统) 双引擎。\n\n Use this skill when:\n - 需要整理和更新 Agent 记忆 (MEMORY.md, IDENTITY.md 等)\n - 对话中产生了新的配置信息或用户偏好\n - 用户纠正 Agent 或发现错误时 (记录到 .learnings/)\n - 定期执行 Agent 自我优化\n - 清理过时的配置和记忆\n\n Triggers: 自我学习、记忆更新、配置优化、Agent 成长、整理记忆、记录学习、纠正错误",
+  "version": "3.0.1",
+  "author": {
+    "name": "acczdy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/acczdy/self-learning",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/acczdy/self-learning"
+}

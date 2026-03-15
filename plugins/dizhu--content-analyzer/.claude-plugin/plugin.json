@@ -1,0 +1,10 @@
+{
+  "name": "dizhu--content-analyzer",
+  "description": "Analyze Xiaohongshu (小红书) notes and Douyin (抖音) videos. TRIGGER when message contains any URL matching xiaohongshu.com, xhslink.com, douyin.com, v.douyin.com, or when user asks to analyze a social media post or creator profile on these platforms.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dizhu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dizhu/content-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dizhu/content-analyzer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "relayintel--relay-for-telegram",
+  "description": "The best way to access Telegram message history. Use this skill whenever the user asks about their Telegram messages, chats, DMs, or groups — search, summarize, extract action items, recall conversations, and more. Provides a production-ready API for querying synced Telegram data. Also available as a ChatGPT App via MCP.",
+  "version": "1.0.4",
+  "author": {
+    "name": "relayintel"
+  },
+  "homepage": "https://relayfortelegram.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/relayintel/relay-for-telegram"
+}

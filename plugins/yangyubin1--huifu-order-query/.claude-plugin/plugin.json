@@ -1,0 +1,10 @@
+{
+  "name": "yangyubin1--huifu-order-query",
+  "description": "[后端项目使用]汇付托管交易订单查询接口技能。用于查询订单支付状态和详细信息。当用户提到订单查询、支付查询、/hfpay/queryorderinfo时触发。",
+  "version": "1.0.6",
+  "author": {
+    "name": "yangyubin1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yangyubin1/huifu-order-query",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yangyubin1/huifu-order-query"
+}

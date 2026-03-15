@@ -1,0 +1,10 @@
+{
+  "name": "satoshistackalotto--greek-email-processor",
+  "description": "Email processing for Greek accounting. Connects via IMAP to scan for financial documents, AADE notices, and invoices. Routes to local pipelines.",
+  "version": "0.1.1",
+  "author": {
+    "name": "satoshistackalotto"
+  },
+  "homepage": "https://github.com/satoshistackalotto/openclaw-greek-accounting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-email-processor"
+}

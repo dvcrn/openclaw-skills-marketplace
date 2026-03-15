@@ -1,0 +1,10 @@
+{
+  "name": "generaljerel--copilotkit-runtime-patterns",
+  "description": "Server-side runtime patterns for CopilotKit. Use when setting up CopilotKit runtime endpoints (Express, Hono, Next.js), configuring remote agent endpoints, adding middleware, or securing the runtime. Triggers on backend tasks involving @copilotkit/runtime, CopilotRuntime, agent registration, or API endpoint configuration.",
+  "version": "1.0.1",
+  "author": {
+    "name": "generaljerel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/generaljerel/copilotkit-runtime-patterns",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/generaljerel/copilotkit-runtime-patterns"
+}

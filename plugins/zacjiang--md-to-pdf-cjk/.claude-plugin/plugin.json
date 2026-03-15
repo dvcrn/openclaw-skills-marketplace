@@ -1,0 +1,10 @@
+{
+  "name": "zacjiang--md-to-pdf-cjk",
+  "description": "Convert Markdown files to professional PDF documents with full CJK (Chinese/Japanese/Korean) support. Uses reportlab for reliable rendering without external dependencies like wkhtmltopdf or LaTeX.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zacjiang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zacjiang/md-to-pdf-cjk",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zacjiang/md-to-pdf-cjk"
+}

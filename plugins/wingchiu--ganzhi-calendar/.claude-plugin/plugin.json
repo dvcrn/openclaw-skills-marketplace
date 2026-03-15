@@ -1,0 +1,10 @@
+{
+  "name": "wingchiu--ganzhi-calendar",
+  "description": "Calculate Chinese lunar calendar dates with Heavenly Stems (天干) and Earthly Branches (地支). Use when generating Chinese calendar tables, checking 黄历, or converting Gregorian dates to 干支 (stem-branch) dates for year/month/day.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wingchiu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wingchiu/ganzhi-calendar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wingchiu/ganzhi-calendar"
+}

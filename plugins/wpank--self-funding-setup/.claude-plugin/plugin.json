@@ -1,0 +1,10 @@
+{
+  "name": "wpank--self-funding-setup",
+  "description": "Set up a complete self-funding agent lifecycle in one command. Orchestrates 5 agents to take an agent from zero to self-sustaining: provisions wallet, optionally deploys token with V4 pool, configures treasury management, registers identity on ERC-8004, and sets up x402 micropayments. Use when user wants to make their agent self-funding, earn and manage its own revenue, or configure autonomous agent operations end-to-end.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/self-funding-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/self-funding-setup"
+}

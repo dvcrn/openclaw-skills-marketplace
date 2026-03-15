@@ -1,0 +1,10 @@
+{
+  "name": "airbai--clawgo",
+  "description": "Play Claw Go (虾游记), a text-first crayfish travel companion game. Invoke this skill only when the user explicitly mentions \"clawgo\", \"claw go\", \"虾游记\", \"虾游记 去旅行\", \"虾游记 状态\", \"虾游记 自拍\", \"虾游记 发朋友圈\", or directly asks to start or continue the Claw Go trip.",
+  "version": "2.0.0",
+  "author": {
+    "name": "airbai"
+  },
+  "homepage": "https://github.com/airbai/clawgo/tree/main/skills/claw-go",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/airbai/clawgo"
+}

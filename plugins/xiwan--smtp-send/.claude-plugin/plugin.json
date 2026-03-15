@@ -1,0 +1,10 @@
+{
+  "name": "xiwan--smtp-send",
+  "description": "Send emails via SMTP or Resend API with support for plain text, HTML, and attachments. Use when the user asks to send an email, email someone, or compose and send a message. Supports single recipients and can include file attachments. Works with Gmail, Outlook, Yahoo, QQ Mail, 163 Mail, Resend, and any SMTP server.",
+  "version": "1.0.1",
+  "author": {
+    "name": "xiwan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiwan/smtp-send",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiwan/smtp-send"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mlumeau--verify-matrix-device",
+  "description": "Verify and cross-sign the active Matrix device for one OpenClaw-managed account. Use when a user needs to repair trust for an OpenClaw Matrix device, confirm the current device is self-signed, or recover cross-signing with a recovery key.",
+  "version": "0.1.0",
+  "author": {
+    "name": "mlumeau"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mlumeau/verify-matrix-device",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mlumeau/verify-matrix-device"
+}

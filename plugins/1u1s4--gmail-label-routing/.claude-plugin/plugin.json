@@ -1,0 +1,10 @@
+{
+  "name": "1u1s4--gmail-label-routing",
+  "description": "Configurar en Gmail el enrutamiento por remitente hacia etiquetas usando el workflow local `scripts/gws_gmail_label_workflow.py`, incluyendo crear/usar etiqueta, crear filtro, aplicar retroactivo y opcionalmente sacar de INBOX. Usar cuando el usuario pida cosas como “manda este remitente a esta etiqueta”, “hazlo para varios remitentes”, “aplícalo a correos existentes”, “sácalos de INBOX”, o “limpia/reemplaza filtros duplicados para ese remitente”.",
+  "version": "1.0.0",
+  "author": {
+    "name": "1u1s4"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/1u1s4/gmail-label-routing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/1u1s4/gmail-label-routing"
+}

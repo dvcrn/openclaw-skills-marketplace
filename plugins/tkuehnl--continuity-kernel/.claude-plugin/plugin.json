@@ -1,0 +1,10 @@
+{
+  "name": "tkuehnl--continuity-kernel",
+  "description": "OpenClaw continuity kernel for fail-open llm_input injection, deterministic runtime contracts, and shadow-mode eval receipts.",
+  "version": "0.2.0",
+  "author": {
+    "name": "tkuehnl"
+  },
+  "homepage": "https://github.com/cacheforge-ai/cacheforge-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tkuehnl/continuity-kernel"
+}

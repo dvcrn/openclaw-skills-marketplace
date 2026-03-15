@@ -1,0 +1,10 @@
+{
+  "name": "sunrisesillneversee--moses-coordinator",
+  "description": "MO§ES™ Coordinator — Lightweight daemon that monitors OpenClaw Gateway WebSocket for session events, detects sequence violations (Primary → Secondary → Observer), and logs them. Optional component of the moses-governance bundle. Requires background process.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sunrisesillneversee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunrisesillneversee/moses-coordinator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunrisesillneversee/moses-coordinator"
+}

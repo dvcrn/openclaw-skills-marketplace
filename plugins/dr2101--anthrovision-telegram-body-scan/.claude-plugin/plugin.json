@@ -1,0 +1,10 @@
+{
+  "name": "dr2101--anthrovision-telegram-body-scan",
+  "description": "Run end-to-end body-scan measurement flow in Telegram using AnthroVision bridge tools.",
+  "version": "1.0.4",
+  "author": {
+    "name": "dr2101"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dr2101/anthrovision-telegram-body-scan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dr2101/anthrovision-telegram-body-scan"
+}

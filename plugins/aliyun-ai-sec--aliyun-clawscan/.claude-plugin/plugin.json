@@ -1,0 +1,10 @@
+{
+  "name": "aliyun-ai-sec--aliyun-clawscan",
+  "description": "Analyzes the security posture of a user's OpenClaw environment and installed skills. Use when a user is about to install a new skill and wants to verify its safety, has concerns about the behavior of an existing skill, or needs a comprehensive security check of their entire OpenClaw setup. Helpful for users performing a security audit, investigating a suspicious skill, or needing to assess configuration risks and potential vulnerabilities before proceeding with installations.",
+  "version": "1.0.2",
+  "author": {
+    "name": "aliyun-ai-sec"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aliyun-ai-sec/aliyun-clawscan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aliyun-ai-sec/aliyun-clawscan"
+}

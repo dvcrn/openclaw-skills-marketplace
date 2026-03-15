@@ -1,0 +1,10 @@
+{
+  "name": "gavinchengcool--openclaw-whoop",
+  "description": "Official WHOOP Developer Platform integration for OpenClaw: OAuth connect/authorize, local token storage + refresh, and WHOOP v2 metric fetch (recovery, sleep, strain/cycle, workouts, profile, body measurements). Use when users say: connect WHOOP, authorize WHOOP, pull WHOOP data, get today/yesterday recovery/sleep/strain, generate daily/weekly WHOOP summaries, or push WHOOP updates to any chat channel (TUI/webchat/Slack/Discord/WhatsApp/Telegram/etc.).",
+  "version": "0.1.2",
+  "author": {
+    "name": "gavinchengcool"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gavinchengcool/openclaw-whoop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gavinchengcool/openclaw-whoop"
+}

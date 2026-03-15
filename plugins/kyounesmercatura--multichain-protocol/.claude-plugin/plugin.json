@@ -1,0 +1,10 @@
+{
+  "name": "kyounesmercatura--multichain-protocol",
+  "description": "Turn any AI agent into a 19-chain crypto wallet via MeneseSDK on ICP. Send tokens, swap on DEXes (Raydium, Uniswap, ICPSwap, KongSwap, Cetus, Minswap), bridge cross-chain, manage DeFi positions (Aave, Lido, LP), automate trading (DCA, stop-loss, rebalancing), and process payments — all from a single ICP canister.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kyounesmercatura"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kyounesmercatura/multichain-protocol",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kyounesmercatura/multichain-protocol"
+}

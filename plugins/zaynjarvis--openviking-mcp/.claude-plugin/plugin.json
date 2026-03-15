@@ -1,0 +1,10 @@
+{
+  "name": "zaynjarvis--openviking-mcp",
+  "description": "Set up and run the OpenViking MCP server for RAG capabilities. Use when users need semantic search and document Q&A exposed through Model Context Protocol for Claude Desktop/CLI or other MCP clients. Triggers on requests about OpenViking MCP, RAG servers, or semantic search MCP setup.",
+  "version": "0.1.2",
+  "author": {
+    "name": "zaynjarvis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zaynjarvis/openviking-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zaynjarvis/openviking-mcp"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "geo-seo--seo-geo-content-engine",
+  "description": "Use when the user wants to write an SEO article, generate a blog post, create content for a keyword, run the full SEO pipeline, or check available keywords. Triggers include: \"write article: [keyword]\", \"generate SEO content\", \"show available keywords\", \"force framework [A/B/C/D]: [keyword]\", or simply typing a keyword directly. Executes a fully integrated 5-step pipeline — keyword backlog check → keyword matrix expansion → SERP deep analysis → framework auto-selection → four-block article output (SEO metadata + full article + FAQ Schema + GEO-optimized version). All five steps run as a single continuous workflow; data from each step feeds directly into the next. Designed for English-language SEO + AEO + GEO content production targeting Google search and generative AI engines.",
+  "version": "1.0.4",
+  "author": {
+    "name": "geo-seo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/geo-seo/seo-geo-content-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/geo-seo/seo-geo-content-engine"
+}

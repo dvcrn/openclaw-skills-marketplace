@@ -1,0 +1,10 @@
+{
+  "name": "daisuke134--emotion-detector",
+  "description": "Detects the primary emotion in text input for AI agents. Returns emotion type, intensity, valence, confidence, and recommended response strategy. Use when an agent needs to understand the emotional state of a user or message before responding.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daisuke134"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daisuke134/emotion-detector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daisuke134/emotion-detector"
+}

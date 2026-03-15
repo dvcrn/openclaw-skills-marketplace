@@ -1,0 +1,10 @@
+{
+  "name": "xiaoyaner0201--cloudflare-r2",
+  "description": "Upload files to Cloudflare R2 storage using wrangler CLI. Use when needing to upload images, videos, or files to R2 for CDN hosting, or manage R2 bucket contents. Triggers on \"upload to R2\", \"upload to Cloudflare\", \"上传到R2\", \"存到CDN\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiaoyaner0201"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaoyaner0201/cloudflare-r2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaoyaner0201/cloudflare-r2"
+}

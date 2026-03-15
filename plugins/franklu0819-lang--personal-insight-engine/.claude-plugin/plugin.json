@@ -1,0 +1,10 @@
+{
+  "name": "franklu0819-lang--personal-insight-engine",
+  "description": "Personal Insight Engine (PIE) - A strategic analysis tool that scans local session logs (memory/*.md) and extracts 3 strategic insights using LLMs.",
+  "version": "1.0.4",
+  "author": {
+    "name": "franklu0819-lang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/franklu0819-lang/personal-insight-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/franklu0819-lang/personal-insight-engine"
+}

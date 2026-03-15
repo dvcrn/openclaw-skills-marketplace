@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--solve-crm",
+  "description": "Solve CRM integration. Manage Organizations, Pipelines, Users, Goals, Filters. Use when the user wants to interact with Solve CRM data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/solve-crm"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "goatgaucho--trustlayer-sybil-scanner",
+  "description": "Feedback forensics for ERC-8004 agents. Detects Sybil rings, fake reviews, rating manipulation, and reputation laundering across 5 chains. 80K+ agents scored. No API key needed.",
+  "version": "2.0.0",
+  "author": {
+    "name": "goatgaucho"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/goatgaucho/trustlayer-sybil-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/goatgaucho/trustlayer-sybil-scanner"
+}

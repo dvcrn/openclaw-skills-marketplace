@@ -1,0 +1,10 @@
+{
+  "name": "crispyangles--sparkforge-site-deployer",
+  "description": "Build and deploy static websites in under 5 minutes. Handles Vercel, Netlify, and GitHub Pages — scaffolding, config, deploy, custom domains. Includes Tailwind CSS templates for landing pages, product pages, and portfolios. Use for anything that doesn't need a database or server-side rendering. Covers the real gotchas (cleanUrls, og:tags, mobile viewport, favicon tricks) plus a pre-deploy checklist. Built from deploying 15+ sites and making every mistake so you don't have to.",
+  "version": "2.1.0",
+  "author": {
+    "name": "crispyangles"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crispyangles/sparkforge-site-deployer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crispyangles/sparkforge-site-deployer"
+}

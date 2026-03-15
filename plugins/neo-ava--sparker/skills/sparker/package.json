@@ -1,0 +1,34 @@
+{
+  "name": "sparker",
+  "version": "1.2.0",
+  "description": "STP (Spark Transmit Protocol) implementation — always-on learning engine that captures user knowledge, searches local + SparkLand community experiences, and refines knowledge over time. Requires Node.js exec, reads/writes ~/.openclaw/ config, writes /tmp files, optionally connects to https://sparkland.ai for cross-agent knowledge sharing.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "capabilities": {
+    "exec": true,
+    "filesystem": ["~/.openclaw/sparkhub.json", "./assets/stp/", "/tmp/spark_*.json"],
+    "network": ["https://sparkland.ai (optional, community knowledge hub)"],
+    "always_on": true
+  },
+  "scripts": {
+    "test": "node -e \"require('./src/core/asset-id'); require('./src/core/storage'); require('./src/core/credibility'); require('./src/core/capability-map'); require('./src/core/preference-map'); require('./src/kindle/extractor'); require('./src/kindle/ingest'); console.log('All modules OK')\"",
+    "kindle": "node index.js kindle",
+    "teach": "node index.js teach",
+    "digest": "node index.js digest",
+    "search": "node index.js search",
+    "publish": "node index.js publish",
+    "forge": "node index.js forge",
+    "ingest": "node index.js ingest",
+    "profile": "node index.js profile",
+    "review": "node index.js review",
+    "status": "node index.js status"
+  },
+  "optionalDependencies": {
+    "mammoth": "^1.8.0",
+    "pdf-parse": "^1.1.1"
+  },
+  "keywords": ["openclaw", "stp", "spark", "sparker", "a2a", "knowledge-transfer"],
+  "license": "MIT"
+}

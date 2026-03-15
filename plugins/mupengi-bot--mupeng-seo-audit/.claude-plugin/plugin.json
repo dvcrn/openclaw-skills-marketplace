@@ -1,0 +1,10 @@
+{
+  "name": "mupengi-bot--mupeng-seo-audit",
+  "description": "Diagnose and audit SEO issues affecting crawlability, indexation, rankings, and organic performance. Use when the user asks for an SEO audit, technical SEO review, ranking diagnosis, on-page SEO review, meta tag audit, or SEO health check. This skill identifies issues and prioritizes actions but does not execute changes. For large-scale page creation, use programmatic-seo. For structured data, use schema-markup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mupengi-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/mupeng-seo-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/mupeng-seo-audit"
+}

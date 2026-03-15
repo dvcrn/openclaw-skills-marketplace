@@ -1,0 +1,10 @@
+{
+  "name": "rosasalberto--didit-age-estimation",
+  "description": "Integrate Didit Age Estimation standalone API to estimate a person's age from a facial image. Use when the user wants to estimate age, verify age, implement age gating, check if someone is over 18/21, perform age verification for compliance, or use facial analysis for age detection using Didit. Includes passive liveness check. Supports configurable thresholds, adaptive age estimation with ID verification fallback, and per-country age restrictions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rosasalberto"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-age-estimation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-age-estimation"
+}

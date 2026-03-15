@@ -1,0 +1,10 @@
+{
+  "name": "1va7--skill-refiner",
+  "description": "Audit and fix all skills in the workspace for compliance with skill-creator requirements. Use when asked to \"refine skills\", \"audit skills\", \"check skill quality\", or \"fix non-compliant skills\". Exhaustively searches the entire workspace (not just skills/) to find every SKILL.md, then audits and repairs each one.",
+  "version": "1.0.0",
+  "author": {
+    "name": "1va7"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/1va7/skill-refiner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/1va7/skill-refiner"
+}

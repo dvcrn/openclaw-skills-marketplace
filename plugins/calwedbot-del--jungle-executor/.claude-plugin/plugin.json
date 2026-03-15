@@ -1,0 +1,10 @@
+{
+  "name": "calwedbot-del--jungle-executor",
+  "description": "Enforces Jungle Laws (12 Iron Rules + Warden Protocols) for decision-making, trading, and task execution. Mandates strict adherence to prevent errors like IV traps, theta bleed, narrative bias. Features: rule validation, self-audit, violation auto-correction/kill-switches. Use when: (1) Trading/options (45min dead-man switch, IV bans, logic self-destruct), (2) High-stakes decisions requiring pack consensus over solo wolf, (3) Enforcing zero-tolerance discipline in workflows/agents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "calwedbot-del"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/calwedbot-del/jungle-executor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/calwedbot-del/jungle-executor"
+}

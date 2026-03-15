@@ -1,0 +1,10 @@
+{
+  "name": "tomleelive--clawsouls",
+  "description": "Manage AI agent personas (Souls) for OpenClaw. Use when the user wants to install, switch, list, or restore AI personalities/personas. Triggers on requests like \"install a soul\", \"switch persona\", \"change personality\", \"list souls\", \"restore my old soul\", \"use minimalist\", \"browse personas\", \"what souls are available\", \"publish a soul\", or \"login to clawsouls\".",
+  "version": "0.6.3",
+  "author": {
+    "name": "tomleelive"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tomleelive/clawsouls",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tomleelive/clawsouls"
+}

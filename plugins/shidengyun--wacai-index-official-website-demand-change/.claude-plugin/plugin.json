@@ -1,0 +1,10 @@
+{
+  "name": "shidengyun--wacai-index-official-website-demand-change",
+  "description": "一键执行官网项目需求变更。用于用户粘贴一大段新需求并同时提供项目路径后，自动在指定项目目录上完成：检查目标分支工作区是否干净、拉取最新代码、把需求写入 productdemand.md 并做小时级备份、根据需求修改代码、运行必要检查、git commit、push，并在 push 成功后通过企业微信 webhook 发送包含时间和代码变动点的通知。适合“官网改动：需求正文 + 项目路径 + 分支”这类一键执行请求。",
+  "version": "1.0.0",
+  "author": {
+    "name": "shidengyun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shidengyun/wacai-index-official-website-demand-change",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shidengyun/wacai-index-official-website-demand-change"
+}

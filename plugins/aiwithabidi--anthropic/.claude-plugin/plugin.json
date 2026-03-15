@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--anthropic",
+  "description": "Anthropic Claude API integration — chat completions, streaming, vision, tool use, and batch processing via the Anthropic Messages API. Generate text with Claude Opus, Sonnet, and Haiku models, process images, use tool calling, and manage conversations. Built for AI agents — Python stdlib only, zero dependencies. Use for AI text generation, multimodal analysis, tool-augmented AI, batch processing, and Claude model interaction.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/anthropic"
+}

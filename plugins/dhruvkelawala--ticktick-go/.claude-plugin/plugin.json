@@ -1,0 +1,10 @@
+{
+  "name": "dhruvkelawala--ticktick-go",
+  "description": "Manage TickTick tasks and projects via the `ttg` CLI (github.com/dhruvkelawala/ticktick-go). Full CRUD, checklists/subtasks with progress display, reminders, recurring tasks, search, tags, natural language dates, and JSON output. Use when: adding tasks, listing tasks, marking complete, editing tasks, managing checklists, setting reminders, searching, or filtering by due date, priority, or tag.",
+  "version": "1.1.1",
+  "author": {
+    "name": "dhruvkelawala"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dhruvkelawala/ticktick-go",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dhruvkelawala/ticktick-go"
+}

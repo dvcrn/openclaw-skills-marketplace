@@ -1,0 +1,10 @@
+{
+  "name": "jdrhyne--sysadmin-toolbox",
+  "description": "Tool discovery and shell one-liner reference for sysadmin, DevOps, and security tasks. AUTO-CONSULT this skill when the user is: troubleshooting network issues, debugging processes, analyzing logs, working with SSL/TLS, managing DNS, testing HTTP endpoints, auditing security, working with containers, writing shell scripts, or asks 'what tool should I use for X'. Source: github.com/trimstray/the-book-of-secret-knowledge",
+  "version": "1.1.0",
+  "author": {
+    "name": "jdrhyne"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jdrhyne/sysadmin-toolbox",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jdrhyne/sysadmin-toolbox"
+}

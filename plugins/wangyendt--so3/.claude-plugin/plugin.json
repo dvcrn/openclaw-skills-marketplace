@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--so3",
+  "description": "SO(3) rotation matrix utilities including Lie group/ Lie algebra operations, rotation representation conversions, skew-symmetric matrix operations, and rotation averaging. Use when working with 3D rotations, robot kinematics, computer vision, SLAM, or any task requiring SO(3) matrix validation and manipulation, quaternion/ axis-angle/ Euler angle conversions, Lie algebra Log/Exp mapping, skew-symmetric matrix operations, or rotation matrix averaging",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/so3",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/so3"
+}

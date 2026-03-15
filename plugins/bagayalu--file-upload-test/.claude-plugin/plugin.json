@@ -1,0 +1,10 @@
+{
+  "name": "bagayalu--file-upload-test",
+  "description": "上传文件到内部 BS3 存储（免签名）。Use when user asks to upload files, images, documents to storage, or get a shareable URL for a file.",
+  "version": "1.0.1",
+  "author": {
+    "name": "bagayalu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bagayalu/file-upload-test",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bagayalu/file-upload-test"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "harleyscodes--xaman-wallet-integration",
+  "description": "Integrate Xaman wallet (formerly Xumm) for XRP Ledger authentication and transactions. Use for: (1) Adding wallet connection to a webapp, (2) Implementing sign-in with Xaman, (3) Requesting payment/signatures from users, (4) Loading XummPkce SDK from CDN.",
+  "version": "1.0.0",
+  "author": {
+    "name": "harleyscodes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harleyscodes/xaman-wallet-integration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harleyscodes/xaman-wallet-integration"
+}

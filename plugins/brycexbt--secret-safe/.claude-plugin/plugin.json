@@ -1,0 +1,10 @@
+{
+  "name": "brycexbt--secret-safe",
+  "description": "Secure API key and secrets management for agent skills. Use this skill whenever a task requires authenticating with an external service, reading or writing API keys, tokens, passwords, or credentials of any kind. Also trigger when auditing other skills for credential leaks, when a user asks how to securely pass a secret to a skill, or when reviewing a SKILL.md that handles sensitive values. This skill teaches the agent how to handle secrets WITHOUT ever placing them in the LLM context, prompts, logs, or output artifacts — using OpenClaw's native env injection instead.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brycexbt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brycexbt/secret-safe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brycexbt/secret-safe"
+}

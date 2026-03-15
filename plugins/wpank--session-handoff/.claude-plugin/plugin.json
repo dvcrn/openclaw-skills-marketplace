@@ -1,0 +1,10 @@
+{
+  "name": "wpank--session-handoff",
+  "description": "WHAT: Create comprehensive handoff documents that enable fresh AI agents to seamlessly continue work with zero ambiguity. Solves long-running agent context exhaustion problem.\n \n WHEN: (1) User requests handoff/memory/context save, (2) Context window approaches capacity, (3) Major task milestone completed, (4) Work session ending, (5) Resuming work with existing handoff.\n \n KEYWORDS: \"save state\", \"create handoff\", \"context is full\", \"I need to pause\", \"resume from\", \"continue where we left off\", \"load handoff\", \"save progress\", \"session transfer\", \"hand off\"",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/session-handoff",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/session-handoff"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "1bcmax--clawrouter",
+  "description": "Smart LLM router — save 67% on inference costs. Routes every request to the cheapest capable model across 41 models from OpenAI, Anthropic, Google, DeepSeek, and xAI.",
+  "version": "0.10.5",
+  "author": {
+    "name": "1bcmax"
+  },
+  "homepage": "https://github.com/BlockRunAI/ClawRouter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/1bcmax/clawrouter"
+}

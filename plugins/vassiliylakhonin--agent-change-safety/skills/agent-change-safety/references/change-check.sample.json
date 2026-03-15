@@ -1,0 +1,13 @@
+{
+  "risk": "high",
+  "preflight_ok": true,
+  "rollback_ready": true,
+  "health_ok": true,
+  "critical_path_ok": true,
+  "hitl_confirmed": false,
+  "irreversible": true,
+  "messaging_path_changed": true,
+  "credentials_changed": false,
+  "billing_side_effects": false,
+  "security_posture_reduced": false
+}

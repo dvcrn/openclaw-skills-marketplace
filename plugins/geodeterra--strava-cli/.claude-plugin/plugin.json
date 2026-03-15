@@ -1,0 +1,10 @@
+{
+  "name": "geodeterra--strava-cli",
+  "description": "Interact with Strava via the strava-client-cli Python tool. Use for viewing activities, athlete profiles, stats, and exporting data. Covers setup (creating a Strava account, API app, and OAuth) and all CLI commands.",
+  "version": "0.1.0",
+  "author": {
+    "name": "geodeterra"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/geodeterra/strava-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/geodeterra/strava-cli"
+}

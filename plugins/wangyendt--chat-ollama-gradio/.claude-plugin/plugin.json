@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--chat-ollama-gradio",
+  "description": "Gradio-based chat interface for Ollama with multi-session management. Use when working with pywayne.llm.chat_ollama_gradio module to create a web-based chat UI that connects to Ollama models, supports multiple chat sessions, model selection, and streaming responses. Integrates with ChatManager for session management.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/chat-ollama-gradio",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/chat-ollama-gradio"
+}

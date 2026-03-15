@@ -1,0 +1,10 @@
+{
+  "name": "chengzeyi--wavespeed-wan-22-animate",
+  "description": "Animate characters from images using driving videos with WaveSpeed AI's Wan 2.2 Animate model. Supports animate mode (make image character move like video subject) and replace mode (swap video subject with image character). Outputs up to 120 seconds at 480p or 720p. Use when the user wants to animate a character from an image using a reference video.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chengzeyi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chengzeyi/wavespeed-wan-22-animate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chengzeyi/wavespeed-wan-22-animate"
+}

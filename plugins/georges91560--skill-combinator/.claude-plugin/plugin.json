@@ -1,0 +1,10 @@
+{
+  "name": "georges91560--skill-combinator",
+  "description": "Meta-skill that unlocks emergent capabilities by combining your agent's installed skills in non-obvious ways. Use this skill whenever your agent faces a complex multi-domain mission, receives a new project, or when 2+ skills could interact to produce a capability greater than the sum of their parts. Also runs weekly to distill discovered combinations into a persistent COMBINATIONS.md catalogue. The more skills your agent has, the more powerful this meta-skill becomes — intelligence emerges from synthesis, not accumulation.",
+  "version": "1.0.2",
+  "author": {
+    "name": "georges91560"
+  },
+  "homepage": "https://github.com/georges91560/skill-combinator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/georges91560/skill-combinator"
+}

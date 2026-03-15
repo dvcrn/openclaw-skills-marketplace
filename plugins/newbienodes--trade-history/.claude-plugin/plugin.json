@@ -1,0 +1,10 @@
+{
+  "name": "newbienodes--trade-history",
+  "description": "Read and display recent trade history from local JSONL log file. Use when asked about past trades, trade recap, performance review, or to list recorded signals.",
+  "version": "1.0.0",
+  "author": {
+    "name": "newbienodes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/newbienodes/trade-history",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/newbienodes/trade-history"
+}

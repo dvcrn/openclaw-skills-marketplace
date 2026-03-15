@@ -1,0 +1,10 @@
+{
+  "name": "youyoude--feishu-task",
+  "description": "飞书任务管理 - 创建、查询、更新和删除飞书任务。Use when user mentions 飞书任务、创建任务、指派任务、任务管理。\n \n Triggers:\n - \"创建一个飞书任务\"\n - \"帮我在飞书里添加任务\"\n - \"查看我的飞书任务\"\n - \"更新/修改/删除飞书任务\"\n - \"给XXX指派任务\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "youyoude"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/youyoude/feishu-task",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/youyoude/feishu-task"
+}

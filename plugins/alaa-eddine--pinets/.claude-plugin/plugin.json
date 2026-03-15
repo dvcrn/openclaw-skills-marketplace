@@ -1,0 +1,10 @@
+{
+  "name": "alaa-eddine--pinets",
+  "description": "Run Pine Script indicators from the command line using pinets-cli. Use when asked to execute, test, or analyze Pine Script indicators, calculate technical analysis values (RSI, SMA, EMA, MACD, etc.), or fetch market data for crypto trading pairs. This tool can run PineScript indicators from .pine files or stdin and output the resulting plots and variables data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "alaa-eddine"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alaa-eddine/pinets",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alaa-eddine/pinets"
+}

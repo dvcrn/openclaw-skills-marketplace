@@ -1,0 +1,10 @@
+{
+  "name": "hougangdev--meeting-prep",
+  "description": "Automated meeting preparation and daily commit summaries. Use when checking Google Calendar for upcoming meetings, generating standup updates from GitHub commits, or sending daily development summaries. Pulls meeting schedules and commit history, then formats verbose developer-friendly updates.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hougangdev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hougangdev/meeting-prep",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hougangdev/meeting-prep"
+}

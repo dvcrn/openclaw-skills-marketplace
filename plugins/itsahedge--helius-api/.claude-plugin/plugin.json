@@ -1,0 +1,10 @@
+{
+  "name": "itsahedge--helius-api",
+  "description": "Query Solana data via the Helius API. Use when the user asks about Solana wallet balances, token holdings, NFT holdings, transaction history, transfer activity, wallet identity/labels, wallet funding sources, parsing transactions, or other Solana on-chain data. Triggers on: \"solana wallet\", \"sol balance\", \"solana transactions\", \"wallet history\", \"who funded this wallet\", \"wallet identity\", \"solana transfers\", \"solana NFTs\", \"helius\", \"check solana address\", \"solana data\", \"parse transaction\", \"enhanced transactions\", \"transaction details\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "itsahedge"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/itsahedge/helius-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/itsahedge/helius-api"
+}

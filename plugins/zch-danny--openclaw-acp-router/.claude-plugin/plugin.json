@@ -1,0 +1,10 @@
+{
+  "name": "zch-danny--openclaw-acp-router",
+  "description": "Route plain-language requests for Pi, Claude Code, Codex, OpenCode, Gemini CLI, or ACP harness work into either OpenClaw ACP runtime sessions or direct acpx-driven sessions (\"telephone game\" flow). For coding-agent thread requests, read this skill first, then use only `sessions_spawn` for thread creation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zch-danny"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zch-danny/openclaw-acp-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zch-danny/openclaw-acp-router"
+}

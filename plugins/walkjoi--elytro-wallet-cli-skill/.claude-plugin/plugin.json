@@ -1,0 +1,10 @@
+{
+  "name": "walkjoi--elytro-wallet-cli-skill",
+  "description": "Elytro — security-first ERC-4337 smart account wallet CLI for AI agents. On-chain 2FA, configurable spending limits, and macOS Keychain-backed vault. Send ETH, ERC-20 tokens, and batch transactions via UserOperations on Ethereum, Optimism, and Arbitrum. Account abstraction wallet with gas sponsorship, counterfactual deployment, social recovery, and guardian management.",
+  "version": "0.2.1",
+  "author": {
+    "name": "walkjoi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/walkjoi/elytro-wallet-cli-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/walkjoi/elytro-wallet-cli-skill"
+}

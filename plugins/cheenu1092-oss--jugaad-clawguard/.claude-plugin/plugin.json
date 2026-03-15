@@ -1,0 +1,10 @@
+{
+  "name": "cheenu1092-oss--jugaad-clawguard",
+  "description": "Security blacklist protecting AI agents from malicious skills, scams, and prompt injection. Use before executing external commands, visiting unknown URLs, or installing new skills. Triggers on \"security check\", \"is this safe\", \"check this URL\", or suspicious command patterns.",
+  "version": "1.3.1",
+  "author": {
+    "name": "cheenu1092-oss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cheenu1092-oss/jugaad-clawguard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cheenu1092-oss/jugaad-clawguard"
+}

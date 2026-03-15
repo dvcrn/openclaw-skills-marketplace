@@ -1,0 +1,10 @@
+{
+  "name": "odrobnik--snapmaker-2",
+  "description": "Control and monitor Snapmaker 2.0 3D printers via their HTTP API. Status, job management, progress watching, and event monitoring.",
+  "version": "1.2.2",
+  "author": {
+    "name": "odrobnik"
+  },
+  "homepage": "https://github.com/odrobnik/snapmaker-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/snapmaker-2"
+}

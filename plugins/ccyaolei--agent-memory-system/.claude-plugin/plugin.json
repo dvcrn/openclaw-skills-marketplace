@@ -1,0 +1,10 @@
+{
+  "name": "ccyaolei--agent-memory-system",
+  "description": "OpenClaw Agent 长期记忆系统 - 温度模型 + 自动归档 + 知识提炼。让 AI Agent 拥有持久记忆，自动管理冷热数据，从经验中提炼可复用技能。",
+  "version": "1.0.1",
+  "author": {
+    "name": "ccyaolei"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ccyaolei/agent-memory-system",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ccyaolei/agent-memory-system"
+}

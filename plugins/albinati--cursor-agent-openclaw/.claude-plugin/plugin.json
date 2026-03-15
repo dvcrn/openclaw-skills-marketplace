@@ -1,0 +1,10 @@
+{
+  "name": "albinati--cursor-agent-openclaw",
+  "description": "Run Cursor Agent CLI for coding tasks — writing, editing, refactoring, reviewing, or planning code — without spending OpenClaw API credits. Use when the user asks to write/fix/refactor/review code, a coding task would otherwise be done inline with Sonnet/Haiku, the user says \"do this in cursor\" or \"use cursor for this\", or any substantial file-editing task in a known repo. NOT for conversational questions about code (answer inline) or tiny one-liners that don't warrant a subprocess.",
+  "version": "1.0.2",
+  "author": {
+    "name": "albinati"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/albinati/cursor-agent-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/albinati/cursor-agent-openclaw"
+}

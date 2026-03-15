@@ -1,0 +1,10 @@
+{
+  "name": "clarezoe--ai-csuite",
+  "description": "Runs a script-backed AI C-Suite strategic debate for SaaS teams. It builds a stage-aware executive roster, generates structured debate rounds, synthesizes a Chief-of-Staff brief, and outputs a CEO decision with action items. Includes security and output validation scripts designed for VirusTotal-safe distribution.",
+  "version": "2.1.0",
+  "author": {
+    "name": "clarezoe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clarezoe/ai-csuite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clarezoe/ai-csuite"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lurenha--chainup-spot-trading",
+  "description": "ChainUp/OpenAPI V2 spot and margin trading skill. Prefer using the Python script to call `sapi` endpoints through one unified entrypoint and avoid ad hoc signing logic.",
+  "version": "1.0.1",
+  "author": {
+    "name": "lurenha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lurenha/chainup-spot-trading",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lurenha/chainup-spot-trading"
+}

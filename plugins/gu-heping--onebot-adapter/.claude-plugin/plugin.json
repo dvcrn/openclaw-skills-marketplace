@@ -1,0 +1,10 @@
+{
+  "name": "gu-heping--onebot-adapter",
+  "description": "Connect OpenClaw to OneBot protocol for QQ bot integration. Use when receiving or sending QQ messages via NapCat or other OneBot servers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gu-heping"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gu-heping/onebot-adapter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gu-heping/onebot-adapter"
+}

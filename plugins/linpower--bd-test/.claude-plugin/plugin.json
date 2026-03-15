@@ -1,0 +1,10 @@
+{
+  "name": "linpower--bd-test",
+  "description": "Manage skills for visual understanding: register, list, invoke, and delete detection skills. Supports person detection, pedestrian counting, vehicle recognition, OCR, pose estimation, object tracking, and more.",
+  "version": "0.0.1",
+  "author": {
+    "name": "linpower"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/linpower/bd-test",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/linpower/bd-test"
+}

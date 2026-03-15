@@ -1,0 +1,10 @@
+{
+  "name": "steipete--openai-image-gen",
+  "description": "Batch-generate images via OpenAI Images API. Random prompt sampler + `index.html` gallery.",
+  "version": "1.0.1",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/steipete/openai-image-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/openai-image-gen"
+}

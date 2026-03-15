@@ -1,0 +1,10 @@
+{
+  "name": "copfee--youtube-download-review",
+  "description": "处理 YouTube 链接的视频下载与音乐向解读。只要用户提供 YouTube 链接，并提到下载视频、合并 MP4、下载封面、字幕处理（内嵌/忽略）、推荐理由、内容简介时，都应优先使用本技能。默认下载 1080p 视频 + 最高品质 m4a，自动合并为 mp4，并按视频标题创建目录输出全部产物。（此Skill 依赖系统软件包：yt-dlp 和 ffmpeg）",
+  "version": "1.0.1",
+  "author": {
+    "name": "copfee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/copfee/youtube-download-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/copfee/youtube-download-review"
+}

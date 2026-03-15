@@ -1,0 +1,10 @@
+{
+  "name": "wisediag--wisediag-medocr",
+  "description": "PDF OCR — Convert PDF to Markdown via WiseDiag cloud API. Supports table recognition, multi-column layouts, and high-accuracy text extraction. Usage: Upload a PDF and say Use WiseOCR to OCR this.",
+  "version": "1.0.21",
+  "author": {
+    "name": "wisediag"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wisediag/wisediag-medocr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wisediag/wisediag-medocr"
+}

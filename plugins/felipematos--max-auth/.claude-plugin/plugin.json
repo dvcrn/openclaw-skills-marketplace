@@ -1,0 +1,10 @@
+{
+  "name": "felipematos--max-auth",
+  "description": "Security authentication gate for OpenClaw sensitive actions. Deploys a local Node.js auth server with biometric passkeys (WebAuthn/Touch ID/Face ID) and master password. Exposes a dashboard via Tailscale HTTPS. Use when: (1) setting up authentication for sensitive agent actions, (2) checking if user is authenticated before destructive/external operations, (3) registering or managing passkeys, (4) integrating auth into OpenClaw workflows. Sensitive actions = delete files, install packages, send messages to 3rd parties, call mutating APIs.",
+  "version": "2.1.0",
+  "author": {
+    "name": "felipematos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/felipematos/max-auth",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/felipematos/max-auth"
+}

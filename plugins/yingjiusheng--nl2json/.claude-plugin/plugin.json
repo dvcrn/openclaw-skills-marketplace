@@ -1,0 +1,10 @@
+{
+  "name": "yingjiusheng--nl2json",
+  "description": "将自然语言转换成JSON参数。当用户说\"帮我把自然语言转成JSON\"、\"把这段话转换成JSON参数\"、\"识别成JSON\"、\"转成JSON\"、\"转换成JSON\"、\"帮我生成JSON\"、\"用JSON表示\"、\"提取成JSON\"、\"解析成JSON\"、\"把这句话变成JSON\"、\"帮我做JSON转换\"、\"查询数据转JSON\"、\"获取数据转成JSON\"、\"舆情数据转JSON\"、\"新闻转JSON\"、\"用JSON格式输出\"等时使用此技能。只要用户需要将自然语言描述转换成结构化的JSON数据，就使用此技能。首先读取templates/default.json模板，严格按照模板中定义的字段进行输出，优先保证模板字段的支持。",
+  "version": "1.0.1",
+  "author": {
+    "name": "yingjiusheng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yingjiusheng/nl2json",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yingjiusheng/nl2json"
+}

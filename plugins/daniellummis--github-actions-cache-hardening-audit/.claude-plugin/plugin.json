@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-cache-hardening-audit",
+  "description": "Audit GitHub Actions workflow cache usage for poisoning, keying, and secret-path risks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-cache-hardening-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-cache-hardening-audit"
+}

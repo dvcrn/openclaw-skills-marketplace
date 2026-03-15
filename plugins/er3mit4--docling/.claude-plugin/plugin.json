@@ -1,0 +1,10 @@
+{
+  "name": "er3mit4--docling",
+  "description": "Extract and parse content from web pages, PDFs, documents (docx, pptx), and images using the docling CLI with GPU acceleration. Use INSTEAD of web_fetch for extracting content from specific URLs when you need clean, structured text. Use Brave (web_search) for searching/discovering pages. Use docling when you HAVE a URL and need its content parsed.",
+  "version": "1.0.2",
+  "author": {
+    "name": "er3mit4"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/er3mit4/docling",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/er3mit4/docling"
+}

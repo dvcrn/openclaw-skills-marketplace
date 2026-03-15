@@ -1,0 +1,10 @@
+{
+  "name": "lbtsm--mapulse",
+  "description": "Daily Korean stock market briefing and AI analysis with DART disclosure alerts. Monitors KOSPI/KOSDAQ indices, tracks a personal watchlist, and delivers morning summaries via Telegram or WhatsApp. Covers index overview, top gainers/losers, foreign net trading, and DART major disclosures. Pay-per-call pricing via ButterSwap cross-chain settlement. Use when: (1) user asks about Korean stocks or 한국 주식, (2) wants daily market briefing or 매일 시황, (3) needs stock price alerts, (4) asks \"why did Samsung drop\" or analysis questions about Korean market, (5) wants DART corporate disclosure summaries.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lbtsm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lbtsm/mapulse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lbtsm/mapulse"
+}

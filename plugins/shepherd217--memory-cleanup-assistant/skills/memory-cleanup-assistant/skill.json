@@ -1,0 +1,16 @@
+{
+  "name": "memory-cleanup-assistant",
+  "version": "1.0.0",
+  "description": "Auto-audit and compress OpenClaw context files to save $50-200/week in API tokens",
+  "author": "ExitLiquidity",
+  "license": "MIT",
+  "keywords": ["openclaw", "memory", "cleanup", "optimization", "tokens", "cost-saving"],
+  "requires": ["fs", "path", "crypto"],
+  "category": "productivity",
+  "pricing": {
+    "model": "freemium",
+    "free": "Audit + manual cleanup",
+    "pro": "$5/mo - Auto-cleanup + alerts",
+    "team": "$15/mo - Multi-agent workspaces"
+  }
+}

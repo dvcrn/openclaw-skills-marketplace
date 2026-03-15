@@ -1,0 +1,10 @@
+{
+  "name": "jayphen--karakeep",
+  "description": "Manage bookmarks and links in a Karakeep instance. Use when the user wants to save links, list recent bookmarks, or search their collection. Triggers on phrases like \"hoard this link\", \"save to karakeep\", or \"search my bookmarks\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "jayphen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jayphen/karakeep",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jayphen/karakeep"
+}

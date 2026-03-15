@@ -1,0 +1,10 @@
+{
+  "name": "crispyangles--prompt-crafter",
+  "description": "Build AI prompts that work on the first try — for ChatGPT, Claude, Gemini, or any LLM. Covers system prompts, user prompts, chain-of-thought, few-shot examples, and structured output. Use when you're writing prompts for apps, content, analysis, code, or automation. Includes 4 frameworks with decision logic, 12 real examples, a troubleshooting guide for bad outputs, and safety constraints for production use. Not for image generation (Midjourney/DALL-E/Flux) — visual prompting is a different discipline.",
+  "version": "2.1.0",
+  "author": {
+    "name": "crispyangles"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crispyangles/prompt-crafter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crispyangles/prompt-crafter"
+}

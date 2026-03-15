@@ -1,0 +1,10 @@
+{
+  "name": "shalomobongo--codex-conductor",
+  "description": "Methodical end-to-end software delivery orchestrator for Codex CLI with dual project modes (greenfield for new builds, brownfield for existing systems) and dual execution modes (autonomous and gated). Use when users want full lifecycle delivery with strict stage gates, progress tracking, per-step manual/automated testing, continuous docs updates, change-impact management, and a reusable AGENTS.md workflow for any coding agent.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shalomobongo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shalomobongo/codex-conductor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shalomobongo/codex-conductor"
+}

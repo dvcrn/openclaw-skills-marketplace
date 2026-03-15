@@ -1,0 +1,10 @@
+{
+  "name": "nikolaybohdanov--discord-digest",
+  "description": "Generate formatted digests from Discord servers using a user token. Reads messages from selected channels/threads and creates concise summaries with links. Use when generating Discord server digests, monitoring Discord channels, or creating Discord activity reports. Supports multi-server configuration, interactive channel selection, token validation with expiry notifications, and configurable time periods.",
+  "version": "1.1.0",
+  "author": {
+    "name": "nikolaybohdanov"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nikolaybohdanov/discord-digest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nikolaybohdanov/discord-digest"
+}

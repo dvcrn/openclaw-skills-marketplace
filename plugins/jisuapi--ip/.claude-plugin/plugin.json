@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--ip",
+  "description": "使用极速数据 IP 查询 API，根据 IP 地址查询归属地和运营商类型信息。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/ip",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/ip"
+}

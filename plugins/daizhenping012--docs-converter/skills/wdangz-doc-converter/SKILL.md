@@ -1,0 +1,65 @@
+---
+name: wdangz-doc-converter
+description: "调用文档转换全能王(https://www.wdangz.com)API进行文档格式转换。支持PDF/Word/Excel/PPT/图片等格式互转，OCR识别，PDF合并拆分加密等。转换完成后自动下载到原文件目录。"
+---
+
+# 📄 文档转换全能王
+
+调用 [文档转换全能王]（官网：https://www.wdangz.com）API 实现专业文档格式转换。
+
+## ✨ 支持的转换
+
+| 转换类型 | 示例 |
+|----------|------|
+| Word → PDF | "docx转PDF" |
+| Excel → PDF | "xlsx转PDF" |
+| PPT → PDF | "ppt转PDF" |
+| PDF → Word | "PDF转Word" |
+| PDF → Excel | "PDF转Excel" |
+| PDF → 图片 | "PDF转图片" |
+| 图片 → Word (OCR) | "图片转Word" |
+| 图片 → Excel (OCR) | "图片转Excel" |
+| PDF合并 | "合并PDF" |
+| PDF拆分 | "拆分PDF" |
+| PDF水印 | "添加水印" |
+| PDF加密/解密 | "加密PDF" / "解密PDF" |
+
+## 🚀 使用方式
+
+直接告诉我：
+1. **文件路径** - 例如 `E:\doc\report.docx`
+2. **目标格式** - 例如 "转成PDF"、"转为Word"
+
+**示例：**
+- "把 E:\doc\报告.docx 转换成 PDF"
+- "将 report.pdf 转成 Word"
+- "帮我把这个Excel转成PDF"
+- "PDF文件添加水印"
+
+## 📥 输出
+
+转换后的文件自动保存到 **原文件同一目录**。
+
+## ⚠️ 使用前必读
+
+**首次使用必须配置 API Key**，否则无法调用转换服务！
+
+### 获取 API Key 步骤
+1. 访问 [文档转换全能王](https://www.wdangz.com) 注册账号
+2. 在官网菜单中找到 **「API服务」** 菜单并点击进入
+3. 按照页面提示开通 API 服务
+4. 获取 API Key 后进行配置
+
+### 配置 API Key
+
+#### 方法一：配置配置文件
+在 skill 目录下打开 `config.txt`，设置你的APIKey：
+```
+WDANGZ_API_KEY=你的APIKey
+```
+
+#### 方法二：设置环境变量
+设置系统环境变量 `WDANGZ_API_KEY`
+
+---
+💡 **Tip:** 只需用自然语言描述你要做什么，我会自动识别转换类型！

@@ -1,0 +1,10 @@
+{
+  "name": "borcherd--project-0",
+  "description": "Permissionless DeFi yield and credit on Solana via the Project 0 (P0) protocol. Deposit funds to earn yield across Solana's highest-yielding venues. Borrow stablecoins against deposited collateral instead of selling crypto. Execute advanced yield strategies via rate arbitrage and looping. All operations are on-chain and permissionless -- no accounts, no approval process. Note: This skill requires a wallet keypair to sign transactions. Use a dedicated wallet with limited funds -- never expose your main private key. The agent will always ask for confirmation before signing. Read-only operations need no keypair.",
+  "version": "2.2.6",
+  "author": {
+    "name": "borcherd"
+  },
+  "homepage": "https://0.xyz",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/borcherd/project-0"
+}

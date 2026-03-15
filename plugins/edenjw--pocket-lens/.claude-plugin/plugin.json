@@ -1,0 +1,10 @@
+{
+  "name": "edenjw--pocket-lens",
+  "description": "Use when user wants to track expenses, scan receipts, upload card payment screenshots, categorize spending, record transactions, check spending summaries, view card billing amounts, or query monthly expense breakdowns via PocketLens. Activate when images of credit card statements or receipts are shared, or when user asks about spending totals, card bills, or category breakdowns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "edenjw"
+  },
+  "homepage": "https://pocketlens.app",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/edenjw/pocket-lens"
+}

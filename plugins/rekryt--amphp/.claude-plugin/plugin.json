@@ -1,0 +1,10 @@
+{
+  "name": "rekryt--amphp",
+  "description": "Writing non-blocking, async PHP code using the AMPHP framework — revolt/event-loop, amphp/amp ^3, and the full amphp/* ecosystem (http-server, http-client, websocket, mysql, redis, parallel, socket, pipeline, file, cache, sync, dns, process). Always use this skill when PHP code involves: amphp/* packages, the Revolt event loop, Amp\\Future, Amp\\async(), Amp\\delay(), PHP Fibers for async I/O, DeferredFuture, TimeoutCancellation, SocketHttpServer, WebsocketClientHandler, or Worker\\Task. Also use when the user wants to replace blocking PHP (curl_exec, file_get_contents, PDO, sleep) with AMPHP async equivalents, build a non-blocking PHP HTTP or WebSocket server, run concurrent PHP I/O without pcntl, or debug Revolt event-loop behavior — even if they don't say \"amphp\" explicitly but the context clearly points to this ecosystem.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rekryt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rekryt/amphp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rekryt/amphp"
+}

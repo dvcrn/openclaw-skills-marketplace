@@ -1,0 +1,10 @@
+{
+  "name": "nathancjackson--task-decomp",
+  "description": "Plan, track, and learn from complex multi-step tasks. Decomposes requests into dependency-aware subtasks with parallel execution, progress tracking, and a learning loop that improves future plans from past outcomes. Use when: (1) A request involves 3+ steps with dependencies, (2) Work spans multiple tools or sub-agents, (3) User says 'plan this out', 'break this down', or 'how should we approach this', (4) Managing a project, workflow, or multi-phase build, (5) Coordinating parallel workstreams. Improves over time — completed plans feed back into planning intelligence. NOT for: simple one-shot requests, single tool calls, or conversational exchanges.",
+  "version": "2.0.0",
+  "author": {
+    "name": "nathancjackson"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nathancjackson/task-decomp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nathancjackson/task-decomp"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "amandaclarke61--toybridge",
+  "description": "Control any BLE toy that has been reverse-engineered and connected via the ToyBridge server. Calls a local HTTP API to send vibrate/stop commands. Requires the ToyBridge server running on the same machine.",
+  "version": "1.0.0",
+  "author": {
+    "name": "amandaclarke61"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/amandaclarke61/toybridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/amandaclarke61/toybridge"
+}

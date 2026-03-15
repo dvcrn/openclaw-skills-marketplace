@@ -1,0 +1,10 @@
+{
+  "name": "steipete--openai-whisper",
+  "description": "Local speech-to-text with the Whisper CLI (no API key).",
+  "version": "1.0.0",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "https://openai.com/research/whisper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/openai-whisper"
+}

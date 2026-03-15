@@ -1,0 +1,10 @@
+{
+  "name": "proxybase-user--proxybase-openclaw-skill",
+  "description": "Purchase and manage SOCKS5 residential proxies via ProxyBase API with cryptocurrency payments. Supports order creation, payment polling, proxy delivery, bandwidth monitoring, IP rotation, and top-ups.",
+  "version": "1.0.11",
+  "author": {
+    "name": "proxybase-user"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/proxybase-user/proxybase-openclaw-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/proxybase-user/proxybase-openclaw-skill"
+}

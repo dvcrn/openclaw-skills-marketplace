@@ -1,0 +1,10 @@
+{
+  "name": "jk-0001--sop-generator",
+  "description": "Turn messy recordings, transcripts, voice notes, or brain dumps into clean, team-ready Standard Operating Procedures (SOPs). Use when you have Loom videos, meeting transcripts, rough notes, or verbal walkthroughs that need to become documented processes. Covers SOP structure, extraction from various input types, quality checklist, and automation strategies. Trigger on \"create SOP\", \"turn this into an SOP\", \"document this process\", \"make this team-ready\", \"convert transcript to SOP\", \"write a procedure\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "jk-0001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jk-0001/sop-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jk-0001/sop-generator"
+}

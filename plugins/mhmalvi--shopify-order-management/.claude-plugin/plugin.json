@@ -1,0 +1,10 @@
+{
+  "name": "mhmalvi--shopify-order-management",
+  "description": "Shopify order lifecycle management with new order handling, status sync, low-stock alerts, abandoned cart recovery, and daily sales reports. 5 production-ready n8n workflows with Google Sheets tracking and Shopify Admin API integration.",
+  "version": "1.0.2",
+  "author": {
+    "name": "mhmalvi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mhmalvi/shopify-order-management",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mhmalvi/shopify-order-management"
+}

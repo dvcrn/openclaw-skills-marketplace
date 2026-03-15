@@ -1,0 +1,10 @@
+{
+  "name": "quarantiine--prompt-inject-removal",
+  "description": "A secure sanitization system to strip instructions from external content.",
+  "version": "1.0.1",
+  "author": {
+    "name": "quarantiine"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/quarantiine/prompt-inject-removal",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/quarantiine/prompt-inject-removal"
+}

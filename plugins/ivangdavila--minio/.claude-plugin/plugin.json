@@ -1,0 +1,10 @@
+{
+  "name": "ivangdavila--minio",
+  "description": "Deploy, secure, and operate MinIO object storage using mc workflows, policy controls, replication, and incident-safe runbooks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ivangdavila"
+  },
+  "homepage": "https://clawic.com/skills/minio",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/minio"
+}

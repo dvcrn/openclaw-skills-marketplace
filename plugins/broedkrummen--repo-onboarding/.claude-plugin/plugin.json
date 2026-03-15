@@ -1,0 +1,10 @@
+{
+  "name": "broedkrummen--repo-onboarding",
+  "description": "Onboard a coding repository with both technical architecture intake and execution governance. Use when starting in a new/existing repo and you need: (1) architecture snapshot + dependency analysis, (2) run/build/test bootstrap map, and (3) ROADMAP + feature KANBAN workflow setup for multi-agent execution.",
+  "version": "0.1.0",
+  "author": {
+    "name": "broedkrummen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/broedkrummen/repo-onboarding",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/broedkrummen/repo-onboarding"
+}

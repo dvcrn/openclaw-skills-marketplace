@@ -1,0 +1,10 @@
+{
+  "name": "fabiantaboo--jmail",
+  "description": "Search and analyze the Jeffrey Epstein email archive (1.78M emails, 4,500+ iMessages, 18K photos, 1.4M documents, 473 identified people) via jmail.world's official Data API. DuckDB/Parquet queries, Web Search API, and file downloads. No auth needed.",
+  "version": "1.6.5",
+  "author": {
+    "name": "fabiantaboo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fabiantaboo/jmail",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fabiantaboo/jmail"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mlegls--nla-create",
+  "description": "Create a Natural Language Agreement escrow on-chain. Use when the user wants to lock ERC20 tokens in an escrow with a natural language demand that an AI oracle will arbitrate. Handles demand crafting, parameter gathering, and CLI execution.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mlegls"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mlegls/nla-create",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mlegls/nla-create"
+}

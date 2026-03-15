@@ -1,0 +1,10 @@
+{
+  "name": "k4ditano--notnative",
+  "description": "Use Notnative MCP server for complete AI assistant integration with notes, calendar, tasks, Python, canvas, and permanent memory. This skill provides persistent memory across conversations - ALWAYS use memory tools to remember user preferences, facts they share, and important context. Connects via WebSocket to local or remote Notnative instance.",
+  "version": "1.0.1",
+  "author": {
+    "name": "k4ditano"
+  },
+  "homepage": "https://github.com/k4ditano/notnative-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/k4ditano/notnative"
+}

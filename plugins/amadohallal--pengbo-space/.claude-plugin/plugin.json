@@ -1,0 +1,10 @@
+{
+  "name": "amadohallal--pengbo-space",
+  "description": "通过 pengbo.space 的 SMM API 查询服务、筛选服务 ID、提交订单、查询订单状态、发起补单和检查余额。适用于需要安全调用 pengbo.space/api/v1 的自动化任务。对写操作默认要求显式确认。",
+  "version": "1.1.1-beta.1",
+  "author": {
+    "name": "amadohallal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/amadohallal/pengbo-space",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/amadohallal/pengbo-space"
+}

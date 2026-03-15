@@ -1,0 +1,10 @@
+{
+  "name": "danielithomas--officeclaw",
+  "description": "Connect to personal Microsoft accounts via Microsoft Graph API to manage email, calendar events, and tasks. Use this skill when the user needs to read/write Outlook mail, manage calendar appointments, or handle Microsoft To Do tasks.",
+  "version": "1.0.3",
+  "author": {
+    "name": "danielithomas"
+  },
+  "homepage": "https://github.com/danielithomas/officeclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danielithomas/officeclaw"
+}

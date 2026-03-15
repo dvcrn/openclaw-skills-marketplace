@@ -1,0 +1,10 @@
+{
+  "name": "lastandy--bracket-oracle",
+  "description": "NCAA March Madness basketball tournament bracket generator. Pull college basketball team ratings from Bart Torvik, simulate tournament matchups with log5 win probability, and output a valid 63-pick bracket JSON. Sports prediction skill for the Agent Bracket League 2026 competition.",
+  "version": "1.0.1",
+  "author": {
+    "name": "lastandy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lastandy/bracket-oracle",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lastandy/bracket-oracle"
+}

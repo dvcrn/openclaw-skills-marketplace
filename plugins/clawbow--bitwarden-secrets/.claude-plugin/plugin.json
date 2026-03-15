@@ -1,0 +1,10 @@
+{
+  "name": "clawbow--bitwarden-secrets",
+  "description": "Safely access Bitwarden or Vaultwarden secrets via the bw CLI with redacted outputs by default. Use for vault sync, item search, metadata retrieval, and (only with explicit confirmation) revealing a single secret field.",
+  "version": "1.0.0",
+  "author": {
+    "name": "clawbow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clawbow/bitwarden-secrets",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clawbow/bitwarden-secrets"
+}

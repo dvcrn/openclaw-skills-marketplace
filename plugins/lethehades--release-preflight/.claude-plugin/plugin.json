@@ -1,0 +1,10 @@
+{
+  "name": "lethehades--release-preflight",
+  "description": "Pre-release safety and scope checker for skills, repos, and export bundles. Use before publishing or sharing a skill folder, repository, or release bundle when you need to detect private artifacts, overscoped publish surfaces, local identity leakage, missing release basics, and export-safety risks before something becomes public.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lethehades"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lethehades/release-preflight",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lethehades/release-preflight"
+}

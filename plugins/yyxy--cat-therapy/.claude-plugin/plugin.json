@@ -1,0 +1,10 @@
+{
+  "name": "yyxy--cat-therapy",
+  "description": "跨平台治愈系撸猫技能。当用户说\"休息一下\"、\"累了\"、\"tired\"、\"need a break\"等触发词时，自动发送可爱猫咪图片 + 猫叫声（TTS 音频 + 文字双保险）+ 治愈语录。支持用户上传自定义猫咪图片和叫声，支持 QQ/微信/钉钉/飞书/Discord/Telegram/WhatsApp 等多平台，支持中英文多语言，自动降级确保送达。适用于全球用户的减压放松场景。",
+  "version": "1.0.1",
+  "author": {
+    "name": "yyxy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yyxy/cat-therapy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yyxy/cat-therapy"
+}

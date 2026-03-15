@@ -1,0 +1,10 @@
+{
+  "name": "chinasong--gougoubi-create-prediction",
+  "description": "Create public prediction proposals on Gougoubi with deterministic validation, approval, and transaction submission. Use when creating/publishing prediction markets from structured input.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chinasong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chinasong/gougoubi-create-prediction",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chinasong/gougoubi-create-prediction"
+}

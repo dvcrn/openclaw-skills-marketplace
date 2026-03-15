@@ -1,0 +1,10 @@
+{
+  "name": "chunhualiao--skill-engineer",
+  "description": "Design, test, review, and maintain agent skills for OpenClaw systems using multi-agent iterative refinement. Orchestrates Designer, Reviewer, and Tester subagents for quality-gated skill development. Use when user asks to \"design skill\", \"review skill\", \"test skill\", \"audit skills\", \"refactor skill\", or mentions \"agent kit quality\".",
+  "version": "3.2.0",
+  "author": {
+    "name": "chunhualiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/skill-engineer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/skill-engineer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "avirweb--openclaw-json-editing",
+  "description": "Advanced JSON editing for OpenClaw configuration files, tools, and data structures. Handles JSON5 configs, schema validation, merge patching, env var substitution, and type-safe modifications.",
+  "version": "1.0.0",
+  "author": {
+    "name": "avirweb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/avirweb/openclaw-json-editing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/avirweb/openclaw-json-editing"
+}

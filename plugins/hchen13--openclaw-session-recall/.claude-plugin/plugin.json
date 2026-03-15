@@ -1,0 +1,10 @@
+{
+  "name": "hchen13--openclaw-session-recall",
+  "description": "Search past session transcripts to recover lost conversation context. MUST use when: (1) the current session is new or has very few messages AND the user's message assumes shared context you don't have (they reference people, events, decisions, or topics not present in your current context), (2) user explicitly refers to a previous conversation ('continue where we left off', 'as we discussed', 'remember when...'), (3) you need to find a specific past discussion by keyword or time range. Key signal: if you find yourself about to reply 'I don't have context' or 'which topic are you referring to' — use this skill FIRST before asking the user to repeat themselves.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hchen13"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hchen13/openclaw-session-recall",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hchen13/openclaw-session-recall"
+}

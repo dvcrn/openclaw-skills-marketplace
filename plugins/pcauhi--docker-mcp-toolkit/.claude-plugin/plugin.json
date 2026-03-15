@@ -1,0 +1,10 @@
+{
+  "name": "pcauhi--docker-mcp-toolkit",
+  "description": "Control and use an MCP Toolkit running in Docker. Use when setting up Docker MCP Toolkit (docker compose up/down), checking status/logs, configuring environment variables/secrets, listing available MCP tools/servers, or invoking MCP tools (typically via a local HTTP endpoint) to connect OpenClaw workflows to external systems like Postgres/Neon.",
+  "version": "0.1.1",
+  "author": {
+    "name": "pcauhi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pcauhi/docker-mcp-toolkit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pcauhi/docker-mcp-toolkit"
+}

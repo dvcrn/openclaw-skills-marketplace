@@ -1,0 +1,10 @@
+{
+  "name": "aaronchartier--inkjet",
+  "description": "Print text, images, and QR codes to a cheap wireless Bluetooth thermal printer from a MacOS device. Use `inkjet print` for output, `inkjet scan` to discover printers.",
+  "version": "1.0.2",
+  "author": {
+    "name": "aaronchartier"
+  },
+  "homepage": "https://pypi.org/project/inkjet/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaronchartier/inkjet"
+}

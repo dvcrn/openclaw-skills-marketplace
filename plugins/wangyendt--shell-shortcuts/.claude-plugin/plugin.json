@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--shell-shortcuts",
+  "description": "Configure cross-platform terminal shortcut commands on a new machine, including proxy_on/proxy_off (env vars + git global proxy), goto (persistent path jump shortcuts), gpu (nvidia-smi helper), and optional Conda auto-activation. Use when setting up Windows PowerShell Profile / CMD AutoRun, or adding functions to macOS/Linux shell rc files.",
+  "version": "0.1.1",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/shell-shortcuts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/shell-shortcuts"
+}

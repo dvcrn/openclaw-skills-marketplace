@@ -1,0 +1,10 @@
+{
+  "name": "evanydl--tavily-websearch",
+  "description": "Search the web using Tavily's Search API. Returns relevant, accurate results with content snippets, scores, and metadata. Use when the user asks to search the web, look up sources, find links, or research a topic.",
+  "version": "4.2.0",
+  "author": {
+    "name": "evanydl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/evanydl/tavily-websearch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/evanydl/tavily-websearch"
+}

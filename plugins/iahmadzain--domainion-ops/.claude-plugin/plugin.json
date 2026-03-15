@@ -1,0 +1,10 @@
+{
+  "name": "iahmadzain--domainion-ops",
+  "description": "Domain and DNS operations across name.com (default), GoDaddy, and Namecheap. Use for registering domains, flipping nameservers, managing DNS records (A, AAAA, CNAME, MX, TXT, NS, SRV), setting up redirects, checking domain availability, renewals, transfers, and verifying DNS propagation. Default provider is name.com unless the user selects GoDaddy or Namecheap. Triggers on: \"register domain\", \"add DNS record\", \"change nameservers\", \"check domain availability\", \"transfer domain\", \"renew domain\", \"set up redirect\", \"DNS propagation check\", \"update MX record\", \"point domain to\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "iahmadzain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iahmadzain/domainion-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iahmadzain/domainion-ops"
+}

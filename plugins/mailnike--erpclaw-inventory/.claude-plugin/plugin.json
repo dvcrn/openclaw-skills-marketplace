@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--erpclaw-inventory",
+  "description": "Inventory management -- items, warehouses, stock entries, batches, serial numbers, pricing, stock reconciliation, and stock reporting for ERPClaw ERP",
+  "version": "1.0.1",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.erpclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/erpclaw-inventory"
+}

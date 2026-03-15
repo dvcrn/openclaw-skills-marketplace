@@ -1,0 +1,10 @@
+{
+  "name": "cinience--volcengine-observability-cls",
+  "description": "Log query and troubleshooting workflows with Volcengine CLS. Use when users need error analysis, time-range queries, aggregation dashboards, or incident diagnostics.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/volcengine-observability-cls",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/volcengine-observability-cls"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "shengbinxu--stock-monitor",
+  "description": "股票价格实时监控。支持多只股票监控，使用 Yahoo Finance API 获取实时股价，自定义涨跌阈值提醒。当股价波动超过设定阈值时自动发送提醒，支持首次预警和续警机制。用于：(1) 监控持仓股票价格波动 (2) 设置价格提醒 (3) 定期检查股价变化",
+  "version": "1.3.0",
+  "author": {
+    "name": "shengbinxu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shengbinxu/stock-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shengbinxu/stock-monitor"
+}

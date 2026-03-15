@@ -1,0 +1,10 @@
+{
+  "name": "vision-qiu--feishu-at-mention",
+  "description": "飞书消息@提及功能。当需要在飞书消息中@群成员时使用此技能。支持三种消息类型：(1) 普通文本消息使用 at user_id 标签格式；(2) 富文本消息使用 JSON 对象格式的 tag at 元素；(3) 卡片消息使用 at id 标签格式。根据消息类型选择正确的@标签格式，确保触发飞书的@通知效果。",
+  "version": "0.0.2",
+  "author": {
+    "name": "vision-qiu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vision-qiu/feishu-at-mention",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vision-qiu/feishu-at-mention"
+}

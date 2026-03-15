@@ -1,0 +1,10 @@
+{
+  "name": "sjingh--easyclaw-brain-migration",
+  "description": "Migrate EasyClaw workspace-level behavior into a new OpenClaw workspace by locating and comparing old EasyClaw brain files such as AGENTS.md, SOUL.md, MEMORY.md, HEARTBEAT.md, memory/, launchd/context-management docs, then staging or importing them with backups. Use when a user wants to copy EasyClaw principles, memories, heartbeat logic, context-management setup, or other non-JSON core system behavior into the current OpenClaw workspace.",
+  "version": "0.1.0",
+  "author": {
+    "name": "sjingh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sjingh/easyclaw-brain-migration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sjingh/easyclaw-brain-migration"
+}

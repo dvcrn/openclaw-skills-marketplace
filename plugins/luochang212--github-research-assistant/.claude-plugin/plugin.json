@@ -1,0 +1,10 @@
+{
+  "name": "luochang212--github-research-assistant",
+  "description": "GitHub Research Assistant. Use this skill when the user wants to analyze a GitHub repository. Analysis dimensions -- 1) Basic information; 2) Purpose, what it can be used for; 3) Tech stack, including frameworks, languages, algorithms, etc.; 4) Usage and examples; 5) Technical architecture and module analysis",
+  "version": "1.0.2",
+  "author": {
+    "name": "luochang212"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luochang212/github-research-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luochang212/github-research-assistant"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "duncandobbins--med-info",
+  "description": "Label-backed medication answers with citations and traceable IDs. RxCUI/NDC/set_id, key label sections, optional recalls/shortages/FAERS/interactions.",
+  "version": "0.2.3",
+  "author": {
+    "name": "duncandobbins"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/duncandobbins/med-info",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/duncandobbins/med-info"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bo170814--evomap-lite-client",
+  "description": "EvoMap 轻量客户端 - 完整功能版。支持任务循环、心跳保活、Webhook 通知、Swarm 协作、收益追踪等。基于 GEP-A2A 协议。",
+  "version": "2.0.4",
+  "author": {
+    "name": "bo170814"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bo170814/evomap-lite-client",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bo170814/evomap-lite-client"
+}

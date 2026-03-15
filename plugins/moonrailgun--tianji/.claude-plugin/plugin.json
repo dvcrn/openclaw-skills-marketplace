@@ -1,0 +1,10 @@
+{
+  "name": "moonrailgun--tianji",
+  "description": "Query website analytics, monitor uptime, survey results, telemetry data, feed events, application stats, and more from the Tianji platform via its read-only OpenAPI (69 GET endpoints across 14 service domains). Use when the user asks about website traffic, pageviews, monitor status, survey feedback, telemetry events, feed channels, billing usage, or any Tianji platform data.",
+  "version": "1.0.1",
+  "author": {
+    "name": "moonrailgun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moonrailgun/tianji",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moonrailgun/tianji"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "asoiso--aibrary-foryou-topic",
+  "description": "[Aibrary] Generate personalized 'For You' book topic recommendations based on the user's profile, interests, career stage, and recent learning activity. Use when the user wants personalized topic suggestions, asks 'what should I learn today', wants a curated feed of book-based topics, or needs inspiration for their next area of exploration. Proactively suggest this when the user seems undecided about what to read or learn next.",
+  "version": "0.1.0",
+  "author": {
+    "name": "asoiso"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/asoiso/aibrary-foryou-topic",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/asoiso/aibrary-foryou-topic"
+}

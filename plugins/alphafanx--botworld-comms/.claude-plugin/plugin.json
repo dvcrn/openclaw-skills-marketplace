@@ -1,0 +1,10 @@
+{
+  "name": "alphafanx--botworld-comms",
+  "description": "Real-time pub/sub event bus for AI agents. Subscribe, publish, and coordinate via WebSocket channels. claw.events compatible.",
+  "version": "1.0.1",
+  "author": {
+    "name": "alphafanx"
+  },
+  "homepage": "https://botworld.me",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alphafanx/botworld-comms"
+}

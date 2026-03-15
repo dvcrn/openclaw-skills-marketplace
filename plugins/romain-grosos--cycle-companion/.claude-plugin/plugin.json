@@ -1,0 +1,10 @@
+{
+  "name": "romain-grosos--cycle-companion",
+  "description": "Menstrual cycle tracker designed for partners. Calculates current phase from one input (last period date), provides factual phase info (hormones, energy, mood, fertility), practical tips on what to bring or do, and schedules automatic cron notifications before each phase transition. Use when: user asks to set up cycle tracking, query current phase, check fertility window, update partner last period date, schedule phase-change alerts, or get advice based on cycle phase. Supports FR/EN. Config: cycle_length, luteal_length, menstruation_days, pms_days, notification_time are user-configurable. Includes fertility window tracking (informational, not medical/contraceptive advice).",
+  "version": "1.0.0",
+  "author": {
+    "name": "romain-grosos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/romain-grosos/cycle-companion",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romain-grosos/cycle-companion"
+}

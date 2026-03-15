@@ -1,0 +1,10 @@
+{
+  "name": "satoshistackalotto--analytics-and-advisory-intelligence",
+  "description": "Cross-client analytics for Greek accounting firms. Surfaces trends, anomalies, and risks across financial data. Read-only, outputs to /data/reports/.",
+  "version": "0.1.0",
+  "author": {
+    "name": "satoshistackalotto"
+  },
+  "homepage": "https://github.com/satoshistackalotto/openclaw-greek-accounting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/analytics-and-advisory-intelligence"
+}

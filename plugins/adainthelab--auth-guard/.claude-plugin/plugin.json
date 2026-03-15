@@ -1,0 +1,10 @@
+{
+  "name": "adainthelab--auth-guard",
+  "description": "Standardize API credential handling and startup auth checks to prevent \"missing key\" regressions across sessions. Use when an agent repeatedly loses auth state, gets intermittent 401/403 errors after restarts, relies on ad-hoc curl calls, or needs a reusable auth-first pattern for HEARTBEAT.md/AGENTS.md and helper scripts.",
+  "version": "1.1.1",
+  "author": {
+    "name": "adainthelab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adainthelab/auth-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adainthelab/auth-guard"
+}

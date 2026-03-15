@@ -1,0 +1,10 @@
+{
+  "name": "xutianliang77-create--openclaw-reportstudio-community",
+  "description": "Generate polished, read-only business reports from CSV/XLSX into static deliverables (xlsx+pdf+pptx) using ReportStudio Community. Use when a user says things like “用这个表生成月报/周报/经营分析/PPT+PDF汇报材料”, provides a file path, asks for trends (day/week/month), TopN breakdowns by a dimension/metric, or wants professional exports without hallucinated claims.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xutianliang77-create"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xutianliang77-create/openclaw-reportstudio-community",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xutianliang77-create/openclaw-reportstudio-community"
+}

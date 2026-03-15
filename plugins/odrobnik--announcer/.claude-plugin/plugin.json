@@ -1,0 +1,10 @@
+{
+  "name": "odrobnik--announcer",
+  "description": "Announce text throughout the house via AirPlay speakers using Airfoil + ElevenLabs TTS.",
+  "version": "1.2.3",
+  "author": {
+    "name": "odrobnik"
+  },
+  "homepage": "https://github.com/odrobnik/announcer-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/announcer"
+}

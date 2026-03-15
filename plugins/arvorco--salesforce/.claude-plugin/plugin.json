@@ -1,0 +1,10 @@
+{
+  "name": "arvorco--salesforce",
+  "description": "Query and manage Salesforce CRM data via the Salesforce CLI (`sf`). Run SOQL/SOSL queries, inspect object schemas, create/update/delete records, bulk import/export, execute Apex, deploy metadata, and make raw REST API calls.",
+  "version": "1.0.0",
+  "author": {
+    "name": "arvorco"
+  },
+  "homepage": "https://developer.salesforce.com/tools/salesforcecli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arvorco/salesforce"
+}

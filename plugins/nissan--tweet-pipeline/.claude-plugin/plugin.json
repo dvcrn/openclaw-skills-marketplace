@@ -1,0 +1,10 @@
+{
+  "name": "nissan--tweet-pipeline",
+  "description": "Notion-to-Twitter automation — pull approved tweets from a Notion database, schedule one-shot crons for exact post times, and post via X/Twitter OAuth2 API. Use when managing a content calendar in Notion and want automated, precisely-timed tweet posting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/tweet-pipeline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/tweet-pipeline"
+}

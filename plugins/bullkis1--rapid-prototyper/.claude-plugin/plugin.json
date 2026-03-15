@@ -1,0 +1,10 @@
+{
+  "name": "bullkis1--rapid-prototyper",
+  "description": "Ultra-fast proof-of-concept and MVP development. Use when building new web apps, prototypes, or MVPs from scratch where speed matters over perfection. Specializes in the canonical fast-stack: Next.js 14 + Supabase + Clerk + shadcn/ui + Prisma. Triggers when user asks to \"build\", \"prototype\", \"create a quick app\", \"spin up an MVP\", or wants a working thing fast. NOT for small one-liner fixes or edits to existing codebases.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bullkis1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bullkis1/rapid-prototyper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bullkis1/rapid-prototyper"
+}

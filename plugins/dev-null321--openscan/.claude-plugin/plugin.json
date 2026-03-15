@@ -1,0 +1,10 @@
+{
+  "name": "dev-null321--openscan",
+  "description": "Scan binaries and scripts for malicious patterns before trusting them. Use when installing skills, evaluating unknown binaries, or auditing tool dependencies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dev-null321"
+  },
+  "homepage": "https://github.com/marqbritt/openscan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dev-null321/openscan"
+}

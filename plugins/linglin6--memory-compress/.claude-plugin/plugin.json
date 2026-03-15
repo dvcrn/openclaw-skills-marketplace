@@ -1,0 +1,10 @@
+{
+  "name": "linglin6--memory-compress",
+  "description": "Never let your agent forget what matters. Compress verbose daily logs into structured summaries — 4-8x compression, zero information loss. Inspired by classical Chinese writing: strip redundancy, keep turning points, let structure carry meaning. Smart hybrid extraction finds key events, lessons, decisions and todos from any markdown format. No API keys, no vector DB, no dependencies. Just run it. Works with any OpenClaw agent, Cursor, Claude Code, or any markdown-based memory system.",
+  "version": "1.2.1",
+  "author": {
+    "name": "linglin6"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/linglin6/memory-compress",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/linglin6/memory-compress"
+}

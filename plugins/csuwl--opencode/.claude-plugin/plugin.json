@@ -1,0 +1,10 @@
+{
+  "name": "csuwl--opencode",
+  "description": "OpenCode AI - AI-driven code editor/IDE (CLI/TUI version of Cursor/Windsurf). Use when: (1) AI-assisted coding tasks, (2) Code refactoring with AI, (3) GitHub PR review/fixes, (4) Multi-file edits requiring context, (5) Running AI agents on codebases. NOT for: simple one-line edits (use edit tool), reading files (use read tool).",
+  "version": "1.1.0",
+  "author": {
+    "name": "csuwl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/csuwl/opencode",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/csuwl/opencode"
+}

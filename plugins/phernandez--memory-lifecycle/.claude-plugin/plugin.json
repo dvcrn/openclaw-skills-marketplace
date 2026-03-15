@@ -1,0 +1,10 @@
+{
+  "name": "phernandez--memory-lifecycle",
+  "description": "Manage entity status transitions in Basic Memory: archive completed work, move notes between status folders, update frontmatter, and handle edge cases. Use when marking items complete, archiving old entities, or managing any folder-based status workflow.",
+  "version": "0.1.1",
+  "author": {
+    "name": "phernandez"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phernandez/memory-lifecycle",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phernandez/memory-lifecycle"
+}

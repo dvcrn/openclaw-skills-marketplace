@@ -1,0 +1,10 @@
+{
+  "name": "chrisbdz--kimi-search",
+  "description": "使用 Moonshot Kimi API 的 $web_search 内置工具进行联网搜索。当需要进行网络搜索获取实时信息时使用，支持中文和英文搜索查询。需要配置 MOONSHOT_API_KEY。",
+  "version": "1.0.1",
+  "author": {
+    "name": "chrisbdz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chrisbdz/kimi-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chrisbdz/kimi-search"
+}

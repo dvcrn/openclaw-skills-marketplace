@@ -1,0 +1,10 @@
+{
+  "name": "ricardotrevisan--garmin-tracker",
+  "description": "Rebuild and maintain garmin_tracking.json from Garmin web data (activities + training plan) with a fixed schema from 2026-02-01.",
+  "version": "1.0.2",
+  "author": {
+    "name": "ricardotrevisan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ricardotrevisan/garmin-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ricardotrevisan/garmin-tracker"
+}

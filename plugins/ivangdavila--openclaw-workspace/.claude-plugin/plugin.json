@@ -1,0 +1,10 @@
+{
+  "name": "ivangdavila--openclaw-workspace",
+  "description": "Audit and improve OpenClaw workspaces across SOUL, AGENTS, TOOLS, USER, MEMORY, and skills for persona tuning, proactive behavior, recall, and workflow fit. Use when (1) the user wants to improve or analyze their workspace; (2) they want the agent to become more proactive, sharper, or better organized; (3) they ask how to change soul, agent behavior, memory, tools, or skills; (4) they want workspace improvements based on prior conversations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ivangdavila"
+  },
+  "homepage": "https://clawic.com/skills/openclaw-workspace",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/openclaw-workspace"
+}

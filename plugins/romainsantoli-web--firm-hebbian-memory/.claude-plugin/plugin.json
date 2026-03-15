@@ -1,0 +1,10 @@
+{
+  "name": "romainsantoli-web--firm-hebbian-memory",
+  "description": "Système de mémoire adaptative hebbienne pour Claude.md — transforme les logs de sessions en patterns pondérés qui renforcent ou atrophient les règles de travail selon l'usage réel. Implémente le Cahier des Charges v1.0.0 \"Système de Mémoire Adaptative Hebbienne + Base Vectorielle pour Claude.md\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "romainsantoli-web"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-hebbian-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-hebbian-memory"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "syf8888--flights-search-plus",
+  "description": "Flight price search. Trigger this skill immediately when the user asks about flights, airfare, ticket prices, cheapest dates, price calendars, departure times, or one-way/round-trip options. Supports both Chinese and English input, automatically converts city names to IATA airport codes, and handles one-way, round-trip, and price calendar (multi-date comparison) queries. Also trigger when the user says something like \"I want to go to XX\" and mentions flying.",
+  "version": "1.1.1",
+  "author": {
+    "name": "syf8888"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/syf8888/flights-search-plus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/syf8888/flights-search-plus"
+}

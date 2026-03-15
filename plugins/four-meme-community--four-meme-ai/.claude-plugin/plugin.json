@@ -1,0 +1,10 @@
+{
+  "name": "four-meme-community--four-meme-ai",
+  "description": "CLI tool for creating and trading meme tokens on Four.Meme (BSC), with structured JSON outputs for config, token details, pricing quotes, on-chain events, and TaxToken fee configuration.",
+  "version": "1.0.7",
+  "author": {
+    "name": "four-meme-community"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/four-meme-community/four-meme-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/four-meme-community/four-meme-ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "javainthinking--apipick-email-checker",
+  "description": "Validate email addresses using the apipick Email Validator API. Performs syntax checking, MX record verification, and disposable/throwaway email detection. Use when the user wants to verify an email address, check if an email domain exists and can receive mail, detect disposable or temporary emails, or validate email format. Requires an apipick API key (x-api-key). Get a free key at https://www.apipick.com.",
+  "version": "1.0.0",
+  "author": {
+    "name": "javainthinking"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/javainthinking/apipick-email-checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/javainthinking/apipick-email-checker"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "j0ker98--mmag",
+  "description": "Mixed Memory-Augmented Generation (MMAG) for AI agents. Five cognitive memory layers — conversational, long-term user, episodic, sensory, and short-term working — coordinated into a unified LLM context. Use when you need agents that remember across sessions, personalize responses, track events, and adapt to environmental context.",
+  "version": "1.0.6",
+  "author": {
+    "name": "j0ker98"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/j0ker98/mmag",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/j0ker98/mmag"
+}

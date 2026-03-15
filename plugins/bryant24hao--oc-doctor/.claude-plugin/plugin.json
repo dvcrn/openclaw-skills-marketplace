@@ -1,0 +1,10 @@
+{
+  "name": "bryant24hao--oc-doctor",
+  "description": "Runs a comprehensive 11-section health check on local OpenClaw installations. Diagnoses configuration errors, session bloat, model drift, cron issues, security misconfigurations, gateway problems, and system instruction token budget. Generates a structured report with CRITICAL/WARNING/INFO findings and offers interactive one-click fixes. Use when: \"openclaw doctor\", \"claw doctor\", \"claw health check\", \"openclaw diagnose\", or troubleshooting OpenClaw.",
+  "version": "1.1.0",
+  "author": {
+    "name": "bryant24hao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bryant24hao/oc-doctor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bryant24hao/oc-doctor"
+}

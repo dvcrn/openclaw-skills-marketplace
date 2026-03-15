@@ -1,0 +1,19 @@
+{
+  "id": "skill-router",
+  "name": "Dynamic Skill Router",
+  "description": "Replaces static full-skill injection with semantic retrieval — injects only the top 10 relevant skills per turn based on user message embedding. 95% token savings.",
+  "version": "1.0.0",
+  "kind": "hook",
+  "events": ["before_agent_start"],
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "enabled": { "type": "boolean", "description": "Enable dynamic skill routing" },
+      "topK": { "type": "integer", "minimum": 1, "default": 10, "description": "Max skills to inject per turn" },
+      "useVoyage": { "type": "boolean", "description": "Use Voyage embeddings for retrieval (default: true, falls back to BM25)" },
+      "skipSubagents": { "type": "boolean", "description": "Skip subagent sessions (default: true)" },
+      "indexPath": { "type": "string", "description": "Path to skill index SQLite DB (default: ~/.openclaw/skill_router/index.db)" }
+    }
+  }
+}

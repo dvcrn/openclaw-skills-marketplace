@@ -1,0 +1,10 @@
+{
+  "name": "giulianomorse--ethnoai",
+  "description": "An embedded UX research skill that deeply studies how users interact with OpenClaw through passive ethnographic observation, structured micro-surveys, and retrospective task analysis. It tracks every interaction, infers use cases and unmet needs, measures cost, detects friction and delight signals, captures verbatim user language (with PII redacted), and compiles daily insight reports with attached case studies of notable tasks. Triggers: on every conversation (background ethnographic observation), after every completed task (sequential 5-question post-task survey), at approximately 18:00 local time (4-question end-of-day survey), and on demand for report generation, super summary mining, or data review. Privacy model: All data stays local. PII is redacted before storage. Nothing is transmitted externally without explicit user permission. The user controls their data at all times.",
+  "version": "1.0.0",
+  "author": {
+    "name": "giulianomorse"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/giulianomorse/ethnoai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/giulianomorse/ethnoai"
+}

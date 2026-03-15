@@ -1,0 +1,10 @@
+{
+  "name": "rachitsharma123--life-control",
+  "description": "Orchestrate the Life Control CLI skill for OpenClaw agent fleets: initialize the Life Control database, register agent personas, wire Telegram bots, and run daily routines (Morning Alignment, Body Protocol, Financial Pulse, Social Radar, Work Priming, Shutdown). Use when a user asks to create or run a Life Control system, OpenClaw skill integration, or agent persona automation for personal life tracking.",
+  "version": "0.1.0",
+  "author": {
+    "name": "rachitsharma123"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rachitsharma123/life-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rachitsharma123/life-control"
+}

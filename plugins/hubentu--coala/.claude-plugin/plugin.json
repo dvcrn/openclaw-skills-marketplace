@@ -1,0 +1,10 @@
+{
+  "name": "hubentu--coala",
+  "description": "How to use the coala-client CLI for chat with LLMs, MCP servers, and skills. Use when the user asks how to use coala, run coala chat, add MCP servers, import CWL toolsets, list or call MCP tools, or import or load skills.",
+  "version": "0.1.2",
+  "author": {
+    "name": "hubentu"
+  },
+  "homepage": "https://github.com/coala-info/coala_client",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hubentu/coala"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "edxi--miniade-dispatch",
+  "description": "Launch non-blocking Claude Code headless tasks from slash command dispatch. Use when user requests async coding jobs and does not require slash-only Claude plugins.",
+  "version": "0.1.1",
+  "author": {
+    "name": "edxi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/edxi/miniade-dispatch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/edxi/miniade-dispatch"
+}

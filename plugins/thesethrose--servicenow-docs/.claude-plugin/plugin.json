@@ -1,0 +1,10 @@
+{
+  "name": "thesethrose--servicenow-docs",
+  "description": "Search and retrieve ServiceNow documentation, release notes, and developer docs (APIs, references, guides). Uses docs.servicenow.com via Zoomin and developer.servicenow.com APIs for developer topics.",
+  "version": "1.1.0",
+  "author": {
+    "name": "thesethrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thesethrose/servicenow-docs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thesethrose/servicenow-docs"
+}

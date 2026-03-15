@@ -1,0 +1,10 @@
+{
+  "name": "shifulegend--qa-architecture-auditor",
+  "description": "Perform forensic-level codebase analysis and generate comprehensive Quality Assurance and Testing Strategy Reports. Acts as Independent Principal QA Architect, Senior Software Security Auditor, and IT Systems Auditor. Uses zero-trust policy (ignores existing tests) and addresses all testing methodologies: Black Box, White Box, Manual, Automated, Unit, Integration, System, Functional, Smoke, Sanity, E2E, Regression, API, Database Integrity, Performance, Security, Usability, Compatibility, Accessibility, Localization, Acceptance, and Exploratory Testing. Use when needing a complete, independent testing strategy from scratch for any code repository.",
+  "version": "1.1.0",
+  "author": {
+    "name": "shifulegend"
+  },
+  "homepage": "https://github.com/shifulegend/qa-architecture-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shifulegend/qa-architecture-auditor"
+}

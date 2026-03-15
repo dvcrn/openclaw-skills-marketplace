@@ -1,0 +1,63 @@
+repository:
+  # Caminho local onde os snapshots restic serão armazenados.
+  # Pode ser um path local, S3, SFTP, etc. (qualquer backend suportado pelo restic)
+  # Exemplo local: /var/backups/quick-backup-restore
+  # Exemplo S3:    s3:s3.amazonaws.com/meu-bucket/quick-backup-restore
+  path: /var/backups/quick-backup-restore
+
+  # Arquivo com a senha de criptografia do repositório restic (AES-256).
+  # Criado automaticamente pelo setup.sh com uma senha aleatória de 64 chars.
+  # NUNCA commite este arquivo. Faça backup dele separadamente.
+  password_file: /etc/quick-backup-restore.pass
+
+retention:
+  # Quantos snapshots manter. Com cron a cada hora: 72 = 3 dias.
+  # Ajuste para mais ou menos dependendo do espaço disponível.
+  keep_last: 72
+
+schedule:
+  # Expressão cron para o backup automático.
+  # Padrão: todo :05 da hora (5 * * * *)
+  # Para backup a cada 30 min: */30 * * * *
+  # Para backup diário à meia-noite: 0 0 * * *
+  cron: "5 * * * *"
+
+backup:
+  # Caminhos a incluir no backup. Ajuste conforme sua instalação do OpenClaw.
+  # O padrão cobre o contexto completo de um agente principal (main).
+  paths:
+    - /root/.openclaw/workspace        # memória, skills, SOUL.md, USER.md, etc.
+    - /root/.openclaw/agents/main/sessions  # histórico de sessões (JSONL)
+    - /root/.openclaw/openclaw.json    # config principal do gateway
+    - /root/.openclaw/cron             # jobs agendados
+
+  # Padrões glob a excluir dentro dos paths acima.
+  exclude:
+    - "*.bak"           # backups temporários
+    - "*.reset"         # arquivos de reset de sessão
+    - "*.tmp"           # arquivos temporários
+    - "__pycache__"     # cache Python
+    - ".git"            # repositórios git (já versionados separadamente)
+
+notifications:
+  telegram:
+    # Ativar notificação Telegram apenas em caso de falha.
+    # Se disabled, erros são registrados apenas no log.
+    enabled: false
+
+    # Token do bot Telegram. Obtenha em @BotFather.
+    # Exemplo: 1234567890:AAHxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    bot_token: ""
+
+    # ID do chat ou usuário que receberá as notificações.
+    # Para obter o seu: envie /start para @userinfobot no Telegram.
+    # Exemplo: 5472904791
+    chat_id: ""
+
+logging:
+  # Caminho do arquivo de log. Rotacionado automaticamente pelo setup.sh via logrotate.
+  file: /var/log/quick-backup-restore.log
+
+  # verbose: true imprime detalhes de cada arquivo processado pelo restic.
+  # Útil para debug. Em produção, mantenha false.
+  verbose: false

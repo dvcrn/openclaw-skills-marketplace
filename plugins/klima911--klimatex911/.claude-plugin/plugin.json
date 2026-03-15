@@ -1,0 +1,10 @@
+{
+  "name": "klima911--klimatex911",
+  "description": "Generate, review, and optimize Ansible automation artifacts. Use this skill whenever the user mentions Ansible, playbooks, roles, inventory, tasks, handlers, Jinja2 templates, ansible.cfg, Galaxy, AWX, or any infrastructure automation using YAML-based configuration management. Trigger even for vague requests like \"automate server setup\", \"deploy my app with Ansible\", \"write a role for nginx\", \"create an inventory file\", or \"how do I configure hosts in Ansible\". This skill covers the full lifecycle: generating playbooks, scaffolding roles, writing inventories, creating Jinja2 templates, designing variable structures, and producing CI/CD-ready Ansible project layouts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "klima911"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/klima911/klimatex911",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/klima911/klimatex911"
+}

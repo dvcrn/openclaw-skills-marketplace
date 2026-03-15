@@ -1,0 +1,10 @@
+{
+  "name": "mrgoodb--pagerduty",
+  "description": "Manage incidents, on-call schedules, and alerts via PagerDuty API. Trigger and resolve incidents programmatically.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrgoodb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/pagerduty",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/pagerduty"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "irachex--local-tts",
+  "description": "Local text-to-speech using Qwen3-TTS with mlx_audio (macOS Apple Silicon) or qwen-tts (Linux/Windows). Privacy-first offline TTS with natural, realistic voice cloning and voice design. Use for local, secure, high-quality multilingual speech synthesis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "irachex"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/irachex/local-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/irachex/local-tts"
+}

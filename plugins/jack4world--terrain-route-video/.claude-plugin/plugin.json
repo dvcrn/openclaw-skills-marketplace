@@ -1,0 +1,10 @@
+{
+  "name": "jack4world--terrain-route-video",
+  "description": "Generate a minimalist terrain-style animated driving route video (MP4) from a list of stops (cities/POIs) without Remotion. Uses OSRM for road-following geometry, OpenTopoMap terrain tiles for basemap, Matplotlib for frame rendering, and FFmpeg for encoding. Use when the user asks to create/export a dynamic self-driving route map video (fly-follow camera, route draw animation, labels) and wants it along roads/highways.",
+  "version": "0.2.0",
+  "author": {
+    "name": "jack4world"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jack4world/terrain-route-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jack4world/terrain-route-video"
+}

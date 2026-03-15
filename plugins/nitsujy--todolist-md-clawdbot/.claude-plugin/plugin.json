@@ -1,0 +1,10 @@
+{
+  "name": "nitsujy--todolist-md-clawdbot",
+  "description": "Operate on todolist-md Markdown todo files. Read + summarize tasks, propose edits, and write outcomes back into Markdown using only <!-- bot: ... --> markers (line-stable write-back).",
+  "version": "1.0.0",
+  "author": {
+    "name": "nitsujy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nitsujy/todolist-md-clawdbot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nitsujy/todolist-md-clawdbot"
+}

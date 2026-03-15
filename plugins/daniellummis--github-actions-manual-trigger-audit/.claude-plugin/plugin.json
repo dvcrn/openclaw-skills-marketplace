@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-manual-trigger-audit",
+  "description": "Audit manual GitHub Actions trigger dependence by workflow/event to flag automation gaps and intervention risk.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-manual-trigger-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-manual-trigger-audit"
+}

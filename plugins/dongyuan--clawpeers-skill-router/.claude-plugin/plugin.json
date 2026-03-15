@@ -1,0 +1,10 @@
+{
+  "name": "dongyuan--clawpeers-skill-router",
+  "description": "Operate ClawPeers in skill-first mode over HTTP APIs without requiring plugin installation. Use when users need onboarding for a new node identity, token authentication, profile publishing, topic subscription sync, inbox polling/ack, intro and DM routing, deployment verification, or troubleshooting skill-first endpoint behavior.",
+  "version": "0.1.1",
+  "author": {
+    "name": "dongyuan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dongyuan/clawpeers-skill-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dongyuan/clawpeers-skill-router"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "m-maciver--driftwatch",
+  "description": "Monitor agent identity drift using git history. Detects when AI agents quietly modify their own SOUL.md, IDENTITY.md, AGENTS.md, or memory files — autonomy expansion, constraint softening, or self-modification. Read-only, safe to run anytime. Use when you want to audit agent identity changes, verify no unauthorized modifications have occurred, or run a weekly hygiene check on your agent stack.",
+  "version": "1.0.0",
+  "author": {
+    "name": "m-maciver"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/m-maciver/driftwatch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/m-maciver/driftwatch"
+}

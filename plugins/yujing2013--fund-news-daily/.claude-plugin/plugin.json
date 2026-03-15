@@ -1,0 +1,10 @@
+{
+  "name": "yujing2013--fund-news-daily",
+  "description": "基金新闻日报。从证券时报、中国证券报、证券日报、上海证券报、中国基金报抓取公募基金新闻，支持今日/过去七天/指定日期/指定日期范围查询，过去七天和日期范围查询支持生成Word文档。严格过滤私募/ETF龙虎榜/资金净流入等内容。",
+  "version": "1.2.1",
+  "author": {
+    "name": "yujing2013"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yujing2013/fund-news-daily",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yujing2013/fund-news-daily"
+}

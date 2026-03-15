@@ -1,0 +1,10 @@
+{
+  "name": "lucasnocodo--polymarket-weather-scanner",
+  "description": "Weather forecast analysis for Polymarket prediction markets. Find edge in temperature betting markets using 9-model ensemble forecasts (GFS, ECMWF, GraphCast). Detect mispriced weather contracts and identify profitable trading opportunities.",
+  "version": "1.1.0",
+  "author": {
+    "name": "lucasnocodo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lucasnocodo/polymarket-weather-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lucasnocodo/polymarket-weather-scanner"
+}

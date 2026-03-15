@@ -1,0 +1,10 @@
+{
+  "name": "vladmatys--marine-watch-planner",
+  "description": "Generate and adapt a sea-duty daily routine with watch rotations, sleep protection, duty handovers, internet-budgeted work blocks, and role-specific tasks. Use when a user asks to build or optimize an onboard schedule by vessel type, role, timezone, watch model (e.g., 4/4, 3/3), fatigue constraints, or low-bandwidth life at sea.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vladmatys"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vladmatys/marine-watch-planner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vladmatys/marine-watch-planner"
+}

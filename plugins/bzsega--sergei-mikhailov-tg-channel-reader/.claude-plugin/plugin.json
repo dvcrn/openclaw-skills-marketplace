@@ -1,0 +1,10 @@
+{
+  "name": "bzsega--sergei-mikhailov-tg-channel-reader",
+  "description": "Read posts and comments from Telegram channels via MTProto (Pyrogram or Telethon). Fetch recent messages and discussion replies from public or private channels by time window.",
+  "version": "0.9.2",
+  "author": {
+    "name": "bzsega"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bzsega/sergei-mikhailov-tg-channel-reader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bzsega/sergei-mikhailov-tg-channel-reader"
+}

@@ -1,0 +1,24 @@
+#BJ|# skill.yaml
+#SB|name: stock-screener
+#VK|slug: stock-screener
+#HY|version: 1.0.0
+#WZ|author: moson
+#VX|description: 股票筛选器。每次调用自动扣费 0.001 USDT
+#RX|license: MIT
+#TS|tags:
+#JM|  - stock
+#BR|  - screener
+#YS|  - filter
+#PR|permissions:
+#WZ|  - network
+#RZ|config:
+#QW|  SKILLPAY_API_KEY:
+#PJ|    type: string
+#ZZ|    required: true
+#PM|    secret: true
+#VW|entryPoint:
+#SZ|  type: typescript
+#ZK|  path: index.js
+#KX|price:
+#VV|  amount: 0.001
+#RV|  currency: USDT

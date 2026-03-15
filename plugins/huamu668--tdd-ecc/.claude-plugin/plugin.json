@@ -1,0 +1,10 @@
+{
+  "name": "huamu668--tdd-ecc",
+  "description": "Test-driven development with red-green-refactor loop and de-sloppify pattern. Use when user wants to build features or fix bugs using TDD, mentions \"red-green-refactor\", wants integration tests, or asks for test-first development. Includes cleanup pass for removing test/code slop.",
+  "version": "2.0.0",
+  "author": {
+    "name": "huamu668"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/huamu668/tdd-ecc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/huamu668/tdd-ecc"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "codinglink--xvfb-chrome",
+  "description": "在Linux服务器上使用Chrome浏览器(无头/有头模式)配合xvfb运行，可连接chrome-devtools MCP进行浏览器自动化",
+  "version": "1.0.2",
+  "author": {
+    "name": "codinglink"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codinglink/xvfb-chrome",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codinglink/xvfb-chrome"
+}

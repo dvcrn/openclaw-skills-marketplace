@@ -1,0 +1,10 @@
+{
+  "name": "sanjay-gthb--server-health-agent",
+  "description": "Monitor VPS and server health metrics including real-time CPU usage, RAM utilization, disk usage, and Docker container status. Useful for DevOps monitoring, troubleshooting performance issues, and infrastructure health checks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sanjay-gthb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sanjay-gthb/server-health-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sanjay-gthb/server-health-agent"
+}

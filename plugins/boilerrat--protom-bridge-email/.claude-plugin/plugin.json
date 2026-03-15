@@ -1,0 +1,10 @@
+{
+  "name": "boilerrat--protom-bridge-email",
+  "description": "Send email through Proton Mail Bridge (localhost SMTP) using age-encrypted credentials. Use when setting up Proton Bridge for an agent mailbox, encrypting Bridge credentials (no 1Password), or sending automated emails (daily reports, alerts) via Proton Bridge.",
+  "version": "1.0.0",
+  "author": {
+    "name": "boilerrat"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/boilerrat/protom-bridge-email",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/boilerrat/protom-bridge-email"
+}

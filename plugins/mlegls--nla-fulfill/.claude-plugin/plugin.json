@@ -1,0 +1,10 @@
+{
+  "name": "mlegls--nla-fulfill",
+  "description": "Fulfill an existing NLA escrow and collect tokens. Use when the user wants to submit fulfillment text for an on-chain escrow, check arbitration results, and collect approved funds. Covers the full fulfill-arbitrate-collect lifecycle.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mlegls"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mlegls/nla-fulfill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mlegls/nla-fulfill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cazaboock9--neogriffin-security",
+  "description": "Multi-chain security API for AI agents. Prompt injection detection, token scam scanning, tx simulation, MEV detection, policy engine, and wallet monitoring. Solana + Base. Pay with SURGE or USDC.",
+  "version": "2.1.0",
+  "author": {
+    "name": "cazaboock9"
+  },
+  "homepage": "https://api.neogriffin.dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cazaboock9/neogriffin-security"
+}

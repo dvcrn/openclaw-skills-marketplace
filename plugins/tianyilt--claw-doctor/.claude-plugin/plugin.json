@@ -1,0 +1,10 @@
+{
+  "name": "tianyilt--claw-doctor",
+  "description": "Diagnose and fix common OpenClaw / NanoClaw issues — broken skills, missing scripts, API key failures, path resolution bugs, and configuration problems. The meta-skill for when your claw is broken.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tianyilt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tianyilt/claw-doctor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tianyilt/claw-doctor"
+}

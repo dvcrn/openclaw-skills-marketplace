@@ -1,0 +1,10 @@
+{
+  "name": "sandmark78--input-validator",
+  "description": "温和的输入验证器，检测网页/文件/消息中的恶意内容。支持危险内容阻止和可疑内容警告，不影响正常使用。",
+  "version": "1.0.0",
+  "author": {
+    "name": "sandmark78"
+  },
+  "homepage": "https://github.com/openclaw/openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sandmark78/input-validator"
+}

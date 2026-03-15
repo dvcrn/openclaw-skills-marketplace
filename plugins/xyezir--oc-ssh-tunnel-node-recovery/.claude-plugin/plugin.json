@@ -1,0 +1,10 @@
+{
+  "name": "xyezir--oc-ssh-tunnel-node-recovery",
+  "description": "Diagnose and recover OpenClaw node connectivity over SSH tunnel. Use for pairing-required errors, tunnel conflicts, wrong remote endpoint, and ssh target mismatch.",
+  "version": "0.1.0",
+  "author": {
+    "name": "xyezir"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xyezir/oc-ssh-tunnel-node-recovery",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xyezir/oc-ssh-tunnel-node-recovery"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "muselinn--fis-architecture",
+  "description": "Orchestrate multi-agent workflows with JSON tickets and A2A coordination. Use when delegating tasks between CyberMao (Main) and Worker agents (Engineer/Researcher/Writer).",
+  "version": "3.3.1",
+  "author": {
+    "name": "muselinn"
+  },
+  "homepage": "https://github.com/linn/fis-architecture",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/muselinn/fis-architecture"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sshnii--tronscan-transaction-info",
+  "description": "Query TRON transaction result, confirmation status, sender, resource consumption.\n Use when user asks \"why did this tx fail\", \"tx status\", \"who sent it\", \"energy consumed\", provides a tx hash, or asks about transaction details.\n Do NOT use for address balance or token holders (use tronscan-account-profiler or tronscan-token-scanner).",
+  "version": "1.0.6",
+  "author": {
+    "name": "sshnii"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sshnii/tronscan-transaction-info",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sshnii/tronscan-transaction-info"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "thegovind--github-issue-creator",
+  "description": "Convert raw notes, error logs, voice dictation, or screenshots into crisp GitHub-flavored markdown issue reports. Use when the user pastes bug info, error messages, or informal descriptions and wants a structured GitHub issue. Supports images/GIFs for visual evidence.",
+  "version": "0.1.0",
+  "author": {
+    "name": "thegovind"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thegovind/github-issue-creator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thegovind/github-issue-creator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "elathoxu-crypto--memphis-cognitive",
+  "description": "🧠 Memphis Cognitive Engine - Complete AI Memory System\n \n Transform your OpenClaw agent into a cognitive partner with:\n - Model A: Record conscious decisions (manual)\n - Model B: Detect decisions from git (automatic)  \n - Model C: Predict decisions before you make them (predictive)\n - Advanced: TUI, Knowledge Graph, Reflection, Trade Protocol, Multi-Agent Sync\n \n Production-ready with 100% working commands (17/17), zero bugs.\n \n ⚠️ IMPORTANT: This is a META-PACKAGE (documentation only). Memphis CLI must be installed separately.\n \n Quick start: clawhub install memphis-cognitive",
+  "version": "3.7.2",
+  "author": {
+    "name": "elathoxu-crypto"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/elathoxu-crypto/memphis-cognitive",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/elathoxu-crypto/memphis-cognitive"
+}

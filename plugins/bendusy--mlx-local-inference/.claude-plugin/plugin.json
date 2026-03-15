@@ -1,0 +1,10 @@
+{
+  "name": "bendusy--mlx-local-inference",
+  "description": "Full local AI inference stack on Apple Silicon Macs via MLX. Includes: LLM chat (Qwen3-14B, Gemma3-12B), speech-to-text ASR (Qwen3-ASR, Whisper), text embeddings (Qwen3-Embedding 0.6B/4B), OCR (PaddleOCR-VL), TTS (Qwen3-TTS), and an automatic transcription daemon with LLM correction. All models run locally via MLX with OpenAI-compatible APIs. Use when the user needs local AI capabilities: text generation, speech recognition, embeddings/vector search, OCR, text-to-speech, or batch audio transcription — without cloud API calls.",
+  "version": "2.2.0",
+  "author": {
+    "name": "bendusy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bendusy/mlx-local-inference",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bendusy/mlx-local-inference"
+}

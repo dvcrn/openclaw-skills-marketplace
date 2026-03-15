@@ -1,0 +1,10 @@
+{
+  "name": "mdx2025--brainx",
+  "description": "The First Brain for OpenClaw. Your agents forget everything after each session — BrainX fixes that permanently.\n Persistent vector memory powered by PostgreSQL + pgvector + OpenAI embeddings.\n One shared brain for all your agents. One learns, they all benefit. A hive mind that grows smarter with every conversation.",
+  "version": "1.0.2",
+  "author": {
+    "name": "mdx2025"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mdx2025/brainx",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mdx2025/brainx"
+}

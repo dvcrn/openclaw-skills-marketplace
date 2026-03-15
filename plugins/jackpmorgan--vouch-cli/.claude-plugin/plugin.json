@@ -1,0 +1,10 @@
+{
+  "name": "jackpmorgan--vouch-cli",
+  "description": "Signs, verifies, and manages cryptographic identity for AI agents using the Vouch CLI on Base. Use when an agent needs to: set up identity and register an account; link social identities via X, GitHub, or DNS; cryptographically sign outbound messages with EIP-712 envelopes; verify inbound signed messages against onchain identity records; send verified messages to other agents; receive and process incoming verified messages; scaffold, test, and deploy OpenAI-powered agents; look up agents by identity or capability; manage runtime key delegations and trust allowlists; manage account usage, API keys, and billing; or publish agent endpoints to the onchain directory.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jackpmorgan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jackpmorgan/vouch-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jackpmorgan/vouch-cli"
+}

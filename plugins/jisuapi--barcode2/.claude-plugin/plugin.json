@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--barcode2",
+  "description": "使用极速数据条码生成识别 API，可按指定类型与参数生成条形码图片（base64），或识别条形码图片中的编码内容。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/barcode2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/barcode2"
+}

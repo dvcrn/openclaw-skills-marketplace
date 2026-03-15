@@ -1,0 +1,10 @@
+{
+  "name": "timenotspace--notion-api",
+  "description": "Generic Notion API CLI (Node) for search, querying data sources (databases), and creating pages. Configure with NOTION_KEY (or ~/.config/notion/api_key).",
+  "version": "1.1.0",
+  "author": {
+    "name": "timenotspace"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/timenotspace/notion-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/timenotspace/notion-api"
+}

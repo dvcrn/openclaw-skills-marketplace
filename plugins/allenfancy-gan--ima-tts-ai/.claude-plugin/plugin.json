@@ -1,0 +1,10 @@
+{
+  "name": "allenfancy-gan--ima-tts-ai",
+  "description": "TTS (text-to-speech) via IMA Open API with seed-tts-2.0. Voice synthesis, speech from text, dubbing, audio content creation. Output: audio URL (mp3/wav). Flow: query products, create task, poll until done. Requires IMA API key.",
+  "version": "1.0.5",
+  "author": {
+    "name": "allenfancy-gan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/allenfancy-gan/ima-tts-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/allenfancy-gan/ima-tts-ai"
+}

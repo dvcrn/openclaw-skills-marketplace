@@ -1,0 +1,10 @@
+{
+  "name": "agistack--fetch",
+  "description": "Public web retrieval and clean extraction engine. Use whenever the user wants to fetch, download, inspect, clean, or save content from a public URL. Supports safe fetching of public web pages, extracts title/text/links, stores results locally, and keeps a job history. No credentials, no login flows, no cloud sync.",
+  "version": "1.0.0",
+  "author": {
+    "name": "agistack"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agistack/fetch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agistack/fetch"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "johnnywang2001--robots-txt-gen",
+  "description": "Generate, validate, and analyze robots.txt files for websites. Use when creating robots.txt from scratch, validating existing robots.txt syntax, checking if a URL is allowed/blocked by robots.txt rules, or generating robots.txt for common platforms (WordPress, Next.js, Django, Rails). Also use when auditing crawl directives or debugging search engine indexing issues.",
+  "version": "1.0.0",
+  "author": {
+    "name": "johnnywang2001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/robots-txt-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/robots-txt-gen"
+}

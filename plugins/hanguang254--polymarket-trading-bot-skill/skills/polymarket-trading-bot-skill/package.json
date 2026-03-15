@@ -1,0 +1,15 @@
+{
+  "name": "polymarket-trading-bot",
+  "version": "1.0.0",
+  "description": "AI-powered trading bot for Polymarket 5-minute price prediction markets",
+  "author": "0xshahai",
+  "license": "MIT",
+  "keywords": ["polymarket", "trading", "bot", "ai", "prediction-market"],
+  "dependencies": {
+    "playwright": "^1.40.0",
+    "requests": "latest"
+  },
+  "scripts": {
+    "start": "python3 auto_bot_v2.py"
+  }
+}

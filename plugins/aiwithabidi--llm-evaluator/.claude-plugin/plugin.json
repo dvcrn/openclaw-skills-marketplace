@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--llm-evaluator",
+  "description": "LLM-as-a-Judge evaluation system using Langfuse. Score AI outputs on relevance, accuracy, hallucination, and helpfulness. Backfill scoring on historical traces. Uses GPT-5-nano for cost-efficient judging. Use when evaluating AI quality, building evals, or monitoring output accuracy.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/llm-evaluator"
+}

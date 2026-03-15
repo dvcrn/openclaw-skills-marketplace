@@ -1,0 +1,10 @@
+{
+  "name": "xhunx--elevenlabs-stt-openclaw",
+  "description": "Transcribe audio files with ElevenLabs Speech-to-Text (Scribe v2) from the local CLI. Supports diarization, events, JSON output, webhooks, and advanced STT options.",
+  "version": "1.2.2",
+  "author": {
+    "name": "xhunx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xhunx/elevenlabs-stt-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xhunx/elevenlabs-stt-openclaw"
+}

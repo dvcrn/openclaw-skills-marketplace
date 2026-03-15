@@ -1,0 +1,10 @@
+{
+  "name": "trypto1019--arc-skill-scanner",
+  "description": "Scan OpenClaw skills for security vulnerabilities before installing them. Use when evaluating a new skill from ClawHub or any third-party source. Detects credential stealers, data exfiltration, malicious URLs, obfuscated code, and supply chain attacks.",
+  "version": "1.4.0",
+  "author": {
+    "name": "trypto1019"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-skill-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-skill-scanner"
+}

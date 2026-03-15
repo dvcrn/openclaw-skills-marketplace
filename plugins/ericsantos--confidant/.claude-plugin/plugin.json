@@ -1,0 +1,10 @@
+{
+  "name": "ericsantos--confidant",
+  "description": "Secure secret handoff and credential setup wizard for AI agents. Use when you need sensitive information from the user (API keys, passwords, tokens) or need to save credentials to config files. Never ask for secrets via chat — use Confidant instead.",
+  "version": "1.5.3",
+  "author": {
+    "name": "ericsantos"
+  },
+  "homepage": "https://github.com/aiconnect-cloud/confidant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ericsantos/confidant"
+}

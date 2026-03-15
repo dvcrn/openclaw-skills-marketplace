@@ -1,0 +1,10 @@
+{
+  "name": "callum-kemp--ryanair-fare-finder",
+  "description": "Build and interpret Ryanair fare-finder URLs for cheap flight searches. Use when the user wants to find budget flights from a specific UK airport, configure departure/return time windows, set overnight or multi-night trip parameters, filter by day of week, or constrain results by price and currency. Handles all fare-finder query parameters including passenger counts, date ranges, flexible dates, and promo codes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "callum-kemp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/callum-kemp/ryanair-fare-finder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/callum-kemp/ryanair-fare-finder"
+}

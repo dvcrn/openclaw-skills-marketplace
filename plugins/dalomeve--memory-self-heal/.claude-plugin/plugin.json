@@ -1,0 +1,10 @@
+{
+  "name": "dalomeve--memory-self-heal",
+  "description": "General-purpose self-healing loop that learns from past failures, retries safely, and records reusable fixes.",
+  "version": "1.1.0",
+  "author": {
+    "name": "dalomeve"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/memory-self-heal",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/memory-self-heal"
+}

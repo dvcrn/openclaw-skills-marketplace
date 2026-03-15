@@ -1,0 +1,10 @@
+{
+  "name": "wuyanfeiwork--hap-upgrade",
+  "description": "明道云 HAP 私有部署版本升级专属 skill，覆盖两类场景：升级咨询解答、生成升级指南文档。凡涉及 HAP 版本升级的问题或任务，无论是咨询注意事项、了解版本变化，还是生成可执行的升级操作文档，均必须触发本 skill。",
+  "version": "1.0.1",
+  "author": {
+    "name": "wuyanfeiwork"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wuyanfeiwork/hap-upgrade",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wuyanfeiwork/hap-upgrade"
+}

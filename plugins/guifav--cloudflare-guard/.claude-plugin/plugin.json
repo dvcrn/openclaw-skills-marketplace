@@ -1,0 +1,10 @@
+{
+  "name": "guifav--cloudflare-guard",
+  "description": "Configures and manages Cloudflare DNS, caching, security rules, rate limiting, and Workers",
+  "version": "0.1.1",
+  "author": {
+    "name": "guifav"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guifav/cloudflare-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guifav/cloudflare-guard"
+}

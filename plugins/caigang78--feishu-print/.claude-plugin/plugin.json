@@ -1,0 +1,10 @@
+{
+  "name": "caigang78--feishu-print",
+  "description": "Print files uploaded to a Feishu group chat. Supports smart matching: multiple files, filename prefix/keyword filter, file type (pdf/image), and time range (\"just now\" = \"last 5 minutes\"). Trigger when the user says things like \"print the file from Feishu\", \"print the PDF I just sent to Feishu\", \"print the Feishu file\", etc.",
+  "version": "1.0.0",
+  "author": {
+    "name": "caigang78"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/caigang78/feishu-print",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/caigang78/feishu-print"
+}

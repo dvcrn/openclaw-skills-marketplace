@@ -1,0 +1,10 @@
+{
+  "name": "vishalgojha--action-suggester",
+  "description": "Generate non-binding follow-up action suggestions from lead summaries or lead lists. Use when users ask for next best actions, call list for hot leads, or follow-up draft plan without automatic execution. Recommended chain: summary-generator then action-suggester then supervisor approval. Do not use for parsing, storage, or autonomous action execution.",
+  "version": "1.0.5",
+  "author": {
+    "name": "vishalgojha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vishalgojha/action-suggester",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vishalgojha/action-suggester"
+}

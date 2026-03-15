@@ -1,0 +1,10 @@
+{
+  "name": "gate-exchange--gate-exchange-trading-copilot",
+  "description": "End-to-end cryptocurrency trading copilot for Gate Exchange. Use this skill whenever the user wants one skill to complete market judgment, risk control, and execution for a cryptocurrency trade on Gate Exchange. Trigger phrases include \"analyze before placing an order\", \"analyze before buying\", \"check risk before trading\", or any request involving cryptocurrency trade judgment, order drafting, spot or futures execution, or post-trade management on Gate Exchange.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gate-exchange"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-exchange-trading-copilot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-exchange-trading-copilot"
+}

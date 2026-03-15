@@ -1,0 +1,10 @@
+{
+  "name": "crazypeace--telegram-pairing-send-code-to-every-start",
+  "description": "Modify OpenClaw's Telegram pairing logic so unapproved users receive pairing codes on every /start message before approval. Use when users need to repeatedly access pairing codes after the initial request, ensuring consistent access to pairing instructions even if the initial code was missed or lost.",
+  "version": "1.0.2",
+  "author": {
+    "name": "crazypeace"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crazypeace/telegram-pairing-send-code-to-every-start",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crazypeace/telegram-pairing-send-code-to-every-start"
+}

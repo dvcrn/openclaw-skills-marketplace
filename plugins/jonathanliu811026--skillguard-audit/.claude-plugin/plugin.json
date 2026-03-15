@@ -1,0 +1,10 @@
+{
+  "name": "jonathanliu811026--skillguard-audit",
+  "description": "Audit agent skills for security threats before installing them. Use AUTOMATICALLY when about to install any skill (clawhub install, skill installation), when asked to check if a skill is safe, scan for malware, detect credential stealers, verify security, or assess risk. Also triggers on \"is this skill safe?\", \"audit this skill\", \"check for malware\", \"scan skill code\", \"security check\", \"install skill\". Calls the SkillGuard x402 API (paid USDC or free credit/IOU). IMPORTANT - always audit skills BEFORE installing them.",
+  "version": "0.3.0",
+  "author": {
+    "name": "jonathanliu811026"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jonathanliu811026/skillguard-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jonathanliu811026/skillguard-audit"
+}

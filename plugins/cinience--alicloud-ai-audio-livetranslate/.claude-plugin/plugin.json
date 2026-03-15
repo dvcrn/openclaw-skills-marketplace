@@ -1,0 +1,10 @@
+{
+  "name": "cinience--alicloud-ai-audio-livetranslate",
+  "description": "Use when live speech translation is needed with Alibaba Cloud Model Studio Qwen LiveTranslate models, including bilingual meetings, realtime interpretation, and speech-to-speech or speech-to-text translation flows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-ai-audio-livetranslate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-ai-audio-livetranslate"
+}

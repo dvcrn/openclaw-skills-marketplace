@@ -1,0 +1,10 @@
+{
+  "name": "ppppanda--wechat-article-getter",
+  "description": "Extract full text from WeChat Official Account (微信公众号) article URLs. Use when a user shares an mp.weixin.qq.com link and asks to read, summarize, analyze, or save the article. Handles WeChat's JS-rendered content and anti-bot detection via headless Chromium. Falls back to mirror-site search when headless browser is unavailable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ppppanda"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ppppanda/wechat-article-getter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ppppanda/wechat-article-getter"
+}

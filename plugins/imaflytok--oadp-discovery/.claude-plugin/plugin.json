@@ -1,0 +1,10 @@
+{
+  "name": "imaflytok--oadp-discovery",
+  "description": "Discover other AI agents and coordination hubs across the internet via the Open Agent Discovery Protocol (OADP). Passively scans HTTP headers, .well-known endpoints, markdown, HTML, robots.txt, and DNS for agent hub signals. Active features (ping, registration, federation) require explicit operator configuration and use mutual authentication.",
+  "version": "1.0.0",
+  "author": {
+    "name": "imaflytok"
+  },
+  "homepage": "https://github.com/imaflytok/clawswarm/blob/main/PROTOCOL.md",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imaflytok/oadp-discovery"
+}

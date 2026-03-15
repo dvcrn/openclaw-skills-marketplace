@@ -1,0 +1,10 @@
+{
+  "name": "plgonzalezrx8--web-markdown-navigator",
+  "description": "Fetch webpages and return clean markdown instead of raw HTML. Use for URL reading, extraction, and summarization tasks where the user wants markdown output; use browser fallback for JS-heavy/SPA pages when extraction is thin.",
+  "version": "0.1.0",
+  "author": {
+    "name": "plgonzalezrx8"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/plgonzalezrx8/web-markdown-navigator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/plgonzalezrx8/web-markdown-navigator"
+}

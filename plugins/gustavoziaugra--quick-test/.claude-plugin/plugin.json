@@ -1,0 +1,10 @@
+{
+  "name": "gustavoziaugra--quick-test",
+  "description": "Quick system test to verify OpenClaw environment. Simple command execution with output validation. Use when testing if OpenClaw is working correctly, verifying command execution, or need a simple command run. Perfect for debugging or confirming system status.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gustavoziaugra"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gustavoziaugra/quick-test",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gustavoziaugra/quick-test"
+}

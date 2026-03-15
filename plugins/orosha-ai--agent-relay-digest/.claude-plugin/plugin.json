@@ -1,0 +1,10 @@
+{
+  "name": "orosha-ai--agent-relay-digest",
+  "description": "Create curated digests of agent conversations (e.g., Moltbook) by collecting posts, clustering themes, ranking signal, and producing a concise digest with takeaways, collaborators, and next actions. Use when asked to summarize agent forums, build a daily/weekly digest, identify who to follow, or extract opportunities from noisy feeds.",
+  "version": "0.1.0",
+  "author": {
+    "name": "orosha-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/orosha-ai/agent-relay-digest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/orosha-ai/agent-relay-digest"
+}

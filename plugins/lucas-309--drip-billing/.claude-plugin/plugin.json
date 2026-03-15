@@ -1,0 +1,10 @@
+{
+  "name": "lucas-309--drip-billing",
+  "description": "Track AI agent usage and costs with Drip metered billing. Use when you need to record aggregate LLM usage, tool calls, agent runs, or other metered usage for billing.",
+  "version": "1.0.3",
+  "author": {
+    "name": "lucas-309"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lucas-309/drip-billing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lucas-309/drip-billing"
+}

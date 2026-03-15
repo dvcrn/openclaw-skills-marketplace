@@ -1,0 +1,10 @@
+{
+  "name": "jaumecornado--holded-skill",
+  "description": "Operate Holded ERP through holdedcli to read and update data safely. Use when the user asks to read, search, create, update, or delete Holded entities (contacts, invoices, products, CRM, projects, team, accounting) or run Holded API endpoints from the terminal.",
+  "version": "0.2.3",
+  "author": {
+    "name": "jaumecornado"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jaumecornado/holded-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jaumecornado/holded-skill"
+}

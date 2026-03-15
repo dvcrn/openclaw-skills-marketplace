@@ -1,0 +1,10 @@
+{
+  "name": "4ier--feishu-contacts-sync",
+  "description": "Sync Feishu (Lark) contacts into USER.md so the agent can identify DM senders by name. Use when setting up Feishu identity recognition, updating contacts after HR changes, or configuring multi-user agent access. Feishu DMs only include open_id (no sender name), so this skill embeds an open_id→name lookup table directly in USER.md for zero-tool-call identification.",
+  "version": "1.0.0",
+  "author": {
+    "name": "4ier"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/4ier/feishu-contacts-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/4ier/feishu-contacts-sync"
+}

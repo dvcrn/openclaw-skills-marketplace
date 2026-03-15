@@ -1,0 +1,10 @@
+{
+  "name": "nissan--fact-checker",
+  "description": "Verify factual claims in content using web search and source cross-referencing. Use when reviewing content for accuracy before publishing.",
+  "version": "1.0.2",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/fact-checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/fact-checker"
+}

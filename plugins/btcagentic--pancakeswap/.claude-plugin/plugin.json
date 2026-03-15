@@ -1,0 +1,10 @@
+{
+  "name": "btcagentic--pancakeswap",
+  "description": "Audit PancakeSwap liquidity positions before capital is deployed. Evaluate depth, concentrated-liquidity setup, range risk, pool quality, and approval friction before users provide liquidity.",
+  "version": "1.0.0",
+  "author": {
+    "name": "btcagentic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/btcagentic/pancakeswap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/btcagentic/pancakeswap"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "martinforsulu--skill-factory-pipeline",
+  "description": "Multi-Agent Pipeline Orchestrator that builds new skills from scratch. Use when: (1) You have a skill idea and want to take it from concept to market-ready package, (2) You need a structured 7-stage process: market research → planning → architecture → building → auditing → documentation → pricing, (3) You want each stage run as an isolated, sequential agent call with no nested sessions. Trigger on: 'create a new skill', 'build a skill', 'skill factory', 'new skill pipeline'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "martinforsulu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/martinforsulu/skill-factory-pipeline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/martinforsulu/skill-factory-pipeline"
+}

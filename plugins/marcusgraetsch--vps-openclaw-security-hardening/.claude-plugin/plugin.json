@@ -1,0 +1,10 @@
+{
+  "name": "marcusgraetsch--vps-openclaw-security-hardening",
+  "description": "Production-ready security hardening for VPS running OpenClaw AI agents. Includes SSH hardening (custom port), firewall, audit logging, credential management, and intelligent alerting. Follows BSI IT-Grundschutz and NIST guidelines with minimal resource overhead.",
+  "version": "1.0.6",
+  "author": {
+    "name": "marcusgraetsch"
+  },
+  "homepage": "https://github.com/MarcusGraetsch/vps-openclaw-security-hardening",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marcusgraetsch/vps-openclaw-security-hardening"
+}

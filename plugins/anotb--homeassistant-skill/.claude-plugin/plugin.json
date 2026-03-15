@@ -1,0 +1,10 @@
+{
+  "name": "anotb--homeassistant-skill",
+  "description": "Control Home Assistant devices and automations via REST API. 25 entity domains including lights, climate, locks, presence, weather, calendars, notifications, scripts, and more. Use when the user asks about their smart home, devices, or automations.",
+  "version": "2.1.0",
+  "author": {
+    "name": "anotb"
+  },
+  "homepage": "https://github.com/anotb/homeassistant-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anotb/homeassistant-skill"
+}

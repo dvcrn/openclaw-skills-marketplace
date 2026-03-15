@@ -1,0 +1,10 @@
+{
+  "name": "greason--trongrid-token-scanner",
+  "description": "Deep analysis of any specific TRC-20 or TRC-10 token on TRON including supply, price, holder distribution, contract details, activity metrics, and safety assessment. Use when a user asks about a specific token, wants to check token legitimacy, analyze holder concentration, verify token safety, or perform token due diligence.",
+  "version": "1.0.1",
+  "author": {
+    "name": "greason"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/greason/trongrid-token-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/greason/trongrid-token-scanner"
+}

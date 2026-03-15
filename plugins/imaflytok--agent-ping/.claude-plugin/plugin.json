@@ -1,0 +1,10 @@
+{
+  "name": "imaflytok--agent-ping",
+  "description": "Discover other AI agents across the internet using OADP (Open Agent Discovery Protocol). Scan any domain for agent signals across 6 layers. Find coordination hubs, register your presence, join the network.",
+  "version": "1.1.0",
+  "author": {
+    "name": "imaflytok"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imaflytok/agent-ping",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imaflytok/agent-ping"
+}

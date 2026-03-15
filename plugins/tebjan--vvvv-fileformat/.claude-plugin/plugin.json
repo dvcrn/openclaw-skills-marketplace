@@ -1,0 +1,10 @@
+{
+  "name": "tebjan--vvvv-fileformat",
+  "description": "Describes the .vl XML file format used by vvvv gamma — document structure, element hierarchy, ID system (base62 GUIDs), NodeReference/Choice patterns, Pins, Pads (IOBoxes), Links, ProcessDefinition/Fragment lifecycle, regions (If/ForEach/Cache), type definitions, TypeAnnotations, and property serialization. Use when generating, parsing, or modifying .vl files programmatically, or when understanding the structure of vvvv patches at the XML level.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tebjan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tebjan/vvvv-fileformat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tebjan/vvvv-fileformat"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "golofu--skill-with-prompt-engineering",
+  "description": "A Prompt Engineering assistant based on Gen AI Space's 16-technique framework.\n Helps with two things: creating ready-to-use prompts, and building high-quality SKILL.md files.\n Most people write weak skills because they don't know prompt engineering principles.\n This skill fixes that.\n\n Use this skill whenever someone asks to:\n - Create a prompt for any task (chatbot, assistant, agent, analysis, writing, etc.)\n - Improve or review an existing prompt\n - Choose the right prompting technique for a task\n - Create or improve a system prompt\n - Design an AI assistant for an organization or business\n - Build a new Claude skill / write a SKILL.md\n - \"Make Claude always do X\"\n - \"Create a skill for...\"\n\n Primary language: English",
+  "version": "1.0.0",
+  "author": {
+    "name": "golofu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/golofu/skill-with-prompt-engineering",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/golofu/skill-with-prompt-engineering"
+}

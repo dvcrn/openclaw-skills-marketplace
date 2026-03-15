@@ -1,0 +1,10 @@
+{
+  "name": "pfrederiksen--openclaw-cost-tracker",
+  "description": "Track OpenClaw token usage and API costs by parsing session JSONL files. Use when user asks about token spend, API costs, model usage breakdown, daily cost trends, or wants to know how much they're spending on Claude/GPT. Shows per-model breakdown, daily spend chart, and grand totals. No API keys needed — reads directly from local session files.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pfrederiksen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pfrederiksen/openclaw-cost-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pfrederiksen/openclaw-cost-tracker"
+}

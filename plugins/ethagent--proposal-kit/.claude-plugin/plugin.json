@@ -1,0 +1,10 @@
+{
+  "name": "ethagent--proposal-kit",
+  "description": "One-click business proposal package generator. Takes a brief project/service description and generates a COMPLETE ready-to-send package: proposal (.docx), pitch deck (.pptx), pricing sheet (.xlsx), and executive one-pager (.pdf) — all cohesive and client-ready. Trigger whenever the user mentions proposals, quotes, bids, pitch decks, project scopes, SOWs, RFP responses, cost estimates, or anything like \"send something professional to a client/investor/partner\", \"help me win this deal\", \"I need to pitch\", \"quote for a project\", \"client deliverable\", or describes any service/product to sell. Works across ALL industries — tech, construction, marketing, design, consulting, legal, events, real estate, manufacturing, healthcare, and more.",
+  "version": "1.0.2",
+  "author": {
+    "name": "ethagent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ethagent/proposal-kit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ethagent/proposal-kit"
+}

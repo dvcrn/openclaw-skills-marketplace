@@ -1,0 +1,10 @@
+{
+  "name": "kimchichobo--plvr-event-discovery",
+  "description": "Discover and recommend live events matched to user preferences, then assist with ticket checkout on plvr.io using the web flow (no public API), including ticket selection, reservation-window handling, x402 wallet payment handoff, and post-purchase confirmation capture. Use when a user asks what events are happening, wants interesting events this weekend/tonight, asks for things to do, requests event ideas by location/date/genre/budget, asks to compare ticket options, or wants help getting access to an event.",
+  "version": "1.0.1",
+  "author": {
+    "name": "kimchichobo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kimchichobo/plvr-event-discovery",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kimchichobo/plvr-event-discovery"
+}

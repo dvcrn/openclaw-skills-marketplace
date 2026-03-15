@@ -1,0 +1,10 @@
+{
+  "name": "hifengzy--system-load-monitor",
+  "description": "System load monitoring and task control skill. Monitors CPU and memory usage rates, automatically pauses tasks when the load exceeds the threshold, and resumes execution after the load recovers. Suitable for low-configured servers to prevent downtime.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hifengzy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hifengzy/system-load-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hifengzy/system-load-monitor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "myugan--koreader-highlights",
+  "description": "Use this skill when the user asks about reading highlights, book notes, annotations, or reading history from KOReader. Triggers: \"what books\", \"show highlights\", \"latest highlights\", \"how many books\", \"find highlights about\", \"summarize highlights\", KOReader, HighlightSync, .sdr.json. Read-only — only retrieves data, never modifies files, never does unrelated tasks.",
+  "version": "1.0.1",
+  "author": {
+    "name": "myugan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/myugan/koreader-highlights",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/myugan/koreader-highlights"
+}

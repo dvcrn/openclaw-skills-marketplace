@@ -1,0 +1,10 @@
+{
+  "name": "jfulmines-star--clever-compact",
+  "description": "Your OpenClaw agent forgets everything between sessions — after /new, after compaction, after overnight. Clever Compact fixes all three: injects your last state on session start, flushes before every compact, and keeps memory stable across context resets. Native plugin. Zero per-turn overhead. Install in 3 commands, runs automatically.",
+  "version": "2.2.2",
+  "author": {
+    "name": "jfulmines-star"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jfulmines-star/clever-compact",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jfulmines-star/clever-compact"
+}

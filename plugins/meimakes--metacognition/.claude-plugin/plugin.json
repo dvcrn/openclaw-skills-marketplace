@@ -1,0 +1,10 @@
+{
+  "name": "meimakes--metacognition",
+  "description": "Self-reflection engine for AI agents. Extracts patterns from session transcripts into a weighted graph with Hebbian learning and time decay. Compiles a token-budgeted lens of active self-knowledge.",
+  "version": "1.0.3",
+  "author": {
+    "name": "meimakes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/meimakes/metacognition",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/meimakes/metacognition"
+}

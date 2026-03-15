@@ -1,0 +1,10 @@
+{
+  "name": "brendanwood--snaptrade",
+  "description": "Connect to a user's investment accounts via SnapTrade SDK and generate portfolio reports (e.g., daily total value). Use when the user wants SnapTrade-based brokerage connectivity (Webull, E*TRADE, etc.), connection portal links, account registration, or automated portfolio summaries.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brendanwood"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brendanwood/snaptrade",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brendanwood/snaptrade"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "msruruguay--fastapi-patterns",
+  "description": "Production FastAPI patterns with Pydantic v2, async endpoints, OAuth2/JWT, dependency injection, testing, and Kubernetes deployment",
+  "version": "1.0.0",
+  "author": {
+    "name": "msruruguay"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/msruruguay/fastapi-patterns",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/msruruguay/fastapi-patterns"
+}

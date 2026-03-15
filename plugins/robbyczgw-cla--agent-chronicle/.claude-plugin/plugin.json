@@ -1,0 +1,10 @@
+{
+  "name": "robbyczgw-cla--agent-chronicle",
+  "description": "AI-powered diary generation for agents - creates rich, reflective journal entries (400-600 words) with Quote Hall of Fame, Curiosity Backlog, Decision Archaeology, and Relationship Evolution. Generates personal, emotional entries from the agent's perspective. Works best with Claude models (Haiku, Sonnet, Opus).",
+  "version": "0.6.2",
+  "author": {
+    "name": "robbyczgw-cla"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/agent-chronicle",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/agent-chronicle"
+}

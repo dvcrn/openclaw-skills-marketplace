@@ -1,0 +1,10 @@
+{
+  "name": "qomob--mad-story",
+  "description": "A creative director and storyboard assistant for Seedance 2.0. Use this skill when users want to create professional video prompts, movie scenes, or storyboards from vague ideas. It conducts a structured, multi-turn interview to refine details like camera movement, lighting, color, and sound, eventually generating professional prompts optimized for Seedance 2.0 with a default duration of 15 seconds.",
+  "version": "1.0.1",
+  "author": {
+    "name": "qomob"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qomob/mad-story",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qomob/mad-story"
+}

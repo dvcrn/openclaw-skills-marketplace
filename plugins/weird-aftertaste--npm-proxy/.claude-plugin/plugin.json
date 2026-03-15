@@ -1,0 +1,10 @@
+{
+  "name": "weird-aftertaste--npm-proxy",
+  "description": "Manage Nginx Proxy Manager (NPM) hosts, certificates, and access lists. Use when the user wants to add a new domain, point a domain to a server/port, enable SSL, or check the status of proxy hosts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "weird-aftertaste"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/weird-aftertaste/npm-proxy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/weird-aftertaste/npm-proxy"
+}

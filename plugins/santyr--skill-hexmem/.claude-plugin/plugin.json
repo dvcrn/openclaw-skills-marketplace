@@ -1,0 +1,10 @@
+{
+  "name": "santyr--skill-hexmem",
+  "description": "Structured memory database for AI agent identity, tasks, events, lessons, and persistent continuity. Use whenever the user says remember this, log this, track this, what should I do next, recap, summarize, what changed, or when you need to store/retrieve decisions, incidents, fleet ops notes, reminders, TODOs, goals, values, or facts about people/systems/projects across sessions.",
+  "version": "1.0.3",
+  "author": {
+    "name": "santyr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/santyr/skill-hexmem",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/santyr/skill-hexmem"
+}

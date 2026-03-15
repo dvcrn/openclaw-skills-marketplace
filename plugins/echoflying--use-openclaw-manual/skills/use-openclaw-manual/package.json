@@ -1,0 +1,19 @@
+{
+  "name": "@echoflying/use-openclaw-manual",
+  "version": "2.0.2",
+  "description": "配置 OpenClaw 前必须查阅官方文档的技能",
+  "main": "run.sh",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": ["openclaw", "skill", "documentation", "chinese"],
+  "author": "echoflying",
+  "license": "MIT-0",
+  "files": [
+    "SKILL.md",
+    "run.sh",
+    "scripts/",
+    "references/",
+    "_meta.json"
+  ]
+}

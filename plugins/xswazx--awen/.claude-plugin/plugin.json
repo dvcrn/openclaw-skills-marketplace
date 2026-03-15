@@ -1,0 +1,10 @@
+{
+  "name": "xswazx--awen",
+  "description": "Create and bootstrap Google Cloud projects for new workloads. Use when the user wants to create a new Google Cloud project, choose a project ID and naming convention, decide billing and region setup, enable required Google APIs, prepare service accounts, or initialize a project for Cloud Run, Vertex AI, BigQuery, Cloud Storage, or Firebase. Also use when auditing whether a planned GCP project setup is complete before deployment.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xswazx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xswazx/awen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xswazx/awen"
+}

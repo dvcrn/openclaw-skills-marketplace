@@ -1,0 +1,10 @@
+{
+  "name": "lyair1--tesla-connect",
+  "description": "Connect and control Tesla vehicles via the tesla-cli. Handles guided setup (key generation, AgentGen hosting, partner registration, OAuth) and all vehicle commands.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lyair1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lyair1/tesla-connect",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lyair1/tesla-connect"
+}

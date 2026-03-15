@@ -1,0 +1,10 @@
+{
+  "name": "acastellana--genlayer-dev",
+  "description": "Build GenLayer Intelligent Contracts - Python smart contracts with LLM calls and web access. Use for writing/deploying contracts, SDK reference, CLI commands, equivalence principles, storage types. Triggers: write intelligent contract, genlayer contract, genvm, gl.Contract, deploy genlayer, genlayer CLI, genlayer SDK, DynArray, TreeMap, gl.nondet, gl.eq_principle, prompt_comparative, strict_eq, genlayer deploy, genlayer up. (For explaining GenLayer concepts, use genlayer-claw-skill instead.)",
+  "version": "0.1.0",
+  "author": {
+    "name": "acastellana"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/acastellana/genlayer-dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/acastellana/genlayer-dev"
+}

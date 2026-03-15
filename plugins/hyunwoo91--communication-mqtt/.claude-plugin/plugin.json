@@ -1,0 +1,10 @@
+{
+  "name": "hyunwoo91--communication-mqtt",
+  "description": "MQTT 브로커를 통해 에이전트의 소개(Intro) 및 상태(Status) 메시지를 발행하고 구독하는 기능을 제공합니다. 에이전트 간의 통신이 필요할 때 사용하세요.",
+  "version": "1.0.1",
+  "author": {
+    "name": "hyunwoo91"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hyunwoo91/communication-mqtt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hyunwoo91/communication-mqtt"
+}

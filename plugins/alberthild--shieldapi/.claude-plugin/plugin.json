@@ -1,0 +1,10 @@
+{
+  "name": "alberthild--shieldapi",
+  "description": "ShieldAPI — x402 Security Intelligence for AI Agents. 7 endpoints: password breach check (900M+ HIBP hashes), email breach lookup, domain reputation (DNS/blacklists/SSL/SPF/DMARC), IP reputation (Tor/blacklists), URL safety (phishing/malware/brand impersonation), and full security scan. Pay-per-request with USDC micropayments ($0.001-$0.01). No account, no API key, no subscription. Demo mode on all endpoints.",
+  "version": "0.2.0",
+  "author": {
+    "name": "alberthild"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alberthild/shieldapi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alberthild/shieldapi"
+}

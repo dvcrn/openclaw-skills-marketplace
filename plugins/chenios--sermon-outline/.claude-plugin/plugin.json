@@ -1,0 +1,10 @@
+{
+  "name": "chenios--sermon-outline",
+  "description": "Produces a sermon outline from a scripture passage or theme, ready for preaching. Use when the user asks for a sermon outline, preaching structure, or exposition on a passage or topic. Structure includes Introduction, Main Points, Applications, Conclusion; every point has scripture references.",
+  "version": "1.0.1",
+  "author": {
+    "name": "chenios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chenios/sermon-outline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chenios/sermon-outline"
+}

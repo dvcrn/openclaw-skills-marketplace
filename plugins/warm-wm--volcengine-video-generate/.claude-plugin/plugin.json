@@ -1,0 +1,10 @@
+{
+  "name": "warm-wm--volcengine-video-generate",
+  "description": "Using volcengine video_generate.py script to generate video, need to provide filename and prompt, optional provide first frame image (URL or local path).",
+  "version": "1.0.0",
+  "author": {
+    "name": "warm-wm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/warm-wm/volcengine-video-generate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/warm-wm/volcengine-video-generate"
+}

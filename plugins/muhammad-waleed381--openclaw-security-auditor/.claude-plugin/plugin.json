@@ -1,0 +1,10 @@
+{
+  "name": "muhammad-waleed381--openclaw-security-auditor",
+  "description": "Audit OpenClaw configuration for security risks and generate a remediation report using the user's configured LLM.",
+  "version": "1.0.0",
+  "author": {
+    "name": "muhammad-waleed381"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/muhammad-waleed381/openclaw-security-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/muhammad-waleed381/openclaw-security-auditor"
+}

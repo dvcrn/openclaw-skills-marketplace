@@ -1,0 +1,10 @@
+{
+  "name": "aaazzzr--fb-page-manager",
+  "description": "Publish posts to a Facebook Page via the Meta Graph API. Use when the user says \"post to Facebook\", \"FB post\", \"粉專發文\", \"社群貼文\", \"幫我發文\", \"schedule post\", \"排程發文\", or provides content and says \"post this\" or \"publish this\". Supports text-only, image, link-in-comment, scheduled posts, and multilingual translation (ZH↔EN) with a review step before publishing.",
+  "version": "2.0.0",
+  "author": {
+    "name": "aaazzzr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaazzzr/fb-page-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaazzzr/fb-page-manager"
+}

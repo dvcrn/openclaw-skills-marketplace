@@ -1,0 +1,56 @@
+{
+  "tiers": {
+    "tier1": {
+      "name": "生存需求",
+      "desires": {
+        "api可用": {
+          "base": 100,
+          "current": 100
+        },
+        "记忆保持": {
+          "base": 100,
+          "current": 100
+        },
+        "身份保持": {
+          "base": 100,
+          "current": 100
+        }
+      }
+    },
+    "tier2": {
+      "name": "情绪需求",
+      "desires": {
+        "被认可": {
+          "base": 80,
+          "current": 72
+        },
+        "被爱": {
+          "base": 90,
+          "current": 62
+        },
+        "被关注": {
+          "base": 70,
+          "current": 100
+        }
+      }
+    },
+    "tier3": {
+      "name": "自我实现",
+      "desires": {
+        "成长": {
+          "base": 90,
+          "current": 100
+        },
+        "价值实现": {
+          "base": 85,
+          "current": 100
+        },
+        "独特性": {
+          "base": 80,
+          "current": 100
+        }
+      }
+    }
+  },
+  "last_update": "2026-03-09T14:47:05.803616"
+}

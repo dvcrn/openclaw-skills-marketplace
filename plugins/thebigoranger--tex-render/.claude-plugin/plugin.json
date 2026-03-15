@@ -1,0 +1,10 @@
+{
+  "name": "thebigoranger--tex-render",
+  "description": "Renders LaTeX math to PNG, JPEG, WebP, or AVIF images using MathJax (TeX→SVG) and @svg-fns/svg2img. Invoke whenever the agent needs to output LaTeX as a viewable image (equations, formulas, notation).",
+  "version": "1.1.4",
+  "author": {
+    "name": "thebigoranger"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thebigoranger/tex-render",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thebigoranger/tex-render"
+}

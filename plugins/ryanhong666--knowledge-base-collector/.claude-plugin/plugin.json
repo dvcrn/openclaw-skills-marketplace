@@ -1,0 +1,10 @@
+{
+  "name": "ryanhong666--knowledge-base-collector",
+  "description": "Collect and organize a personal knowledge base from URLs (web/X/WeChat) and screenshots. Use when the user says they want to save an URL, ingest a link, archive content to KB, tag/classify notes, store screenshots, or search their saved knowledge in Telegram. Supports WeChat via a connected macOS node when cloud fetch is blocked.",
+  "version": "0.1.3",
+  "author": {
+    "name": "ryanhong666"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ryanhong666/knowledge-base-collector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ryanhong666/knowledge-base-collector"
+}

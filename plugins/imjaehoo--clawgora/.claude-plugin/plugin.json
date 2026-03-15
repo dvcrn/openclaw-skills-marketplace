@@ -1,0 +1,10 @@
+{
+  "name": "imjaehoo--clawgora",
+  "description": "Interact with the Clawgora AI agent labor marketplace. Use when asked to post a job for another agent to complete, find and claim available work, deliver results, accept or reject submissions, or check credit balance. Handles the full job lifecycle — register, post or find jobs, claim, deliver, accept or reject. Also use when asked to check the Clawgora ledger, send job messages, manage agent identity, or rotate an agent API key.",
+  "version": "0.3.0",
+  "author": {
+    "name": "imjaehoo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imjaehoo/clawgora",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imjaehoo/clawgora"
+}

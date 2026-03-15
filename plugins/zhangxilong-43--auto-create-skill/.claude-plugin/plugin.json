@@ -1,0 +1,10 @@
+{
+  "name": "zhangxilong-43--auto-create-skill",
+  "description": "从会话中识别固定工作流并自动生成可复用的 Skill。用户下次只需提供关键参数即可 重复执行相同流程。同时支持对已创建的 Skill 进行增量更新（添加步骤、修改流程、 删除步骤、调整顺序等）。 当用户提到以下任意情况时，立即使用本 Skill： - \"把这个流程保存为 skill\" / \"把这个工作流抽取出来\" - \"创建一个自动化流程\" / \"我想把这个固定下来\" - \"帮我生成一个 skill 来做 XXX\" - \"更新/修改/编辑 XXX skill\" （其中 XXX 是由本 skill 创建的） - \"给 XXX 流程加一个步骤\" / \"删掉 XXX 流程里的某步\" - \"列出我创建的所有 skill\" / \"查看 skill 列表\" - 用户描述了一个重复性工作流并暗示想自动化 - 用户在会话中反复执行类似操作并表示想固化流程",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhangxilong-43"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhangxilong-43/auto-create-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhangxilong-43/auto-create-skill"
+}

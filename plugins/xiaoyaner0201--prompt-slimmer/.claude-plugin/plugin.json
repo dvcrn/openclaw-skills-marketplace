@@ -1,0 +1,10 @@
+{
+  "name": "xiaoyaner0201--prompt-slimmer",
+  "description": "Audit and slim down OpenClaw workspace files (SOUL.md, AGENTS.md, TOOLS.md, IDENTITY.md, USER.md, HEARTBEAT.md, MEMORY.md) to reduce system prompt token usage. Analyzes each file for redundancy, low-frequency content, and cross-file duplication, then produces an actionable slim-down plan with before/after metrics. Moves archived content to memory/archive/ while preserving searchability via memory_search. Use when: token costs are high, context window is filling up, system prompt feels bloated, or you want to optimize workspace files. Triggers on: \"slim prompt\", \"reduce tokens\", \"optimize workspace\", \"瘦身\", \"精简 prompt\", \"audit system prompt\", \"trim workspace files\", \"token bloat\".",
+  "version": "1.1.0",
+  "author": {
+    "name": "xiaoyaner0201"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaoyaner0201/prompt-slimmer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaoyaner0201/prompt-slimmer"
+}

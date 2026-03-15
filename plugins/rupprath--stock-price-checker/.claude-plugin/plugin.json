@@ -1,0 +1,10 @@
+{
+  "name": "rupprath--stock-price-checker",
+  "description": "Check stock prices using yfinance library. No API key required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rupprath"
+  },
+  "homepage": "https://finance.yahoo.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rupprath/stock-price-checker"
+}

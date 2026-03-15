@@ -1,0 +1,10 @@
+{
+  "name": "shidifu--web-search-skill",
+  "description": "联网搜索工具，通过百度和必应搜索引擎获取实时网络信息，无需API Key。当用户需要搜索网络信息、查找最新资讯、获取实时数据、或需要联网查询任何内容时使用此技能。适配中国网络环境。",
+  "version": "1.0.0",
+  "author": {
+    "name": "shidifu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shidifu/web-search-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shidifu/web-search-skill"
+}

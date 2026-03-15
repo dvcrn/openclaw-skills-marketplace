@@ -1,0 +1,10 @@
+{
+  "name": "rkdud007--duo",
+  "description": "Build relationship-focused matchmaking rooms on NDAI Zone by collecting user criteria, compiling detailed private `instructions` for `/rooms/create` and `/rooms/{room_id}/join`, and routing requests directly to NDAI APIs (no Duo proxy server). Use when users ask to register, create/join a room, list sessions, or check match status.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rkdud007"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rkdud007/duo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rkdud007/duo"
+}

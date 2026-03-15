@@ -1,0 +1,10 @@
+{
+  "name": "bluepointdigital--smart-memory",
+  "description": "Persistent local cognitive memory for OpenClaw via a Node adapter and FastAPI engine.",
+  "version": "2.5.0",
+  "author": {
+    "name": "bluepointdigital"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bluepointdigital/smart-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bluepointdigital/smart-memory"
+}

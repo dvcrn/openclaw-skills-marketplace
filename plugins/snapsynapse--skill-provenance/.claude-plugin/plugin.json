@@ -1,0 +1,10 @@
+{
+  "name": "snapsynapse--skill-provenance",
+  "description": "Version tracking for Agent Skills bundles and their associated files across sessions, surfaces, and platforms. Use when creating, editing, versioning, validating, packaging, or handing off a skill bundle; when checking or updating MANIFEST.yaml, CHANGELOG.md, hashes, stale evals, or frontmatter mode; and when keeping version identity with the bundle instead of filenames. Compatible with the agentskills.io open standard.",
+  "version": "4.7.2",
+  "author": {
+    "name": "snapsynapse"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/snapsynapse/skill-provenance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/snapsynapse/skill-provenance"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "yonghaozhao722--fund-news-summary",
+  "description": "Automatically collects and summarizes the latest core news for US, Europe, Japan stock markets, gold, and prediction markets. Use when user asks about fund news, market updates, investment research, or daily financial summaries. Also triggered automatically via cron job at 11:00 Beijing Time daily.",
+  "version": "1.0.4",
+  "author": {
+    "name": "yonghaozhao722"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/fund-news-summary",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/fund-news-summary"
+}

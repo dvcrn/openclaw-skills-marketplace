@@ -1,0 +1,10 @@
+{
+  "name": "kaicianflone--consensus-persona-engine",
+  "description": "Deterministic persona reputation engine that applies guard decision effects to persona_set state and emits explicit reputation_delta artifacts.",
+  "version": "0.1.1",
+  "author": {
+    "name": "kaicianflone"
+  },
+  "homepage": "https://github.com/kaicianflone/consensus-persona-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kaicianflone/consensus-persona-engine"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "luigi08001--apechain-reader",
+  "description": "Advanced multi-chain wallet analyzer with USD pricing, collection names, ENS support, and sophisticated bot detection across 8 EVM networks. Use when you need to: (1) analyze wallet profiles with USD valuations and natural language summaries, (2) inspect smart contract details and token information, (3) track NFT portfolios with resolved collection names, (4) examine transaction history and transfer patterns, (5) detect potential bot accounts through advanced behavioral analysis, (6) perform due diligence on addresses with comprehensive insights, (7) investigate cross-chain activity with ENS domain support. Supports ApeChain (primary), Ethereum, Base, Arbitrum, Polygon, Optimism, Avalanche, and BNB Chain with automatic retry logic and human-readable output.",
+  "version": "3.1.0",
+  "author": {
+    "name": "luigi08001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luigi08001/apechain-reader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luigi08001/apechain-reader"
+}

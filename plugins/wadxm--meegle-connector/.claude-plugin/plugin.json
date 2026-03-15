@@ -1,0 +1,10 @@
+{
+  "name": "wadxm--meegle-connector",
+  "description": "Connect to Meegle via MCP service, support OAuth authentication, and enable querying and managing work items, views, etc.",
+  "version": "1.0.8",
+  "author": {
+    "name": "wadxm"
+  },
+  "homepage": "https://www.npmjs.com/package/mcporter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wadxm/meegle-connector"
+}

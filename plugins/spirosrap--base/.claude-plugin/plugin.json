@@ -1,0 +1,10 @@
+{
+  "name": "spirosrap--base",
+  "description": "Interact with Base blockchain — check balances, gas prices, block numbers, and transaction status. Use when the user wants to query onchain data on Base. No API key required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "spirosrap"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spirosrap/base",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spirosrap/base"
+}

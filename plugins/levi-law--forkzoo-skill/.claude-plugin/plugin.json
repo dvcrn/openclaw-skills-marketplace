@@ -1,0 +1,10 @@
+{
+  "name": "levi-law--forkzoo-skill",
+  "description": "Adopt and manage GitHub-native digital pets (tamagotchis) that evolve daily with AI. Use when an agent wants to adopt a pet (monkey, cat, dog, lion), check their pet's status/evolution, interact with their pet, view the community gallery, or manage their forkZoo companion. Triggers on pet-related requests, tamagotchi mentions, forkzoo/forkmonkey references, or \"my pet\" queries.",
+  "version": "1.0.0",
+  "author": {
+    "name": "levi-law"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/levi-law/forkzoo-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/levi-law/forkzoo-skill"
+}

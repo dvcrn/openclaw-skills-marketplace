@@ -1,0 +1,10 @@
+{
+  "name": "datadrivenconstruction--specification-extractor",
+  "description": "Extract structured data from construction specifications. Parse CSI sections, requirements, submittals, and product data from spec documents.",
+  "version": "2.1.0",
+  "author": {
+    "name": "datadrivenconstruction"
+  },
+  "homepage": "https://datadrivenconstruction.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/specification-extractor"
+}

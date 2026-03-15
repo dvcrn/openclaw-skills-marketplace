@@ -1,0 +1,10 @@
+{
+  "name": "billc8128--openclaw-scribe",
+  "description": "Autonomous session scribe — reads today's OpenClaw session logs, extracts decisions, preferences, framework sentences, and project updates, then writes a structured daily memory file. Use when setting up automated memory extraction for an AI agent, or when manually triggering a memory consolidation pass. Works as a cron job (isolated session) or on-demand.",
+  "version": "1.0.1",
+  "author": {
+    "name": "billc8128"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/billc8128/openclaw-scribe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/billc8128/openclaw-scribe"
+}

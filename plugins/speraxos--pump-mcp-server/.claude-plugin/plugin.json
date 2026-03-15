@@ -1,0 +1,10 @@
+{
+  "name": "speraxos--pump-mcp-server",
+  "description": "Model Context Protocol server exposing 7 tools, 3 resource types, and 3 prompts for AI agent consumption — Solana wallet operations, vanity address generation, message signing, and address validation over stdio transport.",
+  "version": "0.1.0",
+  "author": {
+    "name": "speraxos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/speraxos/pump-mcp-server",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/speraxos/pump-mcp-server"
+}

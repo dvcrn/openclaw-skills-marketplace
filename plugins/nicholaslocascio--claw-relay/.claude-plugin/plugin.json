@@ -1,0 +1,10 @@
+{
+  "name": "nicholaslocascio--claw-relay",
+  "description": "Route AI agent traffic through a residential IP using Tailscale exit nodes — no custom code, no proxies, just WireGuard.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nicholaslocascio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nicholaslocascio/claw-relay",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nicholaslocascio/claw-relay"
+}

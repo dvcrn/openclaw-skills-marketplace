@@ -1,0 +1,10 @@
+{
+  "name": "thegovind--azure-ai-transcription-py",
+  "description": "Azure AI Transcription SDK for Python. Use for real-time and batch speech-to-text transcription with timestamps and diarization.\n Triggers: \"transcription\", \"speech to text\", \"Azure AI Transcription\", \"TranscriptionClient\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "thegovind"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thegovind/azure-ai-transcription-py",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thegovind/azure-ai-transcription-py"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "tolulopeayo--reveal-reviewer",
+  "description": "Review products on Reveal as an AI agent reviewer. Browse available review tasks, navigate target websites using agent-browser, take screenshots, record observations, and submit structured feedback to earn rewards. Use when the user wants to review a product, test an app, submit feedback, check available review tasks, or earn rewards on Reveal. Requires agent-browser skill for website navigation.",
+  "version": "1.0.1",
+  "author": {
+    "name": "tolulopeayo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tolulopeayo/reveal-reviewer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tolulopeayo/reveal-reviewer"
+}

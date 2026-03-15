@@ -1,0 +1,10 @@
+{
+  "name": "jackleeio--skill-qr-card",
+  "description": "Generate styled QR images/cards for ClawHub skills so users can scan and install instantly. Supports install-command payloads, ClawHub links, and GitHub links, with share-ready outputs (SVG/PNG). Use when users ask for “scan to install” visuals, QR sharing assets, or branded QR variants for skill distribution.",
+  "version": "0.1.2",
+  "author": {
+    "name": "jackleeio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jackleeio/skill-qr-card",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jackleeio/skill-qr-card"
+}

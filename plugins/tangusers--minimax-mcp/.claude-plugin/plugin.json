@@ -1,0 +1,10 @@
+{
+  "name": "tangusers--minimax-mcp",
+  "description": "MiniMax MCP server for web search and image understanding. Use when needing: (1) Web search via MiniMax API, (2) Analyze/describe images, (3) Extract content from URLs. Requires MINIMAX_API_KEY (China: api.minimaxi.com, Global: api.minimax.io).",
+  "version": "1.0.3",
+  "author": {
+    "name": "tangusers"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tangusers/minimax-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tangusers/minimax-mcp"
+}

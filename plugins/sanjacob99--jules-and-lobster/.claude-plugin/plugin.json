@@ -1,0 +1,10 @@
+{
+  "name": "sanjacob99--jules-and-lobster",
+  "description": "Use the Jules REST API (v1alpha) via curl to list sources, create sessions, monitor activities, approve plans, send messages, and retrieve outputs (e.g., PR URLs). Use when the user wants to delegate coding tasks to Jules programmatically. Requires JULES_API_KEY env var (obtain from https://jules.google.com/settings#api).",
+  "version": "1.0.5",
+  "author": {
+    "name": "sanjacob99"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sanjacob99/jules-and-lobster",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sanjacob99/jules-and-lobster"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lyutenant--nested-pdf-merger",
+  "description": "Use this skill when the task is to merge PDFs from a nested directory tree into a single PDF with hierarchical bookmarks by invoking the external `nestedpdfmerger` CLI. This skill depends on the `nestedpdfmerger` binary being installed and available on PATH.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lyutenant"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lyutenant/nested-pdf-merger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lyutenant/nested-pdf-merger"
+}

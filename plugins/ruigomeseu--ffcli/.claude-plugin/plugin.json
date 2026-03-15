@@ -1,0 +1,10 @@
+{
+  "name": "ruigomeseu--ffcli",
+  "description": "Query Fireflies.ai meeting data. Use when searching meetings, viewing transcripts, reading AI summaries, extracting action items, or looking up what was discussed in a call. Triggers on \"meeting notes\", \"transcript\", \"action items from meeting\", \"what was discussed\", \"fireflies\", \"meeting summary\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "ruigomeseu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ruigomeseu/ffcli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ruigomeseu/ffcli"
+}

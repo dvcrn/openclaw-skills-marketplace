@@ -1,0 +1,10 @@
+{
+  "name": "efekucuk--etherlink-skill",
+  "description": "Etherlink blockchain interaction - EVM-compatible L2 on Tezos. Supports mainnet and shadownet testnet via MCP server. Use for balance checks, transactions, smart contracts, and token operations on Etherlink.",
+  "version": "1.0.0",
+  "author": {
+    "name": "efekucuk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/efekucuk/etherlink-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/efekucuk/etherlink-skill"
+}

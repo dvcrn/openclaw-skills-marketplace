@@ -1,0 +1,10 @@
+{
+  "name": "jiediking--market-global-snapshot",
+  "description": "Generate a structured global market snapshot report including major stock indices and commodities. Use when user asks for market data, stock market report, daily market summary, or needs current prices and changes for indices (S&P 500, Dow Jones, NASDAQ, SSE Composite, Shenzhen, STAR Market, Nikkei 225, Sensex) and commodities (Gold, Silver, Crude Oil, Copper).",
+  "version": "0.1.4",
+  "author": {
+    "name": "jiediking"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jiediking/market-global-snapshot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jiediking/market-global-snapshot"
+}

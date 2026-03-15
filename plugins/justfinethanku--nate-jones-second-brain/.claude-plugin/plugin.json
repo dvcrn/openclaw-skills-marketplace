@@ -1,0 +1,10 @@
+{
+  "name": "justfinethanku--nate-jones-second-brain",
+  "description": "Set up and operate a personal knowledge system using Supabase (pgvector) and OpenRouter. Five structured tables — thoughts (inbox log), people, projects, ideas, admin — with AI-powered classification, confidence-based routing, and semantic search across all categories. Captures thoughts from any source, classifies them via LLM, routes them to the right table (the Sorter), rejects low-confidence classifications (the Bouncer), and logs everything (the Receipt). Two opinionated primitives — Supabase for persistent context architecture, OpenRouter as the AI gateway — that unlock unlimited applications on top. The foundation layer for a personal knowledge system. By Limited Edition Jonathan • natebjones.com",
+  "version": "1.0.2",
+  "author": {
+    "name": "justfinethanku"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/justfinethanku/nate-jones-second-brain",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/justfinethanku/nate-jones-second-brain"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ricardofrantz--bun-do-api",
+  "description": "Manage bun-do tasks and projects — add tasks, edit tasks, delete tasks, toggle done, manage subtasks, and log project progress entries. Use when the user says \"add a todo\", \"update task\", \"remove task\", \"mark done\", \"add subtask\", \"log progress\", \"update project\", or any variant of managing tasks/projects. Also use when an agent finishes work and needs to record progress. Triggers on: \"todo\", \"task\", \"remind me\", \"due\", \"deadline\", \"payment\", \"bill\", \"backlog\", \"what do I need to do\", \"what's overdue\", \"add to my list\".",
+  "version": "1.3.0",
+  "author": {
+    "name": "ricardofrantz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ricardofrantz/bun-do-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ricardofrantz/bun-do-api"
+}

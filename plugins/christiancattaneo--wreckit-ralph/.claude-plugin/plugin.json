@@ -1,0 +1,10 @@
+{
+  "name": "christiancattaneo--wreckit-ralph",
+  "description": "Bulletproof AI code verification. The agent IS the engine — no external tools required. Spawns parallel verification workers that slop-scan, type-check, mutation-test, and cross-verify before shipping. Language-agnostic. Framework-agnostic. Now with Swift/iOS support. Use when: (1) Building new projects and need verified, tested code (\"build X with tests\"), (2) Migrating/rebuilding codebases (\"rewrite in TypeScript\"), (3) Fixing bugs with proof nothing else broke (\"fix this bug, verify no regressions\"), (4) Auditing existing code quality (\"audit this project\", \"how good are these tests?\"), (5) Any request mentioning \"reckit\", \"wreckit\", \"mutation testing\", \"verification\", \"proof bundle\", \"code audit\", or \"bulletproof\". Produces a proof bundle (.wreckit/) with gate results and Ship/Caution/Blocked verdict.",
+  "version": "2.4.0",
+  "author": {
+    "name": "christiancattaneo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/christiancattaneo/wreckit-ralph",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/christiancattaneo/wreckit-ralph"
+}

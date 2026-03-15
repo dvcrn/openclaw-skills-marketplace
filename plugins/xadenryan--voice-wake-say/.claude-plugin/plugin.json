@@ -1,0 +1,10 @@
+{
+  "name": "xadenryan--voice-wake-say",
+  "description": "Speak responses aloud on macOS using the built-in `say` command when user input indicates Voice Wake/voice recognition (for example, messages starting with \"User talked via voice recognition on <device>\").",
+  "version": "1.0.1",
+  "author": {
+    "name": "xadenryan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xadenryan/voice-wake-say",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xadenryan/voice-wake-say"
+}

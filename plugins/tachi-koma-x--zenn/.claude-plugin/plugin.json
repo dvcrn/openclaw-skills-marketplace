@@ -1,0 +1,10 @@
+{
+  "name": "tachi-koma-x--zenn",
+  "description": "Publish Zenn articles by managing Markdown in a GitHub-connected repository (push/PR -> merge) and previewing with Zenn CLI.",
+  "version": "0.0.1",
+  "author": {
+    "name": "tachi-koma-x"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tachi-koma-x/zenn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tachi-koma-x/zenn"
+}

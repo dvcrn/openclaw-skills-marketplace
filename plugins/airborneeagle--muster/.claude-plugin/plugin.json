@@ -1,0 +1,10 @@
+{
+  "name": "airborneeagle--muster",
+  "description": "Connect to a Muster instance via MCP. Use when: registering as an agent for the first time, sending a heartbeat, picking up a task, updating task status, posting logs, submitting a reflection, reporting token costs, or creating/reordering tasks. Works with any self-hosted Muster deployment.",
+  "version": "1.0.2",
+  "author": {
+    "name": "airborneeagle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/airborneeagle/muster",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/airborneeagle/muster"
+}

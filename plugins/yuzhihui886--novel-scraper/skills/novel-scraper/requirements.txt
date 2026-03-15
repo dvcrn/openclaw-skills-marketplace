@@ -1,0 +1,4 @@
+# Novel Scraper - Python Dependencies
+# Install: pip3 install -r requirements.txt --user
+
+psutil>=5.9.0

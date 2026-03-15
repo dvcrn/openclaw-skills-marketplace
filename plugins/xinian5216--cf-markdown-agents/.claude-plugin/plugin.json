@@ -1,0 +1,10 @@
+{
+  "name": "xinian5216--cf-markdown-agents",
+  "description": "Fetch web content using Cloudflare's Markdown for Agents protocol. Automatically converts HTML to Markdown with 80% token reduction. Use when fetching web pages for AI processing, web scraping, content extraction, or when the user mentions \"Markdown for Agents\", \"cf-markdown\", or needs structured web content in Markdown format.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xinian5216"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xinian5216/cf-markdown-agents",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xinian5216/cf-markdown-agents"
+}

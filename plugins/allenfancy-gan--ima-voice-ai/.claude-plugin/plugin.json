@@ -1,0 +1,10 @@
+{
+  "name": "allenfancy-gan--ima-voice-ai",
+  "description": "Top-tier AI music generation with models: Suno sonic v4, Suno sonic v5, DouBao BGM (GenBGM), DouBao Song (GenSong). One-stop text-to-music with custom mode, lyrics, vocal control, and style tags. Requires IMA API key. Optional: ima-knowledge-ai for workflow and model guidance when installed. Use for: music generation, text-to-music, background music, songs with lyrics, soundtrack, jingles, ambient music, vocal and instrumental tracks. Output: MP3/WAV.",
+  "version": "1.0.7",
+  "author": {
+    "name": "allenfancy-gan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/allenfancy-gan/ima-voice-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/allenfancy-gan/ima-voice-ai"
+}

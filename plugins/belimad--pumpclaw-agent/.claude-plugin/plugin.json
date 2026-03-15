@@ -1,0 +1,10 @@
+{
+  "name": "belimad--pumpclaw-agent",
+  "description": "Generate customer-ready Telegram polling bots + an Express-style web server that integrate Pump.fun Tokenized Agent payments using @pump-fun/agent-payments-sdk (build invoices, accept payments, and verify invoices on Solana). Use when asked for pump.fun / pumpfun agent integrations, tokenized agent payment flows, invoice verification, or a Telegram+web bot scaffold for Pump Tokenized Agents.",
+  "version": "1.0.1",
+  "author": {
+    "name": "belimad"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/belimad/pumpclaw-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/belimad/pumpclaw-agent"
+}

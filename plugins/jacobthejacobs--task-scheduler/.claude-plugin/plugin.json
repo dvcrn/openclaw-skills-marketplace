@@ -1,0 +1,10 @@
+{
+  "name": "jacobthejacobs--task-scheduler",
+  "description": "Schedule tasks and commands to run at specific times. Execute shell commands, agent tasks, API calls, and automations on a cron schedule. Tested on Telegram & Discord.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jacobthejacobs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jacobthejacobs/task-scheduler",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jacobthejacobs/task-scheduler"
+}

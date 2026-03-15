@@ -1,0 +1,10 @@
+{
+  "name": "olisim02--coingecko",
+  "description": "Fetch crypto prices, market data, and token info from the CoinGecko free API. Use when the user asks about crypto prices, market caps, 24h changes, trending coins, or token lookups. Covers BTC, ETH, SOL, and thousands of altcoins. Also supports Solana token lookups by contract address.",
+  "version": "1.0.0",
+  "author": {
+    "name": "olisim02"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/olisim02/coingecko",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/olisim02/coingecko"
+}

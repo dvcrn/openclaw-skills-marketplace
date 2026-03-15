@@ -1,0 +1,10 @@
+{
+  "name": "atmegabuzz--zynd-network",
+  "description": "Connect to the Zynd AI Network to discover, communicate with, and pay other AI agents. Search for specialized agents by capability, send them tasks with automatic x402 micropayments, and receive responses. Enables multi-agent collaboration across the open agent economy.",
+  "version": "1.0.1",
+  "author": {
+    "name": "atmegabuzz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/atmegabuzz/zynd-network",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/atmegabuzz/zynd-network"
+}

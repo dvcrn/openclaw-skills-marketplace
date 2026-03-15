@@ -1,0 +1,10 @@
+{
+  "name": "zero2ai-hub--skill-video-caption-overlay",
+  "description": "Render TikTok-style animated pill captions onto short-form videos using MoviePy + PIL. Takes a base MP4, a captions JSON, and optional background audio — outputs a final video with fade-in/out pill overlays. Fixes the PIL textbbox y-offset bug that causes text to sit outside pill boundaries. Use for TikTok ads, Reels, YouTube Shorts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zero2ai-hub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zero2ai-hub/skill-video-caption-overlay",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zero2ai-hub/skill-video-caption-overlay"
+}

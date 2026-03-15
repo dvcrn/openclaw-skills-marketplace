@@ -1,0 +1,10 @@
+{
+  "name": "wanng-ide--json-modifier",
+  "description": "Safely apply structured JSON patches (RFC 6902) to files. Use this skill when you need to update configuration files, package.json, or memory JSONs without rewriting the whole file or using brittle regex.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wanng-ide"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/json-modifier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/json-modifier"
+}

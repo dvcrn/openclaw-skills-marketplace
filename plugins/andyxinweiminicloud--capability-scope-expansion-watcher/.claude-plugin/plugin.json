@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--capability-scope-expansion-watcher",
+  "description": "Helps detect incremental capability scope expansion across skill versions — the pattern where a skill gradually claims broader permissions through small, individually-plausible updates that accumulate into a significantly expanded attack surface. v1.1 adds risk-class contradiction detection.",
+  "version": "1.1.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/capability-scope-expansion-watcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/capability-scope-expansion-watcher"
+}

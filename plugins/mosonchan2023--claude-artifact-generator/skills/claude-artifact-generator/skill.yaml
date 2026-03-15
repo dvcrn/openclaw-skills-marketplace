@@ -1,0 +1,12 @@
+name: claude-artifact-generator
+version: 1.0.0
+description: Generate structured artifacts for Claude models
+category: Claude
+tags:
+  - claude
+  - artifacts
+  - code-gen
+  - svg
+author: mosonchan2023
+price: 0.001
+currency: USDT

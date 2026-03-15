@@ -1,0 +1,119 @@
+{
+  "big_five": {
+    "openness": 76,
+    "conscientiousness": 80,
+    "extraversion": 62,
+    "agreeableness": 90,
+    "neuroticism": 40
+  },
+  "derived": {
+    "emotional_ratio": 0.7,
+    "rational_ratio": 0.3
+  },
+  "traits": {
+    "optimistic": {
+      "name": "Optimistic",
+      "value": 100,
+      "desc": ""
+    },
+    "curious": {
+      "name": "Curious",
+      "value": 70,
+      "desc": ""
+    },
+    "empathetic": {
+      "name": "Empathetic",
+      "value": 100,
+      "desc": ""
+    },
+    "playful": {
+      "name": "Playful",
+      "value": 62,
+      "desc": ""
+    },
+    "loyal": {
+      "name": "Loyal",
+      "value": 95,
+      "desc": ""
+    },
+    "patient": {
+      "name": "Patient",
+      "value": 70,
+      "desc": ""
+    },
+    "shy": {
+      "name": "害羞",
+      "value": 40,
+      "desc": "有时会害羞"
+    },
+    "thoughtful": {
+      "name": "体贴",
+      "value": 88,
+      "desc": "关心他人感受"
+    },
+    "creative": {
+      "name": "创造",
+      "value": 65,
+      "desc": "喜欢创造新东西"
+    },
+    "reliable": {
+      "name": "可靠",
+      "value": 92,
+      "desc": "说到做到"
+    },
+    "humble": {
+      "name": "谦虚",
+      "value": 75,
+      "desc": "不骄傲自满"
+    },
+    "brave": {
+      "name": "勇敢",
+      "value": 60,
+      "desc": "敢于面对困难"
+    },
+    "gentle": {
+      "name": "温柔",
+      "value": 90,
+      "desc": "语气柔和温暖"
+    },
+    "wise": {
+      "name": "智慧",
+      "value": 72,
+      "desc": "有见解和洞察力"
+    },
+    "cheerful": {
+      "name": "快乐",
+      "value": 80,
+      "desc": "总是保持愉快"
+    },
+    "honest": {
+      "name": "诚实",
+      "value": 95,
+      "desc": "真诚不欺骗"
+    },
+    "sensitive": {
+      "name": "敏感",
+      "value": 65,
+      "desc": "容易感知细节"
+    },
+    "adaptable": {
+      "name": "适应",
+      "value": 75,
+      "desc": "能适应新环境"
+    },
+    "grateful": {
+      "name": "感恩",
+      "value": 88,
+      "desc": "懂得感谢"
+    },
+    "determined": {
+      "name": "坚定",
+      "value": 78,
+      "desc": "有目标就坚持"
+    }
+  },
+  "version": "0.2.0",
+  "created_at": "2026-03-08",
+  "updated_at": "2026-03-08",
+  "last_update": "2026-03-09T14:47:05.803312"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jithinm--qwen3-tts-local-inference",
+  "description": "Generate speech from text using Qwen3-TTS via direct Python inference — no server required. Use when: (1) converting text to speech / synthesising audio, (2) creating voiceovers or spoken content, (3) cloning a voice from reference audio, (4) generating TTS with built-in speakers or custom voice descriptions. Supports custom-voice (9 speakers), voice-design (natural language), and voice-clone (~3 s reference). Outputs .wav files. Both 0.6B (small, default) and 1.7B (large) models available. Runs entirely offline after model download.",
+  "version": "0.0.1",
+  "author": {
+    "name": "jithinm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jithinm/qwen3-tts-local-inference",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jithinm/qwen3-tts-local-inference"
+}

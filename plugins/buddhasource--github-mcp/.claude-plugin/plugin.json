@@ -1,0 +1,10 @@
+{
+  "name": "buddhasource--github-mcp",
+  "description": "GitHub MCP Server for repository management, file operations, PR/issue tracking, branch management, and GitHub API integration. Enable AI agents to clone repos, read code, create/update files, manage issues and pull requests, search code, and interact with the GitHub platform. Essential for development workflows, code review automation, CI/CD management, and repository operations. Use when agents need to work with Git repositories, manage development workflows, automate GitHub tasks, or interact with source code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "buddhasource"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/buddhasource/github-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/buddhasource/github-mcp"
+}

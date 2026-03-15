@@ -1,0 +1,10 @@
+{
+  "name": "infra403--6551-twitter-to-binance-square",
+  "description": "Auto-mirror Twitter/X content to Binance Square.\n Monitors specified Twitter accounts or topics, fetches new tweets,\n transforms content, and posts to Binance Square automatically.\n Auto-run on messages like 'mirror twitter to binance square', 'auto post from twitter', 'start twitter mirror'.",
+  "version": "0.1.0",
+  "author": {
+    "name": "infra403"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/infra403/6551-twitter-to-binance-square",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/infra403/6551-twitter-to-binance-square"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jessewunderlich--deepgram-transcribe",
+  "description": "Transcribe audio via Deepgram Nova-3 API (5.26% WER, 40x faster than Whisper, built-in speaker diarization). Use when user asks to transcribe audio, podcasts, meetings, voice recordings, or voice memos. Supports mp3, wav, m4a, ogg, flac, webm, aiff. Falls back to OpenAI Whisper skill if DEEPGRAM_API_KEY is not set.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jessewunderlich"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jessewunderlich/deepgram-transcribe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jessewunderlich/deepgram-transcribe"
+}

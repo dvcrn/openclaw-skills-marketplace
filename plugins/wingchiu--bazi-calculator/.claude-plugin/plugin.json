@@ -1,0 +1,10 @@
+{
+  "name": "wingchiu--bazi-calculator",
+  "description": "Calculate a person’s Four Pillars (BaZi / Eight Characters) from birth date and time using sexagenary-cycle offsets from one trusted reference datetime that already has known year/month/day/hour pillars. Also calculate DaYun (10-year luck cycles) when gender is provided, and include the current LiuNian (流年) Ganzhi. Use when user asks for BaZi pillars, eight characters, stem-branch pillar calculation, DaYun, or current LiuNian.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wingchiu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wingchiu/bazi-calculator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wingchiu/bazi-calculator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "c4chuan--csdn-publisher",
+  "description": "写文章并发布到 CSDN。使用浏览器自动化 + 扫码登录。支持通过 Telegram 发送二维码，无需 VNC。集成 blog-writer 写作方法论，产出高质量、有个人风格的技术文章。",
+  "version": "2.3.0",
+  "author": {
+    "name": "c4chuan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/c4chuan/csdn-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/c4chuan/csdn-publisher"
+}

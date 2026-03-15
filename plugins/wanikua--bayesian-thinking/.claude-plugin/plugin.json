@@ -1,0 +1,10 @@
+{
+  "name": "wanikua--bayesian-thinking",
+  "description": "Apply Bayesian thinking to update beliefs systematically based on new evidence. Use when the user needs to assess probabilities, weigh competing hypotheses, avoid base rate neglect, or make decisions under uncertainty with explicit prior-to-posterior reasoning.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wanikua"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wanikua/bayesian-thinking",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wanikua/bayesian-thinking"
+}

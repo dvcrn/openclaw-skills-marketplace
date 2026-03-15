@@ -1,0 +1,10 @@
+{
+  "name": "iml885203--gemini-web-image",
+  "description": "Generate images via Gemini Web API using Google AI Pro subscription. Uses browser cookies for authentication (no API key needed). Use when: (1) user wants to generate, create, draw, illustrate, or visualize anything, (2) product mockups, diagrams, concept art, (3) phrases like '幫我畫', '生成一張圖', 'make an image of', 'draw', 'create an image'. NOT for: editing or modifying existing images, video generation.",
+  "version": "1.2.1",
+  "author": {
+    "name": "iml885203"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iml885203/gemini-web-image",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iml885203/gemini-web-image"
+}

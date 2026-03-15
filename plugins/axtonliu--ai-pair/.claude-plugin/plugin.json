@@ -1,0 +1,10 @@
+{
+  "name": "axtonliu--ai-pair",
+  "description": "AI Pair Collaboration Skill. Coordinate multiple AI models to work together:\n one creates (Author/Developer), two others review (Codex + Gemini).\n Works for code, articles, video scripts, and any creative task.\n\n Trigger: /ai-pair, ai pair, dev-team, content-team, team-stop",
+  "version": "0.1.0",
+  "author": {
+    "name": "axtonliu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/axtonliu/ai-pair",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/axtonliu/ai-pair"
+}

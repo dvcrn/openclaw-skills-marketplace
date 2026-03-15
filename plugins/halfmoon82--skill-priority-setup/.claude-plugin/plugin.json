@@ -1,0 +1,10 @@
+{
+  "name": "halfmoon82--skill-priority-setup",
+  "description": "Scans installed skills, suggests L0-L3 priority tiers, and auto-configures skill injection policy. Use when: setting up skill priorities, optimizing token budget, or migrating to tiered skill architecture.",
+  "version": "1.0.0",
+  "author": {
+    "name": "halfmoon82"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/halfmoon82/skill-priority-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/halfmoon82/skill-priority-setup"
+}

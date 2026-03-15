@@ -1,0 +1,10 @@
+{
+  "name": "dinaras--yuboto-omni-api",
+  "description": "Implement, troubleshoot, and generate integrations for Yuboto Omni API (SMS/Viber/messaging endpoints, callbacks, lists/contacts/blacklist, cost/balance/account methods). Use when building code or workflows against Yuboto API docs, especially when endpoint details differ between PDF docs and live Swagger.",
+  "version": "1.6.2",
+  "author": {
+    "name": "dinaras"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dinaras/yuboto-omni-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dinaras/yuboto-omni-api"
+}

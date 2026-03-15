@@ -1,0 +1,10 @@
+{
+  "name": "zaaachary--x-twitter-api",
+  "description": "X (Twitter) API client for searching tweets, retrieving article content, and fetching trending topics. Supports both Bearer Token (app-only) and OAuth 2.0 authentication.",
+  "version": "1.0.1",
+  "author": {
+    "name": "zaaachary"
+  },
+  "homepage": "https://developer.x.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zaaachary/x-twitter-api"
+}

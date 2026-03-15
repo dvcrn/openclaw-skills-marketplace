@@ -1,0 +1,10 @@
+{
+  "name": "smallest-ming--cicd-workflow",
+  "description": "CI/CD workflow skill for Java + Vue projects. Supports GitLab CI and Jenkins pipelines with code linting, unit testing, build packaging, Docker image building, Kubernetes deployment, and notification feedback. Use when: (1) Setting up CI/CD pipelines for Java/Vue projects, (2) Configuring GitLab CI or Jenkins workflows, (3) Building Docker images and deploying to Kubernetes, (4) Implementing automated code quality checks and testing, (5) Setting up deployment notifications.",
+  "version": "1.0.0",
+  "author": {
+    "name": "smallest-ming"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/smallest-ming/cicd-workflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/smallest-ming/cicd-workflow"
+}

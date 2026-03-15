@@ -1,0 +1,10 @@
+{
+  "name": "shaowenchen--ops-mcp-server",
+  "description": "Query observability data and execute operational procedures via the ops-mcp-server MCP interface.\n Covers Kubernetes events, Prometheus metrics, Elasticsearch logs, Jaeger distributed traces, and SOPS runbooks.",
+  "version": "1.0.3",
+  "author": {
+    "name": "shaowenchen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shaowenchen/ops-mcp-server",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shaowenchen/ops-mcp-server"
+}

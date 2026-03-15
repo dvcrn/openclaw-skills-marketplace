@@ -1,0 +1,10 @@
+{
+  "name": "justzerox--rembg",
+  "description": "使用 rembg AI 模型去除图片背景，生成透明背景的 PNG 图片。首次使用需运行 setup/install.py 初始化环境。",
+  "version": "0.0.1",
+  "author": {
+    "name": "justzerox"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/justzerox/rembg",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/justzerox/rembg"
+}

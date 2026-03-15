@@ -1,0 +1,10 @@
+{
+  "name": "cinience--volcengine-storage-tos",
+  "description": "Object storage operations for Volcengine TOS. Use when users need upload/download/sync, bucket policy checks, signed URLs, or storage troubleshooting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/volcengine-storage-tos",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/volcengine-storage-tos"
+}

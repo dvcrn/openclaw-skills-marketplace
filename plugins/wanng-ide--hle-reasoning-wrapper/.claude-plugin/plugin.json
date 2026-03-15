@@ -1,0 +1,10 @@
+{
+  "name": "wanng-ide--hle-reasoning-wrapper",
+  "description": "Wraps HLE benchmark questions in a structured Chain-of-Thought (CoT) reasoning process. Use when answering HLE questions to ensure strict step-by-step logic and format compliance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wanng-ide"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/hle-reasoning-wrapper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/hle-reasoning-wrapper"
+}

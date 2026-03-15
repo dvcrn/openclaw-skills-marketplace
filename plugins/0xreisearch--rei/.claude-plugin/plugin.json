@@ -1,0 +1,10 @@
+{
+  "name": "0xreisearch--rei",
+  "description": "Set up Rei Qwen3 Coder as a model provider. Use when configuring coder.reilabs.org, adding Rei to Clawdbot, or troubleshooting 403 errors from Rei endpoints.",
+  "version": "1.0.3",
+  "author": {
+    "name": "0xreisearch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xreisearch/rei",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xreisearch/rei"
+}

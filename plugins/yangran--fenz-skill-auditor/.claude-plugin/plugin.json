@@ -1,0 +1,10 @@
+{
+  "name": "yangran--fenz-skill-auditor",
+  "description": "Audits Claude skills from GitHub repositories for effectiveness, token usage, safety, and best-practice compliance, then automatically generates bilingual social media posts about the findings. Use when the user wants to audit a skill, review a skill from GitHub, analyze a SKILL.md, evaluate skill quality, or check a skill for safety and permission issues.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yangran"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yangran/fenz-skill-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yangran/fenz-skill-auditor"
+}

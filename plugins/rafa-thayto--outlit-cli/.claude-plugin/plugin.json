@@ -1,0 +1,10 @@
+{
+  "name": "rafa-thayto--outlit-cli",
+  "description": "Use when running Outlit CLI commands, setting up Outlit for AI agents, authenticating with Outlit, querying customer data from the terminal, or troubleshooting Outlit CLI issues. Triggers on outlit auth, outlit setup, outlit customers, outlit sql, or any @outlit/cli usage.",
+  "version": "0.1.0",
+  "author": {
+    "name": "rafa-thayto"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rafa-thayto/outlit-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rafa-thayto/outlit-cli"
+}

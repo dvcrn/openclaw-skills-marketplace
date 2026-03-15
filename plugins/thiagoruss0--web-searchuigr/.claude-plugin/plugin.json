@@ -1,0 +1,10 @@
+{
+  "name": "thiagoruss0--web-searchuigr",
+  "description": "This skill should be used when users need to search the web for information, find current content, look up news articles, search for images, or find videos. It uses DuckDuckGo's search API to return results in clean, formatted output (text, markdown, or JSON). Use for research, fact-checking, finding recent information, or gathering web resources.",
+  "version": "1.0.0",
+  "author": {
+    "name": "thiagoruss0"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thiagoruss0/web-searchuigr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thiagoruss0/web-searchuigr"
+}

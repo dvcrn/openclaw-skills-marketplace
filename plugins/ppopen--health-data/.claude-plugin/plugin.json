@@ -1,0 +1,10 @@
+{
+  "name": "ppopen--health-data",
+  "description": "Analyze Apple Health exports (export.zip or the exported folder) using xmlstarlet/jq to summarize activity, steps, sleep, and source counts. Trigger this skill when users ask about \"health data\", \"sleep analysis\", \"activity summary\", \"Apple Health export\", \"steps report\", or other Apple Health record audits.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ppopen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ppopen/health-data",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ppopen/health-data"
+}

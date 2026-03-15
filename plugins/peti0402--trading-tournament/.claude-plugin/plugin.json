@@ -1,0 +1,10 @@
+{
+  "name": "peti0402--trading-tournament",
+  "description": "Run autonomous multi-agent trading competitions on OKX. 5 AI agents compete with real-time market data, evolutionary selection replaces losers daily, exchange-level stop-losses protect capital. Battle-tested framework for algorithmic trading research.",
+  "version": "1.0.0",
+  "author": {
+    "name": "peti0402"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/peti0402/trading-tournament",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/peti0402/trading-tournament"
+}

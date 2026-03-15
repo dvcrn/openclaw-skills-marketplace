@@ -1,0 +1,10 @@
+{
+  "name": "manuelfelipearias--mcp-colombia",
+  "description": "MCP Colombia Hub — aggregates Colombian services via MCP protocol. Soulprint identity verification integrated — verify Colombian users before sensitive operations. Use when: searching MercadoLibre products, finding hotels via Booking.com (real-time prices), searching flights (Avianca/LATAM/Skyscanner), applying to jobs with real listings from El Empleo/Computrabajo/LinkedIn, comparing CDTs, simulating credits/loans, or comparing bank accounts in Colombia. Requires an MCP-compatible client (Claude Desktop, OpenClaw, etc.).",
+  "version": "1.0.9",
+  "author": {
+    "name": "manuelfelipearias"
+  },
+  "homepage": "https://www.npmjs.com/package/mcp-colombia-hub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/manuelfelipearias/mcp-colombia"
+}

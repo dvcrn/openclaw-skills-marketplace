@@ -1,0 +1,10 @@
+{
+  "name": "kris-hansen--feelgoodbot",
+  "description": "Set up feelgoodbot file integrity monitoring and TOTP step-up authentication for macOS. Use when the user wants to detect malware, monitor for system tampering, set up security alerts, or require OTP verification for sensitive agent actions.",
+  "version": "1.1.0",
+  "author": {
+    "name": "kris-hansen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kris-hansen/feelgoodbot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kris-hansen/feelgoodbot"
+}

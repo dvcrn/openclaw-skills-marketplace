@@ -1,0 +1,10 @@
+{
+  "name": "sucriss--skill-isolator",
+  "description": "Project-based skill isolation and management. Enables different projects to use different skill sets with automatic loading based on current working directory. Supports multiple skill sources (clawhub, local, git, url) with priority-based resolution, version locking, and auto-sync. Use when: (1) working in a project with .openclaw-skills.json, (2) need to manage project-specific skills, (3) want to isolate skills between projects, (4) need to install skills from clawhub or other sources.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sucriss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sucriss/skill-isolator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sucriss/skill-isolator"
+}

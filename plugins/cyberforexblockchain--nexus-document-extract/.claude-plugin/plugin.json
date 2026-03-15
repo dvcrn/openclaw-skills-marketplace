@@ -1,0 +1,10 @@
+{
+  "name": "cyberforexblockchain--nexus-document-extract",
+  "description": "Extract structured data (names, dates, amounts, entities) from unstructured text documents using AI. Returns clean JSON with extracted fields.",
+  "version": "1.0.1",
+  "author": {
+    "name": "cyberforexblockchain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cyberforexblockchain/nexus-document-extract",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cyberforexblockchain/nexus-document-extract"
+}

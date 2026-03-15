@@ -1,0 +1,10 @@
+{
+  "name": "mrsirg97-rgb--torchdomainauctionbot",
+  "description": "Domain lending protocol on Solana. Domains become tokens. Tokens become collateral. Top holder controls the domain. Borrow SOL against your position -- but get liquidated and you lose the domain. Built on torchsdk v3.7.23 and the Torch Market protocol.",
+  "version": "2.0.1",
+  "author": {
+    "name": "mrsirg97-rgb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrsirg97-rgb/torchdomainauctionbot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrsirg97-rgb/torchdomainauctionbot"
+}

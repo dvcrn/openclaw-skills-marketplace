@@ -1,0 +1,10 @@
+{
+  "name": "jayjjimenez--indeed-monitor",
+  "description": "Monitor Indeed job postings for businesses hiring receptionists, customer service reps, or front desk staff in target areas. Each posting = a confirmed Gracie lead (they have call volume + budget). Outputs enriched lead list with company name, phone (when available), location, and pain point summary.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jayjjimenez"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jayjjimenez/indeed-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jayjjimenez/indeed-monitor"
+}

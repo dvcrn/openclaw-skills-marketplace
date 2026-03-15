@@ -1,0 +1,10 @@
+{
+  "name": "jeremysommerfeld8910-cpu--xdotool-control",
+  "description": "Mouse and keyboard automation using xdotool. Use when clicking Chrome extension icons, typing into GUI apps, switching browser tabs, automating desktop UI, or running screenshot-verify-click loops without a browser relay. Triggers on: 'click extension icon', 'click coordinates', 'type in window', 'switch tab', 'automate mouse', 'screenshot and click', 'xdotool', 'desktop automation', 'GUI automation without relay'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jeremysommerfeld8910-cpu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jeremysommerfeld8910-cpu/xdotool-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeremysommerfeld8910-cpu/xdotool-control"
+}

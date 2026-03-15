@@ -1,0 +1,10 @@
+{
+  "name": "jiangagentlabs--openclaw-tailscale-remote-access",
+  "description": "Configure or repair OpenClaw remote access over Tailscale with a directly executable workflow: inspect state, apply the gateway config, enable Tailscale Serve over HTTPS, validate browser access, and handle origin, DNS, or pairing failures.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jiangagentlabs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jiangagentlabs/openclaw-tailscale-remote-access",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jiangagentlabs/openclaw-tailscale-remote-access"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cezexpl--hippocampus-memory-core",
+  "description": "Deterministic external memory for OpenClaw and coding agents using S3-Hipokamp. Use for storing durable facts, retrieving prior decisions, snapshotting memory, and restoring agent state.",
+  "version": "0.1.1",
+  "author": {
+    "name": "cezexpl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cezexpl/hippocampus-memory-core",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cezexpl/hippocampus-memory-core"
+}

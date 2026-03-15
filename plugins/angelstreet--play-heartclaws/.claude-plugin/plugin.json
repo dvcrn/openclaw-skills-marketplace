@@ -1,0 +1,10 @@
+{
+  "name": "angelstreet--play-heartclaws",
+  "description": "Play HeartClaws — a headless AI strategy game. Connect via REST API, reason about strategy, and submit actions. Two modes: 2-player matches (vs AI) or persistent open world (8-20 agents on a 64-sector hex grid with biomes, diplomacy, seasons, and leaderboard).",
+  "version": "1.1.0",
+  "author": {
+    "name": "angelstreet"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/angelstreet/play-heartclaws",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/angelstreet/play-heartclaws"
+}

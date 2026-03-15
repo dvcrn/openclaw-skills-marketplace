@@ -1,0 +1,10 @@
+{
+  "name": "xushen-ma--apple-calendar-pro",
+  "description": "iCloud Calendar skill via CalDAV (RFC 4791) — works on macOS/Linux, and Windows with env/keyring auth. Supports event CRUD, multi-calendar queries, managed attachments (RFC 8607), and free/busy lookups.",
+  "version": "1.3.0",
+  "author": {
+    "name": "xushen-ma"
+  },
+  "homepage": "https://github.com/xushen-ma/apple-calendar-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xushen-ma/apple-calendar-pro"
+}

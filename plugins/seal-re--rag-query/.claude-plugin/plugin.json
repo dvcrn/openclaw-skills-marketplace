@@ -1,0 +1,10 @@
+{
+  "name": "seal-re--rag-query",
+  "description": "Query the RAG knowledge base (Qdrant kb_main) by semantic search. Returns top-k chunks with text, doc_id, source, text_type, topic_tags.",
+  "version": "1.0.1",
+  "author": {
+    "name": "seal-re"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seal-re/rag-query",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seal-re/rag-query"
+}

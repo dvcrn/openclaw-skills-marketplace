@@ -1,0 +1,10 @@
+{
+  "name": "gravyxbt--x-voice-match",
+  "description": "Analyze a Twitter/X account's posting style and generate authentic posts that match their voice. Use when the user wants to create X posts that sound like them, analyze their posting patterns, or maintain consistent voice across posts. Works with Bird CLI integration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gravyxbt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gravyxbt/x-voice-match",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gravyxbt/x-voice-match"
+}

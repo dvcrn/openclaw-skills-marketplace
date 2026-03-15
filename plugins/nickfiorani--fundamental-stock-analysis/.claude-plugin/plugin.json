@@ -1,0 +1,10 @@
+{
+  "name": "nickfiorani--fundamental-stock-analysis",
+  "description": "Fundamental equity analysis and peer ranking using a structured scoring playbook (quality, balance-sheet safety, cash flow, valuation, sector adjustments, confidence modifiers). Use when a user asks to analyze one or more stock tickers, compare peers, choose a best pick, or produce a fundamentals-based verdict.",
+  "version": "1.0.5",
+  "author": {
+    "name": "nickfiorani"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nickfiorani/fundamental-stock-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nickfiorani/fundamental-stock-analysis"
+}

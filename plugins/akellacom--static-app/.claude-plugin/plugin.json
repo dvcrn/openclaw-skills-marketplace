@@ -1,0 +1,10 @@
+{
+  "name": "akellacom--static-app",
+  "description": "Deploy static websites to Static.app hosting. Use when the user wants to deploy, upload, or host a static site on Static.app. Triggers on phrases like \"deploy to static.app\", \"upload to static\", \"host on static.app\", \"static.app deploy\", or when working with the Static.app hosting service.",
+  "version": "1.0.4",
+  "author": {
+    "name": "akellacom"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/akellacom/static-app",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/akellacom/static-app"
+}

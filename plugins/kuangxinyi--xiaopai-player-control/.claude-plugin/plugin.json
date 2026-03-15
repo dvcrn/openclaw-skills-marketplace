@@ -1,0 +1,10 @@
+{
+  "name": "kuangxinyi--xiaopai-player-control",
+  "description": "Control XiaoPai media player over LAN via HTTP/TCP. Use when asked to play videos, send remote-control keys, adjust volume, or query playback status on a XiaoPai player.",
+  "version": "1.1.0",
+  "author": {
+    "name": "kuangxinyi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kuangxinyi/xiaopai-player-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kuangxinyi/xiaopai-player-control"
+}

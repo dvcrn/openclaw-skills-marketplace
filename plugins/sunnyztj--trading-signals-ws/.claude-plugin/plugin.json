@@ -1,0 +1,10 @@
+{
+  "name": "sunnyztj--trading-signals-ws",
+  "description": "Real-time crypto trading signal generator using WebSocket price feeds. Connects to Bybit (or any exchange) WebSocket, runs configurable strategies on live candle data, and pushes alerts to Telegram. Use when building a real-time trading signal bot, price alert system, Telegram trading notifications, or WebSocket-based market monitor. Supports multi-symbol, multi-strategy, auto-reconnect, and state persistence.",
+  "version": "1.3.0",
+  "author": {
+    "name": "sunnyztj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunnyztj/trading-signals-ws",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunnyztj/trading-signals-ws"
+}

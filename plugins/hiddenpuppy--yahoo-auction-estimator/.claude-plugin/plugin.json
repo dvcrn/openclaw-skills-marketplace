@@ -1,0 +1,10 @@
+{
+  "name": "hiddenpuppy--yahoo-auction-estimator",
+  "description": "日本雅虎拍卖商品估价工具 - 自动获取商品信息、查询历史成交价、计算建议出价",
+  "version": "1.0.3",
+  "author": {
+    "name": "hiddenpuppy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/yahoo-auction-estimator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hiddenpuppy/yahoo-auction-estimator"
+}

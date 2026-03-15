@@ -1,0 +1,10 @@
+{
+  "name": "waao666--chinese-tts",
+  "description": "Generate Chinese TTS audio and send as Feishu voice message. Use when user asks for voice/audio/语音/播报/朗读 in Chinese, or when sending audio messages via Feishu.",
+  "version": "1.0.0",
+  "author": {
+    "name": "waao666"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/waao666/chinese-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/waao666/chinese-tts"
+}

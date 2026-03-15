@@ -1,0 +1,15 @@
+{
+  "name": "snapdesign-rednote",
+  "version": "1.0.0",
+  "description": "小红书风格卡片生成器",
+  "main": "scripts/generate.js",
+  "scripts": {
+    "test": "node scripts/generate.js '测试内容：如何高效学习？第一步选择方向。第二步持续练习。第三步总结复盘。'"
+  },
+  "keywords": ["xiaohongshu", "rednote", "card", "design"],
+  "author": "宝强",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^23.0.0"
+  }
+}

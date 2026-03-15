@@ -1,0 +1,10 @@
+{
+  "name": "rubenfb23--walkie-talkie-vigo",
+  "description": "Handles voice-to-voice conversations on WhatsApp. Automatically transcribes incoming audio and responds with local TTS audio. Use when the user wants to \"talk\" instead of type.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rubenfb23"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rubenfb23/walkie-talkie-vigo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rubenfb23/walkie-talkie-vigo"
+}

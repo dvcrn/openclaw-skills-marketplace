@@ -1,0 +1,10 @@
+{
+  "name": "manuelfelipearias--soulprint",
+  "description": "Soulprint decentralized identity verification for AI agents. v0.6.4 — blockchain-first architecture (no libp2p): state lives on Base Sepolia, 4 validator nodes on Railway, ZK proofs (Circom, local verification). Use when: proving a real human is behind a bot, issuing privacy-preserving identity proofs, running a validator node, adding identity verification middleware to an API or MCP server, checking bot reputation scores, or enforcing protocol-level configurable trust thresholds.",
+  "version": "1.0.25",
+  "author": {
+    "name": "manuelfelipearias"
+  },
+  "homepage": "https://soulprint.digital",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/manuelfelipearias/soulprint"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "aaron-he-zhu--internal-linking-optimizer",
+  "description": "This skill should be used when the user asks to \"fix internal links\", \"improve site architecture\", \"link structure\", \"distribute page authority\", \"internal linking strategy\", \"orphan pages\", \"site architecture is messy\", or \"pages have no links pointing to them\". Analyzes and optimizes internal link structure to improve site architecture, distribute page authority, and help search engines understand content relationships. Creates strategic internal linking plans. For a broader on-page audit, see on-page-seo-auditor. For external link analysis, see backlink-analyzer.",
+  "version": "3.0.0",
+  "author": {
+    "name": "aaron-he-zhu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/internal-linking-optimizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/internal-linking-optimizer"
+}

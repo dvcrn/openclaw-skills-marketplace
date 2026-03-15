@@ -1,0 +1,10 @@
+{
+  "name": "yalcindemir--turkey-news",
+  "description": "Türkiye'den önemli haberleri RSS ile çekip özetleyen skill. Cron ile otomatik bildirim yapar.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yalcindemir"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yalcindemir/turkey-news",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yalcindemir/turkey-news"
+}

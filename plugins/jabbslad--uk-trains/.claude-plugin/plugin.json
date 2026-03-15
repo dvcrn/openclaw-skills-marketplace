@@ -1,0 +1,10 @@
+{
+  "name": "jabbslad--uk-trains",
+  "description": "Query UK National Rail live departure boards, arrivals, delays, and train services. Use when asked about train times, departures, arrivals, delays, platforms, or \"when is the next train\" for UK railways. Supports all GB stations via Darwin/Huxley2 API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jabbslad"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jabbslad/uk-trains",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jabbslad/uk-trains"
+}

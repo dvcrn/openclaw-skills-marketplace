@@ -1,0 +1,10 @@
+{
+  "name": "gao-tech1--paper-briefing-assistant",
+  "description": "Engineering literature survey following Academic Research methodology. Two modes (initial survey / daily reading), two-phase workflow with user checkpoints, IEEE citations, structured briefs with tables and charts. Prioritizes IEEE Trans, Science Robotics, and reproducibility. Self-contained using web_search, web_fetch, sessions_spawn. For researchers who already know their direction and need to track field progress.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gao-tech1"
+  },
+  "homepage": "https://github.com/kesslerio/academic-deep-research-clawhub-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gao-tech1/paper-briefing-assistant"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--ai-audit-fix",
+  "description": "Analyze npm audit output with AI and get actionable fix suggestions. Use when dealing with security vulnerabilities.",
+  "version": "1.0.2",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/ai-audit-fix",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/ai-audit-fix"
+}

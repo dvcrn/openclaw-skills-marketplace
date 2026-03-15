@@ -1,0 +1,10 @@
+{
+  "name": "johnnywang2001--http-sec-audit",
+  "description": "Audit HTTP security headers for any website. Use when a user asks to check security headers, harden a web server, audit HSTS/CSP/X-Frame-Options compliance, find information leaks (Server, X-Powered-By), or assess a website's security posture. Checks 10 security headers and grades A–F. Supports multiple URLs and JSON output.",
+  "version": "1.0.0",
+  "author": {
+    "name": "johnnywang2001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/http-sec-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/http-sec-audit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "angelstreet--pikaboard",
+  "description": "Interact with PikaBoard task management API. Use when creating, updating, listing, or managing tasks. Agent-first kanban for AI teams. Triggers on: tasks, kanban, board, todo, backlog, sprint.",
+  "version": "1.0.3",
+  "author": {
+    "name": "angelstreet"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/angelstreet/pikaboard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/angelstreet/pikaboard"
+}

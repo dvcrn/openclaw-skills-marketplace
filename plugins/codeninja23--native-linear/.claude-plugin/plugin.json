@@ -1,0 +1,10 @@
+{
+  "name": "codeninja23--native-linear",
+  "description": "Query and manage Linear issues, projects, cycles, and teams via the Linear GraphQL API. Use when you need to list or create issues, check cycle status, manage projects, or search across your workspace. Calls api.linear.app directly with no third-party proxy.",
+  "version": "1.0.1",
+  "author": {
+    "name": "codeninja23"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codeninja23/native-linear",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codeninja23/native-linear"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hynek-urban--latchkey",
+  "description": "Interact with arbitrary third-party or self-hosted services (AWS, Slack, Google Drive, Dropbox, GitHub, GitLab, Linear, Coolify...) using their HTTP APIs.",
+  "version": "2.3.0+5",
+  "author": {
+    "name": "hynek-urban"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hynek-urban/latchkey",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hynek-urban/latchkey"
+}

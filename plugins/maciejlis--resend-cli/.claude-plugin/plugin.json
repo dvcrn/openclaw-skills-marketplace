@@ -1,0 +1,10 @@
+{
+  "name": "maciejlis--resend-cli",
+  "description": "Send and manage emails via the Resend CLI. Covers sending, domains, contacts, segments, broadcasts, templates, topics, webhooks, and API keys.",
+  "version": "1.0.5",
+  "author": {
+    "name": "maciejlis"
+  },
+  "homepage": "https://github.com/resend/resend-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maciejlis/resend-cli"
+}

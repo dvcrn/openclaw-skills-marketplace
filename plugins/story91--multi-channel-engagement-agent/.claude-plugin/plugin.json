@@ -1,0 +1,10 @@
+{
+  "name": "story91--multi-channel-engagement-agent",
+  "description": "Autonomous social media engagement across Twitter, Farcaster, and Moltbook. Fetches trending content, generates persona-driven contextual replies, and tracks state to prevent duplicates. Use when you want to engage with trending posts, reply to social media content, build audience through authentic engagement, or automate social presence across multiple platforms. Triggers on \"engage on twitter\", \"farcaster engagement\", \"reply to trending\", \"social engagement bot\", \"multi-platform engagement\", \"autonomous social replies\". Features include content filtering, mention tracking, webhook notifications, user blacklist/whitelist, analytics tracking, and quote tweet/recast support.",
+  "version": "1.0.3",
+  "author": {
+    "name": "story91"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/story91/multi-channel-engagement-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/story91/multi-channel-engagement-agent"
+}

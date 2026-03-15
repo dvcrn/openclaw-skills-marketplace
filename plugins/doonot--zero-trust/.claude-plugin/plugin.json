@@ -1,0 +1,10 @@
+{
+  "name": "doonot--zero-trust",
+  "description": "Security-first behavioral guidelines for cautious agent operation. Use this skill for ALL operations involving external resources, installations, credentials, or actions with external effects. Triggers on - any URL/link interaction, package installations, API key handling, sending emails/messages, social media posts, financial transactions, or any action that could expose data or have irreversible effects.",
+  "version": "1.0.0",
+  "author": {
+    "name": "doonot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/doonot/zero-trust",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/doonot/zero-trust"
+}

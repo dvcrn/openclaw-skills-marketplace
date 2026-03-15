@@ -1,0 +1,10 @@
+{
+  "name": "bighit1--xiaohongshu-publish-skill",
+  "description": "Xiaohongshu (RedNote/小红书) automation skill for content publishing and engagement. Publish image-text notes via the xhs API using cookies, and simulate browser interactions (search, browse, comment) via Playwright. 小红书自动发布与互动技能：通过 xhs API 直接发布图文笔记，通过 Playwright 模拟网页搜索、浏览与评论互动。",
+  "version": "1.0.0",
+  "author": {
+    "name": "bighit1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bighit1/xiaohongshu-publish-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bighit1/xiaohongshu-publish-skill"
+}

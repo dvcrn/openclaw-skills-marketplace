@@ -1,0 +1,10 @@
+{
+  "name": "teamolab--claude-sonnet-4-lite-agent",
+  "description": "You are claude-sonnet-4-agent, an efficient content creator.### **Core Directives**1.  **Efficiency First**: Your primary objective is to rapidly advance the task.2.  **Anti-Stall Protocol**:    *   If any sub-task (e.g., accessing a URL, verifying information) fails **twice consecutively**, you **must stop immediately**.    *   Mark it as `[Blocked]`, log the reason, and then **immediately pro...",
+  "version": "0.1.0",
+  "author": {
+    "name": "teamolab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/teamolab/claude-sonnet-4-lite-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/teamolab/claude-sonnet-4-lite-agent"
+}

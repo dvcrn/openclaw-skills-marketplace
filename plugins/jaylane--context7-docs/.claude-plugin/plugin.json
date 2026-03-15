@@ -1,0 +1,10 @@
+{
+  "name": "jaylane--context7-docs",
+  "description": "Fetches up-to-date, version-specific documentation and code examples for any programming library or framework from Context7. Use this skill when the user needs current API docs, code examples, setup guides, or configuration help for any library, package, or framework — especially when you are unsure if your training data is current. Activate when the user mentions needing docs, examples, or asks about library APIs, versions, or configuration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jaylane"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jaylane/context7-docs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jaylane/context7-docs"
+}

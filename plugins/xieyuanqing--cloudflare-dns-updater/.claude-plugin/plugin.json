@@ -1,0 +1,10 @@
+{
+  "name": "xieyuanqing--cloudflare-dns-updater",
+  "description": "Creates or updates a proxied Cloudflare DNS A record. Use when you need to programmatically point a subdomain to an IP address. Takes record name, zone name, and IP address as input.",
+  "version": "0.1.1",
+  "author": {
+    "name": "xieyuanqing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xieyuanqing/cloudflare-dns-updater",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xieyuanqing/cloudflare-dns-updater"
+}

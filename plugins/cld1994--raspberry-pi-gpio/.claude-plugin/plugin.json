@@ -1,0 +1,10 @@
+{
+  "name": "cld1994--raspberry-pi-gpio",
+  "description": "在树莓派中配置和使用GPIO. 何时触发: 需要对 LED, Button 这类简单外设进行控制时, 需要对 Servo, Motors 进行简单控制时, 或需要直接控制GPIO时. 不要触发: 当硬件载体不是树莓派时, 当需要精确控制 Servo, Motors时.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cld1994"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cld1994/raspberry-pi-gpio",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cld1994/raspberry-pi-gpio"
+}

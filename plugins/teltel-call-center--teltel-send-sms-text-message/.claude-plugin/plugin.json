@@ -1,0 +1,10 @@
+{
+  "name": "teltel-call-center--teltel-send-sms-text-message",
+  "description": "Send SMS text messages via TelTel (teltel.io) using the REST API (api.teltel.io). Includes bulk send, delivery report, and bulk sms.",
+  "version": "1.0.1",
+  "author": {
+    "name": "teltel-call-center"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/teltel-call-center/teltel-send-sms-text-message",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/teltel-call-center/teltel-send-sms-text-message"
+}

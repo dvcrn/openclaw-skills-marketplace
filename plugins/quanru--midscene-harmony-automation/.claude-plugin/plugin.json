@@ -1,0 +1,10 @@
+{
+  "name": "quanru--midscene-harmony-automation",
+  "description": "Vision-driven HarmonyOS NEXT device automation using Midscene. Operates entirely from screenshots — no DOM or accessibility labels required. Can interact with all visible elements on screen regardless of technology stack. Control HarmonyOS devices with natural language commands via HDC. Perform taps, swipes, text input, app launches, screenshots, and more. Trigger keywords: harmony, harmonyos, 鸿蒙, hdc, huawei device, harmony app, harmony automation, harmony phone, harmony tablet Powered by Midscene.js (https://midscenejs.com)",
+  "version": "1.0.3",
+  "author": {
+    "name": "quanru"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/quanru/midscene-harmony-automation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/quanru/midscene-harmony-automation"
+}

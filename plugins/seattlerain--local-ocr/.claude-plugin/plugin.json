@@ -1,0 +1,10 @@
+{
+  "name": "seattlerain--local-ocr",
+  "description": "本地离线 HLA 分型报告 OCR 解析。支持多种医院报告格式（8204-, 8316-, 8273-, 20251102xxxx, 密集表头等），自动识别并提取样本信息与等位基因数据。",
+  "version": "1.0.0",
+  "author": {
+    "name": "seattlerain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seattlerain/local-ocr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seattlerain/local-ocr"
+}

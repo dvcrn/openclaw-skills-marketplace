@@ -1,0 +1,10 @@
+{
+  "name": "bzsega--smtools-image-generation",
+  "description": "Generate images from text prompts using AI models via OpenRouter or Kie.ai. Use when the user asks to generate, create, draw, or illustrate an image.",
+  "version": "1.4.1",
+  "author": {
+    "name": "bzsega"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bzsega/smtools-image-generation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bzsega/smtools-image-generation"
+}

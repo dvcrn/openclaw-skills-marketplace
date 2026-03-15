@@ -1,0 +1,10 @@
+{
+  "name": "jmartel-olvid--olvid-channel",
+  "description": "Add a native Olvid channel in OpenClaw.",
+  "version": "0.1.0",
+  "author": {
+    "name": "jmartel-olvid"
+  },
+  "homepage": "https://doc.bot.olvid.io/openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jmartel-olvid/olvid-channel"
+}

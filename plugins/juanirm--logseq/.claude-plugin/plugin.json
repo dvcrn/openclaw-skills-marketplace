@@ -1,0 +1,10 @@
+{
+  "name": "juanirm--logseq",
+  "description": "Provide commands for interacting with a local Logseq instance through its Plugin API. Use for creating pages, inserting blocks, querying the graph database, managing tasks, retrieving content, or automating workflows in Logseq. Only works with a locally running instance with the API enabled; default port or set path expected for [$API accessible skill].",
+  "version": "1.0.0",
+  "author": {
+    "name": "juanirm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/juanirm/logseq",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/juanirm/logseq"
+}

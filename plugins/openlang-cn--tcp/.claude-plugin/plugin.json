@@ -1,0 +1,10 @@
+{
+  "name": "openlang-cn--tcp",
+  "description": "Helps with TCP sockets, client/server connections, and network debugging. Use when the user needs to open TCP connections, write socket code, test ports, debug connection refused or timeouts, or work with raw TCP protocols.",
+  "version": "1.0.0",
+  "author": {
+    "name": "openlang-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/tcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/tcp"
+}

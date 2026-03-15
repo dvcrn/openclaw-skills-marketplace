@@ -1,0 +1,10 @@
+{
+  "name": "koba42corp--chia-splitxch",
+  "description": "Create SplitXCH royalty split addresses from plain language descriptions. Use when the user wants to split XCH payments, royalties, or revenue between multiple recipients. Triggers on \"split royalties\", \"royalty split\", \"splitxch\", \"split XCH between\", \"revenue share\", \"payment split\", \"basis points split\", or any request to divide Chia payments among wallets. Supports nested/cascading splits for complex hierarchies and 128+ recipients.",
+  "version": "1.0.0",
+  "author": {
+    "name": "koba42corp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/koba42corp/chia-splitxch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/koba42corp/chia-splitxch"
+}

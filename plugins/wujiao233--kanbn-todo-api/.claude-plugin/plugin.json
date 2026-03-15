@@ -1,0 +1,10 @@
+{
+  "name": "wujiao233--kanbn-todo-api",
+  "description": "Manage personal TODOs in Kan.bn through API-driven operations. Use this whenever the user wants to create, update, move, prioritize, search, summarize, or clean up their own Kan.bn tasks or board data, even if they do not explicitly mention the API. Trigger on requests like \"add a todo\", \"mark this P1\", \"move this to done\", \"find my invoice task\", \"update my Kan.bn profile\", or similar single-user Kan.bn task-management workflows. Exclude multi-user collaboration, invites, integrations/imports, and attachments.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wujiao233"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wujiao233/kanbn-todo-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wujiao233/kanbn-todo-api"
+}

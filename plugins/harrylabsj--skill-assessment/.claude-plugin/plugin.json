@@ -1,0 +1,10 @@
+{
+  "name": "harrylabsj--skill-assessment",
+  "description": "Evaluate OpenClaw skills with lightweight static analysis across documentation completeness, code quality, configuration friendliness, and maintenance signals. Use when comparing skills, checking release readiness, or finding weaknesses before publishing.",
+  "version": "1.0.1",
+  "author": {
+    "name": "harrylabsj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/skill-assessment",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/skill-assessment"
+}

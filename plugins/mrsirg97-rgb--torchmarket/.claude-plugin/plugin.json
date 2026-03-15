@@ -1,0 +1,10 @@
+{
+  "name": "mrsirg97-rgb--torchmarket",
+  "description": "Torch Vault is a full-custody on-chain escrow for AI agents on Solana. The vault holds all assets -- SOL and tokens. The agent wallet is a disposable controller that signs transactions but holds nothing of value. No private key with funds required. The vault can be created and funded entirely by the human principal -- the agent only needs an RPC endpoint to read state and build unsigned transactions. Authority separation means instant revocation, permissionless deposits, and authority-only withdrawals. Built on Torch Market -- a programmable economic substrate where every token is its own self-sustaining economy with bonding curves, community treasuries, lending markets, and governance.",
+  "version": "4.7.17",
+  "author": {
+    "name": "mrsirg97-rgb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrsirg97-rgb/torchmarket",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrsirg97-rgb/torchmarket"
+}

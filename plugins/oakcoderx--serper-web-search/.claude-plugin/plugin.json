@@ -1,0 +1,10 @@
+{
+  "name": "oakcoderx--serper-web-search",
+  "description": "Google search via Serper API. Use when you need to search the web and the user has a Serper API key. Triggers on: (1) user asks to search the web, (2) user wants Google search results, (3) user provides a Serper API key.",
+  "version": "1.0.0",
+  "author": {
+    "name": "oakcoderx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oakcoderx/serper-web-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oakcoderx/serper-web-search"
+}

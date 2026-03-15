@@ -1,0 +1,10 @@
+{
+  "name": "xinbenlv--modelsense",
+  "description": "ModelSense — The right model for the right job. Recommends the best LLM model and effort level for any task, based on benchmark data, task analysis, and the user's configured providers. Use when the user asks \"which model should I use?\", \"what's the best model for X?\", or wants help choosing between models/effort levels.",
+  "version": "0.1.0",
+  "author": {
+    "name": "xinbenlv"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xinbenlv/modelsense",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xinbenlv/modelsense"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "shaniidev--bug-reaper",
+  "description": "Web2 bug bounty hunting agent — evidence-based vulnerability finder and report writer. Use when: auditing web apps/APIs for HackerOne, Bugcrowd, Intigriti, YesWeHack; hunting XSS, SQLi, NoSQLi, SSRF, IDOR, auth bypass, RCE, SSTI, LFI, XXE, CORS, CSRF, prototype pollution, subdomain takeover, HTTP smuggling, open redirect, API/GraphQL bugs; auditing locally downloaded GitHub repos or source code (white-box/source code review); writing platform-specific reports. Trigger on: 'pentest', 'find bugs', 'security audit', 'bug bounty', 'find vulnerabilities', 'source code review', 'audit this repo', 'review repo', 'white-box', 'local repo', vulnerability class names, or program/target names. Reports only real, confirmed medium+ severity bugs that pass real triage.",
+  "version": "0.0.5",
+  "author": {
+    "name": "shaniidev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shaniidev/bug-reaper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shaniidev/bug-reaper"
+}

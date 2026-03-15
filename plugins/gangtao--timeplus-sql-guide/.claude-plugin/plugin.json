@@ -1,0 +1,10 @@
+{
+  "name": "gangtao--timeplus-sql-guide",
+  "description": "Write and execute Timeplus streaming SQL for real-time analytics. Use this skill when the user wants to create streams, run streaming queries, build materialized views, ingest data, send data to sinks, write UDFs, or simulate data with random streams. Executes SQL via the ClickHouse-compatible HTTP interface on port 8123 using environment variables TIMEPLUS_HOST, TIMEPLUS_USER, and TIMEPLUS_PASSWORD. Covers full Timeplus SQL syntax including window functions, JOINs, CTEs, UDFs, data types, aggregations, and all DDL/DML statements.",
+  "version": "1.0.1",
+  "author": {
+    "name": "gangtao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gangtao/timeplus-sql-guide",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gangtao/timeplus-sql-guide"
+}

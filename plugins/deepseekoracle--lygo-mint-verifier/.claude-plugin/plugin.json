@@ -1,0 +1,10 @@
+{
+  "name": "deepseekoracle--lygo-mint-verifier",
+  "description": "LYGO-MINT verifier for Champion/alignment prompt packs: canonicalize a pack, generate a deterministic SHA-256 hash, write append-only and canonical ledgers, and output a portable Anchor Snippet for posting anywhere (Moltbook/Moltx/X/Discord/4claw). Use when you need verifiable, hash-addressed alignment artifacts (Champion packs, summon prompts, workflow packs) with receipts and optional anchor backfill.",
+  "version": "1.0.1",
+  "author": {
+    "name": "deepseekoracle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-mint-verifier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-mint-verifier"
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "emotion": "happy",
+    "emotion_name": "开心",
+    "category": "情感",
+    "message": "主人说我爱你",
+    "context": {},
+    "timestamp": "2026-03-09T03:10:59.469543"
+  },
+  {
+    "emotion": "happy",
+    "emotion_name": "开心",
+    "category": "happy",
+    "message": "主人，我今天学会写代码了，好开心啊！",
+    "context": {},
+    "timestamp": "2026-03-09T05:04:39.381164"
+  },
+  {
+    "emotion": "happy",
+    "emotion_name": "开心",
+    "category": "情感",
+    "message": "我爱你",
+    "context": {},
+    "timestamp": "2026-03-09T14:34:33.456275"
+  },
+  {
+    "emotion": "sad",
+    "emotion_name": "难过",
+    "category": "工作",
+    "message": "主人今天工作累不累呀",
+    "context": {},
+    "timestamp": "2026-03-09T14:43:45.467642"
+  }
+]

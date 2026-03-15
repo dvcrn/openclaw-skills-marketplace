@@ -1,0 +1,10 @@
+{
+  "name": "aaron-he-zhu--domain-authority-auditor",
+  "description": "This skill should be used when the user asks to \"audit domain authority\", \"domain trust score\", \"CITE audit\", \"how authoritative is my site\", \"domain credibility check\", \"is my domain trustworthy\", or \"domain credibility score\". Runs a full CITE 40-item domain authority audit, scoring domains across 4 dimensions with weighted scoring by domain type. Produces a detailed report with per-item scores, dimension analysis, veto checks, and a prioritized action plan. For content-level assessment, see content-quality-auditor. For link profile details, see backlink-analyzer.",
+  "version": "3.0.0",
+  "author": {
+    "name": "aaron-he-zhu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/domain-authority-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/domain-authority-auditor"
+}

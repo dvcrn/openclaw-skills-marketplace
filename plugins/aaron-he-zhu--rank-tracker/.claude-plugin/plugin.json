@@ -1,0 +1,10 @@
+{
+  "name": "aaron-he-zhu--rank-tracker",
+  "description": "This skill should be used when the user asks to \"track rankings\", \"check keyword positions\", \"ranking changes\", \"monitor SERP positions\", \"how am I ranking\", \"where do I rank for this keyword\", \"did my rankings change\", or \"keyword position tracking\". Tracks and analyzes keyword ranking positions over time for both traditional search results and AI-generated responses. Monitors ranking changes, identifies trends, and alerts on significant movements. For automated alerting, see alert-manager. For comprehensive reports, see performance-reporter.",
+  "version": "3.0.0",
+  "author": {
+    "name": "aaron-he-zhu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/rank-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/rank-tracker"
+}

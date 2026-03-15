@@ -1,0 +1,10 @@
+{
+  "name": "jo-minjun--smart-memory-query",
+  "description": "Enforce proactive, query-optimized memory_search usage. Must run memory_search when (1) prior context is referenced, (2) a new task starts, or (3) a proper noun appears. Build short 2–4 token queries by splitting intent to avoid empty AND-based FTS results.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jo-minjun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jo-minjun/smart-memory-query",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jo-minjun/smart-memory-query"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "shiiyyo--vibe-coding-workflow",
+  "description": "Structured 5-phase AI-assisted development workflow (requirements → architecture → code generation → debugging → iteration). Use when the user mentions \"vibe coding\", wants a structured multi-phase AI collaboration for a software project, says \"help me build a project step by step\", asks how to start a new feature or project with AI, encounters bugs they can't resolve, wants to refactor messy code, or asks about AI-assisted development workflows. Also use when the user says \"Phase 1/2/3/4/5\", \"requirements doc\", \"architecture design\", or explicitly asks to \"follow the workflow\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "shiiyyo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shiiyyo/vibe-coding-workflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shiiyyo/vibe-coding-workflow"
+}

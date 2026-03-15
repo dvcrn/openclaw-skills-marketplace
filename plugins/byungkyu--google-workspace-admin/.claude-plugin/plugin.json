@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--google-workspace-admin",
+  "description": "Google Workspace Admin SDK integration with managed OAuth. Manage users, groups, organizational units, and domain settings. Use this skill when users want to administer Google Workspace. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.4",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/google-workspace-admin",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/google-workspace-admin"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "finderstrategy-cyber--antigravity-balance",
+  "description": "Check Google Antigravity AI model quota/token balance. Use when a user asks about their Antigravity usage, remaining tokens, model limits, quota status, or rate limits. Works by detecting the local Antigravity language server process and querying its API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "finderstrategy-cyber"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/finderstrategy-cyber/antigravity-balance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/finderstrategy-cyber/antigravity-balance"
+}

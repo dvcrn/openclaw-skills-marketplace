@@ -1,0 +1,10 @@
+{
+  "name": "itzsubhadip--stealthy-google-search",
+  "description": "Google search via Scrapling’s StealthyFetcher/StealthySession. Use to run Google queries and return clean top-result titles + links (plain text or JSON). Includes a deterministic install script that sets up a local venv and installs Scrapling fetchers + browsers.",
+  "version": "0.1.0",
+  "author": {
+    "name": "itzsubhadip"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/itzsubhadip/stealthy-google-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/itzsubhadip/stealthy-google-search"
+}

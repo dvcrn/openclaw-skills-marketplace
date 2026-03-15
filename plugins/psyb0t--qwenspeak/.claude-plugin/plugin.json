@@ -1,0 +1,10 @@
+{
+  "name": "psyb0t--qwenspeak",
+  "description": "Text-to-speech generation via Qwen3-TTS over SSH. Preset voices, voice cloning, voice design. Use when the user wants to generate speech audio, clone voices, or work with TTS.",
+  "version": "1.5.0",
+  "author": {
+    "name": "psyb0t"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/psyb0t/qwenspeak",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/psyb0t/qwenspeak"
+}

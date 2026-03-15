@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--jwt-decode",
+  "description": "Decode and inspect JWT tokens from command line. Check expiration, extract claims, debug auth. No more jwt.io tabs. Free CLI tool.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/jwt-decode",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/jwt-decode"
+}

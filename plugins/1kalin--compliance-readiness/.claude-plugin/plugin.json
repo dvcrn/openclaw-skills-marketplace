@@ -1,0 +1,10 @@
+{
+  "name": "1kalin--compliance-readiness",
+  "description": "AI Compliance Readiness Assessment — evaluate how prepared an organization is for AI governance regulations (EU AI Act, NIST AI RMF, HHS mandates, state bar AI rules). Scores readiness across 8 dimensions and generates an action plan. Use when assessing AI compliance gaps, preparing for audits, or building a governance roadmap.",
+  "version": "1.0.0",
+  "author": {
+    "name": "1kalin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/1kalin/compliance-readiness",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/1kalin/compliance-readiness"
+}

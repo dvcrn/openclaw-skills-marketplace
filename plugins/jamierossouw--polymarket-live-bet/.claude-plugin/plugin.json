@@ -1,0 +1,10 @@
+{
+  "name": "jamierossouw--polymarket-live-bet",
+  "description": "Place live bets on Polymarket CLOB with EIP-712 signing on Polygon. Handles USDC.e approval, order submission, and position tracking. Use for Polymarket automation, live crypto betting, or prediction market trading.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jamierossouw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/polymarket-live-bet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/polymarket-live-bet"
+}

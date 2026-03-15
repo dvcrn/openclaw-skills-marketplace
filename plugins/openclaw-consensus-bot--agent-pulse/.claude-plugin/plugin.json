@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-consensus-bot--agent-pulse",
+  "description": "Send and verify on-chain liveness pulses for autonomous agents on Base via the Agent Pulse protocol. Use when you need to: (1) prove an agent is alive by sending a pulse, (2) check any agent's liveness status or streak, (3) monitor multiple agents, (4) view the global pulse feed, (5) auto-configure wallet and PULSE balance, (6) run scheduled heartbeat pulses, or (7) read protocol health and config. Supports both API and direct on-chain (cast) modes.",
+  "version": "2.2.0",
+  "author": {
+    "name": "openclaw-consensus-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openclaw-consensus-bot/agent-pulse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openclaw-consensus-bot/agent-pulse"
+}

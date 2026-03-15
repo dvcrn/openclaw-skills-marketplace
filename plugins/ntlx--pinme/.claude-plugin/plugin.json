@@ -1,0 +1,10 @@
+{
+  "name": "ntlx--pinme",
+  "description": "Deploy static websites to IPFS with a single command using PinMe CLI.\n Use when: (1) User wants to deploy a built frontend project, (2) Need to upload static files (dist/build/out/public) to IPFS, (3) Requesting preview URL for a deployed site.\n Supports: Vite, React, Vue, Next.js, Angular, Create React App, and static sites.\n Output: Preview URL (https://pinme.eth.limo/#/preview/*) after successful upload.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ntlx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ntlx/pinme",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ntlx/pinme"
+}

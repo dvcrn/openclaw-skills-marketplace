@@ -1,0 +1,10 @@
+{
+  "name": "topitip--imap-idle",
+  "description": "Event-driven email monitoring using IMAP IDLE protocol. Replaces polling with instant push notifications via OpenClaw webhooks. Use when setting up email monitoring, replacing hourly email checks, or implementing event-driven email processing. Monitors multiple IMAP accounts, triggers webhooks on new mail, zero tokens while waiting.",
+  "version": "1.4.0",
+  "author": {
+    "name": "topitip"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/topitip/imap-idle",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/topitip/imap-idle"
+}

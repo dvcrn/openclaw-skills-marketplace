@@ -1,0 +1,10 @@
+{
+  "name": "bigsan--openclaw-updater",
+  "description": "Safely update OpenClaw with pre-flight checks and rollback support. Use when updating OpenClaw, checking for updates, or recovering from a failed update. Handles workspace git commits, config backups, version rollback, and post-update verification.",
+  "version": "1.6.0",
+  "author": {
+    "name": "bigsan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bigsan/openclaw-updater",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bigsan/openclaw-updater"
+}

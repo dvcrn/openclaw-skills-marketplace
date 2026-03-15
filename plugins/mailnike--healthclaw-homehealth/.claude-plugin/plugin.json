@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--healthclaw-homehealth",
+  "description": "Home Health expansion for HealthClaw -- home visits, 485 care plans, OASIS assessments, and aide assignment management for home health agencies.",
+  "version": "2.1.0",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.healthclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/healthclaw-homehealth"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ivangdavila--excel-xlsx",
+  "description": "Create, inspect, and edit Microsoft Excel workbooks and XLSX files with reliable formulas, dates, types, formatting, recalculation, and template preservation. Use when (1) the task is about Excel, `.xlsx`, `.xlsm`, `.xls`, `.csv`, or `.tsv`; (2) formulas, formatting, workbook structure, or compatibility matter; (3) the file must stay reliable after edits.",
+  "version": "1.0.2",
+  "author": {
+    "name": "ivangdavila"
+  },
+  "homepage": "https://clawic.com/skills/excel-xlsx",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/excel-xlsx"
+}

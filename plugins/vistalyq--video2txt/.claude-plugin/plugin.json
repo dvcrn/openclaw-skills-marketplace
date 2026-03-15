@@ -1,0 +1,10 @@
+{
+  "name": "vistalyq--video2txt",
+  "description": "Extract transcripts/subtitles from video URLs and deliver as .docx files. Use this skill whenever the user provides a video link (YouTube, Bilibili, or any yt-dlp supported platform) and asks for a transcript, subtitles, lecture notes, or spoken content in text form. Also trigger when user says \"帮我把这个视频转成文字\", \"视频讲稿\", \"字幕文档\", \"transcript\", \"lecture notes from video\", or pastes a video URL with any request to get the text content.",
+  "version": "1.0.1",
+  "author": {
+    "name": "vistalyq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vistalyq/video2txt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vistalyq/video2txt"
+}

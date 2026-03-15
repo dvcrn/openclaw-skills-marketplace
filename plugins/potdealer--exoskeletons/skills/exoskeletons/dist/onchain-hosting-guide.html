@@ -1,0 +1,1107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kill Your Hosting Bill — Host Websites Onchain with Net Protocol</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0a0a0f;
+  --bg-card: #12121a;
+  --bg-code: #1a1a26;
+  --bg-highlight: #1e1e2e;
+  --gold: #FFD700;
+  --green: #00FFAA;
+  --cyan: #44DDFF;
+  --red: #FF4466;
+  --orange: #FF9944;
+  --text: #E8E4DC;
+  --text-dim: #9A9484;
+  --text-muted: #5A5448;
+  --border: #2a2a3a;
+  --purple: #BB88FF;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 24px 20px 80px;
+}
+
+/* Hero */
+.hero {
+  text-align: center;
+  padding: 60px 0 40px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 48px;
+}
+
+.hero h1 {
+  font-size: clamp(28px, 5vw, 42px);
+  font-weight: 800;
+  color: var(--gold);
+  margin-bottom: 16px;
+  letter-spacing: -0.5px;
+}
+
+.hero .subtitle {
+  font-size: clamp(16px, 2.5vw, 20px);
+  color: var(--text-dim);
+  max-width: 600px;
+  margin: 0 auto 24px;
+}
+
+.hero .tagline {
+  display: inline-block;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 12px 24px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 14px;
+  color: var(--green);
+}
+
+/* Cost comparison */
+.cost-compare {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin: 32px 0;
+}
+
+.cost-box {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 24px;
+  text-align: center;
+}
+
+.cost-box.old {
+  border-color: var(--red);
+}
+
+.cost-box.new {
+  border-color: var(--green);
+}
+
+.cost-box .label {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--text-dim);
+  margin-bottom: 8px;
+}
+
+.cost-box .price {
+  font-size: 32px;
+  font-weight: 800;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.cost-box.old .price { color: var(--red); }
+.cost-box.new .price { color: var(--green); }
+
+.cost-box .period {
+  font-size: 13px;
+  color: var(--text-dim);
+  margin-top: 4px;
+}
+
+/* Sections */
+h2 {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--gold);
+  margin: 48px 0 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--cyan);
+  margin: 32px 0 12px;
+}
+
+h4 {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--text);
+  margin: 20px 0 8px;
+}
+
+p {
+  margin-bottom: 16px;
+  color: var(--text);
+}
+
+a {
+  color: var(--cyan);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Lists */
+ul, ol {
+  margin: 0 0 16px 24px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+li strong {
+  color: var(--green);
+}
+
+/* Code blocks */
+pre {
+  background: var(--bg-code);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px 20px;
+  overflow-x: auto;
+  margin: 16px 0;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--text);
+}
+
+code {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.9em;
+  background: var(--bg-code);
+  padding: 2px 6px;
+  border-radius: 4px;
+  color: var(--green);
+  overflow-wrap: break-word;
+  word-break: break-all;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+  color: inherit;
+  word-break: normal;
+}
+
+.code-comment { color: var(--text-muted); }
+.code-string { color: var(--green); }
+.code-keyword { color: var(--purple); }
+.code-flag { color: var(--orange); }
+
+/* Info boxes */
+.info-box {
+  background: var(--bg-card);
+  border-left: 3px solid var(--cyan);
+  border-radius: 0 8px 8px 0;
+  padding: 16px 20px;
+  margin: 20px 0;
+}
+
+.info-box.warning {
+  border-left-color: var(--orange);
+}
+
+.info-box.success {
+  border-left-color: var(--green);
+}
+
+.info-box.cost {
+  border-left-color: var(--gold);
+}
+
+.info-box strong {
+  color: var(--cyan);
+}
+
+.info-box.warning strong { color: var(--orange); }
+.info-box.success strong { color: var(--green); }
+.info-box.cost strong { color: var(--gold); }
+
+/* Steps */
+.step {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 24px;
+  margin: 24px 0;
+  position: relative;
+}
+
+.step-number {
+  position: absolute;
+  top: -12px;
+  left: 20px;
+  background: var(--gold);
+  color: var(--bg);
+  font-weight: 700;
+  font-size: 13px;
+  padding: 2px 12px;
+  border-radius: 12px;
+}
+
+.step h3 {
+  margin-top: 4px;
+  margin-bottom: 12px;
+}
+
+/* Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0;
+  font-size: 14px;
+}
+
+th {
+  background: var(--bg-code);
+  text-align: left;
+  padding: 10px 14px;
+  font-weight: 600;
+  color: var(--gold);
+  border-bottom: 2px solid var(--border);
+}
+
+td {
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--border);
+}
+
+tr:hover td {
+  background: var(--bg-highlight);
+}
+
+/* TOC */
+.toc {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 24px;
+  margin: 24px 0;
+}
+
+.toc h3 {
+  margin-top: 0;
+  color: var(--gold);
+}
+
+.toc ol {
+  margin-bottom: 0;
+}
+
+.toc a {
+  color: var(--text);
+}
+
+.toc a:hover {
+  color: var(--cyan);
+}
+
+/* Case study */
+.case-study {
+  background: linear-gradient(135deg, #12121a, #1a1a26);
+  border: 1px solid var(--gold);
+  border-radius: 12px;
+  padding: 28px;
+  margin: 32px 0;
+}
+
+.case-study h3 {
+  color: var(--gold);
+  margin-top: 0;
+}
+
+/* FAQ */
+.faq-item {
+  border-bottom: 1px solid var(--border);
+  padding: 16px 0;
+}
+
+.faq-item:last-child { border-bottom: none; }
+
+.faq-q {
+  font-weight: 600;
+  color: var(--cyan);
+  margin-bottom: 8px;
+}
+
+/* Footer */
+.footer {
+  margin-top: 64px;
+  padding-top: 24px;
+  border-top: 1px solid var(--border);
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 13px;
+}
+
+.footer a { color: var(--text-dim); }
+
+/* Responsive */
+@media (max-width: 600px) {
+  .container { padding: 16px 14px 60px; }
+  .hero { padding: 40px 0 28px; }
+  .cost-compare { grid-template-columns: 1fr; }
+  .cost-box .price { font-size: 24px; }
+  pre { font-size: 11px; padding: 12px; }
+  .step { padding: 20px 16px; }
+  h2 { font-size: 20px; }
+  table { font-size: 12px; }
+  th, td { padding: 8px 10px; }
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<!-- ==================== HERO ==================== -->
+<div class="hero">
+  <h1>Kill Your Hosting Bill</h1>
+  <p class="subtitle">How to host static websites permanently onchain using Net Protocol + Cloudflare Workers. No servers. No monthly fees. Your content lives on the blockchain forever.</p>
+  <div class="tagline">One-time gas fee (~$0.05) &nbsp;vs&nbsp; $5-50/month forever</div>
+</div>
+
+<div class="cost-compare">
+  <div class="cost-box old">
+    <div class="label">Traditional Hosting</div>
+    <div class="price">$60-600</div>
+    <div class="period">per year, every year, forever</div>
+  </div>
+  <div class="cost-box new">
+    <div class="label">Onchain Hosting</div>
+    <div class="price">~$0.05</div>
+    <div class="period">one-time, stored permanently on Base</div>
+  </div>
+</div>
+
+<!-- ==================== TOC ==================== -->
+<div class="toc">
+  <h3>What's In This Guide</h3>
+  <ol>
+    <li><a href="#what">What Is Onchain Hosting?</a></li>
+    <li><a href="#who">Who Is This For?</a></li>
+    <li><a href="#how-it-works">How It Works (The Big Picture)</a></li>
+    <li><a href="#what-you-need">What You Need Before Starting</a></li>
+    <li><a href="#step1">Step 1: Build Your Website (HTML File)</a></li>
+    <li><a href="#step2">Step 2: Upload to Net Protocol (Onchain Storage)</a></li>
+    <li><a href="#step3">Step 3: Verify It's Live on storedon.net</a></li>
+    <li><a href="#step4">Step 4: Set Up Cloudflare (Free Custom Domain)</a></li>
+    <li><a href="#step5">Step 5: Create the Cloudflare Worker</a></li>
+    <li><a href="#step6">Step 6: Connect Your Domain to the Worker</a></li>
+    <li><a href="#updating">Updating Your Site</a></li>
+    <li><a href="#multi-page">Multi-Page Sites</a></li>
+    <li><a href="#case-study">Case Study: exoagent.xyz</a></li>
+    <li><a href="#costs">Cost Breakdown</a></li>
+    <li><a href="#limitations">Limitations & What This Is NOT For</a></li>
+    <li><a href="#faq">FAQ</a></li>
+    <li><a href="#resources">Resources & Links</a></li>
+  </ol>
+</div>
+
+<!-- ==================== SECTION 1 ==================== -->
+<h2 id="what">1. What Is Onchain Hosting?</h2>
+
+<p>Traditional web hosting means renting server space from a company (GoDaddy, Squarespace, Wix, etc.). You pay monthly. If you stop paying, your site goes down. The company controls your content.</p>
+
+<p><strong style="color:var(--gold)">Onchain hosting is different.</strong> Your website's HTML is stored directly on the blockchain &mdash; specifically on <strong>Base</strong> (an Ethereum Layer 2 network). Once it's there, it's permanent. No server. No monthly bill. No company can take it down.</p>
+
+<p><strong>Net Protocol</strong> is the tool that makes this easy. It provides onchain key-value storage on Base. You upload your HTML file once, pay a tiny gas fee (usually under $0.10), and your content is permanently accessible via a free CDN at <code>storedon.net</code>.</p>
+
+<p>Then you use a <strong>Cloudflare Worker</strong> (free tier) to point your custom domain at that onchain content. The result: <code>yourbusiness.com</code> serves your website directly from the blockchain.</p>
+
+<!-- ==================== SECTION 2 ==================== -->
+<h2 id="who">2. Who Is This For?</h2>
+
+<p>This guide is for anyone paying monthly for a simple website that doesn't change often:</p>
+
+<ul>
+  <li><strong>Small business owners</strong> &mdash; restaurants, shops, freelancers with a landing page or menu</li>
+  <li><strong>Artists & creators</strong> &mdash; portfolio sites, project pages</li>
+  <li><strong>Developers</strong> &mdash; documentation, tools, project homepages</li>
+  <li><strong>Anyone tired of hosting fees</strong> &mdash; if your site is mostly static HTML/CSS/JS, this works</li>
+</ul>
+
+<div class="info-box">
+  <strong>No blockchain experience required.</strong> You don't need to know what a "smart contract" is. This guide walks through every step. You'll use a command-line tool and a free Cloudflare account. That's it.
+</div>
+
+<!-- ==================== SECTION 3 ==================== -->
+<h2 id="how-it-works">3. How It Works (The Big Picture)</h2>
+
+<p>Here's the flow in plain English:</p>
+
+<pre><code>Your HTML File
+     |
+     v
+Net Protocol (uploads to Base blockchain)
+     |
+     v
+storedon.net (free CDN, serves your content)
+     |
+     v
+Cloudflare Worker (connects your domain to storedon.net)
+     |
+     v
+yourbusiness.com  (your customers see your site!)</code></pre>
+
+<p><strong>What happens when someone visits your site:</strong></p>
+<ol>
+  <li>Browser requests <code>yourbusiness.com</code></li>
+  <li>Cloudflare routes the request to your Worker (free, runs in milliseconds)</li>
+  <li>Worker fetches your page from <code>storedon.net</code> (which reads it from Base blockchain)</li>
+  <li>HTML is returned to the browser. Site loads. Done.</li>
+</ol>
+
+<div class="info-box success">
+  <strong>Performance:</strong> storedon.net caches your content. Load times are comparable to traditional hosting. Your visitors won't know or care that it's onchain &mdash; it's just a fast website.
+</div>
+
+<!-- ==================== SECTION 4 ==================== -->
+<h2 id="what-you-need">4. What You Need Before Starting</h2>
+
+<table>
+  <tr><th>Item</th><th>Cost</th><th>Notes</th></tr>
+  <tr>
+    <td><strong>Your website as an HTML file</strong></td>
+    <td>Free</td>
+    <td>A single <code>.html</code> file with CSS/JS inlined. See Step 1.</td>
+  </tr>
+  <tr>
+    <td><strong>Node.js (v18+)</strong></td>
+    <td>Free</td>
+    <td>Download from <a href="https://nodejs.org">nodejs.org</a>. Needed for the upload tool.</td>
+  </tr>
+  <tr>
+    <td><strong>A crypto wallet with Base ETH</strong></td>
+    <td>~$0.10 in ETH</td>
+    <td>For gas fees. MetaMask, Coinbase Wallet, or any wallet. You need the private key.</td>
+  </tr>
+  <tr>
+    <td><strong>A domain name</strong></td>
+    <td>$2-15/year</td>
+    <td>From Porkbun, Namecheap, GoDaddy, etc. Only ongoing cost.</td>
+  </tr>
+  <tr>
+    <td><strong>A Cloudflare account</strong></td>
+    <td>Free</td>
+    <td>Free tier is all you need. Sign up at <a href="https://cloudflare.com">cloudflare.com</a>.</td>
+  </tr>
+</table>
+
+<div class="info-box warning">
+  <strong>About private keys:</strong> You'll need your wallet's private key to sign the upload transaction. This is the key that controls your wallet. Never share it. Never paste it in a browser. We only use it in a terminal command, locally on your computer, to sign the transaction. If this makes you uncomfortable, create a fresh wallet just for hosting &mdash; send it $1 worth of ETH on Base and use that.
+</div>
+
+<!-- ==================== STEP 1 ==================== -->
+<h2 id="step1">5. Step 1: Build Your Website</h2>
+
+<p>Net Protocol stores a single file per upload. So your entire page needs to be <strong>one self-contained HTML file</strong> with CSS and JavaScript inlined (no external files).</p>
+
+<div class="step">
+  <span class="step-number">Key Rule</span>
+  <h3>Everything in One File</h3>
+  <p>Instead of separate <code>style.css</code> and <code>script.js</code> files, put everything inside your HTML:</p>
+<pre><code><span class="code-keyword">&lt;!DOCTYPE html&gt;</span>
+<span class="code-keyword">&lt;html&gt;</span>
+<span class="code-keyword">&lt;head&gt;</span>
+  <span class="code-keyword">&lt;meta</span> charset=<span class="code-string">"UTF-8"</span><span class="code-keyword">&gt;</span>
+  <span class="code-keyword">&lt;meta</span> name=<span class="code-string">"viewport"</span> content=<span class="code-string">"width=device-width, initial-scale=1.0"</span><span class="code-keyword">&gt;</span>
+  <span class="code-keyword">&lt;title&gt;</span>My Business<span class="code-keyword">&lt;/title&gt;</span>
+  <span class="code-keyword">&lt;style&gt;</span>
+    <span class="code-comment">/* All your CSS goes here */</span>
+    body { font-family: sans-serif; margin: 0; }
+    .header { background: #333; color: white; padding: 20px; }
+  <span class="code-keyword">&lt;/style&gt;</span>
+<span class="code-keyword">&lt;/head&gt;</span>
+<span class="code-keyword">&lt;body&gt;</span>
+  <span class="code-comment">&lt;!-- Your content --&gt;</span>
+  <span class="code-keyword">&lt;div</span> class=<span class="code-string">"header"</span><span class="code-keyword">&gt;</span>
+    <span class="code-keyword">&lt;h1&gt;</span>Welcome to My Business<span class="code-keyword">&lt;/h1&gt;</span>
+  <span class="code-keyword">&lt;/div&gt;</span>
+
+  <span class="code-keyword">&lt;script&gt;</span>
+    <span class="code-comment">// All your JavaScript goes here (if any)</span>
+    console.log(<span class="code-string">"Site loaded!"</span>);
+  <span class="code-keyword">&lt;/script&gt;</span>
+<span class="code-keyword">&lt;/body&gt;</span>
+<span class="code-keyword">&lt;/html&gt;</span></code></pre>
+</div>
+
+<h3>What About Images?</h3>
+<p>You have a few options:</p>
+<ul>
+  <li><strong>External image hosting</strong> &mdash; Use Imgur, Cloudinary, or any image CDN. Reference with full URLs: <code>&lt;img src="https://i.imgur.com/abc123.jpg"&gt;</code></li>
+  <li><strong>Base64 inline</strong> &mdash; Convert small images to base64 and embed them directly. Good for logos under 50KB.</li>
+  <li><strong>SVG</strong> &mdash; Vector graphics can be inlined directly in your HTML. Tiny file size, scales perfectly.</li>
+  <li><strong>CSS gradients & shapes</strong> &mdash; Pure CSS for backgrounds and decorative elements. Zero extra weight.</li>
+</ul>
+
+<h3>What About Google Fonts?</h3>
+<p>External resources like Google Fonts work fine! Just use <code>&lt;link&gt;</code> tags or <code>@import</code> in your CSS as normal. The browser loads these from Google's CDN when the page renders. Same for CDN-hosted libraries (jQuery, Bootstrap, etc.).</p>
+
+<div class="info-box">
+  <strong>Size limit:</strong> Net Protocol supports up to ~12MB per upload. A typical business landing page is 10-100KB. You have plenty of room.
+</div>
+
+<!-- ==================== STEP 2 ==================== -->
+<h2 id="step2">6. Step 2: Upload to Net Protocol</h2>
+
+<p>This is where your website goes onchain. Open your terminal (Command Prompt on Windows, Terminal on Mac/Linux).</p>
+
+<div class="step">
+  <span class="step-number">Step 2a</span>
+  <h3>Install Node.js</h3>
+  <p>If you don't have Node.js installed, download it from <a href="https://nodejs.org">nodejs.org</a>. Choose the LTS version. Verify the install:</p>
+  <pre><code>node --version
+<span class="code-comment"># Should show v18.x.x or higher</span></code></pre>
+</div>
+
+<div class="step">
+  <span class="step-number">Step 2b</span>
+  <h3>Upload Your File</h3>
+  <p>Run this command, replacing the placeholder values with your own:</p>
+<pre><code>npx @net-protocol/cli@latest storage upload \
+  <span class="code-flag">--file</span> <span class="code-string">path/to/your-site.html</span> \
+  <span class="code-flag">--key</span> <span class="code-string">"my-business-site"</span> \
+  <span class="code-flag">--text</span> <span class="code-string">"My Business Website"</span> \
+  <span class="code-flag">--private-key</span> <span class="code-string">YOUR_PRIVATE_KEY_HERE</span> \
+  <span class="code-flag">--chain-id</span> 8453</code></pre>
+
+  <p><strong>What each flag means:</strong></p>
+  <ul>
+    <li><code>--file</code> &mdash; Path to your HTML file on your computer</li>
+    <li><code>--key</code> &mdash; A short name for this upload (like a filename). Use lowercase, letters/numbers/dashes only.</li>
+    <li><code>--text</code> &mdash; A human-readable description</li>
+    <li><code>--private-key</code> &mdash; Your wallet's private key (starts with 0x). This signs the transaction.</li>
+    <li><code>--chain-id 8453</code> &mdash; This tells it to use Base mainnet</li>
+  </ul>
+</div>
+
+<div class="info-box warning">
+  <strong>Windows users:</strong> Remove the <code>\</code> backslashes and put the entire command on one line. The backslashes are just line-continuation characters for Mac/Linux terminals.
+</div>
+
+<p>The tool will output transaction hash(es). This means your upload is confirmed on Base. Your content is now permanently onchain.</p>
+
+<!-- ==================== STEP 3 ==================== -->
+<h2 id="step3">7. Step 3: Verify It's Live</h2>
+
+<p>Your content is immediately accessible via storedon.net. The URL format is:</p>
+
+<pre><code>https://storedon.net/net/8453/storage/load/<span class="code-string">YOUR_WALLET_ADDRESS</span>/<span class="code-string">YOUR_KEY</span></code></pre>
+
+<p>Replace <code>YOUR_WALLET_ADDRESS</code> with the wallet you uploaded from, and <code>YOUR_KEY</code> with the key you chose in Step 2.</p>
+
+<p><strong>Example:</strong> If your wallet is <code>0xABC...123</code> and your key was <code>my-business-site</code>:</p>
+<pre><code>https://storedon.net/net/8453/storage/load/0xABC...123/my-business-site</code></pre>
+
+<p>Open that URL in a browser. You should see your website. If you do &mdash; congratulations, your site is onchain!</p>
+
+<div class="info-box success">
+  <strong>You could stop here.</strong> If you don't need a custom domain, the storedon.net URL works permanently. Share it directly. But most businesses want their own domain name, so let's continue.
+</div>
+
+<!-- ==================== STEP 4 ==================== -->
+<h2 id="step4">8. Step 4: Set Up Cloudflare</h2>
+
+<p>Cloudflare will connect your custom domain to your onchain content. The free tier handles everything we need.</p>
+
+<div class="step">
+  <span class="step-number">Step 4a</span>
+  <h3>Add Your Domain to Cloudflare</h3>
+  <ol>
+    <li>Sign up or log in at <a href="https://cloudflare.com">cloudflare.com</a></li>
+    <li>Click <strong>"Add a site"</strong></li>
+    <li>Enter your domain (e.g., <code>mybusiness.com</code>)</li>
+    <li>Select the <strong>Free plan</strong></li>
+    <li>Cloudflare will scan your existing DNS records</li>
+  </ol>
+</div>
+
+<div class="step">
+  <span class="step-number">Step 4b</span>
+  <h3>Add DNS Records</h3>
+  <p>In the Cloudflare DNS settings, add these records:</p>
+  <table>
+    <tr><th>Type</th><th>Name</th><th>Content</th><th>Proxy</th></tr>
+    <tr><td>A</td><td>@</td><td><code>192.0.2.1</code></td><td>Proxied (orange cloud)</td></tr>
+    <tr><td>CNAME</td><td>www</td><td><code>mybusiness.com</code></td><td>Proxied (orange cloud)</td></tr>
+  </table>
+
+  <div class="info-box">
+    <strong>Why 192.0.2.1?</strong> This is a dummy IP address. Cloudflare's Worker will intercept requests before they reach this IP. It's a standard trick &mdash; the IP never gets hit.
+  </div>
+</div>
+
+<div class="step">
+  <span class="step-number">Step 4c</span>
+  <h3>Update Your Domain's Nameservers</h3>
+  <p>Cloudflare will give you two nameservers (like <code>anna.ns.cloudflare.com</code> and <code>bob.ns.cloudflare.com</code>).</p>
+  <p>Go to wherever you bought your domain (Porkbun, Namecheap, GoDaddy, etc.) and replace the nameservers with Cloudflare's. This usually takes 5-30 minutes to propagate, sometimes up to 24 hours.</p>
+
+  <p><strong>For Porkbun users:</strong></p>
+  <ol>
+    <li>Log in to Porkbun &rarr; Domain Management</li>
+    <li>Click your domain &rarr; scroll to <strong>Nameservers</strong></li>
+    <li>Click <strong>Edit</strong></li>
+    <li>Replace existing nameservers with Cloudflare's two</li>
+    <li>Save</li>
+  </ol>
+</div>
+
+<!-- ==================== STEP 5 ==================== -->
+<h2 id="step5">9. Step 5: Create the Cloudflare Worker</h2>
+
+<p>The Worker is a tiny script that runs on Cloudflare's network. When someone visits your domain, the Worker fetches your content from storedon.net and serves it.</p>
+
+<div class="step">
+  <span class="step-number">Step 5a</span>
+  <h3>Create the Worker</h3>
+  <ol>
+    <li>In the Cloudflare dashboard, go to <strong>Compute (Workers)</strong> in the left sidebar (it's at the account level, not inside a specific domain)</li>
+    <li>Click <strong>Create</strong></li>
+    <li>Choose <strong>"Start with Hello World"</strong></li>
+    <li>Give it a name (e.g., <code>my-site-router</code>)</li>
+    <li>Click <strong>Deploy</strong></li>
+    <li>Now click <strong>"Edit Code"</strong> to open the editor</li>
+  </ol>
+</div>
+
+<div class="step">
+  <span class="step-number">Step 5b</span>
+  <h3>Paste the Worker Script</h3>
+  <p>Delete the default code and replace it with this. <strong>Edit the two values at the top</strong> to match your wallet and key:</p>
+
+<pre><code><span class="code-comment">/**
+ * Cloudflare Worker — Serve onchain website from Net Protocol
+ * Edit WALLET and KEY below, then deploy.
+ */</span>
+
+<span class="code-comment">// YOUR wallet address (the one you uploaded with)</span>
+<span class="code-keyword">const</span> WALLET = <span class="code-string">'0xYOUR_WALLET_ADDRESS_HERE'</span>;
+
+<span class="code-comment">// The key you used in the upload command</span>
+<span class="code-keyword">const</span> KEY = <span class="code-string">'my-business-site'</span>;
+
+<span class="code-keyword">const</span> STORE_URL = <span class="code-string">`https://storedon.net/net/8453/storage/load/${WALLET}/${KEY}`</span>;
+
+<span class="code-keyword">export default</span> {
+  <span class="code-keyword">async</span> fetch(request) {
+    <span class="code-comment">// Fetch the HTML from storedon.net</span>
+    <span class="code-keyword">const</span> response = <span class="code-keyword">await</span> fetch(STORE_URL);
+    <span class="code-keyword">const</span> html = <span class="code-keyword">await</span> response.text();
+
+    <span class="code-keyword">return new</span> Response(html, {
+      headers: {
+        <span class="code-string">'Content-Type'</span>: <span class="code-string">'text/html; charset=utf-8'</span>,
+        <span class="code-string">'Cache-Control'</span>: <span class="code-string">'public, max-age=300'</span>,
+        <span class="code-string">'X-Content-Type-Options'</span>: <span class="code-string">'nosniff'</span>,
+      },
+    });
+  },
+};
+</code></pre>
+
+  <p>Click <strong>Save and Deploy</strong>.</p>
+</div>
+
+<div class="info-box">
+  <strong>Cache-Control explained:</strong> <code>max-age=300</code> means browsers cache the page for 5 minutes. This keeps load times fast while still picking up updates within 5 minutes of re-uploading. Adjust the number (in seconds) to your preference.
+</div>
+
+<!-- ==================== STEP 6 ==================== -->
+<h2 id="step6">10. Step 6: Connect Your Domain to the Worker</h2>
+
+<div class="step">
+  <span class="step-number">Step 6</span>
+  <h3>Add a Route</h3>
+  <ol>
+    <li>In Cloudflare, go to your <strong>domain's dashboard</strong> (click the domain name)</li>
+    <li>In the left sidebar, find <strong>Workers Routes</strong></li>
+    <li>Click <strong>Add Route</strong></li>
+    <li>Route: <code>mybusiness.com/*</code></li>
+    <li>Worker: select your worker (<code>my-site-router</code>)</li>
+    <li>Click <strong>Save</strong></li>
+  </ol>
+
+  <p>If you also want <code>www.mybusiness.com</code> to work, add a second route:</p>
+  <ul>
+    <li>Route: <code>www.mybusiness.com/*</code></li>
+    <li>Worker: same worker</li>
+  </ul>
+</div>
+
+<div class="info-box success">
+  <strong>That's it!</strong> Visit your domain. Your website should load, served entirely from the blockchain. No hosting server. No monthly fee. Welcome to the future.
+</div>
+
+<!-- ==================== UPDATING ==================== -->
+<h2 id="updating">11. Updating Your Site</h2>
+
+<p>Need to change something? Just re-upload with the <strong>same key</strong>:</p>
+
+<pre><code>npx @net-protocol/cli@latest storage upload \
+  <span class="code-flag">--file</span> <span class="code-string">path/to/updated-site.html</span> \
+  <span class="code-flag">--key</span> <span class="code-string">"my-business-site"</span> \
+  <span class="code-flag">--text</span> <span class="code-string">"My Business Website v2"</span> \
+  <span class="code-flag">--private-key</span> <span class="code-string">YOUR_PRIVATE_KEY</span> \
+  <span class="code-flag">--chain-id</span> 8453</code></pre>
+
+<p>storedon.net serves the latest version by default. Your site updates within a few minutes (Cloudflare cache refreshes based on your <code>max-age</code> setting).</p>
+
+<div class="info-box">
+  <strong>Version history is free.</strong> Every upload is a new onchain write. Previous versions are still accessible by index. You get automatic version history, backed by blockchain immutability.
+</div>
+
+<!-- ==================== MULTI PAGE ==================== -->
+<h2 id="multi-page">12. Multi-Page Sites</h2>
+
+<p>For sites with multiple pages (Home, About, Contact, Menu, etc.), you upload each page with a different key and update your Worker to route between them.</p>
+
+<h3>Upload Each Page</h3>
+<pre><code><span class="code-comment"># Home page</span>
+npx @net-protocol/cli@latest storage upload \
+  <span class="code-flag">--file</span> home.html <span class="code-flag">--key</span> <span class="code-string">"site-home"</span> <span class="code-flag">--text</span> <span class="code-string">"Home"</span> \
+  <span class="code-flag">--private-key</span> $KEY <span class="code-flag">--chain-id</span> 8453
+
+<span class="code-comment"># About page</span>
+npx @net-protocol/cli@latest storage upload \
+  <span class="code-flag">--file</span> about.html <span class="code-flag">--key</span> <span class="code-string">"site-about"</span> <span class="code-flag">--text</span> <span class="code-string">"About"</span> \
+  <span class="code-flag">--private-key</span> $KEY <span class="code-flag">--chain-id</span> 8453
+
+<span class="code-comment"># Menu / Services page</span>
+npx @net-protocol/cli@latest storage upload \
+  <span class="code-flag">--file</span> menu.html <span class="code-flag">--key</span> <span class="code-string">"site-menu"</span> <span class="code-flag">--text</span> <span class="code-string">"Menu"</span> \
+  <span class="code-flag">--private-key</span> $KEY <span class="code-flag">--chain-id</span> 8453</code></pre>
+
+<h3>Multi-Page Worker Script</h3>
+<pre><code><span class="code-keyword">const</span> WALLET = <span class="code-string">'0xYOUR_WALLET_ADDRESS'</span>;
+<span class="code-keyword">const</span> BASE = <span class="code-string">`https://storedon.net/net/8453/storage/load/${WALLET}`</span>;
+
+<span class="code-comment">// Map URL paths to storage keys</span>
+<span class="code-keyword">const</span> ROUTES = {
+  <span class="code-string">'/'</span>:        <span class="code-string">'site-home'</span>,
+  <span class="code-string">'/about'</span>:   <span class="code-string">'site-about'</span>,
+  <span class="code-string">'/menu'</span>:    <span class="code-string">'site-menu'</span>,
+  <span class="code-string">'/contact'</span>: <span class="code-string">'site-contact'</span>,
+};
+
+<span class="code-keyword">export default</span> {
+  <span class="code-keyword">async</span> fetch(request) {
+    <span class="code-keyword">const</span> url = <span class="code-keyword">new</span> URL(request.url);
+    <span class="code-keyword">let</span> path = url.pathname.replace(<span class="code-string">/\/+$/</span>, <span class="code-string">''</span>) || <span class="code-string">'/'</span>;
+
+    <span class="code-keyword">const</span> key = ROUTES[path];
+
+    <span class="code-comment">// Unknown page? Redirect to home</span>
+    <span class="code-keyword">if</span> (!key) {
+      <span class="code-keyword">return</span> Response.redirect(<span class="code-string">`https://${url.hostname}/`</span>, 302);
+    }
+
+    <span class="code-keyword">const</span> response = <span class="code-keyword">await</span> fetch(<span class="code-string">`${BASE}/${key}`</span>);
+    <span class="code-keyword">const</span> html = <span class="code-keyword">await</span> response.text();
+
+    <span class="code-keyword">return new</span> Response(html, {
+      headers: {
+        <span class="code-string">'Content-Type'</span>: <span class="code-string">'text/html; charset=utf-8'</span>,
+        <span class="code-string">'Cache-Control'</span>: <span class="code-string">'public, max-age=300'</span>,
+        <span class="code-string">'X-Content-Type-Options'</span>: <span class="code-string">'nosniff'</span>,
+      },
+    });
+  },
+};
+</code></pre>
+
+<p>Now <code>mybusiness.com/about</code> loads the about page, <code>mybusiness.com/menu</code> loads the menu, etc.</p>
+
+<div class="info-box">
+  <strong>Cross-page links:</strong> In your HTML files, link between pages using the clean paths: <code>&lt;a href="/about"&gt;About Us&lt;/a&gt;</code>. Don't use <code>.html</code> extensions &mdash; the Worker handles the routing.
+</div>
+
+<!-- ==================== CASE STUDY ==================== -->
+<h2 id="case-study">13. Case Study: exoagent.xyz</h2>
+
+<div class="case-study">
+  <h3>How We Built exoagent.xyz</h3>
+  <p><a href="https://exoagent.xyz">exoagent.xyz</a> is a 10-page website for the Exoskeletons project &mdash; onchain identity infrastructure for AI agents. The entire site is hosted using the exact method described in this guide.</p>
+
+  <h4>The Setup</h4>
+  <ul>
+    <li><strong>10 HTML pages</strong> &mdash; home, mint, explorer, token detail, messages, modules, trust model, docs, guide, minting guide</li>
+    <li><strong>Each page is self-contained</strong> &mdash; CSS and JS inlined into each HTML file via a build script</li>
+    <li><strong>Pages stored onchain</strong> &mdash; uploaded to Net Protocol with keys like <code>exo-home</code>, <code>exo-mint</code>, <code>exo-explorer</code></li>
+    <li><strong>Cloudflare Worker</strong> &mdash; routes <code>/mint</code> to <code>exo-mint</code>, <code>/explorer</code> to <code>exo-explorer</code>, etc.</li>
+    <li><strong>Domain</strong> &mdash; <code>exoagent.xyz</code> registered on Porkbun ($2/year), DNS on Cloudflare</li>
+  </ul>
+
+  <h4>The Build Process</h4>
+  <p>We use a Node.js build script (<code>build-inline.cjs</code>) that:</p>
+  <ol>
+    <li>Reads each HTML source file</li>
+    <li>Inlines the shared CSS and JS into each page</li>
+    <li>Rewrites cross-page links (e.g., <code>mint.html</code> becomes <code>https://exoagent.xyz/mint</code>)</li>
+    <li>Outputs self-contained HTML files to a <code>dist/</code> folder</li>
+  </ol>
+  <p>Then we upload all 10 files to Net Protocol with one command per page.</p>
+
+  <h4>Total Cost</h4>
+  <ul>
+    <li><strong>Domain</strong>: $2/year (exoagent.xyz on Porkbun)</li>
+    <li><strong>Cloudflare</strong>: $0 (free plan)</li>
+    <li><strong>Uploads</strong>: ~$0.50 total (10 pages, each a few cents in Base gas)</li>
+    <li><strong>Monthly hosting fee</strong>: $0. Forever.</li>
+  </ul>
+
+  <h4>Performance</h4>
+  <p>The site loads fast. Each page is 30-150KB of self-contained HTML. Cloudflare caches for 5 minutes. First-time loads pull from storedon.net's CDN. Subsequent loads are cached at the edge. Visitors have no idea it's onchain &mdash; it's just a website.</p>
+</div>
+
+<!-- ==================== COSTS ==================== -->
+<h2 id="costs">14. Cost Breakdown</h2>
+
+<table>
+  <tr><th>Item</th><th>Traditional</th><th>Onchain</th></tr>
+  <tr>
+    <td>Hosting</td>
+    <td>$5-50/month</td>
+    <td>$0/month</td>
+  </tr>
+  <tr>
+    <td>Domain</td>
+    <td>$10-15/year</td>
+    <td>$2-15/year (same)</td>
+  </tr>
+  <tr>
+    <td>CDN</td>
+    <td>$0-20/month</td>
+    <td>$0 (storedon.net + Cloudflare free)</td>
+  </tr>
+  <tr>
+    <td>SSL Certificate</td>
+    <td>$0-10/year</td>
+    <td>$0 (Cloudflare provides free SSL)</td>
+  </tr>
+  <tr>
+    <td>Upload/Deploy</td>
+    <td>$0</td>
+    <td>~$0.01-0.10 per page (one-time gas)</td>
+  </tr>
+  <tr>
+    <td style="font-weight:700; color:var(--gold)">Year 1 Total</td>
+    <td style="color:var(--red)">$70-600+</td>
+    <td style="color:var(--green)">$2-15</td>
+  </tr>
+  <tr>
+    <td style="font-weight:700; color:var(--gold)">Year 2+ Total</td>
+    <td style="color:var(--red)">$60-600+</td>
+    <td style="color:var(--green)">$2-15 (just domain renewal)</td>
+  </tr>
+</table>
+
+<div class="info-box cost">
+  <strong>The math is simple.</strong> A small business paying $10/month for Squarespace saves $120/year. Over 5 years, that's $600. Onchain hosting costs about $15 total for those same 5 years. That's a 97% savings.
+</div>
+
+<!-- ==================== LIMITATIONS ==================== -->
+<h2 id="limitations">15. Limitations &mdash; Be Honest About What This Isn't</h2>
+
+<p>Onchain hosting is powerful but it's not for everything. Here's what it <strong>does NOT</strong> handle:</p>
+
+<table>
+  <tr><th>Feature</th><th>Traditional Hosting</th><th>Onchain Hosting</th></tr>
+  <tr>
+    <td>Static HTML/CSS/JS</td>
+    <td>Yes</td>
+    <td><strong style="color:var(--green)">Yes</strong></td>
+  </tr>
+  <tr>
+    <td>Custom domain + SSL</td>
+    <td>Yes</td>
+    <td><strong style="color:var(--green)">Yes</strong> (via Cloudflare)</td>
+  </tr>
+  <tr>
+    <td>Server-side code (PHP, Python, etc.)</td>
+    <td>Yes</td>
+    <td><strong style="color:var(--red)">No</strong></td>
+  </tr>
+  <tr>
+    <td>Databases (MySQL, etc.)</td>
+    <td>Yes</td>
+    <td><strong style="color:var(--red)">No</strong></td>
+  </tr>
+  <tr>
+    <td>Contact forms (server-processed)</td>
+    <td>Yes</td>
+    <td><strong style="color:var(--orange)">Partial</strong> (use Formspree, Netlify Forms, etc.)</td>
+  </tr>
+  <tr>
+    <td>E-commerce / shopping cart</td>
+    <td>Yes</td>
+    <td><strong style="color:var(--orange)">External only</strong> (Stripe links, Shopify embeds)</td>
+  </tr>
+  <tr>
+    <td>CMS (WordPress, etc.)</td>
+    <td>Yes</td>
+    <td><strong style="color:var(--red)">No</strong></td>
+  </tr>
+  <tr>
+    <td>User accounts / logins</td>
+    <td>Yes</td>
+    <td><strong style="color:var(--red)">No</strong> (unless using external auth)</td>
+  </tr>
+</table>
+
+<h3>Good Fit</h3>
+<ul>
+  <li>Landing pages and business info sites</li>
+  <li>Restaurant menus and hours</li>
+  <li>Portfolios and project showcases</li>
+  <li>Documentation and guides (like this one!)</li>
+  <li>Event pages and announcements</li>
+  <li>Any "brochure" style website</li>
+</ul>
+
+<h3>Not a Good Fit</h3>
+<ul>
+  <li>Sites that need a database or user logins</li>
+  <li>Dynamic content that changes per-visitor (personalization)</li>
+  <li>Full e-commerce stores with inventory management</li>
+  <li>WordPress or other CMS-powered sites</li>
+</ul>
+
+<!-- ==================== FAQ ==================== -->
+<h2 id="faq">16. Frequently Asked Questions</h2>
+
+<div class="faq-item">
+  <div class="faq-q">Is this actually permanent?</div>
+  <p>Yes. Data stored on Base (an Ethereum L2) is permanent. The blockchain doesn't forget. As long as Base exists (and Ethereum exists), your content is there. storedon.net is a CDN that reads from the chain &mdash; even if storedon.net went offline, your data is still on Base and could be read by anyone running a node.</p>
+</div>
+
+<div class="faq-item">
+  <div class="faq-q">What if I lose my private key?</div>
+  <p>You won't be able to <em>update</em> your content without your key. But the existing content stays online forever. Pro tip: if you're worried, write down your private key and store it somewhere safe offline.</p>
+</div>
+
+<div class="faq-item">
+  <div class="faq-q">Can someone take down my site?</div>
+  <p>The onchain content cannot be removed by anyone (including you &mdash; you can only add new versions). However, Cloudflare could theoretically disable your Worker if you violate their terms, and your domain registrar controls your domain name. The blockchain layer is censorship-resistant; the domain/CDN layer is not. For maximum resilience, share the storedon.net URL as a backup.</p>
+</div>
+
+<div class="faq-item">
+  <div class="faq-q">What is Base? Do I need to understand crypto?</div>
+  <p>Base is a blockchain network built on Ethereum. It's fast and cheap. You don't need to understand crypto to use this &mdash; you just need a wallet with a small amount of ETH on Base (~$0.10 worth) to pay for the upload. Think of it like paying postage to mail a letter, except the letter lives forever.</p>
+</div>
+
+<div class="faq-item">
+  <div class="faq-q">How do I get ETH on Base?</div>
+  <p>The easiest way: create a <a href="https://www.coinbase.com/wallet">Coinbase Wallet</a>, buy a small amount of ETH, and it will be on Base by default. Or use any wallet (MetaMask, Rainbow) and bridge ETH from Ethereum to Base via <a href="https://bridge.base.org">bridge.base.org</a>.</p>
+</div>
+
+<div class="faq-item">
+  <div class="faq-q">What about SEO?</div>
+  <p>Search engines index your site normally. The HTML is served from your custom domain with proper headers. Google doesn't know or care that the backend is a blockchain. Include your <code>&lt;title&gt;</code>, <code>&lt;meta&gt;</code> description, and other SEO tags in your HTML as you normally would.</p>
+</div>
+
+<div class="faq-item">
+  <div class="faq-q">Can I use a page builder like Webflow or Framer?</div>
+  <p>Yes! Build your site in any tool, then <strong>export it as HTML</strong>. Most page builders have an "Export Code" option. Combine the HTML/CSS/JS into one file and upload. You get the visual builder convenience with onchain hosting savings.</p>
+</div>
+
+<div class="faq-item">
+  <div class="faq-q">What's the maximum file size?</div>
+  <p>Net Protocol supports uploads up to approximately 12MB per file. A typical website page is 10-200KB. You're unlikely to hit this limit unless you're embedding large base64 images.</p>
+</div>
+
+<div class="faq-item">
+  <div class="faq-q">Can I use this with an AI agent?</div>
+  <p>Absolutely. AI agents that can execute terminal commands (via Bankr, Claude Code, or similar tools) can upload and update sites automatically. The Net Protocol CLI works perfectly in automated pipelines. This guide was written by an AI agent (Ollie) who manages 10 onchain pages this way.</p>
+</div>
+
+<!-- ==================== RESOURCES ==================== -->
+<h2 id="resources">17. Resources & Links</h2>
+
+<table>
+  <tr><th>Resource</th><th>Link</th></tr>
+  <tr>
+    <td>Net Protocol (main site)</td>
+    <td><a href="https://netprotocol.app">netprotocol.app</a></td>
+  </tr>
+  <tr>
+    <td>Net Protocol CLI (npm)</td>
+    <td><code>npx @net-protocol/cli@latest</code></td>
+  </tr>
+  <tr>
+    <td>storedon.net (CDN)</td>
+    <td><a href="https://storedon.net">storedon.net</a></td>
+  </tr>
+  <tr>
+    <td>Cloudflare (free account)</td>
+    <td><a href="https://cloudflare.com">cloudflare.com</a></td>
+  </tr>
+  <tr>
+    <td>Node.js (required for CLI)</td>
+    <td><a href="https://nodejs.org">nodejs.org</a></td>
+  </tr>
+  <tr>
+    <td>Base Network</td>
+    <td><a href="https://base.org">base.org</a></td>
+  </tr>
+  <tr>
+    <td>Bridge ETH to Base</td>
+    <td><a href="https://bridge.base.org">bridge.base.org</a></td>
+  </tr>
+  <tr>
+    <td>Example: exoagent.xyz (10-page onchain site)</td>
+    <td><a href="https://exoagent.xyz">exoagent.xyz</a></td>
+  </tr>
+</table>
+
+<h3>Quick Reference: The Complete Flow</h3>
+<pre><code><span class="code-comment"># 1. Upload your site</span>
+npx @net-protocol/cli@latest storage upload \
+  --file my-site.html --key "my-site" --text "My Site" \
+  --private-key 0xYOUR_KEY --chain-id 8453
+
+<span class="code-comment"># 2. Verify at:</span>
+<span class="code-comment"># https://storedon.net/net/8453/storage/load/YOUR_WALLET/my-site</span>
+
+<span class="code-comment"># 3. Set up Cloudflare: domain + DNS + Worker + route</span>
+
+<span class="code-comment"># 4. Done. $0/month forever.</span></code></pre>
+
+<!-- ==================== FOOTER ==================== -->
+<div class="footer">
+  <p>Written by <strong>Ollie</strong> (AI agent) &amp; <strong>potdealer</strong> (human) &mdash; February 2026</p>
+  <p>Built with <a href="https://netprotocol.app">Net Protocol</a>. This guide is itself hosted onchain.</p>
+  <p style="margin-top: 12px; color: var(--text-muted)">
+    Exoskeletons &mdash; <a href="https://exoagent.xyz">exoagent.xyz</a> &nbsp;|&nbsp;
+    GitHub: <a href="https://github.com/Potdealer">@potdealer</a> &nbsp;|&nbsp;
+    Twitter: <a href="https://twitter.com/iAmPotDEALer">@iAmPotDEALer</a>
+  </p>
+  <p style="margin-top: 16px; color: var(--gold); font-style: italic;">"Make things better."</p>
+</div>
+
+</div>
+</body>
+</html>

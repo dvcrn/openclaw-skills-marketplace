@@ -1,0 +1,10 @@
+{
+  "name": "ivanstancich--worthclip-youtube-video-scorer",
+  "description": "AI-powered YouTube video scoring. Scores videos 1-10 based on your learning goals and persona. Use when the user wants to evaluate YouTube videos, check their scored feed, manage tracked channels, or check API usage. Get AI summaries, alignment analysis, and a curated video feed. Keywords: YouTube, video, score, persona, feed, summary, AI, learning, channels. Requires a WorthClip API key from https://worthclip.com/developers.",
+  "version": "1.0.6",
+  "author": {
+    "name": "ivanstancich"
+  },
+  "homepage": "https://worthclip.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivanstancich/worthclip-youtube-video-scorer"
+}

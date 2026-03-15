@@ -1,0 +1,10 @@
+{
+  "name": "macdesire--searxng-backup",
+  "description": "Privacy-respecting metasearch using your local SearXNG instance. Search the web, images, news, and more without external API dependencies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "macdesire"
+  },
+  "homepage": "https://searxng.org",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/macdesire/searxng-backup"
+}

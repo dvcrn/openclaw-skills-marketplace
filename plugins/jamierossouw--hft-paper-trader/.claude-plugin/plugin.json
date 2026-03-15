@@ -1,0 +1,10 @@
+{
+  "name": "jamierossouw--hft-paper-trader",
+  "description": "High-frequency paper trading framework for crypto. Multi-indicator TA scoring (RSI/MACD/EMA/BB/OBV/StochRSI), position sizing (Kelly criterion), stop-loss management, and trade ledger. Targets 300+ trades/day at 0.05% risk per trade. Use for paper trading, backtesting trading logic, HFT simulation, or building an autonomous trading agent.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jamierossouw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/hft-paper-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/hft-paper-trader"
+}

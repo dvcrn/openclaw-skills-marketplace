@@ -1,0 +1,10 @@
+{
+  "name": "pietro395--bitaxe-monitor",
+  "description": "Monitor Bitaxe Gamma Bitcoin miner status via HTTP API. Use when the user wants to check the status, hashrate, temperature, power consumption, or statistics of a Bitaxe Gamma miner. Supports config file or environment variable for device IP configuration, fetching system info, and formatting output as human-readable text or JSON.",
+  "version": "1.0.2",
+  "author": {
+    "name": "pietro395"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pietro395/bitaxe-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pietro395/bitaxe-monitor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "elvismusli--agentfin",
+  "description": "Issue virtual Visa/MC cards funded by USDT. Check balance, get card credentials, fetch OTP codes — all via REST API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "elvismusli"
+  },
+  "homepage": "https://agentfin.tech",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/elvismusli/agentfin"
+}

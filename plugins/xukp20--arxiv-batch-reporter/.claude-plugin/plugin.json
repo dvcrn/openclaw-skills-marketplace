@@ -1,0 +1,10 @@
+{
+  "name": "xukp20--arxiv-batch-reporter",
+  "description": "Build the final collection report in two steps: model writes a report template, then script injects each paper's Brief Conclusion and abs URL from summary.md by arXiv-id placeholders.",
+  "version": "0.1.1",
+  "author": {
+    "name": "xukp20"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-batch-reporter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-batch-reporter"
+}

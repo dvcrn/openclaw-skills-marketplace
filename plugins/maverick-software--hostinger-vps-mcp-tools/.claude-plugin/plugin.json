@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--hostinger-vps-mcp-tools",
+  "description": "Set up Hostinger VPS servers as AI virtual employees with GUI and Koda (OpenClaw). Use when deploying new VPS instances, setting up remote desktops, installing Koda/OpenClaw, or configuring AI agent workstations. Handles Ubuntu server setup, GUI (XFCE + VNC/XRDP), Docker, and Koda deployment.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/hostinger-vps-mcp-tools",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/hostinger-vps-mcp-tools"
+}

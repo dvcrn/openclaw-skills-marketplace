@@ -1,0 +1,10 @@
+{
+  "name": "jimihford--openclaw-bitwarden",
+  "description": "Set up and use Bitwarden CLI (bw). Use when installing the CLI, unlocking vault, or reading/generating secrets via bw. Handles session management with BW_SESSION.",
+  "version": "0.1.0",
+  "author": {
+    "name": "jimihford"
+  },
+  "homepage": "https://bitwarden.com/help/cli/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jimihford/openclaw-bitwarden"
+}

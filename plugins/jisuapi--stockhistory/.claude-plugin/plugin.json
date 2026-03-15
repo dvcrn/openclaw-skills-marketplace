@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--stockhistory",
+  "description": "使用极速数据股票历史行情查询 API，按股票代码与时间范围获取历史日线数据，或查列表与单只详情，可用于 K 线及走势分析。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/stockhistory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/stockhistory"
+}

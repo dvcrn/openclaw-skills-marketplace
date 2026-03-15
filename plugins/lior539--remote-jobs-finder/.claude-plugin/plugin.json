@@ -1,0 +1,10 @@
+{
+  "name": "lior539--remote-jobs-finder",
+  "description": "Fully conversational remote job finder for WhatsApp powered by Remote Rocketship. Uses rr_jobs_search tool (server-side RR_API_KEY) and supports pagination (\"20 more\").",
+  "version": "1.6.2",
+  "author": {
+    "name": "lior539"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lior539/remote-jobs-finder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lior539/remote-jobs-finder"
+}

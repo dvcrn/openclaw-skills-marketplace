@@ -1,0 +1,10 @@
+{
+  "name": "yinanping-cpu--yinan-api-integrator",
+  "description": "API integration and automation skill for connecting services, webhooks, and third-party platforms. Use when integrating APIs, building webhooks, syncing data between services, or creating custom API clients. Supports REST, GraphQL, and authentication flows.",
+  "version": "1.0.1",
+  "author": {
+    "name": "yinanping-cpu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yinanping-cpu/yinan-api-integrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yinanping-cpu/yinan-api-integrator"
+}

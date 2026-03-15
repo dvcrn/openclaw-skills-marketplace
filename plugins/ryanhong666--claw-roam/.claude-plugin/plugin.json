@@ -1,0 +1,10 @@
+{
+  "name": "ryanhong666--claw-roam",
+  "description": "Sync OpenClaw workspace between multiple machines (local Mac and remote VPS) via Git. Enables seamless migration of OpenClaw personality, memory, and skills. Use when user wants to (1) push workspace changes to remote before shutdown, (2) pull latest workspace on a new machine, (3) check sync status between machines, (4) migrate OpenClaw to another machine.",
+  "version": "1.0.3",
+  "author": {
+    "name": "ryanhong666"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ryanhong666/claw-roam",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ryanhong666/claw-roam"
+}

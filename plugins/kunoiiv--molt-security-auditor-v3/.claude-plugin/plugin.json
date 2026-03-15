@@ -1,0 +1,10 @@
+{
+  "name": "kunoiiv--molt-security-auditor-v3",
+  "description": "Bulletproof creds/ports/configs/vulns scan + safe auto-fix V3. 100% secure—no injection/lockout/exfil. Use for host audits (laptop/Pi/VPS).",
+  "version": "1.0.1",
+  "author": {
+    "name": "kunoiiv"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kunoiiv/molt-security-auditor-v3",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kunoiiv/molt-security-auditor-v3"
+}

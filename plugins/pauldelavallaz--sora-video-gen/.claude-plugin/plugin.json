@@ -1,0 +1,10 @@
+{
+  "name": "pauldelavallaz--sora-video-gen",
+  "description": "Generate videos using OpenAI's Sora API. Use when the user asks to generate, create, or make videos from text prompts or reference images. Supports image-to-video generation with automatic resizing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pauldelavallaz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/sora-video-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/sora-video-gen"
+}

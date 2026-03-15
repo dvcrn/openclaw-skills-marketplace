@@ -1,0 +1,10 @@
+{
+  "name": "ashrf-in--odoo-reporting",
+  "description": "Query Odoo data including salesperson performance, customer analytics, orders, invoices, CRM, accounting, VAT, inventory, and AR/AP. Generates WhatsApp cards, PDFs, Excel. Use when user explicitly mentions Odoo or asks for Odoo data.",
+  "version": "2.0.7",
+  "author": {
+    "name": "ashrf-in"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ashrf-in/odoo-reporting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ashrf-in/odoo-reporting"
+}

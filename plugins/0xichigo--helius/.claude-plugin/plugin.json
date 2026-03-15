@@ -1,0 +1,10 @@
+{
+  "name": "0xichigo--helius",
+  "description": "Build Solana applications with Helius infrastructure. Covers transaction sending (Sender), asset/NFT queries (DAS API), real-time streaming (WebSockets, Laserstream), event pipelines (webhooks), priority fees, wallet analysis, and agent onboarding.",
+  "version": "1.0.0",
+  "author": {
+    "name": "0xichigo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xichigo/helius",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xichigo/helius"
+}

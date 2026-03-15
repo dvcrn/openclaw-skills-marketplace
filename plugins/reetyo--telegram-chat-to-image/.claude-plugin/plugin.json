@@ -1,0 +1,10 @@
+{
+  "name": "reetyo--telegram-chat-to-image",
+  "description": "Convert Telegram chat exports into a long screenshot-style image. Supports Telegram Desktop JSON exports with bubble-style message rendering, avatars, timestamps, and proper text wrapping. Use when user wants to generate a visual image of Telegram conversations, create chat screenshots, or share conversation history as a single long image.",
+  "version": "1.2.1",
+  "author": {
+    "name": "reetyo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/reetyo/telegram-chat-to-image",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/reetyo/telegram-chat-to-image"
+}

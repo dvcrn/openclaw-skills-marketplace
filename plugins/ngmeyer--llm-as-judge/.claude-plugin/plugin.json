@@ -1,0 +1,10 @@
+{
+  "name": "ngmeyer--llm-as-judge",
+  "description": "Cross-model verification pattern. Spawn a judge subagent with a different model to review plans, code, or decisions before execution. Catches ~85% of issues vs ~60% for self-reflection.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ngmeyer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ngmeyer/llm-as-judge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ngmeyer/llm-as-judge"
+}

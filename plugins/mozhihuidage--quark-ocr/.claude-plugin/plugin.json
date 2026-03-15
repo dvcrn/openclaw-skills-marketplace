@@ -1,0 +1,10 @@
+{
+  "name": "mozhihuidage--quark-ocr",
+  "description": "使用夸克 OCR 服务从图片中提取文本（支持中英文混合）。当用户提供图片 URL，并要求“OCR”、“提取文本”、“读取图片”、“识别文档”或“获取图片文字”时触发。支持通用文档识别，具备版面感知输出能力。",
+  "version": "1.1.5",
+  "author": {
+    "name": "mozhihuidage"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mozhihuidage/quark-ocr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mozhihuidage/quark-ocr"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wusuiling-if--git-smart-commit",
+  "description": "Analyze staged git changes and generate high-quality commit messages following Conventional Commits format. Use when: (1) user asks to commit changes, (2) user wants a commit message generated, (3) user says 'smart commit' or 'auto commit', (4) user asks to describe staged changes. Supports feat/fix/refactor/docs/chore/test/style/perf/ci/build types with optional scope and breaking change detection.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wusuiling-if"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wusuiling-if/git-smart-commit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wusuiling-if/git-smart-commit"
+}

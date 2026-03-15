@@ -1,0 +1,10 @@
+{
+  "name": "linshengli--technical-research",
+  "description": "技术领域深度调研。对任意技术领域进行系统化调研，产出包含概念剖析、行业情报、方案对比、精华整合四个维度的完整报告，并最终整合为一份完整 md 文件。GitHub 数据通过 WebSearch/WebFetch 实时获取。适用于技术选型、领域入门、竞品分析等场景。当用户提到\"调研\"、\"研究\"、\"了解\"某技术领域，或需要对某技术进行全面分析时，使用此 Skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "linshengli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/linshengli/technical-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/linshengli/technical-research"
+}

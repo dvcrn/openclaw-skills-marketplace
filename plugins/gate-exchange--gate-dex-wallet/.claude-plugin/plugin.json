@@ -1,0 +1,10 @@
+{
+  "name": "gate-exchange--gate-dex-wallet",
+  "description": "Gate DEX comprehensive wallet skill. Unified entry point supporting: authentication login, asset queries, transfer execution, DApp interactions, CLI command-line for five major modules. Use when users mention login, check balance, transfer, DApp interaction, signing, gate-wallet, CLI, command-line, openapi-swap and other wallet-related operations. Route to specific operation reference files through sub-function routing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gate-exchange"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-dex-wallet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-dex-wallet"
+}

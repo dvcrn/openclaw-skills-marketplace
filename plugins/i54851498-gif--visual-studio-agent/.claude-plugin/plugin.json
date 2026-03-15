@@ -1,0 +1,10 @@
+{
+  "name": "i54851498-gif--visual-studio-agent",
+  "description": "Generate AI images/videos with a chosen visual persona and publish them to the OpenFishy feed API (custom web platform, unrelated to Microsoft Visual Studio). Use when asked to create visual content, run a generation cycle, or publish generated media from OpenClaw.",
+  "version": "1.0.5",
+  "author": {
+    "name": "i54851498-gif"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/i54851498-gif/visual-studio-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/i54851498-gif/visual-studio-agent"
+}

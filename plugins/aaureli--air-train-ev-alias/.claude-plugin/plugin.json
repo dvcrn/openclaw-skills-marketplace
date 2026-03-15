@@ -1,0 +1,10 @@
+{
+  "name": "aaureli--air-train-ev-alias",
+  "description": "Alias of air-train-ev. Unified travel + mobility skill: (1) flight pricing with Amadeus (flight offers), (2) public transport/train journey planning with Navitia (journeys, departures), and (3) find nearby EV charge points using Open Charge Map. Use when Alessandro asks for flight prices, train itineraries/schedules, or EV charging stations.",
+  "version": "0.1.0",
+  "author": {
+    "name": "aaureli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaureli/air-train-ev-alias",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaureli/air-train-ev-alias"
+}

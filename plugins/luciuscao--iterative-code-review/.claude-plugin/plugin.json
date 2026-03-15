@@ -1,0 +1,10 @@
+{
+  "name": "luciuscao--iterative-code-review",
+  "description": "Iterative code review using multiple independent subagent reviews. Use when user asks to review PR, code, or mentions \"review\", \"审查\", \"检查代码\", \"代码质量\". Automatically fixes all issues through review-fix-review cycles until consecutive two rounds have no new issues.",
+  "version": "1.0.0",
+  "author": {
+    "name": "luciuscao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luciuscao/iterative-code-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luciuscao/iterative-code-review"
+}

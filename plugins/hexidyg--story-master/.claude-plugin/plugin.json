@@ -1,0 +1,10 @@
+{
+  "name": "hexidyg--story-master",
+  "description": "剧情生成管道流技能。支持多剧集连续生成、图谱管理、AI质检+人工确认的双控机制。自动管理人物、场景、钩子的关联关系。",
+  "version": "1.0.1",
+  "author": {
+    "name": "hexidyg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hexidyg/story-master",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hexidyg/story-master"
+}

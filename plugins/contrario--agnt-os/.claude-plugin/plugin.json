@@ -1,0 +1,10 @@
+{
+  "name": "contrario--agnt-os",
+  "description": "The operating system layer for AI agents. Routes goals to the right skills. Executes with checkpoints.",
+  "version": "1.0.3",
+  "author": {
+    "name": "contrario"
+  },
+  "homepage": "https://clawhub.ai/contrario",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/contrario/agnt-os"
+}

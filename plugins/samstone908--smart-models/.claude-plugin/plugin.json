@@ -1,0 +1,10 @@
+{
+  "name": "samstone908--smart-models",
+  "description": "Intelligent multi-model router — automatically selects the best AI model based on task type (vision, image generation, video generation, audio, reasoning, code, general chat) via any OpenAI-compatible API endpoint. Supports 35+ models across 7 categories with @alias shortcuts. Use when: user sends an image for analysis, requests image/video/audio generation, needs deep reasoning or math proofs, wants to use a specific model, or prefixes message with @alias (e.g. @gpt52, @o3, @sora, @imagen).",
+  "version": "1.0.0",
+  "author": {
+    "name": "samstone908"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/samstone908/smart-models",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/samstone908/smart-models"
+}

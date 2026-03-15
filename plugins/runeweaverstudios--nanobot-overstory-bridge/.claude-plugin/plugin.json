@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--nanobot-overstory-bridge",
+  "description": "Seamless bidirectional bridge between nanobot (Ollama Mistral orchestrator) and overstory (Claude Code agent swarm). Routes tasks through the OverClaw gateway (port 18800) to overstory for subagent coordination, syncs memory.",
+  "version": "1.1.0",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/nanobot-overstory-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/nanobot-overstory-bridge"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zengxi--bailian-search",
+  "description": "Real-time web search powered by Alibaba Cloud Bailian (DashScope) MCP service. Use when: user asks for latest news, real-time information, current events, or facts that may have changed recently. Requires: DASHSCOPE_API_KEY environment variable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zengxi"
+  },
+  "homepage": "https://bailian.console.aliyun.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zengxi/bailian-search"
+}

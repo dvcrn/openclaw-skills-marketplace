@@ -1,0 +1,10 @@
+{
+  "name": "liuhedev--lh-deepwiki",
+  "description": "Query DeepWiki MCP service via Streamable HTTP to get GitHub repository documentation, wiki structure, and AI-powered Q&A.",
+  "version": "1.0.0",
+  "author": {
+    "name": "liuhedev"
+  },
+  "homepage": "https://github.com/liuhedev/lh-openclaw-kit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/liuhedev/lh-deepwiki"
+}

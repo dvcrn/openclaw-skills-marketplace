@@ -1,0 +1,10 @@
+{
+  "name": "nissan--demo-precacher",
+  "description": "Pre-generate and cache all demo content before live presentations — hit every API endpoint in advance, verify playback, report coverage gaps. Use before hackathon demos, investor pitches, or any live presentation that relies on AI-generated content. Never demo live API calls.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/demo-precacher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/demo-precacher"
+}

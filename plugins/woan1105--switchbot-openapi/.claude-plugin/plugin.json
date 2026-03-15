@@ -1,0 +1,10 @@
+{
+  "name": "woan1105--switchbot-openapi",
+  "description": "Control and query SwitchBot devices using the official OpenAPI (v1.1). Use when the user asks to list SwitchBot devices, get device status, or send commands (turn on/off, press, set mode, lock/unlock, set temperature, curtain open %, etc.). Requires SWITCHBOT_TOKEN and SWITCHBOT_SECRET.",
+  "version": "1.0.0",
+  "author": {
+    "name": "woan1105"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/woan1105/switchbot-openapi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/woan1105/switchbot-openapi"
+}

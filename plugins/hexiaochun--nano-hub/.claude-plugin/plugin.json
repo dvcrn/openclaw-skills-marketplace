@@ -1,0 +1,10 @@
+{
+  "name": "hexiaochun--nano-hub",
+  "description": "Nano Banana Pro 提示词模板集合，一站式图像生成中心。\n 触发场景：\n - 用户请求生成信息图、角色设计表、电商详情页图\n - 用户提到\"香蕉\"、\"banana\"、\"nano banana\"、\"nano hub\"\n - 用户需要手绘风格信息图、角色参考图、产品详情页\n - 用户上传图片要求编辑或基于图片生成",
+  "version": "1.0.0",
+  "author": {
+    "name": "hexiaochun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/nano-hub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/nano-hub"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ylongw--sensevoice-transcribe",
+  "description": "Transcribe audio files (WAV/MP3/M4A/FLAC) to timestamped text using SenseVoice-Small + FSMN-VAD. Supports single-file and batch mode with VAD-anchored per-segment timestamps (~15s granularity). Use when the user wants to transcribe speech/audio, run batch transcription on daylog recordings, or re-transcribe specific dates. Replaces the old whisper-transcribe skill.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ylongw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ylongw/sensevoice-transcribe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ylongw/sensevoice-transcribe"
+}

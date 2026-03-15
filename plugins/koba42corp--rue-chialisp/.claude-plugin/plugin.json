@@ -1,0 +1,10 @@
+{
+  "name": "koba42corp--rue-chialisp",
+  "description": "Create Chia blockchain puzzles using Rue, a type-safe language that compiles to CLVM. Use for smart contract development, custom puzzle creation, or when user says \"create a coin that...\", \"build a puzzle\", \"chialisp\", \"rue\", \"timelock\", \"multisig\", \"escrow\", \"atomic swap\", or describes coin spending conditions.",
+  "version": "1.0.1",
+  "author": {
+    "name": "koba42corp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/koba42corp/rue-chialisp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/koba42corp/rue-chialisp"
+}

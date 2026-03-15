@@ -1,0 +1,10 @@
+{
+  "name": "hollaugo--mcp-app-builder",
+  "description": "Build new MCP Apps (MCP servers with React UI output) using @modelcontextprotocol/ext-apps and the MCP SDK. Use when asked to scaffold or implement MCP App servers, add UI-rendering tools/resources, or migrate a standard MCP server to an MCP App with Vite single-file UI bundles.",
+  "version": "0.1.0",
+  "author": {
+    "name": "hollaugo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hollaugo/mcp-app-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hollaugo/mcp-app-builder"
+}

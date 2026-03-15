@@ -1,0 +1,10 @@
+{
+  "name": "porygonthebot--frigate",
+  "description": "Access Frigate NVR cameras with session-based authentication. Get live snapshots, retrieve motion events, and fetch stream URLs. Includes CLI helper script for doorbell, driveway, front, east, mailbox, and garage cameras.",
+  "version": "1.0.3",
+  "author": {
+    "name": "porygonthebot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/porygonthebot/frigate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/porygonthebot/frigate"
+}

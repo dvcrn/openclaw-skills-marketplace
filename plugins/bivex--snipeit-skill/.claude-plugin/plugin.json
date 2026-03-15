@@ -1,0 +1,10 @@
+{
+  "name": "bivex--snipeit-skill",
+  "description": "Interact with Snipe-IT asset management via REST API. Use when working with assets (hardware), users, licenses, accessories, consumables, components, locations, departments, models, manufacturers, status labels, categories, suppliers, maintenances, reports. Trigger on: \"snipe\", \"asset\", \"hardware\", \"license\", \"inventory\", \"check out\", \"check in\", \"IT assets\", \"equipment\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "bivex"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bivex/snipeit-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bivex/snipeit-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dviros--wolt-orders",
+  "description": "Discover restaurants with advanced filters (cuisine, price, distance, rating, promotions), place single or group orders on Wolt.com, reorder past favorites, track status in real-time, automatically detect delays and contact support, and push rich updates to Slack or other channels.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dviros"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dviros/wolt-orders",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dviros/wolt-orders"
+}

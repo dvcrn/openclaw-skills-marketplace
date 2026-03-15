@@ -1,0 +1,10 @@
+{
+  "name": "z448577223--clawhub-skill-install",
+  "description": "Automatically install skills from ClawHub with retry logic. Handles rate limits (waits 10s and retries), auto-confirms prompts (--force), and stops after 30 minutes if installation fails. Use when user provides a skill name to install.",
+  "version": "1.0.0",
+  "author": {
+    "name": "z448577223"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/z448577223/clawhub-skill-install",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/z448577223/clawhub-skill-install"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lanbowai--lanbow-claw-skill",
+  "description": "End-to-end Meta (Facebook/Instagram) advertising system orchestrator covering the full ad lifecycle:\n strategy research, creative generation, campaign delivery, and post-campaign optimization.\n Use when:\n (1) Planning and executing a complete Meta Ads campaign from scratch\n (2) Running the full ads lifecycle: research → create → launch → review → optimize\n (3) User says \"run ads\", \"launch campaign\", \"full ads system\", \"ads pipeline\", \"广告投放全流程\"\n (4) User needs guidance on which ads skill to use for their current task\n (5) Coordinating between strategy, creative, delivery, and review phases\n This skill orchestrates 4 sub-skills: ads-strategy-researcher (insights), creative_gen (creatives),\n lanbow-ads (delivery), and post-campaign-review (optimization). Each can also be used independently.",
+  "version": "1.0.5",
+  "author": {
+    "name": "lanbowai"
+  },
+  "homepage": "https://lanbow.com/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lanbowai/lanbow-claw-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "gugic--inworld-tts",
+  "description": "Text-to-speech via Inworld.ai API. Use when generating voice audio from text, creating spoken responses, or converting text to MP3/audio files. Supports multiple voices, speaking rates, and streaming for long text.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gugic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gugic/inworld-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gugic/inworld-tts"
+}

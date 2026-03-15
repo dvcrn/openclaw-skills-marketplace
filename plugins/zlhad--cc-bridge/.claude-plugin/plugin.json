@@ -1,0 +1,10 @@
+{
+  "name": "zlhad--cc-bridge",
+  "description": "Bridges OpenClaw (QQ, Telegram, WeChat, and other messaging channels) to a persistent Claude Code CLI session running in a background tmux process. Enables starting, stopping, restarting, and monitoring Claude Code sessions directly from any chat interface. Automatically detects session state on every message, routes user input to the active Claude Code session, and handles tool-approval prompts so the user can approve or deny Claude Code actions without leaving their chat app. Ideal for developers who want to control Claude Code from a mobile device or a group chat. Trigger phrases: \"start claude code\", \"open claude code\", \"cc status\", \"stop claude code\", \"restart cc\", \"启动claude code\", \"开启claude code\", \"连接cc\", \"cc状态\", \"关闭cc\", \"退出cc\", \"重启cc\", \"/cc start\", \"/cc stop\", \"/cc restart\", \"/cc status\".",
+  "version": "0.2.1",
+  "author": {
+    "name": "zlhad"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zlhad/cc-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zlhad/cc-bridge"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "adspower--adspower-browser",
+  "description": "Manages AdsPower browser profiles, groups, and proxies via the adspower-browser CLI. Requires AdsPower desktop application to be already installed. Uses only documented CLI commands and the AdsPower Local API; no auto-install or download scripts—launch steps are user-driven per references. Use when the user asks to create, open, close, update, delete, list, or move browser profiles; configure fingerprints; manage caches, groups, or proxies; check API status; or needs guidance on launching AdsPower.",
+  "version": "1.0.9",
+  "author": {
+    "name": "adspower"
+  },
+  "homepage": "https://github.com/AdsPower/adspower-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adspower/adspower-browser"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "topdu--openocr-skill",
+  "description": "Extract text from images, documents and scanned PDFs using OpenOCR",
+  "version": "0.1.6",
+  "author": {
+    "name": "topdu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/topdu/openocr-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/topdu/openocr-skill"
+}

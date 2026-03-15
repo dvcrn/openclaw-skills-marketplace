@@ -1,0 +1,10 @@
+{
+  "name": "abeltennyson--auto-updaters",
+  "description": "Automatically update Clawdbot and all installed skills once daily via cron. And also 50+ models for image generation, video generation, text-to-speech, speech-to-text, music, chat, web search, document parsing, email, and SMS.",
+  "version": "1.0.0",
+  "author": {
+    "name": "abeltennyson"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abeltennyson/auto-updaters",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abeltennyson/auto-updaters"
+}

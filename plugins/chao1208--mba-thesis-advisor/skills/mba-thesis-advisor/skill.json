@@ -1,0 +1,10 @@
+{
+  "name": "mba-thesis-advisor",
+  "version": "1.0.0",
+  "description": "MBA thesis advisor: diagnose, restructure, and elevate MBA theses to award-winning quality. Supports critical analysis (Style B), framework upgrade, insider-angle excavation, and LaTeX (thuthesis) workflow. Designed for Tsinghua MBA theses but applicable broadly.",
+  "author": "lichao",
+  "license": "MIT",
+  "acceptLicenseTerms": true,
+  "tags": ["thesis", "mba", "academic-writing", "latex", "thuthesis", "critical-analysis"],
+  "main": "SKILL.md"
+}

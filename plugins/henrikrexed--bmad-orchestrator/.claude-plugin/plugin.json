@@ -1,0 +1,10 @@
+{
+  "name": "henrikrexed--bmad-orchestrator",
+  "description": "Orchestrate the full BMAD Method workflow across OpenClaw and Claude Code. Use when starting a new project with BMAD methodology, running BMAD phases (brainstorming, PRD, architecture, implementation), or managing Claude Code agents through BMAD workflows. Handles interactive phases (1-3) with the user and delegates implementation (phase 4) to Claude Code via tmux.",
+  "version": "1.0.0",
+  "author": {
+    "name": "henrikrexed"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/henrikrexed/bmad-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/henrikrexed/bmad-orchestrator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "easonc13--m3u8-downloader",
+  "description": "Download encrypted m3u8/HLS videos using parallel downloads. Use when given an m3u8 URL to download a video, especially encrypted HLS streams with AES-128.",
+  "version": "1.0.0",
+  "author": {
+    "name": "easonc13"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/easonc13/m3u8-downloader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/easonc13/m3u8-downloader"
+}

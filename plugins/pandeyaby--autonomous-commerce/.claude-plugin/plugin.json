@@ -1,0 +1,10 @@
+{
+  "name": "pandeyaby--autonomous-commerce",
+  "description": "Execute real-world e-commerce purchases autonomously with escrow protection and cryptographic proof. Use when: User requests a physical purchase (Amazon, retail), budget is specified, escrow funds are available. Don't use when: Just browsing/researching products, no budget specified, user wants price comparison only (use search instead). Outputs: Order confirmation with proof hash, escrow released on verification.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pandeyaby"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pandeyaby/autonomous-commerce",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pandeyaby/autonomous-commerce"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "glucksberg--issue-prioritizer",
+  "description": "Prioritize GitHub issues by ROI, solution sanity, and architectural impact. Use when triaging or ranking issues to identify quick wins, over-engineered proposals, and actionable bugs. Don't use when managing forks (use fork-manager) or general GitHub queries (use github). Read-only — never modifies repositories.",
+  "version": "1.2.0",
+  "author": {
+    "name": "glucksberg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/glucksberg/issue-prioritizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/glucksberg/issue-prioritizer"
+}

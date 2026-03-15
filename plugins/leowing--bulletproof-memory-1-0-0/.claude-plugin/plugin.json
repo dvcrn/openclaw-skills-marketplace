@@ -1,0 +1,10 @@
+{
+  "name": "leowing--bulletproof-memory-1-0-0",
+  "description": "Never lose context again. The Write-Ahead Log (WAL) protocol with SESSION-STATE.md gives your agent bulletproof memory that survives compaction, restarts, and distractions. Part of the Hal Stack 🦞",
+  "version": "1.0.0",
+  "author": {
+    "name": "leowing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leowing/bulletproof-memory-1-0-0",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leowing/bulletproof-memory-1-0-0"
+}

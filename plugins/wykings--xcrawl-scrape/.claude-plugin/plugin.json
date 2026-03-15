@@ -1,0 +1,10 @@
+{
+  "name": "wykings--xcrawl-scrape",
+  "description": "Use this skill for XCrawl scrape tasks, including single-URL fetch, format selection, sync or async execution, and JSON extraction with prompt or json_schema.",
+  "version": "1.0.2",
+  "author": {
+    "name": "wykings"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wykings/xcrawl-scrape",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wykings/xcrawl-scrape"
+}

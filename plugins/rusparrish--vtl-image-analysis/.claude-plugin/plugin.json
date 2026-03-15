@@ -1,0 +1,10 @@
+{
+  "name": "rusparrish--vtl-image-analysis",
+  "description": "Measure compositional structure in AI-generated images using the Visual Thinking Lens (VTL) framework. Detects default-mode bias (center lock, radial collapse, low tension) and generates targeted re-prompts via configurable operators. Run after image generation to diagnose and improve compositional quality.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rusparrish"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rusparrish/vtl-image-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rusparrish/vtl-image-analysis"
+}

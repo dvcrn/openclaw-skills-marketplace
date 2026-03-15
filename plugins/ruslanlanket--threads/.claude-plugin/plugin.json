@@ -1,0 +1,10 @@
+{
+  "name": "ruslanlanket--threads",
+  "description": "Взаимодействие с Threads API для публикации постов (текст, изображения), чтения постов и получения информации о профиле. Используйте, когда пользователю нужно работать с Threads через Graph API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ruslanlanket"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ruslanlanket/threads",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ruslanlanket/threads"
+}

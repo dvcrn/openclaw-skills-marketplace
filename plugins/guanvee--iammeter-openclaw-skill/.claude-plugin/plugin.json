@@ -1,0 +1,10 @@
+{
+  "name": "guanvee--iammeter-openclaw-skill",
+  "description": "Query and export device/site data via the iammeter API (based on https://www.iammeter.com/swaggerui/swagger.json). Triggers: list sites/devices, get real-time or historical energy data, export CSV, run power or offline analysis.",
+  "version": "0.2.1",
+  "author": {
+    "name": "guanvee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guanvee/iammeter-openclaw-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guanvee/iammeter-openclaw-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mysmth2003--amazon-product-fetcher",
+  "description": "Fetch complete Amazon product data including title, current price, currency, star rating, review count, availability, main image, and product URL. Works from an Amazon URL or ASIN. No API key required. Trigger when asked to \"get Amazon product info\", \"fetch Amazon price\", \"look up product on Amazon\", \"what does X cost on Amazon\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "mysmth2003"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mysmth2003/amazon-product-fetcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mysmth2003/amazon-product-fetcher"
+}

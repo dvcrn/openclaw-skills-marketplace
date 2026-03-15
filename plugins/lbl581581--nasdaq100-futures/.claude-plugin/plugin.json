@@ -1,0 +1,10 @@
+{
+  "name": "lbl581581--nasdaq100-futures",
+  "description": "Fetch the latest Nasdaq-100 futures quote (default NQ=F) via Yahoo Finance chart API using Node.js and return price, change, percent change, and timestamp. Use when the user asks for Nasdaq-100 futures, NQ futures, NQ=F, 纳指100期货, or wants the latest quote and change metrics.",
+  "version": "1.0.4",
+  "author": {
+    "name": "lbl581581"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lbl581581/nasdaq100-futures",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lbl581581/nasdaq100-futures"
+}

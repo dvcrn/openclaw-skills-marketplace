@@ -1,0 +1,10 @@
+{
+  "name": "uu-z--trading-devbox",
+  "description": "Trading strategy development sandbox. User describes trading intent in natural language, agent writes a Python backtest strategy and returns results.",
+  "version": "0.1.0",
+  "author": {
+    "name": "uu-z"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/uu-z/trading-devbox",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/uu-z/trading-devbox"
+}

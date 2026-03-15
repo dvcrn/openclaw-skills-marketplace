@@ -1,0 +1,10 @@
+{
+  "name": "horn111--safe-cron-runner",
+  "description": "Executes background tasks safely by dropping privileges and enforcing timeouts. Includes ISNAD signed manifest.",
+  "version": "1.0.2",
+  "author": {
+    "name": "horn111"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/horn111/safe-cron-runner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/horn111/safe-cron-runner"
+}

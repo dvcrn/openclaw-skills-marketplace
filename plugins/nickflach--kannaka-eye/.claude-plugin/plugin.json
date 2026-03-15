@@ -1,0 +1,10 @@
+{
+  "name": "nickflach--kannaka-eye",
+  "description": "Glyph viewer that renders the SGA geometric fingerprint of any data as a stunning multi-layer canvas visualization. Takes text, files, or raw bytes and produces living glyphs using the 84-class Sigmatics Geometric Algebra system (Cl₀,₇ ⊗ ℝ[ℤ₄] ⊗ ℝ[ℤ₃]) with Fano plane topology. Includes native Rust classifier integration (via kannaka-memory binary), constellation dashboard showing service health, share links for glyph exchange, and a radio perception bridge that converts audio features to classifiable bytes. Use when you need to visualize information geometry, inspect glyph structure, export glyph PNGs, or render the constellation's visual language. Single-file Node.js server — zero dependencies.",
+  "version": "1.0.1",
+  "author": {
+    "name": "nickflach"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nickflach/kannaka-eye",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nickflach/kannaka-eye"
+}

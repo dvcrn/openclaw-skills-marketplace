@@ -1,0 +1,10 @@
+{
+  "name": "dflam1--finance-ethnographer",
+  "description": "Always-on finance UX research. Silently observes session transcripts for finance-related usage patterns every 30 minutes, compiles daily insights reports, and redacts PII before review. Nothing leaves the machine automatically.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dflam1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dflam1/finance-ethnographer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dflam1/finance-ethnographer"
+}

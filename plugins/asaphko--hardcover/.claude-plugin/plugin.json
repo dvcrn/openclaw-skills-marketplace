@@ -1,0 +1,10 @@
+{
+  "name": "asaphko--hardcover",
+  "description": "Query reading lists and book data from Hardcover.app via GraphQL API. Triggers when user mentions Hardcover, asks about their reading list/library, wants book progress, searches for books/authors/series, or references \"currently reading\", \"want to read\", or \"books I've read\". Also use for syncing reading data to other systems (Obsidian, etc.) or tracking reading goals.",
+  "version": "1.0.7",
+  "author": {
+    "name": "asaphko"
+  },
+  "homepage": "https://hardcover.app",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/asaphko/hardcover"
+}

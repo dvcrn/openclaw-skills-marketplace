@@ -1,0 +1,10 @@
+{
+  "name": "pattzaks--sdlc-assistant",
+  "description": "A guided assistant for software development teams across all roles — developers, testers (QA), product owners (PO), project managers (PM), and business analysts (BA). Use this skill whenever a user asks about SDLC phases, sprint planning, requirements gathering, test planning, release management, backlog grooming, project timelines, acceptance criteria, definition of done, user stories, bug triage, retrospectives, change requests, or any stage of building and delivering software. Triggers on: \"help me with my sprint\", \"how do I write a user story\", \"what should I do in the testing phase\", \"help me plan a release\", \"I'm a developer / tester / PM / PO / BA and I need help with...\", \"agile vs waterfall\", or any mention of project kickoff, discovery, design, development, QA, UAT, deployment, or post-release. Always use this skill when project management or software delivery workflow questions arise, even if the user doesn't use the word \"SDLC\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "pattzaks"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pattzaks/sdlc-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pattzaks/sdlc-assistant"
+}

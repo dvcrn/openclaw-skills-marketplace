@@ -1,0 +1,10 @@
+{
+  "name": "wrannaman--heath-ledger",
+  "description": "AI bookkeeping agent for Mercury bank accounts. Pulls transactions, categorizes them (rule-based + AI), and generates Excel workbooks with P&L, Balance Sheet, Cash Flow, and transaction detail. Use when the user wants to do bookkeeping, generate financial statements, categorize bank transactions, connect Mercury, or produce monthly/quarterly/annual books. Triggers on: bookkeeping, P&L, profit and loss, balance sheet, cash flow, financial statements, Mercury bank, categorize transactions, generate books, monthly close.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wrannaman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wrannaman/heath-ledger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wrannaman/heath-ledger"
+}

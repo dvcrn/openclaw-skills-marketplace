@@ -1,0 +1,11 @@
+[project]
+name = "ddgs-search"
+version = "0.1.0"
+description = "DuckDuckGo Web Search Agent Skill"
+requires-python = ">=3.9"
+dependencies = [
+    "ddgs>=8.0.0",
+]
+
+[project.scripts]
+ddgs-search = "scripts.ddgs_search:main"

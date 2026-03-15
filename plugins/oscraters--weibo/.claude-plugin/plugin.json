@@ -1,0 +1,10 @@
+{
+  "name": "oscraters--weibo",
+  "description": "Use Weibo Open Platform for OAuth2 authentication, timeline retrieval, topic search, and structured social sentiment collection. Trigger this skill when tasks involve Weibo API calls, token setup, endpoint debugging, or Chinese social trend monitoring through the official Weibo API.",
+  "version": "1.0.1",
+  "author": {
+    "name": "oscraters"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oscraters/weibo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oscraters/weibo"
+}

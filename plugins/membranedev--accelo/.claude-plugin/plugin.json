@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--accelo",
+  "description": "Accelo integration. Manage Organizations, Leads, Pipelines, Users, Goals, Filters. Use when the user wants to interact with Accelo data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/accelo"
+}

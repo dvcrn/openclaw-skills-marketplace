@@ -1,0 +1,10 @@
+{
+  "name": "hfichter--umami-stats",
+  "description": "Query Umami Cloud (v2) analytics data via API using an environment-provided API key. Use when agents need website traffic, pages, events, sessions, realtime, reports, or attribution data for analysis, planning, experiments, or monitoring. Includes read-only API querying patterns, endpoint selection guidance, and reusable scripts for flexible endpoint + time-range requests.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hfichter"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hfichter/umami-stats",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hfichter/umami-stats"
+}

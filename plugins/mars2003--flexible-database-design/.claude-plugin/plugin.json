@@ -1,0 +1,10 @@
+{
+  "name": "mars2003--flexible-database-design",
+  "description": "Guide agents and users to design and implement a \"flexible database\" on SQLite that can handle semi-structured, multi-source data.\n Typical scenarios: personal knowledge base, PDF/report archive, policy tracking, fragmented notes, custom form/questionnaire fields, multi-source data aggregation, event logging.\n When the user says things like \"I want to build a knowledge base\", \"archive PDF reports\", \"search within report content\", \"collect policies or scattered information\", this skill provides the end-to-end workflow.\n It includes: design principles, a three-layer model, agent workflows, schema templates, and reference Python scripts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mars2003"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mars2003/flexible-database-design",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mars2003/flexible-database-design"
+}

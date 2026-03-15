@@ -1,0 +1,10 @@
+{
+  "name": "joeru--claw2immich",
+  "description": "Work with Immich photo library via MCP (claw2immich) - search photos by people, dates, locations, albums. Download assets via shared links. Handles multi-person search, CLIP smart search, and metadata queries.",
+  "version": "1.0.0",
+  "author": {
+    "name": "joeru"
+  },
+  "homepage": "https://github.com/JoeRu/claw2immich",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joeru/claw2immich"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "harrylabsj--knowledge-connector",
+  "description": "Extract concepts from documents, notes, and conversations; connect them into a knowledge graph; support relationship-aware queries, recommendations, and graph export. Use when the user wants to build structured knowledge from source material, connect concepts, inspect related ideas, or visualize a knowledge map.",
+  "version": "1.0.2",
+  "author": {
+    "name": "harrylabsj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/knowledge-connector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/knowledge-connector"
+}

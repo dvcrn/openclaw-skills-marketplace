@@ -1,0 +1,10 @@
+{
+  "name": "arein--onchain",
+  "description": "CLI for crypto portfolio tracking, market data, CEX history, and transaction lookups. Use when the user asks about crypto prices, wallet balances, portfolio values, Coinbase/Binance holdings, Polymarket predictions, or transaction details.",
+  "version": "0.3.0",
+  "author": {
+    "name": "arein"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arein/onchain",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arein/onchain"
+}

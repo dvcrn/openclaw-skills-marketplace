@@ -1,0 +1,10 @@
+{
+  "name": "elmoyeldo--ctrader-commander",
+  "description": "Place and manage cTrader orders (market, limit, stop), check open positions, fetch live quotes and OHLC candles, and query account balance and equity via a local HTTP proxy. No credentials or token required at call time.",
+  "version": "1.0.0",
+  "author": {
+    "name": "elmoyeldo"
+  },
+  "homepage": "https://github.com/LogicalSapien/ctrader-openapi-proxy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/elmoyeldo/ctrader-commander"
+}

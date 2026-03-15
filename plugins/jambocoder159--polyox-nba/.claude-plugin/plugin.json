@@ -1,0 +1,10 @@
+{
+  "name": "jambocoder159--polyox-nba",
+  "description": "Query the PolyOx API for NBA data, Polymarket predictions, and AI matchup analysis. The analysis endpoint uses the x402 payment protocol (USDC on Base Sepolia).",
+  "version": "0.2.0",
+  "author": {
+    "name": "jambocoder159"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jambocoder159/polyox-nba",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jambocoder159/polyox-nba"
+}

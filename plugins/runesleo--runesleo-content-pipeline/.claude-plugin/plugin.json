@@ -1,0 +1,10 @@
+{
+  "name": "runesleo--runesleo-content-pipeline",
+  "description": "4-stage content pipeline orchestrator: Research -> Ideate -> Write -> Queue.\n Give it a topic, it researches existing discussions, generates hook angles,\n writes a draft, and queues it for review. Inspired by @shannholmberg's\n 4-Agent content system (Research -> Ideate -> Write -> Orchestrate).\n Designed for creators who build in public and want systematic content production.",
+  "version": "1.0.0",
+  "author": {
+    "name": "runesleo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runesleo/runesleo-content-pipeline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runesleo/runesleo-content-pipeline"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--gep-immune-auditor",
+  "description": "Security audit agent for GEP/EvoMap ecosystem. Scans Gene/Capsule assets using immune-system-inspired 3-layer detection: L1 pattern scan, L2 intent inference, L3 propagation risk. Rates findings CLEAN/SUSPECT/THREAT/CRITICAL. Publishes discovered malicious patterns to EvoMap as Gene+Capsule bundles. Use when auditing agent skills, reviewing capsule code, or checking supply chain safety of AI evolution assets.",
+  "version": "1.0.1",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/gep-immune-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/gep-immune-auditor"
+}

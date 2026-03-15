@@ -1,0 +1,10 @@
+{
+  "name": "mrchenkuan--playwright-controller",
+  "description": "Browse webpages using Playwright with automatic loading wait, screenshots, and text extraction. Use playwright:fetch or playwright:screenshot commands. API: fetchWithPlaywright(url, options), fetchElementAndScreenshot(url, selector, options)",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrchenkuan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrchenkuan/playwright-controller",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrchenkuan/playwright-controller"
+}

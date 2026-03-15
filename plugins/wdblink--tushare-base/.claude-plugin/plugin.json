@@ -1,0 +1,10 @@
+{
+  "name": "wdblink--tushare-base",
+  "description": "Fetch Chinese stock and futures market data via Tushare API. Supports stock quotes, futures data, company fundamentals, and macroeconomic indicators. Use when the user needs financial data from Chinese markets. Requires TUSHARE_TOKEN environment variable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wdblink"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wdblink/tushare-base",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wdblink/tushare-base"
+}

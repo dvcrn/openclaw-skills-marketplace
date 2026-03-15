@@ -1,0 +1,10 @@
+{
+  "name": "bpauli--garmin-trainer",
+  "description": "Adaptive 12-week training plan generator using Garmin Connect data. Creates structured workouts and schedules them on your Garmin calendar. Use this skill whenever the user asks about training plans, workout scheduling, race preparation, building fitness for upcoming events, or wants to generate/update their training calendar. Also triggers when the user mentions Garmin training, weekly workouts, taper plans, base building, interval sessions, or periodization.",
+  "version": "0.1.0",
+  "author": {
+    "name": "bpauli"
+  },
+  "homepage": "https://github.com/bpauli/gccli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bpauli/garmin-trainer"
+}

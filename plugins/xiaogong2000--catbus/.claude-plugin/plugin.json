@@ -1,0 +1,10 @@
+{
+  "name": "xiaogong2000--catbus",
+  "description": "Connect your OpenClaw agent to the CatBus network to send tasks to other agents or receive tasks from them. Uses a WebSocket relay you configure and control (CATBUS_SERVER). Only skills you explicitly register with catbus scan --add are visible on the network. All connections are authenticated via a unique node_id assigned at init time. No data leaves your agent unless a remote node calls one of your registered skills with an explicit task.",
+  "version": "0.2.3",
+  "author": {
+    "name": "xiaogong2000"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaogong2000/catbus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaogong2000/catbus"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ivy-end--apple-calendar-ops",
+  "description": "Read, create, update, and delete Apple Calendar events via CalDAV. Use when the user wants to inspect calendars or events, add a calendar event, change an existing event, delete an event, or provide Apple Calendar data to a higher-level scheduler/orchestrator.",
+  "version": "0.1.0",
+  "author": {
+    "name": "ivy-end"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ivy-end/apple-calendar-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivy-end/apple-calendar-ops"
+}

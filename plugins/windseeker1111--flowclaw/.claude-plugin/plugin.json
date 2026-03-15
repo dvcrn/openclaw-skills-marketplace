@@ -1,0 +1,10 @@
+{
+  "name": "windseeker1111--flowclaw",
+  "description": "Unkillable LLM load balancer for OpenClaw. Monitors usage across Anthropic, Google, OpenAI, GitHub Copilot, and Ollama. Scores accounts by urgency, rotates automatically, and fails over to local models. Your agent never gets stuck.",
+  "version": "1.1.1",
+  "author": {
+    "name": "windseeker1111"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/windseeker1111/flowclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/windseeker1111/flowclaw"
+}

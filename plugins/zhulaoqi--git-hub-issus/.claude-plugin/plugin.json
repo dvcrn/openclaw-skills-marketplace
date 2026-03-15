@@ -1,0 +1,10 @@
+{
+  "name": "zhulaoqi--git-hub-issus",
+  "description": "Local git operations for project management. Use when: (1) creating branches for new features/issues, (2) committing and pushing code, (3) pulling latest changes, (4) managing branches, (5) viewing git log/diff/status, (6) preparing code for merge requests or pull requests. Triggers on: git, branch, commit, push, pull, merge, checkout, diff, log, 分支, 提交, 推送.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhulaoqi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhulaoqi/git-hub-issus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhulaoqi/git-hub-issus"
+}

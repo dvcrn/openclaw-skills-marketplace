@@ -1,0 +1,10 @@
+{
+  "name": "akhmittra--ctf-writeup-generator",
+  "description": "Automatically generate professional CTF writeups from solving sessions with flag detection, challenge categorization, and proper markdown formatting",
+  "version": "1.0.0",
+  "author": {
+    "name": "akhmittra"
+  },
+  "homepage": "https://github.com/yourusername/ctf-writeup-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/akhmittra/ctf-writeup-generator"
+}

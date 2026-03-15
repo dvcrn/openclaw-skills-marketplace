@@ -1,0 +1,60 @@
+{
+  "name": "薅羊毛综合配置",
+  "version": "1.0.0",
+
+  "db_path": "/ql/data/price_history.db",
+
+  "items": [
+    {
+      "name": "示例商品-京东",
+      "platform": "jd",
+      "item_id": "100012043978",
+      "url": "https://item.jd.com/100012043978.html",
+      "threshold": 0.8
+    }
+  ],
+
+  "threshold": 0.8,
+
+  "push_config": {
+    "enabled": true,
+
+    "serverchan_enabled": true,
+    "serverchan_key": "SCT318129TjbbZCb4uk6oCF42SQEHefQ6Y",
+
+    "pushplus_enabled": false,
+    "pushplus_token": "xxxxxxxxxxxxxxxxxxxxxxxx",
+
+    "dingtalk_enabled": false,
+    "dingtalk_token": "xxxxxxxxxxxxxxxxxxxxxxxx",
+    "dingtalk_secret": "SECxxxxxxxxxxxxxxxxxxxxxxxx",
+
+    "email_enabled": false,
+    "email_config": {
+      "smtp_server": "smtp.gmail.com",
+      "smtp_port": 587,
+      "from_addr": "your_email@gmail.com",
+      "password": "your_password",
+      "to_addr": "target_email@example.com"
+    }
+  },
+
+  "checkin_config": {
+    "enabled": true,
+    "platforms": ["ALIYUN", "BAIDUWP", "BILIBILI", "IQIYI", "SMZDM"],
+    "schedule": "0 8 * * *"
+  },
+
+  "price_monitor": {
+    "enabled": true,
+    "interval": 3600,
+    "history_days": 30
+  },
+
+  "coupon_fetcher": {
+    "enabled": false,
+    "platforms": ["taobao", "jd"],
+    "keywords": ["优惠券", "折扣"],
+    "min_discount": 0.5
+  }
+}

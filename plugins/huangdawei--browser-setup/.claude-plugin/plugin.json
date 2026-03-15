@@ -1,0 +1,10 @@
+{
+  "name": "huangdawei--browser-setup",
+  "description": "Install and configure headless Chrome for OpenClaw browser tool in environments without root/sudo access (cloud containers, VPS, sandboxed hosts). Use when: (1) browser tool fails with No supported browser found, (2) Chrome crashes with Page crashed or missing library errors, (3) setting up browser automation on a fresh server or container, (4) user asks to install or fix the browser for OpenClaw. NOT for macOS/Windows desktops with Chrome already installed, or Chrome extension relay setup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "huangdawei"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/huangdawei/browser-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/huangdawei/browser-setup"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "brennerspear--commit",
+  "description": "Create a git commit with a contextual message based on current changes, then push the branch.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brennerspear"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brennerspear/commit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brennerspear/commit"
+}

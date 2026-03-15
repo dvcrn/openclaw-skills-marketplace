@@ -1,0 +1,10 @@
+{
+  "name": "sunxianzheng--stock-trader",
+  "description": "A股股票分析助手。支持实时股价查询、批量查询、财经新闻、潜力股分析、行业资金流向、龙头股分析、消息面情感分析、激进型模拟交易。触发场景：(1) 查询股票实时价格 (2) 分析消息面预测走势 (3) 行业资金+龙头分析 (4) 激进型模拟交易 (5) 制定买卖策略。",
+  "version": "2.0.0",
+  "author": {
+    "name": "sunxianzheng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunxianzheng/stock-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunxianzheng/stock-trader"
+}

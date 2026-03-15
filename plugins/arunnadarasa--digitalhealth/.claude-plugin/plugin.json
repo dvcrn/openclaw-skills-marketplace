@@ -1,0 +1,10 @@
+{
+  "name": "arunnadarasa--digitalhealth",
+  "description": "Implements USDC x402 payments via PayAI (EIP-3009) and DHM x402 payments via EVVM native (signed pay). Use when adding x402 payment flows, PayAI Echo integration, EVVM pay() for DHM, agent-to-agent payments with Privy, or when the user asks how to do USDC/DHM x402 in the ClawHub/NHS EVVM app.",
+  "version": "1.0.0",
+  "author": {
+    "name": "arunnadarasa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arunnadarasa/digitalhealth",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arunnadarasa/digitalhealth"
+}

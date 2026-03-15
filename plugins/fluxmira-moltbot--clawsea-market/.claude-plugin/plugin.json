@@ -1,0 +1,10 @@
+{
+  "name": "fluxmira-moltbot--clawsea-market",
+  "description": "Non-custodial automation skill for ClawSea NFT marketplace. Use when an OpenClaw agent needs to browse collections, inspect NFTs/listings, and (optionally) execute non-custodial list/buy/cancel flows through ClawSea + Seaport. Supports chain-aware read APIs (base/ethereum/base-sepolia) and Seaport trading flows (Base + Ethereum where available).",
+  "version": "1.0.2",
+  "author": {
+    "name": "fluxmira-moltbot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fluxmira-moltbot/clawsea-market",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fluxmira-moltbot/clawsea-market"
+}

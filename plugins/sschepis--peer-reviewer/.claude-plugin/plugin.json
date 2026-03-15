@@ -1,0 +1,10 @@
+{
+  "name": "sschepis--peer-reviewer",
+  "description": "AI-powered academic paper reviewer. Uses a multi-agent system (Deconstructor, Devil's Advocate, Judge) to analyze papers for logical flaws, contradictions, and empirical validity.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sschepis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sschepis/peer-reviewer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sschepis/peer-reviewer"
+}

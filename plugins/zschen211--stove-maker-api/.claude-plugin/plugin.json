@@ -1,0 +1,10 @@
+{
+  "name": "zschen211--stove-maker-api",
+  "description": "使用 Stove Protocol 的 Maker API 管理机构用户的挂单、仓位与相关实时报价推送，基于 JWT 认证访问。",
+  "version": "0.1.0",
+  "author": {
+    "name": "zschen211"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zschen211/stove-maker-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zschen211/stove-maker-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ikchain--fabrik-codek",
+  "description": "Personal cognitive architecture that learns how you work. Builds a knowledge graph from your sessions, profiles your expertise, adapts retrieval per task, and self-corrects via outcome feedback. Three-tier hybrid RAG (vector + graph + full-text). Runs locally with any Ollama model — no outbound network calls from Fabrik-Codek itself.",
+  "version": "1.10.0",
+  "author": {
+    "name": "ikchain"
+  },
+  "homepage": "https://github.com/ikchain/Fabrik-Codek",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ikchain/fabrik-codek"
+}

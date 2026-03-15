@@ -1,0 +1,10 @@
+{
+  "name": "normallygaussian--parallel-search",
+  "description": "AI-powered web search via Parallel API. Returns ranked results with LLM-optimized excerpts. Use for up-to-date research, fact-checking, and domain-scoped searching.",
+  "version": "1.0.0",
+  "author": {
+    "name": "normallygaussian"
+  },
+  "homepage": "https://parallel.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/normallygaussian/parallel-search"
+}

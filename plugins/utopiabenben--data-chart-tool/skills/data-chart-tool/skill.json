@@ -1,0 +1,33 @@
+{
+  "name": "data-visualizer",
+  "version": "1.0.0",
+  "description": "数据可视化工具，将 CSV/JSON 数据生成美观图表（柱状图、折线图、饼图等），配合 tushare-finance、财务分析、数据报告使用！",
+  "author": "小叮当",
+  "license": "MIT",
+  "keywords": [
+    "data",
+    "visualization",
+    "charts",
+    "matplotlib",
+    "pandas",
+    "数据可视化",
+    "图表",
+    "股票"
+  ],
+  "engines": {
+    "python": ">=3.7"
+  },
+  "dependencies": {
+    "matplotlib": ">=3.5.0",
+    "pandas": ">=1.3.0",
+    "openpyxl": ">=3.0.0"
+  },
+  "main": "source/data_visualizer.py",
+  "bin": {
+    "data-visualizer": "source/data_visualizer.py"
+  },
+  "scripts": {
+    "install": "bash install.sh",
+    "test": "python source/data_visualizer.py --help"
+  }
+}

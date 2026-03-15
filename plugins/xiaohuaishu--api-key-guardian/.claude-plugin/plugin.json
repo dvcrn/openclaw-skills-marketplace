@@ -1,0 +1,10 @@
+{
+  "name": "xiaohuaishu--api-key-guardian",
+  "description": "API密钥和敏感信息安全扫描。检测代码库中泄露的API key、密码、token，支持git历史扫描，提供AI风险分析和修复建议。当需要检查项目安全性、防止密钥泄露时使用。",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiaohuaishu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaohuaishu/api-key-guardian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaohuaishu/api-key-guardian"
+}

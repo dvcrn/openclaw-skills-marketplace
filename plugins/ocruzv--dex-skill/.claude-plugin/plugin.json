@@ -1,0 +1,10 @@
+{
+  "name": "ocruzv--dex-skill",
+  "description": "Manage your Dex personal CRM — search, create, and update contacts, log interaction notes, set follow-up reminders, organize contacts with tags and groups, and manage custom fields. Use this skill when the user wants to: (1) Find or look up a contact, (2) Add or edit contact details, (3) Log a meeting, call, or interaction note, (4) Set a reminder or follow-up task, (5) Organize contacts into groups or apply tags, (6) Track custom data with custom fields, (7) Merge duplicate contacts, (8) Review their relationship history or prepare for a meeting, or any other personal CRM task involving their professional network.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ocruzv"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ocruzv/dex-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ocruzv/dex-skill"
+}

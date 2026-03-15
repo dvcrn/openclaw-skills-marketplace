@@ -1,0 +1,10 @@
+{
+  "name": "aure-duncan--aurehub-xaut-trade",
+  "description": "Buy or sell XAUT (Tether Gold) on Ethereum using Foundry cast. Supports market orders (Uniswap V3) and limit orders (UniswapX). Triggers: buy XAUT, XAUT trade, swap USDT for XAUT, sell XAUT, swap XAUT for USDT, limit order, limit buy XAUT, limit sell XAUT, check limit order, cancel limit order, XAUT when.",
+  "version": "2.0.1",
+  "author": {
+    "name": "aure-duncan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aure-duncan/aurehub-xaut-trade",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aure-duncan/aurehub-xaut-trade"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wzk332266--skill-taxonomy-router-pro",
+  "description": "Route user tasks to the most relevant skills using a layered taxonomy, risk model, and minimum-necessary-loading strategy. Use when deciding which skill to load, when multiple skills could apply, when new downloaded skills need classification, when evaluating whether a skill may threaten the system, or when maintaining a persistent task-to-skill routing policy.",
+  "version": "1.1.0",
+  "author": {
+    "name": "wzk332266"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wzk332266/skill-taxonomy-router-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wzk332266/skill-taxonomy-router-pro"
+}

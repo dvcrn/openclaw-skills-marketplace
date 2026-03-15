@@ -1,0 +1,10 @@
+{
+  "name": "kleberbaum--roster",
+  "description": "Creates weekly shift rosters (KW-JSON) from CSV availability data and pushes them to GitHub.",
+  "version": "1.0.4",
+  "author": {
+    "name": "kleberbaum"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kleberbaum/roster",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kleberbaum/roster"
+}

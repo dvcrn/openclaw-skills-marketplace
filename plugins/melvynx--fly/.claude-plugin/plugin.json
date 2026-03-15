@@ -1,0 +1,10 @@
+{
+  "name": "melvynx--fly",
+  "description": "Deploy and manage Fly.io apps via CLI - apps, machines, volumes, secrets, certificates. Use when user mentions 'fly', 'flyctl', 'fly.io', or wants to deploy on Fly.io.",
+  "version": "1.0.0",
+  "author": {
+    "name": "melvynx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/melvynx/fly",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/melvynx/fly"
+}

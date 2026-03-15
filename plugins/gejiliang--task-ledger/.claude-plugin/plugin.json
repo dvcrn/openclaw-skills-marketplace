@@ -1,0 +1,10 @@
+{
+  "name": "gejiliang--task-ledger",
+  "description": "Durable workflow layer for OpenClaw long-running work. Use when tasks are multi-stage, recoverable, parallelized across sub-agents/ACP, use background exec or cron, have external side effects, or need auditable outputs and resumable execution.",
+  "version": "0.3.2",
+  "author": {
+    "name": "gejiliang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gejiliang/task-ledger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gejiliang/task-ledger"
+}

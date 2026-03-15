@@ -1,0 +1,10 @@
+{
+  "name": "dangsllc--framework-mapping",
+  "description": "Bidirectional mapping between document sections and compliance framework controls with confidence scoring. Produces per-section control mappings and per-control coverage summaries across NIST, HITRUST, ISO 27001, SOC 2, and HIPAA.",
+  "version": "0.1.1",
+  "author": {
+    "name": "dangsllc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dangsllc/framework-mapping",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dangsllc/framework-mapping"
+}

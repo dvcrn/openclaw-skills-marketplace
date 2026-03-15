@@ -1,0 +1,10 @@
+{
+  "name": "krunkosaurus--sogni-gen",
+  "description": "Generate images **and videos** using Sogni AI's decentralized network, with local credential/config files and optional local media inputs. Ask the agent to \"draw\", \"generate\", \"create an image\", or \"make a video/animate\" from a prompt or reference image.",
+  "version": "1.5.16",
+  "author": {
+    "name": "krunkosaurus"
+  },
+  "homepage": "https://sogni.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/krunkosaurus/sogni-gen"
+}

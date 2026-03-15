@@ -1,0 +1,10 @@
+{
+  "name": "openlang-cn--america",
+  "description": "Helps with U.S.-specific conventions such as time zones, date and number formats, holidays, and regional context. Use when the user mentions American time, currency, holidays, or needs content adapted for a U.S. audience.",
+  "version": "1.0.0",
+  "author": {
+    "name": "openlang-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/america",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/america"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "okikesolutions--plan2meal",
+  "description": "Manage recipes and grocery lists in Plan2Meal via chat (add recipe URLs, list/search/show/delete recipes, and create/manage grocery lists). Use when users explicitly want Plan2Meal recipe/grocery actions. Do not use for generic cooking advice, nutrition coaching, or non-Plan2Meal todo/shopping tools. Success = command executed with clear result text (IDs, counts, links/errors) and accurate data-routing disclosure.",
+  "version": "1.2.5",
+  "author": {
+    "name": "okikesolutions"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/okikesolutions/plan2meal",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/okikesolutions/plan2meal"
+}

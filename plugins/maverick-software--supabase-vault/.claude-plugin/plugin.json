@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--supabase-vault",
+  "description": "Replace OpenClaw's local file vault with Supabase Vault for AES-256 encrypted-at-rest secret storage. All API keys and auth tokens stored encrypted in Postgres via pgsodium/libsodium. Bootstrap credentials protected by OS keychain or machine-derived AES-256-GCM (zero external deps). Includes dashboard Integrations tab with connect/migrate/manage UI. Use when: (1) setting up Supabase Vault as the OpenClaw secrets backend, (2) migrating existing secrets from ~/.openclaw/secrets.json to Supabase, (3) managing or adding secrets from the dashboard.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/supabase-vault",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/supabase-vault"
+}

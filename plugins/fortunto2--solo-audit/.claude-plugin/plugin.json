@@ -1,0 +1,10 @@
+{
+  "name": "fortunto2--solo-audit",
+  "description": "Health check knowledge base for broken links, missing frontmatter, tag inconsistencies, and coverage gaps. Use when user says \"audit KB\", \"check frontmatter\", \"find broken links\", \"tag cleanup\", or \"knowledge base quality\". Do NOT use for SEO audits (use /seo-audit) or code reviews.",
+  "version": "1.4.1",
+  "author": {
+    "name": "fortunto2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-audit"
+}

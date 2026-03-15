@@ -1,0 +1,10 @@
+{
+  "name": "samotheos--composio-connect",
+  "description": "Connect 850+ apps (Gmail, Slack, GitHub, Calendar, Notion, Jira, and more) to OpenClaw via Composio and mcporter. Use when the user asks to send emails, create issues, post messages, manage calendars, search documents, or interact with any third-party SaaS app. One skill, 11,000+ tools, managed OAuth.",
+  "version": "1.0.1",
+  "author": {
+    "name": "samotheos"
+  },
+  "homepage": "https://composio.dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/samotheos/composio-connect"
+}

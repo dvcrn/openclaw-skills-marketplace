@@ -1,0 +1,10 @@
+{
+  "name": "tobisamaa--unified-reasoning",
+  "description": "Unified Reasoning Engine with FoT optimization - Combines ToT, GoT, Self-Consistency, and Meta-Reasoning with parallel execution and caching for 2-5x speedup",
+  "version": "2.0.0",
+  "author": {
+    "name": "tobisamaa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tobisamaa/unified-reasoning",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tobisamaa/unified-reasoning"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "martinforsulu--neo-tf-module-generator",
+  "description": "Automatically generates Terraform modules from existing cloud infrastructure resources with intelligent resource detection and best-practice code formatting.",
+  "version": "1.0.1",
+  "author": {
+    "name": "martinforsulu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/martinforsulu/neo-tf-module-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/martinforsulu/neo-tf-module-generator"
+}

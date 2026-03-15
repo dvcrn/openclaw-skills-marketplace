@@ -1,0 +1,10 @@
+{
+  "name": "johnsonfarmsus--claw-conductor",
+  "description": "Always-on autonomous development orchestrator with intelligent triage. Auto-detects Discord channels, routes to project workspaces, triages simple vs development requests, decomposes complex tasks, routes to optimal AI models, executes in parallel, and consolidates results.",
+  "version": "0.1.7",
+  "author": {
+    "name": "johnsonfarmsus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnsonfarmsus/claw-conductor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnsonfarmsus/claw-conductor"
+}

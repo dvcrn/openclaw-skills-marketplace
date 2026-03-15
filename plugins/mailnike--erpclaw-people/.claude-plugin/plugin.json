@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--erpclaw-people",
+  "description": "HR and Payroll for ERPClaw. Employee management, departments, leave, attendance, expense claims, salary structures, US payroll processing, FICA, income tax withholding, W-2 generation, and wage garnishments. 50 actions across 2 domains.",
+  "version": "2.1.0",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.erpclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/erpclaw-people"
+}

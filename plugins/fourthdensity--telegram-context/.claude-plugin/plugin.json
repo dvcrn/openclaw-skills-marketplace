@@ -1,0 +1,10 @@
+{
+  "name": "fourthdensity--telegram-context",
+  "description": "Toggle-enabled skill that fetches Telegram message history at session start for conversational continuity. Maintains context across sessions without relying solely on memory files.",
+  "version": "1.0.1",
+  "author": {
+    "name": "fourthdensity"
+  },
+  "homepage": "https://github.com/openclaw/skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fourthdensity/telegram-context"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ingogiebel--arc-creator",
+  "description": "Create and populate Annotated Research Contexts (ARCs) following the nfdi4plants ARC specification. Use when creating a new ARC, adding studies/assays/workflows/runs, annotating ISA metadata, organizing research data into ARC structure, or pushing ARCs to a DataHUB. Guides the user interactively through all required and optional metadata fields.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ingogiebel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ingogiebel/arc-creator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ingogiebel/arc-creator"
+}

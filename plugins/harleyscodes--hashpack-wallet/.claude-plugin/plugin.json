@@ -1,0 +1,10 @@
+{
+  "name": "harleyscodes--hashpack-wallet",
+  "description": "Integrate HashPack wallet for Hedera blockchain authentication. Use for: (1) Adding HashPack login to webapps, (2) Signing Hbar transactions, (3) Connecting to Hedera DApps, (4) Getting account balance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "harleyscodes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harleyscodes/hashpack-wallet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harleyscodes/hashpack-wallet"
+}

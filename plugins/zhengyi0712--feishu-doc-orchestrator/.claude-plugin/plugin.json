@@ -1,0 +1,10 @@
+{
+  "name": "zhengyi0712--feishu-doc-orchestrator",
+  "description": "飞书文档创建技能 - 将Markdown文件转换为飞书文档，支持25种块类型，完整权限管理。当用户需要将Markdown文档转换为飞书文档、创建协作文档、批量处理文档内容时激活此技能。",
+  "version": "1.0.2",
+  "author": {
+    "name": "zhengyi0712"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhengyi0712/feishu-doc-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhengyi0712/feishu-doc-orchestrator"
+}

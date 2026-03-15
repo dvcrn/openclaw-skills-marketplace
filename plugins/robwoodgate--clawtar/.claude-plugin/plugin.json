@@ -1,0 +1,10 @@
+{
+  "name": "robwoodgate--clawtar",
+  "description": "Demo skill for practicing Cashu HTTP 402 payment flow end-to-end: detect 402, review x-cashu challenge, request permission when needed, settle payment, and retry with X-Cashu.",
+  "version": "1.0.3",
+  "author": {
+    "name": "robwoodgate"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/robwoodgate/clawtar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robwoodgate/clawtar"
+}

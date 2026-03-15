@@ -1,0 +1,10 @@
+{
+  "name": "chinmayagit--warehouse-reports",
+  "description": "Generate warehouse analytics charts, table images, and report-ready visuals from SQLite/CSV data. Use when the user asks for warehouse charts, product table images, stock health pie charts, revenue/profit visuals, missing-product visuals, or image assets for PDF/slide reporting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chinmayagit"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chinmayagit/warehouse-reports",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chinmayagit/warehouse-reports"
+}

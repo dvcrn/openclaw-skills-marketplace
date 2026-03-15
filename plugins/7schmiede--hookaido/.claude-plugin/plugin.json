@@ -1,0 +1,10 @@
+{
+  "name": "7schmiede--hookaido",
+  "description": "Receive incoming webhooks from external services and trigger automations, integrations, and event-driven workflows. Operate Hookaido v2 inbound/outbound/internal webhook flows, queue triage, MCP workflows, release verification, and HTTP/gRPC pull workers. Use when tasks involve Hookaidofile authoring, queue backend selection (`sqlite`, `memory`, `postgres`), `hookaido` CLI commands (`run`, `config fmt`, `config validate`, `mcp serve`), pull operations (`dequeue`/`ack`/`nack`/`extend`) over HTTP or gRPC, Admin API backlog/DLQ handling, or production hardening for ingress and delivery.",
+  "version": "2.0.1",
+  "author": {
+    "name": "7schmiede"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/7schmiede/hookaido",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/7schmiede/hookaido"
+}

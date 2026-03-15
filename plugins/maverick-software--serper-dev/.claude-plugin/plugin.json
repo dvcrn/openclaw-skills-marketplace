@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--serper-dev",
+  "description": "Search Google programmatically using the Serper.dev API. Returns structured organic results (title, URL, snippet, domain) for any query. Use when you need to search Google for websites, businesses, leads, or any information — especially as part of a lead generation pipeline, competitor research, or content research workflow. Cheaper and faster than SerpApi. Requires SERPER_API_KEY.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/serper-dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/serper-dev"
+}

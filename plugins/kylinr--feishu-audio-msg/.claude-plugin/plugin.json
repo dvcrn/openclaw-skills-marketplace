@@ -1,0 +1,10 @@
+{
+  "name": "kylinr--feishu-audio-msg",
+  "description": "Send TTS audio as a proper playable audio message (not file attachment) to Feishu chats. Use when asked to send voice messages, TTS audio, speech announcements, or 语音报数 (voice roll calls) to a Feishu group or user. Activates on requests like \"send voice message to Feishu\", \"TTS to Feishu chat\", \"语音发送\", \"语音报数\", or any task combining text-to-speech with Feishu messaging.",
+  "version": "1.1.0",
+  "author": {
+    "name": "kylinr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kylinr/feishu-audio-msg",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kylinr/feishu-audio-msg"
+}

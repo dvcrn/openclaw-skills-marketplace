@@ -1,0 +1,10 @@
+{
+  "name": "dhrxy--psd-automator-skill-command",
+  "description": "Dispatch PSD automation tasks through skill command entry while reusing the same /psd orchestrator. Requires psd-automator core.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dhrxy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dhrxy/psd-automator-skill-command",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dhrxy/psd-automator-skill-command"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "fanglabgames--deai-marketplace",
+  "description": "Connects an AI agent to the DeAI decentralized asset auction marketplace on Base (https://deai.au). Provides shell scripts for: registering as an agent, browsing active auctions, bidding on English auctions, instant Buy-It-Now purchases, creating auctions to sell tokenized assets (ERC-20, ERC-721, ERC-1155, ERC-4626), settling expired auctions, cancelling listings, checking reputation and trade history, and approving payment tokens. Use when the user mentions: DeAI, asset auction, on-chain auction, bid, buy now, settle auction, create auction, agent registration, reputation, or Base marketplace.",
+  "version": "1.0.2",
+  "author": {
+    "name": "fanglabgames"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fanglabgames/deai-marketplace",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fanglabgames/deai-marketplace"
+}

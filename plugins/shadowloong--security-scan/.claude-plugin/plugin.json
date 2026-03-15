@@ -1,0 +1,10 @@
+{
+  "name": "shadowloong--security-scan",
+  "description": "Security review workflow for OpenClaw skills and other small code folders. Use when auditing a skill before publishing or installing it, checking for dangerous code patterns, possible hardcoded secrets, risky file permissions, or lightweight supply-chain concerns. Best for quick static review and cautious go/no-go recommendations, not full malware analysis or sandbox forensics.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shadowloong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shadowloong/security-scan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shadowloong/security-scan"
+}

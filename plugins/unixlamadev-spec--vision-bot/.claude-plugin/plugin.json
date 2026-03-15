@@ -1,0 +1,10 @@
+{
+  "name": "unixlamadev-spec--vision-bot",
+  "description": "Analyze images via URL or base64. Auto-detects mode: OCR, object counting, or full description.",
+  "version": "1.0.1",
+  "author": {
+    "name": "unixlamadev-spec"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/unixlamadev-spec/vision-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/unixlamadev-spec/vision-bot"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "savorgbot-exe--focus-mode",
+  "description": "Help users stay focused on a specific goal or task. Activate with \"/focus <goal>\" to set a focus target. Monitors conversation for drift and gently redirects back to the focus area. Use when user wants accountability, has ADHD-style workflows, tends to go down rabbit holes, or explicitly asks to stay on track. Deactivate with \"/focus off\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "savorgbot-exe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/savorgbot-exe/focus-mode",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/savorgbot-exe/focus-mode"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sirouk--clawboard",
+  "description": "Install and operate Clawboard with OpenClaw. Use for scripted/manual/agentic install, token setup, Docker startup, logger plugin wiring, and validation.",
+  "version": "1.0.1",
+  "author": {
+    "name": "sirouk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sirouk/clawboard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sirouk/clawboard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "modeioai--security-modeio",
+  "description": "Runs a backend-backed live safety check for instructions that may trigger tool execution, external calls, file edits, permission changes, destructive or irreversible actions, prompt injection, or compliance-sensitive operations. Use before executing instructions with side effects; skip pure read-only chat, planning, or pre-install repository auditing.",
+  "version": "0.1.1",
+  "author": {
+    "name": "modeioai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/modeioai/security-modeio",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/modeioai/security-modeio"
+}

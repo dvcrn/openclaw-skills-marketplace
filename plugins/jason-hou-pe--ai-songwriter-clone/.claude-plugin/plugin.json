@@ -1,0 +1,10 @@
+{
+  "name": "jason-hou-pe--ai-songwriter-clone",
+  "description": "风格克隆 AI 写歌。用户给一首参考歌/歌手 + 新主题，全自动跑完音乐基因解构→歌词DNA提取→同构填词→Suno生成，最终直接返回试听链接。中间不停顿、不等用户确认。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jason-hou-pe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jason-hou-pe/ai-songwriter-clone",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jason-hou-pe/ai-songwriter-clone"
+}

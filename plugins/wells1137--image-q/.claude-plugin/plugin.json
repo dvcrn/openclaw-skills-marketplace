@@ -1,0 +1,10 @@
+{
+  "name": "wells1137--image-q",
+  "description": "Generate images using multiple AI models — Midjourney (via Legnext.ai), Flux, SDXL, Nano Banana (Gemini), and more via fal.ai. Automatically picks the best model based on user intent, or lets the user specify one explicitly.",
+  "version": "1.5.0",
+  "author": {
+    "name": "wells1137"
+  },
+  "homepage": "https://legnext.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wells1137/image-q"
+}

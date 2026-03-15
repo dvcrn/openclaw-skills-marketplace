@@ -1,0 +1,10 @@
+{
+  "name": "bbdyno--email-summary",
+  "description": "Fetches recent emails from Gmail and provides concise summaries. Use when the user wants to check emails, get email summaries, or review their inbox.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bbdyno"
+  },
+  "homepage": "https://github.com/yourusername/email-summary-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bbdyno/email-summary"
+}

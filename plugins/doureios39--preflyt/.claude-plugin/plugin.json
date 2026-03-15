@@ -1,0 +1,10 @@
+{
+  "name": "doureios39--preflyt",
+  "description": "Scan deployed web apps for security misconfigurations after every deploy. Checks for exposed .env files, databases, source code, open ports, missing security headers, .git exposure, directory listings, and more. Non-intrusive, read-only.",
+  "version": "1.0.1",
+  "author": {
+    "name": "doureios39"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/doureios39/preflyt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/doureios39/preflyt"
+}

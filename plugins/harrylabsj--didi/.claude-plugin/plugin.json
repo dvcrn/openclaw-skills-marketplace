@@ -1,0 +1,10 @@
+{
+  "name": "harrylabsj--didi",
+  "description": "Browser-assisted Didi ride helper for manual ride-hailing workflows. Use when the user wants help checking ride estimates, reviewing available ride types, logging in manually, viewing trip status, or preparing a manual Didi booking flow. Keep login manual and do not complete payment automatically.",
+  "version": "1.0.1",
+  "author": {
+    "name": "harrylabsj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/didi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/didi"
+}

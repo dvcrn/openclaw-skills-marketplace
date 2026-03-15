@@ -1,0 +1,10 @@
+{
+  "name": "ajstafford--jules-cli",
+  "description": "Interact with the Jules CLI to manage asynchronous coding sessions. Use this skill sparingly for complex, isolated tasks that benefit from a remote VM.",
+  "version": "1.0.2",
+  "author": {
+    "name": "ajstafford"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ajstafford/jules-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ajstafford/jules-cli"
+}

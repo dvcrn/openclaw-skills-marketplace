@@ -1,0 +1,10 @@
+{
+  "name": "vanya1210--long-research",
+  "description": "[BETA] Deep research that actually reads pages instead of summarizing search results. Tell it how long to research (10 min, 2 hours, all night) and it works the full duration — searching, reading every result, following leads, cracking forums, cross-verifying findings, and writing progressively to a research file. Tree-style exploration: each page read spawns new searches, like a human researcher. Enforced read-to-search ratio prevents shallow search-spamming. Wall-clock time commitment — it won't finish early. Self-audit gate blocks delivery until quality checks pass. Works with web_search, web_fetch, and browser-use for JS-heavy sites.",
+  "version": "1.2.0",
+  "author": {
+    "name": "vanya1210"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vanya1210/long-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vanya1210/long-research"
+}

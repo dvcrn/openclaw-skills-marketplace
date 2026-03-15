@@ -1,0 +1,10 @@
+{
+  "name": "zuiho-kai--openclaw-semantic-memory",
+  "description": "Local semantic memory with vector search and Transformers.js. Store, search, and recall conversation context using embeddings (fully local, no API keys).",
+  "version": "1.0.0",
+  "author": {
+    "name": "zuiho-kai"
+  },
+  "homepage": "https://github.com/zuiho-kai/openclaw-semantic-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zuiho-kai/openclaw-semantic-memory"
+}

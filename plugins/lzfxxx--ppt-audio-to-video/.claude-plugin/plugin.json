@@ -1,0 +1,10 @@
+{
+  "name": "lzfxxx--ppt-audio-to-video",
+  "description": "Convert narration audio plus slide decks into a narrated video. Use when the user has an audio-only `mp4/m4a/mp3/wav` and a `ppt/pptx/pdf` deck, and needs slide images, transcript extraction, slide timing planning, or final `mp4` rendering with `whisper-cpp` and `ffmpeg`.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lzfxxx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lzfxxx/ppt-audio-to-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lzfxxx/ppt-audio-to-video"
+}

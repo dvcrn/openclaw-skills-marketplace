@@ -1,0 +1,11 @@
+{
+  "name": "baoyu-post-to-weibo-scripts",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "baoyu-chrome-cdp": "file:./vendor/baoyu-chrome-cdp",
+    "front-matter": "^4.0.2",
+    "highlight.js": "^11.11.1",
+    "marked": "^15.0.6"
+  }
+}

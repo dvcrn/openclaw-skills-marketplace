@@ -1,0 +1,10 @@
+{
+  "name": "swaylq--claude-code-pro",
+  "description": "Token-efficient Claude Code workflow. Other skills burn tokens polling tmux every 30s — this one uses completion callbacks and only checks when notified. Observable tmux sessions, smart dispatch rules (know when NOT to spawn Claude Code), and structured JSON monitoring. Saves 80%+ supervision tokens vs polling-based approaches. Use when: multi-file coding tasks that need background execution. NOT for: simple single-file fixes (just read+edit directly — that's the point). Requires: tmux, claude CLI.",
+  "version": "1.1.0",
+  "author": {
+    "name": "swaylq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/swaylq/claude-code-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/swaylq/claude-code-pro"
+}

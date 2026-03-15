@@ -1,0 +1,9 @@
+{
+  "name": "agent-memento",
+  "version": "1.0.1",
+  "description": "Tick-Driven Autonomous Production Factory for LLMs",
+  "main": "SKILL.md",
+  "scripts": {
+    "init": "bash scripts/init_memento.sh"
+  }
+}

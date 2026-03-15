@@ -1,0 +1,10 @@
+{
+  "name": "guoqunabc--speech-notes",
+  "description": "将录音/语音转写为结构化演讲纪要。适用于：会议讲话、内部分享、演讲录音的转写整理。\n 触发条件：用户发送音频文件并要求整理/转写/纪要，或要求将已有转写文本整理成结构化纪要。",
+  "version": "1.0.0",
+  "author": {
+    "name": "guoqunabc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guoqunabc/speech-notes",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guoqunabc/speech-notes"
+}

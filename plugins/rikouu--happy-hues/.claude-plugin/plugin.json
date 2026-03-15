@@ -1,0 +1,10 @@
+{
+  "name": "rikouu--happy-hues",
+  "description": "Get curated color palettes from Happy Hues for design projects. Use when the user asks for color schemes, palette recommendations, design colors, UI colors, or mentions \"配色\", \"color palette\", \"happy hues\", \"颜色方案\". Supports filtering by mood (warm, dark, bold, minimal, etc.) and provides role-based colors (background, headline, button, highlight, etc.).",
+  "version": "1.0.0",
+  "author": {
+    "name": "rikouu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rikouu/happy-hues",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rikouu/happy-hues"
+}

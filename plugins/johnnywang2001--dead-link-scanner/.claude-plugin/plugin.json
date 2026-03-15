@@ -1,0 +1,10 @@
+{
+  "name": "johnnywang2001--dead-link-scanner",
+  "description": "Scan websites, markdown files, and HTML files for broken links (dead links). Use when checking a website for 404s, validating links in documentation or README files, auditing link health before a deploy, or finding broken internal/external links. Supports recursive crawling with depth limits, markdown file scanning, and output in text or JSON format.",
+  "version": "1.0.0",
+  "author": {
+    "name": "johnnywang2001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/dead-link-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/dead-link-scanner"
+}

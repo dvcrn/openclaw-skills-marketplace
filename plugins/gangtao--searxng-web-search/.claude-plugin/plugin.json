@@ -1,0 +1,10 @@
+{
+  "name": "gangtao--searxng-web-search",
+  "description": "Search the web using a self-hosted SearXNG metasearch engine. Use when the user asks to search the web, find information online, look up recent news, research a topic, or needs current data from the internet. Also use when the agent needs to gather external context to answer a question. Requires a running SearXNG instance with JSON API enabled.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gangtao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gangtao/searxng-web-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gangtao/searxng-web-search"
+}

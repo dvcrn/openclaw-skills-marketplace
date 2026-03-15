@@ -1,0 +1,10 @@
+{
+  "name": "glitch003--agent-wallet",
+  "description": "The agent's wallet. Use this skill to safely create a wallet the agent can use for transfers, swaps, and any EVM chain transaction.",
+  "version": "1.0.7",
+  "author": {
+    "name": "glitch003"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/glitch003/agent-wallet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/glitch003/agent-wallet"
+}

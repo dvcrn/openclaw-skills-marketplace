@@ -1,0 +1,10 @@
+{
+  "name": "brianleach--capmetro-skill",
+  "description": "Austin CapMetro transit - real-time vehicle positions, next arrivals, service alerts, route info, and trip planning for buses and rail (MetroRail, MetroRapid, MetroBus). Use when the user asks about Austin public transit, bus schedules, train times, CapMetro alerts, or nearby stops.",
+  "version": "1.0.3",
+  "author": {
+    "name": "brianleach"
+  },
+  "homepage": "https://github.com/brianleach/capmetro-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brianleach/capmetro-skill"
+}

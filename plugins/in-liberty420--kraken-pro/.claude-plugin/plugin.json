@@ -1,0 +1,10 @@
+{
+  "name": "in-liberty420--kraken-pro",
+  "description": "Manage Kraken exchange accounts — portfolio, market data, trading, earn/staking, ledger export. REST API via python-kraken-sdk. Use when the user wants to check crypto portfolio, get prices, place/cancel orders, manage staking, export ledger for taxes, deposit/withdraw funds, or interact with Kraken in any way.",
+  "version": "1.0.6",
+  "author": {
+    "name": "in-liberty420"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/in-liberty420/kraken-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/in-liberty420/kraken-pro"
+}

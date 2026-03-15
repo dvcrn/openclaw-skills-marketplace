@@ -1,0 +1,10 @@
+{
+  "name": "shaoyanji--skill-compiler",
+  "description": "Compile SKILL.md files into runtime artifacts (SKILL.struct.json and SKILL.toon), verify freshness/health, and prepare portable publish-ready skill folders for ClawHub-style registries.",
+  "version": "0.2.0",
+  "author": {
+    "name": "shaoyanji"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shaoyanji/skill-compiler",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shaoyanji/skill-compiler"
+}

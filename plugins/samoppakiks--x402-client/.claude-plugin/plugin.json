@@ -1,0 +1,10 @@
+{
+  "name": "samoppakiks--x402-client",
+  "description": "Make and receive USDC payments over HTTP using the x402 protocol (Coinbase). The Stripe for agents — pay for services, sell your own, check balances. Works on Base network (mainnet + testnet).",
+  "version": "1.0.0",
+  "author": {
+    "name": "samoppakiks"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/samoppakiks/x402-client",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/samoppakiks/x402-client"
+}

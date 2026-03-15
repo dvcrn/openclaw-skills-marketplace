@@ -1,0 +1,10 @@
+{
+  "name": "seandong--x-timeline-digest",
+  "description": "Build a deduplicated digest from X (Twitter) For You and Following timelines using bird. Outputs a payload for upstream delivery.",
+  "version": "1.0.2",
+  "author": {
+    "name": "seandong"
+  },
+  "homepage": "https://github.com/seandong",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seandong/x-timeline-digest"
+}

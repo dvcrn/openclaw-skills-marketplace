@@ -1,0 +1,10 @@
+{
+  "name": "bryant24hao--agent-skill-publisher",
+  "description": "End-to-end workflow for publishing agent skills to GitHub, ClawdHub, and skills.sh. Handles repo creation, topic tagging, ClawdHub publish, skills.sh index request, and installation verification. Use when: \"publish skill\", \"上架 skill\", \"发布技能\", \"submit to skills.sh\", \"submit to clawhub\", \"skill 上架流程\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "bryant24hao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bryant24hao/agent-skill-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bryant24hao/agent-skill-publisher"
+}

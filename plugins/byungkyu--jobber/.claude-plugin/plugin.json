@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--jobber",
+  "description": "Jobber API integration with managed OAuth. Manage clients, jobs, invoices, quotes, properties, and team members for field service businesses.\n Use this skill when users want to create and manage service jobs, clients, quotes, invoices, or access scheduling data.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.2",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/jobber",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/jobber"
+}

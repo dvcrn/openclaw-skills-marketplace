@@ -1,0 +1,10 @@
+{
+  "name": "lstpsche--openmeteo-sh-weather-simple",
+  "description": "Get current weather and forecasts for any city or coordinates using free OpenMeteo API. Use when the user asks about weather, temperature, rain, snow, wind, or wants to know if they need an umbrella.",
+  "version": "1.2.1",
+  "author": {
+    "name": "lstpsche"
+  },
+  "homepage": "https://github.com/lstpsche/openmeteo-sh",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lstpsche/openmeteo-sh-weather-simple"
+}

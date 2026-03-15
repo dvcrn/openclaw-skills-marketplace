@@ -1,0 +1,10 @@
+{
+  "name": "headyzhang--agent-audit-scanner",
+  "description": "Security scanner for OpenClaw skills. Detects prompt injection, credential leaks, unsafe code execution, MCP misconfigurations, privilege escalation, obfuscated shell commands, and social engineering patterns. Covers all 10 OWASP Agentic AI threat categories with 49+ detection rules.",
+  "version": "0.1.0",
+  "author": {
+    "name": "headyzhang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/headyzhang/agent-audit-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/headyzhang/agent-audit-scanner"
+}

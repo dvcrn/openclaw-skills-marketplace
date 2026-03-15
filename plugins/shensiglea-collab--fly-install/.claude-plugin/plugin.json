@@ -1,0 +1,10 @@
+{
+  "name": "shensiglea-collab--fly-install",
+  "description": "当 ClawHub CLI 速率限制或安装失败时，通过多种备用方式安装技能：1) clawhub.ai 下载 zip；2) GitHub 搜索并克隆；3) 手动流程指导。",
+  "version": "1.1.1",
+  "author": {
+    "name": "shensiglea-collab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shensiglea-collab/fly-install",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shensiglea-collab/fly-install"
+}

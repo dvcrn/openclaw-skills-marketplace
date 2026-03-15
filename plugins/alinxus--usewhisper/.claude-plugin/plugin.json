@@ -1,0 +1,10 @@
+{
+  "name": "alinxus--usewhisper",
+  "description": "Official Whisper Context skill for OpenClaw. Cuts context tokens via delta compression + caching, and adds long-term memory across sessions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "alinxus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alinxus/usewhisper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alinxus/usewhisper"
+}

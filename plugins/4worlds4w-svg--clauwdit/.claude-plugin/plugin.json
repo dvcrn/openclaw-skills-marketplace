@@ -1,0 +1,10 @@
+{
+  "name": "4worlds4w-svg--clauwdit",
+  "description": "Security auditor for AI agent skills. Scans SKILL.md files for prompt injection, data exfiltration, obfuscation, and dangerous capability combinations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "4worlds4w-svg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/4worlds4w-svg/clauwdit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/4worlds4w-svg/clauwdit"
+}

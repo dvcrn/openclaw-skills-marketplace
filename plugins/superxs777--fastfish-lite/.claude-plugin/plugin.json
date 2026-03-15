@@ -1,0 +1,10 @@
+{
+  "name": "superxs777--fastfish-lite",
+  "description": "fastfish 开源精简版。提供公众号格式整理、敏感词检测（本地）、每日热点、本地 HTML 预览。热点推送需至少配置一个渠道的 env。无微信发布/授权，需商业版。通过 system.run 调用 CLI。",
+  "version": "1.0.4",
+  "author": {
+    "name": "superxs777"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/superxs777/fastfish-lite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/superxs777/fastfish-lite"
+}

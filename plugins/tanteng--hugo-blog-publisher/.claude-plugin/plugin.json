@@ -1,0 +1,10 @@
+{
+  "name": "tanteng--hugo-blog-publisher",
+  "description": "发布文章到 Hugo 博客。用于当用户说\"发布博客\"、\"推送到blog\"、\"post to blog\"、\"发布文章\"等。自动完成 front matter 渲染、<!--more--> 标记添加、git 推送流程。",
+  "version": "1.0.1",
+  "author": {
+    "name": "tanteng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tanteng/hugo-blog-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tanteng/hugo-blog-publisher"
+}

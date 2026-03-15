@@ -1,0 +1,10 @@
+{
+  "name": "bjesuiter--opencode-acp-control",
+  "description": "Control OpenCode directly via the Agent Client Protocol (ACP). Start sessions, send prompts, resume conversations, and manage OpenCode updates.",
+  "version": "1.0.2",
+  "author": {
+    "name": "bjesuiter"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bjesuiter/opencode-acp-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bjesuiter/opencode-acp-control"
+}

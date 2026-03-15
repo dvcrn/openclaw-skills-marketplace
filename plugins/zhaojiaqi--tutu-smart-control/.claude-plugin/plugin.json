@@ -1,0 +1,10 @@
+{
+  "name": "zhaojiaqi--tutu-smart-control",
+  "description": "图图智控（TUTU Smart Control）— 远程控制 Android 手机，执行 GUI 自动化、系统管理和日常任务。当用户提到以下任何内容时使用此 skill：\n - 控制手机、操作手机、手机上做某事\n - 打开手机上的 App（微信、抖音、支付宝、淘宝等）\n - 手机截图、查看手机屏幕\n - 在手机上点击、输入、滑动\n - 手机自动化、GUI 自动化\n - 查看手机状态（电量、网络、内存等）\n - 发短信、打电话、读短信、通讯相关\n - 手机定位、获取位置\n - 查看手机通知\n - 手机震动、语音播报（TTS）\n - 手机文件管理（列目录、读写删文件、存储分析，仅限 /sdcard/ 用户存储）\n - 按文字/ID 点击 UI 元素、查找界面元素\n - 搜索手机媒体文件（图片、视频、音乐）\n - 微信自动回复、社交应用自动化\n - 手机定时任务、批量操作\n - 手机健康检查、系统巡检",
+  "version": "1.3.3",
+  "author": {
+    "name": "zhaojiaqi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhaojiaqi/tutu-smart-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhaojiaqi/tutu-smart-control"
+}

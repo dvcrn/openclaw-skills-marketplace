@@ -1,0 +1,10 @@
+{
+  "name": "fzhlian--codex-dev",
+  "description": "Run Codex as a background local job with an immediate receipt, saved logs and patch artifacts, optional Telegram notifications, and explicit workdir support.",
+  "version": "0.1.3",
+  "author": {
+    "name": "fzhlian"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fzhlian/codex-dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fzhlian/codex-dev"
+}

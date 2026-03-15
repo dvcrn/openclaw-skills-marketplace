@@ -1,0 +1,10 @@
+{
+  "name": "tenured-master-chef-607--local-voice-reply",
+  "description": "Generate local OPUS/Ogg voice replies (default Juno voice) for Feishu and Discord using a local FastAPI TTS server. Requires ffmpeg on PATH plus local Python deps (torch/torchaudio/chatterbox-tts/fastapi/uvicorn). Activate when /voice_mode_on or when user asks for voice reply/audio message.",
+  "version": "3.3.1",
+  "author": {
+    "name": "tenured-master-chef-607"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tenured-master-chef-607/local-voice-reply",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tenured-master-chef-607/local-voice-reply"
+}

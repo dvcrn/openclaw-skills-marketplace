@@ -1,0 +1,10 @@
+{
+  "name": "liyang2016--restaurant-crosscheck",
+  "description": "Cross-reference restaurant recommendations from Xiaohongshu (小红书) and Dianping (大众点评) to validate restaurant quality and consistency. Use when querying restaurant recommendations by geographic location (city/district) to get validated insights from both platforms. Automatically fetches ratings, review counts, and analyzes consistency across platforms to provide trustworthy recommendations with confidence scores.",
+  "version": "1.0.0",
+  "author": {
+    "name": "liyang2016"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/liyang2016/restaurant-crosscheck",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/liyang2016/restaurant-crosscheck"
+}

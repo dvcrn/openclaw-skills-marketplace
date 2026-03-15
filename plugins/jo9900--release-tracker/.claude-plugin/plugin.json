@@ -1,0 +1,10 @@
+{
+  "name": "jo9900--release-tracker",
+  "description": "Track GitHub repository releases and generate prioritized summaries. Supports multiple repos, custom priority keywords, and delivery to Discord (forum posts or channel messages), Telegram, Slack, or plain text. Use when setting up automated release monitoring, checking for new versions of any GitHub repo, or generating changelog summaries. Triggers on track releases, monitor repo, check for updates, new version, release notes, changelog summary, setting up cron jobs for release monitoring, or any request to watch GitHub repos for new releases.",
+  "version": "1.1.0",
+  "author": {
+    "name": "jo9900"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jo9900/release-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jo9900/release-tracker"
+}

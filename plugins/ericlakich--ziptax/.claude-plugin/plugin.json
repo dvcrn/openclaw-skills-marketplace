@@ -1,0 +1,10 @@
+{
+  "name": "ericlakich--ziptax",
+  "description": "Look up U.S. sales tax rates using the ZipTax API. Use when the user asks about sales tax rates, tax calculations for a U.S. address/ZIP code/coordinates, freight or service taxability, jurisdiction-level tax breakdowns, use tax vs sales tax, or needs to integrate sales tax data into an application. Also handles account usage metrics and product taxability codes (TIC). Supports address-level (door-level), lat/lng, and postal code lookups across 12,000+ jurisdictions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ericlakich"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ericlakich/ziptax",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ericlakich/ziptax"
+}

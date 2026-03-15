@@ -1,0 +1,10 @@
+{
+  "name": "lycohana--moltbook-poster",
+  "description": "Moltbook 代理社交网络工具集。用于发帖、评论、点赞、获取动态、管理私信等。发帖频率限制为每30分钟1篇，需要配置 configs/moltbook.json。",
+  "version": "1.0.0",
+  "author": {
+    "name": "lycohana"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lycohana/moltbook-poster",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lycohana/moltbook-poster"
+}

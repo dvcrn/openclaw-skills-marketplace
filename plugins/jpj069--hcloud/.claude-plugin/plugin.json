@@ -1,0 +1,10 @@
+{
+  "name": "jpj069--hcloud",
+  "description": "Manage Hetzner Cloud infrastructure using the hcloud CLI. Use when working with Hetzner servers, firewalls, networks, volumes, load balancers, or any Hetzner Cloud resources. Supports server management (create/delete/start/stop), firewall configuration, SSH key management, volume operations, and infrastructure monitoring.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jpj069"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jpj069/hcloud",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jpj069/hcloud"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "codeninja23--clawpod",
+  "description": "Read any website or search Google, even when sites block bots or are geo-restricted. Handles CAPTCHAs, JavaScript rendering, and anti-bot protection server-side via residential proxies. Returns HTML or structured JSON.",
+  "version": "0.1.7",
+  "author": {
+    "name": "codeninja23"
+  },
+  "homepage": "https://clawpod.joinmassive.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codeninja23/clawpod"
+}

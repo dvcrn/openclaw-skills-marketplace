@@ -1,0 +1,10 @@
+{
+  "name": "tobisamaa--skill-orchestra",
+  "description": "Skill-aware agent routing with explicit competence/cost modeling. +22.5% accuracy, 700x cheaper than RL routers. Based on arXiv:2602.19672.",
+  "version": "2.0.0",
+  "author": {
+    "name": "tobisamaa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tobisamaa/skill-orchestra",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tobisamaa/skill-orchestra"
+}

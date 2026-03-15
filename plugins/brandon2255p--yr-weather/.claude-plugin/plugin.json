@@ -1,0 +1,10 @@
+{
+  "name": "brandon2255p--yr-weather",
+  "description": "Fetch weather forecasts from the Norwegian Meteorological Institute (MET) using the yr.no API. Use when the user asks for weather information, forecasts, temperature, precipitation, wind conditions, or any weather-related queries for specific locations. Supports coordinates-based lookups and returns current conditions plus forecasts. REQUIRES latitude/longitude - no defaults. See common locations table.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brandon2255p"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brandon2255p/yr-weather",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brandon2255p/yr-weather"
+}

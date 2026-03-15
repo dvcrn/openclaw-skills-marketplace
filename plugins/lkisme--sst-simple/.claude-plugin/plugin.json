@@ -1,0 +1,10 @@
+{
+  "name": "lkisme--sst-simple",
+  "description": "Local speech-to-text using OpenAI Whisper. Use when the user needs to: (1) transcribe audio files to text, (2) convert voice messages to written content, (3) process recordings in 99+ languages. Supports tiny/base/small/medium/large models. One-command installation with auto model download. Multi-Agent support with session isolation.",
+  "version": "1.0.2",
+  "author": {
+    "name": "lkisme"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lkisme/sst-simple",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lkisme/sst-simple"
+}

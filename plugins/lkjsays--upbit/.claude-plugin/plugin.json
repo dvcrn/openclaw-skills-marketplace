@@ -1,0 +1,10 @@
+{
+  "name": "lkjsays--upbit",
+  "description": "Real-time cryptocurrency price lookup from Upbit (Korean KRW exchange). Use when user asks for Korean crypto prices, Upbit prices, domestic cryptocurrency rates, or market ticker in Korean won (KRW). Supports all coins listed on Upbit exchange.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lkjsays"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lkjsays/upbit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lkjsays/upbit"
+}

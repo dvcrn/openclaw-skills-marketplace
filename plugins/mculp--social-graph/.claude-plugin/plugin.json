@@ -1,0 +1,10 @@
+{
+  "name": "mculp--social-graph",
+  "description": "Social intelligence for agents. Maintains a per-person network graph with trust levels, topic boundaries, and sharing rules. Tracks what has been shared with whom to prevent repeats. Teaches agents to read the room. Triggers: social rules, sharing, network graph, who to tell, social awareness.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mculp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mculp/social-graph",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mculp/social-graph"
+}

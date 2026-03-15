@@ -1,0 +1,10 @@
+{
+  "name": "zjuphd--crispr-sgrna-designer",
+  "description": "Professional-grade CRISPR sgRNA design for viral and microbial genomes, with specialized logic for extreme-GC templates (e.g., Herpesviruses). Use when needing to design high-efficiency, low-off-target sgRNAs for (1) Gene knockouts, (2) Site-specific insertions/tagging, or (3) Precise genome editing. Includes PAM scanning, position-weight scoring (Rule Set 2 style), and synonymous mutation strategy for donor template design. Designed by ZJU PhD @ Bio-chat.",
+  "version": "0.1.0",
+  "author": {
+    "name": "zjuphd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zjuphd/crispr-sgrna-designer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zjuphd/crispr-sgrna-designer"
+}

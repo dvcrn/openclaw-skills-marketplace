@@ -1,0 +1,10 @@
+{
+  "name": "captchasco--captchas-openclaw",
+  "description": "OpenClaw integration guidance for CAPTCHAS Agent API, including OpenResponses tool schemas and plugin tool registration.",
+  "version": "1.0.1",
+  "author": {
+    "name": "captchasco"
+  },
+  "homepage": "https://captchas.co",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/captchasco/captchas-openclaw"
+}

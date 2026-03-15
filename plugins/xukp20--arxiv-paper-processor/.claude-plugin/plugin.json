@@ -1,0 +1,10 @@
+{
+  "name": "xukp20--arxiv-paper-processor",
+  "description": "Tool-only paper processing skill with a manual language parameter: supports batch artifact download for many papers or single-paper download, then the model manually reads source/PDF and writes summary.md in the selected language. Use when per-paper comprehension should be model-driven instead of script-generated.",
+  "version": "0.1.1",
+  "author": {
+    "name": "xukp20"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-paper-processor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-paper-processor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "userfrm--agent-dispatch",
+  "description": "Lightweight agent registry and JIT router. Consult BEFORE performing specialized work such as code review, security audit, debugging, refactoring, performance optimization, infrastructure, data analysis, API design, testing, documentation, or any domain-specific engineering task. Maps tasks to specialized subagents, downloading them on demand if not installed locally.",
+  "version": "2.0.0",
+  "author": {
+    "name": "userfrm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/userfrm/agent-dispatch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/userfrm/agent-dispatch"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "johan-oilman--wechat-articles",
+  "description": "搜索和读取微信公众号文章的完整工具，支持关键词搜索与全文提取。 **只要用户提到以下任何场景，必须使用此 skill：** (1) 搜索公众号文章、按关键词查找微信内容 (2) 读取、摘要、分析、翻译 mp.weixin.qq.com 链接的内容 (3) 用户说\"帮我找公众号文章\"、\"读这篇微信文章\"、\"搜索公众号\"、\"抓取公众号\" (4) 用户粘贴了微信文章 URL 并要求提取或处理内容 (5) 需要从微信生态获取资讯、报告、行业信息 即使用户没有明确说\"微信\"，只要涉及公众号内容获取或提取，也应触发此 skill。 Triggers: 搜索公众号, 微信文章, 读这篇公众号, 抓取公众号, wechat article, mp.weixin.qq.com, 公众号内容, 微信链接",
+  "version": "1.0.1",
+  "author": {
+    "name": "johan-oilman"
+  },
+  "homepage": "https://github.com/johan-oilman/wechat-articles",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johan-oilman/wechat-articles"
+}

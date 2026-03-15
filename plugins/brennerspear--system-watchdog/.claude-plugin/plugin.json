@@ -1,0 +1,10 @@
+{
+  "name": "brennerspear--system-watchdog",
+  "description": "System resource monitoring that detects wasteful or suspicious processes. Outputs structured JSON for any consumer.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brennerspear"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brennerspear/system-watchdog",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brennerspear/system-watchdog"
+}

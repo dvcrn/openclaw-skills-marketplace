@@ -1,0 +1,10 @@
+{
+  "name": "zw008--vmware-monitor",
+  "description": "VMware vCenter/ESXi read-only monitoring skill. Code-level enforced safety — no destructive operations exist in this codebase. Query inventory, check health/alarms/events, view VM info and snapshots, scan logs.",
+  "version": "1.0.19",
+  "author": {
+    "name": "zw008"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zw008/vmware-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zw008/vmware-monitor"
+}

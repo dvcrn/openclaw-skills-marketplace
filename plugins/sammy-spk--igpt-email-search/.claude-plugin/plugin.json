@@ -1,0 +1,10 @@
+{
+  "name": "sammy-spk--igpt-email-search",
+  "description": "Secure, per-user-isolated semantic email search via the iGPT API. Hybrid semantic + keyword retrieval across a user's full Gmail, Outlook, or IMAP inbox history — no shell access, no filesystem access, API-key scoped only. Returns relevant messages and threads ranked by meaning, not just keyword overlap. Use when the user needs to find specific emails, threads, or conversations by topic, participant, date range, or content. Retrieval only — for reasoning, summaries, or structured extraction, use the companion skill igpt-email-ask.",
+  "version": "1.0.3",
+  "author": {
+    "name": "sammy-spk"
+  },
+  "homepage": "https://igpt.ai/hub/playground/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sammy-spk/igpt-email-search"
+}

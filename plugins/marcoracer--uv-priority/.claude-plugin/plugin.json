@@ -1,0 +1,10 @@
+{
+  "name": "marcoracer--uv-priority",
+  "description": "Prioritize uv over pip for all Python package management and execution. When running ANY Python command or CLI tool (python, dbt, pytest, etc.), MUST wrap with uv run.",
+  "version": "1.2.0",
+  "author": {
+    "name": "marcoracer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/marcoracer/uv-priority",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marcoracer/uv-priority"
+}

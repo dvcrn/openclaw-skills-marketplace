@@ -1,0 +1,10 @@
+{
+  "name": "zfanmy--cron-backup",
+  "description": "Set up scheduled automated backups with version tracking and cleanup. Use when users need to (1) Schedule periodic backups of directories or files, (2) Monitor version changes and backup on updates, (3) Automatically clean up old backups to save space, (4) Create backup strategies for configuration files, code repositories, or user data.",
+  "version": "0.3.2",
+  "author": {
+    "name": "zfanmy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zfanmy/cron-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zfanmy/cron-backup"
+}

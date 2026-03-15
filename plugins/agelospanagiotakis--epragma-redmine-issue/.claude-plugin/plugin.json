@@ -1,0 +1,10 @@
+{
+  "name": "agelospanagiotakis--epragma-redmine-issue",
+  "description": "Read Redmine issues from any Redmine server via REST API with configurable URL and credentials. Use when you need to fetch a single issue, list/filter issues, or inspect issue fields for change planning; supports deployment to different Redmine instances via environment variables.",
+  "version": "0.0.1",
+  "author": {
+    "name": "agelospanagiotakis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agelospanagiotakis/epragma-redmine-issue",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agelospanagiotakis/epragma-redmine-issue"
+}

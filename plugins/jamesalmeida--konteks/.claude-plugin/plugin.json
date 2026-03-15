@@ -1,0 +1,10 @@
+{
+  "name": "jamesalmeida--konteks",
+  "description": "Connect your OpenClaw agent to your Konteks account (konteks.app) for persistent memory, task management, and context sharing. Use when you need to store agent memories, create or read tasks/notes, check projects and folders, read daily plans, or sync context between conversations. Requires a Konteks API key from konteks.app/dashboard/settings.",
+  "version": "1.0.2",
+  "author": {
+    "name": "jamesalmeida"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamesalmeida/konteks",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamesalmeida/konteks"
+}

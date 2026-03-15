@@ -1,0 +1,10 @@
+{
+  "name": "morebetterclaw--vantage",
+  "description": "Vantage — Autonomous trading agent for Hyperliquid perpetual futures. Signal-to-execution in one loop. Runs on your machine. No cloud infra. No ongoing cost after purchase. Includes: live signal engine (funding rates, momentum, THORChain volume), Kelly criterion position sizing, EIP-712 signed order execution, paper trading mode, pre-flight setup validator, and profit sweep alerts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "morebetterclaw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/morebetterclaw/vantage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/morebetterclaw/vantage"
+}

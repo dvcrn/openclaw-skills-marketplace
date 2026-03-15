@@ -1,0 +1,10 @@
+{
+  "name": "ricardodpalmeida--mslearn-mcp",
+  "description": "Connect to Microsoft Learn MCP Server to search Microsoft documentation, fetch specific doc pages, and find code samples. Use when you need to query Microsoft Learn documentation, Azure docs, .NET docs, or find official Microsoft code examples. Works with mcporter for tool-based MCP interaction.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ricardodpalmeida"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ricardodpalmeida/mslearn-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ricardodpalmeida/mslearn-mcp"
+}

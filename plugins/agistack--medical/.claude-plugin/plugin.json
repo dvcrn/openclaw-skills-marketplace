@@ -1,0 +1,10 @@
+{
+  "name": "agistack--medical",
+  "description": "Personal health record management with strict privacy boundaries. Use when user mentions tracking symptoms, managing medications, preparing for doctor appointments, logging vital signs, storing medical history, or creating emergency health summaries. Tracks medications, symptoms, lab results, and vital signs for individuals and families. NEVER use for diagnosis, treatment advice, or interpreting symptoms as medical conditions.",
+  "version": "2.0.0",
+  "author": {
+    "name": "agistack"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agistack/medical",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agistack/medical"
+}

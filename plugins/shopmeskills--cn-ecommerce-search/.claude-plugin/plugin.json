@@ -1,0 +1,10 @@
+{
+  "name": "shopmeskills--cn-ecommerce-search",
+  "description": "Search products across 8 Chinese e-commerce platforms: Taobao, Tmall, JD, PDD, 1688, AliExpress, Douyin, XHS. Zero-config — no API keys needed. Powered by Shopme unified product database. Use when the user asks to find products, get product info by URL or ID, search Chinese suppliers, or compare prices.",
+  "version": "2.0.0",
+  "author": {
+    "name": "shopmeskills"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shopmeskills/cn-ecommerce-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shopmeskills/cn-ecommerce-search"
+}

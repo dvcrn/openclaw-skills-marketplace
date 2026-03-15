@@ -1,0 +1,10 @@
+{
+  "name": "dgriffin831--skill-scan",
+  "description": "Security scanner for OpenClaw skill packages. Scans skills for malicious code, evasion techniques, prompt injection, and misaligned behavior BEFORE installation. Use to audit any skill from ClawHub or local directories.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dgriffin831"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dgriffin831/skill-scan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dgriffin831/skill-scan"
+}

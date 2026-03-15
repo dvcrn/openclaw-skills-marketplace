@@ -1,0 +1,10 @@
+{
+  "name": "shigo-45--gemini-reader",
+  "description": "Understand local non-text files (PDF, video, audio) using Gemini API. Use when the user asks to read, summarize, or analyze a PDF document, video file (mp4/mov/webm), or audio file (mp3/wav/m4a/ogg), including audio transcription. NOT for images — the main model already has vision capabilities, prefer using it directly for image understanding.",
+  "version": "1.0.5",
+  "author": {
+    "name": "shigo-45"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shigo-45/gemini-reader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shigo-45/gemini-reader"
+}

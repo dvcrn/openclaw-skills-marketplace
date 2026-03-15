@@ -1,0 +1,10 @@
+{
+  "name": "chengzeyi--wavespeed-veo-31-fast",
+  "description": "Generate and extend videos using Google's Veo 3.1 Fast model via WaveSpeed AI. Supports text-to-video, image-to-video, and video extension. Features up to 4K resolution, audio generation, and chained extensions up to 148 seconds. Use when the user wants to create videos from text or images, or extend existing Veo-generated videos.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chengzeyi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chengzeyi/wavespeed-veo-31-fast",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chengzeyi/wavespeed-veo-31-fast"
+}

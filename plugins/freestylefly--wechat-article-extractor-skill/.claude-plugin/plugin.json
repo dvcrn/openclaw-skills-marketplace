@@ -1,0 +1,10 @@
+{
+  "name": "freestylefly--wechat-article-extractor-skill",
+  "description": "Extract metadata and content from WeChat Official Account articles. Use when user needs to parse WeChat article URLs (mp.weixin.qq.com), extract article info (title, author, content, publish time, cover image), or convert WeChat articles to structured data. Supports various article types including posts, videos, images, voice messages, and reposts.",
+  "version": "1.0.1",
+  "author": {
+    "name": "freestylefly"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/freestylefly/wechat-article-extractor-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/freestylefly/wechat-article-extractor-skill"
+}

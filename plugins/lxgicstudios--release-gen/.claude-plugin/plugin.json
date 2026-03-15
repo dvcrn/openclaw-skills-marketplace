@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--release-gen",
+  "description": "Generate semantic version bumps and git tags from commit history. Use when preparing a release.",
+  "version": "1.0.1",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/release-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/release-gen"
+}

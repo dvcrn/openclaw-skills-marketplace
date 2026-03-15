@@ -1,0 +1,10 @@
+{
+  "name": "pengling9405--telegram-multilingual-voice-reply",
+  "description": "Smart Telegram reply workflow for OpenClaw: if the user sends text, reply with text; if the user sends a voice note/audio, transcribe locally using the installed mlx_audio (default Qwen3-ASR on Apple Silicon), then generate a meaningful reply in the same language. Send back a Telegram voice note with a caption so the user receives ONE message containing both voice+text (the caption text must match the voice content exactly). Follow the input language (Chinese→Chinese, English→English) unless the user explicitly requests a different language.",
+  "version": "0.1.0",
+  "author": {
+    "name": "pengling9405"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pengling9405/telegram-multilingual-voice-reply",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pengling9405/telegram-multilingual-voice-reply"
+}

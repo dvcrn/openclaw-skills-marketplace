@@ -1,0 +1,10 @@
+{
+  "name": "utsavs--whatsapp-biz-responder",
+  "description": "Automated customer support for Indian small businesses using WhatsApp Business API. Categorizes incoming customer messages (orders, complaints, bookings, price queries), auto-responds with configured templates, and flags complex queries for human review. Ideal for coaching institutes, D2C brands, and local service businesses.",
+  "version": "1.0.0",
+  "author": {
+    "name": "utsavs"
+  },
+  "homepage": "https://clawhub.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/utsavs/whatsapp-biz-responder"
+}

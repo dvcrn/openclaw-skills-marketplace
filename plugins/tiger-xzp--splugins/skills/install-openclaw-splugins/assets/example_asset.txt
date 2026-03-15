@@ -1,0 +1,28 @@
+# Example Asset File
+
+This is an example asset file for the hello-world-demo skill.
+
+**Assets are files that are not loaded into context, but are used directly in output.**
+
+For example:
+- When creating a new website, you might have a boilerplate HTML/CSS template in assets
+- When creating a presentation, you might have a PowerPoint template in assets
+- When working with branding, you might have logo files in assets
+- When starting a new project, you might have a boilerplate project directory
+
+## What this means:
+
+- OpenClaw doesn't need to read this file into the context window to use it
+- It can just copy this file (or use it as a template) when generating output
+- This saves precious context space for other things
+
+## Common Asset Types:
+- Document templates (.docx, .pptx, .pdf)
+- Images (.png, .jpg, .svg)
+- Fonts (.ttf, .woff2)
+- Boilerplate project directories
+- Icons
+- Sample data files
+
+This is just a text example - assets can be any file type!
+

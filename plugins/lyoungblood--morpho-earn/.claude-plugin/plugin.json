@@ -1,0 +1,10 @@
+{
+  "name": "lyoungblood--morpho-earn",
+  "description": "Earn yield on USDC by supplying to the Moonwell Flagship USDC vault on Morpho (Base). Use when depositing USDC, withdrawing from the vault, checking position/APY, or setting up wallet credentials for DeFi yield.",
+  "version": "1.2.0",
+  "author": {
+    "name": "lyoungblood"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lyoungblood/morpho-earn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lyoungblood/morpho-earn"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "aliyunbot--quarkpan-backup-suite",
+  "description": "Build and operate a QuarkPan-based backup + restore workflow for OpenClaw workspaces, including QR login, account UID binding guard, cloud upload, dry-run restore, and Lighthouse snapshot policy (manual create only, weekly prompt). Use when users ask to set up/secure Quark backup automation, recovery runbooks, or share this backup capability with other OpenClaw users.",
+  "version": "0.1.0",
+  "author": {
+    "name": "aliyunbot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aliyunbot/quarkpan-backup-suite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aliyunbot/quarkpan-backup-suite"
+}

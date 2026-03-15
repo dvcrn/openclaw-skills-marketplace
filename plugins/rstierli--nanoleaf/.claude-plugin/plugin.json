@@ -1,0 +1,10 @@
+{
+  "name": "rstierli--nanoleaf",
+  "description": "Control Nanoleaf light panels via the Picoleaf CLI. Use for turning Nanoleaf on/off, adjusting brightness, setting colors (RGB/HSL), changing color temperature, or any Nanoleaf lighting control.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rstierli"
+  },
+  "homepage": "https://github.com/tessro/picoleaf",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rstierli/nanoleaf"
+}

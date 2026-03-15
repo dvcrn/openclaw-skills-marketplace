@@ -1,0 +1,10 @@
+{
+  "name": "micktaiwan--lemlist-official",
+  "description": "Official Lemlist API integration for sales automation and multichannel outreach.\n Use this skill when users want to:\n - Manage campaigns (create, list, pause, start, get stats)\n - Add, update, or remove leads from campaigns\n - Send messages via email, LinkedIn, WhatsApp, or SMS through inbox\n - Set up and manage webhooks for campaign events\n - Configure schedules for campaign sending\n - Manage unsubscribes (emails and domains)\n - Export campaign data (leads, activities, contacts)\n - Enrich leads with additional data\n - Control Lemwarm email warming\n - Work with sequences and steps\n - Manage inbox labels and conversations\n Examples: \"list my lemlist campaigns\", \"add a lead to my campaign\", \"pause my campaign\",\n \"show campaign stats\", \"set up a webhook for email opens\", \"export my leads\"",
+  "version": "1.0.1",
+  "author": {
+    "name": "micktaiwan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/micktaiwan/lemlist-official",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/micktaiwan/lemlist-official"
+}

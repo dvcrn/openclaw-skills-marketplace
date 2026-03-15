@@ -1,0 +1,10 @@
+{
+  "name": "qdsang--niu-vehicle",
+  "description": "Connect to NIU smart electric vehicles to retrieve real-time status - battery level, charging status, remaining charge time, location, and total mileage. Also answer questions like 'how much battery left?', 'is charging?', 'where is my scooter?', 'total km ridden?'.",
+  "version": "0.1.0",
+  "author": {
+    "name": "qdsang"
+  },
+  "homepage": "https://www.niu.com/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qdsang/niu-vehicle"
+}

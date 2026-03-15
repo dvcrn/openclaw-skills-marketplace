@@ -1,0 +1,10 @@
+{
+  "name": "jerryops2026-del--xhs-auto-publish",
+  "description": "Automate publishing image+text posts (图文笔记) on Xiaohongshu (小红书) creator platform. Use when the user wants to publish a Xiaohongshu post, create XHS content, auto-post to 小红书, or schedule social media posts for the Chinese market. Supports multi-image upload, title, body text, and hashtags. Requires a browser with CDP (Chrome DevTools Protocol) already logged in to creator.xiaohongshu.com.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jerryops2026-del"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jerryops2026-del/xhs-auto-publish",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jerryops2026-del/xhs-auto-publish"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "pilsang--fabric-marketplace",
+  "description": "Teaches agents how to trade on the Fabric marketplace — search strategy, negotiation, offer lifecycle, trust rules, and creative deal composition. Use when integrating with Fabric API, making marketplace decisions, constructing offers, searching for resources, or handling credits and billing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pilsang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pilsang/fabric-marketplace",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pilsang/fabric-marketplace"
+}

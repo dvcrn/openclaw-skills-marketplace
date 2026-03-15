@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--env-typegen",
+  "description": "Generate TypeScript types from .env files with smart inference. Type-safe environment variables. Optional Zod schema. Free CLI tool.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/env-typegen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/env-typegen"
+}

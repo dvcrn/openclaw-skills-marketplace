@@ -1,0 +1,24 @@
+{
+  "name": "auto-coding",
+  "version": "1.0.0",
+  "description": "Auto-Coding - 多 Agent 协作编程系统，自动将需求转化为可运行的应用",
+  "author": "Krislu + Claw Soft",
+  "license": "Internal",
+  "tags": ["coding", "agent", "automation", "multi-agent"],
+  "triggers": [
+    "/auto-coding\\s+(.+)",
+    "/autonomous-coding\\s+(.+)",
+    "帮我创建一个 (.+) 应用",
+    "帮我开发一个 (.+)",
+    "auto-coding (.+)"
+  ],
+  "examples": [
+    "/auto-coding 创建一个 Todo 应用",
+    "帮我创建一个天气查询 Web 应用",
+    "帮我开发一个个人博客系统"
+  ],
+  "requirements": [
+    "Python 3.8+",
+    "OpenClaw sessions_spawn 支持"
+  ]
+}

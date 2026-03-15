@@ -1,0 +1,10 @@
+{
+  "name": "hexiaochun--hailuo-video",
+  "description": "使用 MiniMax Hailuo 2.3 模型生成视频。当用户想要文生视频、图生视频，或提到 hailuo、海螺视频时使用此 skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "hexiaochun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/hailuo-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/hailuo-video"
+}

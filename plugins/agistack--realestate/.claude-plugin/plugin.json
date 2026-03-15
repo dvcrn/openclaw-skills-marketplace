@@ -1,0 +1,10 @@
+{
+  "name": "agistack--realestate",
+  "description": "Real estate transaction support with affordability analysis, property evaluation, and offer strategy. Use when user mentions buying a home, selling property, house hunting, mortgages, inspections, or rental agreements. Calculates true affordability, evaluates properties systematically, builds offer strategies, reviews contracts, and tracks transaction milestones. NEVER provides investment advice.",
+  "version": "3.0.0",
+  "author": {
+    "name": "agistack"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agistack/realestate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agistack/realestate"
+}

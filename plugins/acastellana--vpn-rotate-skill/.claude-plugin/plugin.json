@@ -1,0 +1,10 @@
+{
+  "name": "acastellana--vpn-rotate-skill",
+  "description": "Bypass API rate limits by rotating VPN servers. Works with any OpenVPN-compatible VPN (ProtonVPN, NordVPN, Mullvad, etc.). Automatically rotates to new server every N requests for fresh IPs. Use for high-volume scraping, government APIs, geo-restricted data.",
+  "version": "0.1.0",
+  "author": {
+    "name": "acastellana"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/acastellana/vpn-rotate-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/acastellana/vpn-rotate-skill"
+}

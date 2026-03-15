@@ -1,0 +1,10 @@
+{
+  "name": "pfrederiksen--openclaw-update-checker",
+  "description": "Check for OpenClaw updates by comparing installed version against the npm registry. Use when: user asks about updates, version status, or 'is openclaw up to date'. Also useful in heartbeats/cron for periodic update monitoring. Read-only — reports status only, does not modify the system.",
+  "version": "1.1.1",
+  "author": {
+    "name": "pfrederiksen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pfrederiksen/openclaw-update-checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pfrederiksen/openclaw-update-checker"
+}

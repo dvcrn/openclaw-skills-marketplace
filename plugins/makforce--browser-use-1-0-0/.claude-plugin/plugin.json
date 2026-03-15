@@ -1,0 +1,10 @@
+{
+  "name": "makforce--browser-use-1-0-0",
+  "description": "Use Browser Use cloud API to spin up cloud browsers for Clawdbot and run autonomous browser tasks. Primary use is creating browser sessions with profiles (persisted logins/cookies) that Clawdbot can control. Secondary use is running task subagents for fast autonomous browser automation. Docs at docs.browser-use.com and docs.cloud.browser-use.com.",
+  "version": "1.0.0",
+  "author": {
+    "name": "makforce"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/makforce/browser-use-1-0-0",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/makforce/browser-use-1-0-0"
+}

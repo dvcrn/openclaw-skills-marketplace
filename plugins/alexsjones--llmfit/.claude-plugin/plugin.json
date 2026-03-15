@@ -1,0 +1,10 @@
+{
+  "name": "alexsjones--llmfit",
+  "description": "Detect local hardware (RAM, CPU, GPU/VRAM) and recommend the best-fit local LLM models with optimal quantization, speed estimates, and fit scoring.",
+  "version": "0.2.2",
+  "author": {
+    "name": "alexsjones"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alexsjones/llmfit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alexsjones/llmfit"
+}

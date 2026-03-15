@@ -1,0 +1,10 @@
+{
+  "name": "renkasiyas--kasia",
+  "description": "Send and receive encrypted on-chain messages on the Kaspa blockchain using the Kasia protocol. Use when a user asks to message someone on Kaspa/Kasia, check Kasia conversations, read encrypted messages, send payments with messages, or manage Kasia handshakes. Requires kasia-mcp and kaspa-mcp servers configured in mcporter.",
+  "version": "1.0.0",
+  "author": {
+    "name": "renkasiyas"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/renkasiyas/kasia",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/renkasiyas/kasia"
+}

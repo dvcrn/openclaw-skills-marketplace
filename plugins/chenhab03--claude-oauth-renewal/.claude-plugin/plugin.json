@@ -1,0 +1,10 @@
+{
+  "name": "chenhab03--claude-oauth-renewal",
+  "description": "Automatically detect and renew expired Claude Code OAuth tokens via heartbeat. 3-tier renewal: refresh token → Chrome browser automation → user alert.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chenhab03"
+  },
+  "homepage": "https://github.com/anthropics/claude-code",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chenhab03/claude-oauth-renewal"
+}

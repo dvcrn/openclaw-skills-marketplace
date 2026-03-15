@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--openclaw-vps-hardening",
+  "description": "Harden a Hostinger VPS running OpenClaw agents against unauthorized access, brute force, and exposure. Use when securing a publicly-deployed OpenClaw instance, locking down a VPS after initial deployment, setting up Cloudflare Tunnel + Access as an identity gate, or implementing defense-in-depth for AI agent infrastructure. Covers UFW firewall lockdown, SSH hardening, Fail2Ban, OpenClaw loopback binding, Cloudflare Tunnel, Cloudflare Access per-agent policies, unattended security upgrades, and file permission hardening.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/openclaw-vps-hardening",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/openclaw-vps-hardening"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cinience--volcengine-security-kms",
+  "description": "Key lifecycle management with Volcengine KMS. Use when users need key creation, rotation policies, encryption/decryption workflows, or key permission troubleshooting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/volcengine-security-kms",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/volcengine-security-kms"
+}

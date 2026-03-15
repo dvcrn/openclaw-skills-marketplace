@@ -1,0 +1,10 @@
+{
+  "name": "tracsystems--clawfinger",
+  "description": "OpenClaw plugin that bridges to the Clawfinger voice gateway. Provides tools for live call takeover, TTS injection, outbound dialing, hangup, context/knowledge injection, instruction management, and call policy configuration — all over a persistent WebSocket connection.",
+  "version": "0.1.3",
+  "author": {
+    "name": "tracsystems"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tracsystems/clawfinger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tracsystems/clawfinger"
+}

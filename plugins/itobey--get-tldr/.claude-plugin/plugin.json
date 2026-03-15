@@ -1,0 +1,10 @@
+{
+  "name": "itobey--get-tldr",
+  "description": "Provide the summary returned by the get-tldr.com summarize API without further summarization; the skill should format the API output for readability but must not change its content.",
+  "version": "1.0.0",
+  "author": {
+    "name": "itobey"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/itobey/get-tldr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/itobey/get-tldr"
+}

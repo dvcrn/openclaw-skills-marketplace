@@ -1,0 +1,10 @@
+{
+  "name": "neothelobster--ghostfetch",
+  "description": "CLI web search and page fetcher for LLM agents. Search DuckDuckGo/Brave/Bing/Google, fetch pages as markdown, and extract links — single binary, no browser required.",
+  "version": "1.1.0",
+  "author": {
+    "name": "neothelobster"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neothelobster/ghostfetch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neothelobster/ghostfetch"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dvjn--no-nonsense-tasks",
+  "description": "No-nonsense task manager using SQLite. Track tasks with statuses (backlog, todo, in-progress, done), descriptions, and tags. Use when managing personal tasks, to-do items, project tracking, or any workflow that needs status-based task organization. Supports adding, listing, filtering, updating, moving, and deleting tasks.",
+  "version": "1.1.0",
+  "author": {
+    "name": "dvjn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dvjn/no-nonsense-tasks",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dvjn/no-nonsense-tasks"
+}

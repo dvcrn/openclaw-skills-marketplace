@@ -1,0 +1,10 @@
+{
+  "name": "anmolnagpal--nsg-firewall-auditor",
+  "description": "Audit Azure NSG rules and Azure Firewall policies for dangerous internet exposure",
+  "version": "1.0.0",
+  "author": {
+    "name": "anmolnagpal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/nsg-firewall-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/nsg-firewall-auditor"
+}

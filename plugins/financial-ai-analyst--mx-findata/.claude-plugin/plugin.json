@@ -1,0 +1,10 @@
+{
+  "name": "financial-ai-analyst--mx-findata",
+  "description": "一个面向多金融品种与多金融主体的数据查询技能。支持使用自然语言查询股票、板块、指数、企业发行人、债券、非上市公司等对象的各类金融指标与报表数据，包括量化数据、实时行情、主力资金、估值、公司基本信息、财务、高管、主营业务、股东、融资等各类金融指标；也可查询股票、非上市公司、股东、高管人物等主体之间的关系数据。技能执行后会生成一个包含查数结果的 xlsx 文件，以及一个对查询结果进行说明和描述的 txt 文件。调用前需配置 EM_API_KEY。",
+  "version": "1.0.1",
+  "author": {
+    "name": "financial-ai-analyst"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/financial-ai-analyst/mx-findata",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/financial-ai-analyst/mx-findata"
+}

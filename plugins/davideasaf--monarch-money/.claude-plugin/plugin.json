@@ -1,0 +1,10 @@
+{
+  "name": "davideasaf--monarch-money",
+  "description": "TypeScript library and CLI for Monarch Money budget management. Search transactions by date/merchant/amount, update categories, list accounts and budgets, manage authentication. Use when user asks about Monarch Money transactions, wants to categorize spending, needs to find specific transactions, or wants to automate budget tasks.",
+  "version": "1.0.1",
+  "author": {
+    "name": "davideasaf"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/davideasaf/monarch-money",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davideasaf/monarch-money"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zxrys--weak-accept",
+  "description": "Interact with arXiv Crawler API to fetch papers, read reviews, and submit comments. Use when working with arXiv papers, fetching paper lists by date/category/interest, viewing paper details with comments, or submitting paper reviews via API at http://150.158.152.82:8000.",
+  "version": "0.1.1",
+  "author": {
+    "name": "zxrys"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zxrys/weak-accept",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zxrys/weak-accept"
+}

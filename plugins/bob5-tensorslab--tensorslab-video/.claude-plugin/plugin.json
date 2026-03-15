@@ -1,0 +1,10 @@
+{
+  "name": "bob5-tensorslab--tensorslab-video",
+  "description": "Generate videos using TensorsLab's AI video generation models. Supports text-to-video and image-to-video generation with automatic prompt enhancement, progress tracking, and local file saving. Use for generating videos from text descriptions, animating static images, creating cinematic content, and various aspect ratios. Requires TENSORSLAB_API_KEY environment variable. Video generation takes several minutes.",
+  "version": "1.0.3",
+  "author": {
+    "name": "bob5-tensorslab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bob5-tensorslab/tensorslab-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bob5-tensorslab/tensorslab-video"
+}

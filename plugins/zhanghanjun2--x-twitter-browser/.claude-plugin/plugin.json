@@ -1,0 +1,10 @@
+{
+  "name": "zhanghanjun2--x-twitter-browser",
+  "description": "Use a real browser session's cookie header to verify login and perform browser actions on X/Twitter via headless Playwright. Supports posting, replying, reposting, liking, and bookmarking tweets.",
+  "version": "1.0.8",
+  "author": {
+    "name": "zhanghanjun2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhanghanjun2/x-twitter-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhanghanjun2/x-twitter-browser"
+}

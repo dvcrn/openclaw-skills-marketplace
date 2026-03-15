@@ -1,0 +1,10 @@
+{
+  "name": "demitrim--discord-context",
+  "description": "Sync and cache per-thread context for Discord Forum channels. Use when handling /discord-context commands to poll active threads, list cached context, inspect a thread cache, or link a thread to a memory QMD file.",
+  "version": "0.1.1",
+  "author": {
+    "name": "demitrim"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/demitrim/discord-context",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/demitrim/discord-context"
+}

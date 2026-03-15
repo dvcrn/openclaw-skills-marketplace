@@ -1,0 +1,10 @@
+{
+  "name": "sinhong2011--slap-detector",
+  "description": "React to physical slaps and shakes detected on an Apple Silicon MacBook accelerometer. Use when the slap-your-openclaw MCP server is connected.",
+  "version": "0.1.1",
+  "author": {
+    "name": "sinhong2011"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sinhong2011/slap-detector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sinhong2011/slap-detector"
+}

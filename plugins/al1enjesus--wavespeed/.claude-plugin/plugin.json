@@ -1,0 +1,10 @@
+{
+  "name": "al1enjesus--wavespeed",
+  "description": "Generate and edit images and videos using WaveSpeed AI's 700+ model library. Use when the user wants to generate images from text prompts (FLUX, Seedream, Qwen), edit or retouch photos (nano-banana-pro/edit keeps faces identical while changing clothes/background), generate videos from images or text (Kling, Veo, Sora, Wan, Hailuo), or upscale videos to 4K. Triggers include: generate an image, edit this photo, change the background, swap the outfit, make a video from this image, animate this photo, upscale this video, use WaveSpeed, use nano banana pro.",
+  "version": "1.1.0",
+  "author": {
+    "name": "al1enjesus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/al1enjesus/wavespeed",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/al1enjesus/wavespeed"
+}

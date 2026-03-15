@@ -1,0 +1,10 @@
+{
+  "name": "2233admin--api-monitor",
+  "description": "API 配额监控与手动切换技能。监控 OpenClaw 模型 API 使用量，配额不足时询问用户确认后再切换。 触发词：API配额、API监控、模型切换、检查API。",
+  "version": "1.0.1",
+  "author": {
+    "name": "2233admin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/2233admin/api-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/2233admin/api-monitor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "camopel--storage-cleanup",
+  "description": "One-command disk cleanup for macOS and Linux — trash, caches, temp files, old kernels, snap revisions, Homebrew, Docker, and Xcode artifacts. Use when user asks to free storage, clean up disk, reclaim space, reduce disk usage, or encounters low disk / \"disk full\" warnings. Safe by default with dry-run mode. No dependencies beyond bash and awk.",
+  "version": "1.0.0",
+  "author": {
+    "name": "camopel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/camopel/storage-cleanup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/camopel/storage-cleanup"
+}

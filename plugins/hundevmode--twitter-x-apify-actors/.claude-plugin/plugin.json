@@ -1,0 +1,10 @@
+{
+  "name": "hundevmode--twitter-x-apify-actors",
+  "description": "Use this skill when the user needs Twitter/X audience collection through Apify actors (followers/following/both) with optional email enrichment, username extraction from links, normalized row output, or webhook-ready payload building.",
+  "version": "1.0.3",
+  "author": {
+    "name": "hundevmode"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hundevmode/twitter-x-apify-actors",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hundevmode/twitter-x-apify-actors"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "tristanh--readwise-mcp",
+  "description": "Set up, OAuth-authenticate, and use the Readwise MCP server (mcp2.readwise.io/mcp) via the mcporter CLI. Use when a user asks to connect/auth Readwise MCP, reset or troubleshoot OAuth login (stale redirect ports, invalid state), verify the connection, or run Readwise tools through mcporter.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tristanh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tristanh/readwise-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tristanh/readwise-mcp"
+}

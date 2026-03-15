@@ -1,0 +1,10 @@
+{
+  "name": "prqelt--qelt-contracts",
+  "description": "Verify and inspect smart contracts on the QELT blockchain using the Mainnet Indexer verification API. Use when asked to verify Solidity source code, check if a contract is verified, retrieve ABIs, list compiler versions, poll a verification job, or submit multi-file contracts (with OpenZeppelin imports). Rate limit: 10 submissions/hour.",
+  "version": "0.1.0",
+  "author": {
+    "name": "prqelt"
+  },
+  "homepage": "https://mnindexer.qelt.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/prqelt/qelt-contracts"
+}

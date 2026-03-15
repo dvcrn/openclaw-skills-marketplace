@@ -1,0 +1,10 @@
+{
+  "name": "openlang-cn--auto",
+  "description": "Helps automate repetitive tasks with scripts, scheduled jobs, and simple workflows. Use when the user wants to script an action, run something on a schedule (cron, Task Scheduler), automate builds or deploys, or reduce manual steps in a workflow.",
+  "version": "1.0.0",
+  "author": {
+    "name": "openlang-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/auto",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/auto"
+}

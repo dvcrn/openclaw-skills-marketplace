@@ -1,0 +1,10 @@
+{
+  "name": "danielfoch--tour-booking",
+  "description": "Sub-agent for outbound listing-office calls to request and confirm property showing slots using a provided call script and structured payloads. Use when a parent workflow needs call execution for one or more listings, including dry-run payload generation, live ElevenLabs call requests, and parsing call outcomes into booking statuses.",
+  "version": "0.1.0",
+  "author": {
+    "name": "danielfoch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danielfoch/tour-booking",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danielfoch/tour-booking"
+}

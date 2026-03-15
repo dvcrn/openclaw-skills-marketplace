@@ -1,0 +1,10 @@
+{
+  "name": "sealiu1997--zsxq-digest",
+  "description": "Summarize new updates from followed Knowledge Planet (知识星球 / zsxq.com) circles and produce a daily triage digest that helps decide whether to click through and read in depth. Use when the user wants: (1) a daily summary of what changed across followed planets, (2) extraction of new posts/topics from Knowledge Planet through a locally stored private access token/session file, (3) browser-assisted fallback extraction when token mode is unavailable or needs verification, (4) prioritization of which circles or posts are worth opening, or (5) a reusable workflow for private-membership content where secrets must stay local and never be published with the skill.",
+  "version": "0.1.0",
+  "author": {
+    "name": "sealiu1997"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sealiu1997/zsxq-digest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sealiu1997/zsxq-digest"
+}

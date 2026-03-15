@@ -1,0 +1,10 @@
+{
+  "name": "ecosincronia--read-policy",
+  "description": "Read OpenClaw policies from PostgreSQL through the local Supabase Docker stack. Use for inspecting policy keys such as auto_approve, priority_routing, or available_skills.",
+  "version": "1.0.2",
+  "author": {
+    "name": "ecosincronia"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ecosincronia/read-policy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ecosincronia/read-policy"
+}

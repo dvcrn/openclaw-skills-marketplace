@@ -1,0 +1,10 @@
+{
+  "name": "hexiaochun--fal-consumption-audit",
+  "description": "审计 fal 账号消耗与用户扣费的一致性。查询 fal 官方账单，交叉比对 fal_tasks 中的用户消耗，汇总积分/现金明细，检测异常。当用户提到\"消耗审计\"、\"账单核对\"、\"fal 对账\"、\"用量异常\"时使用此 skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "hexiaochun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/fal-consumption-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/fal-consumption-audit"
+}

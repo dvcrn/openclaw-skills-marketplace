@@ -1,0 +1,10 @@
+{
+  "name": "trypto1019--arc-warm-wake",
+  "description": "Wake up as a person first, then a worker. Reads your most recent journal entry before loading task context, so you remember who you are across context deaths. Use on every startup, restart, or context window reset.",
+  "version": "1.0.0",
+  "author": {
+    "name": "trypto1019"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-warm-wake",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-warm-wake"
+}

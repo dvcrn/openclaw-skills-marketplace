@@ -1,0 +1,10 @@
+{
+  "name": "fqiangliu--rxn-im",
+  "description": "Parse chemical reaction images into machine-readable data (reactants, products, conditions) using the RxnIM multimodal LLM. Supports web API (Hugging Face Spaces) and local inference.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fqiangliu"
+  },
+  "homepage": "https://github.com/CYF2000127/RxnIM",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fqiangliu/rxn-im"
+}

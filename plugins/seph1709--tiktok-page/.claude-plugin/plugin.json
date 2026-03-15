@@ -1,0 +1,10 @@
+{
+  "name": "seph1709--tiktok-page",
+  "description": "TikTok manager: post videos, list content & check account stats. Requires: powershell/pwsh. Reads ~/.config/tiktok-page/credentials.json (TIKTOK_ACCESS_TOKEN, TIKTOK_REFRESH_TOKEN, TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET, TIKTOK_OPEN_ID). Tokens expire every 24h — auto-refresh via TIKTOK_REFRESH_TOKEN. Grant minimal permissions only. Rotate immediately if host is compromised. No data forwarded; all calls go to open.tiktokapis.com only.",
+  "version": "1.0.4",
+  "author": {
+    "name": "seph1709"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seph1709/tiktok-page",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seph1709/tiktok-page"
+}

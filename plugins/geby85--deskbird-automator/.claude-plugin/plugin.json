@@ -1,0 +1,10 @@
+{
+  "name": "geby85--deskbird-automator",
+  "description": "Steuert Deskbird ueber Telegram mit sicherem Auth-Handling, Discovery und Parkplatz-Status/Reservierung. Verwende diesen Skill, wenn ein OpenClaw-Agent Deskbird-Aufgaben ausfuehren oder eine wiederkehrende Cron-Session dafuer anlegen/aktualisieren soll, inklusive Rueckfrage zum Rhythmus und Reauth bei abgelaufener Auth.",
+  "version": "1.1.7",
+  "author": {
+    "name": "geby85"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/geby85/deskbird-automator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/geby85/deskbird-automator"
+}

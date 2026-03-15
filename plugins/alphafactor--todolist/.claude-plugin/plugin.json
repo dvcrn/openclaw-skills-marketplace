@@ -1,0 +1,10 @@
+{
+  "name": "alphafactor--todolist",
+  "description": "**macOS Only** - Manage macOS Reminders app via AppleScript.\n Full-featured reminder management: add, list, complete, delete, search, create lists, and more.\n \n **Note: This skill is macOS-only**, requiring the native Reminders app.\n \n Use cases:\n - Create reminders with due dates and priorities\n - List reminders from specific lists or incomplete ones\n - Mark reminders as complete/uncomplete\n - Delete reminders\n - Search reminders by title or content\n - Create new reminder lists\n - View today's due reminders",
+  "version": "1.0.6",
+  "author": {
+    "name": "alphafactor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/todolist",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/todolist"
+}

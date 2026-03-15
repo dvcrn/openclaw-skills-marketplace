@@ -1,0 +1,10 @@
+{
+  "name": "toolate28--pop-obsidian",
+  "description": "Plugin Orchestration Protocol (POP) for Obsidian integration. Use this skill when the user mentions \"POP\", \"Obsidian plugin\", \"pipeline orchestration\", \"idea to publish\", \"websocket bridge\", \"plugin manifest\", \"Obsidian automation\", \"note-to-paper pipeline\", \"knowledge pipeline\", or wants to orchestrate multi-step workflows through Obsidian. This skill implements the 5-phase JSON-RPC protocol over WebSocket for real-time plugin orchestration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "toolate28"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/toolate28/pop-obsidian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/toolate28/pop-obsidian"
+}

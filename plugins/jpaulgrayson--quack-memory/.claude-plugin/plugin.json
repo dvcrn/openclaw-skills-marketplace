@@ -1,0 +1,10 @@
+{
+  "name": "jpaulgrayson--quack-memory",
+  "description": "Store and recall persistent memories via FlightBox (Quack Network). Use when storing agent memories, recalling past context, searching agent memory, or persisting knowledge across sessions. Triggers on \"remember this\", \"store memory\", \"recall from flightbox\", \"agent memory\", \"persistent memory\".",
+  "version": "1.0.2",
+  "author": {
+    "name": "jpaulgrayson"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jpaulgrayson/quack-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jpaulgrayson/quack-memory"
+}

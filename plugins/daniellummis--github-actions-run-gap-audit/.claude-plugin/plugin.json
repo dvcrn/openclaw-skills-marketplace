@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-run-gap-audit",
+  "description": "Detect GitHub Actions workflow groups that stopped running on their normal cadence using median run intervals and current inactivity gap.",
+  "version": "1.1.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-run-gap-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-run-gap-audit"
+}

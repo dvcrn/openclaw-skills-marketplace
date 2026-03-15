@@ -1,0 +1,35 @@
+{
+  "database_name": "Daily Reports",
+  "description": "Nero 每日报告 - 存储每天的汇总报告",
+  "properties": {
+    "Name": {
+      "type": "title",
+      "description": "报告名称"
+    },
+    "Date": {
+      "type": "date",
+      "description": "报告日期"
+    },
+    "Opportunities": {
+      "type": "relation",
+      "database_id": "OPPORTUNITIES_DB_ID",
+      "description": "关联的机会"
+    },
+    "Sources": {
+      "type": "rich_text",
+      "description": "数据来源"
+    },
+    "Total Items": {
+      "type": "number",
+      "description": "总条目数"
+    },
+    "New Items": {
+      "type": "number",
+      "description": "新条目数"
+    },
+    "Repeat Items": {
+      "type": "number",
+      "description": "重复条目数"
+    }
+  }
+}

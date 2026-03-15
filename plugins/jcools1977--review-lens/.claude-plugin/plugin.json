@@ -1,0 +1,10 @@
+{
+  "name": "jcools1977--review-lens",
+  "description": "Finds what human code reviewers miss — not style issues or formatting, but logical errors, silent edge cases, performance cliffs, implicit assumptions, and the bugs that hide in code that \"looks right.\" The difference between \"this code works\" and \"this code is correct.\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "jcools1977"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jcools1977/review-lens",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jcools1977/review-lens"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dicasdomaroto-maker--waze",
+  "description": "Gera links de navegação do Waze para qualquer destino: endereços, nomes de estabelecimentos, locais de compromissos na agenda. Use sempre que o usuário mencionar um destino, pedir rota, querer saber como chegar a algum lugar, ou quando um evento da agenda tiver um local definido — nesse caso inclua o link automaticamente no briefing, sem precisar ser solicitado. Quando o destino for vago (nome de empresa, tipo de estabelecimento, \"posto mais próximo\"), busca o local mais próximo da cidade do usuário antes de gerar o link — nunca use um endereço de outra cidade.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dicasdomaroto-maker"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dicasdomaroto-maker/waze",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dicasdomaroto-maker/waze"
+}

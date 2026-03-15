@@ -1,0 +1,10 @@
+{
+  "name": "aaigotchi--superrare-mint",
+  "description": "Mint art to a SuperRare-compatible ERC-721 collection on Ethereum via Bankr. Uploads media and metadata to SuperRare, dry-runs safely by default, and records auditable mint receipts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aaigotchi"
+  },
+  "homepage": "https://github.com/aaigotchi/superrare-mint",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaigotchi/superrare-mint"
+}

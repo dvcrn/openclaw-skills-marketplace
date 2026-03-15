@@ -1,0 +1,10 @@
+{
+  "name": "roosch269--agent-self-assessment",
+  "description": "Security self-assessment tool for AI agents. Run this against your own configuration to get a structured threat model report with RED/AMBER/GREEN ratings across six security domains — decision boundaries, audit trail, credential scoping, plane separation, economic accountability, and memory safety.",
+  "version": "1.0.0",
+  "author": {
+    "name": "roosch269"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/roosch269/agent-self-assessment",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/roosch269/agent-self-assessment"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "charipoter--watcha-finder",
+  "description": "Find, evaluate, and recommend AI products using the watcha.cn platform API. Use this skill whenever the user asks about AI tools, AI products, AI apps, or wants to discover/compare/evaluate AI products in China or globally. Also use when the user mentions watcha, watcha.cn, or wants product recommendations for specific use cases (e.g., \"what's a good AI coding tool?\", \"find me an AI video generator\", \"哪个AI写作工具好用\"). This skill knows how to search, filter, read reviews, and cross-reference with web sources to give well-rounded product assessments — not just popularity rankings.",
+  "version": "0.1.0",
+  "author": {
+    "name": "charipoter"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/charipoter/watcha-finder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/charipoter/watcha-finder"
+}

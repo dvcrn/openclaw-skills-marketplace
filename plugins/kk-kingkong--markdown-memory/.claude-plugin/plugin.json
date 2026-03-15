@@ -1,0 +1,10 @@
+{
+  "name": "kk-kingkong--markdown-memory",
+  "description": "Markdown 文件记忆系统 - 带本地向量搜索的 AI 助手记忆方案。\n 支持：每日记录、长期记忆、会话记忆、Ollama 本地向量嵌入搜索。\n 特点：简单、人工可读、本地向量搜索（无 API 费用）。",
+  "version": "1.0.1",
+  "author": {
+    "name": "kk-kingkong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kk-kingkong/markdown-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kk-kingkong/markdown-memory"
+}

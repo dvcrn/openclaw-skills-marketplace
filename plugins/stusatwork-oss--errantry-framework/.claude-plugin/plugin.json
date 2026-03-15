@@ -1,0 +1,10 @@
+{
+  "name": "stusatwork-oss--errantry-framework",
+  "description": "Mythological framework mapping Diane Duane's Young Wizards magic system to AI architecture patterns. Use when designing agent workflows or multi-agent systems, explaining AI concepts through accessible metaphor, debugging agent behavior (\"what went wrong in the spell\"), establishing alignment principles for new projects, or framing constraints for autonomous systems. Provides shared vocabulary, ethical guardrails as binding commitments, and heuristics for recognizing entropic patterns (drift, collapse, misalignment).",
+  "version": "1.0.0",
+  "author": {
+    "name": "stusatwork-oss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stusatwork-oss/errantry-framework",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stusatwork-oss/errantry-framework"
+}

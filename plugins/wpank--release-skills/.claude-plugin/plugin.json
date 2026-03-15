@@ -1,0 +1,10 @@
+{
+  "name": "wpank--release-skills",
+  "description": "WHAT: Universal release workflow with auto-detection, multi-language changelogs, semantic versioning, and git tagging.\n \n WHEN: User wants to create a release, bump version, update changelog, push a new version, or prepare for deployment.\n \n KEYWORDS: \"release\", \"发布\", \"new version\", \"新版本\", \"bump version\", \"update version\", \"更新版本\", \"push\", \"推送\", \"create release\", \"prepare release\", \"tag version\"",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/release-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/release-skills"
+}

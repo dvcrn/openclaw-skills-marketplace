@@ -1,0 +1,10 @@
+{
+  "name": "sa9saq--cfg-diff",
+  "description": "Compare configuration files, highlight differences, and suggest merge strategies for YAML, JSON, TOML, and INI formats.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sa9saq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sa9saq/cfg-diff",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sa9saq/cfg-diff"
+}

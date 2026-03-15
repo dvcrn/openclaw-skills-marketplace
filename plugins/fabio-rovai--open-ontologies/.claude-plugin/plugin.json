@@ -1,0 +1,10 @@
+{
+  "name": "fabio-rovai--open-ontologies",
+  "description": "AI-native ontology engineering using 39+ MCP tools backed by an in-memory Oxigraph triple store. Build, validate, query, and govern RDF/OWL ontologies with a generate-validate-iterate loop. Use when building ontologies, knowledge graphs, RDF data, SPARQL queries, BORO/4D modeling, SHACL validation, clinical terminology mapping, or Terraform-style ontology lifecycle management.",
+  "version": "0.5.1",
+  "author": {
+    "name": "fabio-rovai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fabio-rovai/open-ontologies",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fabio-rovai/open-ontologies"
+}

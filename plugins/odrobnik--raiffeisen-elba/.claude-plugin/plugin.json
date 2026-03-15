@@ -1,0 +1,10 @@
+{
+  "name": "odrobnik--raiffeisen-elba",
+  "description": "Automate Raiffeisen ELBA online banking: login/logout, list accounts, and fetch transactions via Playwright.",
+  "version": "1.3.3",
+  "author": {
+    "name": "odrobnik"
+  },
+  "homepage": "https://github.com/odrobnik/raiffeisen-elba-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/raiffeisen-elba"
+}

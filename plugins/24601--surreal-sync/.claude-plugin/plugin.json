@@ -1,0 +1,10 @@
+{
+  "name": "24601--surreal-sync",
+  "description": "Data migration and synchronization to SurrealDB from MongoDB, PostgreSQL, MySQL, Neo4j, Kafka, and JSONL. Full and incremental CDC sync. Part of the surreal-skills collection.",
+  "version": "1.2.0",
+  "author": {
+    "name": "24601"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/24601/surreal-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/24601/surreal-sync"
+}

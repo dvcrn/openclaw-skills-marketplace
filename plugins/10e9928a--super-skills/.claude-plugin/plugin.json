@@ -1,0 +1,10 @@
+{
+  "name": "10e9928a--super-skills",
+  "description": "Decomposes complex user requests into executable subtasks, identifies required capabilities, searches for existing skills at skills.sh, and creates new skills when no solution exists. This skill should be used when the user submits a complex multi-step request, wants to automate workflows, or needs help breaking down large tasks into manageable pieces.",
+  "version": "1.0.0",
+  "author": {
+    "name": "10e9928a"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/10e9928a/super-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/10e9928a/super-skills"
+}

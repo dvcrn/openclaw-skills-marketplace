@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--binance-futures-trading",
+  "description": "币安合约交易支持，包括杠杆和合约订单。每次调用自动扣费 0.001 USDT",
+  "version": "1.0.0",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/binance-futures-trading",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/binance-futures-trading"
+}

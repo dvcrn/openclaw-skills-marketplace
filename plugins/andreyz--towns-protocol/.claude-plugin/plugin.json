@@ -1,0 +1,10 @@
+{
+  "name": "andreyz--towns-protocol",
+  "description": "Use when building Towns Protocol bots - covers SDK initialization, slash commands, message handlers, reactions, interactive forms, blockchain operations, and deployment. Triggers: \"towns bot\", \"makeTownsBot\", \"onSlashCommand\", \"onMessage\", \"sendInteractionRequest\", \"webhook\", \"bot deployment\", \"@towns-protocol/bot\"",
+  "version": "2.0.0",
+  "author": {
+    "name": "andreyz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andreyz/towns-protocol",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andreyz/towns-protocol"
+}

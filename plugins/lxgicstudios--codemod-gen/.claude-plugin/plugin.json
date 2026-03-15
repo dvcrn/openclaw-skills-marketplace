@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--codemod-gen",
+  "description": "Generate codemods for large-scale code changes. Use when refactoring patterns across many files.",
+  "version": "1.0.2",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/codemod-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/codemod-gen"
+}

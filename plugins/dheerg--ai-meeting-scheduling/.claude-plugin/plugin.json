@@ -1,0 +1,10 @@
+{
+  "name": "dheerg--ai-meeting-scheduling",
+  "description": "Booking links fail for groups. SkipUp schedules meetings with 2-50 participants via email — one API call coordinates across timezones automatically. Also: check status, pause, resume, or cancel requests. Async only — does not instant-book, access calendars, or do free/busy lookups.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dheerg"
+  },
+  "homepage": "https://skipup.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dheerg/ai-meeting-scheduling"
+}

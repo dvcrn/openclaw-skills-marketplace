@@ -1,0 +1,10 @@
+{
+  "name": "g-hanasq--skill-shell",
+  "description": "Evaluate external skills before installation and decide whether to install, reject, or absorb only the useful ideas. Use when a user shares a ClawHub/GitHub skill link, asks whether a skill is worth installing, asks for a code/safety review before installation, or wants to compare a skill's workflow with the current OpenClaw workflow.",
+  "version": "0.2.2",
+  "author": {
+    "name": "g-hanasq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/g-hanasq/skill-shell",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/g-hanasq/skill-shell"
+}

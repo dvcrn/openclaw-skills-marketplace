@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--llm-evaluator-pro",
+  "description": "LLM-as-a-Judge evaluator via Langfuse. Scores traces on relevance, accuracy, hallucination, and helpfulness using GPT-5-nano as judge. Supports single trace scoring, batch backfill, and test mode. Integrates with Langfuse dashboard for observability. Triggers: evaluate trace, score quality, check accuracy, backfill scores, test evaluator, LLM judge.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/llm-evaluator-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/llm-evaluator-pro"
+}

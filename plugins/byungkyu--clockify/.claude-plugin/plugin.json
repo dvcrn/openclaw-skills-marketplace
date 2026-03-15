@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--clockify",
+  "description": "Clockify API integration with managed OAuth. Track time, manage projects, clients, tasks, and workspaces.\n Use this skill when users want to track time, create or manage projects, view time entries, or manage workspace members.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/clockify",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/clockify"
+}

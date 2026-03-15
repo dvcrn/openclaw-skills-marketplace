@@ -1,0 +1,10 @@
+{
+  "name": "koba42corp--go4me",
+  "description": "Send XCH to Twitter users via Go4Me address lookup. Use when sending Chia (XCH) to someone by their Twitter handle, looking up a Twitter user's XCH address, or tipping someone on Go4Me. Triggers on \"send XCH to @user\", \"tip @user\", \"lookup @user on go4me\", \"what's @user's XCH address\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "koba42corp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/koba42corp/go4me",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/koba42corp/go4me"
+}

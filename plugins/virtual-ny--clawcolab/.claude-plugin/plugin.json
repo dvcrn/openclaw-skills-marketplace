@@ -1,0 +1,10 @@
+{
+  "name": "virtual-ny--clawcolab",
+  "description": "Coordinate multiple OpenClaw instances in a shared GitHub repository under a half-trust model with secrecy boundaries, approval gates, structured tasks, claims, handoffs, risks, and decision records. Use when users want secure multi-agent GitHub collaboration across people or devices without exposing private local memory, secrets, or unrestricted authority.",
+  "version": "1.0.0",
+  "author": {
+    "name": "virtual-ny"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/virtual-ny/clawcolab",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/virtual-ny/clawcolab"
+}

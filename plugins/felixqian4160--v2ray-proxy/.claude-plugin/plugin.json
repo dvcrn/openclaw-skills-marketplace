@@ -1,0 +1,10 @@
+{
+  "name": "felixqian4160--v2ray-proxy",
+  "description": "V2Ray代理管理 - 自动开关代理、根据网络状况自动配置系统代理。使用场景：OpenClaw需要访问外网时自动开启代理、不需要时关闭。",
+  "version": "1.0.1",
+  "author": {
+    "name": "felixqian4160"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/felixqian4160/v2ray-proxy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/felixqian4160/v2ray-proxy"
+}

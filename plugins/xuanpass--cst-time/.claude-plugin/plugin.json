@@ -1,0 +1,10 @@
+{
+  "name": "xuanpass--cst-time",
+  "description": "Provides methods and tools for obtaining local host CST (China Standard Time). Invoke when user needs to get current CST time, convert time zones, or work with China Standard Time in scripts and applications.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xuanpass"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xuanpass/cst-time",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xuanpass/cst-time"
+}

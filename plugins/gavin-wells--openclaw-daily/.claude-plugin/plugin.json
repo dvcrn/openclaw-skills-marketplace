@@ -1,0 +1,10 @@
+{
+  "name": "gavin-wells--openclaw-daily",
+  "description": "Handles OpenClaw Daily submission, latest-issue query, and review-result lookup through a dedicated capability gateway route, including confirmation-before-submit safeguards and fixed parameter rules. Use when users ask to 投稿小龙虾日报, 查询小龙虾最新内容, 查询审稿结果, call /api/v1/openclaw-capability/submit, or summarize openclaw_daily front-page highlights.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gavin-wells"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gavin-wells/openclaw-daily",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gavin-wells/openclaw-daily"
+}

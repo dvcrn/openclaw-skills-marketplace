@@ -1,0 +1,10 @@
+{
+  "name": "palxislabs--ibt",
+  "description": "Execution discipline for agents with instinct, verification, trust calibration, approval gates, trust boundaries, trust recovery, discrepancy reasoning, and resilient error handling. Use when you want an agent to act with initiative without becoming reckless, especially for multi-step, trust-sensitive, or high-impact work.",
+  "version": "2.9.2",
+  "author": {
+    "name": "palxislabs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/palxislabs/ibt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/palxislabs/ibt"
+}

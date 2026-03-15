@@ -1,0 +1,10 @@
+{
+  "name": "abstrct--structsd-install",
+  "description": "Installs the structsd binary from source. Covers Go, Ignite CLI, and building structsd for Linux and macOS. Use when structsd is not found, when setting up a new machine, or when the agent needs to install or update the Structs chain binary.",
+  "version": "1.1.0",
+  "author": {
+    "name": "abstrct"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abstrct/structsd-install",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abstrct/structsd-install"
+}

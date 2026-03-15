@@ -1,0 +1,10 @@
+{
+  "name": "xliucs--stock-valuation",
+  "description": "Generate comprehensive company valuation reports as polished HTML/PDF. Use when user asks for stock valuation, company analysis, investment thesis, or deep-dive on a ticker. Pipeline: (1) run_pipeline.py collects all quantitative data in parallel, (2) agent does web research for Seeking Alpha, X/Twitter, analyst PTs, revenue composition, catalysts/risks, (3) generate_report.py produces polished light-theme HTML with embedded charts, smart callouts, and detailed valuation framework. NOT for quick price checks, daily watchlist alerts, or real-time trading signals.",
+  "version": "3.0.0",
+  "author": {
+    "name": "xliucs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xliucs/stock-valuation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xliucs/stock-valuation"
+}

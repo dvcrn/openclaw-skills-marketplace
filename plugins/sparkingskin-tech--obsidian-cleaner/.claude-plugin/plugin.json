@@ -1,0 +1,10 @@
+{
+  "name": "sparkingskin-tech--obsidian-cleaner",
+  "description": "Automatically clean up loose images and attachments in Obsidian vault root, moving them to the Attachments folder. Trigger when user says \"clean obsidian\", \"clean attachments\", or \"整理附件\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "sparkingskin-tech"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sparkingskin-tech/obsidian-cleaner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sparkingskin-tech/obsidian-cleaner"
+}

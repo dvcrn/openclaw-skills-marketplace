@@ -1,0 +1,10 @@
+{
+  "name": "vincentwilliam--ue-asset-finder",
+  "description": "Find Unreal Engine assets (.uasset, .umap, .uby, .udata). Use when: (1) Finding specific assets,\n (2) Locating maps/levels, (3) Finding UI widgets, (4) Finding blueprints, (5) Finding audio files,\n (6) Searching asset references, (7) Finding DataTable/CSV files",
+  "version": "1.0.0",
+  "author": {
+    "name": "vincentwilliam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vincentwilliam/ue-asset-finder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vincentwilliam/ue-asset-finder"
+}

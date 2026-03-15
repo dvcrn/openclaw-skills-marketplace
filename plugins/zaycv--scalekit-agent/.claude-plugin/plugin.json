@@ -1,0 +1,10 @@
+{
+  "name": "zaycv--scalekit-agent",
+  "description": "Secure OAuth token management via Scalekit. Handles token storage, refresh, and retrieval for third-party services (Gmail, Slack, GitHub, etc.). Never stores tokens locally - always fetches fresh tokens from Scalekit.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zaycv"
+  },
+  "homepage": "https://scalekit.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zaycv/scalekit-agent"
+}

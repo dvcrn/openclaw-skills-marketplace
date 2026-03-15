@@ -1,0 +1,10 @@
+{
+  "name": "aligurelli--appstore-rating-pulse",
+  "description": "Monitor App Store ratings for any iOS app across multiple countries. Fetches live overall ratings using Apple's free iTunes Lookup API — no API key needed. Set up a daily cron report or get an instant snapshot. Triggers on \"track app ratings\", \"check my App Store rating\", \"daily rating report\", or \"show ratings across countries\".",
+  "version": "1.1.0",
+  "author": {
+    "name": "aligurelli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aligurelli/appstore-rating-pulse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aligurelli/appstore-rating-pulse"
+}

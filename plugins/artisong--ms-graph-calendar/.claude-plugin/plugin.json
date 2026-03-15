@@ -1,0 +1,10 @@
+{
+  "name": "artisong--ms-graph-calendar",
+  "description": "Find available meeting times and free/busy slots for company employees using Microsoft Graph API. Use when user asks to schedule a meeting, find a free slot, check when employees are available, or look up someone's calendar availability.",
+  "version": "1.0.2",
+  "author": {
+    "name": "artisong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/artisong/ms-graph-calendar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/artisong/ms-graph-calendar"
+}

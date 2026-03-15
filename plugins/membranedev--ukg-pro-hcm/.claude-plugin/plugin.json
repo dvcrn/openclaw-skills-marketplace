@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--ukg-pro-hcm",
+  "description": "Ukg Pro HCM integration. Manage Persons, Organizations, Jobs, Benefits, Payrolls, TimeOffs and more. Use when the user wants to interact with Ukg Pro HCM data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/ukg-pro-hcm"
+}

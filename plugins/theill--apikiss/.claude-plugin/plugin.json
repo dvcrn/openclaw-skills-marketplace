@@ -1,0 +1,10 @@
+{
+  "name": "theill--apikiss",
+  "description": "Access weather, IP geolocation, SMS, crypto prices, Danish CVR, Whois, phone lookup, UUID, stock data, and more via the API KISS unified gateway (apikiss.com).",
+  "version": "1.0.0",
+  "author": {
+    "name": "theill"
+  },
+  "homepage": "https://www.apikiss.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theill/apikiss"
+}

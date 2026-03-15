@@ -1,0 +1,10 @@
+{
+  "name": "dannydvm--engram-memory",
+  "description": "Persistent semantic memory for AI agents — local, fast, free. Use when agent needs to recall past decisions, store new facts/preferences, search conversation history, or maintain context across sessions.",
+  "version": "0.2.0",
+  "author": {
+    "name": "dannydvm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dannydvm/engram-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dannydvm/engram-memory"
+}

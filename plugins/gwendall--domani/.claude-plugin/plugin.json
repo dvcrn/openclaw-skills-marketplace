@@ -1,0 +1,10 @@
+{
+  "name": "gwendall--domani",
+  "description": "Domains and emails for AI agents. Search, register, and manage domains. Create mailboxes, send and receive emails. Use when user asks to \"find a domain\", \"buy a domain\", \"register a domain\", \"check domain availability\", \"set up DNS\", \"connect to Vercel\", \"create a mailbox\", \"send an email\", \"check my inbox\", \"set up email for my domain\", \"transfer a domain\", \"renew my domain\", \"check WHOIS\", \"import a domain\", or \"manage DNS records\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "gwendall"
+  },
+  "homepage": "https://domani.run",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gwendall/domani"
+}

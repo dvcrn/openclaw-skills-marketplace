@@ -1,0 +1,10 @@
+{
+  "name": "ckchzh--skill-template",
+  "description": "OpenClaw Skill template generator. Create skill scaffolds, validate structure, enhance SKILL.md, generate command frameworks, tips, publish checklists, and example skills. Commands: create, validate, enhance, commands, tips, publish, examples. Use for skill development, AgentSkill authoring, skill creation.",
+  "version": "2.2.0",
+  "author": {
+    "name": "ckchzh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ckchzh/skill-template",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ckchzh/skill-template"
+}

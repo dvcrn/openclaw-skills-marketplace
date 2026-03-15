@@ -1,0 +1,10 @@
+{
+  "name": "tingwei1123--smart-image-loader",
+  "description": "Smart image loader that handles both URLs and local files, automatically downloads URLs to temporary locations, and displays images using the read tool. Use when a user wants to view or display an image, whether it's a web URL or a file in the workspace.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tingwei1123"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tingwei1123/smart-image-loader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tingwei1123/smart-image-loader"
+}

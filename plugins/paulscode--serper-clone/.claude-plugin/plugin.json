@@ -1,0 +1,10 @@
+{
+  "name": "paulscode--serper-clone",
+  "description": "Web search via a self-hosted Serper-compatible API (powered by SearXNG). Free, no rate limits, runs on your own infrastructure. Use for: web searches, news, images, videos, shopping, scholar, patents. Drop-in replacement for the Serper API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "paulscode"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/paulscode/serper-clone",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paulscode/serper-clone"
+}

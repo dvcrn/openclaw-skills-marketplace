@@ -1,0 +1,10 @@
+{
+  "name": "lovelcp--zhuaxia",
+  "description": "Export and import OpenClaw instances as portable .claw packages for backup, sharing, and migration. Use when: user wants to back up, share, migrate, or restore their OpenClaw setup. Triggers: 'export claw', 'save my setup', 'backup my instance', 'import claw', 'load this claw', 'install this claw package', 'migrate openclaw', 'rollback', 'undo import'.",
+  "version": "0.4.0",
+  "author": {
+    "name": "lovelcp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lovelcp/zhuaxia",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lovelcp/zhuaxia"
+}

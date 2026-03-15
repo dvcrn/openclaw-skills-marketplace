@@ -1,0 +1,10 @@
+{
+  "name": "elvismusli--moneyclaw",
+  "description": "Enable OpenClaw agents to make real online purchases with a prepaid wallet and virtual card, retrieve OTP/3DS codes, and verify payment outcomes with user-controlled autonomy.",
+  "version": "5.2.0",
+  "author": {
+    "name": "elvismusli"
+  },
+  "homepage": "https://moneyclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/elvismusli/moneyclaw"
+}

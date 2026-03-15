@@ -1,0 +1,10 @@
+{
+  "name": "peti0402--auto-watchdog",
+  "description": "Automatic health monitoring and self-healing for OpenClaw agents. Monitors cron jobs, processes, disk usage, and API health. Auto-restarts crashed services and alerts on issues. Set it and forget it.",
+  "version": "1.0.0",
+  "author": {
+    "name": "peti0402"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/peti0402/auto-watchdog",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/peti0402/auto-watchdog"
+}

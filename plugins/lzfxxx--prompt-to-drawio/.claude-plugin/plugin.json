@@ -1,0 +1,10 @@
+{
+  "name": "lzfxxx--prompt-to-drawio",
+  "description": "Generate and edit draw.io artifacts from natural-language prompts without a frontend. Use when the user asks for prompt-to-diagram workflows that need `.drawio` output, optional image export (`png`/`svg`/`pdf`/`jpg`), context ingestion (image/PDF/text/URL), shape-library lookup, or visual validation loops.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lzfxxx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lzfxxx/prompt-to-drawio",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lzfxxx/prompt-to-drawio"
+}

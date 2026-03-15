@@ -1,0 +1,10 @@
+{
+  "name": "jorgermp--gitlab-manager",
+  "description": "Manage GitLab repositories, merge requests, and issues via API. Use for tasks like creating repos, reviewing code in MRs, or tracking issues.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jorgermp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jorgermp/gitlab-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jorgermp/gitlab-manager"
+}

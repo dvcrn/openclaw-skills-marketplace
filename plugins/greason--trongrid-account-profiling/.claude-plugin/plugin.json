@@ -1,0 +1,10 @@
+{
+  "name": "greason--trongrid-account-profiling",
+  "description": "Analyze any TRON account's assets, token holdings, staking, voting, energy/bandwidth, and transaction patterns. Use when a user asks about a TRON address, wants to check wallet balance, analyze account activity, track whale wallets, or look up what an address holds. Covers TRX balance, TRC-20/TRC-10 tokens, resource usage, delegation, voting rewards, transaction history, and DeFi participation.",
+  "version": "1.0.1",
+  "author": {
+    "name": "greason"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/greason/trongrid-account-profiling",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/greason/trongrid-account-profiling"
+}

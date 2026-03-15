@@ -1,0 +1,10 @@
+{
+  "name": "guccidgi--notebooklm-skill",
+  "description": "Use this skill to query your Google NotebookLM notebooks directly from Claude Code for source-grounded, citation-backed answers from Gemini. Browser automation, library management, persistent auth. Drastically reduced hallucinations through document-only responses.",
+  "version": "0.1.0",
+  "author": {
+    "name": "guccidgi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guccidgi/notebooklm-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guccidgi/notebooklm-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "selzy-openclaw--selzy-api-skill",
+  "description": "Create and send email marketing campaigns via Selzy API. Manage contacts, segments, templates. Schedule campaigns, run A/B tests, and analyze performance (opens, clicks, bounces). Turn natural language requests into full email campaigns. **v2.1 — Fixed critical bug:** Campaigns now require explicit list_id verification. Without list_id, Selzy sends to 1 contact only. Always call getLists first.",
+  "version": "0.1.0",
+  "author": {
+    "name": "selzy-openclaw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/selzy-openclaw/selzy-api-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/selzy-openclaw/selzy-api-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "maorun--prompt-injection-guard",
+  "description": "Prompt injection defense. Detect and block malicious prompts, protect system instructions, sanitize user input.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maorun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maorun/prompt-injection-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maorun/prompt-injection-guard"
+}

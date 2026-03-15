@@ -1,0 +1,10 @@
+{
+  "name": "braibaud--memento",
+  "description": "Local persistent memory for OpenClaw agents. Captures conversations, extracts structured facts via LLM, and auto-recalls relevant knowledge before each turn. Privacy-first, all stored data stays local in SQLite.",
+  "version": "0.6.0",
+  "author": {
+    "name": "braibaud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/braibaud/memento",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/braibaud/memento"
+}

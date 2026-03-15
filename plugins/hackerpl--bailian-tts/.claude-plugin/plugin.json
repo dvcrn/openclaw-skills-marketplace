@@ -1,0 +1,10 @@
+{
+  "name": "hackerpl--bailian-tts",
+  "description": "Generate speech audio with 阿里云百炼 TTS via the `bailian-cli` npm package. Use when users ask to convert text to voice, choose voices/languages, batch-generate narration, or troubleshoot 百炼 TTS setup (npm install, API key, region, output format/path).",
+  "version": "1.0.0",
+  "author": {
+    "name": "hackerpl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hackerpl/bailian-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hackerpl/bailian-tts"
+}

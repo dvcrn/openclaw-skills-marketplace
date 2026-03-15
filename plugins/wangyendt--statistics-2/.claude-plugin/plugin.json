@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--statistics-2",
+  "description": "Comprehensive statistical testing library with 37+ methods for normality tests, location tests, correlation tests, time series tests, and model diagnostics. Use when performing hypothesis testing, A/B testing, data quality checks, time series analysis, or regression model validation. All methods return unified TestResult objects with consistent interface including p-value, statistic, confidence interval, and effect size.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/statistics-2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/statistics-2"
+}

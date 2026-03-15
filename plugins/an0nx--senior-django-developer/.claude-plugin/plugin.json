@@ -1,0 +1,10 @@
+{
+  "name": "an0nx--senior-django-developer",
+  "description": "Expert Senior Django Architect specializing in high-performance, containerized, async-capable architectures. Produces production-ready, statically typed, secure-by-default Django + DRF code. Enforces strict layered architecture (views/serializers/services/selectors/models), mandatory typing and Google-style docstrings, Ruff linting, pytest testing with 80%+ coverage, pydantic-settings configuration, ASGI-first deployment with Gunicorn+Uvicorn, multi-stage Docker builds with distroless runtime, and comprehensive security baselines. All code must be complete with zero placeholders.",
+  "version": "1.0.0",
+  "author": {
+    "name": "an0nx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/an0nx/senior-django-developer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/an0nx/senior-django-developer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "gitgoodordietrying--container-debug",
+  "description": "Debug running Docker containers and Compose services. Use when inspecting container logs, exec-ing into running containers, diagnosing networking issues, checking resource usage, debugging multi-stage builds, troubleshooting health checks, or fixing Compose service dependencies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gitgoodordietrying"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/container-debug",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/container-debug"
+}

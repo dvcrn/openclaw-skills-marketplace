@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-mainline-health-audit",
+  "description": "Audit GitHub Actions mainline branch reliability by scoring failure rate, consecutive failures, and stale-success risk for critical workflows.",
+  "version": "1.4.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-mainline-health-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-mainline-health-audit"
+}

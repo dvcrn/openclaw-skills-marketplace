@@ -1,0 +1,10 @@
+{
+  "name": "icetroll--openclaw-paid-actions",
+  "description": "Use the openclaw_paid_action tool to list actions, generate USDC invoices, and execute only after manual payment confirmation on Solana.",
+  "version": "0.2.2",
+  "author": {
+    "name": "icetroll"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/icetroll/openclaw-paid-actions",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/icetroll/openclaw-paid-actions"
+}

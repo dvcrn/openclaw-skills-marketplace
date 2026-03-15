@@ -1,0 +1,10 @@
+{
+  "name": "osobh--edgehdf5-memory",
+  "description": "HDF5-backed persistent cognitive memory for AI agents. Use when: (1) saving conversation exchanges to long-term memory, (2) searching/recalling past conversations by semantic similarity, (3) managing agent memory files — stats, export, snapshot, WAL flush, (4) generating AGENTS.md summaries from memory. Requires the `edgehdf5` CLI binary (install via `cargo install edgehdf5-cli`).",
+  "version": "1.93.0",
+  "author": {
+    "name": "osobh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/osobh/edgehdf5-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/osobh/edgehdf5-memory"
+}

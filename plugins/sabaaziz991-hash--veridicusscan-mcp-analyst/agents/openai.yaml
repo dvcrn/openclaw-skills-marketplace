@@ -1,0 +1,7 @@
+interface:
+  display_name: "VeridicusScan MCP Analyst"
+  short_description: "Scan prompt-injection risks with VeridicusScan MCP"
+  default_prompt: "Use $veridicusscan-mcp-analyst to scan a URL, file, or text for prompt-injection and hidden-instruction risks with VeridicusScan MCP."
+
+policy:
+  allow_implicit_invocation: false

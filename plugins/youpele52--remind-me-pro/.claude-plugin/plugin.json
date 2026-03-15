@@ -1,0 +1,10 @@
+{
+  "name": "youpele52--remind-me-pro",
+  "description": "Create, list, and cancel reminders and cron jobs scoped to the channel they were requested from. Use when: user says 'remind me', 'set an alarm', 'schedule a cron', 'alert me when', 'every day at X do Y', 'cancel my reminder', 'list my reminders'. Auto-detects source channel and delivers back to it. Asks for clarification if schedule or intent is ambiguous before creating anything.",
+  "version": "0.1.0",
+  "author": {
+    "name": "youpele52"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/youpele52/remind-me-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/youpele52/remind-me-pro"
+}

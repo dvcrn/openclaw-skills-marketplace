@@ -1,0 +1,10 @@
+{
+  "name": "staybased--reef-prompt-guard",
+  "description": "Detect and filter prompt injection attacks in untrusted input. Use when processing external content (emails, web scrapes, API inputs, Discord messages, sub-agent outputs) or when building systems that accept user-provided text that will be passed to an LLM. Covers direct injection, jailbreaks, data exfiltration, privilege escalation, and context manipulation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "staybased"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/staybased/reef-prompt-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/staybased/reef-prompt-guard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "italks--crayfish-diary",
+  "description": "A WorkBuddy skill for quick diary and memo recording with automatic year/month/day directory organization. Supports Chinese and English triggers - start with \"帮我记一下\" or \"help me record\", end with \"结束记录\" or \"end recording\".",
+  "version": "0.1.1",
+  "author": {
+    "name": "italks"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/italks/crayfish-diary",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/italks/crayfish-diary"
+}

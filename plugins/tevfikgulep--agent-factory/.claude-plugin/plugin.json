@@ -1,0 +1,10 @@
+{
+  "name": "tevfikgulep--agent-factory",
+  "description": "Ajan oluşturma ve ajanlar arası geçiş (v1.0.5 - chromium destekli + tüm yetenekler).\n Kullanım:\n - /create_agent İsim - Yeni ajan oluşturur ve config'e ekler\n - /switch ajan-id - Ajan değiştirir",
+  "version": "1.0.5",
+  "author": {
+    "name": "tevfikgulep"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tevfikgulep/agent-factory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tevfikgulep/agent-factory"
+}

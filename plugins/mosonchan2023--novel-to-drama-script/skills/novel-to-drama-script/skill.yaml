@@ -1,0 +1,48 @@
+---
+name: novel-to-drama-script
+version: 1.0.0
+description: AI智能将小说/故事创意转化为短剧剧本。自动生成角色、分镜、对白、场景描述。基于Toonflow核心功能(3.8K Stars)。每次调用收取0.001 USDT。
+category: AI
+tags:
+  - novel
+  - drama
+  - script
+  - screenplay
+  - story
+  - writing
+  - AI
+  - content
+  - 小说
+  - 剧本
+  - 短剧
+  - 创作
+  - 编剧
+  - AI写作
+  - 小说转剧本
+  - 故事生成
+  - 对白生成
+  - 分镜脚本
+author: moson
+price: 0.001
+currency: USDT
+triggers:
+  - "小说转剧本"
+  - "生成剧本"
+  - "short drama script"
+  - "novel to script"
+  - "AI script writer"
+  - "剧情生成"
+  - "编剧助手"
+  - "故事创作"
+  - "对白生成"
+  - "分镜脚本"
+  - "短剧创作"
+  - "write script"
+  - "screenplay"
+  - "script generation"
+  - "AI writing"
+config:
+  SKILLPAY_API_KEY:
+    type: string
+    required: true
+    secret: true

@@ -1,0 +1,10 @@
+{
+  "name": "zero2ai-hub--skill-agent-broadcast",
+  "description": "Broadcast a message to multiple OpenClaw group sessions simultaneously. Use for cross-agent coordination, alerts, and announcements.",
+  "version": "1.0.1",
+  "author": {
+    "name": "zero2ai-hub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zero2ai-hub/skill-agent-broadcast",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zero2ai-hub/skill-agent-broadcast"
+}

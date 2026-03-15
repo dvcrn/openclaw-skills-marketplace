@@ -1,0 +1,10 @@
+{
+  "name": "franvinas--edgeos-applications",
+  "description": "Apply to an EdgeOS popup city through OpenClaw (v1 fixed PROD backend). Use when users ask to apply to a popup city (for example Edge Esmeralda), submit an application, check application status, select products after approval, or generate/check payment links. Covers OTP login, popup discovery, application submission, approval-aware product selection, payment preview/create, and payment status checks.",
+  "version": "1.0.1",
+  "author": {
+    "name": "franvinas"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/franvinas/edgeos-applications",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/franvinas/edgeos-applications"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mizukaizen--astro-transits",
+  "description": "Astrological transit calculator with natal chart support. Daily transits, weekly forecasts, void-of-course Moon, aspects, stations, and ingresses. Uses Swiss Ephemeris.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mizukaizen"
+  },
+  "homepage": "https://github.com/mizukaizen/openclaw-skills-public",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mizukaizen/astro-transits"
+}

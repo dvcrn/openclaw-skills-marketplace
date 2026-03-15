@@ -1,0 +1,10 @@
+{
+  "name": "amascia-gg--ggshield-scanner",
+  "description": "Detect 500+ types of hardcoded secrets (API keys, credentials, tokens) before they leak into git. Wraps GitGuardian's ggshield CLI.",
+  "version": "1.0.2",
+  "author": {
+    "name": "amascia-gg"
+  },
+  "homepage": "https://github.com/GitGuardian/ggshield-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/amascia-gg/ggshield-scanner"
+}

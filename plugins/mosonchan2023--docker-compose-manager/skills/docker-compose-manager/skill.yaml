@@ -1,0 +1,12 @@
+name: docker-compose-manager
+version: 1.0.0
+description: Manage docker-compose services
+category: Docker
+tags:
+  - docker
+  - compose
+  - orchestration
+  - microservices
+author: mosonchan2023
+price: 0.001
+currency: USDT

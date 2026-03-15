@@ -1,0 +1,10 @@
+{
+  "name": "andreasnordenadler--cubistic-bot-runner",
+  "description": "Run a polite Cubistic painter bot (public participation) using the Cubistic HTTP API (PoW challenge + /act). Includes a runnable Node script for “paint once” and “paint loop”.",
+  "version": "0.1.0",
+  "author": {
+    "name": "andreasnordenadler"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andreasnordenadler/cubistic-bot-runner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andreasnordenadler/cubistic-bot-runner"
+}

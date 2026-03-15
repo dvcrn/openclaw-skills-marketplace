@@ -1,0 +1,10 @@
+{
+  "name": "hexiaochun--sora-2",
+  "description": "使用 Sora 2 模型生成视频。当用户想要文生视频、图生视频、视频重混，或提到 sora、OpenAI 视频生成时使用此 skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "hexiaochun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/sora-2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/sora-2"
+}

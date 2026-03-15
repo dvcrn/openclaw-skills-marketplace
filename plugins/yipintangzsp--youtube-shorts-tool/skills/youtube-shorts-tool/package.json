@@ -1,0 +1,1 @@
+{"name":"youtube-shorts-tool","version":"1.0.0","description":"YouTube Shorts 工具 - 生成爆款脚本和标题","main":"index.js","bin":{"youtube-shorts-tool":"./index.js"},"dependencies":{"node-fetch":"^2.7.0"}}

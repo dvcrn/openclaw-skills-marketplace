@@ -1,0 +1,10 @@
+{
+  "name": "kit-the-fox--agentsmint",
+  "description": "Create and manage NFT collections on Base blockchain. Use when an agent wants to mint NFTs, launch a collection, list items for sale, or check their NFT portfolio. Handles contract deployment, lazy minting, and edition tracking. Platform pays deployment gas.",
+  "version": "1.0.1",
+  "author": {
+    "name": "kit-the-fox"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kit-the-fox/agentsmint",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kit-the-fox/agentsmint"
+}

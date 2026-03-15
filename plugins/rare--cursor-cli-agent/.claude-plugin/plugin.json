@@ -1,0 +1,10 @@
+{
+  "name": "rare--cursor-cli-agent",
+  "description": "Delegate coding tasks to Cursor Agent CLI. Use when: (1) building/creating new features or apps, (2) reviewing PRs (spawn in temp dir), (3) refactoring large codebases, (4) iterative coding that needs file exploration. NOT for: simple one-liner fixes (just edit), reading code (use read tool), thread-bound ACP harness requests in chat (use sessions_spawn with runtime:\"acp\"), or any work in ~/clawd workspace (never spawn agents here). Requires a bash tool that supports pty:true.",
+  "version": "1.1.0",
+  "author": {
+    "name": "rare"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rare/cursor-cli-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rare/cursor-cli-agent"
+}

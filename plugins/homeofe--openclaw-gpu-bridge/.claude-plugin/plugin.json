@@ -1,0 +1,10 @@
+{
+  "name": "homeofe--openclaw-gpu-bridge",
+  "description": "Offload GPU-intensive ML tasks (BERTScore, embeddings) to one or multiple remote GPU machines",
+  "version": "0.2.1",
+  "author": {
+    "name": "homeofe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/homeofe/openclaw-gpu-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/homeofe/openclaw-gpu-bridge"
+}

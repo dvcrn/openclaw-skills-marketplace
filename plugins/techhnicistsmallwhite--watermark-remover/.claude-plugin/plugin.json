@@ -1,0 +1,10 @@
+{
+  "name": "techhnicistsmallwhite--watermark-remover",
+  "description": "去除 PDF 文件中的水印。使用场景：用户请求去除 PDF 文件的水印时触发。支持单个或多个文件批量处理。严格遵循确认流程：环境检查→库安装确认→水印检测→去除确认。",
+  "version": "1.0.0",
+  "author": {
+    "name": "techhnicistsmallwhite"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/techhnicistsmallwhite/watermark-remover",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/techhnicistsmallwhite/watermark-remover"
+}

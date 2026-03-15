@@ -1,0 +1,10 @@
+{
+  "name": "rjmcgirr-pl--salesforce-dx",
+  "description": "Query Salesforce data and manage sales pipelines using the `sf` CLI. Use for SOQL queries (simple to complex), opportunity pipeline analysis, forecast reporting, data exports, schema exploration, and CRM data operations. Also use for executive workflows like looking up deals by name, finding contact info to email prospects, preparing pipeline reviews, and cross-referencing CRM data with other tools. Triggers on Salesforce, SOQL, pipeline, opportunity, forecast, CRM data, deal lookup, prospect email, account info, or sf CLI questions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rjmcgirr-pl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rjmcgirr-pl/salesforce-dx",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rjmcgirr-pl/salesforce-dx"
+}

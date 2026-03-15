@@ -1,0 +1,10 @@
+{
+  "name": "manyfestation--kaspa",
+  "description": "Simple wallet for Kaspa blockchain. Send KAS, check balances, generate payment URIs. Self-custody CLI wallet with JSON output for automation.",
+  "version": "1.0.11",
+  "author": {
+    "name": "manyfestation"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/manyfestation/kaspa",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/manyfestation/kaspa"
+}

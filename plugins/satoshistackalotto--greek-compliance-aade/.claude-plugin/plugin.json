@@ -1,0 +1,10 @@
+{
+  "name": "satoshistackalotto--greek-compliance-aade",
+  "description": "Greek tax compliance with AADE/TAXIS integration — VAT, payroll, EFKA, municipal taxes, stamp duty. Human confirmation for all submissions.",
+  "version": "0.1.2",
+  "author": {
+    "name": "satoshistackalotto"
+  },
+  "homepage": "https://github.com/satoshistackalotto/openclaw-greek-accounting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-compliance-aade"
+}

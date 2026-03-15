@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--tools-2",
+  "description": "VIO (Visual Inertial Odometry) data processing utilities for SE(3) pose conversion and 3D visualization. Use when working with SE(3) matrices and need pose representation conversion (tx,ty,tz,qw,qx,qy,qz), 3D visualization of pose trajectories with orientation arrows, or Visual Inertial Odometry data transformation and analysis",
+  "version": "0.1.2",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/tools-2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/tools-2"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "haru3613--perplexity-safe",
+  "description": "Use Perplexity API for web-grounded AI search. Use when user needs up-to-date information with source citations, factual queries about current events, or research-style answers. Default when user mentions Perplexity or needs current information with references.",
+  "version": "1.0.1",
+  "author": {
+    "name": "haru3613"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/haru3613/perplexity-safe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/haru3613/perplexity-safe"
+}

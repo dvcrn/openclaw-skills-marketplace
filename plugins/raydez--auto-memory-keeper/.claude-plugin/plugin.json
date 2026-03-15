@@ -1,0 +1,10 @@
+{
+  "name": "raydez--auto-memory-keeper",
+  "description": "Auto-capture hourly session highlights and update daily memory files. Keeps long-term memory continuous without manual recording. Triggered by cron or manual \"remember this\".",
+  "version": "1.0.2",
+  "author": {
+    "name": "raydez"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/raydez/auto-memory-keeper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/raydez/auto-memory-keeper"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bamboo9805--sql-to-bi-builder",
+  "description": "Convert a markdown file containing SQL queries (for example `sql.md`) into a BI dashboard specification and UI scaffold. Use when user asks to build analytics dashboards, chart pages, or BI interfaces from existing SQL statements, including query parsing, metric/dimension inference, chart recommendation, filter design, and layout generation.",
+  "version": "1.2.0",
+  "author": {
+    "name": "bamboo9805"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bamboo9805/sql-to-bi-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bamboo9805/sql-to-bi-builder"
+}

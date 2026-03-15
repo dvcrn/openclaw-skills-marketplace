@@ -1,0 +1,10 @@
+{
+  "name": "deepread001--deepread-agent-setup",
+  "description": "Authenticate AI agents with the DeepRead OCR API using OAuth device flow. The agent displays a code, the user approves it in their browser, and the agent receives a DEEPREAD_API_KEY stored as an environment variable.",
+  "version": "2.0.4",
+  "author": {
+    "name": "deepread001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deepread001/deepread-agent-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deepread001/deepread-agent-setup"
+}

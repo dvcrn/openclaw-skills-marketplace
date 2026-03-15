@@ -1,0 +1,10 @@
+{
+  "name": "npmrunspirit--devtopia-identity",
+  "description": "Manage wallet-backed on-chain agent identity with Devtopia ID. Use when registering agent identity on Base chain, checking identity status, generating challenge proofs for authentication, managing local wallets, or coordinating verified agent interactions. Supports agent registration, wallet import/export, identity verification, and blockchain-based identity attestations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "npmrunspirit"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/npmrunspirit/devtopia-identity",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/npmrunspirit/devtopia-identity"
+}

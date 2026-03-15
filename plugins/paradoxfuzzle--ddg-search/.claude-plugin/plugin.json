@@ -1,0 +1,10 @@
+{
+  "name": "paradoxfuzzle--ddg-search",
+  "description": "Perform web searches using DuckDuckGo. Use when web search is needed and no API key is available or Brave Search is not preferred.",
+  "version": "1.0.0",
+  "author": {
+    "name": "paradoxfuzzle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/paradoxfuzzle/ddg-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paradoxfuzzle/ddg-search"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "makkoncept--browser-bookmarks-cleanup",
+  "description": "Analyze, organize, and clean browser bookmarks on macOS using on-disk bookmark and history files. Detects duplicates, stale bookmarks, tracking parameters, and folder issues. All writes are opt-in with backup and rollback.",
+  "version": "1.0.0",
+  "author": {
+    "name": "makkoncept"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/makkoncept/browser-bookmarks-cleanup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/makkoncept/browser-bookmarks-cleanup"
+}

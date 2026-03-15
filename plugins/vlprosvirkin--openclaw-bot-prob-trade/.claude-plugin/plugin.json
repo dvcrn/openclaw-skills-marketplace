@@ -1,0 +1,10 @@
+{
+  "name": "vlprosvirkin--openclaw-bot-prob-trade",
+  "description": "Autonomous trading bot for Polymarket via prob.trade. Run strategies, manage risk, scan markets. Requires the probtrade skill for API access.",
+  "version": "1.0.1",
+  "author": {
+    "name": "vlprosvirkin"
+  },
+  "homepage": "https://github.com/vlprosvirkin/openclaw-bot-prob-trade",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vlprosvirkin/openclaw-bot-prob-trade"
+}

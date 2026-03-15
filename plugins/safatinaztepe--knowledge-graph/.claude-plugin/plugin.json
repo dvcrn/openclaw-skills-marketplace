@@ -1,0 +1,10 @@
+{
+  "name": "safatinaztepe--knowledge-graph",
+  "description": "Maintain Clawdbot's compounding knowledge graph under life/areas/** by adding/superseding atomic facts (items.json), regenerating entity summaries (summary.md), and keeping IDs consistent. Use when you need deterministic updates to the knowledge graph rather than manual JSON edits.",
+  "version": "1.0.0",
+  "author": {
+    "name": "safatinaztepe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/safatinaztepe/knowledge-graph",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/safatinaztepe/knowledge-graph"
+}

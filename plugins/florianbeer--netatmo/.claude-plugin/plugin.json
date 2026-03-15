@@ -1,0 +1,10 @@
+{
+  "name": "florianbeer--netatmo",
+  "description": "Control Netatmo thermostat and read weather station data. Use for heating control (set temperature, change mode), checking indoor/outdoor temperatures, CO₂ levels, humidity, noise, and pressure readings.",
+  "version": "1.0.1",
+  "author": {
+    "name": "florianbeer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/florianbeer/netatmo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/florianbeer/netatmo"
+}

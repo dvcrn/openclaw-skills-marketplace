@@ -1,0 +1,10 @@
+{
+  "name": "jacqueskang--ms-foundry-image-gen",
+  "description": "Azure Foundry image generation skill for OpenClaw; generates images via a Foundry deployment and returns image bytes or URLs.",
+  "version": "1.0.6",
+  "author": {
+    "name": "jacqueskang"
+  },
+  "homepage": "https://github.com/jacqueskang/openclaw-skill-azure-image-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jacqueskang/ms-foundry-image-gen"
+}

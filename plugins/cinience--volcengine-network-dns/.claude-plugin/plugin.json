@@ -1,0 +1,10 @@
+{
+  "name": "cinience--volcengine-network-dns",
+  "description": "DNS record management on Volcengine networking services. Use when users need zone record query/update, traffic routing changes, or DNS propagation troubleshooting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/volcengine-network-dns",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/volcengine-network-dns"
+}

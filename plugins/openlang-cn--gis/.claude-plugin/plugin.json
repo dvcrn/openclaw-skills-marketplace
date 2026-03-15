@@ -1,0 +1,10 @@
+{
+  "name": "openlang-cn--gis",
+  "description": "Helps with GIS concepts, spatial data formats, projections, and spatial analysis. Use when the user works with shapefiles, GeoJSON, coordinate reference systems, spatial indexes, or needs to design spatial queries and analysis workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "openlang-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/gis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/gis"
+}

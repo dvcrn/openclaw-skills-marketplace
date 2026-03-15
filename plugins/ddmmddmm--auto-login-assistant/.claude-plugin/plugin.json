@@ -1,0 +1,10 @@
+{
+  "name": "ddmmddmm--auto-login-assistant",
+  "description": "Help the agent recover from login walls on websites by detecting sign-in states, collecting user-approved credentials, filling common login forms, and handling verification codes safely. Use when browsing is blocked by authentication and the user wants guided sign-in rather than manual step-by-step help.",
+  "version": "0.1.0",
+  "author": {
+    "name": "ddmmddmm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ddmmddmm/auto-login-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ddmmddmm/auto-login-assistant"
+}

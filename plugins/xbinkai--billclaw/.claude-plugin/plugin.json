@@ -1,0 +1,10 @@
+{
+  "name": "xbinkai--billclaw",
+  "description": "This skill should be used when managing financial data, syncing bank transactions via Plaid/GoCardless, fetching bills from Gmail, or exporting to Beancount/Ledger formats. Provides local-first data sovereignty for OpenClaw users.",
+  "version": "0.5.5",
+  "author": {
+    "name": "xbinkai"
+  },
+  "homepage": "https://github.com/fire-la/billclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xbinkai/billclaw"
+}

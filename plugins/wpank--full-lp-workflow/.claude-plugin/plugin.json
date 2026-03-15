@@ -1,0 +1,10 @@
+{
+  "name": "wpank--full-lp-workflow",
+  "description": "Full LP workflow from opportunity scanning to position entry. Autonomously finds the best LP opportunity, designs a strategy, assesses risk, executes any needed swaps, enters the position, and reports portfolio impact. Use when user has capital and wants end-to-end LP management. Most complex multi-agent orchestration in the system.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/full-lp-workflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/full-lp-workflow"
+}

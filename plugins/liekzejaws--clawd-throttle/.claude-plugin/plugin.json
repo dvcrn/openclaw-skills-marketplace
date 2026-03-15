@@ -1,0 +1,10 @@
+{
+  "name": "liekzejaws--clawd-throttle",
+  "description": "Routes LLM requests to the cheapest capable model across 8 providers (Anthropic, Google, OpenAI, DeepSeek, xAI, Moonshot, Mistral, Ollama) and 25+ models. Scores prompts on 8 dimensions in under 1ms, supports three routing modes (eco, standard, gigachad), and logs all decisions for cost tracking.",
+  "version": "2.0.0",
+  "author": {
+    "name": "liekzejaws"
+  },
+  "homepage": "https://github.com/liekzejaws/clawd-throttle",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/liekzejaws/clawd-throttle"
+}

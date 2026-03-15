@@ -1,0 +1,10 @@
+{
+  "name": "jeadland--ask-council",
+  "description": "Ask LLM Council a question directly from Telegram/chat — get the chairman's synthesized\n answer without opening the web UI. Quick, headless access to multi-model consensus.",
+  "version": "1.0.4",
+  "author": {
+    "name": "jeadland"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jeadland/ask-council",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeadland/ask-council"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "clinicode--uk-prayer-times",
+  "description": "Get instant, accurate Islamic prayer times for any UK location. Auto-detects your city or accepts any UK location name (cities, towns, boroughs). Handles typos with smart fuzzy search. Shows Fajr, Sunrise, Dhuhr, Asr, Maghrib, and Isha times in 12-hour format. Uses ISNA calculation method (UK standard) via Aladhan API. Perfect for UK Muslims checking daily salah times.",
+  "version": "1.4.4",
+  "author": {
+    "name": "clinicode"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clinicode/uk-prayer-times",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clinicode/uk-prayer-times"
+}

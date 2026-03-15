@@ -1,0 +1,10 @@
+{
+  "name": "pauldelavallaz--ai-brand-analyzer",
+  "description": "Analyze brands to generate comprehensive brand identity profiles (JSON). Use when the user wants to analyze a brand, create a brand profile, or needs brand data for ad generation. Stores profiles for reuse across Ad-Ready, Morpheus, and other creative workflows. Can list existing profiles and update them.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pauldelavallaz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/ai-brand-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/ai-brand-analyzer"
+}

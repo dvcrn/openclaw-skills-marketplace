@@ -1,0 +1,10 @@
+{
+  "name": "xiyunnet--ace-banana2",
+  "description": "Generate and edit images using the AceData Nano Banana API. Supports models like nano-banana-2, custom aspect ratios (default 16:9), and resolutions (default 2K). Handles batch generation and image-to-image (edit) tasks with local files. Use when the user wants to generate or edit high-quality images via Nano Banana.",
+  "version": "1.0.4",
+  "author": {
+    "name": "xiyunnet"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiyunnet/ace-banana2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiyunnet/ace-banana2"
+}

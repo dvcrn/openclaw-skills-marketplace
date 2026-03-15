@@ -1,0 +1,10 @@
+{
+  "name": "one0x393--ticktick-calendar",
+  "description": "TickTick task/project integration toolkit for OAuth2 authorization, token refresh, and typed task/project operations. Use when users need to authenticate with TickTick, run task/project CRUD workflows, or operate the OpenClaw/Codex wrapper via token.json.",
+  "version": "0.1.2",
+  "author": {
+    "name": "one0x393"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/one0x393/ticktick-calendar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/one0x393/ticktick-calendar"
+}

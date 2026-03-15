@@ -1,0 +1,10 @@
+{
+  "name": "roasbeef--lightning-mcp-server",
+  "description": "Build and configure the MCP server for Lightning Node Connect (LNC). Connects AI assistants to lnd nodes via encrypted WebSocket tunnels using pairing phrases — no direct network access or TLS certs needed. Read-only by default (18 tools for querying node state, channels, payments, invoices, peers, on-chain data).",
+  "version": "1.0.0",
+  "author": {
+    "name": "roasbeef"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/roasbeef/lightning-mcp-server",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/roasbeef/lightning-mcp-server"
+}

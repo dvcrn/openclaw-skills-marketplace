@@ -1,0 +1,10 @@
+{
+  "name": "vossenwout--macos-audio",
+  "description": "Manage macOS audio output and Bluetooth devices via the macos-audio CLI. Use when scanning paired devices, connecting or disconnecting Bluetooth, switching audio output (including AirPlay), getting or setting volume, playing audio files, or checking audio status.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vossenwout"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vossenwout/macos-audio",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vossenwout/macos-audio"
+}

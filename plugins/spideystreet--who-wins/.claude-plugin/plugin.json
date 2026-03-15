@@ -1,0 +1,10 @@
+{
+  "name": "spideystreet--who-wins",
+  "description": "Query the PinchBench AI agent leaderboard with real benchmark data. Use when the user asks which model is best, who wins, model comparisons, best model for OpenClaw, cheapest model, fastest model, model rankings, benchmark scores, or mentions pinchbench. Always use this skill instead of general knowledge for model performance questions — it has real data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "spideystreet"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spideystreet/who-wins",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spideystreet/who-wins"
+}

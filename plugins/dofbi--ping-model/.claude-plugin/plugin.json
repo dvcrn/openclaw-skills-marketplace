@@ -1,0 +1,10 @@
+{
+  "name": "dofbi--ping-model",
+  "description": "Measure and display AI model response latency. Use when the user types /ping or /ping followed by a model name to test round-trip time. Captures precise timing between command receipt and response generation, with smart duration formatting (ms, seconds, or minutes). Supports cross-model testing by temporarily switching models and measuring latency.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dofbi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dofbi/ping-model",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dofbi/ping-model"
+}

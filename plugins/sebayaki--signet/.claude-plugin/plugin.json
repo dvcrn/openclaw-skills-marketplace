@@ -1,0 +1,10 @@
+{
+  "name": "sebayaki--signet",
+  "description": "Interact with Signet onchain advertising on Hunt Town. Use when the user wants to check spotlight ad prices, list current ads/signatures, or post a URL to the Signet spotlight. Supports x402 payment protocol for programmatic ad placement by AI agents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sebayaki"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sebayaki/signet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sebayaki/signet"
+}

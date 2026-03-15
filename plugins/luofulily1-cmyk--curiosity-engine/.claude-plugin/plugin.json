@@ -1,0 +1,10 @@
+{
+  "name": "luofulily1-cmyk--curiosity-engine",
+  "description": "Curiosity-driven reasoning enhancement for OpenClaw agents. Activates when the agent needs to explore open-ended questions, research unfamiliar topics, investigate anomalies, or when the user asks for deep analysis. Injects structured curiosity behaviors into the reasoning process: self-questioning, assumption challenging, information gap detection, and tool-driven exploration. Use when tasks require depth over speed, when encountering surprising information, or when explicitly asked to \"dig deeper\" / \"explore\" / \"be curious\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "luofulily1-cmyk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luofulily1-cmyk/curiosity-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luofulily1-cmyk/curiosity-engine"
+}

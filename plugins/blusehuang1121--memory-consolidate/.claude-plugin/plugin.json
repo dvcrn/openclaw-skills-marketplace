@@ -1,0 +1,10 @@
+{
+  "name": "blusehuang1121--memory-consolidate",
+  "description": "Persistent memory system for OpenClaw agents: reads session logs, extracts facts/decisions/solutions, manages temperature-based lifecycle, and generates MEMORY_SNAPSHOT.md injected into every session. ALWAYS use this skill when the user mentions: memory consolidation, 记忆整理, agent memory, MEMORY_SNAPSHOT, memory health, SNR, signal noise ratio, semantic pipeline, memory cron, session log extraction, facts not being saved, memory stale or missing, 内存优化, optimize agent memory, install memory, memory not working, memory consolidate 报错, cron 怎么配 (when related to memory), 每天自动整理记忆, or any question about why the agent forgets things between sessions. Also activate when user says memory is stale, missing, or broken.",
+  "version": "1.0.0",
+  "author": {
+    "name": "blusehuang1121"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/blusehuang1121/memory-consolidate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/blusehuang1121/memory-consolidate"
+}

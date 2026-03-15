@@ -1,0 +1,10 @@
+{
+  "name": "tkuehnl--context-engineer",
+  "description": "Context window optimizer — analyze, audit, and optimize your agent's context utilization. Know exactly where your tokens go before they're sent.",
+  "version": "1.0.2",
+  "author": {
+    "name": "tkuehnl"
+  },
+  "homepage": "https://github.com/cacheforge-ai/cacheforge-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tkuehnl/context-engineer"
+}

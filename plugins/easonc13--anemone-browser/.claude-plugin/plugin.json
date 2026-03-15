@@ -1,0 +1,10 @@
+{
+  "name": "easonc13--anemone-browser",
+  "description": "Managed headful Chrome browser for OpenClaw agents with anti-bot-detection, human-in-the-loop VNC takeover, and multi-session window isolation. Use when: (1) setting up browser automation on a new machine (Mac/Linux/Docker), (2) browser gets blocked by Google, Cloudflare, or CAPTCHAs, (3) need human to intervene via VNC (login, CAPTCHA solving), (4) multiple agent sessions need independent browser windows without conflicts, (5) configuring OpenClaw's browser tool for headful Chrome. Triggers: \"set up browser\", \"browser blocked\", \"CAPTCHA\", \"VNC\", \"Google Scholar blocked\", \"headless detected\", \"anti-detection\", \"browser setup\", \"Chrome for agent\".",
+  "version": "1.1.0",
+  "author": {
+    "name": "easonc13"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/easonc13/anemone-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/easonc13/anemone-browser"
+}

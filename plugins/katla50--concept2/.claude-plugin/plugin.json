@@ -1,0 +1,10 @@
+{
+  "name": "katla50--concept2",
+  "description": "Fetch and analyze Concept2 Logbook workout data via API with pulse zone analysis and trend tracking. Use when the user wants to retrieve rowing/skiing/biking workouts, analyze heart rate zones, track training trends over time, get workout summaries with performance insights, or evaluate training effectiveness. Features include pulse zone distribution (5-zone model), weekly trend analysis, pace consistency evaluation, improvement tracking, and personalized training recommendations. Requires Concept2 API access token.",
+  "version": "1.0.0",
+  "author": {
+    "name": "katla50"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/katla50/concept2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/katla50/concept2"
+}

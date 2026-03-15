@@ -1,0 +1,10 @@
+{
+  "name": "andredalmeida--justcalendar",
+  "description": "Use this skill when a user needs to install, authenticate, or operate the Just Calendar CLI against https://justcalendar.ai, including generating an agent token in the web UI and performing calendar/day-data management from terminal commands.",
+  "version": "1.0.2",
+  "author": {
+    "name": "andredalmeida"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andredalmeida/justcalendar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andredalmeida/justcalendar"
+}

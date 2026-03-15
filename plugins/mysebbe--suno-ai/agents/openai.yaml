@@ -1,0 +1,7 @@
+interface:
+  display_name: "Suno AI"
+  short_description: "Generate Suno songs and check credits"
+  default_prompt: "Use $suno-ai to generate a Suno song or check the current Suno credits."
+
+policy:
+  allow_implicit_invocation: true

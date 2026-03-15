@@ -1,0 +1,10 @@
+{
+  "name": "jimmieting--clawhub-auto-update",
+  "description": "自动检查并更新ClawHub已安装技能。有更新时通知用户，支持手动和定时运行。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jimmieting"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jimmieting/clawhub-auto-update",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jimmieting/clawhub-auto-update"
+}

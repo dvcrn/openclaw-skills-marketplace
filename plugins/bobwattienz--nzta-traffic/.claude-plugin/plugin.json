@@ -1,0 +1,10 @@
+{
+  "name": "bobwattienz--nzta-traffic",
+  "description": "Query real-time NZ state highway traffic conditions from the Waka Kotahi NZTA Traffic and Travel API. Use when checking road events, incidents, closures, roadworks, traffic cameras, or travel conditions on New Zealand highways. Covers all 14 NZ regions (Northland to Southland). No API key required. Use for queries like \"how's the traffic\", \"any road closures\", \"check SH1 conditions\", or \"traffic cameras near Wellington\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "bobwattienz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bobwattienz/nzta-traffic",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bobwattienz/nzta-traffic"
+}

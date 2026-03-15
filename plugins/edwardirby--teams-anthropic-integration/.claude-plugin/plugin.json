@@ -1,0 +1,10 @@
+{
+  "name": "edwardirby--teams-anthropic-integration",
+  "description": "Use @youdotcom-oss/teams-anthropic to add Anthropic Claude models (Opus, Sonnet, Haiku) to Microsoft Teams.ai applications. Optionally integrate You.com MCP server for web search and content extraction.",
+  "version": "1.1.0",
+  "author": {
+    "name": "edwardirby"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/edwardirby/teams-anthropic-integration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/edwardirby/teams-anthropic-integration"
+}

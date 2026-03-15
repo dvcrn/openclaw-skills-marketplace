@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--healthclaw-mental",
+  "description": "Mental health expansion for HealthClaw -- therapy sessions, standardized assessments (PHQ-9, GAD-7, AUDIT), treatment goals, and group therapy with auto-scoring and trend comparison.",
+  "version": "2.1.0",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.healthclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/healthclaw-mental"
+}

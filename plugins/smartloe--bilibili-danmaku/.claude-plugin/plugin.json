@@ -1,0 +1,10 @@
+{
+  "name": "smartloe--bilibili-danmaku",
+  "description": "Fetch and analyze Bilibili video danmaku (bullet comments) from a Bilibili video URL/BVID, then output keyword frequency, SVG word cloud, sentiment distribution, and a public-opinion report. Use when the user asks to analyze B站弹幕, generate 词云图, run 情感分析, or produce 舆情分析 for one or more Bilibili videos.",
+  "version": "1.0.3",
+  "author": {
+    "name": "smartloe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/smartloe/bilibili-danmaku",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/smartloe/bilibili-danmaku"
+}

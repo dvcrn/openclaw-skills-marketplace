@@ -1,0 +1,10 @@
+{
+  "name": "stefan27-4--deeprecall",
+  "description": "Pure-Python recursive memory recall for persistent AI agents. Manager→workers→synthesis RLM loop — no Deno, no fast-rlm, just HTTP calls to any OpenAI-compatible LLM.",
+  "version": "1.0.8",
+  "author": {
+    "name": "stefan27-4"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stefan27-4/deeprecall",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stefan27-4/deeprecall"
+}

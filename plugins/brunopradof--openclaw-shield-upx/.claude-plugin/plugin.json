@@ -1,0 +1,10 @@
+{
+  "name": "brunopradof--openclaw-shield-upx",
+  "description": "Security monitoring and threat detection for OpenClaw agents — protect your agent with real-time SIEM, detect threats, monitor agent activity, and audit events. Use when: user asks about security status, Shield health, event logs, redaction vault, setting up agent protection, enabling SIEM, detecting threats, monitoring agent activity, or auditing agent actions. NOT for: general OS hardening, firewall config, or network security unrelated to OpenClaw agents.",
+  "version": "1.3.1",
+  "author": {
+    "name": "brunopradof"
+  },
+  "homepage": "https://www.upx.com/en/lp/openclaw-shield-upx",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brunopradof/openclaw-shield-upx"
+}

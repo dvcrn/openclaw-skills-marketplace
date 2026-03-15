@@ -1,0 +1,10 @@
+{
+  "name": "nissan--lora-finetune",
+  "description": "LoRA fine-tuning pipeline for Stable Diffusion on Apple Silicon — dataset prep, training, evaluation with LLM-as-judge scoring. Use when fine-tuning image generation models for consistent style, custom characters, or domain-specific visuals. Requires Python with torch and diffusers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/lora-finetune",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/lora-finetune"
+}

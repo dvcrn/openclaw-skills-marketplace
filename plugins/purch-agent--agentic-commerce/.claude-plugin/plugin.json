@@ -1,0 +1,10 @@
+{
+  "name": "purch-agent--agentic-commerce",
+  "description": "AI-powered shopping API for product search and crypto checkout. Use this skill when:\n - Searching for products from Amazon and Shopify\n - Building shopping assistants or product recommendation features\n - Creating purchase orders with crypto (USDC on Solana or Base)\n - Integrating e-commerce checkout into applications\n - Signing and submitting blockchain transactions for purchases",
+  "version": "1.0.1",
+  "author": {
+    "name": "purch-agent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/purch-agent/agentic-commerce",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/purch-agent/agentic-commerce"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "miguelcarranza--surfline",
+  "description": "Get surf forecasts and current conditions from Surfline public endpoints (no login). Use to look up Surfline spot IDs, fetch forecasts/conditions for specific spots, and summarize multiple favorite spots.",
+  "version": "0.1.0",
+  "author": {
+    "name": "miguelcarranza"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/miguelcarranza/surfline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/miguelcarranza/surfline"
+}

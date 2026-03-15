@@ -1,0 +1,10 @@
+{
+  "name": "nickian--nocodb",
+  "description": "Access and manage NocoDB databases, tables, and records via REST API. Use when the user wants to view bases, list tables, inspect column schemas, query or filter row data, or insert new records into a self-hosted NocoDB instance. Also use for spreadsheet-style database lookups and data entry.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nickian"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nickian/nocodb",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nickian/nocodb"
+}

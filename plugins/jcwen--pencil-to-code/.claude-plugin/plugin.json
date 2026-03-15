@@ -1,0 +1,10 @@
+{
+  "name": "jcwen--pencil-to-code",
+  "description": "Export .pen design to React/Tailwind code. Does ONE thing well.\n\n Input: .pen frame ID or file path\n Output: React component code + Tailwind config\n\n Use when: design-exploration or user needs implementation code\n from a finalized Pencil design.",
+  "version": "0.1.0",
+  "author": {
+    "name": "jcwen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jcwen/pencil-to-code",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jcwen/pencil-to-code"
+}

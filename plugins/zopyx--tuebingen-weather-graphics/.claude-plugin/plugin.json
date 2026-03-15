@@ -1,0 +1,10 @@
+{
+  "name": "zopyx--tuebingen-weather-graphics",
+  "description": "Generate and send a 5-day Tübingen weather graphic (PNG) from open-meteo.com. Use when Master wants a nicer visual forecast plus summary text for the next few days.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zopyx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zopyx/tuebingen-weather-graphics",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zopyx/tuebingen-weather-graphics"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "glitch003--vincent-hyperliquid",
+  "description": "Use this skill to create a HyperLiquid perpetuals and spot wallet for your agent. Trade perps, manage spot balances, transfer USDC between sub-accounts, get prices, place orders — all without exposing private keys.",
+  "version": "1.0.70",
+  "author": {
+    "name": "glitch003"
+  },
+  "homepage": "https://heyvincent.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/glitch003/vincent-hyperliquid"
+}

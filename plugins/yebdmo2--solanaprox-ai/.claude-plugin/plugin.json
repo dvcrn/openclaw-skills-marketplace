@@ -1,0 +1,10 @@
+{
+  "name": "yebdmo2--solanaprox-ai",
+  "description": "Pay-per-request AI model access via Solana/USDC using a Phantom wallet address. Query Claude and GPT models without API keys. Wallet-native authentication with real-time deposit detection.",
+  "version": "3.0.0",
+  "author": {
+    "name": "yebdmo2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yebdmo2/solanaprox-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yebdmo2/solanaprox-ai"
+}

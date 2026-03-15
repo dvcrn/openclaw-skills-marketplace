@@ -1,0 +1,10 @@
+{
+  "name": "nexecuteinc--cmdb-compass",
+  "description": "The first CMDB governance skill for ServiceNow. Audit, remediate, and govern your CMDB from any AI agent. Health scoring, duplicate detection, relationship analysis, stale CI cleanup, and governed remediation with full rollback and audit trail on every write.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nexecuteinc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nexecuteinc/cmdb-compass",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nexecuteinc/cmdb-compass"
+}

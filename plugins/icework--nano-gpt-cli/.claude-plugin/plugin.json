@@ -1,0 +1,10 @@
+{
+  "name": "icework--nano-gpt-cli",
+  "description": "Use when tasks need the NanoGPT API for text, image, or video generation through the local `nano-gpt` CLI and bundled wrapper scripts for OpenClaw or ClawHub workflows. This skill requires a NanoGPT API token.",
+  "version": "0.1.2",
+  "author": {
+    "name": "icework"
+  },
+  "homepage": "https://docs.nano-gpt.com/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/icework/nano-gpt-cli"
+}

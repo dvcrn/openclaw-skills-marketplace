@@ -1,0 +1,10 @@
+{
+  "name": "adshrc--devboxes",
+  "description": "Manage development environment containers (devboxes) with web-accessible VSCode, VNC, and app routing via Traefik or Cloudflare Tunnels. Use when the user asks to create, start, stop, list, or manage devboxes/dev environments, spin up a development container, set up a coding sandbox, or configure the devbox infrastructure for the first time (onboarding).",
+  "version": "1.4.0",
+  "author": {
+    "name": "adshrc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adshrc/devboxes",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adshrc/devboxes"
+}

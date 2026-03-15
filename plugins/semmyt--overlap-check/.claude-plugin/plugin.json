@@ -1,0 +1,10 @@
+{
+  "name": "semmyt--overlap-check",
+  "description": "Check for existing issues and PRs before creating new ones. Fires automatically when agent intends to file an issue, open a PR, or comment on a thread. Searches the target repo for duplicates and shows matches so the agent can decide whether to proceed or contribute to an existing thread instead.",
+  "version": "1.0.0",
+  "author": {
+    "name": "semmyt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/semmyt/overlap-check",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/semmyt/overlap-check"
+}

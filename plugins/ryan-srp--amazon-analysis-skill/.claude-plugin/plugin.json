@@ -1,0 +1,10 @@
+{
+  "name": "ryan-srp--amazon-analysis-skill",
+  "description": "Amazon product research, competitor analysis, and market analysis for sellers. Use when user asks about: product selection, finding products to sell, ASIN lookup, BSR analysis, competitor lookup, market opportunity, risk assessment, category research, pricing strategy, review analysis, or any Amazon seller data needs. Powered by APIClaw API (requires APICLAW_API_KEY).",
+  "version": "0.1.3",
+  "author": {
+    "name": "ryan-srp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ryan-srp/amazon-analysis-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ryan-srp/amazon-analysis-skill"
+}

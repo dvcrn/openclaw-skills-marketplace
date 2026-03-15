@@ -1,0 +1,10 @@
+{
+  "name": "siaslfs--cursor-cloud-agent",
+  "description": "Launch and manage Cursor Cloud Agents via the official API v0. Use when user asks to delegate a coding task to Cursor's cloud agent, create a PR automatically, or track agent progress. Requires python3 and a Cursor API key stored in ~/.cursor_api_key.",
+  "version": "1.1.0",
+  "author": {
+    "name": "siaslfs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/siaslfs/cursor-cloud-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/siaslfs/cursor-cloud-agent"
+}

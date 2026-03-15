@@ -1,0 +1,10 @@
+{
+  "name": "wpank--seek-protocol-fees",
+  "description": "Analyze TokenJar profitability and optionally execute a Firepit burn-and-claim. Autonomous pipeline: checks balances, prices assets, calculates profit vs. 4,000 UNI burn cost, simulates, and executes if profitable. Default is preview-only. Use when user asks \"Is the TokenJar profitable?\", \"Execute a burn\", or \"Claim protocol fees.\"",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/seek-protocol-fees",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/seek-protocol-fees"
+}

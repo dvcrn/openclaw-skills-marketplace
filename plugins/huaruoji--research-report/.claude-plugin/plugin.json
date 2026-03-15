@@ -1,0 +1,10 @@
+{
+  "name": "huaruoji--research-report",
+  "description": "Research technical projects/papers and generate comprehensive reports with PDF export. Modes: lite (analysis + writing) or full (+ environment setup + experiments). Params: iterations, mode, project-path, output. Use for paper analysis, code review, technical reports, research documentation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "huaruoji"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/huaruoji/research-report",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/huaruoji/research-report"
+}

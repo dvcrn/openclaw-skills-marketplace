@@ -1,0 +1,10 @@
+{
+  "name": "aurthes--aurthes-web-fetcher",
+  "description": "Fetch web pages and extract readable content for AI use. Use when reading, summarizing, or crawling a specific URL or small set of URLs. Prefer low-friction URL-to-Markdown services first, then fall back to browser-based retrieval, search snippets, or cached/indexed copies when sites are protected by Cloudflare or similar bot checks.",
+  "version": "1.2.0",
+  "author": {
+    "name": "aurthes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aurthes/aurthes-web-fetcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aurthes/aurthes-web-fetcher"
+}

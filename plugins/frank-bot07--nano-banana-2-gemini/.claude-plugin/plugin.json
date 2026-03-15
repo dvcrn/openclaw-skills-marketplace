@@ -1,0 +1,10 @@
+{
+  "name": "frank-bot07--nano-banana-2-gemini",
+  "description": "Gemini image generation, editing, and search-grounded image creation via\n gemini-3.1-flash-image-preview (Nano Banana 2).\n\n USE FOR:\n - Generating images from text prompts (text-to-image)\n - Editing or transforming an existing image with text instructions\n - Generating images grounded in live web/image search results\n\n Requires GEMINI_API_KEY environment variable. See rules/setup.md for\n configuration and rules/security.md for output handling guidelines.",
+  "version": "0.1.0",
+  "author": {
+    "name": "frank-bot07"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/frank-bot07/nano-banana-2-gemini",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/frank-bot07/nano-banana-2-gemini"
+}

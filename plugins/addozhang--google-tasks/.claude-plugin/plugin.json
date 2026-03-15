@@ -1,0 +1,10 @@
+{
+  "name": "addozhang--google-tasks",
+  "description": "Fetch, display, create, and delete Google Tasks using the Google Tasks API. Use when the user asks to check, view, list, get, add, create, remove, or delete their Google Tasks, to-do lists, or task items. Handles OAuth authentication automatically using bash script with curl and jq.",
+  "version": "1.0.0",
+  "author": {
+    "name": "addozhang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/addozhang/google-tasks",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/addozhang/google-tasks"
+}

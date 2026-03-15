@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--confluence-api",
+  "description": "Confluence API integration with managed OAuth. Manage pages, spaces, blogposts, comments, and attachments.\n Use this skill when users want to create, read, update, or delete Confluence content, manage spaces, or work with comments and attachments.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/confluence-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/confluence-api"
+}

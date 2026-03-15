@@ -1,0 +1,10 @@
+{
+  "name": "angusthefuzz--pmc-harvest",
+  "description": "Fetch articles from PubMed Central using NCBI APIs. Search journals, retrieve full text via OAI-PMH, batch harvest for RAG pipelines. No API key required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "angusthefuzz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/angusthefuzz/pmc-harvest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/angusthefuzz/pmc-harvest"
+}

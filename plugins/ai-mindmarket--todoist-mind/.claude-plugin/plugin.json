@@ -1,0 +1,10 @@
+{
+  "name": "ai-mindmarket--todoist-mind",
+  "description": "Управление задачами в Todoist: добавление, обновление статуса (выполнено/удалено), определение даты/срочности/приоритета и навигация по проектам. Используйте команды с указанием всех необходимых параметров: add_task(content, project_id, due_date, priority), complete_task(task_id), delete_task(task_id), list_projects().",
+  "version": "1.0.0",
+  "author": {
+    "name": "ai-mindmarket"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ai-mindmarket/todoist-mind",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ai-mindmarket/todoist-mind"
+}

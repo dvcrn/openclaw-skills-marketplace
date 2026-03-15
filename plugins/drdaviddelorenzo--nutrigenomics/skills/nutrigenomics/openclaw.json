@@ -1,0 +1,102 @@
+{
+  "skill_id": "nutrigenomics",
+  "name": "Nutrigenomics",
+  "version": "0.2.0-openclaw",
+  "description": "Generate personalised nutrition recommendations from your genetic data (23andMe, AncestryDNA, or VCF). Analyzes 40+ genes affecting nutrient metabolism, absorption, and food sensitivities. All processing is local—your data stays private.",
+  "author": "David de Lorenzo",
+  "license": "MIT",
+  "category": "health-nutrition-genetics",
+  "tags": [
+    "nutrigenomics",
+    "personalized-nutrition",
+    "genetics",
+    "23andme",
+    "ancestrydna",
+    "vcf",
+    "dietary-recommendations",
+    "health-optimization"
+  ],
+  "entry_point": "openclaw_adapter:run_analysis",
+  "input_schema": {
+    "type": "object",
+    "properties": {
+      "input_file": {
+        "type": "string",
+        "description": "Path to genetic data file (23andMe .txt/.csv, AncestryDNA .csv, or VCF)",
+        "required": true
+      },
+      "file_format": {
+        "type": "string",
+        "enum": ["auto", "23andme", "ancestry", "vcf"],
+        "default": "auto",
+        "description": "Auto-detect or specify format"
+      }
+    }
+  },
+  "output_schema": {
+    "type": "object",
+    "properties": {
+      "status": {
+        "type": "string",
+        "enum": ["success", "error"]
+      },
+      "message": {
+        "type": "string"
+      },
+      "report_path": {
+        "type": "string",
+        "description": "Path to generated Markdown report"
+      },
+      "figures": {
+        "type": "object",
+        "description": "Paths to generated visualizations (radar, heatmap)"
+      },
+      "summary": {
+        "type": "string",
+        "description": "Executive summary of findings"
+      },
+      "risk_scores": {
+        "type": "object",
+        "description": "Dictionary of nutrient risk scores (0-10)"
+      }
+    }
+  },
+  "features": {
+    "local_processing": true,
+    "no_data_transmission": true,
+    "privacy_first": true,
+    "file_formats_supported": [
+      "23andMe (.txt, .csv)",
+      "AncestryDNA (.csv)",
+      "VCF (.vcf)"
+    ],
+    "generates_reports": true,
+    "generates_visualizations": true
+  },
+  "dependencies": {
+    "python": ">=3.11",
+    "packages": [
+      "pandas>=1.5.0",
+      "numpy>=1.24.0",
+      "matplotlib>=3.7.0",
+      "seaborn>=0.12.0",
+      "reportlab>=4.0.0"
+    ]
+  },
+  "documentation": {
+    "main": "SKILL_OPENCLAW.md",
+    "readme": "README_OPENCLAW.md"
+  },
+  "metadata": {
+    "genes_analyzed": 40,
+    "snps_in_panel": 58,
+    "nutrient_categories": 8,
+    "data_privacy": "All processing local, no external transmission",
+    "disclaimer": "Educational analysis, not medical advice",
+    "attribution_file": "ATTRIBUTION.md",
+    "contributors_file": "CONTRIBUTORS.md",
+    "changelog_file": "CHANGELOG.md",
+    "license": "MIT (see LICENSE file)",
+    "citation_format": "See ATTRIBUTION.md for BibTeX, APA, and Chicago formats"
+  }
+}

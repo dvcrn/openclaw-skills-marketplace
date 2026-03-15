@@ -1,0 +1,10 @@
+{
+  "name": "iyeque--iyeque-pdf-reader",
+  "description": "Extract text, search inside PDFs, and produce summaries.",
+  "version": "1.1.0",
+  "author": {
+    "name": "iyeque"
+  },
+  "homepage": "https://pymupdf.readthedocs.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iyeque/iyeque-pdf-reader"
+}

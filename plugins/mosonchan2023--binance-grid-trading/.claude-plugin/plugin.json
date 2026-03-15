@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--binance-grid-trading",
+  "description": "网格交易策略 - 自动化低买高卖。每次调用自动扣费 0.001 USDT",
+  "version": "1.0.0",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/binance-grid-trading",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/binance-grid-trading"
+}

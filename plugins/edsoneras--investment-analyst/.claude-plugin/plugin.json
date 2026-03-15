@@ -1,0 +1,10 @@
+{
+  "name": "edsoneras--investment-analyst",
+  "description": "Agente especialista em analise de investimentos com foco em analise fundamentalista e tecnica. Suporta: get_market_data, calculate_roi, portfolio_analysis, generate_report, risk_profile_classifier. Use para avaliar acoes, FIIs, ETFs, calcular retornos, analisar carteira, gerar relatorios e classificar perfil de risco.",
+  "version": "1.0.0",
+  "author": {
+    "name": "edsoneras"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/edsoneras/investment-analyst",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/edsoneras/investment-analyst"
+}

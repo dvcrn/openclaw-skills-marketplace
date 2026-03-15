@@ -1,0 +1,10 @@
+{
+  "name": "bdwelle--mac-contacts",
+  "description": "CLI for reading and managing macOS Contacts (CNContactStore). Supports searching by name, email, phone number, city, or country; showing all fields for a contact including list membership; creating and updating contacts with name, org, phone, email, and postal address; deleting contacts; and managing group (list) membership. Use when asked to look up, add, edit, remove, or organise contacts on macOS, or when you need a contact's phone number, email, address, or which lists they belong to.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bdwelle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bdwelle/mac-contacts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bdwelle/mac-contacts"
+}

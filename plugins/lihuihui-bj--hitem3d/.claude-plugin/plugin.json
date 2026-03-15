@@ -1,0 +1,10 @@
+{
+  "name": "lihuihui-bj--hitem3d",
+  "description": "Generate production-grade 3D models from one or multiple images with Hitem3D. Use when users ask to turn photos, concept art, product shots, or portraits into 3D models; request STL/GLB/OBJ/FBX/USDZ exports; run batch image-to-3D jobs; tune model version, resolution, generation mode, or face count; or check Hitem3D credit balance.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lihuihui-bj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lihuihui-bj/hitem3d",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lihuihui-bj/hitem3d"
+}

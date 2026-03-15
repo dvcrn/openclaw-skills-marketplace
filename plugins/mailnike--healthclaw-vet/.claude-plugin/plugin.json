@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--healthclaw-vet",
+  "description": "Veterinary expansion for HealthClaw -- animal patient records, boarding/kennel management, weight-based medication dosing, and multi-owner linking.",
+  "version": "2.1.0",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.healthclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/healthclaw-vet"
+}

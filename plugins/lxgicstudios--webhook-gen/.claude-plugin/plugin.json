@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--webhook-gen",
+  "description": "Generate webhook handlers with retry logic using AI. Use when integrating Stripe, GitHub, or any webhook provider.",
+  "version": "1.0.1",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/webhook-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/webhook-gen"
+}

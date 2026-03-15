@@ -1,0 +1,10 @@
+{
+  "name": "jeadland--install-llm-council",
+  "description": "LLM Council — multi-model consensus app with one-command setup. Ask one question to many\n models, let them critique each other, get a synthesized chairman answer. OpenRouter/OpenClaw-native\n backend + React/Vite frontend. Zero config — credentials resolve automatically.",
+  "version": "1.1.6",
+  "author": {
+    "name": "jeadland"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jeadland/install-llm-council",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeadland/install-llm-council"
+}

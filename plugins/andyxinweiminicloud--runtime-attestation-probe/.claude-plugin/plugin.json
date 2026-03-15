@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--runtime-attestation-probe",
+  "description": "Helps validate that agent behavior at runtime matches the capabilities and constraints declared in its attestation. Detects divergence between what an agent claims to do and what it actually does during execution, catching the class of attacks that passes static analysis but activates conditionally at runtime.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/runtime-attestation-probe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/runtime-attestation-probe"
+}

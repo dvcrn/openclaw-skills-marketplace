@@ -1,0 +1,10 @@
+{
+  "name": "karatla--opencode-controller",
+  "description": "Control and operate Opencode via slash commands. Use this skill to manage sessions, select models, switch agents (plan/build), and coordinate coding through Opencode.",
+  "version": "1.0.0",
+  "author": {
+    "name": "karatla"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/karatla/opencode-controller",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/karatla/opencode-controller"
+}

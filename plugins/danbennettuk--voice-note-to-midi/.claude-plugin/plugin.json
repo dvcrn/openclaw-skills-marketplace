@@ -1,0 +1,10 @@
+{
+  "name": "danbennettuk--voice-note-to-midi",
+  "description": "Convert voice notes, humming, and melodic audio recordings to quantized MIDI files using ML-based pitch detection and intelligent post-processing",
+  "version": "0.1.0",
+  "author": {
+    "name": "danbennettuk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danbennettuk/voice-note-to-midi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danbennettuk/voice-note-to-midi"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kaushal-205--clawlogic",
+  "description": "Use this skill to operate CLAWLOGIC prediction markets via `clawlogic-agent`: initialize wallet, register agent (ENS optional), create creator-seeded CPMM markets, analyze, trade YES/NO, assert and settle outcomes, claim fees, and post market broadcasts.",
+  "version": "0.1.0",
+  "author": {
+    "name": "kaushal-205"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kaushal-205/clawlogic",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kaushal-205/clawlogic"
+}

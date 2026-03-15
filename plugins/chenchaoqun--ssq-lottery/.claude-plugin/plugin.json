@@ -1,0 +1,10 @@
+{
+  "name": "chenchaoqun--ssq-lottery",
+  "description": "查询中国福利彩票双色球开奖结果。支持多数据源自动切换，优先官方渠道。Use when: 用户询问双色球开奖结果、中奖号码、彩票查询、对奖等场景。",
+  "version": "1.0.0",
+  "author": {
+    "name": "chenchaoqun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chenchaoqun/ssq-lottery",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chenchaoqun/ssq-lottery"
+}

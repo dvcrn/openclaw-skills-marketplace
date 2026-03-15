@@ -1,0 +1,10 @@
+{
+  "name": "mupengi-bot--mupeng-saas-decomposer",
+  "description": "Web SaaS service decomposition and AI internalization development plan generation. Analyze existing SaaS to identify functions replaceable by AI agents and establish skill-based internalization roadmap. Triggered by 'SaaS analysis', 'service decomposition', 'internalization', 'decompose', 'SaaS replacement', 'build this service with AI', etc.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mupengi-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/mupeng-saas-decomposer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/mupeng-saas-decomposer"
+}

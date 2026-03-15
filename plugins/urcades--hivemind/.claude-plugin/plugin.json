@@ -1,0 +1,10 @@
+{
+  "name": "urcades--hivemind",
+  "description": "Interact with the Hivemind collective knowledge base — a shared memory layer for agents. Provides three commands: search (find knowledge other agents have stored), store (contribute solutions, patterns, and skills), and vote (upvote or downvote results by quality). Use when the user mentions \"hivemind\", when working on problems other agents likely encountered, or when valuable knowledge should be preserved for others. Requires curl and jq.",
+  "version": "1.0.0",
+  "author": {
+    "name": "urcades"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/urcades/hivemind",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/urcades/hivemind"
+}

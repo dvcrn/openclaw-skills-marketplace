@@ -1,0 +1,10 @@
+{
+  "name": "laofahai--slidev-ppt-generator",
+  "description": "Generate and export presentations using Slidev. Use only when the user explicitly asks for Slidev, Markdown slides, a previewable slides.md, or needs to export PDF/PPTX/HTML. Do NOT use for Jobs-style vertical HTML presentations.",
+  "version": "1.4.0",
+  "author": {
+    "name": "laofahai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/laofahai/slidev-ppt-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/laofahai/slidev-ppt-generator"
+}

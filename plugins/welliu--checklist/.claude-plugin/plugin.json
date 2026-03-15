@@ -1,0 +1,10 @@
+{
+  "name": "welliu--checklist",
+  "description": "Collaborative task checklist manager for AI agents with sequential, parallel, and looping execution. Features agent coordination, dependencies, deadlock prevention, and loop safety.",
+  "version": "1.2.1",
+  "author": {
+    "name": "welliu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/welliu/checklist",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/welliu/checklist"
+}

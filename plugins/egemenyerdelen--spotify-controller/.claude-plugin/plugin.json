@@ -1,0 +1,10 @@
+{
+  "name": "egemenyerdelen--spotify-controller",
+  "description": "Control Spotify playback and devices from an AI agent using spotify.py and the official Spotify Web API. Use when users ask to check current track, play/pause, next/prev, set volume, search tracks, play first search result, list devices, switch active device, or play a specific Spotify URL. Works on headless VPS and Docker setups.",
+  "version": "1.0.1",
+  "author": {
+    "name": "egemenyerdelen"
+  },
+  "homepage": "https://developer.spotify.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/egemenyerdelen/spotify-controller"
+}

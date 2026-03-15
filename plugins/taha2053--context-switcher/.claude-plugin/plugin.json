@@ -1,0 +1,10 @@
+{
+  "name": "taha2053--context-switcher",
+  "description": "Switches OpenClaw between life modes (Work/Focus, Personal, Creative, Do Not Disturb). Triggered by natural language or calendar events. Each mode reshapes notification filtering, memory surface, response style, and auto-restores when the session ends.",
+  "version": "1.0.0",
+  "author": {
+    "name": "taha2053"
+  },
+  "homepage": "https://github.com/Taha2053/context-switcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/taha2053/context-switcher"
+}

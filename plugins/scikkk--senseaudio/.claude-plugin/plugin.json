@@ -1,0 +1,10 @@
+{
+  "name": "scikkk--senseaudio",
+  "description": "Integration guide for SenseAudio Open Platform APIs, including TTS (sync/SSE/WebSocket), ASR (HTTP/WebSocket), realtime Agents, video generation/storyboard, and voice clone usage constraints. Use this whenever the user asks to build, debug, or optimize any SenseAudio API call, event flow, request schema, response parsing, or production error handling.",
+  "version": "1.0.0",
+  "author": {
+    "name": "scikkk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/scikkk/senseaudio",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scikkk/senseaudio"
+}

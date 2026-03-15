@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--wordpress-api",
+  "description": "WordPress.com API integration with managed OAuth. Manage posts, pages, sites, and content.\n Use this skill when users want to create, read, update, or delete WordPress.com posts, pages, or manage site content.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.1",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/wordpress-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/wordpress-api"
+}

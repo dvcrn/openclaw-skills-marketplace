@@ -1,0 +1,10 @@
+{
+  "name": "yedanyagamiai-cmd--openclaw-timestamp-converter",
+  "description": "Remote timestamp & timezone MCP server with 5 precision tools. Use when: (1) 'convert this timestamp' or 'epoch to date', (2) 'what time is it in Tokyo' or 'convert PST to JST', (3) 'how many days between' or 'calculate duration', (4) 'list timezones' or 'UTC offset for Sydney', (5) 'how long ago' or 'time ago'. Full IANA database (400+ zones), DST-aware, business-day math, leap-year correct. Zero install, sub-100ms on Cloudflare Workers. Free 30/day + Pro $9/mo.",
+  "version": "2.0.0",
+  "author": {
+    "name": "yedanyagamiai-cmd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yedanyagamiai-cmd/openclaw-timestamp-converter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yedanyagamiai-cmd/openclaw-timestamp-converter"
+}

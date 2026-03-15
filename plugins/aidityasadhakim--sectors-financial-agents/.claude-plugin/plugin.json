@@ -1,0 +1,10 @@
+{
+  "name": "aidityasadhakim--sectors-financial-agents",
+  "description": "Query financial market data from the Sectors API (api.sectors.app) for IDX (Indonesia Stock Exchange) and SGX (Singapore Exchange) markets. Use when the user asks about stock prices, company reports, financials, market indices, top movers, dividends, earnings, market cap, or any Indonesian or Singaporean equity market data. Only calls https://api.sectors.app. Python with requests.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aidityasadhakim"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aidityasadhakim/sectors-financial-agents",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aidityasadhakim/sectors-financial-agents"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "therohitdas--youtube-data",
+  "description": "Access YouTube video data — transcripts, metadata, channel info, search, and playlists. A lightweight alternative to Google's YouTube Data API with no quota limits. Use when the user needs structured data from YouTube videos, channels, or playlists without dealing with Google API setup, OAuth, or daily quotas.",
+  "version": "1.4.1",
+  "author": {
+    "name": "therohitdas"
+  },
+  "homepage": "https://transcriptapi.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/therohitdas/youtube-data"
+}

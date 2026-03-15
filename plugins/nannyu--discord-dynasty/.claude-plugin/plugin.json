@@ -1,0 +1,10 @@
+{
+  "name": "nannyu--discord-dynasty",
+  "description": "Handles Discord task-center forum: create task posts, archive tasks by tag, and respect model tags. Supports six-ministries style channel template (司礼监+六部). Use when user says 新建任务、开个任务、归档任务、建六部管理频道, or when asked to create a task from todo/calendar. Requires Discord forum integration.",
+  "version": "1.2.0",
+  "author": {
+    "name": "nannyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nannyu/discord-dynasty",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nannyu/discord-dynasty"
+}

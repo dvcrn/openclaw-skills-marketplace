@@ -1,0 +1,10 @@
+{
+  "name": "lovenervermore--chat-ai",
+  "description": "将自然语言问题转化为 SQL 查询并执行，支持多轮对话、意图识别、SQL 审计、可视化推荐等全流程。",
+  "version": "1.0.0",
+  "author": {
+    "name": "lovenervermore"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lovenervermore/chat-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lovenervermore/chat-ai"
+}

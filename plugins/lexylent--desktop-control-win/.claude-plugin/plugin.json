@@ -1,0 +1,10 @@
+{
+  "name": "lexylent--desktop-control-win",
+  "description": "Control desktop applications on Windows — launch, close, focus, resize, move windows, simulate keyboard/mouse input, manage processes, control VSCode, read clipboard, and capture screen info. Use when the user wants to interact with any running program, switch windows, type text, press shortcuts, open files in VSCode, manage running processes, or get system display information.",
+  "version": "1.0.1",
+  "author": {
+    "name": "lexylent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lexylent/desktop-control-win",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lexylent/desktop-control-win"
+}

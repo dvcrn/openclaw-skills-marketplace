@@ -1,0 +1,9 @@
+{
+  "name": "meme-safe-scanner",
+  "version": "1.0.0",
+  "description": "新币保命扫描器 - 毒舌链上安全审计，0-100 风险分直观评估",
+  "main": "index.js",
+  "bin": { "meme-safe-scanner": "./index.js" },
+  "dependencies": { "node-fetch": "^2.7.0" },
+  "keywords": ["链上安全", "代币检测", "rug pull", "meme 币"]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lucaszh7--openclaw-task-weight-manager",
+  "description": "Use when a user wants OpenClaw to manage several interleaved conversation threads inside one chat, keep a primary mission in focus, classify side topics, assign weights or priorities, reduce distraction, and periodically steer attention back to the main task. Also fits the Chinese concept \"任务权重管理器\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "lucaszh7"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lucaszh7/openclaw-task-weight-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lucaszh7/openclaw-task-weight-manager"
+}

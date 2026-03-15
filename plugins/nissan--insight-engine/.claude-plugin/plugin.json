@@ -1,0 +1,10 @@
+{
+  "name": "nissan--insight-engine",
+  "description": "Logs/metrics → Python statistics → LLM interpretation → Notion reports. Use when: generating daily/weekly/monthly operational insights from AI system logs, producing data-driven Notion reports from Langfuse traces and gateway logs, setting up a cron-based insight pipeline, building a citation-enforcing analyst that refuses to make claims without specific data. Pattern: collect raw data → compute stats in Python → feed structured packet to LLM → write to Notion.",
+  "version": "1.0.2",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/insight-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/insight-engine"
+}

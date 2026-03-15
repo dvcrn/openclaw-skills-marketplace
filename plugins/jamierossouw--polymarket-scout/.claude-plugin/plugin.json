@@ -1,0 +1,10 @@
+{
+  "name": "jamierossouw--polymarket-scout",
+  "description": "Scan Polymarket hourly crypto markets (BTC/ETH/SOL/XRP) for edge opportunities. Detects counter-consensus setups, freshness windows, and expected value using the Argus strategy. Use when you need Polymarket market scanning, edge detection, hourly binary market analysis, or prediction market signals.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jamierossouw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/polymarket-scout",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/polymarket-scout"
+}

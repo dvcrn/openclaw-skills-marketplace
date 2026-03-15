@@ -1,0 +1,10 @@
+{
+  "name": "noah-1106--longtask-system",
+  "description": "长程任务执行管理系统 | Long-running Task Execution Management System\n 通过状态文件驱动，将长任务拆分为子任务，由守护进程按顺序触发执行，确保每步完成后再执行下一步。\n State-file driven system that breaks long tasks into subtasks, triggered sequentially by daemon to ensure each step completes before next.\n 支持多 Agent 协作 | Multi-Agent collaboration supported.",
+  "version": "1.1.0",
+  "author": {
+    "name": "noah-1106"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/noah-1106/longtask-system",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/noah-1106/longtask-system"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "psmamm--social-media-agent",
+  "description": "Autonomous social media management for X/Twitter using only OpenClaw native tools. Use when a user wants to automate X posting, generate content, track engagement, or build an audience. Triggers on requests about tweets, social media strategy, X engagement, content calendars, or growing a following. No API keys required — uses browser automation and web_fetch.",
+  "version": "1.0.0",
+  "author": {
+    "name": "psmamm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/psmamm/social-media-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/psmamm/social-media-agent"
+}

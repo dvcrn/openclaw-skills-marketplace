@@ -1,0 +1,10 @@
+{
+  "name": "niracler--nini-workspace-planning",
+  "description": "Manage project schedules stored as YAML in the workspace planning/ directory. Use whenever the user asks about project delivery progress, module status, weekly task breakdown (frontend/backend), milestone countdowns, risk analysis, or wants to update module status, link OpenSpec changes, create new schedules, or sync to Yunxiao. Triggers on \"planning\", \"schedule\", \"progress\", \"milestone\", \"what's this week\", \"what's left\", or Chinese equivalents like \"排期\", \"进度\", \"本周任务\", \"里程碑\", \"模块状态\", \"还剩多少\", \"风险\", \"deferred\". Also trigger when user mentions specific module names (e.g. \"auth\", \"zone-control\") in the context of status updates or progress tracking. Do NOT trigger for: calendar/reminder management (use schedule-manager), daily/weekly work reports (use worklog), or general Yunxiao task operations without schedule context (use yunxiao skill).",
+  "version": "0.1.2",
+  "author": {
+    "name": "niracler"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/niracler/nini-workspace-planning",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/niracler/nini-workspace-planning"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mashirops--task-supervisor",
+  "description": "Self-supervising long-running task manager with progress tracking and periodic status reports. Only activate for LARGE tasks — do NOT activate for quick or simple tasks. Activate when ALL of these are true: (1) Task has 5+ distinct steps OR estimated time >20 minutes, AND (2) at least one of: user says \"take your time / do this overnight / finish by yourself / keep me posted\", task requires sub-agents or cron jobs, task spans multiple tool calls across different domains (e.g. research + write + deploy). Do NOT activate for: single-step requests, quick searches, short code edits, simple Q&A, file reads, summarization of one document.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mashirops"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mashirops/task-supervisor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mashirops/task-supervisor"
+}

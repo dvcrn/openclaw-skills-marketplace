@@ -1,0 +1,10 @@
+{
+  "name": "theshadowrose--code-review-sr",
+  "description": "AI-powered code review that combines fast local static analysis with deep AI reasoning. Catches bugs, security vulnerabilities, performance issues, and style problems. Supports Anthropic, OpenAI, and Ollama models. Falls back to local regex analysis when offline.",
+  "version": "1.0.4",
+  "author": {
+    "name": "theshadowrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/code-review-sr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/code-review-sr"
+}

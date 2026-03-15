@@ -1,0 +1,10 @@
+{
+  "name": "aidankong--stm32-cubemx",
+  "description": "STM32CubeMX CLI operations for configuring pins, peripherals, DMA, interrupts, and generating code. Use cases: (1) Add/modify STM32 peripheral configuration (2) Configure USART/SPI/I2C/ADC/TIM peripherals (3) Set up DMA and interrupts (4) Generate CMake/GCC project code. Default target MCU: STM32F103C8Tx.",
+  "version": "1.0.3",
+  "author": {
+    "name": "aidankong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aidankong/stm32-cubemx",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aidankong/stm32-cubemx"
+}

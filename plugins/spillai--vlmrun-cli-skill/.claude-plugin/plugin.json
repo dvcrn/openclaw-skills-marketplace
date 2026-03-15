@@ -1,0 +1,10 @@
+{
+  "name": "spillai--vlmrun-cli-skill",
+  "description": "Use the VLM Run CLI (`vlmrun`) to interact with Orion visual AI agent. Process images, videos, and documents with natural language. Triggers: image understanding/generation, object detection, OCR, video summarization, document extraction, image generation, visual AI chat, 'generate an image/video', 'analyze this image/video', 'extract text from', 'summarize this video', 'process this PDF'.",
+  "version": "0.1.1",
+  "author": {
+    "name": "spillai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spillai/vlmrun-cli-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spillai/vlmrun-cli-skill"
+}

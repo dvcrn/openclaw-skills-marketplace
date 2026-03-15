@@ -1,0 +1,10 @@
+{
+  "name": "thegovind--azure-keyvault-py",
+  "description": "Azure Key Vault SDK for Python. Use for secrets, keys, and certificates management with secure storage.\n Triggers: \"key vault\", \"SecretClient\", \"KeyClient\", \"CertificateClient\", \"secrets\", \"encryption keys\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "thegovind"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thegovind/azure-keyvault-py",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thegovind/azure-keyvault-py"
+}

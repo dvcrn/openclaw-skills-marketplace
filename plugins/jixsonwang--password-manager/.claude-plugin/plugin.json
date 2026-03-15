@@ -1,0 +1,10 @@
+{
+  "name": "jixsonwang--password-manager",
+  "description": "A fully local password management skill for OpenClaw with AES-256-GCM encryption, password generation, and sensitive info detection.",
+  "version": "1.0.4",
+  "author": {
+    "name": "jixsonwang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jixsonwang/password-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jixsonwang/password-manager"
+}

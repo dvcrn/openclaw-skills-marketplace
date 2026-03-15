@@ -1,0 +1,21 @@
+{
+  "name": "openclaw-self-improvement",
+  "version": "0.1.0",
+  "description": "This skill should be used when the user asks to capture learnings, log recurring errors, record feature gaps, improve agent workflows over time, operationalize corrections, or build a self-improving OpenClaw or ClawLite operating loop with Karen, Mission Control, and Obsidian vault support.",
+  "private": true,
+  "type": "module",
+  "keywords": [
+    "openclaw",
+    "self-improvement",
+    "lessons-learned",
+    "ops-learning",
+    "mission-control",
+    "karen",
+    "obsidian",
+    "continuous-improvement"
+  ],
+  "bin": {
+    "openclaw-log-learning": "./scripts/log-learning.mjs",
+    "openclaw-promote-learning": "./scripts/promote-learning.mjs"
+  }
+}

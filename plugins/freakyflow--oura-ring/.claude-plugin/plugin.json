@@ -1,0 +1,10 @@
+{
+  "name": "freakyflow--oura-ring",
+  "description": "Syncs daily health and fitness data from Oura Ring into markdown files. Provides sleep, readiness, activity, heart rate, stress, SpO2, and workout data.",
+  "version": "1.0.3",
+  "author": {
+    "name": "freakyflow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/freakyflow/oura-ring",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/freakyflow/oura-ring"
+}

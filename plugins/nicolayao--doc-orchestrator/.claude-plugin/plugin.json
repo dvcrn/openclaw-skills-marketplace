@@ -1,0 +1,10 @@
+{
+  "name": "nicolayao--doc-orchestrator",
+  "description": "Orchestrate multi-chapter document generation using sub-agents. Use when producing long structured documents (PRDs, technical specs, research reports, design docs, worldbuilding) that exceed single-agent context limits. Handles dependency analysis, contract-first decomposition, serial/parallel scheduling, file isolation, state persistence, and consistency validation.",
+  "version": "2.0.0",
+  "author": {
+    "name": "nicolayao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nicolayao/doc-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nicolayao/doc-orchestrator"
+}

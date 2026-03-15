@@ -1,0 +1,10 @@
+{
+  "name": "don-gbot--cross-model-review",
+  "description": "Adversarial plan review using two different AI models. Supports static mode (fixed roles) and alternating mode (models swap writer/reviewer each round, fully autonomous). Use when building features touching auth/payments/data models, or plans >1hr to implement. NOT for simple fixes, research tasks, or quick scripts.",
+  "version": "2.1.0",
+  "author": {
+    "name": "don-gbot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/don-gbot/cross-model-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/don-gbot/cross-model-review"
+}

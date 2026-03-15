@@ -1,0 +1,10 @@
+{
+  "name": "deus-pandora--context-engine-deus",
+  "description": "Smart Context Engine - Maintains conversation state and project continuity across OpenClaw sessions. Tracks active projects, saves/restores context, and provides project management. Use when: (1) starting a new session and wanting to restore previous context, (2) working on a specific project and wanting to track progress, (3) switching between projects, (4) asking \"what are we working on\" or \"where did we leave off\", (5) wanting to save current context manually.",
+  "version": "1.0.0",
+  "author": {
+    "name": "deus-pandora"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deus-pandora/context-engine-deus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deus-pandora/context-engine-deus"
+}

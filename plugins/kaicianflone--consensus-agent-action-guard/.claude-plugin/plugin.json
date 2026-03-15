@@ -1,0 +1,10 @@
+{
+  "name": "kaicianflone--consensus-agent-action-guard",
+  "description": "Pre-execution governance for high-risk agent actions. Uses persona-weighted consensus to decide ALLOW/BLOCK/REQUIRE_REWRITE before external or irreversible side effects occur, with board-native audit artifacts.",
+  "version": "1.1.14",
+  "author": {
+    "name": "kaicianflone"
+  },
+  "homepage": "https://github.com/kaicianflone/consensus-agent-action-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kaicianflone/consensus-agent-action-guard"
+}

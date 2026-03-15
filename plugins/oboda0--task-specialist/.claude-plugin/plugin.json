@@ -1,0 +1,10 @@
+{
+  "name": "oboda0--task-specialist",
+  "description": "A robust, local SQLite-backed task management system designed to elevate your AI agent's project execution. Excellent for both simple tasks and large multi-step projects, managing workflows, and tracking dependencies autonomously without relying on fragile memory.",
+  "version": "2.1.0",
+  "author": {
+    "name": "oboda0"
+  },
+  "homepage": "https://github.com/OBODA0/task-specialist-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oboda0/task-specialist"
+}

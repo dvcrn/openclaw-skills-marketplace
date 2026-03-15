@@ -1,0 +1,10 @@
+{
+  "name": "kaicianflone--consensus-deployment-guard",
+  "description": "Pre-deployment governance for release and infrastructure rollout requests. Use when an agent or workflow proposes shipping code/config/infrastructure changes to staging or production and you need deterministic ALLOW/BLOCK/REQUIRE_REWRITE decisions with strict schema validation, idempotency, and board-native audit artifacts.",
+  "version": "0.1.10",
+  "author": {
+    "name": "kaicianflone"
+  },
+  "homepage": "https://github.com/kaicianflone/consensus-deployment-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kaicianflone/consensus-deployment-guard"
+}

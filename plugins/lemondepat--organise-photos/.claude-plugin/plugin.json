@@ -1,0 +1,10 @@
+{
+  "name": "lemondepat--organise-photos",
+  "description": "Organize a photo folder by cleaning non-photo files, removing bad exposures, detecting blur and burst shots, and classifying photos into numbered subfolders using AI vision analysis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lemondepat"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lemondepat/organise-photos",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lemondepat/organise-photos"
+}

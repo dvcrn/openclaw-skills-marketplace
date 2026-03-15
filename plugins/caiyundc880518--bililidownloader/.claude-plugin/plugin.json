@@ -1,0 +1,10 @@
+{
+  "name": "caiyundc880518--bililidownloader",
+  "description": "Download Bilibili videos. You MUST ask the user for the Bilibili URL first. Then use the provided python script to download. Supports batch/playlist downloading.",
+  "version": "1.0.3",
+  "author": {
+    "name": "caiyundc880518"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/caiyundc880518/bililidownloader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/caiyundc880518/bililidownloader"
+}

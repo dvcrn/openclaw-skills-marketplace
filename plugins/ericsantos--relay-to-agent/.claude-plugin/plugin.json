@@ -1,0 +1,10 @@
+{
+  "name": "ericsantos--relay-to-agent",
+  "description": "Relay messages to AI agents on any OpenAI-compatible API. Supports multi-turn conversations with session management. List agents, send messages, reset sessions.",
+  "version": "0.0.1",
+  "author": {
+    "name": "ericsantos"
+  },
+  "homepage": "https://platform.openai.com/docs/api-reference/chat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ericsantos/relay-to-agent"
+}

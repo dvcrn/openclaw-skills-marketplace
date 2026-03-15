@@ -1,0 +1,1333 @@
+{
+  "version": "1.2.0",
+  "last_reviewed": "2026-03-07",
+  "notes": "Verified against live websites 2026-03-07. HTZone deal pages require login/JS to render specifics — structural max_pct values confirmed from public pages. Poalim Wonder deals fully scraped from public pages.",
+  "sources": {
+    "htzone_card": {
+      "name": "HiTech Zone Cal Card",
+      "name_he": "כרטיס הייטקזון כאל",
+      "url": "https://www.htzone.co.il/כרטיס_אשראי",
+      "login_required": true,
+      "description": "כרטיס אשראי Visa Cal למועדון הייטקזון. הנחות אוטומטיות במעמד החיוב — לא צריך לעשות כלום, משלמים ומקבלים הנחה."
+    },
+    "htzone_club": {
+      "name": "HiTech Zone Club — Vouchers",
+      "name_he": "מועדון הייטקזון — שוברים",
+      "url": "https://www.htzone.co.il/sale/1147",
+      "login_required": true,
+      "description": "שוברים מוזלים לרשתות מזון, מסעדות ואופנה. רכישה מראש באתר. URL מאומת: /sale/1147"
+    },
+    "htzone_pos": {
+      "name": "HiTech Zone — POS Discounts",
+      "name_he": "הייטקזון — הטבות במעמד החיוב",
+      "url": "https://www.htzone.co.il/sale/62",
+      "login_required": true,
+      "description": "הנחות אוטומטיות בקופה לחברי הייטקזון. קטגוריות: מסעדות, תיירות, רשתות מזון, אופנה. URL מאומת: /sale/62"
+    },
+    "htzone_pro2": {
+      "name": "HiTech Zone PRO²",
+      "name_he": "הייטקזון PRO²",
+      "url": "https://www.htzone.co.il/לקוח-PRO",
+      "login_required": true,
+      "description": "מסלול פרימיום: 3%-15% קאשבק באתר הייטקזון, PRO² Shop עד 50% הנחה, גישה כפולה לשוברים."
+    },
+    "poalim_wonder": {
+      "name": "Poalim Wonder",
+      "name_he": "פועלים וונדר",
+      "url": "https://www.bankhapoalim.co.il/he/Poalim-Wonder",
+      "login_required": false,
+      "description": "תוכנית נאמנות בנק הפועלים — שוברים מוזלים ללא צורך בנקודות. חלק מהשוברים כוללים בונוס נקודות. דורש הרשמה (חינם) לחשבון הפועלים."
+    },
+    "gov_xml": {
+      "name": "Gov Price Transparency",
+      "name_he": "שקיפות מחירים ממשלתית",
+      "url": "https://github.com/OpenIsraeliSupermarkets/israeli-supermarket-scarpers",
+      "login_required": false,
+      "description": "קבצי XML יומיים — חובה חוקית לכל רשתות המזון. מאפשר השוואת מחיר מדויקת לפי מוצר. לא מכיל הנחות, רק מחיר רשמי."
+    }
+  },
+  "categories": {
+    "supermarkets": {
+      "he": "רשתות מזון",
+      "stores": [
+        {
+          "name": "Shufersal",
+          "he": "שופרסל"
+        },
+        {
+          "name": "Rami Levy",
+          "he": "רמי לוי"
+        },
+        {
+          "name": "Victory",
+          "he": "ויקטורי"
+        },
+        {
+          "name": "Carrefour",
+          "he": "קרפור"
+        },
+        {
+          "name": "Mega",
+          "he": "מגה"
+        },
+        {
+          "name": "Yeinot Bitan",
+          "he": "יינות ביתן"
+        },
+        {
+          "name": "Shuk HaIr",
+          "he": "שוק העיר"
+        },
+        {
+          "name": "Osher Ad",
+          "he": "אושר עד"
+        },
+        {
+          "name": "Tiv Taam",
+          "he": "טיב טעם"
+        },
+        {
+          "name": "AM:PM",
+          "he": "AM:PM"
+        },
+        {
+          "name": "Yellow",
+          "he": "יילו"
+        },
+        {
+          "name": "Noi HaSadeh",
+          "he": "נוי השדה"
+        }
+      ],
+      "sources": {
+        "htzone_card": {
+          "type": "pos_discount",
+          "max_pct": 20,
+          "verified": true,
+          "notes": "עד 20% אוטומטית במעמד חיוב — ברשתות נבחרות (שופרסל, רמי לוי, ויקטורי, יינות ביתן)"
+        },
+        "htzone_club": {
+          "type": "voucher",
+          "max_pct": 20,
+          "voucher_url": "https://www.htzone.co.il/sale/1147",
+          "verified_url": true,
+          "deals": [],
+          "cached_at": null,
+          "notes": "שוברים לרשתות מזון — צריך לרנדר JS לפרטים מלאים"
+        },
+        "poalim_wonder": {
+          "type": "voucher",
+          "verified": true,
+          "verified_at": "2026-03-06",
+          "source_url": "https://www.bankhapoalim.co.il/he/Poalim-Wonder",
+          "deals": [
+            {
+              "store": "קרפור: שובר בשווי 300 ₪",
+              "description": null,
+              "face_value": null,
+              "price": 300,
+              "extra_points": 50,
+              "effective_pct": null
+            },
+            {
+              "store": "התו המלא מבית רמי לוי",
+              "description": null,
+              "face_value": null,
+              "price": 700,
+              "extra_points": 50,
+              "effective_pct": null
+            }
+          ],
+          "cached_at": "2026-03-07"
+        },
+        "gov_xml": {
+          "type": "price_comparison",
+          "notes": "השוואת מחירים מדויקת לפי מוצר — מקור מאומת ממשלתי",
+          "scraper_repo": "https://github.com/OpenIsraeliSupermarkets/israeli-supermarket-scarpers"
+        }
+      }
+    },
+    "restaurants": {
+      "he": "מסעדות ובתי קפה",
+      "stores": [
+        {
+          "name": "Aroma",
+          "he": "ארומה"
+        },
+        {
+          "name": "Cafe Cafe",
+          "he": "קפה קפה"
+        },
+        {
+          "name": "Cafe Landwer",
+          "he": "קפה לנדוור"
+        },
+        {
+          "name": "Arcaffe",
+          "he": "ארקפה"
+        },
+        {
+          "name": "Cafe Greg",
+          "he": "קפה גרג"
+        },
+        {
+          "name": "Japanika",
+          "he": "ג'פניקה"
+        },
+        {
+          "name": "BBB",
+          "he": "בורגרס בר"
+        },
+        {
+          "name": "Moses",
+          "he": "מוזס"
+        },
+        {
+          "name": "McDonald's",
+          "he": "מקדונלד'ס"
+        },
+        {
+          "name": "YOLO",
+          "he": "YOLO"
+        }
+      ],
+      "sources": {
+        "htzone_card": {
+          "type": "pos_discount",
+          "max_pct": 20,
+          "verified": true,
+          "notes": "עד 20% במסעדות נבחרות — הנחה אוטומטית"
+        },
+        "htzone_club": {
+          "type": "voucher",
+          "max_pct": 20,
+          "voucher_url": "https://www.htzone.co.il/sale/1147",
+          "verified_url": true,
+          "deals": [],
+          "cached_at": null
+        },
+        "poalim_wonder": {
+          "type": "voucher",
+          "verified": true,
+          "verified_at": "2026-03-06",
+          "deals": [
+            {
+              "store": "מקדונלד'ס",
+              "store_en": "McDonald's",
+              "description": "ארוחת ילדים",
+              "price": 15,
+              "extra_points": 25
+            }
+          ]
+        },
+        "htzone_pro2": {
+          "type": "voucher",
+          "notes": "PRO² webview vouchers — no discount for regular HTZone members",
+          "deals": [
+            {
+              "store": "YOLO",
+              "face_value": 150,
+              "price": 119,
+              "webview_url": "https://www.htzone.co.il/webview/101900/YOLO/",
+              "cached_at": "2026-03-07",
+              "notes": "face value + price need browser fetch (PRO² only)",
+              "effective_pct": 20.7
+            }
+          ],
+          "cached_at": "2026-03-07"
+        }
+      }
+    },
+    "delivery": {
+      "he": "משלוחי אוכל",
+      "stores": [
+        {
+          "name": "Wolt",
+          "he": "וולט"
+        },
+        {
+          "name": "10bis",
+          "he": "תן ביס"
+        },
+        {
+          "name": "Cibus",
+          "he": "סיבוס"
+        },
+        {
+          "name": "Carmela",
+          "he": "כרמלה",
+          "note": "online fresh produce delivery"
+        }
+      ],
+      "sources": {
+        "poalim_wonder": {
+          "type": "voucher",
+          "verified": true,
+          "verified_at": "2026-03-06",
+          "deals": [
+            {
+              "store": "וולט",
+              "store_en": "Wolt",
+              "face_value": 100,
+              "price": 80,
+              "extra_points": 25,
+              "effective_pct": 20.0
+            }
+          ]
+        },
+        "htzone_club": {
+          "type": "voucher",
+          "voucher_url": "https://www.htzone.co.il/sale/1147",
+          "verified_url": true,
+          "deals": [],
+          "cached_at": null
+        },
+        "htzone_pro2": {
+          "type": "voucher",
+          "notes": "PRO²-only — no discount for regular HTZone members",
+          "deals": [
+            {
+              "store": "כרמלה",
+              "store_en": "Carmela",
+              "face_value": 350,
+              "price": 305,
+              "effective_pct": 12.9,
+              "webview_url": "https://www.htzone.co.il/webview/149795/%D7%9B%D7%A8%D7%9E%D7%9C%D7%94/",
+              "cached_at": "2026-03-07",
+              "notes": "online-only, min order ₪199, delivery ₪30"
+            }
+          ],
+          "cached_at": "2026-03-07"
+        }
+      }
+    },
+    "pharma": {
+      "he": "בתי מרקחת ופארם",
+      "stores": [
+        {
+          "name": "Super-Pharm",
+          "he": "סופר-פארם"
+        },
+        {
+          "name": "Be",
+          "he": "Be פארם"
+        },
+        {
+          "name": "NewPharm",
+          "he": "ניופארם"
+        },
+        {
+          "name": "GoodPharm",
+          "he": "גודפארם"
+        }
+      ],
+      "sources": {
+        "htzone_card": {
+          "type": "pos_discount",
+          "max_pct": 20,
+          "verified": true,
+          "notes": "עד 20% בסופר-פארם ופארמה נבחרת — הנחה אוטומטית"
+        },
+        "htzone_club": {
+          "type": "voucher",
+          "voucher_url": "https://www.htzone.co.il/sale/1147",
+          "verified_url": true,
+          "deals": [],
+          "cached_at": null,
+          "webview_urls": {
+            "גודפארם": "https://www.htzone.co.il/webview/110366/GOOD-PHARM/"
+          }
+        },
+        "htzone_pro2": {
+          "type": "voucher",
+          "notes": "PRO²-only — regular HTZone members pay face value",
+          "deals": [
+            {
+              "store": "גודפארם",
+              "store_en": "GoodPharm",
+              "face_value": 200,
+              "price": 180,
+              "effective_pct": 10.0,
+              "webview_url": "https://www.htzone.co.il/webview/110366/GOOD-PHARM/",
+              "cached_at": "2026-03-07"
+            }
+          ],
+          "cached_at": "2026-03-07"
+        }
+      }
+    },
+    "fashion": {
+      "he": "אופנה, הנעלה וטקסטיל",
+      "stores": [
+        {
+          "name": "Castro",
+          "he": "קסטרו"
+        },
+        {
+          "name": "Fox",
+          "he": "פוקס"
+        },
+        {
+          "name": "Golf",
+          "he": "גולף"
+        },
+        {
+          "name": "Renuar",
+          "he": "רנואר"
+        },
+        {
+          "name": "Honigman",
+          "he": "הוניגמן"
+        },
+        {
+          "name": "Zara",
+          "he": "זארה"
+        },
+        {
+          "name": "H&M",
+          "he": "H&M"
+        },
+        {
+          "name": "Hamashbir",
+          "he": "המשביר"
+        },
+        {
+          "name": "SOHO",
+          "he": "SOHO"
+        },
+        {
+          "name": "Kitan",
+          "he": "כיתן"
+        },
+        {
+          "name": "Intima",
+          "he": "אינטימה"
+        },
+        {
+          "name": "Golf Kids",
+          "he": "גולף קידס"
+        },
+        {
+          "name": "Vardinon",
+          "he": "ורדינון"
+        },
+        {
+          "name": "B Good",
+          "he": "Bגוד",
+          "note": "fashion chain, in-store only"
+        },
+        {
+          "name": "Terminal X",
+          "he": "טרמינל X"
+        },
+        {
+          "name": "Naale Nimrod",
+          "he": "נעלי נמרוד",
+          "note": "shoe chain"
+        },
+        {
+          "he": "שילב",
+          "en": "Shilav"
+        }
+      ],
+      "sources": {
+        "htzone_card": {
+          "type": "pos_discount",
+          "max_pct": 20,
+          "verified": true,
+          "notes": "עד 20% ברשתות אופנה נבחרות"
+        },
+        "htzone_club": {
+          "type": "voucher",
+          "max_pct": 20,
+          "voucher_url": "https://www.htzone.co.il/sale/1147",
+          "verified_url": true,
+          "deals": [
+            {
+              "store": "טרמינל X",
+              "face_value": 300,
+              "price": 279,
+              "effective_pct": 7.0,
+              "cached_at": "2026-03-07",
+              "notes": "scraped from HTZone webview"
+            },
+            {
+              "store": "נעלי נמרוד",
+              "face_value": 250,
+              "price": 235,
+              "effective_pct": 6.0,
+              "cached_at": "2026-03-07",
+              "notes": "scraped from HTZone webview"
+            }
+          ],
+          "cached_at": null
+        },
+        "poalim_wonder": {
+          "type": "voucher",
+          "verified": true,
+          "verified_at": "2026-03-06",
+          "source_url": "https://www.bankhapoalim.co.il/he/Poalim-Wonder/Shopping",
+          "deals": [
+            {
+              "store": "קסטרו",
+              "description": null,
+              "face_value": null,
+              "price": 150,
+              "extra_points": 25,
+              "effective_pct": null
+            },
+            {
+              "store": "SOHO",
+              "description": null,
+              "face_value": null,
+              "price": 200,
+              "extra_points": 50,
+              "effective_pct": null
+            },
+            {
+              "store": "רשת ורדינון",
+              "description": null,
+              "face_value": null,
+              "price": 100,
+              "extra_points": 25,
+              "effective_pct": null
+            },
+            {
+              "store": "רשת KITAN",
+              "description": null,
+              "face_value": null,
+              "price": 150,
+              "extra_points": 25,
+              "effective_pct": null
+            },
+            {
+              "store": "GOLF KIDS",
+              "description": null,
+              "face_value": null,
+              "price": 150,
+              "extra_points": 25,
+              "effective_pct": null
+            },
+            {
+              "store": "רשת INTIMA",
+              "description": null,
+              "face_value": null,
+              "price": 150,
+              "extra_points": 25,
+              "effective_pct": null
+            },
+            {
+              "store": "שילב",
+              "store_en": "Shilav",
+              "face_value": 150,
+              "price": 100,
+              "effective_pct": 33.3,
+              "benefit_id": 441,
+              "benefit_url": "https://links.bankhapoalim.co.il/wonder/benefit/441",
+              "cached_at": "2026-03-07",
+              "notes": ""
+            },
+            {
+              "store": "טרמינל X",
+              "store_en": "Terminal X",
+              "face_value": 300,
+              "price": 260,
+              "effective_pct": 13.3,
+              "benefit_id": 5867,
+              "benefit_url": "https://links.bankhapoalim.co.il/wonder/benefit/5867",
+              "cached_at": "2026-03-07",
+              "notes": ""
+            }
+          ],
+          "cached_at": "2026-03-07"
+        },
+        "htzone_pro2": {
+          "type": "voucher",
+          "notes": "PRO²-only webview vouchers — regular HTZone members pay face value",
+          "deals": [
+            {
+              "store": "Bגוד",
+              "face_value": 100,
+              "price": 90,
+              "effective_pct": 10.0,
+              "webview_url": "https://www.htzone.co.il/webview/118758/%D7%A9%D7%95%D7%91%D7%A8-%D7%91%D7%A9%D7%95%D7%95%D7%99-100-%E2%82%AA-%D7%9C%D7%9E%D7%99%D7%9E%D7%95%D7%A9-%D7%91%D7%A8%D7%A9%D7%AA-B%D7%92%D7%95%D7%93/",
+              "cached_at": "2026-03-07",
+              "notes": "in-store only, includes sale stacking"
+            },
+            {
+              "store": "טרמינל X",
+              "store_en": "Terminal X",
+              "face_value": 300,
+              "price": 259,
+              "webview_url": "https://www.htzone.co.il/webview/131850/TERMINAL-X---%D7%A9%D7%95%D7%91%D7%A8-%D7%9B%D7%A1%D7%A4%D7%99-%D7%91%D7%A9%D7%95%D7%95%D7%99-300-%E2%82%AA/",
+              "cached_at": "2026-03-07",
+              "notes": "price needs browser fetch (PRO² only)",
+              "effective_pct": 13.7
+            },
+            {
+              "store": "נעלי נמרוד",
+              "store_en": "Naale Nimrod",
+              "face_value": 250,
+              "price": 215,
+              "webview_url": "https://www.htzone.co.il/webview/112494/%D7%A9%D7%95%D7%91%D7%A8-%D7%9C%D7%A8%D7%A9%D7%AA-%D7%A0%D7%A2%D7%9C%D7%99-%D7%A0%D7%9E%D7%A8%D7%95%D7%93-%D7%91%D7%A9%D7%95%D7%95%D7%99-250-%E2%82%AA/",
+              "cached_at": "2026-03-07",
+              "notes": "price needs browser fetch (PRO² only)",
+              "effective_pct": 14.0
+            }
+          ],
+          "cached_at": "2026-03-07"
+        }
+      }
+    },
+    "electronics": {
+      "he": "חשמל ואלקטרוניקה",
+      "stores": [
+        {
+          "name": "KSP",
+          "he": "KSP"
+        },
+        {
+          "name": "Bug",
+          "he": "באג"
+        },
+        {
+          "name": "Ivory",
+          "he": "איווורי"
+        },
+        {
+          "name": "Machsanei Hashmal",
+          "he": "מחסני חשמל"
+        },
+        {
+          "name": "Electra",
+          "he": "אלקטרה"
+        },
+        {
+          "name": "iDigital",
+          "he": "איידיגיטל"
+        }
+      ],
+      "sources": {
+        "htzone_club": {
+          "type": "voucher",
+          "voucher_url": "https://www.htzone.co.il/sale/1147",
+          "verified_url": true,
+          "deals": [],
+          "cached_at": null
+        },
+        "htzone_pro2": {
+          "type": "cashback",
+          "max_pct": 15,
+          "verified": true,
+          "notes": "3%-15% קאשבק על רכישות באתר htzone.co.il (לא ישירות בחנות)"
+        }
+      }
+    },
+    "entertainment": {
+      "he": "בילויים ופנאי",
+      "stores": [
+        {
+          "name": "Yes Planet",
+          "he": "יס פלאנט"
+        },
+        {
+          "name": "Cinema City",
+          "he": "סינמה סיטי"
+        },
+        {
+          "name": "Hot Cinema",
+          "he": "הוט סינמה"
+        },
+        {
+          "name": "Planet",
+          "he": "פלאנט"
+        },
+        {
+          "name": "Lev Cinema",
+          "he": "לב סינמה"
+        },
+        {
+          "name": "Comedy Bar",
+          "he": "קומדי בר"
+        },
+        {
+          "name": "Cinematheque TLV",
+          "he": "סינמטק תל אביב"
+        },
+        {
+          "he": "סקיי ג'אמפ",
+          "en": "Sky Jump"
+        },
+        {
+          "he": "ספארי",
+          "en": "Safari"
+        }
+      ],
+      "sources": {
+        "poalim_wonder": {
+          "type": "voucher",
+          "verified": true,
+          "verified_at": "2026-03-06",
+          "deals": [
+            {
+              "store": "פלאנט סינמה",
+              "store_en": "Planet Cinema",
+              "description": "זוג כרטיסים לסרט — כל ימות השבוע",
+              "price": 45,
+              "extra_points": 25
+            },
+            {
+              "store": "לב סינמה",
+              "store_en": "Lev Cinema",
+              "face_value": null,
+              "price": 45,
+              "effective_pct": null,
+              "benefit_id": 4426,
+              "benefit_url": "https://links.bankhapoalim.co.il/wonder/benefit/4426",
+              "cached_at": "2026-03-07",
+              "notes": "2 tickets for ₪45"
+            },
+            {
+              "store": "סקיי ג'אמפ",
+              "store_en": "Sky Jump",
+              "face_value": null,
+              "price": 45,
+              "effective_pct": null,
+              "benefit_id": 4685,
+              "benefit_url": "https://links.bankhapoalim.co.il/wonder/benefit/4685",
+              "cached_at": "2026-03-07",
+              "notes": "single ticket"
+            },
+            {
+              "store": "ספארי",
+              "store_en": "Safari",
+              "face_value": null,
+              "price": 75,
+              "effective_pct": null,
+              "benefit_id": 5979,
+              "benefit_url": "https://links.bankhapoalim.co.il/wonder/benefit/5979",
+              "cached_at": "2026-03-07",
+              "notes": "single ticket"
+            }
+          ]
+        },
+        "htzone_club": {
+          "type": "voucher",
+          "voucher_url": "https://www.htzone.co.il/sale/1147",
+          "verified_url": true,
+          "deals": [],
+          "cached_at": null,
+          "notes": "שוברים לקולנוע, ספא, הופעות — מחייב בדיקת אתר",
+          "item_urls": {
+            "הוט סינמה": "https://www.htzone.co.il/item/92665/%D7%A8%D7%A9%D7%AA-%D7%91%D7%AA%D7%99-%D7%A7%D7%95%D7%9C%D7%A0%D7%95%D7%A2-%D7%94%D7%95%D7%98-%D7%A1%D7%99%D7%A0%D7%9E%D7%94/",
+            "פלאנט": "https://www.htzone.co.il/item/109172/%D7%A8%D7%A9%D7%AA-%D7%A4%D7%9C%D7%90%D7%A0%D7%98-%D7%95%D7%A8%D7%91-%D7%97%D7%9F/",
+            "סינמה סיטי": "https://www.htzone.co.il/item/64452/%D7%A8%D7%A9%D7%AA-%D7%91%D7%AA%D7%99-%D7%A7%D7%95%D7%9C%D7%A0%D7%95%D7%A2-%D7%A1%D7%99%D7%A0%D7%9E%D7%94-%D7%A1%D7%99%D7%98%D7%99/",
+            "לב סינמה": "https://www.htzone.co.il/item/68678/%D7%A8%D7%A9%D7%AA-%D7%91%D7%AA%D7%99-%D7%A7%D7%95%D7%9C%D7%A0%D7%95%D7%A2-%D7%9C%D7%91/",
+            "סינמטק תל אביב": "https://www.htzone.co.il/item/118432/%D7%A1%D7%99%D7%A0%D7%9E%D7%98%D7%A7-%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91/"
+          }
+        }
+      }
+    },
+    "gifts_gift_cards": {
+      "he": "מתנות ותווי קנייה",
+      "stores": [
+        {
+          "name": "GiftZone",
+          "he": "GiftZone"
+        },
+        {
+          "name": "Love Gift Card",
+          "he": "Love Gift Card"
+        },
+        {
+          "name": "Dream Card",
+          "he": "Dream Card"
+        },
+        {
+          "name": "Gifta",
+          "he": "Gifta"
+        }
+      ],
+      "sources": {
+        "poalim_wonder": {
+          "type": "voucher",
+          "verified": true,
+          "verified_at": "2026-03-06",
+          "source_url": "https://www.bankhapoalim.co.il/he/Poalim-Wonder/Shopping",
+          "deals": [
+            {
+              "store": "GiftZone",
+              "description": null,
+              "face_value": null,
+              "price": 100,
+              "extra_points": 50,
+              "effective_pct": null
+            },
+            {
+              "store": "LOVE GIFT CARD",
+              "description": null,
+              "face_value": null,
+              "price": 150,
+              "extra_points": 25,
+              "effective_pct": null
+            },
+            {
+              "store": "DREAM CARD",
+              "description": null,
+              "face_value": null,
+              "price": 150,
+              "extra_points": 25,
+              "effective_pct": null
+            },
+            {
+              "store": "Gifta- כל מה שצריך במתנה",
+              "description": null,
+              "face_value": null,
+              "price": 200,
+              "extra_points": 25,
+              "effective_pct": null
+            }
+          ],
+          "cached_at": "2026-03-07"
+        }
+      }
+    },
+    "home_kitchen": {
+      "he": "בית, מטבח וטקסטיל",
+      "stores": [
+        {
+          "name": "IKEA",
+          "he": "איקאה"
+        },
+        {
+          "name": "Ace",
+          "he": "אייס"
+        },
+        {
+          "name": "Home Center",
+          "he": "הום סנטר"
+        },
+        {
+          "name": "Soltam",
+          "he": "סלטם"
+        },
+        {
+          "name": "Keter",
+          "he": "כתר"
+        }
+      ],
+      "sources": {
+        "htzone_club": {
+          "type": "voucher",
+          "voucher_url": "https://www.htzone.co.il/sale/1147",
+          "verified_url": true,
+          "deals": [
+            {
+              "store": "הום סנטר",
+              "face_value": 300,
+              "price": 280,
+              "effective_pct": 6.7,
+              "cached_at": "2026-03-07",
+              "notes": "scraped from HTZone webview"
+            }
+          ],
+          "cached_at": null
+        },
+        "poalim_wonder": {
+          "type": "voucher",
+          "verified": true,
+          "verified_at": "2026-03-06",
+          "source_url": "https://www.bankhapoalim.co.il/he/Poalim-Wonder/Shopping",
+          "deals": [
+            {
+              "store": "רשת SOLTAM",
+              "description": null,
+              "face_value": null,
+              "price": 100,
+              "extra_points": 25,
+              "effective_pct": null
+            }
+          ],
+          "cached_at": "2026-03-07"
+        },
+        "htzone_pro2": {
+          "type": "voucher",
+          "notes": "PRO²-only webview vouchers",
+          "deals": [
+            {
+              "store": "הום סנטר",
+              "store_en": "Home Center",
+              "face_value": 300,
+              "price": 255,
+              "webview_url": "https://www.htzone.co.il/webview/124611/%D7%94%D7%95%D7%9D-%D7%A1%D7%A0%D7%98%D7%A8---%D7%A9%D7%95%D7%91%D7%A8-300-%E2%82%AA/",
+              "cached_at": "2026-03-07",
+              "notes": "price needs browser fetch (PRO² only)",
+              "effective_pct": 15.0
+            }
+          ],
+          "cached_at": "2026-03-07"
+        }
+      }
+    },
+    "household_products": {
+      "he": "מוצרי ניקיון ובית",
+      "stores": [
+        {
+          "name": "Sano",
+          "he": "סנו"
+        },
+        {
+          "name": "Fabuloso",
+          "he": "פבולוסו"
+        }
+      ],
+      "sources": {
+        "poalim_wonder": {
+          "type": "voucher",
+          "verified": true,
+          "verified_at": "2026-03-06",
+          "source_url": "https://www.bankhapoalim.co.il/he/Poalim-Wonder/Shopping",
+          "deals": [
+            {
+              "store": "סנו עד הבית",
+              "description": null,
+              "face_value": null,
+              "price": 150,
+              "extra_points": 50,
+              "effective_pct": null
+            }
+          ],
+          "cached_at": "2026-03-07"
+        }
+      }
+    },
+    "travel": {
+      "he": "תיירות ונופש",
+      "stores": [
+        {
+          "name": "Issta",
+          "he": "איסתא"
+        },
+        {
+          "name": "Eshet Tours",
+          "he": "אשת טורס"
+        },
+        {
+          "name": "Booking.com",
+          "he": "בוקינג"
+        },
+        {
+          "name": "Fattal Hotels",
+          "he": "מלונות פתאל"
+        },
+        {
+          "name": "Dan Hotels",
+          "he": "מלונות דן"
+        }
+      ],
+      "sources": {
+        "htzone_card": {
+          "type": "pos_discount",
+          "max_pct": 20,
+          "verified": true,
+          "notes": "עד 20% בתיירות ונופש"
+        },
+        "htzone_club": {
+          "type": "deals",
+          "url": "https://www.htzone.co.il/tripzone",
+          "notes": "TripZone — חבילות נופש, טיסות, מלונות",
+          "deals": [],
+          "cached_at": null
+        }
+      }
+    },
+    "gym_sports": {
+      "he": "כושר וספורט",
+      "stores": [
+        {
+          "name": "Holmes Place",
+          "he": "הולמס פלייס"
+        },
+        {
+          "name": "Sport Club",
+          "he": "ספורט קלאב"
+        },
+        {
+          "name": "Gordon Pool",
+          "he": "בריכת גורדון"
+        },
+        {
+          "name": "Decathlon",
+          "he": "דקטלון"
+        },
+        {
+          "name": "Mega Sport",
+          "he": "מגה ספורט"
+        },
+        {
+          "name": "Pealton",
+          "he": "פעלטון",
+          "note": "sports/games arcade chain"
+        }
+      ],
+      "sources": {
+        "htzone_club": {
+          "type": "voucher",
+          "voucher_url": "https://www.htzone.co.il/sale/1147",
+          "verified_url": true,
+          "deals": [],
+          "cached_at": null,
+          "item_urls": {
+            "פעלטון": "https://www.htzone.co.il/item/92331/pealton---%D7%A8%D7%A9%D7%AA-%D7%9E%D7%A9%D7%97%D7%A7%D7%99%D7%95%D7%AA-%D7%A4%D7%A2%D7%9C%D7%98%D7%95%D7%9F/"
+          }
+        },
+        "poalim_wonder": {
+          "type": "voucher",
+          "verified": true,
+          "verified_at": "2026-03-06",
+          "source_url": "https://www.bankhapoalim.co.il/he/Poalim-Wonder/Shopping",
+          "deals": [
+            {
+              "store": "רשת מגה ספורט",
+              "description": null,
+              "face_value": null,
+              "price": 250,
+              "extra_points": 25,
+              "effective_pct": null
+            },
+            {
+              "store": "פעלטון",
+              "store_en": "Pealton",
+              "face_value": null,
+              "price": 44,
+              "effective_pct": null,
+              "cached_at": "2026-03-07",
+              "notes": "single ticket",
+              "benefit_id": 5986
+            }
+          ],
+          "cached_at": "2026-03-07"
+        }
+      }
+    },
+    "fuel": {
+      "he": "דלק",
+      "stores": [
+        {
+          "name": "Paz",
+          "he": "פז"
+        },
+        {
+          "name": "Sonol",
+          "he": "סונול"
+        },
+        {
+          "name": "Delek",
+          "he": "דלק"
+        },
+        {
+          "name": "Ten",
+          "he": "טן"
+        }
+      ],
+      "sources": {
+        "htzone_card": {
+          "type": "pos_discount",
+          "max_pct": 5,
+          "verified": true,
+          "notes": "הנחה קטנה בתחנות דלק נבחרות"
+        }
+      }
+    },
+    "kids_baby": {
+      "he": "ילדים ותינוקות",
+      "stores": [
+        {
+          "name": "Shilav",
+          "he": "שילב"
+        },
+        {
+          "name": "Toys R Us",
+          "he": "טויס אר אס"
+        },
+        {
+          "name": "Baby Land",
+          "he": "בייבילנד"
+        }
+      ],
+      "sources": {
+        "htzone_club": {
+          "type": "voucher",
+          "voucher_url": "https://www.htzone.co.il/sale/1147",
+          "verified_url": true,
+          "deals": [],
+          "cached_at": null
+        },
+        "poalim_wonder": {
+          "type": "voucher",
+          "verified": true,
+          "verified_at": "2026-03-07",
+          "deals": [
+            {
+              "store": "טויס אר אס",
+              "store_en": "Toys R Us",
+              "face_value": 150,
+              "price": 115,
+              "effective_pct": 23.3,
+              "benefit_id": 5734,
+              "benefit_url": "https://links.bankhapoalim.co.il/wonder/benefit/5734",
+              "cached_at": "2026-03-07",
+              "notes": ""
+            }
+          ]
+        }
+      }
+    },
+    "office_stationery": {
+      "he": "ספרים, ציוד משרדי ומחשבים",
+      "stores": [
+        {
+          "name": "Kravitz",
+          "he": "קרביץ",
+          "note": "office supplies & stationery chain"
+        }
+      ],
+      "sources": {
+        "htzone_pro2": {
+          "type": "voucher",
+          "cached_at": "2026-03-07",
+          "notes": "PRO²-only — no discount for regular HTZone members",
+          "deals": [
+            {
+              "store": "קרביץ",
+              "store_en": "Kravitz",
+              "face_value": 250,
+              "price": 199,
+              "webview_url": "https://www.htzone.co.il/webview/83676/%D7%A9%D7%95%D7%91%D7%A8-%D7%9C%D7%A8%D7%A9%D7%AA-%D7%A7%D7%A8%D7%91%D7%99%D7%A5-%D7%91%D7%A9%D7%95%D7%95%D7%99-250-%E2%82%AA/",
+              "cached_at": "2026-03-07",
+              "notes": "price needs browser fetch (PRO² only)",
+              "effective_pct": 20.4
+            }
+          ]
+        },
+        "poalim_wonder": {
+          "type": "voucher",
+          "verified": true,
+          "verified_at": "2026-03-07",
+          "deals": [
+            {
+              "store": "קרביץ",
+              "store_en": "Kravitz",
+              "face_value": 200,
+              "price": 175,
+              "effective_pct": 12.5,
+              "benefit_id": 5933,
+              "benefit_url": "https://links.bankhapoalim.co.il/wonder/benefit/5933",
+              "cached_at": "2026-03-07",
+              "notes": ""
+            }
+          ]
+        }
+      }
+    },
+    "books_culture": {
+      "name": {
+        "he": "ספרים ותרבות",
+        "en": "Books & Culture"
+      },
+      "stores": [
+        {
+          "he": "סטימצקי",
+          "en": "Steimatzky"
+        }
+      ],
+      "sources": {
+        "poalim_wonder": {
+          "type": "voucher",
+          "verified": true,
+          "verified_at": "2026-03-07",
+          "deals": [
+            {
+              "store": "סטימצקי",
+              "store_en": "Steimatzky",
+              "face_value": 50,
+              "price": 29,
+              "effective_pct": 42.0,
+              "benefit_id": 6346,
+              "benefit_url": "https://links.bankhapoalim.co.il/wonder/benefit/6346",
+              "cached_at": "2026-03-07",
+              "notes": ""
+            }
+          ]
+        }
+      }
+    }
+  },
+  "quick_lookup": {
+    "store_to_category": {
+      "שופרסל": "supermarkets",
+      "רמי לוי": "supermarkets",
+      "ויקטורי": "supermarkets",
+      "קרפור": "supermarkets",
+      "מגה": "supermarkets",
+      "יינות ביתן": "supermarkets",
+      "שוק העיר": "supermarkets",
+      "אושר עד": "supermarkets",
+      "טיב טעם": "supermarkets",
+      "AM:PM": "supermarkets",
+      "יילו": "supermarkets",
+      "נוי השדה": "supermarkets",
+      "קשת טעמים": "supermarkets",
+      "ארומה": "restaurants",
+      "קפה קפה": "restaurants",
+      "קפה לנדוור": "restaurants",
+      "ארקפה": "restaurants",
+      "קפה גרג": "restaurants",
+      "ג'פניקה": "restaurants",
+      "בורגרס בר": "restaurants",
+      "מוזס": "restaurants",
+      "מקדונלד'ס": "restaurants",
+      "וולט": "delivery",
+      "תן ביס": "delivery",
+      "סיבוס": "delivery",
+      "סופר-פארם": "pharma",
+      "ניופארם": "pharma",
+      "גודפארם": "pharma",
+      "Be פארם": "pharma",
+      "קסטרו": "fashion",
+      "פוקס": "fashion",
+      "גולף": "fashion",
+      "רנואר": "fashion",
+      "זארה": "fashion",
+      "המשביר": "fashion",
+      "SOHO": "fashion",
+      "כיתן": "fashion",
+      "אינטימה": "fashion",
+      "גולף קידס": "fashion",
+      "ורדינון": "fashion",
+      "KSP": "electronics",
+      "באג": "electronics",
+      "איווורי": "electronics",
+      "מחסני חשמל": "electronics",
+      "יס פלאנט": "entertainment",
+      "סינמה סיטי": "entertainment",
+      "הוט סינמה": "entertainment",
+      "פלאנט": "entertainment",
+      "לב סינמה": "entertainment",
+      "קומדי בר": "entertainment",
+      "GiftZone": "gifts_gift_cards",
+      "Love Gift Card": "gifts_gift_cards",
+      "Dream Card": "gifts_gift_cards",
+      "Gifta": "gifts_gift_cards",
+      "איקאה": "home_kitchen",
+      "אייס": "home_kitchen",
+      "הום סנטר": "home_kitchen",
+      "סלטם": "home_kitchen",
+      "סנו": "household_products",
+      "איסתא": "travel",
+      "בוקינג": "travel",
+      "מלונות פתאל": "travel",
+      "מלונות דן": "travel",
+      "הולמס פלייס": "gym_sports",
+      "דקטלון": "gym_sports",
+      "מגה ספורט": "gym_sports",
+      "פז": "fuel",
+      "סונול": "fuel",
+      "דלק": "fuel",
+      "שילב": "kids_baby",
+      "טויס אר אס": "kids_baby",
+      "בייבילנד": "kids_baby",
+      "YOLO": "restaurants",
+      "קרביץ": "office_stationery",
+      "כרמלה": "delivery",
+      "Bגוד": "fashion",
+      "טרמינל X": "fashion",
+      "Terminal X": "fashion",
+      "נעלי נמרוד": "fashion",
+      "פעלטון": "gym_sports",
+      "סינמטק": "entertainment",
+      "סינמטק תל אביב": "entertainment",
+      "Kravitz": "office_stationery"
+    },
+    "best_sources_by_category": {
+      "supermarkets": [
+        "poalim_wonder",
+        "htzone_card",
+        "gov_xml"
+      ],
+      "restaurants": [
+        "htzone_card",
+        "htzone_club",
+        "poalim_wonder",
+        "htzone_pro2"
+      ],
+      "delivery": [
+        "poalim_wonder",
+        "htzone_club",
+        "htzone_pro2"
+      ],
+      "pharma": [
+        "htzone_card",
+        "htzone_club",
+        "htzone_pro2"
+      ],
+      "fashion": [
+        "poalim_wonder",
+        "htzone_club",
+        "htzone_card",
+        "htzone_pro2"
+      ],
+      "electronics": [
+        "htzone_pro2",
+        "htzone_club"
+      ],
+      "entertainment": [
+        "poalim_wonder",
+        "htzone_club"
+      ],
+      "gifts_gift_cards": [
+        "poalim_wonder"
+      ],
+      "home_kitchen": [
+        "poalim_wonder",
+        "htzone_club",
+        "htzone_pro2"
+      ],
+      "household_products": [
+        "poalim_wonder"
+      ],
+      "travel": [
+        "htzone_card",
+        "htzone_club"
+      ],
+      "gym_sports": [
+        "poalim_wonder",
+        "htzone_club"
+      ],
+      "fuel": [
+        "htzone_card"
+      ],
+      "kids_baby": [
+        "htzone_club"
+      ],
+      "office_stationery": [
+        "htzone_pro2"
+      ]
+    }
+  },
+  "meta": {
+    "cache_ttl_days": 30,
+    "verified_sources": {
+      "poalim_wonder": "Fully scraped from public pages — 2026-03-06",
+      "htzone_structural": "Confirmed from public pages — structural % only, deal specifics require login/JS",
+      "htzone_urls": "Only /sale/62 (POS discounts) and /sale/1147 (vouchers) confirmed. Per-category sub-IDs require login."
+    },
+    "known_gaps": [
+      "HTZone PRO² prices for: Terminal X ₪300, נעלי נמרוד ₪250, הום סנטר ₪300, YOLO, קרביץ ₪250 — needs browser fetch",
+      "HTZone POS discount specifics per store (which exact stores get which %)",
+      "Max / Isracard deals — not yet researched",
+      "Poalim Wonder deals for: כרמלה, YOLO, קרביץ, Terminal X, נעלי נמרוד, פעלטון, סינמטק",
+      "PRO² note: webview vouchers have NO discount for regular HTZone members — PRO² card required"
+    ]
+  }
+}

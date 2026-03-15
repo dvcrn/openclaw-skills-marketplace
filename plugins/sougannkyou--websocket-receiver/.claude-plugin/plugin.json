@@ -1,0 +1,10 @@
+{
+  "name": "sougannkyou--websocket-receiver",
+  "description": "WebSocket data receiver skill for learning and practice. Supports auto-reconnect, batch processing, and AI analysis.",
+  "version": "1.1.2",
+  "author": {
+    "name": "sougannkyou"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sougannkyou/websocket-receiver",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sougannkyou/websocket-receiver"
+}

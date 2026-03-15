@@ -1,0 +1,10 @@
+{
+  "name": "ndtchan--portfolio-risk-manager",
+  "description": "Thiết lập kỷ luật quản trị danh mục (IPS mini) + position sizing theo risk budgeting cho nhà đầu tư cổ phiếu (không margin), biến khuyến nghị thành “có điều kiện” (trigger/invalidation/horizon/confidence), giảm overtrading và giúp daily/weekly/monthly nhất quán.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ndtchan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ndtchan/portfolio-risk-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ndtchan/portfolio-risk-manager"
+}

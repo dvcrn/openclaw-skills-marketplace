@@ -1,0 +1,10 @@
+{
+  "name": "pauldelavallaz--morpheus-fashion-design",
+  "description": "Generate professional advertising images with AI models holding/wearing products.\n \n ✅ USE WHEN:\n - Need a person/model in the image WITH a product\n - Creating fashion ads, product campaigns, commercial photography\n - Want consistent model face across multiple shots\n - Need professional lighting/camera simulation\n - Input: product image + model reference (or catalog)\n \n ❌ DON'T USE WHEN:\n - Just editing/modifying an existing image → use nano-banana-pro\n - Product-only shot without a person → use nano-banana-pro\n - Already have the hero image, need variations → use multishot-ugc\n - Need video, not image → use veed-ugc after generating image\n - URL-based product fetch with brand profile → use ad-ready instead\n \n OUTPUT: Single high-quality PNG image (2K-4K resolution)",
+  "version": "1.4.0",
+  "author": {
+    "name": "pauldelavallaz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/morpheus-fashion-design",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/morpheus-fashion-design"
+}

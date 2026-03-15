@@ -1,0 +1,10 @@
+{
+  "name": "h4gen--deep-researcher",
+  "description": "Meta-skill for iterative, hypothesis-driven deep research using deepresearchwork, tavily-search, literature-search (Semantic Scholar mapping), and perplexity-deep-search. Use when the user needs multi-round evidence gathering, contradiction resolution, source-quality assessment, and a scientific-style Markdown report with footnotes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "h4gen"
+  },
+  "homepage": "https://clawhub.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/h4gen/deep-researcher"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "shuowang-ai--knowair-air-quality",
+  "description": "Get hourly (up to 360 hours) and daily (up to 15 days) weather forecasts by latitude and longitude via the Caiyun Weather API. Returns temperature trends, weather conditions, precipitation probability, wind, humidity, and life indices. Supports configurable detail levels. Use when the user asks about weather forecast, tomorrow's weather, weekly forecast, hourly forecast, will it rain, temperature trend, or future weather.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shuowang-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shuowang-ai/knowair-air-quality",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shuowang-ai/knowair-air-quality"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "steipete--video-frames",
+  "description": "Extract frames or short clips from videos using ffmpeg.",
+  "version": "1.0.0",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "https://ffmpeg.org",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/video-frames"
+}

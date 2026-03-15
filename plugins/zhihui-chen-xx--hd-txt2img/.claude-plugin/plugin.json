@@ -1,0 +1,10 @@
+{
+  "name": "zhihui-chen-xx--hd-txt2img",
+  "description": "Call Hidream txt2img async API with exposed auth and request parameters. Use when users need to generate images from text prompts, build runnable Python command examples, enforce allowed resolution values, or troubleshoot Hidream task polling/results.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhihui-chen-xx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhihui-chen-xx/hd-txt2img",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhihui-chen-xx/hd-txt2img"
+}

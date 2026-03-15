@@ -1,0 +1,10 @@
+{
+  "name": "sunshine-del-ux--chrome-extension-generator",
+  "description": "一键生成 Chrome 扩展程序模板，支持 Popup、Background Script、Content Script、Options 页面等多种类型。",
+  "version": "1.0.0",
+  "author": {
+    "name": "sunshine-del-ux"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunshine-del-ux/chrome-extension-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunshine-del-ux/chrome-extension-generator"
+}

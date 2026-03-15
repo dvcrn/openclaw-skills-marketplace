@@ -1,0 +1,10 @@
+{
+  "name": "stanlee000--vivid-business-account-opening",
+  "description": "Open a Vivid Business account via a remote MCP server. Collects legal entity data from the user in chat, then calls build_onboarding_link to generate a pre-filled onboarding URL. The tool only creates a link — no bank account is opened and no financial data is accessed. No local install or credentials required.",
+  "version": "1.0.3",
+  "author": {
+    "name": "stanlee000"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stanlee000/vivid-business-account-opening",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stanlee000/vivid-business-account-opening"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jeong-wooseok--webnovel-serial-pipeline",
+  "description": "Build and publish a Quartz-hosted Korean web-novel serial (draft→cover→webp→episode md→lint→publish). Uses Nano Banana Pro + ffmpeg.",
+  "version": "0.1.4",
+  "author": {
+    "name": "jeong-wooseok"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jeong-wooseok/webnovel-serial-pipeline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeong-wooseok/webnovel-serial-pipeline"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "phantom5125--flashformat",
+  "description": "Provide five repository-local format conversion scripts (yaml-to-json, json-to-yaml, markdown-to-text, json-minify, yaml-auto-fix) for offline CLI and pipeline usage without running FlashFormat API. Use when users ask for local format conversion, batch processing, or CI-friendly text normalization.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phantom5125"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phantom5125/flashformat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phantom5125/flashformat"
+}

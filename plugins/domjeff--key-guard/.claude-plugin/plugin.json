@@ -1,0 +1,10 @@
+{
+  "name": "domjeff--key-guard",
+  "description": "Security guardrail: prevents API keys from being sent to Claude. Triggers when user asks to call an external API, use a key, check credentials, read .env files, or view/edit scripts that may contain hardcoded keys. Always routes key usage through the local MCP server instead.",
+  "version": "1.0.1",
+  "author": {
+    "name": "domjeff"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/domjeff/key-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/domjeff/key-guard"
+}

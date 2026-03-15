@@ -1,0 +1,10 @@
+{
+  "name": "dylanport--whistle-rpc",
+  "description": "Production Solana RPC for AI agents. Unlimited JSON-RPC, WebSocket. 1 SOL/month via on-chain payment. No rate limits, no tiers.",
+  "version": "1.0.5",
+  "author": {
+    "name": "dylanport"
+  },
+  "homepage": "https://whistle.ninja",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dylanport/whistle-rpc"
+}

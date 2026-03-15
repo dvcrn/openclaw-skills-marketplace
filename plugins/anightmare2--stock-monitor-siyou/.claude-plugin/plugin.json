@@ -1,0 +1,10 @@
+{
+  "name": "anightmare2--stock-monitor-siyou",
+  "description": "自动监控股票价格，突破阈值时自动发送飞书语音提醒。支持多只股票、自定义阈值、交易时间判断。",
+  "version": "2.0.0",
+  "author": {
+    "name": "anightmare2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anightmare2/stock-monitor-siyou",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anightmare2/stock-monitor-siyou"
+}

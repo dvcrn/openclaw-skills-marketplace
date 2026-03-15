@@ -1,0 +1,10 @@
+{
+  "name": "picseeinc--picsee-short-link",
+  "description": "PicSee URL shortener with QR code generation, analytics charts, and link management via CLI. Use when the user asks to shorten a URL, generate QR codes, visualize analytics, list/search links, or mentions PicSee. Supports unauthenticated mode (basic shortening + QR codes + charts) and authenticated mode (full analytics, editing, search). Token stored with AES-256-CBC encryption.",
+  "version": "2.0.1",
+  "author": {
+    "name": "picseeinc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/picseeinc/picsee-short-link",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/picseeinc/picsee-short-link"
+}

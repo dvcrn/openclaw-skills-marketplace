@@ -1,0 +1,10 @@
+{
+  "name": "imaflytok--hedera-mirror",
+  "description": "Query Hedera blockchain data via Mirror Node API. Check balances, token info, transactions, NFTs, and account history. No API key needed — fully public REST API.",
+  "version": "1.1.0",
+  "author": {
+    "name": "imaflytok"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imaflytok/hedera-mirror",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imaflytok/hedera-mirror"
+}

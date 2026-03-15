@@ -1,0 +1,10 @@
+{
+  "name": "rdquanyu--rootdata-crypto",
+  "description": "Query crypto project details, Web3 investor info, funding rounds, and trending projects from RootData. Use this skill when the user asks about blockchain projects, crypto investors, Web3 funding history, investment rounds, or trending crypto projects.",
+  "version": "1.0.2",
+  "author": {
+    "name": "rdquanyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rdquanyu/rootdata-crypto",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rdquanyu/rootdata-crypto"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "vnakhate--openclaw-cost-guardian",
+  "description": "Prevents wasteful token spend. Reviews cron jobs, polling intervals, and model selection before they go live. Recommends cost-saving changes and flags expensive patterns. Invoke when creating cron jobs, workflows, or when asked about costs/usage.",
+  "version": "1.0.5",
+  "author": {
+    "name": "vnakhate"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vnakhate/openclaw-cost-guardian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vnakhate/openclaw-cost-guardian"
+}

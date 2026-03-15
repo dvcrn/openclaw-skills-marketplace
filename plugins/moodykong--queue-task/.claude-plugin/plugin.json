@@ -1,0 +1,10 @@
+{
+  "name": "moodykong--queue-task",
+  "description": "Durable queue-task helper for resumable, idempotent batch jobs in task-father task folders.",
+  "version": "0.1.0",
+  "author": {
+    "name": "moodykong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moodykong/queue-task",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moodykong/queue-task"
+}

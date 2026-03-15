@@ -1,0 +1,10 @@
+{
+  "name": "ark930--bifrost-slpx-info",
+  "description": "Query Bifrost SLPx liquid staking protocol data on Ethereum, Base, Optimism, and Arbitrum.\n Get vETH/ETH exchange rates, APY, TVL, user balances, redemption queue status, and protocol stats\n via on-chain ERC-4626 vault calls and Bifrost REST API.\n Use when users ask about Bifrost staking rates, vETH prices, DeFi yield, or vToken holdings.",
+  "version": "0.1.0",
+  "author": {
+    "name": "ark930"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ark930/bifrost-slpx-info",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ark930/bifrost-slpx-info"
+}

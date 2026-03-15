@@ -1,0 +1,10 @@
+{
+  "name": "halaoluan--halaoluan-openclaw-backup",
+  "description": "定期备份 OpenClaw 数据（支持手动/自动/加密备份）。Use when user asks to backup OpenClaw, create backup, save state, protect data, or schedule automatic backups. Triggers: \"备份\", \"backup\", \"保存数据\", \"定时备份\", \"加密备份\", \"backup to cloud\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "halaoluan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/halaoluan/halaoluan-openclaw-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/halaoluan/halaoluan-openclaw-backup"
+}

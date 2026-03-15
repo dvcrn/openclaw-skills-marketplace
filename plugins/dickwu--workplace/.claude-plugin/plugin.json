@@ -1,0 +1,10 @@
+{
+  "name": "dickwu--workplace",
+  "description": "Manage multiple workplaces (project directories) with multi-agent orchestration, isolated memory, and inter-agent communication. Use when the user mentions: workplace init/list/switch/scan/status/agents/export/import, managing projects, switching between codebases, multi-agent workflows, agent handoff, kernel agent, workspace structure, deploy environments, or any variation of \"workplace\" commands. Also triggered by /workplace slash command. Auto-detects .git folders as workplaces. Each workplace has its own agents, memory, skills, and deployment configs in a .workplace/ directory. Syncs context to Cursor, Claude Code, and OpenCode. Interactive Telegram/Discord UI with inline buttons for switching workplaces, starting agents, and deploying.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dickwu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dickwu/workplace",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dickwu/workplace"
+}

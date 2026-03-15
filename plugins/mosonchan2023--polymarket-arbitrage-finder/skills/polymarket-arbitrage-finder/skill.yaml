@@ -1,0 +1,34 @@
+#BJ|# skill.yaml
+#SB|name: polymarket-arbitrage-finder
+#VK|slug: polymarket-arbitrage-finder
+#HY|version: 1.0.0
+#WZ|author: moson
+#VX|description: 发现 Polymarket 与其他交易所（Kalshi等）之间的套利机会。每次调用自动扣费 0.001 USDT
+#RX|license: MIT
+#RQ|homepage: https://github.com/moson/polymarket-arbitrage-finder
+#JT|
+#TS|tags:
+#JM|  - polymarket
+#BR|  - arbitrage
+#YS|  - trading
+#XR|  - kalshi
+#PP|  - defi
+#KS|
+#PR|permissions:
+#WZ|  - network
+#RJ|
+#RZ|config:
+#QW|  SKILLPAY_API_KEY:
+#PJ|    type: string
+#ZZ|    required: true
+#YV|    description: "SkillPay API Key"
+#PM|    secret: true
+#HQ|
+#VW|entryPoint:
+#SZ|  type: typescript
+#ZK|  path: index.js
+#PB|
+#KX|price:
+#VV|  amount: 0.001
+#RV|  currency: USDT
+#TQ|  per: call

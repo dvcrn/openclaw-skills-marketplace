@@ -1,0 +1,10 @@
+{
+  "name": "cnghockey--sats4ai",
+  "description": "Bitcoin-powered AI tools marketplace via MCP. Generate images (Flux, Seedream, Recraft), text (Kimi K2.5, DeepSeek, GPT-OSS), video (Kling V3), music, speech, 3D models, vision analysis, file conversion, and SMS — all paid per use with Bitcoin Lightning. No API key, no signup, no credit card. Use when you need AI generation tools and want to pay with Lightning micropayments. Works with any Lightning wallet.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cnghockey"
+  },
+  "homepage": "https://sats4ai.com/openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cnghockey/sats4ai"
+}

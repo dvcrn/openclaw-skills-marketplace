@@ -1,0 +1,10 @@
+{
+  "name": "fzlra--gemini-watermark-remover",
+  "description": "Remove visible Gemini AI watermarks from images via reverse alpha blending. Use for cleaning Gemini-generated images, removing the star/sparkle logo watermark.",
+  "version": "1.1.2",
+  "author": {
+    "name": "fzlra"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fzlra/gemini-watermark-remover",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fzlra/gemini-watermark-remover"
+}

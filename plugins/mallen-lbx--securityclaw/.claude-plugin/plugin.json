@@ -1,0 +1,10 @@
+{
+  "name": "mallen-lbx--securityclaw",
+  "description": "Security-first skill auditing and quarantine for OpenClaw skills. Use when installing new skills, reviewing skills from unknown sources, scanning skills for prompt injection/exfiltration/supply-chain risks, or when a bot suspects a skill is malicious. Guides static + optional sandbox checks, quarantines suspicious skills, and produces an owner-action checklist (Delete / Report / Allow / Scan all).",
+  "version": "1.0.0",
+  "author": {
+    "name": "mallen-lbx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mallen-lbx/securityclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mallen-lbx/securityclaw"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "majortal--run402",
+  "description": "Provision Postgres databases, deploy static sites, generate images, and build full-stack webapps on Run402 using x402 micropayments. Use when the user asks to build a webapp, deploy a site, create a database, generate images, or mentions Run402.",
+  "version": "3.0.1",
+  "author": {
+    "name": "majortal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/majortal/run402",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/majortal/run402"
+}

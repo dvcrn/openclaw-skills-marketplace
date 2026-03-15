@@ -1,0 +1,10 @@
+{
+  "name": "guohongbin-git--ml-evolution-agent",
+  "description": "Auto-evolving ML competition agent. Learns from each experiment, accumulates HCC multi-layer memory, and continuously improves LB scores. Inspired by MLE-Bench #1 ML-Master methodology.",
+  "version": "1.0.0",
+  "author": {
+    "name": "guohongbin-git"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guohongbin-git/ml-evolution-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guohongbin-git/ml-evolution-agent"
+}

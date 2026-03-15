@@ -1,0 +1,10 @@
+{
+  "name": "solarise94--123pan-upload",
+  "description": "Upload files to 123pan (123云盘) and generate shareable links. Use when users need to upload files to 123pan and get links for sharing. Supports short share links (privacy-friendly) or direct download links. Works with small files (under 1GB) via single-step upload.",
+  "version": "1.0.0",
+  "author": {
+    "name": "solarise94"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/solarise94/123pan-upload",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/solarise94/123pan-upload"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "luciusrockwing--autonomy-type-based",
+  "description": "Type-based autonomous task queue system. Categorizes tasks by type (research, writing, analysis, maintenance) and lets autonomy work only on value-add tasks while cron handles maintenance. Use when you want autonomous work on specific task types, maximize token efficiency, and maintain clear separation of concerns between autonomous work and scheduled maintenance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "luciusrockwing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luciusrockwing/autonomy-type-based",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luciusrockwing/autonomy-type-based"
+}

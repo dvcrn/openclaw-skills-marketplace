@@ -1,0 +1,10 @@
+{
+  "name": "ghostdragon124--self-updater",
+  "description": "⭐ OPEN SOURCE! GitHub: github.com/GhostDragon124/openclaw-self-updater\n ⭐ ONLY skill with Cron-aware + Idle detection! Auto-updates OpenClaw core & skills, analyzes cron schedules to avoid user tasks, waits for idle time, AI-powered risk assessment, user approval for high-risk updates, and smart notifications.\n Use for: auto-update, maintenance, cron, smart-schedule, skills, gateway, restart, healthcheck, monitoring, ops",
+  "version": "1.4.2",
+  "author": {
+    "name": "ghostdragon124"
+  },
+  "homepage": "https://github.com/GhostDragon124/openclaw-self-updater#readme",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ghostdragon124/self-updater"
+}

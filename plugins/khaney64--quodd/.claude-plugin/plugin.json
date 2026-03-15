@@ -1,0 +1,10 @@
+{
+  "name": "khaney64--quodd",
+  "description": "Fetch real-time stock quotes via Quodd API. Get current prices, daily high/low, and after-hours data for US equities. Use when the user asks for stock prices, quotes, market data, or ticker information.",
+  "version": "1.1.1",
+  "author": {
+    "name": "khaney64"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/khaney64/quodd",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/khaney64/quodd"
+}

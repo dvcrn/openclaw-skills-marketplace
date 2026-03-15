@@ -1,0 +1,10 @@
+{
+  "name": "aimlapihello--aiml-music-generator",
+  "description": "Generate high-quality music/songs via AIMLAPI. Supports Suno, Udio, Minimax, and ElevenLabs music models. Use when the user asks for music, songs, or soundtracks with specific lyrics or styles.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aimlapihello"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aimlapihello/aiml-music-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aimlapihello/aiml-music-generator"
+}

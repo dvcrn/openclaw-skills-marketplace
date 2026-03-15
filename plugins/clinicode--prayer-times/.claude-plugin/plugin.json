@@ -1,0 +1,10 @@
+{
+  "name": "clinicode--prayer-times",
+  "description": "Get instant, accurate Islamic prayer times for any location worldwide. Auto-detects your city or accepts any city/country name globally. Handles typos with smart fuzzy search. Shows Fajr, Sunrise, Dhuhr, Asr, Maghrib, and Isha times in 12-hour format. Works anywhere - UK, USA, Middle East, Asia, Europe, Australia, Africa. Uses ISNA calculation method via Aladhan API. Perfect for Muslims worldwide checking daily salah times.",
+  "version": "1.0.0",
+  "author": {
+    "name": "clinicode"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clinicode/prayer-times",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clinicode/prayer-times"
+}

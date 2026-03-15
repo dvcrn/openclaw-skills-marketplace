@@ -1,0 +1,10 @@
+{
+  "name": "paperbuddha--wash-trade-detector",
+  "description": "Detects and flags wash trades in NFT transaction data using 7 confidence-weighted patterns, protecting all downstream scoring and signals from artificial inflation.",
+  "version": "1.0.4",
+  "author": {
+    "name": "paperbuddha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/paperbuddha/wash-trade-detector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paperbuddha/wash-trade-detector"
+}

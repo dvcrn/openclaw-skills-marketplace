@@ -1,0 +1,10 @@
+{
+  "name": "big-fox--terminal-command-execution",
+  "description": "Execute terminal commands safely and reliably with clear pre-checks, output validation, and recovery steps. Use when users ask to run shell/CLI commands, inspect system state, manage files, install dependencies, start services, debug command failures, or automate command-line workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "big-fox"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/big-fox/terminal-command-execution",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/big-fox/terminal-command-execution"
+}

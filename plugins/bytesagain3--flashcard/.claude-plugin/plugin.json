@@ -1,0 +1,10 @@
+{
+  "name": "bytesagain3--flashcard",
+  "description": "闪卡生成与间隔复习系统。创建闪卡、智能复习、测验模式、导出(Markdown/Anki)、间隔复习算法、学习统计分析。Flashcard creator with spaced repetition, quiz mode, export (Markdown/Anki), learning statistics. Use when you need flashcard capabilities. Triggers on: flashcard.",
+  "version": "2.2.0",
+  "author": {
+    "name": "bytesagain3"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bytesagain3/flashcard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bytesagain3/flashcard"
+}

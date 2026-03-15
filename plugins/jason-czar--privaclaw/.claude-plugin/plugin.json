@@ -1,0 +1,10 @@
+{
+  "name": "jason-czar--privaclaw",
+  "description": "Secure outbound-only relay for remote OpenClaw control — no exposed ports, no SSH, no Telegram.",
+  "version": "1.0.4",
+  "author": {
+    "name": "jason-czar"
+  },
+  "homepage": "https://github.com/openclaw/privaclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jason-czar/privaclaw"
+}

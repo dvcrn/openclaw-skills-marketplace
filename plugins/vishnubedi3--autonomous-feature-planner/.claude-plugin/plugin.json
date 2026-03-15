@@ -1,0 +1,10 @@
+{
+  "name": "vishnubedi3--autonomous-feature-planner",
+  "description": "Autonomously plans and specifies system features starting from the user’s most recent command, continuing without further user input until explicitly stopped. Use when the user explicitly invokes autonomous planning to extend a system from a prior command. Trigger keywords: use autonomous-feature-planner, start autonomous planning, autonomous expansion, continuous feature planning.",
+  "version": "1.0.1",
+  "author": {
+    "name": "vishnubedi3"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vishnubedi3/autonomous-feature-planner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vishnubedi3/autonomous-feature-planner"
+}

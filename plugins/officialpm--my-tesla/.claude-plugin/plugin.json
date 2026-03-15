@@ -1,0 +1,10 @@
+{
+  "name": "officialpm--my-tesla",
+  "description": "Control Tesla vehicles from macOS via the Tesla Owner API using teslapy (auth, list cars, status, lock/unlock, climate, charging, location, and extras). Use when you want to check your car state or run safe remote commands. Designed for Parth Maniar (@officialpm) with local-only auth caching, confirmation gates for disruptive actions, and chat-friendly status output.",
+  "version": "0.1.64",
+  "author": {
+    "name": "officialpm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/officialpm/my-tesla",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/officialpm/my-tesla"
+}

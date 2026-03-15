@@ -1,0 +1,10 @@
+{
+  "name": "wpank--bridge-tokens",
+  "description": "Bridge tokens from one chain to another without swapping. Simplified cross-chain transfer where the output token is the same as the input token. Use when the user wants to move tokens between chains.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/bridge-tokens",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/bridge-tokens"
+}

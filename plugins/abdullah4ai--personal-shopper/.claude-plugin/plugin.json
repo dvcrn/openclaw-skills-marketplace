@@ -1,0 +1,10 @@
+{
+  "name": "abdullah4ai--personal-shopper",
+  "description": "Personal Shopper — multi-agent product/service research and recommendation for Saudi Arabia.\n\n USE WHEN:\n - User asks to find, compare, recommend, or buy a product or service\n - \"what's the best X\", \"compare X vs Y\", \"find me a good X\"\n - \"أبغى أشتري\", \"وش أفضل\", \"قارن لي\", \"ابحث لي عن\"\n - User asks \"is this a good deal\" or \"should I buy X or Y\"\n - Product comparison by specs, price, or value\n\n DON'T USE WHEN:\n - Market analysis for business entry → use mckinsey-research\n - Comparing companies as businesses (not products) → use mckinsey-research\n - Price tracking over time or deal alerts → not supported\n - Reviewing/troubleshooting a product they already own → answer directly\n - Simple factual question about a product (\"how much RAM does iPhone have\") → answer directly\n - Order placement, returns, or refunds → not supported\n\n EDGE CASES:\n - \"أبغى أشتري لابتوب\" → this skill\n - \"أبغى أفتح متجر لابتوبات\" → mckinsey-research (business, not purchase)\n - \"وش أفضل شاشة\" → this skill\n - \"وش حجم سوق الشاشات\" → mckinsey-research\n - \"هل السعر هذا حلو على أمازون\" → this skill\n - \"حلل لي سوق التجارة الإلكترونية\" → mckinsey-research\n - \"قارن لي بين منتجين\" → this skill\n - \"قارن لي بين شركتين\" → mckinsey-research\n\n INPUTS: Product type or name, budget (optional), use case (optional), preferences (optional)\n TOOLS: sessions_spawn (sub-agents), web_fetch, web_search, camofox_* (with strict limits per agent)\n OUTPUT: HTML report saved to shopping-reports/{date}-{slug}.html (Arabic, RTL, mobile-friendly)\n SUCCESS: User gets 3 ranked options with verified prices, source URLs, coupons, and a clear recommendation",
+  "version": "2.0.3",
+  "author": {
+    "name": "abdullah4ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abdullah4ai/personal-shopper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abdullah4ai/personal-shopper"
+}

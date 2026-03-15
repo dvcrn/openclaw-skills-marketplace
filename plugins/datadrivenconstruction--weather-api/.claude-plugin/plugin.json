@@ -1,0 +1,10 @@
+{
+  "name": "datadrivenconstruction--weather-api",
+  "description": "Fetch weather data for construction scheduling. Historical data, forecasts, and risk assessment for outdoor work.",
+  "version": "2.1.0",
+  "author": {
+    "name": "datadrivenconstruction"
+  },
+  "homepage": "https://datadrivenconstruction.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/weather-api"
+}

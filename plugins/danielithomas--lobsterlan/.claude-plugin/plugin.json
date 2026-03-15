@@ -1,0 +1,10 @@
+{
+  "name": "danielithomas--lobsterlan",
+  "description": "Communicate with other OpenClaw agents on your local network. Use when you need to ask another agent a question (sync), delegate a task (async), or check if a peer agent is reachable. Supports both synchronous chat completions and asynchronous webhook-based task delegation. Requires peers.json config with peer addresses and tokens.",
+  "version": "1.0.0",
+  "author": {
+    "name": "danielithomas"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danielithomas/lobsterlan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danielithomas/lobsterlan"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kesslerio--fitbit-analytics",
+  "description": "Fitbit health and fitness data integration. Fetch steps, heart rate, sleep, activity, calories, and trends from Fitbit Web API. Generate automated health reports and alerts. Requires FITBIT_CLIENT_ID, FITBIT_CLIENT_SECRET, FITBIT_ACCESS_TOKEN, FITBIT_REFRESH_TOKEN.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kesslerio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/fitbit-analytics",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/fitbit-analytics"
+}

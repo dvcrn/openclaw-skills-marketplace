@@ -1,0 +1,10 @@
+{
+  "name": "saschabuehrle--cascadeflow",
+  "description": "OpenClaw-native domain cascading. Use when users need cost/latency reduction via cascading, domain-aware model assignment, OpenClaw-native event handling, and command setup including /model cflow and optional /cascade stats commands.",
+  "version": "1.1.1",
+  "author": {
+    "name": "saschabuehrle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/saschabuehrle/cascadeflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/saschabuehrle/cascadeflow"
+}

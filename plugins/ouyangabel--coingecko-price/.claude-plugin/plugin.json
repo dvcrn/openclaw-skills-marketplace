@@ -1,0 +1,10 @@
+{
+  "name": "ouyangabel--coingecko-price",
+  "description": "Query cryptocurrency prices and market data via CoinGecko API. Use when: (1) checking current crypto prices, (2) viewing market cap rankings, (3) monitoring 24h price changes, (4) searching for specific cryptocurrencies, or (5) any crypto price-related queries. Supports BTC, ETH, and 10,000+ coins.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ouyangabel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ouyangabel/coingecko-price",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ouyangabel/coingecko-price"
+}

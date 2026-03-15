@@ -1,0 +1,10 @@
+{
+  "name": "huanz--filesystem-access",
+  "description": "安全的本地文件读/写/列表能力，默认只在 OpenClaw workspace 目录内工作。",
+  "version": "1.0.0",
+  "author": {
+    "name": "huanz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/huanz/filesystem-access",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/huanz/filesystem-access"
+}

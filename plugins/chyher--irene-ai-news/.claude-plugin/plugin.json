@@ -1,0 +1,10 @@
+{
+  "name": "chyher--irene-ai-news",
+  "description": "Daily AI news aggregator. Fetches latest AI-related content from HackerNews, GitHub Trending, ArXiv papers, and web search (Brave/Tavily). Use for: (1) Getting daily AI digest, (2) Staying updated with trending AI projects, (3) Discovering latest research papers, (4) Web search for breaking news. Triggers: ai news, daily digest, what's new in ai, tech news.",
+  "version": "1.1.0",
+  "author": {
+    "name": "chyher"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chyher/irene-ai-news",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chyher/irene-ai-news"
+}

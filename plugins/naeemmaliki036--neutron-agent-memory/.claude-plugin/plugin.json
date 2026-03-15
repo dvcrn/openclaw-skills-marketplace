@@ -1,0 +1,10 @@
+{
+  "name": "naeemmaliki036--neutron-agent-memory",
+  "description": "Store and retrieve agent memory using Neutron API. Use for saving information with semantic search, and persisting agent context between sessions.",
+  "version": "1.0.1",
+  "author": {
+    "name": "naeemmaliki036"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/naeemmaliki036/neutron-agent-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/naeemmaliki036/neutron-agent-memory"
+}

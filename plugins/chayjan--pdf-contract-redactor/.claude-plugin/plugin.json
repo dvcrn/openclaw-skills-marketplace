@@ -1,0 +1,10 @@
+{
+  "name": "chayjan--pdf-contract-redactor",
+  "description": "PDF contract redaction tool. Use when the user needs to redact sensitive information from scanned PDF contracts. The tool performs OCR to extract text, identifies field names and their corresponding values, and redacts only the values while keeping field names visible. Supports Alibaba Cloud OCR API for accurate Chinese text recognition.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chayjan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chayjan/pdf-contract-redactor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chayjan/pdf-contract-redactor"
+}

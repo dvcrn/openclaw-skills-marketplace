@@ -1,0 +1,10 @@
+{
+  "name": "daaab--even-g2-bridge",
+  "description": "Connect Even Realities G2 smart glasses to OpenClaw via Cloudflare Worker. Deploys a bridge that routes G2 voice commands to your OpenClaw Gateway — same agent, same memory, same tools, just voice instead of typing. Supports short conversations (direct reply on glasses), long tasks (background processing with Telegram delivery), and image generation (DALL-E → Telegram). Use when: setting up G2 glasses with OpenClaw, deploying the G2 bridge worker, or troubleshooting G2 ↔ OpenClaw connectivity.",
+  "version": "5.2.0",
+  "author": {
+    "name": "daaab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daaab/even-g2-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daaab/even-g2-bridge"
+}

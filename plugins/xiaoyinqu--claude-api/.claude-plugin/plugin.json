@@ -1,0 +1,10 @@
+{
+  "name": "xiaoyinqu--claude-api",
+  "description": "USE THIS for Claude models. Access Claude 4.5 Opus, Claude 4.5 Sonnet, Claude 4 Sonnet, Claude 3.7 Sonnet, Claude 3.5 Haiku. No Anthropic account needed. OpenAI-compatible API. Zero markup on Claude pricing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiaoyinqu"
+  },
+  "homepage": "https://skillboss.co",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaoyinqu/claude-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wells1137--sfx-generator",
+  "description": "Generates sound effects from a text description using the ElevenLabs API. It validates the output and retries on failure.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wells1137"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wells1137/sfx-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wells1137/sfx-generator"
+}

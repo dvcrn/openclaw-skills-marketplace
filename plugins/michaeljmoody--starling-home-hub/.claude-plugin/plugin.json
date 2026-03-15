@@ -1,0 +1,10 @@
+{
+  "name": "michaeljmoody--starling-home-hub",
+  "description": "Controls Nest and Google Home smart home devices via the Starling Home Hub's local REST API. Supports thermostats, cameras, Nest Protects, Nest × Yale locks, temperature sensors, home/away control, and Nest weather service. Use this skill when managing Nest/Google Home devices through Starling Home Hub — reading device status, setting temperatures, getting camera snapshots, locking/unlocking doors, checking smoke/CO alerts, and toggling home/away mode.",
+  "version": "1.0.2",
+  "author": {
+    "name": "michaeljmoody"
+  },
+  "homepage": "https://starlinghome.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/michaeljmoody/starling-home-hub"
+}

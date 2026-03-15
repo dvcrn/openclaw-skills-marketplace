@@ -1,0 +1,10 @@
+{
+  "name": "zhengkunwang223--1panel-skills",
+  "description": "1Panel operation skill for OpenClaw. Use when the user wants OpenClaw to interact with a 1Panel instance for resource monitoring, websites, certificates, app status, container status, logs, cronjobs, task-center records, node-management status, and future management actions. The current implementation focuses on query and inspection interfaces and keeps module-grouped mutation definitions reserved for later expansion.",
+  "version": "0.0.1",
+  "author": {
+    "name": "zhengkunwang223"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhengkunwang223/1panel-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhengkunwang223/1panel-skills"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xavjer--openclaw-self-hosted-whisper",
+  "description": "Transcribe audio via the self-hosted Whisper ASR instance running on Kubernetes. Use this skill whenever the user wants to transcribe audio files, convert speech to text, generate subtitles, or translate audio. Triggers on audio transcription, speech-to-text, whisper, voice-to-text, subtitle generation, or audio translation requests.",
+  "version": "0.1.0",
+  "author": {
+    "name": "xavjer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xavjer/openclaw-self-hosted-whisper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xavjer/openclaw-self-hosted-whisper"
+}

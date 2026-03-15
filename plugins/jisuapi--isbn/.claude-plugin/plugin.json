@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--isbn",
+  "description": "使用极速数据 ISBN 图书书号查询 API，通过 ISBN 查询图书详细信息，并支持按书名关键字搜索图书列表。",
+  "version": "1.0.2",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/isbn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/isbn"
+}

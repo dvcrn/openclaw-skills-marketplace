@@ -1,0 +1,10 @@
+{
+  "name": "jonathanjing--ground-control",
+  "description": "Post-upgrade verification system for OpenClaw. Defines a model/cron/channel ground truth file and a 5-phase automated verification flow (config integrity, API key liveness, cron integrity, session smoke test, channel liveness) with auto-repair for config and cron drift.",
+  "version": "0.3.5",
+  "author": {
+    "name": "jonathanjing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jonathanjing/ground-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jonathanjing/ground-control"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "codedao12--n8n-hub",
+  "description": "Centralized n8n hub for designing reliable flows (idempotency, retries, HITL) and operating them via the public REST API. Use for planning, JSON output, and lifecycle actions like list/publish/debug.",
+  "version": "1.0.0",
+  "author": {
+    "name": "codedao12"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codedao12/n8n-hub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codedao12/n8n-hub"
+}

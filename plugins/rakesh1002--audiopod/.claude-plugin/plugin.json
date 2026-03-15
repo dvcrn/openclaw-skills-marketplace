@@ -1,0 +1,10 @@
+{
+  "name": "rakesh1002--audiopod",
+  "description": "Use AudioPod AI's API for audio processing tasks including AI music generation (text-to-music, text-to-rap, instrumentals, samples, vocals), stem separation, text-to-speech, noise reduction, speech-to-text transcription, speaker separation, and media extraction. Use when the user needs to generate music/songs/rap from text, split a song into stems/vocals/instruments, generate speech from text, clean up noisy audio, transcribe audio/video, or extract audio from YouTube/URLs. Requires AUDIOPOD_API_KEY env var or pass api_key directly.",
+  "version": "1.2.3",
+  "author": {
+    "name": "rakesh1002"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rakesh1002/audiopod",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rakesh1002/audiopod"
+}

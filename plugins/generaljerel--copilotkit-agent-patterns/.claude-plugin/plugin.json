@@ -1,0 +1,10 @@
+{
+  "name": "generaljerel--copilotkit-agent-patterns",
+  "description": "Patterns for building AI agents that integrate with CopilotKit. Use when designing agent architecture, implementing AG-UI event streaming, managing shared state between agent and UI, adding human-in-the-loop checkpoints, or emitting generative UI from agents. Triggers on agent implementation tasks involving CopilotKit runtime, BuiltInAgent, or AG-UI protocol.",
+  "version": "1.0.2",
+  "author": {
+    "name": "generaljerel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/generaljerel/copilotkit-agent-patterns",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/generaljerel/copilotkit-agent-patterns"
+}

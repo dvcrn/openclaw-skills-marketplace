@@ -1,0 +1,10 @@
+{
+  "name": "sxela--falai",
+  "description": "Generate images and media using fal.ai API (Flux, Gemini image, etc.). Use when asked to generate images, run AI image models, create visuals, or anything involving fal.ai. Handles queue-based requests with automatic polling.",
+  "version": "1.0.2",
+  "author": {
+    "name": "sxela"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sxela/falai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sxela/falai"
+}

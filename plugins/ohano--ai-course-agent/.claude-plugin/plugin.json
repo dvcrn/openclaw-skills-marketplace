@@ -1,0 +1,10 @@
+{
+  "name": "ohano--ai-course-agent",
+  "description": "Auto-generates AI education courses from natural language requests in Chinese. Detects patterns like \"帮我生成6年级数学分数乘除法的课程\" and calls Edustem API to create and return a course link.",
+  "version": "0.1.0",
+  "author": {
+    "name": "ohano"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ohano/ai-course-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ohano/ai-course-agent"
+}

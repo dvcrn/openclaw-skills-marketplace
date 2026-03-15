@@ -1,0 +1,10 @@
+{
+  "name": "zhhkheaven--siyuan-task-skill",
+  "description": "Manage tasks in SiYuan Note via its HTTP API. Create, query, update, and organize tasks stored in the 任务清单 document (with a TASK database) and sub-documents for related materials. Use when the user mentions SiYuan, task management, or needs to track work items.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhhkheaven"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhhkheaven/siyuan-task-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhhkheaven/siyuan-task-skill"
+}

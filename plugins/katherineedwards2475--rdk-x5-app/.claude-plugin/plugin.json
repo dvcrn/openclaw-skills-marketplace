@@ -1,0 +1,10 @@
+{
+  "name": "katherineedwards2475--rdk-x5-app",
+  "description": "运行 RDK X5 /app 目录下的预装示例程序：12 个 Python AI 推理 demo（YOLO/分类/分割/Web展示）、40pin GPIO 示例、C++ 多媒体示例（编解码/RTSP/VIO）、查看 34 个预装 BPU 模型。Use when the user wants to run pre-installed /app demos, test Python AI samples, compile C++ multimedia examples, or browse the model library. Do NOT use for TROS ROS2 launch commands (use rdk-x5-tros), camera hardware setup (use rdk-x5-camera), or custom AI inference (use rdk-x5-ai-detect).",
+  "version": "1.0.0",
+  "author": {
+    "name": "katherineedwards2475"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/katherineedwards2475/rdk-x5-app",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/katherineedwards2475/rdk-x5-app"
+}

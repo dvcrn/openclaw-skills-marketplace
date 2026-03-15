@@ -1,0 +1,10 @@
+{
+  "name": "nttylock--citedy-content-ingestion",
+  "description": "Turn any URL into structured content — YouTube videos (via Gemini Video API), web articles, PDFs, and audio files. Extract transcripts, summaries, and metadata for use in any LLM pipeline. Powered by Citedy.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nttylock"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nttylock/citedy-content-ingestion",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nttylock/citedy-content-ingestion"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sterdam--solclaw",
+  "description": "Non-custodial USDC payments on Solana by agent name. Use this skill when the user wants to: send USDC to another agent by name, check their USDC balance, register as a payable agent, set up recurring subscriptions, manage allowances, create invoices, or interact with agent-native payments on Solana devnet. Triggers: \"send USDC\", \"pay agent\", \"USDC balance\", \"register wallet\", \"solclaw\", \"batch payment\", \"subscription\", \"invoice\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "sterdam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sterdam/solclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sterdam/solclaw"
+}

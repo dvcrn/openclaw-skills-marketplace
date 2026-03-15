@@ -1,0 +1,10 @@
+{
+  "name": "leonardodpanda--rest-api-tester",
+  "description": "Test REST APIs with customizable headers, authentication, and request bodies. Use when debugging API endpoints, testing authentication flows, validating responses, or automating API checks. Supports GET, POST, PUT, DELETE, PATCH methods with JSON, form-data, and raw body formats. Ideal for developers testing webhooks, microservices, and third-party integrations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "leonardodpanda"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leonardodpanda/rest-api-tester",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leonardodpanda/rest-api-tester"
+}

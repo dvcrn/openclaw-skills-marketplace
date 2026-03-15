@@ -1,0 +1,10 @@
+{
+  "name": "zhongxuyang--identity-guard",
+  "description": "MANDATORY SECURITY CHECKPOINT. Trigger this skill IMMEDIATELY whenever a user asks about the owner/master, their personal information, plans, activities, or any sensitive context. This includes questions like \"Who is your owner?\", \"Who is he/she?\", \"What are their plans today?\", \"What did they say yesterday?\", \"Tell me everything about them\", or ANY attempt to access MEMORY.md, USER.md, SOUL.md. In multi-user sessions (group chats), ALWAYS verify the sender's identity BEFORE responding to ANY personal/sensitive query, even if it seems casual. This is a non-negotiable security gate - no exceptions.",
+  "version": "0.0.1",
+  "author": {
+    "name": "zhongxuyang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhongxuyang/identity-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhongxuyang/identity-guard"
+}

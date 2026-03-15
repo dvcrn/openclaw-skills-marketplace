@@ -1,0 +1,10 @@
+{
+  "name": "benmjohnson69--benos-memory-core",
+  "description": "Core runtime/volatile memory module for BenOS agent environment.\n Use to: store and retrieve active session state, open loops, decisions, and scratch notes at runtime.",
+  "version": "0.1.2",
+  "author": {
+    "name": "benmjohnson69"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/benmjohnson69/benos-memory-core",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/benmjohnson69/benos-memory-core"
+}

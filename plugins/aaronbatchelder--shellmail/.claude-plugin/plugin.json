@@ -1,0 +1,10 @@
+{
+  "name": "aaronbatchelder--shellmail",
+  "description": "Email API for AI agents. Check inbox, read emails, extract OTP codes, search messages via ShellMail. Trigger on \"check email\", \"inbox\", \"otp\", \"verification code\", \"shellmail\", or any email-related requests.",
+  "version": "1.0.12",
+  "author": {
+    "name": "aaronbatchelder"
+  },
+  "homepage": "https://shellmail.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaronbatchelder/shellmail"
+}

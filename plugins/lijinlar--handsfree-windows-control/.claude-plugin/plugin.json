@@ -1,0 +1,10 @@
+{
+  "name": "lijinlar--handsfree-windows-control",
+  "description": "Guide skill for controlling native Windows apps (UIA) and web browsers (Playwright) via the handsfree-windows CLI. Use when you need to automate or test desktop applications or websites on a Windows machine: launching apps from Start menu, discovering UI controls without guessing, clicking/typing in native apps, opening/snapshotting/clicking in browsers, recording and replaying YAML macros that mix desktop and web steps. REQUIRES handsfree-windows CLI (auto-installed on first use via setup.py).",
+  "version": "1.3.0",
+  "author": {
+    "name": "lijinlar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lijinlar/handsfree-windows-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lijinlar/handsfree-windows-control"
+}

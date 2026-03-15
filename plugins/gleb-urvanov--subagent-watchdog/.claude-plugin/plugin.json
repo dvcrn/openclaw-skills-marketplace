@@ -1,0 +1,10 @@
+{
+  "name": "gleb-urvanov--subagent-watchdog",
+  "description": "Watchdog for OpenClaw subagent runs: enforce a completion marker by deadline and alert if missing.",
+  "version": "0.1.0",
+  "author": {
+    "name": "gleb-urvanov"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gleb-urvanov/subagent-watchdog",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gleb-urvanov/subagent-watchdog"
+}

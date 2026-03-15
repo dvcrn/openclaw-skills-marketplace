@@ -1,0 +1,10 @@
+{
+  "name": "krisyejh--bailian-knowledge-retrieve",
+  "description": "Bailian KnowledgeBase(Provided by Alibaba ModelStdio) offers to retrieve any proprietary data that have been vectorized in the hosted knowledgebases. It returns multidocs, concise KB retrieval results for LLMs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "krisyejh"
+  },
+  "homepage": "https://bailian.console.aliyun.com/cn-beijing?tab=app#/knowledge-base",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/krisyejh/bailian-knowledge-retrieve"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "giulianomorse--observerclaude",
+  "description": "An embedded UX research ethnographer that passively observes everything users do in OpenClaw, automatically logs all interactions, tracks use cases and their frequency, captures verbatim quotes, detects friction and delight signals, monitors sub-agent architectures, estimates API token costs, catalogs fail states and wins, runs post-task and end-of-day surveys, performs self-monitoring to ensure continuous data capture, and generates detailed Google Doc research reports with charts and graphs every morning at 8am. Reports cover the dynamic window since the last confirmed email send, with automatic PII redaction and user-prompted email delivery. Use this skill on EVERY conversation for background observation. Also triggers after every completed task for surveys, at end-of-day for wrap-up surveys and report generation, when the user asks about usage patterns or experience quality, when the user wants their UXR report, or when the user asks what is being tracked. This skill must run continuously and never forget — all data is persisted to disk immediately after every interaction.",
+  "version": "1.0.0",
+  "author": {
+    "name": "giulianomorse"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/giulianomorse/observerclaude",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/giulianomorse/observerclaude"
+}

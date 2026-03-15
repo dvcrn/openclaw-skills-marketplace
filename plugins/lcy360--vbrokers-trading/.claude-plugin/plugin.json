@@ -1,0 +1,10 @@
+{
+  "name": "lcy360--vbrokers-trading",
+  "description": "VBrokers (华盛通 VCL HK) trading automation via OpenAPI Gateway running on localhost port 11111. Use when: setting up VBrokers or 华盛通 account access, authenticating trading sessions, checking portfolio or positions or funds, placing or cancelling orders for US, HK or A stocks, fetching real-time quotes or K-lines, building automated trading bots, or implementing stop-loss and take-profit logic. Handles AES-ECB password encryption, sessionType for pre/post-market trading, mktTmType for time-segment quotes, and all major trade/quote endpoints.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lcy360"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lcy360/vbrokers-trading",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lcy360/vbrokers-trading"
+}

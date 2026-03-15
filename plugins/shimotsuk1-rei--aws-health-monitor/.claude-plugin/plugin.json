@@ -1,0 +1,10 @@
+{
+  "name": "shimotsuk1-rei--aws-health-monitor",
+  "description": "Monitor AWS Health Dashboard for active incidents and notify via configurable channels (Feishu, Telegram, Slack, Discord, etc.). Activate when user wants to watch AWS service health, set up alerts for AWS outages, or check current AWS regional incidents. Covers global, eu-central-1, ap-northeast-1, and me-central-1 (UAE) regions. Supports HTTP proxy for restricted network environments.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shimotsuk1-rei"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shimotsuk1-rei/aws-health-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shimotsuk1-rei/aws-health-monitor"
+}

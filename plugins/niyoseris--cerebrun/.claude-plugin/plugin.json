@@ -1,0 +1,10 @@
+{
+  "name": "niyoseris--cerebrun",
+  "description": "MCP client for Cerebrun - comprehensive personal context and memory management system. Retrieve user context layers (language, projects, identity, vault), perform semantic search, manage knowledge base, and interact with LLM Gateway. Use when: (1) Retrieving user preferences or context, (2) Searching user's knowledge base, (3) Managing projects and goals, (4) Storing or querying personal information, (5) Accessing conversation history via LLM Gateway",
+  "version": "1.0.1",
+  "author": {
+    "name": "niyoseris"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/niyoseris/cerebrun",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/niyoseris/cerebrun"
+}

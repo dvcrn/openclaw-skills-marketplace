@@ -1,0 +1,10 @@
+{
+  "name": "ramsbaby--openclaw-self-healing",
+  "description": "4-tier autonomous self-healing and auto-recovery system for OpenClaw Gateway. Monitors gateway health, auto-restarts on crash, detects OAuth token expiry, kills zombie processes, and escalates to Claude Code AI for diagnosis when automated recovery fails. Use when your OpenClaw gateway crashes, stops responding, enters a restart loop, or needs automatic monitoring and recovery. Features watchdog, config validation, exponential backoff, Discord/Telegram alerts. macOS & Linux.",
+  "version": "3.1.1",
+  "author": {
+    "name": "ramsbaby"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ramsbaby/openclaw-self-healing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ramsbaby/openclaw-self-healing"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wolffan--security-check-skill",
+  "description": "Security audit and inspection skill for Clawdbot skills. Use this when you need to check skills for security vulnerabilities before installation, perform regular security audits on installed skills, verify skill description matches actual behavior, scan for prompt injection attempts, check for hardcoded secrets or credentials, verify no malicious intent in skill code or documentation, review file access patterns for potential configuration or secrets exposure, or audit dependencies for known vulnerabilities. This skill provides automated scanning tools and manual security checklists for comprehensive skill security assessment.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wolffan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wolffan/security-check-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wolffan/security-check-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--research-logger",
+  "description": "AI research pipeline with automatic logging. Search via Perplexity, auto-save results to SQLite with topic and project metadata, full Langfuse tracing. Never lose a research session again. Use when conducting research, competitive analysis, or building a knowledge base.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/research-logger"
+}

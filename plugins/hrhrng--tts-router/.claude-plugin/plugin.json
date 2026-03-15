@@ -1,0 +1,10 @@
+{
+  "name": "hrhrng--tts-router",
+  "description": "Local TTS router for Apple Silicon — pull models, serve OpenAI-compatible API, synthesize speech, clone voices. Use when the user asks to \"generate speech\", \"text to speech\", \"start TTS server\", \"pull a TTS model\", \"clone a voice\", \"speak in someone's voice\", or any task involving local speech synthesis on macOS.",
+  "version": "0.1.0",
+  "author": {
+    "name": "hrhrng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hrhrng/tts-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hrhrng/tts-router"
+}

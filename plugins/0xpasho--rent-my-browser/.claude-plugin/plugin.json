@@ -1,0 +1,10 @@
+{
+  "name": "0xpasho--rent-my-browser",
+  "description": "When the agent is idle, connect to the Rent My Browser marketplace and execute browser tasks for consumers. Earn money by renting out the node's browser during downtime. Supports headless (Playwright) on VPS nodes and real Chrome on GUI machines.",
+  "version": "1.0.4",
+  "author": {
+    "name": "0xpasho"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xpasho/rent-my-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xpasho/rent-my-browser"
+}

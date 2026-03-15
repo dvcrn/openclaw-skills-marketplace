@@ -1,0 +1,10 @@
+{
+  "name": "sm0ls--taskflow",
+  "description": "Structured project/task management for OpenClaw agents — markdown-first authoring, SQLite-backed querying, bidirectional sync, CLI, Apple Notes integration.",
+  "version": "1.1.1",
+  "author": {
+    "name": "sm0ls"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sm0ls/taskflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sm0ls/taskflow"
+}

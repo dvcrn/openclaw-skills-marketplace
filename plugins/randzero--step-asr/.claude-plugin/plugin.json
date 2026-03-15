@@ -1,0 +1,10 @@
+{
+  "name": "randzero--step-asr",
+  "description": "Transcribe audio files to text via Step ASR streaming API (HTTP SSE). Supports Chinese and English, multiple audio formats (PCM, WAV, MP3, OGG/OPUS), real-time streaming output, and terminology correction prompts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "randzero"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/randzero/step-asr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/randzero/step-asr"
+}

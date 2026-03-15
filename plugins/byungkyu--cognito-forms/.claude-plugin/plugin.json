@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--cognito-forms",
+  "description": "Cognito Forms API integration with managed OAuth. Access forms, entries, and documents.\n Use this skill when users want to create, read, update, or delete form entries, or retrieve form submissions.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.2",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/cognito-forms",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/cognito-forms"
+}

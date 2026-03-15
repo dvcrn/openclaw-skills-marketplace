@@ -1,0 +1,10 @@
+{
+  "name": "cheminem--pharmaclaw-catalyst-design",
+  "description": "Organometallic catalyst recommendation and novel ligand design for drug synthesis reactions. Recommends catalysts (Pd, Ru, Rh, Ir, Ni, Cu, Zr, Fe) for reaction types (Suzuki, Heck, Buchwald-Hartwig, metathesis, hydrogenation, click, etc.) from curated database with scoring. Designs novel ligand variants via RDKit (steric, electronic, bioisosteric modifications). Chains from chemistry-query/retrosynthesis (receives reaction type + substrate) and feeds into IP Expansion (novel ligands as patentable inventions). Triggers on catalyst, ligand, organometallic, cross-coupling catalyst, reaction conditions, catalyst selection, ligand design, cone angle, bite angle, phosphine, NHC, palladium catalyst, ruthenium catalyst.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cheminem"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cheminem/pharmaclaw-catalyst-design",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cheminem/pharmaclaw-catalyst-design"
+}

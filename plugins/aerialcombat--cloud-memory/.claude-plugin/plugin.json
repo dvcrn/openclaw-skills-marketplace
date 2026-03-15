@@ -1,0 +1,10 @@
+{
+  "name": "aerialcombat--cloud-memory",
+  "description": "Cloud memory for AI agents. Store, search, and recall context across sessions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aerialcombat"
+  },
+  "homepage": "https://ctxly.app",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aerialcombat/cloud-memory"
+}

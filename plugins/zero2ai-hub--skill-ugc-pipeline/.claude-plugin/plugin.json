@@ -1,0 +1,10 @@
+{
+  "name": "zero2ai-hub--skill-ugc-pipeline",
+  "description": "End-to-end AI UGC video pipeline. Product info → GPT-4o-mini script → ElevenLabs voiceover → Aurora talking head (fal-ai/creatify/aurora) → Kling 2.6 Pro product B-roll → Whisper-synced captions → UGC post-processing filter (grain + handheld shake on avatar, clean product shot) → final MP4. Full pipeline ~$1.75/video.",
+  "version": "1.2.0",
+  "author": {
+    "name": "zero2ai-hub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zero2ai-hub/skill-ugc-pipeline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zero2ai-hub/skill-ugc-pipeline"
+}

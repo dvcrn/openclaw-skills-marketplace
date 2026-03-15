@@ -1,0 +1,10 @@
+{
+  "name": "pauldelavallaz--ugc-manual",
+  "description": "Generate lip-sync video from image + user's own audio recording.\n \n ✅ USE WHEN:\n - User provides their OWN audio file (voice recording)\n - Want to sync image to specific audio/voice\n - User recorded the script themselves\n - Need exact audio timing preserved\n \n ❌ DON'T USE WHEN:\n - User provides text script (not audio) → use veed-ugc\n - Need AI to generate the voice → use veed-ugc\n - Don't have audio file yet → use veed-ugc with script\n \n INPUT: Image + audio file (user's recording)\n OUTPUT: MP4 video with lip-sync to provided audio\n \n KEY DIFFERENCE: veed-ugc = script → AI voice → video\n                 ugc-manual = user audio → video (no voice generation)",
+  "version": "1.0.2",
+  "author": {
+    "name": "pauldelavallaz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/ugc-manual",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/ugc-manual"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "byeolbit--gamer-news",
+  "description": "Fetch and summarize the latest video game news from major gaming outlets (IGN, Kotaku, GameSpot, Polygon, Eurogamer, Rock Paper Shotgun, VG247, Gematsu, PlayStation Blog). Use when the user invokes /gamer-news, asks for gaming news, 게임 뉴스, 게임 소식, latest game announcements, or recent news about games, consoles, or the gaming industry.",
+  "version": "1.0.0",
+  "author": {
+    "name": "byeolbit"
+  },
+  "homepage": "https://github.com/byeolbit/gamer-news-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byeolbit/gamer-news"
+}

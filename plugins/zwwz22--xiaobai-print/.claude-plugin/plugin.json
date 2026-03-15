@@ -1,0 +1,10 @@
+{
+  "name": "zwwz22--xiaobai-print",
+  "description": "小白打印助手。通过仓库内置 wrapper 调用本地 MCP bridge，执行设备检查、能力确认、文件上传、任务创建和短状态确认。",
+  "version": "1.0.0",
+  "author": {
+    "name": "zwwz22"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zwwz22/xiaobai-print",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zwwz22/xiaobai-print"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mrnsmh--openclaw-skill-notion-workspace",
+  "description": "Manage Notion workspace — search pages, read content, create pages in databases, append blocks, and list databases. Uses Notion REST API directly via urllib/requests.",
+  "version": "0.1.0",
+  "author": {
+    "name": "mrnsmh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrnsmh/openclaw-skill-notion-workspace",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrnsmh/openclaw-skill-notion-workspace"
+}

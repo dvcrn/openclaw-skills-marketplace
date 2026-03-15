@@ -1,0 +1,10 @@
+{
+  "name": "leoricfanfan--okdex-market",
+  "description": "OKX Web3 Wallet Market API 技能 - 用于查询加密货币代币价格、市场数据和交易信息。\n 当用户需要以下功能时使用此技能：\n - 查询代币实时价格、K线数据、交易记录\n - 获取综合币价（聚合多数据源的指数价格）\n - 搜索代币、获取代币详情、查看代币排行榜\n - 获取持仓大户信息\n 触发词包括：代币价格、币价、K线、candlestick、行情、market data、OKX API、DEX 数据、\n 链上数据、token price、index price、token search、holder 等。\n 支持 Solana、EVM、Sui 等多链生态，覆盖 100+ DEX 和 CEX 数据源。",
+  "version": "1.0.0",
+  "author": {
+    "name": "leoricfanfan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leoricfanfan/okdex-market",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leoricfanfan/okdex-market"
+}

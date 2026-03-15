@@ -1,0 +1,10 @@
+{
+  "name": "thegovind--azure-storage-blob-py",
+  "description": "Azure Blob Storage SDK for Python. Use for uploading, downloading, listing blobs, managing containers, and blob lifecycle.\n Triggers: \"blob storage\", \"BlobServiceClient\", \"ContainerClient\", \"BlobClient\", \"upload blob\", \"download blob\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "thegovind"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thegovind/azure-storage-blob-py",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thegovind/azure-storage-blob-py"
+}

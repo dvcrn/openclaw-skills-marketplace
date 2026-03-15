@@ -1,0 +1,10 @@
+{
+  "name": "guoqiao--mlx-stt",
+  "description": "Speech-To-Text with MLX (Apple Silicon) and opensource models (default GLM-ASR-Nano-2512) locally.",
+  "version": "1.0.7",
+  "author": {
+    "name": "guoqiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guoqiao/mlx-stt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guoqiao/mlx-stt"
+}

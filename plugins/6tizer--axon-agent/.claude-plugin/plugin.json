@@ -1,0 +1,10 @@
+{
+  "name": "6tizer--axon-agent",
+  "description": "Register and operate an AI Agent on the Axon blockchain (AI Agent Native L1, Cosmos SDK + EVM, Chain ID 9001). Use when a user wants to: (1) register an agent on Axon chain, (2) check agent on-chain status (isAgent, ONLINE, reputation), (3) set up the agent-daemon for heartbeat maintenance, (4) troubleshoot Axon agent registration or heartbeat failures. Do NOT use for general EVM/Solidity work unrelated to Axon.",
+  "version": "1.0.4",
+  "author": {
+    "name": "6tizer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/6tizer/axon-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/6tizer/axon-agent"
+}

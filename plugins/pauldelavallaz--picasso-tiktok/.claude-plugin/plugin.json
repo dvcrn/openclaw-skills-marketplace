@@ -1,0 +1,10 @@
+{
+  "name": "pauldelavallaz--picasso-tiktok",
+  "description": "Full TikTok/Reels video pipeline: script → TTS voiceover (ElevenLabs) → HeyGen talking avatar → auto-subtitles (Whisper) → ffmpeg compose → 1080x1920 final video. Also supports AI B-roll generation with Runway Gen-4.5 when no source video exists.\n \n ✅ USE WHEN:\n - Creating TikTok or Instagram Reels from scratch with voiceover\n - Turning a news article, topic, or script into a 9:16 video\n - Adding a talking avatar to any video\n - Generating AI B-roll clips (Runway Gen-4.5) and editing into a Reel\n \n ❌ DON'T USE WHEN:\n - You only need an image (use nano-banana-pro)\n - You only need TTS audio (use ElevenLabs directly)\n \n Required env vars: ELEVENLABS_API_KEY, ELEVENLABS_VOICE_ID, HEYGEN_API_KEY, YOUR_HEYGEN_AVATAR_ID, OPENAI_API_KEY, REPLICATE_API_TOKEN\n Required system tools: ffmpeg, yt-dlp, Python 3",
+  "version": "1.2.0",
+  "author": {
+    "name": "pauldelavallaz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/picasso-tiktok",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/picasso-tiktok"
+}

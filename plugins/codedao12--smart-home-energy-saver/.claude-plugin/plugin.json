@@ -1,0 +1,10 @@
+{
+  "name": "codedao12--smart-home-energy-saver",
+  "description": "Analyze home energy usage and propose safe, read-only automation plans for savings. Use when a user wants Home Assistant energy insights, optimization ideas, or draft automation YAML without directly controlling devices.",
+  "version": "1.0.0",
+  "author": {
+    "name": "codedao12"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codedao12/smart-home-energy-saver",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codedao12/smart-home-energy-saver"
+}

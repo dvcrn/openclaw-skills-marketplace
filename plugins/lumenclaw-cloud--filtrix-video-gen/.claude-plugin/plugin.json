@@ -1,0 +1,10 @@
+{
+  "name": "lumenclaw-cloud--filtrix-video-gen",
+  "description": "Generate videos through Filtrix Remote MCP. Use when users ask for text-to-video, image-to-video, video task polling, or downloading completed videos with generate_video_text, generate_video_image, and get_video_status.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lumenclaw-cloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lumenclaw-cloud/filtrix-video-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lumenclaw-cloud/filtrix-video-gen"
+}

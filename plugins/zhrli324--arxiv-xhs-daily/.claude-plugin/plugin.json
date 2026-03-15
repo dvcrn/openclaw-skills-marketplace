@@ -1,0 +1,10 @@
+{
+  "name": "zhrli324--arxiv-xhs-daily",
+  "description": "Read newly announced arXiv papers from cs.AI and cs.CL, filter them by user-defined research topics such as diffusion llm, summarize matching papers into reading notes, and optionally publish a Xiaohongshu post. Use when building or running a daily arXiv-to-Xiaohongshu research workflow, adding new paper topics, or deploying topic-based paper note automation on another OpenClaw machine.",
+  "version": "0.1.0",
+  "author": {
+    "name": "zhrli324"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhrli324/arxiv-xhs-daily",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhrli324/arxiv-xhs-daily"
+}

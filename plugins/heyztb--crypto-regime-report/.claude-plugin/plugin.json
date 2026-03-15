@@ -1,0 +1,10 @@
+{
+  "name": "heyztb--crypto-regime-report",
+  "description": "Generate market regime reports for crypto perpetuals using Supertrend and ADX indicators. Use when the user asks for a regime check, market report, trend analysis, or scheduled morning/evening crypto updates. Reports include price action, trend direction/strength, funding rates, open interest, volume analysis, and BTC correlation for a configurable watchlist.",
+  "version": "1.2.3",
+  "author": {
+    "name": "heyztb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/heyztb/crypto-regime-report",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/heyztb/crypto-regime-report"
+}

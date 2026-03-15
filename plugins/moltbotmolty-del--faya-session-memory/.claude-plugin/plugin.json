@@ -1,0 +1,10 @@
+{
+  "name": "moltbotmolty-del--faya-session-memory",
+  "description": "Persistent session memory system that prevents knowledge loss after context compaction. Converts session transcripts to searchable Markdown, builds an auto-updating glossary index (people, projects, decisions, timeline), and sets up cron jobs for continuous indexing. Use when: (1) the agent forgets details after compaction, (2) you want to recall who was discussed or what was decided in past sessions, (3) setting up long-term memory for a new OpenClaw agent, (4) the user asks about memory loss, session recall, or knowledge persistence across sessions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "moltbotmolty-del"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moltbotmolty-del/faya-session-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moltbotmolty-del/faya-session-memory"
+}

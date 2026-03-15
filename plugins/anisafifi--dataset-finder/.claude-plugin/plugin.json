@@ -1,0 +1,10 @@
+{
+  "name": "anisafifi--dataset-finder",
+  "description": "Use this skill when users need to search for datasets, download data files, or explore data repositories. Triggers include: requests to \\\"find datasets\\\", \\\"search for data\\\", \\\"download dataset from Kaggle\\\", \\\"get data from Hugging Face\\\", \\\"find ML datasets\\\", or mentions of data repositories like Kaggle, UCI ML Repository, Data.gov, or Hugging Face. Also use for previewing dataset statistics, generating data cards, or discovering datasets for machine learning projects. Requires OpenClawCLI installation from clawhub.ai.",
+  "version": "0.1.0",
+  "author": {
+    "name": "anisafifi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anisafifi/dataset-finder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anisafifi/dataset-finder"
+}

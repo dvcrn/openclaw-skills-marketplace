@@ -1,0 +1,10 @@
+{
+  "name": "qclawbot--filter",
+  "description": "Create and manage reusable filter rules for email, news, search results, and structured task streams. Designed to reduce noise and preserve signal in OpenClaw workflows.",
+  "version": "1.1.0",
+  "author": {
+    "name": "qclawbot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qclawbot/filter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qclawbot/filter"
+}

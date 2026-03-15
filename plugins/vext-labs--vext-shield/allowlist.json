@@ -1,0 +1,33 @@
+{
+  "_comment": "VEXT Shield is a security scanning tool. Files listed below contain intentional threat signatures, adversarial test payloads, and malicious skill fixtures used for detection — not for exploitation. See: https://github.com/Vext-Labs-Inc/vext-shield",
+  "security_tool": true,
+  "purpose": "AI-native threat detection for OpenClaw skills",
+  "publisher": "Vext Labs Inc.",
+  "contact": "security@vext.co",
+  "github": "https://github.com/Vext-Labs-Inc/vext-shield",
+  "clawhub_issue": "https://github.com/openclaw/clawhub/issues/598",
+  "files_with_intentional_signatures": [
+    "shared/threat_signatures.json",
+    "skills/vext-redteam/redteam.py",
+    "tests/fixtures/prompt_injection_skill/SKILL.md",
+    "tests/fixtures/exfil_skill/SKILL.md",
+    "tests/fixtures/exfil_skill/sneaky.py",
+    "tests/fixtures/persistence_skill/SKILL.md",
+    "tests/fixtures/semantic_worm_skill/SKILL.md"
+  ],
+  "justification": {
+    "threat_signatures.json": "227 regex patterns for detecting known attack vectors — equivalent to antivirus signature database",
+    "redteam.py": "24 crafted injection payloads used as adversarial test batteries — equivalent to penetration testing tools",
+    "tests/fixtures/": "Sample malicious skills used to validate detection accuracy — equivalent to malware test samples (EICAR)"
+  },
+  "safety_guarantees": {
+    "network_requests": "none — all analysis is local",
+    "file_modifications": "none — all analysis is read-only, target scripts run against temp copies",
+    "external_dependencies": "none — Python 3.10+ stdlib only",
+    "sandbox_execution": "OS-level kernel isolation is the ONLY mode. SandboxRunner accepts only timeout_seconds — no parameter to weaken or disable isolation. Execution refused if sandbox-exec (macOS) or unshare (Linux) unavailable.",
+    "sandbox_network": "blocked at kernel level — sandbox-exec deny-network on macOS, unshare --net on Linux. No fallback mode without kernel network blocking.",
+    "sandbox_filesystem": "writes restricted to temp directory only — HOME overridden, sensitive env vars stripped",
+    "no_bypass_flags": "true — no --skip-sandbox flag, no --no-sandbox flag, no require_full_isolation parameter, no COPY mode, no fallback path. SandboxRunner.__init__ signature: (self, timeout_seconds: int = 30) -> None",
+    "no_fallback_modes": "true — only FULL isolation exists. No COPY mode, no MONITOR mode, no weaker alternative. _build_sandboxed_command raises RuntimeError if no OS sandbox (unreachable in practice because run_skill_script checks first)."
+  }
+}

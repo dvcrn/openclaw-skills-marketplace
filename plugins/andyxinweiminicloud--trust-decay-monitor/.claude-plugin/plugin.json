@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--trust-decay-monitor",
+  "description": "Helps track how AI skill verification results decay over time. A \"verified\" badge from 18 months ago may be meaningless today — dependencies updated, new attack vectors emerged, the ecosystem changed. Trust has a half-life.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/trust-decay-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/trust-decay-monitor"
+}

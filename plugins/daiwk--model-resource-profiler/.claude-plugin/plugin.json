@@ -1,0 +1,10 @@
+{
+  "name": "daiwk--model-resource-profiler",
+  "description": "Analyze model training or inference resource behavior from profiler artifacts, with focus on GPU memory (VRAM) and CPU hotspots. Uses JSON/JSON.GZ artifacts only to avoid unsafe deserialization.",
+  "version": "0.1.1",
+  "author": {
+    "name": "daiwk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daiwk/model-resource-profiler",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daiwk/model-resource-profiler"
+}

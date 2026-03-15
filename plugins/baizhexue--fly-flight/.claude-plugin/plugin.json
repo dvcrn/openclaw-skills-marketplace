@@ -1,0 +1,10 @@
+{
+  "name": "baizhexue--fly-flight",
+  "description": "Query China domestic flights from publicly accessible Tongcheng flight pages, without requiring an API key. Use when a user wants China domestic flight options, departure and arrival times, airport details, or public reference fares from open web pages rather than a private API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "baizhexue"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/baizhexue/fly-flight",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/baizhexue/fly-flight"
+}

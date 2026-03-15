@@ -1,0 +1,10 @@
+{
+  "name": "arberx--aeo-audit",
+  "description": "Run AEO audits, fix site issues, validate schema, generate llms.txt, and compare sites.",
+  "version": "1.1.2",
+  "author": {
+    "name": "arberx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arberx/aeo-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arberx/aeo-audit"
+}

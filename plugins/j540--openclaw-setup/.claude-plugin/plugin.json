@@ -1,0 +1,10 @@
+{
+  "name": "j540--openclaw-setup",
+  "description": "Set up a complete OpenClaw personal AI assistant from scratch using Claude Code. Walks through AWS provisioning, OpenClaw installation, Telegram bot creation, API configuration, Google Workspace integration, security hardening, and all power features. Give this to Claude Code and it handles the rest.",
+  "version": "1.0.0",
+  "author": {
+    "name": "j540"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/j540/openclaw-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/j540/openclaw-setup"
+}

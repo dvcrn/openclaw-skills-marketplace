@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--elevenlabs-api",
+  "description": "ElevenLabs API integration with managed authentication. AI-powered text-to-speech, voice cloning, sound effects, and audio processing.\n Use this skill when users want to generate speech from text, clone voices, create sound effects, or process audio.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/elevenlabs-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/elevenlabs-api"
+}

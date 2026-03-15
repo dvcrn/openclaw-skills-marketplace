@@ -1,0 +1,10 @@
+{
+  "name": "tkuehnl--log-dive",
+  "description": "Unified log search across Loki, Elasticsearch, and CloudWatch. Natural language queries translated to LogQL, ES DSL, or CloudWatch filter patterns. Read-only. Never modifies or deletes logs.",
+  "version": "0.1.3",
+  "author": {
+    "name": "tkuehnl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tkuehnl/log-dive",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tkuehnl/log-dive"
+}

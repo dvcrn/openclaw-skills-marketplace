@@ -1,0 +1,10 @@
+{
+  "name": "tristanmanchester--extracting-mistral-ocr",
+  "description": "Extracts text, tables, and images from PDFs (including scanned PDFs) using the Mistral OCR API. Use when user asks to OCR a PDF/image, extract text from a PDF, parse a scanned document, convert a PDF to Markdown, or extract structured fields from a document.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tristanmanchester"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/extracting-mistral-ocr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/extracting-mistral-ocr"
+}

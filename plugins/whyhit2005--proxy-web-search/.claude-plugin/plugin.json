@@ -1,0 +1,10 @@
+{
+  "name": "whyhit2005--proxy-web-search",
+  "description": "Proxy Web Search Tool - Performs web searches via the OpenClaw Manager proxy.\n \n Use when:\n - Need to search the web for latest information, news, or real-time data\n - Need specific search engines (defaults to Quark, supports Sogou, and more)\n - Need to filter search results by time range or domain\n - Need to control result count and detail level\n \n This skill routes all search requests through the Manager Web Search Proxy\n (configured via `WEB_SEARCH_PROXY_URL` env var, required),\n which handles API key management automatically — no manual configuration needed.\n \n Supported search engines: search_std (basic), search_pro (advanced), search_pro_sogou (Sogou), search_pro_quark (Quark - default)",
+  "version": "1.0.2",
+  "author": {
+    "name": "whyhit2005"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/whyhit2005/proxy-web-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/whyhit2005/proxy-web-search"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "trippingkelsea--strands",
+  "description": "Build and run Python-based AI agents using the AWS Strands SDK. Use when you need to create autonomous agents, multi-agent workflows, custom tools, or integrate with MCP servers. Supports Ollama (local), Anthropic, OpenAI, Bedrock, and other model providers. Use for agent scaffolding, tool creation, and running agent tasks programmatically.",
+  "version": "2.0.3",
+  "author": {
+    "name": "trippingkelsea"
+  },
+  "homepage": "https://github.com/strands-agents/sdk-python",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/trippingkelsea/strands"
+}

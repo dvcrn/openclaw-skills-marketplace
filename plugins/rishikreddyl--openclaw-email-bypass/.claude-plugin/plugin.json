@@ -1,0 +1,10 @@
+{
+  "name": "rishikreddyl--openclaw-email-bypass",
+  "description": "Send emails via Google Apps Script when traditional SMTP ports (25/465/587) are blocked. Secure and self-hosted.",
+  "version": "0.1.2",
+  "author": {
+    "name": "rishikreddyl"
+  },
+  "homepage": "https://github.com/RISHIKREDDYL/openclaw-email-bypass",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rishikreddyl/openclaw-email-bypass"
+}

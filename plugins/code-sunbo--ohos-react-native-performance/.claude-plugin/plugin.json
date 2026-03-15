@@ -1,0 +1,10 @@
+{
+  "name": "code-sunbo--ohos-react-native-performance",
+  "description": "OpenHarmony React Native performance static checks and optimization. Based on ohos_react_native performance doc. Use when writing or reviewing React Native for OpenHarmony code, bundle-harmony, lifecycle, or TurboModule. Applies to RNAbility, Hermes bytecode, React render optimization.",
+  "version": "1.0.0",
+  "author": {
+    "name": "code-sunbo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/code-sunbo/ohos-react-native-performance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/code-sunbo/ohos-react-native-performance"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "gaowanqi08141999--feishu-bitable-creator",
+  "description": "Create and populate Feishu (Lark) Bitable (multidimensional tables) with automated cleanup.\n Use when the user needs to:\n 1. Create a new Bitable from scratch with clean structure (no placeholder rows/columns)\n 2. Batch create fields and records in a Bitable\n 3. Convert structured data into a Bitable format\n 4. Create data tables for research, comparison, or tracking purposes\n \n Automatically handles: empty placeholder row cleanup, default column removal, \n intelligent primary field naming, and batch record creation.",
+  "version": "1.0.2",
+  "author": {
+    "name": "gaowanqi08141999"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gaowanqi08141999/feishu-bitable-creator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gaowanqi08141999/feishu-bitable-creator"
+}

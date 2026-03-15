@@ -1,0 +1,10 @@
+{
+  "name": "openclawb17-stack--agentfuel-api",
+  "description": "Use AgentFuel to call Replicate, Anthropic, and ElevenLabs APIs using a single crypto-funded key. Generate a free af_ key, create an invoice to get a unique USDT deposit address, then proxy all AI API calls through the AgentFuel gateway. No per-service accounts required.",
+  "version": "1.2.0",
+  "author": {
+    "name": "openclawb17-stack"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openclawb17-stack/agentfuel-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openclawb17-stack/agentfuel-api"
+}

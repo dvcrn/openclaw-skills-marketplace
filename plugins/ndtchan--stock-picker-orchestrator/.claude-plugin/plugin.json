@@ -1,0 +1,10 @@
+{
+  "name": "ndtchan--stock-picker-orchestrator",
+  "description": "Acts as a meta-orchestrator that routes stock-analysis requests across data, macro/news, and valuation skills under explicit budget controls; used when users ask to find candidates, compare stocks, or run end-to-end expert analysis.",
+  "version": "1.0.2",
+  "author": {
+    "name": "ndtchan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ndtchan/stock-picker-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ndtchan/stock-picker-orchestrator"
+}

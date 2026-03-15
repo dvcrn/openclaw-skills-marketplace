@@ -1,0 +1,10 @@
+{
+  "name": "helloeveryworlds--feishu-voice-tts",
+  "description": "将文本通过 MOSS-TTS 转换为语音，并发送到飞书群/个人。支持语音消息格式（带波形条）。",
+  "version": "1.1.1",
+  "author": {
+    "name": "helloeveryworlds"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/helloeveryworlds/feishu-voice-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/helloeveryworlds/feishu-voice-tts"
+}

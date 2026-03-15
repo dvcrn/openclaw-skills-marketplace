@@ -1,0 +1,10 @@
+{
+  "name": "smitmartijn--whatpulse-ai-agent-skill",
+  "description": "Query WhatPulse computer usage statistics using natural language. Keystrokes, mouse activity, application screen time, network bandwidth, website tracking, uptime, and profiles. Reads the local WhatPulse SQLite database in strict read-only mode. Triggers: \"whatpulse\", \"keystrokes\", \"mouse distance\", \"app usage\", \"screen time\", \"bandwidth\", \"computer stats\", \"typing stats\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "smitmartijn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/smitmartijn/whatpulse-ai-agent-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/smitmartijn/whatpulse-ai-agent-skill"
+}

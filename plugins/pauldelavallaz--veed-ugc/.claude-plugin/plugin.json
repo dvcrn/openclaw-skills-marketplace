@@ -1,0 +1,10 @@
+{
+  "name": "pauldelavallaz--veed-ugc",
+  "description": "Generate UGC-style promotional videos with AI lip-sync. Takes an image (person with product from Morpheus/Ad-Ready) and a script (pure dialogue), creates a video of the person speaking. Uses ElevenLabs for voice synthesis.",
+  "version": "1.0.1",
+  "author": {
+    "name": "pauldelavallaz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/veed-ugc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/veed-ugc"
+}

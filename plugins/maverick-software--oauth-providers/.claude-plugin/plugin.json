@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--oauth-providers",
+  "description": "Adds an \"OAuth\" settings tab to the OpenClaw Control UI for connecting AI model providers. Supports Anthropic Claude Pro/Max subscription tokens (setup-token flow), OpenAI Codex PKCE OAuth with manual-paste fallback for WSL2, and API keys for Anthropic, OpenAI, Google (Gemini), and OpenRouter. Includes auth profile order troubleshooting, badge rendering logic, and architecture reference for the auth-profiles system. Credentials are stored encrypted in auth-profiles.json and secrets.json.",
+  "version": "1.1.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/oauth-providers",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/oauth-providers"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "agentandbot-design--agents-manager",
+  "description": "Manage Clawdbot agents: discover, profile, track capabilities, define routing hierarchy, and assign tasks.",
+  "version": "1.0.2",
+  "author": {
+    "name": "agentandbot-design"
+  },
+  "homepage": "https://www.clawhub.com/skills/agents-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agentandbot-design/agents-manager"
+}

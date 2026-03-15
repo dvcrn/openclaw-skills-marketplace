@@ -1,0 +1,10 @@
+{
+  "name": "nissan--llm-eval-router",
+  "description": "Shadow-test local Ollama models against a cloud baseline with a multi-judge ensemble. Automatically promotes models when statistically proven equivalent — reducing API costs with evidence, not hope.",
+  "version": "1.2.1",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/reddinft/skill-llm-eval-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/llm-eval-router"
+}

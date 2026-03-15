@@ -1,0 +1,10 @@
+{
+  "name": "jcools1977--dependency-autopsy",
+  "description": "Deep health analysis of your dependency tree — not just \"is it outdated\" but \"is it abandoned? Is the maintainer still active? Is 95% of the package dead weight for your use case? Is it one mass-deletion away from taking your app down?\" The difference between 'npm audit' and actually understanding what you're trusting with your production system.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jcools1977"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jcools1977/dependency-autopsy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jcools1977/dependency-autopsy"
+}

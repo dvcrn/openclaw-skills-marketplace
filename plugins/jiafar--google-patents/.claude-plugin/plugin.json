@@ -1,0 +1,10 @@
+{
+  "name": "jiafar--google-patents",
+  "description": "Search Google Patents database for patent research, infringement risk checks, and competitive IP analysis. Use when user mentions: 专利, patent, 侵权, infringement, 知识产权, IP, 外观设计, design patent, 专利检索, patent search, 专利风险, patent risk, 专利分析, patent analysis, 专利布局, patent portfolio, 有没有专利, 会不会侵权, 能不能卖, FTO, freedom to operate, 规避设计, 专利壁垒, 技术壁垒, 权利要求, claims, 专利详情, 发明人, inventor, 受让人, assignee, 专利号, patent number, 说明书, description, 技术领域, 背景技术, 发明内容, 具体实施方式, PDF",
+  "version": "1.2.0",
+  "author": {
+    "name": "jiafar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jiafar/google-patents",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jiafar/google-patents"
+}

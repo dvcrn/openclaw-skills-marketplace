@@ -1,0 +1,10 @@
+{
+  "name": "scikkk--quick-tts",
+  "description": "Zero-config text-to-speech — give text, get an mp3 file. Handles natural-language voice selection (\"用女声\", \"撒娇语气\", \"生气一点\") and auto-inserts pacing breaks for long text. Use this whenever a user wants to quickly synthesize speech without configuring API details, or says things like \"帮我把这段话合成语音\", \"用温柔御姐的声音读一下\", \"生成一段生气语气的音频\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "scikkk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/scikkk/quick-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scikkk/quick-tts"
+}

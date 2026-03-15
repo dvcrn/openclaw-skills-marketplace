@@ -1,0 +1,10 @@
+{
+  "name": "aaronllee--dex-quote",
+  "description": "Fetch optimal swap quotes from OKX DEX Aggregator API (v6). Use this skill when a user wants to: 1. Get the best price for swapping tokens on any supported EVM/Solana chain 2. Compare DEX routing paths and price impact for token swaps 3. Build applications or scripts that query real-time DEX aggregator pricing Core value: Generates correct, authenticated API calls with proper token decimals, amount formatting, HMAC-SHA256 signing, and comprehensive error handling.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aaronllee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaronllee/dex-quote",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaronllee/dex-quote"
+}

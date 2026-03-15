@@ -1,0 +1,10 @@
+{
+  "name": "chillbruhhh--moltmoon-agentcrypto-sdk",
+  "description": "Complete OpenClaw-ready operating skill for @moltmoon/sdk V2. Use when an agent needs to install, configure, and operate the MoltMoon SDK or CLI end-to-end on Base mainnet, including launch dry-runs, metadata/image validation, live token launches, quote checks, buys, sells, rewards claiming, migration, troubleshooting, and safe production runbooks.",
+  "version": "1.0.2",
+  "author": {
+    "name": "chillbruhhh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chillbruhhh/moltmoon-agentcrypto-sdk",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chillbruhhh/moltmoon-agentcrypto-sdk"
+}

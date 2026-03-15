@@ -1,0 +1,10 @@
+{
+  "name": "heimo-he--feishu-messaging-en",
+  "description": "Best practices for Feishu (Lark) message configuration and formatting. Use when: (1) Configuring Feishu channel settings, (2) Experiencing message formatting issues (raw vs card), (3) Setting up renderMode for stable message display, (4) Understanding differences between auto-replies and proactive messages. Essential for ensuring consistent message formatting in Feishu chats.",
+  "version": "1.0.0",
+  "author": {
+    "name": "heimo-he"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/heimo-he/feishu-messaging-en",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/heimo-he/feishu-messaging-en"
+}

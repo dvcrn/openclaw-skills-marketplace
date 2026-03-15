@@ -1,0 +1,10 @@
+{
+  "name": "king-tero--vt-sentinel-installer",
+  "description": "Install or upgrade VT Sentinel security plugin. Use when the user asks to install, set up, enable, update, or upgrade VT Sentinel, VirusTotal scanning, malware protection, or file security scanning. Handles fresh installs and upgrades from any previous version.",
+  "version": "1.6.0",
+  "author": {
+    "name": "king-tero"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/king-tero/vt-sentinel-installer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/king-tero/vt-sentinel-installer"
+}

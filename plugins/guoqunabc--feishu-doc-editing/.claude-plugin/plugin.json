@@ -1,0 +1,10 @@
+{
+  "name": "guoqunabc--feishu-doc-editing",
+  "description": "Performance-optimized strategies for editing Feishu (Lark) documents via OpenClaw's feishu_doc tool.\n Use when: (1) modifying existing Feishu documents, (2) inserting images at specific positions,\n (3) writing tables or structured content, (4) any multi-block document editing task,\n (5) writing long documents that may hit API size limits.\n Provides concrete patterns to minimize API calls and maximize editing speed while preserving\n existing formatting. Covers: parallel operations, positioned image insertion, large document\n chunking, rate-limit handling, rich-text preservation, and conflict avoidance.\n Complements the built-in feishu-doc skill (API reference) with operational best practices.",
+  "version": "1.1.1",
+  "author": {
+    "name": "guoqunabc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guoqunabc/feishu-doc-editing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guoqunabc/feishu-doc-editing"
+}

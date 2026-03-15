@@ -1,0 +1,10 @@
+{
+  "name": "amberljc--meta-research",
+  "description": "Autonomous research workflow agent for AI and scientific research. Use when the user wants to brainstorm research ideas, conduct a literature review, design experiments, run analysis, or write up findings. Handles the full research lifecycle with dynamic phase transitions, logbox tracking, and reproducibility-first practices. Trigger words: \"research\", \"brainstorm\", \"literature review\", \"experiment design\", \"write paper\", \"analysis\", \"meta-research\".",
+  "version": "2.5.0",
+  "author": {
+    "name": "amberljc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/amberljc/meta-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/amberljc/meta-research"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "aaronllee--easy-swap",
+  "description": "Execute token swaps on-chain via OKX DEX Aggregator API (v6). Use this skill when a user wants to: 1. Build a complete swap flow: get swap calldata -> sign transaction -> broadcast to chain 2. Execute token-to-token swaps with slippage protection, MEV protection, and Jito tips (Solana) 3. Integrate OKX DEX swap + broadcast into applications, bots, or scripts This skill covers the FULL lifecycle: /swap endpoint (get tx data) + /broadcast-transaction endpoint (submit signed tx). For quote-only (no execution), use the okx-dex-quote skill instead.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aaronllee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaronllee/easy-swap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaronllee/easy-swap"
+}

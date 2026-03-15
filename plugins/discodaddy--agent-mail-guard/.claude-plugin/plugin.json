@@ -1,0 +1,10 @@
+{
+  "name": "discodaddy--agent-mail-guard",
+  "description": "Sanitize email and calendar content before it reaches your AI agent's context window. Blocks prompt injection, markdown image exfiltration, invisible unicode, homoglyph attacks, base64 payloads, and fake conversation turns. Zero dependencies (Python 3.11+ stdlib only). Use when your agent reads email, processes calendar events, or handles any untrusted text input that could contain injection attempts. Outputs clean JSON with sender trust tiers, suspicion flags, and truncated bodies safe for LLM consumption.",
+  "version": "1.4.0",
+  "author": {
+    "name": "discodaddy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/discodaddy/agent-mail-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/discodaddy/agent-mail-guard"
+}

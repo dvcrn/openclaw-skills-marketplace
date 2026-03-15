@@ -1,0 +1,10 @@
+{
+  "name": "leonardoooooo--tuniu-train",
+  "description": "途牛火车票助手 - 通过 exec + curl 调用 MCP 实现车次列表搜索、查询车次详情、预订下单。适用于用户查询车次列表、查询车次详情或提交火车票订单时使用。",
+  "version": "1.0.2",
+  "author": {
+    "name": "leonardoooooo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leonardoooooo/tuniu-train",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leonardoooooo/tuniu-train"
+}

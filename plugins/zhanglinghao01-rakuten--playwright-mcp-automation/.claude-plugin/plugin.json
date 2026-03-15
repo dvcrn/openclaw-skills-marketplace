@@ -1,0 +1,10 @@
+{
+  "name": "zhanglinghao01-rakuten--playwright-mcp-automation",
+  "description": "Launch and operate the Playwright MCP server to let agents browse real websites (login, search, checkout, dashboards) through structured tools. Use when the task requires interacting with live pages beyond simple fetches—e.g., filling ecommerce carts, downloading statements behind auth, capturing screenshots, or testing UI flows with Playwright automation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhanglinghao01-rakuten"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhanglinghao01-rakuten/playwright-mcp-automation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhanglinghao01-rakuten/playwright-mcp-automation"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "tinywatermonster--feishu-multiagent",
+  "description": "Configure OpenClaw multi-agent routing for Feishu multi-account setups. Use when users need two or more Feishu bots (different appId/appSecret) to run on isolated agents/workspaces with distinct system prompts and independent MEMORY bootstrap, or when troubleshooting wrong-agent routing, shared persona, open_id cross-app errors, pairing/account mixups, memory provider failures, contact scope warnings (99991672), or card streaming permission errors.",
+  "version": "1.0.1",
+  "author": {
+    "name": "tinywatermonster"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tinywatermonster/feishu-multiagent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tinywatermonster/feishu-multiagent"
+}

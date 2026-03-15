@@ -1,0 +1,10 @@
+{
+  "name": "keyiflerolsun--kekik-crawler",
+  "description": "Scrapling-only, deterministic web crawler with clean SRP architecture, presets, checkpointing, and JSONL/report outputs.",
+  "version": "0.1.0-rc1",
+  "author": {
+    "name": "keyiflerolsun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/keyiflerolsun/kekik-crawler",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/keyiflerolsun/kekik-crawler"
+}

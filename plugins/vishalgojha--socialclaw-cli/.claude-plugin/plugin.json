@@ -1,0 +1,10 @@
+{
+  "name": "vishalgojha--socialclaw-cli",
+  "description": "Use Social Flow as an agentic control plane for Meta operations via the installed `social` CLI and Gateway API. Ideal when the user asks for multi-step execution, approvals, ops automation, or command generation across auth, insights, portfolio, Instagram, WhatsApp, Marketing API, and gateway/studio workflows. Translate natural language intents into explicit, risk-gated Social Flow commands with confirmation-aware execution.",
+  "version": "0.1.5",
+  "author": {
+    "name": "vishalgojha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vishalgojha/socialclaw-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vishalgojha/socialclaw-cli"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bugmaker2--fractal-memory",
+  "description": "Automated hierarchical memory compression system that prevents context overflow through daily→weekly→monthly→core compression. Use when you need (1) long-term memory management without manual curation, (2) token-efficient context loading with attention-optimized hierarchy, (3) preventing session bloat from accumulated history, (4) automated memory rollups via cron, or (5) migrating from flat daily files to structured memory. Activates for memory architecture questions, context overflow issues, or setting up persistent agent memory.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bugmaker2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bugmaker2/fractal-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bugmaker2/fractal-memory"
+}

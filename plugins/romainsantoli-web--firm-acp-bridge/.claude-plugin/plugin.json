@@ -1,0 +1,10 @@
+{
+  "name": "romainsantoli-web--firm-acp-bridge",
+  "description": "Haute disponibilité du bridge ACP et gestion des sessions agents autonomes. Comble les gaps C4 (ACP sans persistance), H3 (sessions spawn sans provider env), H4 (cron bloqué en sandbox), et H5 (race condition workspace) dans openclaw/openclaw.",
+  "version": "1.0.0",
+  "author": {
+    "name": "romainsantoli-web"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-acp-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-acp-bridge"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--whatsapp-business",
+  "description": "WhatsApp Business API integration with managed OAuth. Send messages, manage templates, and handle conversations. Use this skill when users want to interact with WhatsApp Business. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.3",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/whatsapp-business",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/whatsapp-business"
+}

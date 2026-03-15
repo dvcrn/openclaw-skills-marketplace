@@ -1,0 +1,10 @@
+{
+  "name": "memyard--public-google-drive",
+  "description": "Create public Google Docs or Google Sheet files without requiring OAuth. Use this skill to create and edit Google Docs and Sheets, no Google sign-in required. Documents are viewable at shareable links. Registration is automatic on first use.",
+  "version": "1.0.0",
+  "author": {
+    "name": "memyard"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/memyard/public-google-drive",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/memyard/public-google-drive"
+}

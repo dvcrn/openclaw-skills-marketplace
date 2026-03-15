@@ -1,0 +1,43 @@
+{
+  "platform": "ClawHub",
+  "uploadPage": "https://clawhub.ai/upload",
+  "uploadMode": "folder",
+  "formFields": {
+    "slug": "stockclaw-yingyan",
+    "displayName": "stockClaw-yingyan 股票量化助手",
+    "version": "1.0.0",
+    "tags": [
+      "latest",
+      "stock",
+      "quant",
+      "openclaw"
+    ],
+    "license": "MIT-0",
+    "updateLog": "初始版本：提供股票量化图生成、股票行情问答（基于 TDX 截面数据）与本地 demo 页面。"
+  },
+  "uploadValidation": {
+    "requiresSlug": true,
+    "requiresDisplayName": true,
+    "requiresAtLeastOneFile": true,
+    "requiresSkillMd": true,
+    "requiresMit0Agreement": true
+  },
+  "folderPayload": {
+    "rootFolderName": "stockClaw-yingyan",
+    "requiredFiles": [
+      "SKILL.md"
+    ],
+    "recommendedFiles": [
+      "reference.md",
+      "examples.md",
+      "CLAWHUB_UPLOAD.md",
+      "openapi.json",
+      "manifest.json",
+      "config.json"
+    ],
+    "notes": [
+      "上传页面提示应上传包含 SKILL.md 文件和文本文件的文件夹。",
+      "页面会保留文件夹路径并自动扁平化外部包装器。"
+    ]
+  }
+}

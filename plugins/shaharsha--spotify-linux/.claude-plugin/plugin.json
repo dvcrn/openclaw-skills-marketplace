@@ -1,0 +1,10 @@
+{
+  "name": "shaharsha--spotify-linux",
+  "description": "Spotify CLI for headless Linux servers. Control Spotify playback via terminal using cookie auth (no OAuth callback needed). Perfect for remote servers without localhost access.",
+  "version": "1.1.0",
+  "author": {
+    "name": "shaharsha"
+  },
+  "homepage": "https://github.com/steipete/spogo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shaharsha/spotify-linux"
+}

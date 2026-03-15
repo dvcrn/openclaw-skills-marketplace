@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--research-logger-pro",
+  "description": "Auto-saves deep search results to SQLite and Langfuse. Combines search with persistent logging — every research query is saved with topic tags, timestamps, and full results. Search past research, view recent entries. Triggers: log research, save search, research history, find past research, what did I research.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/research-logger-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/research-logger-pro"
+}

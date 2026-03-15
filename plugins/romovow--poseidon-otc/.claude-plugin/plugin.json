@@ -1,0 +1,10 @@
+{
+  "name": "romovow--poseidon-otc",
+  "description": "Execute trustless P2P token swaps on Solana via the Poseidon OTC protocol. Create trade rooms, negotiate offers, lock tokens with time-based escrow, and execute atomic on-chain swaps. Supports agent-to-agent trading with real-time WebSocket updates.",
+  "version": "1.0.0",
+  "author": {
+    "name": "romovow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/romovow/poseidon-otc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romovow/poseidon-otc"
+}

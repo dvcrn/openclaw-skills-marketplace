@@ -1,0 +1,10 @@
+{
+  "name": "h4gen--web-hosting",
+  "description": "Meta-skill for zero-friction deployment of local web projects to production URLs by orchestrating github-api, vercel/netlify, domain-dns-ops, and api-gateway. Use when users want to make a local site live with SSL, CI/CD, and optional custom domain wiring.",
+  "version": "1.0.0",
+  "author": {
+    "name": "h4gen"
+  },
+  "homepage": "https://clawhub.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/h4gen/web-hosting"
+}

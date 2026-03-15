@@ -1,0 +1,10 @@
+{
+  "name": "kyoiii--personal-finish-notifier",
+  "description": "Add a simple \"Claude has finished.\" alert to Claude Code or other agent workflows through an OpenClaw-configured transport.",
+  "version": "0.1.4",
+  "author": {
+    "name": "kyoiii"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kyoiii/personal-finish-notifier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kyoiii/personal-finish-notifier"
+}

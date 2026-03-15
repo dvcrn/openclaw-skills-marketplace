@@ -1,0 +1,10 @@
+{
+  "name": "jincocodev--jarvis-ui",
+  "description": "JARVIS-style HUD web interface for OpenClaw agents. Interactive Three.js orb with agent state visualization, real-time chat via Gateway WebSocket, audio spectrum analyzer, system monitor, and TTS. Use when you want a visual dashboard for your OpenClaw agent.",
+  "version": "1.0.3",
+  "author": {
+    "name": "jincocodev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jincocodev/jarvis-ui",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jincocodev/jarvis-ui"
+}

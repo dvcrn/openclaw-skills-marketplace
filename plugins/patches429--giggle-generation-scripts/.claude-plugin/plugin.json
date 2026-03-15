@@ -1,0 +1,10 @@
+{
+  "name": "patches429--giggle-generation-scripts",
+  "description": "基于姜文电影常见的叙事推进与对白机制生成中文剧本内容。用于用户提出“生成剧本”“写剧本”“做分场”“出对白稿”“改剧本”或同类意图时，包括：根据题材输出故事梗概、人物小传、分场大纲、分场剧本（含对白、动作、场面调度提示），并可按用户要求调整时代背景、人物关系、冲突节奏与结局走向。",
+  "version": "0.0.1",
+  "author": {
+    "name": "patches429"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/patches429/giggle-generation-scripts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/patches429/giggle-generation-scripts"
+}

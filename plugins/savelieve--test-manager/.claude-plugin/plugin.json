@@ -1,0 +1,10 @@
+{
+  "name": "savelieve--test-manager",
+  "description": "Interact with ClickUp API for task management. Use for listing tasks, creating tasks, updating task status, and managing workspaces. Base URL: https://api.clickup.com/api/v2",
+  "version": "1.0.2",
+  "author": {
+    "name": "savelieve"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/savelieve/test-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/savelieve/test-manager"
+}

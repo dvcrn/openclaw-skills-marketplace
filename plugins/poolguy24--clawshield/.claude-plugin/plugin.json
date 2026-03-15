@@ -1,0 +1,10 @@
+{
+  "name": "poolguy24--clawshield",
+  "description": "OpenClaw security audit + prompt injection detector. Scans gateway/vulns/cron/PI patterns. Use for frenzy-proofing installs.",
+  "version": "1.1.0",
+  "author": {
+    "name": "poolguy24"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/poolguy24/clawshield",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/poolguy24/clawshield"
+}

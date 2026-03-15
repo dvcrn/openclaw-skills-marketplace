@@ -1,0 +1,10 @@
+{
+  "name": "fermionoid--senseguard",
+  "description": "Semantic security scanner for OpenClaw skills. Detects prompt injection, data exfiltration, and hidden instructions that traditional code scanners miss. Use when user asks to scan skills, check skill safety, or run a security audit.",
+  "version": "1.0.1",
+  "author": {
+    "name": "fermionoid"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fermionoid/senseguard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fermionoid/senseguard"
+}

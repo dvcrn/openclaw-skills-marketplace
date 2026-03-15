@@ -1,0 +1,10 @@
+{
+  "name": "errchh--hk-cinema-now-playing",
+  "description": "Hong Kong Cinema helper with 4-step flow:\n \n 1. List now playing movies (numbered)\n 2. Show movie details with brief showtimes (unique cinemas + dates only)\n 3. Filter showtimes by cinema/date when user specifies\n 4. Book tickets via direct link\n \n Note: Uses /now-playing endpoint to include rescreening of older popular movies.\n Use when user asks about HK movies, cinema showtimes, or ticket booking.",
+  "version": "1.0.3",
+  "author": {
+    "name": "errchh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/errchh/hk-cinema-now-playing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/errchh/hk-cinema-now-playing"
+}

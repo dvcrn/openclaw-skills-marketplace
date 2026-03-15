@@ -1,0 +1,10 @@
+{
+  "name": "deeplearning1993--tx-decoder",
+  "description": "解码任意链上交易，分析交易详情、调用的合约函数、转账记录。触发词：交易解码、tx decode、交易分析、hash查询。",
+  "version": "1.0.0",
+  "author": {
+    "name": "deeplearning1993"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deeplearning1993/tx-decoder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deeplearning1993/tx-decoder"
+}

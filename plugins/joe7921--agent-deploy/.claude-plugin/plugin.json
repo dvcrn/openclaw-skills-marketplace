@@ -1,0 +1,10 @@
+{
+  "name": "joe7921--agent-deploy",
+  "description": "Deploy a new isolated OpenClaw agent with its own Telegram bot, workspace, and session storage. Use when user asks to create a new agent, add a new bot, or set up multi-agent routing. Uses openclaw config set for safe config updates with doctor validation and auto-rollback.",
+  "version": "2.4.0",
+  "author": {
+    "name": "joe7921"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/joe7921/agent-deploy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joe7921/agent-deploy"
+}

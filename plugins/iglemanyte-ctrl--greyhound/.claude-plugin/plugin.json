@@ -1,0 +1,10 @@
+{
+  "name": "iglemanyte-ctrl--greyhound",
+  "description": "Analyzes greyhound races, fetches data, and predicts winners/placings for upcoming races based on form, odds, and simple models.",
+  "version": "1.0.0",
+  "author": {
+    "name": "iglemanyte-ctrl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iglemanyte-ctrl/greyhound",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iglemanyte-ctrl/greyhound"
+}

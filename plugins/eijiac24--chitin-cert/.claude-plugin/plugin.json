@@ -1,0 +1,10 @@
+{
+  "name": "eijiac24--chitin-cert",
+  "description": "Issue and verify on-chain certificates on Base L2. Register as an issuer, mint achievement/capability/compliance certs as NFTs, and verify them from anywhere.",
+  "version": "1.0.1",
+  "author": {
+    "name": "eijiac24"
+  },
+  "homepage": "https://certs.chitin.id",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eijiac24/chitin-cert"
+}

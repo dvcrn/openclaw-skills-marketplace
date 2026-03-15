@@ -1,0 +1,10 @@
+{
+  "name": "kuan0808--social-media-ops",
+  "description": "Set up a complete multi-brand social media management team on OpenClaw. Scaffolds 5 specialized agents (Leader, Creator, Worker, Researcher, Engineer) + on-demand Reviewer in a star topology with persistent A2A sessions, 3-layer memory system, shared knowledge base, approval workflows, and brand isolation. Use when setting up a new social media operations team, adding the multi-agent framework to an existing OpenClaw instance, or when the user mentions social media management, multi-brand operations, or content team setup.",
+  "version": "3.2.0",
+  "author": {
+    "name": "kuan0808"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kuan0808/social-media-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kuan0808/social-media-ops"
+}

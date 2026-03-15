@@ -1,0 +1,10 @@
+{
+  "name": "urhd528--zeelin-search-gsdata-es-bigdata",
+  "description": "使用智灵搜索进行数据查询。当用户说\"使用智灵搜索\"、\"智灵搜索帮我查询\"、\"调用智灵搜索\"、\"用智灵搜索\"、\"智灵搜索查询\"、\"舆情数据\"、\"舆情\"、\"新闻报道\"、\"...评论\"、\"热点话题\"、\"动态\"、\"相关报道\"、\"最新趋势\"等时使用此技能。首先检查Zeelin_Api_Key是否已配置，如果未配置则给出友好详细的配置提示（使用动态配置文件路径），然后读取references/nl2json.md进行自然语言转JSON，再读取references/zenlin_search_api.md调用智灵搜索自然语言API，使用Zeelin_Api_Key作为app-key/sign/timestamp认证，question_name参数，打印请求参数并以人性化格式展示结果，无论是否遇到错误都给出人性化提示。只检查和提示Zeelin_Api_Key，不检查也不提示Zeelin_Api_Url和Zeelin_Website_Url。",
+  "version": "1.0.0",
+  "author": {
+    "name": "urhd528"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/urhd528/zeelin-search-gsdata-es-bigdata",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/urhd528/zeelin-search-gsdata-es-bigdata"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "fadeloo--tiangong-wps-ppt-automation",
+  "description": "Automate common PowerPoint/WPS Presentation operations on Windows via COM (read text/notes/outline, export PDF/images, replace text, insert/delete slides, unify font/size/theme, extract images/media). Use for single-presentation actions (no batch).",
+  "version": "0.1.0",
+  "author": {
+    "name": "fadeloo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fadeloo/tiangong-wps-ppt-automation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fadeloo/tiangong-wps-ppt-automation"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "byron-mckeeby--agent-security-audit",
+  "description": "エージェント向けプロンプト・インジェクション防御チェックリスト",
+  "version": "1.0.0",
+  "author": {
+    "name": "byron-mckeeby"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byron-mckeeby/agent-security-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byron-mckeeby/agent-security-audit"
+}

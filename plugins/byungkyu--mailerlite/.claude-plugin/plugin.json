@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--mailerlite",
+  "description": "MailerLite API integration with managed OAuth. Manage email subscribers, groups, campaigns, automations, and forms.\n Use this skill when users want to add subscribers, create email campaigns, manage groups, or work with MailerLite automations.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.2",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/mailerlite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/mailerlite"
+}

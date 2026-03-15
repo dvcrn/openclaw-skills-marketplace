@@ -1,0 +1,10 @@
+{
+  "name": "neomaking--clawdwallet",
+  "description": "Install and control ClawdWallet - a multi-chain Web3 wallet Chrome extension controlled by Clawdbot agents. Use when setting up agent-controlled wallet, connecting to dApps, signing transactions, or managing crypto across 20+ chains (EVM, Bitcoin, Solana, Cosmos). Powered by ShapeShift hdwallet.",
+  "version": "0.1.0",
+  "author": {
+    "name": "neomaking"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neomaking/clawdwallet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neomaking/clawdwallet"
+}

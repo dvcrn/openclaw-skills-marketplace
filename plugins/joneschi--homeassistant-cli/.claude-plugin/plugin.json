@@ -1,0 +1,10 @@
+{
+  "name": "joneschi--homeassistant-cli",
+  "description": "Advanced Home Assistant control using the official hass-cli tool. Features auto-completion, event monitoring, history queries, and rich output formatting. Alternative to the curl-based homeassistant skill - choose this if you want a more interactive CLI experience with better discovery and formatting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "joneschi"
+  },
+  "homepage": "https://github.com/home-assistant-ecosystem/home-assistant-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joneschi/homeassistant-cli"
+}

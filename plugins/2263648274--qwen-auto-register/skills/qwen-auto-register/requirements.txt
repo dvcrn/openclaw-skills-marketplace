@@ -1,0 +1,7 @@
+# Qwen 自动注册技能依赖
+# 需要安装 auto-register 包和 Playwright
+
+# 从 GitHub 安装 auto-register
+git+https://github.com/2263648274/qwen-auto-register.git
+
+playwright>=1.40.0

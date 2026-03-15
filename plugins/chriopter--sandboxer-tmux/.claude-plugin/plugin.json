@@ -1,0 +1,10 @@
+{
+  "name": "chriopter--sandboxer-tmux",
+  "description": "Dispatch coding tasks to tmux sessions via Sandboxer. Use when you need to spawn Claude Code, Gemini, OpenCode, bash, or lazygit sessions in workspace repos, monitor their progress, or send them commands.",
+  "version": "1.0.1",
+  "author": {
+    "name": "chriopter"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chriopter/sandboxer-tmux",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chriopter/sandboxer-tmux"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "okwasniewski--agent-device",
+  "description": "Automates interactions for iOS simulators/devices and Android emulators/devices. Use when navigating apps, taking snapshots/screenshots, tapping, typing, scrolling, or extracting UI info on mobile targets.",
+  "version": "1.0.1",
+  "author": {
+    "name": "okwasniewski"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/okwasniewski/agent-device",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/okwasniewski/agent-device"
+}

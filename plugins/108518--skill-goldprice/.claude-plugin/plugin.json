@@ -1,0 +1,10 @@
+{
+  "name": "108518--skill-goldprice",
+  "description": "This skill retrieves real-time precious metal prices (gold, silver, platinum, palladium, etc.) from https://i.jzj9999.com/quoteh5. It provides bid/ask prices, daily high/low prices, and price trends for 20+ metal types.",
+  "version": "0.1.0",
+  "author": {
+    "name": "108518"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/108518/skill-goldprice",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/108518/skill-goldprice"
+}

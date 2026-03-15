@@ -1,0 +1,10 @@
+{
+  "name": "johnwayneeee--casely",
+  "description": "Intelligent QA assistant that automates writing test cases from project documentation. Use when the user wants to generate test cases from requirements, runs /init, /parse, /style, /plan, /generate, /export, or works with PDF/DOCX/XLSX requirement documents and TestRail-ready Excel export.",
+  "version": "0.1.0",
+  "author": {
+    "name": "johnwayneeee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnwayneeee/casely",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnwayneeee/casely"
+}

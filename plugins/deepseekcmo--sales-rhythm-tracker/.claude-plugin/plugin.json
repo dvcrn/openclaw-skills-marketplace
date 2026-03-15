@@ -1,0 +1,10 @@
+{
+  "name": "deepseekcmo--sales-rhythm-tracker",
+  "description": "B2B sales pipeline manager powered by the Alibaba Iron Army (阿里铁军) methodology. Use this skill for daily sales briefings, lead management, pipeline health checks, weekly sprint planning, customer follow-up prioritization, and closing strategy. Triggered by phrases like: \"morning sales brief\", \"add lead\", \"pipeline review\", \"who should I call today\", \"weekly sales plan\", \"sales update\", \"close rate\", \"follow up\", \"deal stuck\", \"customer type\", \"sales sprint\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "deepseekcmo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deepseekcmo/sales-rhythm-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deepseekcmo/sales-rhythm-tracker"
+}

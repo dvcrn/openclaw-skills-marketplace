@@ -1,0 +1,10 @@
+{
+  "name": "huangjt--wangcut",
+  "description": "秦丝智能视频剪辑APP的API集成，用于创建和管理AI视频剪辑任务。\n TRIGGER when: 用户请求创建视频、生成视频剪辑、查看视频任务列表、下载剪辑结果、等待任务完成、配置旺剪账号。\n 触发词: \"创建视频\"、\"视频剪辑\"、\"生成视频\"、\"查看任务\"、\"下载视频\"、\"等待视频\"、\"配置旺剪\"、\"旺剪账号\"、\"wangcut\"。\n 支持功能: (1) 根据文案创建视频剪辑任务，自动随机选择7个素材 (2) 查看任务列表和详情 (3) 等待任务完成并下载视频到本地 (4) 自动检测配置状态并引导用户配置账号密码",
+  "version": "1.0.1",
+  "author": {
+    "name": "huangjt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/huangjt/wangcut",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/huangjt/wangcut"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "slk1061569042-lab--cursor-dispatch",
+  "description": "Orchestrate Cursor Agent CLI for coding tasks with concurrency control, timeout recovery, and multi-task coordination. Use when: (1) dispatching coding tasks to cursor agent via CLI, (2) analyzing code before modifying (plan mode), (3) running parallel batch coding tasks with concurrency limits, (4) coordinating multi-step code changes with review gates, (5) recovering from stuck/timeout cursor processes. Triggers: cursor dispatch, plan then execute, code analysis pipeline, batch coding tasks, cursor agent orchestration, parallel coding, concurrent tasks.",
+  "version": "1.1.0",
+  "author": {
+    "name": "slk1061569042-lab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/slk1061569042-lab/cursor-dispatch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/slk1061569042-lab/cursor-dispatch"
+}

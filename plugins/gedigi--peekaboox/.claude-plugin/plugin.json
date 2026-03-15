@@ -1,0 +1,10 @@
+{
+  "name": "gedigi--peekaboox",
+  "description": "Control and automate the Linux desktop GUI on X11. Use this skill to take screenshots, find and click UI elements, type text, send keyboard shortcuts, scroll, manage windows (focus, minimize, maximize, close, move, resize), and use your own vision to locate elements on screen. Requires X11 (not Wayland). Use for desktop automation, GUI testing, remote desktop control, and any task requiring interaction with graphical applications.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gedigi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gedigi/peekaboox",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gedigi/peekaboox"
+}

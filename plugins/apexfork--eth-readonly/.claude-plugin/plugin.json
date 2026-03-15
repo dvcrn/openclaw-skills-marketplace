@@ -1,0 +1,10 @@
+{
+  "name": "apexfork--eth-readonly",
+  "description": "Read-only Ethereum blockchain queries — blocks, transactions, balances, contracts, logs via RPC and Etherscan APIs",
+  "version": "1.0.0",
+  "author": {
+    "name": "apexfork"
+  },
+  "homepage": "https://github.com/Fork-Development-Corp/openclaw-web3-skills/tree/master/eth-readonly",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/apexfork/eth-readonly"
+}

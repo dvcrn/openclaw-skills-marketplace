@@ -1,0 +1,10 @@
+{
+  "name": "jiangzhiyu--auto-agent-router",
+  "description": "根据消息命令自动路由到子 Agent。**Agent 应该：收到消息时首先检查是否包含 /coder、/writer 等命令，如果是则调用 sessions_spawn 启动对应子 Agent。**",
+  "version": "1.0.0",
+  "author": {
+    "name": "jiangzhiyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jiangzhiyu/auto-agent-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jiangzhiyu/auto-agent-router"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "chenchaoqun--a-stock-market-review",
+  "description": "A 股市场收盘复盘工具，总结当日大盘指数、热门板块、龙头股及创新高股票。使用东方财富 API，无需 API Key。",
+  "version": "1.1.0",
+  "author": {
+    "name": "chenchaoqun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chenchaoqun/a-stock-market-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chenchaoqun/a-stock-market-review"
+}

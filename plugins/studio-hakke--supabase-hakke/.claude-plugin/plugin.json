@@ -1,0 +1,10 @@
+{
+  "name": "studio-hakke--supabase-hakke",
+  "description": "Supabase integration for Hakke Studio projects. Auth, database, storage, edge functions. Use with vercel skill for full-stack deployment.",
+  "version": "1.1.0",
+  "author": {
+    "name": "studio-hakke"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/studio-hakke/supabase-hakke",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/studio-hakke/supabase-hakke"
+}

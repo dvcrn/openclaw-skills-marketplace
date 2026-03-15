@@ -1,0 +1,10 @@
+{
+  "name": "qiumr--futures-trader",
+  "description": "当用户需要查询Gate.io期货行情、管理账户、下单交易时使用此Skill。它提供完整的CLI命令行工具。",
+  "version": "1.0.2",
+  "author": {
+    "name": "qiumr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qiumr/futures-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qiumr/futures-trader"
+}

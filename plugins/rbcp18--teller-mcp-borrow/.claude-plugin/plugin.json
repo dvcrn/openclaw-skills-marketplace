@@ -1,0 +1,10 @@
+{
+  "name": "rbcp18--teller-mcp-borrow",
+  "description": "Expose the Teller delta-neutral + lending Model Context Protocol server. Use this when you need to install, run, or update the Tellermcp MCP backend so agents can fetch opportunities, borrow terms, and on-chain tx builders for Teller.",
+  "version": "0.1.6",
+  "author": {
+    "name": "rbcp18"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rbcp18/teller-mcp-borrow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rbcp18/teller-mcp-borrow"
+}

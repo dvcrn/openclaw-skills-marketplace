@@ -1,0 +1,10 @@
+{
+  "name": "cyberash-dev--tg-mtproto-cli",
+  "description": "Read-only Telegram CLI via MTProto. Lists chats, fetches messages, downloads media, manages local accounts/sessions. Does not send messages or modify Telegram data. Use when the user asks to read Telegram chats, fetch messages, download media, or automate Telegram data extraction.",
+  "version": "0.1.4",
+  "author": {
+    "name": "cyberash-dev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cyberash-dev/tg-mtproto-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cyberash-dev/tg-mtproto-cli"
+}

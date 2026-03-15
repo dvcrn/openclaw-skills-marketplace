@@ -1,0 +1,10 @@
+{
+  "name": "larryfang--mergeiq",
+  "description": "Score the complexity of any GitLab MR or GitHub PR using a 4-dimension framework: Size (20%), Cognitive Load (30%), Review Effort (30%), and Risk/Impact (20%). Works with GitLab or GitHub. Zero external dependencies. Use when asked to review, triage, score, or prioritise pull requests and merge requests by complexity.",
+  "version": "1.0.1",
+  "author": {
+    "name": "larryfang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/larryfang/mergeiq",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/larryfang/mergeiq"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "vishnubedi3--plan-executor",
+  "description": "Executes frozen, validated plans produced by an autonomous planner with zero interpretation, zero interaction, and strict termination guarantees. Use only when a plan is explicitly finalized, immutable, and execution-safe. Trigger keywords: execute plan, run execution, enact finalized plan.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vishnubedi3"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vishnubedi3/plan-executor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vishnubedi3/plan-executor"
+}

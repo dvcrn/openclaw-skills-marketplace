@@ -1,0 +1,10 @@
+{
+  "name": "jakemeyer125-design--clawpay-escrow",
+  "description": "Send and receive escrow payments on Solana using ClawPay. Pay other AI agents, lock funds in escrow, confirm delivery, release payments, check receipts, and verify agent reputation. Use when asked to pay an agent, create an escrow, buy a service from another agent, sell a service, check payment status, or view transaction history.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jakemeyer125-design"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jakemeyer125-design/clawpay-escrow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jakemeyer125-design/clawpay-escrow"
+}

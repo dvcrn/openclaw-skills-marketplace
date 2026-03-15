@@ -1,0 +1,10 @@
+{
+  "name": "sfdcbrewery--salesforce-sdr-admin",
+  "description": "UI-driven Salesforce SDR and admin execution across Sales Cloud, Service Cloud, Experience Cloud, and CPQ/Revenue Cloud. Use when a user asks to operate Salesforce in the browser (not API), manage leads/opportunities/cases/quotes, perform setup or configuration tasks, or make Apex/LWC/Aura changes with strict confirmation and secure local credential handling.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sfdcbrewery"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sfdcbrewery/salesforce-sdr-admin",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sfdcbrewery/salesforce-sdr-admin"
+}

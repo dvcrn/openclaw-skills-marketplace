@@ -1,0 +1,10 @@
+{
+  "name": "kanaksinghal--npsnav",
+  "description": "Query Indian NPS (National Pension System) fund NAV data, scheme info, returns, and history via the free npsnav.in REST API.",
+  "version": "0.1.0",
+  "author": {
+    "name": "kanaksinghal"
+  },
+  "homepage": "https://npsnav.in",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kanaksinghal/npsnav"
+}

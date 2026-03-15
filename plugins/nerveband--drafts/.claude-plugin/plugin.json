@@ -1,0 +1,10 @@
+{
+  "name": "nerveband--drafts",
+  "description": "Manage Drafts app notes via CLI on macOS. Create, view, list, edit, append, prepend, and run actions on drafts. Use when a user asks to create a note, list drafts, search drafts, or manage their Drafts inbox. IMPORTANT - Drafts app must be running on macOS for this to work.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nerveband"
+  },
+  "homepage": "https://github.com/nerveband/drafts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nerveband/drafts"
+}

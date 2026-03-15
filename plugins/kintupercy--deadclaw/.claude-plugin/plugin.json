@@ -1,0 +1,10 @@
+{
+  "name": "kintupercy--deadclaw",
+  "description": "Emergency kill switch for OpenClaw agents. Instantly halts all running agents, pauses scheduled jobs, kills active sessions, and logs everything — triggered by a single message, a WebChat button, or a phone home screen shortcut. Includes a background watchdog that auto-kills agents on runaway loops, excessive token spend, unauthorized network calls, or out-of-bounds file writes. Use this skill whenever the user mentions: emergency stop, kill switch, stop agents, halt agents, panic button, deadclaw, agent safety, runaway agent, kill all, stop everything, or any urgent need to shut down OpenClaw processes immediately.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kintupercy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kintupercy/deadclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kintupercy/deadclaw"
+}

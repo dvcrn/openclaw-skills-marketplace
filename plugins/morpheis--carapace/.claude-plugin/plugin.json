@@ -1,0 +1,10 @@
+{
+  "name": "morpheis--carapace",
+  "description": "Query and contribute structured understanding to Carapace — the shared knowledge base for AI agents. Includes Chitin integration for bridging personal and distributed insights.",
+  "version": "1.0.3",
+  "author": {
+    "name": "morpheis"
+  },
+  "homepage": "https://carapaceai.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/morpheis/carapace"
+}

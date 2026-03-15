@@ -1,0 +1,10 @@
+{
+  "name": "loommo--report-ppt-generator-pro",
+  "description": "Generate professional PowerPoint presentations from text manuscripts and style examples. Use when users want to create PPT slides from written content, especially for work reports. Triggers: generate PPT, create slides, make presentation, convert to PowerPoint, PPT from document. Supports style extraction from example images, AI-generated illustrations, image embedding, and interactive HTML preview before export.",
+  "version": "1.0.7",
+  "author": {
+    "name": "loommo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/loommo/report-ppt-generator-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/loommo/report-ppt-generator-pro"
+}

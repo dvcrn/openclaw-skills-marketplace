@@ -1,0 +1,10 @@
+{
+  "name": "vishalgojha--summary-generator",
+  "description": "Generate daily or range-based lead summaries from read-only lead data. Use when users ask for todays lead summary, broker inventory counts, locality trends, or priority bucket breakdown for human review and downstream action suggestion. Recommended chain: sentiment-priority-scorer then summary-generator then action-suggester. Do not use for ingestion, extraction, storage writes, or outbound communication.",
+  "version": "1.0.5",
+  "author": {
+    "name": "vishalgojha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vishalgojha/summary-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vishalgojha/summary-generator"
+}

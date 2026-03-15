@@ -1,0 +1,10 @@
+{
+  "name": "cwyhkyochen-a11y--dev-task",
+  "description": "开发项目任务管理，支持版本化开发流程。当用户需要启动开发任务、创建新版本、管理项目版本文档时使用。每次启动开发任务必须向用户确认版本编号，按版本号管理代码、开发文档、需求文档、发布配置。严格执行版本归档纪律，封版必须立即归档完整代码和文档。",
+  "version": "1.0.1",
+  "author": {
+    "name": "cwyhkyochen-a11y"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cwyhkyochen-a11y/dev-task",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cwyhkyochen-a11y/dev-task"
+}

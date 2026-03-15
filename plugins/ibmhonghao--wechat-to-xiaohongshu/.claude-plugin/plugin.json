@@ -1,0 +1,10 @@
+{
+  "name": "ibmhonghao--wechat-to-xiaohongshu",
+  "description": "Automatically migrate WeChat Official Account articles to Xiaohongshu (Little Red Book). Use when the user wants to (1) cross-post published WeChat articles to Xiaohongshu, (2) sync content between WeChat and Xiaohongshu platforms, (3) automate daily article distribution workflow.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ibmhonghao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ibmhonghao/wechat-to-xiaohongshu",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ibmhonghao/wechat-to-xiaohongshu"
+}

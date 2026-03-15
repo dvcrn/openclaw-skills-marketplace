@@ -1,0 +1,10 @@
+{
+  "name": "in-liberty420--0g-compute",
+  "description": "Use cheap, TEE-verified AI models from the 0G Compute Network as OpenClaw providers. Discover available models and compare pricing vs OpenRouter, verify provider integrity via hardware attestation (Intel TDX), manage your 0G wallet and sub-accounts, and configure models in OpenClaw with one workflow. Supports DeepSeek, GLM-5, Qwen, and other models available on the 0G marketplace.",
+  "version": "1.0.2",
+  "author": {
+    "name": "in-liberty420"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/in-liberty420/0g-compute",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/in-liberty420/0g-compute"
+}

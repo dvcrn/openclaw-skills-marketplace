@@ -1,0 +1,10 @@
+{
+  "name": "jd2005l--opencortex",
+  "description": "Self-improving memory architecture for OpenClaw agents. Structured memory files, nightly distillation, weekly synthesis, enforced principles (P0 for custom, P1-P8 managed), write-ahead durability, and model-agnostic delegation — so your agent compounds knowledge instead of forgetting it. Includes opt-in metrics tracking with growth charts and compound scoring to measure effectiveness over time. All sensitive features (voice profiling, infrastructure auto-collection, git push) are OFF by default and require explicit opt-in via environment variable or flag. Safe to install: no network calls during setup, fully auditable bash scripts, isolated cron sessions scoped to workspace only. Use when: (1) setting up a new OpenClaw instance, (2) user asks to improve/organize memory, (3) user wants the agent to stop forgetting things, (4) bootstrapping a fresh agent with best practices. NOT for: runtime memory_search queries (use built-in memory tools). Triggers: \"set up memory\", \"organize yourself\", \"stop forgetting\", \"memory architecture\", \"self-improving\", \"cortex\", \"bootstrap memory\", \"memory optimization\".",
+  "version": "3.5.18",
+  "author": {
+    "name": "jd2005l"
+  },
+  "homepage": "https://github.com/JD2005L/opencortex",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jd2005l/opencortex"
+}

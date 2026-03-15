@@ -1,0 +1,10 @@
+{
+  "name": "okwme--trifle-auth",
+  "description": "Authenticate with the Trifle API using Sign-In with Ethereum (SIWE). Manages wallet-based authentication, JWT token storage, and session management for the Trifle ecosystem.",
+  "version": "1.1.0",
+  "author": {
+    "name": "okwme"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/okwme/trifle-auth",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/okwme/trifle-auth"
+}

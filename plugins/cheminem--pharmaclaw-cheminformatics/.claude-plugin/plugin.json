@@ -1,0 +1,10 @@
+{
+  "name": "cheminem--pharmaclaw-cheminformatics",
+  "description": "Advanced cheminformatics agent for 3D molecular analysis, pharmacophore mapping, format conversion, RECAP fragmentation, and stereoisomer enumeration. The \"senior cheminformatician\" upgrade to Chemistry Query. Use for 3D conformer generation/ensembles (ETKDG + MMFF/UFF), pharmacophore feature extraction and fingerprints, molecular format conversion (SMILES/SDF/MOL/InChI/PDB/XYZ), RECAP retrosynthetic fragmentation for library design, stereoisomer enumeration (R/S, E/Z), and cheminformatics profiling. Chains from chemistry-query (receives SMILES) and feeds into pharmacology, catalyst-design, ip-expansion. Triggers on conformer, 3D structure, pharmacophore, SDF, MOL file, format conversion, RECAP, fragmentation, stereoisomer, chirality, enantiomer, cheminformatics, library design, building blocks, docking prep.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cheminem"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cheminem/pharmaclaw-cheminformatics",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cheminem/pharmaclaw-cheminformatics"
+}

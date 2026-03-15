@@ -1,0 +1,10 @@
+{
+  "name": "coolmanns--postiz-extended",
+  "description": "Schedule and manage social media posts via Postiz API (self-hosted or cloud).\n Direct API integration — no n8n dependency.\n Supports X/Twitter, LinkedIn, Bluesky with platform-specific character limits.\n Includes deduplication, scheduling, media upload, and thread creation.\n\n WHAT IT CAN DO:\n - Schedule posts to 28+ channels (X, LinkedIn, Bluesky, Reddit, Instagram, Facebook, Threads, YouTube, TikTok, Pinterest, Mastodon, and more)\n - Multi-platform posting in a single API call with platform-adapted content\n - X/Twitter thread creation for longer content\n - Media upload (file and URL)\n - Find next available posting slot per channel\n - List, query, update, and delete scheduled posts\n - Deduplication workflow (check existing before posting)\n - Platform-specific character limits and content tone guidance\n - Post state management (QUEUE, PUBLISHED, ERROR, DRAFT)\n - Helper script for quick posting with auto-validation\n\n USE WHEN: scheduling social media posts, creating multi-platform content, managing a posting calendar, uploading media for social posts, checking post status, creating X/Twitter threads, or automating social media workflows.",
+  "version": "1.3.0",
+  "author": {
+    "name": "coolmanns"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/coolmanns/postiz-extended",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/coolmanns/postiz-extended"
+}

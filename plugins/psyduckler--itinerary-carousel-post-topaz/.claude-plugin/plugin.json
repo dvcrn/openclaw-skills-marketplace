@@ -1,0 +1,10 @@
+{
+  "name": "psyduckler--itinerary-carousel-post-topaz",
+  "description": "Create and publish an Instagram carousel post from a tabiji.ai itinerary, with Topaz Labs AI image enhancement. Same as itinerary-carousel-post but adds a Topaz upscale/enhance step after photo finding and before text overlays. Use when asked to create an Instagram carousel with Topaz enhancement.",
+  "version": "1.0.0",
+  "author": {
+    "name": "psyduckler"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/psyduckler/itinerary-carousel-post-topaz",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/psyduckler/itinerary-carousel-post-topaz"
+}

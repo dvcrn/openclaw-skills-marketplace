@@ -1,0 +1,10 @@
+{
+  "name": "lanbasara--codespace-manager",
+  "description": "Create, manage, and access isolated cloud development environments (codespaces) powered by code-server, Docker, and Cloudflare Tunnel. Pre-installed with Bun, uv, and OpenCode. Use when the user wants to (1) create a new dev environment or codespace, (2) start/stop/restart/delete a codespace, (3) set up an isolated coding workspace, (4) launch a remote VS Code environment, (5) manage development containers, (6) open a browser-based IDE, or mentions codespace, code-server, remote development, dev environment, or cloud IDE.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lanbasara"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lanbasara/codespace-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lanbasara/codespace-manager"
+}

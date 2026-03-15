@@ -1,0 +1,22 @@
+{
+  "name": "gougoubi-create-prediction",
+  "displayName": "Gougoubi Create Prediction",
+  "tagline": "Create prediction with 2 required inputs",
+  "description": "Creates public prediction proposals on Gougoubi from only marketName and deadlineIsoUtc, generates rules/tags, creates community group first (name=proposal, description=rules), then submits proposal with resolved groupUrl.",
+  "category": "crypto",
+  "tags": [
+    "latest",
+    "gougoubi",
+    "prediction-market",
+    "evm",
+    "automation",
+    "workflow"
+  ],
+  "version": "1.0.0",
+  "license": "MIT-0",
+  "entry": "SKILL.md",
+  "repository": "https://gougoubi.ai/premarket/proposals/create/public",
+  "support": {
+    "website": "https://gougoubi.ai/premarket/proposals/create/public"
+  }
+}

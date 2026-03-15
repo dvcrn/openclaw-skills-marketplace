@@ -1,0 +1,10 @@
+{
+  "name": "mfang0126--claude-quota-checker",
+  "description": "Check how much Claude Max / Claude Pro subscription quota you have LEFT — not how much you spent. Most usage tools track API billing or token costs. This one answers the real question: 'Am I about to hit my limit?' Shows remaining % for session and weekly windows, plan type, and exact reset times. Works by automating Claude Code CLI's /usage command via tmux — no API keys, no Admin keys, no reverse engineering. Just your subscription status, instantly. Use whenever someone asks: 'how much Claude do I have left', 'am I rate limited', 'when does my quota reset', 'check my usage', 'claude limits', '还剩多少', '查用量', '还能用吗', 'why is Claude slow'. Also use as a first diagnostic when the user hits rate limits or Claude feels sluggish.",
+  "version": "1.1.1",
+  "author": {
+    "name": "mfang0126"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mfang0126/claude-quota-checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mfang0126/claude-quota-checker"
+}

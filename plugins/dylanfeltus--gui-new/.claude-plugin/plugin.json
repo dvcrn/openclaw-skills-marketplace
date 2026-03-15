@@ -1,0 +1,10 @@
+{
+  "name": "dylanfeltus--gui-new",
+  "description": "Create shareable HTML canvases via the gui.new API. Use when: (1) generating visual output (dashboards, charts, forms, tables, diagrams, landing pages, interactive tools), (2) user asks to share or preview HTML as a live link, (3) user wants to turn code output into something viewable by others, (4) creating Mermaid diagrams as shareable links. POST HTML, get a live URL with real-time input sync and state persistence built in.",
+  "version": "1.0.1",
+  "author": {
+    "name": "dylanfeltus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dylanfeltus/gui-new",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dylanfeltus/gui-new"
+}

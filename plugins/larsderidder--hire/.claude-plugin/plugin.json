@@ -1,0 +1,10 @@
+{
+  "name": "larsderidder--hire",
+  "description": "Interactive hiring wizard to set up a new AI team member. Guides the user through role design via conversation, generates agent identity files, and optionally sets up performance reviews. Use when the user wants to hire, add, or set up a new AI agent, team member, or assistant. Triggers on phrases like \"hire\", \"add an agent\", \"I need help with X\" (implying a new role), or \"/hire\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "larsderidder"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/larsderidder/hire",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/larsderidder/hire"
+}

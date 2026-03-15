@@ -1,0 +1,10 @@
+{
+  "name": "wranglerdriver--tempest-weather",
+  "description": "Get current weather conditions from a WeatherFlow Tempest station using the Tempest REST API. Use when the user asks for \"tempest weather\" (preferred trigger), or asks for backyard/home weather, Tempest station readings, wind/gust/rain/lightning from a specific station, or quick local weather summaries sourced from Tempest data.",
+  "version": "1.1.0",
+  "author": {
+    "name": "wranglerdriver"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wranglerdriver/tempest-weather",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wranglerdriver/tempest-weather"
+}

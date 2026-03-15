@@ -1,0 +1,10 @@
+{
+  "name": "oceanswave--frigatebird",
+  "description": "Use the frigatebird npm package to interact with X from the CLI with bird-style command parity, posting/reply/article support, and list automation without X API keys.",
+  "version": "1.0.0",
+  "author": {
+    "name": "oceanswave"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oceanswave/frigatebird",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oceanswave/frigatebird"
+}

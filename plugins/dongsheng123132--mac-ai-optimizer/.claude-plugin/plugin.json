@@ -1,0 +1,10 @@
+{
+  "name": "dongsheng123132--mac-ai-optimizer",
+  "description": "Optimize macOS for AI workloads (OpenClaw, Docker, Ollama). Turn an 8GB Mac into a lean AI server node with near-16GB performance by disabling background services, reducing UI overhead, configuring Docker limits, and enabling SSH remote management.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dongsheng123132"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dongsheng123132/mac-ai-optimizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dongsheng123132/mac-ai-optimizer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zenixp--db-query",
+  "description": "Query project databases with automatic SSH tunnel management. Use when you need to execute SQL queries against configured databases, especially those accessible only via SSH tunnels. Automatically manages SSH connection lifecycle (establishes tunnel before query, closes after). Supports multiple databases distinguished by description/name from config file.",
+  "version": "1.0.1",
+  "author": {
+    "name": "zenixp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zenixp/db-query",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zenixp/db-query"
+}

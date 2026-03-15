@@ -1,0 +1,10 @@
+{
+  "name": "pasogott--frappecli",
+  "description": "CLI for Frappe Framework / ERPNext instances. Use when user asks about \"Frappe\", \"ERPNext\", \"doctypes\", \"Frappe API\", or needs to manage documents, files, reports, or call RPC methods on a Frappe site.",
+  "version": "0.1.1",
+  "author": {
+    "name": "pasogott"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pasogott/frappecli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pasogott/frappecli"
+}

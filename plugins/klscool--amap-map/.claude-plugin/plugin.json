@@ -1,0 +1,10 @@
+{
+  "name": "klscool--amap-map",
+  "description": "高德地图 API 技能（搜索、周边、POI、导航、地理编码）。调用 /scripts/amap.py，支持关键词搜索、周边搜索、POI 详情、步行/骑行/驾车路径规划、地址转坐标。",
+  "version": "1.0.0",
+  "author": {
+    "name": "klscool"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/klscool/amap-map",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/klscool/amap-map"
+}

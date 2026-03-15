@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--motion",
+  "description": "Motion API integration with managed OAuth. Manage tasks, projects, workspaces, and more with AI-powered scheduling.\n Use this skill when users want to create, update, or manage tasks and projects in Motion, or query their scheduled work.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/motion",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/motion"
+}

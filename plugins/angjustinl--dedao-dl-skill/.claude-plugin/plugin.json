@@ -1,0 +1,10 @@
+{
+  "name": "angjustinl--dedao-dl-skill",
+  "description": "Handles interactions with the dedao-dl CLI tool for downloading and managing content from the Dedao (得到) App. Use when the user wants to list bought courses, ebooks, audiobooks, or download them in various formats (PDF, MP3, Markdown, EPUB).",
+  "version": "0.1.1",
+  "author": {
+    "name": "angjustinl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/angjustinl/dedao-dl-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/angjustinl/dedao-dl-skill"
+}

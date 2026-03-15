@@ -1,0 +1,21 @@
+name: options-chain
+slug: options-chain
+version: 1.0.0
+author: moson
+permissions:
+  - network
+config:
+  SKILLPAY_API_KEY:
+    type: string
+    required: !0
+    secret: !0
+entryPoint:
+  type: typescript
+  path: index.js
+metadata:
+  clawdbot:
+    emoji: 📊
+price:
+  amount: .001
+  currency: USDT
+  per: call

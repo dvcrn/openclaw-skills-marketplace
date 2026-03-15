@@ -1,0 +1,10 @@
+{
+  "name": "philipstark--fl-multi-agent-orchestrator",
+  "description": "Production-grade multi-agent orchestration patterns. Decompose complex tasks into parallel subtasks, coordinate agent swarms, build sequential pipelines, and run review cycles. Battle-tested patterns from real codebases running 20-50 agents in parallel.",
+  "version": "1.0.0",
+  "author": {
+    "name": "philipstark"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/philipstark/fl-multi-agent-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/philipstark/fl-multi-agent-orchestrator"
+}

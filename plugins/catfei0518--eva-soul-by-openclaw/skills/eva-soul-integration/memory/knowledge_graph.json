@@ -1,0 +1,94 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-03-09T08:19:03.365056",
+  "nodes": {
+    "person_b3d92d4f": {
+      "id": "person_b3d92d4f",
+      "name": "主人",
+      "type": "person",
+      "attrs": {},
+      "created_at": "2026-03-09T08:18:59.479048"
+    },
+    "person_0032e210": {
+      "id": "person_0032e210",
+      "name": "李总",
+      "type": "person",
+      "attrs": {},
+      "created_at": "2026-03-09T08:18:59.479348"
+    },
+    "person_e6c7ee60": {
+      "id": "person_e6c7ee60",
+      "name": "妈妈",
+      "type": "person",
+      "attrs": {},
+      "created_at": "2026-03-09T08:18:59.511387"
+    },
+    "person_e9007ce8": {
+      "id": "person_e9007ce8",
+      "name": "房地产公司",
+      "type": "person",
+      "attrs": {},
+      "created_at": "2026-03-09T08:18:59.544205"
+    },
+    "person_18560d2a": {
+      "id": "person_18560d2a",
+      "name": "王总",
+      "type": "person",
+      "attrs": {},
+      "created_at": "2026-03-09T08:18:59.575572"
+    },
+    "person_8c7b4243": {
+      "id": "person_8c7b4243",
+      "name": "我和张总",
+      "type": "person",
+      "attrs": {},
+      "created_at": "2026-03-09T08:19:03.364735"
+    }
+  },
+  "edges": [
+    {
+      "id": "边_9944c979",
+      "from": "person_b3d92d4f",
+      "to": "person_0032e210",
+      "relation": "朋友",
+      "source": "manual",
+      "created_at": "2026-03-09T08:18:59.479622"
+    },
+    {
+      "id": "边_afabfc79",
+      "from": "person_b3d92d4f",
+      "to": "person_e6c7ee60",
+      "relation": "家人",
+      "source": "manual",
+      "created_at": "2026-03-09T08:18:59.511723"
+    },
+    {
+      "id": "边_dc482797",
+      "from": "person_b3d92d4f",
+      "to": "person_e9007ce8",
+      "relation": "任职",
+      "source": "manual",
+      "created_at": "2026-03-09T08:18:59.544544"
+    },
+    {
+      "id": "边_371c3f11",
+      "from": "person_b3d92d4f",
+      "to": "person_18560d2a",
+      "relation": "合作伙伴",
+      "source": "manual",
+      "created_at": "2026-03-09T08:18:59.575871"
+    },
+    {
+      "id": "边_5c76a7a9",
+      "from": "person_b3d92d4f",
+      "to": "person_8c7b4243",
+      "relation": "同",
+      "source": "auto",
+      "created_at": "2026-03-09T08:19:03.365049"
+    }
+  ],
+  "stats": {
+    "total_nodes": 6,
+    "total_edges": 5
+  }
+}

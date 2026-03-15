@@ -1,0 +1,10 @@
+{
+  "name": "codeblackhole1024--email-assistant",
+  "description": "Multi-email management assistant supporting Gmail, 163, QQ, Outlook, and Hotmail. Features: (1) Fetch inbox and summarize emails (2) Keyword-based important email detection (3) Auto-extract calendar events from emails. Use when: users need unified email management across multiple accounts, want to avoid missing important emails, or need to extract schedules from email content.",
+  "version": "1.1.0",
+  "author": {
+    "name": "codeblackhole1024"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codeblackhole1024/email-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codeblackhole1024/email-assistant"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "georges91560--virtual-desktop",
+  "description": "Gives any OpenClaw agent a persistent headless browser running inside the Docker container. Full autonomous execution layer: navigate any website, click, type, fill forms, extract data, upload files, submit, screenshot — on any platform, for any task. The agent can analyze, plan, execute, and self-correct across every revenue axis: content creation, email management, social publishing, sales funnels, market research, admin workflows, and more. Uses Playwright Chromium — no Xvfb, no VNC, no host dependencies. Sessions persist across runs. Every action is logged. Every discovery improves future performance through .learnings/.",
+  "version": "1.0.1",
+  "author": {
+    "name": "georges91560"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/georges91560/virtual-desktop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/georges91560/virtual-desktop"
+}

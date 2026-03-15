@@ -1,0 +1,10 @@
+{
+  "name": "satoshistackalotto--canonical-data-map",
+  "description": "Single source of truth for all paths, naming conventions, and data formats across the OpenClaw Greek Accounting system. Reference document.",
+  "version": "0.1.1",
+  "author": {
+    "name": "satoshistackalotto"
+  },
+  "homepage": "https://github.com/satoshistackalotto/openclaw-greek-accounting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/canonical-data-map"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jayhe--dead-or-alive",
+  "description": "监控用户是否活跃，连续7天没打卡就联系紧急联系人。配置后自动创建定时任务。",
+  "version": "1.2.0",
+  "author": {
+    "name": "jayhe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jayhe/dead-or-alive",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jayhe/dead-or-alive"
+}

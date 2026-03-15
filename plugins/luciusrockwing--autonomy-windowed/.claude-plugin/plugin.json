@@ -1,0 +1,10 @@
+{
+  "name": "luciusrockwing--autonomy-windowed",
+  "description": "Time-windowed autonomous task queue. Autonomy works only during specific time windows (e.g., 8 AM - 8 PM UTC), while cron jobs run overnight. Separates concerns by time - day = autonomy, night = maintenance. Use when you want predictable work schedule, controlled token budget, and clear temporal separation between autonomous work and scheduled maintenance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "luciusrockwing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luciusrockwing/autonomy-windowed",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luciusrockwing/autonomy-windowed"
+}

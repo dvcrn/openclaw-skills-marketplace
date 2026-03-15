@@ -1,0 +1,10 @@
+{
+  "name": "ontehfritz--demarkus",
+  "description": "Persistent agent memory and versioned markdown documents over the Mark Protocol (mark://). Use when asked to remember something across sessions, fetch or publish mark:// documents, keep a journal, store thoughts and reflections, set up agent memory that survives conversations, or give the agent a soul.",
+  "version": "1.1.0",
+  "author": {
+    "name": "ontehfritz"
+  },
+  "homepage": "https://demarkus.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ontehfritz/demarkus"
+}

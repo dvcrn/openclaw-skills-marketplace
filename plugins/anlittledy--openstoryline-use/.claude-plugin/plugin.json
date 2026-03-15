@@ -1,0 +1,10 @@
+{
+  "name": "anlittledy--openstoryline-use",
+  "description": "Use this skill when OpenStoryline is already installed and the user wants to start the local MCP/Web services, create or continue a session, send editing instructions, perform multi-turn re-editing, and verify rendered video outputs, as well as Chinese requests like “启动 OpenStoryline”, “把 OpenStoryline 跑起来”, “用 OpenStoryline 剪视频”.",
+  "version": "0.0.1",
+  "author": {
+    "name": "anlittledy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anlittledy/openstoryline-use",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anlittledy/openstoryline-use"
+}

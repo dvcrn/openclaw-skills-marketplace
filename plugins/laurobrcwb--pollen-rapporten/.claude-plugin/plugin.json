@@ -1,0 +1,10 @@
+{
+  "name": "laurobrcwb--pollen-rapporten",
+  "description": "Fetch pollen forecasts for Swedish locations from Pollenrapporten (Swedish Museum of Natural History). Use when Boss asks about pollen levels, pollen forecast, or allergy conditions in Sweden. Covers alder, hazel, birch, grass, and other pollen types with severity levels.",
+  "version": "1.0.0",
+  "author": {
+    "name": "laurobrcwb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/laurobrcwb/pollen-rapporten",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/laurobrcwb/pollen-rapporten"
+}

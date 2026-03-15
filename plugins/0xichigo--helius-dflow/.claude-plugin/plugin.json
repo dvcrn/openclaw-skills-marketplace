@@ -1,0 +1,10 @@
+{
+  "name": "0xichigo--helius-dflow",
+  "description": "Build Solana trading applications combining DFlow trading APIs with Helius infrastructure. Covers spot swaps (imperative and declarative), prediction markets, real-time market streaming, Proof KYC, transaction submission via Sender, fee optimization, shred-level streaming via LaserStream, and wallet intelligence.",
+  "version": "1.0.0",
+  "author": {
+    "name": "0xichigo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xichigo/helius-dflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xichigo/helius-dflow"
+}

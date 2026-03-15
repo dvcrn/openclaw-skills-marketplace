@@ -1,0 +1,10 @@
+{
+  "name": "anightmare2--feishu-voice-skill",
+  "description": "让 AI 助手能够给飞书用户发送真正的语音条（点击即播，不是文件附件）。支持 NoizAI TTS 生成语音，自动转换为 OPUS 格式，通过飞书 API 发送语音消息。",
+  "version": "1.2.0",
+  "author": {
+    "name": "anightmare2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anightmare2/feishu-voice-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anightmare2/feishu-voice-skill"
+}

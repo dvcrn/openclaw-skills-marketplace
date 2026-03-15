@@ -1,0 +1,10 @@
+{
+  "name": "riskanon--tradr",
+  "description": "Onchain trade execution engine. Feed a CA + score, get full trade lifecycle — sized entry, mode-based exits, on-chain verification, and trade logging. Requires Bankr skill.",
+  "version": "1.0.0",
+  "author": {
+    "name": "riskanon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/riskanon/tradr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/riskanon/tradr"
+}

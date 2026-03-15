@@ -1,0 +1,10 @@
+{
+  "name": "shhdwi--docstrange",
+  "description": "Document extraction API by Nanonets. Convert PDFs and images to markdown, JSON, or CSV with confidence scoring. Use when you need to OCR documents, extract invoice fields, parse receipts, or convert tables to structured data.",
+  "version": "1.0.2",
+  "author": {
+    "name": "shhdwi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shhdwi/docstrange",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shhdwi/docstrange"
+}

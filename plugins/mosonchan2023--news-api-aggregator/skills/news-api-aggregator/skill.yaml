@@ -1,0 +1,23 @@
+---
+name: news-api-aggregator
+version: 1.0.0
+description: Aggregate news from multiple sources into a unified API. Each call charges 0.001 USDT via SkillPay.
+category: News
+tags:
+  - news
+  - aggregator
+  - API
+  - multi-source
+author: moson
+price: 0.001
+currency: USDT
+triggers:
+  - "news aggregator"
+  - "multi-source news"
+  - "news API"
+  - "unified news"
+config:
+  NEWSAPI_KEY:
+    type: string
+    required: false
+    secret: true

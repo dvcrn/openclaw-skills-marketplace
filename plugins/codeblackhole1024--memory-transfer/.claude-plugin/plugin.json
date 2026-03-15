@@ -1,0 +1,10 @@
+{
+  "name": "codeblackhole1024--memory-transfer",
+  "description": "Transfer memory between OpenClaw agents with advanced features: topic-specific filtering, user info privacy protection, and intelligent agent identity adaptation. Use when: (1) Migrating context between agents, (2) Sharing knowledge without leaking user personal info, (3) Backing up agent memory. Supports share mode (filters user data + adapts to target agent) and clone mode (verbatim copy).",
+  "version": "2.1.1",
+  "author": {
+    "name": "codeblackhole1024"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codeblackhole1024/memory-transfer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codeblackhole1024/memory-transfer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "romanluoman00007--book-of-the-day",
+  "description": "Book of the Day — a daily book oracle. One uplifting book, one light poetic reading. Trigger: \"book of the day\", \"today's book\", \"今日之书\", \"书签运势\". Each invocation fetches a fresh book. Respond in the user's language. FORBIDDEN: never output \"Draw again\", \"再抽一次\", or similar prompts.",
+  "version": "1.0.7",
+  "author": {
+    "name": "romanluoman00007"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/romanluoman00007/book-of-the-day",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romanluoman00007/book-of-the-day"
+}

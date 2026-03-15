@@ -1,0 +1,10 @@
+{
+  "name": "jaskies--smart-speak-vutran",
+  "description": "Multilingual Text-to-Speech (TTS) with intelligent Pinyin-to-Hanzi conversion. Use when the user asks to generate audio for text that contains a mix of Vietnamese, Chinese (Pinyin), or English. This skill ensures correct pronunciation by converting Pinyin to Hanzi and using native-quality voices for each segment.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jaskies"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jaskies/smart-speak-vutran",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jaskies/smart-speak-vutran"
+}

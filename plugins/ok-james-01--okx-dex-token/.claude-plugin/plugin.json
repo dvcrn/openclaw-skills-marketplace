@@ -1,0 +1,10 @@
+{
+  "name": "ok-james-01--okx-dex-token",
+  "description": "This skill should be used when the user asks to 'find a token', 'search for a token', 'look up PEPE', 'what's trending', 'top tokens', 'trending tokens on Solana', 'token rankings', 'who holds this token', 'holder distribution', 'token market cap', 'token liquidity', 'research a token', 'tell me about this token', 'token info', or mentions searching for tokens, discovering trending tokens, viewing rankings, checking holder distribution, or analyzing market cap and liquidity. Covers token search, metadata, market cap, liquidity, volume, trending rankings, and holder analysis across XLayer, Solana, Ethereum, Base, BSC, Arbitrum, Polygon, and 20+ other chains. Do NOT use when the user says only a generic word like 'tokens' without a specific token name or action. For price charts, K-line, trades, or signals use okx-dex-market. For meme token safety, dev reputation, rug pulls, or bundle/sniper detection use okx-dex-market.",
+  "version": "1.0.2",
+  "author": {
+    "name": "ok-james-01"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ok-james-01/okx-dex-token",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ok-james-01/okx-dex-token"
+}

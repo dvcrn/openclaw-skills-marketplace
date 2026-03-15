@@ -1,0 +1,10 @@
+{
+  "name": "impa365--setuporion-byimpa",
+  "description": "Setup completo de VPS Ubuntu/Debian para produção com Docker Swarm, Traefik v3 (SSL/HTTPS automático), Portainer CE e rede overlay. Baseado no SetupOrion v2.8.0. Executa todos os comandos automaticamente.",
+  "version": "1.0.0",
+  "author": {
+    "name": "impa365"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/impa365/setuporion-byimpa",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/impa365/setuporion-byimpa"
+}

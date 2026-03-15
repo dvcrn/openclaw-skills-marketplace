@@ -1,0 +1,10 @@
+{
+  "name": "openlang-cn--open",
+  "description": "General helper for opening things from the command line (files, folders, URLs, repositories, docs). Use when the user wants to quickly open something they mentioned, and choose the right OS-specific command to launch it.",
+  "version": "1.0.0",
+  "author": {
+    "name": "openlang-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/open",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/open"
+}

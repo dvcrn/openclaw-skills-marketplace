@@ -1,0 +1,10 @@
+{
+  "name": "tsangwailam--mission-claw",
+  "description": "Log agent activities to Mission Claw dashboard with token usage tracking. Use when completing significant tasks, subagent work, or any action worth recording in the activity feed. Triggers on task completion, activity logging, or tracking agent work.",
+  "version": "0.1.2",
+  "author": {
+    "name": "tsangwailam"
+  },
+  "homepage": "https://github.com/tsangwailam/mcclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tsangwailam/mission-claw"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "simonfunk--posthog",
+  "description": "Interact with PostHog analytics via its REST API. Capture events, evaluate feature flags, query data with HogQL, manage persons, insights, dashboards, experiments, surveys, cohorts, annotations, and session recordings. Use when the user mentions \"PostHog\", \"PostHog API\", \"PostHog events\", \"PostHog feature flags\", \"PostHog insights\", \"PostHog query\", \"HogQL\", \"PostHog persons\", \"PostHog dashboards\", \"PostHog experiments\", \"PostHog surveys\", \"PostHog cohorts\", \"PostHog recordings\", \"capture events PostHog\", or \"PostHog analytics\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "simonfunk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/simonfunk/posthog",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/simonfunk/posthog"
+}

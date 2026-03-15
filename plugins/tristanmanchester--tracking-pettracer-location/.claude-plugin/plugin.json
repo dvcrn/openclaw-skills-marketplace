@@ -1,0 +1,10 @@
+{
+  "name": "tristanmanchester--tracking-pettracer-location",
+  "description": "Tracks PetTracer (pettracer.com) GPS collars via the PetTracer portal API: fetches a pet’s latest location, location history, and optionally streams updates via the PetTracer WebSocket (SockJS/STOMP). Use when the user asks “where is my pet/cat”, “track my PetTracer”, wants GPS coordinates/history, or needs help with PetTracer authentication tokens or live tracking.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tristanmanchester"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/tracking-pettracer-location",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/tracking-pettracer-location"
+}

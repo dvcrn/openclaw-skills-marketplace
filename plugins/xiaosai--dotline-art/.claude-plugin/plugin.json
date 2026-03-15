@@ -1,0 +1,10 @@
+{
+  "name": "xiaosai--dotline-art",
+  "description": "生成点线字符艺术画，在终端显示漂亮的文字点线图。当用户想要生成终端艺术字、ASCII art、命令行banner、文字转点线图、终端横幅、CLI文字艺术时触发此技能。支持中英文输入（中文自动转拼音）。",
+  "version": "0.1.0",
+  "author": {
+    "name": "xiaosai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaosai/dotline-art",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaosai/dotline-art"
+}

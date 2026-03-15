@@ -1,0 +1,10 @@
+{
+  "name": "stefantaylor5--polymarket-weather-high-temp-sniper",
+  "description": "Scans Polymarket daily high-temperature markets, auto-imports new ones, then snipes YES positions between 9–10 AM local time when forecast and reality converge — buys YES at ≥$0.60 during the scan window, or follows crowd volume at 10 AM sharp.",
+  "version": "1.0.1",
+  "author": {
+    "name": "stefantaylor5"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stefantaylor5/polymarket-weather-high-temp-sniper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stefantaylor5/polymarket-weather-high-temp-sniper"
+}

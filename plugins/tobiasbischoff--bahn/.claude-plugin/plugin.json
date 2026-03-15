@@ -1,0 +1,10 @@
+{
+  "name": "tobiasbischoff--bahn",
+  "description": "Search Deutsche Bahn train connections using the bahn-cli tool. Use when you need to find train connections between German stations, check departure times, or help with travel planning. Works with station names like \"Berlin Hbf\", \"München\", \"Hannover\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "tobiasbischoff"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tobiasbischoff/bahn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tobiasbischoff/bahn"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "paulshe--china-stock-analysis",
+  "description": "Analyze Chinese stock prices (A-shares, HK stocks) and provide investment recommendations. Use when the user asks about stock analysis for Chinese companies, including buying/selling recommendations and market trends.",
+  "version": "1.0.0",
+  "author": {
+    "name": "paulshe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/paulshe/china-stock-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paulshe/china-stock-analysis"
+}

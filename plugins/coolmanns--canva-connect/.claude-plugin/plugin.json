@@ -1,0 +1,10 @@
+{
+  "name": "coolmanns--canva-connect",
+  "description": "Manage Canva designs, assets, and folders via the Connect API.\n \n WHAT IT CAN DO:\n - List/search/organize designs and folders\n - Export finished designs (PNG/PDF/JPG)\n - Upload images to asset library\n - Autofill brand templates with data\n - Create blank designs (doc/presentation/whiteboard/custom)\n \n WHAT IT CANNOT DO:\n - Add content to designs (text, shapes, elements)\n - Edit existing design content\n - Upload documents (images only)\n - AI design generation\n \n Best for: asset pipelines, export automation, organization, template autofill.\n Triggers: /canva, \"upload to canva\", \"export design\", \"list my designs\", \"canva folder\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "coolmanns"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/coolmanns/canva-connect",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/coolmanns/canva-connect"
+}

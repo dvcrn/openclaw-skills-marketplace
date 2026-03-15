@@ -1,0 +1,10 @@
+{
+  "name": "railgun9983--bilibili-video-analyzer",
+  "description": "Analyzes Bilibili academic/educational videos to extract knowledge points and generate clean-style study notes with screenshots. Use this skill when users provide a Bilibili video link and want to generate a professional learning report in card format with core concepts, detailed explanations, key points, and automatically captured screenshots.",
+  "version": "1.0.0",
+  "author": {
+    "name": "railgun9983"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/railgun9983/bilibili-video-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/railgun9983/bilibili-video-analyzer"
+}

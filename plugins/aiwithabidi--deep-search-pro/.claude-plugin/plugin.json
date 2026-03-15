@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--deep-search-pro",
+  "description": "Multi-tier Perplexity search with Langfuse tracing. Three depth levels: quick (sonar), pro (sonar-pro), deep (sonar-reasoning-pro). Supports focus modes: internet, academic, news, youtube, reddit. Returns AI-synthesized answers with citations. Use for research, comparisons, market analysis, fact-checking. Triggers: search, research, look up, find out, compare, what is, deep search, web research.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/deep-search-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/deep-search-pro"
+}

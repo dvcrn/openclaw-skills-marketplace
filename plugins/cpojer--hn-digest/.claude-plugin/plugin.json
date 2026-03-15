@@ -1,0 +1,10 @@
+{
+  "name": "cpojer--hn-digest",
+  "description": "Fetch and send Hacker News front-page posts on demand. Use when the user asks for HN, says 'hn', 'pull HN', 'hn 10', or specifies a topic like 'hn health', 'hn hacking', or 'hn tech'. Sends N (default 5) posts as individual messages with Title + Link. Exclude crypto.",
+  "version": "1.0.1",
+  "author": {
+    "name": "cpojer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cpojer/hn-digest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cpojer/hn-digest"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "yanweiliang323868-del--docx-md",
+  "description": "Low-level docx format tool for AI document review. Three operations: (1) read docx → output compact Markdown or JSON; (2) apply edits JSON back to docx (tracked revisions and comments); (3) finalize (accept revisions, remove comments). Markdown output saves tokens vs full JSON. Use when raw .docx read/write is needed. For full contract review workflow, use contract-review-workflow which invokes this tool.",
+  "version": "1.0.1",
+  "author": {
+    "name": "yanweiliang323868-del"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yanweiliang323868-del/docx-md",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yanweiliang323868-del/docx-md"
+}

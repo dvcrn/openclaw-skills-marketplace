@@ -1,0 +1,10 @@
+{
+  "name": "wms2537--my-sg-invoice-parser",
+  "description": "Extract structured data from Malaysian & Singaporean invoices/receipts. SST/GST-aware. Supports BM/EN/CN.",
+  "version": "2.0.0",
+  "author": {
+    "name": "wms2537"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wms2537/my-sg-invoice-parser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wms2537/my-sg-invoice-parser"
+}

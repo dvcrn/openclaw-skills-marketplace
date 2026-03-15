@@ -1,0 +1,10 @@
+{
+  "name": "zif10765-maker--crypto-research",
+  "description": "加密货币投研分析框架，用于每日行情展望报告和市场实时监控。当需要：(1) 生成每日行情报告，(2) 分析BTC/ETH走势，(3) 监控市场资讯和币价异动，(4) 制定交易预案时使用此skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "zif10765-maker"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zif10765-maker/crypto-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zif10765-maker/crypto-research"
+}

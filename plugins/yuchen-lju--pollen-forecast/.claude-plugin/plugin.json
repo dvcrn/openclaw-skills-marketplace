@@ -1,0 +1,10 @@
+{
+  "name": "yuchen-lju--pollen-forecast",
+  "description": "Daily pollen forecast and allergy alerts for Chinese cities. Use when user asks about pollen levels, allergy season, hay fever, flower pollen, 花粉, 过敏, or wants to set up daily pollen alerts. Supports Beijing, Shanghai, Guangzhou, and other major Chinese cities. Can create automated daily cron reports.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yuchen-lju"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yuchen-lju/pollen-forecast",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yuchen-lju/pollen-forecast"
+}

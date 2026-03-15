@@ -1,0 +1,10 @@
+{
+  "name": "lkyyyy320--video-to-text-2",
+  "description": "Video to text converter. Downloads videos from Bilibili using bilibili-api, from other sites using yt-dlp, then transcribes audio using faster-whisper. Use when you need to convert video content (B站/YouTube/local files) into text transcripts or subtitles.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lkyyyy320"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lkyyyy320/video-to-text-2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lkyyyy320/video-to-text-2"
+}

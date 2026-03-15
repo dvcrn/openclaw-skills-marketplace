@@ -1,0 +1,10 @@
+{
+  "name": "hzrky--cann-review",
+  "description": "CANN 代码审查技能。用于审查 GitCode 上的 CANN 项目 PR。\n 当用户提到\"审查 PR\"、\"代码审查\"、\"cann review\"或提供 GitCode PR 链接时触发。\n 自动分析代码变更，检查内存泄漏、安全漏洞和可读性，生成结构化报告并发布评论。",
+  "version": "3.2.0",
+  "author": {
+    "name": "hzrky"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hzrky/cann-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hzrky/cann-review"
+}

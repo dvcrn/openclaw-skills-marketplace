@@ -1,0 +1,10 @@
+{
+  "name": "chongjie-ran--chongjie-skill-generator",
+  "description": "自然语言描述需求，AI自动生成可复用的Skill。用于：(1)根据需求创建新Skill (2)生成Skill结构 (3)批量生成Skill模板。触发词：创建skill、生成skill、做一个skill",
+  "version": "1.0.0",
+  "author": {
+    "name": "chongjie-ran"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chongjie-ran/chongjie-skill-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chongjie-ran/chongjie-skill-generator"
+}

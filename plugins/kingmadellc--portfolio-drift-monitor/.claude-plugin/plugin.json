@@ -1,0 +1,10 @@
+{
+  "name": "kingmadellc--portfolio-drift-monitor",
+  "description": "Real-time Kalshi portfolio drift alerts — monitors positions and fires when any moves beyond your configured threshold since last check. Snapshot comparison, rate-limited checking, directional emoji indicators. Schedule hourly to catch position swings between morning and evening briefs. Part of the OpenClaw Prediction Market Trading Stack — risk management layer that pairs with Kalshi Command Center and Market Morning Brief.",
+  "version": "1.1.0",
+  "author": {
+    "name": "kingmadellc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/portfolio-drift-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/portfolio-drift-monitor"
+}

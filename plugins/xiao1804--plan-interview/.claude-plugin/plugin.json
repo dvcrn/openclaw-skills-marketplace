@@ -1,0 +1,10 @@
+{
+  "name": "xiao1804--plan-interview",
+  "description": "Ensures alignment between user and Claude during feature/spec planning through a structured interview process.\n\n Use this skill when the user invokes /plan-interview before implementing a new feature, refactoring, or any non-trivial implementation task. The skill runs an upfront interview to gather requirements across technical constraints, scope boundaries, risk tolerance, and success criteria before any codebase exploration.\n\n Do NOT use this skill for: pure research/exploration tasks, simple bug fixes, or when the user just wants standard planning without the interview process.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiao1804"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiao1804/plan-interview",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiao1804/plan-interview"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "pors--research",
+  "description": "Deep research via Gemini CLI — runs in background sub-agent so you don't burn your Claude tokens.",
+  "version": "1.0.1",
+  "author": {
+    "name": "pors"
+  },
+  "homepage": "https://github.com/google/gemini-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pors/research"
+}

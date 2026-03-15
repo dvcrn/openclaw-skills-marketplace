@@ -1,0 +1,10 @@
+{
+  "name": "yuandiaodiaodiao--aster-spot",
+  "description": "Aster Spot request using the Aster API. Authentication requires API key and secret key (HMAC SHA256). Supports mainnet.",
+  "version": "0.1.1",
+  "author": {
+    "name": "yuandiaodiaodiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yuandiaodiaodiao/aster-spot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yuandiaodiaodiao/aster-spot"
+}

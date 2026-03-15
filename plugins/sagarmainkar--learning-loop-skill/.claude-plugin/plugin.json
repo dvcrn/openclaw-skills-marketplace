@@ -1,0 +1,10 @@
+{
+  "name": "sagarmainkar--learning-loop-skill",
+  "description": "Autonomous structured learning for mastering complex topics through cron-based 5-session feedback loops. Use when user wants to deeply learn a subject (e.g., \"learn X\", \"teach me Y\", \"master Z\", \"deep dive into X\", \"I want to understand X deeply\"). NOT for quick overviews, simple factual questions, or topics without clear right/wrong answers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sagarmainkar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sagarmainkar/learning-loop-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sagarmainkar/learning-loop-skill"
+}

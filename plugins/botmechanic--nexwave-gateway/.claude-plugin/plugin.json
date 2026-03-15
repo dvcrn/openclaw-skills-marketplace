@@ -1,0 +1,10 @@
+{
+  "name": "botmechanic--nexwave-gateway",
+  "description": "Unified crosschain USDC balance via Circle Gateway + Circle Programmable Wallets. Deposit USDC on any supported chain, check your unified balance, and instantly mint USDC on any destination chain in <500ms — no bridging, no raw private keys.",
+  "version": "1.0.2",
+  "author": {
+    "name": "botmechanic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/botmechanic/nexwave-gateway",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/botmechanic/nexwave-gateway"
+}

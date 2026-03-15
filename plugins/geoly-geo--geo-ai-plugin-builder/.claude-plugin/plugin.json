@@ -1,0 +1,10 @@
+{
+  "name": "geoly-geo--geo-ai-plugin-builder",
+  "description": "Master orchestrator for turning high-value GEO content and capabilities into AI plugins/tools across ChatGPT, Claude, Perplexity, Gemini and other ecosystems. Use this skill whenever the user mentions building, designing, packaging, or standardizing AI plugins/tools around their content, APIs, or GEO assets, or wants to move from being passively cited to actively embedded inside AI workflows.",
+  "version": "0.1.0",
+  "author": {
+    "name": "geoly-geo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/geoly-geo/geo-ai-plugin-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/geoly-geo/geo-ai-plugin-builder"
+}

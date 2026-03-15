@@ -1,0 +1,10 @@
+{
+  "name": "limboinf--funasr-transcribe-skill",
+  "description": "Use when the user needs local speech-to-text transcription for audio files, especially Chinese or mixed Chinese-English audio, without relying on cloud transcription APIs.",
+  "version": "1.0.1",
+  "author": {
+    "name": "limboinf"
+  },
+  "homepage": "https://github.com/limboinf/funasr-transcribe-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/limboinf/funasr-transcribe-skill"
+}

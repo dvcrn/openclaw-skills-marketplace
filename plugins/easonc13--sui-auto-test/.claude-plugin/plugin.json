@@ -1,0 +1,10 @@
+{
+  "name": "easonc13--sui-auto-test",
+  "description": "Analyze Sui Move test coverage, identify untested code, write missing tests, and perform security audits. Includes Python tools for parsing coverage output and generating reports.",
+  "version": "1.0.0",
+  "author": {
+    "name": "easonc13"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/easonc13/sui-auto-test",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/easonc13/sui-auto-test"
+}

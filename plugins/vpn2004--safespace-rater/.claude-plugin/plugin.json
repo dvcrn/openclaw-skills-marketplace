@@ -1,0 +1,10 @@
+{
+  "name": "vpn2004--safespace-rater",
+  "description": "Use when users need to audit local OpenClaw skills, generate trust scores, and optionally publish those scores to SafeSpace.",
+  "version": "1.3.4",
+  "author": {
+    "name": "vpn2004"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vpn2004/safespace-rater",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vpn2004/safespace-rater"
+}

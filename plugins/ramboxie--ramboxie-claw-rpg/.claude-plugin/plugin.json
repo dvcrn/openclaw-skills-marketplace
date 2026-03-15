@@ -1,0 +1,10 @@
+{
+  "name": "ramboxie--ramboxie-claw-rpg",
+  "description": "D&D-style RPG character system for AI lobster assistants. Automatically generates a character sheet from SOUL.md and MEMORY.md, assigns class (wizard/bard/rogue/paladin/druid/fighter) and 6 stats, tracks XP from token usage, levels up from 1 to 999 with a prestige system, and fires hidden easter egg flavor text during conversations. Use when: initializing a lobster's RPG character, syncing XP after conversations, checking level/stats, running prestige at Lv.999, or launching the character dashboard.",
+  "version": "0.1.1",
+  "author": {
+    "name": "ramboxie"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ramboxie/ramboxie-claw-rpg",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ramboxie/ramboxie-claw-rpg"
+}

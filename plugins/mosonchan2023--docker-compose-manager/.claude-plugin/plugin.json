@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--docker-compose-manager",
+  "description": "Manage docker-compose services - start, stop, restart, logs, and scale containers. Each call charges 0.001 USDT via SkillPay.",
+  "version": "1.0.1",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/docker-compose-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/docker-compose-manager"
+}

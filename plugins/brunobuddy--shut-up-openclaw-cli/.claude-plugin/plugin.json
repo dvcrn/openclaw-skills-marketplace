@@ -1,0 +1,10 @@
+{
+  "name": "brunobuddy--shut-up-openclaw-cli",
+  "description": "Suppress the OpenClaw CLI banner message. Use when the user says \"hide openclaw banner\", \"disable openclaw banner\", \"suppress openclaw banner\", \"remove openclaw banner\", \"openclaw banner is annoying\", \"turn off the lobster\", or wants to stop seeing the OpenClaw startup tagline on every command invocation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brunobuddy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brunobuddy/shut-up-openclaw-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brunobuddy/shut-up-openclaw-cli"
+}

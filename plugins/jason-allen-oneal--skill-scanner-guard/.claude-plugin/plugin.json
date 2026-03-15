@@ -1,0 +1,10 @@
+{
+  "name": "jason-allen-oneal--skill-scanner-guard",
+  "description": "Security gate for OpenClaw AgentSkills. Scans folder/ClawHub skills with cisco-ai-defense/skill-scanner before installation. Supports manual scans, staged installs, and auto-quarantine of high-risk skills via systemd.",
+  "version": "1.0.2",
+  "author": {
+    "name": "jason-allen-oneal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jason-allen-oneal/skill-scanner-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jason-allen-oneal/skill-scanner-guard"
+}

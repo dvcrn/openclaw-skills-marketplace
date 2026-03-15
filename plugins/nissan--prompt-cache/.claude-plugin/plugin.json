@@ -1,0 +1,10 @@
+{
+  "name": "nissan--prompt-cache",
+  "description": "SHA-256 prompt deduplication for LLM and TTS calls — hash normalize prompts, check cache before calling APIs, store results for instant replay. Use when making repeated or similar API calls to avoid redundant spending. Works with any database backend (SQLite, Turso, Postgres).",
+  "version": "1.0.0",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/prompt-cache",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/prompt-cache"
+}

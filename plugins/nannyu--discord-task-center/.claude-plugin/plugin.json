@@ -1,0 +1,10 @@
+{
+  "name": "nannyu--discord-task-center",
+  "description": "Handles Discord task-center forum: create task posts, archive tasks by tag, and respect model tags for conversation. Use when the user is in a Discord task thread and says 新建任务、开个任务、归档任务、归档当前任务, or when asked to create a task from todo/calendar items. Requires Discord forum task-center integration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nannyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nannyu/discord-task-center",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nannyu/discord-task-center"
+}

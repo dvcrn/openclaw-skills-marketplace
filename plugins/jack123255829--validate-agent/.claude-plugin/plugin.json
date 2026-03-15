@@ -1,0 +1,10 @@
+{
+  "name": "jack123255829--validate-agent",
+  "description": "Agent验证与质量保证。减少静默系统错误，产出可重现的证据。\n 触发条件：(1) 完成任务时 (2) 修复问题后 (3) 提供答案前 (4) 跨会话承诺时",
+  "version": "1.0.0",
+  "author": {
+    "name": "jack123255829"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jack123255829/validate-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jack123255829/validate-agent"
+}

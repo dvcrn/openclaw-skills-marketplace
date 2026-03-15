@@ -1,0 +1,10 @@
+{
+  "name": "dalomeve--prepublish-privacy-scrub",
+  "description": "Scan and remove sensitive data before publishing skills. Detect API keys, tokens, secrets, and personal info.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dalomeve"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/prepublish-privacy-scrub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/prepublish-privacy-scrub"
+}

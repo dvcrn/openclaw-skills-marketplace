@@ -1,0 +1,10 @@
+{
+  "name": "rmarji--scannable-reports",
+  "description": "Format agent outputs for mobile chat apps. Unicode progress bars, sparklines, and status indicators that render perfectly in Telegram, Discord, Slack, WhatsApp — no images needed. Use when creating status updates, dashboards, metrics reports, or any structured information for chat-based delivery. Triggers on status reports, dashboards, metrics, progress updates, or when output needs to be mobile-scannable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rmarji"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rmarji/scannable-reports",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rmarji/scannable-reports"
+}

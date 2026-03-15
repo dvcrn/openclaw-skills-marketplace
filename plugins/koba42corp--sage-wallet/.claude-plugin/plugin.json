@@ -1,0 +1,10 @@
+{
+  "name": "koba42corp--sage-wallet",
+  "description": "Interact with the Sage Chia blockchain wallet via RPC. Use for XCH transactions, CAT tokens, NFTs, DIDs, offers, options, coin management, and wallet configuration. Supports cross-platform setups (Mac/Linux/Windows) with configurable RPC endpoints and SSL certificates. Invoke with /sage commands or natural language like \"send XCH\", \"check my NFTs\", \"create an offer\", \"mint a CAT token\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "koba42corp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/koba42corp/sage-wallet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/koba42corp/sage-wallet"
+}

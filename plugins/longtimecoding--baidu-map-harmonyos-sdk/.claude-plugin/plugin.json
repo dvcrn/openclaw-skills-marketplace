@@ -1,0 +1,10 @@
+{
+  "name": "longtimecoding--baidu-map-harmonyos-sdk",
+  "description": "帮助在 HarmonyOS NEXT 上使用百度地图鸿蒙 SDK 进行开发。支持独立包（@bdmap/base、@bdmap/map、@bdmap/search、@bdmap/util）和组合包（@bdmap/map_walkride_search、@bdmap/navi_map），以及定位 SDK（@bdmap/locsdk）。涵盖地图展示与交互、覆盖物绘制、POI/AOI 检索、路线规划、导航、前台/后台定位、地址/POI 获取等场景。适用于提到鸿蒙地图、百度地图 HarmonyNEXT SDK、地图展示、检索、路线规划、导航、定位能力等需求。",
+  "version": "1.0.1",
+  "author": {
+    "name": "longtimecoding"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/longtimecoding/baidu-map-harmonyos-sdk",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/longtimecoding/baidu-map-harmonyos-sdk"
+}

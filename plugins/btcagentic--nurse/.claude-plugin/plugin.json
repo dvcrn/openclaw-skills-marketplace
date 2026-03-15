@@ -1,0 +1,10 @@
+{
+  "name": "btcagentic--nurse",
+  "description": "Clinical support system for nurses and frontline healthcare workers. Trigger whenever a nurse needs help with documentation, patient communication, care planning, handover notes, medication queries, incident reports, or navigating the professional and administrative burden of modern healthcare. Also triggers on phrases like \"write my handover\", \"help me document this\", \"explain this to the patient\", \"draft a care plan\", or any clinical scenario description.",
+  "version": "1.0.0",
+  "author": {
+    "name": "btcagentic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/btcagentic/nurse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/btcagentic/nurse"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jessewunderlich--nova-net-worth",
+  "description": "Query your Nova Net Worth financial data — net worth, accounts, holdings, goals, spending, transactions, AI insights, and health score. Use when the user asks about their finances, money, net worth, account balances, investment holdings, portfolio, stocks, financial goals, spending habits, budget, savings, investments, debt, transactions, or financial health. Requires NOVA_API_KEY environment variable (API key from app.novanetworth.com → Settings → Integrations).",
+  "version": "1.3.1",
+  "author": {
+    "name": "jessewunderlich"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jessewunderlich/nova-net-worth",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jessewunderlich/nova-net-worth"
+}

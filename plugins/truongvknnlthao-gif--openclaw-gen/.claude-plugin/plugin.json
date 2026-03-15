@@ -1,0 +1,10 @@
+{
+  "name": "truongvknnlthao-gif--openclaw-gen",
+  "description": "OpenClaw Agent tool that generates OpenClaw project configurations (AGENTS.md, workflows, MEMORY.md) using OpenClaw's unified llm-task interface. 15 built-in templates.",
+  "version": "0.1.2",
+  "author": {
+    "name": "truongvknnlthao-gif"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/truongvknnlthao-gif/openclaw-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/truongvknnlthao-gif/openclaw-gen"
+}

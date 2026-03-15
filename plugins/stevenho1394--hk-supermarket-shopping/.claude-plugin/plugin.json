@@ -1,0 +1,10 @@
+{
+  "name": "stevenho1394--hk-supermarket-shopping",
+  "description": "Real-time price comparison for Hong Kong supermarkets using the Consumer Council's daily pricewatch. For any product query, returns the cheapest supermarket, price, and how many you could buy with $100. The skill auto-detects query language (English or Chinese) and responds in the same language. No authentication required; data downloads automatically on first use.",
+  "version": "1.2.1",
+  "author": {
+    "name": "stevenho1394"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stevenho1394/hk-supermarket-shopping",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stevenho1394/hk-supermarket-shopping"
+}

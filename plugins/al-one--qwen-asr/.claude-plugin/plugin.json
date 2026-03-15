@@ -1,0 +1,10 @@
+{
+  "name": "al-one--qwen-asr",
+  "description": "Transcribe audio files using Qwen ASR (千问STT). Use when the user sends voice messages and wants them converted to text.",
+  "version": "1.0.0",
+  "author": {
+    "name": "al-one"
+  },
+  "homepage": "https://github.com/aahl/qwen-asr2api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/al-one/qwen-asr"
+}

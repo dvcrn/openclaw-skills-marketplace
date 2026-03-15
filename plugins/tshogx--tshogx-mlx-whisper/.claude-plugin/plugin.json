@@ -1,0 +1,10 @@
+{
+  "name": "tshogx--tshogx-mlx-whisper",
+  "description": "Local speech-to-text with MLX Whisper (Apple Silicon optimized, no API key).",
+  "version": "1.0.0",
+  "author": {
+    "name": "tshogx"
+  },
+  "homepage": "https://github.com/ml-explore/mlx-examples/tree/main/whisper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tshogx/tshogx-mlx-whisper"
+}

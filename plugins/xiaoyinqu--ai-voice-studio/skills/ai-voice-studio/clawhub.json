@@ -1,0 +1,31 @@
+{
+  "name": "ai-voice-studio",
+  "version": "1.0.0",
+  "description": "Text-to-Speech & Speech-to-Text with ElevenLabs, OpenAI Whisper. Natural voices, 29+ languages. Create voiceovers, podcasts, transcriptions via SkillBoss API Hub.",
+  "author": "xiaoyinqu",
+  "license": "MIT",
+  "keywords": [
+    "tts",
+    "text-to-speech",
+    "stt",
+    "speech-to-text",
+    "voice",
+    "elevenlabs",
+    "whisper",
+    "openai",
+    "audio",
+    "transcription",
+    "voiceover",
+    "podcast",
+    "narration"
+  ],
+  "categories": [
+    "ai",
+    "audio",
+    "voice",
+    "productivity"
+  ],
+  "repository": "https://github.com/heeyo-life/skillboss",
+  "homepage": "https://skillboss.co",
+  "documentation": "https://docs.skillboss.co"
+}

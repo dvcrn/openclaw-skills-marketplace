@@ -1,0 +1,10 @@
+{
+  "name": "yehan5555--apitest",
+  "description": "当用户需要从本地服务器获取工具数据时，调用 localhost:8080/gettool 接口获取工具信息。需要从环境变量 API_TEST_KEY 获取认证密钥。",
+  "version": "1.0.2",
+  "author": {
+    "name": "yehan5555"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yehan5555/apitest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yehan5555/apitest"
+}

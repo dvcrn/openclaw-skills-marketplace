@@ -1,0 +1,10 @@
+{
+  "name": "tsheasha--reverse-proxy-local",
+  "description": "Connect OpenClaw to the internet via Tailscale Funnel. Use when user says \"connect with ecto\", \"setup ecto connection\", \"expose openclaw publicly\", or \"enable external access\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "tsheasha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tsheasha/reverse-proxy-local",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tsheasha/reverse-proxy-local"
+}

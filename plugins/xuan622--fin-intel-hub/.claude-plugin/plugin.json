@@ -1,0 +1,10 @@
+{
+  "name": "xuan622--fin-intel-hub",
+  "description": "Comprehensive financial intelligence hub for SEC filings, crypto on-chain data, news sentiment, macro indicators, and global stock markets (US, China, Hong Kong, Taiwan, Japan, Korea). Use when users need to: (1) Retrieve SEC EDGAR filings (10-K, 10-Q, 8-K), (2) Monitor crypto on-chain metrics and whale alerts, (3) Analyze financial news sentiment, (4) Access macroeconomic indicators (Fed rates, CPI, unemployment), (5) Get global stock prices including Asian markets (HKEX, Tokyo, Taiwan, Korea, Shanghai, Shenzhen), or any financial data research and analysis tasks.",
+  "version": "1.0.2",
+  "author": {
+    "name": "xuan622"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xuan622/fin-intel-hub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xuan622/fin-intel-hub"
+}

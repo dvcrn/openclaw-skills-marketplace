@@ -1,0 +1,10 @@
+{
+  "name": "nissan--mistral-agents-orchestrator",
+  "description": "Multi-agent orchestration via Mistral's Agents API — register agents, manage conversations, delegate via handoffs, bind function calling tools. Use when building multi-agent systems with Mistral models, coordinating specialist agents, or implementing agent-to-agent delegation patterns. Requires MISTRAL_API_KEY.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/mistral-agents-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/mistral-agents-orchestrator"
+}

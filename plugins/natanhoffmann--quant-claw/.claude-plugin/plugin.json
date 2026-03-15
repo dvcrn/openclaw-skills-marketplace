@@ -1,0 +1,10 @@
+{
+  "name": "natanhoffmann--quant-claw",
+  "description": "LLM-driven crypto perpetual futures trading on Bybit. Analyzes 200+ market features across 8 timeframes with strategy-aware output, then you decide whether to trade. Supports DEMO and LIVE modes.",
+  "version": "1.0.3",
+  "author": {
+    "name": "natanhoffmann"
+  },
+  "homepage": "https://anomalysys.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/natanhoffmann/quant-claw"
+}

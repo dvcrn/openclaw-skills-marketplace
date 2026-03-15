@@ -1,0 +1,10 @@
+{
+  "name": "srikanth-hn--doctor-nexus-filesystem",
+  "description": "Advanced filesystem operations for listing files, searching content, batch processing, and directory analysis. Supports recursive search, file type filtering, size analysis, and batch operations like copy/move/delete. Use when you need to: list directory contents, search for files by name or content, analyze directory structures, perform batch file operations, or analyze file sizes and distribution.",
+  "version": "1.0.0",
+  "author": {
+    "name": "srikanth-hn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/srikanth-hn/doctor-nexus-filesystem",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/srikanth-hn/doctor-nexus-filesystem"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "davidzhangbj--seekdb-docs",
+  "description": "seekdb database documentation lookup. Use when users ask about seekdb features, SQL syntax, vector search, hybrid search, integrations, deployment, or any seekdb-related topics. Automatically locates relevant docs via catalog-based semantic search.",
+  "version": "0.1.8",
+  "author": {
+    "name": "davidzhangbj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/davidzhangbj/seekdb-docs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davidzhangbj/seekdb-docs"
+}

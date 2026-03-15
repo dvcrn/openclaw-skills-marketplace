@@ -1,0 +1,10 @@
+{
+  "name": "sallyxie2026--openclaw-immediate-ack",
+  "description": "Use when configuring OpenClaw chat channels to send an immediate acknowledgement before the main reply starts. Supports Feishu and DingTalk, includes bilingual Chinese-English guidance, and requires the acknowledgement language to follow the active conversation language.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sallyxie2026"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sallyxie2026/openclaw-immediate-ack",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sallyxie2026/openclaw-immediate-ack"
+}

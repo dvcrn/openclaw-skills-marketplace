@@ -1,0 +1,10 @@
+{
+  "name": "nikil511--jetson-cuda-voice",
+  "description": "Fully offline, CUDA-accelerated local voice assistant pipeline for NVIDIA Jetson. Wake word (openWakeWord) → real-time VAD → whisper.cpp GPU STT → LLM → Piper TTS. Includes dynamic ambient noise calibration, conversation history, and ReSpeaker LED feedback. Tested on Jetson Xavier NX (sm_72, JetPack 5.1.4) with ReSpeaker USB Mic Array.",
+  "version": "1.1.0",
+  "author": {
+    "name": "nikil511"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nikil511/jetson-cuda-voice",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nikil511/jetson-cuda-voice"
+}

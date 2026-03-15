@@ -1,0 +1,10 @@
+{
+  "name": "rylena--claw-mouse",
+  "description": "Control a Linux X11 desktop by taking screenshots and moving/clicking/typing via xdotool + scrot.",
+  "version": "0.1.0",
+  "author": {
+    "name": "rylena"
+  },
+  "homepage": "https://github.com/rylena/claw-mouse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rylena/claw-mouse"
+}

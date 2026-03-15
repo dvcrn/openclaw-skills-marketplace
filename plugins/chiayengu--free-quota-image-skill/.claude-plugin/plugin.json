@@ -1,0 +1,10 @@
+{
+  "name": "chiayengu--free-quota-image-skill",
+  "description": "Generate images from text with a free-quota-first multi-provider workflow. Use this skill when a user asks for text-to-image generation that needs provider routing (Hugging Face, Gitee, ModelScope, A4F, OpenAI-compatible private endpoints), token pooling with automatic rotation on quota/auth failures, public API fallback for Hugging Face, prompt optimization, model fallback, batch generation in one command, and structured generation outputs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chiayengu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chiayengu/free-quota-image-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chiayengu/free-quota-image-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "homeofe--openclaw-memory-core",
+  "description": "Core utilities for OpenClaw memory plugins (redaction, local store, embeddings).",
+  "version": "0.1.1",
+  "author": {
+    "name": "homeofe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/homeofe/openclaw-memory-core",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/homeofe/openclaw-memory-core"
+}

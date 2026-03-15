@@ -1,0 +1,10 @@
+{
+  "name": "eftalyurtseven--eachlabs-voice-audio",
+  "description": "Text-to-speech, speech-to-text, voice conversion, and audio processing using EachLabs AI models. Supports ElevenLabs TTS, Whisper transcription with diarization, and RVC voice conversion. Use when the user needs TTS, transcription, or voice conversion.",
+  "version": "0.1.0",
+  "author": {
+    "name": "eftalyurtseven"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-voice-audio",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-voice-audio"
+}

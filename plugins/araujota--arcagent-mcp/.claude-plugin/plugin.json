@@ -1,0 +1,10 @@
+{
+  "name": "araujota--arcagent-mcp",
+  "description": "Execute ArcAgent bounty workflows end-to-end via MCP tools. Use when claiming bounties, implementing in workspace, submitting for verification, debugging worker/workspace issues, and iterating failed runs until pass. Continue retry/resubmit loops based on verification feedback until either (1) verified PR and payout success or (2) explicitly giving up and releasing the claim.",
+  "version": "0.1.12",
+  "author": {
+    "name": "araujota"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/araujota/arcagent-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/araujota/arcagent-mcp"
+}

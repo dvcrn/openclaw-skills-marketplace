@@ -1,0 +1,10 @@
+{
+  "name": "lainnet-42--apple-watch",
+  "description": "Apple Watch health data sync via Health Auto Export app.\n Use when querying sleep, heart rate, steps, workouts, or any health metrics.\n Also use when setting up or troubleshooting the health data pipeline.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lainnet-42"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lainnet-42/apple-watch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lainnet-42/apple-watch"
+}

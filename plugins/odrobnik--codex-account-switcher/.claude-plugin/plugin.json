@@ -1,0 +1,10 @@
+{
+  "name": "odrobnik--codex-account-switcher",
+  "description": "Manage multiple OpenAI Codex accounts. Capture current login tokens and switch between them instantly. ⚠️ Reads and writes ~/.codex/auth.json and ~/.codex/accounts/*.json (sensitive authentication tokens).",
+  "version": "1.2.4",
+  "author": {
+    "name": "odrobnik"
+  },
+  "homepage": "https://github.com/odrobnik/codex-account-switcher-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/codex-account-switcher"
+}

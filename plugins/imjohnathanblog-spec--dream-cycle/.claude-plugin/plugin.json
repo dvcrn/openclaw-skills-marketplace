@@ -1,0 +1,10 @@
+{
+  "name": "imjohnathanblog-spec--dream-cycle",
+  "description": "Implement a nightly \"dream cycle\" for OpenClaw agents that:\n - Reviews and consolidates memory at night\n - Cleans up bloated workspace files\n - Prepares a morning brief for the user\n \n Use when: User wants to implement Ray Fernando's dream cycle concept,\n reduce memory bloat, or set up automated memory maintenance.",
+  "version": "1.0.1",
+  "author": {
+    "name": "imjohnathanblog-spec"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imjohnathanblog-spec/dream-cycle",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imjohnathanblog-spec/dream-cycle"
+}

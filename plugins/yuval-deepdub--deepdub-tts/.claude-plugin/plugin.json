@@ -1,0 +1,10 @@
+{
+  "name": "yuval-deepdub--deepdub-tts",
+  "description": "Generate speech audio using Deepdub and attach it as a MEDIA file (Telegram-compatible).",
+  "version": "0.1.5",
+  "author": {
+    "name": "yuval-deepdub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yuval-deepdub/deepdub-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yuval-deepdub/deepdub-tts"
+}

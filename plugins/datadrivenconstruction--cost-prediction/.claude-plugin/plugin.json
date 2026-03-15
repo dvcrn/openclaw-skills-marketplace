@@ -1,0 +1,10 @@
+{
+  "name": "datadrivenconstruction--cost-prediction",
+  "description": "Predict construction project costs using Machine Learning. Use Linear Regression, K-Nearest Neighbors, and Random Forest models on historical project data. Train, evaluate, and deploy cost prediction models.",
+  "version": "2.0.0",
+  "author": {
+    "name": "datadrivenconstruction"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/cost-prediction",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/cost-prediction"
+}

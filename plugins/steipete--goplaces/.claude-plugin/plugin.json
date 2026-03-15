@@ -1,0 +1,10 @@
+{
+  "name": "steipete--goplaces",
+  "description": "Query Google Places API (New) via the goplaces CLI for text search, place details, resolve, and reviews. Use for human-friendly place lookup or JSON output for scripts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "https://github.com/steipete/goplaces",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/goplaces"
+}

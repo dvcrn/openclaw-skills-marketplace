@@ -1,0 +1,10 @@
+{
+  "name": "camopel--privateapp",
+  "description": "Personal PWA dashboard server with plugin apps. Use when: (1) installing or setting up PrivateApp, (2) starting/stopping/restarting the service, (3) building frontends after changes, (4) adding new app plugins, (5) configuring push notifications. Requires Python 3.9+, Node.js 18+. Runs as systemd user service or launchd plist.",
+  "version": "1.0.3",
+  "author": {
+    "name": "camopel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/camopel/privateapp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/camopel/privateapp"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hw10181913--claude-code",
+  "description": "Claude Code integration for OpenClaw. This skill provides interfaces to:\n - Query Claude Code documentation from https://code.claude.com/docs\n - Manage subagents and coding tasks\n - Execute AI-assisted coding workflows\n - Access best practices and common workflows\n Use this skill when users want to:\n - Get help with coding tasks\n - Query Claude Code documentation\n - Manage AI-assisted development workflows\n - Execute complex programming tasks",
+  "version": "1.0.0",
+  "author": {
+    "name": "hw10181913"
+  },
+  "homepage": "https://code.claude.com/docs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hw10181913/claude-code"
+}

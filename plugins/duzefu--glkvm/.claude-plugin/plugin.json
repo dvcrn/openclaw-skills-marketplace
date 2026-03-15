@@ -1,0 +1,10 @@
+{
+  "name": "duzefu--glkvm",
+  "description": "Remotely control a target host via GLKVM HTTP API, supporting keyboard/mouse input, screenshot capture, OCR recognition, Fingerbot physical button control, and ATX power management. Access via HTTPS with certificate errors ignored.",
+  "version": "1.1.1",
+  "author": {
+    "name": "duzefu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/duzefu/glkvm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/duzefu/glkvm"
+}

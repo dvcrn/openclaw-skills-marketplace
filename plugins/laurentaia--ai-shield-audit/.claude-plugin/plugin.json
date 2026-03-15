@@ -1,0 +1,10 @@
+{
+  "name": "laurentaia--ai-shield-audit",
+  "description": "Security audit engine for OpenClaw configurations. Detects vulnerabilities, misconfigurations, secret leaks, and over-privileged agents. Use when the user asks about security, hardening, config review, or audit of their OpenClaw setup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "laurentaia"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/laurentaia/ai-shield-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/laurentaia/ai-shield-audit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "shenzo1--omnifocus",
+  "description": "Manage OmniFocus tasks via JavaScript for Automation (JXA) scripts. Use when the user asks Clawdbot to interact with OmniFocus, including - (1) Adding tasks to inbox, (2) Listing or searching tasks (inbox, available, flagged, overdue, due soon), (3) Completing tasks, (4) Updating task properties (notes, due dates, flags), (5) Getting OmniFocus statistics, (6) Reporting on task status, or (7) Acting on tasks in OmniFocus based on user queries.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shenzo1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shenzo1/omnifocus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shenzo1/omnifocus"
+}

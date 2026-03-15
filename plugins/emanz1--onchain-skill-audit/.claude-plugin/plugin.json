@@ -1,0 +1,10 @@
+{
+  "name": "emanz1--onchain-skill-audit",
+  "description": "On-chain skill provenance registry. Check, register, audit, and vouch for agent skills on Solana. Use when evaluating skill safety, registering new skills, or looking up provenance before installation.",
+  "version": "0.1.1",
+  "author": {
+    "name": "emanz1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/emanz1/onchain-skill-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/emanz1/onchain-skill-audit"
+}

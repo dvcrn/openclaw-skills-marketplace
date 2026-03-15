@@ -1,0 +1,10 @@
+{
+  "name": "homeofe--tmp-qcbr4oegoo",
+  "description": "Bridge local AI CLIs + web browser sessions (Grok, Gemini, Claude.ai, ChatGPT) into OpenClaw as model providers. Includes /cli-* slash commands for instant model switching and persistent browser profiles for all 4 web providers.",
+  "version": "1.8.5",
+  "author": {
+    "name": "homeofe"
+  },
+  "homepage": "https://github.com/elvatis/openclaw-cli-bridge-elvatis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/homeofe/tmp-qcbr4oegoo"
+}

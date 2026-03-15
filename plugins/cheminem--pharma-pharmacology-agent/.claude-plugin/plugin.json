@@ -1,0 +1,10 @@
+{
+  "name": "cheminem--pharma-pharmacology-agent",
+  "description": "Pharmacology agent for ADME/PK profiling of drug candidates from SMILES. Computes drug-likeness (Lipinski Ro5, Veber rules), QED, SA Score, ADME predictions (BBB permeability, aqueous solubility, GI absorption, CYP3A4 inhibition, P-gp substrate, plasma protein binding), and PAINS alerts. Chains from chemistry-query for SMILES input. Triggers on pharmacology, ADME, PK/PD, drug likeness, Lipinski, absorption, distribution, metabolism, excretion, BBB, solubility, bioavailability, lead optimization, drug profiling.",
+  "version": "1.1.0",
+  "author": {
+    "name": "cheminem"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cheminem/pharma-pharmacology-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cheminem/pharma-pharmacology-agent"
+}

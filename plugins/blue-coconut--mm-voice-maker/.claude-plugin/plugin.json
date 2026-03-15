@@ -1,0 +1,10 @@
+{
+  "name": "blue-coconut--mm-voice-maker",
+  "description": "Enables voice synthesis, voice cloning, voice design, and audio post-processing using MiniMax Voice API and FFmpeg. Use when converting text to speech, creating custom voices, or processing/merging audio.",
+  "version": "1.0.1",
+  "author": {
+    "name": "blue-coconut"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/blue-coconut/mm-voice-maker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/blue-coconut/mm-voice-maker"
+}

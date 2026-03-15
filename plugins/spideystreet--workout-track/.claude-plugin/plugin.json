@@ -1,0 +1,10 @@
+{
+  "name": "spideystreet--workout-track",
+  "description": "Log a strength training session and insert it into the life_db database. Use when the user shares their gym session, exercises, sets, reps, weights, RPE, rest times, session duration, feelings, or asks to record a workout.",
+  "version": "1.0.2",
+  "author": {
+    "name": "spideystreet"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spideystreet/workout-track",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spideystreet/workout-track"
+}

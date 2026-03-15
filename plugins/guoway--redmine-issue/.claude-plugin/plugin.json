@@ -1,0 +1,10 @@
+{
+  "name": "guoway--redmine-issue",
+  "description": "Read Redmine issues from any Redmine server via REST API with configurable URL and credentials. Use when you need to fetch a single issue, list/filter issues, or inspect issue fields for change planning; supports deployment to different Redmine instances via environment variables.",
+  "version": "1.0.0",
+  "author": {
+    "name": "guoway"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guoway/redmine-issue",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guoway/redmine-issue"
+}

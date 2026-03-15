@@ -1,0 +1,10 @@
+{
+  "name": "veeramanikandanr48--economic-calendar-fetcher",
+  "description": "Fetch upcoming economic events and data releases using FMP API. Retrieve scheduled central bank decisions, employment reports, inflation data, GDP releases, and other market-moving economic indicators for specified date ranges (default: next 7 days). Output chronological markdown reports with impact assessment.",
+  "version": "0.1.0",
+  "author": {
+    "name": "veeramanikandanr48"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/veeramanikandanr48/economic-calendar-fetcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/veeramanikandanr48/economic-calendar-fetcher"
+}

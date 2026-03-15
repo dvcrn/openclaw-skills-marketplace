@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--google-drive",
+  "description": "Google Drive API integration with managed OAuth. List, search, create, and manage files and folders. Use this skill when users want to interact with Google Drive files. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.6",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/google-drive",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/google-drive"
+}

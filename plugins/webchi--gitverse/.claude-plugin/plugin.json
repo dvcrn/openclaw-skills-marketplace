@@ -1,0 +1,10 @@
+{
+  "name": "webchi--gitverse",
+  "description": "GitVerse API integration for working with repositories, issues, and pull requests. Use when Codex needs to interact with GitVerse (gitverse.ru) for operations including listing or viewing repositories (personal or organization), listing or inspecting issues, listing viewing or creating pull requests, getting repository information, or any other GitVerse operations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "webchi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/webchi/gitverse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/webchi/gitverse"
+}

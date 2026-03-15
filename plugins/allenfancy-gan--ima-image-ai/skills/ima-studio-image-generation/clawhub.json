@@ -1,0 +1,104 @@
+{
+  "name": "IMA Studio Image Generation",
+  "tagline": "Text-to-image, image-to-image — SeeDream 4.5, Midjourney, Nano Banana 2, Nano Banana Pro. One-stop AI image generation.",
+  "description": "AI image generation with SeeDream 4.5, Midjourney, Nano Banana 2, Nano Banana Pro. Text-to-image, image-to-image with intelligent model selection. Use for: AI art, product photos, character design, logo design, poster creation, social media graphics. Supports 1K/2K/4K resolution. Requires IMA_API_KEY.",
+  "category": "file-generation",
+  "requiredEnvVars": ["IMA_API_KEY"],
+  "credentialNotice": "The IMA API key is required at runtime (--api-key or IMA_API_KEY). It is sent to api.imastudio.com (generation) and, for image_to_image with local files, to imapi.liveme.com (upload). Both are IMA Studio. Obtain keys at https://www.imaclaw.ai/. Use a scoped/test key for initial testing.",
+  "optionalDependencyNote": "When ima-knowledge-ai is installed, this skill may instruct the agent to read that skill's reference files (~/.openclaw/skills/ima-knowledge-ai/references/*) for workflow and visual-consistency guidance. The skill works standalone without it; those reads are optional.",
+  "localPaths": {
+    "readWrite": [
+      "~/.openclaw/memory/ima_prefs.json",
+      "~/.openclaw/logs/ima_skills/"
+    ],
+    "purpose": "Preferences (model defaults) and generation logs; logs auto-deleted after 7 days. User can delete anytime."
+  },
+  "supported_models": [
+    "SeeDream",
+    "SeeDream 4.5",
+    "Midjourney",
+    "MJ",
+    "Nano Banana",
+    "Nano Banana 2",
+    "Nano Banana Pro",
+    "text-to-image",
+    "image-to-image",
+    "t2i",
+    "i2i"
+  ],
+  "tags": [
+    "ima-studio",
+    "image-generation",
+    "text-to-image",
+    "image-to-image",
+    "ai-art",
+    "seedream",
+    "midjourney",
+    "nano-banana",
+    "seedream-4.5",
+    "nano-banana-2",
+    "nano-banana-pro",
+    "product-photos",
+    "character-design",
+    "logo-design",
+    "poster",
+    "social-media-graphics"
+  ],
+  "version": "1.0.8",
+  "license": "MIT",
+  "pricing": "free",
+  "author": {
+    "name": "IMA Studio",
+    "url": "https://www.imaclaw.ai/"
+  },
+  "keywords": [
+    "image generation",
+    "text to image",
+    "image to image",
+    "ima studio",
+    "seedream",
+    "see dream",
+    "seedream 4.5",
+    "midjourney",
+    "mj",
+    "nano banana",
+    "nano banana 2",
+    "nano banana pro",
+    "ai art",
+    "product photos",
+    "character design",
+    "logo design",
+    "t2i",
+    "i2i"
+  ],
+  "search_optimized_terms": [
+    "seedream",
+    "midjourney",
+    "nano banana",
+    "see dream",
+    "mj",
+    "text to image",
+    "image to image",
+    "image generation",
+    "AI image"
+  ],
+  "related_skills": [
+    "ima-knowledge-ai",
+    "ima-video-ai",
+    "ima-all-ai",
+    "ima-resource-skill"
+  ],
+  "use_cases": [
+    "Drawing, text-to-image, image-to-image",
+    "AI art and illustration",
+    "Product photos, character design, logo and poster",
+    "Social media graphics",
+    "Multi-resolution 1K/2K/4K output"
+  ],
+  "key_features": [
+    "SeeDream 4.5, Midjourney, Nano Banana 2/Pro one-stop",
+    "Text-to-image, image-to-image, visual consistency support",
+    "1K/2K/4K resolution",
+    "With ima-knowledge-ai for workflow and best practices"
+  ]
+}

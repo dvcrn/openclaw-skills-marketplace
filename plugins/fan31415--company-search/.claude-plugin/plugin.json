@@ -1,0 +1,10 @@
+{
+  "name": "fan31415--company-search",
+  "description": "Multi-source company research tool that generates structured due-diligence reports. Use when the user asks to research, look up, or investigate a company — including questions about shareholders, legal representative, registered capital, equity structure, beneficial owner, funding history, investors, valuation, lawsuits, court judgments, enforcement records, blacklist / dishonest debtor status, administrative penalties, operating anomalies, trademarks, patents, government procurement / bidding, recruitment profile, negative news, competitors, or industry position. Also triggers on: \"帮我查一下XX公司\", \"XX公司背景\", \"XX的股东是谁\", \"XX有没有诉讼/被执行/失信\", \"XX融了多少钱\", \"XX股权结构\", \"尽调\", \"公司调研\", \"公司背景调查\", \"is X company reliable\", \"due diligence on X\", \"background check on X company\".",
+  "version": "2.0.4",
+  "author": {
+    "name": "fan31415"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fan31415/company-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fan31415/company-search"
+}

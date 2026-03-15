@@ -1,0 +1,10 @@
+{
+  "name": "hunkim--daum-trends-briefing",
+  "description": "Fetch Daum real-time trend TOP10, add one-line context (top news title) + links, and print a 12-line briefing suitable for OpenClaw cron + Telegram announce.",
+  "version": "0.1.2",
+  "author": {
+    "name": "hunkim"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hunkim/daum-trends-briefing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hunkim/daum-trends-briefing"
+}

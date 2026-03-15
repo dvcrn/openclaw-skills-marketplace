@@ -1,0 +1,10 @@
+{
+  "name": "jameslawton--sequence-cli",
+  "description": "Manage Sequence smart wallets, projects, API keys, ERC20 transfers, and query blockchain data using the Sequence Builder CLI. Use when user asks about creating wallets, sending tokens, checking balances, managing Sequence projects, or interacting with EVM blockchains.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jameslawton"
+  },
+  "homepage": "https://github.com/0xsequence/builder-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jameslawton/sequence-cli"
+}

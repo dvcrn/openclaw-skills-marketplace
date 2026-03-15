@@ -1,0 +1,10 @@
+{
+  "name": "devilwwj--juejin-publisher",
+  "description": "掘金文章自动发布技能。通过掘金官方 API（Cookie 鉴权），支持将 Markdown 文章一键发布到稀土掘金平台，支持设置分类、标签、摘要和封面图。",
+  "version": "1.0.3",
+  "author": {
+    "name": "devilwwj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/devilwwj/juejin-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/devilwwj/juejin-publisher"
+}

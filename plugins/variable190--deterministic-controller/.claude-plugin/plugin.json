@@ -1,0 +1,10 @@
+{
+  "name": "variable190--deterministic-controller",
+  "description": "Deterministic, evidence-gated controller templates for OpenClaw (HEARTBEAT/ACTIVITIES + sprint template + poll cron payload). Docs-only: installs no services and makes no config changes by itself.",
+  "version": "0.1.1",
+  "author": {
+    "name": "variable190"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/variable190/deterministic-controller",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/variable190/deterministic-controller"
+}

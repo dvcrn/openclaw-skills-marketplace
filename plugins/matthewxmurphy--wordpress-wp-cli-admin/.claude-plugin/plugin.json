@@ -1,0 +1,10 @@
+{
+  "name": "matthewxmurphy--wordpress-wp-cli-admin",
+  "description": "Operate WordPress installs through WP-CLI for inspection, core maintenance, plugin and theme management, users, options, content, media, cron, database tasks, and multisite-aware administration. Use when shell, SSH, or node-local access exists and the task should be done with `wp` instead of the REST API or custom WP-CLI package development.",
+  "version": "0.5.0",
+  "author": {
+    "name": "matthewxmurphy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/wordpress-wp-cli-admin",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/wordpress-wp-cli-admin"
+}

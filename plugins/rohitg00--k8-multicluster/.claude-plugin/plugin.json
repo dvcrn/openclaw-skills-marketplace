@@ -1,0 +1,10 @@
+{
+  "name": "rohitg00--k8-multicluster",
+  "description": "Manage multiple Kubernetes clusters, switch contexts, and perform cross-cluster operations. Use when working with multiple clusters, comparing environments, or managing cluster lifecycle.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rohitg00"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rohitg00/k8-multicluster",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rohitg00/k8-multicluster"
+}

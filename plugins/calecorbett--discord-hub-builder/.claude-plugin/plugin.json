@@ -1,0 +1,10 @@
+{
+  "name": "calecorbett--discord-hub-builder",
+  "description": "Build a complete Discord AI command center server from scratch using the Discord REST API. Use when a user wants to set up a professional Discord server for AI agent management, including categories, channels, roles, permissions, and pinned workflow cards. Executes entirely via API — no manual Discord UI steps required. Requires a Discord bot token with Manage Channels, Manage Roles, and Send Messages permissions, plus the target guild/server ID.",
+  "version": "1.0.0",
+  "author": {
+    "name": "calecorbett"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/calecorbett/discord-hub-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/calecorbett/discord-hub-builder"
+}

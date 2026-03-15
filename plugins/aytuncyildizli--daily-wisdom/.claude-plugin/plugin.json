@@ -1,0 +1,10 @@
+{
+  "name": "aytuncyildizli--daily-wisdom",
+  "description": "Daily wisdom, anecdotes & historical stories delivered via cron.\n Use when: \"daily anecdote\", \"daily wisdom\", \"wisdom cron\", \"daily story\", \"morning wisdom\", setting up recurring cultural/historical content delivery.\n Don't use when: one-off trivia (just answer directly), news digests, social media posts.\n Outputs: A rich daily message with original-language quote, story, and modern connection. Writes to history file to prevent repeats.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aytuncyildizli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aytuncyildizli/daily-wisdom",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aytuncyildizli/daily-wisdom"
+}

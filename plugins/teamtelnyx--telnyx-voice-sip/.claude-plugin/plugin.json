@@ -1,0 +1,10 @@
+{
+  "name": "teamtelnyx--telnyx-voice-sip",
+  "description": "Voice interface using Telnyx Call Control API. Answer phone calls with AI, function calling, and natural conversation. Use for hands-free assistant access, phone-based reminders, or voice-controlled tools. Requires Node.js and Telnyx API key.",
+  "version": "1.0.0",
+  "author": {
+    "name": "teamtelnyx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/teamtelnyx/telnyx-voice-sip",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/teamtelnyx/telnyx-voice-sip"
+}

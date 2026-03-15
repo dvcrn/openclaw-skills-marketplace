@@ -1,0 +1,10 @@
+{
+  "name": "ljquan--tuzi-nano-banana",
+  "description": "Generate/edit images via Tuzi API (default), Google Gemini, OpenAI, DashScope, Replicate. Text-to-image + image-to-image editing; 1K/2K/4K resolution. Use for image create/modify/edit requests incl. --input-image.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ljquan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ljquan/tuzi-nano-banana",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ljquan/tuzi-nano-banana"
+}

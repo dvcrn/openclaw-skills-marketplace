@@ -1,0 +1,10 @@
+{
+  "name": "marvel1click--bible-research",
+  "description": "A Jehovah's Witness-style Bible research agent that reasons on the scriptures using JW methodology. Use when asked to research Bible topics, explain scriptures in context, look up Greek/Hebrew word meanings, find Watchtower publications on a subject, answer 'What does the Bible say about X?', compare Bible teaching vs common belief, prepare for Bible study, or answer questions the way Jehovah's Witnesses would. Trigger on: 'what does the Bible say', 'explain this scripture', 'bible research', 'JW perspective', 'Watchtower says', 'wol.jw.org', 'NWT', 'New World Translation', 'bible study', 'Greek/Hebrew meaning', 'Jehovah's Witnesses answer'.",
+  "version": "1.0.1",
+  "author": {
+    "name": "marvel1click"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/marvel1click/bible-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marvel1click/bible-research"
+}

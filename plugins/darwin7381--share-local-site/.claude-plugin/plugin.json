@@ -1,0 +1,10 @@
+{
+  "name": "darwin7381--share-local-site",
+  "description": "Share a local development server with anyone via a public URL. Use when you need to demo a site to a client, let a colleague preview your work, test on mobile, or share localhost over the internet. Supports ngrok (recommended), localhost.run (zero-install), and cloudflared. Handles common issues like Vue CLI Invalid Host Header automatically.",
+  "version": "1.1.0",
+  "author": {
+    "name": "darwin7381"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/darwin7381/share-local-site",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/darwin7381/share-local-site"
+}

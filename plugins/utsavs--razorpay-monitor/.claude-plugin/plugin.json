@@ -1,0 +1,10 @@
+{
+  "name": "utsavs--razorpay-monitor",
+  "description": "Autonomous Razorpay payment monitoring for Indian merchants. Tracks daily settlements, detects failed payments, sends WhatsApp/Telegram alerts for anomalies, and delivers weekly revenue summaries. Connects to the Razorpay API using your key and secret.",
+  "version": "1.0.0",
+  "author": {
+    "name": "utsavs"
+  },
+  "homepage": "https://clawhub.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/utsavs/razorpay-monitor"
+}

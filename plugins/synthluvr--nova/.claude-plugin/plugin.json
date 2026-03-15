@@ -1,0 +1,10 @@
+{
+  "name": "synthluvr--nova",
+  "description": "Safely operate the nova CLI wallet for authentication, balance checks, sending funds, withdrawals, and key management across mainnet and testnet. Enforces deterministic JSON/TOON parsing, exit code validation, financial confirmations, network verification, and strict secret-handling rules. Use when performing nova wallet automation, stablecoin transfers, claim links, exports, or any blockchain transaction via the nova CLI.",
+  "version": "1.0.2",
+  "author": {
+    "name": "synthluvr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/synthluvr/nova",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/synthluvr/nova"
+}

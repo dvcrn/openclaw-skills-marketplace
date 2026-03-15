@@ -1,0 +1,1 @@
+{"name":"perplexica-search","version":"1.0.0","description":"Perplexica AI 搜索 - 深度搜索，智能总结","main":"index.js","bin":{"perplexica-search":"./index.js"},"dependencies":{"node-fetch":"^2.7.0"}}

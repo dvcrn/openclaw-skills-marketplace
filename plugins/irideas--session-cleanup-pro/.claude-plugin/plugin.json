@@ -1,0 +1,10 @@
+{
+  "name": "irideas--session-cleanup-pro",
+  "description": "Clean orphan .jsonl files and stale sessions in OpenClaw session storage with safe confirmation flow. 适用于会话列表杂乱、历史会话堆积、需要释放存储空间场景；默认保护 72 小时内会话，删除前必须用户确认。",
+  "version": "0.3.0",
+  "author": {
+    "name": "irideas"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/irideas/session-cleanup-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/irideas/session-cleanup-pro"
+}

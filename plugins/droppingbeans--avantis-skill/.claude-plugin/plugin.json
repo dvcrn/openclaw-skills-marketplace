@@ -1,0 +1,10 @@
+{
+  "name": "droppingbeans--avantis-skill",
+  "description": "Execute leverage trading on Avantis (Base). Long/short crypto, forex, commodities with up to 100x leverage. Uses Python SDK with direct wallet integration.",
+  "version": "1.0.1",
+  "author": {
+    "name": "droppingbeans"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/droppingbeans/avantis-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/droppingbeans/avantis-skill"
+}

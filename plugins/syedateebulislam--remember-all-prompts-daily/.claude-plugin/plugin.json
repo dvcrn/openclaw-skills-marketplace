@@ -1,0 +1,10 @@
+{
+  "name": "syedateebulislam--remember-all-prompts-daily",
+  "description": "Preserve conversation continuity across token compaction cycles by extracting and archiving all prompts with date-wise entries. Automatically triggers at 95% token usage (pre-compaction) and 1% (new sprint start) to export session history, then ingests archived summaries on session restart to restore context.",
+  "version": "1.0.1",
+  "author": {
+    "name": "syedateebulislam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/syedateebulislam/remember-all-prompts-daily",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/syedateebulislam/remember-all-prompts-daily"
+}

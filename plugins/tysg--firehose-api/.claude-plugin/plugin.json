@@ -1,0 +1,10 @@
+{
+  "name": "tysg--firehose-api",
+  "description": "Firehose monitors the web in real-time — you create rules (Lucene queries), and every crawled page that matches gets delivered via an SSE stream. Use when implementing or discussing API endpoints.",
+  "version": "2.0.0",
+  "author": {
+    "name": "tysg"
+  },
+  "homepage": "https://firehose.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tysg/firehose-api"
+}

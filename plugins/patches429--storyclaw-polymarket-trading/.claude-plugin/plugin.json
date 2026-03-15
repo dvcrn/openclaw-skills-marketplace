@@ -1,0 +1,10 @@
+{
+  "name": "patches429--storyclaw-polymarket-trading",
+  "description": "Self-evolving Polymarket trading bot. Design strategy with user, run paper trading, auto-improve until edge target met, then ask to switch to live.",
+  "version": "0.1.0",
+  "author": {
+    "name": "patches429"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/patches429/storyclaw-polymarket-trading",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/patches429/storyclaw-polymarket-trading"
+}

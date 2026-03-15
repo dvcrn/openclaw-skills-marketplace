@@ -1,0 +1,10 @@
+{
+  "name": "aaron-he-zhu--on-page-seo-auditor",
+  "description": "This skill should be used when the user asks to \"audit page SEO\", \"on-page SEO check\", \"SEO score\", \"page optimization\", \"what SEO issues does this page have\", \"what is wrong with this page SEO\", \"score my page\", or \"why is this page not ranking\". Performs comprehensive on-page SEO audits to identify optimization opportunities including title tags, meta descriptions, headers, content quality, internal linking, and image optimization. For server, speed, and crawl issues, see technical-seo-checker. For full EEAT content quality scoring, see content-quality-auditor.",
+  "version": "3.0.0",
+  "author": {
+    "name": "aaron-he-zhu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/on-page-seo-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/on-page-seo-auditor"
+}

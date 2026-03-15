@@ -1,0 +1,10 @@
+{
+  "name": "xiaoyaner0201--promotion-review",
+  "description": "Analyze promotion/review materials (述职/晋升材料) as an evaluator, identify issues and likely interview questions, then provide coaching advice. Supports text files, PDFs, and images (screenshots). Default output is Markdown file; HTML with Cloudflare R2 upload is optional. Use when user sends promotion documents, review materials, 述职材料, 晋升材料, or asks to review/analyze career advancement documents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiaoyaner0201"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaoyaner0201/promotion-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaoyaner0201/promotion-review"
+}

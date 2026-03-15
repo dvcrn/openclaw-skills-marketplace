@@ -1,0 +1,10 @@
+{
+  "name": "sjingh--main-agent-supervisor",
+  "description": "Supervise a main agent so it defaults to execution, suppresses obvious permission loops, and escalates to the user only for true approvals or critical ambiguity. Use when designing, running, or auditing a reviewer/gatekeeper/coaching layer for agent replies, approval policy, escalation logic, anti-stuck behavior, or supervisor-style chat/output filtering.",
+  "version": "0.1.0",
+  "author": {
+    "name": "sjingh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sjingh/main-agent-supervisor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sjingh/main-agent-supervisor"
+}

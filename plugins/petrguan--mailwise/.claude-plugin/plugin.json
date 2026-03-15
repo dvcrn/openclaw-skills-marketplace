@@ -1,0 +1,10 @@
+{
+  "name": "petrguan--mailwise",
+  "description": "Search and analyze email issue threads from a local knowledge base. Use when the user asks about past bugs, incidents, or wants to find how experienced engineers solved similar issues. Triggers on questions like \"have we seen this before\", \"similar issues\", \"how did we fix\", \"root cause analysis\", \"past incidents\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "petrguan"
+  },
+  "homepage": "https://github.com/PetrGuan/MailWise",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/petrguan/mailwise"
+}

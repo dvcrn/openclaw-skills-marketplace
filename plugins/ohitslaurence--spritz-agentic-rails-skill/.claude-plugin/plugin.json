@@ -1,0 +1,10 @@
+{
+  "name": "ohitslaurence--spritz-agentic-rails-skill",
+  "description": "Off-ramp crypto to fiat bank accounts using the Spritz API. Use when an agent needs to send payments to bank accounts, convert crypto to fiat, execute off-ramp transactions, or manage bank account payment destinations. Requires the agent to have its own crypto wallet.",
+  "version": "0.1.1",
+  "author": {
+    "name": "ohitslaurence"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ohitslaurence/spritz-agentic-rails-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ohitslaurence/spritz-agentic-rails-skill"
+}

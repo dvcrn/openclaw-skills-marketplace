@@ -1,0 +1,10 @@
+{
+  "name": "shuakami--uapi-get-history-programmer-today",
+  "description": "使用 UAPI 的“程序员历史上的今天”单接口 skill，处理 程序员历史上的今天 等请求。 Use when the user wants get history programmer today, history programmer today, today, or when you need to call GET /history/programmer/today directly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shuakami"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-history-programmer-today",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-history-programmer-today"
+}

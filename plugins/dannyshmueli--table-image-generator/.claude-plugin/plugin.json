@@ -1,0 +1,10 @@
+{
+  "name": "dannyshmueli--table-image-generator",
+  "description": "Generate clean table images from data. Perfect for Discord/Telegram where ASCII tables look broken. Supports dark/light mode, custom styling, and auto-sizing. No Puppeteer required. Companion to chart-image skill.",
+  "version": "1.4.0",
+  "author": {
+    "name": "dannyshmueli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dannyshmueli/table-image-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dannyshmueli/table-image-generator"
+}

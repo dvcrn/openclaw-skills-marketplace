@@ -1,0 +1,10 @@
+{
+  "name": "mayswind--ezbookkeeping",
+  "description": "Use ezBookkeeping API Tools script to record new transactions, query transactions, retrieve account information, retrieve categories, retrieve tags, and retrieve exchange rate data in the self hosted personal finance application ezBookkeeping.",
+  "version": "1.2.0",
+  "author": {
+    "name": "mayswind"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mayswind/ezbookkeeping",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mayswind/ezbookkeeping"
+}

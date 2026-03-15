@@ -1,0 +1,10 @@
+{
+  "name": "hacksing--social-reader",
+  "description": "Social media content scraping and automation skill. Supports real-time single post reading, as well as scheduled batch patrol, LLM distillation, and review notifications.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hacksing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hacksing/social-reader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hacksing/social-reader"
+}

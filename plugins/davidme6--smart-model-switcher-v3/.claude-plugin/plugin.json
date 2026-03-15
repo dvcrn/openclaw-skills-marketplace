@@ -1,0 +1,10 @@
+{
+  "name": "davidme6--smart-model-switcher-v3",
+  "description": "Universal Smart Model Switcher V3 - Multi-Provider, Multi-Model intelligent switching. Automatically selects the best model from ALL your purchased API plans (Bailian/Qwen, MiniMax, GLM, Kimi, etc.). Zero-latency runtime switching, no restart required. Supports 50+ models across all providers with advanced task classification and fallback logic.",
+  "version": "3.0.0",
+  "author": {
+    "name": "davidme6"
+  },
+  "homepage": "https://github.com/davidme6/openclaw/tree/main/skills/smart-model-switcher-v3",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davidme6/smart-model-switcher-v3"
+}

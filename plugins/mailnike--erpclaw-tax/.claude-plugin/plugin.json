@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--erpclaw-tax",
+  "description": "Tax template management, tax resolution, calculation, withholding, and 1099 compliance for ERPClaw ERP",
+  "version": "1.0.0",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.erpclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/erpclaw-tax"
+}

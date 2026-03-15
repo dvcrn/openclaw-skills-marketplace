@@ -1,0 +1,10 @@
+{
+  "name": "guoqunabc--openclaw-security-check",
+  "description": "Security self-check for OpenClaw deployments. Audits openclaw.json config and host security\n in one pass: gateway exposure, auth mode, token strength, channel DM/group policies, file\n permissions, plaintext secrets, host firewall, SSH hardening, and exposed ports.\n Outputs a 10-item PASS/WARN/FAIL report with optional auto-fix.\n Use when: user asks \"run a security check\", \"am I secure?\", \"audit my config\",\n \"check security settings\", or on periodic heartbeat/cron.\n Complements the built-in healthcheck skill (OS-level hardening workflow) with a fast,\n focused config-and-host audit.",
+  "version": "1.0.0",
+  "author": {
+    "name": "guoqunabc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guoqunabc/openclaw-security-check",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guoqunabc/openclaw-security-check"
+}

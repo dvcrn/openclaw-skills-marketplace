@@ -1,0 +1,10 @@
+{
+  "name": "sebclawops--retrospective-agent",
+  "description": "Structured retrospectives and execution-memory hygiene for OpenClaw agents. Use when the user wants a retrospective, lessons learned, self-improvement system, correction logging, weekly review, or a clean way to capture reusable execution lessons without creating hidden memory or autonomous behavior.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sebclawops"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sebclawops/retrospective-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sebclawops/retrospective-agent"
+}

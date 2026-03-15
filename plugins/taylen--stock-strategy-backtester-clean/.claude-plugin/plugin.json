@@ -1,0 +1,10 @@
+{
+  "name": "taylen--stock-strategy-backtester-clean",
+  "description": "Backtest stock trading strategies on historical OHLCV data and report win rate, return, CAGR, drawdown, Sharpe ratio, and trade logs. Use when evaluating or comparing strategy rules (SMA crossover, RSI mean reversion, breakout), quantifying transaction-cost impact, tuning parameters, or generating performance summaries from CSV data. Trigger for requests like \"回测股票策略胜率\", \"测收益率\", \"compare two strategy backtests\", and \"build a strategy report from historical prices\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "taylen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/taylen/stock-strategy-backtester-clean",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/taylen/stock-strategy-backtester-clean"
+}

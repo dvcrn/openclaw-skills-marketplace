@@ -1,0 +1,10 @@
+{
+  "name": "thoughtproof--thoughtproof",
+  "description": "Epistemic verification for AI agent outputs. Use ThoughtProof to verify AI reasoning, detect blind spots, and build consensus across multiple model families. Triggers: when an agent needs a second opinion, audit trail for decisions, or epistemic consensus. Works with any LLM backend (BYOK). Commands: tp verify, tp deep, tp list, tp show.",
+  "version": "1.0.0",
+  "author": {
+    "name": "thoughtproof"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thoughtproof/thoughtproof",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thoughtproof/thoughtproof"
+}

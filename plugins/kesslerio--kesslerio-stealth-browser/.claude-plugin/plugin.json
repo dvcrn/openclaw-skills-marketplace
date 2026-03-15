@@ -1,0 +1,10 @@
+{
+  "name": "kesslerio--kesslerio-stealth-browser",
+  "description": "Anti-bot browser automation using Camoufox and Nodriver. Bypasses Cloudflare Turnstile, Datadome, and aggressive anti-bot on sites like Airbnb and Yelp. Use when standard Playwright/Selenium gets blocked.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kesslerio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/kesslerio-stealth-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/kesslerio-stealth-browser"
+}

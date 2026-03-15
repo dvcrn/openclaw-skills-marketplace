@@ -1,0 +1,10 @@
+{
+  "name": "rogueecho--moonraker",
+  "description": "Control and monitor a Klipper 3D printer via the Moonraker API — print status, temps, pause, resume, cancel, emergency stop.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rogueecho"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rogueecho/moonraker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rogueecho/moonraker"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kingmadellc--kalshi-command-center",
+  "description": "Complete Kalshi trading command interface — portfolio P&L, live market scanning with edge scoring, trade execution, and risk management through your OpenClaw agent. Built-in safety: $25 max trade, 100 contract cap, $50 daily loss cutoff. Scan 600+ markets, query positions, execute trades with configurable blocklists and retry logic. Part of the OpenClaw Prediction Market Trading Stack — pairs with Kalshalyst for intelligent execution and feeds portfolio data to Market Morning Brief.",
+  "version": "1.0.2",
+  "author": {
+    "name": "kingmadellc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/kalshi-command-center",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/kalshi-command-center"
+}

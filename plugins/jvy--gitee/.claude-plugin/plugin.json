@@ -1,0 +1,10 @@
+{
+  "name": "jvy--gitee",
+  "description": "Gitee operations via OpenAPI and git: repositories, pull requests, issues, comments, and file contents. Use when: (1) inspecting or creating Gitee pull requests, (2) listing or creating repository issues, (3) reading repository files from the Gitee API, (4) working with gitee.com remotes from the terminal. NOT for: GitHub-only workflows, local-only git tasks with no Gitee interaction, or browser-only account setup and SSO flows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jvy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jvy/gitee",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jvy/gitee"
+}

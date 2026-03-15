@@ -1,0 +1,114 @@
+{
+  "manifest_version": "0.3",
+  "name": "sogni-gen",
+  "version": "1.5.16",
+  "display_name": "Sogni AI Image & Video Generation",
+  "description": "Generate images and videos using Sogni AI's decentralized GPU network",
+  "long_description": "Generate images, edit photos, create videos, and transfer faces using Sogni AI. Supports multiple models with different speed/quality tradeoffs. Uses Spark tokens — claim 50 free daily at https://app.sogni.ai/",
+  "author": {
+    "name": "Sogni AI",
+    "url": "https://sogni.ai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sogni-AI/openclaw-sogni-gen.git"
+  },
+  "homepage": "https://sogni.ai",
+  "support": "https://github.com/Sogni-AI/openclaw-sogni-gen/issues",
+  "license": "MIT",
+  "keywords": ["image-generation", "video-generation", "ai", "sogni"],
+  "server": {
+    "type": "node",
+    "entry_point": "server/mcp-server.mjs",
+    "mcp_config": {
+      "command": "node",
+      "args": ["${__dirname}/server/mcp-server.mjs"],
+      "env": {
+        "SOGNI_USERNAME": "${user_config.sogni_username}",
+        "SOGNI_PASSWORD": "${user_config.sogni_password}",
+        "SOGNI_CREDENTIALS_PATH": "${user_config.sogni_credentials_path}",
+        "SOGNI_LAST_RENDER_PATH": "${user_config.sogni_last_render_path}",
+        "SOGNI_MEDIA_INBOUND_DIR": "${user_config.sogni_media_inbound_dir}",
+        "SOGNI_DOWNLOADS_DIR": "${user_config.sogni_downloads_dir}",
+        "SOGNI_MCP_SAVE_DOWNLOADS": "${user_config.sogni_mcp_save_downloads}"
+      }
+    }
+  },
+  "user_config": {
+    "sogni_username": {
+      "type": "string",
+      "title": "Sogni Username",
+      "description": "Your Sogni AI username (sign up at https://app.sogni.ai/)",
+      "required": false
+    },
+    "sogni_password": {
+      "type": "string",
+      "title": "Sogni Password",
+      "description": "Your Sogni AI password",
+      "required": false,
+      "sensitive": true
+    },
+    "sogni_credentials_path": {
+      "type": "string",
+      "title": "Credentials File Path",
+      "description": "Optional override for credentials file path (default: ~/.config/sogni/credentials)",
+      "required": false
+    },
+    "sogni_last_render_path": {
+      "type": "string",
+      "title": "Last Render Path",
+      "description": "Optional path for last-render metadata (default: ~/.config/sogni/last-render.json)",
+      "required": false
+    },
+    "sogni_media_inbound_dir": {
+      "type": "string",
+      "title": "Inbound Media Directory",
+      "description": "Directory used by --list-media (default: ~/.clawdbot/media/inbound)",
+      "required": false
+    },
+    "sogni_downloads_dir": {
+      "type": "string",
+      "title": "MCP Downloads Directory",
+      "description": "Where MCP saves local media copies (default: ~/Downloads/sogni)",
+      "required": false
+    },
+    "sogni_mcp_save_downloads": {
+      "type": "string",
+      "title": "Save MCP Downloads",
+      "description": "Set to 0 to disable writing local MCP media copies",
+      "required": false
+    }
+  },
+  "tools": [
+    {
+      "name": "generate_image",
+      "description": "Generate an image from a text prompt"
+    },
+    {
+      "name": "generate_video",
+      "description": "Generate a video from a text prompt or reference image"
+    },
+    {
+      "name": "edit_image",
+      "description": "Edit an existing image with a text instruction"
+    },
+    {
+      "name": "photobooth",
+      "description": "Generate stylized portraits from a face photo"
+    },
+    {
+      "name": "check_balance",
+      "description": "Check Sogni token balances (SPARK and SOGNI)"
+    },
+    {
+      "name": "list_models",
+      "description": "List available image and video models"
+    }
+  ],
+  "compatibility": {
+    "platforms": ["darwin", "win32", "linux"],
+    "runtimes": {
+      "node": ">=22.11.0"
+    }
+  }
+}

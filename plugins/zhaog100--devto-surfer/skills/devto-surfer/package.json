@@ -1,0 +1,15 @@
+{
+  "name": "devto-surfer",
+  "version": "1.0.0",
+  "description": "Surf Dev.to for AI tutorials and tech articles",
+  "author": "米粒儿",
+  "license": "MIT",
+  "keywords": ["dev.to", "tutorials", "ai", "tech-articles", "surfing"],
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "SKILL.md",
+    "USAGE.md"
+  ]
+}

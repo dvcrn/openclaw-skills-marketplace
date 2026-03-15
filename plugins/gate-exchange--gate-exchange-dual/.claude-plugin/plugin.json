@@ -1,0 +1,10 @@
+{
+  "name": "gate-exchange--gate-exchange-dual",
+  "description": "The dual investment function of Gate Exchange — query products, simulate settlements, and manage positions. Use this skill whenever the user asks about dual investment, dual currency, target price settlement simulation, or checking dual investment positions. Trigger phrases include \"dual investment\", \"dual currency\", \"target price\", \"exercise price\", \"dual orders\", \"dual balance\", \"shuang-bi\", \"sell-high\", \"buy-low\", or any request involving dual investment product queries or checking dual investment balance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gate-exchange"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-exchange-dual",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-exchange-dual"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "sense-music",
+  "version": "0.1.1",
+  "description": "Turn audio into structured analysis and annotated visualizations for AI perception",
+  "author": "Humanjava Enterprises",
+  "license": "MIT",
+  "language": "python",
+  "install": "pip install sense-music",
+  "keywords": ["audio-analysis", "music", "spectrogram", "ai", "librosa", "whisper"],
+  "repository": "https://github.com/HumanjavaEnterprises/huje.sensemusic.OC-python.src",
+  "homepage": "https://huje.tools"
+}

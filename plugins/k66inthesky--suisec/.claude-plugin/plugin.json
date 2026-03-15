@@ -1,0 +1,10 @@
+{
+  "name": "k66inthesky--suisec",
+  "description": "Sui Secure - Pre-simulate transactions via sui client call --dry-run and sui client ptb --dry-run, compare results against user intent to detect malicious contract behavior. Only execute if intent matches; block otherwise.",
+  "version": "1.0.1",
+  "author": {
+    "name": "k66inthesky"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/k66inthesky/suisec",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/k66inthesky/suisec"
+}

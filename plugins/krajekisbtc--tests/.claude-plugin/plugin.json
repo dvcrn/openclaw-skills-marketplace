@@ -1,0 +1,10 @@
+{
+  "name": "krajekisbtc--tests",
+  "description": "Trade Polymarket Bitcoin Up/Down 15-minute markets using TA signals. Supports Clawbot mode (dynamic sizing, TP/SL, pre-settlement) or fixed mode. Use when checking signals, placing trades, or automating via private key.",
+  "version": "1.0.0",
+  "author": {
+    "name": "krajekisbtc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/krajekisbtc/tests",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/krajekisbtc/tests"
+}

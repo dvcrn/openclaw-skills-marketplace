@@ -1,0 +1,78 @@
+# =============================================================================
+# Time Clawshine — Configuration
+# Edit this file, then run: sudo bin/setup.sh
+# For AI-assisted path customization: sudo bin/customize.sh
+# =============================================================================
+
+repository:
+  # Local path where restic will store encrypted snapshots
+  path: /var/backups/time-clawshine
+  # Encryption password file — auto-generated on setup, never commit this
+  password_file: /etc/time-clawshine.pass
+
+retention:
+  # Number of snapshots to keep — default: 72 = 3 days at 1 backup/hour
+  keep_last: 72
+
+schedule:
+  # Standard cron expression — default: every hour at minute 5
+  cron: "5 * * * *"
+
+backup:
+  # -------------------------------------------------------------------------
+  # STANDARD OPENCLAW PATHS — covers every default file in a fresh install.
+  # These are safe defaults for any OpenClaw instance.
+  # Run `sudo bin/customize.sh` to get AI-suggested additions for your setup.
+  # -------------------------------------------------------------------------
+  paths:
+    # Core workspace files (AGENTS.md, SOUL.md, USER.md, IDENTITY.md,
+    # TOOLS.md, HEARTBEAT.md, BOOT.md, MEMORY.md, memory/, skills/)
+    - /root/.openclaw/workspace
+
+    # Full agent session history (JSONL)
+    - /root/.openclaw/agents/main/sessions
+
+    # Main config: gateway, model providers, bot tokens, API keys
+    - /root/.openclaw/openclaw.json
+
+    # Scheduled jobs
+    - /root/.openclaw/cron
+
+    # API keys and credentials (chmod 600 files)
+    - /root/.openclaw/credentials
+
+  # -------------------------------------------------------------------------
+  # EXCLUSIONS — patterns applied to everything above.
+  # Add more with `sudo bin/customize.sh` or edit directly here.
+  # -------------------------------------------------------------------------
+  exclude:
+    - "*.bak"
+    - "*.reset"    # OpenClaw agent reset artifacts
+    - "*.tmp"
+    - "__pycache__"
+    - ".git"
+    - "node_modules"
+    - "*.log"
+
+  # -------------------------------------------------------------------------
+  # CUSTOM ADDITIONS — paths added by `bin/customize.sh` live here.
+  # You can also add them manually. One path per line.
+  # -------------------------------------------------------------------------
+  extra_paths: []
+
+  # -------------------------------------------------------------------------
+  # CUSTOM EXCLUSIONS — patterns added by `bin/customize.sh` live here.
+  # -------------------------------------------------------------------------
+  extra_excludes: []
+
+notifications:
+  # Telegram — fires ONLY on failure. Leave bot_token empty to disable.
+  telegram:
+    enabled: true
+    bot_token: ""     # e.g. 123456:ABC-DEF...
+    chat_id: ""       # e.g. -100123456789
+
+logging:
+  file: /var/log/time-clawshine.log
+  # Set true to log full restic output on every run (noisy, useful for debugging)
+  verbose: false

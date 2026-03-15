@@ -1,0 +1,10 @@
+{
+  "name": "199-bio--clinstagram",
+  "description": "Full Instagram CLI — posting, DMs, stories, analytics, followers, hashtags, likes, comments. Supports Meta Graph API (official, safe) and private API (full features). Three compliance modes: official-only, hybrid-safe, private-enabled.",
+  "version": "0.2.0",
+  "author": {
+    "name": "199-bio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/199-bio/clinstagram",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/199-bio/clinstagram"
+}

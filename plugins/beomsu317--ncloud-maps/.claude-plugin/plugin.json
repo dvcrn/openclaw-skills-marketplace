@@ -1,0 +1,10 @@
+{
+  "name": "beomsu317--ncloud-maps",
+  "description": "Query Naver Cloud Maps APIs for route navigation. Smart routing: Directions5 by default, auto-switches to Directions15 for 5+ waypoints.",
+  "version": "1.0.8",
+  "author": {
+    "name": "beomsu317"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/beomsu317/ncloud-maps",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/beomsu317/ncloud-maps"
+}

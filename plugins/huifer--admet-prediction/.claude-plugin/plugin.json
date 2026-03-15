@@ -1,0 +1,10 @@
+{
+  "name": "huifer--admet-prediction",
+  "description": "ADMET (Absorption, Distribution, Metabolism, Excretion, Toxicity) prediction\n for drug candidates. Use for assessing drug-likeness, PK properties, and\n safety risks early in drug discovery.\n\n Keywords: ADMET, PK, toxicity, drug-likeness, DILI, hERG, bioavailability",
+  "version": "0.1.0",
+  "author": {
+    "name": "huifer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/huifer/admet-prediction",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/huifer/admet-prediction"
+}

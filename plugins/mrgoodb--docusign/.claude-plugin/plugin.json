@@ -1,0 +1,10 @@
+{
+  "name": "mrgoodb--docusign",
+  "description": "Send documents for electronic signature via DocuSign API. Create envelopes, track signing status, and download signed documents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrgoodb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/docusign",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/docusign"
+}

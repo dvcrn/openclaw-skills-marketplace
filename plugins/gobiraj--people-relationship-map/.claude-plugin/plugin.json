@@ -1,0 +1,10 @@
+{
+  "name": "gobiraj--people-relationship-map",
+  "description": "Personal CRM and relationship graph for OpenClaw. Tracks people, their connections to each other, and what you know about them. Stores everything as Obsidian-friendly Markdown + a JSON graph index. Use when you want to remember who knows who, prepare for meetings, or get nudged about stale relationships.",
+  "version": "0.1.0",
+  "author": {
+    "name": "gobiraj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gobiraj/people-relationship-map",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gobiraj/people-relationship-map"
+}

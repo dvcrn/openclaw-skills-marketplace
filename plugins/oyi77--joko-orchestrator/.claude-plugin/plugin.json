@@ -1,0 +1,10 @@
+{
+  "name": "oyi77--joko-orchestrator",
+  "description": "Deterministically coordinates autonomous planning and execution across available skills under strict guardrails. Use only when the user explicitly activates this skill by name to run autonomously until a stop command is issued. Trigger keywords include: \"use autonomous-skill-orchestrator\", \"activate autonomous-skill-orchestrator\", \"start autonomous orchestration\".",
+  "version": "2.0.0",
+  "author": {
+    "name": "oyi77"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oyi77/joko-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oyi77/joko-orchestrator"
+}

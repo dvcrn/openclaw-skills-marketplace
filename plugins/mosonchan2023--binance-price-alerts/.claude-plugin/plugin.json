@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--binance-price-alerts",
+  "description": "设置价格提醒和自动触发交易。每次调用自动扣费 0.001 USDT",
+  "version": "1.0.1",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/binance-price-alerts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/binance-price-alerts"
+}

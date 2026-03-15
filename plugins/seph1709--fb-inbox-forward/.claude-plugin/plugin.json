@@ -1,0 +1,10 @@
+{
+  "name": "seph1709--fb-inbox-forward",
+  "description": "Forward Facebook Page inbox messages to your OpenClaw channel in real time. Requires: powershell/pwsh + openclaw CLI. Reads ~/.config/fb-page/credentials.json (FB_PAGE_TOKEN, FB_PAGE_ID) and ~/.config/fb-inbox-forward/config.json (NOTIFY_CHANNEL, NOTIFY_TARGET). Listener opt-in only — never starts autonomously. Logs metadata only; no message content written to disk. All calls go to graph.facebook.com only.",
+  "version": "1.0.10",
+  "author": {
+    "name": "seph1709"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seph1709/fb-inbox-forward",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seph1709/fb-inbox-forward"
+}

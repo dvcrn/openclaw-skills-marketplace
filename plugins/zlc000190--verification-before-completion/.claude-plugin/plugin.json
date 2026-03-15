@@ -1,0 +1,10 @@
+{
+  "name": "zlc000190--verification-before-completion",
+  "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always",
+  "version": "0.1.0",
+  "author": {
+    "name": "zlc000190"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zlc000190/verification-before-completion",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zlc000190/verification-before-completion"
+}

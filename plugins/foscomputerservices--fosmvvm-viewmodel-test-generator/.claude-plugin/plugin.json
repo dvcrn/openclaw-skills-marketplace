@@ -1,0 +1,10 @@
+{
+  "name": "foscomputerservices--fosmvvm-viewmodel-test-generator",
+  "description": "Generate ViewModel tests with codable round-trip, versioning stability, and multi-locale translation verification.",
+  "version": "2.0.6",
+  "author": {
+    "name": "foscomputerservices"
+  },
+  "homepage": "https://github.com/foscomputerservices/FOSUtilities",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/foscomputerservices/fosmvvm-viewmodel-test-generator"
+}

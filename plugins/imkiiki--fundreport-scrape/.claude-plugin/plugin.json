@@ -1,0 +1,10 @@
+{
+  "name": "imkiiki--fundreport-scrape",
+  "description": "基金月报信息提取。支持文本+OCR 双重提取，自动处理双月对比。从 PDF 月报提取数据并填充 Excel 模板。",
+  "version": "1.0.0",
+  "author": {
+    "name": "imkiiki"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imkiiki/fundreport-scrape",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imkiiki/fundreport-scrape"
+}

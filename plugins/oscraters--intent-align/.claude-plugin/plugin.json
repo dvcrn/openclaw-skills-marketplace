@@ -1,0 +1,10 @@
+{
+  "name": "oscraters--intent-align",
+  "description": "Intent-alignment orchestration for OpenClaw agent teams across diverse host environments. Use when work must stay anchored to user goals while allowing flexible execution: (1) coding with repos/PRs/issues, (2) multi-phase delivery with checkpoints, (3) multi-agent or multi-repo coordination, (4) evolving requirements needing structured re-alignment and user clarification loops.",
+  "version": "2.0.0",
+  "author": {
+    "name": "oscraters"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oscraters/intent-align",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oscraters/intent-align"
+}

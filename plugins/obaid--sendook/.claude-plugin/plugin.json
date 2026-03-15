@@ -1,0 +1,10 @@
+{
+  "name": "obaid--sendook",
+  "description": "Read and send emails from an existing Sendook inbox. Use when an AI agent needs to check for new emails, read messages, reply to conversations, or send new emails from a pre-configured inbox. Limited to message operations only — no inbox creation, domain management, or webhook configuration.",
+  "version": "1.1.0",
+  "author": {
+    "name": "obaid"
+  },
+  "homepage": "https://github.com/obaid/sendook-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/obaid/sendook"
+}

@@ -1,0 +1,24 @@
+---
+name: news-ai-rag-fetcher
+version: 1.0.0
+description: Fetch news data for AI agents and RAG pipelines. Each call charges 0.001 USDT via SkillPay.
+category: News
+tags:
+  - news
+  - AI
+  - RAG
+  - LLM
+  - chatbot
+author: moson
+price: 0.001
+currency: USDT
+triggers:
+  - "news for AI"
+  - "RAG news"
+  - "LLM news data"
+  - "chatbot news"
+config:
+  OPENAI_API_KEY:
+    type: string
+    required: false
+    secret: true

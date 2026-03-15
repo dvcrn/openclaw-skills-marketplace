@@ -1,0 +1,10 @@
+{
+  "name": "myakove--ccsinfo",
+  "description": "Query and analyze Claude Code session data from a remote server. Use when asked to inspect Claude Code sessions, view conversation history, check tool calls, track tasks, search prompts, or view usage statistics. Requires CCSINFO_SERVER_URL to be set and a ccsinfo server running.",
+  "version": "0.1.6",
+  "author": {
+    "name": "myakove"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/myakove/ccsinfo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/myakove/ccsinfo"
+}

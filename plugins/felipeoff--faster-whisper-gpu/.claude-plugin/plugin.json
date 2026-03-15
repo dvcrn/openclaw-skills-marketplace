@@ -1,0 +1,10 @@
+{
+  "name": "felipeoff--faster-whisper-gpu",
+  "description": "High-performance local speech-to-text transcription using Faster Whisper with NVIDIA GPU acceleration. Transcribe audio files locally without sending data to external services.",
+  "version": "0.1.0",
+  "author": {
+    "name": "felipeoff"
+  },
+  "homepage": "https://github.com/FelipeOFF/faster-whisper-gpu",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/felipeoff/faster-whisper-gpu"
+}

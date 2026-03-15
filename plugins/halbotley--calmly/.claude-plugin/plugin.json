@@ -1,0 +1,10 @@
+{
+  "name": "halbotley--calmly",
+  "description": "Manage macOS Calendar events from the command line using EventKit. Use when creating, listing, or viewing calendar events on macOS without AppleScript dialogs or UI prompts. Supports all-day events, multi-day events, and timed events. Works with iCloud, local, and CalDAV calendars.",
+  "version": "1.3.0",
+  "author": {
+    "name": "halbotley"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/halbotley/calmly",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/halbotley/calmly"
+}

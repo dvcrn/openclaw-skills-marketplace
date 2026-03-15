@@ -1,0 +1,10 @@
+{
+  "name": "yflmq001--yingdao",
+  "description": "影刀 RPA API 封装，支持鉴权/任务查询/执行/结果获取。需配置环境变量 YINGDAO_ACCESS_KEY_ID、YINGDAO_ACCESS_KEY_SECRET 作为 API 凭证。",
+  "version": "2.2.0",
+  "author": {
+    "name": "yflmq001"
+  },
+  "homepage": "https://clawhub.ai/yflmq001/yingdao",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yflmq001/yingdao"
+}

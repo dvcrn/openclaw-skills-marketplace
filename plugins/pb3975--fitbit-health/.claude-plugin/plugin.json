@@ -1,0 +1,10 @@
+{
+  "name": "pb3975--fitbit-health",
+  "description": "Query Fitbit health data (activity, sleep, heart rate, weight) via CLI. Use when answering health/fitness questions that require Fitbit data, or when the user asks about their steps, sleep, heart rate, or weight from Fitbit.",
+  "version": "0.1.1",
+  "author": {
+    "name": "pb3975"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pb3975/fitbit-health",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pb3975/fitbit-health"
+}

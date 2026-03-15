@@ -1,0 +1,10 @@
+{
+  "name": "lewislulu--ppt-presenter",
+  "description": "Create professional HTML presentations with complete word-for-word speaker scripts (逐字稿) and presenter view. Use when user asks to create a presentation, PPT, slides, tech sharing, keynote, or talk. Core feature: every slide comes with a full speaker script (150-300 words) visible in presenter view (press S) — so you can present confidently without memorizing anything. Full pipeline: (1) content planning and outline, (2) per-slide content with three-audience-layer explanations, (3) AI-generated whiteboard illustrations via Gemini API, (4) reveal.js HTML assembly with lightbox, (5) word-for-word 逐字稿 in presenter view. Also use when asked to add speaker notes, generate slide images, or convert markdown notes into a presentation.",
+  "version": "1.2.0",
+  "author": {
+    "name": "lewislulu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lewislulu/ppt-presenter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lewislulu/ppt-presenter"
+}

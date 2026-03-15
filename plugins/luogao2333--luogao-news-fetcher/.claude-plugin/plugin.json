@@ -1,0 +1,10 @@
+{
+  "name": "luogao2333--luogao-news-fetcher",
+  "description": "新闻获取与存档访问工具。获取新闻列表，访问公开存档版本。\n 通过官方网站、公开存档服务（archive.today、Wayback Machine）获取新闻内容。\n 触发词：新闻、今日新闻、文章、存档、阅读。",
+  "version": "2.0.2",
+  "author": {
+    "name": "luogao2333"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luogao2333/luogao-news-fetcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luogao2333/luogao-news-fetcher"
+}

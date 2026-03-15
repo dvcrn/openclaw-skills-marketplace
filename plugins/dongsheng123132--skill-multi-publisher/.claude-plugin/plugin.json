@@ -1,0 +1,10 @@
+{
+  "name": "dongsheng123132--skill-multi-publisher",
+  "description": "One-command publish a Claude Code skill to ALL major marketplaces: GitHub (npx skills), ClawHub, and community marketplaces (composiohq/awesome-claude-skills, anthropics/skills, daymade/claude-code-skills, obra/superpowers-marketplace). Validates SKILL.md, auto-generates missing files, creates repos, publishes, and submits PRs to community directories.",
+  "version": "2.0.0",
+  "author": {
+    "name": "dongsheng123132"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dongsheng123132/skill-multi-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dongsheng123132/skill-multi-publisher"
+}

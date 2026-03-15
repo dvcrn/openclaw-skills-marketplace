@@ -1,0 +1,10 @@
+{
+  "name": "dev-jslee--eidolon-search",
+  "description": "AI Agent memory search using SQLite FTS5. 90%+ token reduction (10x+) compared to reading full files. Use when the agent needs to search through markdown memory files, daily notes, or any text corpus efficiently. Triggers on memory search, file search, knowledge retrieval, or when context window is limited and full-file reading is too expensive.",
+  "version": "0.0.1",
+  "author": {
+    "name": "dev-jslee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dev-jslee/eidolon-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dev-jslee/eidolon-search"
+}

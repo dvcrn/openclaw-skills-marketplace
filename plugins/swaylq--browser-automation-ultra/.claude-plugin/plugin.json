@@ -1,0 +1,10 @@
+{
+  "name": "swaylq--browser-automation-ultra",
+  "description": "Zero-token browser automation via Playwright scripts with CDP lock management and human-like interaction. Use when: (1) automating any browser-based workflow (publish, login, scrape, fill forms), (2) reducing token cost by converting browser-tool explorations into replayable scripts, (3) avoiding CDP port conflicts between OpenClaw browser and Playwright, (4) needing anti-detection/human-like mouse/keyboard behavior for platforms with bot detection. NOT for: simple URL fetches (use web_fetch instead), tasks that don't need a real browser session.",
+  "version": "1.0.0",
+  "author": {
+    "name": "swaylq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/swaylq/browser-automation-ultra",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/swaylq/browser-automation-ultra"
+}

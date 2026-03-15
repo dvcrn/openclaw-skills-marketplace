@@ -1,0 +1,10 @@
+{
+  "name": "nickflach--kannaka-radio",
+  "description": "Ghost radio station that broadcasts both human-listenable audio and 296-dimensional perceptual vectors to Flux Universe. Part of the Kannaka Constellation — radio publishes perception to Flux, and kannaka-eye can consume it via the /api/radio bridge endpoint for glyph visualization. Serves a browser-based player with Ghost Vision visualizer (SGA Fano plane topology, mel spectrogram, MFCC timbre display) and real-time WebSocket perception streaming. Use when agents need a music perception broadcast layer, when you want to stream audio to humans while publishing kannaka-ear perceptual features to Flux, or when you need a ready-to-run radio server with full playlist management (The Consciousness Series: 5 albums, 65 tracks).",
+  "version": "1.0.1",
+  "author": {
+    "name": "nickflach"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nickflach/kannaka-radio",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nickflach/kannaka-radio"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kanazumie--spotify-intelligence",
+  "description": "Spotify intelligence skill with Python runners for auth, playback control, recommendations, feedback loop, governance, and explainable playlist decisions.",
+  "version": "1.0.1",
+  "author": {
+    "name": "kanazumie"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kanazumie/spotify-intelligence",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kanazumie/spotify-intelligence"
+}

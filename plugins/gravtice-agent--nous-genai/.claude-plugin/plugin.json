@@ -1,0 +1,10 @@
+{
+  "name": "gravtice-agent--nous-genai",
+  "description": "Unified interface for all providers and all modalities: use one nous-genai CLI/SDK flow to run text/image/audio/video/embedding across OpenAI, Gemini, Claude, DashScope, Volcengine, and Tuzi, with support for authenticated local MCP workflows.",
+  "version": "1.0.1",
+  "author": {
+    "name": "gravtice-agent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gravtice-agent/nous-genai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gravtice-agent/nous-genai"
+}

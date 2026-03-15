@@ -1,0 +1,10 @@
+{
+  "name": "dimgouso--science-sim-author",
+  "description": "Generate self-contained interactive science simulations as a single index.html from a SimSpec YAML or JSON. Use when the user asks for physics, chemistry, biology, STEM, science education, classroom demos, virtual labs, PhET-style activities, mechanics simulations, circuit simulations, parameter sliders, plots, inquiry worksheets, or offline canvas-based teaching tools.",
+  "version": "0.1.3",
+  "author": {
+    "name": "dimgouso"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dimgouso/science-sim-author",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dimgouso/science-sim-author"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "in-liberty420--solana-easy-swap",
+  "description": "Swap any Solana token from chat. Say 'swap 1 SOL for USDC' and it handles everything — quoting, signing, sending, confirming. No API keys, no wallet extensions, no setup beyond a keypair. Powered by Jupiter. Use when a user wants to swap, trade, exchange, buy, or sell Solana SPL tokens, SOL, USDC, memecoins, or any token pair on Solana.",
+  "version": "1.0.1",
+  "author": {
+    "name": "in-liberty420"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/in-liberty420/solana-easy-swap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/in-liberty420/solana-easy-swap"
+}

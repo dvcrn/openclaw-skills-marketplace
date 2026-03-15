@@ -1,0 +1,10 @@
+{
+  "name": "glitch003--vincent-twitter",
+  "description": "Twitter/X.com data access for agents. Use this skill when users want to search tweets, look up\n user profiles, or retrieve recent tweets. Pay-per-call via Vincent credit system.\n Triggers on \"search tweets\", \"twitter\", \"X.com\", \"look up user\", \"tweet search\",\n \"twitter profile\", \"recent tweets\".",
+  "version": "1.0.69",
+  "author": {
+    "name": "glitch003"
+  },
+  "homepage": "https://heyvincent.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/glitch003/vincent-twitter"
+}

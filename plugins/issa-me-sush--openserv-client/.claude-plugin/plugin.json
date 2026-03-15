@@ -1,0 +1,10 @@
+{
+  "name": "issa-me-sush--openserv-client",
+  "description": "Complete guide to using @openserv-labs/client for managing agents, workflows, triggers, and tasks on the OpenServ Platform. Covers provisioning, authentication, x402 payments, ERC-8004 on-chain identity, and the full Platform API. IMPORTANT - Always read the companion skill openserv-agent-sdk alongside this skill, as both packages are required to build any agent. Read reference.md for the full API reference.",
+  "version": "1.0.4",
+  "author": {
+    "name": "issa-me-sush"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/issa-me-sush/openserv-client",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/issa-me-sush/openserv-client"
+}

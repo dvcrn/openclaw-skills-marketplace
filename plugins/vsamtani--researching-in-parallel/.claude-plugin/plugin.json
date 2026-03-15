@@ -1,0 +1,10 @@
+{
+  "name": "vsamtani--researching-in-parallel",
+  "description": "Research any topic thoroughly by running three sub-agents with distinct analytical lenses (breadth, critique, evidence), then giving their outputs to a final sub-agent to produce/update one review report with a unified bibliography. Supports iterative research — outputs from one run can be fed back as starting-point sources for the next. Use when the user wants a deep, comprehensive, or multi-perspective synthesis of a topic. Not for quick factual lookups or conversational questions.",
+  "version": "1.4.2",
+  "author": {
+    "name": "vsamtani"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vsamtani/researching-in-parallel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vsamtani/researching-in-parallel"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xlbbb-cn--sshexec",
+  "description": "A skill to execute SSH commands on remote servers, supporting both password and key-based authentication. It includes error handling and logging for command execution results.",
+  "version": "1.0.1",
+  "author": {
+    "name": "xlbbb-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xlbbb-cn/sshexec",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xlbbb-cn/sshexec"
+}

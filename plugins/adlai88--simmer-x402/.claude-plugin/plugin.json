@@ -1,0 +1,10 @@
+{
+  "name": "adlai88--simmer-x402",
+  "description": "Make x402 payments to access paid APIs and gated content. Use when a skill needs to fetch data from x402-gated endpoints (like Kaito mindshare API, Simmer premium endpoints, or any x402 provider). Handles 402 Payment Required responses automatically using USDC on Base.",
+  "version": "1.0.4",
+  "author": {
+    "name": "adlai88"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adlai88/simmer-x402",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adlai88/simmer-x402"
+}

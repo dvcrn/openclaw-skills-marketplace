@@ -1,0 +1,10 @@
+{
+  "name": "zhairen--openamc",
+  "description": "OpenAMC 本地 MCP 命令调用技能。通过标准化 CLI 接口，允许 AI Agent 主动向本地 MCP Server 发送查询指令以获取全球金融数据。覆盖 A股/港股（AKShare）、美股（yfinance）、宏观经济（FRED/IMF/EconDB）、美国国会（Congress）及衍生品、外汇、大宗商品市场。",
+  "version": "1.0.1",
+  "author": {
+    "name": "zhairen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhairen/openamc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhairen/openamc"
+}

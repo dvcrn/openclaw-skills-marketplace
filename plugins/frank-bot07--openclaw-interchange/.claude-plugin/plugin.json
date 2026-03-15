@@ -1,0 +1,10 @@
+{
+  "name": "frank-bot07--openclaw-interchange",
+  "description": "Shared .md interchange library for OpenClaw skills — atomic writes, deterministic serialization, YAML frontmatter, advisory locking, and schema validation. The foundation all other OpenClaw skills build on.",
+  "version": "1.0.0",
+  "author": {
+    "name": "frank-bot07"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/frank-bot07/openclaw-interchange",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/frank-bot07/openclaw-interchange"
+}

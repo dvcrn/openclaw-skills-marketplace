@@ -1,0 +1,10 @@
+{
+  "name": "adelpro--agent-self-improvement",
+  "description": "Generic agent self-improvement skill built on OpenClaw-RL research (arxiv.org/abs/2603.10165). Captures evaluative signals (+1/-1) and directive hints from any user feedback, generates improvement suggestions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "adelpro"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adelpro/agent-self-improvement",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adelpro/agent-self-improvement"
+}

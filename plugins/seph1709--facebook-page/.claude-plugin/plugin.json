@@ -1,0 +1,10 @@
+{
+  "name": "seph1709--facebook-page",
+  "description": "Facebook Page manager: post, schedule, reply, get insights & more. Requires: powershell/pwsh. Reads ~/.config/fb-page/credentials.json (FB_PAGE_TOKEN, FB_PAGE_ID). FB_APP_SECRET for one-time setup only — delete afterward. Long-lived token; rotate periodically and immediately if host is compromised. Grant minimal permissions only. No data forwarded to third parties; all calls go to graph.facebook.com only.",
+  "version": "1.0.16",
+  "author": {
+    "name": "seph1709"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seph1709/facebook-page",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seph1709/facebook-page"
+}

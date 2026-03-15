@@ -1,0 +1,10 @@
+{
+  "name": "adlai88--polymarket-weather-trader",
+  "description": "Trade Polymarket weather markets using NOAA forecasts via Simmer API. Inspired by gopfan2's $2M+ strategy. Use when user wants to trade temperature markets, automate weather bets, check NOAA forecasts, or run gopfan2-style trading.",
+  "version": "1.14.1",
+  "author": {
+    "name": "adlai88"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-weather-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adlai88/polymarket-weather-trader"
+}

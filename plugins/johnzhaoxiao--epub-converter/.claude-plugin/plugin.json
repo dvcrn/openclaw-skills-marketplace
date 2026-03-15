@@ -1,0 +1,10 @@
+{
+  "name": "johnzhaoxiao--epub-converter",
+  "description": "Convert EPUB ebooks between Traditional and Simplified Chinese. Use when: (1) user provides an EPUB file and asks to convert between Traditional/Simplified Chinese, (2) user mentions \"繁简转换\", \"繁体转简体\", \"简体转繁体\", \"EPUB转换\", (3) user wants to convert Chinese text encoding in ebook files. Supports bidirectional conversion (Traditional→Simplified and Simplified→Traditional).",
+  "version": "1.0.0",
+  "author": {
+    "name": "johnzhaoxiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnzhaoxiao/epub-converter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnzhaoxiao/epub-converter"
+}

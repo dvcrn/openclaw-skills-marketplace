@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-incident-timeline-audit",
+  "description": "Cluster failed GitHub Actions runs into incident windows by repo to expose outage duration, impact scope, and escalation severity.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-incident-timeline-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-incident-timeline-audit"
+}

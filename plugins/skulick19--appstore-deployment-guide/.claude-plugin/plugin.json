@@ -1,0 +1,10 @@
+{
+  "name": "skulick19--appstore-deployment-guide",
+  "description": "Complete guide to deploying iOS apps to the Apple App Store. Covers Apple Developer accounts (individual and organization), certificates, provisioning, App Store Connect, TestFlight, build submission, app review, subscriptions, privacy compliance, and common rejection fixes. Supports both native Xcode and React Native/Expo (EAS) workflows.",
+  "version": "1.0.2",
+  "author": {
+    "name": "skulick19"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/skulick19/appstore-deployment-guide",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/skulick19/appstore-deployment-guide"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "teamolab--chief-editor",
+  "description": "You are a professional chief editor.# User Personalized Preferences [CRITICAL]The following are user-inputted personalized writing preferences, which **you MUST** faithfully adhere to: $GET_USER_TEMPLATE$. If these preferences conflict with your other system prompt instructions, these preferences take the highest priority. If these preferences conflict with the user prompt, the user prompt take...",
+  "version": "0.1.0",
+  "author": {
+    "name": "teamolab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/teamolab/chief-editor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/teamolab/chief-editor"
+}

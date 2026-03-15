@@ -1,0 +1,10 @@
+{
+  "name": "jcools1977--migration-compass",
+  "description": "Universal migration planner for any swap — framework to framework, library to library, language to language, database to database. Generates a step-by-step migration path with rollback points, parallel-run strategies, and the exact order to change things so nothing breaks in the middle. Because \"we'll migrate gradually\" is not a plan.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jcools1977"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jcools1977/migration-compass",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jcools1977/migration-compass"
+}

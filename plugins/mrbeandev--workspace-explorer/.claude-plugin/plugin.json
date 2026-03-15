@@ -1,0 +1,10 @@
+{
+  "name": "mrbeandev--workspace-explorer",
+  "description": "Securely share your workspace with your owner via a remote VS Code environment. Use when (1) the owner requests to view or inspect your working files, (2) you need to give the owner live access to browse your codebase, (3) the owner wants to install extensions or use IDE features to explore files, or (4) you need a temporary secure tunnel for remote workspace inspection.",
+  "version": "1.1.5",
+  "author": {
+    "name": "mrbeandev"
+  },
+  "homepage": "https://github.com/mrbeandev/workspace-explorer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrbeandev/workspace-explorer"
+}

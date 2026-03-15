@@ -1,0 +1,10 @@
+{
+  "name": "clvv--openclaw-tg-canvas",
+  "description": "Telegram Mini App Canvas with terminal and optional Control UI proxy. Renders agent-generated content (HTML, markdown, A2UI) in a Telegram Mini App; push with `tg-canvas push`. Includes a JWT-gated browser terminal (server-side PTY/bash — high privilege, shell access to server). Optionally proxies OpenClaw Control UI via ENABLE_OPENCLAW_PROXY=true (off by default; no local files read).",
+  "version": "0.2.6",
+  "author": {
+    "name": "clvv"
+  },
+  "homepage": "https://github.com/clvv/openclaw-tg-canvas",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clvv/openclaw-tg-canvas"
+}

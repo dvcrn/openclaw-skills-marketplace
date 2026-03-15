@@ -1,0 +1,10 @@
+{
+  "name": "sunnyztj--crypto-backtest",
+  "description": "Crypto futures backtesting engine with built-in EMA, RSI, MACD, and Bollinger Band strategies. Fetches OHLCV data from any ccxt-supported exchange (Bybit, Binance, OKX, etc.), runs multi-strategy sweeps, calculates win rate / PnL / drawdown, and exports results to JSON. Use when backtesting trading strategies, comparing parameter combinations, evaluating crypto trading signals, or building a quantitative trading pipeline.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sunnyztj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunnyztj/crypto-backtest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunnyztj/crypto-backtest"
+}

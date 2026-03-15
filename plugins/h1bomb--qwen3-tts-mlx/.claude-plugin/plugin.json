@@ -1,0 +1,10 @@
+{
+  "name": "h1bomb--qwen3-tts-mlx",
+  "description": "Local Qwen3-TTS speech synthesis on Apple Silicon via MLX. Use for offline narration, audiobooks, video voiceovers, and multilingual TTS.",
+  "version": "2.1.0",
+  "author": {
+    "name": "h1bomb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/h1bomb/qwen3-tts-mlx",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/h1bomb/qwen3-tts-mlx"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "davidme6--smart-model-switcher-v2",
+  "description": "Optimized Smart Model Switcher (v2) - Zero-latency, no restart required. Automatically selects and switches to the best available model for each task from your purchased plan. Runtime model selection with <100ms latency. Supports auto-detection of new models, multi-model parallel processing, and intelligent task classification. Always uses the strongest model within your plan.",
+  "version": "2.0.0",
+  "author": {
+    "name": "davidme6"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/davidme6/smart-model-switcher-v2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davidme6/smart-model-switcher-v2"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "josunlp--whisper-transcribe",
+  "description": "Transcribe audio files to text using OpenAI Whisper. Supports speech-to-text with auto language detection, multiple output formats (txt, srt, vtt, json), batch processing, and model selection (tiny to large). Use when transcribing audio recordings, podcasts, voice messages, lectures, meetings, or any audio/video file to text. Handles mp3, wav, m4a, ogg, flac, webm, opus, aac formats.",
+  "version": "1.0.0",
+  "author": {
+    "name": "josunlp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/josunlp/whisper-transcribe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/josunlp/whisper-transcribe"
+}

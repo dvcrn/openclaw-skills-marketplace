@@ -1,0 +1,10 @@
+{
+  "name": "guim4dev--magic-need",
+  "description": "Capture tool and data needs from AI agents during task execution. When an agent identifies it needs a tool, API, or data source that doesn't exist, this skill provides a CLI to register that need. Needs are categorized automatically and can be reviewed periodically to build an integration roadmap. Use when the agent realizes it needs something that isn't available — e.g., \"I would need X API to do this properly\", \"If I had access to Y logs I could investigate\", \"A tool that does Z would be useful here\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "guim4dev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guim4dev/magic-need",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guim4dev/magic-need"
+}

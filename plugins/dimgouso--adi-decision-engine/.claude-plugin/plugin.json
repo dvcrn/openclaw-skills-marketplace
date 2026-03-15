@@ -1,0 +1,10 @@
+{
+  "name": "dimgouso--adi-decision-engine",
+  "description": "Structured multi-criteria decision analysis for ranking options with weights, constraints, confidence, tradeoff reasoning, sensitivity analysis, and explainable recommendations. Use when the user asks for decision support, MCDA, weighted scoring, prioritization, vendor selection, route planning, hiring shortlist ranking, tool comparison, procurement decisions, or auditable agent decision logic.",
+  "version": "0.1.0",
+  "author": {
+    "name": "dimgouso"
+  },
+  "homepage": "https://github.com/dimgouso/adi-decision-engine_skill_openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dimgouso/adi-decision-engine"
+}

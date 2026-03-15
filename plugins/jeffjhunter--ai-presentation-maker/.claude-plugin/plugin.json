@@ -1,0 +1,10 @@
+{
+  "name": "jeffjhunter--ai-presentation-maker",
+  "description": "AI Presentation Maker — the interview-driven pitch deck generator for your OpenClaw agent. Tell it what you built, who you're presenting to, and pick an angle — it generates a complete slide deck with speaker notes, factual validation, and real cost breakdowns. No made-up ROI. No speculative projections. Just compelling presentations built from actual work. Exports to Markdown, PPTX, and PDF. Works standalone or alongside AI Persona OS. Built by Jeff J Hunter.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jeffjhunter"
+  },
+  "homepage": "https://jeffjhunter.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeffjhunter/ai-presentation-maker"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "davaded--echarts-ai-skill",
+  "description": "Generate charts from natural language or tabular data, recommend chart types, and export ECharts-based HTML or SVG. Use when users ask for one-sentence chart generation, auto chart selection from data, or embeddable chart previews.",
+  "version": "0.1.1",
+  "author": {
+    "name": "davaded"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/davaded/echarts-ai-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davaded/echarts-ai-skill"
+}

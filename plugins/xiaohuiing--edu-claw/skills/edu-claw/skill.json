@@ -1,0 +1,17 @@
+{
+  "name": "educlaw",
+  "version": "2.2.2",
+  "description": "主动式英语家教 - Interactive English Tutor",
+  "author": "xiaohuiing",
+  "license": "MIT",
+  "keywords": ["english", "learning", "英语", "学习", "家教"],
+  "safety": {
+    "data_collection": "none",
+    "external_services": "none",
+    "user_tracking": "session-only"
+  },
+  "repository": {
+    "github": "https://github.com/xiaohuiing/educlaw",
+    "gitee": "https://gitee.com/huiing/educlaw"
+  }
+}

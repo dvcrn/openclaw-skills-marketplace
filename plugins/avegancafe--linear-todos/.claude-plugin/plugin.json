@@ -1,0 +1,10 @@
+{
+  "name": "avegancafe--linear-todos",
+  "description": "A CLI tool that executes Python source code to manage todos via Linear's API. Creates tasks with natural language dates, priorities, and scheduling. This is a source-execution skill - code in src/linear_todos/ runs when commands are invoked.",
+  "version": "1.1.0",
+  "author": {
+    "name": "avegancafe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/avegancafe/linear-todos",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/avegancafe/linear-todos"
+}

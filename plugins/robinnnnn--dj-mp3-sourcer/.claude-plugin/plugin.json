@@ -1,0 +1,10 @@
+{
+  "name": "robinnnnn--dj-mp3-sourcer",
+  "description": "Download music from links (YouTube, Spotify, etc.) by finding the best available source. Searches across platforms in priority order: Bandcamp, Beatport, Amazon Music, Spotify (via spotdl), YouTube (via yt-dlp). Use when a user sends music links and wants high-quality audio files downloaded, or when batch-downloading tracks from mixed sources. Handles single tracks or batch lists. Surfaces purchase links for paid platforms, downloads directly from free sources. Default output is MP3 320k. Supports a \"free only\" mode that skips paid platforms entirely.",
+  "version": "1.0.2",
+  "author": {
+    "name": "robinnnnn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/robinnnnn/dj-mp3-sourcer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robinnnnn/dj-mp3-sourcer"
+}

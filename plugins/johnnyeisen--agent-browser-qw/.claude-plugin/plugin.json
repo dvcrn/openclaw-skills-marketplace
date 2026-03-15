@@ -1,0 +1,10 @@
+{
+  "name": "johnnyeisen--agent-browser-qw",
+  "description": "A fast Rust-based headless browser automation CLI with Node.js fallback that enables AI agents to navigate, click, type, and snapshot pages via structured commands.",
+  "version": "1.0.0",
+  "author": {
+    "name": "johnnyeisen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnnyeisen/agent-browser-qw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnnyeisen/agent-browser-qw"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "iyeque--local-system-info",
+  "description": "Return system metrics (CPU, RAM, disk, processes) using psutil.",
+  "version": "1.1.0",
+  "author": {
+    "name": "iyeque"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iyeque/local-system-info",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iyeque/local-system-info"
+}

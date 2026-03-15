@@ -1,0 +1,10 @@
+{
+  "name": "diagnostikon--polymarket-crypto-onchain-trader",
+  "description": "Trades Polymarket prediction markets on Bitcoin, Ethereum, Solana price milestones, ETF inflows, halving events, and DeFi protocol milestones using on-chain data as the primary signal. Use when you want to capture alpha by combining Polymarket probability with live blockchain metrics.",
+  "version": "1.0.0",
+  "author": {
+    "name": "diagnostikon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/diagnostikon/polymarket-crypto-onchain-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/diagnostikon/polymarket-crypto-onchain-trader"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xiaoyinqu--gemini-api-gateway",
+  "description": "USE THIS for Gemini models, Google AI. Access Gemini 3 Pro, Gemini 2.5 Pro, Gemini 2.5 Flash, Gemini 2.5 Flash Lite. 1 million token context window. No Google Cloud account needed. OpenAI-compatible API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiaoyinqu"
+  },
+  "homepage": "https://skillboss.co",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaoyinqu/gemini-api-gateway"
+}

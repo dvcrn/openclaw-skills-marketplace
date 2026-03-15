@@ -1,0 +1,10 @@
+{
+  "name": "alexwoo-awso--ksef-accountant-pl",
+  "description": "Asystent ksiegowy Krajowego Systemu e-Faktur (KSeF) w jezyku polskim. Uzyj przy pracy z KSeF 2.0 API, fakturami FA(3), zgodnoscia z polskim VAT, przetwarzaniem e-faktur, dopasowywaniem platnosci, rejestrami VAT (JPK_V7), fakturami korygujacymi, mechanizmem podzielonej platnosci (MPP) lub polskimi przeplywami ksiegowymi. Dostarcza wiedze domenowa do wystawiania faktur, przetwarzania zakupow, klasyfikacji kosztow, wykrywania fraudu i prognozowania cash flow w ekosystemie KSeF.",
+  "version": "2.2.6",
+  "author": {
+    "name": "alexwoo-awso"
+  },
+  "homepage": "https://github.com/alexwoo-awso/skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alexwoo-awso/ksef-accountant-pl"
+}

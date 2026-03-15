@@ -1,0 +1,10 @@
+{
+  "name": "junior-juarez-msft--azure-bicep-deploy",
+  "description": "Deploy and validate Azure Bicep files and ARM templates. Use for: (1) Deploying Bicep (.bicep) or ARM (JSON) templates to Azure, (2) Validating Bicep/ARM templates for syntax errors, (3) Creating Azure resources via Bicep, (4) Managing multi-environment deployments (dev/staging/prod) via parameters. Supports Azure Container Apps commonly used workloads. Prerequisites: Azure CLI (az) installed, Azure CLI authenticated (az login), Bicep CLI installed (az bicep install), appropriate Azure subscription access.",
+  "version": "2.1.0",
+  "author": {
+    "name": "junior-juarez-msft"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/junior-juarez-msft/azure-bicep-deploy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/junior-juarez-msft/azure-bicep-deploy"
+}

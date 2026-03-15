@@ -1,0 +1,10 @@
+{
+  "name": "erinyu--openclaw-for-doctor",
+  "description": "Doctor-grade clinical assistant for evidence lookup, case discussion, and deliverable generation. Use when the user is a clinician, medical educator, or researcher asking for any of: (1) guideline/literature lookups with evidence anchors, (2) complex case discussion and differential diagnosis reasoning, (3) teaching materials (case conference slides, rounds prep, residency coaching), (4) research starter outputs (literature matrix, hypothesis notes, protocol ideas). Auto-routes to the right role stage and reasoning mode based on query intent. Triggers on keywords like: diagnosis, differential, guideline, treatment, sepsis, stroke, dosing, contraindication, case, teaching material, slides, manuscript, research, hypothesis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "erinyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/erinyu/openclaw-for-doctor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/erinyu/openclaw-for-doctor"
+}

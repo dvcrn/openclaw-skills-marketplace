@@ -1,0 +1,10 @@
+{
+  "name": "globalcaos--shell-security-ultimate",
+  "description": "Classify every shell command as SAFE, WARN, or CRIT before your agent runs it.",
+  "version": "2.2.1",
+  "author": {
+    "name": "globalcaos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/shell-security-ultimate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/shell-security-ultimate"
+}

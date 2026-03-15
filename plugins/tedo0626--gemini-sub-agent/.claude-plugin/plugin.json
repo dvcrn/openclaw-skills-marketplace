@@ -1,0 +1,10 @@
+{
+  "name": "tedo0626--gemini-sub-agent",
+  "description": "Use Google Gemini as a free sub-agent via a Google One / Gemini Advanced subscription (no API key or API credits needed). Use when: (1) delegating tasks that would normally cost Sonnet/Haiku credits, (2) processing large documents or long-context tasks (1M token window), (3) running agentic coding tasks autonomously, (4) any text analysis, summarization, or Q&A task. Replaces paid cloud models for medium-complexity tasks. NOT for: tasks needing OpenClaw-native tools (web_search, sessions_spawn, Telegram), real-time data, or tasks requiring OpenClaw context.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tedo0626"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tedo0626/gemini-sub-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tedo0626/gemini-sub-agent"
+}

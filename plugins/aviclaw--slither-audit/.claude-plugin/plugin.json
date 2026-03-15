@@ -1,0 +1,10 @@
+{
+  "name": "aviclaw--slither-audit",
+  "description": "Run slither static analysis on Solidity contracts. Fast, lightweight security scanner for EVM smart contracts.",
+  "version": "0.4.0",
+  "author": {
+    "name": "aviclaw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aviclaw/slither-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aviclaw/slither-audit"
+}

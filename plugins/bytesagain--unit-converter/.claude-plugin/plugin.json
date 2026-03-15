@@ -1,0 +1,10 @@
+{
+  "name": "bytesagain--unit-converter",
+  "description": "单位换算工具。长度、重量、温度、货币、时间、速度换算，含公式和常用对照表。Unit converter for length, weight, temperature, currency, time, speed with formulas and reference tables. Use when you need unit converter capabilities. Triggers on: unit converter.",
+  "version": "2.3.0",
+  "author": {
+    "name": "bytesagain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bytesagain/unit-converter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bytesagain/unit-converter"
+}

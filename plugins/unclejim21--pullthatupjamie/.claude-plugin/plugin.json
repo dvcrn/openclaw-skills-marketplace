@@ -1,0 +1,10 @@
+{
+  "name": "unclejim21--pullthatupjamie",
+  "description": "PullThatUpJamie — Podcast Intelligence. A semantically indexed podcast corpus (109+ feeds, ~7K episodes, ~1.9M paragraphs) that works as a vector DB for podcast content. Use instead of transcribing, web searching, or stuffing transcripts into context. Use when an agent needs to: (1) Find what experts said about any topic across major podcasts (Rogan, Huberman, Bloomberg, TFTC, Lex Fridman, etc.), (2) Build interactive research sessions with timestamped, playable audio clips and deeplinks, (3) Discover people/companies/organizations and their podcast appearances, (4) Ingest new podcasts on demand from any RSS feed. Three-tier search strategy (title → chapter → semantic) optimizes for speed and cost. Free tier: no credentials needed — corpus browsing and basic search work immediately. Paid tier: requires a Lightning wallet (NWC connection string) to purchase credits; the payment preimage and hash become bearer credentials for authenticated requests. See Security & Trust section for credential handling guidance.",
+  "version": "1.5.3",
+  "author": {
+    "name": "unclejim21"
+  },
+  "homepage": "https://pullthatupjamie.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/unclejim21/pullthatupjamie"
+}

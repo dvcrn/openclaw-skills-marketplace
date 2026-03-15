@@ -1,0 +1,10 @@
+{
+  "name": "ultranumblol--wallet-pnl",
+  "description": "Analyze any Solana wallet's trading history: win rate, realized PnL, trader type,\n and copy-trade rating. Use when the user wants to check if a wallet is worth copying,\n analyze smart money performance, check a trader's win rate, evaluate a wallet's PnL,\n or decide whether to follow a wallet's trades.\n Keywords: copy trade, wallet analysis, win rate, PnL, smart money, trader stats.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ultranumblol"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ultranumblol/wallet-pnl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ultranumblol/wallet-pnl"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mpesavento--memory-sync",
+  "description": "Scrape and analyze OpenClaw JSONL session logs to reconstruct and backfill agent memory files. Use when: (1) Memory appears incomplete after model switches, (2) Verifying memory coverage, (3) Reconstructing lost memory, (4) Automated daily memory sync via cron/heartbeat. Supports simple extraction and LLM-based narrative summaries with automatic secret sanitization.",
+  "version": "1.0.1",
+  "author": {
+    "name": "mpesavento"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mpesavento/memory-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mpesavento/memory-sync"
+}

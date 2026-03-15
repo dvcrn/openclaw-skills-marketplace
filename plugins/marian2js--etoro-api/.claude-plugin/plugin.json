@@ -1,0 +1,10 @@
+{
+  "name": "marian2js--etoro-api",
+  "description": "Enables agents to interact with the eToro API to access market data, portfolio and social features, and execute trades programmatically.",
+  "version": "1.0.0",
+  "author": {
+    "name": "marian2js"
+  },
+  "homepage": "https://api-portal.etoro.com/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marian2js/etoro-api"
+}

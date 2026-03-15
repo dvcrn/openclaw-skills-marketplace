@@ -1,0 +1,10 @@
+{
+  "name": "yoder-bawt--qdrant-advanced",
+  "description": "Advanced Qdrant vector database operations for AI agents. Semantic search, contextual document ingestion with chunking, collection management, snapshots, and migration tools. Production-ready scripts for the complete Qdrant lifecycle. Use when: (1) Implementing semantic search across collections, (2) Ingesting documents with intelligent chunking, (3) Managing collections programmatically, (4) Creating backups and migrations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yoder-bawt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yoder-bawt/qdrant-advanced",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yoder-bawt/qdrant-advanced"
+}

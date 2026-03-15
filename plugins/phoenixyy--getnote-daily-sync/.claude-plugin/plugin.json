@@ -1,0 +1,10 @@
+{
+  "name": "phoenixyy--getnote-daily-sync",
+  "description": "每日自动将 Get笔记（biji.com）当天的录音笔记、会议记录、待办事项汇总后写入 Notion 数据库，生成结构化日报页面。 Use when user says \"同步今日 Get笔记\", \"生成今日日报\", \"把今天的笔记写到 Notion\", \"getnote daily sync\", or triggers a scheduled daily note summary.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phoenixyy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phoenixyy/getnote-daily-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phoenixyy/getnote-daily-sync"
+}

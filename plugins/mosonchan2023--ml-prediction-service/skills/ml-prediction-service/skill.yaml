@@ -1,0 +1,12 @@
+name: ml-prediction-service
+version: 1.0.0
+description: Run inference and get predictions from trained ML models
+category: Machine Learning
+tags:
+  - ml
+  - inference
+  - prediction
+  - model-serving
+author: mosonchan2023
+price: 0.001
+currency: USDT

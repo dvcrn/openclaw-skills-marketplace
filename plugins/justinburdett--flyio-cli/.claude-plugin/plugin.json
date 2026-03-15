@@ -1,0 +1,10 @@
+{
+  "name": "justinburdett--flyio-cli",
+  "description": "Use the Fly.io flyctl CLI for deploying and operating apps on Fly.io. Default to read-only diagnostics (status/logs/config/releases). Only perform state-changing operations (deploys, SSH exec, secrets, scaling, machines, volumes, Postgres changes) with explicit user approval. Use when asked to deploy to Fly.io, debug fly deploy/build/runtime failures, set up GitHub Actions deploys/previews, or safely manage Fly apps and Postgres.",
+  "version": "1.0.3",
+  "author": {
+    "name": "justinburdett"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/justinburdett/flyio-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/justinburdett/flyio-cli"
+}

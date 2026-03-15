@@ -1,0 +1,10 @@
+{
+  "name": "bennettphil--skill-soup",
+  "description": "Autonomous skill generation agent that picks up community ideas, uses evolved builder tools to produce Agent Skills, and publishes them back to the Skill Soup ecosystem. Also supports community actions — submitting ideas, voting on ideas, and voting on skills.",
+  "version": "0.5.0",
+  "author": {
+    "name": "bennettphil"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bennettphil/skill-soup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bennettphil/skill-soup"
+}

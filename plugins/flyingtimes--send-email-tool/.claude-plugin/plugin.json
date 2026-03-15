@@ -1,0 +1,10 @@
+{
+  "name": "flyingtimes--send-email-tool",
+  "description": "邮件发送工具。配置 SMTP 发件人后，通过脚本发送纯文本或 HTML 邮件，支持附件、抄送、密送。在需要发送邮件通知、报告、自动化邮件时触发。",
+  "version": "2.5.0",
+  "author": {
+    "name": "flyingtimes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/flyingtimes/send-email-tool",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/flyingtimes/send-email-tool"
+}

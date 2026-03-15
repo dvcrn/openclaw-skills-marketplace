@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--epc",
+  "description": "使用极速数据汽车配件 EPC 查询 API，按品牌/车型/VIN 查询 EPC 结构树、车型详情、分解图组和零件信息。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/epc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/epc"
+}

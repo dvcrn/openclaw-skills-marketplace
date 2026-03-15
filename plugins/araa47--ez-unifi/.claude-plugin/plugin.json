@@ -1,0 +1,10 @@
+{
+  "name": "araa47--ez-unifi",
+  "description": "Use when asked to manage UniFi network - list/restart/upgrade devices, block/unblock clients, manage WiFi networks, control PoE ports, manage traffic rules, create guest vouchers, or any UniFi controller task. Works with UDM Pro/SE, Dream Machine, Cloud Key Gen2+, or self-hosted controllers.",
+  "version": "1.0.1",
+  "author": {
+    "name": "araa47"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/araa47/ez-unifi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/araa47/ez-unifi"
+}

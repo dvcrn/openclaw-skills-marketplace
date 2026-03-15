@@ -1,0 +1,10 @@
+{
+  "name": "atlaspa--openclaw-reflect",
+  "description": "Self-improvement layer with evaluation separation, rollback, and tiered operator gates. Observes outcomes across sessions, detects recurring patterns, proposes improvements, validates proposals through a separate evaluator invocation, and applies changes safely with snapshot/rollback capability.",
+  "version": "1.0.2",
+  "author": {
+    "name": "atlaspa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/atlaspa/openclaw-reflect",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/atlaspa/openclaw-reflect"
+}

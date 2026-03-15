@@ -1,0 +1,10 @@
+{
+  "name": "wpank--deploy-agent-token",
+  "description": "Deploy an agent token with a Uniswap V4 pool — handles pool creation with configurable hooks (anti-snipe, dynamic fees, revenue share), initial liquidity bootstrapping, LP locking, and post-deployment monitoring. Use when the user wants to launch a token on Uniswap.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/deploy-agent-token",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/deploy-agent-token"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jasonhu--sandbox-simulator",
+  "description": "沙盘推演系统：模拟多人物社交对话互动。基于 sessions_spawn 能力实现并行推演， 支持10+人物、5个并行session、分批调度。用户可作为干预者暂停、修改状态、注入事件。 所有数据以 Markdown 文件存储，支持命令和自然语言双模式交互。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jasonhu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jasonhu/sandbox-simulator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jasonhu/sandbox-simulator"
+}

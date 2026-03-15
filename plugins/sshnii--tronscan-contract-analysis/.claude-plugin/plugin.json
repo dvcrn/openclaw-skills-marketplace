@@ -1,0 +1,10 @@
+{
+  "name": "sshnii--tronscan-contract-analysis",
+  "description": "Analyze TRON contracts: deploy info, hot methods, top callers, open-source status,\n transaction count.\n Use when user asks \"contract verification\", \"contract safety\", \"hot methods\", \"who is calling the contract\", or provides a contract address.\n Do NOT use for token supply/holders (use tronscan-token-scanner); address balance (use tronscan-account-profiler).",
+  "version": "1.0.3",
+  "author": {
+    "name": "sshnii"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sshnii/tronscan-contract-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sshnii/tronscan-contract-analysis"
+}

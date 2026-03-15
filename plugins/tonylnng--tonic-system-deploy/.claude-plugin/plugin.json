@@ -1,0 +1,10 @@
+{
+  "name": "tonylnng--tonic-system-deploy",
+  "description": "Software deployment workflow for systems with separate UAT and PROD environments. Use when: planning a bug fix deployment, choosing between Flow 1 (UAT-first) and Flow 2 (PROD-first), handling emergency hotfixes, executing rollbacks, or designing automated nightly deploy pipelines. Covers approval gates, human checkpoints, system automation nodes, Telegram notifications, and rollback procedures.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tonylnng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tonylnng/tonic-system-deploy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tonylnng/tonic-system-deploy"
+}

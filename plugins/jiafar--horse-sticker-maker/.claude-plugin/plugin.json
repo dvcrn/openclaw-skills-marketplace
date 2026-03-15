@@ -1,0 +1,10 @@
+{
+  "name": "jiafar--horse-sticker-maker",
+  "description": "Create and deploy a festive Chinese New Year (Year of the Horse 2026) animated GIF sticker maker web app. Use when the user wants to generate custom horse-themed blessing stickers, deploy a sticker generator H5 page, or create WeChat-compatible animated GIF stickers with gold horse animation on red background. Supports custom text input, 6-frame gold horse galloping animation, Canvas-based client-side GIF rendering via gif.js, and Vercel deployment.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jiafar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jiafar/horse-sticker-maker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jiafar/horse-sticker-maker"
+}

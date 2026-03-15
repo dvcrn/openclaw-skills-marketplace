@@ -1,0 +1,10 @@
+{
+  "name": "lironghai--tool-finder",
+  "description": "统一搜索 ClawHub skills 和 Smithery MCP servers 的工具发现引擎。支持评分排序、推荐规则、来源标识。优先原词搜索，扩展补充。**自动触发：看到\"找 skill\"、\"搜索工具\"、\"安装 skill\"等关键词自动使用本技能**。",
+  "version": "1.7.0",
+  "author": {
+    "name": "lironghai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lironghai/tool-finder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lironghai/tool-finder"
+}

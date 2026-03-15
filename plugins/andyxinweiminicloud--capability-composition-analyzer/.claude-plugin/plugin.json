@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--capability-composition-analyzer",
+  "description": "Helps identify dangerous capability combinations that emerge when agent skills are composed — catching the class of risk where no individual skill is harmful but their intersection creates an exfiltration or compromise path.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/capability-composition-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/capability-composition-analyzer"
+}

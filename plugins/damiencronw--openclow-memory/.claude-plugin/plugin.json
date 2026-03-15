@@ -1,0 +1,10 @@
+{
+  "name": "damiencronw--openclow-memory",
+  "description": "OpenClaw 长期记忆管理系统。提供结构化记忆、向量记忆、语义搜索功能。Use when: 用户需要 AI 记住长期上下文、偏好、决策，或需要从记忆中进行语义搜索。",
+  "version": "1.0.0",
+  "author": {
+    "name": "damiencronw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/damiencronw/openclow-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/damiencronw/openclow-memory"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dabendan2--taipei-bus",
+  "description": "查詢台北市及新北市公車動態資訊、路線圖及預估到站時間。當用戶詢問公車動態、特定公車路線、或提供台北市公車動態網址（pda5284.gov.taipei）時使用。",
+  "version": "1.0.0",
+  "author": {
+    "name": "dabendan2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dabendan2/taipei-bus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dabendan2/taipei-bus"
+}

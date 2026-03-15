@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--weather2",
+  "description": "使用极速数据历史天气 API，按城市与日期查询历史天气（最高最低温、风级、湿度、气压、日出日落、AQI 等）。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/weather2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/weather2"
+}

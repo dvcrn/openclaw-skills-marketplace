@@ -1,0 +1,10 @@
+{
+  "name": "kurinzo--tg-media-resolve",
+  "description": "Resolve Telegram <media:image>, <media:document>, <media:video> and other media placeholders into actual files for vision/analysis. Use when a Telegram message contains a media placeholder (e.g. <media:image>) that you cannot see — typically in quoted/replied-to messages or group chat history. Downloads the media via Telegram Bot API and returns a local file path for the image tool or further processing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kurinzo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kurinzo/tg-media-resolve",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kurinzo/tg-media-resolve"
+}

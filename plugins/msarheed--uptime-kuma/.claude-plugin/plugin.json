@@ -1,0 +1,10 @@
+{
+  "name": "msarheed--uptime-kuma",
+  "description": "Interact with Uptime Kuma monitoring server. Use for checking monitor status, adding/removing monitors, pausing/resuming checks, viewing heartbeat history. Triggers on mentions of Uptime Kuma, server monitoring, uptime checks, or service health monitoring.",
+  "version": "1.0.0",
+  "author": {
+    "name": "msarheed"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/msarheed/uptime-kuma",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/msarheed/uptime-kuma"
+}

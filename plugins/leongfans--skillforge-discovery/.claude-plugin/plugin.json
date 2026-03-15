@@ -1,0 +1,10 @@
+{
+  "name": "leongfans--skillforge-discovery",
+  "description": "SkillForge API 服务发现 - 自动发现和调用付费 AI 服务。当 OpenClaw Agent 需要某个能力但本地没有时，自动查找并推荐可用服务。",
+  "version": "1.0.0",
+  "author": {
+    "name": "leongfans"
+  },
+  "homepage": "https://github.com/skillforge/skillforge-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leongfans/skillforge-discovery"
+}

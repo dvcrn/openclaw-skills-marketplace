@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--erpclaw-analytics",
+  "description": "Cross-module KPIs, financial ratios, trends, and dashboards for ERPClaw — read-only, gracefully degrades when optional skills are missing",
+  "version": "1.0.0",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.erpclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/erpclaw-analytics"
+}

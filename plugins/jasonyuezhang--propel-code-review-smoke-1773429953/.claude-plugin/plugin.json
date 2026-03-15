@@ -1,0 +1,10 @@
+{
+  "name": "jasonyuezhang--propel-code-review-smoke-1773429953",
+  "description": "Run async diff-based code reviews using the Propel Review API, poll for completion, retrieve structured findings, and send comment feedback. Use when reviewing the current branch diff or any Git diff with Propel.",
+  "version": "0.0.1",
+  "author": {
+    "name": "jasonyuezhang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jasonyuezhang/propel-code-review-smoke-1773429953",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jasonyuezhang/propel-code-review-smoke-1773429953"
+}

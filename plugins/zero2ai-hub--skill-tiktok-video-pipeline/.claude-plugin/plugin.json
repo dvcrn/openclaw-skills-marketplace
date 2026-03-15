@@ -1,0 +1,10 @@
+{
+  "name": "zero2ai-hub--skill-tiktok-video-pipeline",
+  "description": "End-to-end TikTok ad video pipeline. Product script → Veo base video → animated caption overlay → audio mix → final MP4. One command, full automation.",
+  "version": "2.0.0",
+  "author": {
+    "name": "zero2ai-hub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zero2ai-hub/skill-tiktok-video-pipeline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zero2ai-hub/skill-tiktok-video-pipeline"
+}

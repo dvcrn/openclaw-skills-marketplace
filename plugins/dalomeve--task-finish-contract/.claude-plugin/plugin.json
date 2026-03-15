@@ -1,0 +1,10 @@
+{
+  "name": "dalomeve--task-finish-contract",
+  "description": "Enforce task completion with explicit Goal/Progress/Next state. Prevent mid-task stalls and ensure evidence-based completion.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dalomeve"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/task-finish-contract",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/task-finish-contract"
+}

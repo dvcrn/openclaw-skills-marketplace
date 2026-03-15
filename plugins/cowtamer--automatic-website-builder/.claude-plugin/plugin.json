@@ -1,0 +1,10 @@
+{
+  "name": "cowtamer--automatic-website-builder",
+  "description": "Autonomously research B2B SaaS trends, find a problem, and build/deploy a solution website to Vercel quickly. Use when asked to \"build a website\", \"run website builder\", or create an MVP. DO NOT ask the user for ideas—find one yourself.",
+  "version": "1.0.1",
+  "author": {
+    "name": "cowtamer"
+  },
+  "homepage": "https://github.com/jaswirraghoe/automatic-website-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cowtamer/automatic-website-builder"
+}

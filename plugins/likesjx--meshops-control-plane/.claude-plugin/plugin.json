@@ -1,0 +1,10 @@
+{
+  "name": "likesjx--meshops-control-plane",
+  "description": "MeshOps distributed coordination mesh for OpenClaw gateways: ring-of-trust admission, CRDT-synced state, capability-contract routing, and governed delegation. Named for the ansible from Ender's Game, not the infrastructure tool.",
+  "version": "0.1.7",
+  "author": {
+    "name": "likesjx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/likesjx/meshops-control-plane",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/likesjx/meshops-control-plane"
+}

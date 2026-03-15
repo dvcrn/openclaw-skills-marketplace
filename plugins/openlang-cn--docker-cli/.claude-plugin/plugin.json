@@ -1,0 +1,10 @@
+{
+  "name": "openlang-cn--docker-cli",
+  "description": "Helper for using the Docker CLI to build, run, stop, inspect, and manage containers and images. Use when the user wants to perform container-related tasks from the command line, such as building images, running services, cleaning up resources, or checking logs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "openlang-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/docker-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/docker-cli"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wangyaok1--tokflow",
+  "description": "Token 消耗监控与优化分析工具。查询 LLM 模型用量、费用、各渠道余额、提问方式分析与优化建议。当用户询问 token 消耗、模型费用、优化建议、渠道余额、提问方式优化等问题时使用此技能。",
+  "version": "0.5.0",
+  "author": {
+    "name": "wangyaok1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyaok1/tokflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyaok1/tokflow"
+}

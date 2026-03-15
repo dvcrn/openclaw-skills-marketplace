@@ -1,0 +1,10 @@
+{
+  "name": "harrierdb--cmc-kline-data-collector",
+  "description": "从 CoinMarketCap 获取加密货币 K 线历史数据，自动计算 EMA7、EMA30、RSI14 等技术指标，支持 JSON/CSV 格式输出",
+  "version": "1.0.0",
+  "author": {
+    "name": "harrierdb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harrierdb/cmc-kline-data-collector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harrierdb/cmc-kline-data-collector"
+}

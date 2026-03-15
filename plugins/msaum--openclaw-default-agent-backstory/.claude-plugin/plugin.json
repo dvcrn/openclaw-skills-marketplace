@@ -1,0 +1,10 @@
+{
+  "name": "msaum--openclaw-default-agent-backstory",
+  "description": "Build, bootstrap, and maintain a stable OpenClaw default agent identity by interviewing the user, updating IDENTITY.md, and seeding core context files (AGENTS.md, SOUL.md, TOOLS.md, USER.md, HEARTBEAT.md, BOOTSTRAP.md). Use when users want to create a new agent baseline, onboard a fresh workspace, or refine long-term personality and behavior.",
+  "version": "1.0.0",
+  "author": {
+    "name": "msaum"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/msaum/openclaw-default-agent-backstory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/msaum/openclaw-default-agent-backstory"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cuba6112--tmux-agents",
+  "description": "Manage background coding agents in tmux sessions. Spawn Claude Code or other agents, check progress, get results.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cuba6112"
+  },
+  "homepage": "https://clawdhub.com/skills/tmux-agents",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cuba6112/tmux-agents"
+}

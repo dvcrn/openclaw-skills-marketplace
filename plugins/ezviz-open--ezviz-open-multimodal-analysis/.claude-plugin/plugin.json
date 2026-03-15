@@ -1,0 +1,10 @@
+{
+  "name": "ezviz-open--ezviz-open-multimodal-analysis",
+  "description": "萤石多模态理解技能。通过设备抓图 + 智能体分析接口，实现对摄像头画面的 AI 理解分析。Use when: 需要对监控画面进行智能分析、场景识别、行为理解、物体检测等多模态 AI 分析任务。",
+  "version": "1.0.0",
+  "author": {
+    "name": "ezviz-open"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ezviz-open/ezviz-open-multimodal-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ezviz-open/ezviz-open-multimodal-analysis"
+}

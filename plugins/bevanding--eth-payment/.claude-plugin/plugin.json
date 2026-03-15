@@ -1,0 +1,10 @@
+{
+  "name": "bevanding--eth-payment",
+  "description": "Generate EIP-681 Ethereum payment links and QR codes for any EVM chain. Zero configuration, instant setup for receiving ETH and ERC-20 payments. Use when you need to create payment requests, invoices, donation links, or any on-chain payment request. Supports Base, Ethereum, Arbitrum, Optimism, Polygon.",
+  "version": "1.0.1",
+  "author": {
+    "name": "bevanding"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bevanding/eth-payment",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bevanding/eth-payment"
+}

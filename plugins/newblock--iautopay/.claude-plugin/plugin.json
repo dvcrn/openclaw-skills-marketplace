@@ -1,0 +1,10 @@
+{
+  "name": "newblock--iautopay",
+  "description": "Purchase API keys from iAutoPay Fact API using USDC on Base chain. Use this skill when:\n - Buying API keys for AI agent payment services\n - Managing API key subscriptions (1/7/30 days)\n - Checking user account information and usage statistics\n - Checking server information and pricing\n - Integrating crypto payments for API access",
+  "version": "0.1.1",
+  "author": {
+    "name": "newblock"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/newblock/iautopay",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/newblock/iautopay"
+}

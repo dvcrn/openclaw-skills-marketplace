@@ -1,0 +1,10 @@
+{
+  "name": "klemenska--twitter-x-api",
+  "description": "X/Twitter messaging management via API. Read tweets, post tweets, reply, send DMs, search, and view analytics. Use when the user wants to interact with X/Twitter: (1) posting or scheduling tweets, (2) reading timeline/mentions/DMs, (3) replying to tweets, (4) searching tweets/users/hashtags, (5) checking engagement analytics. Requires Twitter API credentials (API key, API secret, access token, access secret) or Bearer token.",
+  "version": "1.0.0",
+  "author": {
+    "name": "klemenska"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/klemenska/twitter-x-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/klemenska/twitter-x-api"
+}

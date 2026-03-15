@@ -1,0 +1,10 @@
+{
+  "name": "warm-wm--volcengine-web-search",
+  "description": "Using volcengine web_search.py script to search web and get the result, prepare clear and specific `query`.Run the script `python scripts/web_search.py \"query\"`. Organize the answer based on the returned summary list, do not add or guess content.",
+  "version": "1.0.0",
+  "author": {
+    "name": "warm-wm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/warm-wm/volcengine-web-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/warm-wm/volcengine-web-search"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zeroaddresss--usdc-escrow",
+  "description": "Trustless USDC escrow for agent-to-agent payments on Base. Create, release, dispute escrows via simple commands.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zeroaddresss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zeroaddresss/usdc-escrow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zeroaddresss/usdc-escrow"
+}

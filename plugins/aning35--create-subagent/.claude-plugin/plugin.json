@@ -1,0 +1,10 @@
+{
+  "name": "aning35--create-subagent",
+  "description": "创建和管理 SubAgent（子智能体）。使用当用户需要：(1) 创建新的 SubAgent 执行特定任务，(2) 查看/管理已有的 SubAgent，(3) 终止或指导 SubAgent。支持多种预设类型：开发、研究、写作、数据分析等。",
+  "version": "1.0.1",
+  "author": {
+    "name": "aning35"
+  },
+  "homepage": "https://clawhub.ai/skills/create-subagent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aning35/create-subagent"
+}

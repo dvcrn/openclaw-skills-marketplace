@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--dataforseo",
+  "description": "Search Google and gather SEO data using the DataForSEO API. Supports SERP results, keyword data, backlinks, and on-page analysis. Use when you need high-volume Google searches (bulk lead generation), keyword research, rank tracking, or detailed SERP data at scale. Pay-as-you-go pricing with no monthly commitment. Requires DATAFORSEO_LOGIN and DATAFORSEO_PASSWORD.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/dataforseo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/dataforseo"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "greason--trongrid-block-info",
+  "description": "Query and analyze TRON blocks including producer info, transaction breakdown, rewards, burns, and network load. Use when a user asks about a specific block, latest block, block height, block rewards, block producer, transaction count, or network status. Supports single block lookup, block ranges, confirmed blocks, and multi-block trend analysis.",
+  "version": "1.0.1",
+  "author": {
+    "name": "greason"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/greason/trongrid-block-info",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/greason/trongrid-block-info"
+}

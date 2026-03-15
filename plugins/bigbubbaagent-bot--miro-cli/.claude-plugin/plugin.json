@@ -1,0 +1,10 @@
+{
+  "name": "bigbubbaagent-bot--miro-cli",
+  "description": "Miro CLI tool for board/team/org management via command line. Use when querying boards, exporting data, viewing teams/organizations, or automating Miro workflows from the terminal.",
+  "version": "1.0.5",
+  "author": {
+    "name": "bigbubbaagent-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bigbubbaagent-bot/miro-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bigbubbaagent-bot/miro-cli"
+}

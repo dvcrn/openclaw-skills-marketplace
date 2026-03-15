@@ -1,0 +1,10 @@
+{
+  "name": "azfliao--weibo-publisher",
+  "description": "Publish posts to Weibo (Sina Weibo) using browser automation. Use when the user wants to post content to Weibo, share updates on Weibo, publish microblogs, or automate Weibo posting. Supports text posts with emoji, hashtags, and mentions. No API key required - uses browser automation with managed browser profile.",
+  "version": "2.0.0",
+  "author": {
+    "name": "azfliao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/azfliao/weibo-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/azfliao/weibo-publisher"
+}

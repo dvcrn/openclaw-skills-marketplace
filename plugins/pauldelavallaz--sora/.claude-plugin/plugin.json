@@ -1,0 +1,10 @@
+{
+  "name": "pauldelavallaz--sora",
+  "description": "Generate videos from text prompts or reference images using OpenAI Sora.\n \n ✅ USE WHEN:\n - Need AI-generated video from text description\n - Want image-to-video (animate a still image)\n - Creating cinematic/artistic video content\n - Need motion/animation without lip-sync\n \n ❌ DON'T USE WHEN:\n - Need lip-sync (person speaking) → use veed-ugc or ugc-manual\n - Just need image generation → use nano-banana-pro or morpheus\n - Editing existing videos → use Remotion\n - Need UGC-style talking head → use veed-ugc\n \n INPUT: Text prompt + optional reference image\n OUTPUT: MP4 video (various resolutions/durations)",
+  "version": "1.0.1",
+  "author": {
+    "name": "pauldelavallaz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/sora",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/sora"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "rmorse--ghapp",
+  "description": "Give your AI agents and automations their own GitHub (App) identity. Authenticate using GitHub Apps so every commit, PR, and action is attributed to the bot — not your personal account.",
+  "version": "0.1.5",
+  "author": {
+    "name": "rmorse"
+  },
+  "homepage": "https://github.com/operator-kit/ghapp-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rmorse/ghapp"
+}

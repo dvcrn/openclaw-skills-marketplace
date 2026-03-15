@@ -1,0 +1,10 @@
+{
+  "name": "russellfei--class-seven",
+  "description": "Multi-agent development team workflow skill. Use when coordinating complex development tasks requiring multiple specialized roles - PM, Architect, Developer, Tester, Debugger. Orchestrates sub-agents as a development team with main session as manager. Supports flexible tool selection (Claude Code, Kimi, native tools) based on task characteristics.",
+  "version": "1.0.0",
+  "author": {
+    "name": "russellfei"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/russellfei/class-seven",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/russellfei/class-seven"
+}

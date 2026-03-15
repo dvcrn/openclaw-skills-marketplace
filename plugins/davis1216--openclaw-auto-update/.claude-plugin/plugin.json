@@ -1,0 +1,10 @@
+{
+  "name": "davis1216--openclaw-auto-update",
+  "description": "OpenClaw 版本升级评估与执行技能。工作流程：(1) 检测 agent-reach 可用性（无则引导安装），(2) 检查 GitHub releases 获取最新稳定版，(3) 对比当前版本判断是否需要更新，(4) 分析版本差距和更新日志，(5) 检查 GitHub issues 评估风险，(6) 综合评估打分并给出升级建议，(7) 备份用户配置（防止冲突），(8) 检测安装方式执行对应更新命令，(9) 自动重启 gateway，(10) 提供恢复功能。Use when 用户要求检查 OpenClaw 更新、评估是否升级、或执行版本更新。支持中英双语。",
+  "version": "1.0.1",
+  "author": {
+    "name": "davis1216"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/davis1216/openclaw-auto-update",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davis1216/openclaw-auto-update"
+}

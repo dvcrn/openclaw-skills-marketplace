@@ -1,0 +1,10 @@
+{
+  "name": "leonthepro2012--file-summary-zongjie",
+  "description": "local document summary & analysis tool. \n triggers: \n 帮我总结, 总结文件, 分析文档, 分析总结, 总结一下, 分析一下\n summarize for me, analyze for me, summarize the file, analyze the document, file summary, document analysis\n Supported formats: txt, docx, pdf, xlsx, xls\n ⚠️ Privacy Note: Extracted content will be sent to OpenClaw LLM for summary/analysis — DO NOT use with sensitive/confidential files.",
+  "version": "1.0.4",
+  "author": {
+    "name": "leonthepro2012"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leonthepro2012/file-summary-zongjie",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leonthepro2012/file-summary-zongjie"
+}

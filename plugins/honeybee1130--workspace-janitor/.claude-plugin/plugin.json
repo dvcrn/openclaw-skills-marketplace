@@ -1,0 +1,10 @@
+{
+  "name": "honeybee1130--workspace-janitor",
+  "description": "Maintenance and cleanup agent. Keeps the workspace healthy — memory consolidation, doc drift fixes, stale data cleanup, and repo organization. Use when: (1) memory files need consolidation (daily notes → MEMORY.md), (2) research files have stale leads or outdated info, (3) workspace needs organization — orphaned files, messy dirs, (4) docs are out of sync with reality (HEARTBEAT.md, TOOLS.md, agent configs), (5) scheduled maintenance runs (weekly deep clean). NOT for: creating content (use scribe), researching (use scout), reviewing quality (use checker), generating images (use pixel). Janitor MAINTAINS, doesn't create or review. Don't use for urgent tasks — Janitor handles background hygiene. Outputs: maintenance logs saved to artifacts/janitor/.",
+  "version": "1.0.0",
+  "author": {
+    "name": "honeybee1130"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/honeybee1130/workspace-janitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/honeybee1130/workspace-janitor"
+}

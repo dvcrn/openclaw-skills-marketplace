@@ -1,0 +1,10 @@
+{
+  "name": "g1mb01d--mealie",
+  "description": "Interact with a self‑hosted Mealie instance (recipe manager & meal planner) via its REST API. Use for adding, updating, retrieving recipes, meal plans and generating shopping lists. Trigger when the user mentions their Mealie URL, wants to import a recipe, create a meal plan or fetch a shopping list.",
+  "version": "1.0.0",
+  "author": {
+    "name": "g1mb01d"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/g1mb01d/mealie",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/g1mb01d/mealie"
+}

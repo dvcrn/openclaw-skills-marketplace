@@ -1,0 +1,10 @@
+{
+  "name": "justinhartbiz--gedcom-explorer",
+  "description": "Generate an interactive family tree dashboard from any GEDCOM (.ged) file. Creates a single-file HTML app with 5 tabs (Dashboard, Family Tree, People, Timeline, Daily Alerts), search, person modals, charts, and \"On This Day\" events. Use when asked to visualize genealogy data, explore family history, build a family tree viewer, or work with GEDCOM files. Triggers on \"family tree\", \"genealogy\", \"GEDCOM\", \"ancestors\", \"family explorer\", \"family history dashboard\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "justinhartbiz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/justinhartbiz/gedcom-explorer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/justinhartbiz/gedcom-explorer"
+}

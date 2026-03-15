@@ -1,0 +1,10 @@
+{
+  "name": "ikaros-521--pyautogui",
+  "description": "Cross-platform mouse/keyboard automation skill. Supports mouse control (move/click/drag/scroll), keyboard control (key press/hotkeys/type text), screen operations (screenshots/mouse position/screen size), image utilities (metadata/crop), screen overlay markers, drawing markers on images, image locating (template matching + OCR), and file cleanup to free disk space. Activate when the user needs UI automation, screenshots, coordinate verification, image analysis/annotation, on-screen element locating, or cleanup.",
+  "version": "1.2.0",
+  "author": {
+    "name": "ikaros-521"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ikaros-521/pyautogui",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ikaros-521/pyautogui"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "iamkalio--github-chat-ops",
+  "description": "Manage a single GitHub repository via chat for non-technical requesters—after they share the repo URL and a temporary personal token, pull status, summarize who did what and when, and create/follow up on issues directly through the GitHub API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "iamkalio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iamkalio/github-chat-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iamkalio/github-chat-ops"
+}

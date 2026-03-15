@@ -1,0 +1,10 @@
+{
+  "name": "flyingtimes--mailme-x-news",
+  "description": "抓取 X/Twitter 帖子，通过 AI 翻译成中文，并发送邮件。完全通过技能控制，无需额外脚本。",
+  "version": "1.6.1",
+  "author": {
+    "name": "flyingtimes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/flyingtimes/mailme-x-news",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/flyingtimes/mailme-x-news"
+}

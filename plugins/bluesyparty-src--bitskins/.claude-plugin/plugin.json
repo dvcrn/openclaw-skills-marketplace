@@ -1,0 +1,10 @@
+{
+  "name": "bluesyparty-src--bitskins",
+  "description": "Interacts with the BitSkins REST API V2 and WebSocket API for CS2/Dota 2 skin trading. Supports account management, market search, buying, selling, listing, delisting, relisting, price updates, Steam inventory/deposits/trades, wallet operations, and real-time WebSocket subscriptions. Use when the user wants to search for skins, check prices, buy or sell items, manage their BitSkins account, check balances, or interact with the BitSkins marketplace.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bluesyparty-src"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bluesyparty-src/bitskins",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bluesyparty-src/bitskins"
+}

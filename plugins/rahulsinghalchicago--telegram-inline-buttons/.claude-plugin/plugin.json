@@ -1,0 +1,10 @@
+{
+  "name": "rahulsinghalchicago--telegram-inline-buttons",
+  "description": "Use inline buttons when communicating with Rahul on Telegram (message tool) to reduce typing and force crisp decisions. Trigger when drafting Telegram messages that ask for confirmation, choices (A/B, Y/N), scheduling, approvals, or next-step selection; also when the user asks to \"use inline buttons\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "rahulsinghalchicago"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rahulsinghalchicago/telegram-inline-buttons",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rahulsinghalchicago/telegram-inline-buttons"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wpank--setup-dca",
+  "description": "Set up a non-custodial dollar-cost averaging strategy on Uniswap. Use when user wants to create recurring swaps, auto-buy ETH/BTC/SOL with USDC on a schedule, or build a DCA bot. Covers USDC approval, swap path selection, frequency configuration, Gelato keeper automation, and monitoring. Works on local testnet for development or mainnet for production.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/setup-dca",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/setup-dca"
+}

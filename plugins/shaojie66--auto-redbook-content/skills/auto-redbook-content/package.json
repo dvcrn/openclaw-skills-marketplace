@@ -1,0 +1,89 @@
+{
+  "name": "auto-redbook-content",
+  "version": "2.1.1",
+  "description": "小红书内容抓取与改写工具，支持图片识别和 OCR，输出本地 JSON 文件",
+  "main": "scripts/fetch.js",
+  "scripts": {
+    "test": "node scripts/fetch.js 3"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "xiaohongshu",
+    "redbook",
+    "content",
+    "automation",
+    "image-recognition",
+    "ocr",
+    "rewrite"
+  ],
+  "author": "OpenClaw Community",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "17.3.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "openclaw": {
+    "type": "skill",
+    "triggers": [
+      "抓取小红书笔记",
+      "自动生成小红书内容",
+      "运行 auto-redbook-content",
+      "执行小红书内容流程"
+    ],
+    "permissions": [
+      "exec:mcporter",
+      "exec:moltshell-vision",
+      "exec:image-ocr",
+      "exec:openclaw",
+      "fs:read:.env",
+      "fs:write:output",
+      "fs:write:/tmp/xhs-images",
+      "network:https"
+    ],
+    "env": {
+      "REWRITE_MODE": {
+        "required": false,
+        "default": "direct",
+        "description": "改写模式：direct（由 agent 直接处理）或 agent（调用其他 agent）"
+      },
+      "AGENT_ID": {
+        "required": false,
+        "description": "Agent ID（agent 模式时必需，如 libu）"
+      },
+      "XHS_MAX_RESULTS": {
+        "required": false,
+        "default": "3",
+        "description": "每次抓取的笔记数量（1-100）"
+      },
+      "FEISHU_APP_TOKEN": {
+        "required": false,
+        "description": "飞书多维表格 app_token（如需写入飞书）",
+        "sensitive": true
+      },
+      "FEISHU_TABLE_ID": {
+        "required": false,
+        "description": "飞书多维表格 table_id（如需写入飞书）"
+      }
+    },
+    "dependencies": {
+      "tools": [
+        "mcporter (xiaohongshu MCP)",
+        "moltshell-vision",
+        "image-ocr",
+        "openclaw (feishu-bitable)"
+      ],
+      "external": [
+        "tesseract-ocr"
+      ],
+      "optional": {
+        "agent_mode": [
+          "sessions_spawn",
+          "其他 agent（如 libu）"
+        ]
+      }
+    }
+  }
+}

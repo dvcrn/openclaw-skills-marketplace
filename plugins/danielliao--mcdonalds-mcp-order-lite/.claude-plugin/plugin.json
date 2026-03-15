@@ -1,0 +1,10 @@
+{
+  "name": "danielliao--mcdonalds-mcp-order-lite",
+  "description": "Place McDonald's China delivery orders through the official MCP server at https://mcp.mcd.cn using a Bearer MCP token over Streamable HTTP / JSON-RPC. Use when the user wants to browse McDonald's deliverable addresses, query store menu items, inspect meal details, calculate price, create a delivery order, query order status, or check McDonald's coupons/points. Also use when wiring this MCP into a client like Cursor, Cherry Studio, Trae, or another agent. This lite package intentionally contains no embedded token and only the core reusable files.",
+  "version": "1.0.0",
+  "author": {
+    "name": "danielliao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danielliao/mcdonalds-mcp-order-lite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danielliao/mcdonalds-mcp-order-lite"
+}

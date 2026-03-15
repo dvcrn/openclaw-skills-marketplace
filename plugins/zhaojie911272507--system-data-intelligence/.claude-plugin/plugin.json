@@ -1,0 +1,10 @@
+{
+  "name": "zhaojie911272507--system-data-intelligence",
+  "description": "专为文件操作、数据分析、可视化、数据库连接、API 接入和敏感数据处理设计的系统级 Agent Skill。 【强制触发场景】： - 用户提及任何文件操作：Excel / WPS / Word / TXT / Markdown / RTZ / CSV / JSON - 「分析」「读取」「提取」「处理」「建模」「预测」「异常检测」 - 「生成图表」「可视化」「做仪表盘」「出报告」 - 「连数据库」「查 SQL」「查 MySQL / PostgreSQL」 - 「调 API」「从接口拉数据」「爬接口」 - 「脱敏」「敏感数据」「隐私处理」「数据安全」 【核心能力】：文件操作（自动降级）× 深度分析 × 专业可视化 × 数据库 × API × 安全脱敏 IMPORTANT: 只要涉及上述任一场景，必须使用此 skill，不得因\"任务简单\"而跳过。",
+  "version": "1.0.3",
+  "author": {
+    "name": "zhaojie911272507"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhaojie911272507/system-data-intelligence",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhaojie911272507/system-data-intelligence"
+}

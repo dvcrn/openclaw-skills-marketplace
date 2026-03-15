@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--vinrecognition",
+  "description": "使用极速数据 VIN 识别 API，对车辆挡风玻璃或行驶证上的车架号图片进行识别，返回 VIN 及品牌、厂家信息。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/vinrecognition",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/vinrecognition"
+}

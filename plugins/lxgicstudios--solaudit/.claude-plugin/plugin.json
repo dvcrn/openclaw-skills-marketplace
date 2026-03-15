@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--solaudit",
+  "description": "Solidity smart contract security auditor. Detect reentrancy, overflow, access control issues. 50+ vulnerability patterns. CI/CD ready. Free CLI tool.",
+  "version": "0.1.1",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/solaudit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/solaudit"
+}

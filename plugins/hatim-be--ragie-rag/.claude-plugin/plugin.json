@@ -1,0 +1,10 @@
+{
+  "name": "hatim-be--ragie-rag",
+  "description": "Execute Retrieval-Augmented Generation (RAG) using Ragie.ai.\n Use this skill whenever the user wants to:\n - Search their knowledge base\n - Ask questions about uploaded documents\n - Upload documents to Ragie\n - Retrieve context from Ragie\n - Perform grounded answering using stored documents\n - List, check status, or delete Ragie documents\n\n This skill manages the full Ragie.ai API lifecycle including ingestion,\n retrieval, and grounded answer construction.",
+  "version": "1.0.2",
+  "author": {
+    "name": "hatim-be"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hatim-be/ragie-rag",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hatim-be/ragie-rag"
+}

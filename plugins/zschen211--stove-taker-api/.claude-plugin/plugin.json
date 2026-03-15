@@ -1,0 +1,10 @@
+{
+  "name": "zschen211--stove-taker-api",
+  "description": "使用 Stove Protocol 的 Taker API 进行锁单、成交、撤单响应以及成交记录与订单查询，基于 API Key 认证访问。",
+  "version": "0.1.0",
+  "author": {
+    "name": "zschen211"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zschen211/stove-taker-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zschen211/stove-taker-api"
+}

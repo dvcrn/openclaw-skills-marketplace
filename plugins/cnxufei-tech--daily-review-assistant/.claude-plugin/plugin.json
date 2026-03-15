@@ -1,0 +1,10 @@
+{
+  "name": "cnxufei-tech--daily-review-assistant",
+  "description": "Generate A-share daily review report (stock-analysis/daily_review.py). Supports --email.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cnxufei-tech"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cnxufei-tech/daily-review-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cnxufei-tech/daily-review-assistant"
+}

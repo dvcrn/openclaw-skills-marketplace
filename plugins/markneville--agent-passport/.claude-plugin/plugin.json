@@ -1,0 +1,10 @@
+{
+  "name": "markneville--agent-passport",
+  "description": "OAuth for the agentic era. Consent-gating for ALL sensitive agent actions. 75+ data-driven threat definitions with auto-updates (like antivirus signatures). Includes Skill Scanner, Injection Shield, SSRF Shield, Path Traversal Guard, spending caps, rate limits, allowlists, TTL expiry, audit trails, and KYA metadata. Pro tier adds real-time threat definition updates every 6 hours.",
+  "version": "2.4.2",
+  "author": {
+    "name": "markneville"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/markneville/agent-passport",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/markneville/agent-passport"
+}

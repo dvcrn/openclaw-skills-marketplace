@@ -1,0 +1,10 @@
+{
+  "name": "thiagoruss0--transcribeexx",
+  "description": "Transcribe YouTube videos and local audio/video files with speaker diarization. Use when user asks to transcribe a YouTube URL, podcast, video, or audio file. Outputs clean speaker-labeled transcripts ready for LLM analysis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "thiagoruss0"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thiagoruss0/transcribeexx",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thiagoruss0/transcribeexx"
+}

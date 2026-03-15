@@ -1,0 +1,10 @@
+{
+  "name": "kingmadellc--prediction-stack-setup",
+  "description": "Interactive setup wizard for the OpenClaw Prediction Market Trading Stack. Detects installed skills, walks through API key configuration, creates cron jobs for automated scanning and alerts, enables heartbeat for ambient awareness, and tests iMessage delivery. Turns 8 standalone skills into a connected, proactive trading system in under 5 minutes. Run this after installing the stack — or anytime you need to reconfigure schedules, delivery targets, or alert thresholds.",
+  "version": "1.0.1",
+  "author": {
+    "name": "kingmadellc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/prediction-stack-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/prediction-stack-setup"
+}

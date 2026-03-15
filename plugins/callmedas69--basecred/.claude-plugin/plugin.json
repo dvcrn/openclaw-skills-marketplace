@@ -1,0 +1,10 @@
+{
+  "name": "callmedas69--basecred",
+  "description": "Fetch onchain reputation profiles via BaseCred SDK (Ethos, Talent Protocol, Farcaster/Neynar). Use when the user wants to check wallet reputation, builder score, creator score, Ethos credibility, or Farcaster account quality for any 0x address. Supports multi-source unified profiles with level derivation and recency tracking.",
+  "version": "1.0.0",
+  "author": {
+    "name": "callmedas69"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/callmedas69/basecred",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/callmedas69/basecred"
+}

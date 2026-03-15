@@ -1,0 +1,45 @@
+{
+  "ocr": {
+    "engine": "tesseract",
+    "languages": ["chi_sim", "eng"],
+    "fallback_to_ai": true,
+    "config": "--psm 6 --oem 3",
+    "timeout": 30
+  },
+  "preprocessing": {
+    "block_height": 2000,
+    "overlap_height": 100,
+    "min_block_height": 500,
+    "contrast_enhancement": 1.5,
+    "binary_threshold": 150
+  },
+  "structure_detection": {
+    "detect_headers": true,
+    "detect_lists": true,
+    "detect_code_blocks": true,
+    "detect_tables": true,
+    "header_patterns": [
+      "^\\d+\\.?\\s",
+      "^[一二三四五六七八九十]+、",
+      "^[A-Z]{2,}"
+    ]
+  },
+  "output": {
+    "format": "markdown",
+    "add_toc": true,
+    "add_metadata": true,
+    "preserve_formatting": true
+  },
+  "knowledge_base": {
+    "auto_index": true,
+    "auto_commit": false,
+    "default_category": "uncategorized",
+    "template_dir": "data/templates"
+  },
+  "performance": {
+    "parallel_processing": true,
+    "max_workers": 4,
+    "cache_enabled": true,
+    "cache_ttl": 3600
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "steffano198--goalgetter",
+  "description": "Tasks and goals management via simple markdown files. Create, track, and complete tasks and goals with streak tracking. Stores data in ~/.openclaw/goalgetter/. Triggers: 'add task', 'new goal', 'task done', 'show tasks', 'goal streak', 'complete task'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "steffano198"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/steffano198/goalgetter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steffano198/goalgetter"
+}

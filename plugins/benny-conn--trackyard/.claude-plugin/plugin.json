@@ -1,0 +1,10 @@
+{
+  "name": "benny-conn--trackyard",
+  "description": "Search and download licensed music from Trackyard's AI-powered catalog. Use for finding background music for videos, social content, podcasts, or any project needing royalty-free tracks. Supports natural language search (\"upbeat electronic for tech video\"), smart audio trimming to exact durations with hit-point alignment, and filtering by genre, mood, BPM, vocals, energy, and instruments.",
+  "version": "1.0.2",
+  "author": {
+    "name": "benny-conn"
+  },
+  "homepage": "https://trackyard.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/benny-conn/trackyard"
+}

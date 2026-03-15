@@ -1,0 +1,10 @@
+{
+  "name": "kassimisai--n8n-builder",
+  "description": "Expert n8n workflow builder that creates, deploys, and manages n8n workflows programmatically via the n8n REST API. Use when asked to create n8n workflows, automate n8n tasks, build automations, design workflow pipelines, connect services via n8n, or manage existing n8n workflows. Handles webhook flows, scheduled tasks, AI agents, database syncs, conditional logic, error handling, and any n8n node configuration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kassimisai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kassimisai/n8n-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kassimisai/n8n-builder"
+}

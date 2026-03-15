@@ -1,0 +1,10 @@
+{
+  "name": "siatrial--apple-serial-lookup",
+  "description": "Look up Apple device information from a serial number. Supports iPhones, iPads, Macs (MacBook, iMac, Mac mini, Mac Pro, Mac Studio), Apple Watch, Apple TV, and iPods. Use when a user provides an Apple serial number and wants to identify the device, check specs, manufacturing date/location, warranty status, or get detailed model information.",
+  "version": "1.0.0",
+  "author": {
+    "name": "siatrial"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/siatrial/apple-serial-lookup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/siatrial/apple-serial-lookup"
+}

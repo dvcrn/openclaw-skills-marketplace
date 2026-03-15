@@ -1,0 +1,10 @@
+{
+  "name": "sabaaziz991-hash--veridicusscan-mcp-analyst",
+  "description": "Use when the user wants to scan text, files, or URLs for prompt-injection and hidden-instruction risks with VeridicusScan through its MCP bridge, triage findings, review coverage or partial-scan notes, export or summarize reports, or run runtime-defense flows such as memory ingestion, selective disclosure, tool scoping, plan guarding, and action gating.",
+  "version": "0.1.2",
+  "author": {
+    "name": "sabaaziz991-hash"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sabaaziz991-hash/veridicusscan-mcp-analyst",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sabaaziz991-hash/veridicusscan-mcp-analyst"
+}

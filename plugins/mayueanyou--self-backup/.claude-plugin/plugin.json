@@ -1,0 +1,10 @@
+{
+  "name": "mayueanyou--self-backup",
+  "description": "Backup important OpenClaw workspace files to a GitHub repository. Use when: (1) user wants to backup workspace configuration, (2) sync OpenClaw settings to GitHub, (3) preserve automation scripts and personal configuration, (4) create remote backup of AGENTS.md, SOUL.md, MEMORY.md, and other workspace files. Configurable for any GitHub repository.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mayueanyou"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mayueanyou/self-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mayueanyou/self-backup"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "tuleyko--m44-internal-testing",
+  "description": "Install and set up DataHive in a deterministic headless-friendly flow: (1) check/install browser (Chrome or Chromium), (2) check/create DataHive browser profile, (3) check Gog mailbox access, (4) install DataHive extension via CRX only (never Chrome Web Store UI), (5) login via email magic link and verify both dashboard and extension are logged in. Use for requests like 'install datahive', 'setup everything for datahive', or 'install datahive extension'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tuleyko"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tuleyko/m44-internal-testing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tuleyko/m44-internal-testing"
+}

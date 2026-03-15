@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--grafana-api",
+  "description": "Grafana API integration with managed authentication. Manage dashboards, data sources, folders, annotations, alerts, and teams.\n Use this skill when users want to interact with Grafana for monitoring, visualization, and observability.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/grafana-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/grafana-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jhinresh--maiat-trust-api",
+  "description": "Build integrations with Maiat Protocol — the universal trust layer for onchain entities. Use this skill when: writing code that queries Maiat trust scores, integrating trust-gated swaps, submitting reviews, staking in markets, or building on top of the Maiat API. Covers API usage, SDK, contract addresses, and coding conventions.",
+  "version": "1.2.0",
+  "author": {
+    "name": "jhinresh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jhinresh/maiat-trust-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jhinresh/maiat-trust-api"
+}

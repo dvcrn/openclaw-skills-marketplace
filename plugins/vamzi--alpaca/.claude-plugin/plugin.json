@@ -1,0 +1,10 @@
+{
+  "name": "vamzi--alpaca",
+  "description": "Trade stocks and crypto via Alpaca API. Use for market data (quotes, bars, news), placing orders (market, limit, stop), checking positions, portfolio management, and account info. Supports both paper and live trading. Use when user asks about stock prices, wants to buy/sell securities, check portfolio, or manage trades.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vamzi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vamzi/alpaca",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vamzi/alpaca"
+}

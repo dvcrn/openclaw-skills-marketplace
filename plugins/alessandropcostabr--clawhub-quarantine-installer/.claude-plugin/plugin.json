@@ -1,0 +1,10 @@
+{
+  "name": "alessandropcostabr--clawhub-quarantine-installer",
+  "description": "Instala e audita skills do ClawHub em um ambiente de quarentena isolado para análise de segurança, permitindo revisar riscos antes de promover para produção. Use esta skill para testar habilidades de terceiros que o ClawHub sinaliza como suspeitas, investigar suas dependências e comportamento, e gerar relatórios de auditoria básicos.",
+  "version": "1.0.3",
+  "author": {
+    "name": "alessandropcostabr"
+  },
+  "homepage": "https://github.com/alessandropcostabr/clawhub-quarantine-installer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alessandropcostabr/clawhub-quarantine-installer"
+}

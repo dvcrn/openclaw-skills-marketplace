@@ -1,0 +1,10 @@
+{
+  "name": "sharkwind--ai-news-simple",
+  "description": "Simple AI news briefing using bash commands. Monitors 10 top AI news sources and generates professional Chinese briefings. Use when: (1) generating AI news briefings, (2) monitoring AI industry updates, (3) analyzing AI news sources. NOT for: general web browsing or non-AI content.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sharkwind"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sharkwind/ai-news-simple",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sharkwind/ai-news-simple"
+}

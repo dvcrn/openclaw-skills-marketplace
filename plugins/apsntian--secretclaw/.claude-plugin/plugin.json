@@ -1,0 +1,10 @@
+{
+  "name": "apsntian--secretclaw",
+  "description": "Securely input API keys and sensitive values into OpenClaw without typing them in chat. Uses a local HTTP server + Cloudflare Tunnel to serve an HTTPS form. Use when registering API keys, tokens, passwords, or any sensitive config values.",
+  "version": "1.0.0",
+  "author": {
+    "name": "apsntian"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/apsntian/secretclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/apsntian/secretclaw"
+}

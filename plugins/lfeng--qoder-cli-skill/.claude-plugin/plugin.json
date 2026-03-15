@@ -1,0 +1,10 @@
+{
+  "name": "lfeng--qoder-cli-skill",
+  "description": "Delegate coding tasks to Qoder CLI using Print mode (non-interactive). Use when: (1) building/creating new features or apps, (2) code reviews, (3) refactoring, (4) iterative coding that needs file exploration. Supports subagents, worktrees, MCP servers, quest mode, and hooks. Works in all session types (direct chat, group chat, Discord, etc.). NOT for: simple one-liner fixes (just edit), reading code (use read tool). Requires qodercli installed.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lfeng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lfeng/qoder-cli-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lfeng/qoder-cli-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--tts-2",
+  "description": "Text-to-speech conversion tool. Use when converting text to speech audio files (opus or mp3 format). Supports macOS native 'say' command and Google TTS (gTTS) service with ffmpeg audio conversion.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/tts-2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/tts-2"
+}

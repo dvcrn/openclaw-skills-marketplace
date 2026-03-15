@@ -1,0 +1,10 @@
+{
+  "name": "grimmjoww--ultra-agent-stinct",
+  "description": "Internal debugging and coding skill. Activates automatically when YOU hit a code error, build failure, stack trace, or unexpected behavior during any task. This is your instinct for fixing things — not a user-triggered skill. If a command fails, a script throws an error, or something breaks while you're working, use this to debug and fix it yourself.",
+  "version": "1.2.0",
+  "author": {
+    "name": "grimmjoww"
+  },
+  "homepage": "https://github.com/grimmjoww/ultra-agent-stinct",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/grimmjoww/ultra-agent-stinct"
+}

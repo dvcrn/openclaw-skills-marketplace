@@ -1,0 +1,10 @@
+{
+  "name": "xueyetianya--stripe-manager",
+  "description": "Error: --action required. Use when you need stripe manager capabilities. Triggers on: stripe manager, key, customer-id, amount, currency, desc.",
+  "version": "2.3.0",
+  "author": {
+    "name": "xueyetianya"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xueyetianya/stripe-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xueyetianya/stripe-manager"
+}

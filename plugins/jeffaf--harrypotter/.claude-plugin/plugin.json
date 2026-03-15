@@ -1,0 +1,10 @@
+{
+  "name": "jeffaf--harrypotter",
+  "description": "CLI for AI agents to lookup Harry Potter universe info for their humans. Uses HP-API. No auth required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jeffaf"
+  },
+  "homepage": "https://hp-api.onrender.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeffaf/harrypotter"
+}

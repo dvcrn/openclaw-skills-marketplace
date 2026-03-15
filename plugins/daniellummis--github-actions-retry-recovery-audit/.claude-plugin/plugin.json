@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-retry-recovery-audit",
+  "description": "Audit GitHub Actions runs for fail-then-success retry recovery patterns to quantify flaky rerun waste.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-retry-recovery-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-retry-recovery-audit"
+}

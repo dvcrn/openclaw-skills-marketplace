@@ -1,0 +1,10 @@
+{
+  "name": "lore2601--tper-hellobus-skill",
+  "description": "Get real-time and scheduled bus arrival times for TPER buses in Bologna and Ferrara, Italy. Use this skill whenever the user mentions TPER, bus stop codes (numeric like 4476), bus line numbers (like 11 or 27), or asks about bus arrivals in Bologna or Ferrara. Trigger for queries about when buses arrive, checking bus schedules, or real-time bus tracking.",
+  "version": "0.0.2",
+  "author": {
+    "name": "lore2601"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lore2601/tper-hellobus-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lore2601/tper-hellobus-skill"
+}

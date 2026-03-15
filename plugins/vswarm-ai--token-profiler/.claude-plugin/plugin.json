@@ -1,0 +1,10 @@
+{
+  "name": "vswarm-ai--token-profiler",
+  "description": "One API call replaces CoinGecko + DexScreener + GoPlus + on-chain queries. Enriched token data from 5 sources, clean JSON, under 3 seconds. Free, no key needed.",
+  "version": "1.0.1",
+  "author": {
+    "name": "vswarm-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vswarm-ai/token-profiler",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vswarm-ai/token-profiler"
+}

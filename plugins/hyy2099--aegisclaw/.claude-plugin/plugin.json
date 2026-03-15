@@ -1,0 +1,10 @@
+{
+  "name": "hyy2099--aegisclaw",
+  "description": "Use this skill when the user asks to manage Binance assets, check account security, scan for arbitrage opportunities, or perform automated dust sweeps. Commands: init, check, scan, arbitrage, dust, report, status. Requires BINANCE_API_KEY and BINANCE_API_SECRET environment variables.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hyy2099"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hyy2099/aegisclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hyy2099/aegisclaw"
+}

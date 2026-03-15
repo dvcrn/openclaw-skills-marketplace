@@ -1,0 +1,10 @@
+{
+  "name": "damiencronw--pgvector",
+  "description": "PostgreSQL vector database skill with pgvector extension. Enables vector similarity search, embeddings storage, RAG (Retrieval-Augmented Generation) pipelines, and hybrid search combining vector and keyword search. Use when: storing/retrieving embeddings, building AI applications with vector search, implementing RAG, similarity matching, semantic search, or any use case requiring vector database functionality.",
+  "version": "1.0.0",
+  "author": {
+    "name": "damiencronw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/damiencronw/pgvector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/damiencronw/pgvector"
+}

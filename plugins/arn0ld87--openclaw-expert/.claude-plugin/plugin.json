@@ -1,0 +1,10 @@
+{
+  "name": "arn0ld87--openclaw-expert",
+  "description": "Expert skill for OpenClaw (formerly Clawdbot/MoltBot) — the self-hosted AI agent framework. ALWAYS use when user mentions OpenClaw, Clawdbot, MoltBot, openclaw.json, openclaw gateway, openclaw channels, openclaw nodes, openclaw models, openclaw skills, openclaw doctor, AGENTS.md, SOUL.md, USER.md, HEARTBEAT.md, MEMORY.md, IDENTITY.md, TOOLS.md, BOOTSTRAP.md, ClawHub, clawhub, openclaw workspace, openclaw config, openclaw sessions, openclaw pairing, openclaw docker, openclaw sandbox, openclaw heartbeat, openclaw compaction, memorySearch, multi-agent, bindings, dmPolicy. Covers installation, configuration, troubleshooting, security hardening, channel setup, skill development, memory tuning, Docker deployment. Also trigger for \"my bot\", \"my agent\", \"Lobster\", or agent issues after config changes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "arn0ld87"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arn0ld87/openclaw-expert",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arn0ld87/openclaw-expert"
+}

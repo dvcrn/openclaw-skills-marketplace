@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--ci-flake-triage",
+  "description": "Detect flaky tests from JUnit XML retries and emit a triage report with top unstable cases.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/ci-flake-triage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/ci-flake-triage"
+}

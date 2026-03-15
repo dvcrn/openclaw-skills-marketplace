@@ -1,0 +1,10 @@
+{
+  "name": "reighlan--lead-gen-crm",
+  "description": "End-to-end lead generation and CRM pipeline automation for OpenClaw agents. Discover leads from web searches and directories, enrich with contact data, score and qualify leads, push to CRM (HubSpot, Pipedrive, Zoho), and run automated email outreach sequences with follow-ups. Use when: (1) finding new leads or prospects, (2) enriching lead data with emails and company info, (3) pushing leads to a CRM, (4) setting up email outreach campaigns, (5) scoring or qualifying leads, (6) managing a sales pipeline, or (7) automating follow-up sequences.",
+  "version": "1.0.0",
+  "author": {
+    "name": "reighlan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/reighlan/lead-gen-crm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/reighlan/lead-gen-crm"
+}

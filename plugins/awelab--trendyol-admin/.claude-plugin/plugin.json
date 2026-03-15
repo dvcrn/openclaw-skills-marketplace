@@ -1,0 +1,10 @@
+{
+  "name": "awelab--trendyol-admin",
+  "description": "Comprehensive management of Trendyol marketplace via API v2.0. Includes product lifecycle (create, update, delete, archive), stock/price management, order processing (status updates, shipping), returns, and customer questions. Use this skill as a knowledge base to construct correct API requests.",
+  "version": "1.0.1",
+  "author": {
+    "name": "awelab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/awelab/trendyol-admin",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/awelab/trendyol-admin"
+}

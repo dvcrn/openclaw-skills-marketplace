@@ -1,0 +1,10 @@
+{
+  "name": "oblivisheee--wol-sleep-pc",
+  "description": "Send Wake-on-LAN (magic packet) and Sleep-on-LAN (inverted MAC) packets for a specific PC. Use when the user asks to wake, check, or put the PC to sleep on the local LAN. Defaults are zeroed; configure the target IP, MAC, and inverted MAC via command-line flags or a config file.",
+  "version": "0.1.0",
+  "author": {
+    "name": "oblivisheee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oblivisheee/wol-sleep-pc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oblivisheee/wol-sleep-pc"
+}

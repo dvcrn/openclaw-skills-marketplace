@@ -1,0 +1,10 @@
+{
+  "name": "dokobot--doko",
+  "description": "Read and extract content from any web page using a real Chrome browser — including SPAs, JavaScript-rendered sites, and complex dynamic pages. Use when fetching page content that headless tools can't render, searching the web, or reading fully rendered pages via your own browser.",
+  "version": "1.2.5",
+  "author": {
+    "name": "dokobot"
+  },
+  "homepage": "https://dokobot.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dokobot/doko"
+}

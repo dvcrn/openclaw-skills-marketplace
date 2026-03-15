@@ -1,0 +1,10 @@
+{
+  "name": "mewic--content-news-thai",
+  "description": "Generate news-style social media images (1080x1350) with Thai text overlay and matching captions. Use when asked to create content, make a news post image, generate a headline image with Thai text, or produce a full content set (image + caption) for Facebook/Instagram. Handles Thai fonts (Kanit, Prompt, Sarabun) rendered pixel-perfect via canvas. Triggers on \"ทำ content\", \"ทำรูปข่าว\", \"สร้างรูปโพส\", \"make content\", \"news image\", \"headline image\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "mewic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mewic/content-news-thai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mewic/content-news-thai"
+}

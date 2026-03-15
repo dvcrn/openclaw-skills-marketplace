@@ -1,0 +1,34 @@
+---
+name: mio-companion
+description: "Mio Companion"
+---
+
+# Mio-Companion 技能
+
+> 主动陪伴学习技能 - 学习用户习惯，主动聊天，自动完成任务
+
+## 功能
+
+1. **习惯学习** - 记录用户的作息、偏好、聊天习惯
+2. **主动聊天** - 在空闲时主动发起对话
+3. **任务挖掘** - 从对话中提取待办事项
+4. **时间管理** - 自动安排时间执行任务
+
+## 触发方式
+
+- 心跳触发：每4小时检查一次
+- 定时任务：model-monitor 空闲时
+- 手动触发：用户说"陪我聊天"
+
+## 依赖
+
+- skill: self-improvement (记录学习)
+- skill: cron (定时任务)
+- 飞书消息发送
+
+## 文件
+
+- `index.js` - 主技能代码
+- `habits.json` - 用户习惯数据
+- `todos.json` - 待办事项
+- `schedule.json` - 时间安排

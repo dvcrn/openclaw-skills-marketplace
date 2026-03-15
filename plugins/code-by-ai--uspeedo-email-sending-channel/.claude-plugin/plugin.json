@@ -1,0 +1,10 @@
+{
+  "name": "code-by-ai--uspeedo-email-sending-channel",
+  "description": "Sends email via uSpeedo's sending channel (platform API with verified/parsed domain), not via the user's own mailbox or SMTP. Use when the user asks the Agent to send email. Requires message content (text or HTML), platform keys (ACCESSKEY_ID, ACCESSKEY_SECRET), sender and recipients; user must register on uSpeedo and obtain keys first.",
+  "version": "1.0.2",
+  "author": {
+    "name": "code-by-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/code-by-ai/uspeedo-email-sending-channel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/code-by-ai/uspeedo-email-sending-channel"
+}

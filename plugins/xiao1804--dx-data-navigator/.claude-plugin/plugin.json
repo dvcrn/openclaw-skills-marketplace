@@ -1,0 +1,10 @@
+{
+  "name": "xiao1804--dx-data-navigator",
+  "description": "Query Developer Experience (DX) data via the DX Data MCP server PostgreSQL database. Use this skill when analyzing developer productivity metrics, team performance, PR/code review metrics, deployment frequency, incident data, AI tool adoption, survey responses, DORA metrics, or any engineering analytics. Triggers on questions about DX scores, team comparisons, cycle times, code quality, developer sentiment, AI coding assistant adoption, sprint velocity, or engineering KPIs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiao1804"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiao1804/dx-data-navigator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiao1804/dx-data-navigator"
+}

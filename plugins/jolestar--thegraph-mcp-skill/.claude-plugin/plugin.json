@@ -1,0 +1,10 @@
+{
+  "name": "jolestar--thegraph-mcp-skill",
+  "description": "Use The Graph Subgraph MCP through UXC via native SSE with a fixed linked command for subgraph discovery, schema retrieval, deployment selection, and GraphQL query execution with help-first inspection and explicit auth handling.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jolestar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jolestar/thegraph-mcp-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jolestar/thegraph-mcp-skill"
+}

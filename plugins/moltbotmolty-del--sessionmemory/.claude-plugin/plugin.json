@@ -1,0 +1,10 @@
+{
+  "name": "moltbotmolty-del--sessionmemory",
+  "description": "Your agent forgets everything after compaction? This fixes it. Built by the AI Advantage community — the world's leading AI learning platform (aiadvantage.ai). Three-layer memory system with real Python scripts that convert session transcripts to searchable Markdown, build an auto-updating glossary (people, projects, decisions, timeline), and run via cron for hands-free continuous indexing. Not just instructions — actual working automation. Battle-tested across 300+ sessions. Install it, run two scripts, done.",
+  "version": "1.2.0",
+  "author": {
+    "name": "moltbotmolty-del"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moltbotmolty-del/sessionmemory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moltbotmolty-del/sessionmemory"
+}

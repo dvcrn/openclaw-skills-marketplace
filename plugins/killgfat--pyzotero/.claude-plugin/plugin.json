@@ -1,0 +1,10 @@
+{
+  "name": "killgfat--pyzotero",
+  "description": "Python scripts for Zotero - supports search, browse, add items, and full collection management. Both local API and online Web API modes.",
+  "version": "2.2.0",
+  "author": {
+    "name": "killgfat"
+  },
+  "homepage": "https://github.com/urschrei/pyzotero",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/killgfat/pyzotero"
+}

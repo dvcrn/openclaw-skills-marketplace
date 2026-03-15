@@ -1,0 +1,10 @@
+{
+  "name": "hisxo--withings-health",
+  "description": "Fetches health data from the Withings API including weight, body composition (fat, muscle, bone, water), activity, and sleep. Use this skill when the user asks about their Withings data, weight history, body metrics, daily steps, sleep quality, or any health measurement from Withings devices.",
+  "version": "1.0.1",
+  "author": {
+    "name": "hisxo"
+  },
+  "homepage": "https://developer.withings.com/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hisxo/withings-health"
+}

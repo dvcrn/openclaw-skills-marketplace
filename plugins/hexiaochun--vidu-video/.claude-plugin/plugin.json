@@ -1,0 +1,10 @@
+{
+  "name": "hexiaochun--vidu-video",
+  "description": "使用 Vidu Q3 Pro 模型生成视频。当用户想要文生视频、生成带音频的视频，或提到 vidu 时使用此 skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "hexiaochun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/vidu-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/vidu-video"
+}

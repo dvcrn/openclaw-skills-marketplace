@@ -1,0 +1,10 @@
+{
+  "name": "seanrea--ridb-search",
+  "description": "Search the Recreation Information Database (RIDB) for campgrounds and recreation facilities near a location. Use when finding campgrounds, recreation areas, or federal facilities by location/radius. Supports geocoding (city names) and lat/lon coordinates.",
+  "version": "1.0.0",
+  "author": {
+    "name": "seanrea"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seanrea/ridb-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seanrea/ridb-search"
+}

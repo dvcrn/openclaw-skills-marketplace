@@ -1,0 +1,10 @@
+{
+  "name": "xuyuan0805--xy-pubmed-pdf-downloader",
+  "description": "Download PDFs from PubMed Central (PMC) and Europe PMC. Use when the user needs to download open-access academic papers from PubMed Central using PMC ID, PubMed URL, PMID, or DOI. Supports single download and batch download modes. Created by xuyuan0805.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xuyuan0805"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xuyuan0805/xy-pubmed-pdf-downloader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xuyuan0805/xy-pubmed-pdf-downloader"
+}

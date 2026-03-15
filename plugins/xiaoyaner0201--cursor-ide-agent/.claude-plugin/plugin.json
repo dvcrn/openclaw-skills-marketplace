@@ -1,0 +1,10 @@
+{
+  "name": "xiaoyaner0201--cursor-ide-agent",
+  "description": "Use Cursor Agent for coding tasks via two paths: (1) Local CLI — run Cursor Agent directly from terminal for fast, general-purpose coding in any project; (2) VS Code Node — control a remote Cursor/VS Code IDE through OpenClaw Node protocol for targeted project work with full IDE intelligence. Prefer CLI for speed; use Node when you need IDE features (diagnostics, references, debugging).",
+  "version": "3.0.2",
+  "author": {
+    "name": "xiaoyaner0201"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaoyaner0201/cursor-ide-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaoyaner0201/cursor-ide-agent"
+}

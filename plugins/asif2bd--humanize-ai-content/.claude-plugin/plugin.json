@@ -1,0 +1,10 @@
+{
+  "name": "asif2bd--humanize-ai-content",
+  "description": "Transform AI-generated text into natural, publication-ready writing. Two modes: (1) TEXT MODE — generic humanization using 24 AI pattern detectors, 500+ vocabulary terms, and statistical analysis (burstiness, TTR, readability). Use when asked to humanize text, de-AI writing, or make content sound natural. (2) ARTICLE MODE — full editorial publishing pipeline for blog posts and comparison guides. Adds citation hyperlinks, internal product linking, featured image placement, SEO heading enhancement, FAQ schema, and authority structure preservation. Triggers: humanize text/content, de-AI writing, make content sound human, prepare article for publishing, polish AI blog post, publication-ready content.",
+  "version": "1.0.0",
+  "author": {
+    "name": "asif2bd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/asif2bd/humanize-ai-content",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/asif2bd/humanize-ai-content"
+}

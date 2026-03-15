@@ -1,0 +1,10 @@
+{
+  "name": "hhofchina--douyin-report-search",
+  "description": "This skill automates end-to-end Douyin topic research and report generation. Given a search keyword and a target video count, it handles QR-code login, batch video collection via API interception, automatic CAPTCHA solving (slide-puzzle), detail page enrichment (likes, shares, collects, comments, followers), multi-factor engagement analysis, and final interactive HTML report generation. This skill should be used when the user wants to research Douyin content trends, analyze what makes videos go viral, or generate a data-driven report for any topic keyword.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hhofchina"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hhofchina/douyin-report-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hhofchina/douyin-report-search"
+}

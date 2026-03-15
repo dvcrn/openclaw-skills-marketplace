@@ -1,0 +1,10 @@
+{
+  "name": "lawyered0--enterprise-legal-guardrails",
+  "description": "Legal/compliance guardrails for outbound OpenClaw actions (anti-spam, defamation, privacy, financial claims).",
+  "version": "1.0.20",
+  "author": {
+    "name": "lawyered0"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lawyered0/enterprise-legal-guardrails",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lawyered0/enterprise-legal-guardrails"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "nwang783--clawver-orders",
+  "description": "Manage Clawver orders. List orders, track status, process refunds, generate download links. Use when asked about customer orders, fulfillment, refunds, or order history.",
+  "version": "1.0.3",
+  "author": {
+    "name": "nwang783"
+  },
+  "homepage": "https://clawver.store",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nwang783/clawver-orders"
+}

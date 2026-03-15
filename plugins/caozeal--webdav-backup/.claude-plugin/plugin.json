@@ -1,0 +1,10 @@
+{
+  "name": "caozeal--webdav-backup",
+  "description": "WebDAV 备份工具 - 将 OpenClaw 工作目录备份到 WebDAV 服务器或本地目录（默认 `~/openclaw/output`）。当用户需要备份数据、同步文件到云端、做本地归档、或配置自动备份计划时使用此技能。",
+  "version": "1.2.2",
+  "author": {
+    "name": "caozeal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/caozeal/webdav-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/caozeal/webdav-backup"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "keyzzzoe--prompt-transformer",
+  "description": "Transform messages that begin with `@prt` or `@prompt` into structured, copy-ready prompts for coding, prototyping, planning, and other build-oriented tasks. Use when a user wants prompt-writing help, wants a natural-language request upgraded into a stronger prompt, wants a short summary of the prompt's key handling, or uses the `@prt` / `@prompt` prefix. Also use to bypass non-target prefixed inputs that are really ordinary chat, simple questions, or casual remarks.",
+  "version": "1.0.1",
+  "author": {
+    "name": "keyzzzoe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/keyzzzoe/prompt-transformer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/keyzzzoe/prompt-transformer"
+}

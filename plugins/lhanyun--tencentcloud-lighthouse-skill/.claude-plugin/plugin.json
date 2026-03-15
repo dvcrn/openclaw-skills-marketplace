@@ -1,0 +1,10 @@
+{
+  "name": "lhanyun--tencentcloud-lighthouse-skill",
+  "description": "Manage Tencent Cloud Lighthouse (轻量应用服务器) — auto-setup mcporter + MCP, query instances, monitoring & alerting, self-diagnostics, firewall, snapshots, remote command execution (TAT). Use when user asks about Lighthouse or 轻量应用服务器. NOT for CVM or other cloud server types.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lhanyun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lhanyun/tencentcloud-lighthouse-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lhanyun/tencentcloud-lighthouse-skill"
+}

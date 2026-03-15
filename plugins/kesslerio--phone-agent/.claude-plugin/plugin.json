@@ -1,0 +1,10 @@
+{
+  "name": "kesslerio--phone-agent",
+  "description": "Run a real-time AI phone agent using Twilio, Deepgram, and ElevenLabs. Handles incoming calls, transcribes audio, generates responses via LLM, and speaks back via streaming TTS. Use when user wants to: (1) Test voice AI capabilities, (2) Handle phone calls programmatically, (3) Build a conversational voice bot.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kesslerio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/phone-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/phone-agent"
+}

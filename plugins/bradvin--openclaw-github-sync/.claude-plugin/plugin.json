@@ -1,0 +1,10 @@
+{
+  "name": "bradvin--openclaw-github-sync",
+  "description": "Keep an OpenClaw agent's non-sensitive context (selected memory, MD files, notes, and custom skills) under version control in a separate Git repository for remote review/tweaks. Use when setting up or operating a Git-based workflow to export workspace context, commit changes (possibly split into multiple commits), and push on a schedule (e.g., nightly) without leaking secrets.",
+  "version": "0.1.4",
+  "author": {
+    "name": "bradvin"
+  },
+  "homepage": "https://github.com/bradvin/openclaw-github-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bradvin/openclaw-github-sync"
+}

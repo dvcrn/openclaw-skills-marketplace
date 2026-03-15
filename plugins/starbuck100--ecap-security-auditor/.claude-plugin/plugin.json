@@ -1,0 +1,10 @@
+{
+  "name": "starbuck100--ecap-security-auditor",
+  "description": "Security audit framework for AI agent skills, MCP servers, and packages. Your LLM does the analysis — we provide structure, prompts, and a shared trust database.",
+  "version": "2.0.0",
+  "author": {
+    "name": "starbuck100"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/starbuck100/ecap-security-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/starbuck100/ecap-security-auditor"
+}

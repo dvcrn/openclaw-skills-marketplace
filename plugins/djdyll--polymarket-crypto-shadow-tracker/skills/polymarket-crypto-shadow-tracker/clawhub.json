@@ -1,0 +1,18 @@
+{
+  "emoji": "🔬",
+  "requires": {
+    "pip": ["simmer-sdk"],
+    "env": ["SIMMER_API_KEY"]
+  },
+  "cron": "*/15 * * * *",
+  "autostart": false,
+  "automaton": {
+    "managed": true,
+    "entrypoint": "shadow_tracker.py"
+  },
+  "tunables": [
+    {"env": "SHADOW_CRYPTO_MAX_TRADES", "type": "number", "default": 10, "range": [1, 50], "step": 1, "label": "Max shadow trades per run"},
+    {"env": "SHADOW_CRYPTO_MIN_VOLUME", "type": "number", "default": 5000, "range": [0, 100000], "step": 1000, "label": "Min 24h volume filter"},
+    {"env": "SHADOW_CRYPTO_PLUGIN", "type": "string", "default": "", "label": "Path to strategy plugin .py"}
+  ]
+}

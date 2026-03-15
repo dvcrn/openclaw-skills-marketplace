@@ -1,0 +1,10 @@
+{
+  "name": "ironystock--claw-cast",
+  "description": "Bootstrap and automate OBS scenes for local or remote instances via agentic-obs + mcporter. Includes optional explicit target-switch step that writes agentic-obs DB config only when acknowledged with a cross-component-write flag. Use when an OpenClaw agent needs to create a reusable baseline scene pack, wire browser/media sources over LAN-safe HTTP, run recording/stream smoke tests, and provide a clean starting point for project-specific customization.",
+  "version": "0.2.6",
+  "author": {
+    "name": "ironystock"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ironystock/claw-cast",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ironystock/claw-cast"
+}

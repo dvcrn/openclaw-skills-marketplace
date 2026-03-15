@@ -1,0 +1,10 @@
+{
+  "name": "vladchatware--resend-email",
+  "description": "Send emails via Resend API from any verified domain. Use when sending emails, notifications, or automated messages. Supports HTML and plain text. Default voice is warm bureaucratic (configurable).",
+  "version": "1.0.3",
+  "author": {
+    "name": "vladchatware"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vladchatware/resend-email",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vladchatware/resend-email"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "williamwg2025--openclaw-auto-backup",
+  "description": "OpenClaw 自动备份技能 - 定时备份配置文件，防止数据丢失。\n 支持版本管理、一键恢复、定时任务。包含完整 Python 脚本（backup/restore/list/cleanup）。\n 已通过 ClawHub 多次安全审查（ZipSlip/Symlink/Manifest 修复）。\n 关键词：openclaw, backup, automation, scheduled, restore, version, config, safety, cron",
+  "version": "0.1.6",
+  "author": {
+    "name": "williamwg2025"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/williamwg2025/openclaw-auto-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/williamwg2025/openclaw-auto-backup"
+}

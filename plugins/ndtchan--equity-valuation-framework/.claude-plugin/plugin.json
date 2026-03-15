@@ -1,0 +1,10 @@
+{
+  "name": "ndtchan--equity-valuation-framework",
+  "description": "Provides a decision-grade equity valuation playbook and report standard (multiples, DCF, quality assessment, scenarios, margin of safety); used when users request valuation, best-stock comparison, investment thesis explanation, or structured risk review.",
+  "version": "1.0.3",
+  "author": {
+    "name": "ndtchan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ndtchan/equity-valuation-framework",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ndtchan/equity-valuation-framework"
+}

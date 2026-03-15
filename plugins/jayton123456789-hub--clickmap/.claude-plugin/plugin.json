@@ -1,0 +1,10 @@
+{
+  "name": "jayton123456789-hub--clickmap",
+  "description": "Chrome UI automation skill for saving named on-screen targets and reusing them with reliable click/type actions. Use when browser automation is flaky, selectors break, or you need deterministic \"click this named point, then type\" flows for tools like Suno, internal dashboards, forms, and repetitive web tasks.",
+  "version": "1.0.2",
+  "author": {
+    "name": "jayton123456789-hub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jayton123456789-hub/clickmap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jayton123456789-hub/clickmap"
+}

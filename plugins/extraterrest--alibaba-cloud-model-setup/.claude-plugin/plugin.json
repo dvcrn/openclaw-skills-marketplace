@@ -1,0 +1,10 @@
+{
+  "name": "extraterrest--alibaba-cloud-model-setup",
+  "description": "Configure OpenClaw to use Alibaba Cloud Bailian provider (Pay-As-You-Go or Coding Plan) through a strict interactive flow. Supports 5 site options and flagship model series. Use this skill when a user asks to add, switch, or repair Alibaba Cloud/Qwen provider configuration in OpenClaw.",
+  "version": "0.1.4",
+  "author": {
+    "name": "extraterrest"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/extraterrest/alibaba-cloud-model-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/extraterrest/alibaba-cloud-model-setup"
+}

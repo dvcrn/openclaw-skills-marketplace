@@ -1,0 +1,10 @@
+{
+  "name": "superworldsavior--umami-setup",
+  "description": "Add Umami self-hosted analytics to any website with adblocker-proof proxy. Covers: creating the website in Umami, setting up a same-domain proxy (Next.js, Astro/Vercel, Caddy, Nginx), and verifying tracking works.",
+  "version": "1.0.0",
+  "author": {
+    "name": "superworldsavior"
+  },
+  "homepage": "https://casys.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/superworldsavior/umami-setup"
+}

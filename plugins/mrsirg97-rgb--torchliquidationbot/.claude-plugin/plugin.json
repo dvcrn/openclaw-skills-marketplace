@@ -1,0 +1,10 @@
+{
+  "name": "mrsirg97-rgb--torchliquidationbot",
+  "description": "Autonomous vault-based liquidation keeper for Torch Market lending on Solana. Scans all migrated tokens for underwater loan positions (LTV > 65%) using the SDK's built-in bulk loan scanner (getAllLoanPositions), builds and executes liquidation transactions through a Torch Vault, and collects a 10% collateral bonus. The agent keypair is generated in-process -- disposable, holds nothing of value. All SOL and collateral tokens route through the vault. The human principal creates the vault, funds it, links the agent, and retains full control. Built on torchsdk v3.7.22 and the Torch Market protocol.",
+  "version": "4.0.4",
+  "author": {
+    "name": "mrsirg97-rgb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrsirg97-rgb/torchliquidationbot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrsirg97-rgb/torchliquidationbot"
+}

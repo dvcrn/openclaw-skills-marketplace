@@ -1,0 +1,59 @@
+{
+  "name": "smart-model-switch",
+  "version": "1.3.0",
+  "description": "智能模型自动切换技能，根据消息复杂度、文件类型和上下文使用率自动选择最优模型，支持AI主动检测",
+  "author": "miliger",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openclaw/smart-model-switch"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "model-switch",
+    "ai",
+    "automatic",
+    "context-management",
+    "file-type-detection"
+  ],
+  "openclaw": {
+    "skillVersion": "1.3.0",
+    "minOpenClawVersion": "2026.3.1",
+    "triggers": [
+      "模型切换",
+      "智能模型",
+      "自动选择模型",
+      "model switch",
+      "上下文检测",
+      "文件类型检测"
+    ],
+    "capabilities": [
+      "message-analysis",
+      "model-switching",
+      "context-monitoring",
+      "ai-proactive-detection",
+      "file-type-detection"
+    ],
+    "scripts": {
+      "install": "install.sh",
+      "analyze": "scripts/analyze-complexity.js",
+      "analyze-file": "scripts/analyze-file-type.js",
+      "switch": "scripts/smart-switch-enhanced.sh",
+      "monitor": "scripts/context-switch-monitor.sh",
+      "proactive-check": "scripts/ai-proactive-check.sh",
+      "integrate-check": "scripts/integrate-check.sh"
+    },
+    "config": {
+      "threshold": 85,
+      "consecutive_hits": 2,
+      "cooldown_minutes": 10
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node scripts/analyze-complexity.js \"测试消息\"",
+    "install-deps": "echo 'No dependencies required'"
+  }
+}

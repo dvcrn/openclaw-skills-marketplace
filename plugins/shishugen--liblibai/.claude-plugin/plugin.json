@@ -1,0 +1,10 @@
+{
+  "name": "shishugen--liblibai",
+  "description": "使用 LiblibAI API 生成 AI 图像。支持文生图、图生图、Ultra 模型、ComfyUI 工作流和文件上传，适合创意设计、内容创作和视觉项目。",
+  "version": "1.0.0",
+  "author": {
+    "name": "shishugen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shishugen/liblibai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shishugen/liblibai"
+}

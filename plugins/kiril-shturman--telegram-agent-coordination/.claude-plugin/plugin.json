@@ -1,0 +1,10 @@
+{
+  "name": "kiril-shturman--telegram-agent-coordination",
+  "description": "Coordination protocol for running multiple AI agents in one Telegram group chat without loops or chaos. Use when two or more bots share a Telegram chat and must cooperate through strict role-based messaging, sender validation, turn-taking, blocker escalation, and mission lifecycle control. Triggers on multi-agent Telegram chat, bots talking to each other, COO+worker chat setup, group orchestration, or preventing bot loops.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kiril-shturman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kiril-shturman/telegram-agent-coordination",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kiril-shturman/telegram-agent-coordination"
+}

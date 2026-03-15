@@ -1,0 +1,10 @@
+{
+  "name": "crazypeace--openclaw-self-clone-everything",
+  "description": "Clone and deploy OpenClaw to a new VPS. Use when you need to install OpenClaw on a fresh remote server via SSH. Steps: (1) Verify SSH access (IP, user, password/key), (2) Install OpenClaw via official non-interactive script, (3) Copy ~/.openclaw data, (4) Prompt to update credentials (e.g., Telegram bot token).",
+  "version": "1.0.0",
+  "author": {
+    "name": "crazypeace"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crazypeace/openclaw-self-clone-everything",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crazypeace/openclaw-self-clone-everything"
+}

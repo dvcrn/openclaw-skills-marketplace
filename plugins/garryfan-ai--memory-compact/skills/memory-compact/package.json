@@ -1,0 +1,13 @@
+{
+ "name": "memory-compact",
+ "version": "1.0.0",
+ "description": "每日记忆自动压缩备份和关键点提取",
+ "author": "GarryFan-AI",
+ "main": "wrapper.py",
+ "files": [
+  "wrapper.py",
+  "memory_backup.py",
+  "SKILL.md"
+ ]
+}
+

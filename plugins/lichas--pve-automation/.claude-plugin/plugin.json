@@ -1,0 +1,10 @@
+{
+  "name": "lichas--pve-automation",
+  "description": "Automate Proxmox VE (PVE) virtual machine and container management tasks including VM lifecycle operations (create, start, stop, delete), template management, cloud-init configuration, plugin installation, and cluster operations. Use this skill whenever the user mentions Proxmox, PVE, VM management, container (LXC) operations, qemu, or virtualization automation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lichas"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lichas/pve-automation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lichas/pve-automation"
+}

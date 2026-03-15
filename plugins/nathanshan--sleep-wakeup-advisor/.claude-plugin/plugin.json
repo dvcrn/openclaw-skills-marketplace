@@ -1,0 +1,10 @@
+{
+  "name": "nathanshan--sleep-wakeup-advisor",
+  "description": "Calculate sleep-cycle-aligned wake-up times when the user says \"晚安\" or asks for best wake-up times. Use to recommend several wake-up options, put the best option first, and enforce top recommendation constraints: before 09:00 on workdays and before 11:00 on weekends/China public holidays.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nathanshan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nathanshan/sleep-wakeup-advisor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nathanshan/sleep-wakeup-advisor"
+}

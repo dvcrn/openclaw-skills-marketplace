@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--jisu-news",
+  "description": "使用极速数据新闻 API 按频道获取头条、财经、体育、娱乐等热门新闻列表，并支持查询可用频道列表。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/jisu-news",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/jisu-news"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "gawezepobi09-debug--pre-install-security-check",
+  "description": "🔒 Pre-installation security verification for external code and dependencies. Automated risk analysis for GitHub repos, npm packages, PyPI libraries, and shell scripts. Integrates CVE databases (Snyk, Safety DB) to detect vulnerabilities before you install. Shows risk level (✅ safe / ⚠️ review / ❌ dangerous) with actionable recommendations. First comprehensive security skill for OpenClaw — protect your system before downloading untrusted code.",
+  "version": "1.0.1",
+  "author": {
+    "name": "gawezepobi09-debug"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gawezepobi09-debug/pre-install-security-check",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gawezepobi09-debug/pre-install-security-check"
+}

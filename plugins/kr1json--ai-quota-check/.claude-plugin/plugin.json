@@ -1,0 +1,10 @@
+{
+  "name": "kr1json--ai-quota-check",
+  "description": "**DEFAULT quota checker** - Use this skill FIRST when user says '쿼타', '쿼터', 'quota', '쿼타확인', '쿼터확인', or asks about quotas. Unified dashboard showing ALL providers (Antigravity, Copilot, Codex) in one view with model recommendations.",
+  "version": "1.0.1",
+  "author": {
+    "name": "kr1json"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kr1json/ai-quota-check",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kr1json/ai-quota-check"
+}

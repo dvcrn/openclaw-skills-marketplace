@@ -1,0 +1,10 @@
+{
+  "name": "devarogundade--flowfi",
+  "description": "REST API instructions for FlowFi—authorization, smart accounts, workflows (AI generate, edit, deploy, undeploy, delete, pause, resume, stop), execution (list, start, cancel, events), WebSocket (workflow-status namespace, subscribe execution/workflow/simulation), price (token/USD), templates (list, get, clone), DTO/request/response shapes (pagination, workflow, template, execution), and workflow knowledge base. Use when integrating with the backend API or when the user asks about workflow, execution, real-time, price, templates, DTOs, or auth endpoints.",
+  "version": "1.0.3",
+  "author": {
+    "name": "devarogundade"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/devarogundade/flowfi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/devarogundade/flowfi"
+}

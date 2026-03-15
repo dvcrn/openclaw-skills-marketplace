@@ -1,0 +1,10 @@
+{
+  "name": "danielfoch--article-to-video-script",
+  "description": "Convert pasted articles, research reports, blog posts, and long-form content into a structured commentary video script with sections for HOOK, BODY, and LIGHT CTA. Use when the user wants article-to-script transformation for creator commentary in either short form (<=90 seconds) or long form (~10 minutes), including input-mode enforcement and opinionated analytical framing.",
+  "version": "0.1.0",
+  "author": {
+    "name": "danielfoch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danielfoch/article-to-video-script",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danielfoch/article-to-video-script"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mrgoodb--jenkins",
+  "description": "Manage Jenkins jobs, builds, and pipelines via API. Trigger builds and monitor status.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrgoodb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/jenkins",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/jenkins"
+}

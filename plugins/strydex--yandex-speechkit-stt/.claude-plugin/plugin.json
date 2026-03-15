@@ -1,0 +1,10 @@
+{
+  "name": "strydex--yandex-speechkit-stt",
+  "description": "Распознавание речи через Yandex SpeechKit API для голосовых сообщений в Telegram. Используй когда пользователь отправляет голосовые сообщения и хочет, чтобы они расшифровывались через Yandex SpeechKit.",
+  "version": "1.0.0",
+  "author": {
+    "name": "strydex"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/strydex/yandex-speechkit-stt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/strydex/yandex-speechkit-stt"
+}

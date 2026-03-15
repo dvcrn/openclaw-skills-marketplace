@@ -1,0 +1,10 @@
+{
+  "name": "zgjq--session-token-ledger",
+  "description": "Analyze local OpenClaw session token usage from a generated SQLite ledger and markdown summaries. Use when the user asks for a token audit, token体检报告, context-bloat diagnosis, session efficiency review, largest sessions, daily token trends, input/output ratio analysis, cache-read heavy sessions, or wants SQL/SQLite-based inspection of local OpenClaw session usage.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zgjq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zgjq/session-token-ledger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zgjq/session-token-ledger"
+}

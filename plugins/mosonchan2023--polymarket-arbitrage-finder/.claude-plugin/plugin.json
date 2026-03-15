@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--polymarket-arbitrage-finder",
+  "description": "发现 Polymarket 与其他交易所（Kalshi等）之间的套利机会。每次调用自动扣费 0.001 USDT",
+  "version": "1.0.1",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/polymarket-arbitrage-finder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/polymarket-arbitrage-finder"
+}

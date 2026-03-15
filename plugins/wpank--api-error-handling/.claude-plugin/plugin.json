@@ -1,0 +1,10 @@
+{
+  "name": "wpank--api-error-handling",
+  "description": "Error handling patterns across languages and layers — operational vs programmer errors, retry strategies, circuit breakers, error boundaries, HTTP responses, graceful degradation, and structured logging. Use when designing error strategies, building resilient APIs, or reviewing error management.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/api-error-handling",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/api-error-handling"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "msaad00--agent-bom-runtime",
+  "description": "AI runtime security monitoring — context graph analysis, runtime audit log correlation with CVE findings, and vulnerability analytics queries. Use when the user mentions runtime monitoring, context graphs, lateral movement analysis, audit log correlation, or vulnerability analytics.",
+  "version": "0.70.11",
+  "author": {
+    "name": "msaad00"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/msaad00/agent-bom-runtime",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/msaad00/agent-bom-runtime"
+}

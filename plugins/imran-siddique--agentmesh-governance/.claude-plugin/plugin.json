@@ -1,0 +1,10 @@
+{
+  "name": "imran-siddique--agentmesh-governance",
+  "description": "AI agent governance, trust scoring, and policy enforcement powered by AgentMesh. Activate when: (1) user wants to enforce token limits, tool restrictions, or content policies on agent actions, (2) checking an agent's trust score before delegation or collaboration, (3) verifying agent identity with Ed25519 cryptographic DIDs, (4) auditing agent actions with tamper-evident Merkle chain logs, (5) user asks about agent safety, governance, compliance, or trust. Enterprise-grade: 1,600+ tests, merged into Dify (65K★), LlamaIndex (47K★), Microsoft Agent-Lightning (15K★).",
+  "version": "1.0.0",
+  "author": {
+    "name": "imran-siddique"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imran-siddique/agentmesh-governance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imran-siddique/agentmesh-governance"
+}

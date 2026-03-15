@@ -1,0 +1,10 @@
+{
+  "name": "hgosansn--mukt",
+  "description": "Zero-cost OpenRouter responder that auto-discovers the best currently free model, retries on failures, and returns clean answers fast. Use this when a user asks to query OpenRouter, wants lowest-cost/free model routing, or explicitly requests a free-model OpenRouter response.",
+  "version": "0.1.0",
+  "author": {
+    "name": "hgosansn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hgosansn/mukt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hgosansn/mukt"
+}

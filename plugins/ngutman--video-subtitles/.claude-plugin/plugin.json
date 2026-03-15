@@ -1,0 +1,10 @@
+{
+  "name": "ngutman--video-subtitles",
+  "description": "Generate SRT subtitles from video/audio with translation support. Transcribes Hebrew (ivrit.ai) and English (whisper), translates between languages, burns subtitles into video. Use for creating captions, transcripts, or hardcoded subtitles for WhatsApp/social media.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ngutman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ngutman/video-subtitles",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ngutman/video-subtitles"
+}

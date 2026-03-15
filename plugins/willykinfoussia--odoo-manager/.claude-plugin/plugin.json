@@ -1,0 +1,10 @@
+{
+  "name": "willykinfoussia--odoo-manager",
+  "description": "Manage Odoo (contacts, any business objects, and metadata) via the official External XML-RPC API. Supports generic CRUD operations on any model using execute_kw, with ready-made flows for res.partner and model introspection. Features dynamic instance and database switching with context-aware URL, database, and credential resolution.",
+  "version": "0.0.1",
+  "author": {
+    "name": "willykinfoussia"
+  },
+  "homepage": "https://www.odoo.com/documentation/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/willykinfoussia/odoo-manager"
+}

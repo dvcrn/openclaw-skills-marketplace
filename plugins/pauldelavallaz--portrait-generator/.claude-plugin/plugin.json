@@ -1,0 +1,10 @@
+{
+  "name": "pauldelavallaz--portrait-generator",
+  "description": "Generate hyper-detailed AI portraits via ComfyDeploy Morfeo Portrait workflow.\n Control every facial feature: eyes, nose, lips, jawline, skin, hair, expression.\n \n ✅ USE WHEN:\n - Need a specific face with controlled features (age, ethnicity, expression, skin)\n - Generating model references for Morpheus campaigns\n - Creating diverse character portraits for content\n - User describes a specific person or character type\n \n ❌ DON'T USE WHEN:\n - Need a full-body shot → use morpheus-fashion-design\n - Need a person WITH a product → use morpheus-fashion-design\n - Need image variations → use multishot-ugc\n \n INPUT: Natural language description → mapped to structured facial parameters\n OUTPUT: High-resolution portrait PNG\n \n DEPLOYMENT ID: 0b82e690-9a08-4d1f-85f8-28849d16caa4",
+  "version": "1.0.0",
+  "author": {
+    "name": "pauldelavallaz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/portrait-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/portrait-generator"
+}

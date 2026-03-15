@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--clickup-api",
+  "description": "ClickUp API integration with managed OAuth. Access tasks, lists, folders, spaces, workspaces, users, and manage webhooks. Use this skill when users want to manage work items, track projects, or integrate with ClickUp workflows. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.3",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/clickup-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/clickup-api"
+}

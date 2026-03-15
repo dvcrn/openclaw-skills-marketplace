@@ -1,0 +1,10 @@
+{
+  "name": "solanaguide--solana-payments-wallets-trading",
+  "description": "Pay people in SOL or USDC, buy and sell tokens, check prices, discover trending and new tokens, create and manage Solana wallets, stake SOL, earn yield through lending and managed vaults, borrow against collateral, set up DCA (dollar-cost averaging) and limit orders, provide liquidity across multiple DEXes, trade prediction markets, pay for APIs via x402, set up security permissions and spending limits, and track portfolio performance — all from the command line. No API keys, no private key env vars. Use when the user wants to send crypto, swap or trade tokens, browse what's trending, check balances, earn yield, borrow, set up recurring buys or limit orders, provide liquidity, bet on predictions, pay for web resources, or see how their holdings are doing.",
+  "version": "0.3.4",
+  "author": {
+    "name": "solanaguide"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/solanaguide/solana-payments-wallets-trading",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/solanaguide/solana-payments-wallets-trading"
+}

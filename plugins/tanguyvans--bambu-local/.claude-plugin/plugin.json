@@ -1,0 +1,10 @@
+{
+  "name": "tanguyvans--bambu-local",
+  "description": "Control Bambu Lab 3D printers locally via MQTT (no cloud). Supports A1, A1 Mini, P1P, P1S, X1C.",
+  "version": "1.0.1",
+  "author": {
+    "name": "tanguyvans"
+  },
+  "homepage": "https://github.com/Doridian/OpenBambuAPI",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tanguyvans/bambu-local"
+}

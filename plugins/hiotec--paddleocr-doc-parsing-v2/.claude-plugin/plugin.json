@@ -1,0 +1,10 @@
+{
+  "name": "hiotec--paddleocr-doc-parsing-v2",
+  "description": "Parse documents using PaddleOCR's API. Supports both sync and async modes for images and PDFs.",
+  "version": "1.0.4",
+  "author": {
+    "name": "hiotec"
+  },
+  "homepage": "https://www.paddleocr.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hiotec/paddleocr-doc-parsing-v2"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--geodb-cities",
+  "description": "GeoDB Cities integration. Manage Cities, Countries, Continents. Use when the user wants to interact with GeoDB Cities data.",
+  "version": "1.0.1",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/geodb-cities"
+}

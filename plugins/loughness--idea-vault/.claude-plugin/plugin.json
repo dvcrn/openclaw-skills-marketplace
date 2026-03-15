@@ -1,0 +1,10 @@
+{
+  "name": "loughness--idea-vault",
+  "description": "Save and organize links, notes, and timestamps into a searchable Idea Vault. Use when a user drops a YouTube/web link (or just notes), then says “/vault” or “vault” to save; also use for vault queries like “what did I save this week?”, channel/source filters, and keyword search in notes.",
+  "version": "1.0.1",
+  "author": {
+    "name": "loughness"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/loughness/idea-vault",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/loughness/idea-vault"
+}

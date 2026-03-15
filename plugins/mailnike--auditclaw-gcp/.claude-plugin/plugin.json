@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--auditclaw-gcp",
+  "description": "GCP compliance evidence collection for auditclaw-grc. 12 read-only checks across Cloud Storage, firewall, IAM, logging, KMS, DNS, BigQuery, Compute, and Cloud SQL.",
+  "version": "1.0.2",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.auditclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/auditclaw-gcp"
+}

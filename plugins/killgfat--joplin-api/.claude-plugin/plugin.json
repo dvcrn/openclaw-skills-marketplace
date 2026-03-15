@@ -1,0 +1,10 @@
+{
+  "name": "killgfat--joplin-api",
+  "description": "Manage Joplin notes via REST API. Use for creating, reading, updating, deleting, or searching Joplin notes programmatically.",
+  "version": "0.1.3",
+  "author": {
+    "name": "killgfat"
+  },
+  "homepage": "https://joplinapp.org/help/api/references/rest_api/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/killgfat/joplin-api"
+}

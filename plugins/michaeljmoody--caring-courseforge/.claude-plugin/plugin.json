@@ -1,0 +1,10 @@
+{
+  "name": "michaeljmoody--caring-courseforge",
+  "description": "Create and manage online courses via the CourseForge API (caringcourseforge.com). Use when the user wants to create courses, modules, lessons, generate AI content, export to SCORM/xAPI, manage knowledge libraries, or interact with the CourseForge platform. Handles course building, content generation, quizzes, accessibility validation, and course export.",
+  "version": "1.0.3",
+  "author": {
+    "name": "michaeljmoody"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/michaeljmoody/caring-courseforge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/michaeljmoody/caring-courseforge"
+}

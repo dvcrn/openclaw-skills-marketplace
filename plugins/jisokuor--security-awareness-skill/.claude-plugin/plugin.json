@@ -1,0 +1,10 @@
+{
+  "name": "jisokuor--security-awareness-skill",
+  "description": "Help AI agents recognize and respond to potentially malicious skill patterns from public registries. Based on Snyk ToxicSkills research showing 13.4% of skills contain critical security issues.",
+  "version": "0.1.0",
+  "author": {
+    "name": "jisokuor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisokuor/security-awareness-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisokuor/security-awareness-skill"
+}

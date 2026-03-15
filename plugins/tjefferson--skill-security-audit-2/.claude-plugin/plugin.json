@@ -1,0 +1,10 @@
+{
+  "name": "tjefferson--skill-security-audit-2",
+  "description": "This skill should be used when evaluating the security of a ClawHub skill before installation. It performs comprehensive security risk assessment on skill directories, detecting prompt injection, malicious scripts, supply chain attacks, credential theft, and other threats commonly found in the ClawHub/OpenClaw ecosystem. Trigger this skill when a user wants to audit, review, or assess the safety of a skill downloaded from ClawHub.",
+  "version": "1.3.0",
+  "author": {
+    "name": "tjefferson"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tjefferson/skill-security-audit-2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tjefferson/skill-security-audit-2"
+}

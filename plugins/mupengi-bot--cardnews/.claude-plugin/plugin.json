@@ -1,0 +1,10 @@
+{
+  "name": "mupengi-bot--cardnews",
+  "description": "Generate Instagram-ready card news (카드뉴스) image sets. Use when creating a series of 5 slide images from a topic — includes content planning, image generation via nano-banana-pro, PNG→JPG conversion, caption writing, and Instagram upload preparation. Triggers on requests for card news, 카드뉴스, Instagram carousel posts, or slide-based visual content.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mupengi-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/cardnews",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/cardnews"
+}

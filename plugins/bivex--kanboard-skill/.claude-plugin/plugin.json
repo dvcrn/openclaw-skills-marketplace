@@ -1,0 +1,10 @@
+{
+  "name": "bivex--kanboard-skill",
+  "description": "Interact with Kanboard project management via JSON-RPC API. Use when working with Kanboard tasks, projects, boards, columns, swimlanes, comments, subtasks, and users. Trigger on: \"create task\", \"move task\", \"show board\", \"list projects\", \"add comment\", \"kanboard\", \"kanban task\". Supports both Application API (token) and User API (login/password).",
+  "version": "1.0.0",
+  "author": {
+    "name": "bivex"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bivex/kanboard-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bivex/kanboard-skill"
+}

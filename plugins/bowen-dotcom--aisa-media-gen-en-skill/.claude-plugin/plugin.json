@@ -1,0 +1,10 @@
+{
+  "name": "bowen-dotcom--aisa-media-gen-en-skill",
+  "description": "Generate images & videos with AIsa. Gemini 3 Pro Image (image) + Qwen Wan 2.6 (video) via one API key.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bowen-dotcom"
+  },
+  "homepage": "https://openclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bowen-dotcom/aisa-media-gen-en-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "reversteam--project-orchestrator",
+  "description": "AI agent orchestrator with Neo4j knowledge graph, Meilisearch search, and Tree-sitter parsing. Use for coordinating multiple coding agents on complex projects with shared context and plans.",
+  "version": "0.2.0",
+  "author": {
+    "name": "reversteam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/reversteam/project-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/reversteam/project-orchestrator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wpank--create-test-pool",
+  "description": "Deploy a custom Uniswap pool on the local testnet with configurable parameters. Create pools with specific conditions (thin liquidity, wide spreads, exact tick ranges) to test agent behavior under controlled scenarios. Requires a running local testnet.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/create-test-pool",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/create-test-pool"
+}

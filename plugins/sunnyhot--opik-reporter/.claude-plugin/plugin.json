@@ -1,0 +1,10 @@
+{
+  "name": "sunnyhot--opik-reporter",
+  "description": "Opik observability reporter - fetches traces, analyzes usage, costs, and errors, then sends reports to Discord.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sunnyhot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunnyhot/opik-reporter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunnyhot/opik-reporter"
+}

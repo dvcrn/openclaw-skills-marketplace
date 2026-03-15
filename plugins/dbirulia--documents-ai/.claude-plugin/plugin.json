@@ -1,0 +1,10 @@
+{
+  "name": "dbirulia--documents-ai",
+  "description": "Real-time OCR and data extraction API by Veryfi (https://veryfi.com). Extract structured data from receipts, invoices, bank statements, W-9s, purchase orders, bills of lading, and any other document. Use when you need to OCR documents, extract fields, parse receipts/invoices, bank statements, classify documents, detect fraud, or get raw OCR text from any document.",
+  "version": "1.0.1",
+  "author": {
+    "name": "dbirulia"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dbirulia/documents-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dbirulia/documents-ai"
+}

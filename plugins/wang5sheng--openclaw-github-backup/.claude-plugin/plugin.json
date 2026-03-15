@@ -1,0 +1,10 @@
+{
+  "name": "wang5sheng--openclaw-github-backup",
+  "description": "Automatically backup OpenClaw configuration to a private GitHub repository. Features API key sanitization, activity detection, and smart backup frequency (hourly when active, daily when inactive). One-click recovery support.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wang5sheng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wang5sheng/openclaw-github-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wang5sheng/openclaw-github-backup"
+}

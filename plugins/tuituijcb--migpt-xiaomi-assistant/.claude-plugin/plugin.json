@@ -1,0 +1,10 @@
+{
+  "name": "tuituijcb--migpt-xiaomi-assistant",
+  "description": "Deploy MiGPT on a Xiaomi smart speaker to replace the built-in AI with a custom LLM-powered voice assistant. Use when: (1) setting up mi-gpt on a Xiaomi/Redmi speaker, (2) troubleshooting MiNA vs MIoT TTS issues, (3) fixing Xiaomi account security verification loops, (4) optimizing voice assistant response latency, (5) configuring wake words and trigger keywords for mi-gpt. Covers X08E and other speaker models. NOT for: Google Home, Alexa, or non-Xiaomi smart speakers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tuituijcb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tuituijcb/migpt-xiaomi-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tuituijcb/migpt-xiaomi-assistant"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "garibong-labs--brave-api-setup",
+  "description": "Set up Brave Search API for OpenClaw web_search. Use when user needs to configure Brave API, get Brave API key, enable web search, or fix \"missing_brave_api_key\" error.",
+  "version": "0.1.2",
+  "author": {
+    "name": "garibong-labs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/garibong-labs/brave-api-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/garibong-labs/brave-api-setup"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bortlesboat--bitcoin-mcp",
+  "description": "47 Bitcoin tools for your AI agent — fee intelligence, mempool analysis, address lookups, transaction decoding, and more. MCP server backed by the Satoshi API.",
+  "version": "0.1.0",
+  "author": {
+    "name": "bortlesboat"
+  },
+  "homepage": "https://github.com/Bortlesboat/bitcoin-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bortlesboat/bitcoin-mcp"
+}

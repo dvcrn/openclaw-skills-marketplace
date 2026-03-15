@@ -1,0 +1,10 @@
+{
+  "name": "52yuanchangxing--api-contract-auditor",
+  "description": "审查 API 文档、示例和字段定义是否一致，输出 breaking change 风险。；use for api, contract, audit workflows；do not use for 直接改线上接口, 替代契约测试平台.",
+  "version": "1.0.0",
+  "author": {
+    "name": "52yuanchangxing"
+  },
+  "homepage": "https://example.invalid/skills/api-contract-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/52yuanchangxing/api-contract-auditor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "gyaan-dub--prompt-enhancer",
+  "description": "Automatically rewrites rough user inputs into optimized, structured prompts for dramatically better AI responses. Prefix any message with \"p:\" to activate.",
+  "version": "1.0.1",
+  "author": {
+    "name": "gyaan-dub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gyaan-dub/prompt-enhancer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gyaan-dub/prompt-enhancer"
+}

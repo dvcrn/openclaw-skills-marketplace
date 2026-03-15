@@ -1,0 +1,10 @@
+{
+  "name": "weimingboya--linkedin-human-warmup",
+  "description": "Human-like LinkedIn warmup for new/cold accounts via AdsPower+CDP. Features non-deterministic behavior scripts, connect preconditions based on browsing intent, strict stop-on-risk, and session memory. Use when running LinkedIn daily warmup sessions.",
+  "version": "0.1.0",
+  "author": {
+    "name": "weimingboya"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/weimingboya/linkedin-human-warmup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/weimingboya/linkedin-human-warmup"
+}

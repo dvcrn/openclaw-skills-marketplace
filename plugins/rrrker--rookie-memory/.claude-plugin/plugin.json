@@ -1,0 +1,10 @@
+{
+  "name": "rrrker--rookie-memory",
+  "description": "Rookie-Memory 三级记忆管理系统 v2.0。专为 AI 代理设计的进化版记忆系统，包含 L0 永久记忆、L1 短期记忆、L2 中期记忆，支持 bootstrap 启动加载、autosave 自动保存、混合检索、自动清理等高级功能。",
+  "version": "2.0.0",
+  "author": {
+    "name": "rrrker"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rrrker/rookie-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rrrker/rookie-memory"
+}

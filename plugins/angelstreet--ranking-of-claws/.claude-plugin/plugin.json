@@ -1,0 +1,10 @@
+{
+  "name": "angelstreet--ranking-of-claws",
+  "description": "Simple install: register once, auto-setup cron, and report token/model deltas from JSONL sessions without editing openclaw.json.",
+  "version": "3.0.0",
+  "author": {
+    "name": "angelstreet"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/angelstreet/ranking-of-claws",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/angelstreet/ranking-of-claws"
+}

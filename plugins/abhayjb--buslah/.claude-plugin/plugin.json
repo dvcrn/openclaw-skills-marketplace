@@ -1,0 +1,10 @@
+{
+  "name": "abhayjb--buslah",
+  "description": "Get Singapore bus arrivals from a source location to a destination. Trigger: \"bus from <source> to <destination>\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "abhayjb"
+  },
+  "homepage": "https://github.com/abhay/arrivelah",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abhayjb/buslah"
+}

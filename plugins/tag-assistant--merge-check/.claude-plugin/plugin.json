@@ -1,0 +1,10 @@
+{
+  "name": "tag-assistant--merge-check",
+  "description": "Analyze a GitHub pull request for mergeability — predict whether it will get merged based on technical, architectural, process, social, and compliance factors. Use when asked to review a PR, check if a PR will be merged, assess PR quality, or predict PR acceptance. Works with any GitHub PR via `owner/repo#number` or URL.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tag-assistant"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tag-assistant/merge-check",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tag-assistant/merge-check"
+}

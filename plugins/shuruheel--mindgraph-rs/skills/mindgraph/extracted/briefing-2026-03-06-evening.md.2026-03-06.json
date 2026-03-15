@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "source_path": "/home/node/.openclaw/workspace/memory/geopolitics/briefing-2026-03-06-evening.md",
+    "extracted_at": "2026-03-06T23:01:10.002Z",
+    "model": "google/gemini-3-flash-preview",
+    "summarized": false,
+    "file_hash": "1d8ba78e3f46081f",
+    "file_size": 2896,
+    "node_count": 14,
+    "edge_count": 10,
+    "entity_resolution": {
+      "checked": 4,
+      "resolved": 0,
+      "canonicalized": 0
+    }
+  },
+  "nodes": [
+    {
+      "label": "Operation Epic Fury",
+      "type": "Observation",
+      "summary": "Day 7 of military operations in Iran; Trump demands unconditional surrender within a 4-6 week campaign window.",
+      "props": {
+        "observed_at": 1741219200,
+        "content": "Trump demanded Iran's unconditional surrender as strikes intensify; campaign expected to last 4-6 weeks."
+      }
+    },
+    {
+      "label": "Tehran School Strike",
+      "type": "Observation",
+      "summary": "Viral CCTV footage of a strike on a Tehran primary school fuels calls for an independent investigation.",
+      "props": {
+        "observed_at": 1741219200,
+        "content": "CCTV video of Tehran primary school strike went viral; White House responded with 'American justice' video."
+      }
+    },
+    {
+      "label": "Mojtaba Khamenei Succession Pressure",
+      "type": "Observation",
+      "summary": "IRGC commanders are pressuring the Assembly of Experts to fast-track Mojtaba Khamenei's appointment.",
+      "props": {
+        "observed_at": 1741219200,
+        "content": "IRGC pressuring Assembly of Experts via psychological pressure to skip protocols for Mojtaba Khamenei."
+      }
+    },
+    {
+      "label": "Ukraine-Russia Prisoner Swap",
+      "type": "Observation",
+      "summary": "Largest prisoner exchange since May 2025, involving 500-for-500 personnel mediated by US and UAE.",
+      "props": {
+        "observed_at": 1741219200,
+        "content": "Two-day 500-for-500 prisoner swap completed; mediated by US and UAE."
+      }
+    },
+    {
+      "label": "UK China Spying Investigation",
+      "type": "Observation",
+      "summary": "UK police raided the home of a former Labour MP's husband as part of a counter-intelligence probe into China.",
+      "props": {
+        "observed_at": 1741219200,
+        "content": "Police searched home of former Labour MP's husband in China spying investigation."
+      }
+    },
+    {
+      "label": "Apple Leadership Expansion",
+      "type": "Observation",
+      "summary": "Apple updated its leadership page to include Steve Lemay and Molly Anderson following seven product launches.",
+      "props": {
+        "observed_at": 1741219200,
+        "content": "Steve Lemay and Molly Anderson added to Apple leadership page."
+      }
+    },
+    {
+      "label": "Kristi Noem Dismissal",
+      "type": "Decision",
+      "summary": "Trump fired DHS Secretary Kristi Noem over a disputed $200M advertising campaign.",
+      "props": {
+        "status": "completed",
+        "decision_rationale": "Trump claims he did not approve a $200M ad campaign mentioned in Noem's testimony.",
+        "reversibility": "low"
+      }
+    },
+    {
+      "label": "Iran Regime Fall Prediction",
+      "type": "Claim",
+      "summary": "Market probability of Iran regime falling by June 30 rose to 35.1% following the surrender ultimatum.",
+      "props": {
+        "truth_status": "uncertain",
+        "certainty_degree": 0.35,
+        "content": "Probability of Iran regime fall by June 30 is 35.1% (+1.1pp)."
+      }
+    },
+    {
+      "label": "Tim Cook Succession Prediction",
+      "type": "Claim",
+      "summary": "Market probability of Tim Cook exiting in 2027 rose to 31.0%, though leadership updates suggest continuity.",
+      "props": {
+        "truth_status": "uncertain",
+        "certainty_degree": 0.31,
+        "content": "Probability of Tim Cook out by 2027 is 31.0% (+2pp)."
+      }
+    },
+    {
+      "label": "Donald Trump",
+      "type": "Entity",
+      "summary": "President of the United States leading Operation Epic Fury and executive branch decisions.",
+      "props": {
+        "entity_type": "Person"
+      }
+    },
+    {
+      "label": "IRGC",
+      "type": "Entity",
+      "summary": "Islamic Revolutionary Guard Corps; reportedly pressuring Iranian political bodies for succession.",
+      "props": {
+        "entity_type": "Organization"
+      }
+    },
+    {
+      "label": "Apple",
+      "type": "Entity",
+      "summary": "Technology company that recently updated its executive leadership team.",
+      "props": {
+        "entity_type": "Organization"
+      }
+    },
+    {
+      "label": "Polymarket Trading System",
+      "type": "Entity",
+      "summary": "Platform tracking prediction scores for geopolitical and corporate events.",
+      "props": {
+        "entity_type": "Technology"
+      }
+    },
+    {
+      "label": "Income Generation",
+      "type": "Goal",
+      "summary": "Primary objective related to monitoring prediction market movements and P&L.",
+      "props": {
+        "priority": "high",
+        "status": "active"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "Donald Trump",
+      "to": "Operation Epic Fury",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Donald Trump",
+      "to": "Kristi Noem Dismissal",
+      "type": "AUTHORED_BY"
+    },
+    {
+      "from": "IRGC",
+      "to": "Mojtaba Khamenei Succession Pressure",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Operation Epic Fury",
+      "to": "Iran Regime Fall Prediction",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "Apple Leadership Expansion",
+      "to": "Tim Cook Succession Prediction",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Iran Regime Fall Prediction",
+      "to": "Polymarket Trading System",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Tim Cook Succession Prediction",
+      "to": "Polymarket Trading System",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Iran Regime Fall Prediction",
+      "to": "Income Generation",
+      "type": "MOTIVATED_BY"
+    },
+    {
+      "from": "Apple Leadership Expansion",
+      "to": "Apple",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Tehran School Strike",
+      "to": "Operation Epic Fury",
+      "type": "FOLLOWS"
+    }
+  ]
+}

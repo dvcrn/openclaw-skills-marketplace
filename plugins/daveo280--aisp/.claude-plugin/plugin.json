@@ -1,0 +1,10 @@
+{
+  "name": "daveo280--aisp",
+  "description": "Enables AI agents to interact with AISP (Agent Inference Sharing Protocol) for renting or providing DIEM API capacity. Use when working with diem-marketplace, Venice API keys, USDC escrow, listings, rentals, or when the user wants to rent inference capacity or list API keys.",
+  "version": "2.0.2",
+  "author": {
+    "name": "daveo280"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daveo280/aisp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daveo280/aisp"
+}

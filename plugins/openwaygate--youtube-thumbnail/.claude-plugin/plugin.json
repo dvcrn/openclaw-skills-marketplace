@@ -1,0 +1,10 @@
+{
+  "name": "openwaygate--youtube-thumbnail",
+  "description": "Manage YouTube video thumbnails. Use this skill to set custom thumbnails for videos. Useful when working with YouTube thumbnail — provides commands to set thumbnail via the yutu CLI. Includes setup and installation instructions for first-time users. Triggers: set a thumbnail for a video, set thumbnail, set my thumbnail",
+  "version": "0.10.6-3",
+  "author": {
+    "name": "openwaygate"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openwaygate/youtube-thumbnail",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openwaygate/youtube-thumbnail"
+}

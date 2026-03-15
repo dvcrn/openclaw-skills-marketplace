@@ -1,0 +1,10 @@
+{
+  "name": "ronaldmannak--mlx-swift-lm",
+  "description": "MLX Swift LM - Run LLMs and VLMs on Apple Silicon using MLX. Covers local inference, streaming, tool calling, LoRA fine-tuning, and embeddings.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ronaldmannak"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ronaldmannak/mlx-swift-lm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ronaldmannak/mlx-swift-lm"
+}

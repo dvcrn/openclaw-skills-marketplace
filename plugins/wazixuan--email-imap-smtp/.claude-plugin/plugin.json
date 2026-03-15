@@ -1,0 +1,10 @@
+{
+  "name": "wazixuan--email-imap-smtp",
+  "description": "Connect to mainstream email providers and perform reliable send/receive workflows through IMAP and SMTP with password or OAuth2 authentication. Use when a user asks to add mailbox accounts, test login, list unread/recent emails, read message bodies, search emails by sender/subject/date, refresh OAuth2 tokens, or send emails (with optional HTML and attachments).",
+  "version": "0.1.0",
+  "author": {
+    "name": "wazixuan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wazixuan/email-imap-smtp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wazixuan/email-imap-smtp"
+}

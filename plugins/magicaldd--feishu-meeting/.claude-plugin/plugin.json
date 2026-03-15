@@ -1,0 +1,10 @@
+{
+  "name": "magicaldd--feishu-meeting",
+  "description": "Create Feishu (Lark) video meetings via Calendar API — instant, scheduled, or recurring. Supports multiple invitees (resolved from mobile/email), automatic Feishu VC link generation, RRULE-based recurrence, and calendar integration (events appear in attendees' calendars). Use when user asks to: create/schedule a meeting, set up a recurring meeting, book a video call, 开会, 预约会议, 发起会议, 创建周期性会议, 飞书会议.",
+  "version": "1.0.0",
+  "author": {
+    "name": "magicaldd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/magicaldd/feishu-meeting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/magicaldd/feishu-meeting"
+}

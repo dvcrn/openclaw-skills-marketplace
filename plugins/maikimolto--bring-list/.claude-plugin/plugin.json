@@ -1,0 +1,10 @@
+{
+  "name": "maikimolto--bring-list",
+  "description": "Manage Bring! shopping lists (Einkaufsliste / grocery list) — add, remove, check off items, batch ops, default list support. Use when: user wants to set up Bring!, add items to shopping list, check what's on the list, or complete/remove items. Full guided setup in Telegram: agent handles login, list selection and config entirely in chat. Privacy-first: credentials via chat or private terminal input — your choice, never repeated. Terminal optional.",
+  "version": "1.2.5",
+  "author": {
+    "name": "maikimolto"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maikimolto/bring-list",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maikimolto/bring-list"
+}

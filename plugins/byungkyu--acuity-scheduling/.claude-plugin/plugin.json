@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--acuity-scheduling",
+  "description": "Acuity Scheduling API integration with managed OAuth. Manage appointments, calendars, clients, and availability. Use this skill when users want to schedule, reschedule, or cancel appointments, check availability, or manage clients and calendars. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.2",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/acuity-scheduling",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/acuity-scheduling"
+}

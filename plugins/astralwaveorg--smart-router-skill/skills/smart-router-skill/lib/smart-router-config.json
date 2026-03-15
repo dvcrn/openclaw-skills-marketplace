@@ -1,0 +1,109 @@
+{
+  "version": "1.0.0",
+  "description": "智能路由器配置 - 基于消息内容和上下文动态选择最佳模型",
+  "lastUpdated": "2026-02-15T02:00:00Z",
+  
+  "routingRules": {
+    "priority": [
+      {
+        "name": "代码相关任务",
+        "conditions": {
+          "keywords": ["代码", "编程", "bug", "error", "function", "class", "import", "export", "git", "commit", "push", "pull", "merge", "debug", "test", "单元测试", "集成测试", "API", "接口", "数据库", "SQL", "NoSQL", "框架", "库", "依赖", "npm", "yarn", "pip", "docker", "容器", "部署", "服务器", "后端", "前端", "React", "Vue", "Angular", "Node.js", "Python", "Java", "JavaScript", "TypeScript", "Go", "Rust", "C++", "C#", "PHP", "Ruby", "Swift", "Kotlin"],
+          "patterns": ["/code", "/编程", "/debug", "/test", "/部署", "/api", "/数据库"],
+          "minLength": 10,
+          "maxLength": 5000
+        },
+        "agent": "code-agent",
+        "model": "4sapi-anthropic/claude-sonnet-4-5-20250929",
+        "reasoning": false,
+        "priority": 100
+      },
+      {
+        "name": "复杂推理和分析",
+        "conditions": {
+          "keywords": ["分析", "推理", "思考", "为什么", "如何", "策略", "规划", "决策", "评估", "比较", "优缺点", "利弊", "趋势", "预测", "未来", "可能性", "概率", "统计", "数据", "图表", "报告", "总结", "归纳", "演绎", "逻辑", "论证", "证明", "假设", "理论", "原理", "机制", "系统", "架构", "设计模式", "算法", "数据结构", "优化", "性能", "效率", "复杂度"],
+          "patterns": ["/分析", "/推理", "/思考", "/策略", "/规划", "/评估"],
+          "minLength": 50,
+          "maxLength": 10000
+        },
+        "agent": "reasoning-agent",
+        "model": "4sapi-anthropic/claude-opus-4-6-thinking",
+        "reasoning": true,
+        "priority": 90
+      },
+      {
+        "name": "简短日常对话",
+        "conditions": {
+          "keywords": ["你好", "早上好", "晚上好", "谢谢", "不客气", "再见", "拜拜", "OK", "好的", "明白", "了解", "收到", "确认", "是的", "不是", "可能", "也许", "大概", "应该", "可以", "不能", "不行", "没问题", "有問題", "帮忙", "帮助", "支持", "协助"],
+          "patterns": ["/hello", "/hi", "/bye", "/thanks", "/help"],
+          "minLength": 1,
+          "maxLength": 100
+        },
+        "agent": "free-agent",
+        "model": "openrouter/google/gemma-3-27b-it:free",
+        "reasoning": false,
+        "priority": 10
+      },
+      {
+        "name": "图像处理任务",
+        "conditions": {
+          "keywords": ["图片", "图像", "照片", "截图", "图表", "图形", "视觉", "识别", "分析图片", "处理图片", "生成图片", "画图", "绘图", "设计", "UI", "UX", "界面", "图标", "logo", "海报", "宣传图", "封面", "背景图", "壁纸", "头像", "表情包", "动图", "GIF", "视频", "帧", "分辨率", "像素", "色彩", "滤镜", "特效"],
+          "patterns": ["/image", "/图片", "/图像", "/photo", "/screenshot", "/generate"],
+          "hasImage": true
+        },
+        "agent": "main",
+        "model": "4sapi-openai/gemini-3-pro-image",
+        "reasoning": false,
+        "priority": 80
+      },
+      {
+        "name": "信息搜索和研究",
+        "conditions": {
+          "keywords": ["搜索", "查找", "查询", "研究", "调查", "了解", "学习", "知识", "信息", "资料", "文档", "教程", "指南", "手册", "说明书", "规范", "标准", "法规", "法律", "政策", "新闻", "报道", "文章", "论文", "期刊", "杂志", "书籍", "电子书", "PDF", "网页", "网站", "链接", "URL", "网址", "域名", "IP", "服务器", "网络", "互联网", "在线", "离线", "下载", "上传", "分享", "转发", "收藏", "保存", "备份", "恢复", "同步", "云存储", "云盘", "网盘", "硬盘", "U盘", "SD卡", "内存", "存储", "容量", "空间", "文件", "文件夹", "目录", "路径", "扩展名", "格式", "编码", "解码", "压缩", "解压", "加密", "解密", "安全", "隐私", "权限", "认证", "授权", "登录", "注册", "账号", "密码", "验证码", "短信", "邮件", "邮箱", "电话", "手机", "电脑", "平板", "电视", "音响", "耳机", "麦克风", "摄像头", "打印机", "扫描仪", "投影仪", "显示器", "键盘", "鼠标", "触摸板", "手柄", "遥控器", "传感器", "芯片", "处理器", "内存", "硬盘", "显卡", "主板", "电源", "机箱", "散热", "风扇", "水冷", "超频", "降频", "节能", "环保", "可持续发展", "绿色", "循环", "回收", "再利用", "减少", "增加", "改善", "提升", "优化", "升级", "更新", "维护", "修复", "保养", "清洁", "消毒", "杀菌", "防疫", "健康", "医疗", "医院", "医生", "护士", "药品", "疫苗", "治疗", "康复", "预防", "检测", "筛查", "诊断", "手术", "麻醉", "疼痛", "症状", "疾病", "病毒", "细菌", "感染", "传染", "免疫", "抗体", "抗原", "基因", "DNA", "RNA", "蛋白质", "细胞", "组织", "器官", "系统", "生理", "心理", "精神", "情绪", "情感", "感觉", "知觉", "意识", "思维", "记忆", "学习", "认知", "智力", "智商", "情商", "创造力", "想象力", "注意力", "专注力", "执行力", "决策力", "领导力", "沟通力", "合作力", "竞争力", "适应力", "应变力", "抗压力", "恢复力", "韧性", "毅力", "耐心", "细心", "责任心", "诚信", "正直", "善良", "宽容", "谦虚", "自信", "自尊", "自爱", "自律", "自强", "自立", "自主", "自由", "平等", "公正", "法治", "民主", "文明", "和谐", "友善", "爱国", "敬业", "诚信", "友善"],
+          "patterns": ["/search", "/查找", "/研究", "/info", "/知识"],
+          "minLength": 20,
+          "maxLength": 500
+        },
+        "agent": "info-researcher",
+        "model": "deepseek/deepseek-reasoner",
+        "reasoning": true,
+        "priority": 70
+      }
+    ],
+    
+    "fallback": {
+      "agent": "free-agent",
+      "model": "openrouter/google/gemma-3-27b-it:free",
+      "reasoning": false
+    }
+  },
+  
+  "performanceSettings": {
+    "cacheEnabled": true,
+    "cacheTTL": 3600,
+    "maxResponseTime": 30000,
+    "retryAttempts": 2,
+    "circuitBreaker": {
+      "failureThreshold": 5,
+      "resetTimeout": 60000
+    }
+  },
+  
+  "monitoring": {
+    "enabled": true,
+    "metrics": ["responseTime", "modelUsage", "errorRate", "costPerRequest"],
+    "alertThresholds": {
+      "responseTime": 10000,
+      "errorRate": 0.1,
+      "costPerRequest": 0.01
+    }
+  },
+  
+  "costOptimization": {
+    "budgetLimit": 10.0,
+    "dailyLimit": 1.0,
+    "preferFreeModels": true,
+    "autoDowngrade": true,
+    "downgradeThreshold": 0.8
+  }
+}

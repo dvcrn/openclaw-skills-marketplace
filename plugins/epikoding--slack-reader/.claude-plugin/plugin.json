@@ -1,0 +1,10 @@
+{
+  "name": "epikoding--slack-reader",
+  "description": "Read and summarize Slack channel history and thread conversations. Use when receiving Slack links (https://...slack.com/archives/...) or requests to view channel/thread/reply conversations, summarize discussions, or check recent messages in a channel.",
+  "version": "1.0.0",
+  "author": {
+    "name": "epikoding"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/epikoding/slack-reader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/epikoding/slack-reader"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "martc03--gov-financial-intel",
+  "description": "SEC EDGAR filings, BLS employment stats, and USDA crop prices. 3 tools for federal financial intelligence.",
+  "version": "1.0.0",
+  "author": {
+    "name": "martc03"
+  },
+  "homepage": "https://github.com/martc03/gov-mcp-servers",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/martc03/gov-financial-intel"
+}

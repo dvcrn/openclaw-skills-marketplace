@@ -1,0 +1,10 @@
+{
+  "name": "ckpxgfnksd-max--prompt-token-saver",
+  "description": "Saves 20-40% of LLM tokens by teaching the agent to write compressed responses, compressed memory logs, and compressed pre-compaction summaries. Works via SOUL.md instructions — no hooks, no extra process, no dependencies. Also provides explicit compression when the user asks to compress a prompt. Use when the user asks about reducing token costs, optimizing API spend, compressing prompts, or making the agent more efficient.",
+  "version": "0.2.0",
+  "author": {
+    "name": "ckpxgfnksd-max"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ckpxgfnksd-max/prompt-token-saver",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ckpxgfnksd-max/prompt-token-saver"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "iideas18--stock-kline-analysis",
+  "description": "Given a stock name or code, auto-detect its market, fetch 6-month daily K-line, plot candlestick + MA/Bollinger/MACD/RSI/ATR with multi-timeframe confirmation, and deliver structured analysis with trend, momentum, valuation context, portfolio-relative strength, and event-aware risk notes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "iideas18"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iideas18/stock-kline-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iideas18/stock-kline-analysis"
+}

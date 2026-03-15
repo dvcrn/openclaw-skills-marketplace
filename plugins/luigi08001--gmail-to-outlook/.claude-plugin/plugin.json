@@ -1,0 +1,10 @@
+{
+  "name": "luigi08001--gmail-to-outlook",
+  "description": "Migrate email, contacts, and calendars from Google Workspace (Gmail) to Microsoft 365 (Outlook/Exchange Online). Use when a user asks to migrate from Gmail to Outlook, transfer emails from Google Workspace to Office 365, export Google Takeout to Outlook, switch from Gmail to Exchange, or plan a Google Workspace to Microsoft 365 migration. Covers: single-user migrations, bulk/org-wide migrations, MBOX imports, calendar + contacts transfer, DNS/MX cutover, and post-migration validation.",
+  "version": "1.2.0",
+  "author": {
+    "name": "luigi08001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luigi08001/gmail-to-outlook",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luigi08001/gmail-to-outlook"
+}

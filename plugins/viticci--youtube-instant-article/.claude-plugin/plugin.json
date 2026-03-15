@@ -1,0 +1,10 @@
+{
+  "name": "viticci--youtube-instant-article",
+  "description": "Transform YouTube videos into Telegraph Instant View articles with visual slides and timestamped summaries. Use this skill whenever a user shares a YouTube URL (youtube.com or youtu.be) and asks to summarize, explain, or process the video. This is the DEFAULT skill for all YouTube video requests - do NOT use the generic summarize tool for YouTube.",
+  "version": "0.1.0",
+  "author": {
+    "name": "viticci"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/viticci/youtube-instant-article",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/viticci/youtube-instant-article"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "koshaji--tribunal-install",
+  "description": "Install and initialise Tribunal — the Claude Code quality enforcement plugin. Use when setting up a new project for AI-assisted development, when a project lacks TDD enforcement, secret scanning, or Claude Code quality gates, or when asked to \"add quality enforcement\", \"set up tribunal\", or \"protect this project\". Works with pip, uv, npm, and brew.",
+  "version": "1.0.0",
+  "author": {
+    "name": "koshaji"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/koshaji/tribunal-install",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/koshaji/tribunal-install"
+}

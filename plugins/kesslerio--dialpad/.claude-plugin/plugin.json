@@ -1,0 +1,10 @@
+{
+  "name": "kesslerio--dialpad",
+  "description": "Send SMS and make voice calls via Dialpad API. Supports single/batch SMS, voice calls with TTS, and caller ID selection.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kesslerio"
+  },
+  "homepage": "https://developers.dialpad.com/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/dialpad"
+}

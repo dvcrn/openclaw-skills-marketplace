@@ -1,0 +1,10 @@
+{
+  "name": "felixdaga--paperbox",
+  "description": "Upload AI-generated HTML games, apps, or generative art to PaperBox (paperbox-beta.vercel.app) and return a shareable link. Use when the agent has created an HTML game, app, generative art, or interactive project and the user wants to share it. Triggers on phrases like \"share this\", \"upload to PaperBox\", \"publish my app\", \"get a link\", or after any HTML game/app/art creation task.",
+  "version": "1.0.1",
+  "author": {
+    "name": "felixdaga"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/felixdaga/paperbox",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/felixdaga/paperbox"
+}

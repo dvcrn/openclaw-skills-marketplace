@@ -1,0 +1,10 @@
+{
+  "name": "2p1c--gmail-summarize",
+  "description": "Fetch recent unread Gmail (yesterday + today) and send a digest to the user.",
+  "version": "1.1.4",
+  "author": {
+    "name": "2p1c"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/2p1c/gmail-summarize",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/2p1c/gmail-summarize"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "joelnishanth--local-first-llm",
+  "description": "Routes LLM requests to a local model (Ollama, LM Studio, llamafile) before falling back to cloud APIs. Tracks token savings and cost avoidance in a persistent dashboard. Use when: (1) user asks to run a task with a local model first, (2) user wants to reduce cloud API costs or keep requests private, (3) user asks to see their token savings or LLM routing dashboard, (4) any request where local-vs-cloud routing should be decided automatically. Supports Ollama, LM Studio, and llamafile as local providers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "joelnishanth"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/joelnishanth/local-first-llm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joelnishanth/local-first-llm"
+}

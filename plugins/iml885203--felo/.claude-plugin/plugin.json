@@ -1,0 +1,10 @@
+{
+  "name": "iml885203--felo",
+  "description": "AI-synthesized web search via Felo API — aggregates 15-40 sources into structured summaries. Use when: (1) researching a topic that needs multi-source synthesis, (2) scanning community trends (Reddit, GitHub, X, blogs), (3) market news requiring cross-source analysis, (4) phrases like '幫我查', '搜尋一下', 'research', 'what's trending'. NOT for: single-site lookups (use web_fetch), time-critical queries needing exact timestamps (use web_search), or quick 1-second lookups.",
+  "version": "1.2.0",
+  "author": {
+    "name": "iml885203"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iml885203/felo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iml885203/felo"
+}

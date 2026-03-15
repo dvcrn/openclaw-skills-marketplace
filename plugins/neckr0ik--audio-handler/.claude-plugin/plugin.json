@@ -1,0 +1,10 @@
+{
+  "name": "neckr0ik--audio-handler",
+  "description": "Read, analyze, convert, and process audio files (MP3, WAV, FLAC, AAC, M4A, OGG, OPUS, WMA). Use when working with audio: extracting metadata, converting formats, trimming, merging, adjusting volume, or transcribing. Triggers on mentions of audio files, file paths with audio extensions, or requests to process/convert audio.",
+  "version": "1.0.0",
+  "author": {
+    "name": "neckr0ik"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neckr0ik/audio-handler",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neckr0ik/audio-handler"
+}

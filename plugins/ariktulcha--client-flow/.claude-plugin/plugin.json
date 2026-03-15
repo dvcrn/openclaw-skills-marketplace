@@ -1,0 +1,10 @@
+{
+  "name": "ariktulcha--client-flow",
+  "description": "Automated client onboarding and project lifecycle management. From a single message, creates Google Drive/Dropbox project folder structure, generates project brief, sends templated welcome email, schedules kickoff meeting on Google Calendar, sets up task board in Todoist/ClickUp/Linear/Asana/Notion, configures follow-up reminders, and maintains a master client registry with status tracking. Use this skill for: new client onboarding, project setup, client intake, welcome email, kickoff meeting scheduling, project kickoff, client management, project status dashboard, \"new client [name]\", \"onboard [company]\", \"set up a project for [client]\", \"how are my projects doing\", client portfolio overview, project lifecycle tracking, client communication templates, progress update emails, project closure workflow, freelancer project management, agency client management, or any request involving setting up and tracking client projects. One message replaces 30 minutes of manual setup across email, calendar, file storage, and task management tools.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ariktulcha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ariktulcha/client-flow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ariktulcha/client-flow"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "macterra--archon-cashu",
+  "description": "Cashu ecash operations integrated with Archon DID for P2PK-locked tokens. Send and receive sats using DID-derived pubkeys, backup wallets to vault. Use for Cashu token operations, DID-locked payments, or ecash wallet management.",
+  "version": "0.1.0",
+  "author": {
+    "name": "macterra"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/macterra/archon-cashu",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/macterra/archon-cashu"
+}

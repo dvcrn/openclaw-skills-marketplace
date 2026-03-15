@@ -1,0 +1,10 @@
+{
+  "name": "don068589--douyin-video-transcribe",
+  "description": "Extract audio from Douyin (抖音/TikTok China) videos and transcribe to text using Whisper. Trigger when user sends a Douyin link (v.douyin.com or www.douyin.com/video/) and asks for transcription, extract text, analyze video content, or summarize.",
+  "version": "1.0.0",
+  "author": {
+    "name": "don068589"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/don068589/douyin-video-transcribe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/don068589/douyin-video-transcribe"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cylqqqcyl--lean-engine",
+  "description": "Run QuantConnect LEAN backtests and manage US equity algorithm development. Use when asked to backtest a trading strategy, run a LEAN algorithm, analyze backtest results, download market data, or deploy to Interactive Brokers TWS. Covers algorithm creation, data management, config editing, and result analysis.",
+  "version": "1.1.0",
+  "author": {
+    "name": "cylqqqcyl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cylqqqcyl/lean-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cylqqqcyl/lean-engine"
+}

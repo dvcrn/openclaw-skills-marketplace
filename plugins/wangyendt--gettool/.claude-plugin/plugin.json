@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--gettool",
+  "description": "Fetch and install C++ tools/libraries from cpp_tools repository. Use when users need to download or clone third-party C++ libraries such as eigen, opencv, pcl, fmt. Use for building tools from source using CMake, installing tools with installation scripts, listing available tools, or managing cpp_tools repository URL. Triggered by requests to fetch, get, download, clone, or install C++ tools or libraries.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/gettool",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/gettool"
+}

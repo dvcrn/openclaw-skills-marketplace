@@ -1,0 +1,10 @@
+{
+  "name": "shaowenchen--webhook-send",
+  "description": "向指定 webhook 地址发送消息。URL 从环境变量 WEBHOOK_SEND_URL 读取。\n 仅支持 text、markdown 两种类型，支持 Markdown 富文本。",
+  "version": "1.0.0",
+  "author": {
+    "name": "shaowenchen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shaowenchen/webhook-send",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shaowenchen/webhook-send"
+}

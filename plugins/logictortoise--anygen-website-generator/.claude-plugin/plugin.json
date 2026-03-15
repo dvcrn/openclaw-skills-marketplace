@@ -1,0 +1,10 @@
+{
+  "name": "logictortoise--anygen-website-generator",
+  "description": "Build a landing page or simple website with AnyGen AI. Uses dialogue mode to understand purpose, audience, and content before generating. Triggers: build website, landing page, create webpage, web page, simple site.",
+  "version": "1.4.4",
+  "author": {
+    "name": "logictortoise"
+  },
+  "homepage": "https://www.anygen.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/logictortoise/anygen-website-generator"
+}

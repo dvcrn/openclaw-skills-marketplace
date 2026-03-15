@@ -1,0 +1,10 @@
+{
+  "name": "fwangzil--safe-flow-sui-skill",
+  "description": "Use when running SafeFlow against the shared Sui package with owner-assisted provisioning. Trigger for tasks such as creating an agent execution address with local Sui CLI, asking owner to fund gas and finish web-side wallet/session setup, saving walletId/sessionCapId for autonomous payments, syncing package id to SQL, and running Publish API plus Walrus end-to-end tests.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fwangzil"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fwangzil/safe-flow-sui-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fwangzil/safe-flow-sui-skill"
+}

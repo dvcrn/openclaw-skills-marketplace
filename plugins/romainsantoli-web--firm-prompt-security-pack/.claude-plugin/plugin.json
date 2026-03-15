@@ -1,0 +1,10 @@
+{
+  "name": "romainsantoli-web--firm-prompt-security-pack",
+  "description": "Prompt injection and jailbreak detection pack. 16 compiled regex patterns across 3 severity levels (CRITICAL, HIGH, MEDIUM). Supports single-prompt and batch scanning modes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "romainsantoli-web"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-prompt-security-pack",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-prompt-security-pack"
+}

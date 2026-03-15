@@ -1,0 +1,10 @@
+{
+  "name": "paperboardofficial--claude-review",
+  "description": "Self-review quality gate using Claude CLI. When the user says 'review your work', 'use review-work', or 'check your output', run review-work with the task summary, --context pointing to your output file/folder, and --skill pointing to the skill used (if any). You determine all arguments yourself — the user does NOT need to specify them. Requires `claude` CLI installed.",
+  "version": "1.0.1",
+  "author": {
+    "name": "paperboardofficial"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/paperboardofficial/claude-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paperboardofficial/claude-review"
+}

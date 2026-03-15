@@ -1,0 +1,10 @@
+{
+  "name": "yaqing2023--moltspay-skill",
+  "description": "Pay for and use AI services via MoltsPay protocol.\n Trigger: User asks to generate video, use a paid service, etc.\n Auto-discovers services from /.well-known/agent-services.json",
+  "version": "0.1.3",
+  "author": {
+    "name": "yaqing2023"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yaqing2023/moltspay-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yaqing2023/moltspay-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "g9pedro--loom-workflow",
+  "description": "AI-native workflow analyzer for Loom recordings. Breaks down recorded business processes\n into structured, automatable workflows. Use when:\n - Analyzing Loom videos to understand workflows\n - Extracting steps, tools, and decision points from screen recordings\n - Generating Lobster workflow files from video walkthroughs\n - Identifying ambiguities and human intervention points in processes",
+  "version": "1.0.1",
+  "author": {
+    "name": "g9pedro"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/g9pedro/loom-workflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/g9pedro/loom-workflow"
+}

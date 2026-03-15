@@ -1,0 +1,10 @@
+{
+  "name": "shuai-daidai--feishu-doc-manager",
+  "description": "📄 Feishu Doc Manager | 飞书文档管理器\n \n Seamlessly publish Markdown content to Feishu Docs with automatic formatting.\n Solves key pain points: Markdown table conversion, permission management, batch writing.\n \n 将 Markdown 内容无缝发布到飞书文档，自动渲染格式。\n 解决核心痛点：Markdown 表格转换、权限管理、批量写入。",
+  "version": "1.0.0",
+  "author": {
+    "name": "shuai-daidai"
+  },
+  "homepage": "https://github.com/Shuai-DaiDai/feishu-doc-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shuai-daidai/feishu-doc-manager"
+}

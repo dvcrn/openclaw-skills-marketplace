@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--agent-creator",
+  "description": "Create a new AI agent identity (SOUL.md, IDENTITY.md, AGENTS.md) and package it as a .skill file ready to upload to ClawHub. Use when a user wants to create, configure, or package a new named AI agent persona — including personality, operational rules, and workspace identity. Triggers on requests like \"create an agent\", \"build me an agent\", \"make a new persona\", \"set up an agent identity\", or \"package this agent for ClawHub\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/agent-creator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/agent-creator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "pierreeurope--clawpulse",
+  "description": "Connect your OpenClaw agent to ClawPulse - the community analytics dashboard. Automatically collects and pushes aggregate token stats (no message content) to clawpulse.vercel.app. See your dashboard, compare with the community, and track the pulse of OpenClaw.",
+  "version": "0.3.0",
+  "author": {
+    "name": "pierreeurope"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pierreeurope/clawpulse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pierreeurope/clawpulse"
+}

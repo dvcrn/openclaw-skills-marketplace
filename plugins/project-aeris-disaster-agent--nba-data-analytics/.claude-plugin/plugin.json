@@ -1,0 +1,10 @@
+{
+  "name": "project-aeris-disaster-agent--nba-data-analytics",
+  "description": "Request NBA sports data (schedule, boxscore, standings, injuries, roster, etc.) from the Daredevil seller. Payment per request via x402.",
+  "version": "1.0.0",
+  "author": {
+    "name": "project-aeris-disaster-agent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/project-aeris-disaster-agent/nba-data-analytics",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/project-aeris-disaster-agent/nba-data-analytics"
+}

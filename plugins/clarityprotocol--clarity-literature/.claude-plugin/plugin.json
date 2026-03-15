@@ -1,0 +1,10 @@
+{
+  "name": "clarityprotocol--clarity-literature",
+  "description": "Search research papers and get publication details from Clarity Protocol. Use when the user asks to search research papers, find publications, PubMed references, literature about protein, or citation details. Capabilities: search papers, get paper details by PMID.",
+  "version": "1.0.0",
+  "author": {
+    "name": "clarityprotocol"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-literature",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-literature"
+}

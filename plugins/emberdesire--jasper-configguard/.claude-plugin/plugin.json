@@ -1,0 +1,10 @@
+{
+  "name": "emberdesire--jasper-configguard",
+  "description": "Safe config changes for OpenClaw with automatic rollback. Backs up before patching, health-checks after restart, auto-rolls back on failure. Commands: patch, restore, list, diff, validate, doctor.",
+  "version": "1.0.0",
+  "author": {
+    "name": "emberdesire"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/emberdesire/jasper-configguard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/emberdesire/jasper-configguard"
+}

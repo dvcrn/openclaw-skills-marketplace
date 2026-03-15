@@ -1,0 +1,10 @@
+{
+  "name": "retrodigio--red-team",
+  "description": "Adversarial multi-agent debate engine for stress-testing decisions, ideas, and strategies. Orchestrates multiple AI agents with conflicting worldviews (bull, bear, operator, contrarian, etc.) to debate a question through structured rounds, then synthesizes results into a decision brief. Use for: red team analysis, adversarial debate, stress testing ideas, devil's advocate, \"what could go wrong\" analysis, decision validation, pre-mortem exercises.",
+  "version": "1.0.0",
+  "author": {
+    "name": "retrodigio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/retrodigio/red-team",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/retrodigio/red-team"
+}

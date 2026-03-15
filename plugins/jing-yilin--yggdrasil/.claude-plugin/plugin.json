@@ -1,0 +1,10 @@
+{
+  "name": "jing-yilin--yggdrasil",
+  "description": "Diagnose Yggdrasil installation and daemon status for IPv6 P2P connectivity. Use when P2P fails, user asks about connectivity, or Yggdrasil needs to be installed.",
+  "version": "0.1.3",
+  "author": {
+    "name": "jing-yilin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jing-yilin/yggdrasil",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jing-yilin/yggdrasil"
+}

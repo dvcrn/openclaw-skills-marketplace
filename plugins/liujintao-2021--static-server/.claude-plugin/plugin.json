@@ -1,0 +1,10 @@
+{
+  "name": "liujintao-2021--static-server",
+  "description": "Start a local HTTP server to preview static HTML pages. Use when testing static pages, previewing HTML files, or when browser tools cannot access file:// URLs. Provides localhost URL for browser testing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "liujintao-2021"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/liujintao-2021/static-server",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/liujintao-2021/static-server"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xonder--supercall",
+  "description": "Make AI-powered phone calls with custom personas and goals. Uses OpenAI Realtime API + Twilio for ultra-low latency voice conversations. Supports DTMF/IVR navigation — the AI can navigate automated phone menus by sending touch-tone digits. Use when you need to call someone, confirm appointments, deliver messages, navigate phone trees, or have the AI handle phone conversations autonomously. Unlike the standard voice_call plugin, the person on the call doesn't have access to gateway agent, reducing attack surfaces.",
+  "version": "2.0.0",
+  "author": {
+    "name": "xonder"
+  },
+  "homepage": "https://github.com/xonder/supercall",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xonder/supercall"
+}

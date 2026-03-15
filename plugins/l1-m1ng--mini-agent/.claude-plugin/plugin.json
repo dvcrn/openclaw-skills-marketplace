@@ -1,0 +1,10 @@
+{
+  "name": "l1-m1ng--mini-agent",
+  "description": "Mini-Max AI 编程助手 - 基于 MiniMax M2.5 模型的智能代码开发工具，支持文件操作、命令执行、代码编写等功能。适用于 OpenClaw Agent 系统。",
+  "version": "1.0.0",
+  "author": {
+    "name": "l1-m1ng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/l1-m1ng/mini-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/l1-m1ng/mini-agent"
+}

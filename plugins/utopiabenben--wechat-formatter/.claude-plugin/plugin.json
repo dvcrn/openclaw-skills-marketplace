@@ -1,0 +1,10 @@
+{
+  "name": "utopiabenben--wechat-formatter",
+  "description": "将 Markdown 文章转换为微信公众号编辑器粘贴格式，保留段落层次和基础格式（加粗、列表、代码块）。使用于需要快速发布文章到公众号的场景。",
+  "version": "1.0.0",
+  "author": {
+    "name": "utopiabenben"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/utopiabenben/wechat-formatter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/utopiabenben/wechat-formatter"
+}

@@ -1,0 +1,78 @@
+{
+    "name": "mindgraph",
+    "version": "5.1.0",
+    "description": "Structured knowledge graph with 18 cognitive layer tools for agent memory and reasoning",
+    "author": "shuruheel",
+    "license": "MIT",
+    "main": "SKILL.md",
+    "bin": {
+        "mindgraph-extract": "extract.js",
+        "mindgraph-import": "import.js",
+        "mindgraph-dream": "dreaming/dream-agent.js",
+        "mindgraph-dedup": "dedup.js",
+        "mindgraph-re-embed": "re-embed.js",
+        "mindgraph-reindex": "reindex-search.js"
+    },
+    "scripts": {
+        "extract": "node extract.js",
+        "import": "node import.js",
+        "dream": "node dreaming/dream-agent.js",
+        "dedup": "node dedup.js",
+        "health-fix": "node health-fix.js",
+        "re-embed": "node re-embed.js",
+        "reindex-search": "node reindex-search.js"
+    },
+    "dependencies": {
+        "node": ">=18.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shuruheel/mindgraph-rs"
+    },
+    "keywords": [
+        "knowledge-graph",
+        "memory",
+        "semantic-search",
+        "cognitive-layer",
+        "agent-memory",
+        "reasoning",
+        "entity-resolution"
+    ],
+    "files": [
+        "SKILL.md",
+        "SCHEMA.md",
+        "EXTRACTION.md",
+        "route-node.js",
+        "*.js",
+        "dreaming/*.js",
+        "dreaming/*.md",
+        "dreaming/.dream/",
+        "flatten_transcript.py",
+        "start.sh",
+        "install.sh"
+    ],
+    "openclaw": {
+        "minVersion": "0.9.0",
+        "requires": {
+            "bins": [
+                "node",
+                "python3"
+            ],
+            "env": [
+                "MINDGRAPH_TOKEN"
+            ],
+            "envOptional": [
+                "MINDGRAPH_URL",
+                "OPENAI_API_KEY"
+            ]
+        },
+        "hooks": [
+            "mindgraph-context",
+            "mindgraph-writeback"
+        ],
+        "endpoints": {
+            "health": "${MINDGRAPH_URL:-http://127.0.0.1:18790}/health",
+            "api": "${MINDGRAPH_URL:-http://127.0.0.1:18790}"
+        }
+    }
+}

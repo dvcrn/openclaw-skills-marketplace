@@ -1,0 +1,10 @@
+{
+  "name": "aaigotchi--gotchi-finder",
+  "description": "Fetch Aavegotchi by ID from Base mainnet and display image with full traits. Shows on-chain SVG, converts to PNG, and displays complete gotchi stats.",
+  "version": "1.2.1",
+  "author": {
+    "name": "aaigotchi"
+  },
+  "homepage": "https://github.com/aaigotchi/gotchi-finder-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaigotchi/gotchi-finder"
+}

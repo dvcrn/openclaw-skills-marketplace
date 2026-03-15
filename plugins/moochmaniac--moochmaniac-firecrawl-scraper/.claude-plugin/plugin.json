@@ -1,0 +1,10 @@
+{
+  "name": "moochmaniac--moochmaniac-firecrawl-scraper",
+  "description": "Web scraping, crawling, and search via Firecrawl API. Converts web pages to clean markdown/JSON optimized for AI consumption. Use when you need to extract content from websites, crawl entire sites, or search and scrape web results. Handles JavaScript-heavy sites, dynamic content, and provides structured output. 96% web coverage including modern SPAs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "moochmaniac"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moochmaniac/moochmaniac-firecrawl-scraper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moochmaniac/moochmaniac-firecrawl-scraper"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "yhy0--go-vuln-auth-bypass",
+  "description": "Use when auditing Go code involving authentication flows, RBAC policies, Kubernetes admission webhooks, JWT/OAuth token validation, or privilege escalation in cloud-native infrastructure. Covers CWE-287/863/269/284/285/862. Keywords: authentication bypass, authorization bypass, RBAC, admission webhook, JWT, OAuth, privilege escalation, Rancher, Kyverno, impersonation, namespace isolation, middleware auth",
+  "version": "0.1.0",
+  "author": {
+    "name": "yhy0"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yhy0/go-vuln-auth-bypass",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yhy0/go-vuln-auth-bypass"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kotoriy--openclaw-claude-code-bailian",
+  "description": "调用 Claude Code CLI 进行代码开发、代码审查、bug 修复和自动化任务。当用户需要：(1) 代码审查和审查 PR，(2) 重构和性能优化，(3) 编写测试，(4) 自动修复 lint 错误，(5) 创建 commit 和 PR，(6) 复杂的多文件代码修改，(7) 使用自然语言描述编程任务时使用此技能。此 skill 适用于 OpenClaw 通过 PTY 调用 Claude Code 的场景。",
+  "version": "1.0.0",
+  "author": {
+    "name": "kotoriy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kotoriy/openclaw-claude-code-bailian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kotoriy/openclaw-claude-code-bailian"
+}

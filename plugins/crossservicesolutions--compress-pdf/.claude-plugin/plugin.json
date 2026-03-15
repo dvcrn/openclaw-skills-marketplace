@@ -1,0 +1,10 @@
+{
+  "name": "crossservicesolutions--compress-pdf",
+  "description": "Compress a user-provided PDF by uploading it to Cross-Service-Solutions, polling until completion, then returning a download URL for the compressed file.",
+  "version": "1.0.0",
+  "author": {
+    "name": "crossservicesolutions"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crossservicesolutions/compress-pdf",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crossservicesolutions/compress-pdf"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "al1enjesus--polyclawster",
+  "description": "Trade on Polymarket prediction markets. Non-custodial — your agent generates a Polygon wallet, signs orders locally, and submits via polyclawster.com relay (geo-bypass). Private key never leaves your machine. Fund with POL — agent auto-swaps to USDC.e.",
+  "version": "1.5.0",
+  "author": {
+    "name": "al1enjesus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/al1enjesus/polyclawster",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/al1enjesus/polyclawster"
+}

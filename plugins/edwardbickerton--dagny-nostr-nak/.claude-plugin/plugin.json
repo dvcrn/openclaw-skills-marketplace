@@ -1,0 +1,10 @@
+{
+  "name": "edwardbickerton--dagny-nostr-nak",
+  "description": "Manage Nostr posting and engagement via the nak CLI. Use for creating notes, replying in threads, tagging npubs, checking replies/mentions, monitoring a relay (default wss://relay.primal.net), and publishing events with correct root/reply tags. Requires access to NOSTR_SECRET_KEY (nsec) for signing/publishing.",
+  "version": "0.1.4",
+  "author": {
+    "name": "edwardbickerton"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/edwardbickerton/dagny-nostr-nak",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/edwardbickerton/dagny-nostr-nak"
+}

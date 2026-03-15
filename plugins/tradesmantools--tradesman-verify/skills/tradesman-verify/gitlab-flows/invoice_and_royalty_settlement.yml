@@ -1,0 +1,308 @@
+# invoice_and_royalty_settlement — GitLab Duo Workflow
+# Spec: GitLab Duo Workflows YAML v1 (requires GitLab Premium + Duo license)
+# MCP server: tradesman-verify (https://gitlab.com/tradesmantools1/tradesman-verify)
+#
+# Purpose: Post-job financial settlement. Verifies the assigned contractor one final
+#          time (credential drift guard), computes platform/provider/creator splits,
+#          generates an invoice, obtains human approval, and records settlement.
+#
+# Trigger: Job completion event from tradesman-tools job tracker
+
+name: invoice_and_royalty_settlement
+version: "1.0"
+description: >
+  Post-job financial settlement workflow. Re-verifies contractor credentials to
+  guard against drift between dispatch and completion, computes revenue splits
+  (platform / provider / creator), generates an invoice record, routes to finance
+  for approval, and records the settled transaction. Optionally anchors the
+  payment record on the Accumulate blockchain via the contractor's ADI.
+
+metadata:
+  category: finance
+  tags: [invoice, settlement, royalty, splits, payment, accumulate, blockchain]
+  mcp_server: tradesman-verify
+  author: TradesmanTools / LV8R Labs
+  gitlab_catalog_listing: tradesmantools1/tradesman-verify
+
+inputs:
+  job_id:
+    type: string
+    description: "Completed job record ID"
+    required: true
+
+  contractor_adi_url:
+    type: string
+    description: "Contractor's Accumulate ADI, e.g. 'acc://john-doe-electric.acme'"
+    required: true
+
+  provider_id:
+    type: string
+    description: "ToolServiceProvider ID from TradesmanTools registry"
+    required: true
+
+  gross_amount_usd:
+    type: number
+    description: "Total job amount in USD before splits"
+    required: true
+
+  platform_percent:
+    type: number
+    description: "Platform revenue share as a decimal (e.g. 0.30 = 30%). Default: 0.30"
+    default: 0.30
+
+  provider_percent:
+    type: number
+    description: "Provider share as a decimal (e.g. 0.70 = 70%). Default: 0.70"
+    default: 0.70
+
+  creator_percent:
+    type: number
+    description: "Creator royalty share (e.g. 0.10 = 10% — reduces provider share). Default: 0"
+    default: 0
+
+  currency:
+    type: string
+    description: "ISO 4217 currency code. Default: USD"
+    default: "USD"
+
+  anchor_on_chain:
+    type: boolean
+    description: >
+      Whether to anchor the settlement record on the contractor's Accumulate ADI
+      as a self-attested PaymentRecord credential. Requires contractor's signer.
+    default: false
+
+steps:
+  # ── Step 1: Re-verify contractor (credential drift guard) ─────────────────────
+  - id: final_verify
+    name: "Final Credential Verification (Drift Guard)"
+    description: >
+      Re-verify the contractor's credentials at settlement time. Guards against
+      the window between job dispatch and completion where credentials may have
+      expired or been revoked.
+    type: agent_tool
+    tool:
+      name: verify_contractor
+      server: tradesman-verify
+    with:
+      adi_url: "${{ inputs.contractor_adi_url }}"
+      require_kyc: "true"
+      require_license: "true"
+      require_insurance: "true"
+    outputs:
+      - name: verified
+        from: verified
+      - name: level
+        from: level
+      - name: expired
+        from: expired
+      - name: revoked
+        from: revoked
+
+  # ── Step 2: Credential drift check ───────────────────────────────────────────
+  - id: drift_check
+    name: "Credential Drift Check"
+    type: condition
+    description: >
+      If credentials expired or were revoked between dispatch and completion,
+      route to finance for exception review before approving payment.
+    if: >
+      "${{ steps.final_verify.outputs.expired == []
+          && steps.final_verify.outputs.revoked == [] }}"
+    then:
+      next: compute_splits
+    else:
+      next: drift_exception_review
+
+  # ── Step 3a: Credential drift — finance exception review ──────────────────────
+  - id: drift_exception_review
+    name: "Credential Drift — Finance Exception Review"
+    type: human_review
+    prompt: |
+      ALERT: Contractor credentials changed between dispatch and job completion.
+
+      Job ID: ${{ inputs.job_id }}
+      Contractor: ${{ inputs.contractor_adi_url }}
+      Gross amount: ${{ inputs.gross_amount_usd }} ${{ inputs.currency }}
+
+      Credential status at settlement:
+      - Verification level: ${{ steps.final_verify.outputs.level }}
+      - Expired credentials: ${{ steps.final_verify.outputs.expired }}
+      - Revoked credentials: ${{ steps.final_verify.outputs.revoked }}
+
+      Approve to proceed with payment (exception noted), or reject to hold payment
+      pending credential remediation.
+    on_approve:
+      next: compute_splits
+    on_reject:
+      next: hold_payment
+
+  # ── Step 3b: Compute revenue splits ──────────────────────────────────────────
+  - id: compute_splits
+    name: "Compute Revenue Splits"
+    description: >
+      Calculate platform, provider, and creator amounts from the gross job amount.
+      Validates that splits sum to 1.0 (100%).
+    type: agent_tool
+    tool:
+      name: compute_revenue_splits
+      server: tradesman-tools
+    with:
+      gross_amount: "${{ inputs.gross_amount_usd }}"
+      platform_percent: "${{ inputs.platform_percent }}"
+      provider_percent: "${{ inputs.provider_percent }}"
+      creator_percent: "${{ inputs.creator_percent }}"
+      currency: "${{ inputs.currency }}"
+    outputs:
+      - name: platform_amount
+        from: platform_amount
+      - name: provider_amount
+        from: provider_amount
+      - name: creator_amount
+        from: creator_amount
+      - name: split_summary
+        from: split_summary
+
+  # ── Step 4: Generate invoice ──────────────────────────────────────────────────
+  - id: generate_invoice
+    name: "Generate Invoice Record"
+    type: agent_tool
+    tool:
+      name: generate_invoice
+      server: tradesman-tools
+    with:
+      job_id: "${{ inputs.job_id }}"
+      contractor_adi_url: "${{ inputs.contractor_adi_url }}"
+      provider_id: "${{ inputs.provider_id }}"
+      gross_amount: "${{ inputs.gross_amount_usd }}"
+      platform_amount: "${{ steps.compute_splits.outputs.platform_amount }}"
+      provider_amount: "${{ steps.compute_splits.outputs.provider_amount }}"
+      creator_amount: "${{ steps.compute_splits.outputs.creator_amount }}"
+      currency: "${{ inputs.currency }}"
+      verification_level: "${{ steps.final_verify.outputs.level }}"
+    outputs:
+      - name: invoice_id
+        from: invoice_id
+      - name: invoice_url
+        from: invoice_url
+
+  # ── Step 5: Finance approval gate ────────────────────────────────────────────
+  - id: finance_approval
+    name: "Finance — Approve Settlement"
+    type: human_review
+    prompt: |
+      Settlement approval required for Job ${{ inputs.job_id }}
+
+      Contractor:     ${{ inputs.contractor_adi_url }}
+      Verification:   ${{ steps.final_verify.outputs.level }}
+      Invoice ID:     ${{ steps.generate_invoice.outputs.invoice_id }}
+
+      Revenue splits:
+        Gross amount:    ${{ inputs.gross_amount_usd }} ${{ inputs.currency }}
+        Platform share:  ${{ steps.compute_splits.outputs.platform_amount }} ${{ inputs.currency }} (${{ inputs.platform_percent * 100 }}%)
+        Provider share:  ${{ steps.compute_splits.outputs.provider_amount }} ${{ inputs.currency }} (${{ inputs.provider_percent * 100 }}%)
+        Creator royalty: ${{ steps.compute_splits.outputs.creator_amount }} ${{ inputs.currency }} (${{ inputs.creator_percent * 100 }}%)
+
+      Review invoice at: ${{ steps.generate_invoice.outputs.invoice_url }}
+    context:
+      - "${{ steps.compute_splits.outputs.split_summary }}"
+    on_approve:
+      next: record_settlement
+    on_reject:
+      next: hold_payment
+
+  # ── Step 6: Record settlement ─────────────────────────────────────────────────
+  - id: record_settlement
+    name: "Record Revenue Settlement"
+    description: >
+      Persists the ProviderRevenueTx record atomically with the provider's
+      totalEarnings and totalJobs update. Creates the audit trail.
+    type: agent_tool
+    tool:
+      name: record_provider_revenue
+      server: tradesman-tools
+    with:
+      provider_id: "${{ inputs.provider_id }}"
+      tool_id: "${{ inputs.job_id }}"
+      execution_id: "${{ steps.generate_invoice.outputs.invoice_id }}"
+      total_amount: "${{ inputs.gross_amount_usd }}"
+      provider_amount: "${{ steps.compute_splits.outputs.provider_amount }}"
+      platform_amount: "${{ steps.compute_splits.outputs.platform_amount }}"
+      creator_amount: "${{ steps.compute_splits.outputs.creator_amount }}"
+      currency: "${{ inputs.currency }}"
+    outputs:
+      - name: tx_id
+        from: tx_id
+      - name: settlement_timestamp
+        from: created_at
+
+  # ── Step 7: Anchor on-chain (optional) ───────────────────────────────────────
+  - id: check_anchor
+    name: "Anchor Settlement On-Chain?"
+    type: condition
+    if: "${{ inputs.anchor_on_chain == true }}"
+    then:
+      next: anchor_payment_record
+    else:
+      next: settlement_complete
+
+  - id: anchor_payment_record
+    name: "Anchor PaymentRecord On-Chain"
+    description: >
+      Self-attests a PaymentRecord credential to the contractor's ADI.
+      Provides portable, blockchain-anchored proof of completed payment.
+    type: agent_tool
+    tool:
+      name: self_attest_credential
+      server: tradesman-verify
+    with:
+      subject_adi_url: "${{ inputs.contractor_adi_url }}"
+      credential_type: "PaymentRecord"
+      claims: >
+        {
+          "jobId": "${{ inputs.job_id }}",
+          "invoiceId": "${{ steps.generate_invoice.outputs.invoice_id }}",
+          "settlementTxId": "${{ steps.record_settlement.outputs.tx_id }}",
+          "grossAmount": ${{ inputs.gross_amount_usd }},
+          "providerAmount": ${{ steps.compute_splits.outputs.provider_amount }},
+          "currency": "${{ inputs.currency }}",
+          "settledAt": "${{ steps.record_settlement.outputs.settlement_timestamp }}"
+        }
+    outputs:
+      - name: payment_credential_id
+        from: credential_id
+      - name: payment_txid
+        from: txid
+
+  # ── Step 8: Settlement complete ───────────────────────────────────────────────
+  - id: settlement_complete
+    name: "Settlement Complete"
+    type: agent_tool
+    tool:
+      name: mark_job_settled
+      server: tradesman-tools
+    with:
+      job_id: "${{ inputs.job_id }}"
+      invoice_id: "${{ steps.generate_invoice.outputs.invoice_id }}"
+      settlement_tx_id: "${{ steps.record_settlement.outputs.tx_id }}"
+
+  # ── Step 9: Hold payment ──────────────────────────────────────────────────────
+  - id: hold_payment
+    name: "Hold Payment"
+    type: agent_tool
+    tool:
+      name: hold_job_payment
+      server: tradesman-tools
+    with:
+      job_id: "${{ inputs.job_id }}"
+      reason: "Finance review rejected or credential drift detected"
+
+outputs:
+  - name: invoice_id
+    from: steps.generate_invoice.outputs.invoice_id
+  - name: settlement_tx_id
+    from: steps.record_settlement.outputs.tx_id
+  - name: provider_amount
+    from: steps.compute_splits.outputs.provider_amount
+  - name: payment_credential_id
+    from: steps.anchor_payment_record.outputs.payment_credential_id

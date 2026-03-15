@@ -1,0 +1,11 @@
+{
+  "name": "goldhold",
+  "version": "1.0.6",
+  "description": "Persistent memory for AI agents. Remember across sessions. Encrypted in transit and at rest. https://goldhold.ai",
+  "author": "All Auto Tunes LLC",
+  "license": "Proprietary",
+  "homepage": "https://goldhold.ai",
+  "keywords": ["memory", "persistence", "agents", "recall", "context"],
+  "triggers": ["goldhold", "remember", "memory", "recall", "persist", "context"],
+  "entry": "SKILL.md"
+}

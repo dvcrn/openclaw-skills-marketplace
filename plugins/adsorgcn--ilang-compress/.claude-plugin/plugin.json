@@ -1,0 +1,10 @@
+{
+  "name": "adsorgcn--ilang-compress",
+  "description": "Compress natural language prompts into I-Lang — AI-native structured instructions. 40-65% token savings.",
+  "version": "2.3.1",
+  "author": {
+    "name": "adsorgcn"
+  },
+  "homepage": "https://ilang.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adsorgcn/ilang-compress"
+}

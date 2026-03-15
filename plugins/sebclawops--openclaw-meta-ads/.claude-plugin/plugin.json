@@ -1,0 +1,10 @@
+{
+  "name": "sebclawops--openclaw-meta-ads",
+  "description": "Shared Meta Ads skill for OpenClaw agents. Analyze Meta (Facebook and Instagram) ad accounts, campaigns, ad sets, ads, insights, and lead-form data with a production-safe read-first workflow. Use when an agent needs Meta Ads reporting, account audits, creative or audience diagnostics, lead-form review, or recommendations before live ad changes. Require explicit approval before any write action.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sebclawops"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sebclawops/openclaw-meta-ads",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sebclawops/openclaw-meta-ads"
+}

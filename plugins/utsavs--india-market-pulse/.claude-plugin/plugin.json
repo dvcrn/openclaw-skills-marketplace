@@ -1,0 +1,10 @@
+{
+  "name": "utsavs--india-market-pulse",
+  "description": "Daily Indian stock market briefing and price alerts. Monitors NSE/BSE stocks, tracks a personal watchlist, and delivers a morning summary via WhatsApp or Telegram. Covers Nifty 50, Sensex, top gainers/losers, and user-configured stock alerts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "utsavs"
+  },
+  "homepage": "https://clawhub.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/utsavs/india-market-pulse"
+}

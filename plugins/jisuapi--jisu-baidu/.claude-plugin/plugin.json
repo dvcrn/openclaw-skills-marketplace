@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--jisu-baidu",
+  "description": "使用百度千帆 AI 搜索（百度搜索）API，在对话中检索实时网页信息，返回摘要与链接列表。",
+  "version": "1.0.2",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/jisu-baidu",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/jisu-baidu"
+}

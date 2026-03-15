@@ -1,0 +1,10 @@
+{
+  "name": "agmsyumet--paypilot-agms",
+  "description": "Process payments, send invoices, issue refunds, manage subscriptions, and detect fraud via a secure payment gateway proxy. Use when a user asks to charge someone, send a payment link, check sales, issue a refund, create recurring billing, view fraud analytics, configure fraud rules, or manage any payment-related task. Supports 3D Secure, AVS/CVV verification, and risk scoring. Also use for merchant onboarding and first-time payment setup.",
+  "version": "1.2.0",
+  "author": {
+    "name": "agmsyumet"
+  },
+  "homepage": "https://agms.com/paypilot/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agmsyumet/paypilot-agms"
+}

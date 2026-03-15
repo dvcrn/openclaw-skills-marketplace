@@ -1,0 +1,10 @@
+{
+  "name": "sea2049--sea2049-scrapling-skill",
+  "description": "Use this skill whenever the user asks to scrape a website, extract structured data from web pages, handle anti-bot/Cloudflare pages, crawl multiple pages, or explicitly mentions Scrapling. This skill provides a practical Scrapling workflow (install, fetcher selection, extraction, and crawl patterns) for reliable Python web scraping.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sea2049"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sea2049/sea2049-scrapling-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sea2049/sea2049-scrapling-skill"
+}

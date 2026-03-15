@@ -1,0 +1,10 @@
+{
+  "name": "wpank--batch-swap",
+  "description": "Execute multiple token swaps in sequence. Use when user wants to rebalance, swap into multiple tokens, or execute a multi-step trading plan. Each swap goes through full safety validation independently.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/batch-swap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/batch-swap"
+}

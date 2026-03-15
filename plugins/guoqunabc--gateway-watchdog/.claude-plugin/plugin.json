@@ -1,0 +1,10 @@
+{
+  "name": "guoqunabc--gateway-watchdog",
+  "description": "Monitor OpenClaw Gateway health by detecting abnormal error rates in logs. Use when: (1) setting up Gateway error monitoring, (2) diagnosing repeated API failures (429, quota, timeouts), (3) user asks about Gateway health or error trends, (4) integrating error detection into heartbeat checks. Detects rate-limiting, server errors, auth failures, network errors, and message delivery failures across all channels.",
+  "version": "1.4.0",
+  "author": {
+    "name": "guoqunabc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guoqunabc/gateway-watchdog",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guoqunabc/gateway-watchdog"
+}

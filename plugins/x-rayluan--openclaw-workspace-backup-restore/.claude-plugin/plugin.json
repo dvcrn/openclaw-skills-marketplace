@@ -1,0 +1,10 @@
+{
+  "name": "x-rayluan--openclaw-workspace-backup-restore",
+  "description": "Backup, restore, validate, and GitHub-sync OpenClaw workspace state including SOUL.md, USER.md, AGENTS.md, IDENTITY.md, TOOLS.md, HEARTBEAT.md, BOOTSTRAP.md, and optional real openclaw.json backups. Includes built-in daily GitHub backup workflows, automatic git add/commit/push, and ready-to-use GitHub Actions / remote sync automation. Use when users ask for OpenClaw backup, restore, daily backup, off-machine backup, GitHub backup, rollback, recovery, or workspace state protection.",
+  "version": "1.5.2",
+  "author": {
+    "name": "x-rayluan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/x-rayluan/openclaw-workspace-backup-restore",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/x-rayluan/openclaw-workspace-backup-restore"
+}

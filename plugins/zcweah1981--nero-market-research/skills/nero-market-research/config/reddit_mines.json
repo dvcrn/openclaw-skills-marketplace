@@ -1,0 +1,27 @@
+{
+  "reddit_mines": {
+    "tier_1_daily": [
+      "startups",
+      "Entrepreneur",
+      "SaaS",
+      "ChatGPT",
+      "productivity",
+      "LocalLLaMA",
+      "sideproject",
+      "notion"
+    ],
+    "tier_2_weekly": [
+      "SEO",
+      "marketing",
+      "smallbusiness",
+      "realstate",
+      "legal",
+      "teaching"
+    ],
+    "tier_3_monthly": [
+      "artificial",
+      "MachineLearning",
+      "datascience"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sirsws--dae-persona-context-injector",
+  "description": "Build a reusable persona profile for AI agents before planning, writing, coding, research, or advisory work. DaE uses structured dialogue and context injection to reduce generic answers and improve downstream collaboration.",
+  "version": "1.0.3",
+  "author": {
+    "name": "sirsws"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sirsws/dae-persona-context-injector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sirsws/dae-persona-context-injector"
+}

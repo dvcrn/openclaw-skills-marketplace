@@ -1,0 +1,10 @@
+{
+  "name": "atelypham--claude-code-cli",
+  "description": "Delegate coding tasks to Claude Code CLI via background process. Use when: building features, reviewing PRs, refactoring codebases, or iterative coding that needs file exploration. Supports interactive PTY mode for confirmations/permissions and headless pipe mode for automation. NOT for: simple one-liner fixes (just edit), reading code (use read tool), or any work in ~/.openclaw/ workspace.",
+  "version": "0.2.0",
+  "author": {
+    "name": "atelypham"
+  },
+  "homepage": "https://github.com/AtelyPham/openclaw-claude-code-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/atelypham/claude-code-cli"
+}

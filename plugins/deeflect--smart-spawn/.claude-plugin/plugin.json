@@ -1,0 +1,10 @@
+{
+  "name": "deeflect--smart-spawn",
+  "description": "Pick the best AI model for any task using the Smart Spawn API. No plugin needed — just HTTP requests to ss.deeflect.com/api.",
+  "version": "1.0.0",
+  "author": {
+    "name": "deeflect"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deeflect/smart-spawn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deeflect/smart-spawn"
+}

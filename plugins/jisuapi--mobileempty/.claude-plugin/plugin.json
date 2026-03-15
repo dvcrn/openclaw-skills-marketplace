@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--mobileempty",
+  "description": "使用极速数据手机空号检测 API，一次性批量检测手机号是否为空号、风险号、实号或沉默号。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/mobileempty",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/mobileempty"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "nima-recall-live",
+  "name": "NIMA Live Recall",
+  "description": "Queries experiential memory on every message via before_agent_start",
+  "version": "2.0.9",
+  "kind": "hook",
+  "events": ["before_agent_start", "before_compaction"],
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "enabled": {
+        "type": "boolean",
+        "description": "Enable live recall system"
+      },
+      "identity_name": {
+        "type": "string",
+        "description": "Agent identity name (default: agent)"
+      },
+      "skipSubagents": {
+        "type": "boolean",
+        "description": "Skip subagent sessions (default: true)"
+      },
+      "push_triggers": {
+        "type": "object",
+        "description": "Proactive memory surfacing settings",
+        "properties": {
+          "enabled": {
+            "type": "boolean",
+            "description": "Enable push triggers (default: true)"
+          },
+          "threshold": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1,
+            "description": "Minimum surface_score to surface a memory (default: 0.72)"
+          },
+          "max_surfaces": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 5,
+            "description": "Max memories to surface per turn (default: 2)"
+          },
+          "min_age_hours": {
+            "type": "number",
+            "description": "Minimum memory age in hours before surfacing (default: 1)"
+          }
+        }
+      }
+    }
+  }
+}

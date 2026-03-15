@@ -1,0 +1,10 @@
+{
+  "name": "fantasyengineercdream--clawusage-windows-hardlock",
+  "description": "Run local clawusage monitoring commands from chat (Telegram/Feishu). Use when user types `/clawusage ...` or asks to check Codex usage, enable/disable auto idle alerts, set idle reminder threshold, or switch language with `lang english|chinese`.",
+  "version": "0.2.1",
+  "author": {
+    "name": "fantasyengineercdream"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fantasyengineercdream/clawusage-windows-hardlock",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fantasyengineercdream/clawusage-windows-hardlock"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "therohitdas--video-transcript",
+  "description": "Extract full transcripts from video content for analysis, summarization, note-taking, or research. Use when the user wants a written version of video content, asks to \"transcribe this\", \"get the text from this video\", \"convert video to text\", or shares a video URL for content extraction.",
+  "version": "1.4.1",
+  "author": {
+    "name": "therohitdas"
+  },
+  "homepage": "https://transcriptapi.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/therohitdas/video-transcript"
+}

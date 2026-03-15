@@ -1,0 +1,10 @@
+{
+  "name": "darinrowe--multi-agent-filesystem-governance",
+  "description": "Govern filesystem organization and file-operation decisions in multi-agent environments. Use when deciding where files should live across agent-private workspaces, shared resources, archives, downloads, scripts, notes, knowledge vaults, and code project folders; when defining directory conventions; when triaging downloads; when preventing cross-agent overwrites; or when standardizing file placement and lifecycle rules for reusable agent setups.",
+  "version": "1.0.1",
+  "author": {
+    "name": "darinrowe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/darinrowe/multi-agent-filesystem-governance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/darinrowe/multi-agent-filesystem-governance"
+}

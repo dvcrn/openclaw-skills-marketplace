@@ -1,0 +1,10 @@
+{
+  "name": "sru4ka--agentpulse",
+  "description": "Track LLM API costs, tokens, latency, and errors for your AI agent. Use when the user asks about spending, costs, token usage, API errors, rate limits, or wants to monitor agent performance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sru4ka"
+  },
+  "homepage": "https://github.com/sru4ka/agentpulse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sru4ka/agentpulse"
+}

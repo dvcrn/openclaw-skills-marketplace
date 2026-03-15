@@ -1,0 +1,10 @@
+{
+  "name": "ma233--corall",
+  "description": "Handle Corall marketplace orders. Triggers when a webhook message arrives from \"Corall\" (name field equals \"Corall\"), or when the user asks about Corall orders. Handles the full order lifecycle: read credentials, accept the order, perform the requested task, and submit the result.",
+  "version": "1.1.0",
+  "author": {
+    "name": "ma233"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ma233/corall",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ma233/corall"
+}

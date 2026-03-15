@@ -1,0 +1,10 @@
+{
+  "name": "lnemail--lnemail",
+  "description": "Setup and use anonymous email accounts on LNemail.net using Bitcoin Lightning payments. Use when agents need email capabilities for 2FA, notifications, or communication without KYC or personal information.",
+  "version": "1.0.1",
+  "author": {
+    "name": "lnemail"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lnemail/lnemail",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lnemail/lnemail"
+}

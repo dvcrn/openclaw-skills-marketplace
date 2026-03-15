@@ -1,0 +1,10 @@
+{
+  "name": "neolio42--whisnap",
+  "description": "macOS CLI for transcribing audio and video files using local Whisper models or Whisnap Cloud.",
+  "version": "1.0.0",
+  "author": {
+    "name": "neolio42"
+  },
+  "homepage": "https://whisnap.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neolio42/whisnap"
+}

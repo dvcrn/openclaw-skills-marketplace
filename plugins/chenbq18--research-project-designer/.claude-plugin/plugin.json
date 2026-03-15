@@ -1,0 +1,10 @@
+{
+  "name": "chenbq18--research-project-designer",
+  "description": "Use this skill for ANY task involving Computer-Aided Drug Design (CADD), computational chemistry, structural bioinformatics, molecular modeling, or AI-driven drug discovery. Trigger whenever the user mentions: docking, binding pockets, MD simulation, molecular dynamics, SASA, electrostatics, Poisson- Boltzmann, PDB files, force fields, AlphaFold, protein-ligand interaction, druggability, free energy perturbation (FEP), cryptic pockets, desolvation penalty, pharmacophore, or asks to design/audit/debug any computational biology or biophysics workflow — even if they don't explicitly frame it as a \\\"research design\\\" task. Also trigger when the user shares NumPy/MDAnalysis/ RDKit/OpenMM code and asks for optimization, debugging, or peer review.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chenbq18"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chenbq18/research-project-designer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chenbq18/research-project-designer"
+}

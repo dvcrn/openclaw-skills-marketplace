@@ -1,0 +1,10 @@
+{
+  "name": "lilir-is-here--bazi-daily",
+  "description": "面向“今日运势/今天适合做X吗/今日宜忌”与 “today’s fortune / is today good for X / what to do or avoid today” 的八字日运解读技能。自动读取当日日期并查询流年流月流日，结合用户四柱分析；首次用户无档案时先引导录入四柱并写入长期记忆。Supports both Chinese and English users with language-aware responses.",
+  "version": "1.0.3",
+  "author": {
+    "name": "lilir-is-here"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lilir-is-here/bazi-daily",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lilir-is-here/bazi-daily"
+}

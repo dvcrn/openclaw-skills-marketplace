@@ -1,0 +1,24 @@
+{
+  "name": "clawhub-publisher",
+  "version": "1.0.0",
+  "description": "ClawHub技能发布助手。在发布新技能前自动检查ClawHub/GitHub上的现有版本，对比实现思路，智能整合差异后发布/更新。",
+  "author": "zhaog100",
+  "license": "MIT",
+  "keywords": [
+    "clawhub",
+    "publish",
+    "skill",
+    "automation",
+    "version-control"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhaog100/openclaw-skills/tree/main/clawhub-publisher"
+  },
+  "scripts": {
+    "check": "bash scripts/check-existing.sh",
+    "compare": "bash scripts/compare-versions.sh",
+    "publish": "bash scripts/publish.sh",
+    "update": "bash scripts/update.sh"
+  }
+}

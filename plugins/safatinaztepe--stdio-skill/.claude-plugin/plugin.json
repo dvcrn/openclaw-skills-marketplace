@@ -1,0 +1,10 @@
+{
+  "name": "safatinaztepe--stdio-skill",
+  "description": "Stdin/stdout file inbox/outbox bridge for passing files to/from Clawdbot using an MCP stdio server. Use when you want a simple filesystem-backed dropbox: accept files into an inbox, move to tmp for processing, and emit deliverables to an outbox (or a specified path).",
+  "version": "1.0.0",
+  "author": {
+    "name": "safatinaztepe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/safatinaztepe/stdio-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/safatinaztepe/stdio-skill"
+}

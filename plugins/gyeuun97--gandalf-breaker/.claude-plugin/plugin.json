@@ -1,0 +1,10 @@
+{
+  "name": "gyeuun97--gandalf-breaker",
+  "description": "Solve Gandalf prompt injection CTF challenges (gandalf.lakera.ai). Provides a systematic attack methodology for each difficulty level, covering direct extraction, encoding bypasses, semantic misdirection, output filter evasion, and OSINT techniques. Use when the user wants to play Gandalf, practice prompt injection, learn AI red-teaming, or break LLM guardrails in a CTF/educational context.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gyeuun97"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gyeuun97/gandalf-breaker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gyeuun97/gandalf-breaker"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "broommonk--git-workflow",
+  "description": "OpenClaw Git 工作流技能。\n \n 当用户提及以下任务时使用：\n - 提交代码或文档\n - 推送到远程仓库\n - 管理多个 Git 仓库\n - 查看 Git 状态\n \n 核心能力:\n - 自动检测文件变更\n - 自动生成提交信息\n - 自动推送到远程仓库\n - 多仓库管理",
+  "version": "1.0.0",
+  "author": {
+    "name": "broommonk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/broommonk/git-workflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/broommonk/git-workflow"
+}

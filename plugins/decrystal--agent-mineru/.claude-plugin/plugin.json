@@ -1,0 +1,10 @@
+{
+  "name": "decrystal--agent-mineru",
+  "description": "MinerU document parsing CLI with layout.json post-processing and S3 integration. Parse PDF/Word/PPT/images to structured Markdown with formula, table, and code extraction.",
+  "version": "0.1.0",
+  "author": {
+    "name": "decrystal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/decrystal/agent-mineru",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/decrystal/agent-mineru"
+}

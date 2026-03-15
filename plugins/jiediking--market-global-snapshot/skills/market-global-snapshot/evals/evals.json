@@ -1,0 +1,35 @@
+{
+  "skill_name": "market-global-snapshot",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Give me today's market snapshot",
+      "expected_output": "Full report with all 8 indices (S&P 500, Dow Jones, NASDAQ, SSE, Shenzhen, STAR Market, Nikkei 225, Sensex) and all 4 commodities (Gold, Silver, Crude Oil, Copper)",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Show me US stock indices only",
+      "expected_output": "Only S&P 500, Dow Jones Industrial Average, and NASDAQ Composite with prices and changes",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "What's the China market doing?",
+      "expected_output": "Only SSE Composite, Shenzhen Component, and STAR Market Composite with prices and changes",
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "Just commodities prices",
+      "expected_output": "Only Gold, Silver, Crude Oil, and Copper with prices and changes in USD",
+      "files": []
+    },
+    {
+      "id": 5,
+      "prompt": "Show me yesterday's market data",
+      "expected_output": "Full report showing previous trading day's close prices and changes (not today)",
+      "files": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "koba42corp--chia-walletconnect",
+  "description": "Telegram Web App for Chia wallet verification via WalletConnect and Sage. Enables cryptographic proof of wallet ownership through signature verification using MintGarden API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "koba42corp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/koba42corp/chia-walletconnect",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/koba42corp/chia-walletconnect"
+}

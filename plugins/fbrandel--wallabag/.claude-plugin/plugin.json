@@ -1,0 +1,10 @@
+{
+  "name": "fbrandel--wallabag",
+  "description": "Manage Wallabag bookmarks through the Wallabag Developer API with OAuth2 authentication, including creating, reading, updating, deleting, searching, and tag management. Use when a user wants to talk to Wallabag, store links, retrieve entries, filter by search or tags, or modify bookmark metadata.",
+  "version": "1.0.1",
+  "author": {
+    "name": "fbrandel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fbrandel/wallabag",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fbrandel/wallabag"
+}

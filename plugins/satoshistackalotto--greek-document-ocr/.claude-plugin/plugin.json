@@ -1,0 +1,10 @@
+{
+  "name": "satoshistackalotto--greek-document-ocr",
+  "description": "Greek-language OCR using Tesseract. Processes scanned invoices, receipts, and government documents. Local processing, no cloud APIs.",
+  "version": "0.1.0",
+  "author": {
+    "name": "satoshistackalotto"
+  },
+  "homepage": "https://github.com/satoshistackalotto/openclaw-greek-accounting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/greek-document-ocr"
+}

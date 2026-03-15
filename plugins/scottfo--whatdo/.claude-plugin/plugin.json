@@ -1,0 +1,10 @@
+{
+  "name": "scottfo--whatdo",
+  "description": "What should we do? Smart activity discovery with live weather, local movie showtimes, streaming recommendations, game library matching, group profiles, routines & traditions, favorites/blacklists, business hours, ratings filtering, Quick Mode for instant suggestions, calendar integration (Google Calendar + cron reminders), group invites via Telegram/message channels, and RSVP tracking. Helps you stop scrolling and start living. Use when someone says 'what to do', 'bored', 'fun', 'tonight', 'date night', 'things to do', 'activity ideas', 'entertainment', 'adventure', 'what should we do', 'need plans', 'something fun', 'stay home', 'game night', 'movie night', 'put it on the calendar', 'send invites', 'who's coming', or just seems like they need a nudge off the couch. Optional Google Places integration for real nearby suggestions with ratings, hours, and links.",
+  "version": "2.1.0",
+  "author": {
+    "name": "scottfo"
+  },
+  "homepage": "https://github.com/ScotTFO/whatdo-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scottfo/whatdo"
+}

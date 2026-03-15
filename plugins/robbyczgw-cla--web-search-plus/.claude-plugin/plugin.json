@@ -1,0 +1,10 @@
+{
+  "name": "robbyczgw-cla--web-search-plus",
+  "description": "Unified search skill with Intelligent Auto-Routing. Uses multi-signal analysis to automatically select between Serper (Google), Tavily (Research), Querit (Multilingual AI Search), Exa (Neural), Perplexity (AI Answers), You.com (RAG/Real-time), and SearXNG (Privacy/Self-hosted) with confidence scoring.",
+  "version": "2.9.0",
+  "author": {
+    "name": "robbyczgw-cla"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/web-search-plus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/web-search-plus"
+}

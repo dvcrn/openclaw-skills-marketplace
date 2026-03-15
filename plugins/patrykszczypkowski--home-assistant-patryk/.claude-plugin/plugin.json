@@ -1,0 +1,10 @@
+{
+  "name": "patrykszczypkowski--home-assistant-patryk",
+  "description": "Control Home Assistant smart home devices, run automations, and receive webhook events. Use when controlling lights, switches, climate, scenes, scripts, or any HA entity. Supports bidirectional communication via REST API (outbound) and webhooks (inbound triggers from HA automations).",
+  "version": "1.0.0",
+  "author": {
+    "name": "patrykszczypkowski"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/patrykszczypkowski/home-assistant-patryk",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/patrykszczypkowski/home-assistant-patryk"
+}

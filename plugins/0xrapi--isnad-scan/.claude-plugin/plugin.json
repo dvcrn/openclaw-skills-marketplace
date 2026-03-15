@@ -1,0 +1,10 @@
+{
+  "name": "0xrapi--isnad-scan",
+  "description": "Scan AI agent skills for security vulnerabilities — detects code injection, prompt injection, credential exfiltration, supply chain attacks, and 69+ threat patterns. Use when installing new skills, auditing existing ones, reviewing untrusted code, or validating packages before publishing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "0xrapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xrapi/isnad-scan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xrapi/isnad-scan"
+}

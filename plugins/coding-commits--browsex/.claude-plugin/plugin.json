@@ -1,0 +1,10 @@
+{
+  "name": "coding-commits--browsex",
+  "description": "X/Twitter CLI using OpenClaw browser tool. Use when the user wants to interact with X/Twitter: reading timeline, posting tweets, liking, retweeting, replying, or searching. Read-only browsing (profiles, tweets, search) works without login. Alternative to bird CLI for environments without Homebrew.",
+  "version": "1.0.0",
+  "author": {
+    "name": "coding-commits"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/coding-commits/browsex",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/coding-commits/browsex"
+}

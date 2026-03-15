@@ -1,0 +1,10 @@
+{
+  "name": "0xtresser--web-skills-protocol",
+  "description": "Auto-discover and use Web Skills Protocol (WSP) skills when interacting with websites. Use this skill whenever the user asks you to interact with, use, or perform actions on a website or web service — such as searching a site, placing an order, deploying an app, or calling a web API. Before scraping HTML or guessing at interfaces, check if the site publishes a skills.txt or agents.txt file that teaches you how to use it properly. If a website has complex elements (e.g., heavy JavaScript, interactive UIs), activating this skill can also help you understand the site's purpose and capabilities. Do NOT use for local file operations or non-web tasks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "0xtresser"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xtresser/web-skills-protocol",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xtresser/web-skills-protocol"
+}

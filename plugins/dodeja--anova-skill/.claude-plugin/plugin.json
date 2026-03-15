@@ -1,0 +1,10 @@
+{
+  "name": "dodeja--anova-skill",
+  "description": "Control Anova Precision Ovens and Precision Cookers (sous vide) via WiFi WebSocket API. Start cooking modes (sous vide, roasting, steam), set temperatures, monitor status, and stop cooking remotely.",
+  "version": "0.1.0",
+  "author": {
+    "name": "dodeja"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dodeja/anova-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dodeja/anova-skill"
+}

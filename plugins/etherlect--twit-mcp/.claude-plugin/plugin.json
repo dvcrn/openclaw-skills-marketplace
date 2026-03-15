@@ -1,0 +1,10 @@
+{
+  "name": "etherlect--twit-mcp",
+  "description": "Real-time X/Twitter data and write actions via x402 micropayments. Fetch articles, tweets, users, lists, and communities — post tweets, like, retweet, bookmark, follow — pay per request in USDC on Base. No API keys required.",
+  "version": "1.4.1",
+  "author": {
+    "name": "etherlect"
+  },
+  "homepage": "https://twit.sh",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/etherlect/twit-mcp"
+}

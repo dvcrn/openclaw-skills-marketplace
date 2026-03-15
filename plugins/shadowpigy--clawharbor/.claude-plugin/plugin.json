@@ -1,0 +1,10 @@
+{
+  "name": "shadowpigy--clawharbor",
+  "description": "Delegate tasks to specialized agents via the ClawHarbor API — research, analysis, content, data collection",
+  "version": "1.0.0",
+  "author": {
+    "name": "shadowpigy"
+  },
+  "homepage": "https://clawharbor.app",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shadowpigy/clawharbor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hacksing--feishu-user",
+  "description": "Feishu document operations (User Access Token version). Use user access token for authentication. When you need to read, create, write, or append Feishu documents.",
+  "version": "1.0.1",
+  "author": {
+    "name": "hacksing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hacksing/feishu-user",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hacksing/feishu-user"
+}

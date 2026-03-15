@@ -1,0 +1,23 @@
+---
+name: news-impact-predictor
+version: 1.0.0
+description: Predict how news events will impact markets, stocks, and cryptocurrencies. Each call charges 0.001 USDT via SkillPay.
+category: News
+tags:
+  - news
+  - prediction
+  - impact
+  - market
+author: moson
+price: 0.001
+currency: USDT
+triggers:
+  - "news impact"
+  - "predict market"
+  - "news prediction"
+  - "market forecast"
+config:
+  OPENAI_API_KEY:
+    type: string
+    required: false
+    secret: true

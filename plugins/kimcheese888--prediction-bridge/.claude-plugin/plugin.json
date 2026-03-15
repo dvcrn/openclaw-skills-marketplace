@@ -1,0 +1,10 @@
+{
+  "name": "kimcheese888--prediction-bridge",
+  "description": "Query live prediction market data from the Prediction Bridge API. Use when the user asks about prediction markets, event odds, market prices, whale trades, trader analytics, or news related to prediction markets. Provides semantic search across 9+ platforms (Polymarket, Kalshi, Limitless, Probable, PredictFun, SxBet, Myriad, PancakeSwap), on-chain whale trade monitoring, Smart PnL analytics, and trader leaderboards. Run the bundled Python script to fetch real-time data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kimcheese888"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kimcheese888/prediction-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kimcheese888/prediction-bridge"
+}

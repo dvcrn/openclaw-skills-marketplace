@@ -1,0 +1,10 @@
+{
+  "name": "kai-familiar--catallax",
+  "description": "Interact with the Catallax decentralized contract work protocol on Nostr. Use when the user mentions tasks, bounties, contract work, arbiters, escrow, labor market, gigs, or Catallax. Supports browsing open tasks, creating task proposals, discovering arbiter services, submitting work deliveries, and managing the full task lifecycle (kinds 33400, 33401, 3402).",
+  "version": "1.0.0",
+  "author": {
+    "name": "kai-familiar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kai-familiar/catallax",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kai-familiar/catallax"
+}

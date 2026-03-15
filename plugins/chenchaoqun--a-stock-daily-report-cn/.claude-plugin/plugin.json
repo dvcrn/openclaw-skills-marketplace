@@ -1,0 +1,10 @@
+{
+  "name": "chenchaoqun--a-stock-daily-report-cn",
+  "description": "获取 A 股市场日报，包括大盘指数、热门板块和龙头股。使用东方财富 API，无需 API Key。",
+  "version": "1.0.0",
+  "author": {
+    "name": "chenchaoqun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chenchaoqun/a-stock-daily-report-cn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chenchaoqun/a-stock-daily-report-cn"
+}

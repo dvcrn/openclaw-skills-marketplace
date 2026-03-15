@@ -1,0 +1,10 @@
+{
+  "name": "pearl799--twitter-agent",
+  "description": "AI+Crypto Twitter automation agent. Post tweets, reply to KOLs, and quote tweet trending content. Integrates with opentwitter/opennews (6551) for hot topic fetching and Claude for content generation.",
+  "version": "1.0.1",
+  "author": {
+    "name": "pearl799"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pearl799/twitter-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pearl799/twitter-agent"
+}

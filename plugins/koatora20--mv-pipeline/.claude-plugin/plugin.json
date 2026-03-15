@@ -1,0 +1,10 @@
+{
+  "name": "koatora20--mv-pipeline",
+  "description": "End-to-end automated Music Video pipeline. Covers songwriting (lyrics/composition), Suno music generation (browser automation), lyrics alignment (stable-ts), video generation (Veo 3.1 via Vertex AI or Google Flow via browser), Remotion-based editing (subtitles, effects, telops), and YouTube upload. Use when creating a full MV from scratch, or running any individual stage of the pipeline.",
+  "version": "1.0.0",
+  "author": {
+    "name": "koatora20"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/koatora20/mv-pipeline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/koatora20/mv-pipeline"
+}

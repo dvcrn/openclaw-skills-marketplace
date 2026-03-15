@@ -1,0 +1,10 @@
+{
+  "name": "raufimusaddiq--ihsg-session-summary",
+  "description": "IHSG Closing Summary Agent untuk OpenClaw. Menghasilkan laporan sesi pagi dan closing dengan Top 10 Net Buy/Sell, Foreign Flow, YTD data, dan insights dalam Bahasa Indonesia. Menggunakan Tavily API untuk web search dan extract. Gunakan skill ini untuk cron job ringkasan pasar saham Indonesia (IHSG) dua kali sehari.",
+  "version": "4.0.1",
+  "author": {
+    "name": "raufimusaddiq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/raufimusaddiq/ihsg-session-summary",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/raufimusaddiq/ihsg-session-summary"
+}

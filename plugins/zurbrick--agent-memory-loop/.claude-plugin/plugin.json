@@ -1,0 +1,10 @@
+{
+  "name": "zurbrick--agent-memory-loop",
+  "description": "Lightweight self-improvement loop for AI agents. Auto-captures errors, corrections, and discoveries in a fast one-line format. Smart dedup, auto-promotion to project memory, and pre-task review. Designed by an agent that actually uses it — minimal context burn, maximum learning.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zurbrick"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zurbrick/agent-memory-loop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zurbrick/agent-memory-loop"
+}

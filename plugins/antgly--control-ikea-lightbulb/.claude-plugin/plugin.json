@@ -1,0 +1,10 @@
+{
+  "name": "antgly--control-ikea-lightbulb",
+  "description": "Control IKEA/TP-Link Kasa smart bulbs (set on/off, brightness, and color). Use when you want to programmatically control a local smart bulb by IP on the LAN.",
+  "version": "1.0.1",
+  "author": {
+    "name": "antgly"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/antgly/control-ikea-lightbulb",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/antgly/control-ikea-lightbulb"
+}

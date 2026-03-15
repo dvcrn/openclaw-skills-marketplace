@@ -1,0 +1,10 @@
+{
+  "name": "noah-1106--image-gen-coze",
+  "description": "Image Generation via Coze | 基于 Coze 的图像生成技能。Generate images using Coze workflows. 使用 Seedream 4.5 model. Handles parameter building and result parsing. 负责参数构建和结果解析。Requires coze-workflow skill. 需要 coze-workflow 技能。",
+  "version": "1.1.3",
+  "author": {
+    "name": "noah-1106"
+  },
+  "homepage": "https://www.coze.cn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/noah-1106/image-gen-coze"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dwirx--duckse",
+  "description": "This skill should be used when users need to search the web for information, find current content, look up news articles, search for images, or find videos. It uses duckse (DDGS-based CLI) to return clean results in pretty text or JSON.",
+  "version": "0.1.0",
+  "author": {
+    "name": "dwirx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dwirx/duckse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dwirx/duckse"
+}

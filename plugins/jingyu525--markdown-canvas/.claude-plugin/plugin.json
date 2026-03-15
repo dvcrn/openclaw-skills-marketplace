@@ -1,0 +1,10 @@
+{
+  "name": "jingyu525--markdown-canvas",
+  "description": "Convert markdown files to beautiful HTML pages suitable for Canvas display or browser viewing. Use when user asks to render, visualize, display, or share markdown files (.md) in a visual format. Triggers include phrases like \"render xxx.md\", \"canvas display xxx.md\", \"visualize markdown\", \"make xxx.md pretty\", \"share xxx.md as HTML\".",
+  "version": "1.0.2",
+  "author": {
+    "name": "jingyu525"
+  },
+  "homepage": "https://github.com/jingyu525/markdown-canvas",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jingyu525/markdown-canvas"
+}

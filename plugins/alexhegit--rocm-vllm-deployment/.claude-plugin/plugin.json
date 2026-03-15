@@ -1,0 +1,10 @@
+{
+  "name": "alexhegit--rocm-vllm-deployment",
+  "description": "Production-ready vLLM deployment on AMD ROCm GPUs. Combines environment auto-check, model parameter detection, Docker Compose deployment, health verification, and functional testing with comprehensive logging and security best practices.",
+  "version": "1.0.0",
+  "author": {
+    "name": "alexhegit"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alexhegit/rocm-vllm-deployment",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alexhegit/rocm-vllm-deployment"
+}

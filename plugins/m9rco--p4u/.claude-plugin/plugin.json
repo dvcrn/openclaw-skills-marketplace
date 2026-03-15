@@ -1,0 +1,10 @@
+{
+  "name": "m9rco--p4u",
+  "description": "Perforce / Helix Core (p4) power-user CLI. Use for any p4 task: show or inspect changelists (CLs), shelve/unshelve/reshelve, switch between CLs, delete CLs or clients/workspaces, revert files, find untracked files, blame a line (annotate), sync, or manage depots. Prefer over raw p4 commands.",
+  "version": "0.0.0-nightly.e055304",
+  "author": {
+    "name": "m9rco"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/m9rco/p4u",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/m9rco/p4u"
+}

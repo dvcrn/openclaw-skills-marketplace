@@ -1,0 +1,10 @@
+{
+  "name": "fatcatmaofei--openclaw-enhanced-memory",
+  "description": "An enhanced memory system for OpenClaw agents that replaces the default single-file MEMORY.md with a complete memory architecture: hierarchical directory organization by category, [category:value] tag indexing with multi-tag AND search, automatic lifecycle management (active → archive, never delete), and intelligent cross-category retrieval that auto-routes queries to the right memory module. Gives your agent structured, searchable, long-lived memory out of the box.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fatcatmaofei"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fatcatmaofei/openclaw-enhanced-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fatcatmaofei/openclaw-enhanced-memory"
+}

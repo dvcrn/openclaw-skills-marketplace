@@ -1,0 +1,30 @@
+{
+  "name": "ekybot-connector",
+  "version": "2.2.0",
+  "description": "Transform your local OpenClaw agents into a remote-controlled team. iOS/Android apps, web dashboard, multi-agent chat, real-time cost monitoring.",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "ws": "^8.14.2",
+    "@ekybot/connector": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "install": "node scripts/register_workspace.js",
+    "start": "node scripts/start_telemetry.js --continuous",
+    "stop": "pkill -f ekybot-connector",
+    "health": "node scripts/health_check.js"
+  },
+  "keywords": [
+    "openclaw",
+    "ai-agents",
+    "remote-control",
+    "mobile-dashboard",
+    "cost-monitoring",
+    "multi-agent"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/regiomag/ekybot-connector.git"
+  }
+}

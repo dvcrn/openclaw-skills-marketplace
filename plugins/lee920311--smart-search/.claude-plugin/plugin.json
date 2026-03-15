@@ -1,0 +1,10 @@
+{
+  "name": "lee920311--smart-search",
+  "description": "智能搜索引擎切换。根据问题类型自动选择 SearXNG 或 Tavily，既满足需求又节省 Token。",
+  "version": "1.0.0",
+  "author": {
+    "name": "lee920311"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lee920311/smart-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lee920311/smart-search"
+}

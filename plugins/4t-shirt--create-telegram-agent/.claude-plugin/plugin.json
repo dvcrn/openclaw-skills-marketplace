@@ -1,0 +1,10 @@
+{
+  "name": "4t-shirt--create-telegram-agent",
+  "description": "Create a new Telegram agent in OpenClaw with proper configuration. Use when user wants to create a new Telegram bot agent, including setting up agent workspace, Telegram binding, and bot token configuration. Requires user confirmation before modifying openclaw.json.",
+  "version": "1.0.0",
+  "author": {
+    "name": "4t-shirt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/4t-shirt/create-telegram-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/4t-shirt/create-telegram-agent"
+}

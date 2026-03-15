@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--model-council-pro",
+  "description": "Multi-model consensus system — send a query to 3+ different LLMs via OpenRouter simultaneously, then a judge model evaluates all responses and produces a winner, reasoning, and synthesized best answer. Like having a board of AI advisors. Use for important decisions, code review, research verification.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/model-council-pro"
+}

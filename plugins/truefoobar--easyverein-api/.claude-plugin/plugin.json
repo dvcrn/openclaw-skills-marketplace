@@ -1,0 +1,10 @@
+{
+  "name": "truefoobar--easyverein-api",
+  "description": "Work with the easyVerein v2.0 REST API (members, contacts, events, invoices, bookings, custom fields, etc.). Use for full API coverage: endpoint discovery, auth, request/response schemas, and example cURL calls.",
+  "version": "1.0.0",
+  "author": {
+    "name": "truefoobar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/truefoobar/easyverein-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/truefoobar/easyverein-api"
+}

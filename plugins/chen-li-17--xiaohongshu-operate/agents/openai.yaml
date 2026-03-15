@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书运营执行"
+  short_description: "按素材执行小红书发帖草稿、评论互动与搜索抓取流程"
+  default_prompt: "使用 $xiaohongshu-operate 按给定素材完成小红书草稿发布、评论处理和关键词抓取。"

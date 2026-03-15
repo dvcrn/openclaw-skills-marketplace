@@ -1,0 +1,10 @@
+{
+  "name": "crossservicesolutions--make-pdf-safe",
+  "description": "Flatten a PDF into a non-interactive “safe” version by uploading it to the Solutions API, polling until completion, then returning a download URL for the flattened PDF.",
+  "version": "1.0.0",
+  "author": {
+    "name": "crossservicesolutions"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crossservicesolutions/make-pdf-safe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crossservicesolutions/make-pdf-safe"
+}

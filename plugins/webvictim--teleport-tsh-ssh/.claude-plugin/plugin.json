@@ -1,0 +1,10 @@
+{
+  "name": "webvictim--teleport-tsh-ssh",
+  "description": "Use Teleport tsh CLI with a Machine ID (tbot) identity file to SSH into Teleport-managed hosts or run remote commands through Teleport access controls. Trigger when asked to connect to a Teleport host, execute commands on Teleport nodes, or troubleshoot tsh access using a local tbot-refreshed identity. Complements the teleport-tbot-bootstrap skill for creating and persisting the local Machine ID identity source.",
+  "version": "1.0.0",
+  "author": {
+    "name": "webvictim"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/webvictim/teleport-tsh-ssh",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/webvictim/teleport-tsh-ssh"
+}

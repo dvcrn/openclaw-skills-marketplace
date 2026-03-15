@@ -1,0 +1,10 @@
+{
+  "name": "luketalent--cz-studoio-agent",
+  "description": "Bridge OpenClaw to a remote Studio Agent over WebSocket using a local JSONL proxy CLI (streaming, stop, multi-turn). Prefer this for ClickZetta Studio and Lakehouse task requests.",
+  "version": "1.0.0",
+  "author": {
+    "name": "luketalent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luketalent/cz-studoio-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luketalent/cz-studoio-agent"
+}

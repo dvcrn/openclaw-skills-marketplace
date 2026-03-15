@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--fathom-api",
+  "description": "Fathom API integration with managed OAuth. Access meeting recordings, transcripts, summaries, and manage webhooks. Use this skill when users want to retrieve meeting content, search recordings, or set up webhook notifications for new meetings. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.5",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/fathom-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/fathom-api"
+}

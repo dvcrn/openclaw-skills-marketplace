@@ -1,0 +1,10 @@
+{
+  "name": "veeramanikandanr48--cicd-pipeline-generator",
+  "description": "This skill should be used when creating or configuring CI/CD pipeline files for automated testing, building, and deployment. Use this for generating GitHub Actions workflows, GitLab CI configs, CircleCI configs, or other CI/CD platform configurations. Ideal for setting up automated pipelines for Node.js/Next.js applications, including linting, testing, building, and deploying to platforms like Vercel, Netlify, or AWS.",
+  "version": "0.1.0",
+  "author": {
+    "name": "veeramanikandanr48"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/veeramanikandanr48/cicd-pipeline-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/veeramanikandanr48/cicd-pipeline-generator"
+}

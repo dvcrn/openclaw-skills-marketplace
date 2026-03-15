@@ -1,0 +1,10 @@
+{
+  "name": "iret77--palaia",
+  "description": "Local, crash-safe persistent memory for OpenClaw agents. Replaces built-in memory-core with semantic search, projects, and scope-based access control. After installing or updating, run: palaia doctor --fix to complete setup.",
+  "version": "1.8.1-fix5",
+  "author": {
+    "name": "iret77"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iret77/palaia",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iret77/palaia"
+}

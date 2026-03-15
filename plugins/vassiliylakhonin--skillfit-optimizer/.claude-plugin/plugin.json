@@ -1,0 +1,10 @@
+{
+  "name": "vassiliylakhonin--skillfit-optimizer",
+  "description": "Build and optimize a minimal working skill stack for a user goal: recommend profiles, install the best-fit stack, run deterministic smoke checks, remove overlap, score stack quality, persist before/after evidence, and produce a fix-first rollout plan. Use when users ask what skills to install, how to avoid duplicate/conflicting skills, how to reduce setup friction, or how to improve skill ROI/time-to-value.",
+  "version": "0.3.0",
+  "author": {
+    "name": "vassiliylakhonin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vassiliylakhonin/skillfit-optimizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vassiliylakhonin/skillfit-optimizer"
+}

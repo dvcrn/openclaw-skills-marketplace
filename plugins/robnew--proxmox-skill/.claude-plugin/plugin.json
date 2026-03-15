@@ -1,0 +1,10 @@
+{
+  "name": "robnew--proxmox-skill",
+  "description": "Manage Proxmox VE nodes, VMs, and containers. Can list hardware stats, resources, and control power states (start, stop, reboot, shutdown).",
+  "version": "1.0.0",
+  "author": {
+    "name": "robnew"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/robnew/proxmox-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robnew/proxmox-skill"
+}

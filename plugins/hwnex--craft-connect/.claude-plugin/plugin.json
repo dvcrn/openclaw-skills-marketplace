@@ -1,0 +1,10 @@
+{
+  "name": "hwnex--craft-connect",
+  "description": "Read and write Craft documents via the Craft Connect API. Use when the user asks to create, read, update, or search Craft documents, manage tasks, write daily notes, organize folders, work with collections (structured databases), or format rich content. Covers all block types including toggles, callouts, tables, code, highlights, math formulas, images, cards, and styled text. NOT for general note-taking to local files or unrelated document editors. Requires: CRAFT_API_URL (Craft Connect API base URL with embedded link token, stored in TOOLS.md). Uses curl for all HTTP requests.",
+  "version": "1.0.1",
+  "author": {
+    "name": "hwnex"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hwnex/craft-connect",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hwnex/craft-connect"
+}

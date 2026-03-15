@@ -1,0 +1,10 @@
+{
+  "name": "edwinjhlee--x-df",
+  "description": "Enhanced `df` combining disk usage and mount info. \n Supports CSV, TSV, and TUI with filesystem type detection.\n \n **Dependency**: This is an x-cmd module. Install x-cmd first (see x-cmd skill for installation options).",
+  "version": "1.0.2",
+  "author": {
+    "name": "edwinjhlee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/edwinjhlee/x-df",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/edwinjhlee/x-df"
+}

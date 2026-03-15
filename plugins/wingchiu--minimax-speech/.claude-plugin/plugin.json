@@ -1,0 +1,10 @@
+{
+  "name": "wingchiu--minimax-speech",
+  "description": "Manage MiniMax Speech 2.8 T2A (text-to-audio) and voice catalog lookups. Trigger when you need a precise MiniMax voice_id, a Speech 2.8 TTS request, or to list the available MiniMax system/cloned/generated voices.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wingchiu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wingchiu/minimax-speech",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wingchiu/minimax-speech"
+}

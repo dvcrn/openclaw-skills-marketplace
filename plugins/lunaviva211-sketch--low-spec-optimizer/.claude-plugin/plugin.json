@@ -1,0 +1,10 @@
+{
+  "name": "lunaviva211-sketch--low-spec-optimizer",
+  "description": "Optimize OpenClaw performance on machines with limited resources (4GB RAM or less, old CPUs). Use when (1) user mentions slow performance, high RAM usage, or system lag, (2) running on Raspberry Pi, old laptops, or budget VPS, (3) proactively during heartbeats to check system health, (4) before spawning multiple subagents on low-resource machines. Provides resource monitoring, automatic cleanup, session management, and configuration recommendations for constrained environments.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lunaviva211-sketch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lunaviva211-sketch/low-spec-optimizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lunaviva211-sketch/low-spec-optimizer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "isolcat--xiaohongshu-first-line",
+  "description": "「开口第一句」— 帮不擅长社交破冰的人，基于小红书公开内容找到共同兴趣、理解对方风格、生成自然不尬的第一句话。适合想扩展社交圈但不知道怎么自然开口的人。Use when: (1) user shares a xiaohongshu.com or xhslink.com URL and wants help crafting a first message, (2) user asks to analyze someone's Xiaohongshu content to find conversation angles, (3) user wants to browse Xiaohongshu by keyword to discover people with shared interests, (4) user asks for help with social icebreakers or first messages. Trigger phrases: xiaohongshu, xhs, 小红书, 开口第一句, 破冰, 第一句话, 不知道怎么开口, 怎么聊, 社交, 扩列, 交朋友, 分析主页, 搜博主, conversation starter, icebreaker, first message.",
+  "version": "0.1.0",
+  "author": {
+    "name": "isolcat"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/isolcat/xiaohongshu-first-line",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/isolcat/xiaohongshu-first-line"
+}

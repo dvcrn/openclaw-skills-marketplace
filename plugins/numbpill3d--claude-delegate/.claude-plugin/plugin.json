@@ -1,0 +1,10 @@
+{
+  "name": "numbpill3d--claude-delegate",
+  "description": "Delegate various coding tasks to Claude Code. Use this skill when you need assistance with code generation, bug fixing, feature implementation, code review, refactoring, or file exploration. It streamlines calling Claude Code for non-interactive execution, handling parameters like `--print --permission-mode bypassPermissions`. Triggers on phrases like 'write code for', 'fix this bug in', 'implement feature', 'review this pr', 'refactor', 'explore files for', 'debug', 'code task for claude'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "numbpill3d"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/numbpill3d/claude-delegate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/numbpill3d/claude-delegate"
+}

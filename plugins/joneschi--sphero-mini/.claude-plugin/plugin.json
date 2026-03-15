@@ -1,0 +1,10 @@
+{
+  "name": "joneschi--sphero-mini",
+  "description": "Control Sphero Mini robot ball via Bluetooth Low Energy. Roll, change colors, read sensors, draw shapes, and play with cats. Uses bleak for cross-platform BLE support (macOS/Windows/Linux).",
+  "version": "1.0.0",
+  "author": {
+    "name": "joneschi"
+  },
+  "homepage": "https://github.com/trflorian/sphero_mini_win",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joneschi/sphero-mini"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ayalili--tool-call-retry",
+  "description": "Auto retry & fix LLM tool calls with exponential backoff, format validation, error correction, boost tool call success rate by 90%",
+  "version": "1.0.1",
+  "author": {
+    "name": "ayalili"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ayalili/tool-call-retry",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ayalili/tool-call-retry"
+}

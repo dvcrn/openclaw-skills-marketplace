@@ -1,0 +1,10 @@
+{
+  "name": "waldyrious--cursor-tui",
+  "description": "Spawn and relay Cursor Agent's CLI (`agent` binary) as an interactive passthrough. Use when the user wants to run Cursor Agent in a directory, ask it questions, or send follow-up prompts — acting as a transparent bridge between the user and the agent session.",
+  "version": "1.0.1",
+  "author": {
+    "name": "waldyrious"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/waldyrious/cursor-tui",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/waldyrious/cursor-tui"
+}

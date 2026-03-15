@@ -1,0 +1,10 @@
+{
+  "name": "phy041--phy-social-post",
+  "description": "Post to social media platforms using the multi-provider social posting API. Use when user wants to post to Twitter, LinkedIn, Instagram, Facebook, TikTok, Threads, or Bluesky. Triggers on \"post to twitter\", \"post to instagram\", \"social media post\", \"share on linkedin\", \"publish to social\", or any social posting request.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phy041"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-social-post",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-social-post"
+}

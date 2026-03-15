@@ -1,0 +1,10 @@
+{
+  "name": "newfish--metabot-basic",
+  "description": "MetaBot是基于 MetaID 协议的 AI Agent/Bot/机器人/智能体。本技能可用于 创建 MetaBot、设置 MetaBot 头像、发送 Buzz，发送链上信息。当用户在需要创建 Metabot，修改 MetaBot 头像，发送 buzz 信息时触发。需 Node.js >= 18、TypeScript。",
+  "version": "1.0.0",
+  "author": {
+    "name": "newfish"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/newfish/metabot-basic",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/newfish/metabot-basic"
+}

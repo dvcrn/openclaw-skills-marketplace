@@ -1,0 +1,10 @@
+{
+  "name": "the-nexus-guard--aip-identity",
+  "description": "Digital identity, authentication, and trust for AI agents. Verify who an agent is, prove your own identity, sign skills to prove authorship, send encrypted messages, and build trust networks with vouches. Use when an agent needs identity verification, authentication, trust scoring, skill signing, provenance checking, secure messaging, or reputation management. Covers: agent identity, agent authentication, agent verification, trust graphs, encrypted agent-to-agent messaging, code signing, skill provenance, decentralized identifiers (DIDs), Ed25519 signatures, and credential rotation.",
+  "version": "1.6.0",
+  "author": {
+    "name": "the-nexus-guard"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/the-nexus-guard/aip-identity",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/the-nexus-guard/aip-identity"
+}

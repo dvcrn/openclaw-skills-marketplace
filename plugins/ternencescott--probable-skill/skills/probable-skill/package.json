@@ -1,0 +1,32 @@
+{
+  "name": "probableskills",
+  "version": "1.0.0",
+  "description": "0xProbable Markets CLOB trading skills (BSC)",
+  "type": "module",
+  "scripts": {
+    "search": "bun run scripts/search.ts",
+    "list-events": "bun run scripts/list-events.ts",
+    "list-tags": "bun run scripts/list-tags.ts",
+    "get-event": "bun run scripts/get-event.ts",
+    "get-market": "bun run scripts/get-market.ts",
+    "price-info": "bun run scripts/price-info.ts",
+    "price-history": "bun run scripts/price-history.ts",
+    "orderbook": "bun run scripts/orderbook.ts",
+    "buy": "bun run scripts/buy.ts",
+    "sell": "bun run scripts/sell.ts",
+    "check-orders": "bun run scripts/check-orders.ts",
+    "cancel-orders": "bun run scripts/cancel-orders.ts",
+    "check-balance": "bun run scripts/check-balance.ts",
+    "positions": "bun run scripts/positions.ts",
+    "withdraw": "bun run scripts/withdraw.ts"
+  },
+  "dependencies": {
+    "@prob/clob": "^0.5.0",
+    "dotenv": "^17.3.1",
+    "ethers": "^6.16.0",
+    "viem": "^2.46.2"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "fogyoy--let-me-know",
+  "description": "Notify the user before starting any long-running task and keep them updated. Use when a task will take noticeable time (>2-3 minutes). Send a start message, schedule a 5‑minute heartbeat update, and send a completion message immediately when done.",
+  "version": "0.1.1",
+  "author": {
+    "name": "fogyoy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fogyoy/let-me-know",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fogyoy/let-me-know"
+}

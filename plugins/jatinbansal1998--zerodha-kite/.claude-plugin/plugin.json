@@ -1,0 +1,10 @@
+{
+  "name": "jatinbansal1998--zerodha-kite",
+  "description": "Route natural-language trading/account queries to the correct `zerodha` CLI command with exact flags, validation constraints, and synonym mapping. Use when a user asks to view prices, place/modify/cancel orders, manage auth/profile/config, work with holdings/positions/margins/GTT/MF flows, or asks \"which zerodha command should I run?\"",
+  "version": "v1.0.1",
+  "author": {
+    "name": "jatinbansal1998"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jatinbansal1998/zerodha-kite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jatinbansal1998/zerodha-kite"
+}

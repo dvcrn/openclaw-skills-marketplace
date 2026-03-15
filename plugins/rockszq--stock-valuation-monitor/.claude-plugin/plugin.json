@@ -1,0 +1,10 @@
+{
+  "name": "rockszq--stock-valuation-monitor",
+  "description": "股票和ETF估值监控工具，基于PE、PB BAND和历史百分位评估估值区间（机会/风险）",
+  "version": "2.0.1",
+  "author": {
+    "name": "rockszq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rockszq/stock-valuation-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rockszq/stock-valuation-monitor"
+}

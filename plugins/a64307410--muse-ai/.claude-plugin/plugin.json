@@ -1,0 +1,10 @@
+{
+  "name": "a64307410--muse-ai",
+  "description": "AI 音乐创作助手 — 通过对话生成原创歌曲、纯音乐和 BGM。 当用户想要创作、生成、制作任何形式的音乐时使用此技能。 包括：生成带人声的歌曲、写歌词、作曲编曲、制作纯音乐/BGM/配乐，或将文字变成歌曲。 当用户提到具体音乐风格（如\"来首民谣\"\"做首说唱\"）时也应触发。 支持三种模式：灵感模式（一句话生成）、定制模式（自定义歌词+风格）、纯音乐模式。 不要在用户只是想播放音乐、管理歌单、或转换音频格式时触发。 触发词：做歌、写歌、来首歌、出首歌、做音乐、创作音乐、生成歌曲、 制作音乐、原创歌曲、作曲、编曲、作词、填词、 写歌词、生成歌词、BGM、纯音乐、背景音乐、配乐、 把文字变成歌、变成音乐、做个曲子、 song、music、compose、make a song、write a song、muse、/muse。",
+  "version": "1.0.2",
+  "author": {
+    "name": "a64307410"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/a64307410/muse-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/a64307410/muse-ai"
+}

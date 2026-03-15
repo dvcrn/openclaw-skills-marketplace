@@ -1,0 +1,10 @@
+{
+  "name": "ppiankov--noisepan-digest",
+  "description": "Set up automated news digests using noisepan (signal extraction), entropia (source verification), and HN blind spot detection. Use when configuring daily news briefs, curating RSS feeds, or building an automated intelligence pipeline that replaces manual news browsing.",
+  "version": "1.0.4",
+  "author": {
+    "name": "ppiankov"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ppiankov/noisepan-digest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ppiankov/noisepan-digest"
+}

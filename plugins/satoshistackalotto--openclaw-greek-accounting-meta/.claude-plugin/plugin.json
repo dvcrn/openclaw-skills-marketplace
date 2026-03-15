@@ -1,0 +1,10 @@
+{
+  "name": "satoshistackalotto--openclaw-greek-accounting-meta",
+  "description": "Orchestrator for the full OpenClaw Greek Accounting system. Routes commands across 18 specialist skills. Primary entry point for accounting firms.",
+  "version": "0.1.0",
+  "author": {
+    "name": "satoshistackalotto"
+  },
+  "homepage": "https://github.com/satoshistackalotto/openclaw-greek-accounting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/openclaw-greek-accounting-meta"
+}

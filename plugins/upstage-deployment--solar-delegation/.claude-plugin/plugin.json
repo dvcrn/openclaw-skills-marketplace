@@ -1,0 +1,10 @@
+{
+  "name": "upstage-deployment--solar-delegation",
+  "description": "Delegate longer user-facing text generation to Upstage Solar Pro3 while keeping the primary model for planning and tool calls. Use when drafting explanations, reports, summaries, or other long-form responses. Delegation is controlled by session enablement and a token threshold.",
+  "version": "1.0.0",
+  "author": {
+    "name": "upstage-deployment"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/upstage-deployment/solar-delegation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/upstage-deployment/solar-delegation"
+}

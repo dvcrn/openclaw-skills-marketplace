@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--web-claw",
+  "description": "Web dashboard for OpenClaw. Browser-based UI for any installed skill. Schema-driven rendering, JWT auth, RBAC, AI chat, real-time updates. Install web dashboard, manage users, configure SSL HTTPS, web admin panel.",
+  "version": "2.0.1",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.erpclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/web-claw"
+}

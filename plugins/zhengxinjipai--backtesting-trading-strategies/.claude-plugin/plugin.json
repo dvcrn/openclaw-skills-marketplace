@@ -1,0 +1,10 @@
+{
+  "name": "zhengxinjipai--backtesting-trading-strategies",
+  "description": "Backtest crypto and traditional trading strategies against historical data.\n Calculates performance metrics (Sharpe, Sortino, max drawdown), generates equity curves,\n and optimizes strategy parameters. Use when user wants to test a trading strategy,\n validate signals, or compare approaches.\n Trigger with phrases like \"backtest strategy\", \"test trading strategy\", \"historical performance\",\n \"simulate trades\", \"optimize parameters\", or \"validate signals\".",
+  "version": "2.0.0",
+  "author": {
+    "name": "zhengxinjipai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhengxinjipai/backtesting-trading-strategies",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhengxinjipai/backtesting-trading-strategies"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "googolme--blind-review-sanitizer",
+  "description": "One-click removal of author names, affiliations, acknowledgments, and excessive self-citations from manuscripts to meet double-blind peer review requirements. Preserves document structure while anonymizing sensitive information.",
+  "version": "0.1.0",
+  "author": {
+    "name": "googolme"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/googolme/blind-review-sanitizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/googolme/blind-review-sanitizer"
+}

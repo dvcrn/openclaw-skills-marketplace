@@ -1,0 +1,10 @@
+{
+  "name": "clipxonchain--clipx-skills",
+  "description": "Thin client for the private ClipX BNBChain API, returning text-only JSON metrics and rankings for BNB Chain (no scraping code, no API keys).",
+  "version": "1.0.20",
+  "author": {
+    "name": "clipxonchain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clipxonchain/clipx-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clipxonchain/clipx-skills"
+}

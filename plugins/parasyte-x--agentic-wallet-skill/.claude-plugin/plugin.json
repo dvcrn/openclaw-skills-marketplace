@@ -1,0 +1,10 @@
+{
+  "name": "parasyte-x--agentic-wallet-skill",
+  "description": "Create and manage agentic wallets with Unibase. Use for autonomous onchain transactions on Ethereum, Solana, and other chains. Triggers on requests involving crypto wallets for AI agents, server-side wallet operations, or autonomous transaction execution.",
+  "version": "0.1.0",
+  "author": {
+    "name": "parasyte-x"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/parasyte-x/agentic-wallet-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/parasyte-x/agentic-wallet-skill"
+}

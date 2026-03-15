@@ -1,0 +1,10 @@
+{
+  "name": "zurbrick--agent-qa-gates",
+  "description": "Output validation gates for AI agent systems. Prevents hallucinated data, leaked internal context, wrong formats, duplicate sends, and post-compaction drift. Use when building or operating an agent that delivers output to humans or external systems. Provides a tiered gate system (internal → user-facing → external → code), protocol gates for recurring failure modes, severity classification, and a feedback loop for gate evolution. Triggers on phrases like \"QA gates\", \"validation\", \"output quality\", \"prevent hallucination\", \"delivery checklist\", \"agent QA\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "zurbrick"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zurbrick/agent-qa-gates",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zurbrick/agent-qa-gates"
+}

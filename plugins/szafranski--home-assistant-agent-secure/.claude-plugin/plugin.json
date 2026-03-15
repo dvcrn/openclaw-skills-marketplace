@@ -1,0 +1,10 @@
+{
+  "name": "szafranski--home-assistant-agent-secure",
+  "description": "Control Home Assistant smart home devices securely using the Assist (Conversation) API. Passes natural language to Home Assistant's built-in NLU for safe, token-efficient device control. Designed to work with a restricted non-admin HA user for minimal access exposure.",
+  "version": "1.1.0",
+  "author": {
+    "name": "szafranski"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/szafranski/home-assistant-agent-secure",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/szafranski/home-assistant-agent-secure"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "rosasalberto--didit-id-verification",
+  "description": "Integrate Didit ID Verification standalone API to verify identity documents. Use when the user wants to verify an ID, passport, driver's license, residence permit, or identity document using Didit, or mentions ID verification, document verification, OCR extraction, MRZ parsing, KYC document checks, or document authenticity validation. Supports 4000+ document types across 220+ countries.",
+  "version": "1.2.0",
+  "author": {
+    "name": "rosasalberto"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-id-verification",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-id-verification"
+}

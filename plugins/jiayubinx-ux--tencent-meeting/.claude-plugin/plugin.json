@@ -1,0 +1,10 @@
+{
+  "name": "jiayubinx-ux--tencent-meeting",
+  "description": "Manage Tencent Meeting (腾讯会议) via REST API. Schedule/create meetings, query meeting details, list cloud recordings, and extract meeting transcripts. Use when user mentions \"tencent meeting\", \"腾讯会议\", \"schedule a meeting\", \"meeting transcript\", \"会议转写\", \"meeting recording\", or needs to interact with the Tencent Meeting platform.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jiayubinx-ux"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jiayubinx-ux/tencent-meeting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jiayubinx-ux/tencent-meeting"
+}

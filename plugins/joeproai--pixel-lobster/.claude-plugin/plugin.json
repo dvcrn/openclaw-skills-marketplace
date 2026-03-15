@@ -1,0 +1,10 @@
+{
+  "name": "joeproai--pixel-lobster",
+  "description": "Pixel art desktop lobster that lip-syncs to OpenClaw TTS speech. Use when: (1) user wants a visual avatar for their AI agent, (2) user wants a desktop overlay that animates when their agent speaks, (3) user asks to set up or configure the pixel lobster. Guides the user to install, configure, and launch the bundled Electron app.",
+  "version": "1.2.1",
+  "author": {
+    "name": "joeproai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/joeproai/pixel-lobster",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joeproai/pixel-lobster"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hanninen--myclub",
+  "description": "Fetch accounts' sports schedules, practices, games, and events from myclub.fi. Auto-discovers accounts and clubs from your myclub.fi account. Use for checking practice times and locations, finding upcoming games and matches, viewing club events, or getting schedule summaries. Requires myclub.fi credentials (stored locally).",
+  "version": "1.0.1",
+  "author": {
+    "name": "hanninen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hanninen/myclub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hanninen/myclub"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "magica-chen--tushare-stock-skill",
+  "description": "面向中国 A 股的 Tushare 专用技能，提供股票数据获取、个股分析与交易观察能力。",
+  "version": "1.0.3",
+  "author": {
+    "name": "magica-chen"
+  },
+  "homepage": "https://github.com/Magica-Chen/tushare-stock-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/magica-chen/tushare-stock-skill"
+}

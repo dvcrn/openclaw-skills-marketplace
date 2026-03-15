@@ -1,0 +1,10 @@
+{
+  "name": "njdawn--prediction-market-bot-dawn",
+  "description": "Runs the full Dawn CLI strategy lifecycle from authentication and funding through strategy creation, launch, monitoring, and termination. Use when the user asks to create, launch, monitor, debug, or operate a strategy/agent using dawn-cli commands.",
+  "version": "1.0.8",
+  "author": {
+    "name": "njdawn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/njdawn/prediction-market-bot-dawn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/njdawn/prediction-market-bot-dawn"
+}

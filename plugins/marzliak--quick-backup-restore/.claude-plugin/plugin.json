@@ -1,0 +1,10 @@
+{
+  "name": "marzliak--quick-backup-restore",
+  "description": "Use this skill when the user asks to 'backup OpenClaw', 'restore a snapshot', 'roll back memory', 'check backup status', 'view backup history', 'undo agent changes', or 'set up time machine backup'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "marzliak"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/marzliak/quick-backup-restore",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marzliak/quick-backup-restore"
+}

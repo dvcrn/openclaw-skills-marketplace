@@ -1,0 +1,10 @@
+{
+  "name": "worflor--working-with-lockdownd",
+  "description": "Comprehensive toolkit for interacting with iOS devices over WiFi using the Apple Lockdown Protocol (port 62078). Capabilities include device identification, real-time log streaming (syslog/os_trace), property querying (GetValue), and cryptographic secret extraction. Incorporates research from 'The Orchard' - woflo's research project regarding iOS 17+ security boundaries and WiFi capabilities.",
+  "version": "1.0.1",
+  "author": {
+    "name": "worflor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/worflor/working-with-lockdownd",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/worflor/working-with-lockdownd"
+}

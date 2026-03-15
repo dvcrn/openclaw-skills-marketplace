@@ -1,0 +1,10 @@
+{
+  "name": "dhrxy--openclaw-safe-ops",
+  "description": "Guards high-risk OpenClaw operations with preflight backups, post-change health checks, and rollback guidance. Use when running gateway restart/start/stop, config set/unset, plugin install/update/uninstall, or editing openclaw.json.",
+  "version": "1.0.1",
+  "author": {
+    "name": "dhrxy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dhrxy/openclaw-safe-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dhrxy/openclaw-safe-ops"
+}

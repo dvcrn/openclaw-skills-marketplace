@@ -1,0 +1,10 @@
+{
+  "name": "ktopper--openclaw-n8n-orchestrator",
+  "description": "When the user wants to connect an OpenClaw agent to n8n workflows, create n8n webhook skills for OpenClaw, route agent API calls through n8n for credential isolation, build bidirectional OpenClaw-to-n8n pipelines, design the proxy orchestration pattern, deploy co-located Docker stacks, implement the n8n-claw architecture, or publish OpenClaw n8n skills to ClawHub — activate this skill. Also trigger for \"openclaw webhook,\" \"agent workflow automation,\" \"credential isolation,\" \"gateway ingress,\" \"n8n proxy pattern,\" or when securing autonomous agent API access through deterministic orchestration.",
+  "version": "2.0.0",
+  "author": {
+    "name": "ktopper"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ktopper/openclaw-n8n-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ktopper/openclaw-n8n-orchestrator"
+}

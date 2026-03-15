@@ -1,0 +1,10 @@
+{
+  "name": "iml885203--youtube-transcribe",
+  "description": "Transcribe YouTube videos with smart fallback: extracts captions first (fast, free), falls back to local Whisper transcription when no captions available. Auto-detects best Whisper backend (MLX/faster-whisper/openai-whisper) and model size based on hardware. Use when the user shares a YouTube link and wants to know what it says, get a transcript, summarize, or analyze video content. Keywords: YouTube, transcribe, transcript, subtitles, captions, speech-to-text, whisper, mlx, video to text.",
+  "version": "1.0.0",
+  "author": {
+    "name": "iml885203"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iml885203/youtube-transcribe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iml885203/youtube-transcribe"
+}

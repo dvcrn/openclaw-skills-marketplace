@@ -1,0 +1,10 @@
+{
+  "name": "fclwtt--skills-5",
+  "description": "企业微信通道配置诊断与修复。当用户遇到企微通道无法连接、配置错误、插件 ID 不匹配、多账号模式不支持等问题时激活。支持配置检测、自动修复、单账号/多账号模式切换。",
+  "version": "0.1.0",
+  "author": {
+    "name": "fclwtt"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/openclaw-skill-wecom-channel-fix",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fclwtt/skills-5"
+}

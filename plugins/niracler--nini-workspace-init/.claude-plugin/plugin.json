@@ -1,0 +1,10 @@
+{
+  "name": "niracler--nini-workspace-init",
+  "description": "Initialize and update dev-config-template workspaces. Two modes: (1) Init -- guides users through repos.json, CLAUDE.md customization, sub-repo cloning, OpenSpec setup, and dev environment configuration; (2) Update -- detects template version drift and merges upstream changes while preserving user customizations. Use whenever the user wants to initialize, set up, configure, or update a multi-repo workspace created from dev-config-template. Triggers on \"init workspace\", \"setup workspace\", \"initialize\", \"configure my workspace\", \"help me set up\", \"I just created a workspace from the template\", \"update workspace\", \"update template\", \"sync template\", or Chinese equivalents like \"初始化工作区\", \"配置工作区\", \"帮我设置\", \"更新工作区模板\", \"模板有更新吗\". Also trigger when user mentions dev-config-template in the context of getting started, first-time setup, or template updates. Do NOT trigger for: project scheduling (use workspace-planning), daily/weekly work reports (use worklog), or general git/repo operations.",
+  "version": "0.1.2",
+  "author": {
+    "name": "niracler"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/niracler/nini-workspace-init",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/niracler/nini-workspace-init"
+}

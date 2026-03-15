@@ -1,0 +1,10 @@
+{
+  "name": "louzhixian--git-crypt-backup",
+  "description": "Backup Clawdbot workspace and config to GitHub with git-crypt encryption. Use for daily automated backups or manual backup/restore operations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "louzhixian"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/louzhixian/git-crypt-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/louzhixian/git-crypt-backup"
+}

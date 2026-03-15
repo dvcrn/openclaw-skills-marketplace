@@ -1,0 +1,10 @@
+{
+  "name": "webguhui--youtube-to-chinese",
+  "description": "将 YouTube 视频转成中文稿，包含完整中文转录、内容摘要和核心亮点。当用户提供 YouTube 链接并要求转录、翻译、生成中文稿、摘要或笔记时触发。Trigger phrases: YouTube转中文, 视频转文字, 转录视频, 生成中文笔记, 视频摘要, youtube transcript chinese.",
+  "version": "1.0.0",
+  "author": {
+    "name": "webguhui"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/webguhui/youtube-to-chinese",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/webguhui/youtube-to-chinese"
+}

@@ -1,0 +1,52 @@
+{
+  "qweather": {
+    "enabled": true,
+    "api_host": "${QWEATHER_API_HOST}",
+    "jwt": {
+      "kid": "${QWEATHER_KID}",
+      "sub": "${QWEATHER_SUB}",
+      "private_key_path": "${QWEATHER_PRIVATE_KEY_PATH}"
+    },
+    "cache": {
+      "enabled": true,
+      "ttl": {
+        "now": 600,
+        "forecast": 3600,
+        "indices": 10800,
+        "air": 1800
+      },
+      "directory": "${QWEATHER_CACHE_DIR:~/.openclaw/cache/qweather}"
+    },
+    "default_city": "beijing",
+    "cities": {
+      "beijing": "101010100",
+      "shanghai": "101020100",
+      "guangzhou": "101280101",
+      "shenzhen": "101280601",
+      "hangzhou": "101210101",
+      "chengdu": "101270101",
+      "wuhan": "101200101",
+      "nanjing": "101190101",
+      "xian": "101110101",
+      "chongqing": "101040100",
+      "newyork": "USNY0996",
+      "london": "GBLO0483",
+      "tokyo": "JAXX0085",
+      "paris": "FRXX0076",
+      "sydney": "ASXX0112"
+    }
+  },
+  "openclaw_integration": {
+    "command_aliases": {
+      "weather": "查询天气",
+      "forecast": "天气预报",
+      "indices": "生活指数",
+      "air": "空气质量"
+    },
+    "response_templates": {
+      "weather_now": "🌤️ {city}当前天气:\n温度: {temp}°C (体感: {feels_like}°C)\n天气: {text}\n风力: {wind_scale}级 {wind_dir}\n湿度: {humidity}%\n建议: {advice}",
+      "forecast": "📅 {city}{days}天预报:\n{forecast_details}",
+      "indices": "📊 {city}生活指数:\n{indices_list}"
+    }
+  }
+}

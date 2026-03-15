@@ -1,0 +1,10 @@
+{
+  "name": "darinrowe--git-backed-obsidian-cli-workflows",
+  "description": "Use the official Obsidian CLI for note workflows in a Git-backed vault, including search, read, links/backlinks-style queries, daily-note operations, and lightweight note writes that auto-sync after successful write operations. Use when the official Obsidian CLI is already installed and usable on any supported environment, and the task is about querying or updating notes in an Obsidian vault with Git-backed backup behavior.",
+  "version": "1.0.0",
+  "author": {
+    "name": "darinrowe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/darinrowe/git-backed-obsidian-cli-workflows",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/darinrowe/git-backed-obsidian-cli-workflows"
+}

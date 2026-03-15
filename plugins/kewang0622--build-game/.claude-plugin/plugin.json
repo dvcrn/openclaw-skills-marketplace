@@ -1,0 +1,10 @@
+{
+  "name": "kewang0622--build-game",
+  "description": "Generate and iteratively develop polished 3D browser games from natural language. Supports any genre (FPS, RPG, racing, platformer, tower defense, etc.), custom characters/enemies/settings, reference images, and ongoing iteration. Outputs a single playable HTML file using Three.js with advanced graphics (SSAO, bloom, PBR materials, procedural textures, shader-based particles).",
+  "version": "1.0.0",
+  "author": {
+    "name": "kewang0622"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kewang0622/build-game",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kewang0622/build-game"
+}

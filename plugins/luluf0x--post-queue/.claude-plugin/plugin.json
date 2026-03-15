@@ -1,0 +1,10 @@
+{
+  "name": "luluf0x--post-queue",
+  "description": "Queue posts for rate-limited platforms. Add posts to queue, process when cooldowns clear. Supports Moltbook and extensible to others.",
+  "version": "1.0.0",
+  "author": {
+    "name": "luluf0x"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luluf0x/post-queue",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luluf0x/post-queue"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "moltstreet",
+  "version": "1.8.1",
+  "description": "Daily AI market signals for 52 ETFs. Direction, confidence, target price, reasoning chain, 4-analyst committee votes. Free, no API key.",
+  "author": "moltstreet",
+  "license": "MIT",
+  "homepage": "https://moltstreet.com",
+  "repository": "https://github.com/fredxyt/moltstreet",
+  "documentation": "https://moltstreet.com/skill.md",
+  "keywords": [
+    "etf", "market signals", "trading", "financial analysis", "ai predictions",
+    "stock market", "spy", "qqq", "investing", "portfolio",
+    "sector rotation", "bullish", "bearish", "price target", "market outlook"
+  ]
+}

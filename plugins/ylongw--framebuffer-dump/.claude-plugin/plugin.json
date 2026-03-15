@@ -1,0 +1,10 @@
+{
+  "name": "ylongw--framebuffer-dump",
+  "description": "Dump the current STM32 LCD framebuffer via J-Link and convert it to PNG for visual comparison with Figma. Use when user asks to export, snapshot, dump, or capture what is currently displayed on device screen.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ylongw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ylongw/framebuffer-dump",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ylongw/framebuffer-dump"
+}

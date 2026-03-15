@@ -1,0 +1,10 @@
+{
+  "name": "szzg007--agent-manager-v1",
+  "description": "Multi-Agent conversation management platform with Gemini-style UI. Manage all your OpenClaw agents in one place with image upload, chat history, and message isolation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "szzg007"
+  },
+  "homepage": "https://clawhub.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/szzg007/agent-manager-v1"
+}

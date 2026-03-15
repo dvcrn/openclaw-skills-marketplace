@@ -1,0 +1,10 @@
+{
+  "name": "msruruguay--midos-memory-cascade",
+  "description": "Auto-escalating multi-tier memory search that cascades from in-memory cache through SQLite, grep, and LanceDB vector search to find the best answer with minimal latency.",
+  "version": "1.0.0",
+  "author": {
+    "name": "msruruguay"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/msruruguay/midos-memory-cascade",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/msruruguay/midos-memory-cascade"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jolestar--playwright-mcp-skill",
+  "description": "Run browser automation through @playwright/mcp over UXC stdio MCP, with daemon-friendly session reuse and safe action guardrails. Use when tasks need deterministic page navigation, DOM snapshots, and scripted browser interaction from CLI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jolestar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jolestar/playwright-mcp-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jolestar/playwright-mcp-skill"
+}

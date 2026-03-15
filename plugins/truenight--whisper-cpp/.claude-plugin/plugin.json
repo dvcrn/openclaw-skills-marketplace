@@ -1,0 +1,10 @@
+{
+  "name": "truenight--whisper-cpp",
+  "description": "Install and use whisper.cpp (local, free/offline speech-to-text) with OpenClaw. Supports downloading different ggml model sizes (tiny/base/small/medium/large-*) and configuring tools.media.audio to transcribe inbound voice notes without paid provider APIs.",
+  "version": "1.0.2",
+  "author": {
+    "name": "truenight"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/truenight/whisper-cpp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/truenight/whisper-cpp"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "emanz1--iqdb",
+  "description": "On-chain immutable data storage using IQ Labs tech stack (IQDB, hanLock, x402). Use when building Solana-based persistent storage, on-chain databases, tamper-evident records, password-encoded data, or paid file inscription. Triggers on tasks involving on-chain CRUD, Solana PDA storage, rolling hash verification, Hangul encoding, or HTTP 402 payment-gated inscription.",
+  "version": "1.0.0",
+  "author": {
+    "name": "emanz1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/emanz1/iqdb",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/emanz1/iqdb"
+}

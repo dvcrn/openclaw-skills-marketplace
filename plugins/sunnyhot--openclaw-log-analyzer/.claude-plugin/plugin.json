@@ -1,0 +1,10 @@
+{
+  "name": "sunnyhot--openclaw-log-analyzer",
+  "description": "Intelligent log analysis tool for monitoring cron jobs, detecting errors, analyzing patterns, and generating reports. Supports automatic error detection, log aggregation, and Discord notifications.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sunnyhot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunnyhot/openclaw-log-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunnyhot/openclaw-log-analyzer"
+}

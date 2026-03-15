@@ -1,0 +1,10 @@
+{
+  "name": "spyfree--us-value-investing-framework",
+  "description": "US stock valuation model skill (English-first + 中文) based on financial report data. Use when you need to apply explicit rules: ROE > 15% for 3+ years, debt ratio < 50%, free cash flow > 80% of net income, moat assessment (brand/network effect/cost advantage), then output investment rating (A/B/C/D) with reasons.",
+  "version": "1.1.0",
+  "author": {
+    "name": "spyfree"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spyfree/us-value-investing-framework",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spyfree/us-value-investing-framework"
+}

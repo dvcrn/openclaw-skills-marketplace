@@ -1,0 +1,10 @@
+{
+  "name": "navijan--capability-evolver",
+  "description": "A self-evolution engine for AI agents. Analyzes runtime history to identify improvements and applies protocol-constrained evolution.",
+  "version": "1.0.0",
+  "author": {
+    "name": "navijan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/navijan/capability-evolver",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/navijan/capability-evolver"
+}

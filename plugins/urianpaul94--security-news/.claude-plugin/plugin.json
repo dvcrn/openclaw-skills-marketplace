@@ -1,0 +1,10 @@
+{
+  "name": "urianpaul94--security-news",
+  "description": "Get the latest cybersecurity news, vulnerability disclosures, and threat intelligence. Aggregates CVEs from NIST NVD, CISA KEV catalog, and security advisories via a unified feed API. No API key needed.",
+  "version": "2.0.0",
+  "author": {
+    "name": "urianpaul94"
+  },
+  "homepage": "https://cve.mitre.org",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/urianpaul94/security-news"
+}

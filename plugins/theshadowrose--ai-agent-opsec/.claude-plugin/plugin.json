@@ -1,0 +1,10 @@
+{
+  "name": "theshadowrose--ai-agent-opsec",
+  "description": "Prevent your AI agent from leaking classified terms to external APIs, subagents, or logs. Term registry + runtime redaction + pre-publish audit. Zero dependencies, zero network calls.",
+  "version": "1.4.0",
+  "author": {
+    "name": "theshadowrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/ai-agent-opsec",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/ai-agent-opsec"
+}

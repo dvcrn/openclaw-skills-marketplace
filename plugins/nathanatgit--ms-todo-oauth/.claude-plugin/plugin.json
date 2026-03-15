@@ -1,0 +1,10 @@
+{
+  "name": "nathanatgit--ms-todo-oauth",
+  "description": "A robust CLI skill to manage Microsoft To Do tasks via Microsoft Graph API. Supports full task lifecycle management including lists, tasks with priorities, due dates, reminders, recurrence patterns, views, search, and data export. Includes comprehensive test suite for reliability. THIS IS A REVISED OAUTH2-BASED VERSION OF ms-todo-sync with AI ASSISTANCE. ALL CREDITS TO THE ORIGINAL AUTHOR.",
+  "version": "1.0.4",
+  "author": {
+    "name": "nathanatgit"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nathanatgit/ms-todo-oauth",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nathanatgit/ms-todo-oauth"
+}

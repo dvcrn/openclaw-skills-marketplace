@@ -1,0 +1,10 @@
+{
+  "name": "fe-room--xiaohongshu-login",
+  "description": "小红书 MCP 登录流程。当用户需要登录小红书、小红书登录过期、或需要获取小红书登录二维码时使用此 skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "fe-room"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fe-room/xiaohongshu-login",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fe-room/xiaohongshu-login"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "alvinperson--reddit-engagement",
+  "description": "Create and execute robust Reddit engagement workflows (create post, add comment, upvote) using browser accessibility-tree semantics instead of brittle DOM ids/CSS selectors. Use when asked to automate Reddit actions with high success rate across UI changes, A/B tests, and localization differences; especially when reliability and intent-based element targeting are required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "alvinperson"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alvinperson/reddit-engagement",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alvinperson/reddit-engagement"
+}

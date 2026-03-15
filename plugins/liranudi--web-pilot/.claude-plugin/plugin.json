@@ -1,0 +1,10 @@
+{
+  "name": "liranudi--web-pilot",
+  "description": "Search the web and read page contents without API keys. Use when you need to search via DuckDuckGo/Brave/Google (multi-page), extract readable text from URLs, browse interactively with a persistent visible browser (with tabs, click, screenshot, text search), download files/PDFs, or dismiss cookie banners. Supports JSON/markdown/text output. Powered by Playwright + Chromium.",
+  "version": "1.0.0",
+  "author": {
+    "name": "liranudi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/liranudi/web-pilot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/liranudi/web-pilot"
+}

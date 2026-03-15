@@ -1,0 +1,10 @@
+{
+  "name": "datadrivenconstruction--qto-report",
+  "description": "Generate Quantity Take-Off (QTO) reports from BIM/CAD data. Extract volumes, areas, counts by category. Group elements, apply calculation rules, and create cost estimates automatically.",
+  "version": "2.1.0",
+  "author": {
+    "name": "datadrivenconstruction"
+  },
+  "homepage": "https://datadrivenconstruction.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/qto-report"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "xiaohongshu-skill",
+  "version": "1.0.0",
+  "description": "小红书自动化操作 Skill",
+  "main": "scripts/xhs-bot.js",
+  "scripts": {
+    "login": "node scripts/xhs-bot.js login",
+    "publish": "node scripts/xhs-bot.js publish",
+    "stats": "node scripts/xhs-bot.js stats",
+    "comments": "node scripts/xhs-bot.js comments",
+    "scrape": "node scripts/xhs-bot.js scrape"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

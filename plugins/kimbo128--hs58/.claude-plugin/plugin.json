@@ -1,0 +1,10 @@
+{
+  "name": "kimbo128--hs58",
+  "description": "MCP server for the DRAIN payment protocol. Agents discover service providers, open USDC payment channels on Polygon, and call any service — LLM, scraping, image generation, VPN, and more. Pay per use, no API keys, no subscriptions.",
+  "version": "4.0.2",
+  "author": {
+    "name": "kimbo128"
+  },
+  "homepage": "https://github.com/kimbo128/DRAIN",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kimbo128/hs58"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "taibaiup--binancesquare",
+  "description": "获取币安广场12小时内散户讨论话题，输出内容、浏览量、评论数到表格，剔除大V和机构号。",
+  "version": "1.0.0",
+  "author": {
+    "name": "taibaiup"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/taibaiup/binancesquare",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/taibaiup/binancesquare"
+}

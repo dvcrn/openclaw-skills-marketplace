@@ -1,0 +1,10 @@
+{
+  "name": "autoxj--gitcode-release-notes",
+  "description": "Generate release notes for GitCode repositories from commits (by tag range or since-date), grouped as feat/fix/docs/other, output Markdown for Release pages. 按 tag 区间或日期拉取提交并生成版本发布公告 Markdown。Python 3.7+ standard library only.",
+  "version": "1.0.0",
+  "author": {
+    "name": "autoxj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/autoxj/gitcode-release-notes",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/autoxj/gitcode-release-notes"
+}

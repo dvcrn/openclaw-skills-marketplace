@@ -1,0 +1,10 @@
+{
+  "name": "sunrddd-a11y--screenshot-skill",
+  "description": "Capture screenshots on Windows using mss and Pillow. Provides full-screen, region, and multi-monitor capture with output as PIL Image, PNG file, or base64 string. Use when the user asks to take screenshots, capture screen content, get screen info, or needs screen images for AI vision APIs.",
+  "version": "1.0.1",
+  "author": {
+    "name": "sunrddd-a11y"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunrddd-a11y/screenshot-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunrddd-a11y/screenshot-skill"
+}

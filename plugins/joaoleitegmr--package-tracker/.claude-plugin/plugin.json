@@ -1,0 +1,10 @@
+{
+  "name": "joaoleitegmr--package-tracker",
+  "description": "Track packages and shipments via the 17track API. Use when the user asks to track a package, check delivery status, add a tracking number, list tracked shipments, or get updates on deliveries. Supports 2000+ carriers worldwide with auto carrier detection and tracking URLs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "joaoleitegmr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/joaoleitegmr/package-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joaoleitegmr/package-tracker"
+}

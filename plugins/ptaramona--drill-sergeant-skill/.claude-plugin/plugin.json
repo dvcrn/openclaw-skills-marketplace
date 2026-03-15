@@ -1,0 +1,10 @@
+{
+  "name": "ptaramona--drill-sergeant-skill",
+  "description": "Enforce team communication discipline and execution hygiene in shared work channels. Use when setting up or running a lightweight governance loop for agent teams: detecting repeat/looping messages, route violations, missing ownership signals, stale in-review work, and noisy status updates; then producing corrective actions, escalation notes, and manager-ready summaries.",
+  "version": "0.1.0",
+  "author": {
+    "name": "ptaramona"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ptaramona/drill-sergeant-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ptaramona/drill-sergeant-skill"
+}

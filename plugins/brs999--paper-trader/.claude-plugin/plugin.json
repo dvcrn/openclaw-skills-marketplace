@@ -1,0 +1,10 @@
+{
+  "name": "brs999--paper-trader",
+  "description": "Run a structured paper-trading loop with SQLite-backed event logging, position tracking, and PnL review. Use when opening/closing simulated trades, journaling thesis notes, checking portfolio status, or generating weekly performance summaries.",
+  "version": "1.0.1",
+  "author": {
+    "name": "brs999"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brs999/paper-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brs999/paper-trader"
+}

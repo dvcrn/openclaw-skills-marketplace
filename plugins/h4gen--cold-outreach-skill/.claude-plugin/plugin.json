@@ -1,0 +1,10 @@
+{
+  "name": "h4gen--cold-outreach-skill",
+  "description": "Meta-skill for orchestrating Apollo API, LinkedIn API, YC Cold Outreach, and MachFive Cold Email into a complete B2B cold outreach pipeline. Use when the user wants end-to-end lead sourcing, enrichment, personalized copy strategy, and generation-ready outreach sequences with strict quality and safety gates.",
+  "version": "1.0.0",
+  "author": {
+    "name": "h4gen"
+  },
+  "homepage": "https://clawhub.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/h4gen/cold-outreach-skill"
+}

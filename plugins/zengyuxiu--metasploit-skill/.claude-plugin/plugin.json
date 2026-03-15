@@ -1,0 +1,10 @@
+{
+  "name": "zengyuxiu--metasploit-skill",
+  "description": "Plan and execute authorized Metasploit assessments for OpenClaw tasks with repeatable workflows, including target triage, exploit module selection, option tuning, .rc generation, controlled execution, and evidence-focused reporting. Use when requests involve msfconsole operations, module/payload matching, exploit/check automation, session verification, or pentest result writeups.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zengyuxiu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zengyuxiu/metasploit-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zengyuxiu/metasploit-skill"
+}

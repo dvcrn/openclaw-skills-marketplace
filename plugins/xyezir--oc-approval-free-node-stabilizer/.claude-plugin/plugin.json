@@ -1,0 +1,10 @@
+{
+  "name": "xyezir--oc-approval-free-node-stabilizer",
+  "description": "Stabilize no-approval node execution in OpenClaw. Use when approval timeout, noisy failure events, or node run drift appears.",
+  "version": "0.1.0",
+  "author": {
+    "name": "xyezir"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xyezir/oc-approval-free-node-stabilizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xyezir/oc-approval-free-node-stabilizer"
+}

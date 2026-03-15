@@ -1,0 +1,10 @@
+{
+  "name": "phucisstupid--vietqr",
+  "description": "Generate VietQR payment image URLs for Vietnamese bank transfers from bank/account details. Use when users ask to create a VietQR link, return a markdown QR preview, or validate VietQR bank/account/amount input.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phucisstupid"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phucisstupid/vietqr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phucisstupid/vietqr"
+}

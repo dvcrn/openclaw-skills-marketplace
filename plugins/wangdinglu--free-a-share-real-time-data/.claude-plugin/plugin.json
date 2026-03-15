@@ -1,0 +1,10 @@
+{
+  "name": "wangdinglu--free-a-share-real-time-data",
+  "description": "Fetch China A-share stock market data (bars, realtime quotes, tick-by-tick transactions) via mootdx/TDX protocol. Use when working with Chinese stock data, mootdx library, TDX quotes, intraday minute bars, transaction history, or real-time A-share market data.",
+  "version": "1.0.1",
+  "author": {
+    "name": "wangdinglu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangdinglu/free-a-share-real-time-data",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangdinglu/free-a-share-real-time-data"
+}

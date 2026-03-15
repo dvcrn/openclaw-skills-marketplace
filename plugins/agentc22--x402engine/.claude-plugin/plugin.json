@@ -1,0 +1,10 @@
+{
+  "name": "agentc22--x402engine",
+  "description": "Pay-per-call API gateway skill — calls 63 APIs (LLMs, image/video gen, flights, hotels, crypto, web search) via x402 micropayments. Each call costs $0.001-$0.60 in USDC/USDm, enforced by a local policy engine with spend caps.",
+  "version": "1.3.2",
+  "author": {
+    "name": "agentc22"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agentc22/x402engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agentc22/x402engine"
+}

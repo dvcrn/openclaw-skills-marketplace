@@ -1,0 +1,10 @@
+{
+  "name": "ww12355--pms-worklog",
+  "description": "自动填写 PingCode/PMS 系统工时记录。支持批量填写多天的工时，自动登录、选择事项类型、填写事项、工时、日期和说明。",
+  "version": "1.0.0",
+  "author": {
+    "name": "ww12355"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ww12355/pms-worklog",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ww12355/pms-worklog"
+}

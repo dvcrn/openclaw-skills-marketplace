@@ -1,0 +1,10 @@
+{
+  "name": "dalomeve--model-route-guard",
+  "description": "Diagnose and fix model routing conflicts. Ensure primary model uses correct provider endpoint without duplicate overrides.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dalomeve"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/model-route-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/model-route-guard"
+}

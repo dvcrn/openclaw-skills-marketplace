@@ -1,0 +1,10 @@
+{
+  "name": "jonisjongithub--evm-wallet-venice",
+  "description": "Self-sovereign EVM wallet for AI agents with Venice AI integration. Use when the user wants to create a crypto wallet, check balances, send ETH or ERC20 tokens, swap tokens, interact with smart contracts, or access Venice's private AI inference API with DIEM tokens. Supports Base, Ethereum, Polygon, Arbitrum, and Optimism. Private keys stored locally — no cloud custody.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jonisjongithub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jonisjongithub/evm-wallet-venice",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jonisjongithub/evm-wallet-venice"
+}

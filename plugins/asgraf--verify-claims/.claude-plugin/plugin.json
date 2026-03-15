@@ -1,0 +1,10 @@
+{
+  "name": "asgraf--verify-claims",
+  "description": "Verify claims and information using professional fact-checking services. Use this skill when users want to verify facts, check claims in articles/videos/transcripts, validate news authenticity, cross-reference information with trusted fact-checkers, or investigate potentially false or misleading content. Triggers include requests to \"fact check\", \"verify this\", \"is this true\", \"check if this is accurate\", or when users share content they want validated against misinformation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "asgraf"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/asgraf/verify-claims",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/asgraf/verify-claims"
+}

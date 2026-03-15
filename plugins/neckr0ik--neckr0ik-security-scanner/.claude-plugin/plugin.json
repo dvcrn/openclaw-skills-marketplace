@@ -1,0 +1,10 @@
+{
+  "name": "neckr0ik--neckr0ik-security-scanner",
+  "description": "Security audit tool for OpenClaw skills. Scans skill directories for common vulnerabilities including hardcoded secrets, unsafe shell commands, prompt injection risks, unauthorized network access, and code execution dangers. Use when auditing skills before installation, reviewing skill code for security issues, or validating skills for ClawHub publication.",
+  "version": "1.0.0",
+  "author": {
+    "name": "neckr0ik"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neckr0ik/neckr0ik-security-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neckr0ik/neckr0ik-security-scanner"
+}

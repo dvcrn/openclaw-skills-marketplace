@@ -1,0 +1,10 @@
+{
+  "name": "keylimesoda--tommy-monitoring-dashboard",
+  "description": "Zero-token real-time Discord monitoring dashboard for OpenClaw. Displays system health, cron jobs, sessions, and performance analytics via persistent Discord messages updated every 2 minutes with no LLM token cost.",
+  "version": "2.0.0",
+  "author": {
+    "name": "keylimesoda"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/keylimesoda/tommy-monitoring-dashboard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/keylimesoda/tommy-monitoring-dashboard"
+}

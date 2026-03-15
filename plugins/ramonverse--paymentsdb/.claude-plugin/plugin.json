@@ -1,0 +1,10 @@
+{
+  "name": "ramonverse--paymentsdb",
+  "description": "Query Stripe customer and billing data from a synced PostgreSQL database. Use when the user asks about Stripe customers, subscriptions, invoices, charges, or any Stripe-related data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ramonverse"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ramonverse/paymentsdb",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ramonverse/paymentsdb"
+}

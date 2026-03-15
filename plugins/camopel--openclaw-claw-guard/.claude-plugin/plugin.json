@@ -1,0 +1,10 @@
+{
+  "name": "camopel--openclaw-claw-guard",
+  "description": "System-level watchdog for OpenClaw gateway restarts and sub-agent task PIDs. Monitors registered PIDs and optional log/directory freshness. Auto-reverts config on failed gateway restarts. Requires explicit registration — does NOT auto-discover. Use when running long background tasks or before gateway restarts.",
+  "version": "1.1.0",
+  "author": {
+    "name": "camopel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/camopel/openclaw-claw-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/camopel/openclaw-claw-guard"
+}

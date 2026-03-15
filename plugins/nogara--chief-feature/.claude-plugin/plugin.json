@@ -1,0 +1,10 @@
+{
+  "name": "nogara--chief-feature",
+  "description": "Create and implement new features in Chief-managed projects using the Chief CLI. Use when asked to create a new PRD, implement a feature with Chief, set up a worktree and branch for a new feature, or open a PR for a Chief-implemented feature. Triggers on phrases like \"create a new PRD\", \"implement this feature with Chief\", \"run Chief for a feature\", \"new feature request\", or any workflow involving Chief's interactive PRD creation and AI-driven implementation loop.",
+  "version": "1.0.2",
+  "author": {
+    "name": "nogara"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nogara/chief-feature",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nogara/chief-feature"
+}

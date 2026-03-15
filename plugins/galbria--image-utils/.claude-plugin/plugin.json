@@ -1,0 +1,10 @@
+{
+  "name": "galbria--image-utils",
+  "description": "Classic image manipulation with Python Pillow - resize, crop, composite, format conversion, watermarks, brightness/contrast adjustments, and web optimization. Use this skill when post-processing AI-generated images, preparing images for web delivery, batch processing image directories, creating responsive image variants, or performing any deterministic pixel-level image operation. Works standalone or alongside bria-ai for post-processing generated images.",
+  "version": "1.2.3",
+  "author": {
+    "name": "galbria"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/galbria/image-utils",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/galbria/image-utils"
+}

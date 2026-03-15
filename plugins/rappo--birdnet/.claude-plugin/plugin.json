@@ -1,0 +1,10 @@
+{
+  "name": "rappo--birdnet",
+  "description": "Query BirdNET-Go bird detections. View recent birds, search by species, get detection details.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rappo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rappo/birdnet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rappo/birdnet"
+}

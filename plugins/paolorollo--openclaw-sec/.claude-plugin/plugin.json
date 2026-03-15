@@ -1,0 +1,10 @@
+{
+  "name": "paolorollo--openclaw-sec",
+  "description": "AI Agent Security Suite - Real-time protection against prompt injection, command injection, SSRF, path traversal, secrets exposure, and content policy violations",
+  "version": "0.2.6",
+  "author": {
+    "name": "paolorollo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/paolorollo/openclaw-sec",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paolorollo/openclaw-sec"
+}

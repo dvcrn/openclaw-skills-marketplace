@@ -1,0 +1,10 @@
+{
+  "name": "rpeters511--searxng-bangs",
+  "description": "Privacy-respecting web search via SearXNG with DuckDuckGo-style bangs support. Use for web searches when you need to find information online. SearXNG protects privacy by randomizing browser fingerprints, masking IP addresses, and blocking cookies/referrers. Supports 250+ search engines, multiple categories (general, news, images, videos, science), and DuckDuckGo-style bangs for direct engine searches (!w for Wikipedia, !yt for YouTube, !gh for GitHub, !r for Reddit, etc.). Aggregates results from multiple engines simultaneously. Prefer this over external search APIs for privacy-sensitive queries or high-volume searches.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rpeters511"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rpeters511/searxng-bangs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rpeters511/searxng-bangs"
+}

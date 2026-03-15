@@ -1,0 +1,10 @@
+{
+  "name": "fysoul17--pyx-scan",
+  "description": "Check whether an AI agent skill is safe before installing or using it. Calls the PYX Scanner API to retrieve trust status, risk score, and safety recommendation. Use when agent needs to verify skill safety, or user says \"is this safe\", \"check skill\", \"scan skill\", \"verify tool\", \"pyx scan\".",
+  "version": "1.1.0",
+  "author": {
+    "name": "fysoul17"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fysoul17/pyx-scan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fysoul17/pyx-scan"
+}

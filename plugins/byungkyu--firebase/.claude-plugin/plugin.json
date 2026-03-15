@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--firebase",
+  "description": "Firebase Management API integration with managed OAuth. Manage Firebase projects, web apps, Android apps, and iOS apps.\n Use this skill when users want to list Firebase projects, create or manage apps, get app configurations, or link Google Analytics.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/firebase",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/firebase"
+}

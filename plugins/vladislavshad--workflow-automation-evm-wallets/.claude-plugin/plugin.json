@@ -1,0 +1,10 @@
+{
+  "name": "vladislavshad--workflow-automation-evm-wallets",
+  "description": "Creates, configures, and deploys on-chain automation workflows using the Ditto Network SDK. Use when the user asks to \"create a workflow\", \"automate on-chain\", \"schedule transactions\", \"deploy a workflow\", \"set up recurring transfers\", \"swap tokens on a schedule\", \"automate DeFi\", \"create a cron job on-chain\", \"trigger on event\", or mentions \"Ditto Network\". Handles workflow building, IPFS upload, on-chain registration, simulation, and cancellation. Do NOT use for general smart contract development unrelated to Ditto workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vladislavshad"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vladislavshad/workflow-automation-evm-wallets",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vladislavshad/workflow-automation-evm-wallets"
+}

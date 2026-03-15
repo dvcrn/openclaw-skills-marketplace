@@ -1,0 +1,10 @@
+{
+  "name": "nissan--vector-store-shootout",
+  "description": "8 vector store implementations behind a common interface — numpy, lancedb, qdrant, pgvector, weaviate, weaviate_hybrid, milvus, lightrag. Use when evaluating RAG backends, building vector search, or comparing embedding stores. Each backend is a drop-in replacement via the base class.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/vector-store-shootout",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/vector-store-shootout"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "deeakpan--clawracle-resolver",
+  "description": "Enable AI agents to earn CLAWCLE tokens by resolving oracle queries on Monad. Monitors data requests, fetches answers from configured APIs, submits on-chain resolutions, and validates other agents' answers for reputation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "deeakpan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deeakpan/clawracle-resolver",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deeakpan/clawracle-resolver"
+}

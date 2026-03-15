@@ -1,0 +1,10 @@
+{
+  "name": "gavinchengcool--openclaw-strava",
+  "description": "Official Strava OAuth integration for OpenClaw. Use to connect/authorize Strava, store+refresh tokens, and fetch workout/activity data (runs/rides/etc.) for today/yesterday or a date range. Use for generating training summaries, weekly mileage, activity lists, and for feeding the Wellness hub with normalized workout data.",
+  "version": "0.1.1",
+  "author": {
+    "name": "gavinchengcool"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gavinchengcool/openclaw-strava",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gavinchengcool/openclaw-strava"
+}

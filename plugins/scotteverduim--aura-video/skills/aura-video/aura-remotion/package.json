@@ -1,0 +1,23 @@
+{
+  "name": "aura-creatine-remotion",
+  "version": "1.0.0",
+  "description": "Aura Creatine data animation templates for TikTok/Reels",
+  "scripts": {
+    "start": "remotion studio",
+    "render:stat": "remotion render StatCard out/stat_card.mp4",
+    "render:bar": "remotion render BarChart out/bar_chart.mp4",
+    "render:ring": "remotion render PercentageRing out/percentage_ring.mp4",
+    "render:lower": "remotion render LowerThird out/lower_third.mp4"
+  },
+  "dependencies": {
+    "remotion": "^4.0.0",
+    "@remotion/renderer": "^4.0.0",
+    "@remotion/cli": "^4.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}

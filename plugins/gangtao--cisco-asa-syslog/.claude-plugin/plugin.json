@@ -1,0 +1,10 @@
+{
+  "name": "gangtao--cisco-asa-syslog",
+  "description": "Parse, interpret, and analyze Cisco ASA (Adaptive Security Appliance) firewall syslog messages. Use this skill whenever working with Cisco ASA log files, syslog streams from ASA devices, firewall event analysis, or security investigations involving ASA-generated events. Covers the syslog protocol foundation and the ASA-specific message format with message ID categorization.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gangtao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gangtao/cisco-asa-syslog",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gangtao/cisco-asa-syslog"
+}

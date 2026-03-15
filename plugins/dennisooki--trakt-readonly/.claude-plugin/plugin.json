@@ -1,0 +1,10 @@
+{
+  "name": "dennisooki--trakt-readonly",
+  "description": "Read-only Trakt.tv skill for checking a user’s currently watching item, recent episode history, watched shows list, stats, profile, and playback progress (OAuth) using the Trakt API. Use when the user asks about their Trakt activity, watching status, or recent episodes. Requires a Trakt Client ID and username.",
+  "version": "1.0.3",
+  "author": {
+    "name": "dennisooki"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dennisooki/trakt-readonly",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dennisooki/trakt-readonly"
+}

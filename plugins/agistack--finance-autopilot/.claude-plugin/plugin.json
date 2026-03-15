@@ -1,0 +1,10 @@
+{
+  "name": "agistack--finance-autopilot",
+  "description": "A proactive personal finance manager for AI agents. Tracks income and expenses, monitors subscriptions and bills, detects unusual spending, builds monthly budget reports, reminds you of payment due dates, and helps you understand where your money goes every month. Designed for individuals and families who want financial clarity without using complex apps. No accounting knowledge required. Just forward your bills and receipts and talk naturally.",
+  "version": "1.0.0",
+  "author": {
+    "name": "agistack"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agistack/finance-autopilot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agistack/finance-autopilot"
+}

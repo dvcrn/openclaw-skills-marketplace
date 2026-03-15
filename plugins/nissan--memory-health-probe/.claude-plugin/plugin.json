@@ -1,0 +1,10 @@
+{
+  "name": "nissan--memory-health-probe",
+  "description": "QMD memory system telemetry — measure index health, BM25 retrieval quality, coverage maps, and trend analysis. Use when running QMD memory backend and need diagnostics on retrieval quality, index freshness, or collection coverage.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/memory-health-probe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/memory-health-probe"
+}

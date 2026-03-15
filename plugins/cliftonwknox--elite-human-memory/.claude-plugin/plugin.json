@@ -1,0 +1,10 @@
+{
+  "name": "cliftonwknox--elite-human-memory",
+  "description": "Implements a selective, human-like long-term memory system. Use when maintaining, retrieving, or updating memory across daily notes (memory/YYYY-MM-DD.md) and MEMORY.md. Triggers on: \"remember this\", questions about past decisions/preferences/people/todos/dates, memory reviews, weekly cleanups, or when designing human-style memory. Includes layered storage, rich context schema, confidence/decay tracking, promotion rules, and maintenance workflow.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cliftonwknox"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cliftonwknox/elite-human-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cliftonwknox/elite-human-memory"
+}

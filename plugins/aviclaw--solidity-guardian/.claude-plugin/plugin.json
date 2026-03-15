@@ -1,0 +1,10 @@
+{
+  "name": "aviclaw--solidity-guardian",
+  "description": "Smart contract security analysis skill. Detect vulnerabilities, suggest fixes, generate audit reports. Supports Hardhat/Foundry projects. Uses pattern matching + best practices from Trail of Bits, OpenZeppelin, and Consensys.",
+  "version": "1.0.3",
+  "author": {
+    "name": "aviclaw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aviclaw/solidity-guardian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aviclaw/solidity-guardian"
+}

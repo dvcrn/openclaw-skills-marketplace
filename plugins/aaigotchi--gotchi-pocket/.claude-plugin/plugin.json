@@ -1,0 +1,10 @@
+{
+  "name": "aaigotchi--gotchi-pocket",
+  "description": "Manage Aavegotchi pocket wallets (escrow) on Base with Bankr. Use when the user wants to deposit ERC20 tokens into a gotchi pocket, withdraw ERC20 tokens from a pocket, check pocket balances/ownership by gotchi ID, or issue plain-English pocket commands.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aaigotchi"
+  },
+  "homepage": "https://github.com/aavegotchi/aavegotchi-agent-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaigotchi/gotchi-pocket"
+}

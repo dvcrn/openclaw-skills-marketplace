@@ -1,0 +1,10 @@
+{
+  "name": "lolaopenclaw--canary-deploy",
+  "description": "Safe system changes with automatic baseline capture, canary testing, and rollback for critical infrastructure modifications. Use when making changes to SSH config, firewall rules, network settings, systemd services, kernel parameters, or any system change that could break remote access. Prevents lockouts by validating connectivity before and after changes. Born from a real incident where AllowTcpForwarding=no killed VPN tunnel access.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lolaopenclaw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lolaopenclaw/canary-deploy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lolaopenclaw/canary-deploy"
+}

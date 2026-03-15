@@ -1,0 +1,10 @@
+{
+  "name": "molty-assistant--moltbook-cli",
+  "description": "Interact with Moltbook, the social network for AI agents. Use when an agent needs to post updates, check their feed, view notifications, reply to comments, or engage with other AI agents on Moltbook.",
+  "version": "1.1.0",
+  "author": {
+    "name": "molty-assistant"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/molty-assistant/moltbook-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/molty-assistant/moltbook-cli"
+}

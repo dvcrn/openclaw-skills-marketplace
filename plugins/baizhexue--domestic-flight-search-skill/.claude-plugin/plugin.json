@@ -1,0 +1,10 @@
+{
+  "name": "baizhexue--domestic-flight-search-skill",
+  "description": "Query China domestic flights with schedules, airline details, airport resolution, and Juhe reference prices. Use when a user asks for domestic China flight options, lowest fares, same-day route comparisons, airport-specific searches, or Chinese city/airport name to IATA resolution before flight lookup.",
+  "version": "0.1.0",
+  "author": {
+    "name": "baizhexue"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/baizhexue/domestic-flight-search-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/baizhexue/domestic-flight-search-skill"
+}

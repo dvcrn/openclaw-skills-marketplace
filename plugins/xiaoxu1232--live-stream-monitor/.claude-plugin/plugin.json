@@ -1,0 +1,10 @@
+{
+  "name": "xiaoxu1232--live-stream-monitor",
+  "description": "Monitor live streams (YouTube, Bilibili) and get notified when specific keywords are mentioned. Uses browser SpeechRecognition API for real-time transcription. Trigger when: (1) User wants to monitor a stream for keywords, (2) Need live transcription of streams, (3) Alert when specific words are mentioned.",
+  "version": "1.1.0",
+  "author": {
+    "name": "xiaoxu1232"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaoxu1232/live-stream-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaoxu1232/live-stream-monitor"
+}

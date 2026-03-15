@@ -1,0 +1,10 @@
+{
+  "name": "nesdeq--serper",
+  "description": "Google search via Serper API with full page content extraction. Fast API lookup + concurrent page scraping (3s timeout). One well-crafted query returns rich results — avoid multiple calls. Two modes, explicit locale control. API key via .env.",
+  "version": "3.0.2",
+  "author": {
+    "name": "nesdeq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nesdeq/serper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nesdeq/serper"
+}

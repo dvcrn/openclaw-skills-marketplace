@@ -1,0 +1,10 @@
+{
+  "name": "jonaswide--intervals-icu-cli",
+  "description": "Use this skill when an installed `intervals` CLI should be used to query Intervals.icu, inspect activities, create scheduled workout events, create workout library items, or write wellness data. It teaches command selection, JSON-first write patterns, and the event versus workout distinction.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jonaswide"
+  },
+  "homepage": "https://github.com/jonaswide/intervals-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jonaswide/intervals-icu-cli"
+}

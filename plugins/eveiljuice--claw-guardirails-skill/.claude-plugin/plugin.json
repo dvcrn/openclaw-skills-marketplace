@@ -1,0 +1,10 @@
+{
+  "name": "eveiljuice--claw-guardirails-skill",
+  "description": "Enforces guarded execution with safe_exec, safe_send, and safe_action. Use when a task may run shell commands, send channel messages, or call external APIs/actions that can mutate data or state.",
+  "version": "0.1.0",
+  "author": {
+    "name": "eveiljuice"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/eveiljuice/claw-guardirails-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eveiljuice/claw-guardirails-skill"
+}

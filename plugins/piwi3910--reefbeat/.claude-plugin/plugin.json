@@ -1,0 +1,10 @@
+{
+  "name": "piwi3910--reefbeat",
+  "description": "Control and monitor Red Sea ReefBeat aquarium equipment directly over the local HTTP API — no cloud required. Supports ALL actions on ALL devices — ReefLED G1/G2 (lighting/kelvin/intensity/schedules/acclimation/moonphase), ReefDose (dosing/calibration/priming/supplements), ReefMat (filter roll/advance/new-roll), ReefRun (return pump + skimmer control/overskimming), ReefATO+ (auto top-off/resume/volume), ReefWave (wave modes/preview). Use for ANY reef tank / aquarium request.",
+  "version": "1.0.3",
+  "author": {
+    "name": "piwi3910"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/piwi3910/reefbeat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/piwi3910/reefbeat"
+}

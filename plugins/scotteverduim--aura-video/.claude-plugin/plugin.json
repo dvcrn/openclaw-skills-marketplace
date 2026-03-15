@@ -1,0 +1,10 @@
+{
+  "name": "scotteverduim--aura-video",
+  "description": "Generate a complete Aura Creatine TikTok/Instagram video from a JSON script. Reads the script from Google Drive, generates A-roll (Kristina image-to-video via AIML), B-roll (text-to-video via Gemini Veo), and animation scenes (Remotion), then merges everything with voiceover and captions into a final 9:16 MP4.",
+  "version": "1.0.0",
+  "author": {
+    "name": "scotteverduim"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/scotteverduim/aura-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scotteverduim/aura-video"
+}

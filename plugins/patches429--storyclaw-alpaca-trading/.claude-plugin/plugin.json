@@ -1,0 +1,10 @@
+{
+  "name": "patches429--storyclaw-alpaca-trading",
+  "description": "US stock and crypto trading via Alpaca API. Paper trading (simulated) and real trading supported. Real-time quotes, orders, positions, RSI strategy.",
+  "version": "0.1.0",
+  "author": {
+    "name": "patches429"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/patches429/storyclaw-alpaca-trading",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/patches429/storyclaw-alpaca-trading"
+}

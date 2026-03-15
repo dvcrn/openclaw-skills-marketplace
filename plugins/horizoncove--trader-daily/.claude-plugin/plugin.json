@@ -1,0 +1,10 @@
+{
+  "name": "horizoncove--trader-daily",
+  "description": "[中文] 量化交易员日常任务管理系统 - 专为股票交易员设计的每日工作流程管理工具。\n 包含：开盘/收盘/日终汇报模板、实时持仓监控、风控提醒、交易日志记录。\n 使用场景：(1) 管理每日交易任务时间表 (2) 生成汇报给上级的简报 (3) 监控持仓风险 (4) 记录交易日志 (5) 复盘分析\n \n [English] Quantitative Trader Daily Task Management System - A comprehensive daily workflow management tool designed for stock traders.\n Features: Opening/Closing/End-of-day report templates, real-time portfolio monitoring, risk control alerts, trading log recording.\n Use cases: (1) Manage daily trading schedules (2) Generate briefings for supervisors (3) Monitor portfolio risks (4) Record trading logs (5) Performance review",
+  "version": "1.0.0",
+  "author": {
+    "name": "horizoncove"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/horizoncove/trader-daily",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/horizoncove/trader-daily"
+}

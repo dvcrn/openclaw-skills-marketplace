@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--asana-api",
+  "description": "Asana API integration with managed OAuth. Access tasks, projects, workspaces, users, and manage webhooks. Use this skill when users want to manage work items, track projects, or integrate with Asana workflows. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.3",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/asana-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/asana-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "thegdsks--glin-profanity-mcp",
+  "description": "MCP server providing profanity detection tools for AI assistants. Use when reviewing batches of user content, auditing comments for moderation reports, analyzing text for profanity before publishing, or when AI needs content moderation capabilities during workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "thegdsks"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thegdsks/glin-profanity-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thegdsks/glin-profanity-mcp"
+}

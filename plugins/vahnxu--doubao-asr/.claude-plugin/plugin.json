@@ -1,0 +1,10 @@
+{
+  "name": "vahnxu--doubao-asr",
+  "description": "Transcribe audio files via Doubao Seed-ASR 2.0 (豆包录音文件识别模型2.0, recorded audio → text) API from ByteDance/Volcengine. Best-in-class Chinese speech recognition. 调用字节跳动火山引擎「豆包录音文件识别模型2.0」转写录音文件，中文识别效果业界领先。Use when the user needs to transcribe recorded audio files, or asks for Doubao/豆包/Volcengine/火山引擎 audio file transcription. Do NOT use for real-time/streaming speech recognition, text-to-speech (TTS), or live captioning. 不适用于实时语音识别、语音合成(TTS)或直播字幕。",
+  "version": "0.18.0",
+  "author": {
+    "name": "vahnxu"
+  },
+  "homepage": "https://www.volcengine.com/docs/6561/1354868",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vahnxu/doubao-asr"
+}

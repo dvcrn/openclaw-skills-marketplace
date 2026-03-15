@@ -1,0 +1,10 @@
+{
+  "name": "whodidthese--my-play-music-from-yt",
+  "description": "Play music on YouTube via browser automation with playwright-cli.\n Use when the user wants to: \n (1) play a specific song (e.g. 'play Money Money Money by ABBA') \n (2) play songs by an artist as a playlist or mix (e.g. 'play Jay Chou's songs') \n (3) play genre or mood-based music (e.g. 'play relaxing spa music', 'play 60s Chinese oldies') \n (4) control playback — next, pause, resume, stop, skip ad, change song, close the player. \n Also handles song/artist name corrections from voice transcription errors.",
+  "version": "0.0.9",
+  "author": {
+    "name": "whodidthese"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/whodidthese/my-play-music-from-yt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/whodidthese/my-play-music-from-yt"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wpank--testing-workflow",
+  "description": "Meta-skill that orchestrates comprehensive testing across a project by coordinating testing-patterns, e2e-testing, and testing agents. Use when setting up testing for a new project, improving coverage for an existing project, establishing a testing strategy, or verifying quality before a release.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/testing-workflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/testing-workflow"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jeffjhunter--openclaw-cost-optimizer",
+  "description": "Cut your OpenRouter API costs 50-90%. Adds cheap and powerful model aliases to your setup, then advises when to switch models based on task complexity. 8 presets, 29 models, zero config risk — only adds aliases, never changes your default. 3 clicks to set up. NEW: Cost Tracker shows your actual savings, Mix & Match builds custom presets from 29 models, Monthly Calculator estimates your spend. Built by Jeff J Hunter.",
+  "version": "1.1.0",
+  "author": {
+    "name": "jeffjhunter"
+  },
+  "homepage": "https://jeffjhunter.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeffjhunter/openclaw-cost-optimizer"
+}

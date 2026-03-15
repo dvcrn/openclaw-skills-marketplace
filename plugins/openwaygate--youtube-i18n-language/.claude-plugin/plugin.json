@@ -1,0 +1,10 @@
+{
+  "name": "openwaygate--youtube-i18n-language",
+  "description": "Manage YouTube i18n languages. Use this skill to list available internationalization languages. Useful when working with YouTube i18n language — provides commands to list i18n language via the yutu CLI. Includes setup and installation instructions for first-time users. Triggers: list i18n languages, list i18n language, list my i18n language",
+  "version": "0.10.6-3",
+  "author": {
+    "name": "openwaygate"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openwaygate/youtube-i18n-language",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openwaygate/youtube-i18n-language"
+}

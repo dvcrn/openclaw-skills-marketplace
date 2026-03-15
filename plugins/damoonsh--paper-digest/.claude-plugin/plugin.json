@@ -1,0 +1,10 @@
+{
+  "name": "damoonsh--paper-digest",
+  "description": "Given an arXiv ID or URL, fetch the paper, spawn sub-agents to read its key citations, and write an executive summary under.",
+  "version": "0.0.2",
+  "author": {
+    "name": "damoonsh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/damoonsh/paper-digest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/damoonsh/paper-digest"
+}

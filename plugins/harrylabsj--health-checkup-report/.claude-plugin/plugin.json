@@ -1,0 +1,10 @@
+{
+  "name": "harrylabsj--health-checkup-report",
+  "description": "Interpret routine health checkup reports and lab results in plain Chinese, highlighting abnormal items, likely meaning, urgency, follow-up questions, and practical next steps. Use when the user shares a体检报告、化验单、检查结果、检验指标、异常箭头项目, asks what abnormal results mean, or wants a structured non-diagnostic explanation rather than raw numbers only.",
+  "version": "1.0.0",
+  "author": {
+    "name": "harrylabsj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/health-checkup-report",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/health-checkup-report"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "gyliiiiii--openclaw-context-upgrade",
+  "description": "Diagnose and upgrade OpenClaw conversation context limits, especially moving a chat from ~272k to 1M. Use when the user asks to enlarge context, make GPT-5.4 use 1M context, change `agents.defaults.contextTokens`, verify why a chat still shows 272k after changes, or execute the full workflow of model selection + config patch + restart + fresh session + status verification.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gyliiiiii"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gyliiiiii/openclaw-context-upgrade",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gyliiiiii/openclaw-context-upgrade"
+}

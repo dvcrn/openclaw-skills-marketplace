@@ -1,0 +1,10 @@
+{
+  "name": "xieyz1980--bestprospector",
+  "description": "根据关键词自动搜索潜在客户公司，提取联系方式（邮箱），输出结构化客户列表。\n \n 适用场景：\n - 用户需要寻找潜在客户时\n - 用户需要获取公司联系方式时\n - 用户提到\"找客户\"、\"获客\"、\"销售线索\"、\"潜在客户\"等关键词\n - 用户需要查询已收集的客户数据\n \n 功能：\n 1. 根据关键词和地区搜索潜在客户公司\n 2. 访问公司官网提取邮箱地址\n 3. 通过WHOIS查询域名注册邮箱\n 4. 验证邮箱格式有效性\n 5. 输出结构化的客户列表（JSON/CSV格式）\n 6. 自动缓存结果，避免重复搜索\n 7. 自动排重，跳过已存在的公司\n 8. 查询已收集的客户数据（简单查询）\n \n 注意：此Skill只负责\"找客户\"和\"简单查询\"，不负责\"发邮件\"和\"客户管理\"。发送邮件请使用其他邮件相关Skill，复杂客户管理请使用专门的客户管理工具。",
+  "version": "1.0.1",
+  "author": {
+    "name": "xieyz1980"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xieyz1980/bestprospector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xieyz1980/bestprospector"
+}

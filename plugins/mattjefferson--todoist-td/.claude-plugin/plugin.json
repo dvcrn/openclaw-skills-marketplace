@@ -1,0 +1,10 @@
+{
+  "name": "mattjefferson--todoist-td",
+  "description": "Use the td (Todoist CLI) to read and manage Todoist todos/to-dos/tasks from the terminal. Trigger when the user asks about their todos/tasks/agenda/checklist (today/upcoming/overdue), wants to list inbox/tasks/projects/labels, add a task/todo with natural language, or update/complete/delete/move tasks (e.g., add a phone number to a task description, change due dates, priorities, labels).",
+  "version": "0.1.1",
+  "author": {
+    "name": "mattjefferson"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mattjefferson/todoist-td",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mattjefferson/todoist-td"
+}

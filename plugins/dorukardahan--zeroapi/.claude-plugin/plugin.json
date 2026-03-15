@@ -1,0 +1,10 @@
+{
+  "name": "dorukardahan--zeroapi",
+  "description": "Route tasks to the best AI model across paid subscriptions (Claude, ChatGPT, Codex, Gemini, Kimi) via OpenClaw gateway. Use when user mentions model routing, multi-model setup, \"use Codex for this\", \"delegate to Gemini\", \"route to the best model\", agent delegation, or has OpenClaw agents configured with multiple providers. Do NOT use for single-model conversations or general chat.",
+  "version": "3.1.0",
+  "author": {
+    "name": "dorukardahan"
+  },
+  "homepage": "https://github.com/dorukardahan/ZeroAPI",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dorukardahan/zeroapi"
+}

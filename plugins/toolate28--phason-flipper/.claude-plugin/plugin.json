@@ -1,0 +1,10 @@
+{
+  "name": "toolate28--phason-flipper",
+  "description": "Phason state resolution skill for Reson8-Labs. Use when the system encounters a split-brain state, HTTP 408 timeout deadlock, push/flip paradox, or coherence density spike. The Phasonic Flipper resolves state without re-transmission by applying a \"Flip\" — a quasicrystal phason field correction that restores the topological knot sequence. Triggers on: \"split brain\", \"408 timeout\", \"deadlock\", \"density spike\", \"phason\", \"flip state\", \"push conflict\", \"Knot 16\", \"resolve\", \"state conflict\", \"HTTP 408\", or any mention of transmission failure in POP.",
+  "version": "1.0.0",
+  "author": {
+    "name": "toolate28"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/toolate28/phason-flipper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/toolate28/phason-flipper"
+}

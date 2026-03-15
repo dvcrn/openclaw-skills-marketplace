@@ -1,0 +1,10 @@
+{
+  "name": "yjr-123456--document-workflow",
+  "description": "One-click academic paper research workflow. Use when: (1) searching papers by topic, (2) downloading PDFs from arXiv or journals, (3) extracting text in chunks, (4) summarizing papers by structured schema. Supports Tavily (default, ~100% PDF availability) and Semantic Scholar (fallback, richer metadata).",
+  "version": "1.0.3",
+  "author": {
+    "name": "yjr-123456"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yjr-123456/document-workflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yjr-123456/document-workflow"
+}

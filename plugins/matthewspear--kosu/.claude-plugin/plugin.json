@@ -1,0 +1,10 @@
+{
+  "name": "matthewspear--kosu",
+  "description": "Add, reorder, and manage content in a Kosu queue via API. Use when adding URLs, checking what's queued, suggesting content, reordering items, or tracking what's been read.",
+  "version": "1.1.0",
+  "author": {
+    "name": "matthewspear"
+  },
+  "homepage": "https://usekosu.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matthewspear/kosu"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "starensen--dcg-guard",
+  "description": "Hard-blocks dangerous shell commands (rm -rf, git push --force, etc.) before execution via OpenClaw's before_tool_call plugin hook. Zero noise on safe commands, ~27ms latency. Uses DCG (Dangerous Command Guard) binary.",
+  "version": "1.1.0",
+  "author": {
+    "name": "starensen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/starensen/dcg-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/starensen/dcg-guard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "soal2--openclaw-config-guard",
+  "description": "Audit and safely repair OpenClaw configuration with deterministic validation, backups, rollback, and change reporting. Use when asked to review or modify `openclaw.json`, check whether OpenClaw can still start, safely fix startup-blocking config errors, or audit OpenClaw config before deciding on changes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "soal2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/soal2/openclaw-config-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/soal2/openclaw-config-guard"
+}

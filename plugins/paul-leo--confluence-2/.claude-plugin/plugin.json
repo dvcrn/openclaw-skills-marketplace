@@ -1,0 +1,10 @@
+{
+  "name": "paul-leo--confluence-2",
+  "description": "Confluence Cloud 集成。空间/页面 CRUD、标签、评论、子页面、CQL 搜索。通过 MorphixAI 代理安全访问 Confluence Cloud API（v2 CRUD + v1 搜索）。",
+  "version": "0.1.1",
+  "author": {
+    "name": "paul-leo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/paul-leo/confluence-2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paul-leo/confluence-2"
+}

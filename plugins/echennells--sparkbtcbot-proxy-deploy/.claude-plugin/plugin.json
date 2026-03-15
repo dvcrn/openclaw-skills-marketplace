@@ -1,0 +1,10 @@
+{
+  "name": "echennells--sparkbtcbot-proxy-deploy",
+  "description": "Deploy a serverless Spark Bitcoin L2 proxy on Vercel with spending limits, auth, and Redis logging. Use when user wants to set up a new proxy, configure env vars, deploy to Vercel, or manage the proxy infrastructure.",
+  "version": "1.0.0",
+  "author": {
+    "name": "echennells"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/echennells/sparkbtcbot-proxy-deploy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/echennells/sparkbtcbot-proxy-deploy"
+}

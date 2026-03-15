@@ -1,0 +1,10 @@
+{
+  "name": "jimliu--baoyu-url-to-markdown",
+  "description": "Fetch any URL and convert to markdown using Chrome CDP. Saves the rendered HTML snapshot alongside the markdown, uses an upgraded Defuddle pipeline with better web-component handling and YouTube transcript extraction, and automatically falls back to the pre-Defuddle HTML-to-Markdown pipeline when needed. If local browser capture fails entirely, it can fall back to the hosted defuddle.md API. Supports two modes - auto-capture on page load, or wait for user signal (for pages requiring login). Use when user wants to save a webpage as markdown.",
+  "version": "1.63.0",
+  "author": {
+    "name": "jimliu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jimliu/baoyu-url-to-markdown",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jimliu/baoyu-url-to-markdown"
+}

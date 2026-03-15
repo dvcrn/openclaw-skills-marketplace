@@ -1,0 +1,10 @@
+{
+  "name": "abhibavishi--azure-image-gen",
+  "description": "Generate images using Azure OpenAI DALL-E. Supports batch generation, custom prompts, and outputs a gallery.",
+  "version": "1.0.0",
+  "author": {
+    "name": "abhibavishi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abhibavishi/azure-image-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abhibavishi/azure-image-gen"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lstpsche--gog-calendar",
+  "description": "Google Calendar via gogcli: reliable cross-calendar agenda (today/week/range) and best-effort keyword search across calendars (iterate + aggregate). Token-efficient output (`--plain` default, `--json` only when needed). Post-filters unwanted calendars (e.g., holidays) and confirms before writes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lstpsche"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lstpsche/gog-calendar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lstpsche/gog-calendar"
+}

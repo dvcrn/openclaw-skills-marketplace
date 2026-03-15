@@ -1,0 +1,10 @@
+{
+  "name": "youpele52--equity-research",
+  "description": "Run a full equity research report on a stock by executing three local scripts with uv run. Read this skill file for exact commands. Do NOT use sessions_spawn or web search.",
+  "version": "0.1.1",
+  "author": {
+    "name": "youpele52"
+  },
+  "homepage": "https://finance.yahoo.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/youpele52/equity-research"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "softcane--stockvaluation-io",
+  "description": "Set up, run, compare, and debug StockValuation.io, a local-first DCF valuation platform, including Docker startup, ticker valuations, LLM provider changes, prompt dumping, and troubleshooting.",
+  "version": "1.0.5",
+  "author": {
+    "name": "softcane"
+  },
+  "homepage": "https://github.com/stockvaluation-io/stockvaluation_io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/softcane/stockvaluation-io"
+}

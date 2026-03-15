@@ -1,0 +1,10 @@
+{
+  "name": "mr-nova86--a-stock-data",
+  "description": "A股数据查询技能。当用户询问中国A股股价、行情、K线、财务数据、实时行情、历史数据、涨停板、选股分析时使用。支持股票代码查询（如000001、600000）、股票名称查询。",
+  "version": "1.0.0",
+  "author": {
+    "name": "mr-nova86"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mr-nova86/a-stock-data",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mr-nova86/a-stock-data"
+}

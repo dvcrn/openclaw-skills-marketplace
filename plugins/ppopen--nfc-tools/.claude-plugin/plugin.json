@@ -1,0 +1,10 @@
+{
+  "name": "ppopen--nfc-tools",
+  "description": "NFC tag discovery, inspection, and cautious write workflows using libnfc/nfc-utils; trigger when the user asks to read tags, inspect NDEF payloads, write or update NFC data, or automate tag batches with a PN532/ACR122 reader.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ppopen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ppopen/nfc-tools",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ppopen/nfc-tools"
+}

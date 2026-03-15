@@ -1,0 +1,10 @@
+{
+  "name": "8co--opentangl",
+  "description": "Not a code generator — an entire dev team. You write the vision, it ships the code. Autonomous builds, PRs, reviews, and merges across multiple repos. Point it at any JS/TS project and a product vision. It plans features, writes code, verifies builds, creates PRs, reviews diffs, and merges — autonomously. Manages multiple repos as one product. Use when you want to ship code without writing it. AI code generation, autonomous development, workflow automation, multi-repo orchestration, TypeScript, JavaScript, GitHub, OpenAI, Anthropic, Claude, GPT, LLM, devtools, CI/CD, pull requests, code review.",
+  "version": "0.1.10",
+  "author": {
+    "name": "8co"
+  },
+  "homepage": "https://github.com/8co/opentangl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/8co/opentangl"
+}

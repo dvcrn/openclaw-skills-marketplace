@@ -1,0 +1,10 @@
+{
+  "name": "capt-marbles--solar-weather",
+  "description": "Monitor solar weather conditions including geomagnetic storms, solar flares, aurora forecasts, and solar wind data. Uses NOAA Space Weather Prediction Center real-time data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "capt-marbles"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/capt-marbles/solar-weather",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/capt-marbles/solar-weather"
+}

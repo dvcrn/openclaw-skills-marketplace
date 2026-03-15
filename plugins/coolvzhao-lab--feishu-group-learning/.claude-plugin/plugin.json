@@ -1,0 +1,10 @@
+{
+  "name": "coolvzhao-lab--feishu-group-learning",
+  "description": "自动分析飞书群消息，提取学习点和进化建议。\n 每6小时自动运行，支持多群监控、关键词提取、学习建议生成。",
+  "version": "1.0.0",
+  "author": {
+    "name": "coolvzhao-lab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/coolvzhao-lab/feishu-group-learning",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/coolvzhao-lab/feishu-group-learning"
+}

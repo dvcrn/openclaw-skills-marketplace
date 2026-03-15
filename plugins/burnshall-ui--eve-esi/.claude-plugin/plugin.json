@@ -1,0 +1,10 @@
+{
+  "name": "burnshall-ui--eve-esi",
+  "description": "Query and manage EVE Online characters via the ESI (EVE Swagger Interface) REST API. Use when the user asks about EVE Online character data, wallet balance, ISK transactions, assets, skill queue, skill points, clone locations, implants, fittings, contracts, market orders, mail, industry jobs, killmails, planetary interaction, loyalty points, or any other EVE account management task.",
+  "version": "1.0.5",
+  "author": {
+    "name": "burnshall-ui"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/burnshall-ui/eve-esi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/burnshall-ui/eve-esi"
+}

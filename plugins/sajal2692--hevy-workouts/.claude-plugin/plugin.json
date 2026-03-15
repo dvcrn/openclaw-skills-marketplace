@@ -1,0 +1,10 @@
+{
+  "name": "sajal2692--hevy-workouts",
+  "description": "Interact with the Hevy fitness app via the hevy-cli command-line tool. Use when the user wants to view, create, or update workouts, routines, exercise templates, or routine folders in their Hevy account. Triggers on requests involving workout tracking, exercise history, routine management, or any Hevy-related data operations.",
+  "version": "1.0.1",
+  "author": {
+    "name": "sajal2692"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sajal2692/hevy-workouts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sajal2692/hevy-workouts"
+}

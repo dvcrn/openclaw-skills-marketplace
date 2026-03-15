@@ -1,0 +1,10 @@
+{
+  "name": "amogower--nest-devices",
+  "description": "Control Nest smart home devices (thermostat, cameras, doorbell) via the Device Access API. Use when asked to check or adjust home temperature, view camera feeds, check who's at the door, monitor rooms, or set up temperature schedules.",
+  "version": "2.0.1",
+  "author": {
+    "name": "amogower"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/amogower/nest-devices",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/amogower/nest-devices"
+}

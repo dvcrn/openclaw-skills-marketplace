@@ -1,0 +1,10 @@
+{
+  "name": "bkamuz--yandex-tracker-cli",
+  "description": "CLI for Yandex Tracker (bash + curl). Queues, issues, comments, worklogs, attachments, YQL.",
+  "version": "1.2.8",
+  "author": {
+    "name": "bkamuz"
+  },
+  "homepage": "https://github.com/bkamuz/yandex-tracker-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bkamuz/yandex-tracker-cli"
+}

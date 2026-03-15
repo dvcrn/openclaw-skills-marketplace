@@ -1,0 +1,10 @@
+{
+  "name": "sufnoobzac--clawcontract",
+  "description": "AI-powered smart contract generator, analyzer, and deployer for BNB Chain (BSC/opBNB). Use when you need to generate Solidity from natural language, run security analysis, compile and deploy contracts, verify source on BscScan/opBNBScan, interact with deployed contracts, or run the full generate→analyze→deploy→verify pipeline. Supports bsc-mainnet, bsc-testnet, opbnb-mainnet, opbnb-testnet.",
+  "version": "1.0.8",
+  "author": {
+    "name": "sufnoobzac"
+  },
+  "homepage": "https://github.com/cvpfus/clawcontract",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sufnoobzac/clawcontract"
+}

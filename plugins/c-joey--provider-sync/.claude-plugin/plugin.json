@@ -1,0 +1,10 @@
+{
+  "name": "c-joey--provider-sync",
+  "description": "Sync provider model lists into OpenClaw config (dry-run preview → confirm → apply). Trigger: /provider_sync",
+  "version": "2.1.2",
+  "author": {
+    "name": "c-joey"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/c-joey/provider-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/c-joey/provider-sync"
+}

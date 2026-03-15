@@ -1,0 +1,10 @@
+{
+  "name": "fiberian1981--telegram-voice-to-voice-macos",
+  "description": "Telegram voice-to-voice for macOS Apple Silicon: transcribe inbound .ogg voice notes with yap (Speech.framework) and reply with Telegram voice notes via say+ffmpeg. Not compatible with Linux/Windows.",
+  "version": "0.1.3",
+  "author": {
+    "name": "fiberian1981"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fiberian1981/telegram-voice-to-voice-macos",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fiberian1981/telegram-voice-to-voice-macos"
+}

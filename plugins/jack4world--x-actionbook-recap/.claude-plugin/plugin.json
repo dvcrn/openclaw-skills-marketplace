@@ -1,0 +1,10 @@
+{
+  "name": "jack4world--x-actionbook-recap",
+  "description": "Collect, scroll, extract, and summarize recent X (Twitter) posts for any handle (optionally filtered by keyword search) using the Actionbook Rust CLI (actionbook-rs) workflow (open → snapshot/accessibility tree → extract `article` text). Use when asked to analyze a handle over a time window (e.g., last 7 days), produce Chinese working notes, and publish a neutral English recap (single post or thread) from a specified account.",
+  "version": "0.1.0",
+  "author": {
+    "name": "jack4world"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jack4world/x-actionbook-recap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jack4world/x-actionbook-recap"
+}

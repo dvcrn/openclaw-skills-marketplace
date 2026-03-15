@@ -1,0 +1,10 @@
+{
+  "name": "kiszly--fred-navigator",
+  "description": "Navigate FRED categories and series using fredapi, supporting natural-language queries with intent recognition and double validation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kiszly"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kiszly/fred-navigator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kiszly/fred-navigator"
+}

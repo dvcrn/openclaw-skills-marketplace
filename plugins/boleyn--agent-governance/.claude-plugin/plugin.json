@@ -1,0 +1,10 @@
+{
+  "name": "boleyn--agent-governance",
+  "description": "Patterns and techniques for adding governance, safety, and trust controls to AI agent systems. Use this skill when:\n - Building AI agents that call external tools (APIs, databases, file systems)\n - Implementing policy-based access controls for agent tool usage\n - Adding semantic intent classification to detect dangerous prompts\n - Creating trust scoring systems for multi-agent workflows\n - Building audit trails for agent actions and decisions\n - Enforcing rate limits, content filters, or tool restrictions on agents\n - Working with any agent framework (PydanticAI, CrewAI, OpenAI Agents, LangChain, AutoGen)",
+  "version": "1.0.1",
+  "author": {
+    "name": "boleyn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/boleyn/agent-governance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/boleyn/agent-governance"
+}

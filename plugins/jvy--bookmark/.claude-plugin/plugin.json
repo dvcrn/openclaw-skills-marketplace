@@ -1,0 +1,10 @@
+{
+  "name": "jvy--bookmark",
+  "description": "Search and browse the Shuqianlan bookmark library (书签篮): keyword search, recent updates, top categories, category articles, and category links. Use when the user asks to search bookmarks/书签篮/书签栏, see latest bookmark articles, list categories, or open links under a category. This skill is read-only and does not implement scheduled digest subscriptions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jvy"
+  },
+  "homepage": "https://shuqianlan.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jvy/bookmark"
+}

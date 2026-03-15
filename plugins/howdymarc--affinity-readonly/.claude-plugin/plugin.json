@@ -1,0 +1,10 @@
+{
+  "name": "howdymarc--affinity-readonly",
+  "description": "Read-only Affinity CRM access for analysis and memo prep. Use when you need to fetch Affinity companies, people, notes, opportunities, interactions, or relationship data via API and summarize it. Enforce GET-only operations, never perform writes, and never expose API keys.",
+  "version": "1.0.0",
+  "author": {
+    "name": "howdymarc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/howdymarc/affinity-readonly",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/howdymarc/affinity-readonly"
+}

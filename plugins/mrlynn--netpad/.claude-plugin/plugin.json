@@ -1,0 +1,10 @@
+{
+  "name": "mrlynn--netpad",
+  "description": "Manage NetPad forms, submissions, users, and RBAC. Use when: (1) Creating forms with custom fields, (2) Submitting data to forms, (3) Querying form submissions, (4) Managing users/groups/roles (RBAC), (5) Installing NetPad apps from marketplace. Requires NETPAD_API_KEY for API, or `netpad login` for CLI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrlynn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrlynn/netpad",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrlynn/netpad"
+}

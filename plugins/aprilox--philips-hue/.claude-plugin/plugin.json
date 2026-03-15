@@ -1,0 +1,10 @@
+{
+  "name": "aprilox--philips-hue",
+  "description": "Local control of Philips Hue lights via API v1.",
+  "version": "1.0.1",
+  "author": {
+    "name": "aprilox"
+  },
+  "homepage": "https://developers.meethue.com/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aprilox/philips-hue"
+}

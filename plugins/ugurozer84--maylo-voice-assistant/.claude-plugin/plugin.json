@@ -1,0 +1,10 @@
+{
+  "name": "ugurozer84--maylo-voice-assistant",
+  "description": "Offline-first voice assistant stack for macOS (Wake word + VAD recording + local Whisper ASR + OpenClaw agent response + offline TTS via macOS say). Use to install, run, and troubleshoot the Maylo voice assistant web UI (cyberpunk dashboard with waveform + push-to-talk over WebSocket) and the always-on wake-word listener (e.g., 'Hey Jarvis') on a Mac mini.",
+  "version": "0.1.0",
+  "author": {
+    "name": "ugurozer84"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ugurozer84/maylo-voice-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ugurozer84/maylo-voice-assistant"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--neon",
+  "description": "Neon serverless Postgres — manage projects, branches, databases, roles, endpoints, and compute via the Neon API. Create database branches for development, manage connection endpoints, scale compute, and monitor usage. Built for AI agents — Python stdlib only, zero dependencies. Use for serverless Postgres, database branching, database management, development workflows, and cloud database automation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/neon"
+}

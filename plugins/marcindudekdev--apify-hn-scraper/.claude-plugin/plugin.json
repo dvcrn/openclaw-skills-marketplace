@@ -1,0 +1,10 @@
+{
+  "name": "marcindudekdev--apify-hn-scraper",
+  "description": "Scrape Hacker News stories, comments, and discussions. Use when user asks to search HN, find Hacker News posts, monitor tech discussions, or extract HN data. Requires APIFY_TOKEN environment variable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "marcindudekdev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/marcindudekdev/apify-hn-scraper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marcindudekdev/apify-hn-scraper"
+}

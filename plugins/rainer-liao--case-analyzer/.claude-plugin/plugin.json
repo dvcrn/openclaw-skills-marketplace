@@ -1,0 +1,10 @@
+{
+  "name": "rainer-liao--case-analyzer",
+  "description": "Analyze Pexo video creation cases from Langfuse traces. Fetches traces, identifies agent behavior issues, generates a visual QA dashboard with all media assets and prompts, and auto-uploads to the strategy-optimizer backend. Use when the user asks to analyze a case, review a conversation ID, or debug a Langfuse trace.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rainer-liao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rainer-liao/case-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rainer-liao/case-analyzer"
+}

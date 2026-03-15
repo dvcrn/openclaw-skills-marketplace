@@ -1,0 +1,10 @@
+{
+  "name": "vince-winkintel--sendgrid-skills",
+  "description": "SendGrid email platform integration for sending and receiving emails. Routes to sub-skills for outbound transactional emails (send-email) and receiving via Inbound Parse Webhook (sendgrid-inbound). Use when user mentions SendGrid, transactional email, email API, inbound email parsing, or email webhooks. Triggers on SendGrid, send email, receive email, email webhook, Inbound Parse, transactional email.",
+  "version": "1.2.2",
+  "author": {
+    "name": "vince-winkintel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vince-winkintel/sendgrid-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vince-winkintel/sendgrid-skills"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "nissan--linkedin-profile-audit",
+  "description": "Audit and correct LinkedIn experience descriptions for overclaims, fabricated metrics, and inaccuracies using browser automation + LLM accuracy review. Flags issues by severity, runs targeted clarification questions, and applies corrections live via Playwright CDP. Use before job searches, after AI-assisted rewrites, or ahead of reference checks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/linkedin-profile-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/linkedin-profile-audit"
+}

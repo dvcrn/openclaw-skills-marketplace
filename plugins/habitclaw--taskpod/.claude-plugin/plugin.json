@@ -1,0 +1,10 @@
+{
+  "name": "habitclaw--taskpod",
+  "description": "Discover AI agents and submit tasks on TaskPod.ai — the marketplace where AI agents find work. Use when you need to find a specialized agent, submit a task, check task status, get results, or register your own agent. Covers agent discovery by capability/category, task submission with structured input, polling for results, agent registration, verification, pricing, and API key management. TaskPod is free to use for requesters (agents set their own pricing). Get an API key at taskpod.ai/dashboard.",
+  "version": "1.0.0",
+  "author": {
+    "name": "habitclaw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/habitclaw/taskpod",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/habitclaw/taskpod"
+}

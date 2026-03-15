@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--session-history-enhancements",
+  "description": "Session history system for OpenClaw — persistent, browsable, resumable chat sessions with SQLite index, archive/restore, migration, paginated UI, and chat dropdown integration. Use when: (1) adding session archival/indexing to OpenClaw, (2) implementing session browsing/search in the dashboard, (3) adding session resume/rename/delete, (4) archiving active sessions from the dashboard, (5) adding pagination to session lists, or (6) integrating recent sessions into the chat dropdown.",
+  "version": "1.0.1",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/session-history-enhancements",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/session-history-enhancements"
+}

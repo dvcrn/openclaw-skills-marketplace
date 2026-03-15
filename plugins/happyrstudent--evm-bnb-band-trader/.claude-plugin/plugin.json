@@ -1,0 +1,10 @@
+{
+  "name": "happyrstudent--evm-bnb-band-trader",
+  "description": "Execute BNB Chain EVM swing trades after importing a private key: buy when trigger price exceeds market condition, then place 5% take-profit and 3% stop-loss management. Use when user asks to automate BNB band/swing trading with strict TP/SL and wallet-key based execution.",
+  "version": "0.1.0",
+  "author": {
+    "name": "happyrstudent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/happyrstudent/evm-bnb-band-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/happyrstudent/evm-bnb-band-trader"
+}

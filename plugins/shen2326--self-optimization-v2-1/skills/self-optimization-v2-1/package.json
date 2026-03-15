@@ -1,0 +1,109 @@
+{
+  "name": "@openclaw/skill-self-optimization-v2.1",
+  "version": "2.1.0",
+  "description": "Self-Optimization System V2.1 - Enhanced with A/B Testing, Quality Dashboard, and Advanced Metrics",
+  "author": "Shen (with AI assistant Yiyi)",
+  "license": "MIT",
+  "keywords": [
+    "openclaw",
+    "skill",
+    "self-optimization",
+    "llm-judge",
+    "ab-testing",
+    "quality-monitoring",
+    "prompt-optimization",
+    "strategy-learning"
+  ],
+  "main": "__init__.py",
+  "scripts": {
+    "test": "python test_system.py",
+    "build": "python -m zipapp .",
+    "publish": "openclaw skills publish --package ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openclaw/openclaw",
+    "directory": "skills/self-optimization"
+  },
+  "homepage": "https://clawhub.ai/skills/self-optimization-v2.1",
+  "bugs": {
+    "url": "https://github.com/openclaw/openclaw/issues"
+  },
+  "files": [
+    "__init__.py",
+    "judge.py",
+    "prompt_optimizer.py",
+    "strategy_learner.py",
+    "ab_testing.py",
+    "quality_dashboard.py",
+    "advanced_metrics.py",
+    "config.yaml",
+    "test_system.py",
+    "README.md",
+    "SKILL.md"
+  ],
+  "engines": {
+    "python": ">=3.8",
+    "openclaw": ">=1.0.0"
+  },
+  "dependencies": {
+    "pyyaml": ">=6.0",
+    "dataclasses": ">=0.6"
+  },
+  "features": {
+    "llm_judge": {
+      "name": "LLM-as-Judge",
+      "description": "Automatic quality evaluation with 5 core dimensions",
+      "dimensions": ["accuracy", "completeness", "efficiency", "reliability", "maintainability"]
+    },
+    "ab_testing": {
+      "name": "A/B Testing Framework",
+      "description": "Compare different prompts and strategies with statistical significance"
+    },
+    "quality_dashboard": {
+      "name": "Quality Dashboard",
+      "description": "Visual quality monitoring with HTML reports and trend analysis"
+    },
+    "advanced_metrics": {
+      "name": "Advanced Metrics",
+      "description": "10 evaluation dimensions including creativity, clarity, helpfulness, safety, and user satisfaction"
+    },
+    "prompt_optimizer": {
+      "name": "Prompt Optimizer",
+      "description": "7 optimization patterns for automatic prompt improvement"
+    },
+    "strategy_learner": {
+      "name": "Strategy Learner",
+      "description": "Learn from success and failure, recommend best strategies for similar tasks"
+    }
+  },
+  "metrics": {
+    "total_lines_of_code": 4500,
+    "total_files": 8,
+    "test_coverage": "85%",
+    "documentation_pages": 5
+  },
+  "changelog": {
+    "2.1.0": {
+      "date": "2026-03-05",
+      "changes": [
+        "Added A/B Testing Framework",
+        "Added Quality Dashboard with HTML reports",
+        "Added Advanced Metrics (5 new dimensions)",
+        "Integrated user feedback support",
+        "Added statistical significance analysis",
+        "Improved documentation"
+      ]
+    },
+    "2.0.0": {
+      "date": "2026-03-05",
+      "changes": [
+        "Initial V2 release",
+        "LLM-as-Judge evaluation",
+        "Prompt Optimizer",
+        "Strategy Learner",
+        "Error Tracking integration"
+      ]
+    }
+  }
+}

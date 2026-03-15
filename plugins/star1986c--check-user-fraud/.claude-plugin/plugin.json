@@ -1,0 +1,10 @@
+{
+  "name": "star1986c--check-user-fraud",
+  "description": "Query MySQL database to analyze user fraud/shuadan behavior. Use when user asks to check if a user is engaging in fraudulent task completion. Analyzes time intervals, publisher concentration, task duplication, and top refresh status to identify suspicious patterns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "star1986c"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/star1986c/check-user-fraud",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/star1986c/check-user-fraud"
+}

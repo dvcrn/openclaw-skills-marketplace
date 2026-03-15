@@ -1,0 +1,10 @@
+{
+  "name": "jaskies--backup-full-system-jaskies",
+  "description": "Thực hiện sao lưu toàn bộ hệ thống OpenClaw (bao gồm database, cấu hình và bộ nhớ) rồi tải lên đám mây. Yêu cầu cài đặt rclone hoặc công cụ upload tương ứng.",
+  "version": "1.2.0",
+  "author": {
+    "name": "jaskies"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jaskies/backup-full-system-jaskies",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jaskies/backup-full-system-jaskies"
+}

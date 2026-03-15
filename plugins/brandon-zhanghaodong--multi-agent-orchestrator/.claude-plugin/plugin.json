@@ -1,0 +1,10 @@
+{
+  "name": "brandon-zhanghaodong--multi-agent-orchestrator",
+  "description": "This skill enables one-click generation of multiple AI agents based on a user prompt, outputs their organizational structure, and visualizes their collaboration status using diagrams like swimlane charts. Use this skill to rapidly prototype multi-agent systems, understand their internal dynamics, and facilitate their orchestration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brandon-zhanghaodong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brandon-zhanghaodong/multi-agent-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brandon-zhanghaodong/multi-agent-orchestrator"
+}

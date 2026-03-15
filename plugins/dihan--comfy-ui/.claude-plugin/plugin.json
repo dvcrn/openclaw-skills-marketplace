@@ -1,0 +1,10 @@
+{
+  "name": "dihan--comfy-ui",
+  "description": "Generate high-quality images using a local ComfyUI instance. Use when the user wants private, powerful image generation via their own hardware and custom workflows. Requires a running ComfyUI server accessible on the local network.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dihan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dihan/comfy-ui",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dihan/comfy-ui"
+}

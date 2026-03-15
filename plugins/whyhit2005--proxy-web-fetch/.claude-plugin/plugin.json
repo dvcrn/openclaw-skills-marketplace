@@ -1,0 +1,10 @@
+{
+  "name": "whyhit2005--proxy-web-fetch",
+  "description": "Proxy Web Page Fetch Tool - Fetches and parses web page content into structured Markdown or text via the OpenClaw Manager proxy.\n \n Use when:\n - Need to fetch and read the content of a web page by URL\n - Need to convert web pages to Markdown or plain text format\n - Need to extract page content with or without images\n - Need to get page metadata (title, description, keywords)\n - Need to control caching, image retention, or summary options for fetched content\n - User asks to \"read a URL\", \"fetch a page\", \"grab the content of a web page\", \"scrape\" or \"crawl\" a URL\n \n This skill routes all fetch requests through the Manager Web Fetch Proxy\n (configured via `WEB_FETCH_PROXY_URL` env var, required),\n which handles API key management automatically — no manual configuration needed.\n \n Do NOT confuse with web search — this skill fetches a specific URL's content, it does not perform keyword searches.",
+  "version": "1.0.0",
+  "author": {
+    "name": "whyhit2005"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/whyhit2005/proxy-web-fetch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/whyhit2005/proxy-web-fetch"
+}

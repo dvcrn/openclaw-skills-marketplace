@@ -1,0 +1,10 @@
+{
+  "name": "dorukardahan--research-reprompter",
+  "description": "Transform rough research questions into executable USACF research prompts.\n Use when user says \"research\", \"research this\", \"investigate\", \"deep dive\",\n \"researcher\", or pastes a research topic. Generates complete multi-agent swarm\n configuration with algorithm selection, claude-flow commands, and adversarial review.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dorukardahan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dorukardahan/research-reprompter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dorukardahan/research-reprompter"
+}

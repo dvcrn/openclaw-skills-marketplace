@@ -1,0 +1,10 @@
+{
+  "name": "nitsujy--todoist-api-rest",
+  "description": "Direct Todoist API integration via curl/jq. Lightweight, reliable, and uses working v1/v2 endpoints.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nitsujy"
+  },
+  "homepage": "https://developer.todoist.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nitsujy/todoist-api-rest"
+}

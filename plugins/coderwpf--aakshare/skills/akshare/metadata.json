@@ -1,0 +1,19 @@
+{
+  "name": "akshare",
+  "version": "1.1.0",
+  "description": "Comprehensive free financial data API library — supports A-shares, Hong Kong stocks, US stocks, futures, options, funds, bonds, forex, and macro data, no API key required.",
+  "author": "BossQuant",
+  "tags": ["金融数据", "A股", "港股", "美股", "期货", "基金", "债券", "外汇", "宏观经济", "AKShare", "免费数据"],
+  "repository": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "python": ">=3.8",
+    "packages": ["akshare>=1.0.0", "pandas>=1.5.0"]
+  },
+  "openclaw": {
+    "requires": {
+      "bins": ["python3"],
+      "env": []
+    }
+  }
+}

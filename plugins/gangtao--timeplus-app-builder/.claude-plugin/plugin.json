@@ -1,0 +1,10 @@
+{
+  "name": "gangtao--timeplus-app-builder",
+  "description": "Build real-time Timeplus data processing and analysis applications. Creates pure frontend HTML/JavaScript apps that connect directly to Timeplus Proton via @timeplus/proton-javascript-driver (UMD), visualize live streaming data with @timeplus/vistral (UMD), and follow the Timeplus UI style guide. No npm build or bundler required — output is a single self-contained HTML file.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gangtao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gangtao/timeplus-app-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gangtao/timeplus-app-builder"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ufcfengbin--bankstatement",
+  "description": "流水报告生成，基于用户输入的Excel/PDF流水文件路径和问题，自动上传文件并生成分析报告。",
+  "version": "1.0.1",
+  "author": {
+    "name": "ufcfengbin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ufcfengbin/bankstatement",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ufcfengbin/bankstatement"
+}

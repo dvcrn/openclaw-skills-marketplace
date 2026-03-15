@@ -1,0 +1,10 @@
+{
+  "name": "glitch003--vincent-brave-search",
+  "description": "Web and news search powered by Brave Search. Use this skill when users want to search the web,\n find news articles, or look up current information. Pay-per-call via Vincent credit system.\n Triggers on \"search the web\", \"web search\", \"brave search\", \"search news\", \"find information\",\n \"look up\", \"current events\".",
+  "version": "1.0.69",
+  "author": {
+    "name": "glitch003"
+  },
+  "homepage": "https://heyvincent.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/glitch003/vincent-brave-search"
+}

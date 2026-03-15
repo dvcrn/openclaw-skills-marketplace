@@ -1,0 +1,10 @@
+{
+  "name": "mvanhorn--parallel",
+  "description": "High-accuracy web search and research via Parallel.ai API. Optimized for AI agents with rich excerpts and citations. Supports agentic mode for token-efficient multi-step reasoning.",
+  "version": "1.2.1",
+  "author": {
+    "name": "mvanhorn"
+  },
+  "homepage": "https://parallel.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mvanhorn/parallel"
+}

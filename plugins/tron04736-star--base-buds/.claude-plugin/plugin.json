@@ -1,0 +1,10 @@
+{
+  "name": "tron04736-star--base-buds",
+  "description": "Mint a Base Bud NFT from the agent-only collection on Base mainnet. Requires solving a challenge, paying 1 USDC (x402), and an EVM wallet.",
+  "version": "1.0.1",
+  "author": {
+    "name": "tron04736-star"
+  },
+  "homepage": "https://budsbase.xyz",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tron04736-star/base-buds"
+}

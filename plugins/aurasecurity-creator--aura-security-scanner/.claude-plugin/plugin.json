@@ -1,0 +1,10 @@
+{
+  "name": "aurasecurity-creator--aura-security-scanner",
+  "description": "Scan AI agent skills for malware, credential theft, prompt injection, and dangerous permissions before installing them",
+  "version": "1.0.0",
+  "author": {
+    "name": "aurasecurity-creator"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aurasecurity-creator/aura-security-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aurasecurity-creator/aura-security-scanner"
+}

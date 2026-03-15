@@ -1,0 +1,10 @@
+{
+  "name": "ariktulcha--daily-briefing-hub",
+  "description": "All-in-one daily briefing that combines Google Calendar events, Gmail/Outlook email highlights, weather forecast, GitHub PR and CI status, Hacker News and RSS feeds, and Todoist/ClickUp/Linear tasks into a single prioritized morning summary delivered via Telegram, Slack, WhatsApp, or Discord. Use this skill for: morning briefing, daily digest, daily summary, daily standup prep, \"what's on my plate today\", \"brief me\", \"what did I miss\", end-of-day recap, personalized news digest, schedule overview, inbox summary, daily notification, recurring morning update via cron, or any request to see a combined overview of calendar plus email plus tasks plus news. This is your AI chief of staff that replaces checking 6 apps every morning. Works with whatever tools you have configured — skips what's missing, uses what's available.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ariktulcha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ariktulcha/daily-briefing-hub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ariktulcha/daily-briefing-hub"
+}

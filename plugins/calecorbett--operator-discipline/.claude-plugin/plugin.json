@@ -1,0 +1,10 @@
+{
+  "name": "calecorbett--operator-discipline",
+  "description": "Applies production-grade behavioral discipline to any AI agent session. Use when configuring a new agent, auditing an existing agent for bad habits, or bootstrapping operator-grade behavior. Covers response discipline, effort calibration, file/memory hygiene, tool safety, stuck detection, quality gate, devil's advocate protocol, and token cost discipline. Activates automatically when the task involves agent configuration, SOUL.md authoring, system prompt design, or behavioral rule-setting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "calecorbett"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/calecorbett/operator-discipline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/calecorbett/operator-discipline"
+}

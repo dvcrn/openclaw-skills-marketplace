@@ -1,0 +1,10 @@
+{
+  "name": "zhaog100--miliger-playwright-scraper",
+  "description": "Playwright网页爬取技能。使用真实浏览器操作（点击、滚动、等待JS渲染）来爬取复杂动态网页。支持多Tab、懒加载、SPA单页应用。适用于会议议程、展会信息等公开信息型网站。",
+  "version": "1.1.0",
+  "author": {
+    "name": "zhaog100"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhaog100/miliger-playwright-scraper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhaog100/miliger-playwright-scraper"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jackeven02--calendar-manager",
+  "description": "日历管理技能 - 让 AI 能够读取日程、创建事件、设置提醒。当用户要求查看日程、添加日历事件、提醒 upcoming events 时触发此技能。",
+  "version": "1.1.0",
+  "author": {
+    "name": "jackeven02"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jackeven02/calendar-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jackeven02/calendar-manager"
+}

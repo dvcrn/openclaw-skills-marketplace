@@ -1,0 +1,10 @@
+{
+  "name": "simskii--tabussen",
+  "description": "Västerbotten & Umeå public transport trip planner (Tabussen/Ultra). Plans bus journeys using ResRobot API. Supports stops, addresses, coordinates, regional and local routes throughout Västerbotten county.",
+  "version": "1.0.0",
+  "author": {
+    "name": "simskii"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/simskii/tabussen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/simskii/tabussen"
+}

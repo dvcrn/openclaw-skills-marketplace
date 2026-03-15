@@ -1,0 +1,10 @@
+{
+  "name": "wzs--skiplagged-flights",
+  "description": "Use when the user asks to \"find flights\", \"compare itineraries\", \"search hidden-city routes\", \"check cheapest dates\", \"explore destinations\", \"search hotels\", \"plan a trip\", etc, or general flights / trip planning. Ground outputs in offical Skiplagged MCP results.",
+  "version": "1.0.1",
+  "author": {
+    "name": "wzs"
+  },
+  "homepage": "https://skiplagged.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wzs/skiplagged-flights"
+}

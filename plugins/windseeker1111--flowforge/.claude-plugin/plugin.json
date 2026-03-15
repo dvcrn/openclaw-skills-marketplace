@@ -1,0 +1,10 @@
+{
+  "name": "windseeker1111--flowforge",
+  "description": "Autonomous AI coding pipeline that breaks any task into a structured Spec → Plan → Code → QA loop and executes it via Claude Code. Use when: (1) starting any new feature, refactor, or bug fix, (2) given a GitHub issue to implement, (3) asked to \"run FlowForge\", \"forge this\", \"plan and build\", or \"auto-implement\". Routes ALL heavy work through Claude Code. Supports multi-account rotation to handle rate limits automatically.",
+  "version": "1.0.0",
+  "author": {
+    "name": "windseeker1111"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/windseeker1111/flowforge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/windseeker1111/flowforge"
+}

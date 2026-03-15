@@ -1,0 +1,10 @@
+{
+  "name": "hail2skins--todoist-natural-language",
+  "description": "Integrate with Todoist task management using natural language. Use when the user wants to manage Todoist tasks or projects through conversational commands like \"show my tasks for today\", \"add 'call dentist' to my todo list\", \"complete my task about the meeting\", or any mention of Todoist, tasks, due dates, or project management.",
+  "version": "1.0.8",
+  "author": {
+    "name": "hail2skins"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hail2skins/todoist-natural-language",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hail2skins/todoist-natural-language"
+}

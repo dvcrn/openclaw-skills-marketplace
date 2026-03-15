@@ -1,0 +1,10 @@
+{
+  "name": "gooderno1--larksync-feishu-local-cache",
+  "description": "Sync Feishu docs into local cache for OpenClaw-first reading, reducing API calls and token cost. / 把飞书文档同步为本地缓存供 OpenClaw 优先读取，显著降低飞书 API 请求频率与 token 成本。",
+  "version": "0.1.6",
+  "author": {
+    "name": "gooderno1"
+  },
+  "homepage": "https://github.com/gooderno1/LarkSync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gooderno1/larksync-feishu-local-cache"
+}

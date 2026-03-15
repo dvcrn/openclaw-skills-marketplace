@@ -1,0 +1,40 @@
+{
+  "name": "knowledge-connector",
+  "version": "1.0.1",
+  "description": "知识连接器 - 从文档和对话中提取概念，构建知识图谱，支持查询和推荐",
+  "main": "index.js",
+  "bin": {
+    "knowledge-connector": "./bin/cli.js",
+    "kc": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js",
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "knowledge",
+    "graph",
+    "nlp",
+    "concept",
+    "extraction",
+    "recommendation"
+  ],
+  "author": "Pearl Agent",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "chalk": "^4.1.2",
+    "ora": "^5.4.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openclaw/knowledge-connector"
+  },
+  "bugs": {
+    "url": "https://github.com/openclaw/knowledge-connector/issues"
+  },
+  "homepage": "https://github.com/openclaw/knowledge-connector#readme"
+}

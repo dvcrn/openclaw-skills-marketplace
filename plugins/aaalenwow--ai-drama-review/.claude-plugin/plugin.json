@@ -1,0 +1,10 @@
+{
+  "name": "aaalenwow--ai-drama-review",
+  "description": "AI短剧规范识别技能包。检测AI短剧中的文本/小说版权侵权、年龄分级合规性（18+/12+）、小说魔改程度，并生成结构化合规报告。支持本地关键词快速扫描 + AI深度分析两层架构。Beta 阶段 - 仅供参考，不作为法律依据。",
+  "version": "0.1.1",
+  "author": {
+    "name": "aaalenwow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaalenwow/ai-drama-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaalenwow/ai-drama-review"
+}

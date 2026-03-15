@@ -1,0 +1,10 @@
+{
+  "name": "pyjhhh--book-writer",
+  "description": "使用AI辅助写作的OpenClaw技能，可以根据提示词生成书籍大纲并逐级扩写内容，支持添加公式、图表、代码等元素。适用于学术著作、技术书籍、小说等多种类型的创作。",
+  "version": "1.0.0",
+  "author": {
+    "name": "pyjhhh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pyjhhh/book-writer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pyjhhh/book-writer"
+}

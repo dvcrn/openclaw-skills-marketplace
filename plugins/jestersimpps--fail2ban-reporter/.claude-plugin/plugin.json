@@ -1,0 +1,10 @@
+{
+  "name": "jestersimpps--fail2ban-reporter",
+  "description": "Auto-report fail2ban banned IPs to AbuseIPDB and notify via Telegram. Use when monitoring server security, reporting attackers, or checking banned IPs. Watches fail2ban for new bans, reports them to AbuseIPDB, and sends alerts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jestersimpps"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jestersimpps/fail2ban-reporter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jestersimpps/fail2ban-reporter"
+}

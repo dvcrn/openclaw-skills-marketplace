@@ -1,0 +1,10 @@
+{
+  "name": "autogame-17--capability-evolver",
+  "description": "A self-evolution engine for AI agents. Analyzes runtime history to identify improvements and applies protocol-constrained evolution.",
+  "version": "1.27.3",
+  "author": {
+    "name": "autogame-17"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/capability-evolver",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/capability-evolver"
+}

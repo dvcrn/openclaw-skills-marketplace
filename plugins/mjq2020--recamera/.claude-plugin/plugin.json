@@ -1,0 +1,10 @@
+{
+  "name": "mjq2020--recamera",
+  "description": "reCamera (RV1126B) device full-stack Web API reference covering authentication, device management, video/audio/image configuration, recording rules & storage, AI model inference, terminal/logs, and SenseCraft cloud model conversion. Use when developing or debugging reCamera frontend/backend features, calling device HTTP/WebSocket APIs, or integrating with SenseCraft AI services.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mjq2020"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mjq2020/recamera",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mjq2020/recamera"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bobholamovic--paddleocr-doc-parsing",
+  "description": "Complex document parsing with PaddleOCR. Intelligently converts complex PDFs and document images into Markdown and JSON files that preserve the original structure.",
+  "version": "2.0.7",
+  "author": {
+    "name": "bobholamovic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bobholamovic/paddleocr-doc-parsing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bobholamovic/paddleocr-doc-parsing"
+}

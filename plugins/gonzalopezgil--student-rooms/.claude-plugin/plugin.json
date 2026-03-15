@@ -1,0 +1,10 @@
+{
+  "name": "gonzalopezgil--student-rooms",
+  "description": "Search, scan, and monitor student accommodation availability across Yugo and Aparto providers. Use when the user asks about student housing, room availability, semester accommodation, booking options, or price comparisons in any supported city. Covers Yugo (11 countries, 70+ cities including UK, Ireland, Spain, Germany, France, Italy, Portugal, Austria, Australia, USA, UAE) and Aparto (14 cities across Ireland, Spain, Italy, UK, France). Supports semester filtering, continuous watch mode with alerts, booking-flow probing, and multiple notification backends (stdout, webhook, Telegram, OpenClaw). Works standalone (no OpenClaw required) but has native OpenClaw integration for notifications and agent-mode alerts.",
+  "version": "1.1.0",
+  "author": {
+    "name": "gonzalopezgil"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gonzalopezgil/student-rooms",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gonzalopezgil/student-rooms"
+}

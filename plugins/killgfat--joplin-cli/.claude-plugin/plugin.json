@@ -1,0 +1,10 @@
+{
+  "name": "killgfat--joplin-cli",
+  "description": "Joplin 命令行操作（Shell 模式）。用于通过 CLI 创建、查看、编辑、同步笔记，适合脚本和自动化任务。",
+  "version": "0.1.0",
+  "author": {
+    "name": "killgfat"
+  },
+  "homepage": "https://joplinapp.org/help/apps/terminal/#shell-mode",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/killgfat/joplin-cli"
+}

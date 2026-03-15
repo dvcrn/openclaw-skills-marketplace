@@ -1,0 +1,10 @@
+{
+  "name": "dshipper--proofeditor",
+  "description": "Web-first skill for working with Proof documents via proofeditor.ai. Use when a Proof URL is shared, when creating collaborative docs in Proof, or when the user wants comments, suggestions, and provenance tracked in a shared doc.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dshipper"
+  },
+  "homepage": "https://www.proofeditor.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dshipper/proofeditor"
+}

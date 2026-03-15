@@ -1,0 +1,10 @@
+{
+  "name": "spclaudehome--aws-security-scanner",
+  "description": "Scan AWS accounts for security misconfigurations and vulnerabilities. Use when user asks to audit AWS security, check for misconfigurations, find exposed S3 buckets, review IAM policies, check security groups, audit CloudTrail, or run AWS security checks. Covers S3, IAM, EC2, RDS, CloudTrail, and common CIS benchmarks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "spclaudehome"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spclaudehome/aws-security-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spclaudehome/aws-security-scanner"
+}

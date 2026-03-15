@@ -1,0 +1,10 @@
+{
+  "name": "edkief--kokoro-tts",
+  "description": "Generate spoken audio from text using the local Kokoro TTS engine. Use when the user asks to \"say\" something, requests a voice message, or wants text converted to speech.",
+  "version": "0.1.0",
+  "author": {
+    "name": "edkief"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/edkief/kokoro-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/edkief/kokoro-tts"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "piyush-zinc--doc-process",
+  "description": "Document intelligence: categorize, autofill forms, analyze contracts, scan receipts/invoices, analyze bank statements, parse resumes/CVs, scan IDs/passports (MRZ), summarize medical records, redact PII (light/standard/full, 50+ rule types, global coverage), extract meeting minutes/action items, extract tables to CSV/JSON, translate documents, scan/dewarp document photos (edge detection, perspective correction, scan-quality output). Trigger: fill this form, autofill, review contract, red flags, scan receipt, log expense, bank statement, subscriptions, parse resume, scan passport, read id, lab report, redact, remove pii, anonymize, meeting minutes, action items, extract table, table to csv, translate, scan photo, make scanned, dewarp, correct perspective, what is this, analyze this.",
+  "version": "4.1.1",
+  "author": {
+    "name": "piyush-zinc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/piyush-zinc/doc-process",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/piyush-zinc/doc-process"
+}

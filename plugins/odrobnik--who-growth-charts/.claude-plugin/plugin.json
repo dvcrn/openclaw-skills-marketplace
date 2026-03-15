@@ -1,0 +1,10 @@
+{
+  "name": "odrobnik--who-growth-charts",
+  "description": "Generate WHO child growth charts (height, weight, BMI) with percentile curves. Downloads official WHO reference data on demand. Use when users ask about child growth tracking, percentiles, or want growth charts for their kids.",
+  "version": "1.2.3",
+  "author": {
+    "name": "odrobnik"
+  },
+  "homepage": "https://github.com/odrobnik/who-growth-charts-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/who-growth-charts"
+}

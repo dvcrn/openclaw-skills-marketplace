@@ -1,0 +1,10 @@
+{
+  "name": "mrbese--grid-aware-energy-load-shifter",
+  "description": "Grid-aware energy load shifter for Home Assistant. Reads real-time electricity prices (TOU, time-of-use, dynamic pricing), solar production forecasts, battery state of charge, and consumption data from Home Assistant. Schedules deferrable household loads (EV charging, HVAC pre-conditioning, pool pump, dishwasher, laundry, water heater) to cheapest rate windows. Calculates cost savings, optimizes solar self-consumption, and supports virtual power plant (VPP) demand response signals. Works with Nordpool, ENTSO-e, Tibber, Octopus Energy, Amber Electric, and any utility rate plan worldwide. Built for distributed energy resource (DER) optimization and residential demand-side management.",
+  "version": "1.0.3",
+  "author": {
+    "name": "mrbese"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrbese/grid-aware-energy-load-shifter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrbese/grid-aware-energy-load-shifter"
+}

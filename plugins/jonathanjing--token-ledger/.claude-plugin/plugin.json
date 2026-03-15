@@ -1,0 +1,10 @@
+{
+  "name": "jonathanjing--token-ledger",
+  "description": "Audit-grade token and cost ledger for OpenClaw. Use when you need to (1) record every model call’s usage (input/output/cache read/cache write/cost) into SQLite, (2) install/manage the ledger watcher LaunchAgent, (3) query ledger.db for daily usage/cost, fixed overhead, or historical billing reconciliation, or (4) generate low-token financial reports from SQL.",
+  "version": "0.1.0",
+  "author": {
+    "name": "jonathanjing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jonathanjing/token-ledger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jonathanjing/token-ledger"
+}

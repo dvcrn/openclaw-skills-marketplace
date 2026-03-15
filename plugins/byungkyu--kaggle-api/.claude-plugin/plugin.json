@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--kaggle-api",
+  "description": "Kaggle API integration with managed authentication. Access datasets, models, competitions, and kernels.\n Use this skill when users want to search, download, or interact with Kaggle resources.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/kaggle-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/kaggle-api"
+}

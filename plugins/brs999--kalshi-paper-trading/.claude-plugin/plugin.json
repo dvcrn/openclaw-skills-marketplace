@@ -1,0 +1,10 @@
+{
+  "name": "brs999--kalshi-paper-trading",
+  "description": "Kalshi-native paper trading ledger and CLI for binary prediction contracts. Use for paper opens, marks, reconciliation, valuation, and review without relying on the generic spot-style paper trader.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brs999"
+  },
+  "homepage": "https://docs.kalshi.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brs999/kalshi-paper-trading"
+}

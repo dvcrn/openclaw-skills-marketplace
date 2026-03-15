@@ -1,0 +1,10 @@
+{
+  "name": "olegantonov--senado-federal",
+  "description": "Monitor and research the Brazilian Senate (Senado Federal) legislative activity. Use when: (1) searching for Senate bills/matérias by type, author, keyword or year, (2) checking today's or upcoming plenary/committee agenda, (3) looking up senators by name, party or state, (4) tracking voting results (votações) in plenary or committees, (5) checking committee (comissão) schedules and composition, (6) monitoring specific bill tramitação/status, (7) researching senator speeches (discursos/apartes), (8) checking senator mandates, affiliations, academic history, (9) any question about the Senado Federal, senators, or Senate legislative process. Base URL: https://legis.senado.leg.br/dadosabertos — no auth required, supports .json and .xml suffixes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "olegantonov"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/olegantonov/senado-federal",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/olegantonov/senado-federal"
+}

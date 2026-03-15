@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--posthog-api",
+  "description": "PostHog API integration with managed authentication. Product analytics, feature flags, session recordings, experiments, and more.\n Use this skill when users want to query analytics events, manage feature flags, analyze user behavior, view session recordings, or run A/B experiments.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/posthog-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/posthog-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "rampagepeter--skill-optimizer",
+  "description": "Analyzes AI conversation logs to evaluate skill performance and generate optimization suggestions. Use when user mentions \"优化技能\", \"迭代技能\", \"skill optimization\", \"improve skill\", or provides a conversation log for skill analysis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rampagepeter"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rampagepeter/skill-optimizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rampagepeter/skill-optimizer"
+}

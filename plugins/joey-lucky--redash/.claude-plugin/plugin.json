@@ -1,0 +1,10 @@
+{
+  "name": "joey-lucky--redash",
+  "description": "通过 Redash API 查询、执行、创建数据分析任务。当用户需要查询 Redash 数据、执行 SQL、搜索已有报表、查看 dashboard、或执行临时 adhoc SQL 查询时使用本 skill。关键词：redash、查询、SQL、dashboard、AUM、数据分析、报表。",
+  "version": "1.0.0",
+  "author": {
+    "name": "joey-lucky"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/joey-lucky/redash",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joey-lucky/redash"
+}

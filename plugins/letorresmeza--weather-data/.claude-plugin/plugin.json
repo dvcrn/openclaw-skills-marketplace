@@ -1,0 +1,10 @@
+{
+  "name": "letorresmeza--weather-data",
+  "description": "Provides weather forecast data from NOAA. Free tier returns 3-day forecast, premium tier returns 7-day with hourly data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "letorresmeza"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/letorresmeza/weather-data",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/letorresmeza/weather-data"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--resend-api",
+  "description": "Resend API integration with managed authentication. Send transactional emails, manage domains, contacts, templates, and broadcasts.\n Use this skill when users want to send emails, manage email templates, create contact lists, or set up email broadcasts.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/resend-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/resend-api"
+}

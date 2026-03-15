@@ -1,0 +1,10 @@
+{
+  "name": "shuakami--uapi-get-image-motou",
+  "description": "使用 UAPI 的“生成摸摸头GIF (QQ号)”单接口 skill，处理 生成摸摸头GIF (QQ号) 等请求。 Use when the user wants get image motou, image motou, motou, image compression, image to base64, base64 to image, or when you need to call GET /image/motou directly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shuakami"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-image-motou",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-image-motou"
+}

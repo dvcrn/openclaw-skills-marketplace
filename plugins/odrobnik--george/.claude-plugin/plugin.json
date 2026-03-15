@@ -1,0 +1,10 @@
+{
+  "name": "odrobnik--george",
+  "description": "Automate George online banking (Erste Bank / Sparkasse Austria): login/logout, list accounts, and fetch transactions via Playwright.",
+  "version": "1.5.3",
+  "author": {
+    "name": "odrobnik"
+  },
+  "homepage": "https://github.com/odrobnik/george-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/george"
+}

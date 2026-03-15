@@ -1,0 +1,10 @@
+{
+  "name": "ken0122--weekly-skills-update",
+  "description": "每周自动更新技能并推送摘要。当收到\"执行技能每周更新\"或\"skills-weekly-update\"触发时，运行 clawhub update --all 并更新 SKILLS_INDEX.md，最后推送摘要给用户。",
+  "version": "0.1.0",
+  "author": {
+    "name": "ken0122"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ken0122/weekly-skills-update",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ken0122/weekly-skills-update"
+}

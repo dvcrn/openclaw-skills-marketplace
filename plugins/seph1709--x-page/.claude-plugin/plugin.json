@@ -1,0 +1,10 @@
+{
+  "name": "seph1709--x-page",
+  "description": "X/Twitter manager: post, reply, search, like, retweet & get analytics. Requires: powershell/pwsh. Reads ~/.config/x-twitter/credentials.json (X_API_KEY, X_API_SECRET, X_ACCESS_TOKEN, X_ACCESS_SECRET). App credentials permanent; account tokens rotate periodically and immediately if host is compromised. Grant minimal permissions only. No data forwarded; all calls go to api.twitter.com only.",
+  "version": "1.0.2",
+  "author": {
+    "name": "seph1709"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seph1709/x-page",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seph1709/x-page"
+}

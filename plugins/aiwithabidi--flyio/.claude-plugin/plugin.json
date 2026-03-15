@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--flyio",
+  "description": "Fly.io edge deployment platform — manage apps, machines, volumes, secrets, and certificates via the Fly.io Machines API. Deploy containers globally, scale to zero, manage persistent storage, and configure networking. Built for AI agents — Python stdlib only, zero dependencies. Use for edge deployment, container management, global distribution, serverless scaling, and infrastructure automation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/flyio"
+}

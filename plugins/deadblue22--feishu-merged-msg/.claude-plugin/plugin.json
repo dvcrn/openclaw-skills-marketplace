@@ -1,0 +1,10 @@
+{
+  "name": "deadblue22--feishu-merged-msg",
+  "description": "Fetch and parse Feishu merged/forwarded messages (合并转发消息). Activate when a Feishu message shows \"Merged and Forwarded Message\" with no readable content, or when you need to retrieve sub-messages from a merge_forward message type.",
+  "version": "1.0.0",
+  "author": {
+    "name": "deadblue22"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deadblue22/feishu-merged-msg",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deadblue22/feishu-merged-msg"
+}

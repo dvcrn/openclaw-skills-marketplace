@@ -1,0 +1,10 @@
+{
+  "name": "deadblue22--feishu-block-ops",
+  "description": "Low-level Feishu document block operations via REST API. Use when feishu_doc built-in actions are insufficient: batch update cells, precise position insert, traverse block tree, table row/column manipulation, image replacement, or any operation requiring direct block-level control. Complements feishu-doc, not a replacement.",
+  "version": "1.0.0",
+  "author": {
+    "name": "deadblue22"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deadblue22/feishu-block-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deadblue22/feishu-block-ops"
+}

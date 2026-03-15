@@ -1,0 +1,10 @@
+{
+  "name": "danielfoch--podcast-to-substack",
+  "description": "Publish podcast episodes from RSS + Notion to Substack with reliable Apple Podcasts embedding and image extraction, then generate LinkedIn-ready companion posts. Use when asked to run or improve podcast-to-substack workflows, fix Notion image fetch failures, prevent Substack embed-as-text issues, or cross-post episode summaries to LinkedIn.",
+  "version": "1.0.0",
+  "author": {
+    "name": "danielfoch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danielfoch/podcast-to-substack",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danielfoch/podcast-to-substack"
+}

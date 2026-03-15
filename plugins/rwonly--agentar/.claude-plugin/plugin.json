@@ -1,0 +1,10 @@
+{
+  "name": "rwonly--agentar",
+  "description": "Export and import AI agent avatar (aka agentar) instances as portable .claw packages for backup, sharing, and migration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rwonly"
+  },
+  "homepage": "https://agentar.site",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rwonly/agentar"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ngm9--llms-txt-generator",
+  "description": "Generate a well-structured llms.txt file for any business website. Crawls the site, has a short conversation to fill in gaps, and produces an agent-optimized llms.txt. Trigger when a user asks to \"generate llms.txt\", \"make my site agent-readable\", \"create llms.txt for [url]\", or \"update my llms.txt\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "ngm9"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ngm9/llms-txt-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ngm9/llms-txt-generator"
+}

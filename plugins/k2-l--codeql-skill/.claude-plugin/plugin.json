@@ -1,0 +1,10 @@
+{
+  "name": "k2-l--codeql-skill",
+  "description": "CodeQL security audit pipeline: static scanning, SARIF triage, and QL query optimization. Trigger on: CodeQL, .ql, .sarif, taint tracking, source→sink, LGTM, GitHub Code Scanning, \"scan this repo\", \"analyze this vulnerability\", \"optimize this query\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "k2-l"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/k2-l/codeql-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/k2-l/codeql-skill"
+}

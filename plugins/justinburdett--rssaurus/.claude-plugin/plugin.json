@@ -1,0 +1,10 @@
+{
+  "name": "justinburdett--rssaurus",
+  "description": "Use the RSSaurus command-line client (Go binary `rssaurus`) to interact with https://rssaurus.com from the terminal: authenticate (`rssaurus auth login/whoami`), list feeds/items, print item URLs for piping, open URLs, and perform triage actions (mark read/unread, bulk mark-read, save/unsave). Use when asked to automate RSSaurus tasks from CLI, debug token/config issues, or demonstrate command usage.",
+  "version": "1.0.1",
+  "author": {
+    "name": "justinburdett"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/justinburdett/rssaurus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/justinburdett/rssaurus"
+}

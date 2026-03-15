@@ -1,0 +1,10 @@
+{
+  "name": "sunshine-del-ux--git-hooks-generator",
+  "description": "生成 Git hooks 脚本，自动格式化代码、检查 lint、运行测试等。",
+  "version": "1.0.0",
+  "author": {
+    "name": "sunshine-del-ux"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunshine-del-ux/git-hooks-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunshine-del-ux/git-hooks-generator"
+}

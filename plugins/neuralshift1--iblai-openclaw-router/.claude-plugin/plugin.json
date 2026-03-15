@@ -1,0 +1,10 @@
+{
+  "name": "neuralshift1--iblai-openclaw-router",
+  "description": "Cost-optimizing model router for OpenClaw. Automatically routes each request to the cheapest capable Claude model (Haiku/Sonnet/Opus) using weighted scoring. Use when setting up smart model routing, reducing API costs, or configuring multi-tier LLM routing. Supports Anthropic models directly and OpenAI/Google models via OpenRouter.",
+  "version": "1.0.0",
+  "author": {
+    "name": "neuralshift1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neuralshift1/iblai-openclaw-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neuralshift1/iblai-openclaw-router"
+}

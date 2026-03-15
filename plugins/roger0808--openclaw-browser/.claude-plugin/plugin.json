@@ -1,0 +1,10 @@
+{
+  "name": "roger0808--openclaw-browser",
+  "description": "Browser automation via Chrome DevTools Protocol (CDP) for OpenClaw. Use when user needs to take screenshots of websites, automate browser actions, or interact with web pages programmatically. Triggers on: screenshot requests, browser automation, web page capture, CDP-based browser control.",
+  "version": "1.0.0",
+  "author": {
+    "name": "roger0808"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/roger0808/openclaw-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/roger0808/openclaw-browser"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "brianleach--metra",
+  "description": "Chicago Metra commuter rail — real-time train arrivals, vehicle tracking, service alerts, and schedule info for all 11 Metra lines serving the Chicago metropolitan area. Use when the user asks about Metra trains, Chicago commuter rail, or specific Metra lines and stations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brianleach"
+  },
+  "homepage": "https://github.com/brianleach/metra-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brianleach/metra"
+}

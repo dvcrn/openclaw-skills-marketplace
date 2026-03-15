@@ -1,0 +1,10 @@
+{
+  "name": "muhammadmuazzain--summarize-file",
+  "description": "Reads text files from workspace/paths and generates concise summaries. Handles logs, reports, CSVs, multi-line content.",
+  "version": "1.0.0",
+  "author": {
+    "name": "muhammadmuazzain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/muhammadmuazzain/summarize-file",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/muhammadmuazzain/summarize-file"
+}

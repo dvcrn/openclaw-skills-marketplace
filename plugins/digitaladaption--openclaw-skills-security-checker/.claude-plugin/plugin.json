@@ -1,0 +1,10 @@
+{
+  "name": "digitaladaption--openclaw-skills-security-checker",
+  "description": "Security scanner for ClawdHub skills - detects suspicious patterns, manages whitelists, and monitors Moltbook for security threats.",
+  "version": "0.1.0",
+  "author": {
+    "name": "digitaladaption"
+  },
+  "homepage": "https://github.com/digitaladaption/openclaw-skills-security-checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/digitaladaption/openclaw-skills-security-checker"
+}

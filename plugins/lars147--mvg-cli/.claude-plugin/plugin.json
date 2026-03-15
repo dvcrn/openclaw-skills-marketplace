@@ -1,0 +1,10 @@
+{
+  "name": "lars147--mvg-cli",
+  "description": "Munich public transport (MVG) CLI and S-Bahn live tracking. Use for departure times, route planning, nearby stations, service alerts, and real-time S-Bahn positions. Trigger when the user mentions MVG, S-Bahn, U-Bahn, Munich transit, departures, connections, Abfahrten, Verbindungen, or specific line names like S8, U3, etc.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lars147"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lars147/mvg-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lars147/mvg-cli"
+}

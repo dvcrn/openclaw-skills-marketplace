@@ -1,0 +1,10 @@
+{
+  "name": "nathan-deepmm--church-account",
+  "description": "Automate tasks on churchofjesuschrist.org and LCR (Leader & Clerk Resources). Use when logging into LDS church accounts, looking up ward/stake rosters, managing callings, viewing temple recommend status, accessing the member directory, or any other LCR/church website automation. Covers OAuth login flow, session management, and key church service URLs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nathan-deepmm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nathan-deepmm/church-account",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nathan-deepmm/church-account"
+}

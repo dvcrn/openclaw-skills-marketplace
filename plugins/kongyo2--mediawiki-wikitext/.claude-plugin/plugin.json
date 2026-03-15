@@ -1,0 +1,10 @@
+{
+  "name": "kongyo2--mediawiki-wikitext",
+  "description": "MediaWiki Wikitext markup language for Wikipedia and wiki-based sites. Use when creating or editing wiki articles, generating wikitext content, working with wiki tables/templates/references, or converting content to wikitext format. Triggers on requests mentioning Wikipedia, MediaWiki, wikitext, wiki markup, or wiki article creation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "kongyo2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kongyo2/mediawiki-wikitext",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kongyo2/mediawiki-wikitext"
+}

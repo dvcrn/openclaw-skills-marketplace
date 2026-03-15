@@ -1,0 +1,10 @@
+{
+  "name": "impkind--hippocampus",
+  "description": "Persistent memory system for AI agents. Automatic encoding, decay, and semantic reinforcement — just like the hippocampus in your brain. Based on Stanford Generative Agents (Park et al., 2023).",
+  "version": "3.9.0",
+  "author": {
+    "name": "impkind"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/impkind/hippocampus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/impkind/hippocampus"
+}

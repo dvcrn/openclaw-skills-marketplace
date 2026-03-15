@@ -1,0 +1,10 @@
+{
+  "name": "steipete--eightctl",
+  "description": "Control Eight Sleep pods (status, temperature, alarms, schedules).",
+  "version": "1.0.0",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "https://eightctl.sh",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/eightctl"
+}

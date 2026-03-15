@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--chrome-devtools-mcp",
+  "description": "Chrome DevTools MCP — Google's official browser automation and testing server. Control Chrome via Puppeteer through MCP protocol: click, fill forms, navigate, screenshot, performance traces, network inspection, console debugging. Use for browser testing, web automation, performance analysis, UI testing, form filling, and visual regression.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/chrome-devtools-mcp"
+}

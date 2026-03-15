@@ -1,0 +1,10 @@
+{
+  "name": "mjrussell--hevy",
+  "description": "Query workout data from Hevy including workouts, routines, exercises, and history. Use when user asks about their workouts, gym sessions, exercise progress, or fitness routines.",
+  "version": "0.2.0",
+  "author": {
+    "name": "mjrussell"
+  },
+  "homepage": "https://hevy.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mjrussell/hevy"
+}

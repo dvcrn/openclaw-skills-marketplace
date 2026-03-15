@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--gui",
+  "description": "Windows GUI automation toolkit for global hotkeys and window management. Use when users need to register global hotkeys, find/control windows, automate GUI operations, or perform Windows desktop automation. Requires Windows OS with pywin32, pyuserinput, and pyautogui dependencies.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/gui",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/gui"
+}

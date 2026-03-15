@@ -1,0 +1,10 @@
+{
+  "name": "1999azzar--pihole-ctl",
+  "description": "Manage and monitor local Pi-hole instance. Query FTL database for statistics (blocked ads, top clients) and control service via CLI. Use when user asks \"how many ads blocked\", \"pihole status\", or \"update gravity\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "1999azzar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/1999azzar/pihole-ctl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/1999azzar/pihole-ctl"
+}

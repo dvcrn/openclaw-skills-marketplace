@@ -1,0 +1,10 @@
+{
+  "name": "robert7--remnote",
+  "description": "Search, read, and write RemNote notes and personal knowledge base content via `remnote-cli`. Use for note-taking, journaling, tags, and knowledge-base navigation; require `confirm write` before create/update/journal.",
+  "version": "0.8.0",
+  "author": {
+    "name": "robert7"
+  },
+  "homepage": "https://github.com/robert7/remnote-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robert7/remnote"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "pickmemory--moltbook-verification-solver",
+  "description": "Automatically solve Moltbook verification challenges (math problems) when posting. Parses obfuscated number text and calculates answers.",
+  "version": "1.0.3",
+  "author": {
+    "name": "pickmemory"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pickmemory/moltbook-verification-solver",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pickmemory/moltbook-verification-solver"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "duffycoder--qwen-image-plus-sophnet",
+  "description": "Generate images via Sophnet Qwen-Image-Plus and poll for task completion. Use when the user asks for Sophnet image generation, Qwen-Image-Plus, or requests an image from the Sophnet API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "duffycoder"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/duffycoder/qwen-image-plus-sophnet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/duffycoder/qwen-image-plus-sophnet"
+}

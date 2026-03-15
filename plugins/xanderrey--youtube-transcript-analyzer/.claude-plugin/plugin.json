@@ -1,0 +1,10 @@
+{
+  "name": "xanderrey--youtube-transcript-analyzer",
+  "description": "Extract and analyze YouTube video transcripts without watching the video. Use when users request video summaries, ask to \"analyze this YouTube video\", want transcripts extracted, or need to understand video content quickly. Handles any YouTube URL and provides cleaned transcripts plus AI analysis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xanderrey"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xanderrey/youtube-transcript-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xanderrey/youtube-transcript-analyzer"
+}

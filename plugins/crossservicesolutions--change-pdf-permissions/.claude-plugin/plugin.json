@@ -1,0 +1,10 @@
+{
+  "name": "crossservicesolutions--change-pdf-permissions",
+  "description": "Change a PDF’s permission flags (edit, print, copy, forms, annotations, etc.) by uploading it to the Solutions API, polling until completion, then returning a download URL for the updated PDF.",
+  "version": "1.0.0",
+  "author": {
+    "name": "crossservicesolutions"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crossservicesolutions/change-pdf-permissions",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crossservicesolutions/change-pdf-permissions"
+}

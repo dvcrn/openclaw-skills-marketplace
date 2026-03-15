@@ -1,0 +1,10 @@
+{
+  "name": "tjefferson--stock-price-query",
+  "description": "实时股票行情查询工具，支持 A 股（沪深两市）、港股、美股，无需 API Key。当用户查询股价、行情、涨跌，或提到股票代码/名称（如 600519、00700、NVDA、茅台、腾讯）时触发。Real-time stock price query for A-shares, HK & US stocks. Triggered when users ask about stock prices, quotes, or mention ticker symbols.",
+  "version": "1.0.7",
+  "author": {
+    "name": "tjefferson"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tjefferson/stock-price-query",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tjefferson/stock-price-query"
+}

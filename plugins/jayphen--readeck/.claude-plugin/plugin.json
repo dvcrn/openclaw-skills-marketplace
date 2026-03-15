@@ -1,0 +1,10 @@
+{
+  "name": "jayphen--readeck",
+  "description": "Readeck integration for saving and managing articles. Supports adding URLs, listing entries, and managing bookmarks via Readeck's API. Configure custom URL and API key per request or via environment variables READECK_URL and READECK_API_KEY.",
+  "version": "0.1.0",
+  "author": {
+    "name": "jayphen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jayphen/readeck",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jayphen/readeck"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ivangdavila--caldav",
+  "description": "Sync, inspect, and modify CalDAV calendars with vdirsyncer and khal using deterministic windows, verified writes, and recurrence-aware workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ivangdavila"
+  },
+  "homepage": "https://clawic.com/skills/caldav",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/caldav"
+}

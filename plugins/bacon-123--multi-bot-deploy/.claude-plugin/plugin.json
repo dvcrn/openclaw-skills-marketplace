@@ -1,0 +1,10 @@
+{
+  "name": "bacon-123--multi-bot-deploy",
+  "description": "OpenClaw 多 Bot 多 Agent 一键搭建技能。根据用户提供的 Bot 名称、职能、模型和飞书凭证，自动完成 Agent 创建、账号配置、路由绑定和验证测试全流程。",
+  "version": "1.0.0",
+  "author": {
+    "name": "bacon-123"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bacon-123/multi-bot-deploy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bacon-123/multi-bot-deploy"
+}

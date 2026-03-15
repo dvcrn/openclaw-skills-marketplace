@@ -1,0 +1,10 @@
+{
+  "name": "rai220--talking-circle",
+  "description": "Create animated talking-circle videos (Telegram-style round video messages) from avatar frame images and audio. Supports audio-to-video and text-to-video via ElevenLabs or SaluteSpeech (Sber) TTS. Use when the user wants to generate lip-synced circular avatar animations, talking circles, or round video messages.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rai220"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rai220/talking-circle",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rai220/talking-circle"
+}

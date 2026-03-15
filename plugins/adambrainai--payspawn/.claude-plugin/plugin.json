@@ -1,0 +1,10 @@
+{
+  "name": "adambrainai--payspawn",
+  "description": "Add spending controls to any AI agent that makes API payments. Supports x402 auto-pay, daily limits, per-transaction limits, address allowlists, and fleet provisioning. Use when your agent calls paid APIs or sends payments autonomously. Works on Base with USDC.",
+  "version": "1.0.3",
+  "author": {
+    "name": "adambrainai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adambrainai/payspawn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adambrainai/payspawn"
+}

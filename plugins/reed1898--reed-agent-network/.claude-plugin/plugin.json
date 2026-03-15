@@ -1,0 +1,10 @@
+{
+  "name": "reed1898--reed-agent-network",
+  "description": "Build and operate a cross-gateway AgentNetwork using Discord as the message bus and GitHub as shared state storage. Use when registering agents, syncing roster snapshots, handling admin offline/remove, and coordinating @agent tasks with lightweight #meta tracking.",
+  "version": "0.2.2",
+  "author": {
+    "name": "reed1898"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/reed1898/reed-agent-network",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/reed1898/reed-agent-network"
+}

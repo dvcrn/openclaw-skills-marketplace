@@ -1,0 +1,10 @@
+{
+  "name": "jrswab--slipbot-logseq-importer",
+  "description": "Import notes from Logseq pages into the slipbox. Use when user pastes a Logseq page with properties and bulleted notes. Parses page-level properties, extracts each bullet as an individual note, handles nested bullets by adding parent context, then runs slipbot for each.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jrswab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jrswab/slipbot-logseq-importer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jrswab/slipbot-logseq-importer"
+}

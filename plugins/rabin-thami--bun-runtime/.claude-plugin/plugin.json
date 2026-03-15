@@ -1,0 +1,10 @@
+{
+  "name": "rabin-thami--bun-runtime",
+  "description": "Bun runtime capabilities for filesystem, process, and network operations. Use when you need to execute Bun-specific operations like Bun.file(), Bun.write(), or Bun.glob() for optimized file handling, or when working with Bun's native process/network APIs. Triggered by requests for Bun runtime features, file operations with Bun, or high-performance I/O tasks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rabin-thami"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rabin-thami/bun-runtime",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rabin-thami/bun-runtime"
+}

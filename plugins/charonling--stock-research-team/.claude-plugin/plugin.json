@@ -1,0 +1,10 @@
+{
+  "name": "charonling--stock-research-team",
+  "description": "Multi-role AI stock research team. When a user asks to analyze a stock (e.g. \"分析贵州茅台\", \"analyze NVDA\", \"帮我看看AAPL\"), this skill orchestrates technical, fundamental, macro, and sentiment analysts, followed by a bull-bear debate, trading strategy, risk review, and a director's final verdict with a composite score. Supports both A-shares and US stocks via MCP tools.",
+  "version": "1.0.0",
+  "author": {
+    "name": "charonling"
+  },
+  "homepage": "https://github.com/charonling/stock-research-team",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/charonling/stock-research-team"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kmjones1979--1claw",
+  "description": "HSM-backed secret management for AI agents — store, retrieve, rotate, and share secrets via the 1Claw vault without exposing them in context.",
+  "version": "1.1.1",
+  "author": {
+    "name": "kmjones1979"
+  },
+  "homepage": "https://1claw.xyz",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kmjones1979/1claw"
+}

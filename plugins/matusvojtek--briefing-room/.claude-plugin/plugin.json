@@ -1,0 +1,10 @@
+{
+  "name": "matusvojtek--briefing-room",
+  "description": "Daily news briefing generator — produces a conversational radio-host-style audio briefing + DOCX document covering weather, X/Twitter trends, web trends, world news, politics, tech, local news, sports, markets, and crypto. macOS only (uses Apple TTS and afplay). Use when user asks for a news briefing, morning briefing, daily update, or similar.",
+  "version": "1.0.3",
+  "author": {
+    "name": "matusvojtek"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/matusvojtek/briefing-room",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matusvojtek/briefing-room"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zero2ai-hub--skill-woocommerce-stock-monitor",
+  "description": "Monitor WooCommerce products for out-of-stock changes and send Telegram alerts. Run daily via cron.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zero2ai-hub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zero2ai-hub/skill-woocommerce-stock-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zero2ai-hub/skill-woocommerce-stock-monitor"
+}

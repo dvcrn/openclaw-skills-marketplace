@@ -1,0 +1,10 @@
+{
+  "name": "moochmaniac--moochmaniac-tavily-search",
+  "description": "Real-time web search using Tavily API optimized for AI agents. Use when you need current information, recent news, factual research, competitive analysis, or any data not in your training cutoff. Searches return structured results with URLs, content snippets, relevance scores, and optional AI-generated answers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "moochmaniac"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moochmaniac/moochmaniac-tavily-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moochmaniac/moochmaniac-tavily-search"
+}

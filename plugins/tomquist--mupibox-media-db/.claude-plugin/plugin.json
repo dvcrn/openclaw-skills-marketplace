@@ -1,0 +1,10 @@
+{
+  "name": "tomquist--mupibox-media-db",
+  "description": "Manage MuPiBox media database (data.json) through the MuPiBox backend API: list, add, remove, move, edit fields, and restore entries.",
+  "version": "1.0.2",
+  "author": {
+    "name": "tomquist"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tomquist/mupibox-media-db",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tomquist/mupibox-media-db"
+}

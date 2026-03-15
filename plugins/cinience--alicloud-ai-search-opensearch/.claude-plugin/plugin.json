@@ -1,0 +1,10 @@
+{
+  "name": "cinience--alicloud-ai-search-opensearch",
+  "description": "Use OpenSearch vector search edition via the Python SDK (ha3engine) to push documents and run HA/SQL searches. Ideal for RAG and vector retrieval pipelines in Claude Code/Codex.",
+  "version": "1.0.3",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-ai-search-opensearch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-ai-search-opensearch"
+}

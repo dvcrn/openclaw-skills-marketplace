@@ -1,0 +1,10 @@
+{
+  "name": "aliahmadaziz--openclaw-safe-upgrade",
+  "description": "Safe OpenClaw upgrade with instant rollback. Use when user says \"upgrade openclaw\", \"update openclaw\", \"check for updates\", or any request to upgrade/update the OpenClaw installation. NOT for config changes (use gateway config.patch). NOT for skill updates (use clawhub).",
+  "version": "1.0.0",
+  "author": {
+    "name": "aliahmadaziz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aliahmadaziz/openclaw-safe-upgrade",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aliahmadaziz/openclaw-safe-upgrade"
+}

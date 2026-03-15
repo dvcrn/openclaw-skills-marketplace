@@ -1,0 +1,10 @@
+{
+  "name": "jack-liang--1panel-install",
+  "description": "1Panel 服务器管理面板一键安装。当用户提到安装、部署、配置 1Panel 时激活。自动检测是否已安装，已安装则返回访问信息，未安装则自动完成安装流程。",
+  "version": "0.1.0",
+  "author": {
+    "name": "jack-liang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jack-liang/1panel-install",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jack-liang/1panel-install"
+}

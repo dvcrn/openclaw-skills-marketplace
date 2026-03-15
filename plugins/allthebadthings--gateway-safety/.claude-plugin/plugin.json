@@ -1,0 +1,10 @@
+{
+  "name": "allthebadthings--gateway-safety",
+  "description": "Safely update OpenClaw gateway configuration (openclaw.json) with automatic validation, backup, and 30-second health-check rollback. Use this skill whenever an agent needs to modify gateway settings, ports, provider credentials, or network bindings to ensure the session is not permanently lost due to a bad configuration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "allthebadthings"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/allthebadthings/gateway-safety",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/allthebadthings/gateway-safety"
+}

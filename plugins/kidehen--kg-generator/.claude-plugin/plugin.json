@@ -1,0 +1,10 @@
+{
+  "name": "kidehen--kg-generator",
+  "description": "Generate comprehensive Knowledge Graphs (RDF-Turtle by default, or JSON-LD and other RDF serializations on request) from content at file: or http(s): scheme URLs. Uses curated prompt templates: a Generic template for general web content (producing JSON-LD), and a Business and Market Analysis template for strategy/analysis content (producing RDF-Turtle with NAICS industry code identifiers, lightweight ontology, FAQ, glossary, and HowTo sections). Trigger when users ask to: generate a knowledge graph, generate RDF or RDF-Turtle, generate JSON-LD, convert a URL to structured semantic data, or extract schema.org data from a page or document.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kidehen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kidehen/kg-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kidehen/kg-generator"
+}

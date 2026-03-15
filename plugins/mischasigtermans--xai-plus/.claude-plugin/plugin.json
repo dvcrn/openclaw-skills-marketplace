@@ -1,0 +1,10 @@
+{
+  "name": "mischasigtermans--xai-plus",
+  "description": "Search X/Twitter and the web, chat with Grok models (text + vision), and analyze X content using xAI's API.\n Use when: searching X posts/threads, web research via Grok, chatting with Grok, analyzing voice patterns,\n researching trends, or checking post quality. Triggers: grok, xai, search x, search twitter, x search,\n ask grok, grok chat, analyze voice, x trends.",
+  "version": "2.0.2",
+  "author": {
+    "name": "mischasigtermans"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mischasigtermans/xai-plus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mischasigtermans/xai-plus"
+}

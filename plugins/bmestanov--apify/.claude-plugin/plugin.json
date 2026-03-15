@@ -1,0 +1,10 @@
+{
+  "name": "bmestanov--apify",
+  "description": "Run Apify Actors (web scrapers, crawlers, automation tools) and retrieve their results using the Apify REST API with curl. Use when the user wants to scrape a website, extract data from the web, run an Apify Actor, crawl pages, or get results from Apify datasets.",
+  "version": "1.0.3",
+  "author": {
+    "name": "bmestanov"
+  },
+  "homepage": "https://docs.apify.com/api/v2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bmestanov/apify"
+}

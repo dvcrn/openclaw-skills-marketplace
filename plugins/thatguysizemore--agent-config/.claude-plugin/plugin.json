@@ -1,0 +1,10 @@
+{
+  "name": "thatguysizemore--agent-config",
+  "description": "Intelligently modify agent core context files (AGENTS.md, SOUL.md, IDENTITY.md, USER.md, TOOLS.md, MEMORY.md, HEARTBEAT.md). Use when conversation involves changing agent behavior, updating rules, tweaking personality, modifying instructions, adjusting operational procedures, updating memory architecture, changing delegation patterns, adding safety rules, refining prompt patterns, or any other modification to agent workspace configuration files. Triggers on intent to configure, tune, improve, fix, or evolve agent behavior through context file changes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "thatguysizemore"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thatguysizemore/agent-config",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thatguysizemore/agent-config"
+}

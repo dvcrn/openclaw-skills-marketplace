@@ -1,0 +1,10 @@
+{
+  "name": "rustyorb--redpincer",
+  "description": "AI/LLM red team testing skill. Point at any LLM API endpoint and run automated security assessments. 160+ attack payloads across prompt injection, jailbreak, data extraction, and guardrail bypass. 20 variant transforms. Adaptive attack engine analyzes weaknesses and generates follow-ups. Heuristic response classifier, vulnerability heatmaps, regression testing, and exportable pen-test reports. For authorized security testing only.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rustyorb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rustyorb/redpincer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rustyorb/redpincer"
+}

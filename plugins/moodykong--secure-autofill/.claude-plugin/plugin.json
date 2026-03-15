@@ -1,0 +1,10 @@
+{
+  "name": "moodykong--secure-autofill",
+  "description": "1Password-backed credential filling via vault_suggest/vault_fill (plugin tools).",
+  "version": "0.1.0",
+  "author": {
+    "name": "moodykong"
+  },
+  "homepage": "https://github.com/openclaw/openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moodykong/secure-autofill"
+}

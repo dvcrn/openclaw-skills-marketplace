@@ -1,0 +1,10 @@
+{
+  "name": "peterlcm--kuaidi100-logistics",
+  "description": "快递100物流查询与寄件指导技能。使用企业版API提供准确快速的快递查询服务，支持主流快递公司（中通、圆通、顺丰、申通、韵达、京东、EMS等）。当用户询问快递状态、物流轨迹、包裹位置、预计到达时间、快递单号查询、寄快递时，必须使用本技能。也适用于需要手机号验证的快递查询（如顺丰、中通）、需要时效预测的查询、以及国际快递查询。本技能提供标准化的输出格式、准确的时效预测和专业的错误处理指导。",
+  "version": "1.0.4",
+  "author": {
+    "name": "peterlcm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/peterlcm/kuaidi100-logistics",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/peterlcm/kuaidi100-logistics"
+}

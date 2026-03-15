@@ -1,0 +1,10 @@
+{
+  "name": "mculp--open-thoughts",
+  "description": "Structured free-thinking and exploration for agents. Invoke to explore a topic (or let the agent choose), journal the exploration, and manage action items. Accepts: topic, length (seconds), callback (person/agent to notify). Triggers: explore, think, open-thoughts, free-thinking, curiosity time.",
+  "version": "1.0.1",
+  "author": {
+    "name": "mculp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mculp/open-thoughts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mculp/open-thoughts"
+}

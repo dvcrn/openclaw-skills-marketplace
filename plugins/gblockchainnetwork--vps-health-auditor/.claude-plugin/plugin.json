@@ -1,0 +1,10 @@
+{
+  "name": "gblockchainnetwork--vps-health-auditor",
+  "description": "Runs comprehensive diagnostics (CPU, RAM, disk, network, services, uptime) via SSH/local exec, analyzes with Ollama LLM for actionable insights.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gblockchainnetwork"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gblockchainnetwork/vps-health-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gblockchainnetwork/vps-health-auditor"
+}

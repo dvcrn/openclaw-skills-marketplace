@@ -1,0 +1,10 @@
+{
+  "name": "assistant-design--cc-changelog-monitor",
+  "description": "Monitor Claude Code releases and get Telegram alerts when new versions ship. Zero AI credits — pure bash monitoring.",
+  "version": "1.0.0",
+  "author": {
+    "name": "assistant-design"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/assistant-design/cc-changelog-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/assistant-design/cc-changelog-monitor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "unixweb--foto-webcam",
+  "description": "Liste und Snapshot-Abruf von Webcams (insb. foto-webcam.eu). Verwende diese Skill-Anleitung, wenn John „webcam <nummer>“ schreibt, eine Webcam-Favoritenliste pflegen will, oder wenn ein aktuelles Snapshot-Bild von einer foto-webcam.eu Webcam als JPG im Chat gesendet werden soll.",
+  "version": "1.0.0",
+  "author": {
+    "name": "unixweb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/unixweb/foto-webcam",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/unixweb/foto-webcam"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "michaelhmiv--sportfolio-market",
+  "description": "Use when working with Sportfolio through its public authenticated MCP endpoint or the repo-local CLI. Covers user API token authentication, MCP connection setup, CLI command usage, shared public tools/prompts/resources, account and portfolio reads, and confirmation-gated staging for trades, LP actions, boosts, scouts, and related gameplay workflows. Do not use for admin or internal-only routes, billing or checkout flows, or any workflow that assumes autonomous execution without explicit user confirmation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "michaelhmiv"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/michaelhmiv/sportfolio-market",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/michaelhmiv/sportfolio-market"
+}

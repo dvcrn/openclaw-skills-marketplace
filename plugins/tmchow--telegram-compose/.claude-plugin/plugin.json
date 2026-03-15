@@ -1,0 +1,10 @@
+{
+  "name": "tmchow--telegram-compose",
+  "description": "Format and deliver rich Telegram messages with HTML formatting via direct Telegram API.\n Auto-invoked by the main session for substantive Telegram output — no other skills need to call it.\n Decision rule: If your Telegram reply is >3 lines or contains structured data (lists, stats, sections, reports),\n spawn this as a Haiku sub-agent to format and send. Short replies (<3 lines) go directly via OpenClaw message tool.\n Handles: research summaries, alerts, status updates, reports, briefings, notifications — anything with visual hierarchy.",
+  "version": "1.0.4",
+  "author": {
+    "name": "tmchow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tmchow/telegram-compose",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tmchow/telegram-compose"
+}

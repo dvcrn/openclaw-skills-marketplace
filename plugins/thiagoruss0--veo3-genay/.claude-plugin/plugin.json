@@ -1,0 +1,10 @@
+{
+  "name": "thiagoruss0--veo3-genay",
+  "description": "Generate and stitch short videos via Google Veo 3.x using the Gemini API (google-genai). Use when you need to create video clips from prompts (ads, UGC-style clips, product demos) and want a reproducible CLI workflow (generate, poll, download MP4, optionally stitch multiple segments).",
+  "version": "1.0.0",
+  "author": {
+    "name": "thiagoruss0"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thiagoruss0/veo3-genay",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thiagoruss0/veo3-genay"
+}

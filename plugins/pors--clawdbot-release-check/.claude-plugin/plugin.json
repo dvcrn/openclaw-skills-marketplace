@@ -1,0 +1,10 @@
+{
+  "name": "pors--clawdbot-release-check",
+  "description": "Check for new clawdbot releases and notify once per new version.",
+  "version": "1.0.1",
+  "author": {
+    "name": "pors"
+  },
+  "homepage": "https://github.com/clawdbot/clawdbot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pors/clawdbot-release-check"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wangchengming666--broadcast-sign-transfer",
+  "description": "支持 EVM 多链的原生代币和 ERC20 转账，自动构造交易、本地签名并通过 OKX API 广播上链",
+  "version": "1.0.1",
+  "author": {
+    "name": "wangchengming666"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangchengming666/broadcast-sign-transfer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangchengming666/broadcast-sign-transfer"
+}

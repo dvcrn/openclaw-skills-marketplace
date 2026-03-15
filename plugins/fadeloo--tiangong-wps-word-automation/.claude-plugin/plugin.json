@@ -1,0 +1,10 @@
+{
+  "name": "fadeloo--tiangong-wps-word-automation",
+  "description": "Automate common Word/WPS document operations on Windows via COM (read text, replace, insert, headings, headers/footers, page breaks, merge, split, export to PDF/TXT, add/replace images). Use for single-document actions (no batch).",
+  "version": "0.1.0",
+  "author": {
+    "name": "fadeloo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fadeloo/tiangong-wps-word-automation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fadeloo/tiangong-wps-word-automation"
+}

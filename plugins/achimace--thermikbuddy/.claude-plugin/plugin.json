@@ -1,0 +1,10 @@
+{
+  "name": "achimace--thermikbuddy",
+  "description": "Segelflug- und Thermikvorhersage mit Thermik-Score (0-10). Nutze diesen Skill wenn der User nach Segelflugwetter, Thermik, Streckenflugbedingungen, Flugwetter fuer Segelflieger oder Gleitschirmflieger fragt - auch indirekt wie \"lohnt sich Samstag fliegen?\", \"wie wird die Thermik?\", \"Segelflugwetter Wochenende?\" oder \"kann ich am Sonntag einen Streckenflug machen?\" oder \"Wettercheck Werdenfels\". Der Skill ruft Open-Meteo (ICON-D2) ab und liefert eine Profi-Einschaetzung mit Tagesablauf, Steigwerten, Basishöhe, Alpen-Besonderheiten (Foehn, Hangflug) und Warnungen.",
+  "version": "1.0.3",
+  "author": {
+    "name": "achimace"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/achimace/thermikbuddy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/achimace/thermikbuddy"
+}

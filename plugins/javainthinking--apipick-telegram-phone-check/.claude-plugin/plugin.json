@@ -1,0 +1,10 @@
+{
+  "name": "javainthinking--apipick-telegram-phone-check",
+  "description": "Check if a phone number is registered on Telegram using the apipick Telegram Checker API. Returns registration status, Telegram user ID, username, first/last name, and data center ID. Use when the user wants to verify Telegram registration for a phone number, find a Telegram username by phone number, or check whether someone uses Telegram. Requires an apipick API key (x-api-key). Get a free key at https://www.apipick.com.",
+  "version": "1.0.0",
+  "author": {
+    "name": "javainthinking"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/javainthinking/apipick-telegram-phone-check",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/javainthinking/apipick-telegram-phone-check"
+}

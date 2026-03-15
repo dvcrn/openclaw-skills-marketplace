@@ -1,0 +1,10 @@
+{
+  "name": "jimliu--baoyu-compress-image",
+  "description": "Compresses images to WebP (default) or PNG with automatic tool selection. Use when user asks to \"compress image\", \"optimize image\", \"convert to webp\", or reduce image file size.",
+  "version": "1.60.0",
+  "author": {
+    "name": "jimliu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jimliu/baoyu-compress-image",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jimliu/baoyu-compress-image"
+}

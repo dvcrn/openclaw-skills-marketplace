@@ -1,0 +1,10 @@
+{
+  "name": "evanydl--tavily-extract",
+  "description": "Extract content from specific URLs using Tavily's extraction API. Returns clean markdown/text from web pages. Use when you have specific URLs and need their content without writing code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "evanydl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/evanydl/tavily-extract",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/evanydl/tavily-extract"
+}

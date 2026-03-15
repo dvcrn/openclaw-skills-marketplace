@@ -1,0 +1,10 @@
+{
+  "name": "bewareofddog--beware-piper-tts",
+  "description": "Local text-to-speech using Piper for voice message delivery. Use when the user asks for voice responses, audio messages, TTS, text-to-speech, voice notes, or wants to hear something spoken aloud. Converts text to speech locally (no cloud APIs, no cost, no latency) and delivers as voice messages on Telegram, Discord, or any channel supporting audio.",
+  "version": "1.0.1",
+  "author": {
+    "name": "bewareofddog"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bewareofddog/beware-piper-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bewareofddog/beware-piper-tts"
+}

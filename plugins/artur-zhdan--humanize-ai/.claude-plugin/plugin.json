@@ -1,0 +1,10 @@
+{
+  "name": "artur-zhdan--humanize-ai",
+  "description": "Humanize AI content by detecting and auto-fixing AI generated content. Humanize AI text using Python scripts. Scans for AI vocabulary, puffery, chatbot artifacts, and auto-replaces filler phrases. Use when you want to analyze text in AI detector and bypass it in future, batch-process files, run automated cleanup, or get a report before manual humanizing.",
+  "version": "1.1.0",
+  "author": {
+    "name": "artur-zhdan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/artur-zhdan/humanize-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/artur-zhdan/humanize-ai"
+}

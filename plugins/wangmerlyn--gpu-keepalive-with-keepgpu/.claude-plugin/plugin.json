@@ -1,0 +1,10 @@
+{
+  "name": "wangmerlyn--gpu-keepalive-with-keepgpu",
+  "description": "Install and operate KeepGPU for GPU keep-alive with both blocking CLI and non-blocking service workflows. Use when users ask for keep-gpu command construction, start/status/stop session control, dashboard usage, tuning (--vram, --interval, --busy-threshold), installation from this repository, or troubleshooting keep sessions; do not use for repository development, code refactoring, or unrelated Python tooling.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wangmerlyn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangmerlyn/gpu-keepalive-with-keepgpu",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangmerlyn/gpu-keepalive-with-keepgpu"
+}

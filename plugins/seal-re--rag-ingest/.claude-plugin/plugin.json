@@ -1,0 +1,10 @@
+{
+  "name": "seal-re--rag-ingest",
+  "description": "将 Agent 已解读好的正文写入 Qdrant（kb_main）。仅做 chunk、embedding 和向量写入，不负责抓取与精炼。",
+  "version": "1.0.0",
+  "author": {
+    "name": "seal-re"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seal-re/rag-ingest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seal-re/rag-ingest"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "krishnakumarmahadevan-cmd--dpdp-compliance-assessment",
+  "description": "Assess compliance with India's Digital Personal Data Protection (DPDP) Act 2023 across 7 domains with 41 controls. Use when evaluating DPDP readiness, Indian data privacy compliance, data principal rights, consent management under DPDP, or privacy maturity assessment for organizations operating in India.",
+  "version": "1.3.2",
+  "author": {
+    "name": "krishnakumarmahadevan-cmd"
+  },
+  "homepage": "https://portal.toolweb.in",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/krishnakumarmahadevan-cmd/dpdp-compliance-assessment"
+}

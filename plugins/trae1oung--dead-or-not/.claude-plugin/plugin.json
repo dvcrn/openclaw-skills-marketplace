@@ -1,0 +1,10 @@
+{
+  "name": "trae1oung--dead-or-not",
+  "description": "A \"life check\" skill that periodically checks if the user is still responsive. \n If the user hasn't messaged for a set time, it asks if they're okay, and if no reply, \n sends an email to emergency contacts. User can customize email content, SMTP settings, \n and check time. Use when: (1) Creating a \"DeadOrNot\" app (2) Daily health check \n (3) Auto-notify on unresponsive users (4) Setting up check-in reminders",
+  "version": "1.0.2",
+  "author": {
+    "name": "trae1oung"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/trae1oung/dead-or-not",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/trae1oung/dead-or-not"
+}

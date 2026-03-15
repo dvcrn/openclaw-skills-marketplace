@@ -1,0 +1,10 @@
+{
+  "name": "bigdaddyluke--instacart-skill",
+  "description": "Place grocery orders on Instacart via browser automation. Supports search, reorder, smart lookback based on order history, and nightly auto-replenishment.",
+  "version": "0.1.0",
+  "author": {
+    "name": "bigdaddyluke"
+  },
+  "homepage": "https://www.instacart.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bigdaddyluke/instacart-skill"
+}

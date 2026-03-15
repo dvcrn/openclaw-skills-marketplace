@@ -1,0 +1,10 @@
+{
+  "name": "anotb--truenas-skill",
+  "description": "Manage TrueNAS SCALE via API. Check pool health, manage datasets and snapshots, monitor alerts, control services, manage apps, orchestrate Dockge container stacks, and manage bookmarks. Use when the user asks about their NAS, storage, backups, containers, bookmarks, or homelab services.",
+  "version": "1.2.0",
+  "author": {
+    "name": "anotb"
+  },
+  "homepage": "https://github.com/anotb/truenas-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anotb/truenas-skill"
+}

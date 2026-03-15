@@ -1,0 +1,10 @@
+{
+  "name": "wszhhx--skill-security-guide",
+  "description": "Security best practices guide for passing ClawHub security scans with \"Benign\" ratings. Use when creating or reviewing skills to ensure they meet security standards.",
+  "version": "1.0.1",
+  "author": {
+    "name": "wszhhx"
+  },
+  "homepage": "https://clawhub.ai/docs/security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wszhhx/skill-security-guide"
+}

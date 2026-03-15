@@ -1,0 +1,10 @@
+{
+  "name": "stuhorsman--yahoo-finance-cli",
+  "description": "This skill should be used when the user asks to \"get stock prices\", \"check stock quotes\", \"look up earnings\", \"get financial data\", \"find trending stocks\", or needs stock market data from Yahoo Finance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "stuhorsman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stuhorsman/yahoo-finance-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stuhorsman/yahoo-finance-cli"
+}

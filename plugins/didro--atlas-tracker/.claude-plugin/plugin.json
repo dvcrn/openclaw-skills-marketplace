@@ -1,0 +1,10 @@
+{
+  "name": "didro--atlas-tracker",
+  "description": "Work with Atlas Tracker (RedForester) mindmaps via MCP tools. Use when reading, creating, or updating nodes and branches in Atlas Tracker maps — including navigating map structure, creating solution trees, updating node properties, managing typed nodes, creating link nodes, uploading files to nodes, and working with node comments. Requires at_read_branch, at_create_branch, at_update_branch, at_get_node_types, at_read_attachments, at_create_link_node, at_upload_file, at_get_comments, at_add_comment, at_delete_comment, at_update_comment tools (provided by the Atlas Tracker OpenClaw plugin).",
+  "version": "1.0.5",
+  "author": {
+    "name": "didro"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/didro/atlas-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/didro/atlas-tracker"
+}

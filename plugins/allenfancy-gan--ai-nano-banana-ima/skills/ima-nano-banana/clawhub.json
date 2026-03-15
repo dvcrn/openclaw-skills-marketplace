@@ -1,0 +1,73 @@
+{
+  "name": "IMA Nano Banana",
+  "tagline": "Text-to-image, image-to-image — Nano Banana series only. Lightweight AI image generation.",
+  "description": "Image generation with IMA Open API using only Nano Banana series: Nano Banana, Nano Banana Pro, Nano Banana 2. Budget (Nano Banana2 512px), balanced (Nano Banana2/Pro), premium (Nano Banana Pro 4K). Native aspect_ratio: 1:1, 16:9, 9:16, 4:3, 3:4. Use for: text-to-image, image-to-image, lightweight image gen. Requires IMA_API_KEY.",
+  "category": "file-generation",
+  "requiredEnvVars": ["IMA_API_KEY"],
+  "tags": [
+    "ima-studio",
+    "nano-banana",
+    "gemini-image",
+    "image-generation",
+    "text-to-image",
+    "image-to-image",
+    "lightweight",
+    "budget",
+    "nano banana",
+    "nano banana 2",
+    "nano banana pro"
+  ],
+  "version": "1.0.0",
+  "license": "MIT",
+  "pricing": "free",
+  "author": {
+    "name": "IMA Studio",
+    "url": "https://www.imaclaw.ai/"
+  },
+  "keywords": [
+    "nano banana",
+    "nano banana 2",
+    "nano banana pro",
+    "image generation",
+    "gemini image",
+    "text to image",
+    "image to image",
+    "ima studio",
+    "lightweight",
+    "ai-nano-banana"
+  ],
+  "search_optimized_terms": [
+    "nano banana",
+    "nano banana 2",
+    "nano banana pro",
+    "text to image",
+    "image to image",
+    "gemini image",
+    "lightweight image generation",
+    "ai-nano-banana"
+  ],
+  "supported_models": [
+    "Nano Banana",
+    "Nano Banana 2",
+    "Nano Banana Pro",
+    "text-to-image",
+    "image-to-image"
+  ],
+  "related_skills": [
+    "ima-knowledge-ai",
+    "ima-image-ai",
+    "ima-all-ai",
+    "ima-resource-skill"
+  ],
+  "use_cases": [
+    "Nano Banana series only: text-to-image, image-to-image",
+    "Budget / balanced / premium output",
+    "Fixed aspect ratios 1:1, 16:9, 9:16, 4:3, 3:4"
+  ],
+  "key_features": [
+    "Nano Banana, Nano Banana Pro, Nano Banana 2 only",
+    "Text-to-image, image-to-image, native aspect ratio",
+    "512px/1K/2K/4K",
+    "Lightweight, no SeeDream/Midjourney"
+  ]
+}

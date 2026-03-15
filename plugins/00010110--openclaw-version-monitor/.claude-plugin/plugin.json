@@ -1,0 +1,10 @@
+{
+  "name": "00010110--openclaw-version-monitor",
+  "description": "监控 OpenClaw GitHub 版本更新，获取最新版本发布说明，翻译成中文，\n 并推送到 Telegram 和 Feishu。用于：(1) 定时检查版本更新 (2) \n 推送版本更新通知 (3) 生成中文版发布说明",
+  "version": "1.0.0",
+  "author": {
+    "name": "00010110"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/00010110/openclaw-version-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/00010110/openclaw-version-monitor"
+}

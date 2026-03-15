@@ -1,0 +1,10 @@
+{
+  "name": "tinkcarlos--bug-fixing",
+  "description": "Zero-regression bug fix workflow: triage → reproduce → root cause →\n impact analysis → fix → verify → knowledge deposit → self-reflect.\n\n Use when:\n - Feature broken, incorrect behavior, wrong output, errors/exceptions\n - Console errors/warnings even when feature appears functional\n - Regressions, timeouts, degraded performance\n - Keywords: \"fix bug\", \"debug\", \"not working\", \"error\", \"broken\"\n\n Output: Bug summary + verification report + code review + self-reflection score.\n Not for: new features (use fullstack-developer); pure review (use code-review);\n optimization (use performance-optimization).",
+  "version": "1.0.3",
+  "author": {
+    "name": "tinkcarlos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tinkcarlos/bug-fixing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tinkcarlos/bug-fixing"
+}

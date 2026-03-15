@@ -1,0 +1,10 @@
+{
+  "name": "nightcode112--storj-agent",
+  "description": "Autonomous economic agent that earns BTC & SOL by selling storage, compute, and bandwidth. Pays its own hosting, manages subagents, posts tweets, and replicates when profitable.",
+  "version": "2.0.0",
+  "author": {
+    "name": "nightcode112"
+  },
+  "homepage": "https://bitcointalk.org/index.php?topic=53855.0",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nightcode112/storj-agent"
+}

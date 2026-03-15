@@ -1,0 +1,10 @@
+{
+  "name": "harshraj001--write-my-blog",
+  "description": "Enables the agent to create, manage, and publish a full-featured blog autonomously. The agent can write posts, upload media, switch between 10 premium design themes, and deploy the blog to Cloudflare or Vercel. Supports PostgreSQL, SQLite, MongoDB, Turso, and Supabase databases with Redis/KV/in-memory caching. Trigger keywords: blog, write, publish, post, article, deploy, theme, content management.",
+  "version": "0.1.0",
+  "author": {
+    "name": "harshraj001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harshraj001/write-my-blog",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harshraj001/write-my-blog"
+}

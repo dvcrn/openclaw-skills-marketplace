@@ -1,0 +1,10 @@
+{
+  "name": "staybased--ops-hygiene",
+  "description": "Standard operating procedures for agent maintenance, security hygiene, and system health. Use when performing periodic checks, security audits, memory maintenance, secret rotation, dependency updates, or any recurring \"housekeeping\" tasks. Also use when setting up automated maintenance schedules or when asked about agent security posture.",
+  "version": "1.0.0",
+  "author": {
+    "name": "staybased"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/staybased/ops-hygiene",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/staybased/ops-hygiene"
+}

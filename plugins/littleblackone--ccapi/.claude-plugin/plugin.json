@@ -1,0 +1,10 @@
+{
+  "name": "littleblackone--ccapi",
+  "description": "Use CCAPI unified AI API gateway to access 60+ models (GPT-5.2, Claude, Gemini, DeepSeek, Sora 2, Kling 3.0, Seedance 2.0, Suno, etc.) across text, image, video, and audio. OpenAI SDK compatible — just change the base_url. Use when building AI apps, calling LLMs, generating images/videos/audio, or integrating multiple AI providers through a single API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "littleblackone"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/littleblackone/ccapi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/littleblackone/ccapi"
+}

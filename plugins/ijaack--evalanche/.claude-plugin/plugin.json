@@ -1,0 +1,10 @@
+{
+  "name": "ijaack--evalanche",
+  "description": "Multi-EVM agent wallet SDK with onchain identity (ERC-8004), payment rails (x402), cross-chain bridging (Li.Fi), and destination gas funding (Gas.zip). Supports 21+ EVM chains: Ethereum, Base, Arbitrum, Optimism, Polygon, BSC, Avalanche, and more. Agents generate and manage their own keys — no human input required. Use when: booting an autonomous agent wallet on any EVM chain, sending tokens, calling contracts, resolving agent identity, checking reputation, making x402 payment-gated API calls, bridging tokens cross-chain (Li.Fi), funding gas on destination chains (Gas.zip), cross-chain transfers (Avalanche C↔X↔P), delegating stake, querying validators, signing messages, creating subnets, managing L1 validators, adding validators with BLS keys, querying node info. Don't use when: managing ENS (use moltbook scripts). Network: yes (EVM RPCs via Routescan + public fallbacks). Cost: gas fees per transaction.",
+  "version": "0.6.0",
+  "author": {
+    "name": "ijaack"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ijaack/evalanche",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ijaack/evalanche"
+}

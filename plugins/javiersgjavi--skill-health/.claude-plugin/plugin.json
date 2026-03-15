@@ -1,0 +1,10 @@
+{
+  "name": "javiersgjavi--skill-health",
+  "description": "Analyze wearable health CSV exports (steps, heart rate, sleep, calories, SpO2, exercise, distance) and produce compact JSON reports for hourly, daily, weekly, monthly, sleep (last 30h) and cross-temporal alerts. Use when running or packaging Skill Health analyses and when explaining output semantics, data quality, or known caveats.",
+  "version": "1.0.1",
+  "author": {
+    "name": "javiersgjavi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/javiersgjavi/skill-health",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/javiersgjavi/skill-health"
+}

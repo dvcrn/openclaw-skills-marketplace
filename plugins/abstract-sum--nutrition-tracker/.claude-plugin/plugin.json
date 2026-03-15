@@ -1,0 +1,10 @@
+{
+  "name": "abstract-sum--nutrition-tracker",
+  "description": "Track daily calories and macros in Obsidian, with profile initialization (sex/height/weight/goal) and goal-based target checks. Includes i18n (zh-CN/en-US). Use when user logs meals, asks if targets are met, or wants to set/remember nutrition profile.",
+  "version": "0.1.0",
+  "author": {
+    "name": "abstract-sum"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abstract-sum/nutrition-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abstract-sum/nutrition-tracker"
+}

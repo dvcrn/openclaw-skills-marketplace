@@ -1,0 +1,10 @@
+{
+  "name": "c-goro--agentledger",
+  "description": "Expense tracking and accounting for AI agents. Log purchases, set budgets, generate spending reports, and manage multi-currency finances — all stored locally. Privacy.com card import, natural language queries, CSV/JSON export. Use when agents make purchases and need a financial audit trail.",
+  "version": "1.1.1",
+  "author": {
+    "name": "c-goro"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/c-goro/agentledger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/c-goro/agentledger"
+}

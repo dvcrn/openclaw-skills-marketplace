@@ -1,0 +1,10 @@
+{
+  "name": "kitephp--soul-agent",
+  "description": "Initialize, repair, and maintain an OpenClaw-first soul runtime in a workspace. Use when you need a standard `soul/` directory, reusable companion profile templates, interactive bootstrap with defaults, and managed block sync for `SOUL.md`, `HEARTBEAT.md`, and `AGENTS.md`.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kitephp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kitephp/soul-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kitephp/soul-agent"
+}

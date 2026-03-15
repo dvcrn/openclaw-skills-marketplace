@@ -1,0 +1,10 @@
+{
+  "name": "jimliu--baoyu-danger-x-to-markdown",
+  "description": "Converts X (Twitter) tweets and articles to markdown with YAML front matter. Uses reverse-engineered API requiring user consent. Use when user mentions \"X to markdown\", \"tweet to markdown\", \"save tweet\", or provides x.com/twitter.com URLs for conversion.",
+  "version": "1.60.0",
+  "author": {
+    "name": "jimliu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jimliu/baoyu-danger-x-to-markdown",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jimliu/baoyu-danger-x-to-markdown"
+}

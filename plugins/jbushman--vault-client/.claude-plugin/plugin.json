@@ -1,0 +1,10 @@
+{
+  "name": "jbushman--vault-client",
+  "description": "Hashicorp Vault client for OpenClaw agents. Read and write secrets from a Vault server without raw curl commands or hardcoded tokens. Use when reading API keys, DB credentials, or any secret stored in Hashicorp Vault; checking token expiry; rotating secrets; or configuring Vault access for the first time. NOT for the zuiho-kai local Vault skill (that is a different, local-only tool).",
+  "version": "1.0.0",
+  "author": {
+    "name": "jbushman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jbushman/vault-client",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jbushman/vault-client"
+}

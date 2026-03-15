@@ -1,0 +1,10 @@
+{
+  "name": "diankourenxia--wodeapp-ai",
+  "description": "Unified AI execution engine. Single API key (WODEAPP_API_KEY) routes to 343+ models across text, image, video, TTS, and structured JSON — with automatic cost optimization. Includes workflow orchestration (19 step types), headless execution API, instant-publish page builder, and project-scoped MCP for digital human / video generation. No additional credentials required.",
+  "version": "1.0.12",
+  "author": {
+    "name": "diankourenxia"
+  },
+  "homepage": "https://wodeapp.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/diankourenxia/wodeapp-ai"
+}

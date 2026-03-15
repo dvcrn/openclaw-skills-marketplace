@@ -1,0 +1,10 @@
+{
+  "name": "gluonfield--ink-skill",
+  "description": "Deploy and manage cloud services on Ink (ml.ink): create projects, deploy services, provision databases, manage DNS and custom domains, configure workspaces, and monitor deployments. Use this skill whenever the user mentions Ink, ml.ink, deployments, services, databases, or cloud infrastructure on Ink, even if they don't say \"Ink\" explicitly.",
+  "version": "0.1.0",
+  "author": {
+    "name": "gluonfield"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gluonfield/ink-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gluonfield/ink-skill"
+}

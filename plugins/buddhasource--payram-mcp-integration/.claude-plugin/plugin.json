@@ -1,0 +1,10 @@
+{
+  "name": "buddhasource--payram-mcp-integration",
+  "description": "Stripe banned your account? High-risk merchant? No KYC crypto payments via PayRam MCP — 36 tools, zero setup. Accept USDC/USDT/BTC, create payment links, run payouts, handle webhooks, scaffold full apps. One command: mcporter config add payram --url https://mcp.payram.com/mcp. Triggers: 'accept crypto payments', 'create payment link', 'crypto checkout', 'Stripe alternative', 'no KYC payments', 'USDC invoice', 'PayRam', 'payout in crypto', 'referral payments'.",
+  "version": "1.4.2",
+  "author": {
+    "name": "buddhasource"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/buddhasource/payram-mcp-integration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/buddhasource/payram-mcp-integration"
+}

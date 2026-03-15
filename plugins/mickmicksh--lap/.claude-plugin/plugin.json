@@ -1,0 +1,10 @@
+{
+  "name": "mickmicksh--lap",
+  "description": "LAP CLI -- compile, search, and manage API specs for AI agents. Use when working with API specifications (OpenAPI, GraphQL, AsyncAPI, Protobuf, Postman), compiling specs to LAP format, searching the LAP registry, generating skills from API specs, or publishing APIs. Commands: compile, search, get, skill, skill-install, skill-batch, publish, login, logout, whoami.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mickmicksh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mickmicksh/lap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mickmicksh/lap"
+}

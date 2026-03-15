@@ -1,0 +1,10 @@
+{
+  "name": "mohibshaikh--clawvet",
+  "description": "Vet OpenClaw skills for security threats before installing them. 6-pass scanner detects RCE, credential theft, prompt injection, typosquatting, and social engineering.",
+  "version": "0.2.3",
+  "author": {
+    "name": "mohibshaikh"
+  },
+  "homepage": "https://github.com/MohibShaikh/clawvet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mohibshaikh/clawvet"
+}

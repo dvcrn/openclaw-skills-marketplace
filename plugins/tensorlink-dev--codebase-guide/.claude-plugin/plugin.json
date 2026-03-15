@@ -1,0 +1,10 @@
+{
+  "name": "tensorlink-dev--codebase-guide",
+  "description": "Use for every task involving this project. Covers running Ganglion, its CLI commands, HTTP bridge API, pipeline execution, knowledge queries, configuration, and operational workflows. Trigger phrases: 'run the pipeline', 'start the server', 'check status', 'query knowledge', 'configure', 'call the API', 'scaffold a project', 'check metrics', 'rollback', 'swap policy'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tensorlink-dev"
+  },
+  "homepage": "https://github.com/TensorLink-AI/ganglion",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tensorlink-dev/codebase-guide"
+}

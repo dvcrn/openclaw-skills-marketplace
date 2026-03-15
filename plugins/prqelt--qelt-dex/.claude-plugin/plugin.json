@@ -1,0 +1,10 @@
+{
+  "name": "prqelt--qelt-dex",
+  "description": "Interact with Uniswap v4 pools and liquidity positions on QELT Mainnet. Use when asked about DEX pools, token swaps, liquidity provision, WQELT wrapping/unwrapping, pool state queries, position NFTs, or Uniswap v4 contract addresses. QELT only supports Uniswap V4 — V2/V3 calls revert.",
+  "version": "0.1.0",
+  "author": {
+    "name": "prqelt"
+  },
+  "homepage": "https://qeltscan.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/prqelt/qelt-dex"
+}

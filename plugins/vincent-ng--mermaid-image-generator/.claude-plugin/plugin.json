@@ -1,0 +1,10 @@
+{
+  "name": "vincent-ng--mermaid-image-generator",
+  "description": "Generate PNG/SVG images from Mermaid diagram syntax using mermaid.ink API. Zero dependencies - uses only Node.js built-in modules and curl. Use when users need to convert Mermaid code to images, create diagrams for presentations/PPTs, visualize flowcharts/class diagrams/sequence diagrams, or generate shareable diagram images. Supports both file input and stdin.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vincent-ng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vincent-ng/mermaid-image-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vincent-ng/mermaid-image-generator"
+}

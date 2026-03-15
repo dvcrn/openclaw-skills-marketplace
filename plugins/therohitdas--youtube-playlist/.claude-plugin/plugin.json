@@ -1,0 +1,10 @@
+{
+  "name": "therohitdas--youtube-playlist",
+  "description": "Browse YouTube playlists and fetch video transcripts. Use when the user shares a playlist link, asks \"what's in this playlist\", \"list playlist videos\", \"browse playlist content\", or wants to work with playlist videos and get their transcripts.",
+  "version": "1.4.1",
+  "author": {
+    "name": "therohitdas"
+  },
+  "homepage": "https://transcriptapi.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/therohitdas/youtube-playlist"
+}

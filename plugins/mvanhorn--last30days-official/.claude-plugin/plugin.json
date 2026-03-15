@@ -1,0 +1,10 @@
+{
+  "name": "mvanhorn--last30days-official",
+  "description": "Research a topic from the last 30 days. Also triggered by 'last30'. Sources: Reddit, X, YouTube, TikTok, Instagram, Hacker News, Polymarket, web. Become an expert and write copy-paste-ready prompts.",
+  "version": "2.9.3",
+  "author": {
+    "name": "mvanhorn"
+  },
+  "homepage": "https://github.com/mvanhorn/last30days-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mvanhorn/last30days-official"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "chriscox--docs-sync",
+  "description": "Keep project documentation in sync with code changes. Identifies which docs need updating after a PR merges or code changes, drafts the updates, and manages doc site structure (mkdocs, docusaurus, vitepress). Use when: (1) a PR just merged and docs may need updating, (2) the user says \"update the docs\" or \"sync docs\", (3) a new doc was created and needs to be added to site navigation, (4) the user wants to audit which docs are stale. NOT for: writing docs from scratch for a new project (just write them), generating API reference docs from code comments (use typedoc/jazzy/etc.), or content that isn't developer documentation.",
+  "version": "1.0.3",
+  "author": {
+    "name": "chriscox"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chriscox/docs-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chriscox/docs-sync"
+}

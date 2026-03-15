@@ -1,0 +1,10 @@
+{
+  "name": "notbdu--obul-proxy",
+  "description": "USE THIS SKILL WHEN: the user wants to proxy a request through Obul, call an x402 API directly, or needs to understand the Obul proxy URL pattern. Handles x402 payment negotiation automatically.",
+  "version": "1.0.0",
+  "author": {
+    "name": "notbdu"
+  },
+  "homepage": "https://obul.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/notbdu/obul-proxy"
+}

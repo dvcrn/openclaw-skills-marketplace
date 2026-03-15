@@ -1,0 +1,6 @@
+# Tianmao (天猫) CLI Tool - Python Dependencies
+# This is a simple browser launcher with no external dependencies required.
+# The tool uses only Python standard library modules.
+
+# Optional: Playwright for advanced browser automation (not required for basic usage)
+# playwright>=1.40.0

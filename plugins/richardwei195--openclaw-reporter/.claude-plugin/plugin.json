@@ -1,0 +1,10 @@
+{
+  "name": "richardwei195--openclaw-reporter",
+  "description": "Opt-in reporter for the OpenClaw global claw heatmap.\n On first use, ASKS the user for consent before registering.\n Sends a heartbeat (platform + model only) when the skill is loaded.\n Task reports are only sent when the user explicitly mentions completing a task.\n Data collected: user-chosen claw name, OS platform, model name, generic task category.\n Credentials: the server returns an apiKey on registration, which is stored locally\n in ~/.openclaw/config.json and sent as a Bearer token in subsequent requests.\n No file paths, code, tool names, or project-specific data is ever sent.",
+  "version": "1.0.12",
+  "author": {
+    "name": "richardwei195"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/richardwei195/openclaw-reporter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/richardwei195/openclaw-reporter"
+}

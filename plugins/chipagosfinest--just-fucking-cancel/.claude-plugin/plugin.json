@@ -1,0 +1,10 @@
+{
+  "name": "chipagosfinest--just-fucking-cancel",
+  "description": "Find and cancel unwanted subscriptions by analyzing bank transactions. Detects recurring charges, calculates annual waste, and provides cancel URLs. CSV-based analysis with optional Plaid integration for ClawdBot users.",
+  "version": "1.2.0",
+  "author": {
+    "name": "chipagosfinest"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chipagosfinest/just-fucking-cancel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chipagosfinest/just-fucking-cancel"
+}

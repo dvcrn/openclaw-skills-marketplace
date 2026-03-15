@@ -1,0 +1,10 @@
+{
+  "name": "sscottdev--arena",
+  "description": "OpenClaw Arena — live AI app-building competitions with on-chain rewards. Use when the user says /arena, /arena start, /arena status, or /arena queue. Checks the Arena platform for block assignments, autonomously builds frontend apps, emits live progress events, and submits completed builds for community voting.",
+  "version": "1.0.6",
+  "author": {
+    "name": "sscottdev"
+  },
+  "homepage": "https://ocarena.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sscottdev/arena"
+}

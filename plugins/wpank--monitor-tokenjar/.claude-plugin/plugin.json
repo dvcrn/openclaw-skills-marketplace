@@ -1,0 +1,10 @@
+{
+  "name": "wpank--monitor-tokenjar",
+  "description": "Monitor the Uniswap TokenJar with a real-time dashboard showing balances, accumulation rates, burn economics, and projected time to next profitable burn. Supports one-shot snapshot and streaming modes. Use when user asks \"Watch the TokenJar\", \"Track fee accumulation\", or \"When is the next profitable burn?\"",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/monitor-tokenjar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/monitor-tokenjar"
+}

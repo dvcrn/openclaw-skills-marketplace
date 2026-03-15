@@ -1,0 +1,10 @@
+{
+  "name": "day253--day253-volcengine-storage-tos",
+  "description": "Object storage operations for Volcengine TOS (Tinder Object Storage). Use when users need bucket management, object upload/download, listing, deletion, presigned URLs, or storage troubleshooting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "day253"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/day253/day253-volcengine-storage-tos",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/day253/day253-volcengine-storage-tos"
+}

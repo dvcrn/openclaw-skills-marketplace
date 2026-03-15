@@ -1,0 +1,10 @@
+{
+  "name": "runrelay--runrelay",
+  "description": "Search and book flights, hotels, and travel via RunRelay API. Covers 300+ airlines including low-cost carriers (Ryanair, Wizz Air, EasyJet) that no other API offers. Use when: (1) user asks about flights or hotels, (2) user wants to plan or book a trip, (3) user needs LCC coverage, (4) travel agent or concierge tasks. MCP-compatible, OpenAI-compatible.",
+  "version": "1.0.0",
+  "author": {
+    "name": "runrelay"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runrelay/runrelay",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runrelay/runrelay"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dougalcantara--spandex-agentic-swap",
+  "description": "Fetch token swap quotes and executable calldata from the spanDEX API. Use when a user wants to swap tokens, get best price or fastest routing, and receive wallet-ready EVM transaction payloads. Quotes can be fetched independently; transaction execution requires the Privy skill.",
+  "version": "0.3.0",
+  "author": {
+    "name": "dougalcantara"
+  },
+  "homepage": "https://spandex.sh",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dougalcantara/spandex-agentic-swap"
+}

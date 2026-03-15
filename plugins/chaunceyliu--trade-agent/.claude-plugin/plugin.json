@@ -1,0 +1,10 @@
+{
+  "name": "chaunceyliu--trade-agent",
+  "description": "AIUSD trading and account management skill. Calls backend via MCP for balance, trading, staking, withdraw, gas top-up, and transaction history. Auth priority: MCP_HUB_TOKEN env, then mcporter OAuth or local token file.",
+  "version": "1.0.1",
+  "author": {
+    "name": "chaunceyliu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chaunceyliu/trade-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chaunceyliu/trade-agent"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "michael-crazy--clawdog-backup",
+  "description": "狗蛋备份恢复技能。备份 OpenClaw 核心文件（SOUL.md, AGENTS.md, IDENTITY.md, USER.md, TOOLS.md）和记忆层（memory/）到 OneDrive，支持实时监控备份和定时备份，可从云端恢复。",
+  "version": "1.0.1",
+  "author": {
+    "name": "michael-crazy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/michael-crazy/clawdog-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/michael-crazy/clawdog-backup"
+}

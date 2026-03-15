@@ -1,0 +1,10 @@
+{
+  "name": "nickliang--bijie-express",
+  "description": "Free package tracking for 2000+ couriers (SF, YTO, ZTO, Yunda, STO, JT, JD, EMS). Returns logistics status, location, transit nodes & ETA. 必捷免费快递查询，支持国内外2000+快递公司，自动识别单号，返回包裹状态、物流轨迹、预计到达时间。Use when user asks 查快递, 快递查询, 物流轨迹, 查物流, 快递到哪了, 跟踪包裹, track package, courier tracking, 圆通查询, 顺丰查询, 中通查询, 韵达查询, 申通查询, 极兔查询, 京东物流查询, EMS查询.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nickliang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nickliang/bijie-express",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nickliang/bijie-express"
+}

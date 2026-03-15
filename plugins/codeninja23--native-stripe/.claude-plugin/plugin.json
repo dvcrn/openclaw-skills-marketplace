@@ -1,0 +1,10 @@
+{
+  "name": "codeninja23--native-stripe",
+  "description": "Query and manage Stripe data via the Stripe API. Use when you need to list charges, customers, invoices, subscriptions, payment intents, refunds, products, or prices. Supports filtering, pagination, and creating/updating customers and refunds. Calls api.stripe.com directly with no third-party proxy.",
+  "version": "1.0.1",
+  "author": {
+    "name": "codeninja23"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codeninja23/native-stripe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codeninja23/native-stripe"
+}

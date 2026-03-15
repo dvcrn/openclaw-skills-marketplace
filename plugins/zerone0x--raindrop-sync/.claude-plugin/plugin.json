@@ -1,0 +1,10 @@
+{
+  "name": "zerone0x--raindrop-sync",
+  "description": "Sync and process bookmarks from Raindrop.io. Use when fetching new bookmarks, analyzing saved content, or syncing bookmarks to knowledge base. Triggers on \"raindrop\", \"bookmarks\", \"sync bookmarks\", \"new saves\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "zerone0x"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zerone0x/raindrop-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zerone0x/raindrop-sync"
+}

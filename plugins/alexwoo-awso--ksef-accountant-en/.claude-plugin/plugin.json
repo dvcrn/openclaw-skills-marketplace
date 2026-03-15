@@ -1,0 +1,10 @@
+{
+  "name": "alexwoo-awso--ksef-accountant-en",
+  "description": "National e-Invoice System (KSeF) accounting assistant in English. Use when working with KSeF 2.0 API, FA(3) invoices, Polish VAT compliance, e-invoice processing, payment matching, VAT registers (JPK_V7), corrective invoices, split payment mechanism (MPP) or Polish accounting workflows. Provides domain knowledge for invoice issuance, purchase processing, expense classification, fraud detection and cash flow forecasting in the KSeF ecosystem.",
+  "version": "2.2.6",
+  "author": {
+    "name": "alexwoo-awso"
+  },
+  "homepage": "https://github.com/alexwoo-awso/skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alexwoo-awso/ksef-accountant-en"
+}

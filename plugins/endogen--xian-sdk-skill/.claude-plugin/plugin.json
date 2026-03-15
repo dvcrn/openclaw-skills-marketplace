@@ -1,0 +1,10 @@
+{
+  "name": "endogen--xian-sdk-skill",
+  "description": "Build applications on the Xian blockchain using the xian-py Python SDK. Use when developing apps that interact with Xian — wallets, transactions, smart contracts, state queries, token transfers. Covers sync and async patterns.",
+  "version": "0.1.0",
+  "author": {
+    "name": "endogen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/endogen/xian-sdk-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/endogen/xian-sdk-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "gchapim--elixir-dev",
+  "description": "Elixir/Phoenix development companion. Run and interpret mix test, mix credo, mix dialyzer, mix format. Generate modules following OTP conventions: contexts, schemas, GenServers, supervisors, tasks. Debug compilation errors and warnings. Help with Ecto migrations, queries, changesets, and associations. Use for any Elixir or Phoenix development task including writing modules, fixing tests, refactoring code, or understanding OTP patterns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gchapim"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gchapim/elixir-dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gchapim/elixir-dev"
+}

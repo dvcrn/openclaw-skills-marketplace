@@ -1,0 +1,10 @@
+{
+  "name": "jd-delatorre--lieutenant",
+  "description": "AI agent security and trust verification. Scan messages, agent cards, and A2A communications for prompt injection, jailbreaks, and malicious patterns. Use when protecting agents from attacks, verifying external agents, or scanning untrusted content.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jd-delatorre"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jd-delatorre/lieutenant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jd-delatorre/lieutenant"
+}

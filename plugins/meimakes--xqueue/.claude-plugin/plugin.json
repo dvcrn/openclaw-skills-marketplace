@@ -1,0 +1,10 @@
+{
+  "name": "meimakes--xqueue",
+  "description": "File-based X/Twitter post scheduler. Drop tweets into day/time folders, they post automatically. No frontend, no app — your file system is the UI.",
+  "version": "1.0.2",
+  "author": {
+    "name": "meimakes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/meimakes/xqueue",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/meimakes/xqueue"
+}

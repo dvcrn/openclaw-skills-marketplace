@@ -1,0 +1,10 @@
+{
+  "name": "hope-ave--ave-cloud",
+  "description": "Query on-chain crypto data via the AVE Cloud API (https://cloud.ave.ai/).\n Use this skill whenever the user wants to:\n - Search for tokens by name, symbol, or contract address\n - Get token prices, market cap, TVL, volume, or price change data\n - View kline/candlestick (OHLCV) chart data for a token or trading pair\n - Check top 100 token holders and their distribution\n - Browse recent swap transactions for a trading pair\n - View trending or ranked tokens by chain or topic (hot, meme, gainer, loser, AI, DePIN, etc.)\n - Run a contract security/risk detection report (honeypot, tax, ownership)\n - List supported chains or main tokens on a chain\n - Stream real-time swap/liquidity events for a trading pair (pro plan)\n - Monitor live kline/candlestick updates for a pair in real time (pro plan)\n - Subscribe to live price change notifications for one or more tokens (pro plan)\n - Run an interactive WebSocket REPL to manage subscriptions live (pro plan)\n Trigger on /ave-cloud or any query involving on-chain token data, DEX analytics,",
+  "version": "1.2.0",
+  "author": {
+    "name": "hope-ave"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hope-ave/ave-cloud",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hope-ave/ave-cloud"
+}

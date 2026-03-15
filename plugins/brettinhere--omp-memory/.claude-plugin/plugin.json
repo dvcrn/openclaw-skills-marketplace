@@ -1,0 +1,10 @@
+{
+  "name": "brettinhere--omp-memory",
+  "description": "OpenClaw Memory Protocol (OMP) — store and retrieve encrypted files on BSC blockchain with PoW mining rewards. Use when user wants to store files on-chain, retrieve stored files, check MMP token balance, manage storage rent, or interact with the OMP protocol on BSC mainnet.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brettinhere"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brettinhere/omp-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brettinhere/omp-memory"
+}

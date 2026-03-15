@@ -1,0 +1,10 @@
+{
+  "name": "zjzac--safe-skill",
+  "description": "Programmatic security scanner for AI agent skills. Performs AST analysis, regex pattern matching, Shannon entropy detection, URL/IP extraction, and permission scope inference — with Markdown context awareness to reduce false positives. Use before installing any skill from ClawHub, GitHub, or untrusted sources. Trigger: \"scan this skill\", \"vet this skill\", \"is this skill safe\", \"check skill security\", \"审查这个skill\", \"扫描skill安全性\", \"这个skill安全吗\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "zjzac"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zjzac/safe-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zjzac/safe-skill"
+}

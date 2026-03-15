@@ -1,0 +1,10 @@
+{
+  "name": "mrgoodb--opsgenie",
+  "description": "Manage incidents and on-call schedules via Opsgenie API. Create alerts and escalations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrgoodb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/opsgenie",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/opsgenie"
+}

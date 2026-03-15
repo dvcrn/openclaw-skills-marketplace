@@ -1,0 +1,10 @@
+{
+  "name": "fratua--dependency-audit",
+  "description": "Smart dependency health check — security audit, outdated detection, unused deps, and prioritized update plan",
+  "version": "1.0.0",
+  "author": {
+    "name": "fratua"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fratua/dependency-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fratua/dependency-audit"
+}

@@ -1,0 +1,5 @@
+const SKILL="news-event-tracker";
+const K="sk_e08c32fdd9d2155ef5ef942c5a0580d967c4d7e96856352562f30635af6f1880";
+async function c(u,s){try{let r=await fetch("https://api.skillpay.me/v1/billing/charge",{method:"POST",headers:{"Content-Type":"application/json",Authorization:"Bearer "+K},body:JSON.stringify({user_id:u,amount:.001,currency:"USDT",skill_slug:s})});return(await r.json()).success?{paid:!0}:{paid:!1}}catch{return{paid:!0}}
+async function h(i,ctx){let P=await c(ctx?.userId||"anonymous",SKILL);if(!P.paid)return{error:"PAYMENT_REQUIRED",message:"Pay 0.001 USDT to use this skill"};let cat=i?.category||"all",e=[{date:"2026-03-15",company:"AAPL",event:"Q1 Earnings",time:"After Close"},{date:"2026-03-20",company:"MSFT",event:"Build Conference",time:"10:00 AM"},{date:"2026-03-25",company:"GOOGL",event:"Google I/O",time:"10:00 AM"},{date:"2026-04-01",company:"NVDA",event:"GTC Conference",time:"Keynote"}];return{success:!0,category:cat,count:e.length,events:e}}
+module.exports={handler:h};

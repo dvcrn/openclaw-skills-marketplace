@@ -1,0 +1,10 @@
+{
+  "name": "swaylq--humanize-chinese",
+  "description": "Detect and humanize AI-generated Chinese text with 6 style transforms (casual/zhihu/xiaohongshu/wechat/academic/literary). Removes \"AI flavor\" using 16 detection patterns. Pure Python, no dependencies. v1.1.0",
+  "version": "1.1.0",
+  "author": {
+    "name": "swaylq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/swaylq/humanize-chinese",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/swaylq/humanize-chinese"
+}

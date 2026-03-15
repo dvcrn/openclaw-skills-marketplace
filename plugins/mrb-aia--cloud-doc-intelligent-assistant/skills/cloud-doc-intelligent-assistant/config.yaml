@@ -1,0 +1,40 @@
+# 智能文档助手 - 配置文件
+# 支持 ${ENV_VAR} 和 ${ENV_VAR:default} 语法
+
+# 爬虫配置
+crawler:
+  request_delay: 0.3  # 降低延迟，从 1.0 秒减到 0.3 秒
+  max_retries: 2      # 减少重试次数，从 3 次减到 2 次
+  timeout: 15         # 降低超时时间，从 30 秒减到 15 秒
+
+# 大模型配置（环境变量优先）
+llm:
+  provider: "dashscope"
+  model: "${LLM_MODEL:qwen-turbo}"  # qwen-turbo 速度快，成本低
+  api_key: "${LLM_API_KEY}"  # 必需：通义千问 API Key
+  api_base: "${LLM_API_BASE:https://dashscope.aliyuncs.com/compatible-mode/v1}"
+  max_tokens: 500      # 减少 token 数量，从 1000 减到 500，摘要更简洁
+  temperature: 0.1     # 降低温度，提高生成速度和稳定性
+
+# 存储配置
+storage:
+  type: "sqlite"
+  db_path: "./data/docs.db"
+  keep_versions: 10
+
+# 缓存配置
+cache:
+  enabled: true
+  cache_dir: "./cache"
+  ttl_hours: 24  # 缓存有效期 24 小时
+
+# 日志配置
+logging:
+  level: "INFO"
+  file: "./logs/monitor.log"
+
+# 通知配置
+notifications:
+  - type: "file"
+    enabled: true
+    output_dir: "./notifications"

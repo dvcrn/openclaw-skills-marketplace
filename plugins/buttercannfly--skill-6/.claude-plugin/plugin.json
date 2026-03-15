@@ -1,0 +1,10 @@
+{
+  "name": "buttercannfly--skill-6",
+  "description": "AI-powered browser automation using the AIPex Chrome Extension via MCP bridge. Use this skill when the agent needs to control a Chrome browser — navigating pages, clicking elements, filling forms, capturing screenshots, managing tabs, or downloading content — by connecting to the AIPex MCP bridge.",
+  "version": "0.1.0",
+  "author": {
+    "name": "buttercannfly"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/buttercannfly/skill-6",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/buttercannfly/skill-6"
+}

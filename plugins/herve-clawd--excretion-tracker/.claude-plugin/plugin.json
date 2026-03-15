@@ -1,0 +1,10 @@
+{
+  "name": "herve-clawd--excretion-tracker",
+  "description": "Track bathroom events (pee/poop) via chat: start time, duration, color, pain, and Bristol stool scale. Generates weekly summaries and optional constipation reminders when no poop occurs past a threshold (default 24h, user-configurable). Use for urination/defecation logging, bowel/bladder trends, stool form tracking, diarrhea/constipation monitoring. Search keywords: bathroom tracker, toilet log, BM tracker, stool tracker, poop tracker, pee tracker. Triggers: poop, pee, bowel movement, stool, urination, bathroom log, toilet log, constipation, diarrhea, Bristol, night pee (nocturia).",
+  "version": "0.4.1",
+  "author": {
+    "name": "herve-clawd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/herve-clawd/excretion-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/herve-clawd/excretion-tracker"
+}

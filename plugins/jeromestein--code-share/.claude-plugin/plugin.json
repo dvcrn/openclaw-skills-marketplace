@@ -1,0 +1,10 @@
+{
+  "name": "jeromestein--code-share",
+  "description": "Share code via GitHub Gist instead of inline chat blocks. Use when code output exceeds 10 lines, when the user asks for copy-friendly code sharing in Discord/chat, or when preserving formatting is important.",
+  "version": "0.2.0",
+  "author": {
+    "name": "jeromestein"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jeromestein/code-share",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeromestein/code-share"
+}

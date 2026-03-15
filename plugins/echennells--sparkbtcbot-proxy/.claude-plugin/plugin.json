@@ -1,0 +1,10 @@
+{
+  "name": "echennells--sparkbtcbot-proxy",
+  "description": "Use a Spark Bitcoin L2 wallet proxy for AI agents via HTTP API. Check balances, send payments, create invoices, pay L402 paywalls — all without holding the mnemonic. Use when user mentions \"Spark proxy,\" \"wallet API,\" \"L402,\" \"proxy payment,\" \"bearer token auth,\" or wants secured Bitcoin capabilities for an agent.",
+  "version": "1.1.0",
+  "author": {
+    "name": "echennells"
+  },
+  "homepage": "https://github.com/echennells/sparkbtcbot-proxy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/echennells/sparkbtcbot-proxy"
+}

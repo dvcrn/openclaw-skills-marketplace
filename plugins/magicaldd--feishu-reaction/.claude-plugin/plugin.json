@@ -1,0 +1,10 @@
+{
+  "name": "magicaldd--feishu-reaction",
+  "description": "Add or remove emoji reactions on Feishu (Lark) messages, and respond to user reactions. Use when the user asks to react to a message, add an emoji/expression to a message, when you want to acknowledge a message with a reaction instead of a text reply, or when the user reacts to your message with an emoji. Also enables proactive reactions to incoming messages based on sentiment. Requires Feishu channel configured in OpenClaw with im:message.reactions permission.",
+  "version": "1.1.0",
+  "author": {
+    "name": "magicaldd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/magicaldd/feishu-reaction",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/magicaldd/feishu-reaction"
+}

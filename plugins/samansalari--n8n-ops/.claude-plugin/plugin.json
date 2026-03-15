@@ -1,0 +1,10 @@
+{
+  "name": "samansalari--n8n-ops",
+  "description": "Autonomous n8n workflow automation agent — create, debug, monitor & optimize n8n workflows via natural language using the REST API. Supports AI/LangChain pipelines, execution monitoring, credential management, and health checks.",
+  "version": "1.0.1",
+  "author": {
+    "name": "samansalari"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/samansalari/n8n-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/samansalari/n8n-ops"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xinyuqinfeng--bilibili-cc-to-notion",
+  "description": "将B站视频字幕转换为带截图的Notion学习笔记。\n 当用户需要从B站视频提取字幕、分析内容并创建Notion学习笔记时，必须使用此技能。\n 支持BV号、完整URL输入，自动下载CC字幕，智能处理内容，生成带截图标记的结构化学习笔记。\n 适用于学习、研究、知识整理等场景。",
+  "version": "1.0.2",
+  "author": {
+    "name": "xinyuqinfeng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xinyuqinfeng/bilibili-cc-to-notion",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xinyuqinfeng/bilibili-cc-to-notion"
+}

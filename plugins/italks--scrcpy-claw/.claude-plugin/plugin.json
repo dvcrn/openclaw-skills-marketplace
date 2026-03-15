@@ -1,0 +1,10 @@
+{
+  "name": "italks--scrcpy-claw",
+  "description": "Lobster Android Assistant (龙虾安卓助手) - A comprehensive Android device control skill. Provides touch control, keyboard input, system operations, screen analysis, AI-assisted automation, and script recording/playback through ADB and scrcpy integration. Use this skill when the user wants to control Android devices, automate testing, perform remote control, or build automation workflows. 当用户想要控制安卓设备、自动化测试、远程操作或构建自动化流程时，使用此技能。",
+  "version": "0.1.0",
+  "author": {
+    "name": "italks"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/italks/scrcpy-claw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/italks/scrcpy-claw"
+}

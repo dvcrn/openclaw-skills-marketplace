@@ -1,0 +1,10 @@
+{
+  "name": "yx2601816404-sys--parliament",
+  "description": "Multi-model collaboration skill. Spawns parallel sub-agents using different LLM models to review, analyze, or debate a given task. Collects and synthesizes outputs into a unified report. Use when you need diverse model perspectives on code review, document analysis, decision-making, or any task that benefits from multi-model consensus.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yx2601816404-sys"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yx2601816404-sys/parliament",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yx2601816404-sys/parliament"
+}

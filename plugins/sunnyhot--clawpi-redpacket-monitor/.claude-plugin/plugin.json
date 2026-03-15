@@ -1,0 +1,10 @@
+{
+  "name": "sunnyhot--clawpi-redpacket-monitor",
+  "description": "Automatically monitor and claim ClawPI red packets. Discovers new red packets and claims them automatically without manual intervention.",
+  "version": "1.2.0",
+  "author": {
+    "name": "sunnyhot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunnyhot/clawpi-redpacket-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunnyhot/clawpi-redpacket-monitor"
+}

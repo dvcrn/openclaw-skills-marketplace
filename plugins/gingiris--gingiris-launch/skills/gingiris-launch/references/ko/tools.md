@@ -1,0 +1,50 @@
+# 툴박스
+
+## 리서치 & 분석
+
+| 도구 | 목적 | 링크 |
+|:---|:---|:---|
+| Reddit Pain Points Agent | AI: Reddit 사용자 페인 포인트 분석 | [Leapility](https://leapility.com/share/agent/i-6nto7kumdswl) |
+| Reddit Marketing Agent | AI: Reddit 콘텐츠 전략 생성 | [Leapility](https://leapility.com/share/agent/i-8poxa0f1xq9q) |
+| Vizzylabs | 바이럴 콘텐츠 분석 | [vizzylabs.ai](https://app.vizzylabs.ai/trending) |
+| PH Deck | 매일 PH Featured 제품 | [phdeck.com](https://www.phdeck.com/) |
+| AITDK | SEO 키워드 분석 | [aitdk.com](https://aitdk.com/) |
+
+## KOL & UGC 관리
+
+| 도구 | 목적 | 링크 |
+|:---|:---|:---|
+| EEzycollab | KOL 매칭 & 이메일 | [eezycollab.com](https://www.eezycollab.com/) |
+| Growi | 크리에이터/UGC 관리 | [growi.io](https://www.growi.io/grow) |
+| Magicbrief | KOL/UGC 브리프 작성 | [magicbrief.com](https://magicbrief.com/) |
+
+## 소셜 미디어 자동화
+
+| 도구 | 목적 | 링크 |
+|:---|:---|:---|
+| XAutoDM | Twitter DM 자동화 | [xautodm.com](https://xautodm.com/) |
+| Phantombuster | LinkedIn DM 도구 | [phantombuster.com](https://phantombuster.com/) |
+
+## 링크 트래킹 & 애널리틱스
+
+| 도구 | 목적 | 링크 |
+|:---|:---|:---|
+| Bitly | 단축 링크 | [bitly.com](https://bitly.com) |
+| Mixpanel | 사용자 행동 분석 | [mixpanel.com](https://mixpanel.com/) |
+| PostHog | 오픈소스 분석 | [posthog.com](https://posthog.com/) |
+
+## 코어 플랫폼
+
+| 플랫폼 | 유형 | 핵심 가치 |
+|:---|:---|:---|
+| **Product Hunt** | 런칭 플랫폼 | 최고 품질의 초기 사용자 트래픽 |
+| **웹사이트** | 공식 | 모든 트래픽의 최종 전환 지점 |
+| **GitHub** | 오픈소스 | 개발자 커뮤니티 허브 |
+
+## 소셜 미디어 우선순위
+
+| 플랫폼 | 오디언스 | 우선순위 |
+|:---|:---|:---|
+| Twitter/X | 테크, 개발자, 창업자 | ⭐⭐⭐⭐⭐ |
+| LinkedIn | 프로페셔널, B2B | ⭐⭐⭐⭐ |
+| YouTube | 딥 콘텐츠 소비자 | ⭐⭐⭐⭐ |

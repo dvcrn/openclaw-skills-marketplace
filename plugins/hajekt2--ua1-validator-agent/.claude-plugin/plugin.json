@@ -1,0 +1,10 @@
+{
+  "name": "hajekt2--ua1-validator-agent",
+  "description": "Validate PDFs against PDF/UA-1 using ua1.dev or api.ua1.dev from AI coding agents (OpenClaw, Claude Code, Codex, OpenCode). Use when an agent needs deterministic accessibility checks, compact machine-readable verdicts, CI gating, or structured remediation loops for PDF files.",
+  "version": "0.1.0",
+  "author": {
+    "name": "hajekt2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hajekt2/ua1-validator-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hajekt2/ua1-validator-agent"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "reed1898--bitfinex-lending-monitor",
+  "description": "Monitor Bitfinex lending (funding) performance via API. Use when the user asks to check Bitfinex funding收益/借贷利息, automate daily收益统计, or avoid opening the Bitfinex app for lending status.",
+  "version": "0.1.0",
+  "author": {
+    "name": "reed1898"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/reed1898/bitfinex-lending-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/reed1898/bitfinex-lending-monitor"
+}

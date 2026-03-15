@@ -1,0 +1,10 @@
+{
+  "name": "gongcong--hi-light-openclaw",
+  "description": "以用户可执行的工作流方式安装、配置和排查 HiLight OpenClaw 插件。用户想把 OpenClaw 连接到 HiLight、安装 `@art_style666/hi-light` 插件、把 `channels[\"hi-light\"]` 写入 OpenClaw 配置、更新 HiLight API Key 或 WebSocket 地址、或排查 HiLight 无法连接时使用。 Install, configure, and troubleshoot the HiLight OpenClaw plugin as a user-facing setup workflow. Use when a user wants to connect OpenClaw to HiLight, install `@art_style666/hi-light`, write `channels[\"hi-light\"]` into OpenClaw config, update the HiLight API key or websocket URL, or diagnose why the HiLight channel does not connect.",
+  "version": "1.0.1",
+  "author": {
+    "name": "gongcong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gongcong/hi-light-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gongcong/hi-light-openclaw"
+}

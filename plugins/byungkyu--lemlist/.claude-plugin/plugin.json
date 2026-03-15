@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--lemlist",
+  "description": "Lemlist API integration with managed OAuth. Sales automation and cold outreach platform.\n Use this skill when users want to manage campaigns, leads, activities, schedules, or unsubscribes in Lemlist.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/lemlist",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/lemlist"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ppopen--podcast-manager",
+  "description": "Find, subscribe to, track, and summarize podcast episodes using public RSS feeds and lightweight local tracking files. Use when a user asks to add/manage podcast subscriptions, list new episodes, mark episodes as listened, catch up on a show, or get quick episode summaries/action items.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ppopen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ppopen/podcast-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ppopen/podcast-manager"
+}

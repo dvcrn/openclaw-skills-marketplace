@@ -1,0 +1,10 @@
+{
+  "name": "yuandiaodiaodiao--aster-futures",
+  "description": "Aster Futures request using the Aster API. Authentication uses EIP-712 ECDSA signing with API wallet. Supports mainnet.",
+  "version": "0.1.1",
+  "author": {
+    "name": "yuandiaodiaodiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yuandiaodiaodiao/aster-futures",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yuandiaodiaodiao/aster-futures"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ianwchoi--duckduckgo-websearch",
+  "description": "High-quality web search using DuckDuckGo (Instant Answer + SERP scraping fallback). Use when the user asks to search the web, fetch top results, or summarize web pages. Triggers for: (1) general web queries (news, facts, links), (2) site-specific searches, (3) short summaries of top results. Prefer this skill for private/offline-friendly search without Brave API keys.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ianwchoi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ianwchoi/duckduckgo-websearch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ianwchoi/duckduckgo-websearch"
+}

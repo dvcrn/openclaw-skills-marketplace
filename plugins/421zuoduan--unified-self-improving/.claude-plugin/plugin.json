@@ -1,0 +1,10 @@
+{
+  "name": "421zuoduan--unified-self-improving",
+  "description": "统一自我进化系统，整合 self-improving-agent、self-improving、mulch 三个技能的优势，提供结构化日志、三层存储、自动升级、模式检测、命名空间隔离和 token 高效的 JSONL 格式支持。",
+  "version": "1.0.0",
+  "author": {
+    "name": "421zuoduan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/421zuoduan/unified-self-improving",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/421zuoduan/unified-self-improving"
+}

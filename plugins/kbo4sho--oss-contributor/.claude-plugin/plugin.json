@@ -1,0 +1,10 @@
+{
+  "name": "kbo4sho--oss-contributor",
+  "description": "Discover and resolve open source GitHub issues across community repos during idle time. Finds good-first-issue/help-wanted/documentation issues, forks repos, implements fixes, and opens PRs on your behalf. Use for idle agent contribution, building GitHub profile activity, or community open source work. Usage: /oss-contributor [--repos owner/repo,...] [--labels bug,docs] [--limit 5] [--dry-run] [--auto] [--model sonnet] [--notify-channel -1002381931352]",
+  "version": "1.0.0",
+  "author": {
+    "name": "kbo4sho"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kbo4sho/oss-contributor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kbo4sho/oss-contributor"
+}

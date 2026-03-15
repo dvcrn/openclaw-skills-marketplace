@@ -1,0 +1,10 @@
+{
+  "name": "richagain--wecom-openclaw",
+  "description": "Integrate WeChat Work (Enterprise WeChat) with OpenClaw for intelligent messaging. Enables receiving messages from WeChat Work, processing them with Claude AI, and sending async replies. Handles msg_signature verification, AES-256-CBC encryption/decryption, and secure token-based authentication. Use when setting up bidirectional WeChat Work ↔ OpenClaw communication.",
+  "version": "1.0.0",
+  "author": {
+    "name": "richagain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/richagain/wecom-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/richagain/wecom-openclaw"
+}

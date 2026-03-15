@@ -1,0 +1,10 @@
+{
+  "name": "bryan-cmc--cmc-api-crypto",
+  "description": "API reference for CoinMarketCap cryptocurrency endpoints including quotes, listings, OHLCV, trending, and categories.\n Use this skill whenever the user mentions CMC API, asks how to get crypto data programmatically, wants to build price integrations, or needs REST endpoint documentation. This is the go-to reference for any CMC cryptocurrency API question.\n Trigger: \"CMC API\", \"coinmarketcap api\", \"crypto price API\", \"get bitcoin price via API\", \"/cmc-api-crypto\"",
+  "version": "1.0.3",
+  "author": {
+    "name": "bryan-cmc"
+  },
+  "homepage": "https://github.com/coinmarketcap/skills-for-ai-agents-by-CoinMarketCap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bryan-cmc/cmc-api-crypto"
+}

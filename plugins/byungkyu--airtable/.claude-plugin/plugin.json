@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--airtable",
+  "description": "Airtable API integration with managed OAuth. Manage bases, tables, and records. Use this skill when users want to read, create, update, or delete Airtable records, or query data with filter formulas. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.6",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/airtable",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/airtable"
+}

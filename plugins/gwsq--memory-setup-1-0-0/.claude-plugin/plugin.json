@@ -1,0 +1,10 @@
+{
+  "name": "gwsq--memory-setup-1-0-0",
+  "description": "Enable and configure Moltbot/Clawdbot memory search for persistent context. Use when setting up memory, fixing \"goldfish brain,\" or helping users configure memorySearch in their config. Covers MEMORY.md, daily logs, and vector search setup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gwsq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gwsq/memory-setup-1-0-0",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gwsq/memory-setup-1-0-0"
+}

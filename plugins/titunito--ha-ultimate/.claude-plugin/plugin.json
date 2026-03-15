@@ -1,0 +1,10 @@
+{
+  "name": "titunito--ha-ultimate",
+  "description": "Definitive Home Assistant skill for AI agents. Control 25+ entity domains via REST API with safety enforcement, webhooks, inventory generation, and a full CLI wrapper. Lights, climate, locks, presence, weather, calendars, notifications, TTS, scripts, automations, and more.",
+  "version": "1.0.2",
+  "author": {
+    "name": "titunito"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/titunito/ha-ultimate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/titunito/ha-ultimate"
+}

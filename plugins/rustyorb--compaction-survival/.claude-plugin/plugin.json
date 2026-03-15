@@ -1,0 +1,10 @@
+{
+  "name": "rustyorb--compaction-survival",
+  "description": "Prevent context loss during LLM compaction via Write-Ahead Logging (WAL), Working Buffer, and automatic recovery. Three mechanisms that ensure critical state — decisions, preferences, values, paths — survives when the context window compresses. Always-active behavioral skill, not a one-time tool.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rustyorb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rustyorb/compaction-survival",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rustyorb/compaction-survival"
+}

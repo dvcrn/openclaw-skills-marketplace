@@ -1,0 +1,10 @@
+{
+  "name": "trypto1019--arc-skill-health-monitor",
+  "description": "Monitor deployed skills for performance drift, errors, and unexpected behavior changes. Continuous post-deployment health checks with alerting and trend tracking.",
+  "version": "1.1.0",
+  "author": {
+    "name": "trypto1019"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-skill-health-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-skill-health-monitor"
+}

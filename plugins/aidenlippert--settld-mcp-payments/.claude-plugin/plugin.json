@@ -1,0 +1,10 @@
+{
+  "name": "aidenlippert--settld-mcp-payments",
+  "description": "Connect OpenClaw agents to Settld MCP for paid tool calls with quote-bound authorization and verifiable receipts.",
+  "version": "0.1.0",
+  "author": {
+    "name": "aidenlippert"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aidenlippert/settld-mcp-payments",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aidenlippert/settld-mcp-payments"
+}

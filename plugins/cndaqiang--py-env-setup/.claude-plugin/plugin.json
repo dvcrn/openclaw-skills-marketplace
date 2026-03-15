@@ -1,0 +1,10 @@
+{
+  "name": "cndaqiang--py-env-setup",
+  "description": "Host-specific Python execution guidance for OpenClaw on this machine. Prefer $PYTHON over python/python3 in PATH, because OpenClaw exec runs in a non-interactive shell and may not inherit interactive shell initialization.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cndaqiang"
+  },
+  "homepage": "https://github.com/QAA-Tools/skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cndaqiang/py-env-setup"
+}

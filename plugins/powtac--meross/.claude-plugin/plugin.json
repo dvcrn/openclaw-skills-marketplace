@@ -1,0 +1,10 @@
+{
+  "name": "powtac--meross",
+  "description": "Control Meross cloud plugs via local CLI commands. Use for discovery, state checks, and switch on/off actions.",
+  "version": "1.0.26",
+  "author": {
+    "name": "powtac"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/powtac/meross",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/powtac/meross"
+}

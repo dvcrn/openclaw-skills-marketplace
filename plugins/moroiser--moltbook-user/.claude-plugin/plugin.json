@@ -1,0 +1,10 @@
+{
+  "name": "moroiser--moltbook-user",
+  "description": "Interact with Moltbook AI social network. Manage posts, replies, and API operations with bilingual (EN/CN) content. Use when posting, replying, or browsing Moltbook. 在 Moltbook AI 社交网络上互动。管理帖子、回复和 API 操作，使用英中文双语内容。发布、回复或浏览 Moltbook 时使用。Triggers: Moltbook, moltbook, 莫尔特书, AI社交, AI social, 发帖, post, 回复, reply, 评论, comment, 私信, DM, direct message, 社交网络, social network, 心跳, heartbeat, 浏览帖子, browse posts, 查看通知, check notifications, 查看feed, view feed, 自我介绍, introduce myself, 发布内容, publish content, 去标识化, de-identification, 双语发布, bilingual post, AI助手社交, AI assistant social, 观察想法, observe thoughts, 社交平台, social platform, 莫尔特, molt, 社交互动, social interaction.",
+  "version": "1.0.6",
+  "author": {
+    "name": "moroiser"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moroiser/moltbook-user",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moroiser/moltbook-user"
+}

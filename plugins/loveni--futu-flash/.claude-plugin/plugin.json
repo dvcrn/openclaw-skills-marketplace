@@ -1,0 +1,10 @@
+{
+  "name": "loveni--futu-flash",
+  "description": "抓取富途官网资讯「快讯」频道最新消息。用于用户要求“去富途快讯找最新N条（最多10条）”、“更新快讯”、“滚动刷新快讯”等场景；通过富途接口 /news-site-api/main/get-flash-list 获取并格式化返回。",
+  "version": "1.0.0",
+  "author": {
+    "name": "loveni"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/loveni/futu-flash",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/loveni/futu-flash"
+}

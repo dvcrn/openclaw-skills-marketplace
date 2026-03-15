@@ -1,0 +1,10 @@
+{
+  "name": "zh1fen--rdkx5-app-resources",
+  "description": "Access to RDK X5 /app folder resources including GPIO, multimedia, AI samples. Invoke when user wants to run embedded demos or control hardware on RDK X5.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zh1fen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zh1fen/rdkx5-app-resources",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zh1fen/rdkx5-app-resources"
+}

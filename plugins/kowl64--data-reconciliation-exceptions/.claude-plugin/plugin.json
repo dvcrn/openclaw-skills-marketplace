@@ -1,0 +1,10 @@
+{
+  "name": "kowl64--data-reconciliation-exceptions",
+  "description": "Reconciles data sources using stable identifiers (Pay Number, driving licence, driver card, and driver qualification card numbers), producing exception reports and “no silent failure” checks. Use when you need weekly matching with explicit reasons for non-joins and mismatches.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kowl64"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kowl64/data-reconciliation-exceptions",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kowl64/data-reconciliation-exceptions"
+}

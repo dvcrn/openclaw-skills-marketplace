@@ -1,0 +1,10 @@
+{
+  "name": "ijaack--whoop-tracker",
+  "description": "Access WHOOP fitness tracker data via API, including recovery scores, sleep metrics, workout stats, daily strain, and body measurements. Use when the user asks about their WHOOP data, fitness metrics, recovery status, sleep quality, workout performance, or wants to track health trends.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ijaack"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ijaack/whoop-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ijaack/whoop-tracker"
+}

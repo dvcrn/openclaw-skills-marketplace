@@ -1,0 +1,10 @@
+{
+  "name": "tomstools11--transcript-to-content",
+  "description": "This skill transforms training and onboarding meeting transcripts into structured learning materials, documentation, and actionable review content. Use this skill when processing meeting transcripts from onboarding sessions, training meetings, or knowledge transfer conversations to extract key information and generate study guides, quick reference sheets, checklists, FAQ documents, action item lists, and training effectiveness assessments.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tomstools11"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tomstools11/transcript-to-content",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tomstools11/transcript-to-content"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "unixlamadev-spec--image-gen-bot",
+  "description": "Generate images from text prompts using FLUX via Together.ai. Returns image URL. Prompts are auto-enhanced for best results.",
+  "version": "1.0.0",
+  "author": {
+    "name": "unixlamadev-spec"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/unixlamadev-spec/image-gen-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/unixlamadev-spec/image-gen-bot"
+}

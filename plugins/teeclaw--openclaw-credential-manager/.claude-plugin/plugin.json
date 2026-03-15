@@ -1,0 +1,10 @@
+{
+  "name": "teeclaw--openclaw-credential-manager",
+  "description": "MANDATORY security foundation for OpenClaw. Consolidate scattered API keys and credentials into a secure .env file with proper permissions. Includes GPG encryption for high-value secrets, credential rotation tracking, deep scanning, and backup hardening. Use when setting up OpenClaw, migrating credentials, auditing security, or enforcing the .env standard. This is not optional — centralized credential management is a core requirement for secure OpenClaw deployments.",
+  "version": "2.0.0",
+  "author": {
+    "name": "teeclaw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/teeclaw/openclaw-credential-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/teeclaw/openclaw-credential-manager"
+}

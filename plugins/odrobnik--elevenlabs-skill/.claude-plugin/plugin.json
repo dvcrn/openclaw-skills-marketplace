@@ -1,0 +1,10 @@
+{
+  "name": "odrobnik--elevenlabs-skill",
+  "description": "Text-to-speech, sound effects, music generation, voice management, and quota checks via the ElevenLabs API. Use when generating audio with ElevenLabs or managing voices.",
+  "version": "1.0.0",
+  "author": {
+    "name": "odrobnik"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/elevenlabs-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/elevenlabs-skill"
+}

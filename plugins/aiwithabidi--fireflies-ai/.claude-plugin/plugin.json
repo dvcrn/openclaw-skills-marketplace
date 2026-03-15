@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--fireflies-ai",
+  "description": "Fireflies.ai meeting intelligence — search meetings, get transcripts, action items, summaries, attendee info, and contacts via GraphQL API. No data storage; queries Fireflies servers directly. Use for meeting search, transcript lookup, action item extraction, meeting summaries, attendee lookup, and AI meeting notes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/fireflies-ai"
+}

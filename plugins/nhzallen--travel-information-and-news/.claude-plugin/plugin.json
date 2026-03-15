@@ -1,0 +1,10 @@
+{
+  "name": "nhzallen--travel-information-and-news",
+  "description": "Search and aggregate travel news, information, and reviews from multiple sources. Designed for travel planning professionals, travel agents, tour operators, and travel content creators. Use when user asks about travel destinations, tourism news, hotel/attraction reviews, travel tips, visa/policy updates, or anything travel-related. Supports Tavily (required), Brave Search (optional), and browser-based scraping (optional) for sites like Xiaohongshu and X/Twitter.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nhzallen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nhzallen/travel-information-and-news",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nhzallen/travel-information-and-news"
+}

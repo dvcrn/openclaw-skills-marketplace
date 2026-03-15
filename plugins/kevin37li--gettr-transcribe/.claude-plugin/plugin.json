@@ -1,0 +1,10 @@
+{
+  "name": "kevin37li--gettr-transcribe",
+  "description": "Download audio from a GETTR post or streaming page and transcribe it locally with MLX Whisper on Apple Silicon (with timestamps via VTT). Use when given a GETTR URL and asked to produce a transcript. Summarization is handled by the caller.",
+  "version": "1.0.1",
+  "author": {
+    "name": "kevin37li"
+  },
+  "homepage": "https://gettr.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kevin37li/gettr-transcribe"
+}

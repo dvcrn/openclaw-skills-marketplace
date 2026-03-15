@@ -1,0 +1,10 @@
+{
+  "name": "project820--bizcard",
+  "description": "Business card scanner + Google Contacts manager. Auto-detects business card images,\n extracts contact info via OCR (imageModel),\n confirms with user, saves to Google Contacts with configurable name format and card photo.\n Trigger: image that looks like a business card, or keywords \"명함\", \"bizcard\", \"연락처 저장\".\n Settings: /bizcard config",
+  "version": "0.1.2",
+  "author": {
+    "name": "project820"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/project820/bizcard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/project820/bizcard"
+}

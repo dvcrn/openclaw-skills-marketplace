@@ -1,0 +1,10 @@
+{
+  "name": "sanduan003--stock-monitor-hkus",
+  "description": "港股/美股/加密货币实时监控。使用 Yahoo Finance (yfinance) 获取实时价格、技术指标监控。支持自定义股票池、涨跌提醒、均线/RSI/MACD信号。",
+  "version": "1.1.0",
+  "author": {
+    "name": "sanduan003"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sanduan003/stock-monitor-hkus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sanduan003/stock-monitor-hkus"
+}

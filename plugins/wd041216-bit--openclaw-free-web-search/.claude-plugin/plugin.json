@@ -1,0 +1,10 @@
+{
+  "name": "wd041216-bit--openclaw-free-web-search",
+  "description": "Free, private, real-time web search for OpenClaw — zero API keys required. Powered by self-hosted SearXNG + Scrapling anti-bot engine. Multi-engine parallel search (Bing/DuckDuckGo/Google/Startpage/Qwant), intent-aware Agent Reach query expansion, three-tier Browse/Viewing (Fetcher → StealthyFetcher → DynamicFetcher for Cloudflare/JS sites), cross-engine anti-hallucination validation, and automatic public fallback.",
+  "version": "4.0.0",
+  "author": {
+    "name": "wd041216-bit"
+  },
+  "homepage": "https://github.com/wd041216-bit/openclaw-free-web-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wd041216-bit/openclaw-free-web-search"
+}

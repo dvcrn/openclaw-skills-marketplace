@@ -1,0 +1,10 @@
+{
+  "name": "yedanyagamiai-cmd--openclaw-json-toolkit",
+  "description": "Enterprise-grade JSON processing suite — format, validate, deep-diff, JSONPath query, structural transform, and schema generation in one MCP server. Use when: (1) user says 'format this JSON' or 'pretty print this', (2) user asks 'validate my JSON' or 'is this valid JSON', (3) user needs to 'compare two JSON objects' or 'diff these configs', (4) user wants to 'query nested JSON' or 'extract with JSONPath', (5) user requests 'flatten JSON' or 'generate JSON Schema'. Supports draft-07 schema, recursive flatten, wildcard queries, filter expressions, array slicing. Zero install, sub-100ms on Cloudflare Workers. Free + Pro $9/mo.",
+  "version": "2.0.0",
+  "author": {
+    "name": "yedanyagamiai-cmd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yedanyagamiai-cmd/openclaw-json-toolkit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yedanyagamiai-cmd/openclaw-json-toolkit"
+}

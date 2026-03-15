@@ -1,0 +1,10 @@
+{
+  "name": "haiyang0932--stock-sentiment",
+  "description": "Stock sentiment analysis and financial data for US equity research. Analyze multi-engine AI sentiment (Grok, DeepSeek, GPT-5), earnings call transcripts, social media sentiment, news insights, FRED macro indicators, and OHLCV prices for 2000+ stocks. Use when researching stocks, checking sentiment, analyzing filings, or exploring market data.",
+  "version": "1.1.2",
+  "author": {
+    "name": "haiyang0932"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/haiyang0932/stock-sentiment",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/haiyang0932/stock-sentiment"
+}

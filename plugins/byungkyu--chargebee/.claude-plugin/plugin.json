@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--chargebee",
+  "description": "Chargebee API integration with managed OAuth. Manage subscriptions, customers, invoices, and hosted checkout pages. Use this skill when users want to interact with Chargebee billing data. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.5",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/chargebee",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/chargebee"
+}

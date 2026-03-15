@@ -1,0 +1,10 @@
+{
+  "name": "alfathsyahrian--idx-scalper",
+  "description": "Use when user needs scalping or day trading analysis for IDX (Bursa Efek Indonesia) stocks. Provides entry points, cut loss levels, and target sell with focus on momentum trading, volume analysis, and short-term timeframes (M5, M15). Requires Stockbit data (OHLC, volume, screenshots) before analysis. Triggered by: scalping requests, day trading analysis, momentum trading questions, or IDX stock entry/exit recommendations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "alfathsyahrian"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alfathsyahrian/idx-scalper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alfathsyahrian/idx-scalper"
+}

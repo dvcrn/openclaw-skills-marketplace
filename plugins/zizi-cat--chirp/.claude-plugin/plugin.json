@@ -1,0 +1,10 @@
+{
+  "name": "zizi-cat--chirp",
+  "description": "X/Twitter CLI using OpenClaw browser tool. Use when the user wants to interact with X/Twitter: reading timeline, posting tweets, liking, retweeting, replying, or searching. Alternative to bird CLI for environments without Homebrew.",
+  "version": "1.0.1",
+  "author": {
+    "name": "zizi-cat"
+  },
+  "homepage": "https://github.com/zizi-cat/chirp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zizi-cat/chirp"
+}

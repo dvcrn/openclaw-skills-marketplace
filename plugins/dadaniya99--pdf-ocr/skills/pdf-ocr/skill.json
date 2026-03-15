@@ -1,0 +1,7 @@
+{
+  "name": "pdf-ocr",
+  "version": "1.0.0",
+  "description": "PDF扫描件转Word文档。支持中文OCR识别，自动裁掉页眉页脚，保留插图，彩色章节封面页保留为图片。使用百度OCR API（免费额度1000次/月）。当用户要求把扫描PDF转成文字/Word时触发。",
+  "author": "Xiaolongxia_MaoNB",
+  "license": "MIT"
+}

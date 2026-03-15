@@ -1,0 +1,10 @@
+{
+  "name": "ivanmmm--preflight-checks",
+  "description": "Test-driven behavioral verification for AI agents. Catches silent degradation when agent loads memory but doesn't apply learned behaviors. Use when building agent with persistent memory, testing after updates, or ensuring behavioral consistency across sessions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ivanmmm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ivanmmm/preflight-checks",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivanmmm/preflight-checks"
+}

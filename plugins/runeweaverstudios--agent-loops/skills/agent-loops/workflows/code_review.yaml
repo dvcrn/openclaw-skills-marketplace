@@ -1,0 +1,18 @@
+# Code review: Review + Security audit (parallel) -> Summary
+id: code_review
+name: Code Review
+description: Parallel code review and security audit, then a unified summary.
+steps:
+  - id: review_group
+    parallel:
+      - id: review
+        agent: reviewer
+        task_template: "Review this code for bugs, logic errors, performance issues, and style problems. Provide actionable feedback with severity levels:\n\n{{ user_input }}"
+
+      - id: security
+        agent: reviewer
+        task_template: "Perform a security audit of this code. Check for injection vulnerabilities, auth issues, data exposure, and OWASP top 10 risks:\n\n{{ user_input }}"
+
+  - id: summary
+    agent: editor
+    task_template: "Synthesize these review findings into a single, prioritized action list. Group by severity (critical/high/medium/low):\n\nCode Review:\n{{ review_output }}\n\nSecurity Audit:\n{{ security_output }}"

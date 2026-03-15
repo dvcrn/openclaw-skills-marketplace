@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--netlify-api",
+  "description": "Netlify API integration with managed OAuth. Deploy sites, manage builds, configure DNS, and handle environment variables.\n Use this skill when users want to manage Netlify sites, deployments, build settings, or DNS configurations.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.2",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/netlify-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/netlify-api"
+}

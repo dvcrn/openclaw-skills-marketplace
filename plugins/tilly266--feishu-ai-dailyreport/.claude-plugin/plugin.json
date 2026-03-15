@@ -1,0 +1,10 @@
+{
+  "name": "tilly266--feishu-ai-dailyreport",
+  "description": "生成飞书AI助手团队工作日报。每天自动收集团队成员的工作内容，整理成日报，保存文件并发送到飞书。触发场景：用户说\"生成日报\"、\"整理日报\"、\"工作日报\"等；定时任务（每天18点）调用。重要：必须严格按照模板格式输出，不得更改格式。",
+  "version": "1.1.0",
+  "author": {
+    "name": "tilly266"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tilly266/feishu-ai-dailyreport",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tilly266/feishu-ai-dailyreport"
+}

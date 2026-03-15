@@ -1,0 +1,10 @@
+{
+  "name": "levineam--levineam-context-engineering",
+  "description": "Comprehensive context engineering guidance for AI agent systems. Routes to specialized sub-skills for production agent work. Use when the user asks to: \"optimize context\", \"reduce token costs\", \"context compression\", \"summarize conversation history\", \"design multi-agent system\", \"implement supervisor pattern\", \"create swarm architecture\", \"implement memory\", \"build memory system\", \"offload context to files\", \"use filesystem for agent memory\", \"debug agent failure\", \"diagnose context problems\", \"fix lost-in-middle\", \"build agent tools\", \"design agent tools\", \"evaluate agent performance\", \"build test framework\", \"implement LLM-as-judge\", \"understand context\", \"explain context windows\", \"build background agent\", \"implement BDI architecture\", \"start an LLM project\", or any discussion of context degradation, attention patterns, multi-agent coordination, or production agent architecture.",
+  "version": "1.0.0",
+  "author": {
+    "name": "levineam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/levineam/levineam-context-engineering",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/levineam/levineam-context-engineering"
+}

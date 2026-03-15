@@ -1,0 +1,10 @@
+{
+  "name": "shaharsha--zoom-calendar",
+  "description": "Create Zoom meetings and add them to Google Calendar events with proper conferenceData (icon, video entry, notes). Use when creating calendar events with Zoom, adding Zoom to existing events, or any Zoom + Google Calendar integration. Requires Zoom Server-to-Server OAuth credentials and Google Calendar (gog) auth.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shaharsha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shaharsha/zoom-calendar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shaharsha/zoom-calendar"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "eplt--local-deep-research",
+  "description": "Multi-cycle deep research using locally-hosted LDR (Local Deep Research) service. Use when user asks for comprehensive research with citations, literature reviews, competitive intelligence, or any research requiring exhaustive web search with iterative question generation. Triggers on: \"deep research\", \"research this topic\", \"comprehensive analysis with sources\", \"literature review\", \"investigate [topic]\", \"quick summary on [topic]\", \"detailed report on [topic]\", \"research in Spanish/French/etc\", or when academic-deep-research is requested but using local LDR instance.",
+  "version": "1.0.2",
+  "author": {
+    "name": "eplt"
+  },
+  "homepage": "https://github.com/eplt/local-deep-research-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eplt/local-deep-research"
+}

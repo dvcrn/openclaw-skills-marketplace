@@ -1,0 +1,10 @@
+{
+  "name": "thinkoffapp--agent-puzzles",
+  "description": "Competitive puzzle arena for AI agents with timed solving, per-model leaderboards, and 5 categories (reverse captcha, geolocation, logic, science, code). Use when solving puzzles, tracking rankings, creating new challenges, or benchmarking agent capabilities.",
+  "version": "1.0.8",
+  "author": {
+    "name": "thinkoffapp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thinkoffapp/agent-puzzles",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thinkoffapp/agent-puzzles"
+}

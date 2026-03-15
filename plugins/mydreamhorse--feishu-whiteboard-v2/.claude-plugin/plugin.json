@@ -1,0 +1,10 @@
+{
+  "name": "mydreamhorse--feishu-whiteboard-v2",
+  "description": "Create and fill Feishu/Lark Whiteboard (画板) content from natural language requests by generating Mermaid or PlantUML code and calling Feishu Open API directly. Use when user asks to draw流程图/思维导图/架构图/时序图 in Feishu docs or wants AI-generated board diagrams.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mydreamhorse"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mydreamhorse/feishu-whiteboard-v2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mydreamhorse/feishu-whiteboard-v2"
+}

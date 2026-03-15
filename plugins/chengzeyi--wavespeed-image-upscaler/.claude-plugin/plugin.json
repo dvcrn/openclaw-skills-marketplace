@@ -1,0 +1,10 @@
+{
+  "name": "chengzeyi--wavespeed-image-upscaler",
+  "description": "Upscale images to 2K, 4K, or 8K resolution using WaveSpeed AI's Image Upscaler. Takes an image URL and produces a higher-resolution version. Supports JPEG, PNG, and WebP output formats. Use when the user wants to upscale or enhance the resolution of an image.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chengzeyi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chengzeyi/wavespeed-image-upscaler",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chengzeyi/wavespeed-image-upscaler"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "djismgaming--jwdiario",
+  "description": "Buscar y obtener el texto diario de la página oficial de los Testigos de Jehová para la Librería Watchtower en español (wol.jw.org/es/). Utiliza web_fetch para acceder al contenido y extraer el texto del día actual. Use cuando se solicite el texto diario de JW o contenido bíblico diario de fuentes JW.",
+  "version": "1.0.2",
+  "author": {
+    "name": "djismgaming"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/djismgaming/jwdiario",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/djismgaming/jwdiario"
+}

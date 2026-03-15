@@ -1,0 +1,10 @@
+{
+  "name": "mhmalvi--appointment-booking-system",
+  "description": "Generic appointment booking and management system for service businesses. Booking intake, confirmation, automated reminders (24h, 2h), no-show followup, and daily schedule reports. 5 production-ready n8n workflows with Google Sheets backend.",
+  "version": "1.0.1",
+  "author": {
+    "name": "mhmalvi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mhmalvi/appointment-booking-system",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mhmalvi/appointment-booking-system"
+}

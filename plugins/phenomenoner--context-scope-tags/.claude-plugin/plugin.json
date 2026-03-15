@@ -1,0 +1,10 @@
+{
+  "name": "phenomenoner--context-scope-tags",
+  "description": "Use when: you chat across topics and want explicit boundaries to prevent topic bleed.\n Tags: [ISO], [SCOPE], [GLOBAL], [NOMEM], [REM]. (Memory tags are signals; persistence depends on your agent's memory backend.)\n Don't use when: you prefer free-form conversation where prior context carries over automatically.\n Output: a copy/paste tag cheat sheet + routing rules for how to treat the current message.",
+  "version": "0.2.0",
+  "author": {
+    "name": "phenomenoner"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phenomenoner/context-scope-tags",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phenomenoner/context-scope-tags"
+}

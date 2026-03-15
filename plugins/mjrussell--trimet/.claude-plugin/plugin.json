@@ -1,0 +1,10 @@
+{
+  "name": "mjrussell--trimet",
+  "description": "Get Portland transit information including arrivals, trip planning, and alerts. Use when user asks about buses, MAX, trains, or transit in Portland.",
+  "version": "0.1.0",
+  "author": {
+    "name": "mjrussell"
+  },
+  "homepage": "https://trimet.org",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mjrussell/trimet"
+}

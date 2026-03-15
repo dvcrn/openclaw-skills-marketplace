@@ -1,0 +1,10 @@
+{
+  "name": "vishalgojha--lead-storage",
+  "description": "Persist validated lead objects through write-only storage operations after Supervisor provides explicit confirmation. Use when users ask to save approved leads to Google Sheets or DB, including normalized location and priority fields. Recommended chain end: supervisor confirmation then lead-storage. Do not use for parsing, extraction, analytics, or action recommendation.",
+  "version": "1.0.6",
+  "author": {
+    "name": "vishalgojha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vishalgojha/lead-storage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vishalgojha/lead-storage"
+}

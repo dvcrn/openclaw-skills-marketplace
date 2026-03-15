@@ -1,0 +1,10 @@
+{
+  "name": "mhmalvi--ai-seo-content-engine",
+  "description": "Automated SEO content generator that schedules daily SaaS review articles using OpenAI GPT-4o, publishes to a Hugo blog via API, and tracks output in Google Sheets. Supports 18 SaaS categories and 4 content types.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mhmalvi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mhmalvi/ai-seo-content-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mhmalvi/ai-seo-content-engine"
+}

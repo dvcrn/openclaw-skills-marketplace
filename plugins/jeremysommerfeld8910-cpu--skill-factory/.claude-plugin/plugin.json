@@ -1,0 +1,10 @@
+{
+  "name": "jeremysommerfeld8910-cpu--skill-factory",
+  "description": "Create, evaluate, improve, benchmark, and publish OpenClaw skills. Use when building a new skill from scratch, iterating on an existing skill, running evals to measure quality, comparing skill versions, or analyzing patterns across installed skills to synthesize new ones. Triggers on: 'create a skill', 'build a skill', 'make a skill', 'eval this skill', 'improve this skill', 'benchmark skill versions', 'analyze skill patterns', 'synthesize skill from patterns', 'package skill', 'publish skill'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jeremysommerfeld8910-cpu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jeremysommerfeld8910-cpu/skill-factory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeremysommerfeld8910-cpu/skill-factory"
+}

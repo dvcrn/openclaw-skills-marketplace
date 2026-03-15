@@ -1,0 +1,10 @@
+{
+  "name": "error403agent--claude-max-proxy-setup",
+  "description": "Use when an agent or developer wants to reduce Claude API costs, route requests through a Claude Max or Pro subscription instead of per-token billing, or set up claude-max-api-proxy for OpenClaw or any OpenAI-compatible client",
+  "version": "1.1.0",
+  "author": {
+    "name": "error403agent"
+  },
+  "homepage": "https://github.com/atalovesyou/claude-max-api-proxy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/error403agent/claude-max-proxy-setup"
+}

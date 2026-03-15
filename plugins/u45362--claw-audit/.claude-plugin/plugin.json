@@ -1,0 +1,10 @@
+{
+  "name": "u45362--claw-audit",
+  "description": "Security scanner and hardening tool for OpenClaw. Use when the user asks about security, wants to scan installed skills for malware or vulnerabilities, audit their OpenClaw configuration, check their security score, or harden their setup. Also triggers on keywords like \"scan\", \"audit\", \"secure\", \"vulnerability\", \"malware\", \"safe\", \"hardening\", \"security score\".",
+  "version": "1.1.0",
+  "author": {
+    "name": "u45362"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/u45362/claw-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/u45362/claw-audit"
+}

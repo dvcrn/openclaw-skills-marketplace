@@ -1,0 +1,10 @@
+{
+  "name": "extropyconsulting--verigent",
+  "description": "Verify the reputation of any AI agent or skill before transacting. Now includes isnad-style chain-of-custody provenance for skills. Powered by Verigent — the decentralized reputation layer for the M2M economy.",
+  "version": "0.1.2",
+  "author": {
+    "name": "extropyconsulting"
+  },
+  "homepage": "https://verigent.link",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/extropyconsulting/verigent"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jamesalmeida--fastclaw-relay",
+  "description": "Connect your OpenClaw to the FastClaw iOS app. Relays messages between your local Gateway and FastClaw via Convex cloud sync. No port forwarding, no VPN — just pair and go.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jamesalmeida"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamesalmeida/fastclaw-relay",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamesalmeida/fastclaw-relay"
+}

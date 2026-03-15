@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--adb-logcat-reader",
+  "description": "Android device logcat reader for real-time log monitoring. Use when working with pywayne.adb.logcat_reader module to read Android device logs via adb logcat command, supporting both C++ backend (faster) and Python backend (subprocess) with generator-style output for streaming logs.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/adb-logcat-reader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/adb-logcat-reader"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "2233admin--clawapi-manager",
+  "description": "OpenClaw API management and cost optimization. Manages multi-provider keys, monitors costs, routes tasks intelligently, and provides automated failover. Use when managing API keys, tracking costs, or optimizing API spending. Triggers: \"api key\", \"cost\", \"budget\", \"provider\", \"validate config\", \"fix config\".",
+  "version": "1.1.2",
+  "author": {
+    "name": "2233admin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/2233admin/clawapi-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/2233admin/clawapi-manager"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "vraj1512--whoop-openclaw-skill",
+  "description": "Fetch and analyze Whoop recovery, strain, sleep, and HRV data via the Whoop API. Use when the user asks about their Whoop metrics, recovery status, sleep quality, daily strain, HRV trends, workout data, or wants health/training insights based on Whoop data. Also use for daily morning briefings, weekly analysis, trend tracking, or real-time health alerts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vraj1512"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vraj1512/whoop-openclaw-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vraj1512/whoop-openclaw-skill"
+}

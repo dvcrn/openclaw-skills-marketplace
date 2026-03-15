@@ -1,0 +1,10 @@
+{
+  "name": "wpank--track-performance",
+  "description": "Track the performance of Uniswap LP positions over time — check which positions need attention, are out of range, or have uncollected fees. Use when the user asks how their positions are doing.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/track-performance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/track-performance"
+}

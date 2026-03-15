@@ -1,0 +1,10 @@
+{
+  "name": "whbzju--openclaw-weshopai-aiphotoshoot",
+  "description": "Project-specific guidance for building a persistent girlfriend selfie workflow on top of WeShop image agents. Use when the user needs to set up a girlfriend identity from face photos, store default outfits/scenes, generate later selfies/photoshoots with WeShop `virtualtryon`, or edit an existing image with WeShop `change-pose`.",
+  "version": "1.0.0",
+  "author": {
+    "name": "whbzju"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/whbzju/openclaw-weshopai-aiphotoshoot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/whbzju/openclaw-weshopai-aiphotoshoot"
+}

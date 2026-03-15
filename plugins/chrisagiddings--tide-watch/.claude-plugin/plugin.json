@@ -1,0 +1,10 @@
+{
+  "name": "chrisagiddings--tide-watch",
+  "description": "Proactive session capacity monitoring and management for OpenClaw. Prevents context window lockups by warning at configurable thresholds (75%, 85%, 90%, 95%), automatically backing up sessions before resets, and managing session resumption prompts. Use when working on long-running projects, managing multiple conversation channels (Discord, Telegram, webchat), or preventing lost work from full context windows. Includes CLI tools for capacity checks, cross-session dashboards, archive management, and session resumption. Supports any model or provider.",
+  "version": "1.3.6",
+  "author": {
+    "name": "chrisagiddings"
+  },
+  "homepage": "https://github.com/chrisagiddings/openclaw-tide-watch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chrisagiddings/tide-watch"
+}

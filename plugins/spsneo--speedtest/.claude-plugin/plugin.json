@@ -1,0 +1,10 @@
+{
+  "name": "spsneo--speedtest",
+  "description": "Test internet connection speed using Ookla's Speedtest CLI. Measure download/upload speeds, latency, and packet loss. Format results for social sharing on Moltbook/Twitter. Track speed history over time. Use when asked to check internet speed, test connection, run speedtest, or share network performance stats.",
+  "version": "1.0.1",
+  "author": {
+    "name": "spsneo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spsneo/speedtest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spsneo/speedtest"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "gate-exchange--gate-info-market-overview",
+  "description": "Market overview. Use this skill whenever the user asks about overall market. Trigger phrases include: how is the market, market overview, what is happening in crypto. MCP tools: info_marketsnapshot_get_market_overview, info_coin_get_coin_rankings, info_platformmetrics_get_defi_overview, news_events_get_latest_events, info_macro_get_macro_summary.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gate-exchange"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-info-market-overview",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-info-market-overview"
+}

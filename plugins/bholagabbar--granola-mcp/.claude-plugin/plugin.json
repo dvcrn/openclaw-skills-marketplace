@@ -1,0 +1,10 @@
+{
+  "name": "bholagabbar--granola-mcp",
+  "description": "Access Granola AI meeting notes via MCP (mcporter). Query meetings, list by date range, get full details, and pull verbatim transcripts. Use when the user asks about meeting notes, what was discussed, action items, decisions, or anything from their meetings. Also handles OAuth token refresh when calls fail with auth errors.",
+  "version": "1.1.0",
+  "author": {
+    "name": "bholagabbar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bholagabbar/granola-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bholagabbar/granola-mcp"
+}

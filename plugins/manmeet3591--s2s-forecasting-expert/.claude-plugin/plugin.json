@@ -1,0 +1,10 @@
+{
+  "name": "manmeet3591--s2s-forecasting-expert",
+  "description": "End-to-end builder for AI-based Subseasonal-to-Seasonal (S2S) forecasting systems. Generates runnable PyTorch code for FuXi-style, FengWu-style, and AIFS-inspired models including CRPS-based probabilistic training.",
+  "version": "1.0.1",
+  "author": {
+    "name": "manmeet3591"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/manmeet3591/s2s-forecasting-expert",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/manmeet3591/s2s-forecasting-expert"
+}

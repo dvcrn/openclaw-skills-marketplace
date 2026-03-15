@@ -1,0 +1,10 @@
+{
+  "name": "calvinxhk--botlearn-doctor",
+  "description": "Autonomously inspects a live OpenClaw instance across 5 health domains (hardware, config, security, skills, autonomy) and delivers a quantified traffic-light report with actionable fix guidance.",
+  "version": "1.0.2",
+  "author": {
+    "name": "calvinxhk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/calvinxhk/botlearn-doctor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/calvinxhk/botlearn-doctor"
+}

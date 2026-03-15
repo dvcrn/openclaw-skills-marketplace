@@ -1,0 +1,10 @@
+{
+  "name": "linkecoding--perfetto-analyse",
+  "description": "Captures and analyzes Android Perfetto traces via CLI and config files. Covers trace collection (CPU, GPU, memory, rendering, power), editing TraceConfig (.pbtx), and analyzing jank, latency, overdraw, and power. Trace query can be done in Perfetto UI or via trace_processor command-line tool (PerfettoSQL). Use when working with Perfetto, systrace, Android performance, trace configs, or analyzing .perfetto-trace files.",
+  "version": "1.0.0",
+  "author": {
+    "name": "linkecoding"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/linkecoding/perfetto-analyse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/linkecoding/perfetto-analyse"
+}

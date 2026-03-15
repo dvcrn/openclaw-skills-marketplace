@@ -1,0 +1,24 @@
+#BJ|# skill.yaml
+#SB|name: binance-copy-trading
+#VK|slug: binance-copy-trading
+#HY|version: 1.0.0
+#WZ|author: moson
+#VX|description: 复制成功交易者的仓位。每次调用自动扣费 0.001 USDT
+#RX|license: MIT
+#TS|tags:
+#JM|  - binance
+#BR|  - copy
+#YS|  - trading
+#PR|permissions:
+#WZ|  - network
+#RZ|config:
+#QW|  SKILLPAY_API_KEY:
+#PJ|    type: string
+#ZZ|    required: true
+#PM|    secret: true
+#VW|entryPoint:
+#SZ|  type: typescript
+#ZK|  path: index.js
+#KX|price:
+#VV|  amount: 0.001
+#RV|  currency: USDT

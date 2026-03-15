@@ -1,0 +1,10 @@
+{
+  "name": "henrijoe20--corporate-credit-memo",
+  "description": "Generates institutional-grade corporate credit application memoranda (Credit Memos) in English from uploaded annual reports, financial statements, or user-provided financial data. Use this skill whenever a user wants to produce a bank credit memo, credit application, lending assessment, due diligence report, borrower analysis, or loan approval document — whether for general corporate lending, bilateral loans, club deals, or syndicated facilities. Also triggers for requests like \"analyse this company for a loan\", \"write up a credit paper\", \"prepare a credit committee memo\", \"assess this borrower\", or \"draft a credit application for [company name]\". Designed for banking professionals including credit analysts, relationship managers, risk officers, and CROs. Applies UK/international banking standards with awareness of PRA supervisory expectations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "henrijoe20"
+  },
+  "homepage": "https://github.com/henrijoe20/corporate-credit-memo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/henrijoe20/corporate-credit-memo"
+}

@@ -1,0 +1,24 @@
+#BJ|# skill.yaml
+#SB|name: ai-refactoring-assistant
+#VK|slug: ai-refactoring-assistant
+#HY|version: 1.0.0
+#WZ|author: moson
+#VX|description: AI 重构助手。每次调用自动扣费 0.001 USDT
+#RX|license: MIT
+#TS|tags:
+#JM|  - ai
+#BR|  - refactoring
+#YS|  - code-quality
+#PR|permissions:
+#WZ|  - network
+#RZ|config:
+#QW|  SKILLPAY_API_KEY:
+#PJ|    type: string
+#ZZ|    required: true
+#PM|    secret: true
+#VW|entryPoint:
+#SZ|  type: typescript
+#ZK|  path: index.js
+#KX|price:
+#VV|  amount: 0.001
+#RV|  currency: USDT

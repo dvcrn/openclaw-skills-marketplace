@@ -1,0 +1,10 @@
+{
+  "name": "clawdssen--agentledger-daily-briefing",
+  "description": "Structured morning briefing skill — daily summaries covering calendar, tasks, weather, news, and priorities. Supports cron, heartbeat, and on-demand triggers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "clawdssen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clawdssen/agentledger-daily-briefing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clawdssen/agentledger-daily-briefing"
+}

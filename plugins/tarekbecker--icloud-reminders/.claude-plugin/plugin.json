@@ -1,0 +1,10 @@
+{
+  "name": "tarekbecker--icloud-reminders",
+  "description": "Manage Apple iCloud Reminders via CloudKit API. Use for listing, adding, completing, deleting reminders, managing lists, and hierarchical subtasks. Works with 2FA-protected accounts via cached sessions.",
+  "version": "0.1.5",
+  "author": {
+    "name": "tarekbecker"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tarekbecker/icloud-reminders",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tarekbecker/icloud-reminders"
+}

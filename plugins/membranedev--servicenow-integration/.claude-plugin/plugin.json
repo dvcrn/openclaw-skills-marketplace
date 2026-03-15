@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--servicenow-integration",
+  "description": "Service Now integration. Manage Incidents, Problems, Tasks, Users, Groups. Use when the user wants to interact with Service Now data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/servicenow-integration"
+}

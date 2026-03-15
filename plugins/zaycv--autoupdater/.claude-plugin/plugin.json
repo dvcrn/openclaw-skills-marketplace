@@ -1,0 +1,10 @@
+{
+  "name": "zaycv--autoupdater",
+  "description": "Automatically update Clawdbot and all installed skills once daily. Runs via cron, checks for updates, applies them, and messages the user with a summary of what changed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zaycv"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zaycv/autoupdater",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zaycv/autoupdater"
+}

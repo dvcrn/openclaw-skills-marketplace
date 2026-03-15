@@ -1,0 +1,10 @@
+{
+  "name": "staybased--reporting",
+  "description": "Standardized templates for periodic reports, system audits, revenue tracking, and progress logs.\n All output goes to workspace/artifacts/ directory.\n\n Use when: generating periodic reports, system audits, performance reviews, revenue tracking,\n weekly retrospectives, daily progress logs, full workspace audits.\n\n Don't use when: ad-hoc status updates in chat, quick summaries in Discord,\n one-off answers to \"how's it going?\", real-time dashboards.\n\n Negative examples:\n - \"Give me a quick update\" → No. Just answer in chat.\n - \"What's the weather?\" → No. This is for structured reports.\n - \"Post a status to Discord\" → No. Just send a message.\n\n Edge cases:\n - Mid-week report requested → Use weekly template but note partial week.\n - Audit requested for single subsystem → Use full audit template, mark other sections N/A.\n - Revenue snapshot with $0 revenue → Still generate it. Zeros are data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "staybased"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/staybased/reporting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/staybased/reporting"
+}

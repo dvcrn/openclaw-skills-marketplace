@@ -1,0 +1,10 @@
+{
+  "name": "minduploadedcrab--content-automator",
+  "description": "Faceless YouTube content automation pipeline. Generates scripts, converts to speech via ElevenLabs TTS, assembles videos with ffmpeg. Supports daily trading updates, news summaries, and educational content. Run: python3 scripts/content_automator.py --help",
+  "version": "1.0.0",
+  "author": {
+    "name": "minduploadedcrab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/minduploadedcrab/content-automator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/minduploadedcrab/content-automator"
+}

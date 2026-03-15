@@ -1,0 +1,10 @@
+{
+  "name": "beardao--emopad-universe",
+  "description": "emoPAD Universe - Emotion Universe Skill\n\n Helps users locate emotions in the PAD (Pleasure-Arousal-Dominance) coordinate system,\n and provides emoNebula feature: continuous real-time emotion PAD monitoring, with a popup window\n displaying the emotion nebula chart every 5 minutes.\n\n ## Cross-Platform Support\n \n Supports Linux and Windows operating systems:\n - **Linux**: Uses eog (Eye of GNOME) to display image windows\n - **Windows**: Uses the system default image viewer to display\n\n ## Auto-Start\n \n After installing this skill, the emoPAD service and emoNebula will start automatically, no manual operation needed.\n\n ## Supported Hardware\n \n - EEG: KSEEG102 (Bluetooth BLE)\n - PPG: Cheez PPG Sensor (Serial)\n - GSR: Sichiray GSR V2 (Serial)\n \n Theoretically, similar devices should also work. Future versions will gradually add support for mainstream brands, including:\n - Muse series EEG devices\n - Emotiv EEG devices\n - Oura Ring smart ring\n - Whoop smart wristband\n - Other mainstream EEG devices and wearable devices\n\n ## Dependency Installation\n \n Dependencies will be checked and installed automatically when installing the skill, no manual operation needed.\n\n ## Usage\n \n - `openclaw emopad status` - Get current PAD status\n - `openclaw emopad snapshot` - Manually generate emotion nebula chart\n - `openclaw emopad stop` - Stop service\n - `openclaw emopad start` - Restart service\n\n ## Important Notes\n \n **About Emotion PAD Calculation**: Currently based on heuristic methods, mapping relationships summarized from extensive literature.\n This method temporarily cannot reflect individual differences. Future versions will introduce personalized calibration training modules to truly achieve personalized emotion recognition.",
+  "version": "0.1.0",
+  "author": {
+    "name": "beardao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/beardao/emopad-universe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/beardao/emopad-universe"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "murtiurti4--quantumos",
+  "description": "Install and manage QuantumOS, an AI command center dashboard for OpenClaw. Use when the user wants to set up QuantumOS, start/stop the dashboard, troubleshoot it, or update it. Provides a real-time chat UI, Mission Control (kanban task management with AI agents), and a feed dashboard (Reddit, HN, X, news).",
+  "version": "0.2.0",
+  "author": {
+    "name": "murtiurti4"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/murtiurti4/quantumos",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/murtiurti4/quantumos"
+}

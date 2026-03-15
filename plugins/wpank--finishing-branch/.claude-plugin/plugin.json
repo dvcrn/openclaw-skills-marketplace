@@ -1,0 +1,10 @@
+{
+  "name": "wpank--finishing-branch",
+  "description": "Complete development work by presenting structured options for merge, PR, or cleanup. Use when implementation is complete, all tests pass, and you need to decide how to integrate work. Triggers on finish branch, complete branch, merge branch, create PR, done with feature, implementation complete.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/finishing-branch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/finishing-branch"
+}

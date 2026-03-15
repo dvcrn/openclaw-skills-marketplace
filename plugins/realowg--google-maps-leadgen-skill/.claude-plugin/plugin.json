@@ -1,0 +1,10 @@
+{
+  "name": "realowg--google-maps-leadgen-skill",
+  "description": "Generate B2B leads from Google Maps using a self-hosted MCP server (`google-maps`) and export to CSV or XLSX. Use when the user asks for lead generation by country/city/industry, wants phone/website/email enrichment, wants deduped lead lists, or asks to send lead files back in chat (especially Telegram file delivery).",
+  "version": "0.1.0",
+  "author": {
+    "name": "realowg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/realowg/google-maps-leadgen-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/realowg/google-maps-leadgen-skill"
+}

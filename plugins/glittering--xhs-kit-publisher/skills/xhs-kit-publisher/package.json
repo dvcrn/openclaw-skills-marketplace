@@ -1,0 +1,25 @@
+{
+  "name": "@openclaw/xhs-kit-publisher",
+  "version": "1.0.0",
+  "description": "使用xhs-kit Python库高效发布小红书内容，无需浏览器，支持多账号和定时发布",
+  "main": "SKILL.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "pip install -r requirements.txt && playwright install chromium",
+    "publish-example": "bash publish_xhs.sh"
+  },
+  "keywords": [
+    "xiaohongshu",
+    "xhs",
+    "publish",
+    "automation",
+    "api",
+    "social-media",
+    "china",
+    "marketing"
+  ],
+  "author": "OpenClaw User",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}

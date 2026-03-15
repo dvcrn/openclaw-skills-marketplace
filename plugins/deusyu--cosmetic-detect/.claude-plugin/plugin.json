@@ -1,0 +1,10 @@
+{
+  "name": "deusyu--cosmetic-detect",
+  "description": "Analyze facial/body photos to detect signs of cosmetic surgery or aesthetic procedures. Use when the user uploads a photo and asks to identify cosmetic work, detect plastic surgery, assess facial naturalness, check if someone has had work done, analyze before/after photos, or evaluate aesthetic procedure signs. Also trigger when users ask about specific procedures visible in photos (fillers, Botox, rhinoplasty, jaw contouring, etc.), compare photos for surgical changes, or want a \"naturalness score\" for a face. Works with single images, multiple comparison images, and video screenshots. 触发词：整容检测、看看有没有整、自然度评分、鉴定一下、有没有动过。",
+  "version": "1.0.0",
+  "author": {
+    "name": "deusyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deusyu/cosmetic-detect",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deusyu/cosmetic-detect"
+}

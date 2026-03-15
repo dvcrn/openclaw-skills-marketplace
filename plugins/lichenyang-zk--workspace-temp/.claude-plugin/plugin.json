@@ -1,0 +1,10 @@
+{
+  "name": "lichenyang-zk--workspace-temp",
+  "description": "Manage temporary files in workspace temp directory. All non-essential files must go to temp/, keeping workspace root clean. Auto-detects workspace from openclaw.json config.",
+  "version": "1.1.5",
+  "author": {
+    "name": "lichenyang-zk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lichenyang-zk/workspace-temp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lichenyang-zk/workspace-temp"
+}

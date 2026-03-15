@@ -1,0 +1,10 @@
+{
+  "name": "yamancan--maestro-sdk",
+  "description": "Build AI agents that operate Solana vaults using the Maestro SDK (@trionlabs/maestro-sdk). Use when creating agents that transfer tokens, swap, or interact with policy-controlled vaults.",
+  "version": "0.1.0",
+  "author": {
+    "name": "yamancan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yamancan/maestro-sdk",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yamancan/maestro-sdk"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mrhah--m365-publish-temp",
+  "description": "Use m365 CLI to interact with Microsoft 365 user-level services: send/read/search emails, manage calendar events, browse/upload/download OneDrive files, and access SharePoint sites. Triggers for: email (send, read, search, attachments), calendar (list, create, update, delete events), OneDrive (list, upload, download, share, invite files), SharePoint (sites, files, lists). Does NOT trigger for: Azure resource management, Entra ID administration, Intune device management, M365 tenant-level admin (licenses, domains, policies).",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrhah"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrhah/m365-publish-temp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrhah/m365-publish-temp"
+}

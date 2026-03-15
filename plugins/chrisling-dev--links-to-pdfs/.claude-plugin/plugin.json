@@ -1,0 +1,10 @@
+{
+  "name": "chrisling-dev--links-to-pdfs",
+  "description": "Scrape documents from Notion, DocSend, PDFs, and other sources into local PDF files. Use when the user needs to download, archive, or convert web documents to PDF format. Supports authentication flows for protected documents and session persistence via profiles. Returns local file paths to downloaded PDFs.",
+  "version": "0.0.1",
+  "author": {
+    "name": "chrisling-dev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chrisling-dev/links-to-pdfs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chrisling-dev/links-to-pdfs"
+}

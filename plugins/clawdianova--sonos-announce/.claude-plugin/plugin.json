@@ -1,0 +1,10 @@
+{
+  "name": "clawdianova--sonos-announce",
+  "description": "Play audio on Sonos with intelligent state restoration - pauses streaming, skips Line-In/TV/Bluetooth, resumes everything.",
+  "version": "1.0.4",
+  "author": {
+    "name": "clawdianova"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clawdianova/sonos-announce",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clawdianova/sonos-announce"
+}

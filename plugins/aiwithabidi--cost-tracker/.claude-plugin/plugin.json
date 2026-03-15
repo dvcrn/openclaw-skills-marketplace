@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--cost-tracker",
+  "description": "AI spending monitor — track costs across OpenRouter models with daily, weekly, and monthly reports. Budget limits with alerts, per-model analysis, savings recommendations, and historical tracking via SQLite. Use for controlling AI costs and optimizing model selection.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/cost-tracker"
+}

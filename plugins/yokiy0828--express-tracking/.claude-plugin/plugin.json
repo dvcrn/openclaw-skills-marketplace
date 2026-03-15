@@ -1,0 +1,10 @@
+{
+  "name": "yokiy0828--express-tracking",
+  "description": "查询快递物流状态。支持主流快递公司（顺丰、中通、圆通、韵达、申通、极兔、京东、EMS等），自动识别快递公司。当用户询问快递状态、物流信息、包裹位置时触发。",
+  "version": "1.0.0",
+  "author": {
+    "name": "yokiy0828"
+  },
+  "homepage": "https://www.kuaidi100.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yokiy0828/express-tracking"
+}

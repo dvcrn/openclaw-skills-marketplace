@@ -1,0 +1,10 @@
+{
+  "name": "jamesfincher--browserbase-sessions",
+  "description": "Create and manage persistent Browserbase cloud browser sessions with authentication persistence. Use when you need to automate browsers, maintain logged-in sessions across interactions, scrape authenticated pages, or manage cloud browser instances.",
+  "version": "2.5.0",
+  "author": {
+    "name": "jamesfincher"
+  },
+  "homepage": "https://docs.browserbase.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamesfincher/browserbase-sessions"
+}

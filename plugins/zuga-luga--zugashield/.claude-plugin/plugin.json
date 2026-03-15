@@ -1,0 +1,10 @@
+{
+  "name": "zuga-luga--zugashield",
+  "description": "7-layer AI security scanner for OpenClaw. Blocks prompt injection, SSRF, command injection, data leakage, and memory poisoning across ALL channels (Signal, Telegram, Discord, WhatsApp, web) simultaneously.",
+  "version": "0.1.1",
+  "author": {
+    "name": "zuga-luga"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zuga-luga/zugashield",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zuga-luga/zugashield"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "msoica--skills-a2a",
+  "description": "Verify AI agents, check trust scores (0-100), fetch A2A agent cards, discover marketplace agents, apply guardrails for security and compliance. Use when user mentions agent verification, trust scores, agent discovery, A2A protocol, agent identity, agent marketplace, guardrails, security policies, content moderation, or asks \"is this agent safe?\" or \"find agents that can [task]\" or \"apply guardrails to protect my agent\".",
+  "version": "1.1.1",
+  "author": {
+    "name": "msoica"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/msoica/skills-a2a",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/msoica/skills-a2a"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ansonfreeman--hostex",
+  "description": "Hostex (hostex.io) OpenAPI v3.0 skill for querying and managing vacation rental properties, room types, reservations, availability, listing calendars, guest messaging, reviews, and webhooks via the Hostex API. Use when you need to integrate with Hostex API using a Hostex PAT (Hostex-Access-Token / HostexAccessToken) or when you need safe, intent-level API calls (read-only by default, optional write operations with explicit confirmation).",
+  "version": "0.1.1",
+  "author": {
+    "name": "ansonfreeman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ansonfreeman/hostex",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ansonfreeman/hostex"
+}

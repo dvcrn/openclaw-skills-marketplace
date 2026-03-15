@@ -1,0 +1,10 @@
+{
+  "name": "anotherj1--task-watchdog",
+  "description": "挂机任务的守护者。定时检查屏幕进度条，自动关闭干扰性系统或广告弹窗，遇致命错误时发送报警。",
+  "version": "0.1.0",
+  "author": {
+    "name": "anotherj1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anotherj1/task-watchdog",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anotherj1/task-watchdog"
+}

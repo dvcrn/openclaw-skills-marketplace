@@ -1,0 +1,10 @@
+{
+  "name": "caoyacheng--ai-news-poster",
+  "description": "Generate fixed-template daily AI news posters from five news items. Use when the user asks to create a poster, social card, or image summary for \"today's AI news\", \"5 AI news\", \"AI headlines\", \"每日AI资讯\", or \"AI新闻海报\", including Chinese or bilingual output.",
+  "version": "1.0.0",
+  "author": {
+    "name": "caoyacheng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/caoyacheng/ai-news-poster",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/caoyacheng/ai-news-poster"
+}

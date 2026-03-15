@@ -1,0 +1,10 @@
+{
+  "name": "xthezealot--youtube-transcript",
+  "description": "Fetch and summarize YouTube video transcripts. Use when asked to summarize, transcribe, or extract content from YouTube videos. Handles transcript fetching via residential IP proxy to bypass YouTube's cloud IP blocks.",
+  "version": "1.0.1",
+  "author": {
+    "name": "xthezealot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xthezealot/youtube-transcript",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xthezealot/youtube-transcript"
+}

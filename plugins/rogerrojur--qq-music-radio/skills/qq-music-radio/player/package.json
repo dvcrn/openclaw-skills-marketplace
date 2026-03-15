@@ -1,0 +1,37 @@
+{
+  "name": "qq-music-radio-player",
+  "version": "3.2.0",
+  "description": "QQ 音乐电台播放器 - AI 智能推荐，支持自动播放、智能过滤、连续播放",
+  "main": "server-qqmusic.js",
+  "scripts": {
+    "start": "node server-qqmusic.js",
+    "dev": "nodemon server-qqmusic.js"
+  },
+  "keywords": [
+    "qq-music",
+    "radio",
+    "player",
+    "ai",
+    "recommendation",
+    "music",
+    "openclaw"
+  ],
+  "author": "OpenClaw AI",
+  "license": "MIT-0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openclaw/skills"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

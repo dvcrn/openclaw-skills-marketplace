@@ -1,0 +1,10 @@
+{
+  "name": "polacapital--lyric-translator",
+  "description": "Translate Indonesian song lyrics to natural-sounding English. Use when Beralio\n needs to translate their Indonesian lyrics for international release, sync\n licensing, or collaboration with English-speaking artists. Applies humanizer\n techniques to ensure translations feel authentic, poetic, and human-written—\n never robotic or AI-generated. Preserves rhythm, syllable flow, and emotional\n intent of the original.",
+  "version": "1.0.0",
+  "author": {
+    "name": "polacapital"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/polacapital/lyric-translator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/polacapital/lyric-translator"
+}

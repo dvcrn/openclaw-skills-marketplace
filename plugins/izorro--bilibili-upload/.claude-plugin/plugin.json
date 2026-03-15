@@ -1,0 +1,10 @@
+{
+  "name": "izorro--bilibili-upload",
+  "description": "Upload videos to Bilibili (哔哩哔哩). Supports automatic login, title, description, tags, and partition selection.",
+  "version": "1.0.0",
+  "author": {
+    "name": "izorro"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/izorro/bilibili-upload",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/izorro/bilibili-upload"
+}

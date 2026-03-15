@@ -1,0 +1,8 @@
+{
+  "name": "prediction-market-reporter",
+  "version": "1.2.0",
+  "description": "每周自动/手动收集关于预测市场（主要针对 Polymarket 和 Kalshi）的最新资讯。v1.2增强了时间交叉验证，严格剥离新闻稿中的'旧事回顾'陷阱，重点深挖内幕交易、操纵、争议与C端事件。",
+  "openclaw": {
+    "skill": true
+  }
+}

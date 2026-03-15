@@ -1,0 +1,10 @@
+{
+  "name": "greason--trongrid-data-insights",
+  "description": "Provide TRON network analytics including transaction volume, type distribution, hot contracts, trending tokens, active accounts, staking metrics, and resource economics. Use when a user asks about TRON network health, daily stats, trending activity, top contracts, most active accounts, ecosystem overview, or on-chain analytics.",
+  "version": "1.0.1",
+  "author": {
+    "name": "greason"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/greason/trongrid-data-insights",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/greason/trongrid-data-insights"
+}

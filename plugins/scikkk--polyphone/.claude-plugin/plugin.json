@@ -1,0 +1,10 @@
+{
+  "name": "scikkk--polyphone",
+  "description": "Fix Chinese polyphone (多音字) mispronunciation in TTS by auto-detecting ambiguous characters and applying pinyin annotations. Use when users complain about wrong pronunciation, need precise tone control, or are synthesizing text with characters like 行/干/量/好/了/得/地/的/着/过. Triggers on \"读音不对\", \"这个字读错了\", \"多音字\", \"标注拼音\", \"银行行长\", \"绕口令\", or any request to correct TTS pronunciation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "scikkk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/scikkk/polyphone",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scikkk/polyphone"
+}

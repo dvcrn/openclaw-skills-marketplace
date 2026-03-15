@@ -1,0 +1,10 @@
+{
+  "name": "mjrussell--steam",
+  "description": "Browse, filter, and discover games in a Steam library. Filter by playtime, reviews, Steam Deck compatibility, genres, and tags. Use when user asks about their Steam games, what to play, game recommendations, or Steam Deck compatible games.",
+  "version": "0.4.0",
+  "author": {
+    "name": "mjrussell"
+  },
+  "homepage": "https://github.com/mjrussell/steam-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mjrussell/steam"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "liu7yong--hn-daily-brief",
+  "description": "Generate and deliver a Hacker News daily report (Top-N) with article summaries and multi-view comment synthesis, in user-selected language, with optional file persistence and index update.",
+  "version": "0.7.0",
+  "author": {
+    "name": "liu7yong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/liu7yong/hn-daily-brief",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/liu7yong/hn-daily-brief"
+}

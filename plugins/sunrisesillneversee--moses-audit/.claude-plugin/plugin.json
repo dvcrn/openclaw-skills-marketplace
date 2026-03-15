@@ -1,0 +1,10 @@
+{
+  "name": "sunrisesillneversee--moses-audit",
+  "description": "MO§ES™ Audit Trail — SHA-256 chained append-only governance ledger. Every agent appends before final response. Provides moses_log_action and moses_verify_chain tools. Tamper-evident. Part of the moses-governance bundle. Patent pending Serial No. 63/877,177.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sunrisesillneversee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunrisesillneversee/moses-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunrisesillneversee/moses-audit"
+}

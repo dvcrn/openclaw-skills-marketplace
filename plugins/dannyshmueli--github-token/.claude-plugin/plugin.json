@@ -1,0 +1,10 @@
+{
+  "name": "dannyshmueli--github-token",
+  "description": "Interact with GitHub using Personal Access Tokens. Secure, user-controlled access - no OAuth, no full account access. Clone, push, branch, PR, issues. Use when user wants to work with GitHub repos.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dannyshmueli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dannyshmueli/github-token",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dannyshmueli/github-token"
+}

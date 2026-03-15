@@ -1,0 +1,10 @@
+{
+  "name": "ewangchong--x-article-reader",
+  "description": "Read X (Twitter) Articles aloud using macOS text-to-speech. Accepts an X Article URL and reads the content out loud. Automatically detects Chinese vs English and picks the appropriate voice. Use when user says \"读出来\", \"朗读\", \"read aloud\", \"read this X article\", or provides an x.com/articles URL and wants it spoken.",
+  "version": "0.1.1",
+  "author": {
+    "name": "ewangchong"
+  },
+  "homepage": "https://github.com/ewangchong/x-article-reader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ewangchong/x-article-reader"
+}

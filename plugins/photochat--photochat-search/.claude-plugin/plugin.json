@@ -1,0 +1,10 @@
+{
+  "name": "photochat--photochat-search",
+  "description": "Search for photos in PhotoCHAT using natural language via the CLI. Use when the user asks to find, search for, or locate photos/pictures/images using PhotoCHAT. Triggers include phrases like 'find me a photo of...', 'search photochat for...', 'use photochat to find...', or simply 'find me a picture of...'. NOT for browsing the PhotoCHAT GUI, managing albums, or face profile editing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "photochat"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/photochat/photochat-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/photochat/photochat-search"
+}

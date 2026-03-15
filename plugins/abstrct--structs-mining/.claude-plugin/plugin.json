@@ -1,0 +1,10 @@
+{
+  "name": "abstrct--structs-mining",
+  "description": "Executes resource extraction in Structs. Mines ore and refines it into Alpha Matter. Use when mining ore, refining ore, starting a mine-refine cycle, checking planet ore levels, or managing resource extraction. Mining takes ~17 hours and refining ~34 hours — both are background operations. Ore is stealable until refined.",
+  "version": "1.1.0",
+  "author": {
+    "name": "abstrct"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abstrct/structs-mining",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abstrct/structs-mining"
+}

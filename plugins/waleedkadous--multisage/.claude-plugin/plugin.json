@@ -1,0 +1,10 @@
+{
+  "name": "waleedkadous--multisage",
+  "description": "Query Multisage for multi-expert AI answers from Claude, GPT, and Gemini. Use this skill whenever the user wants multiple AI perspectives on a question, says \"ask multisage\", \"multisage this\", \"get expert opinions\", wants a multi-AI consultation, or needs a well-rounded answer that considers different viewpoints. Also use for deep research queries that need comprehensive analysis from multiple AI providers in parallel.",
+  "version": "2.2.0",
+  "author": {
+    "name": "waleedkadous"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/waleedkadous/multisage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/waleedkadous/multisage"
+}

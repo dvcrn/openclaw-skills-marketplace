@@ -1,0 +1,10 @@
+{
+  "name": "santyr--archon-skill",
+  "description": "Full Archon decentralized identity operations - local node management, DID creation, credential issuance, vault operations, and public network resolution.",
+  "version": "1.0.2",
+  "author": {
+    "name": "santyr"
+  },
+  "homepage": "https://archon.technology",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/santyr/archon-skill"
+}

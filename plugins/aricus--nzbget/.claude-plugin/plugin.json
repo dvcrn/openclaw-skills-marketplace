@@ -1,0 +1,10 @@
+{
+  "name": "aricus--nzbget",
+  "description": "Check NZBGet download status and queue information. Use when the user asks about NZBGet downloads, wants to know how many things are downloading, check download speed, view the queue, or get a full status report of their Usenet downloads.",
+  "version": "1.0.1",
+  "author": {
+    "name": "aricus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aricus/nzbget",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aricus/nzbget"
+}

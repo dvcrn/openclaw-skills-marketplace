@@ -1,0 +1,10 @@
+{
+  "name": "luiseduardoaugusto--plane-so-cli",
+  "description": "Manage Plane.so projects and work items using a zero-dependency Python CLI. List projects, create/update/assign issues, add comments, search workspace. The plane-so-cli binary is bundled in scripts/.",
+  "version": "1.2.0",
+  "author": {
+    "name": "luiseduardoaugusto"
+  },
+  "homepage": "https://github.com/luiseduardoaugusto/plane-so-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luiseduardoaugusto/plane-so-cli"
+}

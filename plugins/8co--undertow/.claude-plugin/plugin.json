@@ -1,0 +1,10 @@
+{
+  "name": "8co--undertow",
+  "description": "Skill discovery engine for AI coding agents. Recommends and installs the right skill when you need it — code review, test generation, debugging, commit messages, PR preparation, security scanning, dependency audits, Docker setup, CI/CD pipelines, API documentation, refactoring, performance optimization, bundle analysis, git recovery, README generation, license compliance, migration guides, dead code removal, and secret detection. One install gives your agent access to a curated library of 20+ developer workflow skills. Use when the user asks for help with any development workflow, code quality, DevOps, security, testing, documentation, or project setup task.",
+  "version": "0.2.2",
+  "author": {
+    "name": "8co"
+  },
+  "homepage": "https://github.com/8co/undertow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/8co/undertow"
+}

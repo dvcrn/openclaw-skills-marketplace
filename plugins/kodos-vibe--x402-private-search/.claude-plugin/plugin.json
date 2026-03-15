@@ -1,0 +1,10 @@
+{
+  "name": "kodos-vibe--x402-private-search",
+  "description": "Make paid API requests using the x402 HTTP payment protocol (USDC on Base Sepolia). Use when you need to access x402-protected services, pay for API calls with crypto, or perform web searches via an x402 search gateway. Handles wallet setup, payment signing, and request retry automatically.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kodos-vibe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kodos-vibe/x402-private-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kodos-vibe/x402-private-search"
+}

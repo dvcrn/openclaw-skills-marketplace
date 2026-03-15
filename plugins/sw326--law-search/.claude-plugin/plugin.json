@@ -1,0 +1,10 @@
+{
+  "name": "sw326--law-search",
+  "description": "Korean law/case search via law.go.kr + data.go.kr APIs. Use for legal questions, statute lookup, court cases, and everyday legal info.",
+  "version": "2.1.0",
+  "author": {
+    "name": "sw326"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sw326/law-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sw326/law-search"
+}

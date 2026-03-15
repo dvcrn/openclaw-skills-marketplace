@@ -1,0 +1,10 @@
+{
+  "name": "steipete--mcporter",
+  "description": "Use the mcporter CLI to list, configure, auth, and call MCP servers/tools directly (HTTP or stdio), including ad-hoc servers, config edits, and CLI/type generation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "http://mcporter.dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/mcporter"
+}

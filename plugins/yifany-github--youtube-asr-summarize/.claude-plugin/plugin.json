@@ -1,0 +1,10 @@
+{
+  "name": "yifany-github--youtube-asr-summarize",
+  "description": "Summarize YouTube videos with NO subtitles by doing local ASR (yt-dlp + faster-whisper) and extracting a few screenshot frames via ffmpeg. Use when the user asks to summarize the latest video from a channel and YouTube timedtext/subtitles are empty, or when no API tokens/keys should be used.",
+  "version": "0.1.0",
+  "author": {
+    "name": "yifany-github"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yifany-github/youtube-asr-summarize",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yifany-github/youtube-asr-summarize"
+}

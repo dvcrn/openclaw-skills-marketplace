@@ -1,0 +1,10 @@
+{
+  "name": "vishnukool--openclaw-subagents",
+  "description": "This skill should be used when the user wants to configure, spawn, or manage OpenClaw (formerly Clawdbot) subagents. It covers the full setup workflow: editing openclaw.json for subagent config, writing SOUL.md and AGENTS.md files, setting up cron heartbeats, configuring tool access per depth level, using the sessions_spawn tool, and building multi-agent orchestration patterns. Use this skill for any task involving OpenClaw multi-agent architecture, agent identity, memory, Mission Control integration, or subagent spawning.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vishnukool"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vishnukool/openclaw-subagents",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vishnukool/openclaw-subagents"
+}

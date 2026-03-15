@@ -1,0 +1,10 @@
+{
+  "name": "qiffang--mnemo-memory",
+  "description": "Cloud-persistent memory for AI agents. Stateless plugins + TiDB Serverless = cross-session recall, multi-agent sharing, and hybrid vector + keyword search. Works with OpenClaw, Claude Code, and OpenCode.",
+  "version": "0.2.0",
+  "author": {
+    "name": "qiffang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qiffang/mnemo-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qiffang/mnemo-memory"
+}

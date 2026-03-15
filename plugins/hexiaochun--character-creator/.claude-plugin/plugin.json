@@ -1,0 +1,10 @@
+{
+  "name": "hexiaochun--character-creator",
+  "description": "创建AI角色的完整流程，包括生成详细角色描述、文生图肖像和多角度参考图。使用即梦4.5模型。当用户要求创建角色、生成人物立绘、制作角色参考图、或需要多角度人物图时使用此技能。",
+  "version": "1.0.0",
+  "author": {
+    "name": "hexiaochun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/character-creator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/character-creator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lirantal--railil",
+  "description": "Search for Israel Rail train schedules using the railil CLI. Find routes between stations with fuzzy search, filter by date/time, and output in various formats (JSON, Markdown, Table).",
+  "version": "1.0.1",
+  "author": {
+    "name": "lirantal"
+  },
+  "homepage": "https://github.com/lirantal/railil",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lirantal/railil"
+}

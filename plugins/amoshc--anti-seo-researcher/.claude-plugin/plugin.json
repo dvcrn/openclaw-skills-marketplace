@@ -1,0 +1,10 @@
+{
+  "name": "amoshc--anti-seo-researcher",
+  "description": "Anti-SEO deep consumer research tool. When a user wants to buy a product or make a consumer decision, use this Skill. Automatically detects user language and adapts to regional platforms and search strategies. Works with or without web_search — gracefully degrades to built-in Bing scraping when web_search is unavailable.",
+  "version": "1.0.2",
+  "author": {
+    "name": "amoshc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/amoshc/anti-seo-researcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/amoshc/anti-seo-researcher"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "nextaltair--soul-in-sapphire",
+  "description": "Generic long-term memory (LTM) operations for OpenClaw using Notion (2025-09-03 data_sources). Use for durable memory writes/search, emotion-state ticks, journal writes, and model-controlled subagent spawn planning via local JSON presets.",
+  "version": "1.0.7",
+  "author": {
+    "name": "nextaltair"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nextaltair/soul-in-sapphire",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nextaltair/soul-in-sapphire"
+}

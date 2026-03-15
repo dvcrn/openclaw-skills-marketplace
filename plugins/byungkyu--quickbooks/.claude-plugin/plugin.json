@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--quickbooks",
+  "description": "QuickBooks API integration with managed OAuth. Manage customers, invoices, payments, bills, and run financial reports. Use this skill when users want to interact with QuickBooks accounting data. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.4",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/quickbooks",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/quickbooks"
+}

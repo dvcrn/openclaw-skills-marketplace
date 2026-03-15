@@ -1,0 +1,7 @@
+interface:
+  display_name: "投融资日报"
+  short_description: "调用分页投融资事件接口，清洗去重并自动生成投融资日报"
+  default_prompt: "Use $daily-investment-digest to fetch financing events and generate the financing daily report. By default, use yesterday as report date; only use today when the user explicitly asks for today. The final output must include a mandatory ending section titled '投资事件总结' that summarizes all fetched events."
+
+policy:
+  allow_implicit_invocation: true

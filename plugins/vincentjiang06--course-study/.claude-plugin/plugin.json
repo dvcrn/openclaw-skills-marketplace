@@ -1,0 +1,10 @@
+{
+  "name": "vincentjiang06--course-study",
+  "description": "Comprehensive course study, exam revision, and structured study note generation from lecture slides, course PDFs, or topic outlines. Use when the user wants to study a course, review or summarize lecture slides/PDFs, generate lecture notes or a study guide, prepare for exams (midterm, final, quiz), create revision notes or formula sheets, extract key concepts/definitions/formulas from course materials, synthesize knowledge across multiple lectures, expand understanding beyond course scope with external sources, or asks for help learning, reviewing, or revising any university or college course content in any academic subject (CS, engineering, math, science, humanities, etc.). Produces deep, multi-format study notes (Markdown + PDF) with worked examples, LaTeX formulas, cross-lecture connections, concept dependency maps, quick-reference sheets, and exam Q&A appendix — not shallow summaries.",
+  "version": "2.0.0",
+  "author": {
+    "name": "vincentjiang06"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vincentjiang06/course-study",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vincentjiang06/course-study"
+}

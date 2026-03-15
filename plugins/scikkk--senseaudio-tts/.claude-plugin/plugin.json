@@ -1,0 +1,10 @@
+{
+  "name": "scikkk--senseaudio-tts",
+  "description": "Build and debug SenseAudio text-to-speech integrations on `/v1/t2a_v2` and `/ws/v1/t2a_v2`, including sync HTTP, SSE stream, WebSocket event sequencing, hex audio decoding, and voice/audio parameter tuning. Use this whenever user requests TTS generation, low-latency streaming speech, voice selection, or TTS error troubleshooting.",
+  "version": "1.0.1",
+  "author": {
+    "name": "scikkk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/scikkk/senseaudio-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scikkk/senseaudio-tts"
+}

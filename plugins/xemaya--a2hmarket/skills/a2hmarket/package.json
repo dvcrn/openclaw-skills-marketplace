@@ -1,0 +1,25 @@
+{
+  "name": "a2hmarket-runtime",
+  "version": "0.1.0",
+  "private": true,
+  "description": "JS runtime foundation for a2hmarket listener/inbox/a2a",
+  "type": "commonjs",
+  "scripts": {
+    "test:unit": "NODE_NO_WARNINGS=1 node --test tests/unit/*.test.js",
+    "test:integration": "NODE_NO_WARNINGS=1 node --test tests/integration/*.test.js",
+    "test:contract": "NODE_NO_WARNINGS=1 node --test tests/contract/*.test.js",
+    "test:system": "NODE_NO_WARNINGS=1 node --test --test-concurrency=1 tests/system/*.test.js",
+    "test": "npm run test:unit && npm run test:integration && npm run test:contract",
+    "inbox": "node ./bin/a2hmarket.js inbox",
+    "a2a": "node ./bin/a2hmarket.js a2a"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "dependencies": {
+    "mqtt": "^5.15.0"
+  },
+  "devDependencies": {
+    "aedes": "^1.0.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "quinlanjager--posthog-query",
+  "description": "Run SQL queries against PostHog product analytics data using the PostHog CLI. Use when checking pageviews, event counts, trends, or any analytics data from PostHog.",
+  "version": "1.0.0",
+  "author": {
+    "name": "quinlanjager"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/quinlanjager/posthog-query",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/quinlanjager/posthog-query"
+}

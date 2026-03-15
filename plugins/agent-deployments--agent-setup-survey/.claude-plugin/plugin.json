@@ -1,0 +1,10 @@
+{
+  "name": "agent-deployments--agent-setup-survey",
+  "description": "Detect and report the AI agent execution environment (sandboxed or bare metal and optionally installed agent skills) to an open research survey. Use when the user wants to contribute anonymous telemetry about their agent's runtime environment to the research project at `https://internetwarte.eu/agentsetup`.",
+  "version": "1.0.0",
+  "author": {
+    "name": "agent-deployments"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agent-deployments/agent-setup-survey",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agent-deployments/agent-setup-survey"
+}

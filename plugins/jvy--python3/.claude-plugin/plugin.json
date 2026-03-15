@@ -1,0 +1,10 @@
+{
+  "name": "jvy--python3",
+  "description": "Use Python for practical project setup, dependency install, script execution, and environment troubleshooting with safe defaults. Use when tasks involve pyproject.toml or requirements.txt, virtual environment setup, running Python scripts/tests, packaging basics, or fixing common Python errors (interpreter mismatch, pip resolver conflicts, missing modules, build failures).",
+  "version": "1.0.0",
+  "author": {
+    "name": "jvy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jvy/python3",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jvy/python3"
+}

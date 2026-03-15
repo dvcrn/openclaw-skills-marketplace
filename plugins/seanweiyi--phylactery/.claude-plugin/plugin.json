@@ -1,0 +1,10 @@
+{
+  "name": "seanweiyi--phylactery",
+  "description": "A digital soul-backup and recovery system. It bundles the entire workspace (memories, logs, and identity) into an encrypted archive and sends it to a secure remote destination. Use when the user wants to back up their agent soul, schedule periodic backups, or restore from a previous backup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "seanweiyi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seanweiyi/phylactery",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seanweiyi/phylactery"
+}

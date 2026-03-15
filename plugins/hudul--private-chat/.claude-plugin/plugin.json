@@ -1,0 +1,10 @@
+{
+  "name": "hudul--private-chat",
+  "description": "Private Chat Mode - Trigger encrypted conversations via codeword. Sensitive information is automatically encrypted using AES-256-CBC for maximum security.",
+  "version": "1.1.2",
+  "author": {
+    "name": "hudul"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hudul/private-chat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hudul/private-chat"
+}

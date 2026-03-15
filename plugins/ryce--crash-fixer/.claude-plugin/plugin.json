@@ -1,0 +1,10 @@
+{
+  "name": "ryce--crash-fixer",
+  "description": "Autonomous crash analysis and bug fixing. Monitors crash reports from Cloudflare D1, deduplicates, analyzes with Codex 5.3 High, generates fixes, and creates PRs. Usage: /crash-fixer [--hours 24] [--limit 5] [--dry-run]",
+  "version": "3.0.0",
+  "author": {
+    "name": "ryce"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ryce/crash-fixer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ryce/crash-fixer"
+}

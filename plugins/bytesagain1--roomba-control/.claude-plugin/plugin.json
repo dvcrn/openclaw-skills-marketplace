@@ -1,0 +1,10 @@
+{
+  "name": "bytesagain1--roomba-control",
+  "description": "Manage iRobot Roomba vacuums via the cloud API. Start/stop/schedule cleaning jobs, monitor consumable status, and view cleaning maps and history.",
+  "version": "2.2.0",
+  "author": {
+    "name": "bytesagain1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bytesagain1/roomba-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bytesagain1/roomba-control"
+}

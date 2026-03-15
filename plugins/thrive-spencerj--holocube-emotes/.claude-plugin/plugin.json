@@ -1,0 +1,10 @@
+{
+  "name": "thrive-spencerj--holocube-emotes",
+  "description": "Control a GeekMagic holocube display as an AI emote system. Generate holographic sprite kits with Gemini, upload to device, and swap expressions based on agent state (idle, working, error, etc.). Use when the user has a GeekMagic holocube (HelloCubic-Lite or similar) and wants their AI assistant to have a physical face that reacts to conversation context.",
+  "version": "1.0.0",
+  "author": {
+    "name": "thrive-spencerj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thrive-spencerj/holocube-emotes",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thrive-spencerj/holocube-emotes"
+}

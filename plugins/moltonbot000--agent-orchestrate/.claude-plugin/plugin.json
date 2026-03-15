@@ -1,0 +1,10 @@
+{
+  "name": "moltonbot000--agent-orchestrate",
+  "description": "Multi-agent orchestration patterns for OpenClaw. Quick reference for spawning sub-agents, parallel work, and basic coordination.\n \n Use when: simple parallel tasks, fan-out/fan-in, basic pipelines.\n \n For advanced dynamic orchestration (agent-built task trees, spawn vs fork, human-in-the-loop), see cord-trees skill instead.",
+  "version": "1.0.0",
+  "author": {
+    "name": "moltonbot000"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moltonbot000/agent-orchestrate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moltonbot000/agent-orchestrate"
+}

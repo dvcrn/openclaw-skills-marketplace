@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--k8s-gen",
+  "description": "Generate Kubernetes manifests from docker-compose or plain English. Use when deploying apps to K8s.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/k8s-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/k8s-gen"
+}

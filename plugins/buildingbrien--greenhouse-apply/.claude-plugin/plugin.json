@@ -1,0 +1,10 @@
+{
+  "name": "buildingbrien--greenhouse-apply",
+  "description": "Submit job applications on Greenhouse (job-boards.greenhouse.io). Handles the full flow: fill text fields, set React Select dropdowns, select phone country, upload resume, enter email verification code, and submit. Use when: applying to a job on Greenhouse, filling out a Greenhouse application form, submitting a resume to a company that uses Greenhouse ATS.",
+  "version": "1.0.0",
+  "author": {
+    "name": "buildingbrien"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/buildingbrien/greenhouse-apply",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/buildingbrien/greenhouse-apply"
+}

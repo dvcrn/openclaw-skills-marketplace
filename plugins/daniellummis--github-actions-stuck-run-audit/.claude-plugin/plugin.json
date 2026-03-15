@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-stuck-run-audit",
+  "description": "Detect stale queued/in-progress GitHub Actions runs before they quietly block delivery.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-stuck-run-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-stuck-run-audit"
+}

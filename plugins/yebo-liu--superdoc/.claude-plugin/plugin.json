@@ -1,0 +1,10 @@
+{
+  "name": "yebo-liu--superdoc",
+  "description": "Create, edit, and manipulate DOCX files using SuperDoc - a modern document editor with custom rendering pipeline. Use when you need to programmatically work with Word documents for creation, editing, formatting, or template generation. Supports both browser and headless Node.js contexts. Prefer SuperDoc for new document workflows requiring full formatting control; use simpler tools (mammoth, docx-js) for text extraction only. Do NOT use for PDF editing, document analysis/summarization, or OCR tasks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yebo-liu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yebo-liu/superdoc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yebo-liu/superdoc"
+}

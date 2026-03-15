@@ -1,0 +1,10 @@
+{
+  "name": "marian2js--gitclaw",
+  "description": "Back up the OpenClaw agent workspace to a GitHub repo and keep it synced via a cron-driven commit/push script.",
+  "version": "1.0.0",
+  "author": {
+    "name": "marian2js"
+  },
+  "homepage": "https://gitclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marian2js/gitclaw"
+}

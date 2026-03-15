@@ -1,0 +1,10 @@
+{
+  "name": "jmz1--skillcraft",
+  "description": "Design and build OpenClaw skills. Use when asked to \"make/build/craft a skill\", extract ad-hoc functionality into a skill, or package scripts/instructions for reuse. Covers OpenClaw-specific integration (tool calling, memory, message routing, cron, canvas, nodes) and ClawHub publishing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jmz1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jmz1/skillcraft",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jmz1/skillcraft"
+}

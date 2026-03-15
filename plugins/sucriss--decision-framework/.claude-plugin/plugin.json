@@ -1,0 +1,10 @@
+{
+  "name": "sucriss--decision-framework",
+  "description": "决策框架分析技能。提供多种经典决策模型（SWOT、10-10-10 法则、决策树、加权打分、Eisenhower 矩阵）帮助用户结构化思考。Use when user asks for help making a decision, analyzing options, evaluating choices, or says \"纠结\"、\"要不要\"、\"怎么选\"、\"帮我分析\"、\"决策\"、\"SWOT\"、\"10-10-10\"、\"weighted scoring\"、\"decision tree\"、\"priority matrix\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "sucriss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sucriss/decision-framework",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sucriss/decision-framework"
+}

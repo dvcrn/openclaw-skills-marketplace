@@ -1,0 +1,10 @@
+{
+  "name": "jameslawton--polygon-agents-sdk",
+  "description": "Complete Polygon agent toolkit. Session-based smart contract wallets (Sequence), token ops (send/swap/bridge/deposit via Trails), ERC-8004 on-chain identity + reputation, x402 micropayments. Single CLI entry point, AES-256-GCM encrypted storage.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jameslawton"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jameslawton/polygon-agents-sdk",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jameslawton/polygon-agents-sdk"
+}

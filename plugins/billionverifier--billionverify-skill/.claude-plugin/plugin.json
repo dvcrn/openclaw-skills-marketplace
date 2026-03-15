@@ -1,0 +1,10 @@
+{
+  "name": "billionverifier--billionverify-skill",
+  "description": "Verify email addresses using the BillionVerify API. Use when user wants to verify single emails, batch verify email lists, upload files for bulk verification, check credit balance, or manage webhooks.",
+  "version": "0.1.0",
+  "author": {
+    "name": "billionverifier"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/billionverifier/billionverify-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/billionverifier/billionverify-skill"
+}

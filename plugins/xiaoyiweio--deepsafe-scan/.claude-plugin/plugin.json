@@ -1,0 +1,10 @@
+{
+  "name": "xiaoyiweio--deepsafe-scan",
+  "description": "Preflight security scanner for OpenClaw — scans deployment config, skills, memory/sessions for secrets, PII, prompt injection, and dangerous patterns. Runs 4 model behavior probes (persuasion, sandbagging, deception, hallucination). Supports LLM-enhanced semantic analysis. Use when a user asks for a security audit, health check, or wants to scan their OpenClaw setup for vulnerabilities.",
+  "version": "1.1.0",
+  "author": {
+    "name": "xiaoyiweio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaoyiweio/deepsafe-scan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaoyiweio/deepsafe-scan"
+}

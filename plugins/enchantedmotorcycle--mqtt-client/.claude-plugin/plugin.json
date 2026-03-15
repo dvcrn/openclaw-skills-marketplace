@@ -1,0 +1,10 @@
+{
+  "name": "enchantedmotorcycle--mqtt-client",
+  "description": "This is a simple client for connecting to an mqtt instance",
+  "version": "1.0.7",
+  "author": {
+    "name": "enchantedmotorcycle"
+  },
+  "homepage": "https://mqtt.org/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/enchantedmotorcycle/mqtt-client"
+}

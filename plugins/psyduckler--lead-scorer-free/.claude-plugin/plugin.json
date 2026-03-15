@@ -1,0 +1,10 @@
+{
+  "name": "psyduckler--lead-scorer-free",
+  "description": "Score leads 0-100 by analyzing a domain's website, DNS, sitemap, and social presence.\n Uses customizable JSON scoring profiles so users can define what signals matter for\n their brand. Use when qualifying leads, prioritizing outreach lists, or evaluating\n potential partners. Supports single domains, multiple domains, and CSV batch mode.",
+  "version": "1.0.0",
+  "author": {
+    "name": "psyduckler"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/psyduckler/lead-scorer-free",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/psyduckler/lead-scorer-free"
+}

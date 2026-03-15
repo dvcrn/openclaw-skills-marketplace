@@ -1,0 +1,10 @@
+{
+  "name": "zihaofeng2001--seamless-restart",
+  "description": "Seamless gateway restart with automatic context recovery and post-restart notification. Use whenever the agent needs to restart the OpenClaw gateway (config changes, updates, manual restarts). Ensures no context is lost and the user is always notified when the agent comes back online. Also use when the user mentions \"restart\", \"reboot gateway\", \"apply config\", or any action that triggers a gateway restart. This skill prevents the common problem of agents going silent after restarts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zihaofeng2001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zihaofeng2001/seamless-restart",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zihaofeng2001/seamless-restart"
+}

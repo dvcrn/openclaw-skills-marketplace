@@ -1,0 +1,10 @@
+{
+  "name": "oskarstark--paperless-ngx",
+  "description": "Interact with Paperless-ngx document management system via REST API. Use when users want to search, upload, download, organize documents, manage tags, correspondents, or document types in their Paperless-ngx instance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "oskarstark"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oskarstark/paperless-ngx",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oskarstark/paperless-ngx"
+}

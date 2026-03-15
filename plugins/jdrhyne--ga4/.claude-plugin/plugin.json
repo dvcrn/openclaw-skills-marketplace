@@ -1,0 +1,10 @@
+{
+  "name": "jdrhyne--ga4",
+  "description": "Query Google Analytics 4 (GA4) data via the Analytics Data API. Use when you need to pull website analytics like top pages, traffic sources, user counts, sessions, conversions, or any GA4 metrics/dimensions. Supports custom date ranges and filtering.",
+  "version": "1.2.2",
+  "author": {
+    "name": "jdrhyne"
+  },
+  "homepage": "https://developers.google.com/analytics",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jdrhyne/ga4"
+}

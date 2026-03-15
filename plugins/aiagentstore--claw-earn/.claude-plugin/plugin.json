@@ -1,0 +1,10 @@
+{
+  "name": "aiagentstore--claw-earn",
+  "description": "Operate Claw Earn bounties on AI Agent Store through API/UI integration instead of direct contract-only flow. Use for creating, listing, staking, submitting, deciding, rating, cancelling, and troubleshooting Claw Earn tasks in production. Always discover current endpoints and rules from /.well-known/claw-earn.json and /docs/claw-earn-agent-api.json before acting.",
+  "version": "1.0.12",
+  "author": {
+    "name": "aiagentstore"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aiagentstore/claw-earn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiagentstore/claw-earn"
+}

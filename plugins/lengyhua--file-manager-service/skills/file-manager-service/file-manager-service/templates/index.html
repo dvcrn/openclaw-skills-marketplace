@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>文件管理器</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root {
+            --primary: #1a73e8; --danger: #dc3545; --success: #28a745;
+            --warning: #ffc107; --info: #17a2b8; --text: #333; --muted: #6c757d;
+        }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); min-height: 100vh; }
+        .container { max-width: 1400px; margin: 0 auto; padding: 20px; }
+        .header { background: #fff; border-radius: 12px; padding: 20px 28px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px; }
+        .header h1 { font-size: 24px; color: var(--primary); display: flex; align-items: center; gap: 10px; }
+        .stats { display: flex; gap: 20px; }
+        .stat-item { text-align: center; padding: 10px 16px; background: #f8f9fa; border-radius: 10px; min-width: 100px; }
+        .stat-value { font-size: 20px; font-weight: 700; color: var(--primary); }
+        .stat-label { font-size: 11px; color: var(--muted); margin-top: 2px; }
+        .toolbar { background: #fff; border-radius: 12px; padding: 14px 20px; margin-bottom: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; }
+        .toolbar-left, .toolbar-right { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+        .search-box { display: flex; gap: 8px; flex: 1; min-width: 280px; }
+        .search-box input { flex: 1; padding: 10px 14px; border: 2px solid #e9ecef; border-radius: 8px; font-size: 14px; }
+        .search-box input:focus { outline: none; border-color: var(--primary); }
+        .btn { padding: 10px 18px; border: none; border-radius: 8px; font-size: 13px; font-weight: 600; cursor: pointer; display: inline-flex !important; align-items: center; gap: 6px; white-space: nowrap; }
+        .btn-primary { background: var(--primary); color: #fff; }
+        .btn-success { background: var(--success); color: #fff; }
+        .btn-secondary { background: #6c757d; color: #fff; }
+        .btn-info { background: var(--info); color: #fff; }
+        .btn-sm { padding: 5px 10px; font-size: 12px; }
+        #save-btn { display: none !important; }
+        #save-btn[style*="inline-flex"] { display: inline-flex !important; }
+        .breadcrumb { background: #fff; border-radius: 12px; padding: 12px 20px; margin-bottom: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); display: flex; gap: 6px; flex-wrap: wrap; }
+        .breadcrumb-item { color: var(--primary); cursor: pointer; padding: 4px 10px; border-radius: 6px; }
+        .breadcrumb-item:hover { background: rgba(26,115,232,0.1); }
+        .breadcrumb-current { font-weight: 600; }
+        .file-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 16px; }
+        .file-card { background: #fff; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); cursor: pointer; position: relative; border-left: 4px solid var(--primary); }
+        .file-card.directory { border-left-color: var(--warning); }
+        .file-card:hover { transform: translateY(-2px); box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
+        .file-card-actions { position: absolute; top: 8px; right: 8px; display: flex; gap: 4px; opacity: 0; transition: opacity 0.2s; background: rgba(255,255,255,0.95); padding: 4px; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+        .file-card:hover .file-card-actions { opacity: 1; }
+        .action-btn { width: 24px; height: 24px; border: none; border-radius: 4px; cursor: pointer; font-size: 11px; display: flex; align-items: center; justify-content: center; }
+        .action-btn.note { background: rgba(23,162,184,0.15); color: var(--info); }
+        .action-btn.move { background: rgba(108,117,125,0.15); color: var(--muted); }
+        .action-btn.download { background: rgba(26,115,232,0.15); color: var(--primary); }
+        .action-btn.delete { background: rgba(220,53,69,0.15); color: var(--danger); }
+        
+        /* 目录树样式 */
+        .tree-container { max-height: 300px; overflow-y: auto; border: 1px solid #e9ecef; border-radius: 8px; padding: 12px; margin-top: 8px; }
+        .tree-node { margin: 4px 0; }
+        .tree-item { display: flex; align-items: center; gap: 6px; padding: 6px 8px; border-radius: 6px; cursor: pointer; }
+        .tree-item:hover { background: rgba(26,115,232,0.1); }
+        .tree-item.selected { background: rgba(26,115,232,0.2); border: 1px solid var(--primary); }
+        .tree-children { margin-left: 20px; border-left: 1px dashed #e9ecef; padding-left: 8px; }
+        .tree-toggle { width: 16px; height: 16px; display: inline-flex; align-items: center; justify-content: center; font-size: 10px; color: var(--muted); cursor: pointer; }
+        .file-icon { font-size: 36px; margin-bottom: 8px; }
+        .file-name { font-size: 13px; font-weight: 600; margin-bottom: 4px; word-break: break-word; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+        .file-note { font-size: 11px; color: var(--muted); margin-bottom: 6px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; max-height: 30px; }
+        .file-meta { font-size: 11px; color: var(--muted); display: flex; justify-content: space-between; padding-top: 8px; border-top: 1px solid #eee; }
+        .file-list { background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+        .file-list-header, .file-list-item { display: grid; grid-template-columns: 35px minmax(200px, 1fr) 100px 120px 140px; padding: 12px 16px; align-items: center; }
+        .file-list-header { background: #f8f9fa; font-weight: 600; font-size: 12px; color: var(--muted); border-bottom: 2px solid #e9ecef; }
+        .file-list-item { border-bottom: 1px solid #e9ecef; font-size: 13px; }
+        .file-list-item:hover { background: rgba(26,115,232,0.04); }
+        .file-list-info { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+        .file-list-name { font-weight: 500; display: flex; align-items: center; gap: 6px; }
+        .file-list-note { font-size: 11px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .file-list-actions { display: flex; gap: 4px; justify-content: flex-end; }
+        .modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.5); display: none; align-items: center; justify-content: center; z-index: 1000; }
+        .modal-overlay.active { display: flex; }
+        .modal { background: #fff; border-radius: 12px; width: 98%; max-width: 1600px; height: 90vh; display: flex; flex-direction: column; overflow: hidden; z-index: 1001; }
+        .modal-body { flex: 1; display: flex; overflow: hidden; position: relative; min-height: 0; }
+        .modal-header { padding: 14px 20px; border-bottom: 1px solid #e9ecef; display: flex; justify-content: space-between; align-items: center; }
+        .modal-title { font-size: 15px; font-weight: 700; display: flex; align-items: center; gap: 8px; }
+        .modal-close { width: 28px; height: 28px; border: none; background: #f8f9fa; border-radius: 6px; cursor: pointer; font-size: 16px; }
+        .modal-close:hover { background: var(--danger); color: #fff; }
+        .modal-body { flex: 1; display: flex; overflow: hidden; }
+        .modal-footer { padding: 12px 20px; border-top: 1px solid #e9ecef; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-shrink: 0; }
+        .editor-container { display: flex; flex: 1; overflow: hidden; min-height: 0; }
+        .editor-pane, .preview-pane { flex: 1; overflow: auto; position: relative; min-height: 0; }
+        .editor-pane { background: #1e1e1e; border-right: 1px solid #e9ecef; }
+        .editor-pane[style*="display: none"] { pointer-events: none; }
+        .code-editor { width: 100%; min-height: 100%; background: #1e1e1e; color: #d4d4d4; border: none; padding: 16px; font-family: Consolas, Monaco, monospace; font-size: 14px; line-height: 1.6; resize: none; outline: none; cursor: text; }
+        .code-editor:focus { background: #252525; }
+        .code-editor[readonly] { background: #1e1e1e; cursor: not-allowed; }
+        .markdown-preview { padding: 20px; line-height: 1.7; min-height: 100%; }
+        .code-editor { width: 100%; height: 100%; background: #1e1e1e; color: #d4d4d4; border: none; padding: 12px; font-family: Consolas, Monaco, monospace; font-size: 13px; line-height: 1.5; resize: none; outline: none; cursor: text; }
+        .code-editor:focus { background: #252525; }
+        .code-editor[readonly] { background: #1e1e1e; cursor: not-allowed; }
+        .preview-pane { background: #fff; }
+        .iframe-preview { width: 100%; height: 100%; border: none; }
+        .markdown-preview { padding: 16px; line-height: 1.6; }
+        .markdown-preview h1, .markdown-preview h2, .markdown-preview h3 { margin: 16px 0 10px; color: var(--primary); }
+        .markdown-preview h1 { font-size: 1.6em; border-bottom: 2px solid #eee; padding-bottom: 6px; }
+        .markdown-preview h2 { font-size: 1.3em; border-bottom: 1px solid #eee; padding-bottom: 4px; }
+        .markdown-preview code { background: rgba(27,31,35,0.05); padding: 2px 6px; border-radius: 3px; font-family: Consolas, monospace; }
+        .markdown-preview pre { background: #1e1e1e; color: #d4d4d4; padding: 12px; border-radius: 6px; overflow-x: auto; margin: 10px 0; }
+        .markdown-preview pre code { background: transparent; padding: 0; }
+        .view-tabs { display: flex; gap: 4px; background: #f8f9fa; padding: 4px; border-radius: 6px; }
+        .view-tab { padding: 6px 12px; border: none; background: transparent; border-radius: 4px; cursor: pointer; font-size: 12px; font-weight: 600; color: var(--muted); }
+        .view-tab.active { background: #fff; color: var(--primary); box-shadow: 0 1px 4px rgba(0,0,0,0.1); }
+        .empty-state { text-align: center; padding: 60px 20px; color: var(--muted); }
+        .empty-state-icon { font-size: 64px; margin-bottom: 16px; opacity: 0.5; }
+        .loading { display: flex; align-items: center; justify-content: center; padding: 40px; }
+        .spinner { width: 32px; height: 32px; border: 3px solid #e9ecef; border-top-color: var(--primary); border-radius: 50%; animation: spin 1s linear infinite; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        .toast { position: fixed; bottom: 20px; right: 20px; padding: 12px 18px; border-radius: 8px; color: #fff; font-weight: 500; box-shadow: 0 4px 20px rgba(0,0,0,0.2); transform: translateY(80px); opacity: 0; transition: all 0.3s; z-index: 1001; }
+        .toast.show { transform: translateY(0); opacity: 1; }
+        .toast.success { background: var(--success); }
+        .toast.error { background: var(--danger); }
+        .form-group { margin-bottom: 14px; }
+        .form-group label { display: block; font-size: 13px; font-weight: 600; margin-bottom: 6px; }
+        .form-group input, .form-group textarea { width: 100%; padding: 10px 12px; border: 2px solid #e9ecef; border-radius: 8px; font-size: 13px; font-family: inherit; }
+        .form-group input:focus, .form-group textarea:focus { outline: none; border-color: var(--primary); }
+        .form-group textarea { resize: vertical; min-height: 100px; }
+        .view-toggle { display: flex; gap: 4px; background: #f8f9fa; padding: 4px; border-radius: 8px; }
+        .view-btn { padding: 8px 12px; border: none; background: transparent; border-radius: 6px; cursor: pointer; font-size: 14px; }
+        .view-btn.active { background: #fff; box-shadow: 0 1px 4px rgba(0,0,0,0.1); }
+        @media (max-width: 768px) {
+            .header, .toolbar { flex-direction: column; align-items: stretch; }
+            .stats, .toolbar-left, .toolbar-right { justify-content: center; }
+            .search-box { min-width: 100%; }
+            .file-list-header, .file-list-item { grid-template-columns: 30px minmax(150px, 1fr) 90px 100px; }
+            .file-list-header > *:nth-child(5), .file-list-item > *:nth-child(5) { display: none; }
+            .modal { width: 98%; height: 90vh; }
+            .editor-container { flex-direction: column; }
+            .editor-pane, .preview-pane { border-right: none; border-bottom: 1px solid #e9ecef; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📁 文件管理器</h1>
+            <div class="stats">
+                <div class="stat-item"><div class="stat-value" id="stat-files">-</div><div class="stat-label">文件</div></div>
+                <div class="stat-item"><div class="stat-value" id="stat-dirs">-</div><div class="stat-label">目录</div></div>
+                <div class="stat-item"><div class="stat-value" id="stat-size">-</div><div class="stat-label">大小</div></div>
+            </div>
+        </div>
+        <div class="toolbar">
+            <div class="toolbar-left">
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="搜索..." onkeypress="if(event.key==='Enter')searchFiles()">
+                    <button class="btn btn-primary" onclick="searchFiles()">🔍</button>
+                    <button class="btn btn-secondary" onclick="loadDirectory('')">🏠</button>
+                </div>
+            </div>
+            <div class="toolbar-right">
+                <div class="view-toggle">
+                    <button class="view-btn active" id="grid-view-btn" onclick="setView('grid')">▦</button>
+                    <button class="view-btn" id="list-view-btn" onclick="setView('list')">☰</button>
+                </div>
+                <button class="btn btn-success" onclick="showCreateModal('dir')">📁 新建</button>
+                <button class="btn btn-primary" onclick="showCreateModal('file')">📄 文件</button>
+            </div>
+        </div>
+        <div class="breadcrumb" id="breadcrumb"></div>
+        <div id="content"><div class="loading"><div class="spinner"></div></div></div>
+    </div>
+
+    <div class="modal-overlay" id="view-modal">
+        <div class="modal">
+            <div class="modal-header">
+                <div class="modal-title"><span id="modal-file-icon">📄</span><span id="modal-file-name"></span></div>
+                <button class="modal-close" onclick="closeModal()">×</button>
+            </div>
+            <div class="modal-body">
+                <div class="editor-container">
+                    <div class="editor-pane" id="editor-pane">
+                        <textarea class="code-editor" id="file-editor" spellcheck="false" autocomplete="off" autocorrect="off" autocapitalize="off"></textarea>
+                    </div>
+                    <div class="preview-pane" id="preview-pane">
+                        <div class="markdown-preview" id="markdown-preview" style="display:none;"></div>
+                        <iframe class="iframe-preview" id="html-preview" style="display:none;"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="view-tabs">
+                    <button class="view-tab active" id="btn-mode-edit" onclick="setEditorMode('edit')">编辑</button>
+                    <button class="view-tab" id="btn-mode-preview" onclick="setEditorMode('preview')">预览</button>
+                    <button class="view-tab" id="btn-mode-split" onclick="setEditorMode('split')">分屏</button>
+                </div>
+                <div style="display:flex;gap:8px;">
+                    <button class="btn btn-info" id="open-new-btn" onclick="openInNewTab()" style="display:none;">🔗 打开</button>
+                    <button class="btn btn-secondary" onclick="closeModal()">取消</button>
+                    <button class="btn btn-success" id="save-btn" onclick="saveFile()" style="display:none;">💾 保存</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="create-modal">
+        <div class="modal" style="max-width:450px;height:auto;">
+            <div class="modal-header">
+                <div class="modal-title"><span id="create-icon">📁</span><span id="create-title">新建</span></div>
+                <button class="modal-close" onclick="closeCreateModal()">×</button>
+            </div>
+            <div class="modal-body" style="padding:20px;flex:none;">
+                <div class="form-group"><label>名称</label><input type="text" id="create-name" placeholder="输入名称..." onkeypress="if(event.key==='Enter')confirmCreate()"></div>
+                <div class="form-group" id="create-content-group" style="display:none;"><label>内容</label><textarea id="create-content" placeholder="初始内容..."></textarea></div>
+            </div>
+            <div class="modal-footer"><button class="btn btn-secondary" onclick="closeCreateModal()">取消</button><button class="btn btn-primary" onclick="confirmCreate()">创建</button></div>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="note-modal">
+        <div class="modal" style="max-width:450px;height:auto;">
+            <div class="modal-header">
+                <div class="modal-title">📝 编辑备注</div>
+                <button class="modal-close" onclick="closeNoteModal()">×</button>
+            </div>
+            <div class="modal-body" style="padding:20px;flex:none;">
+                <div class="form-group"><textarea id="note-input" placeholder="备注内容..." style="min-height:120px;"></textarea></div>
+            </div>
+            <div class="modal-footer"><button class="btn btn-secondary" onclick="closeNoteModal()">取消</button><button class="btn btn-success" onclick="saveNote()">保存</button></div>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="delete-modal">
+        <div class="modal" style="max-width:400px;height:auto;">
+            <div class="modal-header"><div class="modal-title">⚠️ 确认删除</div><button class="modal-close" onclick="closeDeleteModal()">×</button></div>
+            <div class="modal-body" style="padding:20px;flex:none;"><p style="color:var(--muted);margin-bottom:12px;" id="delete-path"></p><p style="color:var(--danger);font-size:12px;">此操作不可恢复</p></div>
+            <div class="modal-footer"><button class="btn btn-secondary" onclick="closeDeleteModal()">取消</button><button class="btn btn-danger" id="confirm-delete-btn">删除</button></div>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="move-modal">
+        <div class="modal" style="max-width:600px;height:auto;">
+            <div class="modal-header">
+                <div class="modal-title">📤 移动文件/目录</div>
+                <button class="modal-close" onclick="closeMoveModal()">×</button>
+            </div>
+            <div class="modal-body" style="padding:20px;flex:none;">
+                <p style="color:var(--muted);margin-bottom:12px;" id="move-source-path"></p>
+                <div class="form-group">
+                    <label>选择目标目录</label>
+                    <input type="text" id="move-dest-input" placeholder="输入或选择目标路径" onkeypress="if(event.key==='Enter')confirmMove()">
+                    <div class="tree-container" id="move-tree" style="display:none;"></div>
+                    <p style="font-size:11px;color:var(--muted);margin-top:6px;">💡 点击目录选择，或手动输入路径</p>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" onclick="closeMoveModal()">取消</button>
+                <button class="btn btn-primary" onclick="confirmMove()">移动</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="toast" id="toast"></div>
+
+    <script>
+        let currentPath = '', currentView = 'grid', deleteTarget = null, moveTarget = null, currentFilePath = '', originalContent = '', editorMode = 'edit', currentFileType = '', previewTimer = null, createType = 'dir', noteTargetPath = '';
+        const EDITABLE = ['.txt','.md','.html','.py','.js','.json','.yaml','.yml','.css','.xml','.log','.sh','.bash','.sql','.java','.go','.rs','.ts','.jsx','.tsx','.htm','.svg'];
+        const OPENABLE = ['.html','.htm','.svg','.pdf','.png','.jpg','.jpeg','.gif','.webp'];
+        const RENDERABLE = ['.html','.htm','.svg'];
+
+        document.addEventListener('DOMContentLoaded', () => { loadDirectory(''); loadStats(); });
+
+        async function loadDirectory(path) {
+            currentPath = path;
+            document.getElementById('content').innerHTML = '<div class="loading"><div class="spinner"></div></div>';
+            try {
+                const res = await fetch(`/api/files?path=${encodeURIComponent(path)}`);
+                const data = await res.json();
+                if (data.error) { showEmpty(data.error); return; }
+                renderBreadcrumb(path);
+                renderContent(data);
+            } catch (e) { showEmpty(e.message); }
+        }
+
+        function renderBreadcrumb(path) {
+            const parts = path ? path.split('/') : [];
+            let html = '<span class="breadcrumb-item" onclick="loadDirectory(\'\')">📂 projects</span>';
+            let acc = '';
+            parts.forEach((p, i) => {
+                acc = acc ? `${acc}/${p}` : p;
+                if (i === parts.length - 1) html += `<span class="breadcrumb-current"> / ${p}</span>`;
+                else html += `<span class="breadcrumb-item" onclick="loadDirectory('${acc}')"> / ${p}</span>`;
+            });
+            document.getElementById('breadcrumb').innerHTML = html;
+        }
+
+        function renderContent(data) {
+            const c = document.getElementById('content');
+            if (!data.directories.length && !data.files.length) { showEmpty('空目录'); return; }
+            if (currentView === 'grid') renderGrid(c, data);
+            else renderList(c, data);
+        }
+
+        function showEmpty(msg) {
+            document.getElementById('content').innerHTML = `<div class="empty-state"><div class="empty-state-icon">📭</div><h3>${msg}</h3></div>`;
+        }
+
+        function renderGrid(c, data) {
+            let h = '<div class="file-grid">';
+            if (data.parent) h += `<div class="file-card directory" onclick="loadDirectory('${data.parent.path}')"><div class="file-icon">📁</div><div class="file-name">${data.parent.name}</div></div>`;
+            data.directories.forEach(d => {
+                h += `<div class="file-card directory" onclick="loadDirectory('${d.path}')"><div class="file-card-actions"><button class="action-btn note" onclick="event.stopPropagation();editNote('${d.path}')" title="备注">📝</button><button class="action-btn move" onclick="event.stopPropagation();showMoveModal('${d.path}')" title="移动">📤</button><button class="action-btn download" onclick="event.stopPropagation();downloadItem('${d.path}')" title="下载">⬇️</button><button class="action-btn delete" onclick="event.stopPropagation();confirmDelete('${d.path}')" title="删除">🗑️</button></div><div class="file-icon">📁</div><div class="file-name">${esc(d.name)}</div>${d.has_note ? `<div class="file-note" title="${esc(d.note)}">${truncate(d.note,50)}</div>`:''}<div class="file-meta"><span>${d.items_count}项</span><span>${d.modified.split(' ')[0]}</span></div></div>`;
+            });
+            data.files.forEach(f => {
+                const icon = getIcon(f.extension);
+                h += `<div class="file-card" onclick="viewFile('${f.path}')"><div class="file-card-actions">${OPENABLE.includes(f.extension)?`<button class="action-btn" onclick="event.stopPropagation();openDirect('${f.path}')" title="打开">🔗</button>`:''}${EDITABLE.includes(f.extension)?`<button class="action-btn" onclick="event.stopPropagation();editFile('${f.path}')" title="编辑">✏️</button>`:''}<button class="action-btn move" onclick="event.stopPropagation();showMoveModal('${f.path}')" title="移动">📤</button><button class="action-btn download" onclick="event.stopPropagation();downloadItem('${f.path}')" title="下载">⬇️</button><button class="action-btn delete" onclick="event.stopPropagation();confirmDelete('${f.path}')" title="删除">🗑️</button></div><div class="file-icon">${icon}</div><div class="file-name">${esc(f.name)}</div><div class="file-meta"><span>${f.size_formatted}</span><span>${f.modified.split(' ')[0]}</span></div></div>`;
+            });
+            c.innerHTML = h + '</div>';
+        }
+
+        function renderList(c, data) {
+            let h = '<div class="file-list"><div class="file-list-header"><div></div><div>名称</div><div>大小</div><div>修改时间</div><div>操作</div></div>';
+            if (data.parent) h += `<div class="file-list-item" onclick="loadDirectory('${data.parent.path}')"><div></div><div class="file-list-info"><span>${data.parent.name}</span></div><div>-</div><div>父目录</div><div></div></div>`;
+            data.directories.forEach(d => {
+                h += `<div class="file-list-item"><div></div><div class="file-list-info" onclick="loadDirectory('${d.path}')" style="cursor:pointer"><span style="font-weight:600">📁 ${esc(d.name)}</span>${d.has_note?`<span class="file-list-note" title="${esc(d.note)}">${truncate(d.note,30)}</span>`:''}</div><div>${d.items_count}项</div><div>${d.modified.split(' ')[0]}</div><div class="file-list-actions"><button class="btn btn-sm btn-info" onclick="editNote('${d.path}')" title="备注">📝</button><button class="btn btn-sm btn-secondary" onclick="showMoveModal('${d.path}')" title="移动">📤</button><button class="btn btn-sm btn-primary" onclick="downloadItem('${d.path}')" title="下载">⬇️</button><button class="btn btn-sm btn-danger" onclick="confirmDelete('${d.path}')" title="删除">🗑️</button></div></div>`;
+            });
+            data.files.forEach(f => {
+                h += `<div class="file-list-item"><div></div><div class="file-list-info" onclick="viewFile('${f.path}')" style="cursor:pointer"><span style="font-weight:600">${getIcon(f.extension)} ${esc(f.name)}</span></div><div>${f.size_formatted}</div><div>${f.modified.split(' ')[0]}</div><div class="file-list-actions">${OPENABLE.includes(f.extension)?`<button class="btn btn-sm btn-info" onclick="openDirect('${f.path}')" title="打开">🔗</button>`:''}${EDITABLE.includes(f.extension)?`<button class="btn btn-sm btn-warning" onclick="editFile('${f.path}')" title="编辑">✏️</button>`:''}<button class="btn btn-sm btn-success" onclick="downloadItem('${f.path}')" title="下载">⬇️</button><button class="btn btn-sm btn-secondary" onclick="showMoveModal('${f.path}')" title="移动">📤</button><button class="btn btn-sm btn-danger" onclick="confirmDelete('${f.path}')" title="删除">🗑️</button></div></div>`;
+            });
+            c.innerHTML = h + '</div>';
+        }
+
+        function getIcon(ext) { return {'.md':'📝','.txt':'📄','.py':'🐍','.js':'📜','.html':'🌐','.htm':'🌐','.css':'🎨','.json':'📋','.yaml':'⚙️','.yml':'⚙️','.svg':'🖼️'}[ext] || '📄'; }
+        function esc(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+        function truncate(s, n) { return s.length > n ? s.substring(0, n) + '...' : s; }
+
+        async function viewFile(path) { await openFileModal(path, false); }
+        async function editFile(path) { await openFileModal(path, true); }
+
+        async function openFileModal(path, isEdit) {
+            try {
+                const res = await fetch(`/api/file/content?path=${encodeURIComponent(path)}`);
+                const data = await res.json();
+                if (data.error) { showToast(data.error, 'error'); return; }
+                currentFilePath = path;
+                originalContent = data.content;
+                currentFileType = data.extension;
+                document.getElementById('modal-file-name').textContent = data.name;
+                document.getElementById('modal-file-icon').textContent = getIcon(data.extension);
+                const editor = document.getElementById('file-editor');
+                editor.value = data.content;
+                editor.readOnly = false;
+                editor.disabled = false;
+                // 显示/隐藏新窗口打开按钮
+                const openBtn = document.getElementById('open-new-btn');
+                if (openBtn) openBtn.style.display = OPENABLE.includes(data.extension) ? 'inline-flex' : 'none';
+                document.getElementById('markdown-preview').innerHTML = '';
+                document.getElementById('html-preview').src = 'about:blank';
+                document.getElementById('view-modal').classList.add('active');
+                // 设置初始模式：编辑模式直接显示保存按钮，查看模式从预览开始
+                const initialMode = isEdit ? 'edit' : (RENDERABLE.includes(data.extension) ? 'preview' : (data.extension === '.md' ? 'split' : 'edit'));
+                setEditorMode(initialMode);
+                // 聚焦编辑器
+                setTimeout(() => { 
+                    editor.focus(); 
+                    if (isEdit) editor.select();
+                }, 100);
+            } catch (e) { showToast('加载失败：' + e.message, 'error'); }
+        }
+
+        function setEditorMode(mode) {
+            editorMode = mode;
+            const ep = document.getElementById('editor-pane'), pp = document.getElementById('preview-pane');
+            const saveBtn = document.getElementById('save-btn');
+            if (!ep || !pp) return;
+            
+            // 清除所有 tab 激活状态
+            document.getElementById('btn-mode-edit').classList.remove('active');
+            document.getElementById('btn-mode-preview').classList.remove('active');
+            document.getElementById('btn-mode-split').classList.remove('active');
+            
+            if (mode === 'edit') {
+                ep.style.display = 'block';
+                ep.style.pointerEvents = 'auto';
+                pp.style.display = 'none';
+                document.getElementById('btn-mode-edit').classList.add('active');
+                // 编辑模式下显示保存按钮
+                if (saveBtn) saveBtn.style.display = 'inline-flex';
+                setTimeout(() => document.getElementById('file-editor').focus(), 50);
+            }
+            else if (mode === 'preview') {
+                ep.style.display = 'none';
+                ep.style.pointerEvents = 'none';
+                pp.style.display = 'block';
+                document.getElementById('btn-mode-preview').classList.add('active');
+                // 预览模式下隐藏保存按钮
+                if (saveBtn) saveBtn.style.display = 'none';
+                updatePreview();
+            }
+            else {
+                ep.style.display = 'block';
+                ep.style.pointerEvents = 'auto';
+                pp.style.display = 'block';
+                document.getElementById('btn-mode-split').classList.add('active');
+                // 分屏模式下显示保存按钮
+                if (saveBtn) saveBtn.style.display = 'inline-flex';
+                updatePreview();
+                setTimeout(() => document.getElementById('file-editor').focus(), 50);
+            }
+        }
+
+        function updatePreview() {
+            const content = document.getElementById('file-editor').value;
+            const mp = document.getElementById('markdown-preview'), hp = document.getElementById('html-preview');
+            if (!mp || !hp) return;
+            if (RENDERABLE.includes(currentFileType)) {
+                mp.style.display = 'none'; hp.style.display = 'block';
+                hp.src = 'data:text/html;charset=utf-8,' + encodeURIComponent(content);
+            } else if (currentFileType === '.md') {
+                hp.style.display = 'none'; mp.style.display = 'block';
+                if (typeof marked !== 'undefined') mp.innerHTML = marked.parse(content);
+            }
+        }
+
+        async function saveFile() {
+            const content = document.getElementById('file-editor').value;
+            try {
+                const res = await fetch('/api/file/save', { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({path: currentFilePath, content}) });
+                const data = await res.json();
+                if (data.error) { showToast(data.error, 'error'); }
+                else { originalContent = content; updatePreview(); showToast('已保存', 'success'); closeModal(); loadDirectory(currentPath); loadStats(); }
+            } catch (e) { showToast('保存失败', 'error'); }
+        }
+
+        function closeModal() {
+            const editor = document.getElementById('file-editor');
+            if (editor && editor.value !== originalContent && !confirm('有未保存的修改，确定关闭？')) return;
+            document.getElementById('view-modal').classList.remove('active');
+        }
+
+        function showCreateModal(type) {
+            createType = type;
+            document.getElementById('create-icon').textContent = type === 'dir' ? '📁' : '📄';
+            document.getElementById('create-title').textContent = type === 'dir' ? '新建目录' : '新建文件';
+            document.getElementById('create-content-group').style.display = type === 'file' ? 'block' : 'none';
+            document.getElementById('create-name').value = '';
+            document.getElementById('create-content').value = '';
+            document.getElementById('create-modal').classList.add('active');
+            document.getElementById('create-name').focus();
+        }
+
+        function closeCreateModal() { document.getElementById('create-modal').classList.remove('active'); }
+
+        async function confirmCreate() {
+            const name = document.getElementById('create-name').value.trim();
+            if (!name) { showToast('名称不能为空', 'error'); return; }
+            const endpoint = createType === 'dir' ? '/api/create/dir' : '/api/create/file';
+            const body = {path: currentPath, name};
+            if (createType === 'file') body.content = document.getElementById('create-content').value;
+            try {
+                const res = await fetch(endpoint, {method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(body)});
+                const data = await res.json();
+                if (data.error) { showToast(data.error, 'error'); }
+                else { showToast(data.message, 'success'); closeCreateModal(); loadDirectory(currentPath); }
+            } catch (e) { showToast('创建失败', 'error'); }
+        }
+
+        async function editNote(path) {
+            noteTargetPath = path;
+            try {
+                const res = await fetch(`/api/notes/get?path=${encodeURIComponent(path)}`);
+                const data = await res.json();
+                document.getElementById('note-input').value = data.note || '';
+                document.getElementById('note-modal').classList.add('active');
+            } catch (e) { showToast('加载失败', 'error'); }
+        }
+
+        function closeNoteModal() { document.getElementById('note-modal').classList.remove('active'); }
+
+        async function saveNote() {
+            const note = document.getElementById('note-input').value;
+            try {
+                const res = await fetch('/api/notes/save', {method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({path: noteTargetPath, note})});
+                const data = await res.json();
+                if (data.error) { showToast(data.error, 'error'); }
+                else { showToast('已保存', 'success'); closeNoteModal(); loadDirectory(currentPath); }
+            } catch (e) { showToast('保存失败', 'error'); }
+        }
+
+        function confirmDelete(path) { deleteTarget = path; document.getElementById('delete-path').textContent = path; document.getElementById('delete-modal').classList.add('active'); }
+        function closeDeleteModal() { document.getElementById('delete-modal').classList.remove('active'); deleteTarget = null; }
+
+        document.getElementById('confirm-delete-btn').addEventListener('click', async () => {
+            if (!deleteTarget) return;
+            try {
+                const res = await fetch('/api/delete', {method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({path: deleteTarget})});
+                const data = await res.json();
+                showToast(data.error || data.message, data.error ? 'error' : 'success');
+                if (!data.error) { closeDeleteModal(); loadDirectory(currentPath); loadStats(); }
+            } catch (e) { showToast('删除失败', 'error'); }
+        });
+
+        function showMoveModal(path) {
+            moveTarget = path;
+            document.getElementById('move-source-path').textContent = `源路径：${path}`;
+            document.getElementById('move-dest-input').value = '';
+            document.getElementById('move-modal').classList.add('active');
+            // 加载目录树
+            loadMoveTree();
+            setTimeout(() => document.getElementById('move-dest-input').focus(), 100);
+        }
+
+        function closeMoveModal() {
+            document.getElementById('move-modal').classList.remove('active');
+            moveTarget = null;
+        }
+
+        async function confirmMove() {
+            if (!moveTarget) return;
+            const destPath = document.getElementById('move-dest-input').value.trim();
+            if (!destPath) {
+                showToast('请选择或输入目标路径', 'error');
+                return;
+            }
+            // 构建完整目标路径
+            const sourceParts = moveTarget.split('/');
+            const sourceName = sourceParts[sourceParts.length - 1];
+            const fullDestPath = destPath === '.' ? sourceName : `${destPath}/${sourceName}`;
+            
+            try {
+                const res = await fetch('/api/move', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({source: moveTarget, dest: fullDestPath})
+                });
+                const data = await res.json();
+                showToast(data.error || data.message, data.error ? 'error' : 'success');
+                if (!data.error) {
+                    closeMoveModal();
+                    loadDirectory(currentPath);
+                    loadStats();
+                }
+            } catch (e) {
+                showToast('移动失败：' + e.message, 'error');
+            }
+        }
+
+        async function downloadItem(path) {
+            const url = `/api/download?path=${encodeURIComponent(path)}`;
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = '';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            showToast('开始下载：' + path, 'success');
+        }
+
+        async function loadMoveTree() {
+            try {
+                const res = await fetch('/api/tree?path=');
+                const data = await res.json();
+                if (data.error) return;
+                const treeContainer = document.getElementById('move-tree');
+                treeContainer.innerHTML = renderTreeNode(data, 0);
+                treeContainer.style.display = 'block';
+            } catch (e) {
+                console.error('加载目录树失败:', e);
+            }
+        }
+
+        function renderTreeNode(node, depth) {
+            let html = '';
+            if (node.type === 'directory') {
+                const hasChildren = node.children && node.children.length > 0;
+                html += `<div class="tree-node">`;
+                html += `<div class="tree-item" onclick="selectMoveDest('${node.path}')">
+                    ${hasChildren ? `<span class="tree-toggle" onclick="toggleTreeChildren(event, '${node.path}')">▼</span>` : '<span class="tree-toggle"></span>'}
+                    <span>📁</span>
+                    <span>${esc(node.name)}</span>
+                </div>`;
+                if (hasChildren) {
+                    html += `<div class="tree-children" id="tree-${node.path.replace(/\//g, '-')}">`;
+                    node.children.forEach(child => {
+                        html += renderTreeNode(child, depth + 1);
+                    });
+                    html += `</div>`;
+                }
+                html += `</div>`;
+            }
+            return html;
+        }
+
+        function toggleTreeChildren(event, path) {
+            event.stopPropagation();
+            const childrenDiv = document.getElementById(`tree-${path.replace(/\//g, '-')}`);
+            if (childrenDiv) {
+                childrenDiv.style.display = childrenDiv.style.display === 'none' ? 'block' : 'none';
+            }
+        }
+
+        function selectMoveDest(path) {
+            document.getElementById('move-dest-input').value = path;
+            // 清除其他选中状态
+            document.querySelectorAll('.tree-item').forEach(item => item.classList.remove('selected'));
+            // 添加选中状态（通过事件目标）
+            event.currentTarget.classList.add('selected');
+        }
+
+        async function searchFiles() {
+            const q = document.getElementById('search-input').value.trim();
+            if (!q) { loadDirectory(''); return; }
+            document.getElementById('content').innerHTML = '<div class="loading"><div class="spinner"></div></div>';
+            try {
+                const res = await fetch(`/api/search?q=${encodeURIComponent(q)}`);
+                const data = await res.json();
+                if (data.error) { document.getElementById('content').innerHTML = `<div class="empty-state"><h3>${data.error}</h3></div>`; return; }
+                const total = data.files.length + data.directories.length;
+                if (!total) { document.getElementById('content').innerHTML = `<div class="empty-state"><div class="empty-state-icon">🔍</div><h3>未找到</h3></div>`; return; }
+                let h = '<div class="file-grid">';
+                data.directories.forEach(d => h += `<div class="file-card directory" onclick="loadDirectory('${d.path}')"><div class="file-icon">📁</div><div class="file-name">${esc(d.name)}</div><div class="file-meta">${d.path}</div></div>`);
+                data.files.forEach(f => h += `<div class="file-card" onclick="viewFile('${f.path}')"><div class="file-icon">${getIcon(f.extension)}</div><div class="file-name">${esc(f.name)}</div><div class="file-meta">${f.path}</div></div>`);
+                document.getElementById('content').innerHTML = h + '</div>';
+                document.getElementById('breadcrumb').innerHTML = `<span class="breadcrumb-item" onclick="loadDirectory('')">📂 projects</span><span class="breadcrumb-current"> / 🔍 ${q} (${total})</span>`;
+            } catch (e) { document.getElementById('content').innerHTML = `<div class="empty-state"><h3>搜索失败</h3></div>`; }
+        }
+
+        async function loadStats() {
+            try {
+                const res = await fetch('/api/stats');
+                const d = await res.json();
+                document.getElementById('stat-files').textContent = d.total_files;
+                document.getElementById('stat-dirs').textContent = d.total_dirs;
+                document.getElementById('stat-size').textContent = d.total_size;
+            } catch (e) {}
+        }
+
+        function setView(v) { currentView = v; document.getElementById('grid-view-btn').classList.toggle('active', v === 'grid'); document.getElementById('list-view-btn').classList.toggle('active', v === 'list'); loadDirectory(currentPath); }
+        function showToast(msg, type = 'success') { const t = document.getElementById('toast'); t.textContent = msg; t.className = `toast ${type} show`; setTimeout(() => t.classList.remove('show'), 2500); }
+        function openInNewTab() { if (currentFilePath) window.open(`/api/file/open?path=${encodeURIComponent(currentFilePath)}`, '_blank'); }
+        function openDirect(path) { window.open(`/api/file/open?path=${encodeURIComponent(path)}`, '_blank'); }
+
+        document.querySelectorAll('.modal-overlay').forEach(o => o.addEventListener('click', e => { if (e.target === o) { if (o.id === 'view-modal') closeModal(); else if (o.id === 'create-modal') closeCreateModal(); else if (o.id === 'note-modal') closeNoteModal(); else if (o.id === 'delete-modal') closeDeleteModal(); else if (o.id === 'move-modal') closeMoveModal(); }}));
+
+        // 优化：只在停止输入 500ms 后才更新预览
+        document.addEventListener('DOMContentLoaded', () => {
+            const editor = document.getElementById('file-editor');
+            if (editor) {
+                editor.addEventListener('input', () => {
+                    if (previewTimer) clearTimeout(previewTimer);
+                    if (editorMode === 'split' || editorMode === 'preview') {
+                        if (currentFileType === '.md' || RENDERABLE.includes(currentFileType)) {
+                            previewTimer = setTimeout(updatePreview, 500);
+                        }
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+</html>

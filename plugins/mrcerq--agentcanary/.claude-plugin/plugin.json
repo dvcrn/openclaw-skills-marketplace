@@ -1,0 +1,10 @@
+{
+  "name": "mrcerq--agentcanary",
+  "description": "Market intelligence API for AI agents. Macro regime detection, risk scoring, trading signals (IGNITION/ACCUMULATION/DISTRIBUTION/CAPITULATION), whale alerts, funding arbitrage, orderbook analytics, 29 technical indicators, RSI screening (606 coins), breaking news with FinBERT sentiment, economic calendar, treasury tracking, and Polymarket odds. 33 endpoints, 1181 assets, 250+ sources. Use when an agent needs macro regime context, risk assessment, position sizing guidance, market structure data, whale activity monitoring, or news sentiment. API-only — no local execution, no filesystem access, no secrets in prompt.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrcerq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrcerq/agentcanary",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrcerq/agentcanary"
+}

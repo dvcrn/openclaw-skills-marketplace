@@ -1,0 +1,10 @@
+{
+  "name": "ekalb81--langfuse-continuous-optimizer",
+  "description": "Continuous LangFuse-driven optimization loop for OpenClaw/OpenRouter model routing and prompt usage controls with persistent local memory. Use when Codex needs to ingest LangFuse observations and evaluator scores, generate task-level routing policy JSON, and run scheduled safe promotion cycles that tune cost-quality-latency tradeoffs automatically.",
+  "version": "0.0.2",
+  "author": {
+    "name": "ekalb81"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ekalb81/langfuse-continuous-optimizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ekalb81/langfuse-continuous-optimizer"
+}

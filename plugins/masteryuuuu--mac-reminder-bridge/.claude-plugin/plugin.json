@@ -1,0 +1,10 @@
+{
+  "name": "masteryuuuu--mac-reminder-bridge",
+  "description": "Manage macOS Reminders.app from Docker via HTTP bridge. Use when user says: set/add/create a reminder, remind me to X, cancel/delete a reminder, mark reminder done/complete, update/edit a reminder, show/list my reminders. Requires listener.py running on Mac at port 5000.",
+  "version": "2.1.2",
+  "author": {
+    "name": "masteryuuuu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/masteryuuuu/mac-reminder-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/masteryuuuu/mac-reminder-bridge"
+}

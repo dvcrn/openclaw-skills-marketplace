@@ -1,0 +1,10 @@
+{
+  "name": "addogiavara-tech--auto-building",
+  "description": "基于 AUTO-BUILDING 源码，生成定制化信息采集管理系统。用户指定栏目、分类、数据源后，系统自动采集、审核、发布内容。",
+  "version": "1.0.0",
+  "author": {
+    "name": "addogiavara-tech"
+  },
+  "homepage": "https://sora.wboke.com/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/addogiavara-tech/auto-building"
+}

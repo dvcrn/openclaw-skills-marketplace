@@ -1,0 +1,10 @@
+{
+  "name": "tebjan--vvvv-testing",
+  "description": "Set up and run automated tests for vvvv gamma packages and C# nodes -- VL.TestFramework with NUnit for library/package authors (CI-ready), test .vl patches with assertion nodes, and lightweight agent-driven test workflows. Use when writing tests for vvvv packages, setting up test infrastructure, creating test patches, running automated compilation checks, or integrating vvvv tests into CI/CD.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tebjan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tebjan/vvvv-testing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tebjan/vvvv-testing"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lskun--douyin-dl",
+  "description": "Download Douyin (抖音) short videos from URLs. Supports direct video links, search page links with modal_id, share links (v.douyin.com), and note links. Uses headless browser to bypass anti-scraping and extract video source. Use when asked to \"download douyin video\", \"下载抖音视频\", \"save douyin clip\", or given any douyin.com URL to download.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lskun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lskun/douyin-dl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lskun/douyin-dl"
+}

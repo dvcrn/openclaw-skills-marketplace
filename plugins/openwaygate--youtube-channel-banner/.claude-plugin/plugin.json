@@ -1,0 +1,10 @@
+{
+  "name": "openwaygate--youtube-channel-banner",
+  "description": "Manage YouTube channel banners. Use this skill to insert or upload channel banners. Useful when working with YouTube channel banner — provides commands to insert channel banner via the yutu CLI. Includes setup and installation instructions for first-time users. Triggers: insert a channel banner, insert channel banner, insert my channel banner",
+  "version": "0.10.6-3",
+  "author": {
+    "name": "openwaygate"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openwaygate/youtube-channel-banner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openwaygate/youtube-channel-banner"
+}

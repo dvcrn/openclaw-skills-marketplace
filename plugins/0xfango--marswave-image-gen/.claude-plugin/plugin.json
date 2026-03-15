@@ -1,0 +1,10 @@
+{
+  "name": "0xfango--marswave-image-gen",
+  "description": "Generate AI images from text prompts. Triggers on: \"生成图片\", \"画一张\",\n \"AI图\", \"generate image\", \"配图\", \"create picture\", \"draw\", \"visualize\",\n \"generate an image\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "0xfango"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xfango/marswave-image-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xfango/marswave-image-gen"
+}

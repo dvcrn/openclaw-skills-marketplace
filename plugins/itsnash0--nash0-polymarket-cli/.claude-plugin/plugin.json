@@ -1,0 +1,10 @@
+{
+  "name": "itsnash0--nash0-polymarket-cli",
+  "description": "Use the Polymarket CLI (`polymarket`) to browse markets, inspect order books and prices, check public wallet data, review account state, and place or cancel orders. Use when a user asks to interact with Polymarket from the terminal, especially for: (1) listing, searching, and fetching markets or events, (2) reading CLOB books, spreads, midpoints, and price history, (3) checking positions, volume, holders, or leaderboards, (4) reviewing approval or account status, or (5) trading via `clob` commands. Never run wallet-management commands or read local private-key config files.",
+  "version": "0.1.0",
+  "author": {
+    "name": "itsnash0"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/itsnash0/nash0-polymarket-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/itsnash0/nash0-polymarket-cli"
+}

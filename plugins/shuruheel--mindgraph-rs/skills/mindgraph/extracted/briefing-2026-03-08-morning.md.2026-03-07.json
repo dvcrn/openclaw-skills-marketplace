@@ -1,0 +1,290 @@
+{
+  "meta": {
+    "source_path": "/home/node/.openclaw/workspace/memory/geopolitics/briefing-2026-03-08-morning.md",
+    "extracted_at": "2026-03-07T23:03:39.565Z",
+    "model": "google/gemini-3-flash-preview",
+    "summarized": false,
+    "file_hash": "0a1818bd71a254fa",
+    "file_size": 3611,
+    "node_count": 22,
+    "edge_count": 15,
+    "entity_resolution": {
+      "checked": 8,
+      "resolved": 0,
+      "canonicalized": 0
+    }
+  },
+  "nodes": [
+    {
+      "label": "Pezeshkian Neighbor Policy Offer",
+      "type": "Observation",
+      "summary": "President Pezeshkian offered to halt attacks on neighbors, triggering internal backlash from IRGC hardliners.",
+      "props": {
+        "observed_at": 1772928000,
+        "content": "President Pezeshkian's offer to halt attacks on neighbors has triggered a significant internal backlash from hardline IRGC factions."
+      }
+    },
+    {
+      "label": "IRGC Hardline Backlash",
+      "type": "Observation",
+      "summary": "Hardline IRGC factions view Pezeshkian's de-escalation offer as a sign of weakness.",
+      "props": {
+        "observed_at": 1772928000,
+        "content": "IRGC factions view the move as a sign of weakness following the offer to halt attacks."
+      }
+    },
+    {
+      "label": "Iranian Military Base Damage",
+      "type": "Observation",
+      "summary": "Satellite imagery confirms extensive and precise damage to several Iranian military bases from US-Israel strikes.",
+      "props": {
+        "observed_at": 1772841600,
+        "content": "New satellite imagery confirms 'extensive and precise' damage to several Iranian military bases following the latest US-Israel strikes."
+      }
+    },
+    {
+      "label": "Iran Leadership Split",
+      "type": "Claim",
+      "summary": "An internal split within Iran's provisional leadership council increases the risk of rogue IRGC retaliations.",
+      "props": {
+        "truth_status": "confirmed",
+        "certainty_degree": 0.8,
+        "content": "The internal split within the provisional leadership council increases the risk of 'rogue' IRGC retaliations and further instability."
+      }
+    },
+    {
+      "label": "Trump-Starmer Iran Conflict Dismissal",
+      "type": "Observation",
+      "summary": "President Trump told UK PM Keir Starmer that American help is not needed to resolve the Iran conflict.",
+      "props": {
+        "observed_at": 1772841600,
+        "content": "President Trump explicitly told UK PM Keir Starmer that American 'help is not needed' to resolve the Iran conflict."
+      }
+    },
+    {
+      "label": "US-UK Military Coordination Decline",
+      "type": "Claim",
+      "summary": "Public dismissal of the UK's role signals a historic low in US-UK military coordination and diplomatic deference.",
+      "props": {
+        "truth_status": "confirmed",
+        "certainty_degree": 0.9,
+        "content": "Signals a historic low in US-UK military coordination and diplomatic deference."
+      }
+    },
+    {
+      "label": "US Embassy Baghdad Attack",
+      "type": "Observation",
+      "summary": "The US Embassy in Baghdad was attacked by regional proxies in response to the war on Iran.",
+      "props": {
+        "observed_at": 1772841600,
+        "content": "The US Embassy in Baghdad was attacked as regional proxies respond to the escalating war on Iran."
+      }
+    },
+    {
+      "label": "Israeli Lebanon Raid Failure",
+      "type": "Observation",
+      "summary": "An Israeli raid in Lebanon to recover pilot remains failed, leading to dozens of casualties in retaliatory strikes.",
+      "props": {
+        "observed_at": 1772841600,
+        "content": "An Israeli raid seeking a missing pilot's remains failed, resulting in dozens of casualties in subsequent retaliatory strikes."
+      }
+    },
+    {
+      "label": "Middle East Conflict Horizontalization",
+      "type": "Claim",
+      "summary": "The Iran conflict is rapidly spreading across Iraq and Lebanon, drawing in local actors.",
+      "props": {
+        "truth_status": "confirmed",
+        "certainty_degree": 0.85,
+        "content": "The conflict is rapidly horizontalizing across Iraq and Lebanon, drawing in local actors and threatening US diplomatic outposts."
+      }
+    },
+    {
+      "label": "Kharkiv New Missile Strike",
+      "type": "Observation",
+      "summary": "Russia launched a new type of missile at Kharkiv, killing at least 10 people including children.",
+      "props": {
+        "observed_at": 1772841600,
+        "content": "Russia launched a 'new type of missile' at Kharkiv, killing at least 10 people, including children."
+      }
+    },
+    {
+      "label": "Russia Exploiting Epic Fury Distraction",
+      "type": "Claim",
+      "summary": "Russia is using the US focus on Iran (Epic Fury) to test new munitions and cement front-line gains in Ukraine.",
+      "props": {
+        "truth_status": "confirmed",
+        "certainty_degree": 0.9,
+        "content": "Russia is exploiting the 'Epic Fury' distraction to test new munitions and cement front-line gains without the risk of major US diplomatic intervention."
+      }
+    },
+    {
+      "label": "Iran Regime Fall Market",
+      "type": "Evidence",
+      "summary": "Prediction market for Iran Regime Fall is at 31.1%, up from 19 cents.",
+      "props": {
+        "evidence_type": "prediction_market",
+        "quantitative_value": "31.1%"
+      }
+    },
+    {
+      "label": "Kristi Noem Cabinet Exit",
+      "type": "Observation",
+      "summary": "Kristi Noem's exit may signal a wider US Cabinet reshuffle as Trump prioritizes wartime leadership.",
+      "props": {
+        "observed_at": 1772928000,
+        "content": "Kristi Noem's exit may signal a wider Cabinet reshuffle as Trump prioritizes wartime leadership."
+      }
+    },
+    {
+      "label": "PLA Huangyan Dao Patrols",
+      "type": "Observation",
+      "summary": "PLA readiness patrols around Huangyan Dao suggest China is monitoring US carrier group movements.",
+      "props": {
+        "observed_at": 1772928000,
+        "content": "PLA readiness patrols around Huangyan Dao suggest Beijing is monitoring US carrier group movements."
+      }
+    },
+    {
+      "label": "Masoud Pezeshkian",
+      "type": "Entity",
+      "summary": "President of Iran who offered a neighbor de-escalation policy.",
+      "props": {
+        "entity_type": "person"
+      }
+    },
+    {
+      "label": "IRGC",
+      "type": "Entity",
+      "summary": "Islamic Revolutionary Guard Corps, currently experiencing internal friction with the Iranian presidency.",
+      "props": {
+        "entity_type": "organization"
+      }
+    },
+    {
+      "label": "Donald Trump",
+      "type": "Entity",
+      "summary": "President of the United States during the 2026 Iran conflict.",
+      "props": {
+        "entity_type": "person"
+      }
+    },
+    {
+      "label": "Keir Starmer",
+      "type": "Entity",
+      "summary": "Prime Minister of the United Kingdom.",
+      "props": {
+        "entity_type": "person"
+      }
+    },
+    {
+      "label": "Kristi Noem",
+      "type": "Entity",
+      "summary": "US official whose exit signals a potential Cabinet reshuffle.",
+      "props": {
+        "entity_type": "person"
+      }
+    },
+    {
+      "label": "PLA",
+      "type": "Entity",
+      "summary": "People's Liberation Army of China.",
+      "props": {
+        "entity_type": "organization"
+      }
+    },
+    {
+      "label": "Epic Fury",
+      "type": "Entity",
+      "summary": "Likely codename for the US-Israel military operation against Iran.",
+      "props": {
+        "entity_type": "technology"
+      }
+    },
+    {
+      "label": "Tim Cook",
+      "type": "Entity",
+      "summary": "Apple CEO, subject of prediction markets regarding his tenure.",
+      "props": {
+        "entity_type": "person"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "Pezeshkian Neighbor Policy Offer",
+      "to": "IRGC Hardline Backlash",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "IRGC Hardline Backlash",
+      "to": "Iran Leadership Split",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "Iranian Military Base Damage",
+      "to": "Iran Leadership Split",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "Trump-Starmer Iran Conflict Dismissal",
+      "to": "US-UK Military Coordination Decline",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "US Embassy Baghdad Attack",
+      "to": "Middle East Conflict Horizontalization",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "Israeli Lebanon Raid Failure",
+      "to": "Middle East Conflict Horizontalization",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "Kharkiv New Missile Strike",
+      "to": "Russia Exploiting Epic Fury Distraction",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "Iran Regime Fall Market",
+      "to": "Iran Leadership Split",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Masoud Pezeshkian",
+      "to": "Pezeshkian Neighbor Policy Offer",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "IRGC",
+      "to": "IRGC Hardline Backlash",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Donald Trump",
+      "to": "Trump-Starmer Iran Conflict Dismissal",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Keir Starmer",
+      "to": "Trump-Starmer Iran Conflict Dismissal",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Kristi Noem",
+      "to": "Kristi Noem Cabinet Exit",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "PLA",
+      "to": "PLA Huangyan Dao Patrols",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Epic Fury",
+      "to": "Russia Exploiting Epic Fury Distraction",
+      "type": "RELEVANT_TO"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "foscomputerservices--fosmvvm-leaf-view-generator",
+  "description": "Generate Leaf templates for FOSMVVM WebApps. Create full-page views and HTML-over-the-wire fragments that render ViewModels.",
+  "version": "2.0.6",
+  "author": {
+    "name": "foscomputerservices"
+  },
+  "homepage": "https://github.com/foscomputerservices/FOSUtilities",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/foscomputerservices/fosmvvm-leaf-view-generator"
+}

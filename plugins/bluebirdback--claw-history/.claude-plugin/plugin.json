@@ -1,0 +1,10 @@
+{
+  "name": "bluebirdback--claw-history",
+  "description": "Provide a chronological history of all actions the agent has taken from the beginning (birth) until now. Use when the user asks for full lifetime timeline/accountability, \"from birth until now,\" \"everything you've done so far,\" \"full action log,\" or equivalent chronological-history requests.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bluebirdback"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bluebirdback/claw-history",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bluebirdback/claw-history"
+}

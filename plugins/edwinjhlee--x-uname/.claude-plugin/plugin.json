@@ -1,0 +1,10 @@
+{
+  "name": "edwinjhlee--x-uname",
+  "description": "Enhanced `uname` command with colorized, structured output.\n Shows hostname, OS, kernel, architecture.\n \n **Dependency**: This is an x-cmd module. Install x-cmd first (see x-cmd skill for installation options).\n see x-cmd skill for installation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "edwinjhlee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/edwinjhlee/x-uname",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/edwinjhlee/x-uname"
+}

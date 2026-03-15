@@ -1,0 +1,10 @@
+{
+  "name": "vatsashah45--valiron-trust-layer",
+  "description": "Intercept and authorize outgoing machine-to-machine payments (x402 or similar) using @valiron/sdk trust decisions on the counterparty agent before payment execution. Use when implementing payment middleware, wallet spend guards, policy engines, trust-based allow/deny/throttle decisions, fail-open/fail-closed behavior, and auditable transaction risk controls.",
+  "version": "1.0.2",
+  "author": {
+    "name": "vatsashah45"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vatsashah45/valiron-trust-layer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vatsashah45/valiron-trust-layer"
+}

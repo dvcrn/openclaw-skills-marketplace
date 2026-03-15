@@ -1,0 +1,10 @@
+{
+  "name": "olearycrew--pinchbench",
+  "description": "Run PinchBench benchmarks to evaluate OpenClaw agent performance across real-world tasks. Use when testing model capabilities, comparing models, submitting benchmark results to the leaderboard, or checking how well your OpenClaw setup handles calendar, email, research, coding, and multi-step workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "olearycrew"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/olearycrew/pinchbench",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/olearycrew/pinchbench"
+}

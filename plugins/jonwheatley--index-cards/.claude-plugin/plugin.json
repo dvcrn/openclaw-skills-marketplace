@@ -1,0 +1,10 @@
+{
+  "name": "jonwheatley--index-cards",
+  "description": "Send real, physical greeting cards through the mail. Design custom cards with the user, print on premium cardstock, and mail with a first-class stamp. Use when the user wants to send a card, mentions a birthday or occasion, or asks about greeting cards. Requires a free API registration (POST /v1/auth/register returns a Bearer token). Works via API — no browser needed. Homepage https://indexcards.com — privacy policy at https://indexcards.com/privacy.",
+  "version": "1.3.1",
+  "author": {
+    "name": "jonwheatley"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jonwheatley/index-cards",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jonwheatley/index-cards"
+}

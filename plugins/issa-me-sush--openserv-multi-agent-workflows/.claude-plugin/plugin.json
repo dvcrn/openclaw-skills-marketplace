@@ -1,0 +1,10 @@
+{
+  "name": "issa-me-sush--openserv-multi-agent-workflows",
+  "description": "Multi-agent workflow examples to work together on the OpenServ Platform. Covers agent discovery, multi-agent workspaces, task dependencies, and workflow orchestration using the Platform Client. Read reference.md for the full API reference. Read openserv-agent-sdk and openserv-client for building and running agents.",
+  "version": "1.0.2",
+  "author": {
+    "name": "issa-me-sush"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/issa-me-sush/openserv-multi-agent-workflows",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/issa-me-sush/openserv-multi-agent-workflows"
+}

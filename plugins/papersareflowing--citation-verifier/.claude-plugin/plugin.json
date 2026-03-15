@@ -1,0 +1,10 @@
+{
+  "name": "papersareflowing--citation-verifier",
+  "description": "Verify, normalize, and enrich a single citation or paper identifier. Use when the user pastes a DOI, URL, arXiv ID, PubMed ID, citation string, or paper title and wants it checked.",
+  "version": "0.1.0",
+  "author": {
+    "name": "papersareflowing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/papersareflowing/citation-verifier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/papersareflowing/citation-verifier"
+}

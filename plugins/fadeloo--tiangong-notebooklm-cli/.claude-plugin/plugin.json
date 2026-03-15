@@ -1,0 +1,10 @@
+{
+  "name": "fadeloo--tiangong-notebooklm-cli",
+  "description": "NotebookLM CLI wrapper via `node {baseDir}/scripts/notebooklm.mjs`. Use for auth, notebooks, chat, sources, notes, sharing, research, and artifact generation/download.",
+  "version": "0.1.1",
+  "author": {
+    "name": "fadeloo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fadeloo/tiangong-notebooklm-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fadeloo/tiangong-notebooklm-cli"
+}

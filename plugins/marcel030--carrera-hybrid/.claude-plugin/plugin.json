@@ -1,0 +1,10 @@
+{
+  "name": "marcel030--carrera-hybrid",
+  "description": "Control Carrera HYBRID RC cars (by Sturmkind) via BLE. Use when user wants to drive, steer, control lights, write text with, or reverse-engineer Carrera HYBRID / Sturmkind RC cars over Bluetooth Low Energy. Supports Telegram remote control with inline buttons, MITM proxy for protocol sniffing, and text-drawing via driving paths.",
+  "version": "1.0.0",
+  "author": {
+    "name": "marcel030"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/marcel030/carrera-hybrid",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marcel030/carrera-hybrid"
+}

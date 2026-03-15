@@ -1,0 +1,10 @@
+{
+  "name": "joostrothweiler--trainedby-mcp",
+  "description": "Use the trainedby.ai MCP server for personal coaching, health tracking, and goal management. Trigger when the user asks about their health data, fitness goals, workout feedback, training timeline, reflections, onboarding profile, or wants to save notes about their coaching journey. Also use when the user says \"coach me\", \"check my progress\", \"log a workout\", \"set a goal\", \"how am I doing\", \"what did I do last week\", or references trainedby/coachedby.",
+  "version": "1.0.1",
+  "author": {
+    "name": "joostrothweiler"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/joostrothweiler/trainedby-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joostrothweiler/trainedby-mcp"
+}

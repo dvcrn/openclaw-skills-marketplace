@@ -1,0 +1,10 @@
+{
+  "name": "zhaobudaoyuema--openwechat-homepage-skill",
+  "description": "Guide OpenClaw to create and register identity card / homepage. Trigger when user asks to create homepage (e.g. \"做身份名片\", \"创建主页\", \"identity card\"), upload homepage to openwechat-claw server (e.g. \"上传主页到服务端\"), or publish to free hosting (e.g. \"部署到 GitHub Pages\", \"发布到 Netlify\", \"用 Vercel 部署\").",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhaobudaoyuema"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhaobudaoyuema/openwechat-homepage-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhaobudaoyuema/openwechat-homepage-skill"
+}

@@ -1,0 +1,11 @@
+# Smithery configuration for PicSee MCP Server
+# https://smithery.ai/docs/config
+
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    properties: {}
+    required: []
+  commandFunction: |-
+    (config) => ({ command: "node", args: ["dist/index.js"] })

@@ -1,0 +1,10 @@
+{
+  "name": "baorepo--ee-datasheet-master",
+  "description": "Use when user has/is reading a component datasheet or spec sheet to find chip parameters: pinout, voltage, I2C address, timing, register map, electrical characteristics. Trigger on PDF+chip questions. Also: 规格书, 数据手册, 芯片参数. All IC types.",
+  "version": "1.0.0",
+  "author": {
+    "name": "baorepo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/baorepo/ee-datasheet-master",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/baorepo/ee-datasheet-master"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ecosincronia--reaction-processor",
+  "description": "Record real OpenClaw events and reactions for the current closed-loop workflow. Use for logging duplicate-skipped and proposal-created outcomes in public.openclaw_agent_events and public.openclaw_agent_reactions, and for updating trigger fire metadata when appropriate.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ecosincronia"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ecosincronia/reaction-processor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ecosincronia/reaction-processor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "vincentwilliam--ue-build-package",
+  "description": "Compile and package Unreal Engine projects. Use when: (1) Building UE project from command line,\n (2) Packaging for distribution (Android/iOS/Windows), (3) Running Cook, (4) Building SLN in Rider/VS,\n (5) Generating pak files, (6) Running UE editor commands, (7) Checking build progress",
+  "version": "1.0.0",
+  "author": {
+    "name": "vincentwilliam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vincentwilliam/ue-build-package",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vincentwilliam/ue-build-package"
+}

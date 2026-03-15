@@ -1,0 +1,10 @@
+{
+  "name": "fmhall--agentcash-wallet",
+  "description": "Manage your agentcash wallet and call any x402-protected API with automatic payment. No API keys, no subscriptions — just a funded wallet (USDC on Base).\n\n USE FOR:\n - Checking wallet balance before API calls\n - Redeeming invite codes for free credits\n - Getting deposit address for USDC\n - Discovering endpoints and pricing on any x402-protected origin\n - Making paid API requests via the agentcash CLI\n - Troubleshooting payment failures\n\n TRIGGERS:\n - \"balance\", \"wallet\", \"funds\", \"credits\"\n - \"redeem\", \"invite code\", \"promo code\"\n - \"deposit\", \"add funds\", \"top up\"\n - \"discover\", \"endpoints\", \"what APIs\", \"pricing\"\n - \"insufficient balance\", \"payment failed\"",
+  "version": "0.1.0",
+  "author": {
+    "name": "fmhall"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fmhall/agentcash-wallet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fmhall/agentcash-wallet"
+}

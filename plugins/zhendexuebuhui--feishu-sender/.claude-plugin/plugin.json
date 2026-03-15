@@ -1,0 +1,10 @@
+{
+  "name": "zhendexuebuhui--feishu-sender",
+  "description": "Send messages and files to Feishu (Lark) via Open API. Supports text, markdown, any file format, and images. Use when user needs to send notifications, reports, or any content to Feishu/Lark groups or chats.",
+  "version": "1.0.1",
+  "author": {
+    "name": "zhendexuebuhui"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhendexuebuhui/feishu-sender",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhendexuebuhui/feishu-sender"
+}

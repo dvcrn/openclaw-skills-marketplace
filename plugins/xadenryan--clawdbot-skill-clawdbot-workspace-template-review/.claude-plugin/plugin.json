@@ -1,0 +1,10 @@
+{
+  "name": "xadenryan--clawdbot-skill-clawdbot-workspace-template-review",
+  "description": "Compare a Clawdbot workspace against the official templates installed with Clawdbot (npm or source) and list missing sections to pull in, especially after upgrades.",
+  "version": "0.1.0",
+  "author": {
+    "name": "xadenryan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xadenryan/clawdbot-skill-clawdbot-workspace-template-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xadenryan/clawdbot-skill-clawdbot-workspace-template-review"
+}

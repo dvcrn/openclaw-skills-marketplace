@@ -1,0 +1,10 @@
+{
+  "name": "shepsci--kaggle",
+  "description": "Unified Kaggle skill. Use when the user mentions kaggle, kaggle.com, Kaggle competitions, datasets, models, notebooks, GPUs, TPUs, badges, or anything Kaggle-related. Handles account setup, competition reports, dataset/model downloads, notebook execution, competition submissions, badge collection, and general Kaggle questions.",
+  "version": "1.0.1",
+  "author": {
+    "name": "shepsci"
+  },
+  "homepage": "https://github.com/shepsci/kaggle-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shepsci/kaggle"
+}

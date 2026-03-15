@@ -1,0 +1,10 @@
+{
+  "name": "vemec--memory-git-sync",
+  "description": "Automates the backup of the OpenClaw workspace to a remote Git repository. Handles large file exclusions, validates git configuration, and performs intelligent sync with conflict resolution.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vemec"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vemec/memory-git-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vemec/memory-git-sync"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "chunhualiao--wechat-article-extractor",
+  "description": "Extract full text and figures from a WeChat public account (微信公众号) article URL and save as a clean Markdown file. Handles WeChat's bot-detection by finding mirror sites automatically. Use when the user shares an mp.weixin.qq.com URL and asks to save, archive, extract, or read the article.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chunhualiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/wechat-article-extractor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/wechat-article-extractor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "juampihernandez--builder-data",
+  "description": "Query builder reputation data via Talent Protocol API. Get Builder Rank, verify humans, resolve identities (Twitter/Farcaster/GitHub/wallet), search by location/country, get credentials, and enrich with GitHub data.",
+  "version": "0.1.0",
+  "author": {
+    "name": "juampihernandez"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/juampihernandez/builder-data",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/juampihernandez/builder-data"
+}

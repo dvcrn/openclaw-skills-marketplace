@@ -1,0 +1,10 @@
+{
+  "name": "m0nkmaster--hivehome",
+  "description": "Control and query Hive Home (UK) smart heating, hot water, lights and devices via the unofficial API. Use when the user mentions Hive, Hive Home, Hive thermostat, smart heating, Hive app, British Gas Hive, or wants to automate or script Hive devices.",
+  "version": "1.0.1",
+  "author": {
+    "name": "m0nkmaster"
+  },
+  "homepage": "https://github.com/yourusername/agent-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/m0nkmaster/hivehome"
+}

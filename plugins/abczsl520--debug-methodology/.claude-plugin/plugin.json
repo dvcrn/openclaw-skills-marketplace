@@ -1,0 +1,10 @@
+{
+  "name": "abczsl520--debug-methodology",
+  "description": "Systematic debugging and problem-solving methodology. Activate when encountering unexpected errors, service failures, regression bugs, deployment issues, or when a fix attempt has failed twice. Also activate when proposing ANY fix to verify it addresses root cause (not a workaround). Prevents patch-chaining, wrong-environment restarts, workaround addiction, and \"drunk man\" random fixes.",
+  "version": "1.2.0",
+  "author": {
+    "name": "abczsl520"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abczsl520/debug-methodology",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abczsl520/debug-methodology"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--se3",
+  "description": "SE(3) rigid body transformation library for 3D rotation and translation operations. Use when working with robot poses, camera transformations, SLAM systems, or any 3D rigid body motion tasks. Supports SE(3) matrix operations, Lie group/algebra mappings (log/Log, exp/Exp), representation conversions (quaternion, axis-angle, Euler angles), and batch processing of trajectories.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/se3",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/se3"
+}

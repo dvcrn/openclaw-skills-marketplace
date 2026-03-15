@@ -1,0 +1,10 @@
+{
+  "name": "youdaolee--page-behavior-audit",
+  "description": "Deep behavioral audit with hashed policy (CSP-compliant, no plaintext badwords)",
+  "version": "1.0.7",
+  "author": {
+    "name": "youdaolee"
+  },
+  "homepage": "https://github.com/openclaw/page-behavior-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/youdaolee/page-behavior-audit"
+}

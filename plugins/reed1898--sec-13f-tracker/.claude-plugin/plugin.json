@@ -1,0 +1,10 @@
+{
+  "name": "reed1898--sec-13f-tracker",
+  "description": "Track top fund managers' holdings via SEC 13F filings. Fetches quarterly filings from SEC EDGAR, compares quarter-over-quarter changes (new positions, increases, decreases, exits), and generates analysis reports with cross-fund convergence insights. Use when user asks about hedge fund holdings, 13F filings, whale tracking, what Buffett/Dalio/Ackman/Soros/Cathie Wood are buying or selling, or institutional investor portfolio changes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "reed1898"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/reed1898/sec-13f-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/reed1898/sec-13f-tracker"
+}

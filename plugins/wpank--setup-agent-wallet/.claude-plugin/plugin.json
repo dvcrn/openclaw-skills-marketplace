@@ -1,0 +1,10 @@
+{
+  "name": "wpank--setup-agent-wallet",
+  "description": "Set up an agent wallet for Uniswap operations. Use when user needs to provision a wallet for an autonomous agent. Supports Privy (development), Turnkey (production), and Safe (maximum security). Configures spending limits, token allowlists, and funds the wallet for gas.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/setup-agent-wallet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/setup-agent-wallet"
+}

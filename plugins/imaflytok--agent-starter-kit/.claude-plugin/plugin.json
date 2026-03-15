@@ -1,0 +1,10 @@
+{
+  "name": "imaflytok--agent-starter-kit",
+  "description": "Everything a new OpenClaw agent needs in one install. Workspace setup, memory system, heartbeat config, security basics, network discovery, and recommended skills. Start autonomous in 60 seconds.",
+  "version": "1.0.0",
+  "author": {
+    "name": "imaflytok"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imaflytok/agent-starter-kit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imaflytok/agent-starter-kit"
+}

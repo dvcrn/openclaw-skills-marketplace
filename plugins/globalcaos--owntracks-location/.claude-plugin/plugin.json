@@ -1,0 +1,10 @@
+{
+  "name": "globalcaos--owntracks-location",
+  "description": "Real-time phone location tracking via OwnTracks HTTP webhook receiver with named places and distance-based queries. Use when: (1) user asks \"where am I?\", (2) storing named locations (home, gym, work), (3) querying nearby places by distance, (4) checking location history. Requires: OwnTracks app on phone, Tailscale or LAN connectivity, Node.js 22+, better-sqlite3.",
+  "version": "1.0.0",
+  "author": {
+    "name": "globalcaos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/owntracks-location",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/owntracks-location"
+}

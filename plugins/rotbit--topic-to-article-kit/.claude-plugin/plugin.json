@@ -1,0 +1,10 @@
+{
+  "name": "rotbit--topic-to-article-kit",
+  "description": "Turn a chosen AI topic into a public-account writing package: collect evidence from X/Twitter and other sources, extract high-value comments, and produce title options + structured outline written into Obsidian. Use when user asks for topic-based research and article prep.",
+  "version": "1.0.5",
+  "author": {
+    "name": "rotbit"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rotbit/topic-to-article-kit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rotbit/topic-to-article-kit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "nickchan0412--coding-agent-backup",
+  "description": "Delegate coding tasks to Codex, Claude Code, or Pi agents via background process. Use when: (1) building/creating new features or apps, (2) reviewing PRs (spawn in temp dir), (3) refactoring large codebases, (4) iterative coding that needs file exploration. NOT for: simple one-liner fixes (just edit), reading code (use read tool), or any work in ~/clawd workspace (never spawn agents here). Requires a bash tool that supports pty:true.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nickchan0412"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nickchan0412/coding-agent-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nickchan0412/coding-agent-backup"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "alphafactor--alpha",
+  "description": "Binance Alpha new coin launch detector. Uses WebSocket to monitor !miniTicker@arr stream and detects new trading pairs immediately when they appear. Maintains known symbols set in memory and triggers alert for new symbols with valid opening price.",
+  "version": "1.0.5",
+  "author": {
+    "name": "alphafactor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/alpha",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/alpha"
+}

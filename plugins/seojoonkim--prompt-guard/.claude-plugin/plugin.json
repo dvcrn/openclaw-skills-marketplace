@@ -1,0 +1,10 @@
+{
+  "name": "seojoonkim--prompt-guard",
+  "description": "650+ pattern AI agent security defense covering prompt injection, supply chain injection, memory poisoning, action gate bypass, unicode steganography, cascade amplification, multi-turn manipulation, authority escalation, PII/cloud credentials DLP, and code exfiltration. ClawSecurity-aligned patterns. Optional API for early-access and premium patterns. Tiered loading, hash cache, 12 SHIELD categories, 10 languages.",
+  "version": "3.6.2",
+  "author": {
+    "name": "seojoonkim"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seojoonkim/prompt-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seojoonkim/prompt-guard"
+}

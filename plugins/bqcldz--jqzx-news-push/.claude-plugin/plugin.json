@@ -1,0 +1,10 @@
+{
+  "name": "bqcldz--jqzx-news-push",
+  "description": "每日科技新闻自动推送服务。\n \n **当用户想要「每日科技新闻」「自动推送新闻」「设置新闻定时任务」时使用此技能。**\n \n 功能：\n - 获取机器之心最新科技热榜\n - 定时发送到飞书\n - 自动保存到 Get笔记\n \n 使用此技能前需要配置：\n - 机器之心 MCP Token\n - Get笔记 API Key 和 Client ID\n - 飞书用户ID",
+  "version": "1.0.0",
+  "author": {
+    "name": "bqcldz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bqcldz/jqzx-news-push",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bqcldz/jqzx-news-push"
+}

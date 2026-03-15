@@ -1,0 +1,10 @@
+{
+  "name": "vellis59--openclaw-skill-blinko",
+  "description": "Manage Blinko notes via its REST API (create/list/delete notes, manage tags/taxonomy). Use when the user says “blinko …”, wants to capture a note to Blinko, list/search recent notes, retag notes, or do cleanup/organization. Requires BLINKO_API_KEY.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vellis59"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vellis59/openclaw-skill-blinko",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vellis59/openclaw-skill-blinko"
+}

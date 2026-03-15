@@ -1,0 +1,10 @@
+{
+  "name": "mregmi--ragora",
+  "description": "Use Ragora MCP tools and REST API to discover, search, and synthesize answers from knowledge bases. Trigger when the user asks for grounded answers from Ragora collections, cross-collection comparison, source-backed summaries, due diligence research, or verification using marketplace data.",
+  "version": "1.0.1",
+  "author": {
+    "name": "mregmi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mregmi/ragora",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mregmi/ragora"
+}

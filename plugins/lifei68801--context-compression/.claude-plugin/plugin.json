@@ -1,0 +1,10 @@
+{
+  "name": "lifei68801--context-compression",
+  "description": "Prevent context overflow with automatic session truncation and memory preservation. Never lose important conversations again. Features: token-based trimming, AI fact extraction, preference lifecycle management. Use when: (1) context window exceeds limit (2) setting up memory hierarchy (3) managing user preferences with expiry.",
+  "version": "3.10.0",
+  "author": {
+    "name": "lifei68801"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lifei68801/context-compression",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lifei68801/context-compression"
+}

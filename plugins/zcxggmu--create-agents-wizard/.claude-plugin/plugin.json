@@ -1,0 +1,10 @@
+{
+  "name": "zcxggmu--create-agents-wizard",
+  "description": "Guided creation of multiple OpenClaw agents and their workspace templates. Use when users ask to create agents in batch, configure new agents, or customize AGENTS/SOUL/IDENTITY/BOOTSTRAP/USER/STYLE files. The workflow confirms scope, collects preferences agent-by-agent, drafts and confirms files, writes to disk, and summarizes results.",
+  "version": "1.0.1",
+  "author": {
+    "name": "zcxggmu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zcxggmu/create-agents-wizard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zcxggmu/create-agents-wizard"
+}

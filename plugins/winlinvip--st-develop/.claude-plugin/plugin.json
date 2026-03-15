@@ -1,0 +1,10 @@
+{
+  "name": "winlinvip--st-develop",
+  "description": "Anything related to coroutines, State Threads (ST), or SRS's concurrency model. Use when discussing coroutine concepts, updating coroutine knowledge (srs-coroutines.md), developing/debugging/porting ST source code, porting ST to new CPU architectures or OSes, debugging coroutine context switching, analyzing ST scheduler behavior, adding new platform assembly, fixing ASAN/Valgrind/SEH issues, or understanding ST internals (sched, stk, sync, key, io, event, context switch ASM).",
+  "version": "1.0.0",
+  "author": {
+    "name": "winlinvip"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/winlinvip/st-develop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/winlinvip/st-develop"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kesslerio--agentmail-kessler",
+  "description": "Programmatic email for AI agents via AgentMail API. Create inboxes, send/receive messages, manage threads, webhooks, pods, and custom domains. Use when you need agent email identity, email-based workflows, or real-time email processing.",
+  "version": "1.1.0",
+  "author": {
+    "name": "kesslerio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/agentmail-kessler",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/agentmail-kessler"
+}

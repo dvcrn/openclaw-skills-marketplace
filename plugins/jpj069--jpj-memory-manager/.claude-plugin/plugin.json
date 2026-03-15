@@ -1,0 +1,10 @@
+{
+  "name": "jpj069--jpj-memory-manager",
+  "description": "Automatic session logging and memory management for infrastructure, projects, and tools. Use at the end of sessions containing changes to servers, services, deployments, cron jobs, repositories, APIs, integrations, or credentials. Ensures consistent documentation without context bloat.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jpj069"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jpj069/jpj-memory-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jpj069/jpj-memory-manager"
+}

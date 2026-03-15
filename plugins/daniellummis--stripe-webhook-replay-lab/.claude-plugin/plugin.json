@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--stripe-webhook-replay-lab",
+  "description": "Replay signed Stripe webhook payloads to a local or staging endpoint for idempotency and retry debugging.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/stripe-webhook-replay-lab",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/stripe-webhook-replay-lab"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sullivangu--zeplin-to-prompt",
+  "description": "Export one or more Zeplin screen URLs into a structured layer tree with local assets and package the result as a zip file. Use when a user shares an app.zeplin.io screen link and wants a prompt-ready export for AI-driven UI implementation.",
+  "version": "1.0.1",
+  "author": {
+    "name": "sullivangu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sullivangu/zeplin-to-prompt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sullivangu/zeplin-to-prompt"
+}

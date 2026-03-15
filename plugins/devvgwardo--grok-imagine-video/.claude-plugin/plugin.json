@@ -1,0 +1,10 @@
+{
+  "name": "devvgwardo--grok-imagine-video",
+  "description": "xAI Grok Imagine API integration for image generation, text-to-video, image-to-video, and editing via natural language. Use when you need to generate images or videos from text prompts, edit existing images, animate static images into videos, or edit existing videos with natural language instructions. Supports conversational generation across messaging platforms with async polling, progress updates, and automatic delivery.",
+  "version": "1.0.4",
+  "author": {
+    "name": "devvgwardo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/devvgwardo/grok-imagine-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/devvgwardo/grok-imagine-video"
+}

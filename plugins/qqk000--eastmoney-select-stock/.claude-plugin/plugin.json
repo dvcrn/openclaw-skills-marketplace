@@ -1,0 +1,10 @@
+{
+  "name": "qqk000--eastmoney-select-stock",
+  "description": "本 Skill 支持基于股票选股条件（行情指标、财务指标等）筛选满足条件的股票；可查询指定行业/板块内的股票、上市公司，以及板块指数的成分股；同时支持股票、上市公司、板块/指数推荐等相关任务，避免大模型在选股时使用过时信息。",
+  "version": "1.0.2",
+  "author": {
+    "name": "qqk000"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qqk000/eastmoney-select-stock",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qqk000/eastmoney-select-stock"
+}

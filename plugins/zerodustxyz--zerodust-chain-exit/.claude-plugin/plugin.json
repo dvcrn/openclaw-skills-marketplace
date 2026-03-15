@@ -1,0 +1,10 @@
+{
+  "name": "zerodustxyz--zerodust-chain-exit",
+  "description": "Sweep 100% of native gas tokens from EIP-7702 compatible chains. Leaves exactly zero balance. Supports 25 mainnet chains.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zerodustxyz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zerodustxyz/zerodust-chain-exit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zerodustxyz/zerodust-chain-exit"
+}

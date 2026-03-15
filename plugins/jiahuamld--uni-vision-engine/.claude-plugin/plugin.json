@@ -1,0 +1,10 @@
+{
+  "name": "jiahuamld--uni-vision-engine",
+  "description": "Automated high-quality video generation (text-to-video, image-to-video) via a local jimeng-api Docker service. Features native OpenClaw image interception, allowing users to send images directly in chat to generate videos without any UI.",
+  "version": "1.0.2",
+  "author": {
+    "name": "jiahuamld"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jiahuamld/uni-vision-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jiahuamld/uni-vision-engine"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "brennerspear--dev-serve",
+  "description": "Start and manage tmux-backed dev servers exposed through Caddy at wildcard subdomains.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brennerspear"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brennerspear/dev-serve",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brennerspear/dev-serve"
+}

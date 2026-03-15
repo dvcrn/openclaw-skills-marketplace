@@ -1,0 +1,10 @@
+{
+  "name": "theagentwire--google-sheets-agent",
+  "description": "Read, write, and append to Google Sheets via service account — zero dependencies. Use when an agent needs to access Google Sheets data, export spreadsheet contents, write rows, or list available sheets. Supports 1Password, env var, or file-based SA key loading.",
+  "version": "1.1.1",
+  "author": {
+    "name": "theagentwire"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theagentwire/google-sheets-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theagentwire/google-sheets-agent"
+}

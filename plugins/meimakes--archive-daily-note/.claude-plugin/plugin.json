@@ -1,0 +1,10 @@
+{
+  "name": "meimakes--archive-daily-note",
+  "description": "Automatically moves yesterday's Obsidian daily note into a past-days/ archive folder using the Obsidian CLI move command to preserve wiki-links.",
+  "version": "1.0.0",
+  "author": {
+    "name": "meimakes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/meimakes/archive-daily-note",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/meimakes/archive-daily-note"
+}

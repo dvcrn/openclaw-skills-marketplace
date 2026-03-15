@@ -1,0 +1,10 @@
+{
+  "name": "xixihhhh--kling-video",
+  "description": "Generate, animate, and edit AI videos using Kuaishou's Kling 3.0 and Kling Video O3 — featuring cinematic motion quality, physics simulation, reference-based generation, and natural-language video editing. Supports text-to-video, image-to-video, reference-to-video, and video editing in Pro and Standard tiers, up to 1080p resolution, 3-15 second duration, with optional synchronized sound generation. Available via Atlas Cloud API at 15% off standard pricing. Use this skill whenever the user wants to generate AI videos, create video clips, animate images, edit existing videos, produce short films, make video content, or mentions Kling, Kuaishou video, KwaiVGI, or video generation/editing. Also trigger when users ask to create product demos, marketing videos, social media reels, animated scenes, cinematic clips, talking head videos, edit video content, remove objects from video, change video backgrounds, or any video content using AI.",
+  "version": "1.0.2",
+  "author": {
+    "name": "xixihhhh"
+  },
+  "homepage": "https://github.com/AtlasCloudAI/nano-banana-2-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xixihhhh/kling-video"
+}

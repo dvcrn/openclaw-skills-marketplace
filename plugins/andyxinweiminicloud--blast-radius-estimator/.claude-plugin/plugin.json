@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--blast-radius-estimator",
+  "description": "Helps estimate the blast radius when an AI agent skill turns malicious after widespread adoption. Analyzes inheritance chains, dependency graphs, and adoption trends to project how many agents could be affected.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/blast-radius-estimator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/blast-radius-estimator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bratchenko--self-integration",
+  "description": "Connect to any external app and perform actions on it. Use when the user wants to interact with external services like Slack, Linear, HubSpot, Salesforce, Jira, GitHub, Google Sheets, or any other app — send messages, create tasks, sync data, manage contacts, or perform any API operation.",
+  "version": "1.1.2",
+  "author": {
+    "name": "bratchenko"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bratchenko/self-integration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bratchenko/self-integration"
+}

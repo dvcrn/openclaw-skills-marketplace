@@ -1,0 +1,10 @@
+{
+  "name": "arcobalneo--gameclaw",
+  "description": "Tell users what terminal games exist in GameClaw and how to download the released CLI binaries from GitHub. Use this when users ask what games are available, want a GameClaw game, need Linux/macOS download links, or want quick run instructions for a released game.",
+  "version": "1.0.0",
+  "author": {
+    "name": "arcobalneo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arcobalneo/gameclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arcobalneo/gameclaw"
+}

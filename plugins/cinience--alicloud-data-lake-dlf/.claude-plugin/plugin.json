@@ -1,0 +1,10 @@
+{
+  "name": "cinience--alicloud-data-lake-dlf",
+  "description": "Manage Alibaba Cloud Data Lake Formation (DataLake) via OpenAPI/SDK. Use whenever the user asks for DataLake catalog resource operations, configuration updates, status queries, or troubleshooting DataLake API workflows.",
+  "version": "1.0.3",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-data-lake-dlf",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-data-lake-dlf"
+}

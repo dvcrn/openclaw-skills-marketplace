@@ -1,0 +1,10 @@
+{
+  "name": "huangrh99--rednote-mac",
+  "description": "Control the RedNote (Xiaohongshu) Mac app via macOS Accessibility API. Fills the gap headless tools can't: read/reply to comments on video posts, send DMs, get author stats. No browser, no API tokens. macOS only — requires Terminal accessibility permission.",
+  "version": "1.3.7",
+  "author": {
+    "name": "huangrh99"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/huangrh99/rednote-mac",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/huangrh99/rednote-mac"
+}

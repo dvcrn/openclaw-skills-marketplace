@@ -1,0 +1,10 @@
+{
+  "name": "isaacgounton--pollinations",
+  "description": "Pollinations.ai API for AI generation and analysis - text, images, videos, audio, vision, and transcription. Use when user requests AI-powered content (text completion, image generation/editing, video generation, audio/TTS, image/video analysis, audio transcription) or mentions Pollinations. Supports 25+ models with OpenAI-compatible endpoints.",
+  "version": "1.0.2",
+  "author": {
+    "name": "isaacgounton"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/isaacgounton/pollinations",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/isaacgounton/pollinations"
+}

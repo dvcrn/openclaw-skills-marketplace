@@ -1,0 +1,10 @@
+{
+  "name": "yiqiezhenxi--phoenix-sheld",
+  "description": "Self-healing backup and update system with intelligent rollback. Protects against failed updates by automatically monitoring system health post-update and recovering from backups when needed. Features canary deployment testing, health baselines, smart rollback, and 24/7 automated monitoring. Use when performing critical system updates, managing production deployments, or ensuring high availability of services. Prevents downtime through pre-flight checks, integrity verification, and automatic recovery workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yiqiezhenxi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yiqiezhenxi/phoenix-sheld",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yiqiezhenxi/phoenix-sheld"
+}

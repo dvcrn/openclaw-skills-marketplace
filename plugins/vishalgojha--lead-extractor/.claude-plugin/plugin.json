@@ -1,0 +1,10 @@
+{
+  "name": "vishalgojha--lead-extractor",
+  "description": "Extract structured real-estate lead records from parsed message objects. Use when users ask to find leads in WhatsApp exports, extract name-phone-budget, or classify listing vs requirement posts. Recommended chain: run after message-parser and before india-location-normalizer. Do not use for storage, summaries, outbound messaging, or action execution.",
+  "version": "1.0.6",
+  "author": {
+    "name": "vishalgojha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vishalgojha/lead-extractor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vishalgojha/lead-extractor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "thegdsks--openclaw-profanity",
+  "description": "Content moderation plugin for OpenClaw/Moltbot AI agents. Use when building chatbots that need profanity filtering, moderating user messages in Discord/Slack/Telegram bots, or adding content moderation to OpenClaw agents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "thegdsks"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thegdsks/openclaw-profanity",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thegdsks/openclaw-profanity"
+}

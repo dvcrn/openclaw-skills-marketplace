@@ -1,0 +1,10 @@
+{
+  "name": "adamkristopher--endpoints",
+  "description": "Endpoints document management API toolkit. Scan documents with AI extraction and organize structured data into categorized endpoints. Use when the user asks to: scan a document, upload a file, list endpoints, inspect endpoint data, check usage stats, create or delete endpoints, get file URLs, or manage document metadata. Requires ENDPOINTS_API_KEY from endpoints.work dashboard.",
+  "version": "1.0.0",
+  "author": {
+    "name": "adamkristopher"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adamkristopher/endpoints",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adamkristopher/endpoints"
+}

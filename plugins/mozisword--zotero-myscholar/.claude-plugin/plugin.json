@@ -1,0 +1,10 @@
+{
+  "name": "mozisword--zotero-myscholar",
+  "description": "将论文保存到 Zotero 文库，请按照 userid:apiKey 的格式配置 ZOTERO_CREDENTIALS 环境变量。",
+  "version": "1.0.0",
+  "author": {
+    "name": "mozisword"
+  },
+  "homepage": "https://www.zotero.org",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mozisword/zotero-myscholar"
+}

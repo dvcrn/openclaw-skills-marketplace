@@ -1,0 +1,10 @@
+{
+  "name": "ckchzh--api-generator",
+  "description": "API code generator. Generate RESTful endpoints, GraphQL schemas, OpenAPI/Swagger docs, API clients, mock servers, authentication, rate limiting, and test suites. Commands: rest, graphql, swagger, client, mock, auth, rate-limit, test. Use for backend development, API scaffolding, interface generation.",
+  "version": "2.2.0",
+  "author": {
+    "name": "ckchzh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ckchzh/api-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ckchzh/api-generator"
+}

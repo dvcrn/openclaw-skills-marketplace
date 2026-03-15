@@ -1,0 +1,10 @@
+{
+  "name": "bingfoon--zustand-patterns",
+  "description": "Zustand 状态管理实战模式。涵盖 Store 设计规范、Slice 工厂复用、persist 持久化、可恢复任务持久化、Electron IPC 联动、Store 测试和常见陷阱。适用于 React + Zustand 项目。",
+  "version": "1.0.0",
+  "author": {
+    "name": "bingfoon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bingfoon/zustand-patterns",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bingfoon/zustand-patterns"
+}

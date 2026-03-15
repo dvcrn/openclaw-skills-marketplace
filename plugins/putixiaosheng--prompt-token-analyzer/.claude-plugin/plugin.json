@@ -1,0 +1,10 @@
+{
+  "name": "putixiaosheng--prompt-token-analyzer",
+  "description": "A Node.js CLI tool that analyzes prompt token usage using a GPT-compatible tokenizer. Helps agents estimate prompt size, debug context overflow, and optimize token cost.",
+  "version": "1.0.1",
+  "author": {
+    "name": "putixiaosheng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/putixiaosheng/prompt-token-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/putixiaosheng/prompt-token-analyzer"
+}

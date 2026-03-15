@@ -1,0 +1,10 @@
+{
+  "name": "delibrately-cmyk--cerberus-agent-foundry",
+  "description": "Production-ready multi-agent architecture kit for OpenClaw. Provides isolated per-agent workspaces, control-plane orchestration, structured task lifecycle, checksum-verified mailbox messaging, and auditable event logs. Use when implementing Team Lead + specialist agents with secure boundaries, async collaboration, and operational governance.",
+  "version": "0.1.2",
+  "author": {
+    "name": "delibrately-cmyk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/delibrately-cmyk/cerberus-agent-foundry",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/delibrately-cmyk/cerberus-agent-foundry"
+}

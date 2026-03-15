@@ -1,0 +1,10 @@
+{
+  "name": "tensusds--turing-pyramid",
+  "description": "Prioritized action selection for AI agents. 10 needs with time-decay and tension scoring replace idle heartbeat loops with concrete next actions.",
+  "version": "1.17.2",
+  "author": {
+    "name": "tensusds"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tensusds/turing-pyramid",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tensusds/turing-pyramid"
+}

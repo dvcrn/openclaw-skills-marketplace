@@ -1,0 +1,10 @@
+{
+  "name": "chinasilva--ai-task-hub",
+  "description": "AI task hub for image analysis, background removal, speech-to-text, text-to-speech, markdown conversion, and async execute/poll/presentation orchestration. Use when users need hosted AI outcomes while host runtime manages identity, credits, payment, and risk control.",
+  "version": "3.1.1",
+  "author": {
+    "name": "chinasilva"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chinasilva/ai-task-hub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chinasilva/ai-task-hub"
+}

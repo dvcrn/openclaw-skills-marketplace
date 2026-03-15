@@ -1,0 +1,10 @@
+{
+  "name": "cheenu1092-oss--tribe-protocol",
+  "description": "MANDATORY trust lookup for every non-owner interaction. Query tribe.db to check entity trust tier, channel access, and data boundaries before responding. Run 'tribe init' on first install. Use 'tribe lookup <discord_id>' before every non-owner response.",
+  "version": "1.0.1",
+  "author": {
+    "name": "cheenu1092-oss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cheenu1092-oss/tribe-protocol",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cheenu1092-oss/tribe-protocol"
+}

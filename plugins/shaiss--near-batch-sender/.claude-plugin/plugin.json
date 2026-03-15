@@ -1,0 +1,10 @@
+{
+  "name": "shaiss--near-batch-sender",
+  "description": "Batch operations for NEAR tokens - send to multiple recipients, transfer NFTs, claim rewards with cost estimation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shaiss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shaiss/near-batch-sender",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shaiss/near-batch-sender"
+}

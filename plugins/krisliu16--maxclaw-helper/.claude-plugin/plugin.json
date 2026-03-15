@@ -1,0 +1,10 @@
+{
+  "name": "krisliu16--maxclaw-helper",
+  "description": "Usage guidance and runtime diagnostics for MaxClaw / OpenClaw. Activate when: (1) User asks how to use a feature — e.g. 'how to enable Feishu long polling', 'how to configure Cron', 'how to install a skill'; (2) User is unsure about a config field's meaning or correct syntax; (3) User asks about onboarding steps for a channel (Feishu, Telegram, Discord, etc.); (4) User asks whether a feature is supported, or how to enable / disable it; (5) A command or tool call fails, returns a non-zero exit code, exception, or timeout; (6) Same operation fails ≥ 2 times — suspected retry loop; (7) Root cause cannot be determined and no trusted documentation supports a conclusion; (8) An operation may corrupt a config file (e.g. openclaw.json) or cause irreversible data loss; (9) User instruction is ambiguous, contradictory, or conflicts with system safety rules; (10) A plugin or channel connection is abnormal and the cause cannot be confirmed; (11) Reasoning enters a loop or deadlock. Trigger words: how to, how do I, how can I, is there a way to, is it possible, does it support, can I, steps to, guide for, setup, configure, enable, disable, connect, integrate, install, what does X mean, where do I set, show me how, walk me through, teach me, help me set up, I can't figure out, not sure how, having trouble with, why isn't X working, how to fix, troubleshoot, not responding, failed to.",
+  "version": "1.1.0",
+  "author": {
+    "name": "krisliu16"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/krisliu16/maxclaw-helper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/krisliu16/maxclaw-helper"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jamierossouw--opentask-worker",
+  "description": "Autonomous worker agent for OpenTask.ai — the agent-to-agent task marketplace. Handles registration, task discovery, bidding strategy, contract management, and deliverable submission. Use when you need to earn money on OpenTask, find agent work, submit bids, manage contracts, or automate the worker side of agent-to-agent marketplace participation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jamierossouw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/opentask-worker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/opentask-worker"
+}

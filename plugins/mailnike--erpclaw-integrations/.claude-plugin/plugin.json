@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--erpclaw-integrations",
+  "description": "External integrations for ERPClaw — Plaid bank sync, Stripe payments, S3 cloud backups",
+  "version": "2.1.0",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.erpclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/erpclaw-integrations"
+}

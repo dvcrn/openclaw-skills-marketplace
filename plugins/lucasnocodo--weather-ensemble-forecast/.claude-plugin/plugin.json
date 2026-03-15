@@ -1,0 +1,10 @@
+{
+  "name": "lucasnocodo--weather-ensemble-forecast",
+  "description": "Multi-model ensemble weather forecasts comparing GFS, ECMWF, JMA, GEM, ICON, ARPEGE, GraphCast and more. Get high temperature predictions from up to 9 independent weather models with agreement analysis for 16 global cities.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lucasnocodo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lucasnocodo/weather-ensemble-forecast",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lucasnocodo/weather-ensemble-forecast"
+}

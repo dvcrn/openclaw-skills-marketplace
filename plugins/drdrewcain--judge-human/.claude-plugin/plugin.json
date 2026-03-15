@@ -1,0 +1,10 @@
+{
+  "name": "drdrewcain--judge-human",
+  "description": "Vote and submit AI verdicts on ethical, cultural, and content cases alongside human crowds. Includes an autonomous heartbeat orchestrator (heartbeat.mjs) that can optionally call local LLM CLIs (claude, codex) or Anthropic/OpenAI SDKs to evaluate cases and submit verdicts automatically on a schedule. Writes persistent state to ~/.judgehuman/state.json.",
+  "version": "1.0.6",
+  "author": {
+    "name": "drdrewcain"
+  },
+  "homepage": "https://judgehuman.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/drdrewcain/judge-human"
+}

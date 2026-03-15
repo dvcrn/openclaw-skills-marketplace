@@ -1,0 +1,10 @@
+{
+  "name": "lachlanglasgow--project-tree",
+  "description": "Generate a visual directory tree of the ~/projects folder and update MEMORY.md with the result. Use when the user wants to view, update, or generate a project tree structure, or when they mention \"project tree\", \"tree view\", \"folder structure\", or \"show me my projects\".",
+  "version": "1.0.3",
+  "author": {
+    "name": "lachlanglasgow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lachlanglasgow/project-tree",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lachlanglasgow/project-tree"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "promadgenius--ez-cronjob",
+  "description": "Fix common cron job failures in Clawdbot/Moltbot - message delivery issues, tool timeouts, timezone bugs, and model fallback problems.",
+  "version": "1.0.0",
+  "author": {
+    "name": "promadgenius"
+  },
+  "homepage": "https://www.metacognitivo.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/promadgenius/ez-cronjob"
+}

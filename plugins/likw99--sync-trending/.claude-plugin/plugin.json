@@ -1,0 +1,10 @@
+{
+  "name": "likw99--sync-trending",
+  "description": "Monitior technology trends (GitHub, etc.), contextualize them against the user's project, and autonomously verify them through installation and testing. Use when the user asks about trending repositories, new tools, or wants to stay updated on tech relevant to their current work.",
+  "version": "0.1.0",
+  "author": {
+    "name": "likw99"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/likw99/sync-trending",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/likw99/sync-trending"
+}

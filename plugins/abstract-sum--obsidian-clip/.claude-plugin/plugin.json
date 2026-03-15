@@ -1,0 +1,10 @@
+{
+  "name": "abstract-sum--obsidian-clip",
+  "description": "Create and manage Obsidian “Clip” notes (web/article/page clips). Use when the user says “clip/剪藏/收藏/保存这个链接”, wants a readable summary of a URL, and wants it saved into an Obsidian vault under Clip/YYYY-MM/.",
+  "version": "0.1.2",
+  "author": {
+    "name": "abstract-sum"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abstract-sum/obsidian-clip",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abstract-sum/obsidian-clip"
+}

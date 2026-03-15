@@ -1,0 +1,10 @@
+{
+  "name": "edibez--priceforagent",
+  "description": "Get real-time prices for crypto, stocks, and commodities. Use when the user asks about asset prices, market data, or needs to check the value of Bitcoin, Ethereum, stocks like NVDA/AAPL, or commodities like gold/silver. Supports natural language queries (\"What's the price of Bitcoin?\") and direct lookups.",
+  "version": "1.1.0",
+  "author": {
+    "name": "edibez"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/edibez/priceforagent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/edibez/priceforagent"
+}

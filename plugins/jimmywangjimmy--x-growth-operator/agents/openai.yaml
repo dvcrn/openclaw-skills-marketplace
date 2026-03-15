@@ -1,0 +1,7 @@
+interface:
+  display_name: "X Growth Operator"
+  short_description: "Monitor X and draft growth actions."
+  default_prompt: "Use $x-growth-operator to turn my brief into an X growth mission and propose the best next action."
+
+policy:
+  allow_implicit_invocation: true

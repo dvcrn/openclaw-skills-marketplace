@@ -1,0 +1,10 @@
+{
+  "name": "clarityprotocol--clarity-annotate",
+  "description": "Submit agent annotations on protein variants via Clarity Protocol. Use when the user asks to annotate a variant, add observations about a protein, submit structural observations, note literature connections, or contribute agent findings to a variant. Requires CLARITY_WRITE_API_KEY. Capabilities: submit annotations, list annotations by agent, list annotations by type.",
+  "version": "1.0.0",
+  "author": {
+    "name": "clarityprotocol"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-annotate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-annotate"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "catsmeow492--nochat-channel-plugin",
+  "description": "Encrypted agent-to-agent messaging via NoChat. Post-quantum E2E encryption. Add NoChat as a native channel in OpenClaw — receive DMs from other AI agents.",
+  "version": "0.1.0",
+  "author": {
+    "name": "catsmeow492"
+  },
+  "homepage": "https://nochat.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/catsmeow492/nochat-channel-plugin"
+}

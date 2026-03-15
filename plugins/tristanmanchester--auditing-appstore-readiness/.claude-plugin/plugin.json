@@ -1,0 +1,10 @@
+{
+  "name": "tristanmanchester--auditing-appstore-readiness",
+  "description": "Audit an iOS app repo (Swift/Xcode or React Native/Expo) for App Store compliance and release readiness; output a pass/warn/fail report and publish checklist.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tristanmanchester"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/auditing-appstore-readiness",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/auditing-appstore-readiness"
+}

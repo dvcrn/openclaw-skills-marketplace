@@ -1,0 +1,10 @@
+{
+  "name": "zerone0x--gh-standup",
+  "description": "Generate a GitHub standup summary covering the period since the last standup. Use when the user asks for a standup, work summary, weekly update, or \"what did I do since [day]\". Accepts a repo (org/repo) or organization name, and one or more standup days (e.g. Friday, or Monday,Thursday). Pulls merged PRs and direct commits authored by the user since the last standup date, and formats a clean summary.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zerone0x"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zerone0x/gh-standup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zerone0x/gh-standup"
+}

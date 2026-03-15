@@ -1,0 +1,10 @@
+{
+  "name": "liusining--weflow-group-summarizer",
+  "description": "Use when user asks to monitor WeChat groups, set up WeFlow API access, or when a heartbeat triggers for WeChat group summarization",
+  "version": "0.1.0",
+  "author": {
+    "name": "liusining"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/liusining/weflow-group-summarizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/liusining/weflow-group-summarizer"
+}

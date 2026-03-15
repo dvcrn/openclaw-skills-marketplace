@@ -1,0 +1,10 @@
+{
+  "name": "satoshistackalotto--aade-api-monitor",
+  "description": "Real-time monitoring of Greek AADE tax authority systems — tracks deadlines, rate changes, and compliance updates. File-based, OpenClaw-native.",
+  "version": "0.1.0",
+  "author": {
+    "name": "satoshistackalotto"
+  },
+  "homepage": "https://github.com/satoshistackalotto/openclaw-greek-accounting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/aade-api-monitor"
+}

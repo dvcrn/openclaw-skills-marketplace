@@ -1,0 +1,10 @@
+{
+  "name": "jiachenz--huaweicloud-skill",
+  "description": "华为云架构设计与资源开通。当用户需要设计云架构、推荐华为云服务配置、估算成本、或生成 Terraform 模板时使用此 skill。触发场景：(1) 描述业务需求寻求架构建议，(2) 需要华为云资源配置清单，(3) 需要成本预估，(4) 需要生成 Terraform 模板。",
+  "version": "0.1.1",
+  "author": {
+    "name": "jiachenz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jiachenz/huaweicloud-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jiachenz/huaweicloud-skill"
+}

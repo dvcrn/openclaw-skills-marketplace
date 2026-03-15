@@ -1,0 +1,10 @@
+{
+  "name": "imwyvern--codex-autopilot",
+  "description": "tmux + launchd multi-project Codex CLI automation system. Watchdog-driven loop that monitors multiple Codex sessions in tmux, auto-nudges idle sessions, handles permissions, manages context compaction, runs incremental code reviews, and dispatches tasks from a queue.\n Use when managing multiple concurrent Codex CLI coding sessions, automating development workflows, or orchestrating parallel AI-assisted coding across projects.\n Triggers: autopilot, watchdog, codex automation, tmux codex, multi-project codex, auto-nudge codex, codex session management.",
+  "version": "0.6.0",
+  "author": {
+    "name": "imwyvern"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imwyvern/codex-autopilot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imwyvern/codex-autopilot"
+}

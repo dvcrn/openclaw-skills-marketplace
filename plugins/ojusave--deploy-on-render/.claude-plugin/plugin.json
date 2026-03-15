@@ -1,0 +1,10 @@
+{
+  "name": "ojusave--deploy-on-render",
+  "description": "Deploy and operate apps on Render (Blueprint + one-click Dashboard deeplink, same flow as Codex render-deploy). Use when the user wants to deploy, host, or publish an app; create or edit render.yaml; add web, static, workers, cron, Postgres, or Key Value; get the Blueprint deeplink to deploy; trigger or verify deploys via API when RENDER_API_KEY is set; connect Render MCP via mcporter for direct service creation; or configure env vars, health checks, scaling, previews, and projects.",
+  "version": "3.0.0",
+  "author": {
+    "name": "ojusave"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ojusave/deploy-on-render",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ojusave/deploy-on-render"
+}

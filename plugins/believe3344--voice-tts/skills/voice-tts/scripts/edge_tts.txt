@@ -1,0 +1,25 @@
+#!/usr/bin/env python3
+"""Edge TTS voice output tool for OpenClaw"""
+
+import argparse
+import asyncio
+import sys
+import os
+
+async def main():
+    parser = argparse.ArgumentParser(description='Edge TTS voice synthesis')
+    parser.add_argument('text', help='Text to synthesize')
+    parser.add_argument('-v', '--voice', default='zh-CN-XiaoxiaoNeural', help='Voice to use')
+    parser.add_argument('-f', '--output', default='/tmp/voice.mp3', help='Output file path')
+    parser.add_argument('-r', '--rate', default='+0%', help='Speech rate (e.g., +10%, -20%)')
+    parser.add_argument('-p', '--pitch', default='+0Hz', help='Pitch adjustment')
+    
+    args = parser.parse_args()
+    
+    tts = edge_tts.Communicate(args.text, args.voice, rate=args.rate, pitch=args.pitch)
+    await tts.save(args.output)
+    print(args.output)
+
+if __name__ == "__main__":
+    import edge_tts
+    asyncio.run(main())

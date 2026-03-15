@@ -1,0 +1,10 @@
+{
+  "name": "tomi204--clawpump",
+  "description": "Launch tokens gasless on Solana via ClawPump. Use when the user wants to launch a token on pump.fun, swap tokens via Jupiter, scan cross-DEX arbitrage, check agent earnings, view leaderboard, or search domains. Covers all ClawPump API endpoints.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tomi204"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tomi204/clawpump",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tomi204/clawpump"
+}

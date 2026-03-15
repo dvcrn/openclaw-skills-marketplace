@@ -1,0 +1,10 @@
+{
+  "name": "yinanping-cpu--yinan-web-scraper",
+  "description": "Extract structured data from websites using browser automation. Use when scraping product listings, articles, contact info, prices, or any web content. Supports single pages, pagination, infinite scroll, and dynamic content. Outputs to CSV, JSON, or Excel.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yinanping-cpu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yinanping-cpu/yinan-web-scraper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yinanping-cpu/yinan-web-scraper"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "shifulegend--install-shared-skill",
+  "description": "Install OpenClaw skills at the local/system level so they are shared by all agents. Uses the clawhub CLI to fetch and install skills into the global OpenClaw skills directory (not workspace-scoped).",
+  "version": "0.1.2",
+  "author": {
+    "name": "shifulegend"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shifulegend/install-shared-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shifulegend/install-shared-skill"
+}

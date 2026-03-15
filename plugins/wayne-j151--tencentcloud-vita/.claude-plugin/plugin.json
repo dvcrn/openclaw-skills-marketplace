@@ -1,0 +1,10 @@
+{
+  "name": "wayne-j151--tencentcloud-vita",
+  "description": "腾讯云VITA图像/视频理解技能。当用户需要理解视频内容、分析图像、生成描述、提取体育赛事精彩片段、分析监控录像、理解直播流、新闻视频摘要、分析产品演示视频、进行任何视觉媒体理解任务，或设置、修改视频理解提示词 (vita prompt) 时，应使用此技能。支持单张/多张图像和单个视频URL输入，并可自定义提示信息。",
+  "version": "1.0.6",
+  "author": {
+    "name": "wayne-j151"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wayne-j151/tencentcloud-vita",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wayne-j151/tencentcloud-vita"
+}

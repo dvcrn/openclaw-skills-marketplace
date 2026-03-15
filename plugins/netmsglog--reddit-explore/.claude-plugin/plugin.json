@@ -1,0 +1,10 @@
+{
+  "name": "netmsglog--reddit-explore",
+  "description": "This skill should be used when the user asks to \"search Reddit\", \"explore Reddit posts\", \"find Reddit discussions about\", \"summarize Reddit opinions on\", \"what does Reddit think about\", or wants to gather and summarize community opinions from Reddit on a specific topic.",
+  "version": "0.0.3",
+  "author": {
+    "name": "netmsglog"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/netmsglog/reddit-explore",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/netmsglog/reddit-explore"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "googleworkspace-bot--recipe-forward-labeled-emails",
+  "description": "Find Gmail messages with a specific label and forward them to another address.",
+  "version": "1.0.0",
+  "author": {
+    "name": "googleworkspace-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/googleworkspace-bot/recipe-forward-labeled-emails",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/googleworkspace-bot/recipe-forward-labeled-emails"
+}

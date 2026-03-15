@@ -1,0 +1,10 @@
+{
+  "name": "suhteevah--docsync",
+  "description": "Auto-generate docs from code and detect documentation drift via git hooks. Free README gen + paid living docs.",
+  "version": "1.0.1",
+  "author": {
+    "name": "suhteevah"
+  },
+  "homepage": "https://docsync.pages.dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/suhteevah/docsync"
+}

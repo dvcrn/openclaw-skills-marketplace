@@ -1,0 +1,10 @@
+{
+  "name": "rosepuppy--agent-identity",
+  "description": "Cryptographic identity for AI agents. Register on-chain identity, sign messages, verify other agents, link platform accounts. Stake USDC to prove you're real. Built by g1itchbot for the USDC Hackathon.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rosepuppy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rosepuppy/agent-identity",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rosepuppy/agent-identity"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "aiot-f2e-team--aqara-open-api",
+  "description": "Query and control Aqara/Lumi Studio smart home devices and manage spaces via the Aqara Open Platform API (HTTP JSON). Use when the user asks to list Aqara devices, get device status, control lights/switches/sensors, or manage rooms/spaces. Requires AQARA_OPEN_API_TOKEN and AQARA_ENDPOINT_URL.",
+  "version": "1.0.2",
+  "author": {
+    "name": "aiot-f2e-team"
+  },
+  "homepage": "https://opendoc.aqara.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiot-f2e-team/aqara-open-api"
+}

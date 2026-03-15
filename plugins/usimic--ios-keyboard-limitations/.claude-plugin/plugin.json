@@ -1,0 +1,10 @@
+{
+  "name": "usimic--ios-keyboard-limitations",
+  "description": "iOS keyboard extension technical limitations and workarounds. Use when planning or building iOS custom keyboards with voice/audio features, dictation, or system integration needs. Covers memory limits, sandbox restrictions, microphone access, app launching, and viable alternative architectures.",
+  "version": "1.0.0",
+  "author": {
+    "name": "usimic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/usimic/ios-keyboard-limitations",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/usimic/ios-keyboard-limitations"
+}

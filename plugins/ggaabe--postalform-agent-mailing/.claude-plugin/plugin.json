@@ -1,0 +1,10 @@
+{
+  "name": "ggaabe--postalform-agent-mailing",
+  "description": "Send real postal mail through PostalForm using machine payments: prepare/validate print-and-mail payloads, submit `POST /api/machine/orders`, settle x402 payment with any compatible wallet client (purl or custom), and poll fulfillment through completion. Use when an agent must autonomously mail a real physical letter/document with strong first-pass correctness and idempotent retry behavior.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ggaabe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ggaabe/postalform-agent-mailing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ggaabe/postalform-agent-mailing"
+}

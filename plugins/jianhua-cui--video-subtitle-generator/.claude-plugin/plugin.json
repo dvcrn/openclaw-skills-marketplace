@@ -1,0 +1,10 @@
+{
+  "name": "jianhua-cui--video-subtitle-generator",
+  "description": "Generate and translate video subtitles using WhisperX and LLM translation. Use when processing video files to create .srt subtitle files. Supports multilingual transcription (auto-detect source language), translation to any target language, and bilingual subtitle generation.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jianhua-cui"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jianhua-cui/video-subtitle-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jianhua-cui/video-subtitle-generator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sshnii--tronscan-realtime-network",
+  "description": "Query TRON real-time network data: latest block height, current TPS, node count,\n latest TVL, total transaction count, real-time vote count.\n Use when user asks \"real-time TPS\", \"current block height\", \"node count\", \"TVL\", \"total tx count\", or network status.\n Do NOT use for historical trends (use tronscan-data-insights); block details (use tronscan-block-info).",
+  "version": "1.0.3",
+  "author": {
+    "name": "sshnii"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sshnii/tronscan-realtime-network",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sshnii/tronscan-realtime-network"
+}

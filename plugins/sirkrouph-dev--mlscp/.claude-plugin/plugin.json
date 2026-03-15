@@ -1,0 +1,10 @@
+{
+  "name": "sirkrouph-dev--mlscp",
+  "description": "Parse and generate MLSCP (Micro LLM Swarm Communication Protocol) commands. Use when communicating with other agents efficiently, parsing compressed commands, or generating token-efficient instructions. Reduces token usage by 70-80% compared to natural language.",
+  "version": "0.1.0",
+  "author": {
+    "name": "sirkrouph-dev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sirkrouph-dev/mlscp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sirkrouph-dev/mlscp"
+}

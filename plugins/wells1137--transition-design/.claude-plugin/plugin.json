@@ -1,0 +1,10 @@
+{
+  "name": "wells1137--transition-design",
+  "description": "分析相邻片段边界帧，设计最优转场效果，输出转场设计指令。使用场景：所有片段已处理完成、需要设计片段间转场。避免场景：片段处理未完成、缺少素材Handle信息",
+  "version": "0.1.0",
+  "author": {
+    "name": "wells1137"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wells1137/transition-design",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wells1137/transition-design"
+}

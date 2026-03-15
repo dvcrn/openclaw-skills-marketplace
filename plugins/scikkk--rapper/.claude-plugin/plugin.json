@@ -1,0 +1,10 @@
+{
+  "name": "scikkk--rapper",
+  "description": "Create and debug SenseAudio rap, hip-hop, or vocal song generation workflows using the `/v1/song/lyrics/create`, `/v1/song/lyrics/pending/:task_id`, `/v1/song/music/create`, and `/v1/song/music/pending/:task_id` APIs. Use this whenever the user wants rap lyrics, AI songs, style-controlled hip-hop tracks, or help polling async music-generation jobs.",
+  "version": "1.0.1",
+  "author": {
+    "name": "scikkk"
+  },
+  "homepage": "https://nightly.senseaudio.cn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scikkk/rapper"
+}

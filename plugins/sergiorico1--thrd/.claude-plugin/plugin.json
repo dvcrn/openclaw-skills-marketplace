@@ -1,0 +1,10 @@
+{
+  "name": "sergiorico1--thrd",
+  "description": "Provision a dedicated inbox for your AI agent and manage email safely via thrd.email. Includes instant onboarding, inbound polling, reply/send (idempotent + policy-gated), Proof of Reasoning for cold outbound, Human Claiming for verification, and trust/delivery tracking. Does not persist API keys to disk.",
+  "version": "1.4.3",
+  "author": {
+    "name": "sergiorico1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sergiorico1/thrd",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sergiorico1/thrd"
+}

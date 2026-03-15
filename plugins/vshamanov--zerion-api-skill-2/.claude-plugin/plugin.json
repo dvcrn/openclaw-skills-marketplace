@@ -1,0 +1,10 @@
+{
+  "name": "vshamanov--zerion-api-skill-2",
+  "description": "Query blockchain wallet data, token prices, and transaction history using the Zerion API via its MCP connector. Use this skill whenever the user asks about: crypto wallet balances, portfolio values, token holdings or positions, DeFi positions (staking, lending, LP), wallet PnL (profit and loss), transaction history, token/fungible asset prices or charts, NFT holdings or NFT portfolio value, or any web3 wallet analytics. Triggers on mentions of wallet addresses (0x...), ENS names, token names/symbols, \"portfolio\", \"positions\", \"PnL\", \"transactions\", \"balance\", \"holdings\", \"NFTs\", or any crypto/DeFi analytics queries. Also use when building artifacts or dashboards that display wallet or token data.",
+  "version": "0.1.0",
+  "author": {
+    "name": "vshamanov"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vshamanov/zerion-api-skill-2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vshamanov/zerion-api-skill-2"
+}

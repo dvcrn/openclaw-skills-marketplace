@@ -1,0 +1,10 @@
+{
+  "name": "vaderyang--self-guardian",
+  "description": "Lightweight self-monitoring and self-constraining rules to prevent accidental file deletions, dangerous commands, and risky operations. Activates automatically on file/shell operations.",
+  "version": "0.1.0",
+  "author": {
+    "name": "vaderyang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vaderyang/self-guardian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vaderyang/self-guardian"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hudeven--chichi-speech",
+  "description": "A RESTful service for high-quality text-to-speech using Qwen3 and specialized voice cloning. Optimized for reusing a specific voice prompt to avoid re-computation.",
+  "version": "1.0.2",
+  "author": {
+    "name": "hudeven"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hudeven/chichi-speech",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hudeven/chichi-speech"
+}

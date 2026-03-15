@@ -1,0 +1,12 @@
+{
+  "app_id": "cli_a92cdc08bff8dcd3",
+  "app_secret": "Z0L5SAC9DgpOiHm534d7AeChZBpqpMHP",
+  "token_cache": {
+    "enabled": true,
+    "max_age": 7000
+  },
+  "api": {
+    "base_url": "https://open.feishu.cn/open-apis",
+    "timeout": 10000
+  }
+}

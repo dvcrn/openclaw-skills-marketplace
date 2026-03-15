@@ -1,0 +1,10 @@
+{
+  "name": "chang-tong--139mail-skill",
+  "description": "139邮箱邮件收发 Skill - 支持 IMAP/SMTP 协议，兼容139/QQ/163/Gmail等主流邮箱\n\n 功能：\n 1. 发送邮件（SMTP）\n 2. 接收邮件（IMAP）\n 3. 查看收件箱列表\n 4. 查看未读邮件\n\n 当用户提到 \"发邮件\"、\"收邮件\"、\"查看邮件\"、\"邮箱\" 或 \"email\" 时激活此 skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "chang-tong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chang-tong/139mail-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chang-tong/139mail-skill"
+}

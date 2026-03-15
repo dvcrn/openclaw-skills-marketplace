@@ -1,0 +1,10 @@
+{
+  "name": "moikapy--openclaw-notion-skill",
+  "description": "Integrate with Notion workspaces to read pages, query databases, create entries, and manage content. Perfect for knowledge bases, project tracking, content calendars, CRMs, and collaborative documentation. Works with any Notion page or database you explicitly share with the integration.",
+  "version": "0.1.0",
+  "author": {
+    "name": "moikapy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moikapy/openclaw-notion-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moikapy/openclaw-notion-skill"
+}

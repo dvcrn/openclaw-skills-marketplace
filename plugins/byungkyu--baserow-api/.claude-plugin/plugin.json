@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--baserow-api",
+  "description": "Baserow API integration with managed API key authentication. Manage database rows, fields, and tables.\n Use this skill when users want to read, create, update, or delete Baserow database rows, or query data with filters.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/baserow-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/baserow-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "caopulan--readme-writer-skill",
+  "description": "Expert README writing skill for open source projects. Use this skill whenever the user wants to write, improve, or review a README for any open source repository. Triggers include: \"write a README\", \"help me with my README\", \"README template\", \"improve my README\", \"review my README\", \"open source documentation\", \"GitHub README\", \"project documentation\". Also use when the user is creating a new project and needs documentation, or asks \"how do I document my project\", \"what should my README include\", or \"make my README better\". This skill covers tool-type software, AI/ML projects, and code frameworks based on patterns distilled from 20 high-star GitHub repositories.",
+  "version": "1.0.0",
+  "author": {
+    "name": "caopulan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/caopulan/readme-writer-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/caopulan/readme-writer-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lcajigasm--openrouter-usage-info",
+  "description": "Track OpenRouter API spending — credit balance, per-model cost breakdown, and spending projections from OpenClaw session logs.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lcajigasm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lcajigasm/openrouter-usage-info",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lcajigasm/openrouter-usage-info"
+}

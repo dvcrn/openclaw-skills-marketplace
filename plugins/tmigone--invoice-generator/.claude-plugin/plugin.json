@@ -1,0 +1,10 @@
+{
+  "name": "tmigone--invoice-generator",
+  "description": "Generate professional PDF invoices from JSON data. Use when the user needs to create an invoice, billing document, or payment request with company/client details and line items.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tmigone"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tmigone/invoice-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tmigone/invoice-generator"
+}

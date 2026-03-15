@@ -1,0 +1,10 @@
+{
+  "name": "lifei68801--arxiv-digest",
+  "description": "Daily AI/ML paper digest from HuggingFace Papers Trending with accessible interpretations. Fetch trending papers from arXiv, provide plain-language summaries, and support automated daily delivery. Use when: (1) asking for latest AI/ML papers or arxiv research (2) setting up paper digest notifications (3) explaining research in simple terms. Triggers on: arxiv, papers, 论文, trending, research news, 热门论文, latest papers, paper digest.",
+  "version": "1.0.1",
+  "author": {
+    "name": "lifei68801"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lifei68801/arxiv-digest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lifei68801/arxiv-digest"
+}

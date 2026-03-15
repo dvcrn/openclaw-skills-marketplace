@@ -1,0 +1,10 @@
+{
+  "name": "imwyvern--wechat-reader",
+  "description": "Read WeChat public account (微信公众号) articles. Activate when the user shares a mp.weixin.qq.com link, asks to read/summarize a WeChat article, or mentions 公众号/微信文章. These pages are JS-rendered and blocked by web_fetch — this skill uses browser automation to extract full article text.",
+  "version": "1.0.0",
+  "author": {
+    "name": "imwyvern"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imwyvern/wechat-reader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imwyvern/wechat-reader"
+}

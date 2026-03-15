@@ -1,0 +1,10 @@
+{
+  "name": "a2mus--doro-git-secrets-scanner",
+  "description": "Git 安全扫描器 - 检查提交中的敏感信息泄露（API keys、密码、token）",
+  "version": "1.0.0",
+  "author": {
+    "name": "a2mus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/a2mus/doro-git-secrets-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/a2mus/doro-git-secrets-scanner"
+}

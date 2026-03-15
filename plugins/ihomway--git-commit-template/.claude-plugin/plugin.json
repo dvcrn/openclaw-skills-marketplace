@@ -1,0 +1,10 @@
+{
+  "name": "ihomway--git-commit-template",
+  "description": "Standardized Git commit message templates using changelog-style categories. Use when creating Git commits with structured format - Added (new features), Changed (existing functionality changes), Deprecated (soon-to-be removed), Removed (deleted features), Fixed (bug fixes). Triggers on commit creation, git commit messages, or standardizing commit history.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ihomway"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ihomway/git-commit-template",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ihomway/git-commit-template"
+}

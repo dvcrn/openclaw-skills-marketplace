@@ -1,0 +1,10 @@
+{
+  "name": "doninocode--corpus",
+  "description": "Access a user's Corpus library from OpenClaw. Use when the user asks to search saved content, fetch item details, save links into Corpus, or create reminders from Corpus content.",
+  "version": "1.0.1",
+  "author": {
+    "name": "doninocode"
+  },
+  "homepage": "https://github.com/zdonino/Corpus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/doninocode/corpus"
+}

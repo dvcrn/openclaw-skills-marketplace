@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--companycam",
+  "description": "CompanyCam API integration with managed OAuth. Photo documentation platform for contractors.\n Use this skill when users want to manage projects, photos, users, tags, groups, or documents in CompanyCam.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/companycam",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/companycam"
+}

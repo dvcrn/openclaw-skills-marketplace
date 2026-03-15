@@ -1,0 +1,10 @@
+{
+  "name": "javicasper--reddit-scraper",
+  "description": "Read and search Reddit posts via web scraping of old.reddit.com. Use when Clawdbot needs to browse Reddit content - read posts from subreddits, search for topics, monitor specific communities. Read-only access with no posting or comments.",
+  "version": "1.0.0",
+  "author": {
+    "name": "javicasper"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/javicasper/reddit-scraper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/javicasper/reddit-scraper"
+}

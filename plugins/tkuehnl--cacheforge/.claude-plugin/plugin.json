@@ -1,0 +1,10 @@
+{
+  "name": "tkuehnl--cacheforge",
+  "description": "CacheForge primary skill — bootstrap onboarding + ops + stats for the OpenAI-compatible token optimization gateway. Cut your LLM bill by up to 30% (results vary by provider/workload).",
+  "version": "1.0.0",
+  "author": {
+    "name": "tkuehnl"
+  },
+  "homepage": "https://app.anvil-ai.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tkuehnl/cacheforge"
+}

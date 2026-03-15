@@ -1,0 +1,10 @@
+{
+  "name": "dktrn9ne--mux-video",
+  "description": "Mux Video infrastructure skill for designing, ingesting, transcoding/packaging, playback ID policy, live streaming, clipping, and observability with Mux Data. Use when architecting or operating Mux-based video pipelines, live workflows, playback security, or diagnosing playback issues.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dktrn9ne"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dktrn9ne/mux-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dktrn9ne/mux-video"
+}

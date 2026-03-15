@@ -1,0 +1,10 @@
+{
+  "name": "abdullah4ai--visual-prompt-engine",
+  "description": "Generate diverse, non-repetitive image prompts powered by real visual references from Dribbble and design platforms. USE WHEN: user wants an image prompt, needs creative visual inspiration, asks for design-informed prompts, wants to avoid repetitive AI image generation, or says 'generate a prompt for an image', 'give me a creative image idea', 'make me a unique visual prompt'. DON'T USE WHEN: user wants to generate the image itself (use an image generation tool), wants to edit an existing image, or needs text-only content. EDGE CASES: 'make me an image' → use image generation tool, then optionally this skill for the prompt. 'improve this image prompt' → this skill. 'I keep getting similar AI images' → this skill (solves repetition).",
+  "version": "1.0.0",
+  "author": {
+    "name": "abdullah4ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abdullah4ai/visual-prompt-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abdullah4ai/visual-prompt-engine"
+}

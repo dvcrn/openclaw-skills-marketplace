@@ -1,0 +1,10 @@
+{
+  "name": "longmans--poe-chat",
+  "description": "使用 @gemini/@gpt/@claude 等触发词调用 Poe 模型（含 Gemini/GPT/claude/kimi/Deepseek等主流模型），自动选择 model_id 并说明使用了哪一个，支持文件上传。",
+  "version": "1.0.0",
+  "author": {
+    "name": "longmans"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/longmans/poe-chat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/longmans/poe-chat"
+}

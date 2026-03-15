@@ -1,0 +1,10 @@
+{
+  "name": "neldar--webchat-https-proxy",
+  "description": "HTTPS/WSS reverse proxy for OpenClaw WebChat Control UI. Serves the Control UI over HTTPS with TLS cert management, proxies WebSocket connections to the gateway, and forwards /transcribe requests to the local faster-whisper endpoint. Runs as a user systemd service. Pure infrastructure — no voice-specific UI logic. Keywords: HTTPS proxy, WSS, TLS, reverse proxy, Control UI, systemd service, self-signed certificate, WebSocket proxy.",
+  "version": "0.1.0",
+  "author": {
+    "name": "neldar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neldar/webchat-https-proxy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neldar/webchat-https-proxy"
+}

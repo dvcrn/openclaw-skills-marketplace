@@ -1,0 +1,10 @@
+{
+  "name": "masasdani--mailtarget-email",
+  "description": "Send transactional and marketing emails via Mailtarget API. Manage sending domains, templates, API keys, and sub-accounts. Use when the agent needs to send emails, manage email templates, configure sending domains, or handle any email infrastructure task through Mailtarget (mailtarget.co). Supports HTML emails, attachments, click/open tracking, template-based sending with substitution data, CC/BCC, reply-to, and custom headers.",
+  "version": "1.2.0",
+  "author": {
+    "name": "masasdani"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/masasdani/mailtarget-email",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/masasdani/mailtarget-email"
+}

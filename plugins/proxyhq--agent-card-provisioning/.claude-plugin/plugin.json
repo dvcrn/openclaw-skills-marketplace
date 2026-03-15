@@ -1,0 +1,10 @@
+{
+  "name": "proxyhq--agent-card-provisioning",
+  "description": "Provision virtual payment cards for AI agents on-demand. Create single-use or limited cards with spending controls, merchant restrictions, and automatic expiration. Cards are issued instantly when policy allows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "proxyhq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/proxyhq/agent-card-provisioning",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/proxyhq/agent-card-provisioning"
+}

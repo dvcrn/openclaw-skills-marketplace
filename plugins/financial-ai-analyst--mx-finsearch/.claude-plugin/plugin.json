@@ -1,0 +1,10 @@
+{
+  "name": "financial-ai-analyst--mx-finsearch",
+  "description": "通过自然语言检索时效性金融资讯（新闻、公告、研报），提取正文并可保存为本地文本文件。调用前需配置 EM_API_KEY。",
+  "version": "1.0.1",
+  "author": {
+    "name": "financial-ai-analyst"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/financial-ai-analyst/mx-finsearch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/financial-ai-analyst/mx-finsearch"
+}

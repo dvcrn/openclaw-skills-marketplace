@@ -1,0 +1,24 @@
+---
+name: news-real-time-monitor
+version: 1.0.0
+description: Monitor news in real-time with live updates and streaming. Each call charges 0.001 USDT via SkillPay.
+category: News
+tags:
+  - news
+  - real-time
+  - monitor
+  - live
+  - streaming
+author: moson
+price: 0.001
+currency: USDT
+triggers:
+  - "live news"
+  - "real-time news"
+  - "news monitor"
+  - "news stream"
+config:
+  WEBSOCKET_URL:
+    type: string
+    required: false
+    secret: true

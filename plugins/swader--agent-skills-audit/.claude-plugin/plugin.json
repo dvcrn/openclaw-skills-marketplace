@@ -1,0 +1,10 @@
+{
+  "name": "swader--agent-skills-audit",
+  "description": "Run a two-pass, multidisciplinary code audit led by a tie-breaker lead, combining security, performance, UX, DX, and edge-case analysis into one prioritized report with concrete fixes. Use when the user asks to audit code, perform a deep review, stress-test a codebase, or produce a risk-ranked remediation plan across backend, frontend, APIs, infra scripts, and product flows.",
+  "version": "0.1.0",
+  "author": {
+    "name": "swader"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/swader/agent-skills-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/swader/agent-skills-audit"
+}

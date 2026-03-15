@@ -1,0 +1,10 @@
+{
+  "name": "romain-grosos--nextcloud-files",
+  "description": "Nextcloud file and folder management via WebDAV + OCS API. Use when: (1) creating, reading, writing, renaming, moving, copying, or deleting files/folders, (2) listing or searching directory contents, (3) toggling favorites or managing system tags, (4) checking storage quota. NOT for: Nextcloud Talk, Calendar/Contacts (use CalDAV), app management (requires admin), large binary transfers, or creating share links (share capability not included by default - see README).",
+  "version": "1.2.3",
+  "author": {
+    "name": "romain-grosos"
+  },
+  "homepage": "https://github.com/rwx-g/openclaw-skill-nextcloud",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romain-grosos/nextcloud-files"
+}

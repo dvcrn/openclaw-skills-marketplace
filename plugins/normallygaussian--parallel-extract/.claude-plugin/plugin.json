@@ -1,0 +1,10 @@
+{
+  "name": "normallygaussian--parallel-extract",
+  "description": "URL content extraction via Parallel API. Extracts clean markdown from webpages, articles, PDFs, and JS-heavy sites. Use for reading specific URLs with LLM-ready output.",
+  "version": "1.0.0",
+  "author": {
+    "name": "normallygaussian"
+  },
+  "homepage": "https://parallel.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/normallygaussian/parallel-extract"
+}

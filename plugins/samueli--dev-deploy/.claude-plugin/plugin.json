@@ -1,0 +1,10 @@
+{
+  "name": "samueli--dev-deploy",
+  "description": "快速创建并部署 Web 应用到 Cloudflare Pages；包含文件覆盖、Git推送与系统修改的安全确认机制。",
+  "version": "1.4.0",
+  "author": {
+    "name": "samueli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/samueli/dev-deploy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/samueli/dev-deploy"
+}

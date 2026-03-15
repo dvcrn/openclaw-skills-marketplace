@@ -1,0 +1,10 @@
+{
+  "name": "mcoso--oh-my-opencode",
+  "description": "Multi-agent orchestration plugin for OpenCode. Use when the user wants to install, configure, or operate oh-my-opencode — including agent delegation, ultrawork mode, Prometheus planning, background tasks, category-based task routing, model resolution, tmux integration, or any oh-my-opencode feature. Covers installation, configuration, all agents (Sisyphus, Oracle, Librarian, Explore, Atlas, Prometheus, Metis, Momus), all categories, slash commands, hooks, skills, MCPs, and troubleshooting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mcoso"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mcoso/oh-my-opencode",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mcoso/oh-my-opencode"
+}

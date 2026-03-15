@@ -1,0 +1,10 @@
+{
+  "name": "xkweimeng--build-diagram",
+  "description": "Generate diagrams from natural language using EdrawMax AI APIs. Supports four diagram types: flowchart (流程图), infographic (信息图), Gantt chart (甘特图), and mind map (思维导图). Use when the user wants to create, generate, or draw any of these diagram types. Triggers on: 'generate a flowchart,' 'create a mind map,' 'draw a Gantt chart,' 'make an infographic,' 'visualize a process,' 'project timeline,' 'knowledge map,' or any request to turn a description into a diagram.",
+  "version": "1.0.2",
+  "author": {
+    "name": "xkweimeng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xkweimeng/build-diagram",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xkweimeng/build-diagram"
+}

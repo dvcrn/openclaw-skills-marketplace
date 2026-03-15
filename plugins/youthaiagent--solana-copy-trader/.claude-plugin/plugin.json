@@ -1,0 +1,10 @@
+{
+  "name": "youthaiagent--solana-copy-trader",
+  "description": "Solana whale copy trading bot. Track any wallet, copy trades in real-time via Jupiter + Pump.fun APIs, with paper trading simulation and live execution. Use when user wants to copy trade a Solana wallet, track whale transactions, scan for arbitrage opportunities, monitor pump.fun token launches, or set up an autonomous Solana trading bot.",
+  "version": "1.0.0",
+  "author": {
+    "name": "youthaiagent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/youthaiagent/solana-copy-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/youthaiagent/solana-copy-trader"
+}

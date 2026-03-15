@@ -1,0 +1,10 @@
+{
+  "name": "wpank--design-integration",
+  "description": "Design a Uniswap integration architecture. Use when user is building a project that needs to integrate Uniswap and wants recommendations on integration method (Trading API vs SDK vs direct contract), architecture patterns, required dependencies, and security considerations.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/design-integration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/design-integration"
+}

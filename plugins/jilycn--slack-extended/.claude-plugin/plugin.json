@@ -1,0 +1,10 @@
+{
+  "name": "jilycn--slack-extended",
+  "description": "Upload files, manage canvases, and manage bookmarks in Slack. Use when you need to share files, create/edit canvases, or add/organize link bookmarks in Slack channels. Complements the core slack skill which handles messages, reactions, and pins.",
+  "version": "0.1.1",
+  "author": {
+    "name": "jilycn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jilycn/slack-extended",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jilycn/slack-extended"
+}

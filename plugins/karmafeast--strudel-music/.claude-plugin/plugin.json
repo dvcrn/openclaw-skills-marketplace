@@ -1,0 +1,10 @@
+{
+  "name": "karmafeast--strudel-music",
+  "description": "Audio deconstruction and composition via Strudel live-coding. Decompose any audio into stems, extract samples, compose with the vocabulary, render offline to WAV/MP3.",
+  "version": "1.2.1",
+  "author": {
+    "name": "karmafeast"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/karmafeast/strudel-music",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/karmafeast/strudel-music"
+}

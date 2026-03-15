@@ -1,0 +1,10 @@
+{
+  "name": "kowl64--linux-service-triage",
+  "description": "Diagnoses common Linux service issues using logs, systemd/PM2, file permissions, Nginx reverse proxy checks, and DNS sanity checks. Use when a server app is failing, unreachable, or misconfigured.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kowl64"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kowl64/linux-service-triage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kowl64/linux-service-triage"
+}

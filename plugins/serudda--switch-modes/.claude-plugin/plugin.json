@@ -1,0 +1,10 @@
+{
+  "name": "serudda--switch-modes",
+  "description": "Switch between AI models dynamically to optimize costs and performance. Use when the user says mode commands like \"eco mode\", \"balanced mode\", \"smart mode\", or \"max mode\", or when they want to check their current mode with \"/modes status\" or configure modes with \"/modes setup\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "serudda"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/serudda/switch-modes",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/serudda/switch-modes"
+}

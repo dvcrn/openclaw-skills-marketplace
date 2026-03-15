@@ -1,0 +1,10 @@
+{
+  "name": "zadanthony--arbiscan-skill",
+  "description": "Comprehensive crypto market scanner across Binance, OKX, Bybit, and Bitget. 12 scan types covering arbitrage (funding rate, basis, spot spread, futures spread), market monitoring (open interest, price movers, volume anomaly, stablecoin depeg, funding extreme), and trading signals (funding trend, long/short ratio, new listing detection). Read-only — no trading, no API keys needed.",
+  "version": "0.2.0",
+  "author": {
+    "name": "zadanthony"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zadanthony/arbiscan-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zadanthony/arbiscan-skill"
+}

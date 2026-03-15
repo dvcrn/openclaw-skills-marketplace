@@ -1,0 +1,10 @@
+{
+  "name": "psyb0t--stealthy-auto-browse",
+  "description": "Browser automation that passes CreepJS, BrowserScan, Pixelscan, and Cloudflare — zero CDP exposure, OS-level input, persistent fingerprints. Use when standard browser skills get 403s or CAPTCHAs.",
+  "version": "1.3.0",
+  "author": {
+    "name": "psyb0t"
+  },
+  "homepage": "https://github.com/psyb0t/docker-stealthy-auto-browse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/psyb0t/stealthy-auto-browse"
+}

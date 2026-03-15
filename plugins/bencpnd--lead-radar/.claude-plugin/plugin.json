@@ -1,0 +1,10 @@
+{
+  "name": "bencpnd--lead-radar",
+  "description": "Every morning, scans Reddit, Hacker News, Indie Hackers, Stack Overflow, Quora, Hashnode, Dev.to, GitHub, and Lobsters for people actively asking for what you sell. Delivers the top 10 buying-intent leads to your Telegram with a pre-drafted reply. Powered by Gemini 2.5 Flash.",
+  "version": "1.3.5",
+  "author": {
+    "name": "bencpnd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bencpnd/lead-radar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bencpnd/lead-radar"
+}

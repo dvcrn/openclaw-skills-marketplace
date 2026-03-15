@@ -1,0 +1,10 @@
+{
+  "name": "nickian--supernote-cloud",
+  "description": "Access a self-hosted Supernote Private Cloud instance to browse files and folders, upload documents (PDF, EPUB) and notes, convert web articles to EPUB/PDF and send them to the device, check storage capacity, and navigate the directory tree. Use when the user mentions Supernote, e-ink device files, wants to upload/browse documents on their Supernote cloud, or wants to send an article/URL to their e-reader.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nickian"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nickian/supernote-cloud",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nickian/supernote-cloud"
+}

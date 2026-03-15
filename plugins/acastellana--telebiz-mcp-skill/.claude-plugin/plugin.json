@@ -1,0 +1,10 @@
+{
+  "name": "acastellana--telebiz-mcp-skill",
+  "description": "Access Telegram data via MCP using the telebiz-tt browser client. Lists chats, reads messages, searches, manages folders, and sends messages through an authenticated Telegram session.",
+  "version": "0.1.0",
+  "author": {
+    "name": "acastellana"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/acastellana/telebiz-mcp-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/acastellana/telebiz-mcp-skill"
+}

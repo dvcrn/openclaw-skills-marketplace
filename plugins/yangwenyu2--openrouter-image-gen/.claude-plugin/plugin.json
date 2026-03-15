@@ -1,0 +1,10 @@
+{
+  "name": "yangwenyu2--openrouter-image-gen",
+  "description": "Generate images using Google Gemini via OpenRouter API. Supports text-to-image and reference-image-guided generation. Use when the user asks to generate, create, draw, or design images/illustrations/covers/avatars.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yangwenyu2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yangwenyu2/openrouter-image-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yangwenyu2/openrouter-image-gen"
+}

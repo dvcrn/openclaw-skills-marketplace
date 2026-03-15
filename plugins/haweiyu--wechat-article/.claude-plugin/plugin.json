@@ -1,0 +1,10 @@
+{
+  "name": "haweiyu--wechat-article",
+  "description": "抓取微信公众号文章，提取标题和内容并输出为 Markdown 格式。支持多种提取方式。",
+  "version": "1.0.0",
+  "author": {
+    "name": "haweiyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/haweiyu/wechat-article",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/haweiyu/wechat-article"
+}

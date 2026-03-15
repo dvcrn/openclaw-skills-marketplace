@@ -1,0 +1,10 @@
+{
+  "name": "aimlapihello--aiml-image-video",
+  "description": "Generate images or videos via AIMLAPI from prompts. Use when Codex needs reliable AI/ML API media generation with retries, explicit User-Agent headers, and async video polling.",
+  "version": "1.0.2",
+  "author": {
+    "name": "aimlapihello"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aimlapihello/aiml-image-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aimlapihello/aiml-image-video"
+}

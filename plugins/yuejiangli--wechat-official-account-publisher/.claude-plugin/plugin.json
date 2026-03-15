@@ -1,0 +1,10 @@
+{
+  "name": "yuejiangli--wechat-official-account-publisher",
+  "description": "Publish articles to WeChat Official Account (微信公众号) draft box via API. Use when the user wants to upload a Markdown article (with optional local images) to their WeChat 公众号 草稿箱. Handles token management, image uploading to WeChat CDN, Markdown-to-HTML conversion, and draft creation. Does NOT generate images — images must be provided as local files.",
+  "version": "0.1.0",
+  "author": {
+    "name": "yuejiangli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yuejiangli/wechat-official-account-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yuejiangli/wechat-official-account-publisher"
+}

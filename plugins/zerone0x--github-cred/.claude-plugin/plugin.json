@@ -1,0 +1,10 @@
+{
+  "name": "zerone0x--github-cred",
+  "description": "Analyze GitHub user contribution quality. Evaluates owned repos, external contributions, output quality, and social influence. Triggers on \"github cred\", \"analyze github\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "zerone0x"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zerone0x/github-cred",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zerone0x/github-cred"
+}

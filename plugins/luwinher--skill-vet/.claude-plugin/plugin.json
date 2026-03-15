@@ -1,0 +1,10 @@
+{
+  "name": "luwinher--skill-vet",
+  "description": "在安装或运行 skill 前进行安全扫描，检查恶意代码、可疑命令和网络请求等潜在威胁。",
+  "version": "1.0.0",
+  "author": {
+    "name": "luwinher"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luwinher/skill-vet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luwinher/skill-vet"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "nihaovand--check-hot-altcoins",
+  "description": "生成加密货币早报PDF，包含行业动态、FDV排名、热点赛道和风险提示。数据来源于CoinGecko API。",
+  "version": "1.0.0",
+  "author": {
+    "name": "nihaovand"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nihaovand/check-hot-altcoins",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nihaovand/check-hot-altcoins"
+}

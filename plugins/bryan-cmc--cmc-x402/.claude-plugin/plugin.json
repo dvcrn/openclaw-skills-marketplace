@@ -1,0 +1,10 @@
+{
+  "name": "bryan-cmc--cmc-x402",
+  "description": "Access CoinMarketCap data via x402 pay-per-request protocol with USDC payments on Base.\n Use when users mention x402, want CMC data without API keys, ask about pay-per-request APIs, or need to integrate CMC with on-chain payments. Also use for any Coinbase x402 protocol questions.\n Trigger: \"x402\", \"pay per request\", \"no API key\", \"USDC payment\", \"CMC without subscription\", \"/cmc-x402\"",
+  "version": "1.0.1",
+  "author": {
+    "name": "bryan-cmc"
+  },
+  "homepage": "https://github.com/coinmarketcap/skills-for-ai-agents-by-CoinMarketCap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bryan-cmc/cmc-x402"
+}

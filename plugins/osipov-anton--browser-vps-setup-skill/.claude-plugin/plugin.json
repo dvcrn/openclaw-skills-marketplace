@@ -1,0 +1,10 @@
+{
+  "name": "osipov-anton--browser-vps-setup-skill",
+  "description": "Set up a remote-controlled Chrome browser on a Linux VPS with noVNC visual access (via SSH tunnel) and optional authenticated HTTP proxy. Use when the user wants to run a browser on a VPS, control it remotely, view it via noVNC, or route browser traffic through a proxy.",
+  "version": "1.0.0",
+  "author": {
+    "name": "osipov-anton"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/osipov-anton/browser-vps-setup-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/osipov-anton/browser-vps-setup-skill"
+}

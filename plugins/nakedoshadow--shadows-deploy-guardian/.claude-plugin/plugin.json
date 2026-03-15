@@ -1,0 +1,10 @@
+{
+  "name": "nakedoshadow--shadows-deploy-guardian",
+  "description": "Pre-deployment verification checklist — tests, types, build, secrets scan, environment validation. Use before pushing to production or staging.",
+  "version": "1.1.0",
+  "author": {
+    "name": "nakedoshadow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nakedoshadow/shadows-deploy-guardian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nakedoshadow/shadows-deploy-guardian"
+}

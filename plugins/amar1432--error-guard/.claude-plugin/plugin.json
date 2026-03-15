@@ -1,0 +1,10 @@
+{
+  "name": "amar1432--error-guard",
+  "description": "System safety and control-plane skill that prevents agent deadlocks and freezes. Provides non-LLM control commands to inspect task state, flush message queues, cancel long-running work, and recover safely without restarting the container. Use when implementing or operating long-running tasks, sub-agents, benchmarks, background monitors (e.g., Moltbook, PNR checks), or when the system becomes unresponsive and needs immediate recovery controls.",
+  "version": "1.0.0",
+  "author": {
+    "name": "amar1432"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/amar1432/error-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/amar1432/error-guard"
+}

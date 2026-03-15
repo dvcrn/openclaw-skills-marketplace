@@ -1,0 +1,10 @@
+{
+  "name": "nick4man--receipt-tracker",
+  "description": "Распознает фотографии чеков, разбивает расходы по категориям (продукты, заправка, аптека, такси, животные и др.) и сохраняет их в базу (expenses.csv). Генерирует ежемесячные отчеты по затратам. Использует быструю и дешевую модель gemini-2.5-flash для извлечения и анализа данных.",
+  "version": "1.1.0",
+  "author": {
+    "name": "nick4man"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nick4man/receipt-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nick4man/receipt-tracker"
+}

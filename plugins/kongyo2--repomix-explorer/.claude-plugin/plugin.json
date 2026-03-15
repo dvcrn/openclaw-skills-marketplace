@@ -1,0 +1,10 @@
+{
+  "name": "kongyo2--repomix-explorer",
+  "description": "Use this skill when the user wants to analyze or explore a codebase (remote repository or local repository) using Repomix. Triggers on: 'analyze this repo', 'explore codebase', 'what's the structure', 'find patterns in repo', 'how many files/tokens'. Runs repomix CLI to pack repositories, then analyzes the output.",
+  "version": "0.1.0",
+  "author": {
+    "name": "kongyo2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kongyo2/repomix-explorer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kongyo2/repomix-explorer"
+}

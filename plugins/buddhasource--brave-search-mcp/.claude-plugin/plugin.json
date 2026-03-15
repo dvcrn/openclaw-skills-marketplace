@@ -1,0 +1,10 @@
+{
+  "name": "buddhasource--brave-search-mcp",
+  "description": "Official Brave Search MCP Server for web search, image search, news search, video search, and local POI search. Privacy-focused search API with AI-powered summarization. Connect AI agents to comprehensive search capabilities without Google tracking. Supports web navigation, research, fact-checking, and content discovery. Use when agents need to search the internet, find current information, research topics, verify facts, discover images/videos, or locate businesses/places.",
+  "version": "1.0.0",
+  "author": {
+    "name": "buddhasource"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/buddhasource/brave-search-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/buddhasource/brave-search-mcp"
+}

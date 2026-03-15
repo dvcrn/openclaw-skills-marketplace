@@ -1,0 +1,21 @@
+{
+  "name": "word-vault-revival",
+  "version": "0.1.0",
+  "private": true,
+  "description": "多平台收藏词复活计划：browser-first 的收藏词同步与每日 1 词推送",
+  "license": "MIT",
+  "keywords": ["openclaw", "skill", "vocabulary", "google-translate", "youdao", "wordbook"],
+  "type": "module",
+  "scripts": {
+    "doctor": "node ./scripts/doctor.js",
+    "sync": "node ./scripts/sync.js",
+    "sync:google": "node ./scripts/sync.js google",
+    "sync:youdao": "node ./scripts/sync.js youdao",
+    "send": "node ./scripts/send.js",
+    "status": "node ./scripts/status.js",
+    "test-message": "node ./scripts/test-message.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

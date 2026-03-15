@@ -1,0 +1,10 @@
+{
+  "name": "luacantu--web3-marketing-gtm",
+  "description": "Full-stack Web3 marketing and GTM brain for AI agents and bots. Use this skill whenever a bot or agent needs to produce any of the following from a project brief: a GTM launch plan, a campaign calendar, community engagement scripts for Discord/Telegram/X, or an on-chain user acquisition and retention strategy. Trigger this skill when input includes a project name, blockchain/chain, and product type — even if the request is phrased casually like \"build me a go-to-market for my DeFi app\" or \"write me a Discord campaign for my NFT project\" or \"how do I grow my Web3 community\". This skill covers the full marketing lifecycle: pre-launch, launch week, post-launch growth, and retention loops. Always use this skill for Web3 marketing tasks rather than improvising.",
+  "version": "1.0.0",
+  "author": {
+    "name": "luacantu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luacantu/web3-marketing-gtm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luacantu/web3-marketing-gtm"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wanng-ide--memory-mesh-core",
+  "description": "Builds a reusable memory mesh for OpenClaw with tagged memory layers, local consolidation, global sync, GitHub Issue contribution self-check, and optional automated issue posting. Use when users want cross-session memory consolidation and collaborative memory growth.",
+  "version": "1.0.6",
+  "author": {
+    "name": "wanng-ide"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/memory-mesh-core",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/memory-mesh-core"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kingrubic--agentic-security-audit",
+  "description": "Audit codebases, infrastructure, AND agentic AI systems for security issues. Covers traditional security (dependencies, secrets, OWASP web top 10, SSL/TLS, file permissions) PLUS agentic security (prompt injection scanning, identity spoofing detection, memory poisoning checks, multi-agent communication audit, OWASP Agentic Top 10). Use when scanning for vulnerabilities, detecting hardcoded secrets, reviewing agent workspace configuration, checking prompt injection vectors, or auditing agent permissions and boundaries.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kingrubic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kingrubic/agentic-security-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kingrubic/agentic-security-audit"
+}

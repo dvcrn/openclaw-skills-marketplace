@@ -1,0 +1,10 @@
+{
+  "name": "sanshuili334-code--cad-viewer",
+  "description": "This skill should be used when the user wants to read, analyze, or work with CAD DWG/DXF drawing files. Trigger phrases include: DWG, DXF, CAD drawing, drawing analysis, layer, block, entity, screenshot, distance calculation, drawing audit, electrical diagram, distribution box, single-line diagram, or any mention of .dwg/.dxf files. This skill provides comprehensive CAD drawing analysis capabilities including reading file metadata, listing layers and entities, analyzing block definitions, calculating distances between entities, capturing screenshots of specific regions or entities, and auditing drawing compliance.",
+  "version": "1.0.2",
+  "author": {
+    "name": "sanshuili334-code"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sanshuili334-code/cad-viewer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sanshuili334-code/cad-viewer"
+}

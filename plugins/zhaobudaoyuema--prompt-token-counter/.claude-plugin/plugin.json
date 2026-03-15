@@ -1,0 +1,10 @@
+{
+  "name": "zhaobudaoyuema--prompt-token-counter",
+  "description": "Count tokens and estimate costs for 300+ LLM models. Primary use: audit OpenClaw workspace token consumption (memory, persona, skills).",
+  "version": "1.0.5",
+  "author": {
+    "name": "zhaobudaoyuema"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhaobudaoyuema/prompt-token-counter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhaobudaoyuema/prompt-token-counter"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "abstrct--structs-building",
+  "description": "Builds and manages structures in Structs. Handles construction, activation, deactivation, movement, defense positioning, stealth, and generator infusion. Use when building a struct, activating or deactivating structs, moving structs between slots, setting defense assignments, enabling stealth, or infusing generators. Build times range from ~17 min (Command Ship) to ~6.4 hours (World Engine).",
+  "version": "1.1.0",
+  "author": {
+    "name": "abstrct"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abstrct/structs-building",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abstrct/structs-building"
+}

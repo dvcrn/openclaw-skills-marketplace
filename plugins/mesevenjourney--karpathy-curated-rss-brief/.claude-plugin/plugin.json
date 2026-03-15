@@ -1,0 +1,10 @@
+{
+  "name": "mesevenjourney--karpathy-curated-rss-brief",
+  "description": "Fetch articles from Karpathy's curated 93 RSS feeds and generate a Chinese tech daily newsletter. Triggers: RSS 日报、RSS 简报、karpathy-curated-rss-brief、每日简报、Karpathy RSS、生成日报、今日资讯、rss-brief。",
+  "version": "1.0.2",
+  "author": {
+    "name": "mesevenjourney"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mesevenjourney/karpathy-curated-rss-brief",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mesevenjourney/karpathy-curated-rss-brief"
+}

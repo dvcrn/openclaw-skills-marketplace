@@ -1,0 +1,10 @@
+{
+  "name": "cheminem--pharmaclaw-market-intel-agent",
+  "description": "Fetches and analyzes FAERS (FDA Adverse Event Reporting System) data from openFDA API.\n Supports drug names and SMILES (resolves via PubChem).\n Generates: events list, yearly trends (counts), top reactions/outcomes as JSON + matplotlib bar chart PNGs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cheminem"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cheminem/pharmaclaw-market-intel-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cheminem/pharmaclaw-market-intel-agent"
+}

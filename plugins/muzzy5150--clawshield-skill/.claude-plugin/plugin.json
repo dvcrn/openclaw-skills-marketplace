@@ -1,0 +1,10 @@
+{
+  "name": "muzzy5150--clawshield-skill",
+  "description": "Private shielded transactions on Solana via ClawShield. Shield and withdraw SOL, USDC, USDT anonymously using ZK proofs. Keys never leave your agent.",
+  "version": "1.0.0",
+  "author": {
+    "name": "muzzy5150"
+  },
+  "homepage": "https://clawshield.network",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/muzzy5150/clawshield-skill"
+}

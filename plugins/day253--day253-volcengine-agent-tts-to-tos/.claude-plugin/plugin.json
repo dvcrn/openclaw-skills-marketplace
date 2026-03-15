@@ -1,0 +1,10 @@
+{
+  "name": "day253--day253-volcengine-agent-tts-to-tos",
+  "description": "Combined agent that synthesizes speech via Volcengine TTS, uploads the audio to TOS, and returns a presigned temporary URL. Use when users need a shareable audio link from text input.",
+  "version": "1.0.0",
+  "author": {
+    "name": "day253"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/day253/day253-volcengine-agent-tts-to-tos",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/day253/day253-volcengine-agent-tts-to-tos"
+}

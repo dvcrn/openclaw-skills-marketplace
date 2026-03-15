@@ -1,0 +1,10 @@
+{
+  "name": "shuakami--uapi-get-misc-district",
+  "description": "使用 UAPI 的“Adcode 国内外行政区域查询”单接口 skill，处理 Adcode 国内外行政区域查询、行政区查询 等请求。 Use when the user wants get misc district, misc district, district, district lookup, or when you need to call GET /misc/district directly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shuakami"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-misc-district",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-misc-district"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "capt-marbles--apollo-enrichment",
+  "description": "Apollo.io contact and company enrichment API. Enrich people with email, phone, title, company data. Enrich organizations with industry, revenue, employee count, funding. Search for prospects. Use when the user needs to enrich contacts, find emails, lookup company info, or search for leads.",
+  "version": "1.3.0",
+  "author": {
+    "name": "capt-marbles"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/capt-marbles/apollo-enrichment",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/capt-marbles/apollo-enrichment"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zhuoran-liu--autodl-train",
+  "description": "Operates remote model training jobs on AutoDL Linux servers over SSH. Use when starting a training run, checking whether training is still alive, reviewing GPU/CPU/memory/disk usage, reading recent logs, diagnosing abnormal interruptions, or summarizing the latest training outcome with next-step recommendations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhuoran-liu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhuoran-liu/autodl-train",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhuoran-liu/autodl-train"
+}

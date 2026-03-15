@@ -1,0 +1,10 @@
+{
+  "name": "techris93--credential-hygiene-validator",
+  "description": "Checks whether credentials and tokens are stored safely. Validates file permissions, plaintext exposure, git repo contamination, log redaction coverage, and token rotation status. Works with OpenClaw and general dotfile directories.",
+  "version": "1.0.0",
+  "author": {
+    "name": "techris93"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/techris93/credential-hygiene-validator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/techris93/credential-hygiene-validator"
+}

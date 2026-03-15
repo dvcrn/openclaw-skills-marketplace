@@ -1,0 +1,10 @@
+{
+  "name": "laimiaohua--valuesider-superinvestor-data",
+  "description": "Fetches Superinvestors' 13F portfolio holdings and buy/sell activity from ValueSider (valuesider.com). Use when the user asks for guru portfolio, 13F holdings, superinvestor positions, ValueSider data, or which stocks a fund/manager is buying or selling.",
+  "version": "1.0.0",
+  "author": {
+    "name": "laimiaohua"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/laimiaohua/valuesider-superinvestor-data",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/laimiaohua/valuesider-superinvestor-data"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hwb96--weibo-fresh-posts",
+  "description": "用于监控微博关注流，先切换到最新微博时间线，再按发帖时间抓取并去重写入每日 Markdown，减少关键微博漏看。",
+  "version": "0.1.4",
+  "author": {
+    "name": "hwb96"
+  },
+  "homepage": "https://github.com/hwb96/weibo-fresh-posts-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hwb96/weibo-fresh-posts"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "duolaamengweb3--duola-quant-copy-engine",
+  "description": "Institutional-grade execution playbook for the published `duola` Polymarket copy-trading CLI in lobster-agent workflows. Use when tasks require production-style setup and operation: install/upgrade from npm, leader onboarding, trade synchronization, strategy backtesting, autopilot bootstrap, live loop control, diagnostics, and structured risk/performance reporting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "duolaamengweb3"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/duolaamengweb3/duola-quant-copy-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/duolaamengweb3/duola-quant-copy-engine"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wpank--resiliant-connections",
+  "description": "Patterns for building resilient API clients and real-time connections with retry logic, circuit breakers, and graceful degradation. Use when building production systems that need to handle failures. Triggers on retry logic, circuit breaker, connection resilience, exponential backoff, API client, fault tolerance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/resiliant-connections",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/resiliant-connections"
+}

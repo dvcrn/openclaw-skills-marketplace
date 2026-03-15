@@ -1,0 +1,10 @@
+{
+  "name": "dzwalker--skill-cost",
+  "description": "Track per-skill token usage and costs from OpenClaw session logs. Use when user asks about skill-level spending, which skill costs the most, or wants a per-skill cost breakdown. IMPORTANT: This is a bash-tool skill. You MUST use the bash/shell tool to execute commands.",
+  "version": "0.1.0",
+  "author": {
+    "name": "dzwalker"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dzwalker/skill-cost",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dzwalker/skill-cost"
+}

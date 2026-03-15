@@ -1,0 +1,10 @@
+{
+  "name": "cinience--volcengine-compute-ecs",
+  "description": "Manage Volcengine ECS instances and related resources. Use when users need instance inventory, lifecycle operations, troubleshooting, or automation templates for ECS.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/volcengine-compute-ecs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/volcengine-compute-ecs"
+}

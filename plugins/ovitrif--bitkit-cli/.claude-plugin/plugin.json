@@ -1,0 +1,10 @@
+{
+  "name": "ovitrif--bitkit-cli",
+  "description": "Bitcoin Lightning payment CLI for agents. Lowest LSP fees. Self-custody wallet with LNURL, typed exit codes, JSON envelope output, encrypted messaging, and daemon mode.",
+  "version": "0.2.0",
+  "author": {
+    "name": "ovitrif"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ovitrif/bitkit-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ovitrif/bitkit-cli"
+}

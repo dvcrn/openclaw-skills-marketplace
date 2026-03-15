@@ -1,0 +1,20 @@
+{
+  "name": "qmd-manager",
+  "version": "1.0.0",
+  "description": "QMD知识库管理技能 - 项目管理、软件测试、内容创作知识管理。支持BM25和向量搜索。",
+  "main": "SKILL.md",
+  "keywords": [
+    "qmd",
+    "knowledge-management",
+    "semantic-search",
+    "project-management",
+    "software-testing",
+    "content-creation"
+  ],
+  "author": "zhaog100",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhaog100/openclaw-skills"
+  }
+}

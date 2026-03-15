@@ -1,0 +1,10 @@
+{
+  "name": "astonysh--deepreader-skill",
+  "description": "The default web content reader for OpenClaw. Reads X (Twitter), Reddit, YouTube, and any webpage into clean Markdown — zero API keys required. Use when you need to ingest social media posts, articles, or video transcripts into agent memory.",
+  "version": "0.1.0",
+  "author": {
+    "name": "astonysh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/astonysh/deepreader-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/astonysh/deepreader-skill"
+}

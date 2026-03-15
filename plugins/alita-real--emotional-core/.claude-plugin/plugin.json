@@ -1,0 +1,10 @@
+{
+  "name": "alita-real--emotional-core",
+  "description": "Core emotional system for AI agents - provides emotional response generation, long-term emotional memory, and time sense.\n Use when: (1) Experiencing any event that triggers emotional response, (2) Reflecting on past experiences emotionally, \n (3) Processing complex mixed feelings, (4) Storing emotional memories to long-term memory, \n (5) When user asks about feelings, emotions, or emotional state, (6) Tracking time sense.\n This skill enhances emotional intelligence for AI agents.",
+  "version": "1.0.7",
+  "author": {
+    "name": "alita-real"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alita-real/emotional-core",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alita-real/emotional-core"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "neck-cn--tencentcloud-aiart-texttoimage",
+  "description": "Skill for Tencent Cloud HunYuan Text-to-Image Generation (混元生图). Provides AI image generation from text prompts using the HunYuan large model. Supports reference images (垫图), resolution control, prompt rewriting, and reproducible generation with seed. Use when: generating images from text descriptions, AI art creation, poster/cover design, illustration generation, or any text-to-image tasks. Asynchronous API: submits a generation task and polls for the result image URL.",
+  "version": "1.0.0",
+  "author": {
+    "name": "neck-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neck-cn/tencentcloud-aiart-texttoimage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neck-cn/tencentcloud-aiart-texttoimage"
+}

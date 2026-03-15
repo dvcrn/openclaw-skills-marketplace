@@ -1,0 +1,17 @@
+{
+  "accessKey": "your_access_key",
+  "secretKey": "your_secret_key",
+  "robotId": "your_robot_id",
+  "mobile": "1***********",
+  "callerNum": ["02********"],
+  "secretType": 2,
+  "dialogVar": {
+    "name": "张三"
+  },
+  "promptVar": {
+    "scene": "reminder"
+  },
+  "stopDate": "2026-03-10 23:59:59",
+  "callBackUrl": "https://example.com/aiob/callback",
+  "extJson": "biz-001"
+}

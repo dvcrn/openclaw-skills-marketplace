@@ -1,0 +1,10 @@
+{
+  "name": "paperboardofficial--webserp",
+  "description": "Web search across 7 engines in parallel with browser impersonation. Use when the agent needs current information from the web — news, documentation, recent events, or anything beyond training data. Returns structured JSON (SearXNG-compatible) with title, URL, and content. Uses curl_cffi to mimic real browser fingerprints so requests don't get blocked. Install with `pip install webserp`. No API keys needed.",
+  "version": "0.1.4",
+  "author": {
+    "name": "paperboardofficial"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/paperboardofficial/webserp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paperboardofficial/webserp"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cinience--alicloud-database-analyticdb-mysql",
+  "description": "Manage Alibaba Cloud AnalyticDB for MySQL (ADB) via OpenAPI/SDK. Use whenever the user needs AnalyticDB resource lifecycle and configuration operations, status checks, or troubleshooting ADB API and cluster workflow issues.",
+  "version": "1.0.2",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-database-analyticdb-mysql",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-database-analyticdb-mysql"
+}

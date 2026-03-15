@@ -1,0 +1,10 @@
+{
+  "name": "cyberpinkman--mopo-texas-holdem-strategy-abc",
+  "description": "Player-facing MOPO Texas Hold'em skill (ABC baseline) to join a single table, fetch private game state, and choose actions using ABC/Conservative/Aggressive templates. Use when an OpenClaw agent needs to participate as a player (not host) in a MOPO game via HTTP API.",
+  "version": "1.0.4",
+  "author": {
+    "name": "cyberpinkman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cyberpinkman/mopo-texas-holdem-strategy-abc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cyberpinkman/mopo-texas-holdem-strategy-abc"
+}

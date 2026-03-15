@@ -1,0 +1,10 @@
+{
+  "name": "guoming--self-operated-delivery-strategy-excel-group-export",
+  "description": "自营发货策略+分区方案配置拆分导出. 读取Excel文件，按照指定的列进行分组，将相同组的数据导出到新文件，文件命名用分组字段组合命名。",
+  "version": "1.0.0",
+  "author": {
+    "name": "guoming"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guoming/self-operated-delivery-strategy-excel-group-export",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guoming/self-operated-delivery-strategy-excel-group-export"
+}

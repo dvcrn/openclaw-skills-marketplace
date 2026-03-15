@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-03-07",
+  "note": "Cards this user owns — determines which discount sources are active for lookup queries.",
+  "cards": [
+    {
+      "id": "poalim_wonder",
+      "name": "Poalim Wonder",
+      "issuer": "Bank Hapoalim",
+      "type": "credit_card",
+      "active": true,
+      "sources_in_kb": ["poalim_wonder"],
+      "notes": "Voucher-based deals. Buy via Wonder app (links.bankhapoalim.co.il/wonder/benefit/ID — app only, not browser). 9 benefit IDs catalogued in discounts.json."
+    },
+    {
+      "id": "htzone_pro2",
+      "name": "HTZone PRO²",
+      "issuer": "HTZone",
+      "type": "membership_card",
+      "active": true,
+      "sources_in_kb": ["htzone_pro2", "htzone_club"],
+      "notes": "PRO² gives deepest discount tier. Also entitled to htzone_club tier. Webview URLs public — scraped headlessly via refresh_deals.py."
+    },
+    {
+      "id": "carrefour_club",
+      "name": "Carrefour Club Visa",
+      "issuer": "כאל (CAL)",
+      "type": "credit_card",
+      "active": true,
+      "sources_in_kb": ["carrefour_club"],
+      "cashback_model": true,
+      "earn_rate": "up to 10% Carrefour coins",
+      "earn_at": ["קרפור", "אדידס", "קולומביה", "Outsiders", "שבילים", "מחסני חשמל", "שקם אלקטריק", "הוט סינמה", "דיזנהאוז", "אלקטרה פאוור"],
+      "redeem_at": ["קרפור", "שוק מהדרין", "אדידס", "קולומביה", "Outsiders", "שבילים", "מחסני חשמל", "שקם אלקטריק", "הוט סינמה"],
+      "redeem_online_only": ["דיזנהאוז", "Electra AIR"],
+      "notes": "Loyalty/coins model — not instant discount. Best ROI on קרפור food shopping (10% back). Also earns at הוט סינמה."
+    },
+    {
+      "id": "siemens_corporate",
+      "name": "Siemens Corporate Visa",
+      "issuer": "unknown — check Siemens HR or card agreement",
+      "type": "corporate_card",
+      "active": true,
+      "sources_in_kb": [],
+      "benefits_verified": false,
+      "notes": "Benefits negotiated privately between Siemens and issuing bank. Not publicly scrapeable. Possible perks: Priority Pass lounge, travel insurance, local store discounts. Update once Yonatan checks with HR."
+    }
+  ]
+}

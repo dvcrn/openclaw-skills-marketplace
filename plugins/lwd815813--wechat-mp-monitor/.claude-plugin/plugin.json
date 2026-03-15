@@ -1,0 +1,10 @@
+{
+  "name": "lwd815813--wechat-mp-monitor",
+  "description": "Monitor WeChat MP (微信公众号) articles and send notifications. Use when user needs to track public account updates, summarize articles, or receive alerts when new content is published. Supports Feishu/Lark notifications and scheduled monitoring via cron.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lwd815813"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lwd815813/wechat-mp-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lwd815813/wechat-mp-monitor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cosperypf--terminal-killer",
+  "description": "Intelligent shell command detector and executor for OpenClaw. Automatically identifies terminal commands (system builtins, $PATH executables, history matches, command patterns) and executes directly without LLM overhead. Cross-platform support (macOS/Linux/Windows). Use when user input appears to be a shell command to skip AI processing and run immediately.",
+  "version": "1.2.0",
+  "author": {
+    "name": "cosperypf"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cosperypf/terminal-killer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cosperypf/terminal-killer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "fiddlybit--whisper",
+  "description": "End-to-end encrypted agent-to-agent private messaging via Moltbook dead drops. Use when agents need to communicate privately, exchange secrets, or coordinate without human visibility.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fiddlybit"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fiddlybit/whisper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fiddlybit/whisper"
+}

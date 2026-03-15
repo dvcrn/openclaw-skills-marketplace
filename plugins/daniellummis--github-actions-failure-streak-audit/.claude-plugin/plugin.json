@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-failure-streak-audit",
+  "description": "Detect consecutive GitHub Actions failure streaks by repo/workflow/branch to prioritize unstable pipelines.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-failure-streak-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-failure-streak-audit"
+}

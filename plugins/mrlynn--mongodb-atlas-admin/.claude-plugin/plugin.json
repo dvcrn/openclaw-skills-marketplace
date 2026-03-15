@@ -1,0 +1,10 @@
+{
+  "name": "mrlynn--mongodb-atlas-admin",
+  "description": "Manage MongoDB Atlas clusters, projects, users, backups, and alerts via the Atlas Admin API v2. Use when: (1) Creating, scaling, or deleting Atlas clusters, (2) Managing database users and IP access lists, (3) Configuring backups, snapshots, and restore jobs, (4) Setting up alerts and monitoring, (5) Managing projects and organizations, (6) Viewing cluster metrics and logs. Requires Atlas API keys (public/private) or service account credentials.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrlynn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrlynn/mongodb-atlas-admin",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrlynn/mongodb-atlas-admin"
+}

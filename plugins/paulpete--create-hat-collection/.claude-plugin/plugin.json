@@ -1,0 +1,10 @@
+{
+  "name": "paulpete--create-hat-collection",
+  "description": "Generates new Ralph hat collection presets through guided conversation. Asks clarifying questions, validates against schema constraints, and outputs production-ready YAML files.",
+  "version": "0.1.0",
+  "author": {
+    "name": "paulpete"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/paulpete/create-hat-collection",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paulpete/create-hat-collection"
+}

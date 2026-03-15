@@ -1,0 +1,10 @@
+{
+  "name": "anmolnagpal--anomaly-explainer",
+  "description": "Diagnose AWS cost anomalies and explain root cause in plain English when spend spikes unexpectedly",
+  "version": "1.0.0",
+  "author": {
+    "name": "anmolnagpal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/anomaly-explainer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/anomaly-explainer"
+}

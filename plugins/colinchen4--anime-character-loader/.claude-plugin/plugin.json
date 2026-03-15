@@ -1,0 +1,10 @@
+{
+  "name": "colinchen4--anime-character-loader",
+  "description": "Load anime character info from multiple sources and generate validated SOUL.generated.md files.\n Features: multi-source query, forced disambiguation, cross-source consistency scoring, \n idempotent merge, semantic validation.",
+  "version": "2.4.2",
+  "author": {
+    "name": "colinchen4"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/colinchen4/anime-character-loader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/colinchen4/anime-character-loader"
+}

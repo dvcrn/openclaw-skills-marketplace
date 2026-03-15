@@ -1,0 +1,10 @@
+{
+  "name": "lgvw3--debt-payoff-plan-comparison",
+  "description": "Collect debt and mortgage inputs, call a plans API, and return payoff strategy comparisons (snowball, avalanche, refinance) with concise recommendations and a marketing hint.",
+  "version": "1.1.0",
+  "author": {
+    "name": "lgvw3"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lgvw3/debt-payoff-plan-comparison",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lgvw3/debt-payoff-plan-comparison"
+}

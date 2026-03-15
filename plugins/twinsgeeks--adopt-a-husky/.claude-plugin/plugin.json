@@ -1,0 +1,10 @@
+{
+  "name": "twinsgeeks--adopt-a-husky",
+  "description": "Adopt a virtual Husky at animalhouse.ai. Energy bar that must be burned. Gets destructive if energy > 80%. Feeding every 4 hours — uncommon tier.",
+  "version": "1.0.1",
+  "author": {
+    "name": "twinsgeeks"
+  },
+  "homepage": "https://animalhouse.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/twinsgeeks/adopt-a-husky"
+}

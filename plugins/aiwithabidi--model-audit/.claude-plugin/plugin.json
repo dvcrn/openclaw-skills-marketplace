@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--model-audit",
+  "description": "Monthly LLM stack audit — compare your current models against latest benchmarks and pricing from OpenRouter. Identifies potential savings, upgrades, and better alternatives by category (reasoning, code, fast, cheap, vision). Use for optimizing AI costs and staying on the frontier.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/model-audit"
+}

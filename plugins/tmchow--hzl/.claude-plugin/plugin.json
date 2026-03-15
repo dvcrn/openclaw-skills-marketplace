@@ -1,0 +1,10 @@
+{
+  "name": "tmchow--hzl",
+  "description": "Persistent task ledger for agent coordination. Plan multi-step work, checkpoint progress across session boundaries, and coordinate across multiple agents with project pool routing.",
+  "version": "3.1.0",
+  "author": {
+    "name": "tmchow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tmchow/hzl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tmchow/hzl"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "meimakes--daily-memory-save",
+  "description": "Periodically reviews conversation history and writes memory files to maintain agent continuity across sessions. Dual-layer system with daily raw notes and curated long-term memory.",
+  "version": "1.0.2",
+  "author": {
+    "name": "meimakes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/meimakes/daily-memory-save",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/meimakes/daily-memory-save"
+}

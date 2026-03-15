@@ -1,0 +1,10 @@
+{
+  "name": "g-hanasq--registry-sync",
+  "description": "Keep the Feishu registry sheet in sync whenever a new local skill, workflow, or template is created or significantly updated. Use when a new skill is added under workspace/skills, when a new workflow becomes part of the regular operating system, when a new template is created under research/, or when the user asks to update, register, sync, or maintain the Skill/Workflow registry table. Also use after successfully creating a new reusable workflow so it does not get forgotten.",
+  "version": "0.1.0",
+  "author": {
+    "name": "g-hanasq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/g-hanasq/registry-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/g-hanasq/registry-sync"
+}

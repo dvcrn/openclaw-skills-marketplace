@@ -1,0 +1,10 @@
+{
+  "name": "wanikua--abductive-reasoning",
+  "description": "Apply abductive reasoning to infer the best explanation from available observations. Use when the user has symptoms, clues, or data points and needs to reason backward to the most likely cause — like diagnostic thinking for doctors, detectives, or debugging.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wanikua"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wanikua/abductive-reasoning",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wanikua/abductive-reasoning"
+}

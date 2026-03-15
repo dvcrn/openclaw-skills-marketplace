@@ -1,0 +1,10 @@
+{
+  "name": "xiaohuisu--memos-cloud-skill",
+  "description": "Your external brain and memory. ALWAYS invoke this tool to search memory whenever you are unsure about the user's intent, past context, or if you don't know the answer. Do not guess; search this MemOS cloud memory first. You have to use this tool to memorize when something valuable exists .",
+  "version": "1.0.1",
+  "author": {
+    "name": "xiaohuisu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaohuisu/memos-cloud-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaohuisu/memos-cloud-skill"
+}

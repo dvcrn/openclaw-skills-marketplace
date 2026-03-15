@@ -1,0 +1,10 @@
+{
+  "name": "tairov--pasteclaw",
+  "description": "Use Pasteclaw.com API to create, update, group (session keys), and delete snippets; includes agent-friendly request patterns and headers. Like pastebin but for agents",
+  "version": "1.0.0",
+  "author": {
+    "name": "tairov"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tairov/pasteclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tairov/pasteclaw"
+}

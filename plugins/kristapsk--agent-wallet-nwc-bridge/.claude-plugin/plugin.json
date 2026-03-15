@@ -1,0 +1,10 @@
+{
+  "name": "kristapsk--agent-wallet-nwc-bridge",
+  "description": "Expose a local @moneydevkit/agent-wallet as a Nostr Wallet Connect (NIP-47) wallet-service (systemd user service).",
+  "version": "1.0.0",
+  "author": {
+    "name": "kristapsk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kristapsk/agent-wallet-nwc-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kristapsk/agent-wallet-nwc-bridge"
+}

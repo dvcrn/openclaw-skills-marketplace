@@ -1,0 +1,10 @@
+{
+  "name": "peerrich--calcom",
+  "description": "Interact with the Cal.com API v2 to manage scheduling, bookings, event types, availability, and calendars. Use this skill when building integrations that need to create or manage bookings, check availability, configure event types, or sync calendars with Cal.com's scheduling infrastructure.",
+  "version": "1.0.0",
+  "author": {
+    "name": "peerrich"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/peerrich/calcom",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/peerrich/calcom"
+}

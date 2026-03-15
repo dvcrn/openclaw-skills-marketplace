@@ -1,0 +1,10 @@
+{
+  "name": "wangjing0819--vcloud-phone",
+  "description": "火山引擎云手机运管平台操作技能。支持快速打开运管平台、搜索实例、打开实例详情、下载文件等操作。使用场景：(1) 用户说\"打开云手机运管平台\"；(2) \"搜索实例 123456\"；(3) \"下载实例日志\"。",
+  "version": "1.0.0",
+  "author": {
+    "name": "wangjing0819"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangjing0819/vcloud-phone",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangjing0819/vcloud-phone"
+}

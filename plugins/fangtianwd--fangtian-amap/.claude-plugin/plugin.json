@@ -1,0 +1,10 @@
+{
+  "name": "fangtianwd--fangtian-amap",
+  "description": "高德地图 API 调用工具，返回原始 JSON 数据。Use when users ask about 天气、地址、坐标、周边、路线、导航、打车、行程 in China. Commands: weather, geo, regeo, search, around, detail, route, distance, ip, navi, taxi, trip.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fangtianwd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fangtianwd/fangtian-amap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fangtianwd/fangtian-amap"
+}

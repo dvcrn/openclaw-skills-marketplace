@@ -1,0 +1,10 @@
+{
+  "name": "neverchenx--clawstatus-dashboard",
+  "description": "Install, update, run, and verify the public ClawStatus dashboard from GitHub. Use when an agent needs to deploy ClawStatus locally or on a LAN host, refresh an existing checkout, restart the user service, or verify the dashboard is reachable on port 8900.",
+  "version": "2.4.0",
+  "author": {
+    "name": "neverchenx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neverchenx/clawstatus-dashboard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neverchenx/clawstatus-dashboard"
+}

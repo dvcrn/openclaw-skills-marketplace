@@ -1,0 +1,10 @@
+{
+  "name": "samledger67-dotcom--setup-solidity-contracts",
+  "description": "Set up a Solidity smart contract project with OpenZeppelin Contracts. Use when users need to: (1) create a new Hardhat or Foundry project, (2) install OpenZeppelin Contracts dependencies for Solidity, (3) configure remappings for Foundry, or (4) understand Solidity import conventions for OpenZeppelin.",
+  "version": "1.0.0",
+  "author": {
+    "name": "samledger67-dotcom"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/samledger67-dotcom/setup-solidity-contracts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/samledger67-dotcom/setup-solidity-contracts"
+}

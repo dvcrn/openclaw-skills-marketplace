@@ -1,0 +1,10 @@
+{
+  "name": "cinience--alicloud-ai-audio-asr",
+  "description": "Transcribe non-realtime speech with Alibaba Cloud Model Studio Qwen ASR models (`qwen3-asr-flash`, `qwen-audio-asr`, `qwen3-asr-flash-filetrans`). Use when converting recorded audio files to text, generating transcripts with timestamps, or documenting DashScope/OpenAI-compatible ASR request and response fields.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-ai-audio-asr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-ai-audio-asr"
+}

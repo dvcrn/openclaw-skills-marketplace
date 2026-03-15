@@ -1,0 +1,10 @@
+{
+  "name": "tomleelive--openclaw-godot-skill",
+  "description": "Control Godot Editor via OpenClaw Godot Plugin. Use for Godot game development tasks including scene management, node manipulation, input simulation, debugging, and editor control. Triggers on Godot-related requests like inspecting scenes, creating nodes, taking screenshots, testing gameplay, or controlling the editor.",
+  "version": "1.2.7",
+  "author": {
+    "name": "tomleelive"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tomleelive/openclaw-godot-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tomleelive/openclaw-godot-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "neal-collab--multi-agent-blueprint",
+  "description": "Production-tested blueprint for building 5-10 agent teams in OpenClaw with cross-agent routing, Telegram integration, and role-based architecture",
+  "version": "2.0.0",
+  "author": {
+    "name": "neal-collab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neal-collab/multi-agent-blueprint",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neal-collab/multi-agent-blueprint"
+}

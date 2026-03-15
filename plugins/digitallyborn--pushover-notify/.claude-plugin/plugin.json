@@ -1,0 +1,10 @@
+{
+  "name": "digitallyborn--pushover-notify",
+  "description": "Send push notifications to your phone via Pushover (pushover.net). Use when you want reliable out-of-band alerts from OpenClaw: reminders, monitoring alerts, cron/heartbeat summaries, or 'notify me when X happens' workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "digitallyborn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/digitallyborn/pushover-notify",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/digitallyborn/pushover-notify"
+}

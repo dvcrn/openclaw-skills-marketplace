@@ -1,0 +1,10 @@
+{
+  "name": "djdyll--polymarket-manual-trade",
+  "description": "Place manual trades on Polymarket by telling your agent what to bet on. Supports FAK (instant fill at market) and GTC (limit order on the book). Pass a Simmer market ID or a full Polymarket URL — the skill auto-imports and handles price discovery. Both FAK and GTC order types are fully tested and working.",
+  "version": "1.0.6",
+  "author": {
+    "name": "djdyll"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/djdyll/polymarket-manual-trade",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/djdyll/polymarket-manual-trade"
+}

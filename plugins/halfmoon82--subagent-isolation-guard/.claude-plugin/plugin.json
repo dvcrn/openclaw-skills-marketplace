@@ -1,0 +1,10 @@
+{
+  "name": "halfmoon82--subagent-isolation-guard",
+  "description": "固化子代理物理隔离与语义路由旁路。防止跨代理上下文污染及由于语义路由导致的子代理切模/重置问题。",
+  "version": "1.0.0",
+  "author": {
+    "name": "halfmoon82"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/halfmoon82/subagent-isolation-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/halfmoon82/subagent-isolation-guard"
+}

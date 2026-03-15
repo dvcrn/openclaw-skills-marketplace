@@ -1,0 +1,23 @@
+{
+  "name": "feishu-scheduler-skill",
+  "version": "1.0.0",
+  "description": "OpenClaw 技能：飞书日历排期与交互卡片确认",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "js-yaml": "^4.1.1",
+    "yaml": "^2.8.2"
+  },
+  "keywords": [
+    "openclaw",
+    "feishu",
+    "scheduler"
+  ],
+  "author": "",
+  "license": "ISC"
+}

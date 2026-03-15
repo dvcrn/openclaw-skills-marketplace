@@ -1,0 +1,10 @@
+{
+  "name": "ost006--a2a-wallet",
+  "description": "Use the a2a-wallet CLI to interact with A2A agents — send messages, stream responses, and manage tasks. Also supports x402 payment signing and SIWE authentication required by A2A agents. Trigger when the user needs to: send a message to an A2A agent, sign an x402 payment, authenticate via SIWE, log in or out of a2a-wallet, check their wallet address or balance, or configure the a2a-wallet CLI.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ost006"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ost006/a2a-wallet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ost006/a2a-wallet"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wipal--git-commit-formatter",
+  "description": "Format commit message theo Conventional Commits standard (Conventional Commits v1.0.0).\n Input là git diff hoặc mô tả thay đổi, output là commit message có type/scope/body.\n Dùng khi user nói \"format commit\", \"commit message\", \"conventional commit\",\n \"viết message cho git\", hoặc khi có Git diff cần chuyển đổi thành commit message chuẩn.\n KHÔNG dùng cho: tạo branch, merge PR, revert commit (có patterns riêng).",
+  "version": "1.0.0",
+  "author": {
+    "name": "wipal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wipal/git-commit-formatter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wipal/git-commit-formatter"
+}

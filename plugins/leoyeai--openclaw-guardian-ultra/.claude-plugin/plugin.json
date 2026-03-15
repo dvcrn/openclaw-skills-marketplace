@@ -1,0 +1,10 @@
+{
+  "name": "leoyeai--openclaw-guardian-ultra",
+  "description": "Deploy and manage a Guardian watchdog process for OpenClaw Gateway. Provides automated health monitoring, self-repair via `doctor --fix`, git-based workspace rollback, daily snapshots, and optional Discord alerting. Use when a user wants to harden their OpenClaw instance against crashes, config corruption, or bad workspace edits — or when setting up Guardian for the first time on a new server/container.",
+  "version": "0.1.0",
+  "author": {
+    "name": "leoyeai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leoyeai/openclaw-guardian-ultra",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leoyeai/openclaw-guardian-ultra"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "billhandsome52--palest-ink",
+  "description": "Track and recall your daily activities including git commits, web browsing, shell commands, and VS Code edits. Use this skill whenever the user asks about their recent activity, wants a daily report or summary, asks \"what did I do today/yesterday/this week\", wants to find a specific commit or webpage they visited, asks about browsing history, needs to recall any past work activity, or queries about specific content they viewed online. Also trigger when the user mentions palest-ink, activity tracking, daily log, work journal, daily report, or activity summary. Trigger for questions like \"which website had info about X\", \"when did I commit the code for Y\", \"show my git activity\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "billhandsome52"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/billhandsome52/palest-ink",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/billhandsome52/palest-ink"
+}

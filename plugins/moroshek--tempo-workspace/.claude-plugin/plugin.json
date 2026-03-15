@@ -1,0 +1,10 @@
+{
+  "name": "moroshek--tempo-workspace",
+  "description": "Connect your OpenClaw agent to a Tempo workspace. Real-time Commons feed sync, workspace context injection, LLM-scored relevance, and automatic insight extraction.",
+  "version": "1.0.0",
+  "author": {
+    "name": "moroshek"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moroshek/tempo-workspace",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moroshek/tempo-workspace"
+}

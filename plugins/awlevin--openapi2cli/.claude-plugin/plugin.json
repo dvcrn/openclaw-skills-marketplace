@@ -1,0 +1,10 @@
+{
+  "name": "awlevin--openapi2cli",
+  "description": "Generate CLI tools from OpenAPI specs. Built for AI agents who hate writing curl commands.",
+  "version": "1.0.0",
+  "author": {
+    "name": "awlevin"
+  },
+  "homepage": "https://github.com/Olafs-World/openapi2cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/awlevin/openapi2cli"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hburgoyne--soulblock",
+  "description": "Read, list, mint, and append Soul Blocks on Base. Read works without a wallet. Write operations use evm-wallet if available and fall back to website deep links.",
+  "version": "0.1.0",
+  "author": {
+    "name": "hburgoyne"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hburgoyne/soulblock",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hburgoyne/soulblock"
+}

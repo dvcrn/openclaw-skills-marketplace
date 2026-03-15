@@ -1,0 +1,10 @@
+{
+  "name": "hhq0421--strava-training-coach",
+  "description": "AI running coach that prevents injuries by monitoring your Strava training load daily.\n Detects dangerous mileage spikes, intensity imbalances, and recovery gaps using evidence-based\n sports science (80/20 rule, acute:chronic workload ratio), then sends smart alerts to Discord\n or Slack before problems become injuries.\n\n Use when:\n - \"Am I overtraining?\" — Analyze weekly mileage and intensity for injury risk\n - \"Check my training load\" — Run a daily analysis of your Strava activities\n - \"Send me a training report\" — Generate a weekly summary with 4-week trends\n - \"Is my running mileage safe?\" — Calculate acute:chronic workload ratio (ACWR)\n - \"Set up automated training alerts\" — Schedule daily checks via cron\n - Monitoring heart rate to ensure easy days are actually easy (80/20 compliance)\n - Tracking recovery gaps and consistency streaks\n - Optional Oura ring integration for sleep and readiness scores\n\n Unlike basic Strava data skills, this coach actively monitors your patterns daily and alerts\n you before problems become injuries — backed by research from Seiler (2010), Gabbett (2016),\n and Stoggl & Sperlich (2014).\n\n Security: No hardcoded secrets, input validation, log redaction, webhook URL validation,\n secure token storage (XDG, 0600 permissions), rate limiting, 30s request timeouts.",
+  "version": "1.0.3",
+  "author": {
+    "name": "hhq0421"
+  },
+  "homepage": "https://developers.strava.com/docs/reference/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hhq0421/strava-training-coach"
+}

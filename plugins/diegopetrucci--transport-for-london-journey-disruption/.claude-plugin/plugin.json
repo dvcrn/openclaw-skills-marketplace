@@ -1,0 +1,10 @@
+{
+  "name": "diegopetrucci--transport-for-london-journey-disruption",
+  "description": "Plan TfL journeys from start/end/time, resolve locations (prefer postcodes), and warn about disruptions; suggest alternatives when disrupted.",
+  "version": "1.0.1",
+  "author": {
+    "name": "diegopetrucci"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/diegopetrucci/transport-for-london-journey-disruption",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/diegopetrucci/transport-for-london-journey-disruption"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "shay0j--security-check",
+  "description": "Comprehensive security auditing for Clawdbot deployments. Scans for exposed credentials, open ports, weak configs, and vulnerabilities. Auto-fix mode included.",
+  "version": "1.0.1",
+  "author": {
+    "name": "shay0j"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shay0j/security-check",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shay0j/security-check"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "judas-oc--gateway-watchdog-lite",
+  "description": "Self-healing OpenClaw gateway watchdog (Lite). Use when: gateway keeps crashing, auto-recovery needed, gateway reliability issues. Installs a launchd service (macOS) or systemd service (Linux / VPS) that probes the gateway every 2 minutes and auto-recovers it on failure. Sends Telegram alerts on recovery success or failure. Lite version — no crash loop detection.",
+  "version": "1.0.2",
+  "author": {
+    "name": "judas-oc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/judas-oc/gateway-watchdog-lite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/judas-oc/gateway-watchdog-lite"
+}

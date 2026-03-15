@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--skill-auditor-v2",
+  "description": "Security scanner for OpenClaw skills. Detects malicious code, obfuscated payloads, prompt injection, social engineering, typosquatting, and data exfiltration before installation. Features 0-100 numeric risk scoring, MITRE ATT&CK mappings, base64/hex deobfuscation, IoC database, whitelist system, and SHA256 file inventory. Use before installing any third-party skill. Triggers: audit skill, check security, scan skill, is this skill safe, security review, quarantine.",
+  "version": "2.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/skill-auditor-v2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/skill-auditor-v2"
+}

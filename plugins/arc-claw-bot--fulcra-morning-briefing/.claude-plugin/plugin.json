@@ -1,0 +1,10 @@
+{
+  "name": "arc-claw-bot--fulcra-morning-briefing",
+  "description": "Compose a personalized morning briefing using sleep, biometrics, calendar, and weather data from the Fulcra Life API. Adapts tone and detail to how your human actually slept.",
+  "version": "1.0.0",
+  "author": {
+    "name": "arc-claw-bot"
+  },
+  "homepage": "https://fulcradynamics.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arc-claw-bot/fulcra-morning-briefing"
+}

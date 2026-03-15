@@ -1,0 +1,10 @@
+{
+  "name": "chunhualiao--autonomous-task-runner",
+  "description": "Persistent task queue system. Users add tasks at any time via natural language; tasks are stored in a single persistent queue file and executed asynchronously via subagents. A heartbeat/cron dispatcher wakes periodically to check pending tasks, spawn workers, and report completions. The system never \"finishes\" — it always remains ready for the next task.",
+  "version": "2.1.0",
+  "author": {
+    "name": "chunhualiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/autonomous-task-runner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/autonomous-task-runner"
+}

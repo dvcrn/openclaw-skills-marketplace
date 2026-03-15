@@ -1,0 +1,10 @@
+{
+  "name": "honeybee1130--yt-downloader",
+  "description": "Download YouTube videos as MP4 at highest quality. Use when user sends a YouTube URL and wants to download/save it. Triggers on YouTube links (youtube.com, youtu.be) with download intent. Stores videos as assets with labels and registers them for the dashboard.",
+  "version": "1.0.1",
+  "author": {
+    "name": "honeybee1130"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/honeybee1130/yt-downloader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/honeybee1130/yt-downloader"
+}

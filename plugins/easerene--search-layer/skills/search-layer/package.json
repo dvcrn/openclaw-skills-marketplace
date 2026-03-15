@@ -1,0 +1,35 @@
+{
+  "name": "search-layer",
+  "version": "1.0.0",
+  "description": "DEFAULT search tool for ALL search/lookup needs. Multi-source search and deduplication layer with intent-aware scoring. Integrates Brave Search (web_search), Exa, Tavily, and Grok to provide high-coverage, high-quality results. Automatically classifies query intent and adjusts search strategy, scoring weights, and result synthesis. Use for ANY query that requires web search — factual lookups, research, news, comparisons, resource finding, \"what is X\", status checks, etc. Do NOT use raw web_search directly; always route through this skill.",
+  "main": "scripts/search.py",
+  "scripts": {
+    "search": "python scripts/search.py"
+  },
+  "keywords": [
+    "search",
+    "web-search",
+    "research",
+    "multi-source"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "requests": "^2.31.0",
+    "beautifulsoup4": "^4.12.2"
+  },
+  "openclaw": {
+    "requires": {
+      "bins": ["python3"]
+    },
+    "install": [
+      {
+        "id": "search-layer-deps",
+        "kind": "node",
+        "package": "requests",
+        "bins": ["python3"],
+        "label": "Install search-layer dependencies"
+      }
+    ]
+  }
+}

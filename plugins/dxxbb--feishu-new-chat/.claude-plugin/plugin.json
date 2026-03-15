@@ -1,0 +1,10 @@
+{
+  "name": "dxxbb--feishu-new-chat",
+  "description": "Create a new topic in a Feishu topic-group, and optionally add the first in-thread reply (with optional @mention) by sending as the user. Use when the user says things like ‘开话题’, ‘/topic’, ‘开个新话题’, ‘在话题里回一条’, or asks to simulate a ChatGPT-style ‘new chat’ workflow inside a Feishu topic-group. In a Feishu topic-group, a top-level send creates the topic; replying with `reply_in_thread=true` posts inside that topic.",
+  "version": "0.1.2",
+  "author": {
+    "name": "dxxbb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dxxbb/feishu-new-chat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dxxbb/feishu-new-chat"
+}

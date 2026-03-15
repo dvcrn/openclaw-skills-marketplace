@@ -1,0 +1,10 @@
+{
+  "name": "xiaolozee--grok-image-api",
+  "description": "Work with OpenAI-compatible image generation and image editing endpoints. Use when the user wants to generate images from prompts, edit images with prompts and optional masks, test an image endpoint, or integrate /v1/images/generations or /v1/images/edits into scripts or projects.",
+  "version": "1.1.1",
+  "author": {
+    "name": "xiaolozee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaolozee/grok-image-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaolozee/grok-image-api"
+}

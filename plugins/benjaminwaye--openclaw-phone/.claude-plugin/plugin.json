@@ -1,0 +1,10 @@
+{
+  "name": "benjaminwaye--openclaw-phone",
+  "description": "Use CallMyCall API to start, end, and check AI phone calls, and return results in chat. Use when the user asks to call someone, plan a future call, end a call, or fetch call results.",
+  "version": "1.0.1",
+  "author": {
+    "name": "benjaminwaye"
+  },
+  "homepage": "https://api.callmycall.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/benjaminwaye/openclaw-phone"
+}

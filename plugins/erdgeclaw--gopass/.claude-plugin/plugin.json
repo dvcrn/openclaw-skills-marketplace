@@ -1,0 +1,10 @@
+{
+  "name": "erdgeclaw--gopass",
+  "description": "Store, retrieve, list, and manage secrets using gopass (the team password manager). Use when the user asks to save credentials, look up passwords, generate secrets, manage password entries, or interact with a gopass password store. Covers CRUD operations, secret generation, TOTP, recipients, mounting stores, and clipboard operations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "erdgeclaw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/erdgeclaw/gopass",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/erdgeclaw/gopass"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bayhax--loci",
+  "description": "Structured memory system with domains, decay, and links for AI agents. Replaces flat MEMORY.md with a palace of organized, weighted, interconnected memories. Use when: (1) storing important context, decisions, or learnings, (2) recalling prior knowledge before answering, (3) periodic memory maintenance (heartbeat walks), (4) migrating from flat memory files. Based on Method of Loci (memory palace) — forced structure, capacity limits, association links, and natural decay.",
+  "version": "1.1.1",
+  "author": {
+    "name": "bayhax"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bayhax/loci",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bayhax/loci"
+}

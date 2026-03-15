@@ -1,0 +1,10 @@
+{
+  "name": "shu-hari--hf-whisper-speech-to-text",
+  "description": "Transcribe or translate audio files to text using a public Hugging Face Whisper Space over Gradio. Use when the user sends voice notes, audio attachments, meeting clips, podcasts, interviews, or any local audio file (.ogg, .mp3, .wav, .m4a, etc.) and wants a transcript, rough captions, or an English translation without relying on paid APIs first.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shu-hari"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shu-hari/hf-whisper-speech-to-text",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shu-hari/hf-whisper-speech-to-text"
+}

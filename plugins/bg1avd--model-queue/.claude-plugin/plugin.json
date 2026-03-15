@@ -1,0 +1,10 @@
+{
+  "name": "bg1avd--model-queue",
+  "description": "Multi-queue task orchestration system. Tasks are routed to queues by model source, with support for task dependencies, context passing, and failure handling. Each model source has its own FIFO queue, executing one task at a time.",
+  "version": "1.0.1",
+  "author": {
+    "name": "bg1avd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bg1avd/model-queue",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bg1avd/model-queue"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "weird-aftertaste--komodo",
+  "description": "Manage Komodo infrastructure - servers, Docker deployments, stacks, builds, and procedures. Use when user asks about server status, container management, deployments, builds, or any Komodo-related infrastructure tasks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "weird-aftertaste"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/weird-aftertaste/komodo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/weird-aftertaste/komodo"
+}

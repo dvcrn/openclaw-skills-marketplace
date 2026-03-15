@@ -1,0 +1,10 @@
+{
+  "name": "techievena--eonik-ad-budget-leak",
+  "description": "Identifies burning and decaying Meta Ads by running the eonik Budget heuristics engine.",
+  "version": "1.0.7",
+  "author": {
+    "name": "techievena"
+  },
+  "homepage": "https://eonik.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/techievena/eonik-ad-budget-leak"
+}

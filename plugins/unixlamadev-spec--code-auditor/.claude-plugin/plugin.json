@@ -1,0 +1,10 @@
+{
+  "name": "unixlamadev-spec--code-auditor",
+  "description": "Audit any GitHub repo or raw code for security, quality, or gas optimization. Returns score, findings, severity counts, and summary.",
+  "version": "1.0.1",
+  "author": {
+    "name": "unixlamadev-spec"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/unixlamadev-spec/code-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/unixlamadev-spec/code-auditor"
+}

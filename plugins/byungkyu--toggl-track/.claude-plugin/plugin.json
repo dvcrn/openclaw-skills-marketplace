@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--toggl-track",
+  "description": "Toggl Track API integration with managed OAuth. Track time, manage projects, clients, and tags.\n Use this skill when users want to create, read, update, or delete time entries, projects, clients, or tags in Toggl Track.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/toggl-track",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/toggl-track"
+}

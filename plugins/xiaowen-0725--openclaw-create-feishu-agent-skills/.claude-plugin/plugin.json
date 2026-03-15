@@ -1,0 +1,10 @@
+{
+  "name": "xiaowen-0725--openclaw-create-feishu-agent-skills",
+  "description": "Create and wire a new OpenClaw agent with a fixed workflow. Use when the user asks to create/add a new OpenClaw agent or says “我要创建一个新的 Agent”, automate multi-agent setup for Feishu, modify ~/.openclaw/openclaw.json channel accounts, bindings, and session.dmScope, or run follow-up commands such as gateway restart and binding verification.",
+  "version": "0.1.0",
+  "author": {
+    "name": "xiaowen-0725"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaowen-0725/openclaw-create-feishu-agent-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaowen-0725/openclaw-create-feishu-agent-skills"
+}

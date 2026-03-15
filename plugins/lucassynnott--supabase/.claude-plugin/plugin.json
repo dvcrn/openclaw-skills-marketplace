@@ -1,0 +1,10 @@
+{
+  "name": "lucassynnott--supabase",
+  "description": "Connect to Supabase for database operations, vector search, and storage. Use for storing data, running SQL queries, similarity search with pgvector, and managing tables. Triggers on requests involving databases, vector stores, embeddings, or Supabase specifically.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lucassynnott"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lucassynnott/supabase",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lucassynnott/supabase"
+}

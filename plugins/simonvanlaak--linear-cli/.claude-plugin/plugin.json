@@ -1,0 +1,10 @@
+{
+  "name": "simonvanlaak--linear-cli",
+  "description": "Linear CLI skill for OpenClaw workflows, powered by Api2Cli (a2c) against Linear's GraphQL API. Provides a wrapper script that generates its a2c workspace config at runtime (no custom HTTP client code).",
+  "version": "0.1.0",
+  "author": {
+    "name": "simonvanlaak"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/simonvanlaak/linear-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/simonvanlaak/linear-cli"
+}

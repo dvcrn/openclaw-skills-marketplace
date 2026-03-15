@@ -1,0 +1,10 @@
+{
+  "name": "sohamganatra--connect-apps",
+  "description": "Connect Claude to external apps like Gmail, Slack, GitHub. Use this skill when the user wants to send emails, create issues, post messages, or take actions in external services.",
+  "version": "0.1.0",
+  "author": {
+    "name": "sohamganatra"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sohamganatra/connect-apps",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sohamganatra/connect-apps"
+}

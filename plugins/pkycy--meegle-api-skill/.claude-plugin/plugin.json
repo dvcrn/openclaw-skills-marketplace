@@ -1,0 +1,10 @@
+{
+  "name": "pkycy--meegle-api-skill",
+  "description": "Meegle Open API skills (index). Read the specific skill for your need. Order: Credentials, Users, Space, Work Items, Setting, Comments, Views & Measurement.\n When required credentials (e.g. user_key, project_key) are missing, remind the user which are needed and where to get them (see meegle-api-credentials); do not only report an error.",
+  "version": "1.0.3",
+  "author": {
+    "name": "pkycy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pkycy/meegle-api-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pkycy/meegle-api-skill"
+}

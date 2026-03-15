@@ -1,0 +1,10 @@
+{
+  "name": "yugulugulu--twitter-watch-reply",
+  "description": "使用 6551 Twitter/X 接口监控指定账号的新推文，并基于推文内容生成 AI 回复草稿；在半自动模式下，先给出候选回复，待用户确认后再通过已登录的浏览器自动回复。用于：监控某些账号、发现其新推、生成评论、人工确认后回复、避免重复回复、管理 watchlist 和状态文件。依赖环境变量 TWITTER_TOKEN 访问 6551 接口。默认把数据写到 workspace 下的 data/twitter-watch-reply；也可用 OPENCLAW_WORKSPACE 或 TWITTER_WATCH_REPLY_DATA_DIR 覆盖路径。",
+  "version": "0.1.2",
+  "author": {
+    "name": "yugulugulu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yugulugulu/twitter-watch-reply",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yugulugulu/twitter-watch-reply"
+}

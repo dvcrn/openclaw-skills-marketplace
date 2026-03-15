@@ -1,0 +1,10 @@
+{
+  "name": "omeletee--code-doc-guid",
+  "description": "Codebase navigation and documentation assistant. Helps AI locate code definitions, understand dependencies, and maintain documentation consistency. BLOCKING REQUIREMENT: Use this skill BEFORE any file modification/move/delete operation to check dependencies, and AFTER modifications to update the index.",
+  "version": "1.0.2",
+  "author": {
+    "name": "omeletee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/omeletee/code-doc-guid",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/omeletee/code-doc-guid"
+}

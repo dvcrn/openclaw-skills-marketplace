@@ -1,0 +1,10 @@
+{
+  "name": "yesilsin-netizen--save-token",
+  "description": "💰 Save Token | Token 节省器\n \n TRIGGERS: Use when token cost is high, conversation is long, files read multiple times, or before complex tasks.\n \n Guiding skill that helps agents identify and avoid sending duplicate context to LLM APIs.\n Teaches agents to recognize repeated content and summarize instead of re-sending.\n \n 触发条件：Token 成本高、对话长、文件多次读取、复杂任务前。\n 指导 Agent 识别重复内容，避免重复发送，从而节省 Token。",
+  "version": "1.0.1",
+  "author": {
+    "name": "yesilsin-netizen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yesilsin-netizen/save-token",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yesilsin-netizen/save-token"
+}

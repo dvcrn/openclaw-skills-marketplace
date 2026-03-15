@@ -1,0 +1,33 @@
+{
+  "preprocessing": {
+    "block_height": 2000,
+    "contrast_enhancement": 1.5,
+    "binary_threshold": 150,
+    "max_width": 2000,
+    "max_height": 10000
+  },
+  "ocr_engines": {
+    "tesseract": {
+      "enabled": true,
+      "languages": ["eng", "chi_sim"],
+      "psm_mode": 6,
+      "oem_mode": 1
+    },
+    "ai_vision": {
+      "enabled": true,
+      "model": "gemini-vision",
+      "confidence_threshold": 0.7
+    }
+  },
+  "output": {
+    "format": "text",
+    "preserve_formatting": true,
+    "detect_encoding": true,
+    "auto_correct": true
+  },
+  "performance": {
+    "max_concurrent_blocks": 4,
+    "timeout_seconds": 30,
+    "memory_limit_mb": 512
+  }
+}

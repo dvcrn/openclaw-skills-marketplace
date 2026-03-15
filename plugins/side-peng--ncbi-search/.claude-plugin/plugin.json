@@ -1,0 +1,10 @@
+{
+  "name": "side-peng--ncbi-search",
+  "description": "Search NCBI databases using E-Utilities API (official, free). Supports multiple databases: PubMed (literature), Gene, Protein, Nucleotide, dbSNP, ClinVar, Taxonomy, etc. Automatically detects search intent and routes to appropriate database. Returns formatted results with key information. Use for biomedical literature, gene information, protein sequences, genetic variants, and more.",
+  "version": "1.0.1",
+  "author": {
+    "name": "side-peng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/side-peng/ncbi-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/side-peng/ncbi-search"
+}

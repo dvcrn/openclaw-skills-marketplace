@@ -1,0 +1,10 @@
+{
+  "name": "wsq704252212--goplaces-togo",
+  "description": "Ask the user for their Google saved places list, look up each place with goplaces, and recommend the single best one to visit today based on their preferences and visit history.",
+  "version": "1.0.2",
+  "author": {
+    "name": "wsq704252212"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wsq704252212/goplaces-togo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wsq704252212/goplaces-togo"
+}

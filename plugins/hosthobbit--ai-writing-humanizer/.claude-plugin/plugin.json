@@ -1,0 +1,10 @@
+{
+  "name": "hosthobbit--ai-writing-humanizer",
+  "description": "Automatically strip AI writing patterns and stock phrases from user-facing prose before sending. Use when preparing longer texts to ensure a natural, human tone without obvious AI tells.",
+  "version": "0.1.0",
+  "author": {
+    "name": "hosthobbit"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hosthobbit/ai-writing-humanizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hosthobbit/ai-writing-humanizer"
+}

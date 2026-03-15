@@ -1,0 +1,10 @@
+{
+  "name": "dragonjar--engramclaw",
+  "description": "Sistema de memoria persistente para agentes IA. Usa mem_save después de bugfixes, decisiones, descubrimientos, cambios de config. Usa mem_search cuando el usuario menciona \"remember\"/\"recordar\" o al empezar trabajo que se solapa con sesiones previas. Usa mem_session_summary antes de terminar sesiones para preservar contexto.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dragonjar"
+  },
+  "homepage": "https://github.com/Gentleman-Programming/engram",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dragonjar/engramclaw"
+}

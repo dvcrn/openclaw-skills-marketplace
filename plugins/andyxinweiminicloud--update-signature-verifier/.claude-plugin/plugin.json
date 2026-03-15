@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--update-signature-verifier",
+  "description": "Helps verify the cryptographic integrity of skill updates by checking whether each version is signed by the same key as the original install, detecting key changes, signature gaps, and unsigned updates that may indicate a compromised or transferred skill.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/update-signature-verifier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/update-signature-verifier"
+}

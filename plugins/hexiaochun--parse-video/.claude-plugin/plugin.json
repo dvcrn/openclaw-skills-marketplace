@@ -1,0 +1,10 @@
+{
+  "name": "hexiaochun--parse-video",
+  "description": "解析视频分享链接，获取无水印视频下载地址。当用户想要下载视频、解析抖音/快手/小红书/B站链接、获取无水印视频时使用此 skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "hexiaochun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/parse-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/parse-video"
+}

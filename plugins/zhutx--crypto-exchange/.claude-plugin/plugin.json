@@ -1,0 +1,10 @@
+{
+  "name": "zhutx--crypto-exchange",
+  "description": "Cryptocurrency exchange service for LightningEX API supporting multi-mode interaction - natural language chat, CLI commands, and web UI. Use when user wants to swap/exchange cryptocurrencies, check exchange rates, view supported tokens, or manage crypto transactions. Triggers on phrases like \"exchange crypto\", \"swap tokens\", \"convert USDT to ETH\", \"check crypto rates\", \"open exchange UI\", \"lightningex\", or CLI commands like \"crypto-exchange\".",
+  "version": "1.0.2",
+  "author": {
+    "name": "zhutx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhutx/crypto-exchange",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhutx/crypto-exchange"
+}

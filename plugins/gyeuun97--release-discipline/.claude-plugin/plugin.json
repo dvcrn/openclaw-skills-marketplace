@@ -1,0 +1,10 @@
+{
+  "name": "gyeuun97--release-discipline",
+  "description": "Enforce release discipline for AI agents and developers. Prevents version spam, forces quality checks before publishing, and maintains a 24-hour cooldown between releases. Use when the user wants to publish, release, deploy, or bump versions. Triggers on \"release\", \"publish\", \"deploy\", \"version bump\", \"npm publish\", \"릴리즈\", \"배포\", \"버전\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "gyeuun97"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gyeuun97/release-discipline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gyeuun97/release-discipline"
+}

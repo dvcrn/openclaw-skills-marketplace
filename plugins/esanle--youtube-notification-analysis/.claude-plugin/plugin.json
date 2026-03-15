@@ -1,0 +1,10 @@
+{
+  "name": "esanle--youtube-notification-analysis",
+  "description": "Analyze YouTube notifications for investment and trading insights. Use when user wants investment advice from YouTube, analyzing stock crypto or financial content, executing /ytb_trade command, or getting video subtitles via yt-dlp and whisper-cpp. Workflow is open YouTube click notification bell extract video IDs get subtitles or download plus whisper-cpp analyze then execute trades.",
+  "version": "1.0.2",
+  "author": {
+    "name": "esanle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/esanle/youtube-notification-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/esanle/youtube-notification-analysis"
+}

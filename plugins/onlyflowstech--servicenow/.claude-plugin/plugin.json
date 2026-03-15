@@ -1,0 +1,10 @@
+{
+  "name": "onlyflowstech--servicenow",
+  "description": "Connect your AI agent to ServiceNow — query, create, update, and manage records across any table using the Table API and Stats API. Full CRUD operations, aggregate analytics (COUNT/AVG/MIN/MAX/SUM), schema introspection, and attachment management. Purpose-built for ITSM, ITOM, and CMDB workflows including incidents, changes, problems, configuration items, knowledge articles, and more.",
+  "version": "1.1.0",
+  "author": {
+    "name": "onlyflowstech"
+  },
+  "homepage": "https://onlyflows.tech",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/onlyflowstech/servicenow"
+}

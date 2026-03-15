@@ -1,0 +1,10 @@
+{
+  "name": "rare--daily-report-skill",
+  "description": "Daily report skill - Generate and send daily work summary.\n Keywords: daily report, work summary, end of day.\n Use when: End of day reporting, or manually triggered with \"generate daily report\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "rare"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rare/daily-report-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rare/daily-report-skill"
+}

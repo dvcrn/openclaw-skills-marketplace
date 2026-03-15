@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--diff-summarizer",
+  "description": "Generate human-readable summaries of git diffs. Use when you need to explain what changed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/diff-summarizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/diff-summarizer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kk-kingkong--ollama-memory",
+  "description": "本地向量记忆系统 - 基于 Ollama + SQLite 的 AI 助手记忆方案。\n 支持：Markdown 记录、向量搜索、本地嵌入、无 API 费用。\n 特点：本地部署、语义搜索、隐私优先。",
+  "version": "1.0.0",
+  "author": {
+    "name": "kk-kingkong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kk-kingkong/ollama-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kk-kingkong/ollama-memory"
+}

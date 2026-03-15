@@ -1,0 +1,10 @@
+{
+  "name": "adamnaghs--lsp",
+  "description": "Multi-language code navigation via persistent LSP daemons. Supports Python (pyright), TypeScript/JS, Rust, Go, C/C++, Bash, Java, CSS, HTML, JSON. Auto-detects language from file extension and lazy-starts the appropriate server. Use instead of grep for definitions, references, hover, symbols, and diagnostics.",
+  "version": "2.0.0",
+  "author": {
+    "name": "adamnaghs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adamnaghs/lsp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adamnaghs/lsp"
+}

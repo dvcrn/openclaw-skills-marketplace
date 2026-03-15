@@ -1,0 +1,10 @@
+{
+  "name": "tschew72--promptdome",
+  "description": "Integrate PromptDome prompt injection screening into OpenClaw. Use when setting up automatic protection against prompt injection, jailbreaks, and PII exfiltration on incoming messages. Installs two components: (1) a hook that auto-scans every incoming message before the model processes it, and (2) an agent tool (promptdome_scan) agents can call explicitly on untrusted content. Run setup.sh to configure in under 60 seconds.",
+  "version": "1.3.1",
+  "author": {
+    "name": "tschew72"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tschew72/promptdome",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tschew72/promptdome"
+}

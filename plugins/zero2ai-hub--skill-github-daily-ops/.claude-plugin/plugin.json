@@ -1,0 +1,10 @@
+{
+  "name": "zero2ai-hub--skill-github-daily-ops",
+  "description": "Daily GitHub repo health check + safe Dependabot auto-merge. Outputs markdown report.",
+  "version": "1.0.1",
+  "author": {
+    "name": "zero2ai-hub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zero2ai-hub/skill-github-daily-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zero2ai-hub/skill-github-daily-ops"
+}

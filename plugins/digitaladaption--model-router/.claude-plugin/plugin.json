@@ -1,0 +1,10 @@
+{
+  "name": "digitaladaption--model-router",
+  "description": "A comprehensive AI model routing system that automatically selects the optimal model for any task. Set up multiple AI providers (Anthropic, OpenAI, Gemini, Moonshot, Z.ai, GLM) with secure API key storage, then route tasks to the best model based on task type, complexity, and cost optimization. Includes interactive setup wizard, task classification, and cost-effective delegation patterns. Use when you need \"use X model for this\", \"switch model\", \"optimal model\", \"which model should I use\", or to balance quality vs cost across multiple AI providers.",
+  "version": "1.1.0",
+  "author": {
+    "name": "digitaladaption"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/digitaladaption/model-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/digitaladaption/model-router"
+}

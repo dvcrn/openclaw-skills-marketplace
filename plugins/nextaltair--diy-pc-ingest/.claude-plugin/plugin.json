@@ -1,0 +1,10 @@
+{
+  "name": "nextaltair--diy-pc-ingest",
+  "description": "Ingest pasted PC parts purchase/config text (Discord message receipts, bullet lists) into Notion DIY_PC tables (PCConfig, ストレージ, エンクロージャー, PCInput). Use when the user pastes raw purchase logs/spec notes and wants the AI to classify, enrich via web search, ask follow-up questions for unknowns, and then upsert rows into the correct Notion data sources using the 2025-09-03 data_sources API.",
+  "version": "1.0.3",
+  "author": {
+    "name": "nextaltair"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nextaltair/diy-pc-ingest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nextaltair/diy-pc-ingest"
+}

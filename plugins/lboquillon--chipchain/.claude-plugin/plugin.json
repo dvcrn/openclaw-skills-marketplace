@@ -1,0 +1,10 @@
+{
+  "name": "lboquillon--chipchain",
+  "description": "Multilingual semiconductor supply chain intelligence. Investigates supplier relationships, material chokepoints, and market structure across Korea, Japan, Taiwan, and China. Use when asked about semiconductor materials, chemicals, equipment suppliers, supply chain dependencies, or 'who supplies X to Y' questions. Searches in Korean, Japanese, Simplified Chinese, and Traditional Chinese using industry-specific terminology.",
+  "version": "1.0.5",
+  "author": {
+    "name": "lboquillon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lboquillon/chipchain",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lboquillon/chipchain"
+}

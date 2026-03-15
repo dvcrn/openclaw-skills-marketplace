@@ -1,0 +1,10 @@
+{
+  "name": "sorphwer--json-render-table",
+  "description": "Render compact generic data tables to PNG images with json-render-cli. Use when users ask to visualize arbitrary structured rows/columns (non-ticket-specific) as clean table screenshots with controllable layout.",
+  "version": "0.2.0",
+  "author": {
+    "name": "sorphwer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sorphwer/json-render-table",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sorphwer/json-render-table"
+}

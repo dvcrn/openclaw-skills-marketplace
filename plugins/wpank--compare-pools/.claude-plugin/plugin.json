@@ -1,0 +1,10 @@
+{
+  "name": "wpank--compare-pools",
+  "description": "Compare all Uniswap pools for a token pair across fee tiers and versions. Use when the user asks which pool is best, wants to compare V3 vs V4, or wants to find the optimal fee tier.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/compare-pools",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/compare-pools"
+}

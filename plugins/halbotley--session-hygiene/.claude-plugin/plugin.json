@@ -1,0 +1,10 @@
+{
+  "name": "halbotley--session-hygiene",
+  "description": "Prevent sessions.json bloat from accumulating isolated sessions (hooks, crons, subagents). Sets up a cron to archive stale sessions to daily JSONL files and keep sessions.json lean. Use when sessions.json grows large, the gateway becomes slow or unresponsive, or as preventive maintenance on any OpenClaw instance with hooks or crons. Related to openclaw/openclaw#15225.",
+  "version": "1.0.0",
+  "author": {
+    "name": "halbotley"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/halbotley/session-hygiene",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/halbotley/session-hygiene"
+}

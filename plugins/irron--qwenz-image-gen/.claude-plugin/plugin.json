@@ -1,0 +1,10 @@
+{
+  "name": "irron--qwenz-image-gen",
+  "description": "Generate images using Alibaba Cloud Bailian Qwen-Image and Z-Image models (通义千图文生图 + 人像照片模型)",
+  "version": "1.0.1",
+  "author": {
+    "name": "irron"
+  },
+  "homepage": "https://help.aliyun.com/zh/model-studio/qwen-image-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/irron/qwenz-image-gen"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "topdu--opencr-skill",
+  "description": "Extract text from images, documents and scanned PDFs using OpenOCR - supports text detection, recognition, universal VLM recognition, and document parsing with layout analysis",
+  "version": "0.1.4",
+  "author": {
+    "name": "topdu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/topdu/opencr-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/topdu/opencr-skill"
+}

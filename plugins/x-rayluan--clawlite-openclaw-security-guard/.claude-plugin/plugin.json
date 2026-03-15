@@ -1,0 +1,10 @@
+{
+  "name": "x-rayluan--clawlite-openclaw-security-guard",
+  "description": "This skill should be used when the user asks to harden agent workflows, audit prompts/commands/URLs/paths, scan a third-party skill before install or publish, review a skill folder for secrets or unsafe scripts, or add a lightweight local security guard before OpenClaw publishing and automation.",
+  "version": "0.2.1",
+  "author": {
+    "name": "x-rayluan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/x-rayluan/clawlite-openclaw-security-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/x-rayluan/clawlite-openclaw-security-guard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dinstein--cobo-tss-node",
+  "description": "Manage a Cobo TSS Node for MPC threshold signing. Use when: setting up a new TSS Node, starting/stopping the node service, checking node status or health, signing for key share checkups, exporting shares for disaster recovery, backing up or updating the node, installing as a systemd or launchd service. NOT for: Cobo WaaS API integration, on-chain transaction building, or wallet UI.",
+  "version": "0.2.0",
+  "author": {
+    "name": "dinstein"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dinstein/cobo-tss-node",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dinstein/cobo-tss-node"
+}

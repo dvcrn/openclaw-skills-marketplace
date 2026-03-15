@@ -1,0 +1,10 @@
+{
+  "name": "devengagelab--engagelab-web-push",
+  "description": "Call EngageLab Web Push REST APIs to send push notifications and in-app messages to web browsers (Chrome, Firefox, Safari, Edge, etc.); manage tags and aliases; create scheduled tasks; batch push by registration_id or alias; group push; delete users; query statistics; and configure callbacks. Use this skill when the user wants to send web push via EngageLab, manage web device tags/aliases, schedule web pushes, use batch single push, group push, delete web users, query web push statistics, or integrate with EngageLab Web Push. Also trigger for \"engagelab web push\", \"web push api\", \"browser push\", \"registration_id\", \"tag alias web\", \"scheduled web push\", \"batch web push\", \"web push callback\", or \"MTPush web\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "devengagelab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/devengagelab/engagelab-web-push",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/devengagelab/engagelab-web-push"
+}

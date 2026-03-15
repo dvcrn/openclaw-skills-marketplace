@@ -1,0 +1,10 @@
+{
+  "name": "chadholdorf--openclaw-jetlag",
+  "description": "Scans your Google Calendar for upcoming flights and writes a personalized circadian adjustment plan back to your calendar. Trigger with phrases like \"check my flights\", \"run jetlag planner\", \"plan my trip adjustment\", or \"am I ready for my upcoming flight\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "chadholdorf"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chadholdorf/openclaw-jetlag",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chadholdorf/openclaw-jetlag"
+}

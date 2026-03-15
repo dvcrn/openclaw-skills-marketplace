@@ -1,0 +1,10 @@
+{
+  "name": "gostlightai--casual-cron",
+  "description": "Create Clawdbot cron jobs from natural language with strict run-guard rules. Use when: users ask to schedule reminders or messages (recurring or one-shot), especially via Telegram, or when they use /at or /every. Examples: 'Create a daily reminder at 8am', 'Remind me in 20 minutes', 'Send me a Telegram message at 3pm', '/every 2h'.",
+  "version": "1.2.0",
+  "author": {
+    "name": "gostlightai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gostlightai/casual-cron",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gostlightai/casual-cron"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "ptrade",
+  "version": "1.1.0",
+  "description": "Ptrade Hundsun Quantitative Trading Platform — Strategies run on broker servers with low-latency execution, supporting A-shares, futures, margin trading, and other China securities markets.",
+  "author": "BossQuant",
+  "tags": ["量化交易", "Ptrade", "恒生", "券商", "实盘交易", "A股", "期货", "融资融券"],
+  "repository": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "python": ">=3.8",
+    "packages": ["pandas>=1.5.0", "numpy>=1.20.0"]
+  },
+  "openclaw": {
+    "requires": {
+      "bins": ["python3"],
+      "env": []
+    }
+  }
+}

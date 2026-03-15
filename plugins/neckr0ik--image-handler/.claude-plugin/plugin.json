@@ -1,0 +1,10 @@
+{
+  "name": "neckr0ik--image-handler",
+  "description": "Read, analyze, convert, and manipulate image files (PNG, JPG, GIF, WebP, TIFF, BMP, HEIC, SVG, ICO). Use when working with images: reading metadata, converting formats, resizing, rotating, compressing, or batch processing. Triggers on mentions of image files, file paths with image extensions, or requests to process/convert images.",
+  "version": "1.0.0",
+  "author": {
+    "name": "neckr0ik"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neckr0ik/image-handler",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neckr0ik/image-handler"
+}

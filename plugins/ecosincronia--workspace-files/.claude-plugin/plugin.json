@@ -1,0 +1,10 @@
+{
+  "name": "ecosincronia--workspace-files",
+  "description": "Work safely with files inside the OpenClaw workspace sandbox. Use for listing directories, reading text files, writing text files, and searching files by name inside ~/.openclaw/workspace only.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ecosincronia"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ecosincronia/workspace-files",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ecosincronia/workspace-files"
+}

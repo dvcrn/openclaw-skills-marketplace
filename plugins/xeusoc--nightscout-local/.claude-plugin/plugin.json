@@ -1,0 +1,10 @@
+{
+  "name": "xeusoc--nightscout-local",
+  "description": "Read glucose data from a Nightscout site. Use when the user asks for the current CGM reading, trend, recent readings, or Nightscout status. This skill is read-only and should not be used for portal login automation or write actions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xeusoc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xeusoc/nightscout-local",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xeusoc/nightscout-local"
+}

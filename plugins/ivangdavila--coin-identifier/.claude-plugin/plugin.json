@@ -1,0 +1,10 @@
+{
+  "name": "ivangdavila--coin-identifier",
+  "description": "Identify coins from photos using evidence-based visual checks, ranked candidates, mint-mark reasoning, and a reusable local catalog.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ivangdavila"
+  },
+  "homepage": "https://clawic.com/skills/coin-identifier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/coin-identifier"
+}

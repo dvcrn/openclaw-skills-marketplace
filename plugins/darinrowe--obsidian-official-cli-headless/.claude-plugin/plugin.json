@@ -1,0 +1,10 @@
+{
+  "name": "darinrowe--obsidian-official-cli-headless",
+  "description": "Install and adapt the official Obsidian CLI for headless Linux servers by using a non-root user, Xvfb virtual display, ACL-based vault access, and an obs wrapper command. Use when the user wants the official Obsidian CLI (not notesmd-cli) on a Debian/Ubuntu-like machine without a normal desktop session, or when root/GUI/display constraints break native CLI use.",
+  "version": "1.0.0",
+  "author": {
+    "name": "darinrowe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/darinrowe/obsidian-official-cli-headless",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/darinrowe/obsidian-official-cli-headless"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--keap",
+  "description": "Keap API integration with managed OAuth. Manage contacts, companies, tags, tasks, orders, opportunities, and campaigns for CRM and marketing automation.\n Use this skill when users want to create and manage contacts, apply tags, track opportunities, or automate marketing workflows in Keap.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.2",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/keap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/keap"
+}

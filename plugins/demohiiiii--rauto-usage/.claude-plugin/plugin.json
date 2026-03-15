@@ -1,0 +1,10 @@
+{
+  "name": "demohiiiii--rauto-usage",
+  "description": "Execute rauto directly for the user: run device commands, template execution, tx block, tx workflow, multi-device orchestration, replay, backup/restore, and connection/profile/template/history operations. Trigger on requests like run command for me, execute on device, check history, run workflow, orchestrate multiple devices, apply staged rollout, use inventory/groups, diagnose profile, manage templates/profiles/connections, replay records, or restore backup.",
+  "version": "0.2.3",
+  "author": {
+    "name": "demohiiiii"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/demohiiiii/rauto-usage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/demohiiiii/rauto-usage"
+}

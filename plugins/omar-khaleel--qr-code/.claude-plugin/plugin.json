@@ -1,0 +1,10 @@
+{
+  "name": "omar-khaleel--qr-code",
+  "description": "Generate and read QR codes. Use when the user wants to create a QR code from text/URL, or decode/read a QR code from an image file. Supports PNG/JPG output and can read QR codes from screenshots or image files.",
+  "version": "1.0.0",
+  "author": {
+    "name": "omar-khaleel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/omar-khaleel/qr-code",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/omar-khaleel/qr-code"
+}

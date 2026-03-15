@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--cloudflare-agent-tunnel",
+  "description": "Give each OpenClaw agent its own secure HTTPS URL using Cloudflare Tunnel (cloudflared). No SSL certificates to manage, no ports to expose publicly. Use when setting up secure cloud access for OpenClaw agents on a VPS, assigning per-agent subdomains (koda.yourdomain.com), enabling HTTPS without nginx or Let's Encrypt, or connecting a custom domain to an agent. Covers named tunnels (permanent URL, free Cloudflare account — preferred), quick tunnels (temporary, no account), multi-agent setup on a single VPS, and custom domain configuration.",
+  "version": "1.1.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/cloudflare-agent-tunnel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/cloudflare-agent-tunnel"
+}

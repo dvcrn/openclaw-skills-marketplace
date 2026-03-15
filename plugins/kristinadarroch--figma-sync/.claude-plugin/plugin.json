@@ -1,0 +1,10 @@
+{
+  "name": "kristinadarroch--figma-sync",
+  "description": "Read Figma files, extract design tokens, generate React Native Expo TS or Web React + Tailwind code,\n write back to Figma, and diff local models against Figma for minimal patches.\n Triggers: \"pull figma\", \"sync figma\", \"figma to code\", \"push to figma\", \"diff figma\",\n \"extract design tokens\", \"generate from figma\", \"preview figma changes\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "kristinadarroch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kristinadarroch/figma-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kristinadarroch/figma-sync"
+}

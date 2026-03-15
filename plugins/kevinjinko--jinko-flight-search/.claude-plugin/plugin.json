@@ -1,0 +1,10 @@
+{
+  "name": "kevinjinko--jinko-flight-search",
+  "description": "Search flights and discover travel destinations using the Jinko MCP server. Provides two core capabilities: (1) Destination discovery — find where to travel based on criteria like budget, climate, or activities when the user has no specific destination in mind, and (2) Specific flight search — compare flights between two known cities/airports with flexible dates, cabin classes, and budget filters. Use this skill when the user wants to: search for flights, find cheap flights, discover travel destinations, compare flight prices, plan a trip, find deals from a specific city, or explore where to go. Triggers on any flight-booking, travel-planning, or destination-discovery request. Requires the Jinko MCP server connected at https://mcp.gojinko.com.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kevinjinko"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kevinjinko/jinko-flight-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kevinjinko/jinko-flight-search"
+}

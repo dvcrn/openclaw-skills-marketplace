@@ -1,0 +1,10 @@
+{
+  "name": "jzakirov--baserow-cli-tool",
+  "description": "Baserow: Create, read, update, and delete rows, list tables and fields. Use when the user wants to interact with Baserow — querying data, creating or updating rows, inspecting table structure, or any database workflow.",
+  "version": "0.1.0",
+  "author": {
+    "name": "jzakirov"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jzakirov/baserow-cli-tool",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jzakirov/baserow-cli-tool"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "phy041--phy-content-type-router",
+  "description": "Detect and route to the correct visual content type (hero shot, poster, infographic, etc.) from a text description or output type hint. Use when you need to classify a content generation request into a structured type with layout rules, visual mode, and generation hints.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phy041"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-content-type-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-content-type-router"
+}

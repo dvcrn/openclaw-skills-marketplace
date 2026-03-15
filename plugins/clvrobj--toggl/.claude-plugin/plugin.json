@@ -1,0 +1,10 @@
+{
+  "name": "clvrobj--toggl",
+  "description": "Track time with Toggl via the toggl CLI. Use when the user wants to start/stop time tracking, check current timer, view today's or weekly reports, list recent entries, or manage time entries. Triggers on \"toggl\", \"time tracking\", \"timer\", \"track time\", \"what am I working on\", \"log time\", \"timesheet\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "clvrobj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clvrobj/toggl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clvrobj/toggl"
+}

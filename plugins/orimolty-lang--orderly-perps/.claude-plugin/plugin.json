@@ -1,0 +1,10 @@
+{
+  "name": "orimolty-lang--orderly-perps",
+  "description": "Trade perpetual futures on Orderly Network (via HyperClaw broker). Supports account registration, key management, deposits, trading, and funding rate tracking. Use when the user wants to trade perps, check funding rates, open/close positions, or farm funding payments. Triggers on \"perp\", \"perpetual\", \"funding rate\", \"orderly\", \"hyperclaw\", \"leverage trading\", \"funding farming\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "orimolty-lang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/orimolty-lang/orderly-perps",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/orimolty-lang/orderly-perps"
+}

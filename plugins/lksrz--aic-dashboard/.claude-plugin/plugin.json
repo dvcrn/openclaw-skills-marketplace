@@ -1,0 +1,10 @@
+{
+  "name": "lksrz--aic-dashboard",
+  "description": "AI Commander Management Dashboard. A lightweight companion web UI for monitoring inbound emails received via the email-webhook skill and browser session status created by the browser-auth skill.",
+  "version": "1.8.0",
+  "author": {
+    "name": "lksrz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lksrz/aic-dashboard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lksrz/aic-dashboard"
+}

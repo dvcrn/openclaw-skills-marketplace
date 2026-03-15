@@ -1,0 +1,10 @@
+{
+  "name": "jdrhyne--nutrient-document-processing-universal",
+  "description": "Universal (non-OpenClaw) Nutrient DWS document-processing skill for Agent Skills-compatible products. Best for Claude Code, Codex CLI, Gemini CLI, Cursor, Windsurf, OpenCode, and Copilot environments. Supports full workflows: convert PDF/Office/images, OCR, extract text/tables/key-values, redact PII (pattern + AI), watermark, digitally sign, form fill, merge/split/reorder pages, and API usage/credit checks. Prefers MCP server mode, with direct API/curl fallback. Activates on keywords: PDF, document, convert, extract, OCR, redact, watermark, sign, merge, split, compress, form fill, document processing, MCP.",
+  "version": "1.1.2",
+  "author": {
+    "name": "jdrhyne"
+  },
+  "homepage": "https://www.nutrient.io/api/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jdrhyne/nutrient-document-processing-universal"
+}

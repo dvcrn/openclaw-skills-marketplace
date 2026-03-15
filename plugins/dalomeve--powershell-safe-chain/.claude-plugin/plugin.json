@@ -1,0 +1,10 @@
+{
+  "name": "dalomeve--powershell-safe-chain",
+  "description": "Chain PowerShell commands safely without &&. Use try/catch, ErrorAction, and proper sequencing for reliable Windows execution.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dalomeve"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/powershell-safe-chain",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/powershell-safe-chain"
+}

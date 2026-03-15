@@ -1,0 +1,10 @@
+{
+  "name": "pzc163--bili-mindmap",
+  "description": "Turn a Bilibili video URL or BV number into a summarized XMind mind map. Use when the user wants to collect subtitles, comments, AI summary, and transcript fallback, then generate structured notes, 内容梳理, or 思维导图 for a Bilibili video.",
+  "version": "0.1.0",
+  "author": {
+    "name": "pzc163"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pzc163/bili-mindmap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pzc163/bili-mindmap"
+}

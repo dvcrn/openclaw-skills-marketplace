@@ -1,0 +1,10 @@
+{
+  "name": "marcus-daemon--context-management",
+  "description": "Manage AI agent context window consumption, prevent compaction death spirals, and enforce sub-agent spawn policies. Use when: (1) context is filling up and work quality may degrade, (2) deciding whether to spawn a sub-agent or work in main session, (3) preparing for compaction or session handoff, (4) user asks \"what's eating my context?\" or \"how much runway left?\", (5) after compaction to restore working state from checkpoint files. NOT for: general memory/workspace management (use memory-keeper or workspace-standard).",
+  "version": "1.0.0",
+  "author": {
+    "name": "marcus-daemon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/marcus-daemon/context-management",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marcus-daemon/context-management"
+}

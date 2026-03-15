@@ -1,0 +1,10 @@
+{
+  "name": "yangwenyu2--agent-memento",
+  "description": "Tick-Driven Autonomous Production Factory for LLMs. A framework for long-running agents using Cron/Heartbeats and physical Markdown checklists to prevent OOM and context decay.",
+  "version": "1.0.2",
+  "author": {
+    "name": "yangwenyu2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yangwenyu2/agent-memento",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yangwenyu2/agent-memento"
+}

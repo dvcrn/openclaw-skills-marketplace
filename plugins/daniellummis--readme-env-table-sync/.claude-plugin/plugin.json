@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--readme-env-table-sync",
+  "description": "Generate and sync a README environment-variable table from .env.example using marker blocks, with drift detection for CI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/readme-env-table-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/readme-env-table-sync"
+}

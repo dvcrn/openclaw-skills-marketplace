@@ -1,0 +1,10 @@
+{
+  "name": "tadas-subonis--anytype",
+  "description": "Interact with Anytype via anytype-cli and its HTTP API. Use when reading, creating, updating, or searching objects/pages in Anytype spaces; managing spaces; or automating Anytype workflows. Covers first-time setup (account creation, service start, space joining, API key) and ongoing API usage.",
+  "version": "1.0.3",
+  "author": {
+    "name": "tadas-subonis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tadas-subonis/anytype",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tadas-subonis/anytype"
+}

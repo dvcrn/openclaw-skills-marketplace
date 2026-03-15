@@ -1,0 +1,10 @@
+{
+  "name": "youpele52--website-scraper-pro",
+  "description": "Run a local script to scrape a single web page into clean markdown or deterministic JSON with Crawl4AI. Use when: user needs direct page retrieval from a URL, JS-aware single-page scraping, or deterministic query-focused narrowing without internal AI processing. Invoke by reading this SKILL.md then running: uv run /root/.openclaw/workspace/skills/website-scraper-pro/src/main.py <URL>",
+  "version": "0.1.0",
+  "author": {
+    "name": "youpele52"
+  },
+  "homepage": "https://github.com/unclecode/crawl4ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/youpele52/website-scraper-pro"
+}

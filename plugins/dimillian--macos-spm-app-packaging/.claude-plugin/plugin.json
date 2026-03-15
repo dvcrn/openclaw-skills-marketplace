@@ -1,0 +1,10 @@
+{
+  "name": "dimillian--macos-spm-app-packaging",
+  "description": "Scaffold, build, and package SwiftPM-based macOS apps without an Xcode project. Use when you need a from-scratch macOS app layout, SwiftPM targets/resources, a custom .app bundle assembly script, or signing/notarization/appcast steps outside Xcode.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dimillian"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dimillian/macos-spm-app-packaging",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dimillian/macos-spm-app-packaging"
+}

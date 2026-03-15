@@ -1,0 +1,10 @@
+{
+  "name": "banghasan--sholat",
+  "description": "Ambil jadwal sholat (imsak, subuh, dzuhur, ashar, maghrib, isya) untuk kota/kabupaten di Indonesia dari API Muslim api.myquran.com (sumber Kemenag Bimas Islam). Gunakan saat user minta jadwal sholat hari ini / tanggal tertentu / 1 bulan untuk lokasi tertentu, atau butuh mencari ID kab/kota.",
+  "version": "1.0.0",
+  "author": {
+    "name": "banghasan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/banghasan/sholat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/banghasan/sholat"
+}

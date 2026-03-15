@@ -1,0 +1,10 @@
+{
+  "name": "arnarsson--linear-webhook",
+  "description": "Comment @mason or @eureka in Linear issues to dispatch tasks to agents. Webhook receives Linear comments and routes to correct agent.",
+  "version": "1.0.0",
+  "author": {
+    "name": "arnarsson"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arnarsson/linear-webhook",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arnarsson/linear-webhook"
+}

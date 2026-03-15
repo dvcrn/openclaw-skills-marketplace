@@ -1,0 +1,10 @@
+{
+  "name": "flyingnobita--acorn-prover",
+  "description": "Verify and write proofs using the Acorn theorem prover for mathematical and cryptographic formalization. Use when working with Acorn proof files (.ac), verifying theorems, formalizing mathematical or cryptographic protocols, or writing proofs in the Acorn language. Triggers on: (1) Creating or editing .ac files, (2) Running acorn verify commands, (3) Formalizing math or crypto proofs, (4) Questions about Acorn syntax or standard library.",
+  "version": "1.0.0",
+  "author": {
+    "name": "flyingnobita"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/flyingnobita/acorn-prover",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/flyingnobita/acorn-prover"
+}

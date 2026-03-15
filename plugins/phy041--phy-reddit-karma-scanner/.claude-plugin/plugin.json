@@ -1,0 +1,10 @@
+{
+  "name": "phy041--phy-reddit-karma-scanner",
+  "description": "Automated Reddit opportunity scanner that finds high-potential posts for karma building. Scans target subreddits, analyzes engagement patterns, and generates ready-to-post comments using OpenAI. Use when you want to build Reddit karma strategically through quality contributions on r/MachineLearning, r/cscareerquestions, r/artificial, and other tech subreddits.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phy041"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-reddit-karma-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-reddit-karma-scanner"
+}

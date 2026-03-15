@@ -1,0 +1,10 @@
+{
+  "name": "wangwei1237--model-deploy",
+  "description": "Use this skill when users request to deploy LLMs (Qwen, DeepSeek, etc.) on specified GPU servers and start the model service. This skill can Download models using ModelScope; Start the vLLM inference service.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wangwei1237"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangwei1237/model-deploy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangwei1237/model-deploy"
+}

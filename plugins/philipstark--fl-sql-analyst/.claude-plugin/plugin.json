@@ -1,0 +1,10 @@
+{
+  "name": "philipstark--fl-sql-analyst",
+  "description": "Natural language to SQL. Ask questions about your data in plain English, get queries, results, and explanations. Supports SQLite, PostgreSQL, and MySQL. Import CSVs for instant ad-hoc analysis. Save frequently used queries as shortcuts. Turn \"What were our top customers last quarter?\" into actionable answers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "philipstark"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/philipstark/fl-sql-analyst",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/philipstark/fl-sql-analyst"
+}

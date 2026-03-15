@@ -1,0 +1,10 @@
+{
+  "name": "taoleeh--bittensor-sdk",
+  "description": "Comprehensive Bittensor blockchain interaction skill with wallet management, staking, subnet operations, neuron registration, and emissions tracking. Use for: bittensor operations, subtensor queries, stake/unstake TAO, register neurons, query subnet info, wallet operations, metagraph analysis, emissions tracking, and weight management.",
+  "version": "1.0.2",
+  "author": {
+    "name": "taoleeh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/taoleeh/bittensor-sdk",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/taoleeh/bittensor-sdk"
+}

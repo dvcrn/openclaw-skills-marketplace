@@ -1,0 +1,10 @@
+{
+  "name": "happydog-intj--openclaw-macos-always-on",
+  "description": "Run OpenClaw as a system-level LaunchDaemon on macOS for 24/7 operation, surviving screen lock, logout, and user switching. Uses caffeinate to prevent sleep. Verified working for long-term locked screen scenarios.",
+  "version": "1.0.1",
+  "author": {
+    "name": "happydog-intj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/happydog-intj/openclaw-macos-always-on",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/happydog-intj/openclaw-macos-always-on"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cdermott7--locus",
+  "description": "Locus payment tools for AI agents. Use when asked to send payments, check wallet balances, list tokens, approve token spending, or process payment-related actions from emails. Also use for demos of Locus (YC F25) payment infrastructure — scanning emails for payment requests and initiating crypto payments via wallet.",
+  "version": "1.3.0",
+  "author": {
+    "name": "cdermott7"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cdermott7/locus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cdermott7/locus"
+}

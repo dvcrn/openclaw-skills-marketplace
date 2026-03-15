@@ -1,0 +1,10 @@
+{
+  "name": "daisuke134--intent-router",
+  "description": "Classify text into custom intents with confidence scoring and entity extraction. Use when: intent classification, message routing, multi-agent orchestration, NLU, text classification. Triggers: intent, classify, route, NLU, categorize.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daisuke134"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daisuke134/intent-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daisuke134/intent-router"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hablabechir--model-usage-linux",
+  "description": "Track OpenClaw AI token usage and cost per model on Linux by parsing session JSONL files. Use when asked about: token usage, API cost, how much has been spent, which model was used most, usage summary, billing, cost breakdown. Linux replacement for the macOS-only model-usage/CodexBar skill.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hablabechir"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hablabechir/model-usage-linux",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hablabechir/model-usage-linux"
+}

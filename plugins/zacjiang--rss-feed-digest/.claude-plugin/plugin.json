@@ -1,0 +1,10 @@
+{
+  "name": "zacjiang--rss-feed-digest",
+  "description": "Fetch, filter, and summarize RSS/Atom feeds into a clean daily or weekly digest. Supports multiple feeds, keyword filtering, deduplication, and outputs Markdown or plain text summaries.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zacjiang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zacjiang/rss-feed-digest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zacjiang/rss-feed-digest"
+}

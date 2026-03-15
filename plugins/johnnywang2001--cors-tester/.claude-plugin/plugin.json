@@ -1,0 +1,10 @@
+{
+  "name": "johnnywang2001--cors-tester",
+  "description": "Test and debug CORS (Cross-Origin Resource Sharing) configurations on live URLs. Use when checking if a server returns correct CORS headers, debugging CORS errors, testing preflight OPTIONS requests, verifying allowed origins/methods/headers, or auditing CORS security posture. Also use when generating CORS configurations for Apache, Nginx, Express, or other frameworks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "johnnywang2001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/cors-tester",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/cors-tester"
+}

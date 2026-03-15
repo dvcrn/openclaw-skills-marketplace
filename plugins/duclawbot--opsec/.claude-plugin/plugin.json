@@ -1,0 +1,10 @@
+{
+  "name": "duclawbot--opsec",
+  "description": "Security review and risk auditing for OpenClaw skills and deployments. Inspect third-party skills, dangerous instructions, credential requests, privilege risks, and generate clear remediation reports before incidents happen.",
+  "version": "1.0.2",
+  "author": {
+    "name": "duclawbot"
+  },
+  "homepage": "https://clawhub.com/skills/opsec",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/duclawbot/opsec"
+}

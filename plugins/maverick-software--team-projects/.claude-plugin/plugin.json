@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--team-projects",
+  "description": "Multi-agent project management with task boards, @-mention routing, WBS, and orchestrated team collaboration. Includes a Control UI plugin tab with project dashboard. Enables a coordinator agent to plan projects, break down work into phases and tasks, assign to specialist agents, dispatch via sessions_spawn, and track progress to completion. Use when: (1) managing work across multiple OpenClaw agents, (2) creating project plans with work breakdown structures, (3) assigning and tracking tasks across agents, (4) coordinating multi-agent workflows with dependencies, (5) running team-based projects with progress tracking.",
+  "version": "1.2.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/team-projects",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/team-projects"
+}

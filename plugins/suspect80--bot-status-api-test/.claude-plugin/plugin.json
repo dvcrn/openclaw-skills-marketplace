@@ -1,0 +1,10 @@
+{
+  "name": "suspect80--bot-status-api-test",
+  "description": "Deploy a lightweight status API that exposes your OpenClaw bot's runtime health, service connectivity, cron jobs, skills, system metrics, and more. Use when setting up a monitoring dashboard, health endpoint, or status page for an OpenClaw agent. Supports any services via config (HTTP checks, CLI commands, file checks). Zero dependencies — Node.js only.",
+  "version": "0.0.1",
+  "author": {
+    "name": "suspect80"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/suspect80/bot-status-api-test",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/suspect80/bot-status-api-test"
+}

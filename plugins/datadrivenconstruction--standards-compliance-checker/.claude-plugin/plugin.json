@@ -1,0 +1,10 @@
+{
+  "name": "datadrivenconstruction--standards-compliance-checker",
+  "description": "Check data compliance with construction standards. Validate data against ISO 19650, IFC, COBie, UniFormat standards.",
+  "version": "2.1.0",
+  "author": {
+    "name": "datadrivenconstruction"
+  },
+  "homepage": "https://datadrivenconstruction.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/standards-compliance-checker"
+}

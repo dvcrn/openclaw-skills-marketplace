@@ -1,0 +1,10 @@
+{
+  "name": "buttonsinger--tokenkiller",
+  "description": "Reduces token usage across multi-skill agent workflows (search, coding, debugging, testing, docs) using budgets, gating, progressive disclosure, and deduped evidence. Use when the user mentions saving tokens, cost, context length, long logs, large codebases, or when tasks involve multi-step exploration or debugging.",
+  "version": "1.0.1",
+  "author": {
+    "name": "buttonsinger"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/buttonsinger/tokenkiller",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/buttonsinger/tokenkiller"
+}

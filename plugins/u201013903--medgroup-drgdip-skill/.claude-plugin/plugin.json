@@ -1,0 +1,10 @@
+{
+  "name": "u201013903--medgroup-drgdip-skill",
+  "description": "DRG/DIP 医保分组计算 — ICD 编码搜索、DRG/DIP 分组、医保结算、CC/MCC 查询。需使用个人 MedGroup API Key 并连接 MedGroup MCP SSE。",
+  "version": "1.0.10",
+  "author": {
+    "name": "u201013903"
+  },
+  "homepage": "https://medgroup.medchat.fun",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/u201013903/medgroup-drgdip-skill"
+}

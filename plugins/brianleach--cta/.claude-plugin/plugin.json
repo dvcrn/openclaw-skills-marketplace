@@ -1,0 +1,10 @@
+{
+  "name": "brianleach--cta",
+  "description": "Chicago CTA transit — real-time L train arrivals, bus predictions, service alerts, and route info. Use when the user asks about Chicago public transit, L train schedules, CTA bus times, service alerts, or nearby stops.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brianleach"
+  },
+  "homepage": "https://github.com/brianleach/cta-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brianleach/cta"
+}

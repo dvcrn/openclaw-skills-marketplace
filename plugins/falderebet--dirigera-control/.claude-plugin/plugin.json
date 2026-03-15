@@ -1,0 +1,10 @@
+{
+  "name": "falderebet--dirigera-control",
+  "description": "Control IKEA Dirigera smart home devices (lights, outlets, scenes, controllers). Use when the user asks to control smart home devices, check device status, turn lights on/off, adjust brightness/color, control outlets, trigger scenes, check battery levels, or work with IKEA smart home automation. Also use when the user needs help finding the Dirigera hub IP address or generating an API token. Accessible via Cloudflare tunnel on VPS.",
+  "version": "1.0.3",
+  "author": {
+    "name": "falderebet"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/falderebet/dirigera-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/falderebet/dirigera-control"
+}

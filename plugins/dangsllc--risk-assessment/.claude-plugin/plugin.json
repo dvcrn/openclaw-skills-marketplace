@@ -1,0 +1,10 @@
+{
+  "name": "dangsllc--risk-assessment",
+  "description": "Framework-directable information security risk assessment. Identifies threats, evaluates likelihood/impact via a 3x3 matrix, maps findings to any compliance framework, and recommends risk treatment options with prioritization guidance.",
+  "version": "0.1.0",
+  "author": {
+    "name": "dangsllc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dangsllc/risk-assessment",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dangsllc/risk-assessment"
+}

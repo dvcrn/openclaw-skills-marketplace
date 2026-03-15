@@ -1,0 +1,10 @@
+{
+  "name": "poolside-ventures--datamerge",
+  "description": "Enrich companies and find B2B contacts using the DataMerge MCP server (mcp.datamerge.ai). Use when the user needs company firmographic data, validated contact emails or phone numbers, lookalike company discovery, corporate hierarchy data, or wants to manage lists of target accounts. Access to 375M+ companies globally. Requires a DataMerge API key (free credits at app.datamerge.ai).",
+  "version": "1.1.0",
+  "author": {
+    "name": "poolside-ventures"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/poolside-ventures/datamerge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/poolside-ventures/datamerge"
+}

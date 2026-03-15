@@ -1,0 +1,10 @@
+{
+  "name": "crewhaus--action-bias",
+  "description": "Stop agents from producing reports instead of taking action. Restructure prompts, cron jobs, and agent shifts so they DO things — send emails, post content, make API calls, push code — instead of writing plans about doing things. Use when: agents keep outputting strategy docs instead of executing, sub-agent sessions produce reports nobody reads, you notice your crew is busy but nothing external is happening, heartbeat/shift results are all 'here's what we should do' with no proof of doing it, or you want to audit whether your agents are actually shipping.",
+  "version": "1.0.0",
+  "author": {
+    "name": "crewhaus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crewhaus/action-bias",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crewhaus/action-bias"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "shaoyunhao0107--dingtalk-setup",
+  "description": "钉钉企业内部机器人渠道快速对接。Use when: 用户需要对接钉钉渠道、配置钉钉 Stream 模式、排查钉钉消息问题。NOT for: 飞书/Lark、企业微信等其他平台。",
+  "version": "1.0.0",
+  "author": {
+    "name": "shaoyunhao0107"
+  },
+  "homepage": "https://github.com/soimy/openclaw-channel-dingtalk",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shaoyunhao0107/dingtalk-setup"
+}

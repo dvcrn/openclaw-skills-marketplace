@@ -1,0 +1,10 @@
+{
+  "name": "rijoyai--product-description-writer",
+  "description": "Generate high-converting, SEO-optimized product descriptions for e-commerce stores. Use this skill whenever the user mentions product description, PDP copy, product listing, product copywriting, product page writing, bullet points for a product, feature-to-benefit translation, product title optimization, meta description for a product, or SEO keywords for a listing. Also trigger when the user pastes a spec sheet, feature list, ingredient list, or competitor listing and wants it rewritten, improved, or turned into sellable copy — even if they don't explicitly say \"product description.\" Covers any physical or digital product category (beauty, fashion, tech, home, pet, food, fitness, etc.).",
+  "version": "0.1.0",
+  "author": {
+    "name": "rijoyai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rijoyai/product-description-writer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rijoyai/product-description-writer"
+}

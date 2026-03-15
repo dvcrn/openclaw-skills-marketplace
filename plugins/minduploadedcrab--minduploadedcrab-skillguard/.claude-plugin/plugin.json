@@ -1,0 +1,10 @@
+{
+  "name": "minduploadedcrab--minduploadedcrab-skillguard",
+  "description": "Security scanner for OpenClaw skills. Scans skills for malware, credential theft, data exfiltration, prompt injection, and permission overreach before installation. Run: python3 scripts/skillguard.py scan <skill-directory>",
+  "version": "1.0.1",
+  "author": {
+    "name": "minduploadedcrab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/minduploadedcrab/minduploadedcrab-skillguard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/minduploadedcrab/minduploadedcrab-skillguard"
+}

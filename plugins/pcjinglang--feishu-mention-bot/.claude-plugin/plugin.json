@@ -1,0 +1,10 @@
+{
+  "name": "pcjinglang--feishu-mention-bot",
+  "description": "飞书群聊中 @机器人并发送消息。当用户需要在飞书群里艾特机器人、通知其他机器人、或让机器人之间互相通信时使用。",
+  "version": "1.0.0",
+  "author": {
+    "name": "pcjinglang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pcjinglang/feishu-mention-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pcjinglang/feishu-mention-bot"
+}

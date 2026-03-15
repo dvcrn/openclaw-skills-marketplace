@@ -1,0 +1,10 @@
+{
+  "name": "arakichanxd--claw-sync",
+  "description": "Secure sync for OpenClaw memory and workspace. Use /sync to push, /restore to pull, /sync-status to check. Supports versioned backups and disaster recovery.",
+  "version": "2.0.2",
+  "author": {
+    "name": "arakichanxd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arakichanxd/claw-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arakichanxd/claw-sync"
+}

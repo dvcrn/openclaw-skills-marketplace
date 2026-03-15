@@ -1,0 +1,10 @@
+{
+  "name": "sa9saq--db-backup",
+  "description": "Generate automated backup scripts with rotation for PostgreSQL, MySQL, SQLite, and MongoDB.",
+  "version": "1.1.0",
+  "author": {
+    "name": "sa9saq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sa9saq/db-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sa9saq/db-backup"
+}

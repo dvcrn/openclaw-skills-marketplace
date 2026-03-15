@@ -1,0 +1,10 @@
+{
+  "name": "vaibhav1805--langsearch",
+  "description": "Free web search and semantic reranking API for AGI applications. Use when you need to perform web searches, retrieve current information from the internet, or improve search accuracy with semantic reranking. Includes integration examples for building RAG (Retrieval-Augmented Generation) pipelines and LLM applications that require real-world context. Requires LANGSEARCH_API_KEY credential.",
+  "version": "1.0.4",
+  "author": {
+    "name": "vaibhav1805"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vaibhav1805/langsearch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vaibhav1805/langsearch"
+}

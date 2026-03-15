@@ -1,0 +1,10 @@
+{
+  "name": "ppopen--openclaw-skill-system-monitor",
+  "description": "Real-time system metrics monitoring (CPU, memory, disk, network, processes). Use when: user asks to check system status, cpu usage, memory usage, disk space, network traffic, running processes, or system performance. Supports macOS and Linux. Tools: top, htop, df, iostat, vm_stat, host, free, lsof, uptime.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ppopen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ppopen/openclaw-skill-system-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ppopen/openclaw-skill-system-monitor"
+}

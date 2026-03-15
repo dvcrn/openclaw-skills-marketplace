@@ -1,0 +1,10 @@
+{
+  "name": "michaelgold--video-skill",
+  "description": "Run the video-skill pipeline to convert narrated videos into structured step data and enriched timeline-ready outputs. Use when a user asks to process a video into steps, run transcription/chunking/extraction/enrichment, debug provider connectivity, or generate markdown from extracted skills.",
+  "version": "0.1.2",
+  "author": {
+    "name": "michaelgold"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/michaelgold/video-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/michaelgold/video-skill"
+}

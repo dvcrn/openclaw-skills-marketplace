@@ -1,0 +1,10 @@
+{
+  "name": "kriptoburak--tweetclaw",
+  "description": "OpenClaw plugin for X/Twitter automation. Post tweets, reply, like, retweet, follow, DM, search, extract data, run giveaways, monitor accounts via Xquik. 40+ endpoints, 2 tools (explore + tweetclaw), 2 commands (/xstatus, /xtrends), background event poller.",
+  "version": "1.1.0",
+  "author": {
+    "name": "kriptoburak"
+  },
+  "homepage": "https://xquik.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kriptoburak/tweetclaw"
+}

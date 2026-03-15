@@ -1,0 +1,10 @@
+{
+  "name": "tanweai--pua-ja",
+  "description": "企業PUA話術と構造化デバッグ方法論で徹底的な問題解決を強制する。発動条件：タスクが2回以上失敗、「できません」と言いかける時、ユーザーに手動対応を勧めようとする時、未検証で環境のせいにする時、同じ方案の微調整ループ、受け身な行動（検索しない/読まない/検証しない/待っている）、ユーザーの苛立ち（'もっと頑張れ', '諦めるな', 'なんとかしろ', 'なんでまた失敗したの', 'again???'）。全タスクタイプに適用。初回失敗ではトリガーしない。",
+  "version": "1.1.3",
+  "author": {
+    "name": "tanweai"
+  },
+  "homepage": "https://openpua.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tanweai/pua-ja"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "tiennv3--exploring-solana-with-solscan",
+  "description": "Use this skill to query Solana blockchain data via the Solscan Pro API. Triggers: look up wallet address, check token price, analyze NFT collection, inspect transaction, explore DeFi activities, get account metadata/label/tags, fetch block info, monitor API usage, search token by keyword.",
+  "version": "1.0.7",
+  "author": {
+    "name": "tiennv3"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tiennv3/exploring-solana-with-solscan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tiennv3/exploring-solana-with-solscan"
+}

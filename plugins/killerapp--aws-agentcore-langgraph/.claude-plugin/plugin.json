@@ -1,0 +1,10 @@
+{
+  "name": "killerapp--aws-agentcore-langgraph",
+  "description": "Deploy production LangGraph agents on AWS Bedrock AgentCore. Use for (1) multi-agent systems with orchestrator and specialist agent patterns, (2) building stateful agents with persistent cross-session memory, (3) connecting external tools via AgentCore Gateway (MCP, Lambda, APIs), (4) managing shared context across distributed agents, or (5) deploying complex agent ecosystems via CLI with production observability and scaling.",
+  "version": "1.0.2",
+  "author": {
+    "name": "killerapp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/killerapp/aws-agentcore-langgraph",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/killerapp/aws-agentcore-langgraph"
+}

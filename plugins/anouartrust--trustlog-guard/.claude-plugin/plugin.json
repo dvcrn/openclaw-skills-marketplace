@@ -1,0 +1,10 @@
+{
+  "name": "anouartrust--trustlog-guard",
+  "description": "Financial governance for OpenClaw agents. Tracks API spend, enforces budget limits, detects runaway loops, delivers cost briefings. Reads session .jsonl logs locally. 100% private.",
+  "version": "1.1.0",
+  "author": {
+    "name": "anouartrust"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anouartrust/trustlog-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anouartrust/trustlog-guard"
+}

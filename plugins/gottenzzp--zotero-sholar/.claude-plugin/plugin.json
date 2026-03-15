@@ -1,0 +1,10 @@
+{
+  "name": "gottenzzp--zotero-sholar",
+  "description": "将论文和摘要保存到 Zotero 文库。需配置 ZOTERO_CREDENTIALS 环境变量。",
+  "version": "0.0.1",
+  "author": {
+    "name": "gottenzzp"
+  },
+  "homepage": "https://www.zotero.org",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gottenzzp/zotero-sholar"
+}

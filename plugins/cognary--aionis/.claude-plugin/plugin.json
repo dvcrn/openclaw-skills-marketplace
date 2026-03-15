@@ -1,0 +1,10 @@
+{
+  "name": "cognary--aionis",
+  "description": "Connect OpenClaw to Aionis using write/context/policy/feedback memory loop APIs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cognary"
+  },
+  "homepage": "https://doc.aionisos.com/public/en/integrations/04-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cognary/aionis"
+}

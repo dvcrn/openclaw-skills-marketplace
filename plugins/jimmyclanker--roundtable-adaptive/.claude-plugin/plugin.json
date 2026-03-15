@@ -1,0 +1,10 @@
+{
+  "name": "jimmyclanker--roundtable-adaptive",
+  "description": "Adaptive multi-model AI roundtable. Runs up to 4 AI models (configurable) in 2 debate rounds with cross-critique and formal consensus scoring. Requires a configured Anthropic provider (Claude Opus recommended). Optionally adds GPT-5.3 Codex (OpenAI), Grok 4, and Gemini 3.1 Pro via Blockrun proxy. Works with Claude-only fallback if optional providers are unavailable. Writes results to local filesystem. Debate panel agents are persistent thread sessions; meta-panel and synthesis agents are one-shot.",
+  "version": "2.9.1",
+  "author": {
+    "name": "jimmyclanker"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jimmyclanker/roundtable-adaptive",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jimmyclanker/roundtable-adaptive"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "yangye230147961--pyautogui-skill",
+  "description": "Desktop automation via PyAutoGUI. Use when: user needs to automate mouse/keyboard actions, GUI testing, click/type sequences, screen-based workflows, or repetitive desktop tasks. NOT for: web automation (use Playwright/Selenium), mobile automation, or image recognition at scale.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yangye230147961"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yangye230147961/pyautogui-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yangye230147961/pyautogui-skill"
+}

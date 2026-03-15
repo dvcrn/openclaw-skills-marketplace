@@ -1,0 +1,10 @@
+{
+  "name": "fangkelvin--voice-chat-skill",
+  "description": "语音对话集成技能，支持双向语音交流。使用TTS和STT实现完整的语音对话功能。",
+  "version": "1.0.0",
+  "author": {
+    "name": "fangkelvin"
+  },
+  "homepage": "https://docs.openclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fangkelvin/voice-chat-skill"
+}

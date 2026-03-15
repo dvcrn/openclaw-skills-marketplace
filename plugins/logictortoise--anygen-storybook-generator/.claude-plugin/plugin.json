@@ -1,0 +1,10 @@
+{
+  "name": "logictortoise--anygen-storybook-generator",
+  "description": "Create storybook-style visuals with AnyGen AI. Uses dialogue mode to understand narrative, style, and audience before generating. Supporting Nano Banana pro and Nano Banana 2. Triggers: storybook, visual narrative, creative storybook, visual story.",
+  "version": "1.1.4",
+  "author": {
+    "name": "logictortoise"
+  },
+  "homepage": "https://www.anygen.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/logictortoise/anygen-storybook-generator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "endcy--module-analyzer-generate-doc",
+  "description": "Java/Maven single-module deep documentation generator. Generates L3(file-level) to L2(module-level) business logic docs for specified module. Supports multi-subagent parallel processing, context compression, checkpoint resume, and auto-retry.",
+  "version": "1.0.3",
+  "author": {
+    "name": "endcy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/endcy/module-analyzer-generate-doc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/endcy/module-analyzer-generate-doc"
+}

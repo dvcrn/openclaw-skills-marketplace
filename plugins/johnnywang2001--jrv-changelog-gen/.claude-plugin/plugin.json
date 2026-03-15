@@ -1,0 +1,10 @@
+{
+  "name": "johnnywang2001--jrv-changelog-gen",
+  "description": "Generate changelogs from git commit history with conventional commit parsing. Use when asked to generate a changelog, create release notes, summarize git history, list changes between tags or dates, or prepare release documentation. Supports conventional commits (feat, fix, docs, etc.), breaking change detection, grouped output, and markdown or JSON format. No external dependencies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "johnnywang2001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/jrv-changelog-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/jrv-changelog-gen"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jaggerliu--app-order-business-stats",
+  "description": "按时间段和业务版块统计久事体育APP订单关键指标（业务版块、用户数、订单量、支付金额、退款金额、净销售金额）。适用于查询“某段时间内业务版块的订单”相关统计。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jaggerliu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jaggerliu/app-order-business-stats",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jaggerliu/app-order-business-stats"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bowen31337--gopls-lsp",
+  "description": "Go language server (gopls) providing code intelligence, refactoring, and analysis for .go files. Use when working with Go code that needs autocomplete, go-to-definition, find references, error detection, or refactoring support.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bowen31337"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/gopls-lsp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/gopls-lsp"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "tobiaslee--image-search",
+  "description": "Visual image search using Google Lens via SerpAPI. Identify objects, landmarks, products, plants, animals, artwork, logos, or any visual entity from an image. Returns visual matches, entity identification, product info with prices, and related content. Use when: (1) user sends an image and asks \"what is this?\", (2) user wants to find similar images or products, (3) user wants to identify a landmark/plant/animal/product from a photo, (4) user needs to verify image origin or find higher resolution versions, (5) user asks to find where to buy something shown in an image. Requires SERPAPI_KEY env var.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tobiaslee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tobiaslee/image-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tobiaslee/image-search"
+}

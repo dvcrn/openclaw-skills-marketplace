@@ -1,0 +1,10 @@
+{
+  "name": "contact-nbwfoundation--btcd-skill-beta",
+  "description": "Run the BTCD collateralization flow on PGP chain. Use when the user asks to run a BTCD loan, collateralization flow, create/take orders, lock BTC, submit proofs, claim BTCD tokens, or repay loans on the PGP network.",
+  "version": "1.0.0",
+  "author": {
+    "name": "contact-nbwfoundation"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/contact-nbwfoundation/btcd-skill-beta",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/contact-nbwfoundation/btcd-skill-beta"
+}

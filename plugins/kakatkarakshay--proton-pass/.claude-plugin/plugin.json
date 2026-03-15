@@ -1,0 +1,10 @@
+{
+  "name": "kakatkarakshay--proton-pass",
+  "description": "Manage Proton Pass vaults, items (logins, SSH keys, aliases, notes), passwords, SSH agent integration, and secret injection into applications. Use when working with Proton Pass for password management, SSH key storage, secret injection (run commands with secrets, inject into templates), environment variable injection, or generating secure passwords. Supports vault/item CRUD, sharing, member management, SSH agent operations, TOTP generation, secret references (pass://vault/item/field), template injection, and command execution with secrets.",
+  "version": "1.1.0",
+  "author": {
+    "name": "kakatkarakshay"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kakatkarakshay/proton-pass",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kakatkarakshay/proton-pass"
+}

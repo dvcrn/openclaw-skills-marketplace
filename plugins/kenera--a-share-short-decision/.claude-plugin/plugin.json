@@ -1,0 +1,10 @@
+{
+  "name": "kenera--a-share-short-decision",
+  "description": "A-share short-term trading decision skill for 1-5 day horizon. Use when you need real-data market sentiment, sector rotation, strong stock scanning, capital flow confirmation, date-based short-term signal scoring, prediction logging, and next-day market comparison for CN A-share momentum trading.",
+  "version": "1.2.0",
+  "author": {
+    "name": "kenera"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kenera/a-share-short-decision",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kenera/a-share-short-decision"
+}

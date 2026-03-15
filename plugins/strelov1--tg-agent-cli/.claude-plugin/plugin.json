@@ -1,0 +1,10 @@
+{
+  "name": "strelov1--tg-agent-cli",
+  "description": "Manage the user's personal Telegram account directly from the command line. Use when the user asks to: read Telegram messages or chats, list dialogs or unread messages, send a message or file as themselves on Telegram, reply to or edit a specific message, delete messages, add reactions, forward messages between chats, search messages inside a chat or across all chats, join or leave a group or channel, export full chat history, mark messages as read, search for public Telegram groups, get info about a chat or user, list group members, or watch a dialog for new messages in real time. This is for the user's personal account (MTProto, not a bot). Two-step agent-friendly auth: call auth-request, get the code from the user, then call auth-complete — no interactive TTY needed.",
+  "version": "1.2.1",
+  "author": {
+    "name": "strelov1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/strelov1/tg-agent-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/strelov1/tg-agent-cli"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "madsharksnow--output-evals",
+  "description": "Full-pipeline test automation for any project. Scans coverage, fills gaps, runs L1-L6 tests (unit/integration/scenario/experience/user-journey/scale), performs spec-driven gap analysis, spawns sub-agent E2E black-box verification, auto-fixes failures with root-cause analysis, and persists findings. Supports Bash, TypeScript, and Python. Use when asked to write tests, check coverage, find untested code, improve test quality, do health checks, run test pipeline, debug failures, or start tests for a new project.",
+  "version": "1.0.0",
+  "author": {
+    "name": "madsharksnow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/madsharksnow/output-evals",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/madsharksnow/output-evals"
+}

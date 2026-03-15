@@ -1,0 +1,10 @@
+{
+  "name": "odrobnik--codexmonitor",
+  "description": "List/inspect/watch local OpenAI Codex sessions (CLI + VS Code) using the CodexMonitor Homebrew formula. Reads sessions from ~/.codex/sessions by default (or via CODEX_SESSIONS_DIR / CODEX_HOME overrides). Requires the cocoanetics/tap Homebrew tap.",
+  "version": "0.2.2",
+  "author": {
+    "name": "odrobnik"
+  },
+  "homepage": "https://github.com/Cocoanetics/CodexMonitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/codexmonitor"
+}

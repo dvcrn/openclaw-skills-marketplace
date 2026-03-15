@@ -1,0 +1,10 @@
+{
+  "name": "lokoweb3--x1-vault-memory",
+  "description": "Backup and restore OpenClaw agent memory to IPFS with AES-256-GCM encryption and X1 blockchain CID anchoring",
+  "version": "0.1.10",
+  "author": {
+    "name": "lokoweb3"
+  },
+  "homepage": "https://github.com/Lokoweb3/x1-vault-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lokoweb3/x1-vault-memory"
+}

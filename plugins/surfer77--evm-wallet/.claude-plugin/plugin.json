@@ -1,0 +1,10 @@
+{
+  "name": "surfer77--evm-wallet",
+  "description": "Self-sovereign EVM wallet for AI agents. Use when the user wants to create a crypto wallet, check balances, send ETH or ERC20 tokens, swap tokens, or interact with smart contracts. Supports Base, Ethereum, Polygon, Arbitrum, and Optimism. Private keys stored locally — no cloud custody, no API keys required.",
+  "version": "1.0.3",
+  "author": {
+    "name": "surfer77"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/surfer77/evm-wallet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/surfer77/evm-wallet"
+}

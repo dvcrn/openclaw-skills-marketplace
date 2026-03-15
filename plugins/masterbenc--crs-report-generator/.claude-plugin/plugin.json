@@ -1,0 +1,10 @@
+{
+  "name": "masterbenc--crs-report-generator",
+  "description": "从银行/券商PDF流水自动提取信息，生成美化的CRS金融账户信息申报表。支持PDF解析、数据提取、表格生成。",
+  "version": "1.0.0",
+  "author": {
+    "name": "masterbenc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/masterbenc/crs-report-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/masterbenc/crs-report-generator"
+}

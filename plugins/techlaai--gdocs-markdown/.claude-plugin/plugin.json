@@ -1,0 +1,10 @@
+{
+  "name": "techlaai--gdocs-markdown",
+  "description": "Create Google Docs from Markdown files. Use when the user wants to create a Google Doc from Markdown content, or when working with gog CLI and need to populate Google Docs with content. This skill handles the conversion Markdown → DOCX → Google Docs via Drive upload, since gog docs CLI only supports create/export/cat/copy but NOT write/update content.",
+  "version": "1.0.1",
+  "author": {
+    "name": "techlaai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/techlaai/gdocs-markdown",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/techlaai/gdocs-markdown"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "openwaygate--youtube-watermark",
+  "description": "Manage YouTube watermarks. Use this skill to set or unset watermarks for channel videos. Useful when working with YouTube watermark — provides commands to set and unset watermark via the yutu CLI. Includes setup and installation instructions for first-time users. Triggers: set a watermark for channel's videos, set watermark, set my watermark, unset a watermark for channel's videos, unset watermark, unset my watermark",
+  "version": "0.10.6-3",
+  "author": {
+    "name": "openwaygate"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openwaygate/youtube-watermark",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openwaygate/youtube-watermark"
+}

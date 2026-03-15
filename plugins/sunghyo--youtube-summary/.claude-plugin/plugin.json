@@ -1,0 +1,10 @@
+{
+  "name": "sunghyo--youtube-summary",
+  "description": "Summarize YouTube videos into structured Markdown with youtube2md, including chaptered notes, timestamp links, and key takeaways. Use when the user provides one or more YouTube URLs and asks for summaries, study notes, language-specific summaries, transcript extraction, or machine-readable JSON output.",
+  "version": "1.0.3",
+  "author": {
+    "name": "sunghyo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunghyo/youtube-summary",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunghyo/youtube-summary"
+}

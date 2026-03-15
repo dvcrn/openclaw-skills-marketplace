@@ -1,0 +1,10 @@
+{
+  "name": "tudoubudou--feishu-img-sender",
+  "description": "飞书图片发送工具。用于给飞书用户发送图片。需要先上传图片获取 image_key，再用 image_key 发送消息。支持 PNG、JPG、GIF 等常见图片格式。",
+  "version": "1.0.0",
+  "author": {
+    "name": "tudoubudou"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tudoubudou/feishu-img-sender",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tudoubudou/feishu-img-sender"
+}

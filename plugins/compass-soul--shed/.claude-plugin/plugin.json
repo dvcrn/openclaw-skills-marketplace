@@ -1,0 +1,10 @@
+{
+  "name": "compass-soul--shed",
+  "description": "Context window hygiene for long-running LLM agents. Decision rules for when and how to compress, mask, switch, or delegate context — backed by research (JetBrains/NeurIPS 2025, OpenHands, Letta/MemGPT, LLMLingua). Use when an agent runs for extended sessions, accumulates large tool outputs, approaches context limits, or suffers from compaction/overflow. Also use when designing agent architectures that need to manage context over time.",
+  "version": "1.0.0",
+  "author": {
+    "name": "compass-soul"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/compass-soul/shed",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/compass-soul/shed"
+}

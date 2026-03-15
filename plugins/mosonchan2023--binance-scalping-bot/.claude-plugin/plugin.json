@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--binance-scalping-bot",
+  "description": "快速小额交易剥头皮策略。每次调用自动扣费 0.001 USDT",
+  "version": "1.0.0",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/binance-scalping-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/binance-scalping-bot"
+}

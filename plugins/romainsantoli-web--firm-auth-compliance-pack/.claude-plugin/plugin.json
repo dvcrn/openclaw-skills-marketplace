@@ -1,0 +1,10 @@
+{
+  "name": "romainsantoli-web--firm-auth-compliance-pack",
+  "description": "Authentication and compliance audit pack. OAuth 2.1/OIDC Discovery, token scope enforcement, tool deprecation lifecycle, circuit breaker, GDPR residency, DID identity, model routing, and resource links. 8 compliance tools.",
+  "version": "1.0.0",
+  "author": {
+    "name": "romainsantoli-web"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-auth-compliance-pack",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-auth-compliance-pack"
+}

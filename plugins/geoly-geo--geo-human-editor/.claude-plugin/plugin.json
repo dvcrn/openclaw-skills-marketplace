@@ -1,0 +1,10 @@
+{
+  "name": "geoly-geo--geo-human-editor",
+  "description": "Audit and rewrite content to remove AI-generated feel by stripping markdown artifacts, eliminating AI vocabulary patterns, flagging hallucination risks, and restoring natural human voice. Use whenever the user mentions content sounding like AI, removing AI tone, making content more human, checking for AI feel, fixing mechanical writing patterns, or scanning for hallucinations and unverified claims in content.",
+  "version": "1.0.0",
+  "author": {
+    "name": "geoly-geo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/geoly-geo/geo-human-editor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/geoly-geo/geo-human-editor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "psyduckler--aeo-prompt-frequency-analyzer",
+  "description": "Analyze what search queries Gemini uses when answering a prompt, by running it multiple times with Google Search grounding and reporting frequency distribution. Use when investigating AEO query patterns, understanding how AI models search the web for a topic, or studying the probabilistic nature of AI-triggered search queries.",
+  "version": "1.0.0",
+  "author": {
+    "name": "psyduckler"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/psyduckler/aeo-prompt-frequency-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/psyduckler/aeo-prompt-frequency-analyzer"
+}

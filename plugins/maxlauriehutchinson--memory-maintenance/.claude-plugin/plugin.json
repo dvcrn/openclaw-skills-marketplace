@@ -1,0 +1,10 @@
+{
+  "name": "maxlauriehutchinson--memory-maintenance",
+  "description": "Intelligent memory management for OpenClaw agents. Reviews daily notes, suggests MEMORY.md updates, maintains directory health, and auto-cleans old files. Recommended for agents with growing memory footprints.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maxlauriehutchinson"
+  },
+  "homepage": "https://github.com/MaxLaurieHutchinson/memory-maintenance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maxlauriehutchinson/memory-maintenance"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "alohagrowkodil--openclaw-usage-dashboard",
+  "description": "Generate an interactive local HTML dashboard showing OpenClaw API usage, costs, and rate-limit quotas across multiple LLM providers (Anthropic, OpenAI, Google, Moonshot, Mistral, Cohere, Groq). Reads session transcripts directly — no external service needed. Use when a user asks about API costs, token usage, model spend, quota/rate limits, usage by model or time period, or wants a cost overview dashboard. Triggers on \"usage dashboard\", \"API kosten\", \"wie viel kostet\", \"kontingent\", \"rate limit\", \"token verbrauch\", \"cost dashboard\", \"openclaw costs\", \"spending overview\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "alohagrowkodil"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alohagrowkodil/openclaw-usage-dashboard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alohagrowkodil/openclaw-usage-dashboard"
+}

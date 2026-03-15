@@ -1,0 +1,18 @@
+{
+    "id": "rtm-skill",
+    "name": "rtm-skill",
+    "version": "1.0.0",
+    "description": "Remember The Milk skill for OpenClaw",
+    "main": "index.js",
+    "commands": [
+        {
+            "name": "rtm",
+            "description": "Manage Remember The Milk tasks"
+        }
+    ],
+    "configSchema": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {}
+    }
+}

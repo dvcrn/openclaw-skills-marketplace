@@ -1,0 +1,10 @@
+{
+  "name": "ultranumblol--pumpfun-sniper",
+  "description": "Score any pump.fun token CA for snipe safety (0-100) before buying.\n Analyzes dev wallet history, social links, liquidity, and holder concentration.\n Returns SNIPE / CAUTION / AVOID verdict with detailed signal breakdown.\n Use when the user wants to snipe a new token, check if a pump.fun token is safe,\n score a new launch, detect rug potential, or analyze a fresh CA before buying.\n Keywords: pump.fun snipe, rug check, new token score, CA analysis, safe to buy.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ultranumblol"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ultranumblol/pumpfun-sniper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ultranumblol/pumpfun-sniper"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "namphamdev--fxtwitter",
+  "description": "Fetch tweet/post data from X (Twitter) links using the fxTwitter API (api.fxtwitter.com). Use when a user sends an x.com or twitter.com URL and wants to read, summarize, or extract tweet content. No auth required. Returns full tweet metadata including text, author, media, and engagement stats.",
+  "version": "1.0.0",
+  "author": {
+    "name": "namphamdev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/namphamdev/fxtwitter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/namphamdev/fxtwitter"
+}

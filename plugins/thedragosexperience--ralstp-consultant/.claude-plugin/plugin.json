@@ -1,0 +1,10 @@
+{
+  "name": "thedragosexperience--ralstp-consultant",
+  "description": "Analyze problems using RALSTP (Recursive Agents and Landmarks Strategic-Tactical Planning). Based on PhD thesis by Dorian Buksz (RALSTP). Identifies agents, calculates difficulty, and suggests decomposition.",
+  "version": "1.0.1",
+  "author": {
+    "name": "thedragosexperience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thedragosexperience/ralstp-consultant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thedragosexperience/ralstp-consultant"
+}

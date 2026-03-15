@@ -1,0 +1,10 @@
+{
+  "name": "yxieca--sonic-kvm-testbed",
+  "description": "Deploy and manage a SONiC sonic-mgmt KVM virtual testbed with cEOS neighbors for running pytest-based network tests. Use when setting up a local KVM testbed, deploying T0/T1/T1-LAG topologies with converged cEOS peers, troubleshooting testbed-cli.sh or deploy-mg issues, tearing down and redeploying testbeds, or running sonic-mgmt test cases against a virtual SONiC switch (sonic-vs).",
+  "version": "1.2.0",
+  "author": {
+    "name": "yxieca"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yxieca/sonic-kvm-testbed",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yxieca/sonic-kvm-testbed"
+}

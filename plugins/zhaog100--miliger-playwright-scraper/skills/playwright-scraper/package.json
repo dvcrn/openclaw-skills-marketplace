@@ -1,0 +1,20 @@
+{
+  "name": "playwright-scraper",
+  "version": "1.1.0",
+  "description": "Playwright网页爬取技能。使用真实浏览器操作（点击、滚动、等待JS渲染）来爬取复杂动态网页。支持多Tab、懒加载、SPA单页应用。",
+  "main": "SKILL.md",
+  "keywords": [
+    "playwright",
+    "scraper",
+    "web-scraping",
+    "spa",
+    "dynamic-pages",
+    "browser-automation"
+  ],
+  "author": "zhaog100",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhaog100/openclaw-skills"
+  }
+}

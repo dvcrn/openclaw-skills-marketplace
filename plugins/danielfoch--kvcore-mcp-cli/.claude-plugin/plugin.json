@@ -1,0 +1,10 @@
+{
+  "name": "danielfoch--kvcore-mcp-cli",
+  "description": "Use this skill when users need KVcore CRM actions through MCP/CLI (contacts, tags, notes, calls, email, text, campaigns), including raw endpoint access and optional Twilio call fallback.",
+  "version": "0.1.0",
+  "author": {
+    "name": "danielfoch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danielfoch/kvcore-mcp-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danielfoch/kvcore-mcp-cli"
+}

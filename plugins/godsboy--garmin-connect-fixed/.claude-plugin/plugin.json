@@ -1,0 +1,10 @@
+{
+  "name": "godsboy--garmin-connect-fixed",
+  "description": "Garmin Connect integration for Clawdbot: sync fitness data (steps, HR, calories, workouts, sleep) every 5 minutes using OAuth.",
+  "version": "1.1.0",
+  "author": {
+    "name": "godsboy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/godsboy/garmin-connect-fixed",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/godsboy/garmin-connect-fixed"
+}

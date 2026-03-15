@@ -1,0 +1,10 @@
+{
+  "name": "allmightysauron--solax-cloud-api",
+  "description": "Fetch inverter summary data from the Solax Cloud API using the npm package solax-cloud-api. Use when the user provides (or has configured) a Solax tokenId and inverter serial number (sn) and wants current/summary energy data returned as JSON (typed as SolaxSummary) for dashboards/automation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "allmightysauron"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/allmightysauron/solax-cloud-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/allmightysauron/solax-cloud-api"
+}

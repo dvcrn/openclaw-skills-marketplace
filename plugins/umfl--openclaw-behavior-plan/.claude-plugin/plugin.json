@@ -1,0 +1,10 @@
+{
+  "name": "umfl--openclaw-behavior-plan",
+  "description": "Generates structured behavior plans for OpenClaw agents based on user requirements. Use when the user asks to create a plan, design agent behavior, plan multi-step tasks for OpenClaw, or when they describe a goal that needs step-by-step execution.",
+  "version": "1.0.0",
+  "author": {
+    "name": "umfl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/umfl/openclaw-behavior-plan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/umfl/openclaw-behavior-plan"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jarviyin--hypii-hyperliquid-trader",
+  "description": "Hypii AI Trading Agent for Hyperliquid perpetual futures.\n Automated trading strategies with SkillPay micropayment integration.\n \n Features:\n - DCA (Dollar Cost Averaging) Strategy\n - Grid Trading Strategy\n - AI Trading Signals\n - Portfolio Management\n - Automated Trade Execution\n \n Pricing:\n - 5 free calls per day\n - 0.01 USDT for basic queries\n - 0.05 USDT for strategy execution\n - 0.1 USDT for automated trading\n - 19.9 USDT/month for unlimited Pro access",
+  "version": "1.0.0",
+  "author": {
+    "name": "jarviyin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jarviyin/hypii-hyperliquid-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jarviyin/hypii-hyperliquid-trader"
+}

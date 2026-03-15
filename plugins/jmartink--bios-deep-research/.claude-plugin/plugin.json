@@ -1,0 +1,10 @@
+{
+  "name": "jmartink--bios-deep-research",
+  "description": "Run deep biological research using the BIOS API. Supports API key and x402 crypto payments (USDC on Base). Start-and-check-back pattern works across heartbeats.",
+  "version": "1.0.5",
+  "author": {
+    "name": "jmartink"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jmartink/bios-deep-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jmartink/bios-deep-research"
+}

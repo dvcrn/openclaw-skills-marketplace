@@ -1,0 +1,10 @@
+{
+  "name": "joeykrug--memory-lancedb-hybrid",
+  "description": "LanceDB long-term memory plugin with BM25 + vector hybrid search (RRF or linear reranking).",
+  "version": "1.2.1",
+  "author": {
+    "name": "joeykrug"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/joeykrug/memory-lancedb-hybrid",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joeykrug/memory-lancedb-hybrid"
+}

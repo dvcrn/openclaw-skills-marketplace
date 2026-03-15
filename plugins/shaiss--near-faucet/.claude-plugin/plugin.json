@@ -1,0 +1,10 @@
+{
+  "name": "shaiss--near-faucet",
+  "description": "OpenClaw skill for requesting NEAR testnet tokens via faucet. Provides faucet requests, status checking, and balance queries with rate limiting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shaiss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shaiss/near-faucet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shaiss/near-faucet"
+}

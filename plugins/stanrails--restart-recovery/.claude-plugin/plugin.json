@@ -1,0 +1,10 @@
+{
+  "name": "stanrails--restart-recovery",
+  "description": "Make OpenClaw agent workflows restart-safe using checkpoint files, idempotent step tracking, wake/resume handoff, and stale-checkpoint monitoring. Use when users ask to recover from restarts, preserve progress across updates/config restarts, or implement checkpoint → restart → wake → resume patterns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "stanrails"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stanrails/restart-recovery",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stanrails/restart-recovery"
+}

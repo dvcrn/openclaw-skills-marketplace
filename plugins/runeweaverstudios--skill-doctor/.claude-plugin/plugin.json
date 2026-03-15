@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--skill-doctor",
+  "description": "Scans the skills folder for new, unused, or missing dependencies; fixes requirements.txt; and tests a skill in or out of sandbox.",
+  "version": "1.0.0",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/skill-doctor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/skill-doctor"
+}

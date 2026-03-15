@@ -1,0 +1,10 @@
+{
+  "name": "grivn--mnemon",
+  "description": "Persistent memory CLI for LLM agents. Store facts, recall past knowledge, link related memories, manage lifecycle.",
+  "version": "0.1.2",
+  "author": {
+    "name": "grivn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/grivn/mnemon",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/grivn/mnemon"
+}

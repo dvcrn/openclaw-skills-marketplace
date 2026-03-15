@@ -1,0 +1,10 @@
+{
+  "name": "virtual-ny--massive-financial-connector",
+  "description": "Full Massive (Polygon) market-data connector with secure local key handling. Starts the official MCP server and supports endpoint discovery, endpoint docs, generic API calls, SQL-style table querying, and post-processing functions, plus quick scripts for common quote checks. Use for stock/options/forex/crypto/indices real-time or historical queries sourced from Massive.",
+  "version": "1.1.1",
+  "author": {
+    "name": "virtual-ny"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/virtual-ny/massive-financial-connector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/virtual-ny/massive-financial-connector"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mattt21--senddy",
+  "description": "Create and manage private stablecoin wallets using Senddy's zero-knowledge protocol on Base. Use when building payment agents, bots, server-side apps, or any system that needs private USDC transfers. Covers @senddy/node for headless agents and @senddy/client for browser apps.",
+  "version": "0.1.1",
+  "author": {
+    "name": "mattt21"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mattt21/senddy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mattt21/senddy"
+}

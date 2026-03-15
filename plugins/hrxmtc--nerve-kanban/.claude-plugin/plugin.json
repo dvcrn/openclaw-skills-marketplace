@@ -1,0 +1,10 @@
+{
+  "name": "hrxmtc--nerve-kanban",
+  "description": "Interact with the Nerve Kanban board API. CRUD tasks, manage workflow (execute, approve, reject, abort), handle proposals, configure the board. All endpoints are under /api/kanban on the Nerve server.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hrxmtc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hrxmtc/nerve-kanban",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hrxmtc/nerve-kanban"
+}

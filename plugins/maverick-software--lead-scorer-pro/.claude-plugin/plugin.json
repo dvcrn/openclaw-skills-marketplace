@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--lead-scorer-pro",
+  "description": "Score a website lead 0–100 based on audit signals from the website-auditor skill, assign a priority tier (Hot/Warm/Lukewarm/Cold), and write the result to a Google Sheet. Applies a weighted rubric across 8 audit dimensions. Use as the final step in the lead list building pipeline after website-auditor and contact-enrichment have run. Requires GOOGLE_SHEET_NAME and GOOGLE_CREDS_FILE for Google Sheets output.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/lead-scorer-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/lead-scorer-pro"
+}

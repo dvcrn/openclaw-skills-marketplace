@@ -1,0 +1,10 @@
+{
+  "name": "pretyflaco--blink",
+  "description": "Bitcoin Lightning wallet for agents — balances, invoices, payments, BTC/USD swaps, QR codes, price conversion, and transaction history via the Blink API. All output is JSON.",
+  "version": "1.3.0",
+  "author": {
+    "name": "pretyflaco"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pretyflaco/blink",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pretyflaco/blink"
+}

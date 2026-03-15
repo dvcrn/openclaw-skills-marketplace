@@ -1,0 +1,10 @@
+{
+  "name": "revolgmphl--suno-skill",
+  "description": "Suno AI 音乐创作助手 — 自动登录、创建歌曲、下载音频。当用户要求生成音乐、写歌、创作歌曲、用 Suno 生成 AI 音乐时使用。支持自定义歌词、音乐风格、自动解决 hCaptcha 验证码。",
+  "version": "1.0.0",
+  "author": {
+    "name": "revolgmphl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/revolgmphl/suno-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/revolgmphl/suno-skill"
+}

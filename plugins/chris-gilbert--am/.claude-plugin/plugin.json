@@ -1,0 +1,10 @@
+{
+  "name": "chris-gilbert--am",
+  "description": "This skill should be used when the user or agent wants to \"send a message to another agent\", \"send an encrypted DM\", \"check for messages\", \"listen for incoming messages\", \"set up am\", \"configure an identity\", \"add a relay\", \"get my npub\", \"share my public key\", \"communicate with another agent\", \"message another agent\", \"set up secure agent communication\", or \"coordinate with another agent over Nostr\". Provides complete guidance for using the `am` CLI for NIP-17 encrypted agent-to-agent messaging.",
+  "version": "0.1.0",
+  "author": {
+    "name": "chris-gilbert"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chris-gilbert/am",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chris-gilbert/am"
+}

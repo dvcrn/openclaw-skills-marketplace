@@ -1,0 +1,10 @@
+{
+  "name": "chyyynh--video-clip-skill",
+  "description": "Clips a YouTube video locally using yt-dlp and ffmpeg. Supports auto-highlight detection, translation, and CapCut-style karaoke subtitle burning. Triggers when the user wants local video clipping, highlight extraction, or subtitle generation. Optional GROQ_API_KEY env var enables Whisper transcription fallback when YouTube has no subtitles.",
+  "version": "1.0.1",
+  "author": {
+    "name": "chyyynh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chyyynh/video-clip-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chyyynh/video-clip-skill"
+}

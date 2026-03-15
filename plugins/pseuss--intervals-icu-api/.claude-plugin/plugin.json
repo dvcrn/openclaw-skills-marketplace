@@ -1,0 +1,10 @@
+{
+  "name": "pseuss--intervals-icu-api",
+  "description": "Complete guide for accessing and managing training data with the intervals.icu API. Use when working with Intervals.icu athlete profiles, activities, workouts, events, wellness data, and training plans. Covers authentication, retrieving activities with combined data fields, managing calendar events with planned workouts, and creating/updating training data. Includes curl examples for all major operations.",
+  "version": "2.0.1",
+  "author": {
+    "name": "pseuss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pseuss/intervals-icu-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pseuss/intervals-icu-api"
+}

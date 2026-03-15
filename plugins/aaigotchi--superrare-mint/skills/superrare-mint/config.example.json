@@ -1,0 +1,9 @@
+{
+  "chain": "mainnet",
+  "collectionContract": "0x0000000000000000000000000000000000000000",
+  "receiver": "",
+  "royaltyReceiver": "",
+  "rpcUrl": "https://ethereum-rpc.publicnode.com",
+  "apiBaseUrl": "https://api.superrare.org",
+  "descriptionPrefix": "SuperRare mint via aaigotchi"
+}

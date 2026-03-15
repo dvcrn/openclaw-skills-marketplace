@@ -1,0 +1,10 @@
+{
+  "name": "jamesfincher--browserbase",
+  "description": "Create and manage persistent Browserbase cloud browser sessions with authentication persistence. Use when the user needs to automate browsers, maintain logged-in sessions across interactions, scrape authenticated pages, or manage cloud browser instances. Handles session creation, context-based auth persistence, keep-alive reconnection, captcha solving, session recording, screenshots, and session cleanup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jamesfincher"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamesfincher/browserbase",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamesfincher/browserbase"
+}

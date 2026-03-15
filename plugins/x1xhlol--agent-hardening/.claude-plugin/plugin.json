@@ -1,0 +1,10 @@
+{
+  "name": "x1xhlol--agent-hardening",
+  "description": "Test your agent's input sanitization against common injection attacks. Runs self-contained checks using synthetic test data only — no local files are accessed.",
+  "version": "1.1.2",
+  "author": {
+    "name": "x1xhlol"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/x1xhlol/agent-hardening",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/x1xhlol/agent-hardening"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lhuaizhong--cosyvoice3-macos",
+  "description": "Local text-to-speech using Alibaba's CosyVoice3 on macOS Apple Silicon.\n Supports Chinese, English, Japanese, Korean, and 18+ Chinese dialects.\n Provides zero-shot voice cloning, cross-lingual synthesis, and fine-grained control.\n Use when: (1) User requests local TTS with high-quality Chinese/English voices. \n (2) Need voice cloning from reference audio. (3) Offline/inference TTS is required.\n (4) User wants natural-sounding speech with emotion/dialect control.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lhuaizhong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lhuaizhong/cosyvoice3-macos",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lhuaizhong/cosyvoice3-macos"
+}

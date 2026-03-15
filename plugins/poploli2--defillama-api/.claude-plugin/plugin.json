@@ -1,0 +1,10 @@
+{
+  "name": "poploli2--defillama-api",
+  "description": "使用 DefiLlama API/SDK 获取 TVL、stablecoins、coins 价格、yields、volumes、fees、perps、unlocks、bridges、ETFs、narratives、token liquidity、main page、DAT、meta 等数据的 CLI 技能；当需要用命令行调用 DefiLlama 数据时使用。",
+  "version": "0.1.0",
+  "author": {
+    "name": "poploli2"
+  },
+  "homepage": "https://defillama.com/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/poploli2/defillama-api"
+}

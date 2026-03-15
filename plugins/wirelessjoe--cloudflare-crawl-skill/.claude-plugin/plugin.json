@@ -1,0 +1,10 @@
+{
+  "name": "wirelessjoe--cloudflare-crawl-skill",
+  "description": "Crawl websites using Cloudflare's Browser Rendering API. Use when you need to scrape entire sites, build knowledge bases, extract content from multiple pages, or create RAG datasets. Works on Cloudflare-protected sites. Returns HTML, Markdown, or AI-extracted JSON.",
+  "version": "0.1.1",
+  "author": {
+    "name": "wirelessjoe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wirelessjoe/cloudflare-crawl-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wirelessjoe/cloudflare-crawl-skill"
+}

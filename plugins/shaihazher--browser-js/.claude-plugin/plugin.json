@@ -1,0 +1,10 @@
+{
+  "name": "shaihazher--browser-js",
+  "description": "Lightweight CDP browser control for AI agents. Token-efficient alternative to the built-in browser tool — 3-10x fewer tokens per interaction. Use when browsing websites, clicking elements, filling forms, uploading files, or extracting page content. Requires a Chrome/Chromium browser running with --remote-debugging-port (OpenClaw browser works out of the box). Signed-in sessions carry over automatically.",
+  "version": "1.5.0",
+  "author": {
+    "name": "shaihazher"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shaihazher/browser-js",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shaihazher/browser-js"
+}

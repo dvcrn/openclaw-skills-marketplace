@@ -1,0 +1,10 @@
+{
+  "name": "hodlxxi--hodlxxi-bitcoin-identity",
+  "description": "Integrate HODLXXI as a Bitcoin-native identity provider that bridges OAuth2/OIDC and Lightning LNURL-Auth for client registration, authorization flows, JWT verification, and health monitoring.",
+  "version": "0.1.0",
+  "author": {
+    "name": "hodlxxi"
+  },
+  "homepage": "https://github.com/hodlxxi/Universal-Bitcoin-Identity-Layer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hodlxxi/hodlxxi-bitcoin-identity"
+}

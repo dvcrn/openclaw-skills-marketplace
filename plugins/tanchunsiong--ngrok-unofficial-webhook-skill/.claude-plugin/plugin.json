@@ -1,0 +1,10 @@
+{
+  "name": "tanchunsiong--ngrok-unofficial-webhook-skill",
+  "description": "Start an ngrok tunnel to receive incoming webhooks and process them via the LLM. Use when the user asks to listen for webhooks, set up a webhook endpoint, start ngrok, or when another skill (like Zoom RTMS Meeting Assistant) needs a public webhook URL. Receives webhook payloads and lets the LLM decide how to handle them.",
+  "version": "0.1.4",
+  "author": {
+    "name": "tanchunsiong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tanchunsiong/ngrok-unofficial-webhook-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tanchunsiong/ngrok-unofficial-webhook-skill"
+}

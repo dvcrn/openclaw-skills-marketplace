@@ -1,0 +1,10 @@
+{
+  "name": "lavish0000--peaq-robotics",
+  "description": "Core peaq-robotics-ros2 runtime for OpenClaw. Start/stop ROS 2 nodes and call DID, storage, and access-control services. Use when requests are about running an existing peaq ROS2 workspace (not installing/building or sending funds).",
+  "version": "0.1.7",
+  "author": {
+    "name": "lavish0000"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lavish0000/peaq-robotics",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lavish0000/peaq-robotics"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jacksoyou--polymarket-prob-analyzer",
+  "description": "Calculate probability ranges for Polymarket events based on network research and analysis. Use when user wants to estimate event probability, needs probability ranges for trading decisions, or requests analysis of Polymarket events by name or URL.",
+  "version": "2.4.0",
+  "author": {
+    "name": "jacksoyou"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jacksoyou/polymarket-prob-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jacksoyou/polymarket-prob-analyzer"
+}

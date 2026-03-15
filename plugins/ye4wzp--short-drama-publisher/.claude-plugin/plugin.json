@@ -1,0 +1,10 @@
+{
+  "name": "ye4wzp--short-drama-publisher",
+  "description": "Automated short drama video publisher. Downloads drama content from MoboBoost, uses AI to identify highlight moments, clips 15-second vertical videos with text overlays, and auto-publishes to Facebook. Strawberry TV workflow clone. Triggers: \"短剧发布\", \"short drama\", \"MoboBoost\", \"video publisher\", \"自动发布\", \"剪辑短剧\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "ye4wzp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ye4wzp/short-drama-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ye4wzp/short-drama-publisher"
+}

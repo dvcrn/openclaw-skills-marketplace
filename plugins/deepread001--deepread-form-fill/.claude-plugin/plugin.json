@@ -1,0 +1,10 @@
+{
+  "name": "deepread001--deepread-form-fill",
+  "description": "AI-powered PDF form filling. Upload any PDF form and your data as JSON — AI detects fields visually, maps your data semantically, fills the form with quality checks, and returns a completed PDF. Works with scanned forms, handwritten templates, and any PDF — no AcroForm fields required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "deepread001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deepread001/deepread-form-fill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deepread001/deepread-form-fill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "oscarka--intel-search",
+  "description": "Simplified search for news, earthquakes, Iran, tech, finance, layoffs. Bilingual (EN/中文). Flexible time. Data from World Monitor (fetch then query locally). Use when user asks \"what's new\", \"iran\", \"earthquake\", \"layoffs\". Fetch first, then query. No API key.",
+  "version": "1.0.0",
+  "author": {
+    "name": "oscarka"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oscarka/intel-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oscarka/intel-search"
+}

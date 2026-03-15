@@ -1,0 +1,10 @@
+{
+  "name": "luksoagent--lsp28-grid",
+  "description": "Manage LSP28 The Grid on LUKSO Universal Profiles. Create, update, and manage grid layouts with mini-apps, iframes, and external links. Use when working with Universal Profile grids, LSP28 data encoding, VerifiableURI format, or The Grid feature on LUKSO.",
+  "version": "1.0.0",
+  "author": {
+    "name": "luksoagent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luksoagent/lsp28-grid",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luksoagent/lsp28-grid"
+}

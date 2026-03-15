@@ -1,0 +1,10 @@
+{
+  "name": "macstenk--skill-exporter",
+  "description": "Export Clawdbot skills as standalone, deployable microservices. Use when you want to dockerize a skill, deploy it to Railway or Fly.io, or create an independent API service. Generates Dockerfile, FastAPI wrapper, requirements.txt, deployment configs, and optional LLM client integration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "macstenk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/macstenk/skill-exporter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/macstenk/skill-exporter"
+}

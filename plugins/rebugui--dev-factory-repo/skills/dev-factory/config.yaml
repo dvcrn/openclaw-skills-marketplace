@@ -1,0 +1,62 @@
+# Builder Agent Configuration
+# 환경 변수는 ${VAR_NAME} 형식으로 참조
+
+discovery:
+  output_dir: "/tmp/builder-discovery"
+  cache_ttl_seconds: 3600
+
+  github:
+    enabled: true
+    method: "browser"          # "api" | "browser"
+    language: "python"
+    max_results: 5
+
+  cve:
+    enabled: true
+    lookback_days: 7
+    min_score: 7.0
+    severity: "HIGH"           # "HIGH" | "CRITICAL"
+    max_results: 20
+
+  security_news:
+    enabled: true
+    keywords:
+      - ransomware
+      - vulnerability
+      - malware
+      - phishing
+      - zero-day
+      - supply-chain
+
+correction:
+  max_retries: 3
+  test_timeout_seconds: 30
+  acp_mode: "direct"          # "direct" | "cli" | "manual"
+
+orchestration:
+  simple_engine: "glm"        # GLM API
+  medium_engine: "claude"     # Claude Code CLI
+  complex_engine: "claude"    # Claude Code CLI + templates
+  claude_timeout_seconds: 300
+  enable_fallback: true       # Claude 실패 시 GLM으로 fallback
+  fallback_on_errors:
+    - token_exhausted
+    - rate_limit
+    - timeout
+    - cli_not_found
+    - unexpected_error
+
+notion:
+  database_id: "${PROJECT_DATABASE_ID}"
+  max_queue_per_run: 10
+  rate_limit_seconds: 0.5
+  enable_sync: true
+
+github:
+  auto_publish: true
+  private: false
+  license: "MIT"
+
+logging:
+  level: "INFO"
+  file: "/tmp/builder-agent/builder.log"

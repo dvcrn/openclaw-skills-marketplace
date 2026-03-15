@@ -1,0 +1,10 @@
+{
+  "name": "guoqiao--hn-extract",
+  "description": "Extract a HackerNews post (article + comments) into single clean Markdown for quick reading or LLM input.",
+  "version": "0.1.5",
+  "author": {
+    "name": "guoqiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guoqiao/hn-extract",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guoqiao/hn-extract"
+}

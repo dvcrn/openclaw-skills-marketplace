@@ -1,0 +1,10 @@
+{
+  "name": "jkc3080--cognitive-bullwhip",
+  "description": "Diagnoses whether a Cognitive Bullwhip Effect is already active in your agent system. Traces where small errors are amplifying into large failures, scores severity, and identifies which intervention is needed.",
+  "version": "1.0.2",
+  "author": {
+    "name": "jkc3080"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jkc3080/cognitive-bullwhip",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jkc3080/cognitive-bullwhip"
+}

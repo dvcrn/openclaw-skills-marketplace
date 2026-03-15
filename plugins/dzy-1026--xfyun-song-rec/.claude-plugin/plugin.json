@@ -1,0 +1,10 @@
+{
+  "name": "dzy-1026--xfyun-song-rec",
+  "description": "Recognize songs by singing or audio file using iFlytek's Query By ACRCloud technology.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dzy-1026"
+  },
+  "homepage": "https://www.xfyun.cn/doc/voiceservice/music_recognition/API.html",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dzy-1026/xfyun-song-rec"
+}

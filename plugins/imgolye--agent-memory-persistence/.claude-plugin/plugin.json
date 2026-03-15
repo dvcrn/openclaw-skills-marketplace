@@ -1,0 +1,10 @@
+{
+  "name": "imgolye--agent-memory-persistence",
+  "description": "Provide long-term memory persistence for AI agents with SQLite-backed storage, structured metadata, vector embeddings, semantic retrieval, lifecycle management, and queries by user, session, and time.",
+  "version": "0.1.0",
+  "author": {
+    "name": "imgolye"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imgolye/agent-memory-persistence",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imgolye/agent-memory-persistence"
+}

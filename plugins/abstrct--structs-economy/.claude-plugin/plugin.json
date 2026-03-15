@@ -1,0 +1,10 @@
+{
+  "name": "abstrct--structs-economy",
+  "description": "Manages economic operations in Structs. Covers reactor staking, energy providers, agreements, allocations, generator infusion, and token transfers. Use when staking Alpha Matter in reactors, creating or managing energy providers, negotiating agreements, allocating energy, infusing generators, transferring tokens, or managing economic infrastructure.",
+  "version": "1.1.0",
+  "author": {
+    "name": "abstrct"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abstrct/structs-economy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abstrct/structs-economy"
+}

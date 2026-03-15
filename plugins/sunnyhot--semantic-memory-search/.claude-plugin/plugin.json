@@ -1,0 +1,10 @@
+{
+  "name": "sunnyhot--semantic-memory-search",
+  "description": "为 OpenClaw Markdown 记忆文件添加向量驱动的语义搜索。使用 memsearch 库，支持混合搜索（稠密向量 + BM25），SHA-256 智能去重，本地 embedding 无需 API Key。",
+  "version": "1.0.0",
+  "author": {
+    "name": "sunnyhot"
+  },
+  "homepage": "https://github.com/sunnyhot/semantic-memory-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunnyhot/semantic-memory-search"
+}

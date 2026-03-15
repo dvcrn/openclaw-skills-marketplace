@@ -1,0 +1,10 @@
+{
+  "name": "tip-citron--cifer-security",
+  "description": "Implement quantum-resistant encryption using the CIFER SDK (cifer-sdk npm package). Covers SDK initialization, wallet setup, secret creation, text encryption/decryption, and file encryption/decryption on any supported chain (Ethereum, Sepolia, Ternoa). Use when the user mentions CIFER, cifer-sdk, quantum-resistant encryption, ML-KEM, secret creation, or encrypted payloads/files with blockchain.",
+  "version": "0.3.1",
+  "author": {
+    "name": "tip-citron"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tip-citron/cifer-security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tip-citron/cifer-security"
+}

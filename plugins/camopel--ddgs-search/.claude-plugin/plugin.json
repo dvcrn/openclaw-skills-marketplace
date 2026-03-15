@@ -1,0 +1,10 @@
+{
+  "name": "camopel--ddgs-search",
+  "description": "Free multi-engine web search via ddgs CLI (DuckDuckGo, Google, Bing, Brave, Yandex, Yahoo, Wikipedia) + arXiv API search. No API keys required. Use when user needs web search, research paper discovery, or when other skills need a search backend. Drop-in replacement for web-search-plus.",
+  "version": "1.2.0",
+  "author": {
+    "name": "camopel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/camopel/ddgs-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/camopel/ddgs-search"
+}

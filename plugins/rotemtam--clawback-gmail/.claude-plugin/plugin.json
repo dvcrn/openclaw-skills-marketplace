@@ -1,0 +1,10 @@
+{
+  "name": "rotemtam--clawback-gmail",
+  "description": "Gmail security proxy with policy enforcement, approval workflows, and audit logging. Use when the user wants to read, search, or send Gmail with guardrails — send actions may require human approval before executing.",
+  "version": "0.1.0",
+  "author": {
+    "name": "rotemtam"
+  },
+  "homepage": "https://clawback.sh",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rotemtam/clawback-gmail"
+}

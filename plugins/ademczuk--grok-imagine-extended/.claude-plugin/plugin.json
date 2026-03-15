@@ -1,0 +1,10 @@
+{
+  "name": "ademczuk--grok-imagine-extended",
+  "description": "Generate images and videos using xAI Grok Imagine Extended. Text-to-image, image editing, text-to-video, image-to-video. Use when: user asks to generate, create, or draw an image, or create/animate a video. NOT for: image analysis/understanding (use the image tool instead). Triggers: generate image, create image, draw, grok imagine, make a picture, text to image, generate video, animate, text to video.",
+  "version": "1.1.0",
+  "author": {
+    "name": "ademczuk"
+  },
+  "homepage": "https://docs.x.ai/docs/guides/image-generations",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ademczuk/grok-imagine-extended"
+}

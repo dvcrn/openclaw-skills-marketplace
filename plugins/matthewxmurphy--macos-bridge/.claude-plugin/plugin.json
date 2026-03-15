@@ -1,0 +1,10 @@
+{
+  "name": "matthewxmurphy--macos-bridge",
+  "description": "Bridge Mac-owned tools like imsg, remindctl, memo, things, and peekaboo onto a Linux OpenClaw gateway by installing explicit same-LAN SSH wrappers with optional Wake-on-LAN, enabled-channel auto-discovery, and OpenClaw config fallback.",
+  "version": "0.6.2",
+  "author": {
+    "name": "matthewxmurphy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/macos-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/macos-bridge"
+}

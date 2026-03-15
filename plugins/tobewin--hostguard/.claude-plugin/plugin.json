@@ -1,0 +1,10 @@
+{
+  "name": "tobewin--hostguard",
+  "description": "Check whether OpenClaw is listening beyond localhost or running with elevated privileges, then offer a conservative lockdown fix.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tobewin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tobewin/hostguard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tobewin/hostguard"
+}

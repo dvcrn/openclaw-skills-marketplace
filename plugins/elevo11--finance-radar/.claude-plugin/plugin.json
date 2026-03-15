@@ -1,0 +1,10 @@
+{
+  "name": "elevo11--finance-radar",
+  "description": "Stock and cryptocurrency analysis powered by Yahoo Finance data. Use when a user wants to: (1) Analyze stocks or crypto prices/fundamentals, (2) Track investment portfolios, (3) Monitor watchlists with alerts, (4) Analyze dividends, (5) Score stocks on 8 dimensions, (6) Detect viral trending tickers (hot scanner), (7) Spot rumors and early signals before mainstream, (8) Check earnings reactions, (9) Find trending stocks or crypto. Integrates SkillPay.me billing at 0.001 USDT per call.",
+  "version": "1.1.0",
+  "author": {
+    "name": "elevo11"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/elevo11/finance-radar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/elevo11/finance-radar"
+}

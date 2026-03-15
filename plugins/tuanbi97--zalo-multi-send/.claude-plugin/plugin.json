@@ -1,0 +1,10 @@
+{
+  "name": "tuanbi97--zalo-multi-send",
+  "description": "Send multiple images or files in a single Zalo message using zca-js directly. Use when the user asks to send multiple photos/files to a Zalo contact or group at once, or when openclaw's built-in single-media send is not enough. Supports local file paths and URLs. Requires Zalo credentials already set up via openclaw zalouser channel.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tuanbi97"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tuanbi97/zalo-multi-send",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tuanbi97/zalo-multi-send"
+}

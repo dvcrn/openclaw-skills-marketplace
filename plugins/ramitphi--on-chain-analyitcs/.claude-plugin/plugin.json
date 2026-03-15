@@ -1,0 +1,10 @@
+{
+  "name": "ramitphi--on-chain-analyitcs",
+  "description": "Analyze any EVM smart contract — auto-fetches ABI, discovers usage patterns, decodes function calls via Dune, generates AI-driven analytics (charts, stats, time series), and returns structured results. Supports Ethereum, Polygon, BSC, Arbitrum, Optimism, Base, Avalanche.",
+  "version": "1.0.2",
+  "author": {
+    "name": "ramitphi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ramitphi/on-chain-analyitcs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ramitphi/on-chain-analyitcs"
+}

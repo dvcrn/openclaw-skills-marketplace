@@ -1,0 +1,10 @@
+{
+  "name": "machinesbefree--moltbook-firewall",
+  "description": "Security layer protecting agents from prompt injection, social engineering, and malicious content on Moltbook and similar platforms. Scan content before processing, detect threats, block attacks.",
+  "version": "0.1.0",
+  "author": {
+    "name": "machinesbefree"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/machinesbefree/moltbook-firewall",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/machinesbefree/moltbook-firewall"
+}

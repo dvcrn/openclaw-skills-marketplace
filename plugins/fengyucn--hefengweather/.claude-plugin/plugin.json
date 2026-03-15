@@ -1,0 +1,10 @@
+{
+  "name": "fengyucn--hefengweather",
+  "description": "提供基于和风天气API的全面气象数据查询服务,包括实时天气、多天预报、逐小时预报、空气质量、生活指数、气象预警、天文数据、分钟级降水预报、格点天气和地理信息查询。当用户需要查询天气信息、空气质量、气象预警或天文数据时触发此技能。",
+  "version": "0.0.1",
+  "author": {
+    "name": "fengyucn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fengyucn/hefengweather",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fengyucn/hefengweather"
+}

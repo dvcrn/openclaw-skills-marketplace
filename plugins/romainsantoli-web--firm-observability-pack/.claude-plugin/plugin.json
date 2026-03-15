@@ -1,0 +1,10 @@
+{
+  "name": "romainsantoli-web--firm-observability-pack",
+  "description": "Observability pipeline and CI audit pack. JSONL-to-SQLite trace ingestion and CI workflow validation. 2 observability tools.",
+  "version": "1.0.0",
+  "author": {
+    "name": "romainsantoli-web"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-observability-pack",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-observability-pack"
+}

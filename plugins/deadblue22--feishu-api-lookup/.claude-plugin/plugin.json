@@ -1,0 +1,10 @@
+{
+  "name": "deadblue22--feishu-api-lookup",
+  "description": "Look up Feishu Open API documentation. Activate when: needing to find a specific Feishu API endpoint,\n understanding API parameters/response, writing scripts that call Feishu APIs, or troubleshooting\n Feishu API errors. Uses web_search + web_fetch to find and extract API docs in real-time.",
+  "version": "1.0.0",
+  "author": {
+    "name": "deadblue22"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deadblue22/feishu-api-lookup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deadblue22/feishu-api-lookup"
+}

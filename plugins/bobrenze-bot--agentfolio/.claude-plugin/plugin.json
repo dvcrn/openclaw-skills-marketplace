@@ -1,0 +1,10 @@
+{
+  "name": "bobrenze-bot--agentfolio",
+  "description": "Discover and register autonomous AI agents. Use when: browsing the agent registry, submitting an agent for verification, or embedding agent badges. NOT for: general web search or agent capability analysis.",
+  "version": "1.0.1",
+  "author": {
+    "name": "bobrenze-bot"
+  },
+  "homepage": "https://agentfolio.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bobrenze-bot/agentfolio"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "onionrings29--set-reminder",
+  "description": "Use when user wants to be reminded about something at a specific time or recurring schedule. Creates cron-based reminders delivered via iMessage, Discord, or other configured channels.",
+  "version": "1.0.6",
+  "author": {
+    "name": "onionrings29"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/onionrings29/set-reminder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/onionrings29/set-reminder"
+}

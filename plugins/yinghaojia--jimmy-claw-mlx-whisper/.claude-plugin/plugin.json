@@ -1,0 +1,10 @@
+{
+  "name": "yinghaojia--jimmy-claw-mlx-whisper",
+  "description": "Set up mlx-whisper as the local audio transcription engine for OpenClaw on Apple Silicon Macs (M1/M2/M3/M4). Automatically transcribes voice notes sent via Telegram or WhatsApp before the agent processes them. Use when the user wants to enable voice message transcription locally without any API key, or asks to set up Whisper, mlx-whisper, or local speech-to-text in OpenClaw. Apple Silicon only (macOS darwin). Note: Requires internet for initial model download (~465MB), but runs inference locally.",
+  "version": "1.0.7",
+  "author": {
+    "name": "yinghaojia"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yinghaojia/jimmy-claw-mlx-whisper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yinghaojia/jimmy-claw-mlx-whisper"
+}

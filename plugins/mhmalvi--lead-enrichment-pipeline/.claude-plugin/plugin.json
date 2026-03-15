@@ -1,0 +1,10 @@
+{
+  "name": "mhmalvi--lead-enrichment-pipeline",
+  "description": "Automated lead capture, deduplication, tracking, and notification pipeline. Captures leads from web forms via webhooks, deduplicates by email in Google Sheets, scores by source and engagement, sends team notifications. 3 production-ready n8n workflows included.",
+  "version": "1.2.3",
+  "author": {
+    "name": "mhmalvi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mhmalvi/lead-enrichment-pipeline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mhmalvi/lead-enrichment-pipeline"
+}

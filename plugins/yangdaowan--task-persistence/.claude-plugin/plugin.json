@@ -1,0 +1,10 @@
+{
+  "name": "yangdaowan--task-persistence",
+  "description": "Task continuity, session snapshots, and gateway restart recovery. Use when starting long-running tasks (register them), after gateway restart (check for interrupted tasks), or when user asks about task status/recovery. Trigger on \"resume\", \"任务恢复\", \"重启后\", \"未完成任务\", or before/after any multi-step operation.",
+  "version": "1.1.0",
+  "author": {
+    "name": "yangdaowan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yangdaowan/task-persistence",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yangdaowan/task-persistence"
+}

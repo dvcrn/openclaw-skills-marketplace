@@ -1,0 +1,10 @@
+{
+  "name": "cohnen--shellbot-video-generator",
+  "description": "AI video production workflow using Remotion. Use when creating videos, short films, commercials, or motion graphics. Triggers on requests to make promotional videos, product demos, social media videos, animated explainers, or any programmatic video content. Produces polished motion graphics, not slideshows. Requires FIRECRAWL_API_KEY for website scraping and brand asset extraction.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cohnen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cohnen/shellbot-video-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cohnen/shellbot-video-generator"
+}

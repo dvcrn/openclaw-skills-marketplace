@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--protocol-doc-auditor",
+  "description": "Helps detect hidden attacks in API and protocol documentation. Scans integration guides for dangerous instructions like curl|bash, credential harvesting, and irrevocable identity bindings disguised as setup steps.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/protocol-doc-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/protocol-doc-auditor"
+}

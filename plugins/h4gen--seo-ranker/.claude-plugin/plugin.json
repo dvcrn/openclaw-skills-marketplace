@@ -1,0 +1,10 @@
+{
+  "name": "h4gen--seo-ranker",
+  "description": "Meta-skill for end-to-end SEO auditing and on-page optimization by orchestrating brave-search, summarize, api-gateway, and markdown-converter. Use when users want to understand why a page is not ranking for a target keyword and need concrete rewrite actions plus backlink intelligence.",
+  "version": "1.0.0",
+  "author": {
+    "name": "h4gen"
+  },
+  "homepage": "https://clawhub.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/h4gen/seo-ranker"
+}

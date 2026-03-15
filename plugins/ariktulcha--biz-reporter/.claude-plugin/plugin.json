@@ -1,0 +1,10 @@
+{
+  "name": "ariktulcha--biz-reporter",
+  "description": "Automated business intelligence reports pulling data from Google Analytics GA4, Google Search Console, Stripe revenue, social media metrics (Twitter/X, LinkedIn, Instagram), HubSpot CRM, and Airtable into formatted daily KPI snapshots, weekly marketing reports, and monthly business reviews with trend detection and anomaly alerts. Use this skill for: business reports, KPI dashboard, weekly metrics, marketing report, revenue summary, traffic report, analytics summary, performance report, \"how are we doing\", \"show me our metrics\", \"what are our numbers\", MRR tracking, conversion rate analysis, SEO performance report, social media analytics, sales pipeline report, automated reporting via cron, data visualization, business intelligence, growth metrics, churn analysis, or any request to combine data from multiple business tools into a single formatted report. Also works for ad-hoc questions like \"how did our launch go\" or \"compare this month to last month\". Delivers via Slack, email, Notion, or Markdown file.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ariktulcha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ariktulcha/biz-reporter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ariktulcha/biz-reporter"
+}

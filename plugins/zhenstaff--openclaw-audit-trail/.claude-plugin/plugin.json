@@ -1,0 +1,10 @@
+{
+  "name": "zhenstaff--openclaw-audit-trail",
+  "description": "The Immutable Black Box for AI Decisions - Track, audit, and verify AI agent decisions with cryptographic guarantees",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhenstaff"
+  },
+  "homepage": "https://github.com/ZhenRobotics/openclaw-audit-trail",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhenstaff/openclaw-audit-trail"
+}

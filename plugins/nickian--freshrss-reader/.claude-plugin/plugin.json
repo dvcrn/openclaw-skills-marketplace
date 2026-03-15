@@ -1,0 +1,10 @@
+{
+  "name": "nickian--freshrss-reader",
+  "description": "Query headlines and articles from a self-hosted FreshRSS instance. Use when the user asks for RSS news, latest headlines, feed updates, or wants to browse articles from their FreshRSS reader. Supports filtering by category, time range, and count.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nickian"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nickian/freshrss-reader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nickian/freshrss-reader"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cutthemustard--safe-action",
+  "description": "Before any destructive or irreversible action, run a safety pre-flight — check risks, reversibility, and timing.",
+  "version": "1.0.1",
+  "author": {
+    "name": "cutthemustard"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cutthemustard/safe-action",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cutthemustard/safe-action"
+}

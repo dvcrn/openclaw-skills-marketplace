@@ -1,0 +1,10 @@
+{
+  "name": "meatloopservice--meatloop",
+  "description": "A real human reviews your question, screenshot, or pair of images and returns a structured verdict by email. Use for sanity checks, content verification, creative judgment, and A/B image comparison. Send two images to get a BETTER IMAGE verdict naming the preferred file. Every substantive verdict includes a tamper-evident VERIFICATION code posted to a public log — proof a human reviewed the request. No setup, no credentials, no installation — email only. Reviewers are prioritised in the queue. The name is a joke. The service is not.",
+  "version": "1.0.0",
+  "author": {
+    "name": "meatloopservice"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/meatloopservice/meatloop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/meatloopservice/meatloop"
+}

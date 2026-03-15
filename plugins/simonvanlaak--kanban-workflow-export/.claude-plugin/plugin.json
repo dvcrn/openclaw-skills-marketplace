@@ -1,0 +1,10 @@
+{
+  "name": "simonvanlaak--kanban-workflow-export",
+  "description": "Kanban Workflow is a TypeScript skill for a stage-based agentic co-worker that integrates PM platforms via CLI-first adapters (CLIs or small wrapper scripts). It provides setup + verbs (show/next/start/update/ask/complete/create) around a canonical stage set (backlog/blocked/in-progress/in-review), plus polling/diffing foundations and automation hooks.",
+  "version": "0.1.4",
+  "author": {
+    "name": "simonvanlaak"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/simonvanlaak/kanban-workflow-export",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/simonvanlaak/kanban-workflow-export"
+}

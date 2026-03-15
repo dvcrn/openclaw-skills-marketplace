@@ -1,0 +1,10 @@
+{
+  "name": "wsgtcyx--bpm-finder",
+  "description": "Use this skill when the user needs BPM finder help inside Codex, including tap tempo estimation, BPM conversion, tempo normalization, lightweight tempo analysis workflows, or guidance on when to use the full BPM Finder website for browser-based audio analysis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wsgtcyx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wsgtcyx/bpm-finder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wsgtcyx/bpm-finder"
+}

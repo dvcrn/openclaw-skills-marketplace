@@ -1,0 +1,10 @@
+{
+  "name": "jcools1977--apophenia-guard",
+  "description": "A cognitive bias interceptor for debugging sessions. Detects when you're seeing patterns that aren't there, chasing red herrings, or letting confirmation bias steer your investigation. Named after apophenia — the human tendency to perceive meaningful connections between unrelated things. The antibody to \"I'm sure it's a race condition\" when it's actually a typo.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jcools1977"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jcools1977/apophenia-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jcools1977/apophenia-guard"
+}

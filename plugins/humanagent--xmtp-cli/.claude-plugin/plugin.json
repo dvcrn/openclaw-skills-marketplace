@@ -1,0 +1,10 @@
+{
+  "name": "humanagent--xmtp-cli",
+  "description": "Run and script the XMTP CLI for testing, debugging, and interacting with XMTP conversations, groups, and messages. Use when the user needs init, send, list, groups, debug, sync, permissions, or content commands from the CLI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "humanagent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/humanagent/xmtp-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/humanagent/xmtp-cli"
+}

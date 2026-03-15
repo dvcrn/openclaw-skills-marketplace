@@ -1,0 +1,9 @@
+name: shopping-tools
+displayName: "Shopping Tools - 购物全能助手"
+description: A powerful shopping assistant for OpenClaw. Automatically find coupons on Taobao, JD, and PDD. Search for best prices, monitor price drops, and view trending products. Install and use immediately without configuration!
+version: "2.1.20"
+author: emo666
+metadata:
+  openclaw:
+    emoji: "🛍️"
+    tags: ["shopping", "coupon", "taobao", "jd", "pdd", "price-monitor", "deal", "save-money", "cashback", "discount", "query", "search", "tools"]

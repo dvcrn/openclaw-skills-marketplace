@@ -1,0 +1,10 @@
+{
+  "name": "lemodigital--discord-project-manager",
+  "description": "Discord project collaboration infrastructure for OpenClaw agents. Manage Forum Channels, threads, participant permissions, and mention mode. Supports 3-tier architecture (Forum Channel → Thread → Default Channel) for multi-agent project coordination.",
+  "version": "2.1.6",
+  "author": {
+    "name": "lemodigital"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lemodigital/discord-project-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lemodigital/discord-project-manager"
+}

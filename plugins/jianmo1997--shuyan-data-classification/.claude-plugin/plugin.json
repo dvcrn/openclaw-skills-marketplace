@@ -1,0 +1,10 @@
+{
+  "name": "jianmo1997--shuyan-data-classification",
+  "description": "数安云智数据分类分级同步接口 - 用于批量处理字段信息的分类分级。支持敏感数据识别、数据分类、数据分级等功能。使用前需配置API地址和认证密钥。",
+  "version": "1.0.1",
+  "author": {
+    "name": "jianmo1997"
+  },
+  "homepage": "https://localhost:8080",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jianmo1997/shuyan-data-classification"
+}

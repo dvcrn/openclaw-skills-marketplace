@@ -1,0 +1,10 @@
+{
+  "name": "fabiolr--duffel",
+  "description": "Search, book, and manage flights via the Duffel Flights API. Covers 300+ airlines (NDC, GDS, LCC). Use when: (1) searching for flights between cities, (2) comparing prices and fare classes, (3) booking flights, (4) checking booking status, (5) cancelling bookings, (6) viewing seat maps, (7) looking up airport/city IATA codes. Supports one-way, round-trip, multi-passenger, cabin class filtering, and nonstop preferences.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fabiolr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fabiolr/duffel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fabiolr/duffel"
+}

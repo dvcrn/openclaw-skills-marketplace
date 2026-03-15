@@ -1,0 +1,10 @@
+{
+  "name": "simonfunk--cookidoo-thermomix",
+  "description": "Interact with Cookidoo (Thermomix recipe platform) via the unofficial cookidoo-api. Search recipes, manage meal planning calendar, shopping lists, collections, and custom recipes. Use when the user mentions \"Cookidoo\", \"Thermomix recipes\", \"meal planning\", \"Wochenplan\", \"Einkaufsliste Thermomix\", \"Cookidoo Rezepte\", \"was kochen\", or wants to manage their Thermomix/Cookidoo account programmatically.",
+  "version": "1.0.0",
+  "author": {
+    "name": "simonfunk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/simonfunk/cookidoo-thermomix",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/simonfunk/cookidoo-thermomix"
+}

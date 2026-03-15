@@ -1,0 +1,10 @@
+{
+  "name": "hundevmode--linkedin-email-phone-apify",
+  "description": "Use this skill when the user needs LinkedIn contact enrichment by URLs with both phone and email lookup via Apify actors (phones: X95BXRaFOqZ7rzjxM, emails: q3wko0Sbx6ZAAB2xf), including optional branches and merged output.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hundevmode"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hundevmode/linkedin-email-phone-apify",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hundevmode/linkedin-email-phone-apify"
+}

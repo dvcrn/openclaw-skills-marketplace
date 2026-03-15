@@ -1,0 +1,10 @@
+{
+  "name": "tshogx--hello-example",
+  "description": "A minimal example skill demonstrating .clawhubignore — the secret.md file should NOT appear in the published version.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tshogx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tshogx/hello-example",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tshogx/hello-example"
+}

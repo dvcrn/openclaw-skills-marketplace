@@ -1,0 +1,10 @@
+{
+  "name": "sunnyztj--bybit-futures",
+  "description": "Complete Bybit USDT perpetual futures trading system with risk management, paper trading, and live execution. Use when building a crypto futures trading bot, connecting to Bybit API, implementing stop-loss/take-profit, managing leverage and position sizing, paper trading strategies, backtesting, or deploying a WebSocket-based real-time trading system. Supports EMA crossover, RSI, and custom strategy templates.",
+  "version": "1.1.0",
+  "author": {
+    "name": "sunnyztj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunnyztj/bybit-futures",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunnyztj/bybit-futures"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "openlang-cn--clawhub-cli",
+  "description": "Use the ClawHub CLI to search, install, update, and publish agent skills from clawhub.ai. Use when you need to fetch new skills on the fly, sync installed skills to the latest or a specific version, or publish new or updated skill folders with the npm-installed ClawHub CLI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "openlang-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/clawhub-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/clawhub-cli"
+}

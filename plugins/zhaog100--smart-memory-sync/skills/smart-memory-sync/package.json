@@ -1,0 +1,59 @@
+{
+  "name": "smart-memory-sync",
+  "version": "1.0.0",
+  "description": "主动智能记忆管理技能。实时分析聊天、三库同步（MEMORY+QMD+Git）、主动切换、预防性保护。与Context Manager互补，双保险机制。",
+  "author": "米粒儿",
+  "created": "2026-03-06",
+  "updated": "2026-03-06",
+  "keywords": [
+    "memory",
+    "sync",
+    "auto-switch",
+    "chat-analysis",
+    "qmd",
+    "git",
+    "context-management",
+    "proactive"
+  ],
+  "skills": [
+    "chat-analysis",
+    "memory-sync",
+    "context-monitoring",
+    "auto-switch"
+  ],
+  "dependencies": {
+    "python": ">=3.8"
+  },
+  "config": {
+    "config_file": "config/sync-config.json",
+    "main_script": "scripts/smart-sync.py"
+  },
+  "thresholds": {
+    "remind": 50,
+    "auto_sync": 75,
+    "auto_switch": 85
+  },
+  "intervals": {
+    "check": 300,
+    "sync": 3600
+  },
+  "integrations": {
+    "context_manager": {
+      "enabled": true,
+      "skill": "context-manager"
+    },
+    "qmd": {
+      "enabled": true
+    },
+    "git": {
+      "enabled": true
+    }
+  },
+  "repository": {
+    "type": "local",
+    "path": "~/.openclaw/workspace/skills/smart-memory-sync"
+  },
+  "changelog": {
+    "1.0.0": "初始版本 - 主动分析+三库同步+自动切换"
+  }
+}

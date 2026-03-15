@@ -1,0 +1,10 @@
+{
+  "name": "ppopen--openclaw-skill-personal-finance",
+  "description": "Parse personal finance CSV exports, validate schema, categorize transactions via local rules, and summarize/report income, expenses, merchants, and categories.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ppopen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ppopen/openclaw-skill-personal-finance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ppopen/openclaw-skill-personal-finance"
+}

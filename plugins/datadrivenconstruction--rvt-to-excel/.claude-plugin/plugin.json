@@ -1,0 +1,10 @@
+{
+  "name": "datadrivenconstruction--rvt-to-excel",
+  "description": "Convert RVT/RFA files to Excel databases. Extract BIM element data, properties, and quantities.",
+  "version": "2.0.0",
+  "author": {
+    "name": "datadrivenconstruction"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/rvt-to-excel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/rvt-to-excel"
+}

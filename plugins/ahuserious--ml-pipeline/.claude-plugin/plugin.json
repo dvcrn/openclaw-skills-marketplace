@@ -1,0 +1,10 @@
+{
+  "name": "ahuserious--ml-pipeline",
+  "description": "Complete machine learning pipeline for trading: feature engineering, AutoML, deep learning, and financial RL. Use for automated parameter sweeps, feature creation, model training, and anti-leakage validation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "ahuserious"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ahuserious/ml-pipeline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ahuserious/ml-pipeline"
+}

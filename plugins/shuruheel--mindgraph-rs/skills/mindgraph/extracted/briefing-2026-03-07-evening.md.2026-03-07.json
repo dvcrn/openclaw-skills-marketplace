@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "source_path": "/home/node/.openclaw/workspace/memory/geopolitics/briefing-2026-03-07-evening.md",
+    "extracted_at": "2026-03-07T23:01:23.970Z",
+    "model": "google/gemini-3-flash-preview",
+    "summarized": false,
+    "file_hash": "290aa45406d8aa23",
+    "file_size": 4366,
+    "node_count": 16,
+    "edge_count": 14,
+    "entity_resolution": {
+      "checked": 5,
+      "resolved": 0,
+      "canonicalized": 0
+    }
+  },
+  "nodes": [
+    {
+      "label": "Iran Rejection of Surrender",
+      "type": "Observation",
+      "summary": "Iran officially rejected Trump's 'unconditional surrender' demand as a 'dream' on March 7, 2026.",
+      "props": {
+        "observed_at": 1741305600,
+        "content": "Iran rejected Trump's demand for unconditional surrender."
+      }
+    },
+    {
+      "label": "Pezeshkian Neighbor Policy",
+      "type": "Observation",
+      "summary": "President Pezeshkian stated Iran will not attack neighbors unless strikes originate from their territory.",
+      "props": {
+        "observed_at": 1741305600,
+        "content": "Conditional cessation of attacks on Gulf states provided they do not host US/Israeli strikes."
+      }
+    },
+    {
+      "label": "Gulf State Missile Attacks",
+      "type": "Observation",
+      "summary": "Drone and missile attacks impacted UAE, Kuwait, Qatar, Bahrain, Oman, Saudi Arabia, and Iraq over the past week.",
+      "props": {
+        "observed_at": 1741305600,
+        "content": "Confirmed impacts across multiple Gulf nations."
+      }
+    },
+    {
+      "label": "IRGC Mojtaba Succession Push",
+      "type": "Claim",
+      "summary": "The IRGC is fast-tracking Mojtaba Khamenei's succession through the Assembly of Experts.",
+      "props": {
+        "truth_status": "confirmed",
+        "certainty_degree": 0.9
+      }
+    },
+    {
+      "label": "Iran Legitimacy Vacuum",
+      "type": "Claim",
+      "summary": "Bypassing constitutional processes to install Mojtaba Khamenei creates a legitimacy vacuum and future resistance.",
+      "props": {
+        "truth_status": "provisional",
+        "certainty_degree": 0.75
+      }
+    },
+    {
+      "label": "Ukraine Peace Talks Suspension",
+      "type": "Observation",
+      "summary": "Trilateral peace talks are officially on hold as the US prioritizes the Middle East conflict.",
+      "props": {
+        "observed_at": 1741305600,
+        "content": "US pivot to Iran stalls Ukraine air defense supplies and peace negotiations."
+      }
+    },
+    {
+      "label": "CMC Leadership Vacuum",
+      "type": "Claim",
+      "summary": "71% vacancy in China's Central Military Commission and the Zhurihe blackout inhibit near-term PLA escalation.",
+      "props": {
+        "truth_status": "confirmed",
+        "certainty_degree": 0.85
+      }
+    },
+    {
+      "label": "Starmer Premiership Crisis",
+      "type": "Claim",
+      "summary": "Labour MPs warn Keir Starmer's premiership is nearing its end following the Gorton by-election disaster.",
+      "props": {
+        "truth_status": "provisional",
+        "certainty_degree": 0.7
+      }
+    },
+    {
+      "label": "Iran Regime Fall Market Decision",
+      "type": "Decision",
+      "summary": "Decision to HOLD YES on Iran Regime Fall market despite price drift.",
+      "props": {
+        "question": "Should we maintain the YES position on Iran Regime Fall?",
+        "decision_rationale": "Market misinterprets IRGC moves as stabilizing; legitimacy vacuum and Trump pressure maintain regime collapse risk.",
+        "reversibility": "high",
+        "status": "made"
+      }
+    },
+    {
+      "label": "Tim Cook Succession Noise",
+      "type": "Claim",
+      "summary": "Recent Apple leadership title changes are noise; Tim Cook remains operationally central.",
+      "props": {
+        "truth_status": "confirmed",
+        "certainty_degree": 0.9
+      }
+    },
+    {
+      "label": "Tim Cook Market Decision",
+      "type": "Decision",
+      "summary": "Decision to HOLD NO on Tim Cook Out market.",
+      "props": {
+        "question": "Should we maintain the NO position on Tim Cook leaving?",
+        "decision_rationale": "Succession rumors are speculative; key internal quotes suggest stability.",
+        "reversibility": "high",
+        "status": "made"
+      }
+    },
+    {
+      "label": "Masoud Pezeshkian",
+      "type": "Entity",
+      "summary": "President of Iran managing the transition and regional diplomacy.",
+      "props": {
+        "entity_type": "person"
+      }
+    },
+    {
+      "label": "Mojtaba Khamenei",
+      "type": "Entity",
+      "summary": "Son of Ali Khamenei and IRGC-backed candidate for Supreme Leader.",
+      "props": {
+        "entity_type": "person"
+      }
+    },
+    {
+      "label": "Keir Starmer",
+      "type": "Entity",
+      "summary": "UK Prime Minister facing internal party rebellion.",
+      "props": {
+        "entity_type": "person"
+      }
+    },
+    {
+      "label": "Tim Cook",
+      "type": "Entity",
+      "summary": "CEO of Apple Inc.",
+      "props": {
+        "entity_type": "person"
+      }
+    },
+    {
+      "label": "IRGC",
+      "type": "Entity",
+      "summary": "Islamic Revolutionary Guard Corps.",
+      "props": {
+        "entity_type": "organization"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "Iran Rejection of Surrender",
+      "to": "Iran",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Pezeshkian Neighbor Policy",
+      "to": "Masoud Pezeshkian",
+      "type": "AUTHORED_BY"
+    },
+    {
+      "from": "Gulf State Missile Attacks",
+      "to": "Iran",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "IRGC Mojtaba Succession Push",
+      "to": "IRGC",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "IRGC Mojtaba Succession Push",
+      "to": "Mojtaba Khamenei",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Iran Legitimacy Vacuum",
+      "to": "IRGC Mojtaba Succession Push",
+      "type": "EXTENDS"
+    },
+    {
+      "from": "Iran Regime Fall Market Decision",
+      "to": "Iran Legitimacy Vacuum",
+      "type": "DEPENDS_ON"
+    },
+    {
+      "from": "Iran Regime Fall Market Decision",
+      "to": "Polymarket Trading System",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Ukraine Peace Talks Suspension",
+      "to": "Ukraine Peace Process",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "CMC Leadership Vacuum",
+      "to": "China",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Starmer Premiership Crisis",
+      "to": "Keir Starmer",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Tim Cook Succession Noise",
+      "to": "Tim Cook",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Tim Cook Market Decision",
+      "to": "Tim Cook Succession Noise",
+      "type": "DEPENDS_ON"
+    },
+    {
+      "from": "Tim Cook Market Decision",
+      "to": "Polymarket Trading System",
+      "type": "RELEVANT_TO"
+    }
+  ]
+}

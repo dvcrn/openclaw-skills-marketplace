@@ -1,0 +1,10 @@
+{
+  "name": "mightybyte--zfs",
+  "description": "ZFS filesystem administration, pool management, dataset configuration, snapshots, replication, encryption, performance tuning, and troubleshooting on OpenZFS (Linux and macOS). Use when the user asks to: create or manage ZFS pools, configure ZFS datasets and properties, set up snapshots or replication (zfs send/recv), tune ZFS performance (ARC, recordsize, compression, special vdevs), troubleshoot degraded/faulted pools or scrub errors, set up ZFS encryption, plan storage architecture with ZFS, or any other ZFS/zpool/zfs administration task.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mightybyte"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mightybyte/zfs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mightybyte/zfs"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "deyashmukh--data-cleaning-annotation-workflow",
+  "description": "Complete workflow for time series datasets (Energy, Manufacturing, Climate) on Kaggle to Data Annotation platform (data.smlcrm.com). Includes downloading, cleaning with pandas, uploading RAW with metadata, configuring columns (Time/Target/Covariate/Group), setting units (kWh, kVarh, tCO2, ratio, seconds), and assigning groups by selecting all variables and applying all group tags. Use when finding Kaggle datasets, cleaning for ML, uploading with metadata, configuring types/units, assigning groups to all variables, or complete pipeline to CLEAN status.",
+  "version": "1.0.0",
+  "author": {
+    "name": "deyashmukh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deyashmukh/data-cleaning-annotation-workflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deyashmukh/data-cleaning-annotation-workflow"
+}

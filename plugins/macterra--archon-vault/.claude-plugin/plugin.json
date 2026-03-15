@@ -1,0 +1,10 @@
+{
+  "name": "macterra--archon-vault",
+  "description": "Encrypted distributed storage using Archon DID vaults. Manage vaults, backup and restore workspace/config/memory with multi-party access control. Use for creating/managing DID vaults, backing up files, restoring from vault, disaster recovery, or managing vault contents and membership.",
+  "version": "0.1.0",
+  "author": {
+    "name": "macterra"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/macterra/archon-vault",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/macterra/archon-vault"
+}

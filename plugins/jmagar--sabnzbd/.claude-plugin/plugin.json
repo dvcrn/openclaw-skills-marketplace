@@ -1,0 +1,10 @@
+{
+  "name": "jmagar--sabnzbd",
+  "description": "Manage Usenet downloads with SABnzbd. Use when the user asks to \"check SABnzbd\", \"list NZB queue\", \"add NZB\", \"pause downloads\", \"resume downloads\", \"SABnzbd status\", \"Usenet queue\", \"NZB history\", or mentions SABnzbd/sab download management.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jmagar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jmagar/sabnzbd",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jmagar/sabnzbd"
+}

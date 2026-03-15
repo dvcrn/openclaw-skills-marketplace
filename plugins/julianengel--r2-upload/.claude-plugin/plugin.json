@@ -1,0 +1,10 @@
+{
+  "name": "julianengel--r2-upload",
+  "description": "Upload files to Cloudflare R2, AWS S3, or any S3-compatible storage and generate secure presigned download links with configurable expiration.",
+  "version": "1.0.4",
+  "author": {
+    "name": "julianengel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/julianengel/r2-upload",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/julianengel/r2-upload"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "thomaschangx--task-dispatcher",
+  "description": "智能任务分发与子代理协调中枢。当用户提交任何任务时，执行需求分析、任务拆解、分发策略制定，分发给合适的 subagent 执行，监控进度并阶段汇报，最终汇总结果。失败时自动兜底处理。适用于：（1）用户直接下达的任务（2）cron/heartbeat 触发的任务（3）任何需要多步骤处理的工作。",
+  "version": "1.0.0",
+  "author": {
+    "name": "thomaschangx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thomaschangx/task-dispatcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thomaschangx/task-dispatcher"
+}

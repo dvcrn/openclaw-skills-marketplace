@@ -1,0 +1,10 @@
+{
+  "name": "qrost--color-palette",
+  "description": "Extract a color palette from an image and return HEX/RGB values with optional swatch image.",
+  "version": "1.1.1",
+  "author": {
+    "name": "qrost"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qrost/color-palette",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qrost/color-palette"
+}

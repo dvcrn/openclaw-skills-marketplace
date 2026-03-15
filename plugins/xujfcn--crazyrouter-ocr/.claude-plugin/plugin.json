@@ -1,0 +1,10 @@
+{
+  "name": "xujfcn--crazyrouter-ocr",
+  "description": "Image-to-text and OCR via Crazyrouter API using vision models (GPT-4o, Gemini, Claude). Extract text from images, describe images, analyze screenshots. Use when user asks to read text from image, describe what's in an image, or analyze a screenshot. Requires environment variable CRAZYROUTER_API_KEY (get at https://crazyrouter.com).",
+  "version": "1.1.0",
+  "author": {
+    "name": "xujfcn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xujfcn/crazyrouter-ocr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xujfcn/crazyrouter-ocr"
+}

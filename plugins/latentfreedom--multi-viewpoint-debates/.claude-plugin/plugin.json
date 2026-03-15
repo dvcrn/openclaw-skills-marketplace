@@ -1,0 +1,10 @@
+{
+  "name": "latentfreedom--multi-viewpoint-debates",
+  "description": "Spawn isolated sub-agents representing distinct worldviews (Elon, Capitalist, Monkey) to debate decisions from multiple angles. Expose blind spots by forcing genuine disagreement on important questions. Use when facing decisions where you need to challenge your assumptions, stress-test ideas, or see a problem through fundamentally different lenses. Automatically captures debate outputs to an archive for future reference and pattern analysis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "latentfreedom"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/latentfreedom/multi-viewpoint-debates",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/latentfreedom/multi-viewpoint-debates"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "aloth--overleaf-skill",
+  "description": "Sync and manage Overleaf LaTeX projects from the command line. Pull projects locally, push changes back, compile PDFs, and download compile outputs like .bbl files for arXiv submissions. Use when working with LaTeX, Overleaf, academic papers, or arXiv.",
+  "version": "1.1.0",
+  "author": {
+    "name": "aloth"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aloth/overleaf-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aloth/overleaf-skill"
+}

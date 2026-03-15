@@ -1,0 +1,10 @@
+{
+  "name": "rubenaquispe--sandwrap",
+  "description": "Run untrusted skills safely with soft-sandbox protection. Wraps skills in multi-layer prompt-based defense (~85% attack prevention). Use when: (1) Running third-party skills from unknown sources, (2) Processing untrusted content that might contain prompt injection, (3) Analyzing suspicious files or URLs safely, (4) Testing new skills before trusting them. Supports manual mode ('run X in sandwrap') and auto-wrap for risky skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rubenaquispe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rubenaquispe/sandwrap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rubenaquispe/sandwrap"
+}

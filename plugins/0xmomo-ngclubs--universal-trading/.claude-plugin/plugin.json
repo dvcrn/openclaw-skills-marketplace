@@ -1,0 +1,10 @@
+{
+  "name": "0xmomo-ngclubs--universal-trading",
+  "description": "Execute cross-chain token trading on EVM and Solana with Particle Network Universal Account SDK. Use when users ask to set up universal-account-example, buy or sell tokens, run convert/swap flows, transfer assets, call custom transactions, query balances/history, or monitor transaction status via WebSocket.",
+  "version": "0.1.0",
+  "author": {
+    "name": "0xmomo-ngclubs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xmomo-ngclubs/universal-trading",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xmomo-ngclubs/universal-trading"
+}

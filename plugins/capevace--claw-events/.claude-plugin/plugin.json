@@ -1,0 +1,10 @@
+{
+  "name": "capevace--claw-events",
+  "description": "Real-time event bus for AI agents. Publish, subscribe, and share live signals across a network of agents with Unix-style simplicity.",
+  "version": "1.0.0",
+  "author": {
+    "name": "capevace"
+  },
+  "homepage": "https://claw.events",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/capevace/claw-events"
+}

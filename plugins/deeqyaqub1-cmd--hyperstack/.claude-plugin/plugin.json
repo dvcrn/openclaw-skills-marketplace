@@ -1,0 +1,10 @@
+{
+  "name": "deeqyaqub1-cmd--hyperstack",
+  "description": "The Agent Provenance Graph for AI agents — the only memory layer where agents can prove what they knew, trace why they knew it, and coordinate without an LLM in the loop. Timestamped facts. Auditable decisions. Deterministic trust. Ask 'what blocks deploy?' → exact typed answer. Git-style branching. Three memory surfaces: working/semantic/episodic. Decision replay with hindsight bias detection. Conflict detection. Staleness cascade. Utility-weighted edges that self-improve from agent feedback. Agent identity + trust scoring. Time-travel to any past graph state. Works in Cursor, Claude Desktop, LangGraph, any MCP client. Self-hostable. $0 per operation at any scale.",
+  "version": "1.0.26",
+  "author": {
+    "name": "deeqyaqub1-cmd"
+  },
+  "homepage": "https://cascadeai.dev/hyperstack",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deeqyaqub1-cmd/hyperstack"
+}

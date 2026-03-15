@@ -1,0 +1,10 @@
+{
+  "name": "ivaavimusic--ccp",
+  "description": "Continuous session event recording for inter-session memory survival. Use when you want to persist conversation context between sessions, prevent memory loss on session crashes, or maintain a rolling archive of session history. The AI agent acts as a live compressor, intelligently appending only key context, decisions, and discoveries throughout conversations, and cleans up old files based on the user's selected retention duration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ivaavimusic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ivaavimusic/ccp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivaavimusic/ccp"
+}

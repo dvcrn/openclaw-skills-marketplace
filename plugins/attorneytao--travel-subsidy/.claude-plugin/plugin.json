@@ -1,0 +1,10 @@
+{
+  "name": "attorneytao--travel-subsidy",
+  "description": "When the user uploads 发票.zip and 火车票.zip, use the included data tables to calculate eligible business-trip subsidy records, split related vs remaining files, create output workbooks, package two result zips, and report progress at every key step.",
+  "version": "1.0.0",
+  "author": {
+    "name": "attorneytao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/attorneytao/travel-subsidy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/attorneytao/travel-subsidy"
+}

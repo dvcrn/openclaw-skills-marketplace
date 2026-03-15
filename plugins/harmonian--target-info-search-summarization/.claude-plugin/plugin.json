@@ -1,0 +1,10 @@
+{
+  "name": "harmonian--target-info-search-summarization",
+  "description": "高精度的目标信息搜索与总结工作流。用于在全球范围内检索各类隐蔽、专业或难以直接获取的信息。当用户需要执行以下任务时使用：(1) 跨境行业调研（如交易所费用、授权协议、金融费率）；(2) 海外政策与准入研究（如特定国家的行业标准、牌照申请、合规条款）；(3) 深度竞争对手情报挖掘（如供应商体系、未公开的商业报价、招标详情）；(4) 专业领域技术规范溯源（如行业标准协议、专业白皮书）。该技能通过跨语言迭代搜索、官方与生态系统交叉验证以及深度文件解析（filetype:pdf）确保信息的高置信度。",
+  "version": "1.0.0",
+  "author": {
+    "name": "harmonian"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harmonian/target-info-search-summarization",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harmonian/target-info-search-summarization"
+}

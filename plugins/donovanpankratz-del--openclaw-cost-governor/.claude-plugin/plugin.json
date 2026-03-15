@@ -1,0 +1,10 @@
+{
+  "name": "donovanpankratz-del--openclaw-cost-governor",
+  "description": "Pre-flight cost estimation for subagent spawns and approval gates. Prevents API overspend and surprise billing. Budget control for sessions_spawn calls. Daily spend tracking. Essential for multi-agent OpenClaw deployments.",
+  "version": "1.0.0",
+  "author": {
+    "name": "donovanpankratz-del"
+  },
+  "homepage": "https://clawhub.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/donovanpankratz-del/openclaw-cost-governor"
+}

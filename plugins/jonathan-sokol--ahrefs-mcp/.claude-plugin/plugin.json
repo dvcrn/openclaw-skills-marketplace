@@ -1,0 +1,10 @@
+{
+  "name": "jonathan-sokol--ahrefs-mcp",
+  "description": "Access Ahrefs SEO data through Model Context Protocol (MCP) for comprehensive SEO analysis, keyword research, backlink analysis, site audits, and competitive intelligence. Use when users mention: (1) SEO-related queries about websites, domains, or URLs, (2) Keyword research, rankings, or search volume data, (3) Backlink analysis or link profiles, (4) Domain metrics (DR, UR, traffic), (5) Competitor analysis or site comparison, (6) Rank tracking or SERP analysis, (7) Content gap analysis, (8) Site Explorer data requests. When uncertain if a query is SEO-related, ask if Ahrefs should be used.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jonathan-sokol"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jonathan-sokol/ahrefs-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jonathan-sokol/ahrefs-mcp"
+}

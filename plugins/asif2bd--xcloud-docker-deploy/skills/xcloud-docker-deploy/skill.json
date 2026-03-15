@@ -1,0 +1,97 @@
+{
+  "name": "xcloud-docker-deploy",
+  "displayName": "xCloud Docker Deploy",
+  "version": "1.2.0",
+  "description": "Deploy any project to xCloud hosting \u2014 auto-detects stack (WordPress, Laravel, PHP, Node.js, Next.js, NestJS, Python, Go, Rust), routes to native or Docker deployment, generates production-ready Dockerfile, docker-compose.yml, GitHub Actions CI/CD, and .env.example.",
+  "longDescription": "A full project-aware deployment assistant for xCloud hosting. Phase 0 auto-detects the project stack from file signals and routes to the optimal deployment path \u2014 either xCloud Native (WordPress, Laravel, PHP, Node.js) or Docker (Next.js, Python, Go, NestJS). Includes production-ready Dockerfile templates, pre-configured docker-compose stacks, GitHub Actions CI/CD workflows, and step-by-step xCloud UI guides. Works from zero \u2014 no existing Docker setup required.",
+  "author": {
+    "name": "M Asif Rahman",
+    "github": "Asif2BD",
+    "url": "https://github.com/Asif2BD"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/Asif2BD/xCloud-Docker-Deploy-Skill",
+  "repository": "https://github.com/Asif2BD/xCloud-Docker-Deploy-Skill",
+  "category": "DevOps & Deployment",
+  "tags": [
+    "docker",
+    "deployment",
+    "devops",
+    "xcloud",
+    "docker-compose",
+    "github-actions",
+    "wordpress",
+    "laravel",
+    "nextjs",
+    "nodejs",
+    "python",
+    "ci-cd",
+    "hosting",
+    "infrastructure",
+    "php",
+    "fastapi",
+    "nginx",
+    "ghcr",
+    "stack-detection",
+    "vibe-coding"
+  ],
+  "platforms": [
+    "claude-code",
+    "codex",
+    "openClaw",
+    "claude-ai",
+    "cursor",
+    "windsurf",
+    "any"
+  ],
+  "entrypoint": "SKILL.md",
+  "files": {
+    "main": "SKILL.md",
+    "detection": "DETECT.md",
+    "references": "references/",
+    "dockerfiles": "dockerfiles/",
+    "templates": "compose-templates/",
+    "examples": "examples/",
+    "assets": "assets/"
+  },
+  "capabilities": [
+    "stack-detection",
+    "dockerfile-generation",
+    "compose-generation",
+    "github-actions-generation",
+    "native-deploy-guide",
+    "env-generation"
+  ],
+  "stacks": [
+    "wordpress",
+    "laravel",
+    "php",
+    "nodejs",
+    "nextjs",
+    "nestjs",
+    "nuxt",
+    "python",
+    "go",
+    "rust",
+    "docker"
+  ],
+  "security": {
+    "verified": true,
+    "no_network_calls": true,
+    "no_executables": true,
+    "sandboxed": true,
+    "local_only": true
+  },
+  "install": {
+    "clawhub": "clawhub install xcloud-docker-deploy",
+    "claude_code": "cp -r xcloud-docker-deploy ~/.claude/skills/",
+    "codex": "cp -r xcloud-docker-deploy ~/.codex/skills/",
+    "manual": "git clone https://github.com/Asif2BD/xCloud-Docker-Deploy-Skill.git"
+  },
+  "links": {
+    "clawhub": "https://clawhub.ai/Asif2BD/xcloud-docker-deploy",
+    "github": "https://github.com/Asif2BD/xCloud-Docker-Deploy-Skill"
+  },
+  "publishedAt": "2026-03-01",
+  "updatedAt": "2026-03-03"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "greason--trongrid-contract-analysis",
+  "description": "Analyze TRON smart contracts including deployment info, ABI methods, transaction patterns, top callers, energy costs, and safety assessment. Use when a user asks about a smart contract, wants to verify contract safety, check what a contract does, identify top callers, or detect potential scams. Covers TRC-20/TRC-721 identification, open-source verification, and risk scoring.",
+  "version": "1.0.1",
+  "author": {
+    "name": "greason"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/greason/trongrid-contract-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/greason/trongrid-contract-analysis"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "aholake--fireant-stock",
+  "description": "Automated Vietnamese stock price and index checking on FireAnt.vn. Use when checking current stock prices, market indices, trading volumes, or financial information for Vietnamese stocks (HOSE, HNX, UPCOM) and market indices (VNINDEX, HNX30, VN30). Accepts stock symbols like DPM, VCB, FPT, or indices like VNINDEX. Returns formatted price/index data, market statistics, and key financial metrics.",
+  "version": "1.1.0",
+  "author": {
+    "name": "aholake"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aholake/fireant-stock",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aholake/fireant-stock"
+}

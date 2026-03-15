@@ -1,0 +1,10 @@
+{
+  "name": "odrobnik--sudoku",
+  "description": "Fetch Sudoku puzzles and store them as JSON in the workspace; render images on demand; reveal solutions later.",
+  "version": "2.4.2",
+  "author": {
+    "name": "odrobnik"
+  },
+  "homepage": "https://github.com/odrobnik/sudoku-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/sudoku"
+}

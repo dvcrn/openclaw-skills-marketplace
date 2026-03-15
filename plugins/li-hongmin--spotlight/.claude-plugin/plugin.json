@@ -1,0 +1,10 @@
+{
+  "name": "li-hongmin--spotlight",
+  "description": "Search files and content using macOS Spotlight indexing (mdfind). Use when the user asks to search local files, documents, or directories on macOS. Supports text content search inside PDFs, Word documents, text files, and more. Much faster than grep for large document collections. Only works on macOS systems with Spotlight enabled.",
+  "version": "2.0.0",
+  "author": {
+    "name": "li-hongmin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/li-hongmin/spotlight",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/li-hongmin/spotlight"
+}

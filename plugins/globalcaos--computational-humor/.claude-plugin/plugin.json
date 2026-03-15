@@ -1,0 +1,10 @@
+{
+  "name": "globalcaos--computational-humor",
+  "description": "12 humor patterns for AI agents based on embedding space bisociation theory. Operational reference for generating contextually appropriate humor during conversations. Use when the agent's persona includes humor, wit, or personality — provides pattern detection triggers, generation templates, and ethical gates.",
+  "version": "1.0.0",
+  "author": {
+    "name": "globalcaos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/computational-humor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/computational-humor"
+}

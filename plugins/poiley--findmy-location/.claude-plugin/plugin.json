@@ -1,0 +1,10 @@
+{
+  "name": "poiley--findmy-location",
+  "description": "Track a shared contact's location via Apple Find My with street-level accuracy. Returns address, city, and context (home/work/out) by reading map landmarks. Supports configurable known locations and vision fallback for unknown places.",
+  "version": "1.1.1",
+  "author": {
+    "name": "poiley"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/poiley/findmy-location",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/poiley/findmy-location"
+}

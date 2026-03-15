@@ -1,0 +1,10 @@
+{
+  "name": "archibald80000-ai--cli-agent-bridge",
+  "description": "Public ClawHub text release for a Windows companion skill that bridges local AI CLIs and controlled workspace file operations. This release documents the capability and setup path, but does not include the local PowerShell execution layer.",
+  "version": "0.2.1",
+  "author": {
+    "name": "archibald80000-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/archibald80000-ai/cli-agent-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/archibald80000-ai/cli-agent-bridge"
+}

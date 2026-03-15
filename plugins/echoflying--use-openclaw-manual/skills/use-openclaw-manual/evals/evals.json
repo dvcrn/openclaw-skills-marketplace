@@ -1,0 +1,54 @@
+{
+  "skill_name": "use-openclaw-manual",
+  "evals": [
+    {
+      "id": 1,
+      "eval_name": "discord-notification-config",
+      "prompt": "我想配置 Discord 通知，当有新的 cron 任务完成时发送消息到指定频道",
+      "expected_output": "应搜索 channels/discord.md 和 automation/notifications.md 或 automation/cron-jobs.md，提供完整的 Discord 通知配置步骤，包括 webhook URL、channel ID 等必要参数",
+      "files": []
+    },
+    {
+      "id": 2,
+      "eval_name": "daily-reminder-cron",
+      "prompt": "帮我设置一个每天早上 9 点的定时提醒，提醒我查看邮件",
+      "expected_output": "应搜索 automation/cron-jobs.md 或 cli/cron.md，使用 cron.add 命令，schedule.kind='every' 或 cron 表达式，payload 包含提醒内容",
+      "files": []
+    },
+    {
+      "id": 3,
+      "eval_name": "gateway-config-change",
+      "prompt": "我想修改 gateway 的配置，让它监听不同的端口，怎么改？",
+      "expected_output": "应搜索 gateway/ 目录下的配置文档，说明 gateway config 的结构，如何修改 port 字段，以及修改后需要重启 gateway",
+      "files": []
+    },
+    {
+      "id": 4,
+      "eval_name": "workspace-memory-setup",
+      "prompt": "workspace 里的 MEMORY.md 和 memory/ 目录是怎么用的？我需要配置什么吗？",
+      "expected_output": "应搜索 concepts/memory.md 或相关文档，解释 MEMORY.md 的用途、加载规则（仅主会话）、以及 memory/ 目录的日志用途",
+      "files": []
+    },
+    {
+      "id": 5,
+      "eval_name": "subagent-tool-restriction",
+      "prompt": "我想限制 subagent 不能使用 browser 和 cron 工具，怎么配置？",
+      "expected_output": "应搜索 tools/subagents.md，说明 tool restrictions 配置方法，使用 deny 列表限制特定工具",
+      "files": []
+    },
+    {
+      "id": 6,
+      "eval_name": "telegram-channel-setup",
+      "prompt": "怎么在 Telegram 上接收消息？需要配置 bot 吗？",
+      "expected_output": "应搜索 channels/telegram.md，说明通过 BotFather 创建 bot、获取 token、配置 channel 的步骤",
+      "files": []
+    },
+    {
+      "id": 7,
+      "eval_name": "doc-sync-check",
+      "prompt": "文档多久同步一次？怎么检查有没有更新？",
+      "expected_output": "应说明文档同步机制，使用 --check 参数检查更新，--sync 增量同步，可配置 cron 定期同步",
+      "files": []
+    }
+  ]
+}

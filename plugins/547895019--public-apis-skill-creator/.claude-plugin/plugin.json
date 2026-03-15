@@ -1,0 +1,10 @@
+{
+  "name": "547895019--public-apis-skill-creator",
+  "description": "公共API/免费API SKILL生成器：从 public-apis/public-apis 自动检索免费 API，按功能推荐并给出最小可用调用示例（curl/Python/JS），并可自动生成自定义名称的 API skill。用户提到“公共API”“免费API”“public APIs”“找接口/找API”“生成API skill”时触发。",
+  "version": "1.0.0",
+  "author": {
+    "name": "547895019"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/547895019/public-apis-skill-creator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/547895019/public-apis-skill-creator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "barronlroth--splitwise-cli",
+  "description": "Manage shared expenses via the Splitwise CLI. Use when asked to log, split, or track expenses with other people, check balances, see who owes whom, settle debts, or list recent charges. Triggers on mentions of Splitwise, shared expenses, splitting costs, \"log this expense,\" \"who owes what,\" roommate/partner bills, or any expense-tracking request. Also use when proactively logging bills discovered during email scans or subscription analysis. Even casual mentions like \"split this with Nina\" or \"add the internet bill\" should trigger this skill.",
+  "version": "1.0.0",
+  "author": {
+    "name": "barronlroth"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/barronlroth/splitwise-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/barronlroth/splitwise-cli"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sirutong--cp2k-input-generator",
+  "description": "This skill should be used when generating CP2K input files (.inp) for quantum chemistry calculations. Use when users request CP2K input file creation from structural files (cif, pdb, xyz, etc.) or CP2K output files, with specifications for calculation types (energy calculation, geometry optimization, molecular dynamics, frequency analysis, NEB, etc.), computational methods (DFT, QMMM, MM), and other parameters.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sirutong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sirutong/cp2k-input-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sirutong/cp2k-input-generator"
+}

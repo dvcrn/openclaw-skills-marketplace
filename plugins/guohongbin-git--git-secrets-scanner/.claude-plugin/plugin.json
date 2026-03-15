@@ -1,0 +1,10 @@
+{
+  "name": "guohongbin-git--git-secrets-scanner",
+  "description": "Git 安全扫描器 - 检查提交中的敏感信息泄露（API keys、密码、token）",
+  "version": "1.0.0",
+  "author": {
+    "name": "guohongbin-git"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guohongbin-git/git-secrets-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guohongbin-git/git-secrets-scanner"
+}

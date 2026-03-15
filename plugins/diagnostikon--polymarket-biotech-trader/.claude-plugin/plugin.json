@@ -1,0 +1,10 @@
+{
+  "name": "diagnostikon--polymarket-biotech-trader",
+  "description": "Trades Polymarket prediction markets on FDA drug approvals, biotech IPOs, clinical trial outcomes, pharma M&A, and precision medicine milestones. Use when you want to capture alpha on high-impact binary biotech events using PDUFA dates, clinical trial registries, and FDA calendar signals.",
+  "version": "1.0.0",
+  "author": {
+    "name": "diagnostikon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/diagnostikon/polymarket-biotech-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/diagnostikon/polymarket-biotech-trader"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "47vigen--developer-agent",
+  "description": "Orchestrates software development by coordinating with Cursor Agent, managing git workflows, and ensuring quality delivery. Use when implementing development requirements, feature requests, bug fixes, or refactoring tasks that involve git operations, build verification, and deployment pipelines.",
+  "version": "1.0.0",
+  "author": {
+    "name": "47vigen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/47vigen/developer-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/47vigen/developer-agent"
+}

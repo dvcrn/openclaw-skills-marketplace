@@ -1,0 +1,10 @@
+{
+  "name": "heldinhow--freeride-opencode",
+  "description": "Configure and optimize OpenCode Zen free models with smart fallbacks for subtasks, heartbeat, and cron jobs. Use when setting up cost-effective AI model routing with automatic failover between free models.",
+  "version": "1.2.0",
+  "author": {
+    "name": "heldinhow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/heldinhow/freeride-opencode",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/heldinhow/freeride-opencode"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kiranchavala--cloudmonkey",
+  "description": "Manage Apache CloudStack infrastructure using the cloudmonkey (cmk) CLI — list/start/stop/destroy VMs, manage networks, volumes, snapshots, and run any CloudStack API command.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kiranchavala"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kiranchavala/cloudmonkey",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kiranchavala/cloudmonkey"
+}

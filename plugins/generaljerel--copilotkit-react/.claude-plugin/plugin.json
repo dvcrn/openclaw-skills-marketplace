@@ -1,0 +1,10 @@
+{
+  "name": "generaljerel--copilotkit-react",
+  "description": "CopilotKit React best practices for agentic applications. Use when writing, reviewing, or refactoring React code that uses CopilotKit hooks (useAgent, useFrontendTool, useRenderTool, useCopilotAction, useCopilotReadable), providers (CopilotKit), or chat UI components (CopilotChat, CopilotSidebar, CopilotPopup). Triggers on tasks involving agent integration, tool rendering, shared state, or generative UI in React.",
+  "version": "1.0.1",
+  "author": {
+    "name": "generaljerel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/generaljerel/copilotkit-react",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/generaljerel/copilotkit-react"
+}

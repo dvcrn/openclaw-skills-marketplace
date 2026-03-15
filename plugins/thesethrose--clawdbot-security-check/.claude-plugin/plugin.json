@@ -1,0 +1,10 @@
+{
+  "name": "thesethrose--clawdbot-security-check",
+  "description": "Perform a comprehensive read-only security audit of Clawdbot's own configuration. This is a knowledge-based skill that teaches Clawdbot to identify hardening opportunities across the system. Use when user asks to \"run security check\", \"audit clawdbot\", \"check security hardening\", or \"what vulnerabilities does my Clawdbot have\". This skill uses Clawdbot's internal capabilities and file system access to inspect configuration, detect misconfigurations, and recommend remediations. It is designed to be extensible - new checks can be added by updating this skill's knowledge.",
+  "version": "2.2.2",
+  "author": {
+    "name": "thesethrose"
+  },
+  "homepage": "https://github.com/TheSethRose/Clawdbot-Security-Check",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thesethrose/clawdbot-security-check"
+}

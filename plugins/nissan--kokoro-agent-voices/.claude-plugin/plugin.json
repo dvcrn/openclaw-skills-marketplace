@@ -1,0 +1,10 @@
+{
+  "name": "nissan--kokoro-agent-voices",
+  "description": "Local zero-cost text-to-speech with per-agent voice profiles using Kokoro TTS (82M params). 54 voices available, named agent mappings, WAV output. Use when building voice-enabled agents without API costs. Requires espeak-ng and a Python environment with kokoro dependencies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/kokoro-agent-voices",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/kokoro-agent-voices"
+}

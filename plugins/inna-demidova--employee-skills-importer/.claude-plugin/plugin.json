@@ -1,0 +1,10 @@
+{
+  "name": "inna-demidova--employee-skills-importer",
+  "description": "Parse employee skills CSV files, identify skill categories and individual skills, look up employee IDs from an employees table, and generate idempotent SQL INSERT statements for skill_categories, skills, and employee_skills tables.",
+  "version": "1.0.0",
+  "author": {
+    "name": "inna-demidova"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/inna-demidova/employee-skills-importer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/inna-demidova/employee-skills-importer"
+}

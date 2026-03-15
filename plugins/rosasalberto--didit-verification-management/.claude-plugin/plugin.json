@@ -1,0 +1,10 @@
+{
+  "name": "rosasalberto--didit-verification-management",
+  "description": "Full Didit identity verification platform management — account creation, API keys, sessions, workflows, questionnaires, users, billing, blocklist, and webhooks. Use when someone needs to create a Didit account, get API keys, set up verification workflows, create or retrieve verification sessions, approve or decline sessions, manage users, check credit balance, top up credits, configure blocklists, configure webhooks programmatically, handle webhook signatures, or perform any platform administration. 45+ endpoints across 9 categories.",
+  "version": "4.1.0",
+  "author": {
+    "name": "rosasalberto"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-verification-management",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-verification-management"
+}

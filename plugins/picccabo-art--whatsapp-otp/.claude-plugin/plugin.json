@@ -1,0 +1,10 @@
+{
+  "name": "picccabo-art--whatsapp-otp",
+  "description": "Send WhatsApp OTP (one-time password) messages via CMI OmniChannel RCS API. Use when user asks to send verification code, OTP, or authentication code via WhatsApp. This skill requires authentication credentials and uses a pre-configured template.",
+  "version": "1.0.2",
+  "author": {
+    "name": "picccabo-art"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/picccabo-art/whatsapp-otp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/picccabo-art/whatsapp-otp"
+}

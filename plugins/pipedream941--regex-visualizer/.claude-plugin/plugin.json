@@ -1,0 +1,10 @@
+{
+  "name": "pipedream941--regex-visualizer",
+  "description": "Render Regulex-style railroad diagrams for a JavaScript regular expression and export the exact same SVG/PNG as the Regulex-Plus web UI (docs/index.html) \"Export Image\" feature. Use when the user provides a regex and wants an image for documentation, sharing, debugging, or embedding; output should match the web UI rendering rather than a re-implemented diagram. Supports flags i/m/g.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pipedream941"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pipedream941/regex-visualizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pipedream941/regex-visualizer"
+}

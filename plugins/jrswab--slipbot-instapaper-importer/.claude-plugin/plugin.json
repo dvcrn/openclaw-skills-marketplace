@@ -1,0 +1,10 @@
+{
+  "name": "jrswab--slipbot-instapaper-importer",
+  "description": "Import reading notes from Instapaper exports into the slipbox. Use when user pastes an Instapaper highlight export with article title and notes. Parses title/URL from header, extracts user's own notes (plain text lines), skips original highlights (> lines), then runs slipbot for each.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jrswab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jrswab/slipbot-instapaper-importer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jrswab/slipbot-instapaper-importer"
+}

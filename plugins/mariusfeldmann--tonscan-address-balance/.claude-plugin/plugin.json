@@ -1,0 +1,10 @@
+{
+  "name": "mariusfeldmann--tonscan-address-balance",
+  "description": "Look up TON blockchain wallet balances, address information, and token holdings using the free TonScan API — no API key required. Use this skill whenever the user wants to check a TON wallet address balance, look up on-chain data for a TON address, convert nanoton values, or fetch TON account details. Trigger even for casual requests like \"how much TON is in this wallet?\" or \"check this address for me\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "mariusfeldmann"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mariusfeldmann/tonscan-address-balance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mariusfeldmann/tonscan-address-balance"
+}

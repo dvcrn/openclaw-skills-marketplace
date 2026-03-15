@@ -1,0 +1,10 @@
+{
+  "name": "lewisbase--feyman-coach",
+  "description": "基于费曼学习法的个人知识教练，通过\"以教代学\"的方式帮助用户深度理解和巩固知识。\n 支持主动知识回顾、薄弱点诊断、个性化学习建议，并可通过配置实现每日自动触发知识回顾。\n 触发命令：/feynman（直接调用费曼学习功能）",
+  "version": "1.0.0",
+  "author": {
+    "name": "lewisbase"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lewisbase/feyman-coach",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lewisbase/feyman-coach"
+}

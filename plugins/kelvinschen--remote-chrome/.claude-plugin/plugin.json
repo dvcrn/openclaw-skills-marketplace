@@ -1,0 +1,10 @@
+{
+  "name": "kelvinschen--remote-chrome",
+  "description": "Launch, stop, restart, or check the status of a remote Chrome browser service using Xvfb, x11vnc, and noVNC. Use this whenever the user wants to start a headless Chrome browser accessible via web browser or VNC client, needs to stop the remote browser service, wants to restart the service, or asks for the current status/access URL of the remote browser. This is for running a full Chrome browser remotely with GUI access through a web interface.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kelvinschen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kelvinschen/remote-chrome",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kelvinschen/remote-chrome"
+}

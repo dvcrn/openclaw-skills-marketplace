@@ -1,0 +1,10 @@
+{
+  "name": "psyduckler--email-finder",
+  "description": "Find email addresses for a domain by combining website scraping, search dorking,\n pattern guessing, DNS analysis, and SMTP verification. Use when prospecting leads,\n finding contact emails for outreach, or building contact lists from a company domain.\n Optionally provide a person's name to generate and verify common email patterns.",
+  "version": "1.0.1",
+  "author": {
+    "name": "psyduckler"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/psyduckler/email-finder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/psyduckler/email-finder"
+}

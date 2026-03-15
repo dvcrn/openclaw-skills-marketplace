@@ -1,0 +1,10 @@
+{
+  "name": "dasweltall--openclaw-cost-guard",
+  "description": "Track OpenClaw/Clawdbot token and cost usage from session JSONL logs (prefer real usage.cost when present), generate daily/weekly summaries and top expensive sessions, and run budget checks (exit code on breach). Use to monitor spend, enforce budgets via cron/alerts, and apply a token-saving playbook to reduce output/tool-call cost.",
+  "version": "0.1.0",
+  "author": {
+    "name": "dasweltall"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dasweltall/openclaw-cost-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dasweltall/openclaw-cost-guard"
+}

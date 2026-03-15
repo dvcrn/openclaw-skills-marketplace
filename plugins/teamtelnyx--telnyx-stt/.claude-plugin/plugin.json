@@ -1,0 +1,10 @@
+{
+  "name": "teamtelnyx--telnyx-stt",
+  "description": "Transcribe audio files to text using Telnyx Speech-to-Text API. Use when you need to convert audio recordings, voice messages, or spoken content to text.",
+  "version": "1.0.1",
+  "author": {
+    "name": "teamtelnyx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/teamtelnyx/telnyx-stt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/teamtelnyx/telnyx-stt"
+}

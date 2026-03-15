@@ -1,0 +1,10 @@
+{
+  "name": "brs999--dexscreener",
+  "description": "Query DexScreener market data - search pairs, inspect liquidity/volume, check boosted tokens, and fetch token orders.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brs999"
+  },
+  "homepage": "https://dexscreener.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brs999/dexscreener"
+}

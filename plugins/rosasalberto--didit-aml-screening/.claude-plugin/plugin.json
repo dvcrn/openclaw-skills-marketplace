@@ -1,0 +1,10 @@
+{
+  "name": "rosasalberto--didit-aml-screening",
+  "description": "Integrate Didit AML Screening standalone API to screen individuals or companies against global watchlists. Use when the user wants to perform AML checks, screen against sanctions lists, check PEP status, detect adverse media, implement KYC/AML compliance, screen against OFAC/UN/EU watchlists, calculate risk scores, or perform anti-money laundering screening using Didit. Supports 1300+ databases, fuzzy name matching, configurable scoring weights, and continuous monitoring.",
+  "version": "1.1.0",
+  "author": {
+    "name": "rosasalberto"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-aml-screening",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-aml-screening"
+}

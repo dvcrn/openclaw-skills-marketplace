@@ -1,0 +1,10 @@
+{
+  "name": "shellishack--pulse-editor",
+  "description": "Generate and build Pulse Apps using the Vibe Dev Flow API. Use this skill when the user wants to create, update, or generate code for Pulse Editor applications.",
+  "version": "1.0.3",
+  "author": {
+    "name": "shellishack"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shellishack/pulse-editor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shellishack/pulse-editor"
+}

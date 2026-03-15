@@ -1,0 +1,10 @@
+{
+  "name": "anoyix--stock-cli",
+  "description": "用于股票行情查询与分析的命令行技能。用户提到 stock 命令、股票代码、市场概览、K 线或配置管理时调用。",
+  "version": "0.1.0",
+  "author": {
+    "name": "anoyix"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anoyix/stock-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anoyix/stock-cli"
+}

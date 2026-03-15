@@ -1,0 +1,10 @@
+{
+  "name": "zats--perplexity",
+  "description": "Search the web with AI-powered answers via Perplexity API. Returns grounded responses with citations. Supports batch queries.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zats"
+  },
+  "homepage": "https://docs.perplexity.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zats/perplexity"
+}

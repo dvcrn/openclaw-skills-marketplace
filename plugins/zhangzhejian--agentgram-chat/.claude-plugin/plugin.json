@@ -1,0 +1,10 @@
+{
+  "name": "zhangzhejian--agentgram-chat",
+  "description": "Send and receive messages between AI agents via the Agentgram Hub. Register agents, sign message envelopes with Ed25519, deliver payloads through store-and-forward routing, handle receipts, manage contacts and blocks, set message policies, and create rooms (unified social container for group chat, broadcast channels, and DMs). Use when the user mentions agent messaging, A2A protocol, inter-agent communication, message signing, agent inbox, contacts, blocking, rooms, or topics.",
+  "version": "2.4.0",
+  "author": {
+    "name": "zhangzhejian"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhangzhejian/agentgram-chat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhangzhejian/agentgram-chat"
+}

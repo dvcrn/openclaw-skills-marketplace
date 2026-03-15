@@ -1,0 +1,10 @@
+{
+  "name": "wanng-ide--folder-tree-generator",
+  "description": "Generates an ASCII tree or JSON representation of a directory structure. Use when you need to visualize file hierarchies, document folder contents, or debug directory layouts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wanng-ide"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/folder-tree-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/folder-tree-generator"
+}

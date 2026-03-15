@@ -1,0 +1,10 @@
+{
+  "name": "rosemaxio--image-highlight-cropper",
+  "description": "Use this skill whenever a user uploads a large image and wants to see interesting details, highlights, or close-ups cropped out of it. Trigger when users say things like \"zeig mir die Details\", \"crop die highlights\", \"was sind die interessanten Stellen\", \"schneide Details aus\", \"highlight the details\", \"show me close-ups\", or any variation of wanting to extract notable sections from an image. Especially useful for paintings, artworks, technical drawings, and detailed photographs. Always use this skill when the user uploads an image and asks about details, interesting areas, or wants crops/cutouts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rosemaxio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rosemaxio/image-highlight-cropper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rosemaxio/image-highlight-cropper"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "samgod1995--auto-md2img",
+  "description": "Automatically converts markdown content into images for sending. When it's necessary to return markdown content to the user, md2img is automatically invoked to generate images instead of sending plain text markdown, thus avoiding layout clutter. Trigger scenario: All reply scenarios that require outputting markdown-formatted content.",
+  "version": "1.0.1",
+  "author": {
+    "name": "samgod1995"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/samgod1995/auto-md2img",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/samgod1995/auto-md2img"
+}

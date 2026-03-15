@@ -1,0 +1,10 @@
+{
+  "name": "pauldelavallaz--multishot-ugc",
+  "description": "Generate 10 perspective/angle variations from a single image for multi-shot UGC videos.\n \n ✅ USE WHEN:\n - Have a hero image and need camera angle variations\n - Creating multi-scene UGC videos (need different shots)\n - Want close-ups, wide shots, side angles from one source\n - Building a video with scene changes\n \n ❌ DON'T USE WHEN:\n - Don't have a hero image yet → use morpheus-fashion-design first\n - Need completely different scenes/locations → use Morpheus multiple times\n - Just need one image → skip this step\n - Want to edit images manually → use nano-banana-pro\n \n INPUT: Single image (person with product)\n OUTPUT: 10 PNG variations with different perspectives\n \n TYPICAL PIPELINE: Morpheus → multishot-ugc → select best 4 → veed-ugc each → Remotion edit",
+  "version": "1.0.1",
+  "author": {
+    "name": "pauldelavallaz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/multishot-ugc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/multishot-ugc"
+}

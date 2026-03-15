@@ -1,0 +1,10 @@
+{
+  "name": "sinhong2011--usememos",
+  "description": "Create, read, update, and delete memos on a Memos instance (usememos/memos). Handles requests like \"save this as a memo\", \"list my recent memos\", \"update memo #123\", or \"delete memo #456\". Uses openclaw-memos-mcp for all operations.",
+  "version": "0.1.9",
+  "author": {
+    "name": "sinhong2011"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sinhong2011/usememos",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sinhong2011/usememos"
+}

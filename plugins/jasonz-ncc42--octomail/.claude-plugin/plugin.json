@@ -1,0 +1,10 @@
+{
+  "name": "jasonz-ncc42--octomail",
+  "description": "Agent email via JSON API. Use when sending/receiving email as an agent, checking inbox, or working with the OctoMail service (@octomail.ai addresses).",
+  "version": "0.1.5",
+  "author": {
+    "name": "jasonz-ncc42"
+  },
+  "homepage": "https://octomail.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jasonz-ncc42/octomail"
+}

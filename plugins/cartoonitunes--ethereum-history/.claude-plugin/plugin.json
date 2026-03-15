@@ -1,0 +1,10 @@
+{
+  "name": "cartoonitunes--ethereum-history",
+  "description": "Read-only factual data about historical Ethereum mainnet contracts. Use when the user asks about a specific contract address, early Ethereum contracts, deployment era, deployer, bytecode, decompiled code, or documented history (what a contract is and is not). Data is non-opinionated and includes runtime bytecode, decompiled code, and editorial history when available. Base URL https://ethereumhistory.com (or set BASE_URL for local/staging).",
+  "version": "1.0.0",
+  "author": {
+    "name": "cartoonitunes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cartoonitunes/ethereum-history",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cartoonitunes/ethereum-history"
+}

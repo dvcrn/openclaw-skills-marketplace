@@ -1,0 +1,10 @@
+{
+  "name": "arberx--aeo-schema-validate",
+  "description": "Validate JSON-LD structured data on a URL against AEO best practices. Checks schema types, property completeness, and entity consistency. Use for focused schema auditing.",
+  "version": "1.0.1",
+  "author": {
+    "name": "arberx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arberx/aeo-schema-validate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arberx/aeo-schema-validate"
+}

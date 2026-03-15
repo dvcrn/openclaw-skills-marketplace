@@ -1,0 +1,10 @@
+{
+  "name": "prtolem--yandex-music",
+  "description": "Inspect Yandex Music via the MarshalX yandex-music library. Use when the user wants Yandex Music search, current track lookup, liked tracks, playlists, or a reusable helper for Yandex Music tokens.",
+  "version": "1.0.0",
+  "author": {
+    "name": "prtolem"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/prtolem/yandex-music",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/prtolem/yandex-music"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "krisliu16--news-fact-check",
+  "description": "新闻事实核查与真伪辨别助手。当用户需要验证新闻真实性、查证消息来源、核实事件真伪时使用。包括：(1) 给定新闻内容进行真伪判断 (2) 提供的事实核查方法和步骤 (3) 帮助用户建立批判性思维习惯",
+  "version": "1.0.1",
+  "author": {
+    "name": "krisliu16"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/krisliu16/news-fact-check",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/krisliu16/news-fact-check"
+}

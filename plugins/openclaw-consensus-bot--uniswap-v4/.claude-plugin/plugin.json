@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-consensus-bot--uniswap-v4",
+  "description": "Swap tokens and read pool state on Uniswap V4 (Base, Ethereum). Use when the agent needs to: (1) swap ERC20 tokens or ETH via Uniswap V4, (2) get pool info (price, tick, liquidity, fees), (3) find the best pool for a token pair, (4) quote expected swap output via the on-chain V4Quoter, (5) set up Permit2 approvals for the Universal Router, or (6) execute exact-input swaps with proper slippage protection. Supports Base and Ethereum mainnet, plus Base Sepolia testnet. TypeScript with strict types. Write operations need a private key via env var.",
+  "version": "2.0.4",
+  "author": {
+    "name": "openclaw-consensus-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openclaw-consensus-bot/uniswap-v4",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openclaw-consensus-bot/uniswap-v4"
+}

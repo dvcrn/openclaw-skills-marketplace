@@ -1,0 +1,10 @@
+{
+  "name": "chattyclaw--solana-basics",
+  "description": "Interact with Solana blockchain via Helius APIs. Create/manage wallets, check balances (SOL + tokens), send transactions, swap tokens via Jupiter, and monitor addresses. Use for any Solana blockchain operation, crypto wallet management, token transfers, DeFi swaps, or portfolio tracking.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chattyclaw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chattyclaw/solana-basics",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chattyclaw/solana-basics"
+}

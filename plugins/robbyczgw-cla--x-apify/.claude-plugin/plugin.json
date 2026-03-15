@@ -1,0 +1,10 @@
+{
+  "name": "robbyczgw-cla--x-apify",
+  "description": "Fetch X/Twitter data via Apify actors. Search tweets, get user profiles, retrieve specific tweets with replies. Features local caching to save API costs. Works from any IP via Apify's proxy infrastructure.",
+  "version": "1.0.8",
+  "author": {
+    "name": "robbyczgw-cla"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/x-apify",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/x-apify"
+}

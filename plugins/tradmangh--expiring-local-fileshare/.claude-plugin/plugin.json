@@ -1,0 +1,10 @@
+{
+  "name": "tradmangh--expiring-local-fileshare",
+  "description": "Lets OpenClaw safely share single files from its local workspace via expiring, tokenized HTTP links (local-network/VPN only). Hours are configurable (default 1h). Optional one-time access. **Token cost:** ~200-500 tokens per use (skill body ~1k tokens, minimal execution overhead).",
+  "version": "1.0.2",
+  "author": {
+    "name": "tradmangh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tradmangh/expiring-local-fileshare",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tradmangh/expiring-local-fileshare"
+}

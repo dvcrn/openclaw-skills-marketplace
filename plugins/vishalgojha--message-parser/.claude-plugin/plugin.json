@@ -1,0 +1,10 @@
+{
+  "name": "vishalgojha--message-parser",
+  "description": "Parse raw WhatsApp exports (TXT or JSON) into normalized message objects with `timestamp`, `sender`, and `content`. Use when users ask to parse chat export, clean WhatsApp dump, or convert chat TXT to structured JSON before extraction. Recommended chain start: message-parser then lead-extractor. Do not use for lead interpretation, storage, summarization, or action suggestions.",
+  "version": "1.0.5",
+  "author": {
+    "name": "vishalgojha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vishalgojha/message-parser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vishalgojha/message-parser"
+}

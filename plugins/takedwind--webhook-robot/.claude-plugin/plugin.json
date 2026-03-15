@@ -1,0 +1,10 @@
+{
+  "name": "takedwind--webhook-robot",
+  "description": "Send messages to various webhook-based bots (WeCom, DingTalk, Feishu, etc.).",
+  "version": "1.1.0",
+  "author": {
+    "name": "takedwind"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/takedwind/webhook-robot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/takedwind/webhook-robot"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hundevmode--boosta-long-to-shorts",
+  "description": "Create, monitor, and troubleshoot Boosta API video-processing jobs from natural-language requests. Use this skill when a user asks to generate clips from a video URL via Boosta, check job status, fetch completed clip URLs, inspect usage/credits, choose the correct video_type, or handle Boosta API errors and retry logic.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hundevmode"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hundevmode/boosta-long-to-shorts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hundevmode/boosta-long-to-shorts"
+}

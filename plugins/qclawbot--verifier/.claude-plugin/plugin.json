@@ -1,0 +1,10 @@
+{
+  "name": "qclawbot--verifier",
+  "description": "Trust and evidence verification engine for claims, sources, screenshots, profiles, offers, and suspicious messages. Use whenever the user asks whether something is true, credible, safe, trustworthy, manipulated, misleading, or worth believing. Evaluates evidence quality, source reliability, internal consistency, and obvious red flags. Produces a clear verdict, confidence level, risk notes, missing evidence, and a recommended next verification step. Local-only storage.",
+  "version": "1.0.0",
+  "author": {
+    "name": "qclawbot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qclawbot/verifier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qclawbot/verifier"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "marvae--weibo-cli",
+  "description": "Query Weibo (微博) public data via CLI. Use when user asks about:\n - Weibo hot searches / trending topics (微博热搜)\n - Searching Weibo posts, users, or topics\n - Getting user profiles, feeds, followers\n - Reading post details or comments\n No authentication required - uses public mobile web API.\n Chinese social media platform.",
+  "version": "0.1.1",
+  "author": {
+    "name": "marvae"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/marvae/weibo-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marvae/weibo-cli"
+}

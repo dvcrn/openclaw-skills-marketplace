@@ -1,0 +1,10 @@
+{
+  "name": "septianw--grocy-inventory",
+  "description": "Manage Grocy inventory, shopping list, batteries, and barcodes. Use when user wants to: (1) Check what's in their fridge/pantry, (2) See expiring products, (3) Manage stock by barcode, (4) Add/Consume/Transfer products, (5) Track rechargeable batteries. Grocy is a self-hosted inventory management app running at http://localhost:14611",
+  "version": "1.0.0",
+  "author": {
+    "name": "septianw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/septianw/grocy-inventory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/septianw/grocy-inventory"
+}

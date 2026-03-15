@@ -1,0 +1,10 @@
+{
+  "name": "tristanmanchester--reddit-read-only",
+  "description": "Browse and search Reddit in read-only mode using public JSON endpoints. Use when the user asks to browse subreddits, search for posts by topic, inspect comment threads, or build a shortlist of links to review and reply to manually.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tristanmanchester"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/reddit-read-only",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/reddit-read-only"
+}

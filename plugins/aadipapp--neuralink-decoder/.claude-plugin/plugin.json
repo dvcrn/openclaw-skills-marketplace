@@ -1,0 +1,10 @@
+{
+  "name": "aadipapp--neuralink-decoder",
+  "description": "Simulates and decodes neural spike activity into cursor movement (BCI).",
+  "version": "1.0.0",
+  "author": {
+    "name": "aadipapp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aadipapp/neuralink-decoder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aadipapp/neuralink-decoder"
+}

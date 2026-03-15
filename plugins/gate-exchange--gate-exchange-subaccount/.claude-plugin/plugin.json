@@ -1,0 +1,10 @@
+{
+  "name": "gate-exchange--gate-exchange-subaccount",
+  "description": "Manage sub-accounts on Gate Exchange including querying status, listing, creating, locking, and unlocking sub-accounts. Use this skill whenever the user asks about sub-account management, sub-account status, creating sub-accounts, locking or unlocking sub-accounts. Trigger phrases include \"sub-account\", \"subaccount\", \"sub account status\", \"create sub-account\", \"lock sub-account\", \"unlock sub-account\", \"list sub-accounts\", \"my sub-accounts\", or any request involving sub-account queries or management operations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gate-exchange"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-exchange-subaccount",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-exchange-subaccount"
+}

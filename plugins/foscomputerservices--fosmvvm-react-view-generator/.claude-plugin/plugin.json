@@ -1,0 +1,10 @@
+{
+  "name": "foscomputerservices--fosmvvm-react-view-generator",
+  "description": "Generate React components that render FOSMVVM ViewModels. Scaffolds ViewModelView pattern with hooks, loading states, and TypeScript types.",
+  "version": "2.0.6",
+  "author": {
+    "name": "foscomputerservices"
+  },
+  "homepage": "https://github.com/foscomputerservices/FOSUtilities",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/foscomputerservices/fosmvvm-react-view-generator"
+}

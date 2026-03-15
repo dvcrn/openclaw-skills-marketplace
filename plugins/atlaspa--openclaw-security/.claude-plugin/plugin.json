@@ -1,0 +1,10 @@
+{
+  "name": "atlaspa--openclaw-security",
+  "description": "Unified security suite for agent workspaces. Installs, configures, and orchestrates all 11 OpenClaw security tools in one command — integrity, secrets, permissions, network, audit trail, signing, supply chain, credentials, injection defense, compliance, and incident response.",
+  "version": "1.0.1",
+  "author": {
+    "name": "atlaspa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/atlaspa/openclaw-security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/atlaspa/openclaw-security"
+}

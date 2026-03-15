@@ -1,0 +1,10 @@
+{
+  "name": "tcgsync-git--automated-ai-email-setup",
+  "description": "Receive-only email addresses for AI agents via aiemailservice.com. Use when an agent needs to sign up for a service, receive verification codes/OTPs, get password reset links, or read incoming emails. Provides free mailbox creation, message reading, long-polling for new mail, and automatic OTP extraction. No sending capability — receive-only by design.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tcgsync-git"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tcgsync-git/automated-ai-email-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tcgsync-git/automated-ai-email-setup"
+}

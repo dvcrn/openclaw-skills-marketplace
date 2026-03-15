@@ -1,0 +1,10 @@
+{
+  "name": "bvinci1-design--skill-scanner",
+  "description": "Scan Clawdbot and MCP skills for malware, spyware, crypto-miners, and malicious code patterns before you install them. Security audit tool that detects data exfiltration, system modification attempts, backdoors, and obfuscation techniques.",
+  "version": "0.1.2",
+  "author": {
+    "name": "bvinci1-design"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bvinci1-design/skill-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bvinci1-design/skill-scanner"
+}

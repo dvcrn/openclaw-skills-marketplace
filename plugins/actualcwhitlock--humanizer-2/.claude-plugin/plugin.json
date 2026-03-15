@@ -1,0 +1,10 @@
+{
+  "name": "actualcwhitlock--humanizer-2",
+  "description": "Humanize AI-generated text by detecting and removing patterns typical of LLM output. Rewrites text to sound natural, specific, and human. Uses 28 pattern detectors, 560+ AI vocabulary terms across 3 tiers, and statistical analysis (burstiness, type-token ratio, readability) for comprehensive detection. Use when asked to humanize text, de-AI writing, make content sound more natural/human, review writing for AI patterns, score text for AI detection, or improve AI-generated drafts. Covers content, language, style, communication, and filler categories.",
+  "version": "0.1.0",
+  "author": {
+    "name": "actualcwhitlock"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/actualcwhitlock/humanizer-2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/actualcwhitlock/humanizer-2"
+}

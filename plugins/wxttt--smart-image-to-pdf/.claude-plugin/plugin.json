@@ -1,0 +1,10 @@
+{
+  "name": "wxttt--smart-image-to-pdf",
+  "description": "Combine multiple image screenshots into a paginated A4 PDF. Intelligently handles page breaks to avoid cutting through text. Use when the user wants to combine, merge, or stitch images/screenshots into a PDF, especially exam papers or documents.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wxttt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wxttt/smart-image-to-pdf",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wxttt/smart-image-to-pdf"
+}

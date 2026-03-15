@@ -1,0 +1,10 @@
+{
+  "name": "theshadowrose--env-guard",
+  "description": "Scan repos and workspaces for leaked secrets. API keys in code, passwords in configs, tokens in logs. Catches them before they hit git.",
+  "version": "1.0.2",
+  "author": {
+    "name": "theshadowrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/env-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/env-guard"
+}

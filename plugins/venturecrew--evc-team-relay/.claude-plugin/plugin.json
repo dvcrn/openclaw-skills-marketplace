@@ -1,0 +1,10 @@
+{
+  "name": "venturecrew--evc-team-relay",
+  "description": "Read and write Obsidian notes stored in EVC Team Relay collaborative vault. Use when agent needs to: read note content from a shared Obsidian vault, create or update documents, list available shared folders and documents, or search across shared vault content. Relay stores documents as Yjs CRDTs; this skill provides a REST interface to read/write their text content.",
+  "version": "1.1.2",
+  "author": {
+    "name": "venturecrew"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/venturecrew/evc-team-relay",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/venturecrew/evc-team-relay"
+}

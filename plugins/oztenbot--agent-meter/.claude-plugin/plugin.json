@@ -1,0 +1,10 @@
+{
+  "name": "oztenbot--agent-meter",
+  "description": "Track API spend with intent-level attribution. Shows where your tokens go by project and purpose. Invoke with /meter for spend summary.",
+  "version": "0.6.4",
+  "author": {
+    "name": "oztenbot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oztenbot/agent-meter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oztenbot/agent-meter"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dhardie--llm-supervisor",
+  "description": "Graceful rate limit handling with Ollama fallback. Notifies on rate limits, offers local model switch with confirmation for code tasks.",
+  "version": "0.3.0",
+  "author": {
+    "name": "dhardie"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dhardie/llm-supervisor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dhardie/llm-supervisor"
+}

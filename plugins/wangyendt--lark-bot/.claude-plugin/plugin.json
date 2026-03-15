@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--lark-bot",
+  "description": "Feishu/Lark Bot API wrapper for full-featured Feishu bot interactions. Use when users need to send messages (text, image, audio, file, post, interactive, share), especially Markdown delivery via send_markdown_to_chat with card_v2/post routing, table fallback, and auto chunking; manage files (upload/download); query user/group info; or listen for incoming messages with LarkBotListener.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/lark-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/lark-bot"
+}

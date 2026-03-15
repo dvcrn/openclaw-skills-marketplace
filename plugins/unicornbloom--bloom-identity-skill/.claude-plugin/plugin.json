@@ -1,0 +1,10 @@
+{
+  "name": "unicornbloom--bloom-identity-skill",
+  "description": "Generate Bloom Identity Card from conversation history and Twitter/X data. Analyzes supporter personality through conversations (85% weight) and optionally enriched with Twitter activity (15% weight). Creates personality type (Visionary/Explorer/Cultivator/Optimizer/Innovator), recommends matching OpenClaw skills, and generates agent wallet. Use when user asks to \"generate my bloom identity\", \"create identity card\", \"analyze my profile\", or \"discover my personality\".",
+  "version": "2.1.0",
+  "author": {
+    "name": "unicornbloom"
+  },
+  "homepage": "https://bloomprotocol.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/unicornbloom/bloom-identity-skill"
+}

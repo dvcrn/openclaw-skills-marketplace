@@ -1,0 +1,10 @@
+{
+  "name": "jamierossouw--rho-portfolio-tracker",
+  "description": "Track a crypto portfolio across Binance, Hyperliquid, and Polymarket. Calculates NAV, unrealized P&L, daily drawdown, win rate, and equity curve. Use when you need portfolio tracking, NAV calculation, drawdown monitoring, or multi-venue position management.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jamierossouw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/rho-portfolio-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/rho-portfolio-tracker"
+}

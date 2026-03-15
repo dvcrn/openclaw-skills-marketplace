@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--cmdlogger",
+  "description": "Execute commands with full I/O logging. Use when users need to record the complete execution of a command including stdin, stdout, and stderr to a log file while maintaining real-time console output. Triggered by requests to log, record, monitor, or trace command execution, especially for builds, long-running scripts, debugging sessions, or CI/CD processes.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/cmdlogger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/cmdlogger"
+}

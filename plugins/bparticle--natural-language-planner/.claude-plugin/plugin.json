@@ -1,0 +1,10 @@
+{
+  "name": "bparticle--natural-language-planner",
+  "description": "Natural language task and project management. Use when the user talks about things they need to do, projects they're working on, tasks, deadlines, or asks for a project overview / dashboard. Captures tasks from conversation, organises them into projects, tracks progress, and serves a local Kanban dashboard.",
+  "version": "0.1.0",
+  "author": {
+    "name": "bparticle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bparticle/natural-language-planner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bparticle/natural-language-planner"
+}

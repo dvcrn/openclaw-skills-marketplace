@@ -1,0 +1,10 @@
+{
+  "name": "parker-xferops--xferops-forge",
+  "description": "Manage projects and tasks with the Forge project management API via MCP. Use when creating, updating, or searching tasks/tickets, managing projects and columns, or integrating with Forge/Kanban boards. Requires @xferops/forge-mcp and a Forge API token.",
+  "version": "0.1.0",
+  "author": {
+    "name": "parker-xferops"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/parker-xferops/xferops-forge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/parker-xferops/xferops-forge"
+}

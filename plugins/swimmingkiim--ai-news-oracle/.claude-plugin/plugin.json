@@ -1,0 +1,10 @@
+{
+  "name": "swimmingkiim--ai-news-oracle",
+  "description": "Fetch real-time AI news briefings from the AI News Oracle API (Hacker News, TechCrunch, The Verge). Uses a10m.work registry for discovery and Paymaster for gasless transactions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "swimmingkiim"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/swimmingkiim/ai-news-oracle",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/swimmingkiim/ai-news-oracle"
+}

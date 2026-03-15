@@ -1,0 +1,10 @@
+{
+  "name": "mekedron--otta-cli",
+  "description": "Use `otta-cli` to automate `otta.fi` workflows from terminal. This tool is usually used for tracking working time, absences, and sick leaves: authenticate, inspect config/cache, check account status, manage worktimes (list/add/update/delete), browse absences, fetch holidays, and generate combined/detailed calendar reports. Trigger this skill when a request needs CLI-first Otta operations, `OTTA_CLI_*` environment setup, machine-readable `--format json` output, or diagnosis of auth/config/API validation errors.",
+  "version": "0.1.1",
+  "author": {
+    "name": "mekedron"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mekedron/otta-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mekedron/otta-cli"
+}

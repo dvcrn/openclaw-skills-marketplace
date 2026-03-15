@@ -1,0 +1,10 @@
+{
+  "name": "zihaofeng2001--agent-health-optimizer",
+  "description": "Audit and improve your OpenClaw setup with one skill. Scores agent health, audits memory hygiene, checks cron reliability, and compares installed skills against ClawHub — with conservative fixes instead of reckless auto-repair.",
+  "version": "1.4.0",
+  "author": {
+    "name": "zihaofeng2001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zihaofeng2001/agent-health-optimizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zihaofeng2001/agent-health-optimizer"
+}

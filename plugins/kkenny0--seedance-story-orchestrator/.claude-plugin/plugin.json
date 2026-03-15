@@ -1,0 +1,10 @@
+{
+  "name": "kkenny0--seedance-story-orchestrator",
+  "description": "Orchestrate script-to-final-video production with a strict stage-gated workflow (outline → episode_plan → storyboard → storyboard_images → render), using Seedream image generation, Seedance multi-shot rendering, checkpoint-based confirmation/resume, and optional FFmpeg concatenation. Use when converting txt/json/staged artifacts into storyboard videos and a final merged mp4.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kkenny0"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kkenny0/seedance-story-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kkenny0/seedance-story-orchestrator"
+}

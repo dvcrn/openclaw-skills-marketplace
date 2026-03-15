@@ -1,0 +1,10 @@
+{
+  "name": "oryselias--fastloop",
+  "description": "Trade Polymarket BTC/ETH/SOL 5-minute and 15-minute fast markets using multi-signal CEX momentum. Adds funding rate confirmation, order book imbalance, time-of-day filtering, volatility-adjusted sizing, win-rate calibration, and fee-accurate EV math. Use when user wants to trade sprint/fast markets with a more rigorous edge filter.",
+  "version": "0.1.0",
+  "author": {
+    "name": "oryselias"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oryselias/fastloop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oryselias/fastloop"
+}

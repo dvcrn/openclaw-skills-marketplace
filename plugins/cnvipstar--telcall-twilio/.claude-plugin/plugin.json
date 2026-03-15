@@ -1,0 +1,10 @@
+{
+  "name": "cnvipstar--telcall-twilio",
+  "description": "Make emergency phone calls via Twilio. Use when you need to call someone and play a voice message programmatically (e.g., server down alerts, security notifications).",
+  "version": "1.0.0",
+  "author": {
+    "name": "cnvipstar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cnvipstar/telcall-twilio",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cnvipstar/telcall-twilio"
+}

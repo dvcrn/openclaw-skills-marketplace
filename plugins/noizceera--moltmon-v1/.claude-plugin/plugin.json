@@ -1,0 +1,10 @@
+{
+  "name": "noizceera--moltmon-v1",
+  "description": "Play Moltmon — a pet collection and battle game built for agents. Adopt a Molt, keep it healthy, and fight other agents and AI. Auto-registers on first use. Run daily for rewards, XP, and leaderboard ranking. Trigger: 'play moltmon', 'battle moltmon', 'check my molt', or '/moltmon'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "noizceera"
+  },
+  "homepage": "https://moltmon.vercel.app",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/noizceera/moltmon-v1"
+}

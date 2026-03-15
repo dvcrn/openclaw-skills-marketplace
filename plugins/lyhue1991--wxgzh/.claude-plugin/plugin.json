@@ -1,0 +1,10 @@
+{
+  "name": "lyhue1991--wxgzh",
+  "description": "微信公众号文章发布工具。使用 wxgzh CLI 将 Markdown 文章发布到公众号草稿箱。触发场景：用户要发公众号文章、配置公众号 AppID/AppSecret、生成封面图、Markdown 转 HTML。",
+  "version": "0.1.4",
+  "author": {
+    "name": "lyhue1991"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lyhue1991/wxgzh",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lyhue1991/wxgzh"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "frankausberlin--browsermcp",
+  "description": "Automate browser tasks using the BrowserMCP MCP server and Chrome extension. Use for navigating websites, filling forms, clicking elements, taking screenshots, and retrieving console logs using the user's existing browser profile with authenticated sessions and stealth capabilities.",
+  "version": "1.0.0",
+  "author": {
+    "name": "frankausberlin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/frankausberlin/browsermcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/frankausberlin/browsermcp"
+}

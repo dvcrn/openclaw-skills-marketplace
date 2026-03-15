@@ -1,0 +1,10 @@
+{
+  "name": "sw326--tax-guide",
+  "description": "세금/절세 가이드 스킬. 10개 인텐트 라우팅(Quick Tax Check~Beginner Guide), 법제처 API+국세청 지식베이스 기반 Flash+Deep-Dive 2겹 리포트. 트리거: \"세금\", \"절세\", \"연말정산\", \"종합소득세\", \"부가세\", \"재산세\", \"종부세\", \"상속세\", \"증여세\", \"원천징수\", \"세액공제\", \"소득공제\", \"Tax Guide\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "sw326"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sw326/tax-guide",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sw326/tax-guide"
+}

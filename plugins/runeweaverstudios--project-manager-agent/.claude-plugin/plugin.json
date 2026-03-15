@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--project-manager-agent",
+  "description": "Monitors active sub-agents, detects stalls, provides status updates, and steers stuck agents via sessions_send.",
+  "version": "0.1.0",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/project-manager-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/project-manager-agent"
+}

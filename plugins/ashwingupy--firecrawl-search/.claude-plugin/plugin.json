@@ -1,0 +1,10 @@
+{
+  "name": "ashwingupy--firecrawl-search",
+  "description": "Web search and scraping via Firecrawl API. Use when you need to search the web, scrape websites (including JS-heavy pages), crawl entire sites, or extract structured data from web pages. Requires FIRECRAWL_API_KEY environment variable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ashwingupy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ashwingupy/firecrawl-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ashwingupy/firecrawl-search"
+}

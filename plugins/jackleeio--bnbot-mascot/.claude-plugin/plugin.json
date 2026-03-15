@@ -1,0 +1,10 @@
+{
+  "name": "jackleeio--bnbot-mascot",
+  "description": "Generate BNBOT lobster-bot mascot images in consistent style using reference images. Use when the user asks to generate mascot illustrations, character poses, tweet images, stickers, or any BNBOT branded artwork. Triggers on requests like \"generate a mascot image\", \"make a BNBOT illustration\", \"create a tweet image with the lobster\", \"generate mascot sticker\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "jackleeio"
+  },
+  "homepage": "https://github.com/jackleeio/bnbot-mascot-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jackleeio/bnbot-mascot"
+}

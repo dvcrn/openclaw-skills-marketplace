@@ -1,0 +1,10 @@
+{
+  "name": "dofbi--nocodb-api",
+  "description": "Connect to NocoDB databases via REST API v3. Query records, manage database structure (tables, fields, views), handle linked records, filters, sorts, and attachments. Use when working with NocoDB (open-source Airtable alternative) to read or manipulate data, create or update records, manage database schema, or upload files.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dofbi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dofbi/nocodb-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dofbi/nocodb-api"
+}

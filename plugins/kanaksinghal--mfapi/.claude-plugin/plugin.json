@@ -1,0 +1,10 @@
+{
+  "name": "kanaksinghal--mfapi",
+  "description": "Query Indian mutual fund NAV data, scheme info, and history via the free MFapi.in REST API.",
+  "version": "0.1.0",
+  "author": {
+    "name": "kanaksinghal"
+  },
+  "homepage": "https://www.mfapi.in",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kanaksinghal/mfapi"
+}

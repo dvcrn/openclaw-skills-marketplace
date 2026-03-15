@@ -1,0 +1,10 @@
+{
+  "name": "odubinkin--openrouter-audio",
+  "description": "Audio transcription and text-to-speech generation using OpenRouter API. Use when the user needs to transcribe audio files to text or generate speech/audio from text. Supports multiple audio formats for input and output, reads API key from environment, and writes generated audio to OpenClaw workspace tmp when available or an explicit output path.",
+  "version": "1.0.2",
+  "author": {
+    "name": "odubinkin"
+  },
+  "homepage": "https://github.com/odubinkin/openrouter-audio/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odubinkin/openrouter-audio"
+}

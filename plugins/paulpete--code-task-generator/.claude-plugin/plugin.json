@@ -1,0 +1,10 @@
+{
+  "name": "paulpete--code-task-generator",
+  "description": "Generates structured .code-task.md files from descriptions or PDD implementation plans. Auto-detects input type, creates properly formatted tasks with Given-When-Then acceptance criteria.",
+  "version": "0.1.0",
+  "author": {
+    "name": "paulpete"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/paulpete/code-task-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paulpete/code-task-generator"
+}

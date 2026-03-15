@@ -1,0 +1,10 @@
+{
+  "name": "nissan--gateway-env-injector",
+  "description": "Safely inject API keys from 1Password into macOS LaunchAgent plists using PlistBuddy. Use when running OpenClaw on macOS and storing secrets in 1Password — avoids plaintext keys on disk while keeping LaunchAgent env vars populated. Requires 1Password CLI (op).",
+  "version": "1.0.0",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/gateway-env-injector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/gateway-env-injector"
+}

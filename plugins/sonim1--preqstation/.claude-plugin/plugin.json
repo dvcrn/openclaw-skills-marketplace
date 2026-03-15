@@ -1,0 +1,10 @@
+{
+  "name": "sonim1--preqstation",
+  "description": "Delegate PREQSTATION coding tasks to Claude Code, Codex CLI, or Gemini CLI with PTY-safe execution (workdir + background + monitoring). Use when building, refactoring, or reviewing code in mapped workspaces. NOT for one-line edits or read-only inspection.",
+  "version": "0.1.8",
+  "author": {
+    "name": "sonim1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sonim1/preqstation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sonim1/preqstation"
+}

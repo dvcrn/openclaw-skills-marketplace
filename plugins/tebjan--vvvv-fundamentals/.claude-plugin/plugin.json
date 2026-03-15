@@ -1,0 +1,10 @@
+{
+  "name": "tebjan--vvvv-fundamentals",
+  "description": "Explains vvvv gamma core concepts — data types, frame-based execution model, pins, pads, links, node browser, live compilation (source project vs binary reference workflows), .vl document structure, file types (.vl/.sdsl/.cs/.csproj), ecosystem overview, and AppHost runtime detection. Use when the user asks about vvvv basics, how vvvv works, the live reload model, when to patch vs code, or needs an overview of the visual programming environment.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tebjan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tebjan/vvvv-fundamentals",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tebjan/vvvv-fundamentals"
+}

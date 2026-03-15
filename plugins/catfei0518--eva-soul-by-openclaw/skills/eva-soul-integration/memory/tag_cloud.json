@@ -1,0 +1,579 @@
+{
+  "all_tags": [
+    {
+      "name": "情景记忆",
+      "category": "type",
+      "count": 3699,
+      "weight": 100
+    },
+    {
+      "name": "夏娃",
+      "category": "entity",
+      "count": 1136,
+      "weight": 30
+    },
+    {
+      "name": "主人",
+      "category": "entity",
+      "count": 1094,
+      "weight": 29
+    },
+    {
+      "name": "人物",
+      "category": "entity",
+      "count": 558,
+      "weight": 15
+    },
+    {
+      "name": "决定",
+      "category": "type",
+      "count": 536,
+      "weight": 14
+    },
+    {
+      "name": "时间",
+      "category": "entity",
+      "count": 454,
+      "weight": 12
+    },
+    {
+      "name": "知识",
+      "category": "type",
+      "count": 229,
+      "weight": 6
+    },
+    {
+      "name": "爱情",
+      "category": "topic",
+      "count": 221,
+      "weight": 5
+    },
+    {
+      "name": "工作",
+      "category": "topic",
+      "count": 218,
+      "weight": 5
+    },
+    {
+      "name": "科技",
+      "category": "topic",
+      "count": 217,
+      "weight": 5
+    },
+    {
+      "name": "爱",
+      "category": "emotion",
+      "count": 207,
+      "weight": 5
+    },
+    {
+      "name": "开心",
+      "category": "emotion",
+      "count": 147,
+      "weight": 3
+    },
+    {
+      "name": "梦想",
+      "category": "topic",
+      "count": 115,
+      "weight": 3
+    },
+    {
+      "name": "地点",
+      "category": "entity",
+      "count": 108,
+      "weight": 2
+    },
+    {
+      "name": "美食",
+      "category": "topic",
+      "count": 103,
+      "weight": 2
+    },
+    {
+      "name": "学习",
+      "category": "topic",
+      "count": 93,
+      "weight": 2
+    },
+    {
+      "name": "宗教",
+      "category": "topic",
+      "count": 74,
+      "weight": 2
+    },
+    {
+      "name": "难过",
+      "category": "emotion",
+      "count": 72,
+      "weight": 1
+    },
+    {
+      "name": "创业",
+      "category": "topic",
+      "count": 69,
+      "weight": 1
+    },
+    {
+      "name": "恐惧",
+      "category": "emotion",
+      "count": 64,
+      "weight": 1
+    },
+    {
+      "name": "睡眠",
+      "category": "topic",
+      "count": 59,
+      "weight": 1
+    },
+    {
+      "name": "成长",
+      "category": "topic",
+      "count": 55,
+      "weight": 1
+    },
+    {
+      "name": "天气",
+      "category": "topic",
+      "count": 42,
+      "weight": 1
+    },
+    {
+      "name": "放松",
+      "category": "emotion",
+      "count": 36,
+      "weight": 1
+    },
+    {
+      "name": "生气",
+      "category": "emotion",
+      "count": 29,
+      "weight": 1
+    },
+    {
+      "name": "骄傲",
+      "category": "emotion",
+      "count": 29,
+      "weight": 1
+    },
+    {
+      "name": "生活",
+      "category": "topic",
+      "count": 28,
+      "weight": 1
+    },
+    {
+      "name": "感受",
+      "category": "type",
+      "count": 28,
+      "weight": 1
+    },
+    {
+      "name": "旅行",
+      "category": "topic",
+      "count": 25,
+      "weight": 1
+    },
+    {
+      "name": "节日",
+      "category": "topic",
+      "count": 21,
+      "weight": 1
+    },
+    {
+      "name": "电影",
+      "category": "topic",
+      "count": 15,
+      "weight": 1
+    },
+    {
+      "name": "感恩",
+      "category": "emotion",
+      "count": 15,
+      "weight": 1
+    },
+    {
+      "name": "节日",
+      "category": "entity",
+      "count": 14,
+      "weight": 1
+    },
+    {
+      "name": "音乐",
+      "category": "topic",
+      "count": 14,
+      "weight": 1
+    },
+    {
+      "name": "健康",
+      "category": "topic",
+      "count": 10,
+      "weight": 1
+    },
+    {
+      "name": "担心",
+      "category": "emotion",
+      "count": 10,
+      "weight": 1
+    },
+    {
+      "name": "购物",
+      "category": "topic",
+      "count": 10,
+      "weight": 1
+    },
+    {
+      "name": "投资",
+      "category": "topic",
+      "count": 10,
+      "weight": 1
+    },
+    {
+      "name": "满足",
+      "category": "emotion",
+      "count": 9,
+      "weight": 1
+    },
+    {
+      "name": "朋友",
+      "category": "entity",
+      "count": 7,
+      "weight": 1
+    },
+    {
+      "name": "家庭",
+      "category": "topic",
+      "count": 6,
+      "weight": 1
+    },
+    {
+      "name": "宠物",
+      "category": "topic",
+      "count": 4,
+      "weight": 1
+    },
+    {
+      "name": "家人",
+      "category": "entity",
+      "count": 4,
+      "weight": 1
+    },
+    {
+      "name": "害羞",
+      "category": "emotion",
+      "count": 4,
+      "weight": 1
+    },
+    {
+      "name": "寂寞",
+      "category": "emotion",
+      "count": 3,
+      "weight": 1
+    },
+    {
+      "name": "惊讶",
+      "category": "emotion",
+      "count": 2,
+      "weight": 1
+    },
+    {
+      "name": "运动",
+      "category": "topic",
+      "count": 1,
+      "weight": 1
+    }
+  ],
+  "by_category": {
+    "entity": [
+      {
+        "name": "夏娃",
+        "category": "entity",
+        "count": 1136,
+        "weight": 30
+      },
+      {
+        "name": "时间",
+        "category": "entity",
+        "count": 454,
+        "weight": 12
+      },
+      {
+        "name": "主人",
+        "category": "entity",
+        "count": 1094,
+        "weight": 29
+      },
+      {
+        "name": "人物",
+        "category": "entity",
+        "count": 558,
+        "weight": 15
+      },
+      {
+        "name": "地点",
+        "category": "entity",
+        "count": 108,
+        "weight": 2
+      },
+      {
+        "name": "节日",
+        "category": "entity",
+        "count": 14,
+        "weight": 1
+      },
+      {
+        "name": "家人",
+        "category": "entity",
+        "count": 4,
+        "weight": 1
+      },
+      {
+        "name": "朋友",
+        "category": "entity",
+        "count": 7,
+        "weight": 1
+      }
+    ],
+    "topic": [
+      {
+        "name": "工作",
+        "category": "topic",
+        "count": 218,
+        "weight": 5
+      },
+      {
+        "name": "宗教",
+        "category": "topic",
+        "count": 74,
+        "weight": 2
+      },
+      {
+        "name": "爱情",
+        "category": "topic",
+        "count": 221,
+        "weight": 5
+      },
+      {
+        "name": "美食",
+        "category": "topic",
+        "count": 103,
+        "weight": 2
+      },
+      {
+        "name": "天气",
+        "category": "topic",
+        "count": 42,
+        "weight": 1
+      },
+      {
+        "name": "创业",
+        "category": "topic",
+        "count": 69,
+        "weight": 1
+      },
+      {
+        "name": "科技",
+        "category": "topic",
+        "count": 217,
+        "weight": 5
+      },
+      {
+        "name": "睡眠",
+        "category": "topic",
+        "count": 59,
+        "weight": 1
+      },
+      {
+        "name": "健康",
+        "category": "topic",
+        "count": 10,
+        "weight": 1
+      },
+      {
+        "name": "生活",
+        "category": "topic",
+        "count": 28,
+        "weight": 1
+      },
+      {
+        "name": "学习",
+        "category": "topic",
+        "count": 93,
+        "weight": 2
+      },
+      {
+        "name": "梦想",
+        "category": "topic",
+        "count": 115,
+        "weight": 3
+      },
+      {
+        "name": "购物",
+        "category": "topic",
+        "count": 10,
+        "weight": 1
+      },
+      {
+        "name": "电影",
+        "category": "topic",
+        "count": 15,
+        "weight": 1
+      },
+      {
+        "name": "成长",
+        "category": "topic",
+        "count": 55,
+        "weight": 1
+      },
+      {
+        "name": "旅行",
+        "category": "topic",
+        "count": 25,
+        "weight": 1
+      },
+      {
+        "name": "节日",
+        "category": "topic",
+        "count": 21,
+        "weight": 1
+      },
+      {
+        "name": "家庭",
+        "category": "topic",
+        "count": 6,
+        "weight": 1
+      },
+      {
+        "name": "宠物",
+        "category": "topic",
+        "count": 4,
+        "weight": 1
+      },
+      {
+        "name": "投资",
+        "category": "topic",
+        "count": 10,
+        "weight": 1
+      },
+      {
+        "name": "运动",
+        "category": "topic",
+        "count": 1,
+        "weight": 1
+      },
+      {
+        "name": "音乐",
+        "category": "topic",
+        "count": 14,
+        "weight": 1
+      }
+    ],
+    "emotion": [
+      {
+        "name": "难过",
+        "category": "emotion",
+        "count": 72,
+        "weight": 1
+      },
+      {
+        "name": "爱",
+        "category": "emotion",
+        "count": 207,
+        "weight": 5
+      },
+      {
+        "name": "恐惧",
+        "category": "emotion",
+        "count": 64,
+        "weight": 1
+      },
+      {
+        "name": "生气",
+        "category": "emotion",
+        "count": 29,
+        "weight": 1
+      },
+      {
+        "name": "开心",
+        "category": "emotion",
+        "count": 147,
+        "weight": 3
+      },
+      {
+        "name": "放松",
+        "category": "emotion",
+        "count": 36,
+        "weight": 1
+      },
+      {
+        "name": "满足",
+        "category": "emotion",
+        "count": 9,
+        "weight": 1
+      },
+      {
+        "name": "骄傲",
+        "category": "emotion",
+        "count": 29,
+        "weight": 1
+      },
+      {
+        "name": "担心",
+        "category": "emotion",
+        "count": 10,
+        "weight": 1
+      },
+      {
+        "name": "感恩",
+        "category": "emotion",
+        "count": 15,
+        "weight": 1
+      },
+      {
+        "name": "寂寞",
+        "category": "emotion",
+        "count": 3,
+        "weight": 1
+      },
+      {
+        "name": "害羞",
+        "category": "emotion",
+        "count": 4,
+        "weight": 1
+      },
+      {
+        "name": "惊讶",
+        "category": "emotion",
+        "count": 2,
+        "weight": 1
+      }
+    ],
+    "type": [
+      {
+        "name": "情景记忆",
+        "category": "type",
+        "count": 3699,
+        "weight": 100
+      },
+      {
+        "name": "决定",
+        "category": "type",
+        "count": 536,
+        "weight": 14
+      },
+      {
+        "name": "知识",
+        "category": "type",
+        "count": 229,
+        "weight": 6
+      },
+      {
+        "name": "感受",
+        "category": "type",
+        "count": 28,
+        "weight": 1
+      }
+    ]
+  },
+  "update_time": "2026-03-09T05:19:23.783114"
+}

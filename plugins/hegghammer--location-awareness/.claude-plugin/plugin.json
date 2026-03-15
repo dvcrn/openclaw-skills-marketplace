@@ -1,0 +1,10 @@
+{
+  "name": "hegghammer--location-awareness",
+  "description": "Location awareness via privacy-friendly GPS tracking (Home Assistant, OwnTracks, GPS Logger). Set location-based reminders and ask about movement history, travel time, and nearby POIs.",
+  "version": "1.2.0",
+  "author": {
+    "name": "hegghammer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hegghammer/location-awareness",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hegghammer/location-awareness"
+}

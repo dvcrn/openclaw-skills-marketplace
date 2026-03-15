@@ -1,0 +1,10 @@
+{
+  "name": "leileitian--feishu-file-sender-1-0-9",
+  "description": "飞书文件发送器 — 补齐飞书渠道缺失的文件投递能力，通过飞书 OpenAPI 上传并发送 agent 生成的本地文件。| Feishu File Sender — Upload & send files via Feishu OpenAPI, filling the channel's missing file delivery.",
+  "version": "1.0.0",
+  "author": {
+    "name": "leileitian"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leileitian/feishu-file-sender-1-0-9",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leileitian/feishu-file-sender-1-0-9"
+}

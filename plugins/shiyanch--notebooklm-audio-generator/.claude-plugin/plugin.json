@@ -1,0 +1,10 @@
+{
+  "name": "shiyanch--notebooklm-audio-generator",
+  "description": "Automates uploading multiple sources (files, URLs, YouTube, Drive, text) to a NotebookLM notebook, generating a deep dive audio overview in a preferred language, and downloading the result. It guides the user through notebook management, source addition, audio generation, and downloading using the notebooklm-mcp-cli.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shiyanch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shiyanch/notebooklm-audio-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shiyanch/notebooklm-audio-generator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wanng-ide--json-linter",
+  "description": "Validates JSON syntax across the workspace. Use this skill to check for syntax errors in configuration files, memory files, or data assets.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wanng-ide"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/json-linter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/json-linter"
+}

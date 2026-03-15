@@ -1,0 +1,10 @@
+{
+  "name": "artur-zhdan--undetectable-ai",
+  "description": "Make AI text undetectable. TypeScript CLI that scans ChatGPT, Claude, OpenClaw output for patterns flagged by GPTZero, Turnitin, Originality.ai, then auto-fixes them to pass as human-written. Use to bypass AI detection, evade checkers, or humanize text before submission.",
+  "version": "1.0.0",
+  "author": {
+    "name": "artur-zhdan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/artur-zhdan/undetectable-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/artur-zhdan/undetectable-ai"
+}

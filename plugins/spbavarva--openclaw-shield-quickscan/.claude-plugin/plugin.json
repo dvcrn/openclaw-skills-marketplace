@@ -1,0 +1,10 @@
+{
+  "name": "spbavarva--openclaw-shield-quickscan",
+  "description": "Run a fast OpenClaw Shield scan and summarize actionable findings. Use when users ask to scan a folder or repository for credential theft, data exfiltration patterns, suspicious command execution, risky network behavior, or a quick security triage report.",
+  "version": "1.0.0",
+  "author": {
+    "name": "spbavarva"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spbavarva/openclaw-shield-quickscan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spbavarva/openclaw-shield-quickscan"
+}

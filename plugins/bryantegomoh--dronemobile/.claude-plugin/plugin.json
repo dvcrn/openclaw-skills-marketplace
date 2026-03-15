@@ -1,0 +1,10 @@
+{
+  "name": "bryantegomoh--dronemobile",
+  "description": "Control vehicles via DroneMobile (Firstech/Compustar remote start systems). Use when the user asks to start their car, stop the engine, lock/unlock doors, open the trunk, check battery voltage, or get vehicle status. Triggers on phrases like \"start my car\", \"remote start\", \"lock my car\", \"unlock the car\", \"check battery\", \"open trunk\", \"stop the engine\", \"vehicle status\". Requires DRONEMOBILE_EMAIL and DRONEMOBILE_PASSWORD environment variables. Optionally DRONEMOBILE_DEVICE_KEY for multi-vehicle accounts.",
+  "version": "0.1.0",
+  "author": {
+    "name": "bryantegomoh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bryantegomoh/dronemobile",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bryantegomoh/dronemobile"
+}

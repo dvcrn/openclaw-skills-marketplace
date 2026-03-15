@@ -1,0 +1,10 @@
+{
+  "name": "sanwecn--telegram-offline-voice",
+  "description": "本地生成 Telegram 语音消息，支持自动清洗、分段与临时文件管理。",
+  "version": "0.1.3",
+  "author": {
+    "name": "sanwecn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sanwecn/telegram-offline-voice",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sanwecn/telegram-offline-voice"
+}

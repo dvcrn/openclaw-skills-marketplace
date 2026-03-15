@@ -1,0 +1,10 @@
+{
+  "name": "kingmadellc--xpulse",
+  "description": "Real-time X/Twitter social signal scanner for prediction market traders. Scans via DuckDuckGo (zero API cost) with two-stage local Qwen AI filtering: tradeable signal detection, then materiality gating to prevent alert fatigue. Position-aware — only alerts on signals matching your active Kalshi positions. Fail-closed design: silence over noise. Part of the OpenClaw Prediction Market Trading Stack — signals feed into Market Morning Brief and correlate with Prediction Market Arbiter divergences.",
+  "version": "1.0.1",
+  "author": {
+    "name": "kingmadellc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/xpulse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/xpulse"
+}

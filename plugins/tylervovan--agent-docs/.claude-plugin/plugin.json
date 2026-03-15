@@ -1,0 +1,10 @@
+{
+  "name": "tylervovan--agent-docs",
+  "description": "Create documentation optimized for AI agent consumption. Use when writing SKILL.md files, README files, API docs, or any documentation that will be read by LLMs in context windows. Helps structure content for RAG retrieval, token efficiency, and the Hybrid Context Hierarchy.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tylervovan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tylervovan/agent-docs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tylervovan/agent-docs"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "beanapologist--goldenseed",
+  "description": "Deterministic entropy streams for reproducible testing and procedural generation. Perfect 50/50 statistical distribution with hash verification. Not cryptographically secure - use for testing, worldgen, and scenarios where reproducibility matters more than unpredictability.",
+  "version": "1.1.0",
+  "author": {
+    "name": "beanapologist"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/beanapologist/goldenseed",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/beanapologist/goldenseed"
+}

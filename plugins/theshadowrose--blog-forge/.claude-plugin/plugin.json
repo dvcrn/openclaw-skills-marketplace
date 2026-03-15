@@ -1,0 +1,10 @@
+{
+  "name": "theshadowrose--blog-forge",
+  "description": "A comprehensive AI-powered blog post generator that creates SEO-optimized, human-sounding content and optionally publishes directly to Medium, WordPress, or Ghost. Supports Anthropic Claude, OpenAI GPT, and local Ollama models. Includes built-in readability analysis, humanization post-processing, and multi-platform publishing.",
+  "version": "1.0.3",
+  "author": {
+    "name": "theshadowrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/blog-forge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/blog-forge"
+}

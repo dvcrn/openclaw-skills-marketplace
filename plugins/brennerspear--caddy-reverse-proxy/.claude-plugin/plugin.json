@@ -1,0 +1,10 @@
+{
+  "name": "brennerspear--caddy-reverse-proxy",
+  "description": "Add, manage, and troubleshoot Caddy reverse proxy routes for local apps via wildcard subdomains.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brennerspear"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brennerspear/caddy-reverse-proxy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brennerspear/caddy-reverse-proxy"
+}

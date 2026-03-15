@@ -1,0 +1,10 @@
+{
+  "name": "vabblejames--clawfy",
+  "description": "Process [Clawfy] webhook messages from the browser extension. When a message starts with [Clawfy] (without \"Pro\"), identify what the user is working on and respond with intent, help offers, and relevant ClawHub skill suggestions. Uses the platform-provided `clawhub` CLI for skill discovery. Accesses recent conversation history (last 10 messages) to detect project connections. Also triggers during conversation when the user discusses building, automating, deploying, integrating, or monitoring something technical — proactively search ClawHub and include results alongside your answer.",
+  "version": "0.1.1",
+  "author": {
+    "name": "vabblejames"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vabblejames/clawfy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vabblejames/clawfy"
+}

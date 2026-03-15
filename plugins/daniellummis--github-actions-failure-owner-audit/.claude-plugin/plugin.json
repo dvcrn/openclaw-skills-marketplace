@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-failure-owner-audit",
+  "description": "Audit failing GitHub Actions runs by actor ownership to expose who/workflow combinations generate the most CI noise and wasted minutes.",
+  "version": "1.2.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-failure-owner-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-failure-owner-audit"
+}

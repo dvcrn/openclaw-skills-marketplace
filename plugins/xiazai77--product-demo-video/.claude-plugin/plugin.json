@@ -1,0 +1,10 @@
+{
+  "name": "xiazai77--product-demo-video",
+  "description": "Create product demo videos with voiceover, text overlays, and real browser interactions. Fully automated, zero cost. Uses Puppeteer (headless Chrome), edge-tts (Microsoft Neural TTS), PIL (text overlays), and FFmpeg (video encoding). Use when: user wants a demo video, product walkthrough, launch video, Product Hunt video, app showcase, or screen recording of a web application. Triggers: \"demo video\", \"product video\", \"record demo\", \"launch video\", \"walkthrough video\", \"showcase video\", \"screen recording\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiazai77"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiazai77/product-demo-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiazai77/product-demo-video"
+}

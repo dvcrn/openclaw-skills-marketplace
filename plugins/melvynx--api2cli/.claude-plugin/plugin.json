@@ -1,0 +1,10 @@
+{
+  "name": "melvynx--api2cli",
+  "description": "Generate a CLI + AgentSkill from any REST API. Use when: user says 'create a CLI for X', 'wrap this API', 'make a skill for X', 'publish my CLI', 'publish to npm', 'push to github'. Handles discovery, scaffolding, resource implementation, building, linking, skill generation, npm publishing, and GitHub publishing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "melvynx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/melvynx/api2cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/melvynx/api2cli"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--pipeliner",
+  "description": "Pipeliner integration. Manage Leads, Deals, Persons, Organizations, Activities, Notes and more. Use when the user wants to interact with Pipeliner data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/pipeliner"
+}

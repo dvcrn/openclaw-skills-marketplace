@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--google-sheets",
+  "description": "Google Sheets API integration with managed OAuth. Read and write spreadsheet data, create sheets, apply formatting, and manage ranges. Use this skill when users want to read from or write to Google Sheets. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.6",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/google-sheets",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/google-sheets"
+}

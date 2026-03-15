@@ -1,0 +1,10 @@
+{
+  "name": "damirikys--faster-whisper-local",
+  "description": "Local speech-to-text using faster-whisper. High-performance transcription with GPU acceleration support. Includes word-level timestamps and distilled models. Use when asked to \"transcribe audio\", \"whisper\", or \"speech to text\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "damirikys"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/damirikys/faster-whisper-local",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/damirikys/faster-whisper-local"
+}

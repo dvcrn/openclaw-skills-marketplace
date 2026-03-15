@@ -1,0 +1,10 @@
+{
+  "name": "marcosathanasoulis--openclaw-web-automation",
+  "description": "Use this skill when the user wants quick, no-credential browser automation against public websites (summaries, keyword checks, simple page facts). Runs the local OpenClaw Automation Kit query path and returns structured results.",
+  "version": "1.0.7",
+  "author": {
+    "name": "marcosathanasoulis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/marcosathanasoulis/openclaw-web-automation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marcosathanasoulis/openclaw-web-automation"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kaicianflone--consensus-guard-core",
+  "description": "Shared deterministic guard primitives for the Consensus.Tools skill family: hard-block taxonomy, weighted vote aggregation, reputation updates, idempotency keys, strict schema enforcement, and indexed board artifact access.",
+  "version": "1.1.13",
+  "author": {
+    "name": "kaicianflone"
+  },
+  "homepage": "https://github.com/kaicianflone/consensus-guard-core",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kaicianflone/consensus-guard-core"
+}

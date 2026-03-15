@@ -1,0 +1,10 @@
+{
+  "name": "christophrumpel--transistorfm",
+  "description": "Manage podcasts on Transistor.fm via their API. Use when creating, publishing, updating, or deleting podcast episodes, uploading audio files, listing shows/episodes, checking analytics, or managing private podcast subscribers. Triggers on any Transistor.fm podcast management task.",
+  "version": "1.0.0",
+  "author": {
+    "name": "christophrumpel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/christophrumpel/transistorfm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/christophrumpel/transistorfm"
+}

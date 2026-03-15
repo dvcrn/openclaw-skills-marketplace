@@ -1,0 +1,10 @@
+{
+  "name": "esdras-sena--typhoon-starknet-account",
+  "description": "Create an anonymous Starknet wallet via Typhoon and interact with Starknet contracts. Privacy-focused wallet creation for agents requiring anonymity.",
+  "version": "0.3.8",
+  "author": {
+    "name": "esdras-sena"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/esdras-sena/typhoon-starknet-account",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/esdras-sena/typhoon-starknet-account"
+}

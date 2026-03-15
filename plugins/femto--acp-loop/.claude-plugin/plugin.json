@@ -1,0 +1,10 @@
+{
+  "name": "femto--acp-loop",
+  "description": "Schedule recurring AI agent prompts using intervals or cron expressions. Use when users need to run prompts periodically, automate agent tasks on a schedule, or set up recurring workflows. Triggers on \"schedule prompt\", \"run every\", \"cron\", \"recurring\", \"periodic\", \"interval\", \"loop prompt\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "femto"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/femto/acp-loop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/femto/acp-loop"
+}

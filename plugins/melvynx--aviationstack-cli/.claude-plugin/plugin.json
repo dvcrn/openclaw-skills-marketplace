@@ -1,0 +1,10 @@
+{
+  "name": "melvynx--aviationstack-cli",
+  "description": "Manage AviationStack via CLI - flights, airports, airlines, routes. Use when user mentions 'aviationstack', 'flight search', 'airport lookup', 'airline search', or wants to interact with the AviationStack API.",
+  "version": "0.1.0",
+  "author": {
+    "name": "melvynx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/melvynx/aviationstack-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/melvynx/aviationstack-cli"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jordymaui--kickstart",
+  "description": "The essential first skill for every OpenClaw agent. Installs battle-tested workspace files, memory architecture, expert personas, sub-agent templates, heartbeat patterns, and automation scaffolding. Use when setting up a new OpenClaw instance, optimising an existing workspace, improving agent memory/context management, spawning better sub-agents, or building your first automations. Covers: workspace setup, memory systems, context management, sub-agent orchestration, cron/heartbeat patterns, API integrations checklist, and progressive skill building.",
+  "version": "1.0.3",
+  "author": {
+    "name": "jordymaui"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jordymaui/kickstart",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jordymaui/kickstart"
+}

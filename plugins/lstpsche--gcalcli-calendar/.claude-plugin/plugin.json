@@ -1,0 +1,10 @@
+{
+  "name": "lstpsche--gcalcli-calendar",
+  "description": "Google Calendar via gcalcli: today-only agenda by default, bounded meaning-first lookup via agenda scans, and fast create/delete with verification--optimized for low tool calls and minimal output.",
+  "version": "3.0.0",
+  "author": {
+    "name": "lstpsche"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lstpsche/gcalcli-calendar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lstpsche/gcalcli-calendar"
+}

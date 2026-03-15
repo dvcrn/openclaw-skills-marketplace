@@ -1,0 +1,10 @@
+{
+  "name": "wuhongchen--mp-draft-push",
+  "description": "将现成的文章内容发布到微信公众号草稿箱。当用户说\"发布文章\"、\"发布到草稿箱\"、\"publish to draft\"、\"推送到公众号\"时触发。",
+  "version": "1.0.2",
+  "author": {
+    "name": "wuhongchen"
+  },
+  "homepage": "https://github.com/bbwdadfg/wechat-ai-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wuhongchen/mp-draft-push"
+}

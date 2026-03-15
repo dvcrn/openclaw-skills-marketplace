@@ -1,0 +1,10 @@
+{
+  "name": "longfer--multi-team-coding",
+  "description": "完整的 AI 驱动编程工作流。包含：(1) 多团队并行开发（OpenClaw + Claude Code/Codex/OpenCode），(2) 一人公司模式（单日 90+ 提交），(3) Playwright 自动化测试（E2E/API/视觉/性能），(4) 自动 PR 管理和合并。适用于独立开发者、初创团队、开源项目维护。",
+  "version": "1.0.0",
+  "author": {
+    "name": "longfer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/longfer/multi-team-coding",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/longfer/multi-team-coding"
+}

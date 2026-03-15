@@ -1,0 +1,10 @@
+{
+  "name": "sivulich--mqttasgi",
+  "description": "MQTT ASGI protocol server for Django — bridge MQTT messages to Django Channels consumers with full ORM, Channel Layers, and testing support. The perfect backbone for your home automation projects, IoT pipelines, and real-time device integrations.",
+  "version": "1.0.1",
+  "author": {
+    "name": "sivulich"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sivulich/mqttasgi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sivulich/mqttasgi"
+}

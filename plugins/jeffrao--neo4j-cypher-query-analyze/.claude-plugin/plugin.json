@@ -1,0 +1,10 @@
+{
+  "name": "jeffrao--neo4j-cypher-query-analyze",
+  "description": "智能图数据库查询助手 - 自动感知 Schema 结构，根据自然语言生成精准的 Cypher 查询",
+  "version": "1.0.0",
+  "author": {
+    "name": "jeffrao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jeffrao/neo4j-cypher-query-analyze",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeffrao/neo4j-cypher-query-analyze"
+}

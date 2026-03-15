@@ -1,0 +1,10 @@
+{
+  "name": "noblepayne--searxng-local-search",
+  "description": "Search the web using SearXNG. Use when you need current information, research topics, find documentation, verify facts, or look up anything beyond your knowledge. Returns ranked results with titles, URLs, and content snippets.",
+  "version": "0.1.0",
+  "author": {
+    "name": "noblepayne"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/noblepayne/searxng-local-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/noblepayne/searxng-local-search"
+}

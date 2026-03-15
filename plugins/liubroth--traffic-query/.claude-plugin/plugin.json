@@ -1,0 +1,10 @@
+{
+  "name": "liubroth--traffic-query",
+  "description": "Query and organize China travel information for flights and trains, including schedules, prices, duration, stops, and summary tables. Use when the user asks to check flights, trains, rail tickets, same-day/next-day departures, route options, cheapest/earliest/best choices, or to summarize a booking/search results page from Ctrip, 12306, FlightAware, airline sites, or rail sites.",
+  "version": "1.0.1",
+  "author": {
+    "name": "liubroth"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/liubroth/traffic-query",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/liubroth/traffic-query"
+}

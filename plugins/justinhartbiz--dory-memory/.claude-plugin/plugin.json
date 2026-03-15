@@ -1,0 +1,10 @@
+{
+  "name": "justinhartbiz--dory-memory",
+  "description": "File-based memory system for AI agents that forget between sessions. Implements the \"Dory-Proof\" pattern for continuity across context resets. Use when setting up agent memory, building workspace structure, implementing task tracking, or preventing context-loss errors. Triggers on \"memory system\", \"remember between sessions\", \"Dory pattern\", \"agent continuity\", or \"workspace setup\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "justinhartbiz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/justinhartbiz/dory-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/justinhartbiz/dory-memory"
+}

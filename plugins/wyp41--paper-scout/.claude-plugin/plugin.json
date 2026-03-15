@@ -1,0 +1,10 @@
+{
+  "name": "wyp41--paper-scout",
+  "description": "Search and summarize research papers in robotics and related fields. Use when asked to find recent papers, digest academic literature, or scout publications from venues like TRO, IJRR, RAL, Science Robotics, CVPR, ICLR. Uses CrossRef as primary source and Google Scholar as backup.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wyp41"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wyp41/paper-scout",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wyp41/paper-scout"
+}

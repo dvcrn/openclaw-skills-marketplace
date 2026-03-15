@@ -1,0 +1,10 @@
+{
+  "name": "skillhq-ai--flight-search-fast",
+  "description": "Search Google Flights for flight prices and schedules using browser automation. Use when user asks to search flights, find airfare, compare prices, check flight availability, or look up routes. Triggers include \"search flights\", \"find flights\", \"how much is a flight\", \"flights from X to Y\", \"cheapest flight\", \"flight prices\", \"airfare\", \"flight schedule\", \"nonstop flights\", \"when should I fly\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "skillhq-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/skillhq-ai/flight-search-fast",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/skillhq-ai/flight-search-fast"
+}

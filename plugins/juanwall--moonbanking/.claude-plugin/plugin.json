@@ -1,0 +1,10 @@
+{
+  "name": "juanwall--moonbanking",
+  "description": "Full access to Moon Banking API endpoints for data about every bank on Earth, including stories, votes, scores, search, country overviews, world overview, crypto-friendliness, and more. Requires MOON_BANKING_API_KEY env var.",
+  "version": "1.1.0",
+  "author": {
+    "name": "juanwall"
+  },
+  "homepage": "https://docs.moonbanking.com/openclaw-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/juanwall/moonbanking"
+}

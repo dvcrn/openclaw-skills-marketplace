@@ -1,0 +1,10 @@
+{
+  "name": "owrig--feishu-task-management-skill",
+  "description": "Manage Feishu tasks through a local Python toolkit that always has app credentials and can optionally act as a user for task APIs when OAuth user tokens are available. Use when Codex needs to create, inspect, update, complete, reopen, delete, or change task members in Feishu Task, especially when member names must be resolved through a locally synced member table and alias mapping instead of ad hoc contact lookups.",
+  "version": "0.0.1",
+  "author": {
+    "name": "owrig"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/owrig/feishu-task-management-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/owrig/feishu-task-management-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "agentward-ai--sanitize",
+  "description": "Detect and redact PII from text files. Supports 15 categories including credit cards, SSNs, emails, API keys, addresses, and more — with zero dependencies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "agentward-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agentward-ai/sanitize",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agentward-ai/sanitize"
+}

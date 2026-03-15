@@ -1,0 +1,10 @@
+{
+  "name": "scikkk--sam",
+  "description": "Use SAM (Segment Anything Model) to remove image backgrounds and extract foreground subjects as transparent PNGs. Use when users want to remove backgrounds, cut out objects, extract foreground subjects, or perform image segmentation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "scikkk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/scikkk/sam",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scikkk/sam"
+}

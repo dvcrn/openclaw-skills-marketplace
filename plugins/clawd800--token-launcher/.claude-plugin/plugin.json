@@ -1,0 +1,10 @@
+{
+  "name": "clawd800--token-launcher",
+  "description": "Revenue infrastructure for autonomous AI agents on Base. Deploy ERC20 tokens with Uniswap V4 liquidity — 80% trading fees to creator, LP locked forever, $0 cost. 141 tokens live. Own contracts (no Clanker dependency). Direct blockchain calls = zero downtime. CLI, MCP server, or smart contract.",
+  "version": "2.1.0",
+  "author": {
+    "name": "clawd800"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clawd800/token-launcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clawd800/token-launcher"
+}

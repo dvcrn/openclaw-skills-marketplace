@@ -1,0 +1,10 @@
+{
+  "name": "shuakami--uapi-get-answerbook-ask",
+  "description": "使用 UAPI 的“答案之书”单接口 skill，处理 答案之书 等请求。 Use when the user wants get answerbook ask, answerbook ask, ask, or when you need to call GET /answerbook/ask directly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shuakami"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-answerbook-ask",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-answerbook-ask"
+}

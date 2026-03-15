@@ -1,0 +1,10 @@
+{
+  "name": "dustinparsons--drawthings",
+  "description": "Generate images with DrawThings (Stable Diffusion) via API. Use when creating images from text prompts, running image generation workflows, or batch generating images. DrawThings runs locally on Mac with MLX/CoreML acceleration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dustinparsons"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dustinparsons/drawthings",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dustinparsons/drawthings"
+}

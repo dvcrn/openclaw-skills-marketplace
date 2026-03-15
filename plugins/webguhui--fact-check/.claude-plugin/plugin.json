@@ -1,0 +1,10 @@
+{
+  "name": "webguhui--fact-check",
+  "description": "Verify claims, statements, and information against reliable sources. Use when user asks to fact-check, verify, confirm, validate, or check the accuracy of any statement, statistic, quote, date, or claim. Performs cross-reference searches, identifies source credibility, and provides evidence-based verdicts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "webguhui"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/webguhui/fact-check",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/webguhui/fact-check"
+}

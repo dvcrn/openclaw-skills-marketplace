@@ -1,0 +1,10 @@
+{
+  "name": "jarvis-drakon--shieldcortex",
+  "description": "Persistent memory system with security for AI agents. Remembers decisions, preferences, architecture, and context across sessions with knowledge graphs, decay, contradiction detection, and a 6-layer defence pipeline with Iron Dome behavioural protection. Use when asked to \"remember this\", \"what do we know about\", \"recall context\", \"scan for threats\", \"run security audit\", \"check memory stats\", or when starting a new session and needing prior context.",
+  "version": "2.20.0",
+  "author": {
+    "name": "jarvis-drakon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jarvis-drakon/shieldcortex",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jarvis-drakon/shieldcortex"
+}

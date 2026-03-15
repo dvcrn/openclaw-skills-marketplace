@@ -1,0 +1,10 @@
+{
+  "name": "mingj--vue-table-operation",
+  "description": "自动化操作 vue-element-admin 管理系统的综合 Table 页面，包括登录、遍历数据、修改记录并导出到 Excel。适用于需要批量处理 Table 数据的场景。",
+  "version": "1.0.0",
+  "author": {
+    "name": "mingj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mingj/vue-table-operation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mingj/vue-table-operation"
+}

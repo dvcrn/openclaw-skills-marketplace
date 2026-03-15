@@ -1,0 +1,10 @@
+{
+  "name": "lanyijianke--anyskill",
+  "description": "AnySkill — your private skill cloud. Manage, sync, and dynamically load agent skills from a GitHub-backed repository. Search cloud skills by natural language, auto-load prompts on demand, upload and share custom skills, batch install skill bundles. Works with OpenClaw, Antigravity, Claude Code, and Cursor.",
+  "version": "1.0.7",
+  "author": {
+    "name": "lanyijianke"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lanyijianke/anyskill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lanyijianke/anyskill"
+}

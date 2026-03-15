@@ -1,0 +1,10 @@
+{
+  "name": "traceless929--session-reset",
+  "description": "安全地重置 OpenClaw agent sessions，支持备份、预览、恢复和批量操作。用于：1) 清理过期的 agent 会话上下文，2) 重置特定 agents 的 session，3) 批量重置六部/秘书 sessions，4) 查看和恢复历史备份。当用户需要\"reset session\"、\"清理 session\"、\"重置 agents\"或\"清理上下文\"时使用此 skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "traceless929"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/traceless929/session-reset",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/traceless929/session-reset"
+}

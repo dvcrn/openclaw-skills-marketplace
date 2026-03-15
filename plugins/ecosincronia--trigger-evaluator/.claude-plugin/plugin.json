@@ -1,0 +1,10 @@
+{
+  "name": "ecosincronia--trigger-evaluator",
+  "description": "Evaluate real OpenClaw trigger rules against the current database state. Use for heartbeat-style trigger checks, especially stale mission detection backed by public.openclaw_trigger_rules, public.openclaw_missions, and public.openclaw_proposals.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ecosincronia"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ecosincronia/trigger-evaluator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ecosincronia/trigger-evaluator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "phy041--phy-fal-image-gen",
+  "description": "Generate images via fal.ai and BytePlus Seedream APIs. Supports single image, batch parallel, and reference-guided generation. Use when you need to generate a photo, poster, or visual asset from a text prompt or reference images.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phy041"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-fal-image-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-fal-image-gen"
+}

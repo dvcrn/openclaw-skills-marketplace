@@ -1,0 +1,10 @@
+{
+  "name": "dannyshmueli--red-alert",
+  "description": "Israel Red Alert API — real-time and historical rocket/missile alert data. Query alerts by city, time range, generate shelter time stats. Uses redalert.orielhaim.com (socket.io for real-time) and tzevaadom.co.il (REST for history).",
+  "version": "1.2.0",
+  "author": {
+    "name": "dannyshmueli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dannyshmueli/red-alert",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dannyshmueli/red-alert"
+}

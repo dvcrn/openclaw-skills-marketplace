@@ -1,0 +1,13 @@
+{
+  "name": "work-helper-remind-example",
+  "schedule": {
+    "kind": "cron",
+    "cron": "0 17 * * 5",
+    "timezone": "Europe/Paris"
+  },
+  "payload": {
+    "kind": "systemEvent",
+    "text": "[Rappel work-helper] Envoyer le CRA"
+  },
+  "sessionTarget": "main"
+}

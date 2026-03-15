@@ -1,0 +1,10 @@
+{
+  "name": "ppopen--openclaw-skill-docker-manager",
+  "description": "Docker container lifecycle management. Use when: user asks to list containers, start/stop containers, view logs, check stats, prune unused containers or images. Requires Docker CLI installed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ppopen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ppopen/openclaw-skill-docker-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ppopen/openclaw-skill-docker-manager"
+}

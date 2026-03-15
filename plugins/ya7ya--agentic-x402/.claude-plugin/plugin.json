@@ -1,0 +1,10 @@
+{
+  "name": "ya7ya--agentic-x402",
+  "description": "Make x402 payments to access gated APIs and content. Fetch paid resources, check wallet balance, and create payment links. Use when encountering 402 Payment Required responses or when the user wants to pay for web resources with crypto.",
+  "version": "0.2.6",
+  "author": {
+    "name": "ya7ya"
+  },
+  "homepage": "https://www.npmjs.com/package/agentic-x402",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ya7ya/agentic-x402"
+}

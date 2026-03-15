@@ -1,0 +1,10 @@
+{
+  "name": "npfaerber--edi-parser",
+  "description": "Parse EDI X12 files (810 Invoice, 850 Purchase Order, 856 ASN). Extract structured data from ISA/GS envelopes, transaction sets, and segments. Use when working with EDI files, Walmart/retail supplier compliance, or extracting PO, invoice, and shipment data from X12 format.",
+  "version": "1.0.1",
+  "author": {
+    "name": "npfaerber"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/npfaerber/edi-parser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/npfaerber/edi-parser"
+}

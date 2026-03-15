@@ -1,0 +1,10 @@
+{
+  "name": "zxs1633079383--openclaw-session-reply-debug",
+  "description": "Diagnose OpenClaw \"message sent but no assistant reply\" issues, then safely switch active model references with primary + multi-fallback support, including heartbeat-triggered recovery to the highest available model.",
+  "version": "1.0.1",
+  "author": {
+    "name": "zxs1633079383"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zxs1633079383/openclaw-session-reply-debug",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zxs1633079383/openclaw-session-reply-debug"
+}

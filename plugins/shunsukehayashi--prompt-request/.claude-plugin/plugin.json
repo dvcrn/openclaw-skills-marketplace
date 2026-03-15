@@ -1,0 +1,10 @@
+{
+  "name": "shunsukehayashi--prompt-request",
+  "description": "GitHub Issue → auto-implement → PR → review → auto-merge pipeline. Write an Issue with [auto] tag, and the pipeline handles everything: task analysis, implementation, testing, PR creation, review, and merge. Includes progress comments on Issues and early-exit optimization.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shunsukehayashi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shunsukehayashi/prompt-request",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shunsukehayashi/prompt-request"
+}

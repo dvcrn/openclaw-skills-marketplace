@@ -1,0 +1,10 @@
+{
+  "name": "zaddy6--agent-email-cli",
+  "description": "Operate the agent-email CLI to create disposable inboxes, poll for new mail, retrieve full message details, and manage local mailbox profiles. Use when the user needs terminal-based email inbox access for LLM or agent automation workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zaddy6"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zaddy6/agent-email-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zaddy6/agent-email-cli"
+}

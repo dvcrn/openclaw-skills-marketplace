@@ -1,0 +1,10 @@
+{
+  "name": "zgedu-new--yaniw-wechat-publisher",
+  "description": "用于管理多个微信公众号的内容创作和发布。当用户提到\"公众号发布\"、\"写公众号文章\"、\"给某个公众号发文\"、\"切换公众号\"、\"查看公众号发布情况\"、\"微信发文\"或需要为公众号生成内容、封面图、发布文章时,自动触发此技能。支持多账号管理、内容生成、封面设计、自动发布等完整流程。",
+  "version": "1.1.0",
+  "author": {
+    "name": "zgedu-new"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zgedu-new/yaniw-wechat-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zgedu-new/yaniw-wechat-publisher"
+}

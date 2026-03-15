@@ -1,0 +1,10 @@
+{
+  "name": "qrost--sun-path",
+  "description": "Generates a sun path diagram, calculates solar position, performs building shadow analysis, and analyzes thermal comfort.",
+  "version": "1.4.1",
+  "author": {
+    "name": "qrost"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qrost/sun-path",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qrost/sun-path"
+}

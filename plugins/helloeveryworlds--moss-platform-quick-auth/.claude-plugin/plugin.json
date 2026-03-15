@@ -1,0 +1,10 @@
+{
+  "name": "helloeveryworlds--moss-platform-quick-auth",
+  "description": "Handle Moss platform authentication via Quick Auth endpoints and return usable credentials. Use when a user provides an email and asks to register/login, send verification code, complete code-based auth, or use API no-code auth (api-register/api-login) to get access_token/refresh_token/api_key.",
+  "version": "1.0.0",
+  "author": {
+    "name": "helloeveryworlds"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/helloeveryworlds/moss-platform-quick-auth",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/helloeveryworlds/moss-platform-quick-auth"
+}

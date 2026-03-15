@@ -1,0 +1,11 @@
+name: polymarket-arbitrage-scanner
+version: 1.0.0
+description: Scan for cross-market arbitrage opportunities
+category: Polymarket
+tags:
+  - polymarket
+  - arbitrage
+  - scanner
+author: mosonchan2023
+price: 0.001
+currency: USDT

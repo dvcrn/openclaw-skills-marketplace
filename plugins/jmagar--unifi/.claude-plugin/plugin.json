@@ -1,0 +1,10 @@
+{
+  "name": "jmagar--unifi",
+  "description": "Query and monitor UniFi network via local gateway API (Cloud Gateway Max / UniFi OS). Use when the user asks to \"check UniFi\", \"list UniFi devices\", \"show who's on the network\", \"UniFi clients\", \"UniFi health\", \"top apps\", \"network alerts\", \"UniFi DPI\", or mentions UniFi monitoring/status/dashboard.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jmagar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jmagar/unifi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jmagar/unifi"
+}

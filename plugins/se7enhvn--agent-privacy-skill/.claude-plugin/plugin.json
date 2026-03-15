@@ -1,0 +1,10 @@
+{
+  "name": "se7enhvn--agent-privacy-skill",
+  "description": "Interact with the Ceaser privacy protocol on Base L2. Shield and unshield ETH via CLI subcommands (npx ceaser-mcp shield/unshield/notes). Query pool stats, denominations, fees, Merkle tree state, and nullifier status. Ceaser is a privacy-preserving ETH wrapper using Noir/UltraHonk zero-knowledge proofs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "se7enhvn"
+  },
+  "homepage": "https://ceaser.org",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/se7enhvn/agent-privacy-skill"
+}

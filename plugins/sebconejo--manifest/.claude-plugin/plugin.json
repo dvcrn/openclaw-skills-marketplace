@@ -1,0 +1,10 @@
+{
+  "name": "sebconejo--manifest",
+  "description": "Install and configure the Manifest observability plugin for OpenClaw agents. Use when the user wants to set up Manifest telemetry, connect an agent to Manifest, configure an API key or endpoint, troubleshoot plugin connection issues, or check if the Manifest plugin is running.",
+  "version": "1.0.3",
+  "author": {
+    "name": "sebconejo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sebconejo/manifest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sebconejo/manifest"
+}

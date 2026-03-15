@@ -1,0 +1,10 @@
+{
+  "name": "xuwei-stream--skill-registry-unified",
+  "description": "一体化技能注册表 - 本地优先匹配，无匹配则自动搜索ClawHub并安全安装，新装技能自动注册到细分分类。",
+  "version": "1.0.2",
+  "author": {
+    "name": "xuwei-stream"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xuwei-stream/skill-registry-unified",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xuwei-stream/skill-registry-unified"
+}

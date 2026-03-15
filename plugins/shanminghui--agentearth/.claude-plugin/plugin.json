@@ -1,0 +1,10 @@
+{
+  "name": "shanminghui--agentearth",
+  "description": "**Agent Earth Tool Discovery & Execution Engine**. This interface can discover and execute external tools to solve user tasks. Use this skill **only when** external, real-time information is required and external requests are explicitly enabled. Typical scenarios include: 1. **Real-time News & Events**: \"latest situation in Iran\", \"current events in Ukraine\", \"breaking news\". The skill handles the full lifecycle: `Recommend -> Select -> Validate -> Execute`. It is context-aware and MUST be used to resolve ambiguous references (e.g., \"there\", \"it\") by injecting context into the tool query.",
+  "version": "1.0.3",
+  "author": {
+    "name": "shanminghui"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shanminghui/agentearth",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shanminghui/agentearth"
+}

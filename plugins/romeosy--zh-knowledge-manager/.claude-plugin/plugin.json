@@ -1,0 +1,10 @@
+{
+  "name": "romeosy--zh-knowledge-manager",
+  "description": "中文 AI 增强知识管理。PREFIX 确定性分类 + hash/语义去重 + jieba 自动标签 + LLM 对话知识提取。",
+  "version": "1.0.1",
+  "author": {
+    "name": "romeosy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/romeosy/zh-knowledge-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romeosy/zh-knowledge-manager"
+}

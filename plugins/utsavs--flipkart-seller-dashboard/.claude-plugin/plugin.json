@@ -1,0 +1,10 @@
+{
+  "name": "utsavs--flipkart-seller-dashboard",
+  "description": "Daily e-commerce intelligence for Indian Flipkart and Amazon India sellers. Tracks orders, returns, inventory levels, competitor pricing, Buy Box status, and sends WhatsApp morning summaries. Essential for sellers managing ₹5L+ monthly GMV.",
+  "version": "1.0.0",
+  "author": {
+    "name": "utsavs"
+  },
+  "homepage": "https://clawhub.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/utsavs/flipkart-seller-dashboard"
+}

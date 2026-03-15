@@ -1,0 +1,10 @@
+{
+  "name": "juanpin--yutori-web-research",
+  "description": "Use Yutori’s Research API and Browsing API (cloud browser) to research topics, collect sources, and extract structured facts from the web. Use when the user asks to “research X”, “monitor/find papers”, or “navigate to a site and extract info” and you have access to YUTORI dev/prod endpoints via YUTORI_API_BASE and an API key in env (YUTORI_API_KEY or ~/.openclaw/openclaw.json env.YUTORI_API_KEY).",
+  "version": "1.0.1",
+  "author": {
+    "name": "juanpin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/juanpin/yutori-web-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/juanpin/yutori-web-research"
+}

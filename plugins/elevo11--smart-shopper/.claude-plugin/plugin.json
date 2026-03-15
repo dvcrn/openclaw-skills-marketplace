@@ -1,0 +1,10 @@
+{
+  "name": "elevo11--smart-shopper",
+  "description": "Find and compare products across Amazon, Temu, SHEIN and local stores. Use when a user wants to: (1) Shop for products or find best deals, (2) Compare prices across platforms, (3) Find items locally or online, (4) Create shopping lists with buy links, (5) Filter by budget (low/mid/high or \"$X\"), brand, features, color. Supports dual-mode search (online + local stores). Integrates SkillPay.me at 0.001 USDT/call.",
+  "version": "1.1.0",
+  "author": {
+    "name": "elevo11"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/elevo11/smart-shopper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/elevo11/smart-shopper"
+}

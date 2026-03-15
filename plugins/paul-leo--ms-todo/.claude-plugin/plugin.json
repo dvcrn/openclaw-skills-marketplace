@@ -1,0 +1,10 @@
+{
+  "name": "paul-leo--ms-todo",
+  "description": "Microsoft To Do 任务管理集成。管理任务列表和任务，创建、完成、删除任务。通过 MorphixAI 代理安全访问 Microsoft Graph API。",
+  "version": "0.1.1",
+  "author": {
+    "name": "paul-leo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/paul-leo/ms-todo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paul-leo/ms-todo"
+}

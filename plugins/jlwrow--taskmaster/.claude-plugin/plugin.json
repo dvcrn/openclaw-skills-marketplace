@@ -1,0 +1,10 @@
+{
+  "name": "jlwrow--taskmaster",
+  "description": "Project manager and task delegation system. Use when you need to break down complex work into smaller tasks, assign appropriate AI models based on complexity, spawn sub-agents for parallel execution, track progress, and manage token budgets. Ideal for research projects, multi-step workflows, or when you want to delegate routine tasks to cheaper models while handling complex coordination yourself.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jlwrow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jlwrow/taskmaster",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jlwrow/taskmaster"
+}

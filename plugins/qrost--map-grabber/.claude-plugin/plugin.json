@@ -1,0 +1,10 @@
+{
+  "name": "qrost--map-grabber",
+  "description": "Fetch OpenStreetMap vector data (streets, buildings) for an address and export to SVG, GeoPackage, or DXF for CAD/Rhino.",
+  "version": "1.1.2",
+  "author": {
+    "name": "qrost"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qrost/map-grabber",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qrost/map-grabber"
+}

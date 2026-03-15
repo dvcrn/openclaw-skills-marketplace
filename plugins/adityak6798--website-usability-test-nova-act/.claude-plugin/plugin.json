@@ -1,0 +1,10 @@
+{
+  "name": "adityak6798--website-usability-test-nova-act",
+  "description": "AI-orchestrated usability testing using Amazon Nova Act. The agent generates personas, runs tests to collect raw data, interprets responses to determine goal achievement, and generates HTML reports. Tests real user workflows (booking, checkout, posting) with safety guardrails. Use when asked to \"test website usability\", \"run usability test\", \"generate usability report\", \"evaluate user experience\", \"test checkout flow\", \"test booking process\", or \"analyze website UX\".",
+  "version": "1.0.3",
+  "author": {
+    "name": "adityak6798"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adityak6798/website-usability-test-nova-act",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adityak6798/website-usability-test-nova-act"
+}

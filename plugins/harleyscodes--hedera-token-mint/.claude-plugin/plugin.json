@@ -1,0 +1,10 @@
+{
+  "name": "harleyscodes--hedera-token-mint",
+  "description": "Create and manage tokens on Hedera (HTS). Use for: (1) Minting fungible tokens, (2) Creating NFTs (HTS), (3) Setting up token supplies, (4) Configuring token permissions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "harleyscodes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harleyscodes/hedera-token-mint",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harleyscodes/hedera-token-mint"
+}

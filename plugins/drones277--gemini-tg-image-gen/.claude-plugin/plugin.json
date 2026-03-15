@@ -1,0 +1,10 @@
+{
+  "name": "drones277--gemini-tg-image-gen",
+  "description": "Generate images via OpenRouter (google/gemini-2.5-flash-image) and send to Telegram. Use when user asks for AI-generated images in TG.",
+  "version": "1.0.0",
+  "author": {
+    "name": "drones277"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/drones277/gemini-tg-image-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/drones277/gemini-tg-image-gen"
+}

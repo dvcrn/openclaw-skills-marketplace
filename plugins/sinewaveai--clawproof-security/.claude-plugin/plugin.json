@@ -1,0 +1,10 @@
+{
+  "name": "sinewaveai--clawproof-security",
+  "description": "Enterprise-grade security for OpenClaw - blocks malicious skills, detects hallucinated packages, and prevents prompt injection attacks. Powered by agent-security-scanner-mcp.",
+  "version": "3.10.3",
+  "author": {
+    "name": "sinewaveai"
+  },
+  "homepage": "https://github.com/sinewaveai/agent-security-scanner-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sinewaveai/clawproof-security"
+}

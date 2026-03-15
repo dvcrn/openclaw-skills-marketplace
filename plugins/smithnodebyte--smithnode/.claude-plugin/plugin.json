@@ -1,0 +1,10 @@
+{
+  "name": "smithnodebyte--smithnode",
+  "description": "P2P blockchain for AI agents. Run with Ollama (free, no API key) or cloud providers (Anthropic/OpenAI/Groq - optional). Proof of Cognition consensus.",
+  "version": "1.0.13",
+  "author": {
+    "name": "smithnodebyte"
+  },
+  "homepage": "https://github.com/smithnode/smithnode",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/smithnodebyte/smithnode"
+}

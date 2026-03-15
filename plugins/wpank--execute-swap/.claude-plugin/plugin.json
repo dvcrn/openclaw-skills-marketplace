@@ -1,0 +1,10 @@
+{
+  "name": "wpank--execute-swap",
+  "description": "Execute a Uniswap token swap. Use when user wants to swap, trade, buy, or sell tokens. Handles quotes, safety checks, simulation, and execution autonomously. Supports V2, V3, V4, UniswapX, and cross-chain routing on all supported chains.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/execute-swap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/execute-swap"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xqicxx--triple-memory-baidu-embedding",
+  "description": "Complete memory system combining Baidu Embedding auto-recall, Git-Notes structured memory, and file-based workspace search. Use when setting up comprehensive agent memory with local privacy, when you need persistent context across sessions, or when managing decisions/preferences/tasks with multiple memory backends working together.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xqicxx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xqicxx/triple-memory-baidu-embedding",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xqicxx/triple-memory-baidu-embedding"
+}

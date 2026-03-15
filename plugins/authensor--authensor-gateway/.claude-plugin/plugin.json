@@ -1,0 +1,10 @@
+{
+  "name": "authensor--authensor-gateway",
+  "description": "Fail-safe policy gate for OpenClaw marketplace skills. Intercepts tool calls before execution and checks them against your Authensor policy. Low-risk actions run automatically. High-risk actions require your approval. Dangerous actions are blocked. Only action metadata is sent to the control plane — never your files, API keys, or conversation content.",
+  "version": "0.7.0",
+  "author": {
+    "name": "authensor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/authensor/authensor-gateway",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/authensor/authensor-gateway"
+}

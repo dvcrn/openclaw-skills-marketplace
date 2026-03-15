@@ -1,0 +1,10 @@
+{
+  "name": "wpank--extraction",
+  "description": "Extract design systems, architecture patterns, and methodology from codebases into reusable skills and documentation. Use when analyzing a project to capture patterns, creating skills from existing code, extracting design tokens, or documenting how a project was built. Triggers on \"extract patterns\", \"extract from this repo\", \"analyze this codebase\", \"create skills from this project\", \"extract design system\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/extraction",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/extraction"
+}

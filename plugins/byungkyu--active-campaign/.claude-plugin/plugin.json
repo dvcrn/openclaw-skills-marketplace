@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--active-campaign",
+  "description": "ActiveCampaign API integration with managed OAuth. Marketing automation, CRM, contacts, deals, and email campaigns.\n Use this skill when users want to manage contacts, deals, tags, lists, automations, or campaigns in ActiveCampaign.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.6",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/active-campaign",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/active-campaign"
+}

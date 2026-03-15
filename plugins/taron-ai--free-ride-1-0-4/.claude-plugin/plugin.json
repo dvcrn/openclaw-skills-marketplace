@@ -1,0 +1,10 @@
+{
+  "name": "taron-ai--free-ride-1-0-4",
+  "description": "Manages free AI models from OpenRouter for OpenClaw. Automatically ranks models by quality, configures fallbacks for rate-limit handling, and updates openclaw.json. Use when the user mentions free AI, OpenRouter, model switching, rate limits, or wants to reduce AI costs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "taron-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/taron-ai/free-ride-1-0-4",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/taron-ai/free-ride-1-0-4"
+}

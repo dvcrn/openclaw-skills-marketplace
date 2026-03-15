@@ -1,0 +1,10 @@
+{
+  "name": "shenruiyang--sap-bah-openapi-backend-openclaw",
+  "description": "Reliable SAP Business Accelerator Hub API spec downloader for OpenClaw. Uses SAP_HUB_USERNAME and SAP_HUB_PASSWORD to log in through Playwright Chromium, downloads OpenAPI JSON/YAML and OData EDMX to /usr/download, validates payload signatures, and supports importing specs into APIConnectionToSAP categories.",
+  "version": "1.0.2",
+  "author": {
+    "name": "shenruiyang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shenruiyang/sap-bah-openapi-backend-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shenruiyang/sap-bah-openapi-backend-openclaw"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--monitor-gen",
+  "description": "Generate monitoring and alerting configs for Prometheus and Grafana. Use when setting up observability.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/monitor-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/monitor-gen"
+}

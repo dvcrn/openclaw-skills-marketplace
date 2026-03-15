@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--chat-window",
+  "description": "PyQt5-based GUI chat window for LLM conversations with streaming responses and stop functionality. Use when working with pywayne.llm.chat_window module to create desktop chat applications with customizable window configuration, system message management, and real-time streaming display.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/chat-window",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/chat-window"
+}

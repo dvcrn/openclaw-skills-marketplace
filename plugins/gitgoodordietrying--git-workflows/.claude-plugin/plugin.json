@@ -1,0 +1,10 @@
+{
+  "name": "gitgoodordietrying--git-workflows",
+  "description": "Advanced git operations beyond add/commit/push. Use when rebasing, bisecting bugs, using worktrees for parallel development, recovering with reflog, managing subtrees/submodules, resolving merge conflicts, cherry-picking across branches, or working with monorepos.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gitgoodordietrying"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/git-workflows",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/git-workflows"
+}

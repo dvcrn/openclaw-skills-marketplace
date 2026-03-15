@@ -1,0 +1,10 @@
+{
+  "name": "kriptoburak--xquik-x-twitter",
+  "description": "X API & Twitter automation skill. Build integrations with the Xquik REST API, MCP server & webhooks: tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, trending topics, account monitoring, reply/retweet/quote extraction, community & Space data, write actions (tweet, like, retweet, follow, DM, profile, media upload), Telegram integrations.",
+  "version": "1.7.0",
+  "author": {
+    "name": "kriptoburak"
+  },
+  "homepage": "https://xquik.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kriptoburak/xquik-x-twitter"
+}

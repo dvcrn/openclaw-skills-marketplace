@@ -1,0 +1,10 @@
+{
+  "name": "phy041--phy-creator-watch",
+  "description": "Manage and analyze a curated watchlist of Twitter/X creators for learning and research. Tracks solopreneurs, thought leaders, AI researchers, and content creators. Scrape their content, import to a database, and analyze patterns. Triggers on \"creator watchlist\", \"scrape creators\", \"update creator database\", \"who should I follow\", \"analyze creator\", \"track influencer\", or any creator monitoring request.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phy041"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-creator-watch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-creator-watch"
+}

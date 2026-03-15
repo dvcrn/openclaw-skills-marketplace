@@ -1,0 +1,10 @@
+{
+  "name": "sibo-zhao--openclaw-knowledge-coach",
+  "description": "Build and operate an OpenClaw-based local knowledge assistant that imports personal/local documents into a knowledge base and creates practice exercises during import. Use when users ask to set up OpenClaw knowledge workflows, ingest local notes/files, structure chunks and tags, or generate retrieval practice (quiz, flashcards, recall prompts) to master stored knowledge.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sibo-zhao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sibo-zhao/openclaw-knowledge-coach",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sibo-zhao/openclaw-knowledge-coach"
+}

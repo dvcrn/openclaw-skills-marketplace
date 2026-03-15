@@ -1,0 +1,10 @@
+{
+  "name": "vince-winkintel--planetscale-cli-skills",
+  "description": "Comprehensive PlanetScale CLI (pscale) command reference and workflows for database management via terminal. Use when user mentions PlanetScale CLI, pscale commands, database branches, deploy requests, schema migrations, or any PlanetScale terminal operations. Routes to specialized sub-skills for auth, branches, deploy requests, databases, backups, and 10+ other pscale commands. Triggers on pscale, PlanetScale CLI, database branch, deploy request, schema migration, PlanetScale automation.",
+  "version": "1.0.2",
+  "author": {
+    "name": "vince-winkintel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vince-winkintel/planetscale-cli-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vince-winkintel/planetscale-cli-skills"
+}

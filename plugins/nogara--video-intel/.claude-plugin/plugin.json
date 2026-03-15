@@ -1,0 +1,10 @@
+{
+  "name": "nogara--video-intel",
+  "description": "Download videos and get transcripts, summaries, or metadata from YouTube, TikTok, Instagram, and X (Twitter). Use when the user shares a video URL and wants a transcript, summary, key points, quotes, or to download the video. Triggers on phrases like \"transcript this video\", \"summarize this YouTube video\", \"what does this video say\", \"download this TikTok\", \"get captions from\", or any video URL from youtube.com, youtu.be, tiktok.com, instagram.com, x.com, twitter.com. Requires: yt-dlp, python3, curl. Optional: ffmpeg (for TikTok/Instagram/X audio), OPENAI_API_KEY (Whisper fallback — uploads audio to OpenAI).",
+  "version": "1.0.1",
+  "author": {
+    "name": "nogara"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nogara/video-intel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nogara/video-intel"
+}

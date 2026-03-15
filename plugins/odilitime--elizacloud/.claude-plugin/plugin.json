@@ -1,0 +1,10 @@
+{
+  "name": "odilitime--elizacloud",
+  "description": "Manage elizaOS Cloud - deploy AI agents, chat completions, image/video generation, voice cloning, knowledge base, containers, and marketplace. Use when interacting with elizaOS Cloud, elizacloud.ai, deploying eliza agents, or managing cloud-hosted AI agents. Requires ELIZACLOUD_API_KEY environment variable.",
+  "version": "1.1.0",
+  "author": {
+    "name": "odilitime"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/odilitime/elizacloud",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odilitime/elizacloud"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "erikashby--ai-specialists",
+  "description": "Interact with AI Specialists via the AI Specialists Hub MCP endpoint. Use when the user asks about any of their AI specialists (e.g. Ruby, Peter, Benjamin, Marty), wants to read/write specialist documents, manage meal plans, check specialist workspaces, hire/dismiss specialists, or work with any MCP-connected specialist. Also use when the user mentions \"specialist\", \"AI specialist\", \"MCP\", or refers to a specialist by name.",
+  "version": "1.1.0",
+  "author": {
+    "name": "erikashby"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/erikashby/ai-specialists",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/erikashby/ai-specialists"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cadot-eu--script-creator",
+  "description": "Create and modify scripts in ~/.nanobot/workspace/test with strict Git versioning. Each script lives in its own directory with an isolated git repository. Always confirms creation plan before execution and reports progress at each step. Uses ~/.nanobot/workspace/venv for Python environment and package management.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cadot-eu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cadot-eu/script-creator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cadot-eu/script-creator"
+}

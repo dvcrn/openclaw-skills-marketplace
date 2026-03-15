@@ -1,0 +1,10 @@
+{
+  "name": "trondw--local-voice",
+  "description": "Local text-to-speech (TTS) and speech-to-text (STT) using FluidAudio on Apple Silicon. Sub-second voice synthesis and transcription running entirely on-device via the Apple Neural Engine. Use when setting up local voice capabilities, voice assistant integration, or replacing cloud TTS/STT services.",
+  "version": "1.0.1",
+  "author": {
+    "name": "trondw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/trondw/local-voice",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/trondw/local-voice"
+}

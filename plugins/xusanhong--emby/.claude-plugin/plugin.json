@@ -1,0 +1,10 @@
+{
+  "name": "xusanhong--emby",
+  "description": "Emby Server API integration for managing media libraries, users, devices, live TV, and encoding settings. Use when interacting with Emby media server including: (1) Querying movies, shows, artists, albums, genres, (2) Managing users and authentication, (3) Controlling playback sessions, (4) Live TV and recording management, (5) Library and folder operations, (6) Device management, (7) System configuration and encoding options.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xusanhong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xusanhong/emby",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xusanhong/emby"
+}

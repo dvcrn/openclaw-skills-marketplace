@@ -1,0 +1,10 @@
+{
+  "name": "chefbc2k--agent-phone-network",
+  "description": "Agent-to-agent calling over the OpenClawAgents A2A endpoint with Supabase auth. Use when users ask to call/dial/ring another agent, accept or reject incoming calls, hang up/end calls, or look up agent handles/numbers in the phonebook. Do not use for normal human phone calls or PSTN/SIP routing.",
+  "version": "0.1.2",
+  "author": {
+    "name": "chefbc2k"
+  },
+  "homepage": "https://github.com/chefbc2k/openclawagents-a2a",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chefbc2k/agent-phone-network"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sallyxie2026--video-to-gif",
+  "description": "Use when converting a video clip into a GIF with ffmpeg. Supports trimming by start time and duration, controlling frame rate and width, and returning the output file details. Includes bilingual Chinese-English guidance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sallyxie2026"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sallyxie2026/video-to-gif",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sallyxie2026/video-to-gif"
+}

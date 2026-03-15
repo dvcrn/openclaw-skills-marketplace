@@ -1,0 +1,10 @@
+{
+  "name": "jean-maradiaga--ai-hookbot",
+  "description": "Scrape viral hooks from YouTube Shorts creators and stitch them with a CTA video to produce ready-to-post TikTok/Reels/Shorts content. Use when asked to make hooks, scrape Shorts, create content from a creator, or run the Hookbot pipeline. Triggers on phrases like \"make me hooks from @X\", \"scrape hooks\", \"run hookbot\", \"create content from [creator]\", \"stitch my CTA\".",
+  "version": "1.0.2",
+  "author": {
+    "name": "jean-maradiaga"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jean-maradiaga/ai-hookbot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jean-maradiaga/ai-hookbot"
+}

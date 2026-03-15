@@ -1,0 +1,10 @@
+{
+  "name": "larsderidder--agent-content-pipeline",
+  "description": "Safe content workflow (drafts/reviewed/revised/approved/posted) with human-in-the-loop approval, plus CLI to list/move/review and post to LinkedIn/X. Use when setting up a content pipeline, drafting content, managing review threads, or posting approved content.",
+  "version": "0.2.3",
+  "author": {
+    "name": "larsderidder"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/larsderidder/agent-content-pipeline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/larsderidder/agent-content-pipeline"
+}

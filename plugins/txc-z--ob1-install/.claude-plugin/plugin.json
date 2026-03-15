@@ -1,0 +1,10 @@
+{
+  "name": "txc-z--ob1-install",
+  "description": "Install and authenticate OB1 (OpenBlock One), a multi-model terminal coding agent. Use when asked to install OB1, set up ob1, or when ob1 authentication/login is needed. Covers macOS/Linux install, device code authentication flow, and post-install verification.",
+  "version": "1.0.0",
+  "author": {
+    "name": "txc-z"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/txc-z/ob1-install",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/txc-z/ob1-install"
+}

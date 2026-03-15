@@ -1,0 +1,10 @@
+{
+  "name": "moroiser--bilibili-messager",
+  "description": "Bilibili private messaging via browser automation. B站私信发送，通过浏览器自动化发送私信、获取聊天记录。Use when user needs to send B站私信、回复消息、获取聊天记录。Requires browser login. Triggers: B站, b站, bilibili, Bilibili, 哔哩哔哩, B站私信, bilibili dm, bilibili message, B站消息, B站发消息, send bilibili message, B站聊天, bilibili chat, B站回复, reply bilibili, 获取B站聊天记录, get bilibili chat history, B站私信发送, send bilibili dm, 给B站用户发消息, message bilibili user, B站私信自动化, bilibili dm automation, 哔哩哔哩私信, 哔哩哔哩消息.",
+  "version": "1.3.2",
+  "author": {
+    "name": "moroiser"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moroiser/bilibili-messager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moroiser/bilibili-messager"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jackzhenguo--wechat-group-qa",
+  "description": "从企业微信群提取学员提问，按课程阶段分类并生成表格。当用户在企业微信群里@机器人提问时，自动记录问题并整理。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jackzhenguo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jackzhenguo/wechat-group-qa",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jackzhenguo/wechat-group-qa"
+}

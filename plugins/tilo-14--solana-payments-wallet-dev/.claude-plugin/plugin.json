@@ -1,0 +1,10 @@
+{
+  "name": "tilo-14--solana-payments-wallet-dev",
+  "description": "For stablecoin payment flows and wallet integrations on Solana 200x cheaper token accounts. Receive, send, balance, history, and client-side signing with Privy and Solana wallet adapters. Optional guide to add nullifiers to prevent payments from being executed more than once.",
+  "version": "1.0.2",
+  "author": {
+    "name": "tilo-14"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tilo-14/solana-payments-wallet-dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tilo-14/solana-payments-wallet-dev"
+}

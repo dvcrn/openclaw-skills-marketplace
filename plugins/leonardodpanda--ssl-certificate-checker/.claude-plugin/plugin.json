@@ -1,0 +1,10 @@
+{
+  "name": "leonardodpanda--ssl-certificate-checker",
+  "description": "Check SSL/TLS certificate details including expiration date, issuer, validity, cipher suites, and security warnings for any domain. Use when verifying HTTPS security, monitoring certificate expiry, or troubleshooting SSL issues.",
+  "version": "1.0.0",
+  "author": {
+    "name": "leonardodpanda"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leonardodpanda/ssl-certificate-checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leonardodpanda/ssl-certificate-checker"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hejk--feishu-automation",
+  "description": "Advanced automation workflows for Feishu (Lark) productivity suite. Use when you need to automate document workflows, sync data across Feishu apps, generate reports, or perform batch operations across documents, wikis, bitables, and cloud storage. Triggers: \"批量处理飞书文档\", \"自动同步飞书表格数据\", \"备份知识库\", \"生成飞书报告\", \"自动化飞书任务\", \"飞书数据迁移\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "hejk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hejk/feishu-automation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hejk/feishu-automation"
+}

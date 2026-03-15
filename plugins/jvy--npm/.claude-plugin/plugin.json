@@ -1,0 +1,10 @@
+{
+  "name": "jvy--npm",
+  "description": "Use npm for package install, version inspection, dist-tags, and safe publish flows. Use when working on OpenClaw or ClawHub package releases, validating published versions, or handling npm auth/OTP publishing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jvy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jvy/npm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jvy/npm"
+}

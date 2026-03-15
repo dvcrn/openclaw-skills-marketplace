@@ -1,0 +1,10 @@
+{
+  "name": "jhillock--discord-doctor",
+  "description": "Quick diagnosis and repair for Discord bot, Gateway, OAuth token, and legacy config issues. Checks connectivity, token expiration, and cleans up old Clawdis artifacts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jhillock"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jhillock/discord-doctor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jhillock/discord-doctor"
+}

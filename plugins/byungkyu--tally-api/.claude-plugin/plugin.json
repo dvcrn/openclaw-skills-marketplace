@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--tally-api",
+  "description": "Tally API integration with managed OAuth. Manage forms, submissions, workspaces, and webhooks.\n Use this skill when users want to create or manage Tally forms, retrieve form submissions, or work with workspaces.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.2",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/tally-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/tally-api"
+}

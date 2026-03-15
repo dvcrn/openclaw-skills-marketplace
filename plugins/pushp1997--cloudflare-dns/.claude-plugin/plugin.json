@@ -1,0 +1,10 @@
+{
+  "name": "pushp1997--cloudflare-dns",
+  "description": "Manage Cloudflare DNS records via API. Use when user asks to list, create, update, or delete DNS records, set up DDNS, manage domains on Cloudflare, or check DNS propagation. Supports A, AAAA, CNAME, TXT, MX, and other record types.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pushp1997"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pushp1997/cloudflare-dns",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pushp1997/cloudflare-dns"
+}

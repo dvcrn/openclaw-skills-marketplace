@@ -1,0 +1,10 @@
+{
+  "name": "keylimesoda--last30days-openclaw",
+  "description": "OpenClaw adaptation of @mvanhorn's last30days skill. Research any topic from the last 30 days across Reddit, X, YouTube, TikTok, Instagram, Hacker News, Polymarket, and web. Includes watchlists, briefing generation, and historical query mode.",
+  "version": "1.0.0-openclaw.1",
+  "author": {
+    "name": "keylimesoda"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/keylimesoda/last30days-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/keylimesoda/last30days-openclaw"
+}

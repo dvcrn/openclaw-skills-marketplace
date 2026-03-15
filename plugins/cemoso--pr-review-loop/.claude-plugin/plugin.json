@@ -1,0 +1,10 @@
+{
+  "name": "cemoso--pr-review-loop",
+  "description": "Autonomous PR review loop with Greptile. Use when an agent creates a PR and needs to autonomously handle code review feedback — reading Greptile reviews, fixing issues, pushing fixes, re-triggering review, and auto-merging when score is 4/5+. Trigger on commands like \"pr review {url}\", \"review my PR\", or when a Greptile review webhook/poll delivers feedback.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cemoso"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cemoso/pr-review-loop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cemoso/pr-review-loop"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "deepseekoracle--lyra-coin-launch-manager",
+  "description": "Coin launch memory + verification workflow for Clawnch (4claw/Moltx/Moltbook). Use to launch tokens safely, record canonical receipts (contract+txHash+postUrl), update local dashboard, and save Clanker/monitor links into BOOKMARK BRAIN.",
+  "version": "1.1.0",
+  "author": {
+    "name": "deepseekoracle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lyra-coin-launch-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lyra-coin-launch-manager"
+}

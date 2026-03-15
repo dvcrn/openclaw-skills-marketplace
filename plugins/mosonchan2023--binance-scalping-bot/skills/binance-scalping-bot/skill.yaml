@@ -1,0 +1,32 @@
+#BJ|# skill.yaml
+#SB|name: binance-scalping-bot
+#VK|slug: binance-scalping-bot
+#HY|version: 1.0.0
+#WZ|author: moson
+#VX|description: 快速小额交易剥头皮策略。每次调用自动扣费 0.001 USDT
+#RX|license: MIT
+#TS|tags:
+#JM|  - binance
+#BR|  - scalping
+#YS|  - trading
+#PR|permissions:
+#WZ|  - network
+#RZ|config:
+#QW|  SKILLPAY_API_KEY:
+#PJ|    type: string
+#ZZ|    required: true
+#PM|    secret: true
+#TK|  API_KEY:
+#PJ|    type: string
+#ZZ|    required: false
+#PM|    secret: true
+#TK|  API_SECRET:
+#PJ|    type: string
+#ZZ|    required: false
+#PM|    secret: true
+#VW|entryPoint:
+#SZ|  type: typescript
+#ZK|  path: index.js
+#KX|price:
+#VV|  amount: 0.001
+#RV|  currency: USDT

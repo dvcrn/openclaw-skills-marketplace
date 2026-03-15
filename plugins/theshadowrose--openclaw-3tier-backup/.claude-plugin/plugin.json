@@ -1,0 +1,10 @@
+{
+  "name": "theshadowrose--openclaw-3tier-backup",
+  "description": "Automated backup in 3 layers: daily timestamped snapshots, secondary drive mirror, and emergency conversation export.",
+  "version": "1.0.0",
+  "author": {
+    "name": "theshadowrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/openclaw-3tier-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/openclaw-3tier-backup"
+}

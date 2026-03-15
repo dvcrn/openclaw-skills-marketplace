@@ -1,0 +1,10 @@
+{
+  "name": "racymind--english-learn-cards",
+  "description": "Flashcard-based English vocabulary learning with SQLite + SRS. Works with any chat platform when paired with an OpenClaw agent prompt.",
+  "version": "0.1.1",
+  "author": {
+    "name": "racymind"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/racymind/english-learn-cards",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/racymind/english-learn-cards"
+}

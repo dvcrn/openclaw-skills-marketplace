@@ -1,0 +1,10 @@
+{
+  "name": "fredhjc--ai-twitter-digest",
+  "description": "Monitor a curated list of AI/tech Twitter accounts, summarize the day's key posts using an LLM, and deliver a formatted digest to a Discord channel. Use when: (1) setting up a daily automated AI news briefing from Twitter/X, (2) scheduling or running a one-shot Twitter digest to Discord, (3) managing or updating the monitored account list, summarization prompt, or delivery format.",
+  "version": "1.0.1",
+  "author": {
+    "name": "fredhjc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fredhjc/ai-twitter-digest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fredhjc/ai-twitter-digest"
+}

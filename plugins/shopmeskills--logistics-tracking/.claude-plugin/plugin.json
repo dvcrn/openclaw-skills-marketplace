@@ -1,0 +1,10 @@
+{
+  "name": "shopmeskills--logistics-tracking",
+  "description": "Track international packages by tracking number. Supports 3100+ carriers (China Post, DHL, FedEx, UPS, USPS, Yanwen, Cainiao, etc.) via 17track. Optional: set TRACK17_API_KEY for best results. Without a key, uses Playwright (headless browser) as fallback. Use when the user asks about package tracking, shipment status, delivery time, or logistics queries.",
+  "version": "1.0.1",
+  "author": {
+    "name": "shopmeskills"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shopmeskills/logistics-tracking",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shopmeskills/logistics-tracking"
+}

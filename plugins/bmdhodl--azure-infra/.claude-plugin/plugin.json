@@ -1,0 +1,10 @@
+{
+  "name": "bmdhodl--azure-infra",
+  "description": "Chat-based Azure infrastructure assistance using Azure CLI and portal context. Use for querying, auditing, and monitoring Azure resources (VMs, Storage, IAM, Functions, AKS, App Service, Key Vault, Azure Monitor, billing, etc.), and for proposing safe changes with explicit confirmation before any write/destructive action.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bmdhodl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bmdhodl/azure-infra",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bmdhodl/azure-infra"
+}

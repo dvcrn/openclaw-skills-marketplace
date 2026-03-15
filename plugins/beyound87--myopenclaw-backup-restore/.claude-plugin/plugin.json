@@ -1,0 +1,10 @@
+{
+  "name": "beyound87--myopenclaw-backup-restore",
+  "description": "Cross-platform backup and restore for OpenClaw. Works on Windows, macOS, and Linux — backups created on any OS can be restored on any other OS. Use when user wants to create a snapshot, restore from backup, migrate to a new machine, or protect against data loss. Supports dry-run preview, automatic pre-restore snapshots, gateway token preservation, credential permission hardening, and a built-in HTTP server for browser-based management. Only requires Node.js (no bash/rsync/python needed).",
+  "version": "3.0.2",
+  "author": {
+    "name": "beyound87"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/beyound87/myopenclaw-backup-restore",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/beyound87/myopenclaw-backup-restore"
+}

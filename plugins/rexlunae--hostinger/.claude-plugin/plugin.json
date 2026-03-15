@@ -1,0 +1,10 @@
+{
+  "name": "rexlunae--hostinger",
+  "description": "Manage Hostinger account via API — VPS administration (start/stop/restart, snapshots, backups, firewall, Docker), DNS zone management, domain portfolio, website hosting, and billing. Use when asked to deploy, publish, manage servers, configure DNS, or control any Hostinger service.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rexlunae"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rexlunae/hostinger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rexlunae/hostinger"
+}

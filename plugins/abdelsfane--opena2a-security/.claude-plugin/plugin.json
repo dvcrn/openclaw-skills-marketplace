@@ -1,0 +1,10 @@
+{
+  "name": "abdelsfane--opena2a-security",
+  "description": "Security hardening for OpenClaw. Audit your configuration, scan installed skills for malware, detect CVE-2026-25253, check credential exposure, and get actionable fix recommendations. Runs locally with no external API calls.",
+  "version": "1.0.0",
+  "author": {
+    "name": "abdelsfane"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abdelsfane/opena2a-security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abdelsfane/opena2a-security"
+}

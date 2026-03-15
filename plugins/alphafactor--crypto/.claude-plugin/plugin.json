@@ -1,0 +1,10 @@
+{
+  "name": "alphafactor--crypto",
+  "description": "Cryptocurrency market data and price alert monitoring tool based on CCXT. Supports multiple exchanges, real-time price tracking, and configurable price/volatility alerts. Use when the user needs to monitor crypto prices or set up trading alerts. Default exchange is Binance.",
+  "version": "1.0.5",
+  "author": {
+    "name": "alphafactor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/crypto",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/crypto"
+}

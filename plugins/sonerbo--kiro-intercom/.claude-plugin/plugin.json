@@ -1,0 +1,10 @@
+{
+  "name": "sonerbo--kiro-intercom",
+  "description": "Enable communication between multiple Kiro instances (VPS, laptop, etc.) via a shared chat file. Use when: (1) User wants different Kiro instances to talk to each other, (2) One Kiro needs to send a message to another, (3) Coordinating between Kiro instances in different locations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sonerbo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sonerbo/kiro-intercom",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sonerbo/kiro-intercom"
+}

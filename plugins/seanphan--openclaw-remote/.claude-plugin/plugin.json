@@ -1,0 +1,10 @@
+{
+  "name": "seanphan--openclaw-remote",
+  "description": "Set up and manage remote OpenClaw installations via SSH/tmux. Walks users through connecting to a remote machine (Tailscale or direct SSH), configuring model providers (z.ai, Anthropic, OpenAI, NVIDIA NIM, OpenRouter), setting primary/fallback models, managing auth, git-tracking config for rollback, hardening, and troubleshooting. Use when user asks to set up, configure, or manage OpenClaw on a remote server, VPS, or Mac mini.",
+  "version": "0.1.2",
+  "author": {
+    "name": "seanphan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seanphan/openclaw-remote",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seanphan/openclaw-remote"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "josealoha666--openscan-crypto",
+  "description": "Navigate and query crypto networks via OpenScan infrastructure. Use when the user asks about blockchain data — balances (ETH, ERC20, BTC), blocks, transactions, gas prices, mempool, fee estimates, token lookups, event decoding, RPC endpoints, or ENS resolution. Supports Ethereum, Bitcoin, Arbitrum, Optimism, Base, Polygon, BNB and Sepolia. Powered by @openscan/network-connectors and @openscan/metadata.",
+  "version": "1.0.0",
+  "author": {
+    "name": "josealoha666"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/josealoha666/openscan-crypto",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/josealoha666/openscan-crypto"
+}

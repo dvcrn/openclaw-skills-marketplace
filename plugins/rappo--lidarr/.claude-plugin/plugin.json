@@ -1,0 +1,10 @@
+{
+  "name": "rappo--lidarr",
+  "description": "Search and add music to Lidarr. Supports artists, albums, and quality profiles (FLAC preferred).",
+  "version": "1.0.0",
+  "author": {
+    "name": "rappo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rappo/lidarr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rappo/lidarr"
+}

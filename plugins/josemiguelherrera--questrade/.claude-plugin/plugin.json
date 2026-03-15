@@ -1,0 +1,10 @@
+{
+  "name": "josemiguelherrera--questrade",
+  "description": "Query a Questrade brokerage account and Canadian/US market data via the Questrade REST API. Use for account info (balances, positions, orders, executions, activities), Level 1 market quotes, historical OHLCV candles, and symbol search. Use when the user asks about their Questrade portfolio, Canadian/US stock prices, wants to check orders or executions, or search for a ticker. Note: personal API tokens are read-only — order placement requires Questrade partner access.",
+  "version": "1.0.0",
+  "author": {
+    "name": "josemiguelherrera"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/josemiguelherrera/questrade",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/josemiguelherrera/questrade"
+}

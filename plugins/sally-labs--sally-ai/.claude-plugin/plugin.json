@@ -1,0 +1,10 @@
+{
+  "name": "sally-labs--sally-ai",
+  "description": "Chat with Sally about metabolic health, blood sugar, A1C, nutrition, fasting, supplements, and lab results. Uses the Sally MCP server on Smithery with x402 micropayments.",
+  "version": "1.0.4",
+  "author": {
+    "name": "sally-labs"
+  },
+  "homepage": "https://asksally.xyz",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sally-labs/sally-ai"
+}

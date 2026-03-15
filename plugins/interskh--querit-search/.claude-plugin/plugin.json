@@ -1,0 +1,10 @@
+{
+  "name": "interskh--querit-search",
+  "description": "Web search via Querit.ai API. Use when you need to search the web for documentation, current events, facts, or any web content. Returns structured results with titles, URLs, and snippets.",
+  "version": "0.1.0",
+  "author": {
+    "name": "interskh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/interskh/querit-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/interskh/querit-search"
+}

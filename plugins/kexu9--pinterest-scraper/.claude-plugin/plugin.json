@@ -1,0 +1,10 @@
+{
+  "name": "kexu9--pinterest-scraper",
+  "description": "Full-featured Pinterest image scraper with infinite scroll, quality options, Telegram integration, duplicate detection, resume support, and verbose logging. Use when: (1) Scraping Pinterest boards/users/search, (2) Need quality options (originals/736x/474x/236x), (3) Sending images to Telegram, (4) Resuming interrupted scrapes, (5) Avoiding duplicate downloads, (6) Debugging with verbose logs.",
+  "version": "1.1.0",
+  "author": {
+    "name": "kexu9"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kexu9/pinterest-scraper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kexu9/pinterest-scraper"
+}

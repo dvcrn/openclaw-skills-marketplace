@@ -1,0 +1,10 @@
+{
+  "name": "rogeryelvington--ai-stack-builder",
+  "description": "Build a personalized AI tool stack based on role, goals, and budget. Recommends specific tools for each category (writing, meetings, coding, research, productivity, etc.) with free/paid tiers, pricing, and why each tool fits the user's situation. Pairs with ai-productivity-audit: audit cuts the bad tools, stack builder recommends the replacements. Use when a user asks what AI tools they should use, wants to build a productivity stack, is switching roles, or wants to set up AI tools from scratch. Premium version available: https://buy.stripe.com/4gMeVd7ld8Pk7U371P1Jm0M",
+  "version": "1.0.1",
+  "author": {
+    "name": "rogeryelvington"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rogeryelvington/ai-stack-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rogeryelvington/ai-stack-builder"
+}

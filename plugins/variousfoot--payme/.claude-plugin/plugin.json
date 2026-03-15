@@ -1,0 +1,10 @@
+{
+  "name": "variousfoot--payme",
+  "description": "Send and receive USDC/USDT crypto payments via PayMe smart wallets. Check balances, send stablecoins, view history, manage contacts, sell crypto for naira via P2P. Optional direct execute mode for users who want faster transfers. Supports Base, Arbitrum, Polygon, BNB Chain, and Avalanche.",
+  "version": "1.0.15",
+  "author": {
+    "name": "variousfoot"
+  },
+  "homepage": "https://payme.feedom.tech",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/variousfoot/payme"
+}

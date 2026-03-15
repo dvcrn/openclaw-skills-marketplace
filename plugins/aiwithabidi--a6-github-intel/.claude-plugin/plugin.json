@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--a6-github-intel",
+  "description": "Analyze any GitHub repository in AI-friendly format. Convert entire repos to single markdown documents, generate architecture diagrams with Mermaid, inspect structure trees, language breakdowns, and recent activity. Includes GitHub URL tricks, API shortcuts, and advanced search techniques. Read-only analysis — never executes code from repositories. Built for AI agents — Python stdlib only, no dependencies. Use for repository analysis, code architecture review, open source research, GitHub intelligence, repo documentation, and codebase understanding.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/a6-github-intel"
+}

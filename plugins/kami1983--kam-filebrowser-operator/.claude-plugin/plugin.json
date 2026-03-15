@@ -1,0 +1,10 @@
+{
+  "name": "kami1983--kam-filebrowser-operator",
+  "description": "Operate FileBrowser via REST API—login, list/upload/download resources, manage users. Scan for 采购单 files in scope, prompt user to download by number or all, or provide download/browser link. Organize files by order type (e.g. 采购单) into 类型/年份/月份/ structure; report files that could not be organized and why. Use when automating FileBrowser, calling its API, or integrating with it.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kami1983"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kami1983/kam-filebrowser-operator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kami1983/kam-filebrowser-operator"
+}

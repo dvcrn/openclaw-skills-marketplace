@@ -1,0 +1,10 @@
+{
+  "name": "adamnaghs--options-spread-conviction-engine",
+  "description": "Multi-regime options spread analysis engine with quantitative rigor. Features regime detection (VIX-based), GARCH volatility forecasting, drawdown-constrained Kelly position sizing, and walk-forward backtesting. Scores vertical spreads (bull put, bear call, bull call, bear put) and multi-leg strategies (iron condors, butterflies, calendar spreads) using Ichimoku, RSI, MACD, Bollinger Bands, and IV term structure analysis.",
+  "version": "2.2.1",
+  "author": {
+    "name": "adamnaghs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adamnaghs/options-spread-conviction-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adamnaghs/options-spread-conviction-engine"
+}

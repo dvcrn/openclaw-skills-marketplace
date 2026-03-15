@@ -1,0 +1,10 @@
+{
+  "name": "wjorgensen--hire-with-locus",
+  "description": "Enables AI agents to send USDC payments and order freelance services through an escrow-backed marketplace on Base. Handles wallet management, Fiverr-style gig ordering with tiered pricing, and order status polling. Use when the agent needs to make crypto payments, hire freelancers, or check order status on Locus.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wjorgensen"
+  },
+  "homepage": "https://paywithlocus.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wjorgensen/hire-with-locus"
+}

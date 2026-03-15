@@ -1,0 +1,10 @@
+{
+  "name": "puterjam--roon-controller",
+  "description": "Control Roon music player through Roon API with automatic Core discovery and zone filtering. Supports play/pause, next/previous track, and current track query. Automatically finds Muspi zones. Supports Chinese commands.",
+  "version": "1.0.3",
+  "author": {
+    "name": "puterjam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/puterjam/roon-controller",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/puterjam/roon-controller"
+}

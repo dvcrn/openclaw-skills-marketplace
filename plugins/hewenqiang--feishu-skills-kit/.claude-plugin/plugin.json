@@ -1,0 +1,10 @@
+{
+  "name": "hewenqiang--feishu-skills-kit",
+  "description": "Complete Feishu (Lark) Skills collection for Claude Code / OpenClaw.\n Includes 10 skills covering: document management, messaging, spreadsheets,\n Bitable, interactive cards, bot bridge, cross-group memory, and leave requests.\n\n 飞书 Skills 全集，含文档管理、消息发送、表格操作、多维表格、卡片消息、\n Bot 桥接、跨群记忆、请假审批等 10 个 Skill，附完整配置教程。\n\n Trigger on: feishu, 飞书, lark, feishu doc, feishu message, feishu sheet,\n feishu bitable, feishu card, feishu bridge, feishu bot",
+  "version": "1.0.0",
+  "author": {
+    "name": "hewenqiang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hewenqiang/feishu-skills-kit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hewenqiang/feishu-skills-kit"
+}

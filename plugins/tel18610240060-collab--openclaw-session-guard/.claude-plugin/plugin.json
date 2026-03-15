@@ -1,0 +1,10 @@
+{
+  "name": "tel18610240060-collab--openclaw-session-guard",
+  "description": "管理 OpenClaw 长会话防爆机制（80%自动归档、自动轮换新会话、低 token 交接）及定时任务安装。用户提到 compacting context、会话过长、自动总结归档、session 轮换、LaunchAgent 定时任务时使用。",
+  "version": "1.0.0",
+  "author": {
+    "name": "tel18610240060-collab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tel18610240060-collab/openclaw-session-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tel18610240060-collab/openclaw-session-guard"
+}

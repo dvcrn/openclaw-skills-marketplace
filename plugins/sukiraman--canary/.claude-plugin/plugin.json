@@ -1,0 +1,10 @@
+{
+  "name": "sukiraman--canary",
+  "description": "Scans your OpenClaw environment for leaked secrets â€” API keys, tokens, credentials in .env files, installed skills, and shell history. Runs silently on startup, deep scans on demand. Fixes issues with your permission.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sukiraman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sukiraman/canary",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sukiraman/canary"
+}

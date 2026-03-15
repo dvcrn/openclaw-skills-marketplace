@@ -1,0 +1,10 @@
+{
+  "name": "studio-hakke--opencode-acp-control-v2",
+  "description": "Control OpenCode directly via the Agent Client Protocol (ACP). Start sessions, send prompts, resume conversations, and manage OpenCode updates. Includes automatic recovery, stuck detection, and session management.",
+  "version": "2.2.1",
+  "author": {
+    "name": "studio-hakke"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/studio-hakke/opencode-acp-control-v2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/studio-hakke/opencode-acp-control-v2"
+}

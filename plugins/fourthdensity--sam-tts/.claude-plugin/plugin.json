@@ -1,0 +1,10 @@
+{
+  "name": "fourthdensity--sam-tts",
+  "description": "Generate retro robotic speech audio using SAM (Software Automatic Mouth), the classic C64 text-to-speech synthesizer. Use for /sam command to generate voice messages. Supports /sam on/off toggle mode where all responses are spoken in SAM voice. Supports pitch, speed, mouth, and throat parameters for voice customization.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fourthdensity"
+  },
+  "homepage": "https://github.com/discordier/sam",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fourthdensity/sam-tts"
+}

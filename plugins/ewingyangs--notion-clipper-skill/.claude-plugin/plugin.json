@@ -1,0 +1,10 @@
+{
+  "name": "ewingyangs--notion-clipper-skill",
+  "description": "Clip web pages to Notion. Fetches any URL via Chrome CDP, converts HTML to Markdown, then to Notion blocks, and saves to user-specified Notion database or page. Use when user wants to save/clip a webpage to Notion, or mentions \"clip to notion\", \"save page to notion\", \"网页剪藏到Notion\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "ewingyangs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ewingyangs/notion-clipper-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ewingyangs/notion-clipper-skill"
+}

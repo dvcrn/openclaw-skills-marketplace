@@ -1,0 +1,10 @@
+{
+  "name": "349840432m-dev--feishu-user-md",
+  "description": "飞书端读取USER.md任务清单。当用户说\"查看任务\"、\"我的任务\"时触发，实时解析并返回格式化的分类任务列表，让用户快速了解当前所有可用任务和技能。",
+  "version": "1.0.0",
+  "author": {
+    "name": "349840432m-dev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/349840432m-dev/feishu-user-md",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/349840432m-dev/feishu-user-md"
+}

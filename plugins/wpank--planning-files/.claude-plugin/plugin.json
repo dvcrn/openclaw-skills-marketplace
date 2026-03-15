@@ -1,0 +1,10 @@
+{
+  "name": "wpank--planning-files",
+  "description": "File-based planning for complex tasks. Use persistent markdown files as working memory to survive context resets. Creates task_plan.md, findings.md, and progress.md. Use for any task requiring >5 tool calls, research projects, or multi-step implementations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/planning-files",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/planning-files"
+}

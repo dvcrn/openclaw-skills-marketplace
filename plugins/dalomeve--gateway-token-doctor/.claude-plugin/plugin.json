@@ -1,0 +1,10 @@
+{
+  "name": "dalomeve--gateway-token-doctor",
+  "description": "Diagnose and fix gateway token mismatches causing 401 errors. Align tokens across config, service, and CLI surfaces.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dalomeve"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/gateway-token-doctor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/gateway-token-doctor"
+}

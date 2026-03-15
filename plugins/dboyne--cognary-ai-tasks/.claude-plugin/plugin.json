@@ -1,0 +1,10 @@
+{
+  "name": "dboyne--cognary-ai-tasks",
+  "description": "Manage task lists via cognary-cli. Use for listing, adding, updating, completing, uncompleting, and deleting tasks. Triggers on any request about tasks, to-dos, task lists, reminders-as-tasks, or tracking action items.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dboyne"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dboyne/cognary-ai-tasks",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dboyne/cognary-ai-tasks"
+}

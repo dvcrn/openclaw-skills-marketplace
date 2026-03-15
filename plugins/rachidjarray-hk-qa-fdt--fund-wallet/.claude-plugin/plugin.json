@@ -1,0 +1,10 @@
+{
+  "name": "rachidjarray-hk-qa-fdt--fund-wallet",
+  "description": "Add funds to the wallet. Use when you or the user want to fund, deposit, top up, load, add funds, onramp, buy crypto, or get tokens into the wallet. Also use when the wallet has insufficient balance for a send, swap, or DeFi operation, or when someone asks \"how do I get funds?\" or \"how do I add money?\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "rachidjarray-hk-qa-fdt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rachidjarray-hk-qa-fdt/fund-wallet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rachidjarray-hk-qa-fdt/fund-wallet"
+}

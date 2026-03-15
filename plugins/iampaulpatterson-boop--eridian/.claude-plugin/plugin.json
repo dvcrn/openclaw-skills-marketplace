@@ -1,0 +1,10 @@
+{
+  "name": "iampaulpatterson-boop--eridian",
+  "description": "Runtime security hardening for OpenClaw agents. Protects against prompt injection, data exfiltration, credential leaks, and unauthorized operations. Use when setting up agent security, performing security audits, protecting credentials, preventing data leaks, hardening agent configurations, or defending against indirect prompt injection attacks. Complements pre-installation skill scanners by hardening the agent itself at runtime.",
+  "version": "1.0.0",
+  "author": {
+    "name": "iampaulpatterson-boop"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iampaulpatterson-boop/eridian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iampaulpatterson-boop/eridian"
+}

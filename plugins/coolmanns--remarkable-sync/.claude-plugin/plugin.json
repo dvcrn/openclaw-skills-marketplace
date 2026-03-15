@@ -1,0 +1,10 @@
+{
+  "name": "coolmanns--remarkable-sync",
+  "description": "Bidirectional sync with reMarkable tablet via Cloud API (rmapi). Fetch handwritten notes/sketches, process with AI, and push content back. Use for sketch enhancement, journal extraction, or sending documents/images to the tablet.",
+  "version": "1.0.0",
+  "author": {
+    "name": "coolmanns"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/coolmanns/remarkable-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/coolmanns/remarkable-sync"
+}

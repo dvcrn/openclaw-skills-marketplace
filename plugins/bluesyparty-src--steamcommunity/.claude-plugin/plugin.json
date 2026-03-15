@@ -1,0 +1,10 @@
+{
+  "name": "bluesyparty-src--steamcommunity",
+  "description": "Retrieves Steam inventory data and manages trade offers on steamcommunity.com",
+  "version": "1.0.1",
+  "author": {
+    "name": "bluesyparty-src"
+  },
+  "homepage": "https://steamcommunity.com/dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bluesyparty-src/steamcommunity"
+}

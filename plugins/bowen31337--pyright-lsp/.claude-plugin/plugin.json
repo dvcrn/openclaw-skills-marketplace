@@ -1,0 +1,10 @@
+{
+  "name": "bowen31337--pyright-lsp",
+  "description": "Python language server (Pyright) providing static type checking, code intelligence, and LSP diagnostics for .py and .pyi files. Use when working with Python code that needs type checking, autocomplete suggestions, error detection, or code navigation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bowen31337"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/pyright-lsp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/pyright-lsp"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "nakedoshadow--shadows-smart-commit",
+  "description": "Intelligent git commit assistant — analyzes diffs, enforces conventional commits, detects secrets, generates meaningful messages. Use when committing code changes.",
+  "version": "1.1.0",
+  "author": {
+    "name": "nakedoshadow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nakedoshadow/shadows-smart-commit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nakedoshadow/shadows-smart-commit"
+}

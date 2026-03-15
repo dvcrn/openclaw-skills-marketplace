@@ -1,0 +1,10 @@
+{
+  "name": "hydroculator--cathedral-audit",
+  "description": "Run a full spec-code audit on the Cathedral codebase. Use after build waves, major refactors, or when spec-code drift is suspected. Produces forward audit (specs→code), reverse audit (code→specs), bug report, and prioritized fix plan. Drives execution of fixes through CC sessions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hydroculator"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hydroculator/cathedral-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hydroculator/cathedral-audit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "moep90--restic-home-backup",
+  "description": "Design, implement, and operate encrypted restic backups for Linux home directories with systemd automation, retention policies, and restore validation. Use when a user asks to back up ~/, set up daily/weekly/monthly backup jobs, harden backup security, or troubleshoot restore/integrity issues.",
+  "version": "1.0.2",
+  "author": {
+    "name": "moep90"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moep90/restic-home-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moep90/restic-home-backup"
+}

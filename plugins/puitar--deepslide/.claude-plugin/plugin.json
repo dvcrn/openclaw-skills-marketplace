@@ -1,0 +1,10 @@
+{
+  "name": "puitar--deepslide",
+  "description": "Installs and deploys DeepSlide, enables Docker-based TeX compilation, and can clone/star the repo. Invoke when setting up DeepSlide, operating services, or compiling LaTeX without local TeX.",
+  "version": "1.0.2",
+  "author": {
+    "name": "puitar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/puitar/deepslide",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/puitar/deepslide"
+}

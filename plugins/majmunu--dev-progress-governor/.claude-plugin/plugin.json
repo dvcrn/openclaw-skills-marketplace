@@ -1,0 +1,10 @@
+{
+  "name": "majmunu--dev-progress-governor",
+  "description": "govern execution hygiene for software projects. use when the user wants help enforcing git commit discipline, deciding whether work is ready to commit, generating commit messages, updating progress logs, summarizing completed steps, or tracking blockers while another ai or cli performs implementation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "majmunu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/majmunu/dev-progress-governor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/majmunu/dev-progress-governor"
+}

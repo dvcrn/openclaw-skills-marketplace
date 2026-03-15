@@ -1,0 +1,10 @@
+{
+  "name": "tomislavpet--init-manager",
+  "description": "Manage tasks in Init Manager — pick up ready tasks, update status, comment, and close out. Use when assigned tasks via webhook or cron, or when interacting with Init Manager projects.",
+  "version": "1.0.1",
+  "author": {
+    "name": "tomislavpet"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tomislavpet/init-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tomislavpet/init-manager"
+}

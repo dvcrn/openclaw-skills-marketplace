@@ -1,0 +1,10 @@
+{
+  "name": "vladchatware--notion-agent-memory",
+  "description": "Structured memory system for AI agents using Notion. Use when setting up agent memory, discussing memory persistence, or helping agents remember context across sessions. Includes ACT framework databases, MEMORY.md templates, and the Continuity Cycle pattern.",
+  "version": "1.0.1",
+  "author": {
+    "name": "vladchatware"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vladchatware/notion-agent-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vladchatware/notion-agent-memory"
+}

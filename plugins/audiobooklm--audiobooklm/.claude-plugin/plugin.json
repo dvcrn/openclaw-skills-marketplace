@@ -1,0 +1,10 @@
+{
+  "name": "audiobooklm--audiobooklm",
+  "description": "提供有声书创作与音频能力（ABS 读写、音效/音频检索、二创、音色推荐、章节角色分析等），通过 HTTP Streamable MCP 调用。",
+  "version": "0.0.6",
+  "author": {
+    "name": "audiobooklm"
+  },
+  "homepage": "https://aigc.ximalaya.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/audiobooklm/audiobooklm"
+}

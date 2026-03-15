@@ -1,0 +1,10 @@
+{
+  "name": "floriandarroman--youtube-transcript-generator",
+  "description": "Download and generate clean, readable transcripts from any YouTube video. Extracts subtitles (auto-generated or manual), removes timestamps and formatting, and outputs a clean paragraph-style transcript. Use when asked to transcribe, get transcript, or extract text from a YouTube video.",
+  "version": "1.0.0",
+  "author": {
+    "name": "floriandarroman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/floriandarroman/youtube-transcript-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/floriandarroman/youtube-transcript-generator"
+}

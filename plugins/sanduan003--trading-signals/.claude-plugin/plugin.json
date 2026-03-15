@@ -1,0 +1,10 @@
+{
+  "name": "sanduan003--trading-signals",
+  "description": "量化交易信号系统。基于多种技术指标（MACD、RSI、KDJ、布林带、均线）生成买卖信号。支持金叉死叉、底背离、顶背离、超买超卖等信号。适用于股票和加密货币。",
+  "version": "1.0.0",
+  "author": {
+    "name": "sanduan003"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sanduan003/trading-signals",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sanduan003/trading-signals"
+}

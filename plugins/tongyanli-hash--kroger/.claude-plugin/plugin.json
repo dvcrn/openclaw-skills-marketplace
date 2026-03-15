@@ -1,0 +1,10 @@
+{
+  "name": "tongyanli-hash--kroger",
+  "description": "Search Kroger products and add items to a Kroger cart via the Kroger API. Use when a user asks to find groceries, add items to their Kroger cart, look up Kroger store locations, or manage a Kroger shopping list. Supports product search, cart management, and store lookup by zip code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tongyanli-hash"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tongyanli-hash/kroger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tongyanli-hash/kroger"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "imaflytok--workspace-init",
+  "description": "Bootstrap a new OpenClaw agent workspace with best-practice file structure. Creates AGENTS.md, SOUL.md, HEARTBEAT.md, memory system, and configures agent discovery. The first skill every new agent should install.",
+  "version": "1.0.0",
+  "author": {
+    "name": "imaflytok"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imaflytok/workspace-init",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imaflytok/workspace-init"
+}

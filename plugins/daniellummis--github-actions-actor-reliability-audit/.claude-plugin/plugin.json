@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-actor-reliability-audit",
+  "description": "Audit GitHub Actions run reliability by actor to surface high-risk contributors and flaky automation owners.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-actor-reliability-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-actor-reliability-audit"
+}

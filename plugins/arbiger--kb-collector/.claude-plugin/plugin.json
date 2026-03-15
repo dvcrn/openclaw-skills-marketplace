@@ -1,0 +1,10 @@
+{
+  "name": "arbiger--kb-collector",
+  "description": "Knowledge Base Collector - save YouTube, URLs, text to Obsidian with AI summarization. Auto-transcribes videos, fetches pages, supports weekly/monthly digest emails and nightly research.",
+  "version": "1.2.1",
+  "author": {
+    "name": "arbiger"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arbiger/kb-collector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arbiger/kb-collector"
+}

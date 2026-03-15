@@ -1,0 +1,10 @@
+{
+  "name": "leoyeai--myclaw-guardian",
+  "description": "Deploy and manage a Guardian watchdog for OpenClaw Gateway. Auto-monitor every 30s, self-repair via doctor --fix, git-based workspace rollback, daily snapshots, and optional Discord alerts. Built by MyClaw.ai (https://myclaw.ai) — the AI personal assistant platform running thousands of agents 24/7.",
+  "version": "1.0.2",
+  "author": {
+    "name": "leoyeai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leoyeai/myclaw-guardian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leoyeai/myclaw-guardian"
+}

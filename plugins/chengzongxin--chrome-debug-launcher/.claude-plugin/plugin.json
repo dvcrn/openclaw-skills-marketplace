@@ -1,0 +1,10 @@
+{
+  "name": "chengzongxin--chrome-debug-launcher",
+  "description": "Launch two independent Chrome browser instances — one normal and one with remote debugging enabled on port 9222. Activate when user says \"打开两个浏览器\", \"开调试浏览器\", \"launch chrome debug\", or any similar request to open a debug Chrome alongside a normal Chrome.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chengzongxin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chengzongxin/chrome-debug-launcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chengzongxin/chrome-debug-launcher"
+}

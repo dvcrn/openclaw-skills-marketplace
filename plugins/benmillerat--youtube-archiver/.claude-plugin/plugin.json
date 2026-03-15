@@ -1,0 +1,10 @@
+{
+  "name": "benmillerat--youtube-archiver",
+  "description": "Archive YouTube playlists into markdown notes with metadata, transcripts, AI summaries, and tags. Use when a user asks to import/sync YouTube playlists, archive Watch Later or Liked videos, enrich YouTube notes, batch process video notes, or automate recurring YouTube-to-markdown sync jobs with cron.",
+  "version": "1.0.0",
+  "author": {
+    "name": "benmillerat"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/benmillerat/youtube-archiver",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/benmillerat/youtube-archiver"
+}

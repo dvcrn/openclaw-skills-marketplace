@@ -1,0 +1,10 @@
+{
+  "name": "buryni--torrentclaw",
+  "description": "Search and download torrents via TorrentClaw. Use when the user asks to find, search, or download movies, TV shows, or torrents. Detects local torrent clients (Transmission, aria2) and adds magnets directly, or offers magnet link copy and .torrent file download. Supports filtering by type (movie/show), genre, year, quality (480p-2160p), rating, language, and season/episode (S01E05, 1x05). Features API key authentication with tiered rate limits, AI-verified matching, and quality scoring (0-100). Returns titles with posters, ratings, and torrents with magnet links and quality scores.",
+  "version": "0.1.17",
+  "author": {
+    "name": "buryni"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/buryni/torrentclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/buryni/torrentclaw"
+}

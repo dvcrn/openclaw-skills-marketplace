@@ -1,0 +1,10 @@
+{
+  "name": "botond-rackhost--ansible-skill",
+  "description": "Infrastructure automation with Ansible. Use for server provisioning, configuration management, application deployment, and multi-host orchestration. Includes playbooks for OpenClaw VPS setup, security hardening, and common server configurations.",
+  "version": "0.1.0",
+  "author": {
+    "name": "botond-rackhost"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/botond-rackhost/ansible-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/botond-rackhost/ansible-skill"
+}

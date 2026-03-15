@@ -1,0 +1,10 @@
+{
+  "name": "piyushduggal-source--pandic-office",
+  "description": "Converts Markdown files to PDF files using the pandoc command-line utility. Use when a user asks to convert a .md or markdown file to a .pdf file.",
+  "version": "1.0.0",
+  "author": {
+    "name": "piyushduggal-source"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/piyushduggal-source/pandic-office",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/piyushduggal-source/pandic-office"
+}

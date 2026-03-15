@@ -1,0 +1,10 @@
+{
+  "name": "1999azzar--memory-cache",
+  "description": "High-performance temporary storage system using Redis. Supports namespaced keys (mema:*), TTL management, and session context caching. Use for: (1) Saving agent state, (2) Caching API results, (3) Sharing data between sub-agents.",
+  "version": "1.1.9",
+  "author": {
+    "name": "1999azzar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/1999azzar/memory-cache",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/1999azzar/memory-cache"
+}

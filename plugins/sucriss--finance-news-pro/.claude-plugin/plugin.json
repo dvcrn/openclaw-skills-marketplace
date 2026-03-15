@@ -1,0 +1,10 @@
+{
+  "name": "sucriss--finance-news-pro",
+  "description": "财经新闻深度分析技能。从多个财经源抓取内容，进行情感分析（利好/利空/中性）、影响评估（行业/公司/市场）、关键信息提取，生成专业投资简报。支持 A 股/港股/美股、行业板块、个股分析。",
+  "version": "1.0.1",
+  "author": {
+    "name": "sucriss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sucriss/finance-news-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sucriss/finance-news-pro"
+}

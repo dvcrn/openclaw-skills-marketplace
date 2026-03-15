@@ -1,0 +1,10 @@
+{
+  "name": "beachanger--project-retrospective",
+  "description": "自动项目复盘机制。当完成复杂项目后，自动提取最优路径生成skill，并记录踩坑经验到memory。",
+  "version": "1.0.0",
+  "author": {
+    "name": "beachanger"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/beachanger/project-retrospective",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/beachanger/project-retrospective"
+}

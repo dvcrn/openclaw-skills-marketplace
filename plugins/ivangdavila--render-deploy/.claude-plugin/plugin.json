@@ -1,0 +1,10 @@
+{
+  "name": "ivangdavila--render-deploy",
+  "description": "Deploy applications on Render with codebase analysis, render.yaml Blueprint generation, MCP direct provisioning, and post-deploy verification.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ivangdavila"
+  },
+  "homepage": "https://clawic.com/skills/render-deploy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/render-deploy"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--box",
+  "description": "Box API integration with managed OAuth. Manage files, folders, collaborations, and cloud storage.\n Use this skill when users want to upload, download, share, or organize files and folders in Box.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.2",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/box",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/box"
+}

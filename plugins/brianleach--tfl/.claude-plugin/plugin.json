@@ -1,0 +1,10 @@
+{
+  "name": "brianleach--tfl",
+  "description": "London TfL transit — real-time Tube arrivals, bus predictions, line status, service disruptions, journey planning, and route info for the London Underground, DLR, Overground, Elizabeth line, and buses. Use when the user asks about London public transport, Tube times, bus arrivals, or TfL service status.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brianleach"
+  },
+  "homepage": "https://github.com/brianleach/tfl-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brianleach/tfl"
+}

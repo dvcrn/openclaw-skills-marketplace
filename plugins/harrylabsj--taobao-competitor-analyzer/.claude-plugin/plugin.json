@@ -1,0 +1,10 @@
+{
+  "name": "harrylabsj--taobao-competitor-analyzer",
+  "description": "Analyze a Taobao product against marketplace competitors by searching the same product name on JD.com, Pinduoduo, and Vipshop, then extracting visible price information through browser automation only. Use when the user provides a product name and wants a cross-platform price check, competitor snapshot, price comparison table, or marketplace research without using APIs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "harrylabsj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/taobao-competitor-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/taobao-competitor-analyzer"
+}

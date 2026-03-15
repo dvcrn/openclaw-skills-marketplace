@@ -1,0 +1,10 @@
+{
+  "name": "jeremyknows--x-bookmark-triage",
+  "description": "Automatically triages X/Twitter bookmarks into structured knowledge cards and posts them to a Discord channel (#knowledge-intake or similar). Captures tweet content via fxtwitter, scores relevance using Claude Haiku, assigns tier (1–10), freshness (evergreen/dated/expired), and topic tags, then optionally unbookmarks after capture. Includes a scheduled poll for new bookmarks, a one-time backlog sweep, and a manual drop handler. Use when: (1) setting up automated bookmark → knowledge card pipeline, (2) draining an existing bookmark backlog, (3) dropping a URL manually for immediate triage, (4) packaging this as a publishable skill for other OpenClaw users. Requires X OAuth 2.0 User Context with bookmark.read scope (+ bookmark.write to unbookmark). Triggers on: \"triage my bookmarks\", \"set up bookmark pipeline\", \"drain bookmark backlog\", \"x-bookmark-triage\", \"knowledge intake\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "jeremyknows"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jeremyknows/x-bookmark-triage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeremyknows/x-bookmark-triage"
+}

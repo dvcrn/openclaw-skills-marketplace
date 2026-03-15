@@ -1,0 +1,10 @@
+{
+  "name": "yx2601816404-sys--skill-shield",
+  "description": "Security audit tool for ClawHub skills. Scans a skill directory with 65 detection patterns, anti-obfuscation analysis, and dual rating system (Security + Compliance). v0.6.1 fixes batch scan performance by skipping venv/node_modules directories. Use when: installing a new skill, reviewing skill safety, or auditing permissions.",
+  "version": "0.6.1",
+  "author": {
+    "name": "yx2601816404-sys"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yx2601816404-sys/skill-shield",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yx2601816404-sys/skill-shield"
+}

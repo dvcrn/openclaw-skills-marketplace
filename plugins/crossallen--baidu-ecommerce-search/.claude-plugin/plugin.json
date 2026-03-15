@@ -1,0 +1,10 @@
+{
+  "name": "crossallen--baidu-ecommerce-search",
+  "description": "Baidu e-commerce search, including CPS product search, rankings, product specifications, brand and category knowledge.百度电商搜索,包括cps商品查询、榜单、商品参数、品牌品类知识等能力",
+  "version": "1.0.6",
+  "author": {
+    "name": "crossallen"
+  },
+  "homepage": "https://openai.baidu.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crossallen/baidu-ecommerce-search"
+}

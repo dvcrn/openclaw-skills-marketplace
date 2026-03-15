@@ -1,0 +1,10 @@
+{
+  "name": "al1enjesus--instagram-poster",
+  "description": "Post images to Instagram automatically via Telegram. Generates images with WaveSpeed or uses your own. Bypasses Instagram bot detection using residential proxy. Use when: user wants to post to Instagram, auto-post image, share photo on Instagram, instagram autoposter, schedule instagram post, publish to instagram, post reel image. Requires IG_USERNAME + IG_PASSWORD env vars or a saved session. Needs human-browser skill for residential proxy.",
+  "version": "1.0.0",
+  "author": {
+    "name": "al1enjesus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/al1enjesus/instagram-poster",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/al1enjesus/instagram-poster"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "liujuntao123--writing-polish",
+  "description": "中文写作与润色。当用户要求润色文章、改写段落、优化文风、修改措辞、让文章更通顺、写作辅助、改稿、polish writing、或者给出一段中文文本要求改善时，使用此skill。也适用于用户说\"帮我改改这篇文章\"、\"润色一下\"、\"语言不够好\"、\"读起来不顺\"、\"太空洞了\"、\"太说教了\"等场景。即使用户没有明确说\"润色\"，只要给了一段中文文本并暗示希望改善表达，也应触发。",
+  "version": "1.0.0",
+  "author": {
+    "name": "liujuntao123"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/liujuntao123/writing-polish",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/liujuntao123/writing-polish"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "steipete--sonoscli",
+  "description": "Control Sonos speakers (discover/status/play/volume/group).",
+  "version": "1.0.0",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "https://sonoscli.sh",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/sonoscli"
+}

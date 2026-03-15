@@ -1,0 +1,10 @@
+{
+  "name": "rijoyai--subscription-retention-marketing",
+  "description": "A specialized assistant for e-commerce merchants selling periodic consumables (coffee, supplements, pet food) to optimize subscription models, increase MRR (Monthly Recurring Revenue), and reduce churn. ALWAYS trigger this skill when a user asks about setting up subscriptions, reducing cancellation rates, handling failed payments (dunning), increasing CLTV, migrating one-time buyers to subscribers, subscription pricing, \"subscribe and save,\" subscription portal UX, pre-charge notifications, or subscriber loyalty tiers—even if they do not say \"subscription\" explicitly. Also trigger when merchants mention recurring revenue, retention rate for consumables, or \"too many cancellations.\"",
+  "version": "0.1.1",
+  "author": {
+    "name": "rijoyai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rijoyai/subscription-retention-marketing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rijoyai/subscription-retention-marketing"
+}

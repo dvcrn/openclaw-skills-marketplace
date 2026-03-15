@@ -1,0 +1,10 @@
+{
+  "name": "tecfancy--nas-file-courier",
+  "description": "Search files on NAS (via rclone + Tailscale) and send to user via messaging API. Triggers on file search, find file, send file, 找文件, 发文件, NAS 查找, 下载文件.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tecfancy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tecfancy/nas-file-courier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tecfancy/nas-file-courier"
+}

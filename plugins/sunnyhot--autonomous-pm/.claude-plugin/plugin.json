@@ -1,0 +1,10 @@
+{
+  "name": "sunnyhot--autonomous-pm",
+  "description": "自主项目管理系统 - 去中心化协调多个子代理并行工作，通过 STATE.yaml 文件实现自主决策和协调，无需中央编排器",
+  "version": "1.0.0",
+  "author": {
+    "name": "sunnyhot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunnyhot/autonomous-pm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunnyhot/autonomous-pm"
+}

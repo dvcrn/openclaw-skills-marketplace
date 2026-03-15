@@ -1,0 +1,10 @@
+{
+  "name": "mhmalvi--google-sheets-reporting",
+  "description": "Automated reporting and alerts from Google Sheets data. Daily summaries with auto-detected metrics, configurable threshold alerts, and weekly multi-sheet digest emails. 3 production-ready n8n workflows.",
+  "version": "1.0.1",
+  "author": {
+    "name": "mhmalvi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mhmalvi/google-sheets-reporting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mhmalvi/google-sheets-reporting"
+}

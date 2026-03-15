@@ -1,0 +1,10 @@
+{
+  "name": "whereayan--cdisc-library-api",
+  "description": "CDISC Library API Skill - 查询临床数据标准（QRS 量表、ADaM、CDASH、SDTM、受控术语）",
+  "version": "1.0.0",
+  "author": {
+    "name": "whereayan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/whereayan/cdisc-library-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/whereayan/cdisc-library-api"
+}

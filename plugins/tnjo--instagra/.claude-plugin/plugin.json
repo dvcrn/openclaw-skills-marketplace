@@ -1,0 +1,10 @@
+{
+  "name": "tnjo--instagra",
+  "description": "Download an Instagram Reel via sssinstagram.com and return it as a WhatsApp-ready video file. Use when a reel URL is provided and yt-dlp is blocked or not preferred.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tnjo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tnjo/instagra",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tnjo/instagra"
+}

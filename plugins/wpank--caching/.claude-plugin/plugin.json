@@ -1,0 +1,10 @@
+{
+  "name": "wpank--caching",
+  "description": "Caching strategies, invalidation, eviction policies, HTTP caching, distributed caching, and anti-patterns. Use when designing cache layers, choosing eviction policies, debugging stale data, or optimizing read-heavy workloads.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/caching",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/caching"
+}

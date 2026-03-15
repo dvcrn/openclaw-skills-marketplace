@@ -1,0 +1,10 @@
+{
+  "name": "terrence741-cell--feishu-smart-doc-writer",
+  "description": "Feishu/Lark Smart Document Writer - 飞书智能文档写入器.\n \n Core Features / 核心功能：\n 1. Smart Chunk Writing / 智能分块写入 - Solve API limit blank doc issues / 解决长文档API限制导致的空白问题\n 2. Auto Ownership Transfer / 自动转移所有权 - Transfer to user after creation / 创建文档后自动转移给用户\n 3. Auto Index Management / 自动索引管理 - Update local index with search support / 自动更新本地文档索引，支持搜索\n 4. First-time Guide / 首次使用引导 - Auto guide for OpenID config / 自动引导配置OpenID",
+  "version": "1.4.1",
+  "author": {
+    "name": "terrence741-cell"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/terrence741-cell/feishu-smart-doc-writer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/terrence741-cell/feishu-smart-doc-writer"
+}

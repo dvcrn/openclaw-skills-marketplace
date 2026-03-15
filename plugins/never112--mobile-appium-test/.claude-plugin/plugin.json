@@ -1,0 +1,10 @@
+{
+  "name": "never112--mobile-appium-test",
+  "description": "Android UI automation testing using Appium with USB-connected real devices. Use when the user wants to run Appium tests on physical Android devices connected via USB, including: device connection verification, app installation, UI element inspection, test execution, screenshot capture, and log collection. Requires ADB and Appium Server installed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "never112"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/never112/mobile-appium-test",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/never112/mobile-appium-test"
+}

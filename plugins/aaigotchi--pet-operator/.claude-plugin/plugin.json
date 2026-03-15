@@ -1,0 +1,10 @@
+{
+  "name": "aaigotchi--pet-operator",
+  "description": "Delegate Aavegotchi petting rights to AAI's wallet on Base. Generate approve/revoke tx data, check approval, and maintain delegated wallet bookkeeping in pet-me-master config.",
+  "version": "1.2.0",
+  "author": {
+    "name": "aaigotchi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaigotchi/pet-operator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaigotchi/pet-operator"
+}

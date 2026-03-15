@@ -1,0 +1,10 @@
+{
+  "name": "humanagent--xmtp-agent",
+  "description": "Building and extending XMTP agents with the Agent SDK. Use when: (1) creating or configuring an XMTP agent, (2) implementing agent features (commands, attachments, reactions, groups, transactions, inline actions, or domain resolution).",
+  "version": "1.0.0",
+  "author": {
+    "name": "humanagent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/humanagent/xmtp-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/humanagent/xmtp-agent"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "alexbrc20--news-sentiment",
+  "description": "Analyze crypto news sentiment (bullish/bearish).\n Scan Twitter, news sites, and social media.\n Get sentiment scores and trading signals.",
+  "version": "1.0.2",
+  "author": {
+    "name": "alexbrc20"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alexbrc20/news-sentiment",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alexbrc20/news-sentiment"
+}

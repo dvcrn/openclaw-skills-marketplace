@@ -1,0 +1,26 @@
+#BJ|# skill.yaml
+#SB|name: polymarket-portfolio-tracker
+#VK|slug: polymarket-portfolio-tracker
+#HY|version: 1.0.0
+#WZ|author: moson
+#VX|description: 追踪 Polymarket 仓位，实时监控盈亏，设置价格提醒。每次调用自动扣费 0.001 USDT
+#RX|license: MIT
+#RQ|homepage: https://github.com/moson/polymarket-portfolio-tracker
+#TS|tags:
+#JM|  - polymarket
+#BR|  - portfolio
+#YS|  - tracker
+#XR|  - alerts
+#PR|permissions:
+#WZ|  - network
+#RZ|config:
+#QW|  SKILLPAY_API_KEY:
+#PJ|    type: string
+#ZZ|    required: true
+#PM|    secret: true
+#VW|entryPoint:
+#SZ|  type: typescript
+#ZK|  path: index.js
+#KX|price:
+#VV|  amount: 0.001
+#RV|  currency: USDT

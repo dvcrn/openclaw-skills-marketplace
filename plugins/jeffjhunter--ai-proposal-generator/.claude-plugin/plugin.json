@@ -1,0 +1,10 @@
+{
+  "name": "jeffjhunter--ai-proposal-generator",
+  "description": "Generate professional HTML proposals from meeting notes. Features 5 proposal styles (Corporate, Entrepreneur, Creative, Consultant, Minimal), 6+ color themes, and a Design Wizard for custom templates. Triggers on \"create proposal\", \"proposal for [client]\", \"proposal wizard\", \"proposal from [notes]\", \"show proposal styles\", \"finalize proposal\". Integrates with ai-meeting-notes for context. Outputs beautiful, responsive HTML ready to send or export as PDF.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jeffjhunter"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jeffjhunter/ai-proposal-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeffjhunter/ai-proposal-generator"
+}

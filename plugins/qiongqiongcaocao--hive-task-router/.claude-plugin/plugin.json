@@ -1,0 +1,10 @@
+{
+  "name": "qiongqiongcaocao--hive-task-router",
+  "description": "Intelligent task routing system that identifies task types (web/code/data/doc/chat) and routes to optimal models with appropriate execution mode (subagent/main session). Supports any AI model provider via environment variables.",
+  "version": "1.0.0",
+  "author": {
+    "name": "qiongqiongcaocao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qiongqiongcaocao/hive-task-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qiongqiongcaocao/hive-task-router"
+}

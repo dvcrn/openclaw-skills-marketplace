@@ -1,0 +1,10 @@
+{
+  "name": "cole-z--govee-control",
+  "description": "Script-free Govee OpenAPI setup and control guide. Use when the user wants to get a Govee API key, connect Govee, list devices, check state, or send power/brightness/color commands with secure key handling.",
+  "version": "1.0.1",
+  "author": {
+    "name": "cole-z"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cole-z/govee-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cole-z/govee-control"
+}

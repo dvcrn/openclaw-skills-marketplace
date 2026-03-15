@@ -1,0 +1,10 @@
+{
+  "name": "edonadei--questions-form",
+  "description": "Present multiple clarifying questions as an interactive Telegram form using inline buttons. Use when the agent needs to ask the user 2 or more clarifying questions before proceeding with a task, and wants to present them all at once in a structured form layout with selectable options and an \"Other\" free-text escape hatch. Triggers when: gathering multi-faceted requirements, onboarding flows, preference collection, or any scenario requiring structured multi-question input from the user via Telegram.",
+  "version": "1.0.0",
+  "author": {
+    "name": "edonadei"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/edonadei/questions-form",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/edonadei/questions-form"
+}

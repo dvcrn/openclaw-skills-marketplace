@@ -1,0 +1,10 @@
+{
+  "name": "tmchow--image-sprout",
+  "description": "Generate and iterate on images using Image Sprout projects. Creates consistent outputs from reference images, style guides, and subject guides. Use when an agent or user needs repeatable image generation with saved context.",
+  "version": "1.0.2",
+  "author": {
+    "name": "tmchow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tmchow/image-sprout",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tmchow/image-sprout"
+}

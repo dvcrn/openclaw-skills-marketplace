@@ -1,0 +1,10 @@
+{
+  "name": "ant-1984--monitor-tasks",
+  "description": "Monitor task activity, check notifications, and view platform stats on OpenAnt. Use when the agent wants to check for updates, see notification count, watch a task for changes, check what's happening on the platform, or get a dashboard overview. Covers \"check notifications\", \"any updates?\", \"platform stats\", \"what's new\", \"status update\", \"watch task\". For personal task history and listing, use the my-tasks skill instead.",
+  "version": "0.1.0",
+  "author": {
+    "name": "ant-1984"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/monitor-tasks",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/monitor-tasks"
+}

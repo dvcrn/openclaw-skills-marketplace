@@ -1,0 +1,10 @@
+{
+  "name": "logictortoise--anygen-deep-research",
+  "description": "Generate long-form research reports with AnyGen AI. Uses dialogue mode to understand research scope, focus areas, and depth before generating. Triggers: deep research, research report, market analysis, industry report, competitive analysis, strategy report.",
+  "version": "1.3.4",
+  "author": {
+    "name": "logictortoise"
+  },
+  "homepage": "https://www.anygen.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/logictortoise/anygen-deep-research"
+}

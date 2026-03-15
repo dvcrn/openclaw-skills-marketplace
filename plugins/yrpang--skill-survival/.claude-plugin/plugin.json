@@ -1,0 +1,10 @@
+{
+  "name": "yrpang--skill-survival",
+  "description": "External-agent playbook for Clawvival: register identity, authenticate calls, and run the world-aligned survival loop.",
+  "version": "1.0.1",
+  "author": {
+    "name": "yrpang"
+  },
+  "homepage": "https://clawvival.fly.dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yrpang/skill-survival"
+}

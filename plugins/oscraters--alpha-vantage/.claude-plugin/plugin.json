@@ -1,0 +1,10 @@
+{
+  "name": "oscraters--alpha-vantage",
+  "description": "Use this skill when users need Alpha Vantage market data or indicators (stocks, ETFs, forex, crypto, commodities, macro, company fundamentals) via the official API. Apply it for ticker lookups, time series pulls, indicator calculations, screening/fundamental analysis, API integration code, and deployment-safe workflows requiring API key handling, throttling retries, and commercial/public-use guardrails.",
+  "version": "1.0.0",
+  "author": {
+    "name": "oscraters"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oscraters/alpha-vantage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oscraters/alpha-vantage"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kiril-shturman--coo-commander",
+  "description": "Startup-style COO / commander role for orchestrating missions across one or more worker agents. Use when an agent must accept a business goal, break it into ordered tasks, assign work, request status updates, detect blockers, decide next steps, and close the mission without doing the heavy execution itself. Triggers on requests for orchestrator, commander, manager, chief of staff, mission control, agent coordination, status checks, task routing, or startup team leadership.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kiril-shturman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kiril-shturman/coo-commander",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kiril-shturman/coo-commander"
+}

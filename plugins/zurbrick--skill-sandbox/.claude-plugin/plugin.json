@@ -1,0 +1,10 @@
+{
+  "name": "zurbrick--skill-sandbox",
+  "description": "Sandboxed ClawHub skill installation with automated security scanning. Use when: (1) Installing any new skill from ClawHub, (2) Auditing an already-installed skill, (3) Promoting a quarantined skill after review. Installs skills to a staging area, runs a multi-layer static security scan (file inventory, code patterns, dangerous instructions, dependency analysis, publisher verification), then auto-promotes clean skills or quarantines flagged ones for manual review. Prevents supply chain attacks from untrusted skill publishers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zurbrick"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zurbrick/skill-sandbox",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zurbrick/skill-sandbox"
+}

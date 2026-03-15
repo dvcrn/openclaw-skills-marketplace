@@ -1,0 +1,10 @@
+{
+  "name": "be1human--respond-first",
+  "description": "Multi-agent dispatcher skill. Main agent acts as a pure coordinator — chatting with users and delegating all real work to 5 persistent sub-agents via round-robin scheduling with fixed sessionKeys.",
+  "version": "11.0.0",
+  "author": {
+    "name": "be1human"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/be1human/respond-first",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/be1human/respond-first"
+}

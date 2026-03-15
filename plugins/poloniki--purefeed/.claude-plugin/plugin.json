@@ -1,0 +1,10 @@
+{
+  "name": "poloniki--purefeed",
+  "description": "Monitors Twitter/X feeds with AI signal detection. Searches tweets semantically, manages signal detectors, generates human-sounding posts, checks AI detection scores, and publishes/schedules content to X via Typefully. Use when the user wants to browse their Twitter feed, find tweets about a topic, set up content monitoring, draft tweets from curated content, or publish to X/Twitter. Do NOT use for general Twitter browsing without a Purefeed account.",
+  "version": "0.9.0",
+  "author": {
+    "name": "poloniki"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/poloniki/purefeed",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/poloniki/purefeed"
+}

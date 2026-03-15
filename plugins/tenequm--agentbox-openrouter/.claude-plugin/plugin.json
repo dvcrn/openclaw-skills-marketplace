@@ -1,0 +1,10 @@
+{
+  "name": "tenequm--agentbox-openrouter",
+  "description": "Set up OpenRouter as your LLM provider. Guides through account creation, API key setup, config, and making it the default model. Use when a user wants to use OpenRouter models like Claude Sonnet 4.5.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tenequm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tenequm/agentbox-openrouter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tenequm/agentbox-openrouter"
+}

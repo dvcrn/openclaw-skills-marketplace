@@ -1,0 +1,10 @@
+{
+  "name": "wangxiang2023--metal-price",
+  "description": "全球铁合金网价格查询与导出技能。自动登录www.qqthj.com网站，查询指定金属(如锰铁、钒铁等)的当日价格数据，抓取价格表格并导出为Excel文件。",
+  "version": "1.0.0",
+  "author": {
+    "name": "wangxiang2023"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangxiang2023/metal-price",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangxiang2023/metal-price"
+}

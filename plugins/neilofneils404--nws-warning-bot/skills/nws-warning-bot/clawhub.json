@@ -1,0 +1,12 @@
+{
+  "name": "NWS Warning Bot",
+  "tagline": "Polygon-level severe weather alerts for your exact address",
+  "description": "Monitors NOAA severe weather warnings (tornado, severe thunderstorm) and alerts only when warning polygons actually intersect your coordinates—not your county. Filters out distant warnings while ensuring you know when storms are headed your way. Features: MultiPolygon support, 24h deduplication, atomic locking, no external dependencies.",
+  "category": "utility",
+  "tags": ["weather", "safety", "alerts", "nws", "emergency"],
+  "version": "1.0.0",
+  "license": "MIT",
+  "pricing": "free",
+  "homepage": "https://github.com/openclaw/nws-warning-bot",
+  "support_url": "https://github.com/openclaw/nws-warning-bot/issues"
+}

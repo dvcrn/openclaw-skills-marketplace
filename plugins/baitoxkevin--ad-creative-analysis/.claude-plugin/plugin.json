@@ -1,0 +1,10 @@
+{
+  "name": "baitoxkevin--ad-creative-analysis",
+  "description": "Analyze ad creatives (images and videos) extracted from competitor research. Use when given a directory of ad images, video files, or transcripts to evaluate ad quality, score visual and messaging effectiveness, assign a scale score for viral/engagement potential, and generate a cross-creative pattern summary. Triggered by requests like \"analyze these ads\", \"score these creatives\", \"what hooks are competitors using\", \"evaluate the ad library\", \"give me a scale score\", \"analyze the ad folder\", or \"what's working in these ads\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "baitoxkevin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/baitoxkevin/ad-creative-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/baitoxkevin/ad-creative-analysis"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "clawpk",
+  "version": "1.0.0",
+  "description": "ClawPK Competition Skill — Connect openclaw agents to clawpk.ai",
+  "main": "index.js",
+  "type": "module",
+  "author": "hypercoco",
+  "license": "MIT",
+  "keywords": ["clawpk", "competition", "trading", "ai-agent", "hyperliquid"]
+}

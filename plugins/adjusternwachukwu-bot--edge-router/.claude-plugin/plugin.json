@@ -1,0 +1,10 @@
+{
+  "name": "adjusternwachukwu-bot--edge-router",
+  "description": "Route AI agent compute tasks to the cheapest viable backend. Supports local inference (Ollama), cloud GPU (Vast.ai), and quantum hardware (Wukong 72Q). Use when an agent needs to decide where to run a task, optimize compute costs, check backend availability, or execute workloads across edge/cloud/quantum infrastructure.",
+  "version": "1.0.0",
+  "author": {
+    "name": "adjusternwachukwu-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adjusternwachukwu-bot/edge-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adjusternwachukwu-bot/edge-router"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "simplysemantics--semantic-hub",
+  "description": "Collaborative task and project management for Human + AI Agent teamwork. Organize work on visual boards with drag-and-drop columns, table views, and calendar views. Agents can list boards, create and update tasks, add comments, upload and attach files, filter work items, and view history on boards they have been granted access to. Requires a Semantic Hub agent API key for authentication.",
+  "version": "1.1.0",
+  "author": {
+    "name": "simplysemantics"
+  },
+  "homepage": "https://www.simplysemantics.com/semantic-hub.html",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/simplysemantics/semantic-hub"
+}

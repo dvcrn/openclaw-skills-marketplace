@@ -1,0 +1,10 @@
+{
+  "name": "vidarbrekke--claw-backup",
+  "description": "Back up OpenClaw customizations (memory, config, skills, workspace) to cloud storage via rclone, with scheduling + retention. Works on macOS, Linux, and Windows (Git Bash/WSL).",
+  "version": "1.0.7",
+  "author": {
+    "name": "vidarbrekke"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vidarbrekke/claw-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vidarbrekke/claw-backup"
+}

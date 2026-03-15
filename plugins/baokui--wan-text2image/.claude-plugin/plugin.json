@@ -1,0 +1,10 @@
+{
+  "name": "baokui--wan-text2image",
+  "description": "阿里云DashScope Wan2.6文生图工具。使用阿里云百炼平台的Wan2.6-t2i模型生成图片。\n 当用户需要：AI生成图片、文生图、从文字生成图像时触发。\n 需要DASHSCOPE_API_KEY环境变量（已在系统中配置）。",
+  "version": "1.0.0",
+  "author": {
+    "name": "baokui"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/baokui/wan-text2image",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/baokui/wan-text2image"
+}

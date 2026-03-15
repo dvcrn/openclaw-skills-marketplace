@@ -1,0 +1,10 @@
+{
+  "name": "tag-assistant--nest-sdm",
+  "description": "Control Nest thermostat, doorbell, and cameras via the Google Smart Device Management (SDM) API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tag-assistant"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tag-assistant/nest-sdm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tag-assistant/nest-sdm"
+}

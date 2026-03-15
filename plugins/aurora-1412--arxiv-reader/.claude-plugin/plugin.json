@@ -1,0 +1,10 @@
+{
+  "name": "aurora-1412--arxiv-reader",
+  "description": "利用python，指定某个arxiv_id/url， 基于 LLM Agent 对这篇arxiv论文进行分类与深度阅读，直接print打印阅读笔记",
+  "version": "1.0.3",
+  "author": {
+    "name": "aurora-1412"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aurora-1412/arxiv-reader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aurora-1412/arxiv-reader"
+}

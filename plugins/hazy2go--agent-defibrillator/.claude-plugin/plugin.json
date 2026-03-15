@@ -1,0 +1,10 @@
+{
+  "name": "hazy2go--agent-defibrillator",
+  "description": "Watchdog that monitors your AI agent gateway and restarts it when it crashes. Triggers on \"install defibrillator\", \"agent watchdog\", \"gateway monitor\", \"auto-restart agent\", or \"keep agent alive\". macOS launchd service with optional Discord notifications.",
+  "version": "1.0.1",
+  "author": {
+    "name": "hazy2go"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hazy2go/agent-defibrillator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hazy2go/agent-defibrillator"
+}

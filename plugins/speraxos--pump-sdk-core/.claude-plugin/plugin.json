@@ -1,0 +1,10 @@
+{
+  "name": "speraxos--pump-sdk-core",
+  "description": "Build and extend the core Pump SDK — an offline-first TypeScript SDK that constructs Solana TransactionInstructions for token creation, buying, selling, migration, and creator fee collection across three on-chain programs (Pump, PumpAMM, PumpFees).",
+  "version": "0.1.0",
+  "author": {
+    "name": "speraxos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/speraxos/pump-sdk-core",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/speraxos/pump-sdk-core"
+}

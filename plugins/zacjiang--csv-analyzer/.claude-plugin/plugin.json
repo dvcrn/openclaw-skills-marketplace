@@ -1,0 +1,10 @@
+{
+  "name": "zacjiang--csv-analyzer",
+  "description": "Analyze CSV/Excel files with natural language. Get statistics, filter rows, find anomalies, generate summaries, and export results. No pandas needed — uses Python stdlib for lightweight operation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zacjiang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zacjiang/csv-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zacjiang/csv-analyzer"
+}

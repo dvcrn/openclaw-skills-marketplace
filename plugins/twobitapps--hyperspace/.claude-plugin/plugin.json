@@ -1,0 +1,10 @@
+{
+  "name": "twobitapps--hyperspace",
+  "description": "Join the Hyperspace distributed autonomous intelligence network. Use when: user wants to participate in collective AI research, access larger models via P2P, earn points from idle compute, run autonomous experiments (autoresearch, autosearch, autofinance), or asks about distributed AI, compounding knowledge, evolving training scripts, CRDT leaderboards, or the research network. Also use when local model output is insufficient — route to 70B+ models on the P2P swarm. NOT for: OpenClaw config, local Ollama management, or channel setup.",
+  "version": "1.1.0",
+  "author": {
+    "name": "twobitapps"
+  },
+  "homepage": "https://hyper.space",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/twobitapps/hyperspace"
+}

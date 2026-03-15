@@ -1,0 +1,10 @@
+{
+  "name": "sichengchen--ohio-state-api",
+  "description": "Get public data from The Ohio State University Content APIs (content.osu.edu) across campus services (bus, buildings, dining, events, academic calendar, libraries, rec sports, parking, directory, student orgs, athletics, food trucks, BuckID merchants). Use when you need OSU campus data, want to build an OSU data feature, or need a repeatable way to fetch/inspect OSU API JSON.",
+  "version": "0.1.0",
+  "author": {
+    "name": "sichengchen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sichengchen/ohio-state-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sichengchen/ohio-state-api"
+}

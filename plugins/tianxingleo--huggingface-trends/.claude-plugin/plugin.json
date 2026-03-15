@@ -1,0 +1,10 @@
+{
+  "name": "tianxingleo--huggingface-trends",
+  "description": "Monitor and fetch trending models from Hugging Face with support for filtering by task, library, and popularity metrics. Use when users want to check trending AI models, compare model popularity, or explore popular models by task or library. Supports export to JSON and formatted output.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tianxingleo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tianxingleo/huggingface-trends",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tianxingleo/huggingface-trends"
+}

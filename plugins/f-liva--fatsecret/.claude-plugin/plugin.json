@@ -1,0 +1,10 @@
+{
+  "name": "f-liva--fatsecret",
+  "description": "FatSecret nutrition API integration for food search, nutritional lookup, barcode scanning, recipe search, and food diary logging. Use when user needs to find nutritional information for foods, search the food database, scan product barcodes, look up calories/macros/micronutrients, search for healthy recipes, or log meals to their FatSecret diary.",
+  "version": "1.1.0",
+  "author": {
+    "name": "f-liva"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/f-liva/fatsecret",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/f-liva/fatsecret"
+}

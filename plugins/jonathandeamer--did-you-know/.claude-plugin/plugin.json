@@ -1,0 +1,10 @@
+{
+  "name": "jonathandeamer--did-you-know",
+  "description": "Fetches English Wikipedia's \"Did you know?\" (DYK) facts, caches them locally, and serves them one at a time. No API key required. Does not edit Wikipedia.",
+  "version": "0.2.1",
+  "author": {
+    "name": "jonathandeamer"
+  },
+  "homepage": "https://github.com/jonathandeamer/did-you-know",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jonathandeamer/did-you-know"
+}

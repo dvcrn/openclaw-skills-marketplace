@@ -1,0 +1,10 @@
+{
+  "name": "vood--reddit-skill",
+  "description": "Use ThreadPilot to manage Reddit account workflows (login, whoami, comments, replies, posts, subreddits, subscribe, read, search, rules, like, and post) with human-in-the-loop safety. Use this skill when the user wants browser-first Reddit interaction from CLI with explicit confirmation before engagement actions.",
+  "version": "0.1.0",
+  "author": {
+    "name": "vood"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vood/reddit-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vood/reddit-skill"
+}

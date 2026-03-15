@@ -1,0 +1,10 @@
+{
+  "name": "ndtchan--nso-macro-monitor",
+  "description": "Monitors official Vietnam NSO monthly and quarterly socio-economic releases and compares same-period trends; used when users request official macro updates and year-over-year context.",
+  "version": "1.0.4",
+  "author": {
+    "name": "ndtchan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ndtchan/nso-macro-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ndtchan/nso-macro-monitor"
+}

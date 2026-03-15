@@ -1,0 +1,10 @@
+{
+  "name": "danielfoch--crm-snail-mail-postgrid",
+  "description": "Send physical mail from CRM contacts using PostGrid. Use when pulling contacts from GoHighLevel (GHL) or Follow Up Boss (FUB), mapping contact/address fields, generating personalized mail payloads, and submitting letters or postcards through PostGrid API. Also use when another skill already produced GHL/FUB contact JSON and mail should be sent from that dataset.",
+  "version": "0.1.0",
+  "author": {
+    "name": "danielfoch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danielfoch/crm-snail-mail-postgrid",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danielfoch/crm-snail-mail-postgrid"
+}

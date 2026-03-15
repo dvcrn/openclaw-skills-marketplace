@@ -1,0 +1,10 @@
+{
+  "name": "branexp--flatnotes-tasksmd-github-audit",
+  "description": "Thoroughly audit Tasks.md + Flatnotes for drift and accuracy; use GitHub (gh CLI) as source of truth to detect stale notes/cards and missing links. Produces a report and an optional fix plan.",
+  "version": "1.0.0",
+  "author": {
+    "name": "branexp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/branexp/flatnotes-tasksmd-github-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/branexp/flatnotes-tasksmd-github-audit"
+}

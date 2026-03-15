@@ -1,0 +1,10 @@
+{
+  "name": "unixlamadev-spec--doc-miner",
+  "description": "Extract summaries, answers, or structured data from any URL, PDF, or raw text. Auto-detects mode from task.",
+  "version": "1.0.1",
+  "author": {
+    "name": "unixlamadev-spec"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/unixlamadev-spec/doc-miner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/unixlamadev-spec/doc-miner"
+}

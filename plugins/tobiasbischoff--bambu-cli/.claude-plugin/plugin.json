@@ -1,0 +1,10 @@
+{
+  "name": "tobiasbischoff--bambu-cli",
+  "description": "Operate and troubleshoot BambuLab printers with the bambu-cli (status/watch, print start/pause/resume/stop, files, camera, gcode, AMS, calibration, motion, fans, light, config, doctor). Use when a user asks to control or monitor a BambuLab printer, set up profiles or access codes, or translate a task into safe bambu-cli commands with correct flags, output format, and confirmations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tobiasbischoff"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tobiasbischoff/bambu-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tobiasbischoff/bambu-cli"
+}

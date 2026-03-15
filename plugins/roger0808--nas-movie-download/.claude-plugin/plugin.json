@@ -1,0 +1,10 @@
+{
+  "name": "roger0808--nas-movie-download",
+  "description": "Search and download movies via Jackett and qBittorrent. Use when user wants to download movies or videos from torrent sources, search for specific movie titles, or manage movie downloads. Now includes automatic subtitle download support with SMB integration.",
+  "version": "3.2.2",
+  "author": {
+    "name": "roger0808"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/roger0808/nas-movie-download",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/roger0808/nas-movie-download"
+}

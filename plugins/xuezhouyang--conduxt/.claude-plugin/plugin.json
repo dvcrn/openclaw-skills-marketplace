@@ -1,0 +1,10 @@
+{
+  "name": "xuezhouyang--conduxt",
+  "description": "Orchestrate full-duplex coding agent sessions via ACPX (preferred) or tmux (fallback), composing OpenClaw native tools and community Skills. Handles any coding task: requirements, bug fixes, refactoring, investigations. Use when: \"implement feature X\", \"fix this bug\", \"refactor the API layer\", \"start agent\", \"open a session\", \"code this\", \"fix issue #N\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "xuezhouyang"
+  },
+  "homepage": "https://github.com/xuezhouyang/conduxt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xuezhouyang/conduxt"
+}

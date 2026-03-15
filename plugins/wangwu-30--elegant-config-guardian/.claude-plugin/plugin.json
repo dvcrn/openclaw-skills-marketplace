@@ -1,0 +1,10 @@
+{
+  "name": "wangwu-30--elegant-config-guardian",
+  "description": "Safely apply OpenClaw config changes with automatic rollback and ack timeout guard. Use when editing ~/.openclaw/openclaw.json, restarting gateway, enabling cross-context routing, or any risky runtime config change that must auto-revert if health checks or explicit ack are missing.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangwu-30"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangwu-30/elegant-config-guardian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangwu-30/elegant-config-guardian"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "peter7397--tooldyn",
+  "description": "Intent-based tool selection. Activate when you want to know which tools are relevant for the current user message (weather→exec, document→feishu_doc, search→web_search). Reduces context and avoids tool loops.",
+  "version": "1.0.0",
+  "author": {
+    "name": "peter7397"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/peter7397/tooldyn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/peter7397/tooldyn"
+}

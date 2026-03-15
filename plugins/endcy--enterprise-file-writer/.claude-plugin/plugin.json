@@ -1,0 +1,10 @@
+{
+  "name": "endcy--enterprise-file-writer",
+  "description": "写入内容到本地文件，支持企业安全策略环境。支持文本文件、Word 文档 (.docx)、Excel 表格 (.xlsx) 等 80+ 种格式，通过正确的编码处理避免乱码问题。",
+  "version": "1.2.1",
+  "author": {
+    "name": "endcy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/endcy/enterprise-file-writer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/endcy/enterprise-file-writer"
+}

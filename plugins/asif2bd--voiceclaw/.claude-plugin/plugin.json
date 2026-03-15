@@ -1,0 +1,10 @@
+{
+  "name": "asif2bd--voiceclaw",
+  "description": "Local voice I/O for OpenClaw agents. Transcribe inbound audio/voice messages using local Whisper (whisper.cpp) and generate voice replies using local Piper TTS. Requires whisper, piper, and ffmpeg pre-installed on the system. All inference runs on-device — no network calls, no cloud APIs, no API keys. Use when an agent receives a voice/audio message and should respond in both voice and text, or when any text response should be synthesized and sent as audio. Triggers on: voice messages, audio attachments, respond in voice, send as audio, speak this, voiceclaw.",
+  "version": "1.0.6",
+  "author": {
+    "name": "asif2bd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/asif2bd/voiceclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/asif2bd/voiceclaw"
+}

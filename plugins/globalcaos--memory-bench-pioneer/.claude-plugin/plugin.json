@@ -1,0 +1,10 @@
+{
+  "name": "globalcaos--memory-bench-pioneer",
+  "description": "Be one of the first to benchmark your agent's memory — and help shape how AI remembers. Runs a peer-review-grade evaluation suite (LLM-as-judge, nDCG/MAP/MRR with 95% CIs, ablation studies) against your live memory system and submits anonymized results to the ENGRAM/CORTEX research papers. Your data stays private; only aggregate stats leave. Works with agent-memory-ultimate. For the bold few who believe AI memory should be measured, not guessed at.",
+  "version": "2.0.0",
+  "author": {
+    "name": "globalcaos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/memory-bench-pioneer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/memory-bench-pioneer"
+}

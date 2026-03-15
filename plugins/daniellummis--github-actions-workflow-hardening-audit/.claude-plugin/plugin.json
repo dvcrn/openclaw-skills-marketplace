@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-workflow-hardening-audit",
+  "description": "Audit GitHub Actions workflow files for hardening gaps (missing timeouts/permissions/concurrency and floating action refs).",
+  "version": "1.1.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-workflow-hardening-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-workflow-hardening-audit"
+}

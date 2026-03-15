@@ -1,0 +1,10 @@
+{
+  "name": "daoistbro--memory-system",
+  "description": "自研三层记忆恢复系统。解决session重启后\"忘记一切\"的问题，提供永久记忆、今日记忆、临时记忆的完整架构。",
+  "version": "1.0.0",
+  "author": {
+    "name": "daoistbro"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daoistbro/memory-system",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daoistbro/memory-system"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "simonfunk--coda-io",
+  "description": "Interact with Coda.io docs, tables, rows, pages, and automations via the Coda REST API v1. Use when the user wants to read, write, update, or delete data in Coda docs. Also use when they mention \"Coda\", \"Coda doc\", \"Coda table\", \"Coda rows\", \"Coda API\", \"sync to Coda\", \"read from Coda\", \"write to Coda\", \"Coda automation\", \"Coda pages\", \"Coda formulas\", \"share Coda doc\", or \"Coda permissions\". Covers docs, pages, tables, columns, rows, formulas, controls, folders, permissions, publishing, automations, and analytics.",
+  "version": "1.2.0",
+  "author": {
+    "name": "simonfunk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/simonfunk/coda-io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/simonfunk/coda-io"
+}

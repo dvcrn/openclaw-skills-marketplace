@@ -1,0 +1,10 @@
+{
+  "name": "jcools1977--phantom-limb",
+  "description": "Detects phantom dependencies — references to things that no longer exist, ghost state that lives in the gaps between modules, and invisible wires that connect your code to assumptions nobody remembers making. The codebase equivalent of feeling a limb that's already been amputated.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jcools1977"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jcools1977/phantom-limb",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jcools1977/phantom-limb"
+}

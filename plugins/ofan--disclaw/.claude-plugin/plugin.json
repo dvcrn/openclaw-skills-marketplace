@@ -1,0 +1,10 @@
+{
+  "name": "ofan--disclaw",
+  "description": "Manage Discord workspace structure and OpenClaw routing as code. Use when creating/renaming/deleting Discord channels, categories, threads, or managing agent-to-channel bindings. Triggers on: Discord channels, workspace structure, channel setup, routing, binding, disclaw.",
+  "version": "1.1.2",
+  "author": {
+    "name": "ofan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ofan/disclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ofan/disclaw"
+}

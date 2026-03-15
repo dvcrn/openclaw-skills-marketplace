@@ -1,0 +1,10 @@
+{
+  "name": "eg-yks--local-websearch-1",
+  "description": "Search the web using a self-hosted SearXNG metasearch engine. Aggregates Google, Brave, DuckDuckGo, and more without API keys.",
+  "version": "1.0.0",
+  "author": {
+    "name": "eg-yks"
+  },
+  "homepage": "https://docs.searxng.org",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eg-yks/local-websearch-1"
+}

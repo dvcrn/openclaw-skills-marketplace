@@ -1,0 +1,10 @@
+{
+  "name": "cortexuvula--taildrop",
+  "description": "Download files from Tailscale Taildrop inbox to local storage. Use when user wants to retrieve files sent via Tailscale or mentions Taildrop.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cortexuvula"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cortexuvula/taildrop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cortexuvula/taildrop"
+}

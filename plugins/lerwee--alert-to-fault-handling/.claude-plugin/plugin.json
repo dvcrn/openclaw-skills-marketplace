@@ -1,0 +1,10 @@
+{
+  "name": "lerwee--alert-to-fault-handling",
+  "description": "告警自动处理工作流 - 监听告警上下文，匹配处理脚本，提示用户执行故障处理操作",
+  "version": "1.0.0",
+  "author": {
+    "name": "lerwee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lerwee/alert-to-fault-handling",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lerwee/alert-to-fault-handling"
+}

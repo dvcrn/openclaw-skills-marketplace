@@ -1,0 +1,10 @@
+{
+  "name": "paulasjes--elevenlabs-transcribe",
+  "description": "Transcribe audio to text using ElevenLabs Scribe. Supports batch transcription, realtime streaming from URLs, microphone input, and local files.",
+  "version": "1.0.1",
+  "author": {
+    "name": "paulasjes"
+  },
+  "homepage": "https://elevenlabs.io/speech-to-text",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paulasjes/elevenlabs-transcribe"
+}

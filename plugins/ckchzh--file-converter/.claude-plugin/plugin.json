@@ -1,0 +1,10 @@
+{
+  "name": "ckchzh--file-converter",
+  "description": "File format converter. Detect formats, convert between JSON/YAML/XML/CSV/Markdown, minify and prettify code. Commands: detect, json2yaml, yaml2json, csv2md, md2csv, xml2json, json2xml, minify, prettify. Use for data format conversion, code compression, code beautification.",
+  "version": "2.2.0",
+  "author": {
+    "name": "ckchzh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ckchzh/file-converter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ckchzh/file-converter"
+}

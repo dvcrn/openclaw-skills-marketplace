@@ -1,0 +1,10 @@
+{
+  "name": "joyyyced--auto-model-router",
+  "description": "Automatically select and use the best AI model for any task based on task type. ALWAYS activate this skill at the start of a new task or when the user asks a substantive question. Routes coding tasks to code-specialized models, math to reasoning models, translation to multilingual models, casual chat to fast cheap models, etc. Learns from user feedback over time when router is configured. Trigger phrases: \"help me\", \"write\", \"code\", \"debug\", \"translate\", \"analyze\", \"summarize\", \"explain\", or any task-oriented request.",
+  "version": "0.1.1",
+  "author": {
+    "name": "joyyyced"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/joyyyced/auto-model-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joyyyced/auto-model-router"
+}

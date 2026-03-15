@@ -1,0 +1,10 @@
+{
+  "name": "parsonssss--upload-files-to-get-online-url",
+  "description": "Upload files to Tencent Cloud COS (Cloud Object Storage). Use when the user needs to upload images, documents, or any files to Tencent Cloud COS. Supports environment variables or command-line arguments for configuration. Automatically generates accessible URLs and signed URLs with 24-hour expiration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "parsonssss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/parsonssss/upload-files-to-get-online-url",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/parsonssss/upload-files-to-get-online-url"
+}

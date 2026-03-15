@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-runtime-regression-audit",
+  "description": "Compare baseline vs current GitHub Actions run exports to catch workflow/job runtime regressions before CI costs and lead time spike.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-runtime-regression-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-runtime-regression-audit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xjli360--feishu-bitable-database",
+  "description": "Read and edit Feishu Bitable (多维表格) data like a database. Use when working with Feishu multidimensional tables for: (1) Listing tables and views, (2) Getting table schema, (3) Querying/filtering records, (4) Creating new records, (5) Updating existing records, (6) Deleting records, (7) Aggregating data. Provides SQL-like interface with SELECT, INSERT, UPDATE, DELETE operations. Supports --url parameter to auto-extract app_token, table_id, view_id from Feishu URL.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xjli360"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xjli360/feishu-bitable-database",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xjli360/feishu-bitable-database"
+}

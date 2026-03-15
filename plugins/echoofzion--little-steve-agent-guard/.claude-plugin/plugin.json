@@ -1,0 +1,10 @@
+{
+  "name": "echoofzion--little-steve-agent-guard",
+  "description": "Little Steve Agent Guard: a self-evolving security system for agent skills. Wraps all skill commands with risk assessment, audit logging, approval levels, and continuous rule evolution. / 小史安全卫士：面向 Agent Skill 的自进化安全系统。为所有技能命令提供风险评估、审计日志、分级审批和持续规则进化。",
+  "version": "0.1.4",
+  "author": {
+    "name": "echoofzion"
+  },
+  "homepage": "https://github.com/EchoOfZion/little-steve-agent-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/echoofzion/little-steve-agent-guard"
+}

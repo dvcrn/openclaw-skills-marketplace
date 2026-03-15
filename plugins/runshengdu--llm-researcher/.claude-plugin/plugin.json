@@ -1,0 +1,10 @@
+{
+  "name": "runshengdu--llm-researcher",
+  "description": "LLM 论文与项目研究员。分析LLM相关论文和Github项目，\n 并按指定类目进行分类整理。使用场景：(1) 获取 LLM 领域最新进展，(2) 追踪特定方向的最新研究，(3) 生成行业分析报告",
+  "version": "1.0.1",
+  "author": {
+    "name": "runshengdu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runshengdu/llm-researcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runshengdu/llm-researcher"
+}

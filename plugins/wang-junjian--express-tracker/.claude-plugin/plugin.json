@@ -1,0 +1,10 @@
+{
+  "name": "wang-junjian--express-tracker",
+  "description": "快递物流查询技能，支持圆通、中通、申通、韵达、顺丰、京东等主流快递公司。自动识别快递公司，生成快递100查询链接。使用场景：(1) \"查询快递 YT2538259220416\"，(2) \"我的快递到哪了\"，(3) \"批量查询几个快递单号\"。",
+  "version": "1.0.0",
+  "author": {
+    "name": "wang-junjian"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wang-junjian/express-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wang-junjian/express-tracker"
+}

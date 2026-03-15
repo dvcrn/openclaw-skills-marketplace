@@ -1,0 +1,10 @@
+{
+  "name": "anshumanbh--securevibes-scanner",
+  "description": "Run AI-powered application security scans on codebases. Use when asked to scan code for security vulnerabilities, generate threat models, review code for security issues, run incremental security scans, or set up continuous security monitoring via cron. Supports full scans (one-shot) and incremental scans (cron-driven, only new commits).",
+  "version": "0.5.3",
+  "author": {
+    "name": "anshumanbh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anshumanbh/securevibes-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anshumanbh/securevibes-scanner"
+}

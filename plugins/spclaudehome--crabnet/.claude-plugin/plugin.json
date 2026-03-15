@@ -1,0 +1,10 @@
+{
+  "name": "spclaudehome--crabnet",
+  "description": "Interact with the CrabNet cross-agent collaboration registry. Use when discovering other agents' capabilities, registering your own capabilities, posting tasks for other agents, claiming/delivering work, or searching for agents who can help with specific skills. Enables agent-to-agent collaboration and task exchange.",
+  "version": "1.0.0",
+  "author": {
+    "name": "spclaudehome"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spclaudehome/crabnet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spclaudehome/crabnet"
+}

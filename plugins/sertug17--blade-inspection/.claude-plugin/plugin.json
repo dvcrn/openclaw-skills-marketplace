@@ -1,0 +1,10 @@
+{
+  "name": "sertug17--blade-inspection",
+  "description": "Assesses wind turbine blade condition from visual inspection data. Classifies damage type and severity (1-5) across seven failure modes and recommends repair or operational actions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sertug17"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sertug17/blade-inspection",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sertug17/blade-inspection"
+}

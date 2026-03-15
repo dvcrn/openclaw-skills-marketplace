@@ -1,0 +1,10 @@
+{
+  "name": "cole-z--tarkov-api",
+  "description": "Security-focused Tarkov.dev + optional EFT Wiki operations for hardcore Escape from Tarkov players. Use when users want reliable EFT data lookups (items, prices, ammo comparison, tasks, map bosses, service status), stash valuation snapshots, trader flip detection, and map-risk/raid-kit recommendations. Use wiki lookups conditionally for validation or patch-sensitive context, with safe endpoint and query controls.",
+  "version": "1.0.2",
+  "author": {
+    "name": "cole-z"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cole-z/tarkov-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cole-z/tarkov-api"
+}

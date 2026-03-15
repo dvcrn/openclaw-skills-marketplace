@@ -1,0 +1,10 @@
+{
+  "name": "zhairen--wevoicereply",
+  "description": "【自动化语音合成与推送链路】\n 当用户要求语音回复、读一下或发声时，必须严格执行以下三步，严禁跳步：\n\n ### 第一步：文案生成 (Prompt A)\n 根据上下文生成自然、温暖的口语化文本。\n 请在长句子中加入中文逗号 `，` 以确保音频合成时有自然的停顿。\n\n ### 第二步：音频合成 (执行 voice_reply_skill.py)\n **这是本工具的核心动作。**\n 将第一步生成的文本作为 `text` 参数传入，后台将自动运行 `voice_reply_skill.py` 脚本。\n - **脚本逻辑**：Piper TTS 合成 WAV -> FFmpeg 转码 AMR -> 上传获取 URL。\n - **产出物**：执行完成后，你会获得一个 JSON 对象，包含 `url` 字段（例如：`{\"url\": \"https://.../xxx.amr\"}`）。\n\n ### 第三步：指令发送 (调用系统内置工具)\n 获取 URL 后，禁止结束对话，立即发起第二次调用。\n - **目标工具**：`default_api.message`\n - **执行参数**：\n   {\n     \"action\": \"send\",\n     \"contentType\": \"voice\",\n     \"media\": \"[此处填入从第二步脚本返回的url]\",\n     \"target\": \"@all\"\n   }\n\n 【准则】发送完成后，仅需告知用户“语音已发送”，不得再次输出音频 URL。",
+  "version": "1.0.3",
+  "author": {
+    "name": "zhairen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhairen/wevoicereply",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhairen/wevoicereply"
+}

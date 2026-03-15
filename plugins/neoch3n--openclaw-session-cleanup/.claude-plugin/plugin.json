@@ -1,0 +1,10 @@
+{
+  "name": "neoch3n--openclaw-session-cleanup",
+  "description": "Diagnose and stabilize long-running OpenClaw deployments that accumulate stale sessions, unreaped agents, browser-control timeouts, gateway websocket 1006 closures, or memory pressure on small VPS hosts. Use when OpenClaw shows too many active sessions, browser control service timeout, gateway abnormal closure, or needs a cleanup/watchdog/sane runtime limits playbook.",
+  "version": "1.0.0",
+  "author": {
+    "name": "neoch3n"
+  },
+  "homepage": "https://github.com/NeoCh3n/openclaw-session-cleanup-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neoch3n/openclaw-session-cleanup"
+}

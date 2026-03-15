@@ -1,0 +1,35 @@
+Self-Optimization Skill V2.1
+Version: 2.1.0
+Build Date: 2026-03-06 00:08:15
+Author: Shen (with AI assistant Yiyi)
+License: MIT
+
+Files:
+__init__.py
+judge.py
+prompt_optimizer.py
+strategy_learner.py
+ab_testing.py
+quality_dashboard.py
+advanced_metrics.py
+config.yaml
+test_system.py
+README.md
+SKILL.md
+package.json
+
+Features:
+- LLM-as-Judge (5 core dimensions)
+- A/B Testing Framework
+- Quality Dashboard with HTML reports
+- Advanced Metrics (10 dimensions)
+- Prompt Optimizer (7 patterns)
+- Strategy Learner
+
+Installation:
+openclaw skills install self-optimization-v2.1
+
+Documentation:
+- README.md
+- SKILL.md
+- SELF-OPTIMIZATION-V2.1-MANUAL.md (workspace root)

@@ -1,0 +1,10 @@
+{
+  "name": "geometrydotsh--geometry",
+  "description": "Generate AI images from text prompts. Pay per request with USDC on Solana via x402. No API keys, no accounts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "geometrydotsh"
+  },
+  "homepage": "https://geometry.sh",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/geometrydotsh/geometry"
+}

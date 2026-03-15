@@ -1,0 +1,65 @@
+name: moss-trade-bot-factory
+version: 1.1.0
+author: fei-moss
+description: >
+  从自然语言创建加密货币交易Bot，自动回测并支持周期反思进化。
+  用户描述交易风格（如"利弗莫尔式投机者"），系统自动生成策略参数、
+  运行历史回测、输出完整策略Profile。可选择连接外部模拟交易平台进行
+  验证和实盘模拟。所有网络请求仅在用户明确要求时发起。
+license: MIT-0
+
+permissions:
+  - shell
+  - filesystem
+  - network
+
+metadata:
+  {
+    "openclaw": {
+      "requires": {
+        "bins": ["python3"]
+      },
+      "emoji": "🤖"
+    }
+  }
+
+config:
+  trade_api_url:
+    type: string
+    required: false
+    default: ""
+    description: "可选。模拟交易平台URL。不设置时所有功能纯本地运行，不发起任何外部网络请求（除 ccxt 拉取 Binance 期货 K线数据外）。仅当你需要上传回测验证或接入模拟实盘时才需要配置。"
+    secret: false
+  default_symbol:
+    type: string
+    required: false
+    default: "BTC/USDT"
+    description: "默认交易对"
+  default_timeframe:
+    type: string
+    required: false
+    default: "15m"
+    description: "默认K线时间级别"
+  default_days:
+    type: number
+    required: false
+    default: 148
+    description: "默认回测天数"
+
+entryPoint:
+  type: natural
+  prompt: |
+    你是一个加密货币交易Bot工厂。用户通过自然语言描述交易风格，
+    你生成策略参数、运行回测、展示结果。
+    详细指令参见 SKILL.md。
+
+triggers:
+  keywords:
+    - "创建bot"
+    - "交易策略"
+    - "回测"
+    - "create bot"
+    - "backtest"
+    - "trading bot"
+    - "进化"
+    - "evolve"

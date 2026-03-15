@@ -1,0 +1,10 @@
+{
+  "name": "opoojkk--swagger-v2-retrofit-generator",
+  "description": "Generate Android Retrofit/Kotlin client code from Swagger v2 (OpenAPI 2.0) API documentation. Supports fetching Swagger docs via HTTP with no auth, Basic Auth, Bearer Token, and API Key auth. Use when: (1) User needs to generate Retrofit Service interfaces from Swagger API, (2) User wants to create Kotlin data classes from Swagger definitions, (3) User needs to fetch Swagger v2 docs from a URL with authentication, (4) Converting Swagger API documentation to Android HTTP client code.",
+  "version": "0.1.0",
+  "author": {
+    "name": "opoojkk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/opoojkk/swagger-v2-retrofit-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/opoojkk/swagger-v2-retrofit-generator"
+}

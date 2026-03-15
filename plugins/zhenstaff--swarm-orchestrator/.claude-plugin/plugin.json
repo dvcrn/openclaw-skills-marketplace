@@ -1,0 +1,10 @@
+{
+  "name": "zhenstaff--swarm-orchestrator",
+  "description": "AI Agent cluster orchestration platform - manage, schedule, and coordinate multiple AI agents locally with FastAPI backend and React dashboard",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhenstaff"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhenstaff/swarm-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhenstaff/swarm-orchestrator"
+}

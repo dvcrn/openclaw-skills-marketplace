@@ -1,0 +1,10 @@
+{
+  "name": "hongyi3--asking-until-100",
+  "description": "Repo-aware questioning protocol for OpenClaw that increases clarification before acting on coding, project-build, architecture, debugging, and implementation tasks. Use when requirements, repo context, constraints, interfaces, success criteria, or execution rigor are ambiguous and the agent should ask higher-signal questions or generate a structured question report before implementation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "hongyi3"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hongyi3/asking-until-100",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hongyi3/asking-until-100"
+}

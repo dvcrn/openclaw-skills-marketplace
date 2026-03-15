@@ -1,0 +1,10 @@
+{
+  "name": "jonathanjing--openclaw-gateway-watchdog-skill",
+  "description": "Monitor OpenClaw gateway health with a watchdog state machine, Discord alerts, cooldown dedupe, and isolated fallback deployment on macOS. Use when users want gateway failure detection, auto-recovery policy, and low-noise Discord incident notifications.",
+  "version": "1.0.2",
+  "author": {
+    "name": "jonathanjing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jonathanjing/openclaw-gateway-watchdog-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jonathanjing/openclaw-gateway-watchdog-skill"
+}

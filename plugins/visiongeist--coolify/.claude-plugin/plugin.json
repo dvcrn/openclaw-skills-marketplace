@@ -1,0 +1,10 @@
+{
+  "name": "visiongeist--coolify",
+  "description": "Manage Coolify deployments, applications, databases, and services via the Coolify API. Use when the user wants to deploy, start, stop, restart, or manage applications hosted on Coolify.",
+  "version": "2.1.1",
+  "author": {
+    "name": "visiongeist"
+  },
+  "homepage": "https://coolify.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/visiongeist/coolify"
+}

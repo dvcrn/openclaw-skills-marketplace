@@ -1,0 +1,10 @@
+{
+  "name": "wpank--workflow-patterns",
+  "description": "Systematic task implementation using TDD, phase checkpoints, and structured commits. Ensures quality through red-green-refactor cycles, 80% coverage gates, and verification protocols before proceeding.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/workflow-patterns",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/workflow-patterns"
+}

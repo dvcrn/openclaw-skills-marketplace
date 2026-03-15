@@ -1,0 +1,10 @@
+{
+  "name": "zeron-g--task-engine",
+  "description": "Multi-agent task orchestration engine with state machine tracking. Use when complex multi-step projects need automated monitoring, multi-agent collaboration, and Discord-based progress tracking.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zeron-g"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zeron-g/task-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zeron-g/task-engine"
+}

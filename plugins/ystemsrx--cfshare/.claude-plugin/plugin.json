@@ -1,0 +1,10 @@
+{
+  "name": "ystemsrx--cfshare",
+  "description": "Use the cfshare CLI to expose local ports/files as temporary Cloudflare Quick Tunnel URLs. Trigger when a user needs a temporary public URL for a local service, needs to share files/directories from terminal, or needs to inspect/export cfshare audit and policy state.",
+  "version": "0.1.5",
+  "author": {
+    "name": "ystemsrx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ystemsrx/cfshare",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ystemsrx/cfshare"
+}

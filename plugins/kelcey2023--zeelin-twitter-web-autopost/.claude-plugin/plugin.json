@@ -1,0 +1,10 @@
+{
+  "name": "kelcey2023--zeelin-twitter-web-autopost",
+  "description": "ZeeLin Twitter/X 自动发推 + 回关 — 通过浏览器操作网页版 Twitter/X，无需 API Key。用户自行登录后，Agent 负责撰写推文并发布、以及一键回关粉丝（关注者列表 + 认证关注者列表）。支持定时发推（openclaw cron）。Keywords: Zeelin, ZeeLin, auto tweet, follow back, 回关, 互关, scheduled post, no API key.",
+  "version": "0.6.1",
+  "author": {
+    "name": "kelcey2023"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kelcey2023/zeelin-twitter-web-autopost",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kelcey2023/zeelin-twitter-web-autopost"
+}

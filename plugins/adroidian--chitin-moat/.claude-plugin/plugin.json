@@ -1,0 +1,10 @@
+{
+  "name": "adroidian--chitin-moat",
+  "description": "Enforce contextual permission boundaries for AI agents based on communication surface. Constrains agent capabilities (exec, file I/O, secrets, messaging) by channel trust level rather than message content, preventing social engineering and prompt injection in group chats. Use when: (1) configuring agent permissions per channel/group, (2) setting up read-only mode for public Discord/Telegram, (3) implementing sovereign/trusted/guarded/observer/silent trust tiers, (4) auditing agent channel permissions, or (5) the user mentions \"trust channels\", \"channel permissions\", or \"read-only mode.\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "adroidian"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adroidian/chitin-moat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adroidian/chitin-moat"
+}

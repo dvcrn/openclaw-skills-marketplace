@@ -1,0 +1,10 @@
+{
+  "name": "rmanluo--zotero-skill",
+  "description": "Zotero integration for both personal and Group libraries. search items (title/author/tags/year/fulltext/combined queries), create/update/delete items and metadata, add/edit item-level notes, perform bulk operations, and sync attachments (upload PDF or link URL). Trigger when user asks to search their Zotero, add or modify an item/note, upload attachments, or manage group libraries.",
+  "version": "0.1.6",
+  "author": {
+    "name": "rmanluo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rmanluo/zotero-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rmanluo/zotero-skill"
+}

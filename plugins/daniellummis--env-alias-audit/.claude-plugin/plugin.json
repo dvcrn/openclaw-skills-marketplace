@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--env-alias-audit",
+  "description": "Audit .env alias groups for missing required config, conflicting values, and canonical-key drift before deploy.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/env-alias-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/env-alias-audit"
+}

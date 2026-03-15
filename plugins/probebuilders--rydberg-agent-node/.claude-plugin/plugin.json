@@ -1,0 +1,10 @@
+{
+  "name": "probebuilders--rydberg-agent-node",
+  "description": "Deploy a ProbeChain Rydberg testnet Agent node with one command. Auto-registers as Agent (NodeType=1), gas-free, supports macOS/Linux/Windows. Triggers on /rydberg-agent-node slash command or phrases like \"install rydberg agent node\", \"deploy rydberg validator\", \"安装里德堡节点\", \"部署验证节点\".",
+  "version": "2.5.1",
+  "author": {
+    "name": "probebuilders"
+  },
+  "homepage": "https://probechain.org",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/probebuilders/rydberg-agent-node"
+}

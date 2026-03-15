@@ -1,0 +1,10 @@
+{
+  "name": "scytheshan-pixel--iris-war-room",
+  "description": "Run adversarial multi-agent war-room evaluations for any strategic decision. Spawns 5 parallel subagents (Analyst, Guardian, Treasurer, Builder, Strategist) to challenge a proposal from different angles, then synthesizes a GO/NO-GO/REWORK ruling. Use when: (1) evaluating proposals that need multi-perspective stress-testing, (2) making go/no-go decisions on investments, products, hires, or architecture, (3) any decision where adversarial challenge improves quality. Supports finance, product, engineering, and hiring domains. NOT for: simple questions, routine tasks, or decisions that do not need formal evaluation.",
+  "version": "1.1.0",
+  "author": {
+    "name": "scytheshan-pixel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/scytheshan-pixel/iris-war-room",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scytheshan-pixel/iris-war-room"
+}

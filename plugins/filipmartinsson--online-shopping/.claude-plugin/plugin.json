@@ -1,0 +1,10 @@
+{
+  "name": "filipmartinsson--online-shopping",
+  "description": "Browse and buy products from online stores, including Cloudflare-protected sites. Use when the user asks to find, compare, or order products online. Handles product search, price comparison, adding to cart, filling checkout forms, and navigating to payment. Uses a stealth browser (Patchright) to bypass bot detection.",
+  "version": "1.0.0",
+  "author": {
+    "name": "filipmartinsson"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/filipmartinsson/online-shopping",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/filipmartinsson/online-shopping"
+}

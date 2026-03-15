@@ -1,0 +1,10 @@
+{
+  "name": "omaression--advanced-dispatcher-skill",
+  "description": "Route mid-session work to the right spawned model without changing the fixed main session. Use for coding, architecture, math, algorithms, web development, brainstorming, research, long-context reading, quick scripts, formatting, multi-model tradeoff evaluation, or structured build pipelines triggered by buildq:, build:, or buildx:. Default to strict no-Claude routing; allow Claude only when the current prompt explicitly includes --force-claude.",
+  "version": "0.5.0",
+  "author": {
+    "name": "omaression"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/omaression/advanced-dispatcher-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/omaression/advanced-dispatcher-skill"
+}

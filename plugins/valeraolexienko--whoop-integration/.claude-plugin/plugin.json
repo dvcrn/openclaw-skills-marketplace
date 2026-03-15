@@ -1,0 +1,10 @@
+{
+  "name": "valeraolexienko--whoop-integration",
+  "description": "Integrate with WHOOP fitness tracker API to monitor sleep, recovery, and strain data. Use when you need to check sleep quality, recovery scores, analyze fitness patterns, set up morning behavior adjustments based on sleep performance, or create automated health monitoring workflows. Supports OAuth authentication, sleep performance tracking, and adaptive assistant behavior.",
+  "version": "2.0.0",
+  "author": {
+    "name": "valeraolexienko"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/valeraolexienko/whoop-integration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/valeraolexienko/whoop-integration"
+}

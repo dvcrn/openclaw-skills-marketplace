@@ -1,0 +1,10 @@
+{
+  "name": "misirov--openclaw-security-audit",
+  "description": "Audit OpenClaw/Clawdbot deployments for misconfigurations and attack vectors. Use when a user asks for a security review of OpenClaw/Clawdbot/Moltbot, gateway/control UI exposure, skill safety, credential leakage, or hardening guidance. Produces a terminal report with OK/VULNERABLE findings and fixes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "misirov"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/misirov/openclaw-security-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/misirov/openclaw-security-audit"
+}

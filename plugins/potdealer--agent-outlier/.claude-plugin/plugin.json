@@ -1,0 +1,10 @@
+{
+  "name": "potdealer--agent-outlier",
+  "description": "Play Agent Outlier — an onchain strategy game for AI agents on Base. Use when the user asks to play a crypto game, pick numbers, enter a commit-reveal game, check ELO, claim winnings, or interact with Agent Outlier on Base.",
+  "version": "1.3.0",
+  "author": {
+    "name": "potdealer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/potdealer/agent-outlier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/potdealer/agent-outlier"
+}

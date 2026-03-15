@@ -1,0 +1,10 @@
+{
+  "name": "chunhualiao--git-repo-to-book",
+  "description": "Write a full-length technical book using multi-agent AI orchestration. Spawns parallel research, writing, and review agents to produce 60K-100K+ word manuscripts. Also supports revising individual chapters of existing books. Based on the real workflow that produced an 88,000-word, 14-chapter book in under 18 hours.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chunhualiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/git-repo-to-book",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/git-repo-to-book"
+}

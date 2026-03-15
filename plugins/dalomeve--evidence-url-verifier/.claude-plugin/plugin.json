@@ -1,0 +1,10 @@
+{
+  "name": "dalomeve--evidence-url-verifier",
+  "description": "Verify evidence URLs are real and accessible. Check that artifact links resolve to actual content, not placeholders.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dalomeve"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/evidence-url-verifier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/evidence-url-verifier"
+}

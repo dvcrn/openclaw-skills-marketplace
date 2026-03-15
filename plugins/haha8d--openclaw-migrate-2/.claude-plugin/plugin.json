@@ -1,0 +1,10 @@
+{
+  "name": "haha8d--openclaw-migrate-2",
+  "description": "Cross-platform agent migration and deployment. Use when: (1) migrating OpenClaw agent to new servers, (2) backing up and restoring agent state, (3) deploying agent configurations across environments, (4) syncing workspace between development and production. NOT for: general file backup, non-agent data migration.",
+  "version": "0.1.0",
+  "author": {
+    "name": "haha8d"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/haha8d/openclaw-migrate-2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/haha8d/openclaw-migrate-2"
+}

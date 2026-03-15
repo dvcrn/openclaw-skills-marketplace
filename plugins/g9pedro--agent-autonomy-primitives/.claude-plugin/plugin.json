@@ -1,0 +1,10 @@
+{
+  "name": "g9pedro--agent-autonomy-primitives",
+  "description": "Build long-running autonomous agent loops using ClawVault primitives (tasks, projects, memory types, templates, heartbeats). Use when setting up agent autonomy, creating task-driven execution loops, customizing primitive schemas, wiring heartbeat-based work queues, or teaching an agent to manage its own backlog. Also use when adapting primitives to an existing agent setup or designing multi-agent collaboration through shared vaults.",
+  "version": "1.0.0",
+  "author": {
+    "name": "g9pedro"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/g9pedro/agent-autonomy-primitives",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/g9pedro/agent-autonomy-primitives"
+}

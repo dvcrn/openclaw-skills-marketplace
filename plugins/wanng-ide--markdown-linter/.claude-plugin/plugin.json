@@ -1,0 +1,10 @@
+{
+  "name": "wanng-ide--markdown-linter",
+  "description": "Validates Markdown files in the workspace for broken local links, missing file references, and basic syntax issues. Use to maintain documentation integrity and prevent broken references in MEMORY.md or SKILL.md files.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wanng-ide"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/markdown-linter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/markdown-linter"
+}

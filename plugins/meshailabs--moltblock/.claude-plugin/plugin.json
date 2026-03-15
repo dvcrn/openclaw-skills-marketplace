@@ -1,0 +1,10 @@
+{
+  "name": "meshailabs--moltblock",
+  "description": "Verification gating for AI-generated artifacts. Policy checks to catch dangerous patterns before execution.",
+  "version": "0.11.4",
+  "author": {
+    "name": "meshailabs"
+  },
+  "homepage": "https://github.com/moltblock/moltblock",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/meshailabs/moltblock"
+}

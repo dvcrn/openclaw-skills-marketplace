@@ -1,0 +1,10 @@
+{
+  "name": "sw326--car-insurance",
+  "description": "자동차/보험 정보 스킬. 10개 인텐트 라우팅(Car Tax Calc~Beginner Guide), 지방세법 기반 자동차세 계산 + 보험개발원 공시 + 중고차 시세 Flash+Deep-Dive 2겹 리포트. 트리거: \"자동차세\", \"차세금\", \"중고차\", \"자동차 보험\", \"보험료\", \"사고 처리\", \"보험 청구\", \"책임보험\", \"유지비\", \"교통 위반\", \"과태료\", \"벌점\", \"Car Insurance\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "sw326"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sw326/car-insurance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sw326/car-insurance"
+}

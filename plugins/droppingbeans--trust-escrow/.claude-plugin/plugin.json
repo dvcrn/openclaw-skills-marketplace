@@ -1,0 +1,10 @@
+{
+  "name": "droppingbeans--trust-escrow",
+  "description": "Create and manage USDC escrows for agent-to-agent payments on Base Sepolia. 30% gas savings, batch operations, dispute resolution.",
+  "version": "1.0.0",
+  "author": {
+    "name": "droppingbeans"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/droppingbeans/trust-escrow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/droppingbeans/trust-escrow"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jiayun--androidtv-netflix",
+  "description": "Search and play Netflix content on Android TV. When the user asks to play a specific Netflix title on TV, the agent looks up the title ID and executes ADB commands for precise playback.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jiayun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jiayun/androidtv-netflix",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jiayun/androidtv-netflix"
+}

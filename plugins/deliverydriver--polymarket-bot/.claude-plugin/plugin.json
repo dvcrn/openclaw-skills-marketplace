@@ -1,0 +1,10 @@
+{
+  "name": "deliverydriver--polymarket-bot",
+  "description": "Automate Polymarket bot operations including fetching market data, placing trades, and implementing strategies like arbitrage. Use when users need to build or run bots for prediction markets, monitor prices, or execute trades on the Polygon blockchain.",
+  "version": "1.0.0",
+  "author": {
+    "name": "deliverydriver"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deliverydriver/polymarket-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deliverydriver/polymarket-bot"
+}

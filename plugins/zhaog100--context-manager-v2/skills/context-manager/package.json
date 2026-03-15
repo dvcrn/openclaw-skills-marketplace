@@ -1,0 +1,40 @@
+{
+  "name": "miliger-context-manager",
+  "version": "2.2.2",
+  "description": "Auto context management with real API monitoring, startup optimization and seamless session switching. Features: OpenClaw API-based monitoring, accurate token calculation, layered reading (core<5KB + summary<10KB), dual thresholds (startup 30% + dialog 60%), 5-minute interval, 1-hour cooldown, Feishu notifications. v2.2.2: Lowered threshold to 60% and reduced interval to 5min for faster response.",
+  "author": "米粒儿",
+  "license": "MIT",
+  "keywords": [
+    "context",
+    "memory",
+    "session",
+    "automatic",
+    "seamless",
+    "switching",
+    "startup-optimization",
+    "layered-reading",
+    "token-saving",
+    "api-monitoring",
+    "real-time-monitoring"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miliger/context-manager"
+  },
+  "homepage": "https://clawhub.com/skills/miliger-context-manager",
+  "engines": {
+    "openclaw": ">=2026.3.0"
+  },
+  "scripts": {
+    "install": "bash install.sh",
+    "test": "bash scripts/seamless-switch.sh",
+    "monitor": "bash scripts/context-monitor.sh"
+  },
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "install.sh",
+    "scripts/seamless-switch.sh",
+    "scripts/context-monitor.sh"
+  ]
+}

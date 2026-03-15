@@ -1,0 +1,10 @@
+{
+  "name": "earthwalking--clawhub-skill-search",
+  "description": "Use this skill when users need help finding, discovering, or selecting OpenClaw skills from the Clawhub marketplace. Triggers include: '哪个技能适合', '怎么找到', '技能搜索', 'skill search', 'how to find skill', or any request about navigating the 238+ skill ecosystem. Helps users match their tasks to appropriate skills and understand skill capabilities.",
+  "version": "1.0.0",
+  "author": {
+    "name": "earthwalking"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/earthwalking/clawhub-skill-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/earthwalking/clawhub-skill-search"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "weipengcopyright--envelope-sender",
+  "description": "Guide agent to send a user-specified local PDF document for signature through eSignGlobal by calling the eSignGlobal CLI tool.eSignGlobal CLI is an agent-friendly CLI — all output is JSON by default, making it easy to parse and chain.",
+  "version": "1.0.2",
+  "author": {
+    "name": "weipengcopyright"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/weipengcopyright/envelope-sender",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/weipengcopyright/envelope-sender"
+}

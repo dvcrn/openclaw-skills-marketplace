@@ -1,0 +1,10 @@
+{
+  "name": "jvy--geocode",
+  "description": "Convert place names or addresses to latitude/longitude, or coordinates to a human-readable place, via Nominatim (OpenStreetMap) using curl. Use for forward geocoding, reverse geocoding, location disambiguation, and JSON geocoding lookups. Triggers on geocode, reverse geocode, lat/lng, latitude/longitude, address to coordinates, coordinates to address, 地址转经纬度, 经纬度转地址, 坐标查地点.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jvy"
+  },
+  "homepage": "https://nominatim.org/release-docs/develop/api/Overview/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jvy/geocode"
+}

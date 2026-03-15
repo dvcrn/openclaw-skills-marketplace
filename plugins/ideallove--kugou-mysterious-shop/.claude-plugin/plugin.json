@@ -1,0 +1,10 @@
+{
+  "name": "ideallove--kugou-mysterious-shop",
+  "description": "神秘商店配置审核与Apollo配置生成工具。用于读取解析神秘商店的配置文档（如Excel、飞书文档等），审核抽奖概率配置（appid: 8001334），并生成Apollo配置输出。适用于：神秘商店活动配置审核、礼物ID规则校验、Apollo配置生成。",
+  "version": "1.0.1",
+  "author": {
+    "name": "ideallove"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ideallove/kugou-mysterious-shop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ideallove/kugou-mysterious-shop"
+}

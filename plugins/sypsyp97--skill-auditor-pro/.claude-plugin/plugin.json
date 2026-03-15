@@ -1,0 +1,10 @@
+{
+  "name": "sypsyp97--skill-auditor-pro",
+  "description": "Security scanner for ClawHub skills. Detects malicious code, obfuscated payloads, and social engineering before installation. Three-layer analysis: pattern matching, deobfuscation, and LLM intent analysis.",
+  "version": "2.1.1",
+  "author": {
+    "name": "sypsyp97"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sypsyp97/skill-auditor-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sypsyp97/skill-auditor-pro"
+}

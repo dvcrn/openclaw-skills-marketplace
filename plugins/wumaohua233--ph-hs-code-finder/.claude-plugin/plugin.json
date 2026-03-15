@@ -1,0 +1,10 @@
+{
+  "name": "wumaohua233--ph-hs-code-finder",
+  "description": "Query Philippines customs HS codes for products exported to the Philippines. Use when user asks about \"菲律宾海关编码\", \"HS code Philippines\", \"tariff code\", \"customs classification\", \"import duty Philippines\", or when they need to find the harmonized system code for goods shipped to the Philippines. Supports product name/image input and searches the official Tariff Commission website (tariffcommission.gov.ph).",
+  "version": "1.0.0",
+  "author": {
+    "name": "wumaohua233"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wumaohua233/ph-hs-code-finder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wumaohua233/ph-hs-code-finder"
+}

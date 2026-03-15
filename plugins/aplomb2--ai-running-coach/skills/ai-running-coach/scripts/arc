@@ -1,0 +1,598 @@
+#!/usr/bin/env bash
+# arc — AI Running Coach CLI for OpenClaw
+# Usage: arc <command> [options]
+
+set -euo pipefail
+
+CONFIG_DIR="${HOME}/.config/airunningcoach"
+CONFIG_FILE="${CONFIG_DIR}/config.json"
+BASE_URL="https://www.airunningcoach.net"
+
+# ─── Helpers ──────────────────────────────────────────────────────────────────
+
+ensure_config_dir() {
+  mkdir -p "$CONFIG_DIR"
+}
+
+get_token() {
+  if [[ -f "$CONFIG_FILE" ]]; then
+    local token
+    token=$(python3 -c "import json; print(json.load(open('$CONFIG_FILE')).get('token',''))" 2>/dev/null || echo "")
+    echo "$token"
+  fi
+}
+
+require_token() {
+  local token
+  token=$(get_token)
+  if [[ -z "$token" ]]; then
+    echo "❌ No API token configured."
+    echo ""
+    echo "To get started:"
+    echo "  1. Register at ${BASE_URL}/register"
+    echo "  2. Choose Pro plan (3-day free trial!)"
+    echo "  3. Go to Profile → Generate API Token"
+    echo "  4. Run: arc config set-token <your_arc_xxx_token>"
+    exit 1
+  fi
+  echo "$token"
+}
+
+api_call() {
+  local method="$1"
+  local endpoint="$2"
+  local token
+  token=$(require_token)
+  shift 2
+
+  local url="${BASE_URL}${endpoint}"
+
+  if [[ "$method" == "GET" ]]; then
+    curl -sf -H "Authorization: Bearer $token" -H "Content-Type: application/json" "$url" 2>/dev/null
+  else
+    local body="${1:-{}}"
+    curl -sf -X "$method" -H "Authorization: Bearer $token" -H "Content-Type: application/json" -d "$body" "$url" 2>/dev/null
+  fi
+}
+
+api_call_raw() {
+  # Like api_call but returns HTTP status + body for error handling
+  local method="$1"
+  local endpoint="$2"
+  local token
+  token=$(require_token)
+  shift 2
+
+  local url="${BASE_URL}${endpoint}"
+
+  if [[ "$method" == "GET" ]]; then
+    curl -s -w "\n%{http_code}" -H "Authorization: Bearer $token" -H "Content-Type: application/json" "$url" 2>/dev/null
+  else
+    local body="${1:-{}}"
+    curl -s -w "\n%{http_code}" -X "$method" -H "Authorization: Bearer $token" -H "Content-Type: application/json" -d "$body" "$url" 2>/dev/null
+  fi
+}
+
+handle_response() {
+  local response="$1"
+  local body http_code
+
+  http_code=$(echo "$response" | tail -1)
+  body=$(echo "$response" | sed '$d')
+
+  if [[ "$http_code" -ge 200 && "$http_code" -lt 300 ]]; then
+    echo "$body"
+    return 0
+  elif [[ "$http_code" == "401" ]]; then
+    echo "❌ Authentication failed. Your token may be invalid or expired."
+    echo "Generate a new token at: ${BASE_URL}/profile"
+    return 1
+  elif [[ "$http_code" == "403" ]]; then
+    local error
+    error=$(echo "$body" | python3 -c "import sys,json; print(json.load(sys.stdin).get('error','Subscription required'))" 2>/dev/null || echo "Subscription required")
+    echo "❌ $error"
+    echo "Subscribe at: ${BASE_URL}/choose-plan"
+    return 1
+  elif [[ "$http_code" == "404" ]]; then
+    local error
+    error=$(echo "$body" | python3 -c "import sys,json; print(json.load(sys.stdin).get('error','Not found'))" 2>/dev/null || echo "Not found")
+    echo "⚠️ $error"
+    echo "Create a plan first: arc plan create --race marathon --weeks 16"
+    return 1
+  else
+    echo "❌ Error ($http_code):"
+    echo "$body" | python3 -c "import sys,json; print(json.load(sys.stdin).get('error','Unknown error'))" 2>/dev/null || echo "$body"
+    return 1
+  fi
+}
+
+format_json() {
+  python3 -m json.tool 2>/dev/null || cat
+}
+
+# ─── Commands ─────────────────────────────────────────────────────────────────
+
+cmd_config() {
+  local subcmd="${1:-help}"
+  shift || true
+
+  case "$subcmd" in
+    set-token)
+      local token="${1:-}"
+      if [[ -z "$token" ]]; then
+        echo "Usage: arc config set-token <arc_xxx>"
+        exit 1
+      fi
+      if [[ ! "$token" =~ ^arc_ ]]; then
+        echo "❌ Invalid token format. Token should start with 'arc_'"
+        exit 1
+      fi
+      ensure_config_dir
+      python3 -c "
+import json, os
+config = {}
+if os.path.exists('$CONFIG_FILE'):
+    config = json.load(open('$CONFIG_FILE'))
+config['token'] = '$token'
+json.dump(config, open('$CONFIG_FILE', 'w'), indent=2)
+"
+      echo "✅ API token saved!"
+      echo ""
+      echo "Testing connection..."
+      cmd_config test
+      ;;
+    show)
+      if [[ -f "$CONFIG_FILE" ]]; then
+        echo "Config: $CONFIG_FILE"
+        local token
+        token=$(get_token)
+        if [[ -n "$token" ]]; then
+          echo "Token: ${token:0:8}...${token: -4} (hidden)"
+        else
+          echo "Token: (not set)"
+        fi
+      else
+        echo "No config file found. Run: arc config set-token <token>"
+      fi
+      ;;
+    test)
+      echo "🔍 Testing API connection..."
+      local response
+      response=$(api_call_raw GET "/api/v1/stats")
+      if handle_response "$response" > /dev/null 2>&1; then
+        echo "✅ Connected! Your AI Running Coach is ready."
+        local body
+        body=$(echo "$response" | sed '$d')
+        local workouts distance streak
+        workouts=$(echo "$body" | python3 -c "import sys,json; print(json.load(sys.stdin).get('totalWorkouts',0))" 2>/dev/null || echo "0")
+        distance=$(echo "$body" | python3 -c "import sys,json; print(json.load(sys.stdin).get('totalDistance',0))" 2>/dev/null || echo "0")
+        streak=$(echo "$body" | python3 -c "import sys,json; print(json.load(sys.stdin).get('currentStreak',0))" 2>/dev/null || echo "0")
+        echo "  📊 Workouts: $workouts | Distance: ${distance}km | Streak: ${streak} days"
+      else
+        handle_response "$response"
+      fi
+      ;;
+    *)
+      echo "Usage: arc config <set-token|show|test>"
+      ;;
+  esac
+}
+
+cmd_today() {
+  local response
+  response=$(api_call_raw GET "/api/v1/today")
+  local body
+  body=$(handle_response "$response") || { echo "$body"; exit 1; }
+
+  # Parse and format
+  python3 -c "
+import json, sys
+data = json.loads('''$body''')
+date = data.get('date', 'Unknown')
+day = data.get('dayOfWeek', '')
+wtype = data.get('workoutType', 'rest')
+desc = data.get('description', '')
+dist = data.get('distance')
+dur = data.get('duration')
+pace = data.get('pace', '')
+notes = data.get('notes', '')
+rest = data.get('isRestDay', False)
+done = data.get('completed', False)
+
+status = '✅ Completed' if done else ('🛋️ Rest Day' if rest else '⏳ Pending')
+print(f'📅 {day}, {date}')
+print(f'Status: {status}')
+if not rest:
+    print(f'🏃 {wtype.title()}: {desc}')
+    if dist: print(f'📏 Distance: {dist}km')
+    if dur: print(f'⏱️ Duration: {dur} min')
+    if pace: print(f'🎯 Pace: {pace}')
+    if notes: print(f'📝 {notes}')
+else:
+    print('Take a rest day. Recovery is part of training! 💤')
+" 2>/dev/null || echo "$body" | format_json
+}
+
+cmd_week() {
+  local response
+  response=$(api_call_raw GET "/api/v1/week")
+  local body
+  body=$(handle_response "$response") || { echo "$body"; exit 1; }
+
+  python3 << 'PYEOF'
+import json, sys
+try:
+    data = json.loads(sys.stdin.read())
+except:
+    data = json.loads('''BODY_PLACEHOLDER''')
+
+plan = data.get('planName', 'Training Plan')
+start = data.get('weekStart', '')
+end = data.get('weekEnd', '')
+days = data.get('days', [])
+
+print(f"📋 {plan}")
+print(f"Week: {start} → {end}")
+print("─" * 45)
+
+for d in days:
+    day_name = d.get('dayOfWeek', '')[:3]
+    date = d.get('date', '')
+    wtype = d.get('workoutType', 'rest')
+    desc = d.get('description', 'Rest')
+    dist = d.get('distance')
+    done = d.get('completed', False)
+    rest = d.get('isRestDay', False)
+    
+    icon = '✅' if done else ('🛋️' if rest else '⏳')
+    dist_str = f" ({dist}km)" if dist else ""
+    print(f"{icon} {day_name} {date}: {wtype.title()} — {desc}{dist_str}")
+PYEOF
+  echo "$body" | python3 -c "
+import json, sys
+data = json.loads(sys.stdin.read())
+plan = data.get('planName', 'Training Plan')
+start = data.get('weekStart', '')
+end = data.get('weekEnd', '')
+days = data.get('days', [])
+
+print(f'📋 {plan}')
+print(f'Week: {start} → {end}')
+print('─' * 45)
+
+for d in days:
+    day_name = d.get('dayOfWeek', '')[:3]
+    date = d.get('date', '')
+    wtype = d.get('workoutType', 'rest')
+    desc = d.get('description', 'Rest')
+    dist = d.get('distance')
+    done = d.get('completed', False)
+    rest = d.get('isRestDay', False)
+    
+    icon = '✅' if done else ('🛋️' if rest else '⏳')
+    dist_str = f' ({dist}km)' if dist else ''
+    print(f'{icon} {day_name} {date}: {wtype.title()} — {desc}{dist_str}')
+" 2>/dev/null || echo "$body" | format_json
+}
+
+cmd_stats() {
+  local response
+  response=$(api_call_raw GET "/api/v1/stats")
+  local body
+  body=$(handle_response "$response") || { echo "$body"; exit 1; }
+
+  echo "$body" | python3 -c "
+import json, sys
+data = json.loads(sys.stdin.read())
+print('📊 Your Running Stats')
+print('─' * 30)
+print(f\"🏃 Total Workouts: {data.get('totalWorkouts', 0)}\")
+print(f\"📏 Total Distance: {data.get('totalDistance', 0)} km\")
+print(f\"⏱️  Total Duration: {data.get('totalDuration', 0)} min\")
+print(f\"🔥 Current Streak: {data.get('currentStreak', 0)} days\")
+cr = data.get('completionRate', 0)
+if cr: print(f'📈 Completion Rate: {cr}%')
+ls = data.get('longestStreak', 0)
+if ls: print(f'🏆 Longest Streak: {ls} days')
+" 2>/dev/null || echo "$body" | format_json
+}
+
+cmd_coach() {
+  local message="$*"
+  if [[ -z "$message" ]]; then
+    echo "Usage: arc coach \"your question here\""
+    echo ""
+    echo "Examples:"
+    echo "  arc coach \"What should I focus on today?\""
+    echo "  arc coach \"I'm feeling tired, should I adjust?\""
+    echo "  arc coach \"How do I improve my tempo pace?\""
+    exit 1
+  fi
+
+  echo "🤔 Thinking..."
+  local json_body
+  json_body=$(python3 -c "import json; print(json.dumps({'message': '''$message'''}))")
+  
+  local response
+  response=$(api_call_raw POST "/api/v1/coach" "$json_body")
+  local body
+  body=$(handle_response "$response") || { echo "$body"; exit 1; }
+
+  echo "$body" | python3 -c "
+import json, sys
+data = json.loads(sys.stdin.read())
+print()
+print('🏃 Coach says:')
+print()
+print(data.get('response', 'No response'))
+suggestions = data.get('suggestions', [])
+if suggestions:
+    print()
+    print('💡 Suggestions:')
+    for s in suggestions:
+        print(f'  • {s}')
+" 2>/dev/null || echo "$body" | format_json
+}
+
+cmd_plan_create() {
+  local race="" weeks="" target="" mileage="" runs="" goal="" start=""
+
+  while [[ $# -gt 0 ]]; do
+    case "$1" in
+      --race) race="$2"; shift 2 ;;
+      --weeks) weeks="$2"; shift 2 ;;
+      --target) target="$2"; shift 2 ;;
+      --mileage) mileage="$2"; shift 2 ;;
+      --runs) runs="$2"; shift 2 ;;
+      --goal) goal="$2"; shift 2 ;;
+      --start) start="$2"; shift 2 ;;
+      *) echo "Unknown option: $1"; exit 1 ;;
+    esac
+  done
+
+  if [[ -z "$race" || -z "$weeks" ]]; then
+    echo "Usage: arc plan create --race <type> --weeks <duration>"
+    echo ""
+    echo "Required:"
+    echo "  --race    marathon | half-marathon | 10k | 5k"
+    echo "  --weeks   2 | 4 | 6 | 8 | 12 | 16"
+    echo ""
+    echo "Optional:"
+    echo "  --target  Target time (e.g., '3:30', 'sub-2', '25:00')"
+    echo "  --mileage Current monthly km: under-100, 100-200, 200-300, 300-400, over-400"
+    echo "  --runs    Runs per month: under-5, 5-15, 15-30, over-30"
+    echo "  --goal    race | fitness | weight-loss"
+    echo "  --start   immediately | next-week | YYYY-MM-DD"
+    exit 1
+  fi
+
+  echo "⏳ Generating your ${race} training plan (${weeks} weeks)..."
+  echo "   This may take 30-60 seconds..."
+
+  local json_body
+  json_body=$(python3 -c "
+import json
+body = {'raceType': '$race', 'planDuration': $weeks}
+if '$target': body['targetTime'] = '$target'
+if '$mileage': body['currentMileage'] = '$mileage'
+if '$runs': body['runsPerMonth'] = '$runs'
+if '$goal': body['trainingGoal'] = '$goal'
+if '$start': body['startDate'] = '$start'
+print(json.dumps(body))
+")
+
+  local response
+  response=$(api_call_raw POST "/api/v1/generate-plan" "$json_body")
+  local body
+  body=$(handle_response "$response") || { echo "$body"; exit 1; }
+
+  echo "$body" | python3 -c "
+import json, sys
+data = json.loads(sys.stdin.read())
+if data.get('success'):
+    print()
+    print('✅ Plan created!')
+    print(f\"📋 {data.get('planName', 'Training Plan')}\")
+    print(f\"📅 {data.get('totalWeeks', 0)} weeks, {data.get('totalWorkouts', 0)} workouts\")
+    print()
+    print('Next steps:')
+    print('  • arc today    — See today\\'s workout')
+    print('  • arc week     — See this week\\'s plan')
+    print('  • arc coach \"any question\"  — Ask your coach')
+else:
+    print(f\"❌ {data.get('error', 'Unknown error')}\")
+" 2>/dev/null || echo "$body" | format_json
+}
+
+cmd_strava() {
+  local subcmd="${1:-recent}"
+
+  case "$subcmd" in
+    recent)
+      local response
+      response=$(api_call_raw GET "/api/v1/strava/recent")
+      local body
+      body=$(handle_response "$response") || { echo "$body"; exit 1; }
+
+      echo "$body" | python3 -c "
+import json, sys
+data = json.loads(sys.stdin.read())
+activities = data.get('activities', [])
+if not activities:
+    print('No recent Strava activities.')
+    print('Connect Strava at: https://airunningcoach.net/profile')
+else:
+    print('📊 Recent Strava Activities')
+    print('─' * 40)
+    for a in activities[:10]:
+        name = a.get('name', 'Unknown')
+        date = a.get('date', '')
+        dist = a.get('distance', 0)
+        dur = a.get('duration', 0)
+        pace = a.get('pace', '')
+        print(f\"🏃 {date}: {name}\")
+        parts = []
+        if dist: parts.append(f'{dist:.1f}km')
+        if dur: parts.append(f'{dur}min')
+        if pace: parts.append(f'@ {pace}')
+        if parts: print(f'   {\" | \".join(parts)}')
+" 2>/dev/null || echo "$body" | format_json
+      ;;
+    summary)
+      local response
+      response=$(api_call_raw GET "/api/v1/strava/summary")
+      local body
+      body=$(handle_response "$response") || { echo "$body"; exit 1; }
+
+      echo "$body" | python3 -c "
+import json, sys
+data = json.loads(sys.stdin.read())
+
+if not data.get('connected'):
+    print(data.get('message', 'No Strava data found.'))
+    sys.exit(0)
+
+print('📊 Strava Running Summary')
+print('─' * 40)
+print(f\"🏃 Total Activities: {data.get('totalActivities', 0)}\")
+print(f\"📏 Total Distance: {data.get('totalDistance', 0)} km\")
+print(f\"⏱️  Total Duration: {data.get('totalDuration', 0)} min\")
+
+# Records
+records = data.get('records', {})
+print()
+print('🏆 All-Time Records')
+if records.get('longestRun'):
+    r = records['longestRun']
+    print(f\"  📏 Longest Run: {r['distance']}km on {r['date']}\")
+if records.get('fastestPace'):
+    r = records['fastestPace']
+    print(f\"  ⚡ Fastest Pace: {r['pace']} on {r['date']} ({r['distance']}km)\")
+if records.get('highestElevation'):
+    r = records['highestElevation']
+    print(f\"  ⛰️  Most Elevation: {r['elevation']}m on {r['date']}\")
+
+# Personal Bests
+pbs = data.get('personalBests')
+if pbs:
+    print()
+    print('🥇 Personal Bests')
+    for dist, pb in pbs.items():
+        print(f\"  {dist}: {pb['pace']} ({pb['duration']}min) on {pb['date']}\")
+
+# Weekly average
+wa = data.get('weeklyAverage', {})
+if wa:
+    print()
+    print(f\"📈 Weekly Average ({data.get('recentPeriod', '90 days')})\")
+    print(f\"  {wa.get('distance', 0)} km/week, {wa.get('runs', 0)} runs/week\")
+
+# Monthly breakdown
+months = data.get('monthlyBreakdown', [])
+if months:
+    print()
+    print('📅 Monthly Breakdown')
+    for m in months:
+        print(f\"  {m['month']}: {m['runs']} runs, {m['distance']}km\")
+" 2>/dev/null || echo "$body" | format_json
+      ;;
+    *)
+      echo "Usage: arc strava <recent|summary>"
+      ;;
+  esac
+}
+
+cmd_feedback() {
+  local ftype="" severity="" message=""
+
+  while [[ $# -gt 0 ]]; do
+    case "$1" in
+      --type) ftype="$2"; shift 2 ;;
+      --severity) severity="$2"; shift 2 ;;
+      --message|-m) message="$2"; shift 2 ;;
+      *) echo "Unknown option: $1"; exit 1 ;;
+    esac
+  done
+
+  if [[ -z "$ftype" || -z "$message" ]]; then
+    echo "Usage: arc feedback --type <type> --severity <1-5> --message \"description\""
+    echo ""
+    echo "Types: fatigue, injury, soreness, illness, motivation, other"
+    echo "Severity: 1 (mild) to 5 (severe)"
+    exit 1
+  fi
+
+  local json_body
+  json_body=$(python3 -c "
+import json
+body = {
+    'type': '$ftype',
+    'severity': ${severity:-3},
+    'description': '''$message'''
+}
+print(json.dumps(body))
+")
+
+  local response
+  response=$(api_call_raw POST "/api/v1/feedback" "$json_body")
+  local body
+  body=$(handle_response "$response") || { echo "$body"; exit 1; }
+
+  echo "✅ Feedback recorded. Your coach will adjust your plan accordingly."
+}
+
+# ─── Main Router ──────────────────────────────────────────────────────────────
+
+cmd_help() {
+  cat << 'EOF'
+🏃 AI Running Coach — OpenClaw Skill
+
+Usage: arc <command> [options]
+
+Commands:
+  config set-token <arc_xxx>   Save your API token
+  config show                  Show current config
+  config test                  Test API connection
+
+  today                        Today's workout
+  week                         This week's plan
+  stats                        Your running stats
+
+  coach "question"             Chat with AI coach
+  plan create --race <type> --weeks <n>   Generate new plan
+  
+  strava recent                Recent Strava activities
+  feedback --type <t> --message "msg"     Report fatigue/injury
+
+  help                         Show this help
+
+Get started: https://airunningcoach.net/register
+EOF
+}
+
+main() {
+  local cmd="${1:-help}"
+  shift || true
+
+  case "$cmd" in
+    config)  cmd_config "$@" ;;
+    today)   cmd_today "$@" ;;
+    week)    cmd_week "$@" ;;
+    stats)   cmd_stats "$@" ;;
+    coach)   cmd_coach "$@" ;;
+    plan)
+      local subcmd="${1:-help}"
+      shift || true
+      case "$subcmd" in
+        create) cmd_plan_create "$@" ;;
+        *) echo "Usage: arc plan create --race <type> --weeks <n>" ;;
+      esac
+      ;;
+    strava)  cmd_strava "$@" ;;
+    feedback) cmd_feedback "$@" ;;
+    help|-h|--help) cmd_help ;;
+    *) echo "Unknown command: $cmd"; cmd_help ;;
+  esac
+}
+
+main "$@"

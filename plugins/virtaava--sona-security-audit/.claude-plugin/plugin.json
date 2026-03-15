@@ -1,0 +1,10 @@
+{
+  "name": "virtaava--sona-security-audit",
+  "description": "Fail-closed security auditing for OpenClaw/ClawHub skills & repos: trufflehog secrets scanning, semgrep SAST, prompt-injection/persistence signals, and supply-chain hygiene checks before enabling or installing.",
+  "version": "0.1.3",
+  "author": {
+    "name": "virtaava"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/virtaava/sona-security-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/virtaava/sona-security-audit"
+}

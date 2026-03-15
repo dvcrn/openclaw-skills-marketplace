@@ -1,0 +1,10 @@
+{
+  "name": "pbalajiips--ecommerce-price-watcher",
+  "description": "Track product prices across ecommerce sites and alert on offers or target-price hits. Use when a user wants to monitor one or many product URLs or item queries, compare current vs previous prices, detect discounts, and generate alert-ready summaries with product name, old/new price, percent drop, and direct link.",
+  "version": "1.1.0",
+  "author": {
+    "name": "pbalajiips"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pbalajiips/ecommerce-price-watcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pbalajiips/ecommerce-price-watcher"
+}

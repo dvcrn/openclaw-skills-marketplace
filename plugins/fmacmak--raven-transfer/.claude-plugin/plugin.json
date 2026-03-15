@@ -1,0 +1,10 @@
+{
+  "name": "fmacmak--raven-transfer",
+  "description": "Wallet-aware Raven Atlas transfer operations for NGN payouts. Use when an agent must check wallet balance, resolve Nigerian bank accounts, enforce explicit confirmation tokens, and execute idempotent confirmed transfers to bank beneficiaries or merchant settlement accounts.",
+  "version": "1.1.0",
+  "author": {
+    "name": "fmacmak"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fmacmak/raven-transfer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fmacmak/raven-transfer"
+}

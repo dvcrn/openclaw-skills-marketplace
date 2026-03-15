@@ -1,0 +1,10 @@
+{
+  "name": "scikkk--meeting-assistant",
+  "description": "用于构建和排查 SenseAudio 会议助手，覆盖实时会议转写、说话人区分、实时翻译、会议纪要生成、行动项提取与转录导出。Build and troubleshoot SenseAudio meeting assistants for live meeting transcription, speaker-aware records, realtime translation, meeting note generation, action item extraction, and transcript export.",
+  "version": "1.0.0",
+  "author": {
+    "name": "scikkk"
+  },
+  "homepage": "https://nightly.senseaudio.cn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scikkk/meeting-assistant"
+}

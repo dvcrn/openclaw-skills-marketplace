@@ -1,0 +1,10 @@
+{
+  "name": "gpunter--starling-bank",
+  "description": "Manage Starling Bank accounts via the starling-bank-mcp server. Check balances, list transactions, create payees, make payments, manage savings goals, and track spending. Use when the user asks about their bank balance, transactions, payments, savings, direct debits, standing orders, or any Starling Bank operation. Requires the starling-bank-mcp npm package and a Starling personal access token.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gpunter"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gpunter/starling-bank",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gpunter/starling-bank"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "qizhou-guo--gitea-workflow-dispatch",
+  "description": "Trigger Gitea/Forgejo workflow_dispatch via API.",
+  "version": "0.1.2",
+  "author": {
+    "name": "qizhou-guo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qizhou-guo/gitea-workflow-dispatch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qizhou-guo/gitea-workflow-dispatch"
+}

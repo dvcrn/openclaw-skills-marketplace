@@ -1,0 +1,10 @@
+{
+  "name": "nandichi--football-value-bets",
+  "description": "Professional football bet analysis skill. Generates data-driven bet slips based on form, H2H, standings, injuries and value analysis. Includes result tracking with hitrate and ROI. Use when the user asks for a football bet, bet slip, accumulator, tips, or picks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nandichi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nandichi/football-value-bets",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nandichi/football-value-bets"
+}

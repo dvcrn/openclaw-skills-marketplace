@@ -1,0 +1,10 @@
+{
+  "name": "dannyshmueli--agent-analytics",
+  "description": "Web analytics platform that AI agents can query via CLI. Track page views, custom events, run A/B experiments, analyze funnels, retention cohorts, and traffic heatmaps. Use when the user needs web analytics, visitor tracking, event tracking, conversion optimization, growth insights, A/B testing, or wants to add analytics to their website or app. Also available as an MCP server at mcp.agentanalytics.sh.",
+  "version": "4.0.0",
+  "author": {
+    "name": "dannyshmueli"
+  },
+  "homepage": "https://agentanalytics.sh",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dannyshmueli/agent-analytics"
+}

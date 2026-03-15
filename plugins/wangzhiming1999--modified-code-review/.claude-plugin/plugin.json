@@ -1,0 +1,10 @@
+{
+  "name": "wangzhiming1999--modified-code-review",
+  "description": "Reviews user-modified code (diffs/PRs), provides best-practice recommendations, analyzes cost-effectiveness of the approach, and outputs a code score. Use when the user asks to review their changes, 审查/评审修改的代码, 代码评审, or wants 最佳实践/性价比/代码评分.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wangzhiming1999"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangzhiming1999/modified-code-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangzhiming1999/modified-code-review"
+}

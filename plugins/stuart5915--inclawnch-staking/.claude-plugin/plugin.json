@@ -1,0 +1,10 @@
+{
+  "name": "stuart5915--inclawnch-staking",
+  "description": "Stake and unstake INCLAWNCH tokens in the on-chain UBI staking contract on Base. Query treasury stats, wallet positions, APY estimates, and top stakers. All write operations require wallet signatures (on-chain transactions). Read operations use a public API — no API key needed. Use when: (1) user wants to stake INCLAWNCH, (2) checking staking positions or rewards, (3) unstaking tokens, (4) claiming rewards, (5) enabling auto-compound, (6) comparing staking yields.",
+  "version": "1.0.3",
+  "author": {
+    "name": "stuart5915"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stuart5915/inclawnch-staking",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stuart5915/inclawnch-staking"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "anonymouscodemaker--elpa",
+  "description": "Orchestrate real ELPA-style ensemble forecasting workflows by triggering external sub-model training jobs (for example PyTorch/Prophet/TiDE/transformers), then computing ELPA online/offline weights from validation errors. Use when you need production-oriented ensemble training instead of lightweight simulation adapters.",
+  "version": "1.0.0",
+  "author": {
+    "name": "anonymouscodemaker"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anonymouscodemaker/elpa",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anonymouscodemaker/elpa"
+}

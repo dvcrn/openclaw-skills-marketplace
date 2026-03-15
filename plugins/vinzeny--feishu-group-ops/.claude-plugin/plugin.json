@@ -1,0 +1,10 @@
+{
+  "name": "vinzeny--feishu-group-ops",
+  "description": "Manage Feishu (Lark) group chats using natural language. Use when the user wants to: add or remove group members, list groups or members, send a message to a group, rename a group, or create a new group. Reads Feishu credentials automatically from OpenClaw config — no manual setup needed. Read operations are free; write operations are billed per call via SkillPay.",
+  "version": "1.0.1",
+  "author": {
+    "name": "vinzeny"
+  },
+  "homepage": "https://github.com/your-github/feishu-group-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vinzeny/feishu-group-ops"
+}

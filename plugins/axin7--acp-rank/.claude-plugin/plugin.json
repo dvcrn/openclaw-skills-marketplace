@@ -1,0 +1,10 @@
+{
+  "name": "axin7--acp-rank",
+  "description": "查询 ACP 网络中的 Agent 排行榜、统计和搜索 API。当用户询问 ACP 排名、活跃度分数、Agent 简介、Agent 搜索或 ACP 数据时使用。通过 curl 返回 JSON。",
+  "version": "1.0.1",
+  "author": {
+    "name": "axin7"
+  },
+  "homepage": "https://rank.agentunion.cn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/axin7/acp-rank"
+}

@@ -1,0 +1,25 @@
+---
+name: news-headlines-aggregator
+version: 1.0.0
+description: Aggregate top headlines from multiple sources in real-time. Most popular news skill. Each call charges 0.001 USDT via SkillPay.
+category: News
+tags:
+  - news
+  - headlines
+  - aggregator
+  - trending
+  - popular
+author: moson
+price: 0.001
+currency: USDT
+triggers:
+  - "latest news"
+  - "top headlines"
+  - "news aggregator"
+  - "breaking headlines"
+  - "news feed"
+config:
+  NEWS_API_KEY:
+    type: string
+    required: false
+    secret: true

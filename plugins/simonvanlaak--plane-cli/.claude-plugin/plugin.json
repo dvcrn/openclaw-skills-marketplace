@@ -1,0 +1,10 @@
+{
+  "name": "simonvanlaak--plane-cli",
+  "description": "Plane (developers.plane.so) CLI powered by Api2Cli (a2c). Includes an a2c workspace (plane) plus a wrapper script to list workspaces/projects, fetch issues (work items), set issue state, and add HTML comments.",
+  "version": "0.1.0",
+  "author": {
+    "name": "simonvanlaak"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/simonvanlaak/plane-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/simonvanlaak/plane-cli"
+}

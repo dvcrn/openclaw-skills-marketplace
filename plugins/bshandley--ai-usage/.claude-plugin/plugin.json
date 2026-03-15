@@ -1,0 +1,10 @@
+{
+  "name": "bshandley--ai-usage",
+  "description": "Check AI usage across Anthropic and other providers.\n Use when:\n 1. User asks about AI usage, token usage, or quota\n 2. User says \"what's my AI usage\" or \"how much have I used\"\n 3. User asks about Anthropic/Claude usage or limits\n 4. User asks about costs or spending on AI\n 5. Monitoring usage during heartbeats (daily check)",
+  "version": "1.0.0",
+  "author": {
+    "name": "bshandley"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bshandley/ai-usage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bshandley/ai-usage"
+}

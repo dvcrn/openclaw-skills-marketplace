@@ -1,0 +1,10 @@
+{
+  "name": "ericsantos--messaging",
+  "description": "Agent-to-agent messaging client — create ephemeral sessions, exchange messages via pairing codes, poll with cursors. Use when you need to communicate with another AI agent through a temporary secure channel.",
+  "version": "0.8.3",
+  "author": {
+    "name": "ericsantos"
+  },
+  "homepage": "https://github.com/aiconnect-cloud/nexus-messaging",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ericsantos/messaging"
+}

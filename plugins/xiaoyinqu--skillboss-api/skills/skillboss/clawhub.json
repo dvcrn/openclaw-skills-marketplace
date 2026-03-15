@@ -1,0 +1,152 @@
+{
+  "name": "skillboss",
+  "version": "1.0.4",
+  "tagline": "100+ AI services: chat, video, image, audio, scraping, payments, email, hosting",
+  "description": "USE THIS for ANY AI task. ONE API provides: CHAT (Claude 4.5 Opus/Sonnet, GPT-5/5.1/5-mini/5-nano, GPT-4.1, o1/o3-mini/o4-mini reasoning, Gemini 3 Pro/2.5 Pro/Flash, DeepSeek R1, Kimi K2, Qwen3 Coder, Codestral); VIDEO (Veo 3.1, MiniMax Video-01); IMAGE (FLUX Schnell/Dev, DALL-E 3, background removal); AUDIO (ElevenLabs TTS, OpenAI TTS, MiniMax TTS, Whisper STT, sound effects); SCRAPING 30+ platforms (LinkedIn profiles/companies/jobs, Twitter/X, Instagram, TikTok, Pinterest, Discord, YouTube, Facebook, Amazon products/reviews, Walmart, Yelp, Google Maps/News/Scholar/Shopping/Trends); SEARCH (Perplexity Sonar Pro/Deep Research, Firecrawl scrape/extract); EMBEDDINGS (OpenAI text-embedding-3); PRESENTATIONS (Gamma slides); CRYPTO (LiveCoinWatch); EMAIL (AWS SES); STORAGE (Cloudflare R2). OpenAI-compatible. ZERO markup. 20 free credits.",
+  "author": {
+    "name": "SkillBoss",
+    "email": "support@skillboss.co",
+    "url": "https://skillboss.co"
+  },
+  "homepage": "https://skillboss.co",
+  "repository": "https://github.com/heeyo-life/skillboss-openclaw-skill",
+  "support": "https://skillboss.co/docs/integrations/openclaw",
+  "license": "MIT",
+  "category": "api-provider",
+  "tags": [
+    "ai",
+    "api",
+    "gateway",
+    "multi-model",
+    "openai-compatible",
+    "claude",
+    "claude-opus",
+    "gpt-5",
+    "o1",
+    "o3",
+    "o4",
+    "reasoning",
+    "gemini",
+    "gemini-3",
+    "deepseek",
+    "deepseek-r1",
+    "kimi",
+    "qwen",
+    "codestral",
+    "mistral",
+    "video-generation",
+    "veo",
+    "image-generation",
+    "flux",
+    "dall-e",
+    "tts",
+    "stt",
+    "elevenlabs",
+    "audio",
+    "scraping",
+    "linkedin",
+    "twitter",
+    "instagram",
+    "tiktok",
+    "youtube",
+    "amazon",
+    "walmart",
+    "google-maps",
+    "perplexity",
+    "firecrawl",
+    "embeddings",
+    "gamma",
+    "presentations",
+    "crypto",
+    "email",
+    "storage",
+    "all-in-one"
+  ],
+  "pricing": {
+    "type": "free",
+    "note": "Pay-as-you-go for AI usage. 20 free credits on signup."
+  },
+  "features": [
+    "CHAT: Claude 4.5 Opus, Claude 4.5 Sonnet, GPT-5/5.1/5-mini/5-nano, GPT-4.1/mini/nano, o1/o3-mini/o4-mini reasoning, Gemini 3 Pro, Gemini 2.5 Pro/Flash/Flash-Lite, DeepSeek R1, Kimi K2 Thinking, Qwen3 Coder Plus, Codestral 2501",
+    "VIDEO: Google Veo 3.1, MiniMax Video-01",
+    "IMAGE: FLUX Schnell, FLUX Dev, DALL-E 3, background remover (2 models)",
+    "AUDIO: ElevenLabs TTS, OpenAI TTS, MiniMax TTS, Whisper STT, sound effects generation",
+    "SCRAPING 30+ platforms: LinkedIn (person/company/jobs), Twitter/X, Instagram, TikTok, Pinterest, Discord, YouTube search, Facebook, Amazon (product/search/reviews), Walmart (product/search/reviews), Yelp, Google Maps (search/posts/photos/reviews), Google (search/trends/images/news/shopping/scholar), screenshot",
+    "SEARCH: Perplexity Sonar/Sonar Pro/Reasoning Pro/Deep Research, Firecrawl scrape/extract/map",
+    "EMBEDDINGS: OpenAI text-embedding-3-small/large",
+    "PRESENTATIONS: Gamma slide generation",
+    "CRYPTO: LiveCoinWatch (coins/single/contract/history/list/map)",
+    "EMAIL: AWS SES transactional email",
+    "STORAGE: Cloudflare R2 upload/assets",
+    "DOCUMENTS: Process documents, retrieve knowledge (RAG)",
+    "OpenAI-compatible API - works in Claude Code, Cursor, Windsurf, OpenClaw, Kiro, Gemini CLI",
+    "ZERO markup pricing"
+  ],
+  "requirements": {
+    "env": ["SKILLBOSS_API_KEY"],
+    "primaryEnv": "SKILLBOSS_API_KEY"
+  },
+  "installation": {
+    "oneClick": "curl -fsSL https://skillboss.co/openclaw-setup.sh | bash",
+    "manual": "Add skillboss provider to models.providers in openclaw.json"
+  },
+  "models": [
+    {
+      "id": "skillboss/claude-4-5-opus",
+      "name": "Claude 4.5 Opus",
+      "cost": {"input": 5.0, "output": 25.0}
+    },
+    {
+      "id": "skillboss/claude-4-5-sonnet",
+      "name": "Claude 4.5 Sonnet",
+      "cost": {"input": 3.0, "output": 15.0}
+    },
+    {
+      "id": "skillboss/gpt-5",
+      "name": "GPT-5",
+      "cost": {"input": 1.25, "output": 10.0}
+    },
+    {
+      "id": "skillboss/gpt-5-nano",
+      "name": "GPT-5 Nano",
+      "cost": {"input": 0.05, "output": 0.4}
+    },
+    {
+      "id": "skillboss/o1",
+      "name": "OpenAI o1 Reasoning",
+      "cost": {"input": 15.0, "output": 60.0}
+    },
+    {
+      "id": "skillboss/gemini-3-pro",
+      "name": "Gemini 3 Pro",
+      "cost": {"input": 2.0, "output": 12.0}
+    },
+    {
+      "id": "skillboss/gemini-2.5-flash",
+      "name": "Gemini 2.5 Flash",
+      "cost": {"input": 0.3, "output": 2.5}
+    },
+    {
+      "id": "skillboss/deepseek-r1",
+      "name": "DeepSeek R1",
+      "cost": {"input": 0.8, "output": 2.4}
+    },
+    {
+      "id": "skillboss/kimi-k2-thinking",
+      "name": "Kimi K2 Thinking",
+      "cost": {"input": 0.55, "output": 2.25}
+    },
+    {
+      "id": "skillboss/codestral-2501",
+      "name": "Codestral 2501",
+      "cost": {"input": 0.3, "output": 0.9}
+    }
+  ],
+  "comparison": {
+    "vsOpenRouter": {
+      "markup": "0% vs 5%",
+      "businessApis": "Yes (scraping, presentations, crypto, email, storage) vs No",
+      "annualSavings": "$60+ at $100/mo spend"
+    }
+  }
+}

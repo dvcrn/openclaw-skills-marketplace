@@ -1,0 +1,10 @@
+{
+  "name": "atacan--translate-cli",
+  "description": "End-user guide for running and configuring the `translate` CLI across text/stdin/file/glob inputs, provider selection, presets, custom prompt templates, and TOML settings. Use when users ask for command construction, config updates (`translate config`/`translate presets`), provider setup, dry-run validation, or troubleshooting translation behavior.",
+  "version": "0.2.0",
+  "author": {
+    "name": "atacan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/atacan/translate-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/atacan/translate-cli"
+}

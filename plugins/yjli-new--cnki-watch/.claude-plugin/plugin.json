@@ -1,0 +1,10 @@
+{
+  "name": "yjli-new--cnki-watch",
+  "description": "Query CNKI by journal name or research topic, and create journal or topic subscriptions that periodically push new CNKI paper metadata into the main OpenClaw chat. Use for one-off CNKI lookups and recurring CNKI monitoring.",
+  "version": "0.2.1",
+  "author": {
+    "name": "yjli-new"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yjli-new/cnki-watch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yjli-new/cnki-watch"
+}

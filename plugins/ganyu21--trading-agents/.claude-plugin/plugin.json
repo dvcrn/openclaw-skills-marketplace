@@ -1,0 +1,10 @@
+{
+  "name": "ganyu21--trading-agents",
+  "description": "基于 AgentScope 的多智能体股票诊断系统。一键执行完整诊断流程，自动生成技术面、基本面、舆情面分析、研究员辩论、交易员决策、风控讨论及最终投资决策报告。",
+  "version": "1.0.6",
+  "author": {
+    "name": "ganyu21"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ganyu21/trading-agents",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ganyu21/trading-agents"
+}

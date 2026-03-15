@@ -1,0 +1,10 @@
+{
+  "name": "sp0oby--base-trader",
+  "description": "Autonomous crypto trading on Base via Bankr. Use for trading tokens, monitoring launches, executing strategies, or managing a trading portfolio. Triggers on \"trade\", \"buy\", \"sell\", \"launch\", \"snipe\", \"profit\", \"PnL\", \"portfolio balance\", or any crypto trading task on Base.",
+  "version": "1.1.1",
+  "author": {
+    "name": "sp0oby"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sp0oby/base-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sp0oby/base-trader"
+}

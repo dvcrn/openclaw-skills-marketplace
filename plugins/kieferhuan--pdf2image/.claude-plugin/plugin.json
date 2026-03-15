@@ -1,0 +1,10 @@
+{
+  "name": "kieferhuan--pdf2image",
+  "description": "Convert multi-page PDFs into a single vertical long image by concatenating all pages.\n Use when the user asks to convert PDF to long image, combine PDF pages into one image,\n or create a scrolling screenshot from a PDF document.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kieferhuan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kieferhuan/pdf2image",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kieferhuan/pdf2image"
+}

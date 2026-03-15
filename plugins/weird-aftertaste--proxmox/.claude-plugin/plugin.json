@@ -1,0 +1,10 @@
+{
+  "name": "weird-aftertaste--proxmox",
+  "description": "Manage Proxmox VE clusters via REST API. Use when user asks to list, start, stop, restart VMs or LXC containers, check node status, create snapshots, view tasks, or manage Proxmox infrastructure. Requires API token or credentials configured.",
+  "version": "1.0.1",
+  "author": {
+    "name": "weird-aftertaste"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/weird-aftertaste/proxmox",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/weird-aftertaste/proxmox"
+}

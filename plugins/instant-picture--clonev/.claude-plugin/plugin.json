@@ -1,0 +1,10 @@
+{
+  "name": "instant-picture--clonev",
+  "description": "Clone any voice and generate speech using Coqui XTTS v2. SUPER SIMPLE - provide a voice sample (6-30 sec WAV) and text, get cloned voice audio. Supports 14+ languages. Use when the user wants to (1) Clone their voice or someone else's voice, (2) Generate speech that sounds like a specific person, (3) Create personalized voice messages, (4) Multi-lingual voice cloning (speak any language with cloned voice).",
+  "version": "1.0.0",
+  "author": {
+    "name": "instant-picture"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/instant-picture/clonev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/instant-picture/clonev"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kylehuan--skill-security-audit",
+  "description": "Conduct comprehensive security audits and vulnerability analysis on codebases. Use when explicitly asked for security analysis, code security review, vulnerability assessment, SAST scanning, or identifying security issues in source code. Covers injection flaws, broken access control, hardcoded secrets, insecure data handling, authentication weaknesses, LLM safety, and privacy violations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kylehuan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kylehuan/skill-security-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kylehuan/skill-security-audit"
+}

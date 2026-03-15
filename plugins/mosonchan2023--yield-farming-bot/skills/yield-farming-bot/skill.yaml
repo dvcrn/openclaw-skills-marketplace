@@ -1,0 +1,23 @@
+name: yield-farming-bot
+slug: yield-farming-bot
+version: 1.0.0
+author: moson
+description: yield farming bot
+permissions:
+  - network
+config:
+  SKILLPAY_API_KEY:
+    type: string
+    required: !0
+    secret: !0
+entryPoint:
+  type: typescript
+  path: index.js
+metadata:
+  clawdbot:
+    emoji: 💰
+    price: "0.001 USDT per call"
+price:
+  amount: .001
+  currency: USDT
+  per: call

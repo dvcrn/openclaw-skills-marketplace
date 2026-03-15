@@ -1,0 +1,10 @@
+{
+  "name": "pokerskun--biliup-skills",
+  "description": "使用命令行工具 biliup（Python 版官方 CLI，非 biliup-rs）向 B 站（bilibili）投稿视频。触发场景：用户说\"投稿 B 站\"、\"上传到 B 站\"、\"发 B 站\"、\"bilibili 投稿\"、\"B 站发视频\"、\"上传视频到 bilibili\"等相关关键字。功能：(1) 自动检测并通过 pip 安装 biliup，(2) 浏览器扫码登录并发送二维码图片给用户，(3) 收集视频信息后执行投稿，(4) 返回投稿结果。",
+  "version": "1.2.0",
+  "author": {
+    "name": "pokerskun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pokerskun/biliup-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pokerskun/biliup-skills"
+}

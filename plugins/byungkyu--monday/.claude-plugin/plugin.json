@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--monday",
+  "description": "Monday.com API integration with managed OAuth. Manage boards, items, columns, groups, and workspaces using GraphQL.\n Use this skill when users want to create, update, or query Monday.com boards and items, manage tasks, or automate workflows.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.3",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/monday",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/monday"
+}

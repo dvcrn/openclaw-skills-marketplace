@@ -1,0 +1,10 @@
+{
+  "name": "ethan-shen-individual-lab--ping-me",
+  "description": "One-shot reminders via natural language. Auto-detects channel and timezone. Say 'remind me...' in any language and get pinged when it's time. Works with every channel.",
+  "version": "1.0.3",
+  "author": {
+    "name": "ethan-shen-individual-lab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ethan-shen-individual-lab/ping-me",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ethan-shen-individual-lab/ping-me"
+}

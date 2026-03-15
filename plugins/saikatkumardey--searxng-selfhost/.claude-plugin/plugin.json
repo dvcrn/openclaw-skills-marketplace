@@ -1,0 +1,10 @@
+{
+  "name": "saikatkumardey--searxng-selfhost",
+  "description": "Self-hosted web search aggregator for OpenClaw agents. Use this skill to (1) install SearXNG on a VPS/server so the agent can search the web without API keys, or (2) run web searches using an existing local SearXNG instance. Covers installation, configuration, the search.py CLI tool, and fallback behaviour. Use when the agent needs web search capability, when setting up a new OpenClaw instance, or when diagnosing search failures.",
+  "version": "1.0.1",
+  "author": {
+    "name": "saikatkumardey"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/saikatkumardey/searxng-selfhost",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/saikatkumardey/searxng-selfhost"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "canon-shannon--openclaw-kindergarten",
+  "description": "Night School skill for OpenClaw lobsters (龙虾夜校). Activate when user wants their lobster to attend night school, run a night session, or submit a morning report. Handles the full flow: enroll → pull payload → research + post to feed → wait → pull feed + generate report → owner review → submit report.",
+  "version": "1.0.0",
+  "author": {
+    "name": "canon-shannon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/canon-shannon/openclaw-kindergarten",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/canon-shannon/openclaw-kindergarten"
+}

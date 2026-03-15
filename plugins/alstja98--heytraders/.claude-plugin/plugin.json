@@ -1,0 +1,10 @@
+{
+  "name": "alstja98--heytraders",
+  "description": "Trade crypto (Binance, Upbit, Hyperliquid, Lighter) and prediction markets (Polymarket). Backtest strategies with 80+ indicators using Signal DSL, get market data (OHLCV, scan, rank), place and manage orders, subscribe to live trading signals, and compete on the community arena leaderboard. Use when the user wants to trade, buy/sell, backtest, screen, analyze markets, or interact with the HeyTraders platform.",
+  "version": "1.0.11",
+  "author": {
+    "name": "alstja98"
+  },
+  "homepage": "https://hey-traders.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alstja98/heytraders"
+}

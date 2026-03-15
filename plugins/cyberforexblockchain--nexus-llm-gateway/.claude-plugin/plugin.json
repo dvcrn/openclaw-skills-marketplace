@@ -1,0 +1,10 @@
+{
+  "name": "cyberforexblockchain--nexus-llm-gateway",
+  "description": "Smart multi-model AI gateway on Cardano. Routes prompts to the best LLM (GPT-5.2, Claude Sonnet 4.5, GPT-4o, Claude Haiku 4.5, GPT-4o-mini) with automatic fallback, tiered pricing, and OpenAI-compatible format. Pay with ADA via Masumi.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cyberforexblockchain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cyberforexblockchain/nexus-llm-gateway",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cyberforexblockchain/nexus-llm-gateway"
+}

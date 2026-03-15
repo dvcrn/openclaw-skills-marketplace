@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--google-tasks-api",
+  "description": "Google Tasks API integration with managed OAuth. Manage task lists and tasks with full CRUD operations.\n Use this skill when users want to read, create, update, or delete tasks and task lists in Google Tasks.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.3",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/google-tasks-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/google-tasks-api"
+}

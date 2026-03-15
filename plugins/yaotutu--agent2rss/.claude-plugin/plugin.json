@@ -1,0 +1,10 @@
+{
+  "name": "yaotutu--agent2rss",
+  "description": "Agent2RSS 客户端，管理 RSS 频道并推送内容。触发：用户提到 Agent2RSS/RSS 频道/推送文章/上传文章/创建频道/设置默认频道/幂等性。",
+  "version": "0.2.1",
+  "author": {
+    "name": "yaotutu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yaotutu/agent2rss",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yaotutu/agent2rss"
+}

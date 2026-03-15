@@ -1,0 +1,10 @@
+{
+  "name": "bowen31337--rust-analyzer-lsp",
+  "description": "Rust language server (rust-analyzer) providing code intelligence and analysis for .rs files. Use when working with Rust code that needs autocomplete, go-to-definition, find references, error detection, or refactoring support.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bowen31337"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/rust-analyzer-lsp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/rust-analyzer-lsp"
+}

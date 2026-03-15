@@ -1,0 +1,10 @@
+{
+  "name": "double729--double729-plansuite",
+  "description": "Unified planning+execution workflow: create a file-based plan with sub-plans, freeze it as FINALIZED, and execute in a separate session with checkpoints and progress/findings logs. Use when you want project plans with subplans (milestones), controlled execution, and session-based implementation runs.",
+  "version": "0.2.1",
+  "author": {
+    "name": "double729"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/double729/double729-plansuite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/double729/double729-plansuite"
+}

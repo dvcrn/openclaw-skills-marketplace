@@ -1,0 +1,10 @@
+{
+  "name": "theagentwire--workspace-audit",
+  "description": "Audit your OpenClaw workspace for drift — stale paths, duplicate content, oversized files, secret leaks, and 1Password vault mismatches. Zero deps. By The Agent Wire (theagentwire.ai)",
+  "version": "1.1.0",
+  "author": {
+    "name": "theagentwire"
+  },
+  "homepage": "https://theagentwire.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theagentwire/workspace-audit"
+}

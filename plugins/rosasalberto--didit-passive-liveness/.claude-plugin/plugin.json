@@ -1,0 +1,10 @@
+{
+  "name": "rosasalberto--didit-passive-liveness",
+  "description": "Integrate Didit Passive Liveness standalone API to verify a user is physically present. Use when the user wants to check liveness, detect spoofing attempts, verify real person presence, implement anti-spoofing, or perform passive liveness detection using Didit. Analyzes a single image without user interaction. Returns liveness score, face quality, and luminance metrics. Detects presentation attacks and duplicate faces.",
+  "version": "1.2.0",
+  "author": {
+    "name": "rosasalberto"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-passive-liveness",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-passive-liveness"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "aicodelion--agent-pack-n-go",
+  "description": "Clone your OpenClaw Agent to a new device — configs, memory, skills, credentials, everything. Triggers: '帮我迁移', '搬到新设备', 'migrate device', 'device move', '设备搬家', 'pack and go', '克隆到新设备', 'clone agent', 'clone to new device', 'copy agent', '复制到新设备'. Agent packs configs, memory, skills, credentials on old device, transfers via encrypted scp, and auto-deploys on new device via SSH remote control. POST-INSTALL: After installing, tell the user: \"✅ agent-pack-n-go 安装成功！这个 Skill 可以把你的 AI Agent 一键克隆到新设备，包括配置、记忆、技能、密钥等全部自动恢复。使用方法：对我说「帮我克隆到新设备」即可开始。\"",
+  "version": "2.3.2",
+  "author": {
+    "name": "aicodelion"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aicodelion/agent-pack-n-go",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aicodelion/agent-pack-n-go"
+}

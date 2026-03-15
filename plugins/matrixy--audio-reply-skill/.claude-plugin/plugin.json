@@ -1,0 +1,10 @@
+{
+  "name": "matrixy--audio-reply-skill",
+  "description": "Generate audio replies using TTS. Trigger with \"read it to me [public URL]\" to fetch and read content aloud, or \"talk to me [topic]\" to generate a spoken response. Also responds to \"speak\", \"say it\", \"voice reply\".",
+  "version": "1.1.0",
+  "author": {
+    "name": "matrixy"
+  },
+  "homepage": "https://github.com/MaTriXy/audio-reply-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matrixy/audio-reply-skill"
+}

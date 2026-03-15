@@ -1,0 +1,10 @@
+{
+  "name": "imjohnathanblog-spec--geospatial-osint",
+  "description": "Open-source geospatial intelligence gathering and visualization dashboard. Use when building Worldview-style spy thriller dashboards, monitoring geopolitical events, or analyzing multi-source OSINT. Covers satellite tracking, live flights (commercial + military), maritime traffic, street cameras, seismic data, and real-time visualization with post-processing effects. Supports 3D globe rendering with CRT/NVG/thermal modes, time-based replay, and multi-agent development workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "imjohnathanblog-spec"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imjohnathanblog-spec/geospatial-osint",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imjohnathanblog-spec/geospatial-osint"
+}

@@ -1,0 +1,1 @@
+{"name":"instagram-reels-analyzer","version":"1.0.0","description":"Instagram Reels 分析器 - 分析热门视频，生成爆款脚本","main":"index.js","bin":{"instagram-reels-analyzer":"./index.js"},"dependencies":{"node-fetch":"^2.7.0"}}

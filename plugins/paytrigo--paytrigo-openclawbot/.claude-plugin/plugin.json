@@ -1,0 +1,10 @@
+{
+  "name": "paytrigo--paytrigo-openclawbot",
+  "description": "Use when an OpenClawBot needs to create or verify PayTrigo payments on Base/USDC without webhooks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "paytrigo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/paytrigo/paytrigo-openclawbot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paytrigo/paytrigo-openclawbot"
+}

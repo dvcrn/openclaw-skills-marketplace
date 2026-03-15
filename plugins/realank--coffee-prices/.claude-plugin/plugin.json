@@ -1,0 +1,10 @@
+{
+  "name": "realank--coffee-prices",
+  "description": "Fetch and compare mainstream coffee prices (latte, americano, etc.) from major chains like Starbucks, Luckin, and Cotti for a given Chinese city and output them as a table. Use when the user wants current city coffee pricing benchmarks or brand comparisons.",
+  "version": "1.0.0",
+  "author": {
+    "name": "realank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/realank/coffee-prices",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/realank/coffee-prices"
+}

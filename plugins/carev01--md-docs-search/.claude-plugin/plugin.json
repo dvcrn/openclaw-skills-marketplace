@@ -1,0 +1,10 @@
+{
+  "name": "carev01--md-docs-search",
+  "description": "Full-text search across structured Markdown documentation archives using SQLite FTS5. Use when you need to search large collections of Markdown articles that are separated by \"---\" delimiters and contain source URLs (marked with \"*Source:\" pattern). Provides fast BM25-ranked search with automatic source URL extraction for citations. Ideal for research, documentation lookups, and knowledge base exploration. Requires indexing documentation first with `docs.py index`.",
+  "version": "1.0.2",
+  "author": {
+    "name": "carev01"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/carev01/md-docs-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/carev01/md-docs-search"
+}

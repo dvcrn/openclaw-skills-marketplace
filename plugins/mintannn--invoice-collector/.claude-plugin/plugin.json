@@ -1,0 +1,10 @@
+{
+  "name": "mintannn--invoice-collector",
+  "description": "Collect invoices/receipts from Gmail and send a summary email with attachments. Automatically downloads PDF attachments or takes screenshots of emails without PDFs. Use when user wants to gather invoices, receipts, or billing emails and forward them to another address. Requires gogcli (gog) to be configured with Gmail access.",
+  "version": "1.2.0",
+  "author": {
+    "name": "mintannn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mintannn/invoice-collector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mintannn/invoice-collector"
+}

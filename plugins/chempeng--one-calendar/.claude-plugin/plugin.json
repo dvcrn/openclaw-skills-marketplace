@@ -1,0 +1,10 @@
+{
+  "name": "chempeng--one-calendar",
+  "description": "每日单向历图片发送工具。自动获取当天日期，构造图片 URL，并通过飞书发送单向历图片。支持配置向导和定时任务。",
+  "version": "1.0.0",
+  "author": {
+    "name": "chempeng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chempeng/one-calendar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chempeng/one-calendar"
+}

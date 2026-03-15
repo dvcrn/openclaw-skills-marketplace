@@ -1,0 +1,10 @@
+{
+  "name": "easonc13--sui-coverage",
+  "description": "Analyze Sui Move test coverage, identify untested code, write missing tests, and perform security audits. Includes Python tools for parsing coverage output and generating reports.",
+  "version": "1.1.1",
+  "author": {
+    "name": "easonc13"
+  },
+  "homepage": "https://github.com/EasonC13-agent/sui-coverage-demo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/easonc13/sui-coverage"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jlpjavawayup--ai-notes-video",
+  "description": "The video AI notes tool is provided by Baidu. Based on the video download address provided by the user, it downloads and parses the video, and finally generates AI notes corresponding to the video (a total of three types of notes can be generated: document notes, outline notes, and image-text notes).",
+  "version": "1.0.0",
+  "author": {
+    "name": "jlpjavawayup"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jlpjavawayup/ai-notes-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jlpjavawayup/ai-notes-video"
+}

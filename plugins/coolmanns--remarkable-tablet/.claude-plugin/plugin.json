@@ -1,0 +1,10 @@
+{
+  "name": "coolmanns--remarkable-tablet",
+  "description": "Fetch handwritten notes, sketches, and drawings from a reMarkable tablet via Cloud API (rmapi). Process content by refining artwork with AI image generation, extracting handwritten text to memory/journal, or using sketches as input for other workflows. Use when working with reMarkable tablet content, syncing handwritten notes, processing sketches, or integrating tablet drawings into projects.",
+  "version": "1.0.0",
+  "author": {
+    "name": "coolmanns"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/coolmanns/remarkable-tablet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/coolmanns/remarkable-tablet"
+}

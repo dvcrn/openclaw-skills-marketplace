@@ -1,0 +1,10 @@
+{
+  "name": "highlander89--billy-cron-guardrails-pack",
+  "description": "Lint cron entries for schedule validity, bad model names, and missing NO_REPLY discipline markers.",
+  "version": "0.1.1",
+  "author": {
+    "name": "highlander89"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/highlander89/billy-cron-guardrails-pack",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/highlander89/billy-cron-guardrails-pack"
+}

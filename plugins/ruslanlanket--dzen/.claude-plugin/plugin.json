@@ -1,0 +1,10 @@
+{
+  "name": "ruslanlanket--dzen",
+  "description": "Publish articles and posts to Dzen.ru (Yandex Zen). Supports text, images, and videos. Requires session cookies and a CSRF token from a logged-in browser session.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ruslanlanket"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ruslanlanket/dzen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ruslanlanket/dzen"
+}

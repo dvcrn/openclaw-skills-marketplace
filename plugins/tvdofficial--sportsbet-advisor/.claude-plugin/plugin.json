@@ -1,0 +1,10 @@
+{
+  "name": "tvdofficial--sportsbet-advisor",
+  "description": "Provide informed opinions and educated guesses on sports bets from Sportsbet. Use when asked to research a specific bet, analyze relevant data (both current and historical), and predict a potential outcome. Always include a disclaimer that the prediction is an educated guess and may be incorrect. **When assessing an outcome, provide a confidence level, ensuring it never exceeds 95%.**",
+  "version": "1.0.1",
+  "author": {
+    "name": "tvdofficial"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tvdofficial/sportsbet-advisor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tvdofficial/sportsbet-advisor"
+}

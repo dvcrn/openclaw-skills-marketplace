@@ -1,0 +1,10 @@
+{
+  "name": "spyfree--ziwei-bazi-consulting",
+  "description": "Legacy compatibility alias for Ziwei + Bazi consultation workflows. Use when older prompts or automations still call `ziwei-bazi-consulting`; forward the work to `destiny-fusion-pro` so users receive the newer dual-system, consultation-style report with unified calculation rules and optional chart output.",
+  "version": "1.0.2",
+  "author": {
+    "name": "spyfree"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spyfree/ziwei-bazi-consulting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spyfree/ziwei-bazi-consulting"
+}

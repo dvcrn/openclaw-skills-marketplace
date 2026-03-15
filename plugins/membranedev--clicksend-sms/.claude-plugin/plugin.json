@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--clicksend-sms",
+  "description": "ClickSend SMS integration. Manage SMSes, MMSes, ContactLists. Use when the user wants to interact with ClickSend SMS data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/clicksend-sms"
+}

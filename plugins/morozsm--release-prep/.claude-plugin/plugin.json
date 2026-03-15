@@ -1,0 +1,10 @@
+{
+  "name": "morozsm--release-prep",
+  "description": "Deep code audit + documentation sync + release preparation for Python packages. Use when preparing a release, checking code quality before publishing, auditing code vs docs, fixing pre-release issues, generating changelogs, bumping versions, or publishing to PyPI. Triggers on \"release\", \"prepare release\", \"audit code\", \"check docs\", \"ready to release?\", \"publish\", \"pre-release check\", \"code review before release\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "morozsm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/morozsm/release-prep",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/morozsm/release-prep"
+}

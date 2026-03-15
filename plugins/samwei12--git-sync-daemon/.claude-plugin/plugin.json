@@ -1,0 +1,10 @@
+{
+  "name": "samwei12--git-sync-daemon",
+  "description": "Manage multiple git repositories with a daemon model (periodic add/commit/pull/push). Use this skill when you need to set up, run, or troubleshoot automated git sync on macOS (launchd) or Linux (systemd), including repo registration and service lifecycle.",
+  "version": "1.0.0",
+  "author": {
+    "name": "samwei12"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/samwei12/git-sync-daemon",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/samwei12/git-sync-daemon"
+}

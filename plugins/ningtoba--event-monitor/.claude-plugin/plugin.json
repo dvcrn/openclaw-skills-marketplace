@@ -1,0 +1,10 @@
+{
+  "name": "ningtoba--event-monitor",
+  "description": "Monitors system CPU and Memory usage, saves metrics to SQLite database, and generates Excel reports.",
+  "version": "1.0.2",
+  "author": {
+    "name": "ningtoba"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ningtoba/event-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ningtoba/event-monitor"
+}

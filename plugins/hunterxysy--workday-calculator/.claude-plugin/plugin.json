@@ -1,0 +1,10 @@
+{
+  "name": "hunterxysy--workday-calculator",
+  "description": "计算时间区间内有多少个工作日的技能。支持排除中国的节假日和调休安排。当用户询问工作日计算、节假日排除、工作时间计算时使用此技能。",
+  "version": "1.0.0",
+  "author": {
+    "name": "hunterxysy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hunterxysy/workday-calculator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hunterxysy/workday-calculator"
+}

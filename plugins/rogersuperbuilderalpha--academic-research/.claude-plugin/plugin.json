@@ -1,0 +1,10 @@
+{
+  "name": "rogersuperbuilderalpha--academic-research",
+  "description": "Search academic papers and conduct literature reviews using OpenAlex API (free, no key needed). Use when the user needs to find scholarly papers by topic/author/DOI, explore citation chains, get structured paper metadata (title, authors, abstract, citations, DOI, open access URL), fetch full text of open access papers, or conduct automated literature reviews with theme identification and synthesis. Triggers on requests involving academic search, paper lookup, citation analysis, literature review, research synthesis, or scholarly reference gathering.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rogersuperbuilderalpha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rogersuperbuilderalpha/academic-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rogersuperbuilderalpha/academic-research"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "13612177032--dingtalk-teambition-skill",
+  "description": "Teambition project management via Python scripts: projects, tasks, task traces, comments, files, members. Use when: (1) querying/creating/updating tasks or projects, (2) managing task progress and comments, (3) uploading files to tasks, (4) querying team members. NOT for: non-Teambition platforms, direct API calls without scripts, or operations not covered by available scripts.",
+  "version": "0.0.1",
+  "author": {
+    "name": "13612177032"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/13612177032/dingtalk-teambition-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/13612177032/dingtalk-teambition-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zhuyu28--neural-memory-enhanced",
+  "description": "Associative memory with spreading activation for persistent, intelligent recall.\n Use PROACTIVELY when:\n (1) You need to remember facts, decisions, errors, or context across sessions\n (2) User asks \"do you remember...\" or references past conversations\n (3) Starting a new task — inject relevant context from memory\n (4) After making decisions or encountering errors — store for future reference\n (5) User asks \"why did X happen?\" — trace causal chains through memory\n Zero LLM dependency. Neural graph with Hebbian learning, memory decay, contradiction detection, and temporal reasoning.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhuyu28"
+  },
+  "homepage": "https://github.com/nhadaututtheky/neural-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhuyu28/neural-memory-enhanced"
+}

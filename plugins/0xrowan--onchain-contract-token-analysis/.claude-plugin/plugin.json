@@ -1,0 +1,10 @@
+{
+  "name": "0xrowan--onchain-contract-token-analysis",
+  "description": "Analyze smart contracts, token mechanics, permissions, fee flows, upgradeability, market risks, and likely attack surfaces for onchain projects. Use when reviewing ERC-20s, launchpads, vaults, staking systems, LP fee routing, ownership controls, proxy setups, or suspicious token behavior.",
+  "version": "1.0.0",
+  "author": {
+    "name": "0xrowan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xrowan/onchain-contract-token-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xrowan/onchain-contract-token-analysis"
+}

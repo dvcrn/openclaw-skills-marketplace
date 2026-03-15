@@ -1,0 +1,10 @@
+{
+  "name": "muhammedilyasy--reddit-marketing-geo",
+  "description": "Spawns a specialized sub-agent to monitor Reddit and optimize for GEO. Runs on a scheduled cron job (9 AM/6 PM default) to deliver lead drafts.",
+  "version": "1.0.2",
+  "author": {
+    "name": "muhammedilyasy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/muhammedilyasy/reddit-marketing-geo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/muhammedilyasy/reddit-marketing-geo"
+}

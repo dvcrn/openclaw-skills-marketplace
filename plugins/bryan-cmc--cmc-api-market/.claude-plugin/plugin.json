@@ -1,0 +1,10 @@
+{
+  "name": "bryan-cmc--cmc-api-market",
+  "description": "API reference for CoinMarketCap market-wide endpoints including global metrics, fear/greed, indices, trending topics, and charts.\n Use this skill whenever the user mentions market API, asks about fear/greed index, wants global metrics or BTC dominance data, needs k-line charts, or is working with market sentiment. This is the complete reference for CMC market-wide API questions.\n Trigger: \"market API\", \"fear greed API\", \"global metrics API\", \"CMC charts API\", \"/cmc-api-market\"",
+  "version": "1.0.1",
+  "author": {
+    "name": "bryan-cmc"
+  },
+  "homepage": "https://github.com/coinmarketcap/skills-for-ai-agents-by-CoinMarketCap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bryan-cmc/cmc-api-market"
+}

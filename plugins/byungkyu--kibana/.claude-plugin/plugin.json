@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--kibana",
+  "description": "Kibana API integration with managed authentication. Manage saved objects, dashboards, data views, spaces, alerts, and fleet.\n Use this skill when users want to interact with Kibana for observability, security, and search analytics.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/kibana",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/kibana"
+}

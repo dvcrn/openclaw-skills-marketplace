@@ -1,0 +1,10 @@
+{
+  "name": "zurbrick--battle-tested-agent",
+  "description": "16 production-hardened patterns for OpenClaw agents. WAL Protocol, anti-hallucination, ambiguity gate, compaction survival, QA gates, multi-agent handoffs, self-improvement with recurrence tracking. Every pattern earned from failure.",
+  "version": "1.2.0",
+  "author": {
+    "name": "zurbrick"
+  },
+  "homepage": "https://github.com/zurbrick/battle-tested-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zurbrick/battle-tested-agent"
+}

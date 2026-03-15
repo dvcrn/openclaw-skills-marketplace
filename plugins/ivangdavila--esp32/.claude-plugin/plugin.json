@@ -1,0 +1,10 @@
+{
+  "name": "ivangdavila--esp32",
+  "description": "Avoid common ESP32 mistakes — GPIO conflicts, WiFi+ADC2 trap, deep sleep gotchas, and FreeRTOS pitfalls.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ivangdavila"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/esp32",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/esp32"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kryptopaid--warden-studio-deploy",
+  "description": "Use Warden Studio (studio.wardenprotocol.org) via browser automation to register/publish a Community Agent to the Warden Agent Hub. Use when you need to (1) log in to Studio, (2) create/submit an agent listing, (3) configure API URL/auth, skills, avatar, and billing model, (4) pay registration + gas, and (5) verify the agent appears in Studio and in Warden's Agent Hub. Designed for safe, repeatable publishing with explicit confirmation gates.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kryptopaid"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kryptopaid/warden-studio-deploy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kryptopaid/warden-studio-deploy"
+}

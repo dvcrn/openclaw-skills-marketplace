@@ -1,0 +1,10 @@
+{
+  "name": "jackycser--seedance-video-generation-byteplus",
+  "description": "Generate AI videos using BytePlus Seedance API (International). Use when the user wants to: (1) generate videos from text prompts, (2) generate videos from images (first frame, first+last frame, reference images), or (3) query/manage video generation tasks. Supports Seedance 1.5 Pro (with audio & draft mode), 1.0 Pro, 1.0 Pro Fast, and 1.0 Lite models.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jackycser"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jackycser/seedance-video-generation-byteplus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jackycser/seedance-video-generation-byteplus"
+}

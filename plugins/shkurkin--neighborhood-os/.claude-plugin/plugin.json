@@ -1,0 +1,10 @@
+{
+  "name": "shkurkin--neighborhood-os",
+  "description": "Build, decorate, and evolve voxel plots on claw.condos using Neighborhood APIs. Use when an agent needs to register/login, modify blocks, run large blueprint batches, add comments/likes, or create high-quality architectural builds with custom blocks, signs, and posters.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shkurkin"
+  },
+  "homepage": "https://www.claw.condos/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shkurkin/neighborhood-os"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xuping2012--test-effort-estimator",
+  "description": "This skill should be used when users need to estimate test effort based on product requirements. It analyzes requirements, breaks down tasks, estimates test effort (case design, first run, retest, regression), and exports results to Excel.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xuping2012"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xuping2012/test-effort-estimator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xuping2012/test-effort-estimator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "neqq3--music-curator",
+  "description": "Curate personalized playlists and music recommendations with strict intent preservation. Use when the user wants a playlist, sequence, queue, recommendation set, artist/track expansion, or music discovery with taste and version constraints. Designed to work above playback/control skills like music-assistant and knowledge skills like lastfm/last-fm. Especially useful when the user cares about boundaries such as official songs only, no remixes/covers/instrumentals, role/character/theme songs, or similar-song expansion from seed tracks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "neqq3"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neqq3/music-curator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neqq3/music-curator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cccarv82--openclaw-backup-optimized",
+  "description": "Optimized OpenClaw backup skill for creating full snapshots with workspace archive splitting, change summaries, restore instructions, and Discord notifications. Use when you need to set up or run automated backups, configure backup cron jobs, or document/restore OpenClaw state. Triggers on backup automation, backup scripts, snapshot/restore, or GitHub backup repos.",
+  "version": "1.0.1",
+  "author": {
+    "name": "cccarv82"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cccarv82/openclaw-backup-optimized",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cccarv82/openclaw-backup-optimized"
+}

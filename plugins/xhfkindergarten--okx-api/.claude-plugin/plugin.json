@@ -1,0 +1,10 @@
+{
+  "name": "xhfkindergarten--okx-api",
+  "description": "This skill should be used when the user asks to \"query OKX account balance\", \"place an order on OKX\", \"get OKX market data\", \"check OKX positions\", \"cancel OKX order\", or mentions OKX exchange trading, crypto trading via OKX API. Provides guidance for interacting with OKX REST API v5 including authentication, market data, and order management.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xhfkindergarten"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xhfkindergarten/okx-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xhfkindergarten/okx-api"
+}

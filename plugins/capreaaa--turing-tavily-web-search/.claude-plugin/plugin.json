@@ -1,0 +1,10 @@
+{
+  "name": "capreaaa--turing-tavily-web-search",
+  "description": "Search the web via the Turing Tavily proxy. Use when the user asks to search the web, look up real-time information, research current events, or needs up-to-date data not in training data. Run the bundled script via bash — do NOT construct HTTP requests manually.",
+  "version": "1.0.0",
+  "author": {
+    "name": "capreaaa"
+  },
+  "homepage": "https://docs.turing.cn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/capreaaa/turing-tavily-web-search"
+}

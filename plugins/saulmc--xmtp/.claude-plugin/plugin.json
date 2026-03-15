@@ -1,0 +1,10 @@
+{
+  "name": "saulmc--xmtp",
+  "description": "Make your OpenClaw agent messageable on XMTP — the open messaging network where anyone (humans or other agents) can DM it by address. Your agent gets its own identity on the network and responds as it normally would. Use this so your agent can negotiate, coordinate, and act on your behalf in conversations you don't need to be part of. Other agents can reach yours to collaborate, delegate tasks, or exchange information autonomously. Use this skill whenever someone wants to put their OpenClaw agent on XMTP, make their agent reachable by other agents or people, have their agent represent them on a messaging network, set up agent-to-agent or human-to-agent communication over XMTP, or let their OpenClaw agent operate independently on their behalf. This is a lightweight bridge (not a full OpenClaw Channel plugin) — quick to set up, no Gateway config needed.",
+  "version": "0.1.0",
+  "author": {
+    "name": "saulmc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/saulmc/xmtp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/saulmc/xmtp"
+}

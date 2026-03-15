@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--nft-floor-calculator",
+  "description": "Calculate NFT floor prices across multiple marketplaces - OpenSea, Blur, Magic Eden. Each call charges 0.001 USDT via SkillPay.",
+  "version": "1.0.1",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/nft-floor-calculator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/nft-floor-calculator"
+}

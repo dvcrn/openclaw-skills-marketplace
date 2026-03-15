@@ -1,0 +1,10 @@
+{
+  "name": "martok9803--martok9803-reminder-engine",
+  "description": "Create, list, cancel, and snooze reminders using OpenClaw cron jobs (one-shot or recurring). Use when a user asks things like: 'remind me in 20 minutes', 'remind me tomorrow at 9', 'every weekday at 10:30', 'list my reminders', 'cancel reminder', or 'snooze this'. This skill focuses on safe scheduling (timezone-correct), confirmation before creating jobs, and clean reminder text that will read well when it fires.",
+  "version": "0.1.0",
+  "author": {
+    "name": "martok9803"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/martok9803/martok9803-reminder-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/martok9803/martok9803-reminder-engine"
+}

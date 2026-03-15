@@ -1,0 +1,10 @@
+{
+  "name": "rgr4y--superpack-snitch",
+  "description": "Soft blocklist guard for OpenClaw. Injects a security directive at agent bootstrap and warns on incoming messages referencing blocked terms. Blocks clawhub/clawdhub by default.",
+  "version": "0.0.8",
+  "author": {
+    "name": "rgr4y"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rgr4y/superpack-snitch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rgr4y/superpack-snitch"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "chadru--appraisal-ai",
+  "description": "Drafts real estate appraisal reports from your project workfile. Produces Word narratives with tracked changes and Excel adjustment grids from your own master templates. You review and accept every change.",
+  "version": "1.1.1",
+  "author": {
+    "name": "chadru"
+  },
+  "homepage": "https://github.com/cruby9/appraisal_ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chadru/appraisal-ai"
+}

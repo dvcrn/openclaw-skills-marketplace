@@ -1,0 +1,10 @@
+{
+  "name": "elihuvillaraus--excalidraw-diagram-generator",
+  "description": "Generate Excalidraw diagrams from natural language descriptions. Use when asked to \"create a diagram\", \"make a flowchart\", \"visualize a process\", \"draw a system architecture\", \"create a mind map\", or \"generate an Excalidraw file\". Supports flowcharts, relationship diagrams, mind maps, and system architecture diagrams. Outputs .excalidraw JSON files that can be opened directly in Excalidraw.",
+  "version": "1.0.0",
+  "author": {
+    "name": "elihuvillaraus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/elihuvillaraus/excalidraw-diagram-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/elihuvillaraus/excalidraw-diagram-generator"
+}

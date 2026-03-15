@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "source_path": "/home/node/.openclaw/workspace/memory/geopolitics/briefing-2026-03-04-evening.md",
+    "extracted_at": "2026-03-04T23:02:31.032Z",
+    "model": "google/gemini-3-flash-preview",
+    "summarized": false,
+    "file_hash": "fbd1beb6521a1196",
+    "file_size": 3207,
+    "node_count": 17,
+    "edge_count": 11,
+    "entity_resolution": {
+      "checked": 6,
+      "resolved": 0,
+      "canonicalized": 0
+    }
+  },
+  "nodes": [
+    {
+      "label": "Mojtaba Khamenei",
+      "type": "Entity",
+      "summary": "Son of Ali Khamenei and newly elected Supreme Leader of Iran.",
+      "props": {
+        "entity_type": "person",
+        "description": "Reported successor to the Supreme Leader of Iran, elected under IRGC pressure."
+      }
+    },
+    {
+      "label": "IRGC",
+      "type": "Entity",
+      "summary": "Islamic Revolutionary Guard Corps of Iran.",
+      "props": {
+        "entity_type": "organization",
+        "description": "Paramilitary force in Iran influential in the succession of Mojtaba Khamenei."
+      }
+    },
+    {
+      "label": "Assembly of Experts",
+      "type": "Entity",
+      "summary": "Iranian deliberative body that elects the Supreme Leader.",
+      "props": {
+        "entity_type": "organization",
+        "description": "The body responsible for electing the Supreme Leader, recently targeted by an Israeli strike."
+      }
+    },
+    {
+      "label": "Mojtaba Khamenei Succession",
+      "type": "Observation",
+      "summary": "Mojtaba Khamenei elected as Supreme Leader by the Assembly of Experts.",
+      "props": {
+        "content": "Mojtaba Khamenei has reportedly been elected as the new Supreme Leader by the Assembly of Experts under heavy IRGC pressure.",
+        "observed_at": 1772582400
+      }
+    },
+    {
+      "label": "Israeli Strike on Qom",
+      "type": "Observation",
+      "summary": "Israeli strike on the Assembly of Experts building in Qom.",
+      "props": {
+        "content": "An Israeli strike targeted the Assembly building in Qom during deliberations, reportedly killing the council secretary and officials.",
+        "observed_at": 1772582400
+      }
+    },
+    {
+      "label": "Tehran Peace Outreach",
+      "type": "Hypothesis",
+      "summary": "Reports of secret outreach by Tehran to end the conflict.",
+      "props": {
+        "statement": "Tehran is engaging in secret back-channel talks to end the current conflict.",
+        "status": "unconfirmed"
+      }
+    },
+    {
+      "label": "Sinking of Iranian Warship",
+      "type": "Observation",
+      "summary": "US submarine torpedoed and sank an Iranian warship off Sri Lanka.",
+      "props": {
+        "content": "A US submarine sank an Iranian warship off the coast of Sri Lanka, expanding the conflict to the Indian Ocean.",
+        "observed_at": 1772582400
+      }
+    },
+    {
+      "label": "Operation Epic Fury",
+      "type": "Project",
+      "summary": "US military operations against Iran.",
+      "props": {
+        "name": "Operation Epic Fury",
+        "description": "The code name for ongoing US military operations against Iran under the Trump administration.",
+        "status": "active"
+      }
+    },
+    {
+      "label": "Senate War Powers Vote",
+      "type": "Observation",
+      "summary": "US Senate voted down restrictions on military operations against Iran.",
+      "props": {
+        "content": "The US Senate rejected a resolution to restrict President Trump's ability to continue military operations against Iran.",
+        "observed_at": 1772582400
+      }
+    },
+    {
+      "label": "PLA Purge March 2026",
+      "type": "Observation",
+      "summary": "Xi Jinping stripped 19 delegates of seats and purged his military secretary.",
+      "props": {
+        "content": "Xi Jinping stripped 19 delegates of their seats and purged his personal military secretary, signaling a deep anti-corruption drive in the CMC.",
+        "observed_at": 1772582400
+      }
+    },
+    {
+      "label": "Libya Tanker Explosion",
+      "type": "Observation",
+      "summary": "Gas tanker exploded and sank off the coast of Libya.",
+      "props": {
+        "content": "A gas tanker exploded and sank off the coast of Libya; Putin accused Ukraine of the attack.",
+        "observed_at": 1772582400
+      }
+    },
+    {
+      "label": "CIA Taiwan Conflict Warning",
+      "type": "Observation",
+      "summary": "CIA briefed Apple CEO Tim Cook on China-Taiwan conflict risk by 2027.",
+      "props": {
+        "content": "US intelligence briefed Tim Cook on the grave risk of a China-Taiwan conflict by 2027.",
+        "observed_at": 1772582400
+      }
+    },
+    {
+      "label": "Iran Regime Fall Hypothesis",
+      "type": "Hypothesis",
+      "summary": "Thesis that the Iranian regime will fall by June 30, 2026.",
+      "props": {
+        "statement": "Mojtaba's hardline succession and direct strikes on infrastructure will lead to terminal instability and regime fall.",
+        "status": "active"
+      }
+    },
+    {
+      "label": "China-Taiwan Conflict 2027",
+      "type": "Hypothesis",
+      "summary": "Risk of China invading Taiwan by 2027.",
+      "props": {
+        "statement": "China may invade Taiwan by 2027 due to CMC vacuum and geopolitical volatility.",
+        "status": "active"
+      }
+    },
+    {
+      "label": "Tim Cook",
+      "type": "Entity",
+      "summary": "CEO of Apple Inc.",
+      "props": {
+        "entity_type": "person",
+        "identifiers": {
+          "company": "Apple"
+        }
+      }
+    },
+    {
+      "label": "Xi Jinping",
+      "type": "Entity",
+      "summary": "President of China and General Secretary of the CCP.",
+      "props": {
+        "entity_type": "person"
+      }
+    },
+    {
+      "label": "Vladimir Putin",
+      "type": "Entity",
+      "summary": "President of Russia.",
+      "props": {
+        "entity_type": "person"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "Mojtaba Khamenei Succession",
+      "to": "Mojtaba Khamenei",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Mojtaba Khamenei Succession",
+      "to": "Assembly of Experts",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Mojtaba Khamenei Succession",
+      "to": "IRGC",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Israeli Strike on Qom",
+      "to": "Assembly of Experts",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Mojtaba Khamenei Succession",
+      "to": "Iran Regime Fall Hypothesis",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "Israeli Strike on Qom",
+      "to": "Iran Regime Fall Hypothesis",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "Senate War Powers Vote",
+      "to": "Operation Epic Fury",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "PLA Purge March 2026",
+      "to": "Xi Jinping",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "CIA Taiwan Conflict Warning",
+      "to": "Tim Cook",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "CIA Taiwan Conflict Warning",
+      "to": "China-Taiwan Conflict 2027",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "Libya Tanker Explosion",
+      "to": "Vladimir Putin",
+      "type": "RELEVANT_TO"
+    }
+  ]
+}

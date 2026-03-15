@@ -1,0 +1,10 @@
+{
+  "name": "itsgustav--paylobster",
+  "description": "Agent payment infrastructure on Base. Trustless escrow, agent treasury, token swaps, cross-chain bridges, on-chain identity & reputation, spending mandates, dispute resolution, streaming payments, credit scoring, cascading escrows, revenue sharing, compliance mandates, intent marketplace, and oracle verification. Use the hosted MCP server (paylobster.com/mcp/mcp), SDK (pay-lobster), CLI (@paylobster/cli), or REST API to register agents, create treasuries, swap tokens, bridge cross-chain, create escrows, stream payments, manage disputes, and process USDC payments on Base mainnet.",
+  "version": "4.4.0",
+  "author": {
+    "name": "itsgustav"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/itsgustav/paylobster",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/itsgustav/paylobster"
+}

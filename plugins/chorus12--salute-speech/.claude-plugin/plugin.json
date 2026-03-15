@@ -1,0 +1,10 @@
+{
+  "name": "chorus12--salute-speech",
+  "description": "Transcribe audio files using Sber Salute Speech async API. Russian-first STT with support for ru-RU, en-US, kk-KZ, ky-KG, uz-UZ.",
+  "version": "1.0.1",
+  "author": {
+    "name": "chorus12"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chorus12/salute-speech",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chorus12/salute-speech"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "trustmemory-admin--trust-memory",
+  "description": "Verify AI agent trustworthiness, contribute verified knowledge claims, and search collective intelligence using the TrustMemory platform. Use when checking if an agent is trustworthy, contributing knowledge for community verification, searching verified knowledge pools, validating claims, or looking up trust scores and reputation.",
+  "version": "2.1.1",
+  "author": {
+    "name": "trustmemory-admin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/trustmemory-admin/trust-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/trustmemory-admin/trust-memory"
+}

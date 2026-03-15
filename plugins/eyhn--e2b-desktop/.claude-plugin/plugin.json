@@ -1,0 +1,10 @@
+{
+  "name": "eyhn--e2b-desktop",
+  "description": "Control E2B Desktop sandboxes (virtual Linux desktops) for computer-use agents. Use when you need to create/manage sandboxed desktop environments, take screenshots, perform mouse/keyboard actions, run commands, stream VNC output, or build computer-use agent loops with E2B Desktop SDK.",
+  "version": "1.0.0",
+  "author": {
+    "name": "eyhn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/eyhn/e2b-desktop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eyhn/e2b-desktop"
+}

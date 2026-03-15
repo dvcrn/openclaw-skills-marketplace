@@ -1,0 +1,10 @@
+{
+  "name": "victor-thu--feishu-doc-summarizer",
+  "description": "Summarize Feishu/Lark cloud documents the user can read. Use when the user sends a Feishu doc link (docx or wiki) and expects an auto summary without extra instructions, or explicitly asks to summarize a Feishu document. Workflow: resolve wiki to docx, read doc content via feishu_doc, summarize using the user’s fixed summary schema from MEMORY.md, and send the summary back to the current chat.",
+  "version": "0.1.1",
+  "author": {
+    "name": "victor-thu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/victor-thu/feishu-doc-summarizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/victor-thu/feishu-doc-summarizer"
+}

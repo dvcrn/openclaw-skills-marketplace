@@ -1,0 +1,10 @@
+{
+  "name": "sexychina--ask-search",
+  "description": "Web search via self-hosted SearxNG. Aggregates Google, Bing, DuckDuckGo, Brave. Returns title/url/snippet. Zero API key required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sexychina"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sexychina/ask-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sexychina/ask-search"
+}

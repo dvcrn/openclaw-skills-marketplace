@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--redis-schema-gen",
+  "description": "Generate Redis key patterns and data structures. Use when designing Redis architecture.",
+  "version": "1.0.2",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/redis-schema-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/redis-schema-gen"
+}

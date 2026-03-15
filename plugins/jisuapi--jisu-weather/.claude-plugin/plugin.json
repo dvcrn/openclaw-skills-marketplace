@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--jisu-weather",
+  "description": "使用极速数据全国天气预报 API 查询实时天气、7天天气预报、24小时逐小时天气、空气质量指数和生活指数等信息，并支持获取完整城市列表。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/jisu-weather",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/jisu-weather"
+}

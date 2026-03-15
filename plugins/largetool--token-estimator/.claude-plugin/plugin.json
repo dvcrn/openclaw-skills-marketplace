@@ -1,0 +1,10 @@
+{
+  "name": "largetool--token-estimator",
+  "description": "预估本次请求的 Token 消耗量，支持多模型精确计算",
+  "version": "1.0.1",
+  "author": {
+    "name": "largetool"
+  },
+  "homepage": "https://github.com/openclaw/token-estimator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/largetool/token-estimator"
+}

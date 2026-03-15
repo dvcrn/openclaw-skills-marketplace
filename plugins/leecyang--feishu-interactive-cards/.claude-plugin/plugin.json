@@ -1,0 +1,10 @@
+{
+  "name": "leecyang--feishu-interactive-cards",
+  "description": "Create and send interactive cards to Feishu (Lark) with buttons, forms, polls, and rich UI elements. Use when replying to Feishu messages and there is ANY uncertainty - send an interactive card instead of plain text to let users choose via buttons. Automatically handles callbacks via long-polling connection. Use for confirmations, choices, forms, todos, polls, or any scenario requiring user interaction in Feishu.",
+  "version": "1.0.2",
+  "author": {
+    "name": "leecyang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leecyang/feishu-interactive-cards",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leecyang/feishu-interactive-cards"
+}

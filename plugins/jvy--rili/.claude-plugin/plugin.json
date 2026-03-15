@@ -1,0 +1,10 @@
+{
+  "name": "jvy--rili",
+  "description": "Calendar and Chinese lunar date lookups via a bundled local Node script. Use when the user asks about dates, weekdays, month views, lunar calendar dates, traditional lunar festivals, or Gregorian↔lunar conversion. Triggers on 日历, 月历, 农历, 公历, 初几, 星期几, 黄历日期, 春节, 元宵, 端午, 中秋, 重阳. NOT for calendar event CRUD, reminders, or shared calendar integrations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jvy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jvy/rili",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jvy/rili"
+}

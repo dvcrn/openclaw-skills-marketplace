@@ -1,0 +1,10 @@
+{
+  "name": "zenchantlive--writing-better-skills",
+  "description": "Use when creating or improving a skill for an AI agent, especially when the skill needs strong trigger wording, project-local context, references, scripts, tests, self-healing rules, or a completion gate another agent could follow without guessing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zenchantlive"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zenchantlive/writing-better-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zenchantlive/writing-better-skills"
+}

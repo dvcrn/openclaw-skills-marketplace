@@ -1,0 +1,10 @@
+{
+  "name": "itsjustfred--n8n-workflow-automation-1-0-0",
+  "description": "Designs and outputs n8n workflow JSON with robust triggers, idempotency, error handling, logging, retries, and human-in-the-loop review queues. Use when you need an auditable automation that won’t silently fail.",
+  "version": "1.0.0",
+  "author": {
+    "name": "itsjustfred"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/itsjustfred/n8n-workflow-automation-1-0-0",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/itsjustfred/n8n-workflow-automation-1-0-0"
+}

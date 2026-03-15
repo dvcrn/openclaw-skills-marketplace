@@ -1,0 +1,10 @@
+{
+  "name": "youpele52--pdf-toolkit",
+  "description": "Run a local script to work with PDF files, DOCX documents, OCR, and text-to-speech. Use the read tool to load this SKILL.md, then exec the uv run command inside it. Do NOT use sessions_spawn. Triggers: read pdf, extract text from pdf, merge pdfs, split pdf, rotate pdf, ocr pdf, read docx, create docx, text to speech, convert to mp3, pdf info, pdf pages.",
+  "version": "0.0.3",
+  "author": {
+    "name": "youpele52"
+  },
+  "homepage": "https://pypdf.readthedocs.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/youpele52/pdf-toolkit"
+}

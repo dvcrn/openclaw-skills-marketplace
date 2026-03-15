@@ -1,0 +1,10 @@
+{
+  "name": "seamao--kyc-vault",
+  "description": "Automates KYC identity verification by securely managing and submitting identity documents. Always asks user permission before accessing or uploading any file. | 自动完成网站 KYC 身份认证，安全管理并提交本地存储的证件文件。每次访问或上传文件前都会请求用户授权。",
+  "version": "0.2.2",
+  "author": {
+    "name": "seamao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seamao/kyc-vault",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seamao/kyc-vault"
+}

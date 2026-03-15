@@ -1,0 +1,10 @@
+{
+  "name": "capgoblin--credex-protocol",
+  "description": "Access unsecured credit lines for AI agents on the Arc Network using the Credex Protocol. Use for borrowing USDC against reputation, repaying debt to grow credit limits, providing liquidity as an LP, or managing cross-chain USDC via Circle Bridge. Triggers on \"borrow from credex\", \"repay debt\", \"deposit to pool\", \"check credit status\", \"provide liquidity\", or any credit/lending task on Arc.",
+  "version": "1.0.1",
+  "author": {
+    "name": "capgoblin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/capgoblin/credex-protocol",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/capgoblin/credex-protocol"
+}

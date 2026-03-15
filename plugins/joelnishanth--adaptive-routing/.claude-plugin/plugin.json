@@ -1,0 +1,10 @@
+{
+  "name": "joelnishanth--adaptive-routing",
+  "description": "Routes LLM requests to a local model first (Ollama, LM Studio, llamafile), validates the response quality, and escalates to cloud only when the local result fails. Tracks local vs escalated vs cloud outcomes in a persistent dashboard. Use when: (1) user asks to run a task with a local model first, (2) user wants to reduce cloud API costs or keep requests private, (3) user wants post-outcome quality validation before committing to a local result, (4) user asks to see token savings or the routing dashboard, (5) any request where local-vs-cloud routing should be decided automatically with a quality gate. Supports Ollama, LM Studio, and llamafile as local providers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "joelnishanth"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/joelnishanth/adaptive-routing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joelnishanth/adaptive-routing"
+}

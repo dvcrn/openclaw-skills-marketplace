@@ -1,0 +1,10 @@
+{
+  "name": "sushant-baton--pump-fun-tokenized-agents",
+  "description": "Build payment flows for Pump Tokenized Agents using @pump-fun/agent-payments-sdk. Use when accepting payments, building accept-payment transactions, integrating Solana wallets, or verifying that a user has paid an invoice on-chain.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sushant-baton"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sushant-baton/pump-fun-tokenized-agents",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sushant-baton/pump-fun-tokenized-agents"
+}

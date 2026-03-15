@@ -1,0 +1,10 @@
+{
+  "name": "vishalgojha--propai-sync",
+  "description": "Maintain and operate the PropAI Sync monorepo, including hosted-platform BYOK API validation and Railway deployment checks. Use when working in propai-sync to run scoped tests, build gates, hosted smoke checks (`/api/health`, `/api/auth/bootstrap`, `/api/users/me`), and ClawHub-ready skill publishing steps.",
+  "version": "2026.2.28",
+  "author": {
+    "name": "vishalgojha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vishalgojha/propai-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vishalgojha/propai-sync"
+}

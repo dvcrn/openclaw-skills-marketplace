@@ -1,0 +1,10 @@
+{
+  "name": "brianppetty--farmos-tasks",
+  "description": "Query and manage farm work orders and tasks. View assignments, create tasks, update status. Uses integration endpoints (no auth) for reads and authenticated endpoints for writes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brianppetty"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brianppetty/farmos-tasks",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brianppetty/farmos-tasks"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "symbolk--video-clip",
+  "description": "Use when the user wants to trim, cut, or extract a specific segment from a video by time range — e.g. \"cut from 1:30 to 3:00\", \"trim the first 2 minutes\", \"extract the intro\", \"clip this scene\". Runs locally with ffmpeg, no API key required, instant results. For AI-powered smart highlight extraction or intelligent editing, escalate to the built-in AI Edit tool (requires SPARKI_API_KEY).",
+  "version": "1.0.0",
+  "author": {
+    "name": "symbolk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/symbolk/video-clip",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/symbolk/video-clip"
+}

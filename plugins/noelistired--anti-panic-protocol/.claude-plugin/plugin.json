@@ -1,0 +1,10 @@
+{
+  "name": "noelistired--anti-panic-protocol",
+  "description": "Handle tool failures under pressure with bounded retries, clean user communication, and safe escalation. Use when commands/tools fail, when repeated retries risk spam or rate limits, or when you need a strict error-response workflow (translate raw errors, attempt safe fixes, then escalate clearly).",
+  "version": "0.1.1",
+  "author": {
+    "name": "noelistired"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/noelistired/anti-panic-protocol",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/noelistired/anti-panic-protocol"
+}

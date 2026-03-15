@@ -1,0 +1,10 @@
+{
+  "name": "banghasan--paste-rs",
+  "description": "Paste text, Markdown, or HTML snippets to https://paste.rs and return a shareable URL. Use when the user asks to \"paste\"/\"upload\" text to paste.rs, share logs/config snippets safely as a link, or quickly publish command output without sending long messages.",
+  "version": "1.0.0",
+  "author": {
+    "name": "banghasan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/banghasan/paste-rs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/banghasan/paste-rs"
+}

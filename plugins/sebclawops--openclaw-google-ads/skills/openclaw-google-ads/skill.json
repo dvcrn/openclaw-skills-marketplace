@@ -1,0 +1,32 @@
+{
+  "name": "openclaw-google-ads",
+  "version": "1.0.0",
+  "description": "Google Ads API integration for OpenClaw agents. Access campaigns, performance metrics, spend, impressions, clicks, and conversions via GAQL queries. Supports OAuth authentication and Manager Account (MCC) access.",
+  "author": "Albert (@sebclawops)",
+  "license": "MIT",
+  "homepage": "https://github.com/sebclawops/openclaw-google-ads",
+  "tags": ["google-ads", "ppc", "advertising", "marketing", "google-api", "gaql", "campaigns", "analytics"],
+  "requires": {
+    "env": [
+      "GOOGLE_ADS_DEVELOPER_TOKEN",
+      "GOOGLE_ADS_CLIENT_ID",
+      "GOOGLE_ADS_CLIENT_SECRET",
+      "GOOGLE_ADS_REFRESH_TOKEN",
+      "GOOGLE_ADS_MANAGER_ACCOUNT_ID",
+      "GOOGLE_ADS_CLIENT_ACCOUNT_ID"
+    ],
+    "bins": ["python3", "pip3"],
+    "python_packages": ["google-ads", "google-auth-oauthlib", "google-auth"]
+  },
+  "security_note": "This skill requires OAuth credentials for Google Ads API access. The authenticate.py script generates a refresh token and stores it in ~/.openclaw/credentials/ with chmod 600 permissions. Users should never commit credentials to version control.",
+  "architecture": {
+    "skill_md_tokens": "~600",
+    "design": "Scripts for authentication, campaign queries, account summaries, and custom GAQL execution.",
+    "scripts": 4,
+    "config_files": 0
+  },
+  "compatibility": {
+    "agents": ["openclaw"],
+    "minVersion": "2026.1.0"
+  }
+}

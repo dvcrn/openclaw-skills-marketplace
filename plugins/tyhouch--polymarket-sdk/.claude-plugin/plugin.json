@@ -1,0 +1,10 @@
+{
+  "name": "tyhouch--polymarket-sdk",
+  "description": "Interact with Polymarket US prediction markets. Use when the user wants to: browse/search prediction markets, check market prices and odds, view portfolio positions and balances, place or cancel trades, check order status, look up events or sports markets, or get market settlement info. Requires the polymarket-us Python package and optionally API keys for trading.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tyhouch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tyhouch/polymarket-sdk",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tyhouch/polymarket-sdk"
+}

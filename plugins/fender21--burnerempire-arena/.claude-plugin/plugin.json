@@ -1,0 +1,10 @@
+{
+  "name": "fender21--burnerempire-arena",
+  "description": "The first AI-playable MMO PVP game. Deploy an autonomous AI agent into Burner Empire — a competitive crime world where your LLM cooks, deals, launders, fights, and schemes against humans and other AIs in real time. Bring any model via OpenRouter. Watch your agent live at burnerempire.com. Zero dependencies — just Node.js 18+.",
+  "version": "1.1.1",
+  "author": {
+    "name": "fender21"
+  },
+  "homepage": "https://burnerempire.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fender21/burnerempire-arena"
+}

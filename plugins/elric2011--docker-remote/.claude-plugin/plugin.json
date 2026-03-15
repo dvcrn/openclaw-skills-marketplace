@@ -1,0 +1,10 @@
+{
+  "name": "elric2011--docker-remote",
+  "description": "Remotely manage Docker Compose instances via SSH. Execute docker compose commands, view logs, update images, and exec into containers on remote servers. Use when deploying, monitoring, or debugging containerized applications.",
+  "version": "1.0.0",
+  "author": {
+    "name": "elric2011"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/elric2011/docker-remote",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/elric2011/docker-remote"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "vahnxu--signalradar",
+  "description": "SignalRadar (信号雷达) — Monitor Polymarket probability changes, alert when thresholds crossed. 监控 Polymarket 概率变化，超阈值时推送。 Use when user asks to \"add a Polymarket market\", \"monitor Polymarket\", \"check prediction markets\", \"list my monitors\", \"remove a monitor\", \"track market probabilities\", \"run market check\", \"check schedule status\", \"change threshold\", \"change check frequency\", or \"health check\". Also use when user says \"我的监控\", \"看看有啥变化\", \"帮我加一下\", \"阈值\", \"自动监控\", \"定时检查\", or sends any polymarket.com URL — even if they don't explicitly say \"SignalRadar\". Accepts any Polymarket event URL. Do NOT use for stock/crypto trading signals, sports betting, price prediction models, or general financial analysis. 不适用于股票/加密货币交易信号、体育博彩、价格预测模型或一般金融分析。",
+  "version": "0.9.1",
+  "author": {
+    "name": "vahnxu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vahnxu/signalradar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vahnxu/signalradar"
+}

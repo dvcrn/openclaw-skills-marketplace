@@ -1,0 +1,10 @@
+{
+  "name": "rothcold--openclaw-updater-v2",
+  "description": "Check for OpenClaw updates, perform updates, and manage version status. Provides automatic update checking, version comparison, and seamless updating of the OpenClaw agent platform.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rothcold"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rothcold/openclaw-updater-v2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rothcold/openclaw-updater-v2"
+}

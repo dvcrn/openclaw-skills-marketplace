@@ -1,0 +1,10 @@
+{
+  "name": "alicepub--latex-writer",
+  "description": "Generate professional LaTeX documents from templates. Supports academic papers (IEEE/ACM), Chinese thesis (CTeX), CVs (moderncv), and custom templates. Auto-compile to PDF.",
+  "version": "1.0.0",
+  "author": {
+    "name": "alicepub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alicepub/latex-writer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alicepub/latex-writer"
+}

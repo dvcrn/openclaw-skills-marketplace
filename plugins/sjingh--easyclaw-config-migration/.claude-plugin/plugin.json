@@ -1,0 +1,10 @@
+{
+  "name": "sjingh--easyclaw-config-migration",
+  "description": "Migrate settings from EasyClaw into OpenClaw by locating EasyClaw desktop/runtime config files, comparing them with ~/.openclaw/openclaw.json, and safely generating or applying a selective merge. Use when a user mentions EasyClaw, wants to copy settings/configs from EasyClaw into OpenClaw, asks where EasyClaw stores its config, or needs a migration report or backup-aware merge.",
+  "version": "0.1.0",
+  "author": {
+    "name": "sjingh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sjingh/easyclaw-config-migration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sjingh/easyclaw-config-migration"
+}

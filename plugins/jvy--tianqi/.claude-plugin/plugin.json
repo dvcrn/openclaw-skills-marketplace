@@ -1,0 +1,10 @@
+{
+  "name": "jvy--tianqi",
+  "description": "Get current weather and forecasts via wttr.in and Open-Meteo. Use when: user asks in Chinese about weather, temperature, rain, wind, or short-range forecasts for a city or region. Prefer Chinese place names, Chinese summaries, and Celsius-based answers. Use wttr.in for quick text lookups and Open-Meteo for structured forecast data or geocoding fallback.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jvy"
+  },
+  "homepage": "https://wttr.in/:help",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jvy/tianqi"
+}

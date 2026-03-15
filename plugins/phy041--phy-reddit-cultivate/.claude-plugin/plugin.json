@@ -1,0 +1,10 @@
+{
+  "name": "phy041--phy-reddit-cultivate",
+  "description": "Reddit account cultivation for indie developers. Uses AppleScript to control real Chrome — undetectable by anti-bot systems. Checks karma, finds rising posts, drafts comments, and posts directly. Triggers on \"/reddit-cultivate\", \"check my reddit\", \"reddit maintenance\", \"find reddit opportunities\", \"build reddit karma\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "phy041"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-reddit-cultivate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-reddit-cultivate"
+}

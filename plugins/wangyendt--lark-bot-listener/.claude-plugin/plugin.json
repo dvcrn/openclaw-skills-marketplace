@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--lark-bot-listener",
+  "description": "Feishu/Lark message listener for real-time message processing via WebSocket. Use when users need to listen for incoming Feishu messages (text, image, file, post) with automatic deduplication and async handling. Provides convenient decorators (text_handler, image_handler, file_handler) that handle message download/cleanup and optional automatic reply.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/lark-bot-listener",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/lark-bot-listener"
+}

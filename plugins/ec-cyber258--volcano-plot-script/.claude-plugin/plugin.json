@@ -1,0 +1,10 @@
+{
+  "name": "ec-cyber258--volcano-plot-script",
+  "description": "Generate R/Python code for volcano plots from DEG (Differentially Expressed Genes) analysis results. Triggered when user needs visualization of gene expression data, p-value vs fold-change scatter plots, publication-ready figures for bioinformatics analysis.",
+  "version": "0.1.0",
+  "author": {
+    "name": "ec-cyber258"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ec-cyber258/volcano-plot-script",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ec-cyber258/volcano-plot-script"
+}

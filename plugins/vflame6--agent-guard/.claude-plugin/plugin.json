@@ -1,0 +1,10 @@
+{
+  "name": "vflame6--agent-guard",
+  "description": "Real-time prompt injection and command injection detection for OpenClaw agents. Screens incoming messages, tool results, GitHub issues, and external content for malicious patterns before the agent processes them. Use automatically on every message, or explicitly when user says \"scan this\", \"check for injection\", \"is this safe\", \"analyze this for threats\", or when processing untrusted external content like GitHub issues, emails, webhooks, or pasted text from unknown sources.",
+  "version": "1.0.1",
+  "author": {
+    "name": "vflame6"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vflame6/agent-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vflame6/agent-guard"
+}

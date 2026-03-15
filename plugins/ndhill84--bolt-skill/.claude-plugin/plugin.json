@@ -1,0 +1,10 @@
+{
+  "name": "ndhill84--bolt-skill",
+  "description": "Manage software development sprints and stories in Bolt. Use for creating/updating stories, moving tasks through the Kanban workflow (waiting → in_progress → completed), tracking blockers and dependencies, getting sprint digests, logging AI activity, and attaching files. Requires BOLT_BASE_URL environment variable pointing to a running Bolt instance.",
+  "version": "0.1.0",
+  "author": {
+    "name": "ndhill84"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ndhill84/bolt-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ndhill84/bolt-skill"
+}

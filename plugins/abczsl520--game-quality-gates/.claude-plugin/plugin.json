@@ -1,0 +1,10 @@
+{
+  "name": "abczsl520--game-quality-gates",
+  "description": "Game development quality gates and mandatory checks. Activate when building, reviewing, debugging, or deploying any game project (H5/Canvas/WebGL/Phaser/Three.js/2D/3D). Covers state cleanup, lifecycle management, input handling, audio, persistence, networking, anti-cheat, and performance. Use as pre-deploy checklist or when diagnosing game-specific bugs (state leaks, phantom timers, buff conflicts, memory growth, touch issues).",
+  "version": "1.1.0",
+  "author": {
+    "name": "abczsl520"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abczsl520/game-quality-gates",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abczsl520/game-quality-gates"
+}

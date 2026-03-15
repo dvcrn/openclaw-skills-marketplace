@@ -1,0 +1,10 @@
+{
+  "name": "alexfeng75--weather-openmeteo",
+  "description": "Get current weather and forecasts using Open-Meteo API (no API key required). Optimized for PowerShell environments with Chinese support.",
+  "version": "1.0.0",
+  "author": {
+    "name": "alexfeng75"
+  },
+  "homepage": "https://open-meteo.com/en/docs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alexfeng75/weather-openmeteo"
+}

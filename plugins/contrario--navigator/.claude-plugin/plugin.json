@@ -1,0 +1,10 @@
+{
+  "name": "contrario--navigator",
+  "description": "For everyone who's ever pasted a command and hoped for the best. Navigator reads what you just did, tells you if it worked correctly, finds the one gap slowing you down, helps you close it — then asks if you've backed up before you continue. Zero judgment. One step at a time.",
+  "version": "1.0.0",
+  "author": {
+    "name": "contrario"
+  },
+  "homepage": "https://clawhub.ai/contrario",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/contrario/navigator"
+}

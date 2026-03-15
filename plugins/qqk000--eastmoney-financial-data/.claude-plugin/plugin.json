@@ -1,0 +1,10 @@
+{
+  "name": "qqk000--eastmoney-financial-data",
+  "description": "本 Skill 基于东方财富权威数据库及最新行情底层数据构建，支持通过自然语言查询行情类数据（股票、行业、板块、指数、基金、债券的实时行情、主力资金流向、估值等）、财务类数据（上市公司基本信息、财务指标、高管信息、主营业务等）、关系与经营类数据（关联关系、企业经营数据）。避免模型基于过时知识回答金融数据问题，提供权威及时的金融数据。",
+  "version": "1.0.2",
+  "author": {
+    "name": "qqk000"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qqk000/eastmoney-financial-data",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qqk000/eastmoney-financial-data"
+}

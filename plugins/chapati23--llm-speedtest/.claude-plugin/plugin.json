@@ -1,0 +1,10 @@
+{
+  "name": "chapati23--llm-speedtest",
+  "description": "Ping major LLM providers in parallel and compare real API latency. Run with /ping",
+  "version": "1.0.0",
+  "author": {
+    "name": "chapati23"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chapati23/llm-speedtest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chapati23/llm-speedtest"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "gora050--harvest",
+  "description": "Harvest integration. Manage Projects, Tasks, Persons, Expenses, Clients. Use when the user wants to interact with Harvest data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gora050"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gora050/harvest"
+}

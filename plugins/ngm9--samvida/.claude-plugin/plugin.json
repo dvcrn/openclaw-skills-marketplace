@@ -1,0 +1,10 @@
+{
+  "name": "ngm9--samvida",
+  "description": "Generate an agentic contract (llms.txt) for any business website. Crawls the site, fills gaps conversationally, and produces a structured agent-optimized llms.txt. Trigger when a user asks to \"generate llms.txt\", \"create an agentic contract for [url]\", \"make my site agent-readable\", or \"update my llms.txt\".",
+  "version": "0.3.3",
+  "author": {
+    "name": "ngm9"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ngm9/samvida",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ngm9/samvida"
+}

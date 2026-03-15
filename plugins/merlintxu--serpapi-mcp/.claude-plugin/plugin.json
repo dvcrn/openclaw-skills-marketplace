@@ -1,0 +1,10 @@
+{
+  "name": "merlintxu--serpapi-mcp",
+  "description": "Run SerpAPI searches via SerpAPI's MCP server using mcporter. Use when the user asks to search the web with SerpAPI/SerpAPI MCP, wants SerpAPI inside Clawdbot, or to use the /serp command.",
+  "version": "1.1.1",
+  "author": {
+    "name": "merlintxu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/merlintxu/serpapi-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/merlintxu/serpapi-mcp"
+}

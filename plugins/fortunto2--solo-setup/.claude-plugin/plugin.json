@@ -1,0 +1,10 @@
+{
+  "name": "fortunto2--solo-setup",
+  "description": "Auto-generate project workflow config (docs/workflow.md) from existing PRD and CLAUDE.md with zero questions. Use when user says \"set up workflow\", \"configure TDD\", \"wire up dev workflow\", or after running /scaffold before /plan. Do NOT use for founder setup (use /init) or project scaffolding (use /scaffold).",
+  "version": "2.1.1",
+  "author": {
+    "name": "fortunto2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-setup"
+}

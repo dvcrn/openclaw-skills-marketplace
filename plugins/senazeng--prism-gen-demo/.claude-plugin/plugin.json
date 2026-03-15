@@ -1,0 +1,10 @@
+{
+  "name": "senazeng--prism-gen-demo",
+  "description": "English: Retrieve, filter, sort, merge, and visualize multiple CSV result files from PRISM-Gen molecular generation/screening. Provides portable query-based skills. No HPC connection required, directly analyze pre-calculated results.\n 中文: 对PRISM-Gen分子生成/筛选的多个CSV结果文件进行检索、过滤、排序、合并和可视化，提供可移植的查询型技能。无需HPC连接，直接分析预计算结果。",
+  "version": "1.0.4",
+  "author": {
+    "name": "senazeng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/senazeng/prism-gen-demo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/senazeng/prism-gen-demo"
+}

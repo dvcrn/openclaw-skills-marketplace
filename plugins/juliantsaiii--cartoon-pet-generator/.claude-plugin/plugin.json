@@ -1,0 +1,10 @@
+{
+  "name": "juliantsaiii--cartoon-pet-generator",
+  "description": "Generate cute cartoon-style pet images (dogs, cats, etc.) using code. Use when user asks for cartoon pet drawings, cute animal illustrations, or simple pet avatars. No AI image API required - generates SVG and converts to PNG using Node.js and rsvg-convert.",
+  "version": "1.0.0",
+  "author": {
+    "name": "juliantsaiii"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/juliantsaiii/cartoon-pet-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/juliantsaiii/cartoon-pet-generator"
+}

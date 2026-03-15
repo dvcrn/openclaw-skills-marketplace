@@ -1,0 +1,10 @@
+{
+  "name": "jithinm--mongo-db",
+  "description": "Interact with a MongoDB database for persistent document storage. Supports full CRUD operations (find, insert, update, delete), aggregation pipelines, collection management, and index creation. Use when any agent needs to store or retrieve data in MongoDB — for example, persisting financial records, budgets, watchlists, or any structured data across sessions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jithinm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jithinm/mongo-db",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jithinm/mongo-db"
+}

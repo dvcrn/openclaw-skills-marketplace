@@ -1,0 +1,10 @@
+{
+  "name": "tristanmanchester--audit-openclaw-security",
+  "description": "Audit and harden OpenClaw deployments and interpret `openclaw security audit` findings. Use when the user wants to secure OpenClaw, review gateway exposure/auth/reverse proxies/Tailscale Serve or Funnel, check DM/group access (pairing, allowlists, mention gating, `session.dmScope`), minimise tool permissions and sandboxing, review plugins/skills/secrets/transcripts/log retention, or lock down Docker/macOS/laptop/EC2 installs. Not for generic OS, Docker, or cloud hardening unrelated to OpenClaw.",
+  "version": "2.0.1",
+  "author": {
+    "name": "tristanmanchester"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/audit-openclaw-security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/audit-openclaw-security"
+}

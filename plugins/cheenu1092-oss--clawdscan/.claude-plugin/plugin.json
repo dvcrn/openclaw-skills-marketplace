@@ -1,0 +1,10 @@
+{
+  "name": "cheenu1092-oss--clawdscan",
+  "description": "Diagnose Clawdbot/OpenClaw health — session bloat, zombies, stale files, AND skill dependency validation. Zero dependencies, single Python file.",
+  "version": "0.3.0",
+  "author": {
+    "name": "cheenu1092-oss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cheenu1092-oss/clawdscan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cheenu1092-oss/clawdscan"
+}

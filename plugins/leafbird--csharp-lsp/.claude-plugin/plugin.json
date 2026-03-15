@@ -1,0 +1,10 @@
+{
+  "name": "leafbird--csharp-lsp",
+  "description": "C# language server providing code intelligence, diagnostics, and navigation for .cs and .csx files. Uses csharp-ls (lightweight Roslyn-based). Requires .sln or .csproj.",
+  "version": "1.2.0",
+  "author": {
+    "name": "leafbird"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leafbird/csharp-lsp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leafbird/csharp-lsp"
+}

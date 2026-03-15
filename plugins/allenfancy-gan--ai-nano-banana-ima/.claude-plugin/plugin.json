@@ -1,0 +1,10 @@
+{
+  "name": "allenfancy-gan--ai-nano-banana-ima",
+  "description": "Image generation with IMA Open API using only Nano Banana series: Nano Banana, Nano Banana Pro, Nano Banana 2. Budget (Nano Banana2 512px), balanced (Nano Banana2/Pro), premium (Nano Banana Pro 4K). Native aspect_ratio (1:1, 16:9, 9:16, 4:3, 3:4). Requires IMA API key. Bundled script: scripts/ima_image_create.py.",
+  "version": "1.0.1",
+  "author": {
+    "name": "allenfancy-gan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/allenfancy-gan/ai-nano-banana-ima",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/allenfancy-gan/ai-nano-banana-ima"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "olegantonov--sigaa",
+  "description": "Interact with SIGAA (Sistema Integrado de Gestão de Atividades Acadêmicas), the academic management system used by 50+ Brazilian federal universities (UNB, UFRN, UFC, UFPE, UFCG, UFPI, etc.). Use when: (1) checking enrollment status or classes for students, (2) verifying grades or academic history, (3) accessing professor portal (classes, attendance, grade launch), (4) logging in to any SIGAA instance via CAS SSO or direct authentication, (5) automating any SIGAA task via web scraping. Handles both undergrad and graduate (stricto/lato sensu) portals. **REQUIRED ENVIRONMENT VARIABLES:** SIGAA_URL (institution base URL), SIGAA_USER (login/matricula), SIGAA_PASSWORD (password).",
+  "version": "1.1.0",
+  "author": {
+    "name": "olegantonov"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/olegantonov/sigaa",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/olegantonov/sigaa"
+}

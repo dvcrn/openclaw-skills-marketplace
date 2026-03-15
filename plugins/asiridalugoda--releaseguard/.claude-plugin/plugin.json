@@ -1,0 +1,10 @@
+{
+  "name": "asiridalugoda--releaseguard",
+  "description": "Scan, harden, sign, and verify release artifacts with ReleaseGuard — the artifact policy engine for dist/ and release/ outputs.",
+  "version": "0.1.2",
+  "author": {
+    "name": "asiridalugoda"
+  },
+  "homepage": "https://github.com/Helixar-AI/ReleaseGuard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/asiridalugoda/releaseguard"
+}

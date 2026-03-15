@@ -1,0 +1,10 @@
+{
+  "name": "erscoder--rtk-compress",
+  "description": "Save 60-90% of LLM tokens on shell commands, file reads, and test outputs. Wraps rtk CLI for compressed output.",
+  "version": "1.15.2",
+  "author": {
+    "name": "erscoder"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/erscoder/rtk-compress",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/erscoder/rtk-compress"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-sha-rerun-debt-audit",
+  "description": "Audit rerun debt by commit SHA to find commits that repeatedly burn CI minutes across workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-sha-rerun-debt-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-sha-rerun-debt-audit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mariusfit--smart-web-scraper",
+  "description": "Extract structured data from any web page. Supports CSS selectors, auto-detection of tables and lists, JSON/CSV output formats. Use when asked to scrape a website, extract data from a page, pull product info, gather contact details, or collect listings from a URL.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mariusfit"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mariusfit/smart-web-scraper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mariusfit/smart-web-scraper"
+}

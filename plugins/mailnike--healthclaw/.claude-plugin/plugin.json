@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--healthclaw",
+  "description": "AI-native hospital and multi-department healthcare ERP. 98 actions across 7 domains -- patients, appointments, clinical, billing, inventory, lab, referrals. Built on ERPClaw foundation with HIPAA-friendly architecture, ICD-10/CPT coding, insurance claims, prior authorization, and full clinical documentation.",
+  "version": "2.1.0",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.healthclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/healthclaw"
+}

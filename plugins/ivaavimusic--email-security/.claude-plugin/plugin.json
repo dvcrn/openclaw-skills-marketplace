@@ -1,0 +1,10 @@
+{
+  "name": "ivaavimusic--email-security",
+  "description": "Protect AI agents from email-based attacks including prompt injection, sender spoofing, malicious attachments, and social engineering. Use when processing emails, reading email content, executing email-based commands, or any interaction with email data. Provides sender verification, content sanitization, and threat detection for Gmail, AgentMail, Proton Mail, and any IMAP/SMTP email system.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ivaavimusic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ivaavimusic/email-security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivaavimusic/email-security"
+}

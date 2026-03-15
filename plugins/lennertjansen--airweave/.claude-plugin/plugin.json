@@ -1,0 +1,10 @@
+{
+  "name": "lennertjansen--airweave",
+  "description": "Context retrieval layer for AI agents across users' applications. Search and retrieve context from Airweave collections. Airweave indexes and syncs data from user applications to enable optimal context retrieval by AI agents. Supports semantic, keyword, and agentic search. Use when users ask about their data in connected apps (Slack, GitHub, Notion, Jira, Confluence, Google Drive, Salesforce, Linear, SharePoint, Stripe, etc.), need to find documents or information from their workspace, want answers based on their company data, or need you to check app data for context to complete a task.",
+  "version": "1.0.1",
+  "author": {
+    "name": "lennertjansen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lennertjansen/airweave",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lennertjansen/airweave"
+}

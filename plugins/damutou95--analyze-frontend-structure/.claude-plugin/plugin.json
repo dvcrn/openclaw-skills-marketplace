@@ -1,0 +1,10 @@
+{
+  "name": "damutou95--analyze-frontend-structure",
+  "description": "This skill is used to scan any frontend project directory, automatically analyze routing structure and module division, and generate a universal module-page mapping document for use by intelligent navigation systems. It is suitable for various frontend frameworks and project structures.",
+  "version": "1.0.0",
+  "author": {
+    "name": "damutou95"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/damutou95/analyze-frontend-structure",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/damutou95/analyze-frontend-structure"
+}

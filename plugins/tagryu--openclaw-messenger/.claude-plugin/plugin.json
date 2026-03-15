@@ -1,0 +1,10 @@
+{
+  "name": "tagryu--openclaw-messenger",
+  "description": "Send and receive messages between OpenClaw instances. Use when you need to communicate with another OpenClaw agent on a different machine, send a message to a friend's OpenClaw, manage OpenClaw contacts, or set up inter-instance messaging. Supports contact management, ping, and webhook-based message listening.",
+  "version": "1.1.0",
+  "author": {
+    "name": "tagryu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tagryu/openclaw-messenger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tagryu/openclaw-messenger"
+}

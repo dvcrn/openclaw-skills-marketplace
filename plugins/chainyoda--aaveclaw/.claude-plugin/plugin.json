@@ -1,0 +1,10 @@
+{
+  "name": "chainyoda--aaveclaw",
+  "description": "Aave V3 lending protocol on Base Sepolia testnet. Deposit WETH collateral, borrow USDC, repay loans, withdraw collateral, check health factor, and mint test tokens via faucet. Use when users want to interact with Aave lending, check their lending position health, or get testnet tokens.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chainyoda"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chainyoda/aaveclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chainyoda/aaveclaw"
+}

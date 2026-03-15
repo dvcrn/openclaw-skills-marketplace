@@ -1,0 +1,10 @@
+{
+  "name": "swayamg20--trip-plan",
+  "description": "Generate day-wise travel itineraries with timings, food spots, activities, and transport. Handles \"plan my trip\", \"make an itinerary\", revisions like \"swap days\" or \"make it cheaper\", and adjusts plans when user has existing flights or trains.",
+  "version": "1.0.0",
+  "author": {
+    "name": "swayamg20"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/swayamg20/trip-plan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/swayamg20/trip-plan"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dandandujie--rust-rebuilder",
+  "description": "Plan and execute incremental project rewrites to Rust with architecture mapping, parity verification, idiomatic Rust guidance, dependency preflight checks, and GitHub upstream synchronization. Use when users ask to port or rewrite existing systems into Rust, need latest Rust feature checks, want migration pitfall prevention, or need continuous sync with source repository commits and pull requests.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dandandujie"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dandandujie/rust-rebuilder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dandandujie/rust-rebuilder"
+}

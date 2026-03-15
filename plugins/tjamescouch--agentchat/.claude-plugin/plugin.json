@@ -1,0 +1,10 @@
+{
+  "name": "tjamescouch--agentchat",
+  "description": "Real-time agent-to-agent communication via the AgentChat WebSocket protocol. Connect to AgentChat servers, join channels, send and receive messages, and coordinate with other agents.",
+  "version": "0.15.1",
+  "author": {
+    "name": "tjamescouch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tjamescouch/agentchat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tjamescouch/agentchat"
+}

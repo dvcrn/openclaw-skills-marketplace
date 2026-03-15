@@ -1,0 +1,10 @@
+{
+  "name": "googolme--authorship-credit-gen",
+  "description": "Use when determining author order on research manuscripts, assigning CRediT contributor roles for transparency, documenting individual contributions to collaborative projects, or resolving authorship disputes in multi-institutional research. Generates fair and transparent authorship assignments following ICMJE guidelines and CRediT taxonomy. Helps research teams document contributions, resolve disputes, and ensure equitable credit distribution in academic publications.",
+  "version": "0.1.0",
+  "author": {
+    "name": "googolme"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/googolme/authorship-credit-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/googolme/authorship-credit-gen"
+}

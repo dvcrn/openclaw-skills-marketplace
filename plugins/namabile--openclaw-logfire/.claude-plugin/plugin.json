@@ -1,0 +1,10 @@
+{
+  "name": "namabile--openclaw-logfire",
+  "description": "Pydantic Logfire observability — OTEL GenAI traces, tool call spans, token metrics, distributed tracing",
+  "version": "0.1.2",
+  "author": {
+    "name": "namabile"
+  },
+  "homepage": "https://github.com/Ultrathink-Solutions/openclaw-logfire",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/namabile/openclaw-logfire"
+}

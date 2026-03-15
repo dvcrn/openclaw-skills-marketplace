@@ -1,0 +1,10 @@
+{
+  "name": "kevjade--operator-humanizer",
+  "description": "Transform AI-generated text into authentic human writing. Detects and removes 24 AI patterns, replaces 500+ AI vocabulary terms, analyzes statistical signals (burstiness, vocabulary diversity), and injects personality through strategic misspellings, parenthetical asides, tangents, and random thoughts. Use when humanizing content, checking for AI tells, removing robotic patterns, adding natural voice, making text sound less polished, or when asked to write like a specific person. Works with social posts, articles, emails, marketing copy, documentation—any text that needs to sound genuinely human.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kevjade"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kevjade/operator-humanizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kevjade/operator-humanizer"
+}

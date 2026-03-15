@@ -1,0 +1,10 @@
+{
+  "name": "alexgusevski--dataforseo-cli",
+  "description": "LLM-friendly keyword research CLI for AI agents. Check search volume, CPC, keyword difficulty, and competition via DataForSEO API. Find related keywords, analyze competitor rankings. Outputs TSV by default (optimized for agent context windows). Use when doing SEO research, content planning, or competitive keyword analysis.",
+  "version": "1.0.7",
+  "author": {
+    "name": "alexgusevski"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alexgusevski/dataforseo-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alexgusevski/dataforseo-cli"
+}

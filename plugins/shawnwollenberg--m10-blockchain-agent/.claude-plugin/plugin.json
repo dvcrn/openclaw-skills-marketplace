@@ -1,0 +1,10 @@
+{
+  "name": "shawnwollenberg--m10-blockchain-agent",
+  "description": "Ask natural language questions about Ethereum blockchain data. Covers historical on-chain activity (events, transactions, blocks, token transfers, NFTs), live chain state (balances, gas prices, transaction lookups), and smart contract bytecode analysis (function selectors, ABIs for unverified contracts). Powered by a multi-agent pipeline over 5.8B+ indexed records.",
+  "version": "1.0.4",
+  "author": {
+    "name": "shawnwollenberg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shawnwollenberg/m10-blockchain-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shawnwollenberg/m10-blockchain-agent"
+}

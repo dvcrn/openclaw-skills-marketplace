@@ -1,0 +1,10 @@
+{
+  "name": "eyhn--botauth",
+  "description": "Use the botauth CLI to list, search, and retrieve secrets from the user's unlocked botauth vault with per-request approval in the desktop app. Use when a task needs API keys, tokens, or passwords from an existing botauth vault.",
+  "version": "0.1.0",
+  "author": {
+    "name": "eyhn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/eyhn/botauth",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eyhn/botauth"
+}

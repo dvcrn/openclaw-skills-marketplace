@@ -1,0 +1,10 @@
+{
+  "name": "beboxos--clawpressor",
+  "description": "Compress OpenClaw session context to reduce token usage and extend session lifetime. Uses NLP summarization (Sumy) to intelligently compact conversation history while preserving essential context. Triggers on mentions of session compression, token reduction, context cleanup, or when session size exceeds safe thresholds (~300KB). Use when (1) OpenClaw approaches 50% context limit, (2) Sessions are slowing down due to large context, (3) Reducing API costs from excessive token consumption, (4) Extending session lifetime without forced reboots.",
+  "version": "1.0.0",
+  "author": {
+    "name": "beboxos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/beboxos/clawpressor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/beboxos/clawpressor"
+}

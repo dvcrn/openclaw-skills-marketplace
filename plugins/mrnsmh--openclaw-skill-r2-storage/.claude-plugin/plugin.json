@@ -1,0 +1,10 @@
+{
+  "name": "mrnsmh--openclaw-skill-r2-storage",
+  "description": "Manage Cloudflare R2 object storage (upload, download, list, delete, presigned URLs) using boto3 S3-compatible API. Supports CLI usage and importable Python module.",
+  "version": "0.1.0",
+  "author": {
+    "name": "mrnsmh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrnsmh/openclaw-skill-r2-storage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrnsmh/openclaw-skill-r2-storage"
+}

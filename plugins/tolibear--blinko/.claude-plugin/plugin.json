@@ -1,0 +1,10 @@
+{
+  "name": "tolibear--blinko",
+  "description": "Play Blinko (on-chain Plinko) headlessly on Abstract chain. Use when an agent wants to play Blinko games, check game stats, view leaderboards, or track honey rewards. Handles the full commit-reveal flow including API auth, on-chain game creation, simulation, and settlement.",
+  "version": "1.1.1",
+  "author": {
+    "name": "tolibear"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tolibear/blinko",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tolibear/blinko"
+}

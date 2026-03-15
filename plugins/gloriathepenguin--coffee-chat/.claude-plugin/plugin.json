@@ -1,0 +1,10 @@
+{
+  "name": "gloriathepenguin--coffee-chat",
+  "description": "Generate a personalized coffee chat playbook for networking conversations. Use when:\n - User wants to prepare for a coffee chat with someone they met on LinkedIn\n - Need to gather intelligence on a professional contact before meeting\n - Creating conversation guides for networking meetings\n\n Triggers: \"coffee chat\", \"networking prep\", \"coffee chat prep\", \"chat playbook\", \"meeting prep\"\n\n This skill:\n 1. Collects target person's name and LinkedIn URL\n 2. Researches company and industry\n 3. Finds founder/employee backgrounds\n 4. Generates a comprehensive coffee chat playbook with detailed research",
+  "version": "1.0.0",
+  "author": {
+    "name": "gloriathepenguin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gloriathepenguin/coffee-chat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gloriathepenguin/coffee-chat"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "stevemichael001--workspace-hygiene",
+  "description": "Audit and maintain workspace file structure, memory quality, and project documentation. Use when: cleaning up the workspace, running a file audit, checking memory health, ensuring project READMEs exist, or during weekly Monday heartbeat. Triggers: \"clean up workspace\", \"run hygiene\", \"audit files\", \"workspace health\", \"check file structure\", or scheduled Monday heartbeat.",
+  "version": "0.1.0",
+  "author": {
+    "name": "stevemichael001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stevemichael001/workspace-hygiene",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stevemichael001/workspace-hygiene"
+}

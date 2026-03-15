@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-self-hosted-risk-audit",
+  "description": "Audit GitHub Actions workflows that use self-hosted runners for untrusted trigger and credential-hardening risks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-self-hosted-risk-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-self-hosted-risk-audit"
+}

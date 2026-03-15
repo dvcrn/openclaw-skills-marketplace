@@ -1,0 +1,10 @@
+{
+  "name": "fratua--git-changelog",
+  "description": "Auto-generate beautiful changelogs from git history, grouped by conventional commit types",
+  "version": "1.0.0",
+  "author": {
+    "name": "fratua"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fratua/git-changelog",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fratua/git-changelog"
+}

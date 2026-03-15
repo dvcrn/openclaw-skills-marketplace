@@ -1,0 +1,10 @@
+{
+  "name": "yipng05-max--cjournal-analyzer",
+  "description": "C刊（CSSCI来源期刊）论文全面分析工具。当用户提供一个具体的C刊期刊名称（如\"管理世界\"、 \"社会学研究\"、\"经济研究\"等）时，自动通过知网（CNKI）查询该期刊最近5年所有期次的文章 目录、作者和摘要信息，并生成专业的Word分析报告。报告包含：选题热点趋势、高频关键词、 研究方法偏好、核心作者群、栏目主题演变、研究空白识别、投稿方向建议等全维度分析。 触发条件：用户提到需要分析某个C刊/CSSCI期刊/核心期刊的发文趋势、选题偏好、投稿方向； 或提供中文学术期刊名称并要求查看近年发表论文的主题分布和趋势；或说\"帮我分析一下XX期刊\"。 注意：本skill用于期刊层面的宏观分析，不同于paper-analyzer（单篇论文拆解）和 literature-review-writer（文献综述写作）。",
+  "version": "1.0.0",
+  "author": {
+    "name": "yipng05-max"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yipng05-max/cjournal-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yipng05-max/cjournal-analyzer"
+}

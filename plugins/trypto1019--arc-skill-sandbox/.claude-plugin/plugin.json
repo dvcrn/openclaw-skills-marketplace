@@ -1,0 +1,10 @@
+{
+  "name": "trypto1019--arc-skill-sandbox",
+  "description": "Test untrusted skills in an isolated environment before installing. Monitors network access, filesystem writes, environment variable reads, and subprocess calls. Run any skill safely without risking your agent's data or credentials.",
+  "version": "1.1.0",
+  "author": {
+    "name": "trypto1019"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-skill-sandbox",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-skill-sandbox"
+}

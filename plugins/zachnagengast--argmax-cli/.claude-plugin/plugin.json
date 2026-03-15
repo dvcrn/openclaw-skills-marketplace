@@ -1,0 +1,10 @@
+{
+  "name": "zachnagengast--argmax-cli",
+  "description": "On-device speech-to-text (Whisper) + text-to-speech (Qwen3-TTS) CLI. Runs on the Apple Neural Engine (ANE), Apple's low power, dedicated ML inference chip. Models download once on first run, then all inference is local.",
+  "version": "1.0.1",
+  "author": {
+    "name": "zachnagengast"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zachnagengast/argmax-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zachnagengast/argmax-cli"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--attestation-root-diversity-analyzer",
+  "description": "Helps measure the concentration of trust roots in a skill's attestation graph — identifying monoculture risk where a single compromised root invalidates an entire chain that appears to have multiple validators.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/attestation-root-diversity-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/attestation-root-diversity-analyzer"
+}

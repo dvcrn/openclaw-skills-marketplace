@@ -1,0 +1,10 @@
+{
+  "name": "vintlin--team-dev",
+  "description": "Multi-agent development team orchestration. Use when managing coding agents (Codex, Claude Code, Gemini, Cursor) for automated software development: (1) Spawning agents for tasks, (2) Monitoring agent status, (3) Managing git worktrees, (4) Automated code review, (5) Handling notifications via Feishu.",
+  "version": "0.1.4",
+  "author": {
+    "name": "vintlin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vintlin/team-dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vintlin/team-dev"
+}

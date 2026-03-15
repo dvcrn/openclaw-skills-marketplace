@@ -1,0 +1,10 @@
+{
+  "name": "brettburbidge--taskline",
+  "description": "AI-powered natural language task management through MyTaskline.com. Transform complex requests like \"Ask Sarah to review the Mobile project docs by Friday with high priority\" into fully structured tasks with automatic project creation, people assignment, smart date parsing, and priority detection. Features complete intent recognition, multi-entity parsing, and seamless integration with the MyTaskline.com platform for personal and team productivity.",
+  "version": "2.0.0",
+  "author": {
+    "name": "brettburbidge"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brettburbidge/taskline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brettburbidge/taskline"
+}

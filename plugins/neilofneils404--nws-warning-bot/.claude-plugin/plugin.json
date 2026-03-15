@@ -1,0 +1,10 @@
+{
+  "name": "neilofneils404--nws-warning-bot",
+  "description": "Monitors NWS severe weather alerts for a specific address using polygon-based detection.\n \n Unlike county-level alerts, this checks if warning polygons (tornado, severe thunderstorm)\n actually intersect your home coordinates—not just your county. Useful for filtering out\n warnings that affect distant parts of your county while ensuring you know when storms\n are actually headed your way.\n \n Use when a user wants location-specific severe weather alerts, filtering noisy county-wide\n alerts to only their actual address, or building emergency notification systems.",
+  "version": "v1.0.0",
+  "author": {
+    "name": "neilofneils404"
+  },
+  "homepage": "https://github.com/openclaw/nws-warning-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neilofneils404/nws-warning-bot"
+}

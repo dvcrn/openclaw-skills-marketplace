@@ -1,0 +1,10 @@
+{
+  "name": "langlyyy--github-trending-project",
+  "description": "查询 GitHub Trending 热门项目，支持按编程语言、日期范围、口语（文档语言）筛选。当用户想了解 GitHub 今日/本周/本月热门项目、特定语言的热门仓库、或中文文档的热门项目时使用此技能。",
+  "version": "1.0.0",
+  "author": {
+    "name": "langlyyy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/langlyyy/github-trending-project",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/langlyyy/github-trending-project"
+}

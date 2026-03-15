@@ -1,0 +1,10 @@
+{
+  "name": "matthewxmurphy--mac-dev-staging",
+  "description": "Turn a macOS machine into a local PHP/MariaDB staging server using the stock macOS Apache, Homebrew PHP 8.5, MariaDB, built-in SFTP, npm tooling, a local dev gateway surface, and optional nginx. Use when you want a Mac node to act like a local development or staging box for Joomla, WordPress, CodeIgniter, Laravel, or other PHP apps without improvising the stack every time.",
+  "version": "1.1.0",
+  "author": {
+    "name": "matthewxmurphy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/mac-dev-staging",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/mac-dev-staging"
+}

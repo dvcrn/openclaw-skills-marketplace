@@ -1,0 +1,10 @@
+{
+  "name": "tkuehnl--dep-audit",
+  "description": "Audit project dependencies for known vulnerabilities (CVEs). Supports npm, pip, Cargo, and Go. Zero API keys required. Safe-by-default: report-only mode, fix commands require confirmation.",
+  "version": "0.2.1",
+  "author": {
+    "name": "tkuehnl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tkuehnl/dep-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tkuehnl/dep-audit"
+}

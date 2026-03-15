@@ -1,0 +1,10 @@
+{
+  "name": "niallel--control4-home",
+  "description": "Control a Control4 smart home via pyControl4 (lights, relays, room media) using local Python wrappers. Use when the user asks to control devices, set levels, toggle relays, switch room media sources, or inspect Control4 device mappings.",
+  "version": "0.1.2",
+  "author": {
+    "name": "niallel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/niallel/control4-home",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/niallel/control4-home"
+}

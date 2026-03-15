@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--yield-farming-bot",
+  "description": "DeFi yield farming bot - auto-compound, optimize yields, track positions across protocols. Each call charges 0.001 USDT via SkillPay.",
+  "version": "1.0.1",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/yield-farming-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/yield-farming-bot"
+}

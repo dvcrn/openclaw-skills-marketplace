@@ -1,0 +1,10 @@
+{
+  "name": "i-mw--cron-mastery",
+  "description": "Master OpenClaw's timing systems. Use for scheduling reliable reminders, setting up periodic maintenance (janitor jobs), and understanding when to use Cron vs Heartbeat for time-sensitive tasks.",
+  "version": "1.0.3",
+  "author": {
+    "name": "i-mw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/i-mw/cron-mastery",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/i-mw/cron-mastery"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "wechat-article-typeset-skill",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "markdown-it": "^14.1.1"
+  }
+}

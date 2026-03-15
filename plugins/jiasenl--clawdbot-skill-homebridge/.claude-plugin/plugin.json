@@ -1,0 +1,10 @@
+{
+  "name": "jiasenl--clawdbot-skill-homebridge",
+  "description": "Control smart home devices via Homebridge Config UI X REST API. Use to list, turn on/off, adjust brightness, color, or temperature of HomeKit-compatible accessories. Supports lights, switches, thermostats, fans, and other Homebridge-managed devices.",
+  "version": "0.1.0",
+  "author": {
+    "name": "jiasenl"
+  },
+  "homepage": "https://github.com/homebridge/homebridge-config-ui-x",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jiasenl/clawdbot-skill-homebridge"
+}

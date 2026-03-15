@@ -1,0 +1,10 @@
+{
+  "name": "mkkb473--moss-voice-generator",
+  "description": "MOSI Studio 指令式音色生成（moss-voice-generator）： 用自然语言描述想要的音色风格，无需指定预设 voice_id， 模型根据描述实时生成对应的声音。 触发词：指令式语音、按描述生成声音、自定义音色、描述一个声音、 \"voice generator\"、\"generate voice\"、\"按风格生成\"、 \"播音腔\"、\"用xxx风格的声音说\"、\"生成一个xx风格的语音\"。 与普通 TTS 的区别：不需要挑选 voice_id，用文字描述就能生成想要的音色。 在飞书渠道：生成完成后优先发送语音气泡，不要发文件附件， 不要只回文字说\"已生成\"。具体发送方法参见 mosi-tts skill 第 5 节。",
+  "version": "1.0.0",
+  "author": {
+    "name": "mkkb473"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mkkb473/moss-voice-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mkkb473/moss-voice-generator"
+}

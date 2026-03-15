@@ -1,0 +1,10 @@
+{
+  "name": "recklessop--zoomin-scraper-recklessop",
+  "description": "Scrape documentation content from Zoomin Software portals using Playwright browser automation to handle dynamic content loading. Use when standard web fetching (requests/BeautifulSoup) returns generic content or fails to capture the main documentation body.",
+  "version": "1.0.2",
+  "author": {
+    "name": "recklessop"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/recklessop/zoomin-scraper-recklessop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/recklessop/zoomin-scraper-recklessop"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "adeets-22--para-wallet",
+  "description": "Create blockchain wallets and sign transactions using Para's MPC infrastructure where the private key never exists in a single place. Supports EVM and Solana chains via three REST endpoints.",
+  "version": "1.0.0",
+  "author": {
+    "name": "adeets-22"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adeets-22/para-wallet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adeets-22/para-wallet"
+}

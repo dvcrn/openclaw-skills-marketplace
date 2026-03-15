@@ -1,0 +1,10 @@
+{
+  "name": "gitgoodordietrying--emergency-rescue",
+  "description": "Recover from developer disasters. Use when someone force-pushed to main, leaked credentials in git, ran out of disk space, killed the wrong process, corrupted a database, broke a deploy, locked themselves out of SSH, lost commits after a bad rebase, or hit any other \"oh no\" moment that needs immediate, calm, step-by-step recovery.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gitgoodordietrying"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/emergency-rescue",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/emergency-rescue"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "panzacoder--pincer",
+  "description": "Security-first wrapper for installing agent skills. Scans for malware, prompt injection, and suspicious patterns before installation. Use instead of `clawhub install` for safer skill management.",
+  "version": "1.0.1",
+  "author": {
+    "name": "panzacoder"
+  },
+  "homepage": "https://github.com/panzacoder/pincer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/panzacoder/pincer"
+}

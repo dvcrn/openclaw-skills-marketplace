@@ -1,0 +1,10 @@
+{
+  "name": "xmx0632--feishu-voice-reply",
+  "description": "飞书语音消息自动回复技能 - 使用 Edge TTS 生成语音并通过飞书 API 发送",
+  "version": "1.0.1",
+  "author": {
+    "name": "xmx0632"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xmx0632/feishu-voice-reply",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xmx0632/feishu-voice-reply"
+}

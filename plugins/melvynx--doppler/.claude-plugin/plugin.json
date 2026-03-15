@@ -1,0 +1,10 @@
+{
+  "name": "melvynx--doppler",
+  "description": "Manage secrets and environment variables via Doppler CLI - secrets, projects, configs, environments. Use when user mentions 'doppler', 'secrets management', 'env variables', or wants to manage secrets with Doppler.",
+  "version": "1.0.0",
+  "author": {
+    "name": "melvynx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/melvynx/doppler",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/melvynx/doppler"
+}

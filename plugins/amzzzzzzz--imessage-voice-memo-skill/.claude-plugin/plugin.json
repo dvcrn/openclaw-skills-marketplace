@@ -1,0 +1,10 @@
+{
+  "name": "amzzzzzzz--imessage-voice-memo-skill",
+  "description": "Send native iMessage voice bubbles with ElevenLabs TTS via BlueBubbles. Use when: user asks to send a voice message, wants something spoken aloud, storytelling or summaries requested, or voice delivery would be more engaging than text. Requires ElevenLabs API key and BlueBubbles.",
+  "version": "0.1.2",
+  "author": {
+    "name": "amzzzzzzz"
+  },
+  "homepage": "https://github.com/amzzzzzzz/imessage-voice-memo-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/amzzzzzzz/imessage-voice-memo-skill"
+}

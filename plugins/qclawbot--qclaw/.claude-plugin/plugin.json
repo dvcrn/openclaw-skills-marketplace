@@ -1,0 +1,10 @@
+{
+  "name": "qclawbot--qclaw",
+  "description": "Summarize noisy WeChat group chats into decisions, action items, mentions, risks, and tracked keywords for OpenClaw workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "qclawbot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qclawbot/qclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qclawbot/qclaw"
+}

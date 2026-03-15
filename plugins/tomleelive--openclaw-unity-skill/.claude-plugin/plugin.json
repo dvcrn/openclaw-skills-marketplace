@@ -1,0 +1,10 @@
+{
+  "name": "tomleelive--openclaw-unity-skill",
+  "description": "Control Unity Editor via OpenClaw Unity Plugin. Use for Unity game development tasks including scene management, GameObject/Component manipulation, debugging, input simulation, and Play mode control. Triggers on Unity-related requests like inspecting scenes, creating objects, taking screenshots, testing gameplay, or controlling the Editor.",
+  "version": "1.6.1",
+  "author": {
+    "name": "tomleelive"
+  },
+  "homepage": "https://github.com/TomLeeLive/openclaw-unity-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tomleelive/openclaw-unity-skill"
+}

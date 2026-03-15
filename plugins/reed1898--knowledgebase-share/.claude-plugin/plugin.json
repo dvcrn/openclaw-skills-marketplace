@@ -1,0 +1,10 @@
+{
+  "name": "reed1898--knowledgebase-share",
+  "description": "Operate a multi-agent shared knowledge layer backed by one GitHub repository. Use when setting up shared/private knowledge folders, enforcing branch+PR workflow, syncing branches, resolving merge conflicts, and standardizing how agents write/promote knowledge.",
+  "version": "0.3.2",
+  "author": {
+    "name": "reed1898"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/reed1898/knowledgebase-share",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/reed1898/knowledgebase-share"
+}

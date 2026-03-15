@@ -1,0 +1,10 @@
+{
+  "name": "jiehao321--openclaw-evermemory-installer",
+  "description": "Use this skill when installing, upgrading, verifying, or publishing the EverMemory OpenClaw plugin and its companion skill, including local path install, npm install, ClawHub publish, and release-gate verification.",
+  "version": "0.1.0",
+  "author": {
+    "name": "jiehao321"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jiehao321/openclaw-evermemory-installer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jiehao321/openclaw-evermemory-installer"
+}

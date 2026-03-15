@@ -1,0 +1,10 @@
+{
+  "name": "goforu--phoenixclaw",
+  "description": "Passive journaling skill that scans daily conversations via cron to generate\n markdown journals using semantic understanding.\n\n Use when:\n - User requests journaling (\"Show me my journal\", \"What did I do today?\")\n - User asks for pattern analysis (\"Analyze my patterns\", \"How am I doing?\")\n - User requests summaries (\"Generate weekly/monthly summary\")",
+  "version": "0.0.18",
+  "author": {
+    "name": "goforu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/goforu/phoenixclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/goforu/phoenixclaw"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "johnnywang2001--jwt-toolkit",
+  "description": "Decode, inspect, and validate JWT (JSON Web Token) tokens from the command line. Shows header, payload, algorithm, expiry status, and known claim labels. Use when debugging auth tokens, checking if a JWT is expired, inspecting JWT claims, decoding Bearer tokens, or analyzing token structure. Triggers on \"decode JWT\", \"inspect token\", \"JWT expired\", \"parse JWT\", \"check Bearer token\", \"token claims\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "johnnywang2001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/jwt-toolkit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/jwt-toolkit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sunshine-del-ux--vercel-config-generator",
+  "description": "生成专业的 Vercel 配置文件 vercel.json，支持 Serverless Functions、Edge Functions、静态网站、SSR 等多种部署模式。",
+  "version": "1.0.0",
+  "author": {
+    "name": "sunshine-del-ux"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunshine-del-ux/vercel-config-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunshine-del-ux/vercel-config-generator"
+}

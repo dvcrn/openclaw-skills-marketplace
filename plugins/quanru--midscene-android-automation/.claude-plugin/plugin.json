@@ -1,0 +1,10 @@
+{
+  "name": "quanru--midscene-android-automation",
+  "description": "Vision-driven Android device automation using Midscene. Operates entirely from screenshots — no DOM or accessibility labels required. Can interact with all visible elements on screen regardless of technology stack. Control Android devices with natural language commands via ADB. Perform taps, swipes, text input, app launches, screenshots, and more. Trigger keywords: android, phone, mobile app, tap, swipe, install app, open app on phone, android device, mobile automation, adb, launch app, mobile screen Powered by Midscene.js (https://midscenejs.com)",
+  "version": "1.0.2",
+  "author": {
+    "name": "quanru"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/quanru/midscene-android-automation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/quanru/midscene-android-automation"
+}

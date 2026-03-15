@@ -1,0 +1,10 @@
+{
+  "name": "welkeyever--config-checkpoint",
+  "description": "Git-based version control for OpenClaw system configuration changes.\n \n Provides two core capabilities:\n (1) SAVE - Create a checkpoint before sensitive operations (git add & commit)\n (2) ROLLBACK - Revert to a previous state if issues occur (git reset)\n \n Use when:\n - Before making sensitive configuration changes\n - Before installing/removing skills\n - Before modifying core files (SOUL.md, AGENTS.md, MEMORY.md, etc.)\n - User requests to undo recent changes\n - System state needs recovery after errors\n \n SECURITY: Always verify .gitignore and scan for sensitive files before SAVE.\n DANGER: Hard reset permanently destroys uncommitted changes.",
+  "version": "1.0.1",
+  "author": {
+    "name": "welkeyever"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/welkeyever/config-checkpoint",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/welkeyever/config-checkpoint"
+}

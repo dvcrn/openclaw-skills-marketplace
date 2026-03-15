@@ -1,0 +1,10 @@
+{
+  "name": "northcipher--project-assistant",
+  "description": "项目初始化与智能分析工具。当用户要求初始化新项目、分析项目结构、项目问答时使用。触发词：初始化项目、init、分析项目、项目问答。",
+  "version": "1.0.0",
+  "author": {
+    "name": "northcipher"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/northcipher/project-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/northcipher/project-assistant"
+}

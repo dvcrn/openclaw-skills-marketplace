@@ -1,0 +1,10 @@
+{
+  "name": "satnamra--oktk",
+  "description": "LLM Token Optimizer - Reduce AI API costs by 60-90%. Compresses CLI outputs (git, docker, kubectl) before sending to GPT-4/Claude. AI auto-learning included. By Buba Draugelis 🇱🇹",
+  "version": "2.4.0",
+  "author": {
+    "name": "satnamra"
+  },
+  "homepage": "https://github.com/satnamra/openclaw-workspace/tree/main/skills/oktk",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/satnamra/oktk"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--news-headlines-aggregator",
+  "description": "Aggregate top headlines from multiple sources in real-time. Most popular news skill. Each call charges 0.001 USDT via SkillPay.",
+  "version": "1.0.2",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/news-headlines-aggregator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/news-headlines-aggregator"
+}

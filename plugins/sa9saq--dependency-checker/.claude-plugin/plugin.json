@@ -1,0 +1,10 @@
+{
+  "name": "sa9saq--dependency-checker",
+  "description": "Scan npm and pip projects for outdated dependencies, security vulnerabilities, and updates.",
+  "version": "1.1.0",
+  "author": {
+    "name": "sa9saq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sa9saq/dependency-checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sa9saq/dependency-checker"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "ai-running-coach",
+  "version": "1.0.0",
+  "description": "AI Running Coach — OpenClaw-powered personalized training plans, daily IM coaching via Telegram/WhatsApp, Strava analysis, and adaptive intelligence for runners.",
+  "keywords": [
+    "running",
+    "marathon",
+    "training",
+    "AI coach",
+    "Strava",
+    "Telegram",
+    "WhatsApp",
+    "fitness",
+    "OpenClaw",
+    "running plan"
+  ],
+  "author": "AI Running Coach <support@airunningcoach.net>",
+  "license": "MIT",
+  "homepage": "https://airunningcoach.net",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aplomb2/airunningcoach"
+  },
+  "openclaw": {
+    "skill": true,
+    "commands": ["arc"],
+    "category": "Health & Fitness"
+  }
+}

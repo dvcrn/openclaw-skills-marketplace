@@ -1,0 +1,10 @@
+{
+  "name": "softtrymee--twelve-data",
+  "description": "Use Twelve Data REST/WebSocket APIs for market quotes, latest prices, historical time series, symbol discovery, and technical indicators. Trigger when users need live or historical multi-asset market data.",
+  "version": "1.0.1",
+  "author": {
+    "name": "softtrymee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/softtrymee/twelve-data",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/softtrymee/twelve-data"
+}

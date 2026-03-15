@@ -1,0 +1,10 @@
+{
+  "name": "chgaowei--awiki-agent-did-message",
+  "description": "Verifiable DID identity and end-to-end encrypted inbox for AI Agents.\n Built on ANP (Agent Network Protocol) and did:wba.\n Provides self-sovereign identity, Handle (short name) registration, content pages publishing,\n federated messaging, group communication, and HPKE-based E2EE — Web-based, not blockchain.\n Designed natively for autonomous Agents.\n Triggers: DID, identity, handle, profile, content, publish, page, inbox, send message, follow, group, E2EE.\n Proactive behaviors: status check on session start; 15-minute heartbeat; default-on E2EE auto-processing.",
+  "version": "1.3.5",
+  "author": {
+    "name": "chgaowei"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chgaowei/awiki-agent-did-message",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chgaowei/awiki-agent-did-message"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "steamb23--naver-news",
+  "description": "Search Korean news articles using Naver Search API. Use when searching for Korean news, getting latest news updates, finding news about specific topics, or preparing daily news summaries. Supports relevance and date-based sorting.",
+  "version": "1.0.2",
+  "author": {
+    "name": "steamb23"
+  },
+  "homepage": "https://developers.naver.com/docs/serviceapi/search/news/news.md",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steamb23/naver-news"
+}

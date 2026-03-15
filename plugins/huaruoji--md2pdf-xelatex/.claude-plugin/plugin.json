@@ -1,0 +1,10 @@
+{
+  "name": "huaruoji--md2pdf-xelatex",
+  "description": "Convert Markdown files to PDF with full LaTeX math formula rendering and CJK (Chinese/Japanese/Korean) support. Use when the user asks to convert markdown to PDF, render a report as PDF, export notes to PDF, or generate a printable document from markdown. Handles $...$ inline and $$...$$ display math, code blocks, tables, and mixed CJK/Latin text. Requires pandoc + texlive-xetex.",
+  "version": "1.0.0",
+  "author": {
+    "name": "huaruoji"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/huaruoji/md2pdf-xelatex",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/huaruoji/md2pdf-xelatex"
+}

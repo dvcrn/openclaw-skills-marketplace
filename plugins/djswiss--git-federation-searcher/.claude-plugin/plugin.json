@@ -1,0 +1,10 @@
+{
+  "name": "djswiss--git-federation-searcher",
+  "description": "Search across multiple self-hosted Git instances including Gitea, Forgejo, GitLab, and Codeberg. Aggregates search results from Codeberg.org, Gitea.com, OpenDev, NotABug, and Gitdab. Supports API-based search with fallback to web search via SearXNG. Allows adding custom private instances with API token support.",
+  "version": "1.0.0",
+  "author": {
+    "name": "djswiss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/djswiss/git-federation-searcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/djswiss/git-federation-searcher"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "conn-ho--startup-risk-radar",
+  "description": "Evaluate startup ideas, business models, and product strategies against the 7 deadly failure antipatterns extracted from 1,749 dead startups that burned $535B+. Use when the user is evaluating a startup idea, planning a new product, reviewing a business model, assessing competitive positioning, checking unit economics, or asking \"will this work?\" Also trigger when the user mentions startup risk, failure patterns, competitive moat, unit economics, burn rate, market need validation, regulatory risk, founder conflict, product-market fit concerns, or pivot decisions. Provides structured risk assessment, red flag identification, and actionable recommendations based on real failure data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "conn-ho"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/conn-ho/startup-risk-radar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/conn-ho/startup-risk-radar"
+}

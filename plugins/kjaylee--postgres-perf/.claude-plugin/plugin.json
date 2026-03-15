@@ -1,0 +1,10 @@
+{
+  "name": "kjaylee--postgres-perf",
+  "description": "PostgreSQL performance optimization and best practices. Use when writing SQL queries, designing schemas, implementing indexes, or debugging database performance. Covers query optimization, connection management, schema design, and RLS.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kjaylee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kjaylee/postgres-perf",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kjaylee/postgres-perf"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "0xichigo--svm",
+  "description": "Explore Solana's architecture and protocol internals. Covers the SVM execution engine, account model, consensus, transactions, validator economics, data layer, development tooling, and token extensions using the Helius blog, SIMDs, and Agave/Firedancer source code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "0xichigo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xichigo/svm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xichigo/svm"
+}

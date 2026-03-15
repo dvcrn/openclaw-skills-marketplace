@@ -1,0 +1,10 @@
+{
+  "name": "chunhualiao--x-extract",
+  "description": "Extract tweet content from x.com URLs without credentials using browser automation. Use when user asks to \"extract tweet\", \"download x.com link\", \"get tweet content\", or provides x.com/twitter.com URLs for content extraction. Works without Twitter API credentials.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chunhualiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/x-extract",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/x-extract"
+}

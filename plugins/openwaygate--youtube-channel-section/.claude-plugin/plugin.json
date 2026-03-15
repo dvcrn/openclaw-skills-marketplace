@@ -1,0 +1,10 @@
+{
+  "name": "openwaygate--youtube-channel-section",
+  "description": "Manage YouTube channel sections. Use this skill to list or delete channel sections. Useful when working with YouTube channel section — provides commands to delete and list channel section via the yutu CLI. Includes setup and installation instructions for first-time users. Triggers: delete channel sections, delete channel section, delete my channel section, list channel sections, list channel section, list my channel section",
+  "version": "0.10.6-3",
+  "author": {
+    "name": "openwaygate"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openwaygate/youtube-channel-section",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openwaygate/youtube-channel-section"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "minerva-care--readarr",
+  "description": "Interact with Readarr (ebook/audiobook manager) via its REST API. Use when searching for books, monitoring authors for new releases, checking what's missing or wanted, triggering downloads, or managing the book library. Works alongside Calibre — Readarr acquires, Calibre organises.",
+  "version": "1.0.0",
+  "author": {
+    "name": "minerva-care"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/minerva-care/readarr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/minerva-care/readarr"
+}

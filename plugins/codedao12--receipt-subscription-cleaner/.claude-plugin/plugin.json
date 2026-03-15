@@ -1,0 +1,10 @@
+{
+  "name": "codedao12--receipt-subscription-cleaner",
+  "description": "Identify recurring charges and subscriptions from receipts or email exports, and produce a clean summary with renewal dates, price changes, and cancellation drafts. Use when a user wants to audit spending without initiating payments or cancellations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "codedao12"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codedao12/receipt-subscription-cleaner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codedao12/receipt-subscription-cleaner"
+}

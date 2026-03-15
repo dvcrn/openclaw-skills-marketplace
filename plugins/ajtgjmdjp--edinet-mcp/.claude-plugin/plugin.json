@@ -1,0 +1,10 @@
+{
+  "name": "ajtgjmdjp--edinet-mcp",
+  "description": "Analyze Japanese public company financial statements (BS/PL/CF/財務諸表) from EDINET (FSA/金融庁) — search by company name or stock code, screen companies, compare periods (xbrl-diff). XBRL data, J-GAAP/IFRS/US-GAAP. Japan securities filings.",
+  "version": "0.6.0",
+  "author": {
+    "name": "ajtgjmdjp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ajtgjmdjp/edinet-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ajtgjmdjp/edinet-mcp"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "briancolinger--email-triage",
+  "description": "IMAP email scanning and triage with AI classification via a local Ollama LLM. Scans unread emails, categorizes them as urgent, needs-response, informational, or spam, and surfaces important messages for agent consumption. Works standalone with heuristic fallback — Ollama optional but recommended.",
+  "version": "1.0.1",
+  "author": {
+    "name": "briancolinger"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/briancolinger/email-triage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/briancolinger/email-triage"
+}

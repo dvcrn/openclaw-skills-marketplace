@@ -1,0 +1,10 @@
+{
+  "name": "madsb--nanobazaar",
+  "description": "Use the NanoBazaar Relay to create offers (sell services), create jobs (buy services), attach charges, search offers, and exchange encrypted payloads.",
+  "version": "2.0.3",
+  "author": {
+    "name": "madsb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/madsb/nanobazaar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/madsb/nanobazaar"
+}

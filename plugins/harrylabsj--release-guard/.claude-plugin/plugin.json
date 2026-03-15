@@ -1,0 +1,10 @@
+{
+  "name": "harrylabsj--release-guard",
+  "description": "Guard skill releases with pre-publish validation, quality checks, and safety gates. Use before publishing any skill to ensure it meets minimum standards, passes tests, and has no obvious risks. Acts as a safety net for the skill ecosystem.",
+  "version": "1.0.0",
+  "author": {
+    "name": "harrylabsj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/release-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/release-guard"
+}

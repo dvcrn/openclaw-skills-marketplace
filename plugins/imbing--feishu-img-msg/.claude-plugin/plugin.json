@@ -1,0 +1,10 @@
+{
+  "name": "imbing--feishu-img-msg",
+  "description": "飞书图片消息操作技能，当触发飞书发送图片时自动调用本技能。\n 支持上传图片、发送图片消息、获取图片内容。\n Activate when user mentions: 飞书发图、发送图片、上传图片、获取图片、下载图片、image_key。",
+  "version": "1.0.0",
+  "author": {
+    "name": "imbing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imbing/feishu-img-msg",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imbing/feishu-img-msg"
+}

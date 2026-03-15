@@ -1,0 +1,10 @@
+{
+  "name": "sieyer--mem0-1-0-0",
+  "description": "Intelligent memory layer for Clawdbot using Mem0. Provides semantic search and automatic storage of user preferences, patterns, and context across conversations. Use when (1) User explicitly says \"remember this\", (2) Learning user preferences or patterns during conversation, (3) Searching for past context about user's choices/preferences, (4) Building adaptive responses based on learned user behavior. Complements MEMORY.md (structured facts) with dynamic, conversational memory (learned preferences, patterns, adaptive context).",
+  "version": "1.0.0",
+  "author": {
+    "name": "sieyer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sieyer/mem0-1-0-0",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sieyer/mem0-1-0-0"
+}

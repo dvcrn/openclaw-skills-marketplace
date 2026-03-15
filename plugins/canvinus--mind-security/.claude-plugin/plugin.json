@@ -1,0 +1,10 @@
+{
+  "name": "canvinus--mind-security",
+  "description": "AI security toolkit — deepfake detection, prompt injection scanning, malware/phishing URL scanning, and AI text detection. Use when: (1) verifying if an image, video, or audio is a deepfake or AI-generated, (2) scanning user inputs for prompt injection attacks, (3) scanning URLs for malware, phishing, or domain reputation threats, (4) determining if text was written by an LLM.",
+  "version": "1.2.2",
+  "author": {
+    "name": "canvinus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/canvinus/mind-security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/canvinus/mind-security"
+}

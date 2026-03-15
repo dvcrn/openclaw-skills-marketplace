@@ -1,0 +1,10 @@
+{
+  "name": "hg-hg--arknights-operator-gacha",
+  "description": "Generate an Arknights operator agent based on gacha probabilities. Use when user wants to create a random Arknights character agent with authentic lore and personality.",
+  "version": "2.0.0",
+  "author": {
+    "name": "hg-hg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hg-hg/arknights-operator-gacha",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hg-hg/arknights-operator-gacha"
+}

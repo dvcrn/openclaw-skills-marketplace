@@ -1,0 +1,10 @@
+{
+  "name": "comman-kaide--comman-felo-slides",
+  "description": "Generate PPT/slides with Felo PPT Task API in Claude Code. Use when users ask to create/make/generate/export presentations or slide decks, or when explicit commands like /felo-slides are used. Handles API key check, task creation, polling, and final ppt_url output.",
+  "version": "1.0.0",
+  "author": {
+    "name": "comman-kaide"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/comman-kaide/comman-felo-slides",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/comman-kaide/comman-felo-slides"
+}

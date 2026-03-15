@@ -1,0 +1,10 @@
+{
+  "name": "guaiyu11--daily-standup-generator",
+  "description": "Generate a daily standup report from task lists, chat logs, or project management tools. Trigger: \"生成每日站会报告\"、\"standup\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "guaiyu11"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guaiyu11/daily-standup-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guaiyu11/daily-standup-generator"
+}

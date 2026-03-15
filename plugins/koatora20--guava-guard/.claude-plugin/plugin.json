@@ -1,0 +1,10 @@
+{
+  "name": "koatora20--guava-guard",
+  "description": "Runtime security guard + scanner for OpenClaw agents. Part of the guard-scanner ecosystem. Detects reverse shells, credential theft, and sandbox escapes in real-time. For full static scanning with 150+ patterns, install guard-scanner.",
+  "version": "2.1.0",
+  "author": {
+    "name": "koatora20"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/koatora20/guava-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/koatora20/guava-guard"
+}

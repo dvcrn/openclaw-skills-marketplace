@@ -1,0 +1,10 @@
+{
+  "name": "rafaels-dev--organizze",
+  "description": "Manage finances via the Organizze API — bank accounts, credit cards, invoices, transactions, transfers, categories, and budgets. THIS SKILL IS NON-OFICIAL AND YOUR USAGE IS BY YOUR RISK.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rafaels-dev"
+  },
+  "homepage": "https://api.organizze.com.br/rest/v2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rafaels-dev/organizze"
+}

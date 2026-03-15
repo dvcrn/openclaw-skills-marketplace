@@ -1,0 +1,10 @@
+{
+  "name": "ankwu001--skill-cortex",
+  "description": "Skill Cortex is the system's capability cortex. When lacking ability, it autonomously acquires Skills from ClawHub or GitHub, then releases them after use. Every invocation is learned and reinforced by the cortex — future identical tasks fire as reflexes, bypassing search. Manages only short-term capability memory; never interferes with long-term Skills. Continuously restructures its own capability architecture through reinforcement and decay, achieving ongoing evolution.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ankwu001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ankwu001/skill-cortex",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ankwu001/skill-cortex"
+}

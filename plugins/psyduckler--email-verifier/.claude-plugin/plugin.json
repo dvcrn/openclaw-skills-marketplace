@@ -1,0 +1,10 @@
+{
+  "name": "psyduckler--email-verifier",
+  "description": "Verify email address deliverability via SMTP without sending mail. Checks MX records,\n performs RCPT TO verification, and detects catch-all domains. Use when validating email\n lists, checking if an email address exists before sending, cleaning lead lists, or\n verifying contact information. Supports single emails, batch verification, and CSV input.",
+  "version": "1.0.1",
+  "author": {
+    "name": "psyduckler"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/psyduckler/email-verifier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/psyduckler/email-verifier"
+}

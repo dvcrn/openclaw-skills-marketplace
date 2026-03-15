@@ -1,0 +1,10 @@
+{
+  "name": "enchograph--daily-trending",
+  "description": "获取今日热榜，从tophub.today抓取各平台热搜榜单。当用户询问\"今天有什么热搜\"、\"热榜\"、\"微博热搜\"时触发。",
+  "version": "1.0.0",
+  "author": {
+    "name": "enchograph"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/enchograph/daily-trending",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/enchograph/daily-trending"
+}

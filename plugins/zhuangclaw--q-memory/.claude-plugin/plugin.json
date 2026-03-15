@@ -1,0 +1,10 @@
+{
+  "name": "zhuangclaw--q-memory",
+  "description": "Universal Memory Management System v1.8.2 for OpenClaw agents. Provides:\n 1. Multi-Agent Support (qst, mengtian, lisi, custom)\n 2. Agent State System (\"I'm Doing\") - IDLE/DOING/WAITING/PAUSED/COMPLETED/FAILED/BLOCKED\n 3. Heartbeat Integration - State-driven intelligent checking strategy\n 4. **NEW v1.8.2**: Loop Protection & User Priority - Auto-detection and handling of stuck tasks\n 5. Tree-based classification structure (3-level hierarchy)\n 6. Three search methods: Tree, Semantic, Hybrid\n 7. Auto-classification with AI inference\n 8. Appendix Indexing for technical documents\n 9. Memory encryption (AES-128-CBC + HMAC) for sensitive data\n 10. Event history tracking with timeline\n\n Use when: Agent needs intelligent memory management with state awareness.\n Goal: Reduce token consumption by 70-90%, improve relevance by 20%, add contextual awareness.\n\n **v1.8.2 Anti-Loop Protection**: Prevents infinite task loops with heartbeat throttling, timeout detection, and auto-recovery.",
+  "version": "1.8.5-no-crypto",
+  "author": {
+    "name": "zhuangclaw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhuangclaw/q-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhuangclaw/q-memory"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jamesbot-agnt--omie",
+  "description": "Omie ERP integration via API. Manage clients, products, orders, invoices (NF-e), financials (contas a receber/pagar), and stock. Use when users ask about ERP data, financials, orders, invoices, stock, or clients from Omie. Also handles webhooks for real-time events.",
+  "version": "1.0.3",
+  "author": {
+    "name": "jamesbot-agnt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamesbot-agnt/omie",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamesbot-agnt/omie"
+}

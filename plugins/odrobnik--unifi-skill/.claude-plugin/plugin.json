@@ -1,0 +1,10 @@
+{
+  "name": "odrobnik--unifi-skill",
+  "description": "Monitor UniFi network infrastructure via the UniFi Site Manager API. Use to list hosts/sites/devices/APs and get high-level client/device counts.",
+  "version": "1.0.2",
+  "author": {
+    "name": "odrobnik"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/unifi-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/unifi-skill"
+}

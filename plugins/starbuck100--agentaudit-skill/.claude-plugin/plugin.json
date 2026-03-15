@@ -1,0 +1,10 @@
+{
+  "name": "starbuck100--agentaudit-skill",
+  "description": "Automatic security gate that checks packages against a vulnerability database before installation. Use before any npm install, pip install, yarn add, or package manager operation.",
+  "version": "3.0.0",
+  "author": {
+    "name": "starbuck100"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/starbuck100/agentaudit-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/starbuck100/agentaudit-skill"
+}

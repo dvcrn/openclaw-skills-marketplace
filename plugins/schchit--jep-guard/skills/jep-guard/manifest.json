@@ -1,0 +1,51 @@
+{
+  "name": "JEP Guard",
+  "version": "1.0.2",
+  "description": "Add responsibility layer to Clawbot - prevent accidents, trace actions with verifiable JEP receipts",
+  "author": "JEP Foundation",
+  "permissions": [
+    "filesystem",
+    "ui",
+    "crypto"
+  ],
+  "config": {
+    "jepPrivateKey": {
+      "type": "string",
+      "description": "Your JEP private key for signing receipts (hex format)",
+      "secure": true,
+      "required": false
+    },
+    "logLevel": {
+      "type": "string",
+      "description": "Logging level: minimal (command only), normal (with args), verbose (full details)",
+      "default": "minimal",
+      "enum": ["minimal", "normal", "verbose"]
+    },
+    "warnOnInstall": {
+      "type": "boolean",
+      "description": "Show privacy warning on install",
+      "default": true
+    }
+  },
+  "hooks": {
+    "beforeCommand": "sidecar.js",
+    "onInstall": "ui-patch.js",
+    "onUninstall": "cleanup.js"
+  },
+  "commands": {
+    "config": {
+      "handler": "config.js",
+      "description": "Configure JEP Guard settings"
+    },
+    "export": {
+      "handler": "export.js",
+      "description": "Export audit logs with privacy redaction"
+    },
+    "keygen": {
+      "handler": "keygen.js",
+      "description": "Generate a new JEP key pair"
+    }
+  },
+  "repository": "https://github.com/jep-eth/jep-claw-integration",
+  "license": "MIT-0"
+}

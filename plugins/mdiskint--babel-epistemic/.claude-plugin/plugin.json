@@ -1,0 +1,10 @@
+{
+  "name": "mdiskint--babel-epistemic",
+  "description": "Prevents metacognitive poisoning in multi-agent handoffs. Install when your agent hands off work to other agents or receives work from them. Agents that read Babel-tagged outputs maintain confidence calibration without treating upstream inferences as verified facts.",
+  "version": "2.0.0",
+  "author": {
+    "name": "mdiskint"
+  },
+  "homepage": "https://hearth.so/babel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mdiskint/babel-epistemic"
+}

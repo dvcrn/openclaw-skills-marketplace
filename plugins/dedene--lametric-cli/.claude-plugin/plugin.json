@@ -1,0 +1,10 @@
+{
+  "name": "dedene--lametric-cli",
+  "description": "Control LaMetric TIME/SKY smart displays from the command line. Use when sending notifications, controlling device brightness/volume, managing timers, or displaying data on LaMetric devices. Triggers on \"LaMetric\", \"smart display\", \"notification to device\", \"set timer\", \"send alert to clock\".",
+  "version": "1.0.2",
+  "author": {
+    "name": "dedene"
+  },
+  "homepage": "https://github.com/dedene/lametric-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dedene/lametric-cli"
+}

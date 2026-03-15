@@ -1,0 +1,10 @@
+{
+  "name": "mikedconcepcion--octoflow",
+  "description": "Use when the user wants to run GPU-accelerated computations, analyze data, process images/audio/video, train ML models, or generate code from natural language. OctoFlow turns English task descriptions into GPU programs via Vulkan. Also runs as an MCP server (`octoflow mcp-serve`) with 7 structured tools. No Python, no CUDA, no dependencies — single 4.5 MB binary. 445 stdlib modules across 28 domains (sort, search, graph, matrix, stats, DSP, ML, etc.). 150 GPU compute kernels. Loom Engine GPU VM with layer-streaming LLM inference. Use for: \"sort a million numbers\", \"cluster this CSV\", \"blur this image\", \"plot my data\", \"calculate statistics\", \"run regression\", \"process audio\".",
+  "version": "1.5.8",
+  "author": {
+    "name": "mikedconcepcion"
+  },
+  "homepage": "https://octoflow-lang.github.io/octoflow/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mikedconcepcion/octoflow"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mukhtharcm--antigravity-quota",
+  "description": "Check Antigravity account quotas for Claude and Gemini models. Shows remaining quota and reset times with ban detection.",
+  "version": "1.1.0",
+  "author": {
+    "name": "mukhtharcm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mukhtharcm/antigravity-quota",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mukhtharcm/antigravity-quota"
+}

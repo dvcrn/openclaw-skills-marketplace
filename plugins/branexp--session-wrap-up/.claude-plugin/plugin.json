@@ -1,0 +1,10 @@
+{
+  "name": "branexp--session-wrap-up",
+  "description": "Wrap up a conversation session before starting a new one. Use when the user says \"wrap up\", \"wrap up this conversation\", \"session wrap up\", or uses /session_wrap_up command. Flushes context to memory files, updates PARA notes, commits changes, and provides a summary.",
+  "version": "1.0.0",
+  "author": {
+    "name": "branexp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/branexp/session-wrap-up",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/branexp/session-wrap-up"
+}

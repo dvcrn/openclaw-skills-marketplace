@@ -1,0 +1,10 @@
+{
+  "name": "wpank--backend-event-stores",
+  "description": "Design and implement event stores for event-sourced systems. Use when building event sourcing infrastructure, implementing event persistence, projections, snapshotting, or CQRS patterns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/backend-event-stores",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/backend-event-stores"
+}

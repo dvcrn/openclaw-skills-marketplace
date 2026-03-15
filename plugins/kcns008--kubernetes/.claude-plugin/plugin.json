@@ -1,0 +1,10 @@
+{
+  "name": "kcns008--kubernetes",
+  "description": "Complete Platform Agent Swarm — A coordinated multi-agent system for Kubernetes and OpenShift platform operations. Includes Orchestrator (Jarvis), Cluster Ops (Atlas), GitOps (Flow), Security (Shield), Observability (Pulse), Artifacts (Cache), and Developer Experience (Desk).",
+  "version": "1.0.1",
+  "author": {
+    "name": "kcns008"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kcns008/kubernetes",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kcns008/kubernetes"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "tezatezaz--evm-wallet-clawcast",
+  "description": "This skill is focused on crypto/EVM wallet operations and transaction workflows using cast. It covers wallet creation, importing or generating keys, checking balances, sending coins or tokens, monitoring tokens, creating and verifying transactions, and keeping agent keystores secure so the agent can guide the user through the core crypto operations a wallet handles.",
+  "version": "1.0.1",
+  "author": {
+    "name": "tezatezaz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tezatezaz/evm-wallet-clawcast",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tezatezaz/evm-wallet-clawcast"
+}

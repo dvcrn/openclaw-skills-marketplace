@@ -1,0 +1,9 @@
+{
+  "name": "websocket-receiver",
+  "version": "1.1.2",
+  "description": "WebSocket data receiver skill for learning and practice. Supports auto-reconnect, batch processing, and AI analysis.",
+  "author": "Song",
+  "license": "MIT",
+  "requires": ["websockets"],
+  "python": ">=3.8"
+}

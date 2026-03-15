@@ -1,0 +1,10 @@
+{
+  "name": "ckchzh2022--chart-generator",
+  "description": "Data visualization and chart generator with SVG file output. 数据可视化、数据图表、图表生成、柱状图、bar chart、折线图、line chart、饼图、pie chart、ASCII图表、数据报表、趋势图、sparkline、仪表盘、dashboard、HTML图表、SVG图表、SVG文件输出、数据分析图、统计图表、表格生成、格式化表格、数据展示、可视化报告、数据看板、进度条、热力图、趋势分析、变化率。Generate bar charts, line charts, pie charts, tables, sparklines, dashboards, progress bars, trend analysis, and heatmaps as ASCII or HTML. Also generates SVG chart files (bar/pie/line) that open directly in browsers. Use when: (1) creating data visualizations/charts, (2) generating bar/line/pie charts, (3) formatting data into tables, (4) building HTML chart reports, (5) showing data trends or distributions, (6) any chart, dashboard, or data visualization task, (7) progress tracking, (8) trend analysis with change rates, (9) heatmap visualization, (10) generating SVG chart files for sharing or embedding. 适用场景：生成图表、数据可视化、做报表、展示数据趋势、对比数据、ASCII图表终端展示、HTML图表报告输出、SVG图表文件生成、进度条、热力图、趋势分析。",
+  "version": "1.4.1",
+  "author": {
+    "name": "ckchzh2022"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ckchzh2022/chart-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ckchzh2022/chart-generator"
+}

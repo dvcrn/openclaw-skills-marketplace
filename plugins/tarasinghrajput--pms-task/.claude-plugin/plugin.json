@@ -1,0 +1,10 @@
+{
+  "name": "tarasinghrajput--pms-task",
+  "description": "Create PMS tasks (bugs or features) on GitHub and sync to Google Sheets. Use when user says 'PMS Bug addition' for bugs or 'PMS Feature addition' for features. Creates GitHub issue with appropriate labels, assigns to roshanasingh4, updates PMS Task Tracker sheet and Team Daily Update sheet.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tarasinghrajput"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tarasinghrajput/pms-task",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tarasinghrajput/pms-task"
+}

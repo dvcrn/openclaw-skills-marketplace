@@ -1,0 +1,10 @@
+{
+  "name": "xlbbb-cn--smtp-sender",
+  "description": "A skill to send emails with support for markdown, HTML text, and attachments, leveraging existing SMTP configuration in `{skill~}/smtp-config.json`. Includes retry logic and logging.",
+  "version": "1.0.2",
+  "author": {
+    "name": "xlbbb-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xlbbb-cn/smtp-sender",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xlbbb-cn/smtp-sender"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xfnet--clawhub-skill-weaver-e10-api",
+  "description": "泛微 E10 系统 API 调用工具，支持流程创建、待办查询、审批提交、流程退回等操作。使用 OAuth2.0 认证，自动管理 token 刷新。",
+  "version": "0.1.1",
+  "author": {
+    "name": "xfnet"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xfnet/clawhub-skill-weaver-e10-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xfnet/clawhub-skill-weaver-e10-api"
+}

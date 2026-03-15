@@ -1,0 +1,10 @@
+{
+  "name": "jaybna--dex-crm",
+  "description": "Manage Dex personal CRM (getdex.com) contacts, notes, and reminders.\n Use when you need to: (1) Search or browse contacts, (2) Add notes about people,\n (3) Create or check reminders, (4) Look up contact details (phone, email, birthday).\n Requires DEX_API_KEY environment variable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jaybna"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jaybna/dex-crm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jaybna/dex-crm"
+}

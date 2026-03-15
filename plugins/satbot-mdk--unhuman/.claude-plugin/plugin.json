@@ -1,0 +1,10 @@
+{
+  "name": "satbot-mdk--unhuman",
+  "description": "Search, register, and manage domain names via unhuman.domains. Pay with bitcoin using agent-wallet. Use when the user wants to find available domains, register a new domain, manage DNS records, update nameservers, or renew a domain.",
+  "version": "1.0.2",
+  "author": {
+    "name": "satbot-mdk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/satbot-mdk/unhuman",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/satbot-mdk/unhuman"
+}

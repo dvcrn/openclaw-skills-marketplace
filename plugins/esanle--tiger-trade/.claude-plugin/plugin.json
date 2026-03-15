@@ -1,0 +1,10 @@
+{
+  "name": "esanle--tiger-trade",
+  "description": "Execute US and HK stock trades via Tiger Brokers API. Use when user wants to buy or sell stocks, manage investment portfolio, place orders for US ETFs or HK stocks, or check account balance. Requires tiger-config.json with tiger_id account and private_key_pk8.",
+  "version": "1.0.5",
+  "author": {
+    "name": "esanle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/esanle/tiger-trade",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/esanle/tiger-trade"
+}

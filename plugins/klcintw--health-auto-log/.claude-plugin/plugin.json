@@ -1,0 +1,10 @@
+{
+  "name": "klcintw--health-auto-log",
+  "description": "Automatically detect and log health data (weight, blood sugar, exercise) to AX3 system. Use when user sends health measurements via WhatsApp or other messaging channels, especially messages containing numbers with health-related keywords like \"體重\", \"血糖\", or plain numeric values that could be weight measurements.",
+  "version": "1.0.0",
+  "author": {
+    "name": "klcintw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/klcintw/health-auto-log",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/klcintw/health-auto-log"
+}

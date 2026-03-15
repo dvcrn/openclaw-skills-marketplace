@@ -1,0 +1,10 @@
+{
+  "name": "dkistenev--inner-life-evolve",
+  "description": "Your agent does the same things the same way forever. inner-life-evolve analyzes patterns, challenges assumptions, and proposes improvements — writing proposals to the task queue for user approval. Never auto-executes. Evolution with a safety net.",
+  "version": "1.0.4",
+  "author": {
+    "name": "dkistenev"
+  },
+  "homepage": "https://github.com/DKistenev/openclaw-inner-life",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dkistenev/inner-life-evolve"
+}

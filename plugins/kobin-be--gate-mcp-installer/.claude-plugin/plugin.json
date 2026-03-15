@@ -1,0 +1,10 @@
+{
+  "name": "kobin-be--gate-mcp-installer",
+  "description": "One-click installer and configurator for Gate MCP (mcporter) in OpenClaw. Use when the user wants to (1) Install mcporter CLI tool, (2) Configure Gate MCP server connection, (3) Verify Gate MCP setup, or (4) Troubleshoot Gate MCP connectivity issues.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kobin-be"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kobin-be/gate-mcp-installer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kobin-be/gate-mcp-installer"
+}

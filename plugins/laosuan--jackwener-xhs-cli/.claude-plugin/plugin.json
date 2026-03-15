@@ -1,0 +1,10 @@
+{
+  "name": "laosuan--jackwener-xhs-cli",
+  "description": "Install and use the `xhs-cli` terminal client for Xiaohongshu (小红书, RedNote, XHS). Use when Codex needs shell-driven Xiaohongshu operations such as checking login state, searching notes, reading note details, inspecting user profiles, browsing feed/topics, listing favorites, liking/favoriting/commenting, or publishing posts from the terminal.",
+  "version": "0.1.0",
+  "author": {
+    "name": "laosuan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/laosuan/jackwener-xhs-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/laosuan/jackwener-xhs-cli"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "haoweili97--scrapefun",
+  "description": "Use this skill when OpenClaw needs to operate a scrapefun server through regular business APIs: authenticate with access key or app token, inspect libraries and metadata stats, run scrape and WebDAV endpoints, and report results without using /api/openclaw/*.",
+  "version": "0.0.1",
+  "author": {
+    "name": "haoweili97"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/haoweili97/scrapefun",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/haoweili97/scrapefun"
+}

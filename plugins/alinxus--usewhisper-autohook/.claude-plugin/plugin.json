@@ -1,0 +1,10 @@
+{
+  "name": "alinxus--usewhisper-autohook",
+  "description": "Auto-hook tools for OpenClaw: query Whisper Context before every generation, ingest after every turn. Built for Telegram agents (stable user_id/session_id).",
+  "version": "1.0.0",
+  "author": {
+    "name": "alinxus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alinxus/usewhisper-autohook",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alinxus/usewhisper-autohook"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "duoplusofficial--duoplus-agent",
+  "description": "Control Android cloud phones via ADB broadcast commands - tap, swipe, type, screenshot, read UI elements. Requires DuoPlus CloudPhone service running on the device.",
+  "version": "1.0.9",
+  "author": {
+    "name": "duoplusofficial"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/duoplusofficial/duoplus-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/duoplusofficial/duoplus-agent"
+}

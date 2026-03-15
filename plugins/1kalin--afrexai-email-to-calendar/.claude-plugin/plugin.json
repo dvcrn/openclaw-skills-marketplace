@@ -1,0 +1,10 @@
+{
+  "name": "1kalin--afrexai-email-to-calendar",
+  "description": "Extract calendar events, deadlines, action items, and follow-ups from emails. Works with any calendar provider (Google, Outlook, Apple, Notion, etc.). No external dependencies — pure agent intelligence. Use when the user forwards an email, asks to check inbox for events, or wants to extract structured scheduling data from any text.",
+  "version": "1.0.0",
+  "author": {
+    "name": "1kalin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/1kalin/afrexai-email-to-calendar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/1kalin/afrexai-email-to-calendar"
+}

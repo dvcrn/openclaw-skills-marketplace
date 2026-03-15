@@ -1,0 +1,10 @@
+{
+  "name": "bandwhite--neodomain-ai",
+  "description": "Generate images and videos via Neodomain AI API. Supports text-to-image, image-to-video, text-to-video, and motion control video generation. Use when user wants to create AI-generated images or videos using the Neodomain platform.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bandwhite"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bandwhite/neodomain-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bandwhite/neodomain-ai"
+}

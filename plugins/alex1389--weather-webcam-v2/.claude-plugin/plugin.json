@@ -1,0 +1,10 @@
+{
+  "name": "alex1389--weather-webcam-v2",
+  "description": "Fetches current weather from Open-Meteo API and automatically captures a live webcam image from Meteoblue or Windy for the requested location. Use it when the user asks for the weather and wants to see a real image of the current conditions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "alex1389"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alex1389/weather-webcam-v2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alex1389/weather-webcam-v2"
+}

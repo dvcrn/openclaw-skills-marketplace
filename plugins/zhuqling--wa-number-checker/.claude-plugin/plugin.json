@@ -1,0 +1,10 @@
+{
+  "name": "zhuqling--wa-number-checker",
+  "description": "Query whether a phone number is registered on WhatsApp. Use when the user asks to check if a number has WhatsApp, verify if a number exists on WhatsApp, \"查这个号有没有 WhatsApp\", \"这个号码有没有在用 WhatsApp\", \"WhatsApp number check\", or \"验证号码是否在 WhatsApp\". Supports MCP (wa-check-api) first, then REST API per references/api.md.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhuqling"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhuqling/wa-number-checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhuqling/wa-number-checker"
+}

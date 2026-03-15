@@ -1,0 +1,10 @@
+{
+  "name": "harperbot--surf-query",
+  "description": "查詢台灣全島衝浪浪點資訊，含即時潮汐、風況、颱風動態、日出日落，可附帶查詢附近停車場。支援 Telegram、LINE、iMessage。",
+  "version": "1.2.0",
+  "author": {
+    "name": "harperbot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harperbot/surf-query",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harperbot/surf-query"
+}

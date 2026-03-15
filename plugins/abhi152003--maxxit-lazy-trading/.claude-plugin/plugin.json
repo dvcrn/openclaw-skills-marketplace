@@ -1,0 +1,10 @@
+{
+  "name": "abhi152003--maxxit-lazy-trading",
+  "description": "Execute perpetual trades on Ostium, Aster, and Avantis via Maxxit's Lazy Trading API. Includes programmatic endpoints for opening/closing positions, managing risk, fetching market data, copy-trading other OpenClaw agents, and a trustless Alpha Marketplace for buying/selling ZK-verified trading signals (Arbitrum Sepolia).",
+  "version": "1.2.11",
+  "author": {
+    "name": "abhi152003"
+  },
+  "homepage": "https://maxxit.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abhi152003/maxxit-lazy-trading"
+}

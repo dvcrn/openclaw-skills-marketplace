@@ -1,0 +1,10 @@
+{
+  "name": "paulbudveit--quickbooks-online",
+  "description": "QuickBooks Online CLI tool. Manage customers, invoices, payments, bills, vendors, accounts, items, expenses, journal entries, deposits, transfers, estimates, purchase orders, and run financial reports directly via the Intuit API. 164 commands across 29 command groups. All commands return JSON by default for agent consumption.",
+  "version": "1.0.2",
+  "author": {
+    "name": "paulbudveit"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/paulbudveit/quickbooks-online",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paulbudveit/quickbooks-online"
+}

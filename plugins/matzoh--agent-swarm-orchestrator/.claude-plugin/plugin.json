@@ -1,0 +1,10 @@
+{
+  "name": "matzoh--agent-swarm-orchestrator",
+  "description": "Orchestrate OpenClaw Agent Swarm workflows for multi-project coding automation with Obsidian task intake, Claude coding, Codex review, GitLab MR flow, merge+sync, and done-status closure.",
+  "version": "1.1.0",
+  "author": {
+    "name": "matzoh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/matzoh/agent-swarm-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matzoh/agent-swarm-orchestrator"
+}

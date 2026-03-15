@@ -1,0 +1,10 @@
+{
+  "name": "bluesyparty-src--steam-community-inventory",
+  "description": "Retrieves Steam inventory data for a user from steamcommunity.com",
+  "version": "1.0.1",
+  "author": {
+    "name": "bluesyparty-src"
+  },
+  "homepage": "https://steamcommunity.com/dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bluesyparty-src/steam-community-inventory"
+}

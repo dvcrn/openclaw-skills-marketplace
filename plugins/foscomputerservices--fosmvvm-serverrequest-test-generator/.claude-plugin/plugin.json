@@ -1,0 +1,10 @@
+{
+  "name": "foscomputerservices--fosmvvm-serverrequest-test-generator",
+  "description": "Generate ServerRequest tests using VaporTesting. Covers typed request/response validation for Show, Create, Update, and Delete operations.",
+  "version": "2.0.6",
+  "author": {
+    "name": "foscomputerservices"
+  },
+  "homepage": "https://github.com/foscomputerservices/FOSUtilities",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/foscomputerservices/fosmvvm-serverrequest-test-generator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "col000r--postthatlater",
+  "description": "Schedule and manage social media posts across multiple social platforms. Query analytics, manage your queue, and publish immediately — all via natural language. Call GET /api/v1/platforms for the list of platforms active on this instance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "col000r"
+  },
+  "homepage": "https://postthatlater.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/col000r/postthatlater"
+}

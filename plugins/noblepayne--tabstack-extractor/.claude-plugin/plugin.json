@@ -1,0 +1,10 @@
+{
+  "name": "noblepayne--tabstack-extractor",
+  "description": "Extract structured data from websites using Tabstack API. Use when you need to scrape job listings, news articles, product pages, or any structured web content. Provides JSON schema-based extraction and clean markdown conversion. Requires TABSTACK_API_KEY environment variable.",
+  "version": "0.1.0",
+  "author": {
+    "name": "noblepayne"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/noblepayne/tabstack-extractor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/noblepayne/tabstack-extractor"
+}

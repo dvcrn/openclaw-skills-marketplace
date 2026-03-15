@@ -1,0 +1,10 @@
+{
+  "name": "guoqunabc--session-cleaner",
+  "description": "Clean up stale OpenClaw session files. Keep the current main session and all group chat sessions; move everything else to a backup directory. Use when performing periodic maintenance, heartbeat cleanup, or when the user asks to clean up sessions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "guoqunabc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guoqunabc/session-cleaner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guoqunabc/session-cleaner"
+}

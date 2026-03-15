@@ -1,0 +1,10 @@
+{
+  "name": "natmota--agentmem",
+  "description": "Cloud memory for AI agents. Writes are free, pay only for reads. First 25 calls free, 7-day persistence.",
+  "version": "2.4.0",
+  "author": {
+    "name": "natmota"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/natmota/agentmem",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/natmota/agentmem"
+}

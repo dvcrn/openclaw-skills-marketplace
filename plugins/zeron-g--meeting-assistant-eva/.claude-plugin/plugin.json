@@ -1,0 +1,10 @@
+{
+  "name": "zeron-g--meeting-assistant-eva",
+  "description": "Zoom/Teams/Meet 远程会议AI助手。Use when: user asks to join a meeting, monitor a meeting, record a meeting, assist in a medical consultation, help doctor-patient communication, transcribe meeting audio, analyze meeting screenshots, send chat in meeting, or provide real-time meeting assistance. The agent joins the meeting autonomously as a bot, performs real-time speech-to-text, vision analysis via Claude AI, and participants can communicate with the agent directly via meeting chat.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zeron-g"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zeron-g/meeting-assistant-eva",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zeron-g/meeting-assistant-eva"
+}

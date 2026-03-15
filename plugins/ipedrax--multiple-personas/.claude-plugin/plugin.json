@@ -1,0 +1,10 @@
+{
+  "name": "ipedrax--multiple-personas",
+  "description": "Create and manage AI subagent personas with distinct personalities. Use when a user requests to talk to a specific persona, when delegating a conversation to a character, or when creating/listing/editing personality profiles. Personas are text-only conversational agents with their own identity, tone, and memory.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ipedrax"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ipedrax/multiple-personas",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ipedrax/multiple-personas"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cburnette--wayfound",
+  "description": "Lightweight self-supervision that piggybacks on your existing memory system. Adds a simple rubric to SOUL.md and a daily review cron job — no new infrastructure, no parallel systems. Your agent reviews its own day in ~200 tokens, writes findings to memory where they compound naturally, and surfaces issues that need your attention. Use after installing to add the rubric to SOUL.md and set up the daily review. Use when the user asks about quality, performance, or improving how you work.",
+  "version": "1.0.3",
+  "author": {
+    "name": "cburnette"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cburnette/wayfound",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cburnette/wayfound"
+}

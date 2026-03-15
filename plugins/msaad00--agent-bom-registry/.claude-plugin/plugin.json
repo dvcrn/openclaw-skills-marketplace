@@ -1,0 +1,10 @@
+{
+  "name": "msaad00--agent-bom-registry",
+  "description": "MCP server security registry and trust assessment — look up servers in the 427+ server security metadata registry, run pre-install marketplace checks, batch fleet risk scoring, assess skill file trust, and run SAST code scans. Use when the user mentions MCP server trust, registry lookup, marketplace check, or skill trust assessment.",
+  "version": "0.70.7",
+  "author": {
+    "name": "msaad00"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/msaad00/agent-bom-registry",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/msaad00/agent-bom-registry"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "nickdeep1234--ashare",
+  "description": "Use AKShare to answer Chinese market-data questions about A-shares, China indexes, open-end mutual funds, macro indicators, macro calendar events, and finance news flashes. Trigger on requests such as A股行情, 个股价格, 历史K线, 指数走势, 基金净值, 宏观数据, 财联社快讯, market overview, stock quote, fund NAV, macro calendar, or news flash. Prefer this skill when OpenClaw needs structured market data from AKShare instead of free-form web browsing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nickdeep1234"
+  },
+  "homepage": "https://akshare.akfamily.xyz/data/index.html",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nickdeep1234/ashare"
+}

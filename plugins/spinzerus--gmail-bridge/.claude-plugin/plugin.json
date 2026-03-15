@@ -1,0 +1,10 @@
+{
+  "name": "spinzerus--gmail-bridge",
+  "description": "Google Workspace Bridge (Gmail, Drive, Sheets, Calendar) via local API at http://127.0.0.1:8787",
+  "version": "1.0.0",
+  "author": {
+    "name": "spinzerus"
+  },
+  "homepage": "local",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spinzerus/gmail-bridge"
+}

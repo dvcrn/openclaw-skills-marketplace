@@ -1,0 +1,10 @@
+{
+  "name": "crimsondevil333333--ops-dashboard",
+  "description": "Gather operational signals (disk usage, git status, recent commits, and resources) so you can answer \"How is the Clawdy infrastructure doing?\" without manually running multiple checks.",
+  "version": "1.0.1",
+  "author": {
+    "name": "crimsondevil333333"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crimsondevil333333/ops-dashboard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crimsondevil333333/ops-dashboard"
+}

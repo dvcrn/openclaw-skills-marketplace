@@ -1,0 +1,10 @@
+{
+  "name": "damirikys--markitdown",
+  "description": "MarkItDown is a Python utility from Microsoft for converting various files (PDF, Word, Excel, PPTX, Images, Audio) to Markdown. Useful for extracting structured text for LLM analysis.",
+  "version": "1.0.4",
+  "author": {
+    "name": "damirikys"
+  },
+  "homepage": "https://github.com/microsoft/markitdown",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/damirikys/markitdown"
+}

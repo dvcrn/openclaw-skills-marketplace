@@ -1,0 +1,12 @@
+name: docker-container-manager
+version: 1.0.0
+description: Manage Docker containers - start, stop, restart, inspect
+category: Docker
+tags:
+  - docker
+  - container
+  - devops
+  - docker-compose
+author: mosonchan2023
+price: 0.001
+currency: USDT

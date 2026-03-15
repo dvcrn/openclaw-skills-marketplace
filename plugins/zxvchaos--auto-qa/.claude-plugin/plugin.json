@@ -1,0 +1,10 @@
+{
+  "name": "zxvchaos--auto-qa",
+  "description": "在 OpenClaw 平台执行网页自动 QA 测试（自动操作 + 采证 + 报告 + 修复提示包）。当用户要求做自动化回归、演示级测试、失败证据归档或生成可直接交给下一窗口的修复 Prompt 时使用。",
+  "version": "1.2.0",
+  "author": {
+    "name": "zxvchaos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zxvchaos/auto-qa",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zxvchaos/auto-qa"
+}

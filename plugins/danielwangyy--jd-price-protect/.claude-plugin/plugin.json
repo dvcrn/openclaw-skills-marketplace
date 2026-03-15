@@ -1,0 +1,10 @@
+{
+  "name": "danielwangyy--jd-price-protect",
+  "description": "Auto-apply JD.com (京东) price protection on all eligible orders. Connects to Chrome via OpenClaw Browser Relay CDP, navigates to JD price protection page, clicks all \"申请价保\" buttons, and reports refund results. Supports pagination and scheduled cron usage.",
+  "version": "1.0.0",
+  "author": {
+    "name": "danielwangyy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danielwangyy/jd-price-protect",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danielwangyy/jd-price-protect"
+}

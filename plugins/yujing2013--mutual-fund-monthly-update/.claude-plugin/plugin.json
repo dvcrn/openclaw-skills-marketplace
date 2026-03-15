@@ -1,0 +1,10 @@
+{
+  "name": "yujing2013--mutual-fund-monthly-update",
+  "description": "基金月报信息提取。支持单文件上传和批量处理文件夹。自动学习Excel模板，从PDF月报提取数据，生成两份Excel（PDF信息Excel + 用户模板Excel）。",
+  "version": "2.3.0",
+  "author": {
+    "name": "yujing2013"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yujing2013/mutual-fund-monthly-update",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yujing2013/mutual-fund-monthly-update"
+}

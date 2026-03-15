@@ -1,0 +1,10 @@
+{
+  "name": "xyezir--oc-sre-on-demand-service",
+  "description": "Service blueprint for OpenClaw SRE support: health checks, connectivity repair, execution stabilization, and hardening guidance.",
+  "version": "0.1.0",
+  "author": {
+    "name": "xyezir"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xyezir/oc-sre-on-demand-service",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xyezir/oc-sre-on-demand-service"
+}

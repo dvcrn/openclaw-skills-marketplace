@@ -1,0 +1,10 @@
+{
+  "name": "giulianomorse--clawsight",
+  "description": "An embedded UX research skill that continuously studies how users interact with OpenClaw. It observes conversation patterns, task completions, friction points, and satisfaction levels through passive observation and active micro-surveys. Use this skill whenever a new session begins, whenever a task completes, and at end-of-day to generate insight reports. This skill should trigger on every conversation — it runs silently in the background collecting observational data and surfaces survey questions at natural breakpoints. Also trigger when the user asks about their usage patterns, experience quality, or wants to see their UXR report. CRITICAL: This skill never transmits data externally. All data stays local. The user manually shares reports if they choose to.",
+  "version": "1.0.0",
+  "author": {
+    "name": "giulianomorse"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/giulianomorse/clawsight",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/giulianomorse/clawsight"
+}

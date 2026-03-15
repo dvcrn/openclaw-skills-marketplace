@@ -1,0 +1,10 @@
+{
+  "name": "lacymorrow--polymarket-cli-trading",
+  "description": "Trade prediction markets on Polymarket using the official polymarket CLI. Use when the user wants to browse prediction markets, place bets, manage orders, check positions, view order books, or trade on market outcomes. Also use when they mention \"prediction market,\" \"bet,\" \"polymarket,\" \"YES/NO,\" \"order book,\" \"CLOB,\" \"limit order,\" \"market order,\" \"hedge,\" \"arbitrage,\" \"liquidity rewards,\" or \"conditional tokens.\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "lacymorrow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lacymorrow/polymarket-cli-trading",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lacymorrow/polymarket-cli-trading"
+}

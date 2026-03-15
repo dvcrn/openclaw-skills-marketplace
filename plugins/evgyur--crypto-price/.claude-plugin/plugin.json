@@ -1,0 +1,10 @@
+{
+  "name": "evgyur--crypto-price",
+  "description": "Get cryptocurrency token price and generate candlestick charts via CoinGecko API or Hyperliquid API. Use when user asks for token price, crypto price, price chart, or cryptocurrency market data.",
+  "version": "0.2.2",
+  "author": {
+    "name": "evgyur"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/evgyur/crypto-price",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/evgyur/crypto-price"
+}

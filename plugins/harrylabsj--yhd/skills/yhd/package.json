@@ -1,0 +1,26 @@
+{
+  "name": "yhd",
+  "version": "1.0.0",
+  "description": "Shop YHD.com (1号店) with smart deal finding, daily flash sales, fresh grocery navigation, and membership benefits guidance",
+  "main": "index.js",
+  "keywords": [
+    "yhd",
+    "1号店",
+    "shopping",
+    "grocery",
+    "flash-sale",
+    "fresh-food",
+    "ecommerce",
+    "openclaw-skill"
+  ],
+  "author": "harrylabsj",
+  "license": "MIT",
+  "peerDependencies": {
+    "openclaw": ">=0.1.0"
+  },
+  "homepage": "https://clawic.com/skills/yhd",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harrylabsj/yhd.git"
+  }
+}

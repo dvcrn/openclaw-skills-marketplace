@@ -1,0 +1,9 @@
+# No external dependencies are strictly required. 
+# The skill relies on Python 3 standard libraries:
+# xmlrpc.client
+# ssl
+# os
+# logging
+# argparse
+# urllib.request
+# base64

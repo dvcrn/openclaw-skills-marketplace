@@ -1,0 +1,10 @@
+{
+  "name": "shaiss--local-approvals",
+  "description": "Local approval system for managing agent permissions. Use CLI to approve/deny requests, view history, and manage auto-approved categories.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shaiss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shaiss/local-approvals",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shaiss/local-approvals"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wpank--rebalance-position",
+  "description": "Rebalance an out-of-range Uniswap V3/V4 LP position by closing the old position and opening a new one centered on the current price. Handles fee collection, removal, range calculation, and re-entry in a single workflow. Use when a position is out of range and needs adjustment.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/rebalance-position",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/rebalance-position"
+}

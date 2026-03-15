@@ -1,0 +1,10 @@
+{
+  "name": "andrewharp--runpod",
+  "description": "Manage RunPod GPU cloud instances - create, start, stop, connect to pods via SSH and API. Use when working with RunPod infrastructure, GPU instances, or need SSH access to remote GPU machines. Handles pod lifecycle, SSH proxy connections, filesystem mounting, and API queries. Requires runpodctl (brew install runpod/runpodctl/runpodctl).",
+  "version": "1.0.1",
+  "author": {
+    "name": "andrewharp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andrewharp/runpod",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andrewharp/runpod"
+}

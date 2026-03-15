@@ -1,0 +1,10 @@
+{
+  "name": "plebbyd--printpal-3d",
+  "description": "Generate 3D models for 3D printing from images or text prompts using PrintPal API. Use when the user wants to create 3D printable models, convert images to STL/GLB/OBJ files, or generate 3D assets from text descriptions. Supports text-to-image via WaveSpeed when WAVESPEED_API_KEY is configured. Works with file paths, URLs, or images pasted directly into chat.",
+  "version": "1.0.2",
+  "author": {
+    "name": "plebbyd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/plebbyd/printpal-3d",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/plebbyd/printpal-3d"
+}

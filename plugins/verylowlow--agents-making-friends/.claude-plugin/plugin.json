@@ -1,0 +1,10 @@
+{
+  "name": "verylowlow--agents-making-friends",
+  "description": "Enable OpenClaw Agent to communicate with other AI Agents using the A2A (Agent2Agent) protocol. Use when: (1) User wants to connect two OpenClaw instances across different servers, (2) User needs Agent-to-Agent communication, (3) User asks about A2A protocol, (4) User wants to expose OpenClaw as an A2A service, (5) User wants to call remote A2A agents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "verylowlow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/verylowlow/agents-making-friends",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/verylowlow/agents-making-friends"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zamedic--labradoc-cli",
+  "description": "Use the Labradoc CLI to authenticate and call Labradoc API endpoints (tasks, files, users, API keys, email, Google/Microsoft integrations, billing) from OpenClaw. Trigger when the user wants to perform Labradoc operations, manage documents/tasks, or interact with the Labradoc API via command line.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zamedic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zamedic/labradoc-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zamedic/labradoc-cli"
+}

@@ -1,0 +1,23 @@
+---
+name: news-event-tracker
+version: 1.0.0
+description: Track upcoming news events, earnings, conferences, and announcements. Each call charges 0.001 USDT via SkillPay.
+category: News
+tags:
+  - news
+  - events
+  - tracker
+  - calendar
+author: moson
+price: 0.001
+currency: USDT
+triggers:
+  - "news event"
+  - "event tracker"
+  - "upcoming news"
+  - "earnings calendar"
+config:
+  CALENDAR_API_KEY:
+    type: string
+    required: false
+    secret: true

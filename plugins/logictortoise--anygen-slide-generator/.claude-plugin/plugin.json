@@ -1,0 +1,10 @@
+{
+  "name": "logictortoise--anygen-slide-generator",
+  "description": "Generate an editable PowerPoint (PPTX)/Slide deck from a prompt with AnyGen. Choose styles, page count, ratio, and auto-download the PPTX file. Triggers: make PPT, create slides, slide deck, presentation, quarterly review deck.",
+  "version": "1.5.7",
+  "author": {
+    "name": "logictortoise"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/logictortoise/anygen-slide-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/logictortoise/anygen-slide-generator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dongdongbear--page-agent",
+  "description": "Enhanced browser DOM manipulation using PageAgent's page-controller. Injects into any web page to provide precise DOM extraction, interactive element detection (cursor:pointer heuristic), and robust interaction (full event chain simulation, React-compatible input). Use when you need to operate on web pages with precision — clicking, typing, scrolling, form filling, or reading page structure. Combines with frontend-design skill for full design→code→browser-operate workflow.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dongdongbear"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dongdongbear/page-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dongdongbear/page-agent"
+}

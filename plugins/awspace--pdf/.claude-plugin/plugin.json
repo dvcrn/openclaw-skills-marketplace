@@ -1,0 +1,10 @@
+{
+  "name": "awspace--pdf",
+  "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale.",
+  "version": "0.1.0",
+  "author": {
+    "name": "awspace"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/awspace/pdf",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/awspace/pdf"
+}

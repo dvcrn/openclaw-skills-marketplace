@@ -1,0 +1,10 @@
+{
+  "name": "asimons81--on-this-day-art",
+  "description": "Daily AI image generation from Wikipedia On This Day events using local ComfyUI.\n Use when user wants daily historical images, on this day art, or local AI image generation workflow.\n Does NOT: use cloud APIs, generate videos, or handle SD 3.5 (unstable on laptop).",
+  "version": "1.0.0",
+  "author": {
+    "name": "asimons81"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/asimons81/on-this-day-art",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/asimons81/on-this-day-art"
+}

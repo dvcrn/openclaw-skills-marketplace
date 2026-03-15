@@ -1,0 +1,10 @@
+{
+  "name": "reighlan--tpm-copilot",
+  "description": "AI-powered operating system for Technical Program Managers and Project Managers. Pulls data from Jira, Linear, GitHub, and calendars to auto-generate status reports, track risks and blockers, manage meeting workflows, map dependencies, and deliver stakeholder dashboards. Use when: (1) generating status reports or program updates, (2) tracking risks, blockers, or stale tickets, (3) preparing meeting agendas or extracting action items, (4) mapping cross-team dependencies, (5) creating stakeholder dashboards, (6) monitoring sprint health or velocity, (7) writing executive summaries, or (8) automating any TPM/PM workflow.",
+  "version": "1.0.0",
+  "author": {
+    "name": "reighlan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/reighlan/tpm-copilot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/reighlan/tpm-copilot"
+}

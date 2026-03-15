@@ -1,0 +1,10 @@
+{
+  "name": "oscraters--nasdaq-public",
+  "description": "Query Nasdaq public market APIs from scripts or agent workflows. Use when you need Nasdaq stock screener pulls, symbol lists, pagination over screener rows, or guidance on official Nasdaq Data Link public API docs (authentication, API types, and rate limits).",
+  "version": "1.0.0",
+  "author": {
+    "name": "oscraters"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oscraters/nasdaq-public",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oscraters/nasdaq-public"
+}

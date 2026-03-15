@@ -1,0 +1,10 @@
+{
+  "name": "patfitzner--steam-games-updates",
+  "description": "Fetch recent game updates from Steam News. Use when the user asks about game patches, updates, or news for their tracked Steam games, or wants to add/remove games from their tracking list.",
+  "version": "1.0.0",
+  "author": {
+    "name": "patfitzner"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/patfitzner/steam-games-updates",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/patfitzner/steam-games-updates"
+}

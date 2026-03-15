@@ -1,0 +1,10 @@
+{
+  "name": "psyduckler--instagram-photo-find",
+  "description": "Find high-quality Instagram photos for any destination or place. Searches for Instagram posts via web search, downloads candidate images, vision-scores them for quality and iconic-ness, and returns the best matches with source URLs. Use when you need travel/destination photos from Instagram, hero images for a location, or Instagram post images for any place or attraction.",
+  "version": "1.0.0",
+  "author": {
+    "name": "psyduckler"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/psyduckler/instagram-photo-find",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/psyduckler/instagram-photo-find"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "leo3linbeck--sveltekit-webapp",
+  "description": "Scaffold and configure a production-ready SvelteKit PWA with opinionated defaults.\n Use when: creating a new web application, setting up a SvelteKit project, building a PWA,\n or when a user asks to \"build me an app/site/webapp\". Handles full setup including TypeScript,\n Tailwind, Skeleton + Bits UI components, testing, linting, and Vercel deployment.\n Generates a PRD with user stories for review, then upon user approval, builds through\n development, staging, and production with user approval at each stage.",
+  "version": "1.1.1",
+  "author": {
+    "name": "leo3linbeck"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leo3linbeck/sveltekit-webapp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leo3linbeck/sveltekit-webapp"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "reg2005--mac-compute-use",
+  "description": "Control macOS applications via Accessibility API through an MCP server. Open apps, click buttons, type text, press keys, scroll, and read UI state. Use when: (1) interacting with native macOS apps (Finder, Messages, Mail, etc.), (2) automating GUI workflows — clicking, typing, navigating menus, (3) reading screen content or UI state from any app, (4) controlling browsers for web automation without browser extensions, (5) any task requiring 'computer use' or 'desktop control' on macOS. NOT for: Linux/Windows, headless servers, or tasks achievable via CLI/API without GUI.",
+  "version": "0.1.0",
+  "author": {
+    "name": "reg2005"
+  },
+  "homepage": "https://github.com/mediar-ai/mcp-server-macos-use",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/reg2005/mac-compute-use"
+}

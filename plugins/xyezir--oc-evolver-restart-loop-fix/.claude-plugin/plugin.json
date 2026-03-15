@@ -1,0 +1,10 @@
+{
+  "name": "xyezir--oc-evolver-restart-loop-fix",
+  "description": "Repair Evolver restart storms caused by singleton lock/PID false positives and service restart policy mismatch.",
+  "version": "0.1.0",
+  "author": {
+    "name": "xyezir"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xyezir/oc-evolver-restart-loop-fix",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xyezir/oc-evolver-restart-loop-fix"
+}

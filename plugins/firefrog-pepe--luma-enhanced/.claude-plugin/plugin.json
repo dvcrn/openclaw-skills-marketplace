@@ -1,0 +1,10 @@
+{
+  "name": "firefrog-pepe--luma-enhanced",
+  "description": "Fetch upcoming events from Luma (lu.ma) for any city. Use when the user asks about tech events, startup meetups, networking events, conferences, or things happening in cities around the world. Returns events with details including venue, date, hosts, ticket status, and links.",
+  "version": "1.1.1",
+  "author": {
+    "name": "firefrog-pepe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/firefrog-pepe/luma-enhanced",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/firefrog-pepe/luma-enhanced"
+}

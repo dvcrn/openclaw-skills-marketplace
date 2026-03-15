@@ -1,0 +1,10 @@
+{
+  "name": "t-sinclair2500--lm-studio-subagents",
+  "description": "Reduces token usage from paid providers by offloading work to local LM Studio models. Use when: (1) Cutting costs—use local models for summarization, extraction, classification, rewriting, first-pass review, brainstorming when quality suffices, (2) Avoiding paid API calls for high-volume or repetitive tasks, (3) No extra model configuration—JIT loading and REST API work with existing LM Studio setup, (4) Local-only or privacy-sensitive work. Requires LM Studio 0.4+ with server (default :1234). No CLI required.",
+  "version": "1.0.3",
+  "author": {
+    "name": "t-sinclair2500"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/t-sinclair2500/lm-studio-subagents",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/t-sinclair2500/lm-studio-subagents"
+}

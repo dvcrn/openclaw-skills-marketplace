@@ -1,0 +1,10 @@
+{
+  "name": "mayuqi-crypto--stealth-browser",
+  "description": "Ultimate stealth browser automation with anti-detection, Cloudflare bypass, CAPTCHA solving, persistent sessions, and silent operation. Use for any web automation requiring bot detection evasion, login persistence, headless browsing, or bypassing security measures. Triggers on \"bypass cloudflare\", \"solve captcha\", \"stealth browse\", \"silent automation\", \"persistent login\", \"anti-detection\", or any task needing undetectable browser automation. When user asks to \"login to X website\", automatically use headed mode for login, then save session for future headless reuse.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mayuqi-crypto"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mayuqi-crypto/stealth-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mayuqi-crypto/stealth-browser"
+}

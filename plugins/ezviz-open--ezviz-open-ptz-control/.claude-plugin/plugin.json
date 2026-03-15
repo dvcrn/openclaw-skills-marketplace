@@ -1,0 +1,10 @@
+{
+  "name": "ezviz-open--ezviz-open-ptz-control",
+  "description": "萤石开放平台云台设备控制技能。支持设备列表查询、设备状态查询、云台控制 (PTZ)、预置点管理等功能。Use when: 需要控制萤石云台设备、调整摄像头角度、设置预置点。",
+  "version": "1.0.1",
+  "author": {
+    "name": "ezviz-open"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ezviz-open/ezviz-open-ptz-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ezviz-open/ezviz-open-ptz-control"
+}

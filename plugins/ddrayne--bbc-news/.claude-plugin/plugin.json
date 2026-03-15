@@ -1,0 +1,10 @@
+{
+  "name": "ddrayne--bbc-news",
+  "description": "Fetch and display BBC News stories from various sections and regions via RSS feeds. Use when the user asks for BBC news, UK news headlines, world news from BBC, or news from specific BBC sections (technology, business, politics, science, health, entertainment, regional UK news, or world regions).",
+  "version": "1.0.0",
+  "author": {
+    "name": "ddrayne"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ddrayne/bbc-news",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ddrayne/bbc-news"
+}

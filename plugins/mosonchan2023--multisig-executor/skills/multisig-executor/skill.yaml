@@ -1,0 +1,12 @@
+name: multisig-executor
+slug: multisig-executor
+version: 1.0.0
+author: moson
+permissions:
+  - network
+entryPoint:
+  type: typescript
+  path: index.js
+price:
+  amount: .001
+  currency: USDT

@@ -1,0 +1,10 @@
+{
+  "name": "obekt--big-memory",
+  "description": "Structured task snapshot and automatic post-compaction recovery. Captures exact code, decisions, file paths, and task state before context compaction and recovers them after. Use when context is lost, when the user says \"you forgot\" or \"what was I working on\", when approaching context limits, or before long multi-step sessions. Also activates on \"/big-memory\", \"save snapshot\", \"checkpoint\", or \"restore context\". Zero external dependencies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "obekt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/obekt/big-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/obekt/big-memory"
+}

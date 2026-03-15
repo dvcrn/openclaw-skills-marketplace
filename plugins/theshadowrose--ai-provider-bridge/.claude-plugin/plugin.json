@@ -1,0 +1,10 @@
+{
+  "name": "theshadowrose--ai-provider-bridge",
+  "description": "One interface to call 6 AI providers. Swap models with a config change, not a code rewrite. Zero external dependencies.",
+  "version": "1.0.3",
+  "author": {
+    "name": "theshadowrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/ai-provider-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/ai-provider-bridge"
+}

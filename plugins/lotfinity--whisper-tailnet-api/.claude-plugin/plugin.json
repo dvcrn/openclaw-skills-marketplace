@@ -1,0 +1,10 @@
+{
+  "name": "lotfinity--whisper-tailnet-api",
+  "description": "Consume the shared Whisper speech-to-text API over Tailnet at http://100.92.116.99:8765 using OpenAI-compatible audio transcription endpoint (/v1/audio/transcriptions). Use when an agent needs remote transcription checks, request examples, language hints, timing tests, or troubleshooting response/output.",
+  "version": "0.1.1",
+  "author": {
+    "name": "lotfinity"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lotfinity/whisper-tailnet-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lotfinity/whisper-tailnet-api"
+}

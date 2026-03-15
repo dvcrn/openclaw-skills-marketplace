@@ -1,0 +1,10 @@
+{
+  "name": "xixihhhh--seedance-ai-video",
+  "description": "Generate AI videos using ByteDance's Seedance 1.5 Pro — a native audio-visual joint generation model with cinematic camera control, multi-language lip-sync, and synchronized audio generation. Supports text-to-video and image-to-video, up to 720p resolution, and 5-12 second duration. Available via Atlas Cloud API. Use this skill whenever the user wants to generate AI videos, create video clips, animate images, produce short films, make video content with audio, or mentions Seedance, ByteDance video, Jimeng, or Dreamina. Also trigger when users ask to create product demos, marketing videos, social media reels, animated scenes, cinematic clips, talking head videos, or any video content using AI.",
+  "version": "1.1.0",
+  "author": {
+    "name": "xixihhhh"
+  },
+  "homepage": "https://github.com/AtlasCloudAI/nano-banana-2-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xixihhhh/seedance-ai-video"
+}

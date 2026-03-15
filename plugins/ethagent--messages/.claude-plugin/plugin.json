@@ -1,0 +1,10 @@
+{
+  "name": "ethagent--messages",
+  "description": "A comprehensive AI agent skill for managing the full spectrum of incoming messages across email, chat, and other communication channels. Triages by urgency and importance, drafts replies in your voice, tracks threads waiting for responses, reduces notification noise, and gives you a single clear picture of your communication landscape every day.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ethagent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ethagent/messages",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ethagent/messages"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "levineam--rule-creation",
+  "description": "Auto-triggers Context Engineering compliance and Lobster enforcement when proposing, creating, or formalizing rules, policies, processes, or behavioral constraints. Implements the principle: the act of stating a rule IS the trigger to wire it.",
+  "version": "1.1.0",
+  "author": {
+    "name": "levineam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/levineam/rule-creation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/levineam/rule-creation"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zurbrick--gateway-sentinel",
+  "description": "Production-hardened OpenClaw gateway watchdog. Monitors the gateway process using graduated health checks, performs escalating repairs (restart → doctor fix → optional git rollback), alerts via Telegram and/or Discord, commits daily snapshots, and runs as a native macOS launchd or Linux systemd service.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zurbrick"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zurbrick/gateway-sentinel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zurbrick/gateway-sentinel"
+}

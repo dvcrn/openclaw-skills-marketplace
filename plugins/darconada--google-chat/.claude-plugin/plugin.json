@@ -1,0 +1,10 @@
+{
+  "name": "darconada--google-chat",
+  "description": "Send messages to Google Chat spaces and users via webhooks or OAuth. Use when you need to send notifications, alerts, or messages to Google Chat channels (spaces) or direct messages to specific users. Supports both incoming webhooks (for predefined channels) and OAuth 2.0 (for dynamic messaging to any space or user).",
+  "version": "1.0.0",
+  "author": {
+    "name": "darconada"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/darconada/google-chat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/darconada/google-chat"
+}

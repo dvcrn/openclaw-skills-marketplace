@@ -1,0 +1,10 @@
+{
+  "name": "abdhilabs--config-guardian",
+  "description": "Safe OpenClaw config updates with automatic backup, validation, and rollback. For agent use - prevents invalid config updates.",
+  "version": "1.0.1",
+  "author": {
+    "name": "abdhilabs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abdhilabs/config-guardian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abdhilabs/config-guardian"
+}

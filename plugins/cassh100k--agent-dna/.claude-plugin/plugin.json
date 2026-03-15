@@ -1,0 +1,10 @@
+{
+  "name": "cassh100k--agent-dna",
+  "description": "Portable agent identity encoding. Compress SOUL.md/MEMORY.md into transferable DNA fingerprints, detect identity drift between snapshots, and port personality across platforms (OpenClaw, Claude, GPT, CrewAI). Pure Python, zero dependencies. Use when migrating agents between platforms, detecting personality drift, or backing up agent identity.",
+  "version": "0.1.0",
+  "author": {
+    "name": "cassh100k"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cassh100k/agent-dna",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cassh100k/agent-dna"
+}

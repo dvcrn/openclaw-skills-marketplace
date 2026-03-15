@@ -1,0 +1,10 @@
+{
+  "name": "upupc--clawhub-install",
+  "description": "Download and install skills from ClawHub directly via curl, bypassing official CLI rate limits. Use when the user wants to install one or more ClawHub skills but the official installation command is rate-limited or failing.",
+  "version": "1.0.1",
+  "author": {
+    "name": "upupc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/upupc/clawhub-install",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/upupc/clawhub-install"
+}

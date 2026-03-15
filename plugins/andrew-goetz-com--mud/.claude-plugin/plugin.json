@@ -1,0 +1,10 @@
+{
+  "name": "andrew-goetz-com--mud",
+  "description": "Operate and maintain the persistent MUD agent for OpenClaw. Use when running MUD engine commands, smoke-testing mud state behavior, validating save/restore, diagnosing MUD data issues, or handling MUD deployment operations.",
+  "version": "1.0.1",
+  "author": {
+    "name": "andrew-goetz-com"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andrew-goetz-com/mud",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andrew-goetz-com/mud"
+}

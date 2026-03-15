@@ -1,0 +1,10 @@
+{
+  "name": "poolside-ventures--meetbot",
+  "description": "Schedule and book meetings using the Meet.bot MCP server (mcp.meet.bot). Use when the user wants to check calendar availability, find open time slots, book a meeting with a guest, get a shareable booking link, or list their Meet.bot scheduling pages. Requires a Meet.bot API key as a Bearer token.",
+  "version": "1.0.0",
+  "author": {
+    "name": "poolside-ventures"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/poolside-ventures/meetbot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/poolside-ventures/meetbot"
+}

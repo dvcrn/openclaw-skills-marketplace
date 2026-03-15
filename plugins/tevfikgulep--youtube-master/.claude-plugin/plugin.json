@@ -1,0 +1,10 @@
+{
+  "name": "tevfikgulep--youtube-master",
+  "description": "Get YouTube video info, statistics, descriptions, thumbnails, and optionally transcripts. Uses YouTube Data API (free) for basic info and Apify (optional) for transcripts.",
+  "version": "1.0.2",
+  "author": {
+    "name": "tevfikgulep"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tevfikgulep/youtube-master",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tevfikgulep/youtube-master"
+}

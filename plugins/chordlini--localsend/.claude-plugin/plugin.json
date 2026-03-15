@@ -1,0 +1,10 @@
+{
+  "name": "chordlini--localsend",
+  "description": "Send and receive files to/from nearby devices using the LocalSend protocol. Trigger with /localsend to get an interactive Telegram menu with real inline buttons — device discovery, file sending, text sending, and receiving.",
+  "version": "3.4.0",
+  "author": {
+    "name": "chordlini"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chordlini/localsend",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chordlini/localsend"
+}

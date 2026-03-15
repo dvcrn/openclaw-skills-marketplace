@@ -1,0 +1,10 @@
+{
+  "name": "liuhedev--lh-html-to-image",
+  "description": "Generate images from HTML+CSS via Chrome headless screenshot. Perfect for covers, posters, info cards, and text-layout images. Zero API cost, 100% accurate text rendering. Triggers: \"generate cover\", \"poster\", \"HTML to image\", \"make image\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "liuhedev"
+  },
+  "homepage": "https://github.com/liuhedev/lh-openclaw-kit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/liuhedev/lh-html-to-image"
+}

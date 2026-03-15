@@ -1,0 +1,10 @@
+{
+  "name": "vinzeny--feishu-group-memory",
+  "description": "Extract and store structured information from Feishu group messages, then query it and get AI-generated insights. Use when the user wants to: record what's been discussed in a group, look up a customer or project status, get a summary of recent activity, or ask for advice based on chat history. Supports built-in industry knowledge packs (sales, customer service, legal, project management) and custom packs generated from a plain-language description. Read operations are free; analysis and advice are billed per call via SkillPay.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vinzeny"
+  },
+  "homepage": "https://github.com/your-github/feishu-group-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vinzeny/feishu-group-memory"
+}

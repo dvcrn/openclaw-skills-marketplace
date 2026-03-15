@@ -1,0 +1,10 @@
+{
+  "name": "drones277--tg-image-sender",
+  "description": "Send test or generated images directly to Telegram chats using the message tool with Picsum.photos URLs or custom media. Use when the user requests to 'send photo', 'generate image here in TG', or show/test images in Telegram (e.g., 'пришли фото', 'покажи картинку').",
+  "version": "1.0.0",
+  "author": {
+    "name": "drones277"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/drones277/tg-image-sender",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/drones277/tg-image-sender"
+}

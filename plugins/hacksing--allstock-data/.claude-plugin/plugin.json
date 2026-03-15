@@ -1,0 +1,10 @@
+{
+  "name": "hacksing--allstock-data",
+  "description": "Stock market data query skill for China A-shares, Hong Kong, and US markets. Uses Tencent Finance HTTP API by default (lightweight, no install needed), with optional adata SDK for more comprehensive data. Supports real-time quotes, K-line history, order book analysis, and more.",
+  "version": "1.0.2",
+  "author": {
+    "name": "hacksing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hacksing/allstock-data",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hacksing/allstock-data"
+}

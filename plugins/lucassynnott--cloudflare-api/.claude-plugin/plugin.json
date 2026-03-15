@@ -1,0 +1,10 @@
+{
+  "name": "lucassynnott--cloudflare-api",
+  "description": "Connect to Cloudflare API for DNS management, tunnels, and zone administration. Use when user needs to manage domains, DNS records, or create tunnels.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lucassynnott"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lucassynnott/cloudflare-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lucassynnott/cloudflare-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dacervera--quorum",
+  "description": "Multi-agent validation framework (v0.5.0). Deterministic pre-screen + 4 independent AI critics evaluate artifacts (documents, configs, code, research) against rubrics with evidence-grounded findings. Supports batch validation and cross-artifact consistency checks.",
+  "version": "0.5.1",
+  "author": {
+    "name": "dacervera"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dacervera/quorum",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dacervera/quorum"
+}

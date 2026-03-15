@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--gitstats",
+  "description": "Analyze and visualize Git commit time distribution. Use when users need to analyze Git repository commit patterns, generate commit statistics, visualize commit activity by time, hour, or weekday. Triggered by requests to analyze commits, show commit distribution, visualize Git activity, or generate commit time statistics.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/gitstats",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/gitstats"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wpank--code-review",
+  "description": "Systematic code review patterns covering security, performance, maintainability, correctness, and testing — with severity levels, structured feedback guidance, review process, and anti-patterns to avoid. Use when reviewing PRs, establishing review standards, or improving review quality.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/code-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/code-review"
+}

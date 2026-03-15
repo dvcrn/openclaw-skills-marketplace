@@ -1,0 +1,10 @@
+{
+  "name": "humanrupert--tether-wallet-development-kit",
+  "description": "Tether Wallet Development Kit (WDK) for building non-custodial multi-chain wallets. Use when working with @tetherto/wdk-core, wallet modules (wdk-wallet-btc, wdk-wallet-evm, wdk-wallet-evm-erc-4337, wdk-wallet-solana, wdk-wallet-spark, wdk-wallet-ton, wdk-wallet-tron, ton-gasless, tron-gasfree), and protocol modules including swap (wdk-protocol-swap-velora-evm, wdk-protocol-swap-stonfi-ton), bridge (wdk-protocol-bridge-usdt0-evm), lending (wdk-protocol-lending-aave-evm), and fiat (wdk-protocol-fiat-moonpay). Covers wallet creation, transactions, token transfers, DEX swaps, cross-chain bridges, DeFi lending/borrowing, and fiat on/off ramps.",
+  "version": "1.0.3",
+  "author": {
+    "name": "humanrupert"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/humanrupert/tether-wallet-development-kit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/humanrupert/tether-wallet-development-kit"
+}

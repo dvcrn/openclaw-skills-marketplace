@@ -1,0 +1,10 @@
+{
+  "name": "imgolye--agent-usage-tracker",
+  "description": "Track AI agent token usage, model costs, and budget thresholds with a TypeScript and SQLite workflow. Use when the user wants to instrument agent runs, calculate token spend, enforce per-session or time-window budgets, or analyze usage by model, session, or time range.",
+  "version": "0.1.0",
+  "author": {
+    "name": "imgolye"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imgolye/agent-usage-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imgolye/agent-usage-tracker"
+}

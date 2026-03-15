@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--openai",
+  "description": "OpenAI API integration — chat completions, embeddings, image generation, audio transcription, file management, fine-tuning, and assistants via the OpenAI REST API. Generate text, create images with DALL-E, transcribe audio with Whisper, manage fine-tuning jobs, and build AI assistants. Built for AI agents — Python stdlib only, zero dependencies. Use for AI text generation, image creation, speech-to-text, embeddings, fine-tuning, and AI assistant building.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/openai"
+}

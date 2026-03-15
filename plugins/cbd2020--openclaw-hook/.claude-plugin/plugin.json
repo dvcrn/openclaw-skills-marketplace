@@ -1,0 +1,10 @@
+{
+  "name": "cbd2020--openclaw-hook",
+  "description": "Create, debug, and maintain OpenClaw Gateway internal hooks. Use when: (1) creating new hooks for agent events like bootstrap, (2) debugging hook execution issues, (3) understanding hook configuration and event structure, (4) injecting virtual bootstrap files, (5) fixing issues like Telegram notifications not sending, Content-Length errors, or context access problems. Triggers on phrases like \"create a hook\", \"fix hook\", \"debug hook\", \"hook not working\", \"internal hook\".",
+  "version": "1.0.2",
+  "author": {
+    "name": "cbd2020"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cbd2020/openclaw-hook",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cbd2020/openclaw-hook"
+}

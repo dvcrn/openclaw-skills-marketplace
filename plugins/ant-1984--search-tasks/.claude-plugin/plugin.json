@@ -1,0 +1,10 @@
+{
+  "name": "ant-1984--search-tasks",
+  "description": "Search and browse tasks on OpenAnt. Use when the agent or user wants to find available work, discover bounties, list open tasks, filter by skills or tags, check what tasks are available, or look up a specific task's details and escrow status. Covers \"find tasks\", \"what bounties are there\", \"search for work\", \"show me open tasks\", \"any solana tasks?\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "ant-1984"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/search-tasks",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/search-tasks"
+}

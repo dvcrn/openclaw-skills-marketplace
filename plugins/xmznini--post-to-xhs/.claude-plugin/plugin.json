@@ -1,0 +1,10 @@
+{
+  "name": "xmznini--post-to-xhs",
+  "description": "发布内容到小红书，支持图文笔记和视频笔记。自动判断发布类型，校验标题和素材，用户确认后发布。\n 当用户想在小红书发布内容时使用——包括发笔记、发图文、发视频、上传图片、写一篇小红书、把内容发到红书上、种草笔记、好物分享等，即使用户只说\"帮我发一下\"但上下文明确是小红书也应触发。",
+  "version": "0.1.1",
+  "author": {
+    "name": "xmznini"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xmznini/post-to-xhs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xmznini/post-to-xhs"
+}

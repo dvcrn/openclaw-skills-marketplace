@@ -1,0 +1,10 @@
+{
+  "name": "gakkiismywife--trace-debuger",
+  "description": "End-to-end trace debugging from trace_id. Fetch Jaeger trace and Elasticsearch logs, analyze possible bugs (optionally with local repository context), and generate a fixed-structure Markdown report for CI or tickets.",
+  "version": "0.2.1",
+  "author": {
+    "name": "gakkiismywife"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gakkiismywife/trace-debuger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gakkiismywife/trace-debuger"
+}

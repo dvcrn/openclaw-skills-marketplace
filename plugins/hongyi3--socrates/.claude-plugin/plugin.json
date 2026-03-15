@@ -1,0 +1,10 @@
+{
+  "name": "hongyi3--socrates",
+  "description": "Use when an agent is about to plan, choose an approach, do non-trivial coding, refactor, decompose work, or delegate and the quality of execution depends on exposing assumptions before acting. Run a concise Socratic self-Q&A to clarify the goal, surface unknowns, pressure-test risks, choose an approach, and define the next action. Default to one round and open a second round only when risk, ambiguity, missing constraints, or live tradeoffs remain unresolved.",
+  "version": "0.1.1",
+  "author": {
+    "name": "hongyi3"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hongyi3/socrates",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hongyi3/socrates"
+}

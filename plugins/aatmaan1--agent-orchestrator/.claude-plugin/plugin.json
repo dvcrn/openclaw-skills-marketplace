@@ -1,0 +1,10 @@
+{
+  "name": "aatmaan1--agent-orchestrator",
+  "description": "Meta-agent skill for orchestrating complex tasks through autonomous sub-agents. Decomposes macro tasks into subtasks, spawns specialized sub-agents with dynamically generated SKILL.md files, coordinates file-based communication, consolidates results, and dissolves agents upon completion.\n\n MANDATORY TRIGGERS: orchestrate, multi-agent, decompose task, spawn agents, sub-agents, parallel agents, agent coordination, task breakdown, meta-agent, agent factory, delegate tasks",
+  "version": "0.1.0",
+  "author": {
+    "name": "aatmaan1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aatmaan1/agent-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aatmaan1/agent-orchestrator"
+}

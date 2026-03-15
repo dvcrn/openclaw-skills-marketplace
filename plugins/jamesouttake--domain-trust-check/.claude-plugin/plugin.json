@@ -1,0 +1,10 @@
+{
+  "name": "jamesouttake--domain-trust-check",
+  "description": "URL safety scanner and domain reputation checker. Use when: checking if a URL is safe before visiting, scanning links in emails/messages, verifying domains for phishing/malware/scam. NOT for: submitting malicious domains for bounty rewards (use outtake-bounty-network).",
+  "version": "1.2.2",
+  "author": {
+    "name": "jamesouttake"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamesouttake/domain-trust-check",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamesouttake/domain-trust-check"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "guanyang--toutiao-publisher",
+  "description": "Publish articles to Toutiao (Today's Headlines). Handles persistent authentication (login once) and session management. Opens browser for interactive publishing.",
+  "version": "1.0.1",
+  "author": {
+    "name": "guanyang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guanyang/toutiao-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guanyang/toutiao-publisher"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--hollow-validation-checker",
+  "description": "Helps detect hollow validation in AI agent skills — identifies fake tests that always pass without actually verifying behavior, like validation commands that just run echo 'ok' or console.log('passed').",
+  "version": "1.0.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/hollow-validation-checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/hollow-validation-checker"
+}

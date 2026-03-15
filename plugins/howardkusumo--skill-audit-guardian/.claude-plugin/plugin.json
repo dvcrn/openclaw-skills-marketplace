@@ -1,0 +1,10 @@
+{
+  "name": "howardkusumo--skill-audit-guardian",
+  "description": "Audit dropped ClawHub skill ZIPs, classify risk (SAFE/CAUTION/REMOVE), auto-sort files, and generate a plain-English security dashboard.",
+  "version": "1.0.0",
+  "author": {
+    "name": "howardkusumo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/howardkusumo/skill-audit-guardian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/howardkusumo/skill-audit-guardian"
+}

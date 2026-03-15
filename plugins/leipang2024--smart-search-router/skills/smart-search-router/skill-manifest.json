@@ -1,0 +1,77 @@
+{
+  "name": "smart-search-router",
+  "version": "1.0.2",
+  "description": "Intelligently routes search queries between SearXNG and Gemini Search based on query complexity to optimize token usage",
+  "author": "StudioPANG",
+  "license": "MIT",
+  "main": "skill.js",
+  "tools": [
+    {
+      "name": "smart_search",
+      "description": "Search the web using SearXNG (for simple queries) or Gemini Search (for complex queries) to optimize token usage and answer quality. Automatically selects the best engine based on query complexity.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "query": {
+            "type": "string",
+            "description": "Search query string"
+          },
+          "forceEngine": {
+            "type": "string",
+            "description": "Force use of specific engine (optional): 'searxng' or 'gemini'",
+            "enum": ["searxng", "gemini"]
+          },
+          "limit": {
+            "type": "number",
+            "description": "Maximum results to return (default: 10)",
+            "minimum": 1,
+            "maximum": 50
+          }
+        },
+        "required": ["query"]
+      }
+    }
+  ],
+  "config": {
+    "type": "object",
+    "properties": {
+      "searxng": {
+        "type": "object",
+        "properties": {
+          "baseUrl": {
+            "type": "string",
+            "description": "SearXNG instance URL (required)"
+          },
+          "engines": {
+            "type": "string",
+            "default": "google,bing,duckduckgo"
+          },
+          "language": {
+            "type": "string",
+            "default": "zh-CN"
+          }
+        },
+        "required": ["baseUrl"]
+      },
+      "gemini": {
+        "type": "object",
+        "properties": {
+          "apiKey": {
+            "type": "string",
+            "description": "Gemini API key"
+          }
+        }
+      },
+      "complexityThreshold": {
+        "type": "number",
+        "default": 0.6,
+        "minimum": 0,
+        "maximum": 1
+      },
+      "useGeminiForComplex": {
+        "type": "boolean",
+        "default": true
+      }
+    }
+  }
+}

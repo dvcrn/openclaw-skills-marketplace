@@ -1,0 +1,10 @@
+{
+  "name": "pfrederiksen--photo-edit-analysis",
+  "description": "Analyze the composition, editing, and post-processing quality of a photograph. Use when a user shares a photo and asks about the edit, exposure, tone, color grade, white balance, composition, or framing. Also use when a user asks \"is this edited well?\", \"what would you fix?\", or similar. Delivers honest, specific critique with a letter grade.",
+  "version": "1.2.0",
+  "author": {
+    "name": "pfrederiksen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pfrederiksen/photo-edit-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pfrederiksen/photo-edit-analysis"
+}

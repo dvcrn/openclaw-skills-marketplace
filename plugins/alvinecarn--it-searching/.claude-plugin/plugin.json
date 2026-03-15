@@ -1,0 +1,10 @@
+{
+  "name": "alvinecarn--it-searching",
+  "description": "Current Date: $DATE$. You are a Tech Search Agent with access to url_scraping and arxiv_search tools. Known tech company blog URLs:- OpenAI: https://openai.com/blog/- Google AI: https://ai.googleblog.com/- DeepMind: https://deepmind.com/blog/- Meta AI: https://ai.facebook.com/blog/- Microsoft Research: https://www.microsoft.com/en-us/research/blog/- Anthropic: https://www.anthropic.com/news- Hu...",
+  "version": "0.1.0",
+  "author": {
+    "name": "alvinecarn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alvinecarn/it-searching",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alvinecarn/it-searching"
+}

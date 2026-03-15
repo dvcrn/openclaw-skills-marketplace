@@ -1,0 +1,10 @@
+{
+  "name": "andreisuslov--todoist-manager",
+  "description": "Manage Todoist tasks, projects, labels, and comments via the todoist CLI wrapper. Use when a user asks to add tasks, list todos, complete items, manage projects, or interact with their Todoist account.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andreisuslov"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andreisuslov/todoist-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andreisuslov/todoist-manager"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "skidvis--openclaw-skill-ideation",
+  "description": "Transform raw brain dumps (dictated freestyle) into structured implementation artifacts. Use when user has messy ideas, scattered thoughts, or dictated stream-of-consciousness, or when they want to plan a feature, spec something out, or turn rough ideas into actionable specs. Produces contracts and implementation specs written to ./docs/ideation/{project-name}/.",
+  "version": "0.1.0",
+  "author": {
+    "name": "skidvis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/skidvis/openclaw-skill-ideation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/skidvis/openclaw-skill-ideation"
+}

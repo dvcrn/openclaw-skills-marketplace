@@ -1,0 +1,10 @@
+{
+  "name": "lucascheung--lark-mcp",
+  "description": "Comprehensive Feishu/Lark integration skill for OpenClaw. Covers messaging, group management, Bitable (multi-dimensional tables), documents, calendar, video conferencing (vc.v1), meeting minutes (minutes.v1), task management, approval workflows, contacts, cloud drive, wiki/knowledge base. Requires the official Lark MCP server to be configured and running.",
+  "version": "1.0.1",
+  "author": {
+    "name": "lucascheung"
+  },
+  "homepage": "https://github.com/lucascheung/lark-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lucascheung/lark-mcp"
+}

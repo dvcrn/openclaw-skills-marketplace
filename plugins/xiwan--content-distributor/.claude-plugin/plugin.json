@@ -1,0 +1,10 @@
+{
+  "name": "xiwan--content-distributor",
+  "description": "多平台内容分发工具。用于在知乎、豆瓣、微博等中文平台发布内容。支持：(1) 发布帖子/文章 (2) 管理多平台账号 (3) 批量分发内容 (4) 追踪发布状态。触发词：发帖、发布、分发、知乎、豆瓣、微博、推广。",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiwan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiwan/content-distributor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiwan/content-distributor"
+}

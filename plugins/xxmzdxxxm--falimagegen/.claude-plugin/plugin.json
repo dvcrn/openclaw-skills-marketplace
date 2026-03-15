@@ -1,0 +1,10 @@
+{
+  "name": "xxmzdxxxm--falimagegen",
+  "description": "Call fal.ai model APIs for image generation (text-to-image and image-to-image). Use when a user asks to integrate fal, construct requests, run jobs, handle auth, or return image URLs from fal model APIs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xxmzdxxxm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xxmzdxxxm/falimagegen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xxmzdxxxm/falimagegen"
+}

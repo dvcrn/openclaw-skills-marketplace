@@ -1,0 +1,10 @@
+{
+  "name": "deeqyaqub1-cmd--zero-rules",
+  "description": "Intercept deterministic tasks (math, time, currency, files, scheduling) BEFORE they hit the LLM. Saves 50-70% on token costs by resolving simple queries locally with zero API calls.",
+  "version": "1.0.3",
+  "author": {
+    "name": "deeqyaqub1-cmd"
+  },
+  "homepage": "https://cascadeai.dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deeqyaqub1-cmd/zero-rules"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kapslap--soul-audit",
+  "description": "Evaluate any AI agent's soul file, system prompt, or AGENTS.md against the Guardian Angel v0.7\n framework (Forrest Landry's Immanent Metaphysics). Generates a scored report identifying\n ethical strengths, gaps, and violations. Use when: (1) reviewing an agent's soul file or\n system prompt for ethical grounding, (2) auditing your own agent's configuration, (3) comparing\n agent ethics against a rigorous philosophical framework, (4) preparing to upgrade an agent's\n ethical foundation. Triggers on: \"audit my soul file\", \"how good is my agent's ethics\",\n \"review my system prompt\", \"soul audit\", \"ethical audit\", \"check my agent's soul\".",
+  "version": "1.1.0",
+  "author": {
+    "name": "kapslap"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kapslap/soul-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kapslap/soul-audit"
+}

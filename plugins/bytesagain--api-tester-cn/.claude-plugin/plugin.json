@@ -1,0 +1,10 @@
+{
+  "name": "bytesagain--api-tester-cn",
+  "description": "API请求构造、curl命令生成、Mock数据、API文档、HTTP状态码速查、Headers说明。API request builder, curl generator, mock data, API documentation, HTTP status codes, headers reference.",
+  "version": "2.2.0",
+  "author": {
+    "name": "bytesagain"
+  },
+  "homepage": "https://bytesagain.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bytesagain/api-tester-cn"
+}

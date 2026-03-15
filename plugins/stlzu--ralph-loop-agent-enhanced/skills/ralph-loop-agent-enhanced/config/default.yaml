@@ -1,0 +1,73 @@
+# Default Configuration for Ralph Loop Agent
+# This file contains default settings for all modules
+
+# Core Loop Configuration
+loop_type: for              # Default loop type
+iterations: 5               # Default number of iterations
+delay_ms: 0                 # Default delay in milliseconds
+retry_count: 0              # Default retry count on failure
+continue_on_error: false    # Continue processing on errors
+
+# Progress Tracking
+progress_enabled: true     # Enable progress display
+progress_format: percentage # Progress display format (percentage/eta/bar)
+progress_update_interval: 0.1 # Update interval in seconds
+
+# Logging Configuration
+log_enabled: false          # Enable logging to file
+log_level: info             # Log level (debug, info, warn, error)
+log_format: text          # Log format (text, json)
+log_file: ""               # Log file path (empty for console)
+log_rotation: true         # Enable log rotation
+log_max_size: 10485760     # Maximum log size (10MB)
+log_backup_count: 5       # Number of backup logs to keep
+
+# Error Handling
+error_handler_enabled: true  # Enable error handling
+error_handler_log: true      # Log errors to file
+error_handler_max_retries: 3 # Maximum retry attempts
+error_handler_retry_delay: 1000 # Delay between retries (ms)
+
+# Configuration File Management
+config_file_search_paths:
+  - "~/.config/ralph-loop"
+  - "/etc/ralph-loop"
+  - "./config"
+config_auto_load: true      # Auto-load configuration files
+config_validation: true     # Validate configuration values
+
+# State Management (Phase 3 - Resumability)
+state_enabled: true         # Enable state persistence
+state_dir: ""              # State directory (empty for default)
+state_auto_save: true      # Auto-save state during execution
+state_checkpoint_interval: 10  # Checkpoint save interval (iterations)
+state_retention_days: 7    # Keep state files for this many days
+state_compression: false    # Compress state files
+
+# Rich Logging (Phase 2 - Advanced Features)
+rich_logging_enabled: false # Enable rich logging features
+rich_logging_format: json  # Rich logging format
+rich_logging_level: info    # Rich logging level
+rich_logging_max_size: 52428800 # 50MB max log size
+
+# Performance Optimization
+performance_optimized: true    # Enable performance optimizations
+memory_efficient: true        # Enable memory efficient mode
+minimal_output: false        # Minimize output to reduce overhead
+
+# Development/Debug Options
+debug_mode: false          # Enable debug mode
+verbose_output: false       # Enable verbose output
+trace_execution: false     # Trace execution flow
+performance_profiling: false # Enable performance profiling
+
+# Security Options
+security_validate_inputs: true   # Validate user inputs
+security_escape_outputs: true     # Escape output values
+security_sanitize_paths: true    # Sanitize file paths
+security_restrict_commands: false # Restrict dangerous commands
+
+# Compatibility Options
+bash_compatibility_mode: true    # Enable bash 3.2 compatibility mode
+strict_mode: true              # Enable strict error checking
+legacy_mode: false             # Enable legacy compatibility mode

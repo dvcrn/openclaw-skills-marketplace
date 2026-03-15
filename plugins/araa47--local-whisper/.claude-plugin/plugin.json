@@ -1,0 +1,10 @@
+{
+  "name": "araa47--local-whisper",
+  "description": "Local speech-to-text using OpenAI Whisper. Runs fully offline after model download. High quality transcription with multiple model sizes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "araa47"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/araa47/local-whisper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/araa47/local-whisper"
+}

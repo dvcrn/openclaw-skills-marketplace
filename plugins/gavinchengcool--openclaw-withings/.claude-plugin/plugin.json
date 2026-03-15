@@ -1,0 +1,10 @@
+{
+  "name": "gavinchengcool--openclaw-withings",
+  "description": "Official Withings OAuth integration for OpenClaw. Use to connect/authorize a personal Withings account, store+refresh tokens locally, and fetch health measurements (weight, body fat, blood pressure, heart rate) plus sleep summaries where available. Supports today/yesterday by timezone and produces normalized daily JSON for the Wellness hub.",
+  "version": "0.1.0",
+  "author": {
+    "name": "gavinchengcool"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gavinchengcool/openclaw-withings",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gavinchengcool/openclaw-withings"
+}

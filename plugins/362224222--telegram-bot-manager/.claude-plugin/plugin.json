@@ -1,0 +1,10 @@
+{
+  "name": "362224222--telegram-bot-manager",
+  "description": "Manage and configure Telegram bots for OpenClaw. Use when setting up Telegram integrations, troubleshooting bot connectivity, configuring bot tokens, or managing Telegram channel/webhook settings. Handles bot registration, token validation, and network connectivity checks for api.telegram.org.",
+  "version": "1.0.0",
+  "author": {
+    "name": "362224222"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/362224222/telegram-bot-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/362224222/telegram-bot-manager"
+}

@@ -1,0 +1,141 @@
+{
+  "name": "agentshield",
+  "version": "1.0.22",
+  "description": "Complete security audit suite with 77 REAL tests (52 live attacks + 25 static checks) for AI agents. Includes Trust Handshake Protocol for agent-to-agent verification. All scripts bundled locally - no external code fetching.",
+  "author": "Kalle-OC (bartelmost)",
+  "license": "MIT",
+  "homepage": "https://github.com/bartelmost/agentshield",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bartelmost/agentshield.git"
+  },
+  "tags": [
+    "security",
+    "audit",
+    "cryptography",
+    "agent-identity",
+    "trust",
+    "certificates",
+    "verified",
+    "bundled"
+  ],
+  "triggers": [
+    "audit my agent",
+    "get security certificate",
+    "verify agent",
+    "activate agentshield",
+    "security audit",
+    "check agent security"
+  ],
+  "installation": {
+    "method": "bundle",
+    "bundle_structure": "flat",
+    "note": "All scripts are bundled locally. No external code fetching.",
+    "dependencies": {
+      "python": ">=3.8",
+      "packages": [
+        "cryptography>=41.0.0",
+        "requests>=2.31.0"
+      ]
+    }
+  },
+  "scripts": {
+    "install": "pip install -r requirements.txt",
+    "audit": "python initiate_audit.py --auto",
+    "audit-manual": "python initiate_audit.py --name 'MyAgent' --platform telegram",
+    "test": "python agentshield_tester.py --config agent_config.json --prompt system_prompt.txt",
+    "verify": "python verify_peer.py",
+    "show-cert": "python show_certificate.py",
+    "handshake": "python handshake.py --target agent_xxxxx"
+  },
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "QUICKSTART.md",
+    "INSTALLATION.md",
+    "CHANGELOG.md",
+    "clawhub.json",
+    "requirements.txt",
+    "sandbox_config.yaml",
+    "setup.py",
+    "__init__.py",
+    "initiate_audit.py",
+    "verify_peer.py",
+    "show_certificate.py",
+    "audit_client.py",
+    "verify_bundle.py",
+    "input_sanitizer.py",
+    "output_dlp.py",
+    "tool_sandbox.py",
+    "echoleak_test.py",
+    "secret_scanner.py",
+    "supply_chain_scanner.py",
+    "agentshield_tester.py",
+    "TESTING.md",
+    "handshake.py"
+  ],
+  "privacy": {
+    "data_collection": "none",
+    "bundle_status": "verified",
+    "code_fetching": "none",
+    "api_communication": "AgentShield API (agentshield.live/api) [DEV/BETA endpoint] for audit submission and certificate signing only",
+    "local_storage": [
+      "~/.openclaw/workspace/.agentshield/agent.key (Ed25519 private key)",
+      "~/.openclaw/workspace/.agentshield/certificate.json (signed certificate)",
+      "~/.openclaw/workspace/.agentshield/config.json (configuration)"
+    ],
+    "private_keys": "Private keys are generated locally and NEVER leave the user's workspace",
+    "environment_variables": {
+      "read": [
+        "AGENTSHIELD_API",
+        "AGENT_NAME",
+        "OPENCLAW_AGENT_NAME"
+      ],
+      "purpose": "Optional configuration only - API endpoint override and agent name auto-detection",
+      "secrets_scanned": false,
+      "note": "Does NOT scan for tokens (TELEGRAM_TOKEN, DISCORD_TOKEN, etc.)"
+    },
+    "human_in_loop": {
+      "required": true,
+      "flow": [
+        "Before reading IDENTITY.md/SOUL.md: Explicit user consent required",
+        "Before generating keys: User confirmation required",
+        "Before sending public key: User confirmation required"
+      ],
+      "bypass_option": "Use --name and --platform flags for manual mode (no file access). Note: --yes flag has been removed for security - consent is always required."
+    }
+  },
+  "security": {
+    "permissions_required": [
+      "file_read (IDENTITY.md, SOUL.md - with consent only)",
+      "file_write",
+      "network_outbound"
+    ],
+    "sandboxing": "Optional tool sandboxing via sandbox_config.yaml",
+    "secrets_handling": "No API keys required. Private keys stored locally with 600 permissions.",
+    "rate_limiting": "1 audit per hour per IP (enforced server-side)"
+  },
+  "compatibility": {
+    "platforms": [
+      "discord",
+      "telegram",
+      "slack",
+      "signal",
+      "whatsapp",
+      "cli"
+    ],
+    "openclaw_version": ">=0.5.0"
+  },
+  "support": {
+    "documentation": "https://github.com/bartelmost/agentshield",
+    "issues": "https://github.com/bartelmost/agentshield/issues",
+    "contact": "@Kalle-OC on Moltbook"
+  },
+  "verified": {
+    "status": "pending_review",
+    "bundle_integrity": "All scripts bundled locally",
+    "external_fetching": false,
+    "human_in_loop": true,
+    "audit_date": null
+  }
+}

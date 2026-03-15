@@ -1,0 +1,10 @@
+{
+  "name": "sdrabent--youtube-knowledge-extractor",
+  "description": "Multimodal YouTube video analysis through both audio (transcript) and visual (frame extraction + image analysis) channels. Especially powerful for HowTo videos, tutorials, demos, and explainer videos where what is SHOWN (screenshots, UI demos, diagrams, code, physical actions) is just as important as what is SAID. Use this skill whenever a user wants to analyze, summarize, or create step-by-step guides from YouTube videos, or when they share a YouTube URL and want to understand what happens in the video. Triggers on requests like \"Analyze this YouTube video\", \"Create a step-by-step guide from this video\", \"What does this video show?\", \"Summarize this tutorial\", or any YouTube URL shared with analysis intent.",
+  "version": "1.1.0",
+  "author": {
+    "name": "sdrabent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sdrabent/youtube-knowledge-extractor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sdrabent/youtube-knowledge-extractor"
+}

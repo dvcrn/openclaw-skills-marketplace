@@ -1,0 +1,10 @@
+{
+  "name": "manuelcorpas--clawbio-orchestrator",
+  "description": "Meta-agent that routes bioinformatics requests to specialised sub-skills. Handles file type detection, analysis planning, report generation, and reproducibility export.",
+  "version": "0.1.0",
+  "author": {
+    "name": "manuelcorpas"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/manuelcorpas/clawbio-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/manuelcorpas/clawbio-orchestrator"
+}

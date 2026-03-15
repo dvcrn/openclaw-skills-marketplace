@@ -1,0 +1,10 @@
+{
+  "name": "peetzweg--trmnl",
+  "description": "Generate content for TRMNL e-ink display devices using the TRMNL CSS framework and send via the trmnl CLI. Use when the user wants to display information on their TRMNL device, send messages to an e-ink display, create dashboard content, show notifications, or update their terminal display. Supports rich layouts with the TRMNL framework (flexbox, grid, tables, progress bars, typography utilities).",
+  "version": "1.0.3",
+  "author": {
+    "name": "peetzweg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/peetzweg/trmnl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/peetzweg/trmnl"
+}

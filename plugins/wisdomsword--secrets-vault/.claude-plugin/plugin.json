@@ -1,0 +1,10 @@
+{
+  "name": "wisdomsword--secrets-vault",
+  "description": "Secure sensitive data management with AES-256-GCM encryption. Store API keys, database credentials, passwords, and certificates.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wisdomsword"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wisdomsword/secrets-vault",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wisdomsword/secrets-vault"
+}

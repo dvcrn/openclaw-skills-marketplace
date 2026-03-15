@@ -1,0 +1,10 @@
+{
+  "name": "thiagoruss0--jirayb4nt",
+  "description": "Jira API integration with managed OAuth. Search issues with JQL, create and update issues, manage projects and transitions. Use this skill when users want to interact with Jira issues, projects, or workflows. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.2",
+  "author": {
+    "name": "thiagoruss0"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thiagoruss0/jirayb4nt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thiagoruss0/jirayb4nt"
+}

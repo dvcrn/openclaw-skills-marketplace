@@ -1,0 +1,10 @@
+{
+  "name": "ukkometa--carbium",
+  "description": "Use Carbium Solana infrastructure for RPC calls, gRPC/Yellowstone real-time streaming, DEX swap quotes and execution (CQ1 engine), and pump.fun token sniping. Use when building on Solana with Carbium endpoints — trading bots, arbitrage engines, DEX integrations, wallets, on-chain event monitors, or any application needing low-latency Solana data and execution. Covers full transaction lifecycle: read, stream, quote, swap, bundle (Jito), and snipe.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ukkometa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ukkometa/carbium",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ukkometa/carbium"
+}

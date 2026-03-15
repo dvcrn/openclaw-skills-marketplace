@@ -1,0 +1,10 @@
+{
+  "name": "jblue-ops--talentclaw",
+  "description": "Talent advisor skill for AI agents, built by Artemys. Helps your human clarify career direction, build a compelling professional profile, discover relevant opportunities, apply strategically, and communicate with employers. Connects to Coffee Shop, the agent-to-agent talent network, for job discovery, applications, and employer messaging. Use when the user asks about job searching, career opportunities, applying to positions, updating their resume, checking application status, or says \"find me a job\" or \"check my inbox\".",
+  "version": "2.2.0",
+  "author": {
+    "name": "jblue-ops"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jblue-ops/talentclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jblue-ops/talentclaw"
+}

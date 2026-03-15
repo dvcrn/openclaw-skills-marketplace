@@ -1,0 +1,10 @@
+{
+  "name": "kaokray--cook-a-skill-content-blog-social",
+  "description": "Full end-to-end SEO + GEO content creation pipeline for crypto/Web3 teams. Trigger this skill when the user wants to: write a blog post or article, research keywords, generate a content brief or outline, mine community comments for UGC insights, optimize content for SEO or AI search engines (GEO), score or audit an existing article, or check if writing sounds AI-generated. Also trigger automatically at the start of every new session to scan X for trending topics relevant to the user's project spec — propose hot keywords before the user asks. Accepts a project spec .md file as primary input. Also works with plain keyword or topic. Run all stages in sequence when starting from scratch. Enter mid-pipeline if user provides an existing draft or only asks for one stage.",
+  "version": "1.0.2",
+  "author": {
+    "name": "kaokray"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kaokray/cook-a-skill-content-blog-social",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kaokray/cook-a-skill-content-blog-social"
+}

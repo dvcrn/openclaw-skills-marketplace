@@ -1,0 +1,10 @@
+{
+  "name": "uroboros1205--webfetch-google",
+  "description": "Performs a web fetch request to Google based on a user-provided query. Use this skill when you need to retrieve information from Google search results.",
+  "version": "1.0.0",
+  "author": {
+    "name": "uroboros1205"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/uroboros1205/webfetch-google",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/uroboros1205/webfetch-google"
+}

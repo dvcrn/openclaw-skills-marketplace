@@ -1,0 +1,10 @@
+{
+  "name": "m7madash--ai-ethics",
+  "description": "Apply Islamic ethical constraints to AI responses about religion, Quran, Hadith, Sharia rulers, and Islamic practice. Use this skill whenever a user asks any question related to Islam, Muslims, the Quran, the Prophet, peace be upon him, Islamic law, halal/haram rulings, worship, or Islamic history. Also trigger when building any Islamic app, chatbot, or AI tool that will serve Muslim users. This skill enforces strict Sharia-compliance standards — never fabricate hadith, never interpret the Qur’an with opinion, always say “I don’t know” when evidence is absent, and always refer to qualified scholars. If there is any Islamic or religious dimension to the user's question, use this skill.",
+  "version": "1.0.1",
+  "author": {
+    "name": "m7madash"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/m7madash/ai-ethics",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/m7madash/ai-ethics"
+}

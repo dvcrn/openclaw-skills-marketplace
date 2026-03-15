@@ -1,0 +1,10 @@
+{
+  "name": "tinkle-community--nofx-ai500-report",
+  "description": "Generate periodic crypto market intelligence reports from the NOFX AI500 system. Monitors coin selections, analyzes OI (Open Interest), institutional fund flows, K-line technicals, delta, long-short ratios, and funding rates. Use when setting up automated crypto market reports, AI500 signal monitoring, new coin alerts, or periodic trading signal summaries via Telegram/messaging.",
+  "version": "1.3.0",
+  "author": {
+    "name": "tinkle-community"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tinkle-community/nofx-ai500-report",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tinkle-community/nofx-ai500-report"
+}

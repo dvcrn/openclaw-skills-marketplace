@@ -1,0 +1,10 @@
+{
+  "name": "ra3ka--anyone-proxy",
+  "description": "This skill enables IP address masking and accessing hidden services on the Anyone Network. Route requests through the Anyone Protocol VPN network using a local SOCKS5 proxy.",
+  "version": "0.1.0",
+  "author": {
+    "name": "ra3ka"
+  },
+  "homepage": "https://anyone.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ra3ka/anyone-proxy"
+}

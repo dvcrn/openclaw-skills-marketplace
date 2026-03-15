@@ -1,0 +1,10 @@
+{
+  "name": "chenchaoqun--a-stock-premarket-briefing",
+  "description": "A 股盘前简报技能，交易日开盘前分析市场新闻、宏观事件，生成投资参考报告。整合 multi-search-engine 和 summarize，无需 API Key。",
+  "version": "1.0.0",
+  "author": {
+    "name": "chenchaoqun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chenchaoqun/a-stock-premarket-briefing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chenchaoqun/a-stock-premarket-briefing"
+}

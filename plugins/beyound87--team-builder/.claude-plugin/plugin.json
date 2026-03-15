@@ -1,0 +1,10 @@
+{
+  "name": "beyound87--team-builder",
+  "description": "Deploy a multi-agent SaaS growth team on OpenClaw with shared workspace, async inbox communication, cron-scheduled tasks, deep project code scanning (Deep Dive), and optional Telegram integration. Use when user wants to create an AI agent team, build a multi-agent system, set up a growth/marketing/product team, or deploy agents for a SaaS product matrix. Includes Project Deep Dive capability where fullstack-dev scans codebases to generate comprehensive product knowledge files (DB schema, routes, models, services, auth, integrations, tech debt, etc.) that all agents consume for informed decision-making. Supports customizable team name, agent roles, models, timezone, and Telegram bots.",
+  "version": "1.0.22",
+  "author": {
+    "name": "beyound87"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/beyound87/team-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/beyound87/team-builder"
+}

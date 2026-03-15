@@ -1,0 +1,10 @@
+{
+  "name": "cx6226301--auto-captcha-solver",
+  "description": "Detect and solve simple image captchas during browser automation. Use when flows encounter 4-6 character text, distorted alphanumeric, numeric, rotated, or arithmetic captchas and need capture, OCR, optional calculation, input fill, and submit handling in Playwright, Puppeteer, or Selenium. Do not use for reCAPTCHA, hCaptcha, slider, or click-object challenges.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cx6226301"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cx6226301/auto-captcha-solver",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cx6226301/auto-captcha-solver"
+}

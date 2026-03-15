@@ -1,0 +1,10 @@
+{
+  "name": "mjrussell--fitbit",
+  "description": "Query Fitbit health data including sleep, heart rate, activity, SpO2, and breathing rate. Use when user asks about their fitness, sleep quality, steps, or health metrics.",
+  "version": "0.1.0",
+  "author": {
+    "name": "mjrussell"
+  },
+  "homepage": "https://www.fitbit.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mjrussell/fitbit"
+}

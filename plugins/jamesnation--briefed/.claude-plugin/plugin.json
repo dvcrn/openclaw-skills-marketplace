@@ -1,0 +1,10 @@
+{
+  "name": "jamesnation--briefed",
+  "description": "Set up and run a personal AI newsletter intelligence system called Briefed. Fetches Gmail newsletters daily, uses Claude Haiku to extract article summaries, and serves a polished local web reader app with voting, notes, and interest tracking. Use when a user asks to set up a newsletter reader, daily digest, inbox intelligence tool, or newsletter summariser with OpenClaw.",
+  "version": "1.1.2",
+  "author": {
+    "name": "jamesnation"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamesnation/briefed",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamesnation/briefed"
+}

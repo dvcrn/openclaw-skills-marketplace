@@ -1,0 +1,10 @@
+{
+  "name": "somacosf--improve-skill",
+  "description": "Meta-skill: evaluate any Factory Droid skill against the current project codebase and suggest concrete improvements. Use when: a skill feels incomplete, produces suboptimal results, doesn't cover edge cases in the current project, or the user wants to tighten skill-project fit. Analyzes skill definition, supporting files, invocation history, and codebase structure to produce actionable upgrade recommendations.",
+  "version": "0.0.1",
+  "author": {
+    "name": "somacosf"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/somacosf/improve-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/somacosf/improve-skill"
+}

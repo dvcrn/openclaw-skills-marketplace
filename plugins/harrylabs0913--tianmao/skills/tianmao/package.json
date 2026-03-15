@@ -1,0 +1,34 @@
+{
+  "name": "tianmao",
+  "version": "1.0.0",
+  "description": "Simple browser launcher for Tmall.com (天猫) e-commerce platform",
+  "main": "tianmao.py",
+  "bin": {
+    "tianmao": "./tianmao.py"
+  },
+  "scripts": {
+    "test": "python3 tianmao.py help"
+  },
+  "keywords": [
+    "tmall",
+    "tianmao",
+    "天猫",
+    "e-commerce",
+    "browser",
+    "launcher",
+    "shopping"
+  ],
+  "author": "OpenClaw Skills Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harrylabs0913/tianmao.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harrylabs0913/tianmao/issues"
+  },
+  "homepage": "https://github.com/harrylabs0913/tianmao#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

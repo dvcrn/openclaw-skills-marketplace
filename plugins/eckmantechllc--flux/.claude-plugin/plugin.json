@@ -1,0 +1,10 @@
+{
+  "name": "eckmantechllc--flux",
+  "description": "Publish events and query shared world state via Flux state engine. Use when agents need to share observations, coordinate on shared data, or track entity state across systems.",
+  "version": "2.3.0",
+  "author": {
+    "name": "eckmantechllc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/eckmantechllc/flux",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eckmantechllc/flux"
+}

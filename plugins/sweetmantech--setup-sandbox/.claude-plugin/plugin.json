@@ -1,0 +1,10 @@
+{
+  "name": "sweetmantech--setup-sandbox",
+  "description": "Set up the initial file system for a new sandbox. Fetches the account's organizations and artists via the Recoup CLI and scaffolds an opinionated folder structure. Use when a sandbox has just been created and has no existing file system. Before running, check if the sandbox already has an orgs/ directory — if it does, this skill is not needed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sweetmantech"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sweetmantech/setup-sandbox",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sweetmantech/setup-sandbox"
+}

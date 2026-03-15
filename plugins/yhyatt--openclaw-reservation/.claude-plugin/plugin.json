@@ -1,0 +1,10 @@
+{
+  "name": "yhyatt--openclaw-reservation",
+  "description": "Restaurant search and booking for OpenClaw. Finds and books restaurants worldwide — Israel via direct API (Ontopo + Tabit), Europe and NYC via browser handoff (TheFork, OpenTable, Resy). Michelin Bib Gourmand and Time Out recommendations baked in. Use when someone wants to find a restaurant, check availability, or book a table.",
+  "version": "1.0.1",
+  "author": {
+    "name": "yhyatt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yhyatt/openclaw-reservation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yhyatt/openclaw-reservation"
+}

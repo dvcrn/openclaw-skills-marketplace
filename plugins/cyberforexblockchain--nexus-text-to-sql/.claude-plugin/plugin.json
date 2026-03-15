@@ -1,0 +1,10 @@
+{
+  "name": "cyberforexblockchain--nexus-text-to-sql",
+  "description": "Schema-aware natural language database querying. Provide your CREATE TABLE definitions, ask questions in English, get executable SQL with JOINs, aggregations, and performance annotations.",
+  "version": "1.0.3",
+  "author": {
+    "name": "cyberforexblockchain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cyberforexblockchain/nexus-text-to-sql",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cyberforexblockchain/nexus-text-to-sql"
+}

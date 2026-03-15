@@ -1,0 +1,10 @@
+{
+  "name": "moreloginbrowser--morelogin",
+  "description": "Manage MoreLogin anti-detect browser profiles and cloud phones through the official Local API (http://127.0.0.1:40000), including browser profile lifecycle, fingerprint refresh, cloud phone power/file/app operations, and proxy/group/tag management. Use when the user mentions MoreLogin, envId/uniqueId, cloud phone, CDP, ADB, or multi-account automation.",
+  "version": "1.0.3",
+  "author": {
+    "name": "moreloginbrowser"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moreloginbrowser/morelogin",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moreloginbrowser/morelogin"
+}

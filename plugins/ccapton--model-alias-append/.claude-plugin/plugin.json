@@ -1,0 +1,10 @@
+{
+  "name": "ccapton--model-alias-append",
+  "description": "Automatically appends the model alias to the end of every response with integrated hook functionality and configuration change detection.\n Use when transparency about which model generated each response is needed.\n\n Use when: providing model transparency, tracking which model generated responses, \n monitoring configuration changes, or ensuring response attribution.",
+  "version": "1.0.2",
+  "author": {
+    "name": "ccapton"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ccapton/model-alias-append",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ccapton/model-alias-append"
+}

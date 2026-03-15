@@ -1,0 +1,10 @@
+{
+  "name": "tiotdev--lowkey-viral",
+  "description": "Create short-form social media videos and photo carousel slideshows using the lowkey viral API. Generate AI-powered TikTok videos, Instagram Reels, and carousel posts programmatically. Supports 2x2 grid videos (1080x1920, 5s, 30fps) with background music and photo slideshows with text overlays. Use when the user wants to create social media content, short videos, viral clips, reels, TikToks, carousels, slideshows, or any vertical video for social platforms. Requires a lowkey viral API key (PRO or ULTIMATE plan) from https://lowkeyviral.com/dashboard/api-keys.",
+  "version": "1.1.0",
+  "author": {
+    "name": "tiotdev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tiotdev/lowkey-viral",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tiotdev/lowkey-viral"
+}

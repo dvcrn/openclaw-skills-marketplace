@@ -1,0 +1,10 @@
+{
+  "name": "danie1lin--gh-modify-pr",
+  "description": "Modify code based on GitHub PR review comments and create a local commit using gh + git. Use when the user asks to \"follow PR comments\", \"fix review comments\", \"update this PR\", or provides a PR URL and asks for edits/commit.",
+  "version": "1.0.1",
+  "author": {
+    "name": "danie1lin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danie1lin/gh-modify-pr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danie1lin/gh-modify-pr"
+}

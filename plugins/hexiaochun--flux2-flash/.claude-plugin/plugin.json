@@ -1,0 +1,10 @@
+{
+  "name": "hexiaochun--flux2-flash",
+  "description": "使用 Flux 2 Flash 模型生成或编辑图像。当用户想要文生图、图像编辑，或提到 flux 2、FLUX.2 时使用此 skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "hexiaochun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/flux2-flash",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/flux2-flash"
+}

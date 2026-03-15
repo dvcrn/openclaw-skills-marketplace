@@ -1,0 +1,10 @@
+{
+  "name": "zyra-v21--ceaser-send",
+  "description": "Fully automated private ETH transfer via Ceaser Protocol on Base L2 using the ceaser-mcp MCP tools. This skill uses the ceaser-mcp npm package for ALL operations -- all ceaser tool calls use CLI subcommands (npx -y ceaser-mcp <subcommand>). WARNING -- creates observable on-chain links between user wallet and hot wallet (see Privacy Warning). Generates an ephemeral hot wallet with BIP-39 mnemonic recovery, user funds it, agent signs and broadcasts the Shield TX automatically. Exactly one manual step required (funding the hot wallet with ETH). Uses Noir/UltraHonk zero-knowledge proofs.",
+  "version": "1.3.0",
+  "author": {
+    "name": "zyra-v21"
+  },
+  "homepage": "https://ceaser.org",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zyra-v21/ceaser-send"
+}

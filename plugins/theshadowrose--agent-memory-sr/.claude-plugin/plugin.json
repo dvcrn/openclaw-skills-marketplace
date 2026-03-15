@@ -1,0 +1,10 @@
+{
+  "name": "theshadowrose--agent-memory-sr",
+  "description": "Stop your AI agent from forgetting everything between sessions. Three-tier memory architecture (long-term owner namespace / daily logs / session handoff), cross-channel isolation so group chats never contaminate private sessions, and MASTER_MAP navigation. One command sets up the complete structure.",
+  "version": "1.0.0",
+  "author": {
+    "name": "theshadowrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/agent-memory-sr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/agent-memory-sr"
+}

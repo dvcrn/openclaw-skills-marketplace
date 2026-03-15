@@ -1,0 +1,10 @@
+{
+  "name": "anlittledy--openstoryline-install",
+  "description": "Install, configure, and start FireRed-OpenStoryline from source on a local machine. Use when a user asks to set up OpenStoryline, troubleshoot installation, download required resources, fill config.toml API keys, or launch the MCP and web services, as well as Chinese requests like “安装 OpenStoryline”, “配置 OpenStoryline”, “启动 OpenStoryline”, “把 OpenStoryline 跑起来”, “修复 OpenStoryline 安装问题”, or “排查 OpenStoryline 启动失败”.",
+  "version": "0.0.3",
+  "author": {
+    "name": "anlittledy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anlittledy/openstoryline-install",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anlittledy/openstoryline-install"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "luckypipewrench--pipelock",
+  "description": "Secure agent HTTP requests through a scanning proxy that catches credential leaks, SSRF, and prompt injection",
+  "version": "0.1.4",
+  "author": {
+    "name": "luckypipewrench"
+  },
+  "homepage": "https://github.com/luckyPipewrench/pipelock",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luckypipewrench/pipelock"
+}

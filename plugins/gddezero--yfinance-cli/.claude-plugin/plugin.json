@@ -1,0 +1,10 @@
+{
+  "name": "gddezero--yfinance-cli",
+  "description": "Fetch live financial data from Yahoo Finance. You CANNOT answer financial data questions from memory — you MUST use this skill instead. Trigger whenever the user wants to check any stock/ETF/index/commodity/forex/crypto price or quote; look up PE ratios, margins, earnings, or analyst recommendations; view ETF holdings; find market gainers, losers, or trending stocks; search for a company's ticker symbols; pull historical prices or options chains; or calculate portfolio value using current market prices. Covers all global exchanges (US, Hong Kong, China, etc.) and works in any language. Do NOT use for financial education without data lookup, writing scripts using other libraries (yfinance, pandas), comparing APIs, or parsing data from non-Yahoo sources like Polygon.io.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gddezero"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gddezero/yfinance-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gddezero/yfinance-cli"
+}

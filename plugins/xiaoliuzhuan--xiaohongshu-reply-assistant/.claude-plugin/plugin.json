@@ -1,0 +1,10 @@
+{
+  "name": "xiaoliuzhuan--xiaohongshu-reply-assistant",
+  "description": "小红书智能回复助手 - 自动分析评论情感和意图，生成个性化回复建议。 Use for: (1) Analyzing Xiaohongshu comment sentiment and intent, (2) Generating personalized reply suggestions, (3) Managing comment history and batch processing, (4) Monitoring notes for new comments. Supports both standalone offline analysis and API integration with real Xiaohongshu data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiaoliuzhuan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaoliuzhuan/xiaohongshu-reply-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaoliuzhuan/xiaohongshu-reply-assistant"
+}

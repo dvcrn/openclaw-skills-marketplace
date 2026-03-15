@@ -1,0 +1,10 @@
+{
+  "name": "fortunto2--solo-init",
+  "description": "One-time founder onboarding — generates personalized manifest, STREAM calibration, dev principles, and stack selection. Use when user says \"set up solo factory\", \"initialize profile\", \"configure defaults\", \"first time setup\", or \"onboard me\". Safe to re-run. Do NOT use for project scaffolding (use /scaffold).",
+  "version": "2.1.1",
+  "author": {
+    "name": "fortunto2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-init",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-init"
+}

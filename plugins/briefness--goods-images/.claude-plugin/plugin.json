@@ -1,0 +1,10 @@
+{
+  "name": "briefness--goods-images",
+  "description": "Use when the user wants to generate product detail images or carousel/main images for e-commerce platforms like Taobao. Triggers on keywords like 商品图, 详情图, 产品图, 电商图, 淘宝图, 轮播图, 主图, or when user uploads a product photo and asks for marketing images.",
+  "version": "1.0.1",
+  "author": {
+    "name": "briefness"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/briefness/goods-images",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/briefness/goods-images"
+}

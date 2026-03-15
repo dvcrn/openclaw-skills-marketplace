@@ -1,0 +1,10 @@
+{
+  "name": "rishabh7464-hue--gst-upi-reconciliation-copilot-india",
+  "description": "Reconcile Indian GST invoice data with UPI transaction statements and produce audit-ready matched/unmatched reports. Use when the user asks to reconcile GST vs UPI collections, find missing payments, detect unmatched invoices, prepare month-end books, or investigate cashflow gaps from CSV exports (Tally/Zoho/ERP + bank/payment app exports).",
+  "version": "1.0.0",
+  "author": {
+    "name": "rishabh7464-hue"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rishabh7464-hue/gst-upi-reconciliation-copilot-india",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rishabh7464-hue/gst-upi-reconciliation-copilot-india"
+}

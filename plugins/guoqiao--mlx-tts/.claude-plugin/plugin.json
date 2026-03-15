@@ -1,0 +1,10 @@
+{
+  "name": "guoqiao--mlx-tts",
+  "description": "Text-To-Speech with MLX (Apple Silicon) and opensource models (default QWen3-TTS) locally.",
+  "version": "0.0.3",
+  "author": {
+    "name": "guoqiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guoqiao/mlx-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guoqiao/mlx-tts"
+}

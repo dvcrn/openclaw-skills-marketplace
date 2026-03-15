@@ -1,0 +1,10 @@
+{
+  "name": "smilelight--recall-from-notion",
+  "description": "Recall user memories from the Notion Memory Store. Trigger PROACTIVELY at the beginning of conversations where knowing the user's background, preferences, past decisions, or project context would improve the response. Also trigger when the user says \"recall\", \"remember\", \"what do you know about me\", \"based on what you know about me\", or references past context.",
+  "version": "1.0.3",
+  "author": {
+    "name": "smilelight"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/smilelight/recall-from-notion",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/smilelight/recall-from-notion"
+}

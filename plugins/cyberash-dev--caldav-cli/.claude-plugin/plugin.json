@@ -1,0 +1,10 @@
+{
+  "name": "cyberash-dev--caldav-cli",
+  "description": "Manage CalDAV calendars (iCloud, Google, Yandex) from the command line. Supports OAuth2 and Basic auth, multi-account, table/JSON output.",
+  "version": "0.1.5",
+  "author": {
+    "name": "cyberash-dev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cyberash-dev/caldav-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cyberash-dev/caldav-cli"
+}

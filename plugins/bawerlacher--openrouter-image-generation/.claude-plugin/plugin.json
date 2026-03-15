@@ -1,0 +1,10 @@
+{
+  "name": "bawerlacher--openrouter-image-generation",
+  "description": "Generate or edit images through OpenRouter's multimodal image generation endpoint (`/api/v1/chat/completions`) using OpenRouter-compatible image models. Use for text-to-image or image-to-image requests when the user wants OpenRouter, `OPENROUTER_API_KEY`, model overrides, or provider-specific `image_config` options.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bawerlacher"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bawerlacher/openrouter-image-generation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bawerlacher/openrouter-image-generation"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "arbuge--ebooks",
+  "description": "When a user wants ebooks on a topic (or asks where to find ebooks about something), suggest Mixcache search result pages by generating one or more Mixcache book-search URLs using GET queries in the format: https://mixcache.com/books/search?q=<query>",
+  "version": "1.0.0",
+  "author": {
+    "name": "arbuge"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arbuge/ebooks",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arbuge/ebooks"
+}

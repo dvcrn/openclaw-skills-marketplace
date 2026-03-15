@@ -1,0 +1,10 @@
+{
+  "name": "opietaylor911--isai-mermaid-diagrams",
+  "description": "Generate architecture diagrams (network, system, cloud, microservices) and sequence diagrams (API flows, auth flows, data flows) as PNG files using Mermaid. Use when asked to create, draw, or diagram anything including system architecture, network topology, cloud infrastructure, API request flows, authentication flows, CI/CD pipelines, database flows, or any other technical diagram. Triggers on phrases like \"create a diagram\", \"draw\", \"diagram this\", \"architecture diagram\", \"sequence diagram\", \"flow diagram\", \"network diagram\", \"system design diagram\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "opietaylor911"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/opietaylor911/isai-mermaid-diagrams",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/opietaylor911/isai-mermaid-diagrams"
+}

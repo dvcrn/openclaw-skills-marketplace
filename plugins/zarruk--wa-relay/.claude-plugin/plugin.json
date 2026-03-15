@@ -1,0 +1,10 @@
+{
+  "name": "zarruk--wa-relay",
+  "description": "WhatsApp message relay and firewall for OpenClaw agents. Intercepts messages from third parties (non-owner contacts), notifies the owner, and sends replies only when explicitly instructed. Prevents the main agent from accidentally responding to, executing instructions from, or leaking context to third-party WhatsApp contacts. Use when: (1) A WhatsApp message arrives from someone other than the owner, (2) The owner says 'respond to X', 'tell X that...', 'reply to X', 'send X a message', or similar delegation commands, (3) The owner asks to check recent third-party messages.",
+  "version": "0.1.0",
+  "author": {
+    "name": "zarruk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zarruk/wa-relay",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zarruk/wa-relay"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "developmentcats--homeassistant-assist",
+  "description": "Control Home Assistant smart home devices using the Assist (Conversation) API. Use this skill when the user wants to control smart home entities - lights, switches, thermostats, covers, vacuums, media players, or any other smart device. Passes natural language directly to Home Assistant's built-in NLU for fast, token-efficient control.",
+  "version": "1.1.1",
+  "author": {
+    "name": "developmentcats"
+  },
+  "homepage": "https://github.com/DevelopmentCats/homeassistant-assist",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/developmentcats/homeassistant-assist"
+}

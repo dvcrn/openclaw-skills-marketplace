@@ -1,0 +1,10 @@
+{
+  "name": "assistantheinrich-prog--session-health-monitor",
+  "description": "Context window health monitoring for OpenClaw agents — threshold warnings via Telegram, pre-compaction snapshots, and memory rotation.",
+  "version": "1.1.0",
+  "author": {
+    "name": "assistantheinrich-prog"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/assistantheinrich-prog/session-health-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/assistantheinrich-prog/session-health-monitor"
+}

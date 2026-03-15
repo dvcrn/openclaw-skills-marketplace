@@ -1,0 +1,10 @@
+{
+  "name": "cryptopunk2070--fuku-predictions",
+  "description": "Trade Kalshi prediction markets through conversation, powered by Fuku sports model predictions. Use when a user asks about Kalshi markets, wants sports predictions with edge analysis, wants to place or exit trades, or wants autonomous scanning. Supports CBB, NBA, NHL, and Soccer with personalized trading profiles. User defines preferences in natural language (\"I want home dogs getting 7+ points in CBB\"), agent builds a profile, scans markets, and presents opportunities with edge, payout, and recommendation. Kalshi API key stored locally — never transmitted externally.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cryptopunk2070"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cryptopunk2070/fuku-predictions",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cryptopunk2070/fuku-predictions"
+}

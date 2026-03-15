@@ -1,0 +1,10 @@
+{
+  "name": "skywyze--rlm-controller",
+  "description": "RLM-style long-context controller that treats inputs as external context, slices/peeks/searches, and spawns recursive subcalls with strict safety limits. Use for huge docs, dense logs, or repository-scale analysis.",
+  "version": "1.2.0",
+  "author": {
+    "name": "skywyze"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/skywyze/rlm-controller",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/skywyze/rlm-controller"
+}

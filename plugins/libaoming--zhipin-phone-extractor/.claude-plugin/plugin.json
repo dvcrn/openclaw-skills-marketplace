@@ -1,0 +1,10 @@
+{
+  "name": "libaoming--zhipin-phone-extractor",
+  "description": "Automatically extract phone numbers from BOSS直聘 (zhipin.com) chat messages. Use when: (1) User needs to collect phone numbers from recruiter messages, (2) User wants to batch extract contact info from BOSS直聘, (3) User mentions \"BOSS直聘\", \"zhipin\", \"提取手机号\", \"招聘消息\", \"猎聘\" (job hunting context).",
+  "version": "1.0.0",
+  "author": {
+    "name": "libaoming"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/libaoming/zhipin-phone-extractor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/libaoming/zhipin-phone-extractor"
+}

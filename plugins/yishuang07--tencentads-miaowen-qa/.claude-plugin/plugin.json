@@ -1,0 +1,10 @@
+{
+  "name": "yishuang07--tencentads-miaowen-qa",
+  "description": "通过腾讯广告官方「妙问」AI问答API，解答腾讯广告（含微信广告、朋友圈广告、视频号广告、微信小店）的营销业务问题。覆盖开户充值、资质认证、广告创建与投放、定向出价、审核规则、素材规范、数据报表、违规处理等全链路场景。当用户咨询腾讯广告业务指导、平台规则、账户操作、投放设置或审核合规问题时触发；即使未明确提及\\\"腾讯广告\\\"，只要语境指向腾讯广告产品（如 e.qq.com、微信广告、视频号广告等）也应触发。不适用于其他广告平台（Google Ads、巨量引擎等）的独立问题、本地代码/文件分析、或不涉及腾讯广告平台知识的泛泛营销讨论。触发词：妙问、miaowen、腾讯广告、微信广告、朋友圈广告、视频号广告、微信小店、e.qq.com、广告投放咨询、开户咨询、审核规则等。",
+  "version": "1.0.2",
+  "author": {
+    "name": "yishuang07"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yishuang07/tencentads-miaowen-qa",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yishuang07/tencentads-miaowen-qa"
+}

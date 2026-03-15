@@ -1,0 +1,10 @@
+{
+  "name": "vcup-date--agent101-tool-directory",
+  "description": "Open directory of 500+ tools, APIs, and services for AI agents. Fetch any category page to get structured tool metadata with auth, free_tier, actions, input/output, example calls, and recommendations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vcup-date"
+  },
+  "homepage": "https://agent101.ventify.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vcup-date/agent101-tool-directory"
+}

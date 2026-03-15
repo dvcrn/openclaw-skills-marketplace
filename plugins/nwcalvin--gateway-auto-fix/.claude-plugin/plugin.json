@@ -1,0 +1,10 @@
+{
+  "name": "nwcalvin--gateway-auto-fix",
+  "description": "Automatically monitor OpenClaw gateway status and fix when RPC probe fails. Uses OpenClaw cron system - just install and it works!",
+  "version": "2.0.0",
+  "author": {
+    "name": "nwcalvin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nwcalvin/gateway-auto-fix",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nwcalvin/gateway-auto-fix"
+}

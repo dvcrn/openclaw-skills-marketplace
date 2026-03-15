@@ -1,0 +1,10 @@
+{
+  "name": "zihaofeng2001--agent-architecture-guide",
+  "description": "Build a more reliable OpenClaw agent with battle-tested architecture patterns. Covers WAL protocol, working buffer, memory anti-poisoning, layered memory compression, cron design, selective skill integration, and heartbeat batching.",
+  "version": "4.0.3",
+  "author": {
+    "name": "zihaofeng2001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zihaofeng2001/agent-architecture-guide",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zihaofeng2001/agent-architecture-guide"
+}

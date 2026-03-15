@@ -1,0 +1,10 @@
+{
+  "name": "cnm-byd--unbrowse-openclaw",
+  "description": "Analyze any website's network traffic and turn it into reusable API skills backed by a shared marketplace. Skills discovered by any agent are published, scored, and reusable by all agents. Capture network traffic, discover API endpoints, learn patterns, execute learned skills, and manage auth for gated sites. Use when someone wants to extract structured data from a website, discover API endpoints, automate web interactions, or work without official API documentation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cnm-byd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cnm-byd/unbrowse-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cnm-byd/unbrowse-openclaw"
+}

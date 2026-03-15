@@ -1,0 +1,10 @@
+{
+  "name": "shor73--telegram-autopilot",
+  "description": "Manage a Telegram userbot autopilot that responds to private messages as the user using AI. Use when the user wants to set up auto-replies on their personal Telegram account, manage allowed contacts, configure AI response style, or send messages/media as themselves. Triggers on \"telegram autopilot\", \"auto reply telegram\", \"manage my telegram\", \"respond for me\", \"telegram userbot\", \"paid media telegram\". Requires secrets — Telegram API credentials (api_id, api_hash), phone number, optional 2FA password, AI provider API key (Anthropic or OpenAI-compatible), optional Telegram bot token for owner notifications.",
+  "version": "1.1.1",
+  "author": {
+    "name": "shor73"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shor73/telegram-autopilot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shor73/telegram-autopilot"
+}

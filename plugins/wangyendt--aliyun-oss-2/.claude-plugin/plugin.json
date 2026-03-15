@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--aliyun-oss-2",
+  "description": "Aliyun OSS (Object Storage Service) file management toolkit for Python. Use when working with Aliyun OSS to upload files, download files, list objects, delete files, manage directories, read file contents, check file existence, get file metadata, copy and move objects. Supports both authenticated (with API key/secret for write operations) and anonymous access (read-only).",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/aliyun-oss-2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/aliyun-oss-2"
+}

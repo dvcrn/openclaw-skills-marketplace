@@ -1,0 +1,10 @@
+{
+  "name": "switchbot-dev--switchbot-cloudapi",
+  "description": "Control and query SwitchBot devices using the official OpenAPI (v1.1). Use when the user asks to list SwitchBot devices, get device status, or send commands (turn on/off, press, set mode, lock/unlock, curtain open %, IR air conditioner, lights, fans, robot vacuums, keypads, etc.). Requires SWITCHBOT_TOKEN and SWITCHBOT_SECRET.",
+  "version": "1.0.2",
+  "author": {
+    "name": "switchbot-dev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/switchbot-dev/switchbot-cloudapi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/switchbot-dev/switchbot-cloudapi"
+}

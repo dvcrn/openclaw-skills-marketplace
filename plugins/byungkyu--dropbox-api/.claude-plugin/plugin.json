@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--dropbox-api",
+  "description": "Dropbox API integration with managed OAuth. Files, folders, search, metadata, and cloud storage.\n Use this skill when users want to manage files and folders in Dropbox, search content, or work with file metadata.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.2",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/dropbox-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/dropbox-api"
+}

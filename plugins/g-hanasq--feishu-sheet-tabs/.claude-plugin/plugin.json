@@ -1,0 +1,10 @@
+{
+  "name": "g-hanasq--feishu-sheet-tabs",
+  "description": "Create and organize multiple tabs (worksheets/pages) inside an existing Feishu sheet when the normal feishu_sheet API cannot create new worksheet tabs. Use when the user wants one spreadsheet split into categories/pages/tabs, asks for pagination inside a sheet, or wants separate worksheet tabs such as 总览 / Skills / Workflows / Templates / Content. Prefer this skill only after confirming feishu_sheet API lacks tab-creation support.",
+  "version": "0.1.0",
+  "author": {
+    "name": "g-hanasq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/g-hanasq/feishu-sheet-tabs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/g-hanasq/feishu-sheet-tabs"
+}

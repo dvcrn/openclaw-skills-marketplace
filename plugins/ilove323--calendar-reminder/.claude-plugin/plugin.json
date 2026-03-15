@@ -1,0 +1,10 @@
+{
+  "name": "ilove323--calendar-reminder",
+  "description": "每晚22:00自动扫描明天的Outlook日历，上午日程提前2小时提醒，下午日程12:00统一提醒，通过飞书发送通知。依赖 owa-outlook skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "ilove323"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ilove323/calendar-reminder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ilove323/calendar-reminder"
+}

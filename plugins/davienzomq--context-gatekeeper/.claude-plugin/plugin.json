@@ -1,0 +1,10 @@
+{
+  "name": "davienzomq--context-gatekeeper",
+  "description": "Keeps the conversation token-friendly by summarizing recent exchanges, surfacing pending actions, and delivering a compact briefing for each turn before calling the model. Trigger this skill whenever you need to prune a bloated thread or keep the next prompt lean.",
+  "version": "0.1.1",
+  "author": {
+    "name": "davienzomq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/davienzomq/context-gatekeeper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davienzomq/context-gatekeeper"
+}

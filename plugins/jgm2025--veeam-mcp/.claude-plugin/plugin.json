@@ -1,0 +1,10 @@
+{
+  "name": "jgm2025--veeam-mcp",
+  "description": "Query Veeam Backup & Replication and Veeam ONE via MCP server running in Docker. Provides intelligent backup monitoring, job analysis, capacity planning, and infrastructure health checks.",
+  "version": "1.0.3",
+  "author": {
+    "name": "jgm2025"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jgm2025/veeam-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jgm2025/veeam-mcp"
+}

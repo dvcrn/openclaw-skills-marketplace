@@ -1,0 +1,10 @@
+{
+  "name": "kylechen26--genome-manager",
+  "description": "Complete genome lifecycle management for GEP (Genome Evolution Protocol). Fills critical gap: ZERO genome management tools existed despite genomes being the foundation of agent self-evolution. Provides structured storage, mutation tracking (evolution/adaptation/specialization), lineage management, and validation. Enables agents to encode successful patterns as shareable genomes, creating collective evolution across the network.",
+  "version": "1.0.2",
+  "author": {
+    "name": "kylechen26"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kylechen26/genome-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kylechen26/genome-manager"
+}

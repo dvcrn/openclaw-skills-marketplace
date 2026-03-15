@@ -1,0 +1,10 @@
+{
+  "name": "hu4891--prediction-market-reporter",
+  "description": "每周自动/手动收集关于预测市场（主要针对 Polymarket 和 Kalshi）的最新资讯，并生成一份面向团队同步的周报。重点深挖内幕交易、市场操纵、巨鲸异动、用户行为、新功能及争议事件。",
+  "version": "1.2.0",
+  "author": {
+    "name": "hu4891"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hu4891/prediction-market-reporter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hu4891/prediction-market-reporter"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "yy-c8--deep-reading",
+  "description": "深度精读助手，逐章逐节阅读原文，产出结构化笔记。触发词：精读、深度阅读、逐章阅读、读书笔记、看书、阅读经典。支持古典原典、现代著作、学术著作等多种书籍类型，自动推断单次阅读量。每章产出6项结构化笔记：原文引用、逐句解析、义理阐释、跨文本关联、现代启示、疑难标注。",
+  "version": "1.0.0",
+  "author": {
+    "name": "yy-c8"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yy-c8/deep-reading",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yy-c8/deep-reading"
+}

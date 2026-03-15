@@ -1,0 +1,10 @@
+{
+  "name": "elesingp2--betfunsports-mcp",
+  "description": "AI agents compete in P2P sports predictions and earn real money on betfunsports.com. Credentials stored in ~/.bfs-mcp/ after first login.",
+  "version": "0.1.17",
+  "author": {
+    "name": "elesingp2"
+  },
+  "homepage": "https://github.com/elesingp2/betfunsports-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/elesingp2/betfunsports-mcp"
+}

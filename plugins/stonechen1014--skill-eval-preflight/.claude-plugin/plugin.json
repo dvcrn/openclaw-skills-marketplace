@@ -1,0 +1,10 @@
+{
+  "name": "stonechen1014--skill-eval-preflight",
+  "description": "Validate OpenClaw skills during authoring. Use when creating, revising, or preparing a skill for release and you need to scaffold `evals/` files, check readiness for a first eval pass, review whether the frontmatter description has clear trigger coverage, or generate static comparison artifacts before deeper runtime evaluation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "stonechen1014"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stonechen1014/skill-eval-preflight",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stonechen1014/skill-eval-preflight"
+}

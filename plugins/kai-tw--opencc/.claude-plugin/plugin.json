@@ -1,0 +1,10 @@
+{
+  "name": "kai-tw--opencc",
+  "description": "Chinese character conversion between Simplified/Traditional and regional variants. Use when Pi needs to convert Chinese text with precision and awareness of regional differences (Mainland China, Taiwan, Hong Kong, Japanese Kanji). Supports phrase-level conversion, character variants, and regional idioms. Helps generate more accurate Chinese in multilingual contexts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kai-tw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kai-tw/opencc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kai-tw/opencc"
+}

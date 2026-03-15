@@ -1,0 +1,10 @@
+{
+  "name": "mrsirg97-rgb--torchliquidationagent",
+  "description": "Read-only lending market scanner for Torch Market on Solana. No wallet required. Scans lending markets, profiles borrower wallets, and scores loans by risk. Default info mode makes no state changes and requires only an RPC endpoint. Optional bot mode (requires wallet) can execute liquidations on positions that crossed the on-chain threshold.",
+  "version": "1.0.3",
+  "author": {
+    "name": "mrsirg97-rgb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrsirg97-rgb/torchliquidationagent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrsirg97-rgb/torchliquidationagent"
+}

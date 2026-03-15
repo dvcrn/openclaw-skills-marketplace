@@ -1,0 +1,10 @@
+{
+  "name": "azurboy--dailybit-tech-digest",
+  "description": "Curated daily digest from 92 top tech blogs (Andrej Karpathy's list) with AI-generated Chinese summaries, hierarchical tags, and personalized recommendations. Triggers: \"今日技术博客\", \"高质量技术文章\", \"tech blog digest\", \"优质博客推荐\", \"技术发展趋势\", \"AI行业动态\", \"每日技术简报\", \"中文科技摘要\", \"top tech blogs today\", \"curated tech reading\", \"what's trending in tech\", \"developer daily briefing\", \"有什么值得看的技术文章\", \"最近有什么技术趋势\", \"帮我看看今天的博客\", \"优质英文博客中文速览\".",
+  "version": "2.5.0",
+  "author": {
+    "name": "azurboy"
+  },
+  "homepage": "https://dailybit.cc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/azurboy/dailybit-tech-digest"
+}

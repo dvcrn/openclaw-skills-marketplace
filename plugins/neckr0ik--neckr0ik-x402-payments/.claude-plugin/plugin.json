@@ -1,0 +1,10 @@
+{
+  "name": "neckr0ik--neckr0ik-x402-payments",
+  "description": "x402 payment protocol for AI agents. Enables autonomous micropayments using HTTP 402 status codes and stablecoins. Use when you need to pay for API access, accept payments for your services, or interact with x402-enabled endpoints.",
+  "version": "1.0.0",
+  "author": {
+    "name": "neckr0ik"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neckr0ik/neckr0ik-x402-payments",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neckr0ik/neckr0ik-x402-payments"
+}

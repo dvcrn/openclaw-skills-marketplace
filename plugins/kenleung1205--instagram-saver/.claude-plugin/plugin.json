@@ -1,0 +1,10 @@
+{
+  "name": "kenleung1205--instagram-saver",
+  "description": "當使用者貼上 Instagram 連結時，自動下載該貼文的所有高解析度圖片與影片。使用 Cobalt API 進行解析，支援多圖貼文，若為私人帳號會自動回報。",
+  "version": "1.0.0",
+  "author": {
+    "name": "kenleung1205"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kenleung1205/instagram-saver",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kenleung1205/instagram-saver"
+}

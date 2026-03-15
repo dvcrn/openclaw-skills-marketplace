@@ -1,0 +1,10 @@
+{
+  "name": "lemodigital--claude-usage",
+  "description": "Calculate Claude Max subscription usage from OpenClaw session data. Shows credits consumed, weekly budget percentage, 5-hour rate limit window, and per-session breakdown.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lemodigital"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lemodigital/claude-usage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lemodigital/claude-usage"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zlr25--wechat-accounts-publisher",
+  "description": "自动化微信公众号文章发布，通过 API 创建和管理文章草稿，支持封面图和正文图片自动上传。用于：发布文章到公众号、创建内容草稿、自动化内容工作流、或设置定时发布系统。",
+  "version": "1.0.1",
+  "author": {
+    "name": "zlr25"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zlr25/wechat-accounts-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zlr25/wechat-accounts-publisher"
+}

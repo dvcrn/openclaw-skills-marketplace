@@ -1,0 +1,10 @@
+{
+  "name": "airbai--mac-battery",
+  "description": "Check Mac laptop battery status including percentage, charging state, and time remaining. Use when user asks about battery level, power status, or how much time left until fully charged/discharged on a Mac laptop.",
+  "version": "1.0.0",
+  "author": {
+    "name": "airbai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/airbai/mac-battery",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/airbai/mac-battery"
+}

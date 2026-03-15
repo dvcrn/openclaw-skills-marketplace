@@ -1,0 +1,10 @@
+{
+  "name": "luke-deltadesk--coding-sessions",
+  "description": "Run long-lived AI coding agents (Codex CLI, Claude Code, Ralph loops) in persistent tmux sessions with completion hooks and automatic monitoring. Use when launching coding agents for multi-step tasks, managing background programming sessions, running Ralph loops with PRD validation, or needing coding work that survives process restarts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "luke-deltadesk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luke-deltadesk/coding-sessions",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luke-deltadesk/coding-sessions"
+}

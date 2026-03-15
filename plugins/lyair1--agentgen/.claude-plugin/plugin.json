@@ -1,0 +1,10 @@
+{
+  "name": "lyair1--agentgen",
+  "description": "Generate PDFs and images from HTML. No sign-up required — the free tier works out of the box (1 req/min, small watermark). For higher volume and no watermark, set AGENTGEN_API_KEY with tokens from agent-gen.com.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lyair1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lyair1/agentgen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lyair1/agentgen"
+}

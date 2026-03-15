@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--lark-custom-bot",
+  "description": "Feishu/Lark Custom Bot API wrapper for sending messages to Feishu channels via webhook. Use when users need to send text messages, images, rich text posts, interactive cards, or share chat content to Feishu/Lark. Supports image upload from files or OpenCV images, signature verification for security, and @mention functionality.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/lark-custom-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/lark-custom-bot"
+}

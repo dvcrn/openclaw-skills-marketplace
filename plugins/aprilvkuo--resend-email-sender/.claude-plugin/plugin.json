@@ -1,0 +1,10 @@
+{
+  "name": "aprilvkuo--resend-email-sender",
+  "description": "Send emails using Resend API. Use when the user needs to send emails without configuring SMTP servers. Supports text and HTML emails, multiple recipients, CC/BCC, and bulk sending. Ideal for notifications, alerts, newsletters, and automated email workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aprilvkuo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aprilvkuo/resend-email-sender",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aprilvkuo/resend-email-sender"
+}

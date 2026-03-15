@@ -1,0 +1,10 @@
+{
+  "name": "zoroposkai--livekit",
+  "description": "Build voice AI agents with LiveKit. Use when developing realtime voice applications, voice agent pipelines (STT-LLM-TTS), WebRTC communication, or deploying conversational AI. Covers LiveKit Agents SDK, provider selection (Deepgram, OpenAI, ElevenLabs, Cartesia), cloud vs self-hosted deployment.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zoroposkai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zoroposkai/livekit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zoroposkai/livekit"
+}

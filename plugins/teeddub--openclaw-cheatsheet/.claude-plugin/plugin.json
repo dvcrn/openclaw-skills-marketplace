@@ -1,0 +1,10 @@
+{
+  "name": "teeddub--openclaw-cheatsheet",
+  "description": "Quick reference for every OpenClaw CLI command, sub-command, and flag. Use when the user asks about OpenClaw CLI usage (agent, message, config, gateway, cron, hooks, models, channels, directory, sessions, skills, agents, memory, health, status, doctor, logs), needs command examples, or needs to verify flags before running a command.",
+  "version": "1.0.0",
+  "author": {
+    "name": "teeddub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/teeddub/openclaw-cheatsheet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/teeddub/openclaw-cheatsheet"
+}

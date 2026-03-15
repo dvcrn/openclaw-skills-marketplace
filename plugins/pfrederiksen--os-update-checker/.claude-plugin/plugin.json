@@ -1,0 +1,10 @@
+{
+  "name": "pfrederiksen--os-update-checker",
+  "description": "Check for available OS package updates with per-package changelog summaries and risk classification. Supports apt (Debian/Ubuntu), dnf (Fedora/RHEL), yum (CentOS 7), pacman (Arch), zypper (openSUSE), apk (Alpine), and brew (macOS). Use when: checking system update status, before approving upgrades, or in heartbeats/cron for periodic OS health monitoring. Read-only — does not install or modify anything.",
+  "version": "1.1.0",
+  "author": {
+    "name": "pfrederiksen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pfrederiksen/os-update-checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pfrederiksen/os-update-checker"
+}

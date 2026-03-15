@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--instantly",
+  "description": "Instantly API integration with managed OAuth. Cold email outreach platform for managing campaigns, leads, accounts, and analytics.\n Use this skill when users want to create campaigns, manage leads, send emails, or view analytics.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/instantly",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/instantly"
+}

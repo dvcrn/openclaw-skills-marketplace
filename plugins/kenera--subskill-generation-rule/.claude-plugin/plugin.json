@@ -1,0 +1,10 @@
+{
+  "name": "kenera--subskill-generation-rule",
+  "description": "Define and enforce project orgnization rules for generating subskills. put generated recommendation outputs under data/, place new feature scripts under subskills/<feature>/, and optionally add SKILL.md inside each feature folder to keep main skill root clean.",
+  "version": "0.1.1",
+  "author": {
+    "name": "kenera"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kenera/subskill-generation-rule",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kenera/subskill-generation-rule"
+}

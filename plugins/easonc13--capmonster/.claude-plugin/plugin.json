@@ -1,0 +1,10 @@
+{
+  "name": "easonc13--capmonster",
+  "description": "Solve CAPTCHAs (reCAPTCHA v2/v3, hCaptcha, Cloudflare Turnstile, image CAPTCHAs) using CapMonster Cloud API. Use when browser automation encounters CAPTCHA challenges.",
+  "version": "1.0.0",
+  "author": {
+    "name": "easonc13"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/easonc13/capmonster",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/easonc13/capmonster"
+}

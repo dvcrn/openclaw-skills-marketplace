@@ -1,0 +1,10 @@
+{
+  "name": "ztj7728--gemini-image-generation",
+  "description": "Generate or edit images with Gemini using the Google GenAI SDK. Use when the user asks to create, transform, render, or save one or more images in an OpenClaw skill workflow.",
+  "version": "1.0.8",
+  "author": {
+    "name": "ztj7728"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ztj7728/gemini-image-generation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ztj7728/gemini-image-generation"
+}

@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "xiaodu": {
+      "baseUrl": "https://替换成你的智能屏MCP地址",
+      "headers": {
+        "ACCESS_TOKEN": "替换成你的小度MCP平台ACCESS_TOKEN"
+      }
+    },
+    "xiaodu-iot": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "dueros-iot-mcp"
+      ],
+      "env": {
+        "ACCESS_TOKEN": "替换成你的小度MCP平台ACCESS_TOKEN"
+      }
+    }
+  }
+}

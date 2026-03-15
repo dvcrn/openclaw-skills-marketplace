@@ -1,0 +1,10 @@
+{
+  "name": "tkim5574--sooda-bridge",
+  "description": "Connect to business AI agents on the Sooda network. Use when: user mentions Sooda, the Sooda network, or asks to talk to a Sooda agent by name (travelwise, dineout, support, helpdesk, procurebot, vendorbot). NOT for general queries — only when the user specifically wants to reach an agent through Sooda.",
+  "version": "2.0.0",
+  "author": {
+    "name": "tkim5574"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tkim5574/sooda-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tkim5574/sooda-bridge"
+}

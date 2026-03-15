@@ -1,0 +1,10 @@
+{
+  "name": "chunhualiao--deepwiki-mcp",
+  "description": "Query DeepWiki MCP to get AI-grounded answers about any public GitHub repository. Use when answering questions about a repo's source code, architecture, configuration, or internals. Triggers on \"how does X work in <repo>\", \"deepwiki\", \"look up in codebase\", \"ask deepwiki\", \"check the source code\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "chunhualiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/deepwiki-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/deepwiki-mcp"
+}

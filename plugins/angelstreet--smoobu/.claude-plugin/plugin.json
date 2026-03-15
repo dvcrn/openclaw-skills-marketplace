@@ -1,0 +1,10 @@
+{
+  "name": "angelstreet--smoobu",
+  "description": "Interact with Smoobu property management API. Use for checking bookings, availability, managing reservations, and listing apartments/properties. Triggers on rental property management, Airbnb sync, vacation rental bookings, guest management.",
+  "version": "1.1.0",
+  "author": {
+    "name": "angelstreet"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/angelstreet/smoobu",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/angelstreet/smoobu"
+}

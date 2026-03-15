@@ -1,0 +1,77 @@
+#!/usr/bin/env python3
+"""自动语音回复 - 检查未处理的语音消息并自动回复"""
+
+import os
+import glob
+import json
+import subprocess
+import asyncio
+import edge_tts
+
+MEDIA_IN = "/Users/cx/.openclaw/media/inbound"
+MEDIA_OUT = "/Users/cx/.openclaw/media/outbound"
+PROCESSED = "/Users/cx/.openclaw/media/voice_processed"
+VOICE = "zh-CN-XiaoxiaoNeural"
+
+# 已处理的记录
+PROCESSED_FILE = "/tmp/voice_processed.json"
+
+def load_processed():
+    if os.path.exists(PROCESSED_FILE):
+        with open(PROCESSED_FILE) as f:
+            return json.load(f)
+    return []
+
+def save_processed(files):
+    with open(PROCESSED_FILE, 'w') as f:
+        json.dump(files, f)
+
+async def synthesize(text, output_path):
+    tts = edge_tts.Communicate(text, VOICE)
+    await tts.save(output_path)
+
+def main():
+    # 加载已处理的音频
+    processed = load_processed()
+    
+    # 查找新的 ogg 文件（5分钟内）
+    import time
+    now = time.time()
+    audio_files = []
+    
+    for f in glob.glob(f"{MEDIA_IN}/*.ogg"):
+        mtime = os.path.getmtime(f)
+        if now - mtime < 300 and f not in processed:
+            audio_files.append(f)
+    
+    if not audio_files:
+        print("No new audio files")
+        return
+    
+    # 处理每个新音频
+    for audio_file in audio_files:
+        print(f"Processing: {audio_file}")
+        
+        # 转写（调用 whisper）
+        result = subprocess.run(
+            ['/Users/cx/.openclaw/tools/whisper', audio_file],
+            capture_output=True, text=True
+        )
+        
+        transcript = result.stdout.strip()
+        if not transcript:
+            continue
+        
+        print(f"Transcript: {transcript}")
+        
+        # 标记为已处理
+        processed.append(audio_file)
+        save_processed(processed)
+        
+        # 移动到已处理目录
+        os.makedirs(PROCESSED, exist_ok=True)
+        basename = os.path.basename(audio_file)
+        os.rename(audio_file, f"{PROCESSED}/{basename}")
+
+if __name__ == "__main__":
+    main()

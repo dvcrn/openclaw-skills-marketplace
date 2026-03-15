@@ -1,0 +1,10 @@
+{
+  "name": "ashirbadgudu--npkill",
+  "description": "Clean up node_modules and .next folders to free up disk space using npkill. Specifically designed to help JavaScript and Next.js developers remove accumulated build artifacts that consume significant storage. Provides both interactive and automated cleanup options with safety checks to protect important system directories.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ashirbadgudu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ashirbadgudu/npkill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ashirbadgudu/npkill"
+}

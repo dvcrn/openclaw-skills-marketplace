@@ -1,0 +1,10 @@
+{
+  "name": "johnnynunez--linux-camera",
+  "description": "Capture photos, record video clips, list cameras, and live stream on Linux. Uses V4L2 and ffmpeg. Supports USB webcams and RTSP/IP cameras.",
+  "version": "1.0.0",
+  "author": {
+    "name": "johnnynunez"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnnynunez/linux-camera",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnnynunez/linux-camera"
+}

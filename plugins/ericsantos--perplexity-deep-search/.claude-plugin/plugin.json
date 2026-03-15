@@ -1,0 +1,10 @@
+{
+  "name": "ericsantos--perplexity-deep-search",
+  "description": "Deep search via Perplexity API. Three modes: search (quick facts), reason (complex analysis), research (in-depth reports). Returns AI-grounded answers with citations.",
+  "version": "1.1.0",
+  "author": {
+    "name": "ericsantos"
+  },
+  "homepage": "https://docs.perplexity.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ericsantos/perplexity-deep-search"
+}

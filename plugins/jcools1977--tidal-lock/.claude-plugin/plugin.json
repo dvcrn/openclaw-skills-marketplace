@@ -1,0 +1,10 @@
+{
+  "name": "jcools1977--tidal-lock",
+  "description": "Detects unhealthy coupling between components — when two modules, services, or layers have become gravitationally locked, unable to change independently. Like the Moon always showing Earth the same face, tidally-locked code can only rotate together. This skill maps coupling health across the entire system and identifies where independence has been silently surrendered.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jcools1977"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jcools1977/tidal-lock",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jcools1977/tidal-lock"
+}

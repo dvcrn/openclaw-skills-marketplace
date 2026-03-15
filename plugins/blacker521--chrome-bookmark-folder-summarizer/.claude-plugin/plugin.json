@@ -1,0 +1,10 @@
+{
+  "name": "blacker521--chrome-bookmark-folder-summarizer",
+  "description": "Reads Chrome bookmarks and extracts URLs by a user-provided folder name, then generates batch webpage summaries. Use when the user mentions Chrome bookmarks/favorites, bookmark folders, link summarization, or asks to summarize sites under a bookmark folder.",
+  "version": "1.0.1",
+  "author": {
+    "name": "blacker521"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/blacker521/chrome-bookmark-folder-summarizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/blacker521/chrome-bookmark-folder-summarizer"
+}

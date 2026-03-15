@@ -1,0 +1,10 @@
+{
+  "name": "leeeroyjoy-pixel--dmm-ranking-lite",
+  "description": "Fetch DMM/FANZA public rankings (daily/weekly/monthly) without API keys and output top 10 in numbered text format with Japanese title, Chinese translation, and cover image URL. Use when user asks for DMM/FANZA 日榜/周榜/月榜 scraping, top10 extraction, or no-key ranking collection.",
+  "version": "0.1.0",
+  "author": {
+    "name": "leeeroyjoy-pixel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leeeroyjoy-pixel/dmm-ranking-lite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leeeroyjoy-pixel/dmm-ranking-lite"
+}

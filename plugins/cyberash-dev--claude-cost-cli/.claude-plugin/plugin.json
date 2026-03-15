@@ -1,0 +1,10 @@
+{
+  "name": "cyberash-dev--claude-cost-cli",
+  "description": "Query Claude API usage and cost reports from the command line. Secure macOS Keychain storage for Admin API key. Table/JSON output.",
+  "version": "0.1.0",
+  "author": {
+    "name": "cyberash-dev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cyberash-dev/claude-cost-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cyberash-dev/claude-cost-cli"
+}

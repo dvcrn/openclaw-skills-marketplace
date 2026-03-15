@@ -1,0 +1,10 @@
+{
+  "name": "flyptkarsh--hienergy-advertiser-intelligence-affiliate-copilot",
+  "description": "Official Hi Energy AI skill for finding and managing affiliate marketing programs, affiliate deals/offers, commissions, transactions, and partner contacts in OpenClaw. Query HiEnergy API v1 for advertisers, affiliate programs, deals, transactions (with analytics meta), contacts, status changes, agencies, tags/categories, and publisher details. Best for affiliate program discovery, affiliate deal research, partner marketing operations, advertiser lookup, brand intelligence, publisher contacts, transaction analytics (sales, commissions, trends), commission analysis, and domain-to-advertiser search across networks like Impact, Rakuten, CJ, Awin, Partnerize, and ShareASale. Includes deep advertiser profile (show endpoint) responses with links such as https://app.hienergy.ai/a/<advertiser_id>. Learn more: https://www.hienergy.ai and https://app.hienergy.ai/api_documentation.",
+  "version": "2.0.0",
+  "author": {
+    "name": "flyptkarsh"
+  },
+  "homepage": "https://www.hienergy.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/flyptkarsh/hienergy-advertiser-intelligence-affiliate-copilot"
+}

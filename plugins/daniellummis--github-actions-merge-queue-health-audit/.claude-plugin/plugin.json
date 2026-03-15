@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-merge-queue-health-audit",
+  "description": "Audit GitHub merge queue workflow health with failure-rate, queue-latency, and stale-success risk scoring.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-merge-queue-health-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-merge-queue-health-audit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "pfrederiksen--synology-backup",
+  "description": "Backup and restore OpenClaw workspace, configs, and agent data to a Synology NAS via SMB. Use when: backing up workspace files, restoring from a snapshot, checking backup status/health, or setting up automated backups. Supports Tailscale for secure remote VPS-to-NAS connectivity.",
+  "version": "1.0.4",
+  "author": {
+    "name": "pfrederiksen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pfrederiksen/synology-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pfrederiksen/synology-backup"
+}

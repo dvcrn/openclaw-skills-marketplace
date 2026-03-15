@@ -1,0 +1,19 @@
+{
+  "name": "rqalpha",
+  "version": "1.0.0",
+  "description": "RQAlpha — open-source event-driven backtesting framework by RiceQuant, supporting A-shares and futures with modular architecture.",
+  "author": "BossQuant",
+  "tags": ["回测", "量化交易", "RQAlpha", "米筐", "事件驱动", "A股", "期货", "开源"],
+  "repository": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "python": ">=3.8",
+    "packages": ["rqalpha>=5.0.0", "pandas>=1.5.0", "numpy>=1.20.0"]
+  },
+  "openclaw": {
+    "requires": {
+      "bins": ["python3"],
+      "env": []
+    }
+  }
+}

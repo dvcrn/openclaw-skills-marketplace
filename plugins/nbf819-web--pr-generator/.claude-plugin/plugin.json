@@ -1,0 +1,10 @@
+{
+  "name": "nbf819-web--pr-generator",
+  "description": "Generate QR codes from text, URLs, or images. Use when users ask to 'generate QR code', 'create QR', or 'make QR code for'. Supports text content, URLs, and local images (automatically compressed).",
+  "version": "3.0.0",
+  "author": {
+    "name": "nbf819-web"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nbf819-web/pr-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nbf819-web/pr-generator"
+}

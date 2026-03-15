@@ -1,0 +1,10 @@
+{
+  "name": "ultranumblol--memeanalyzer",
+  "description": "Analyze Solana meme token (CA) risk by scanning holder distribution, detecting insider\n wallets (老鼠仓/rat warehouse), and evaluating top-holder concentration.\n Use when the user wants to analyze a Solana token contract address, check for rugs,\n detect insiders, evaluate meme coin safety, check holder concentration, or assess\n if a token is likely to be dumped. Keywords: CA分析, 老鼠仓, 控盘, 持仓分析, Solana token risk.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ultranumblol"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ultranumblol/memeanalyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ultranumblol/memeanalyzer"
+}

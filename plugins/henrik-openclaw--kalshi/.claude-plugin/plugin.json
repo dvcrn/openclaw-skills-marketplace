@@ -1,0 +1,10 @@
+{
+  "name": "henrik-openclaw--kalshi",
+  "description": "Read-only Kalshi prediction market integration. Use for viewing markets, checking portfolio positions, analyzing prediction opportunities, and finding high-payoff/high-certainty trades. Triggers on Kalshi, prediction markets, event contracts, or trading recommendations.",
+  "version": "1.1.0",
+  "author": {
+    "name": "henrik-openclaw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/henrik-openclaw/kalshi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/henrik-openclaw/kalshi"
+}

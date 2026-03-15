@@ -1,0 +1,10 @@
+{
+  "name": "wells1137--wells1137-skill-updater",
+  "description": "Updates a specific skill within a repository and triggers the automated publishing pipeline. Use when the user wants to release a new version of a single skill.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wells1137"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wells1137/wells1137-skill-updater",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wells1137/wells1137-skill-updater"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--salesforce-api",
+  "description": "Salesforce CRM API integration with managed OAuth. Query records with SOQL, manage sObjects (Contacts, Accounts, Leads, Opportunities), and perform batch operations. Use this skill when users want to interact with Salesforce data. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.4",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/salesforce-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/salesforce-api"
+}

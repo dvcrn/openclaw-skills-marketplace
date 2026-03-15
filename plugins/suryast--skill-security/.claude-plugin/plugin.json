@@ -1,0 +1,10 @@
+{
+  "name": "suryast--skill-security",
+  "description": "Security audit tool for OpenClaw skills. Scans for credential harvesting, code injection, network exfiltration, obfuscation. ALWAYS run before installing any new skill from external sources. Triggers on: new skill installation, skill audit, security scan, skill review, before loading external skill.",
+  "version": "1.0.1",
+  "author": {
+    "name": "suryast"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/suryast/skill-security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/suryast/skill-security"
+}

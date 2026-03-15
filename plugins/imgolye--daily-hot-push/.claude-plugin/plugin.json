@@ -1,0 +1,10 @@
+{
+  "name": "imgolye--daily-hot-push",
+  "description": "每日推送中国热榜TOP10到飞书。从微博、知乎、百度、36氪筛选最重要的新闻，智能排除明星八卦和主观评论。",
+  "version": "1.0.0",
+  "author": {
+    "name": "imgolye"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imgolye/daily-hot-push",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imgolye/daily-hot-push"
+}

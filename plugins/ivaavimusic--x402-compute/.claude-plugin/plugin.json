@@ -1,0 +1,10 @@
+{
+  "name": "ivaavimusic--x402-compute",
+  "description": "This skill should be used when the user asks to \"provision GPU instance\",\n \"spin up a cloud server\", \"list compute plans\", \"browse GPU pricing\",\n \"extend compute instance\", \"destroy server instance\", \"check instance status\",\n \"list my instances\", or manage x402 Singularity Compute / x402Compute\n infrastructure. Handles GPU and VPS provisioning with USDC payment on Base\n or Solana networks via the x402 payment protocol.",
+  "version": "1.0.7",
+  "author": {
+    "name": "ivaavimusic"
+  },
+  "homepage": "https://studio.x402layer.cc/docs/agentic-access/x402-compute",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivaavimusic/x402-compute"
+}

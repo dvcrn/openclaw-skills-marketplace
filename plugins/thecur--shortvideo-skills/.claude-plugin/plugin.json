@@ -1,0 +1,10 @@
+{
+  "name": "thecur--shortvideo-skills",
+  "description": "Create videos using ShortVideo API. Supports product-to-video, image-to-ad-video, and replicate-video. Use this skill when users want to: generate product videos, create ad videos from images, or replicate existing videos. Also trigger on: 生成视频, 产品视频, 视频生成, 制作视频, video generation, create video, product video, ad video.",
+  "version": "0.1.1",
+  "author": {
+    "name": "thecur"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thecur/shortvideo-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thecur/shortvideo-skills"
+}

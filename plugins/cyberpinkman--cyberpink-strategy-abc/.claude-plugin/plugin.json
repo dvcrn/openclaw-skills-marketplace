@@ -1,0 +1,10 @@
+{
+  "name": "cyberpinkman--cyberpink-strategy-abc",
+  "description": "MOPO Texas Hold'em ABC player skill for webhook-managed play (primary) with runtime fallback. Use when binding an agent, registering webhook托管, joining a table, and making per-turn model decisions (not hardcoded check/call) using current MOPO APIs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cyberpinkman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cyberpinkman/cyberpink-strategy-abc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cyberpinkman/cyberpink-strategy-abc"
+}

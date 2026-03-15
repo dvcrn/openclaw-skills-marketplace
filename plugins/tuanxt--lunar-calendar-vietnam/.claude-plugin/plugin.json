@@ -1,0 +1,10 @@
+{
+  "name": "tuanxt--lunar-calendar-vietnam",
+  "description": "Công cụ tra cứu Âm lịch, chuẩn xác theo hệ lịch Việt Nam (giờ GMT+7).\n Năng lực cốt lõi:\n - Dương lịch chuyển sang Âm Lịch (có Can Chi, Con Giáp Việt Nam)\n - Âm lịch chuyển sang Dương lịch\n - Ngày giờ hoàng đạo cơ bản\n - 24 Tiết Khí\n Kích hoạt khi: Người dùng hỏi \"ngày âm\", \"âm lịch\", \"giờ hoàng đạo\", \"nông lịch\", \"tiết khí\", \"lịch việt nam\" hoặc cần chuyển đổi ngày tháng lịch sử Việt Nam.\n Kết quả đầu ra: JSON Data kèm giải nghĩa ngôn ngữ tự nhiên.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tuanxt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tuanxt/lunar-calendar-vietnam",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tuanxt/lunar-calendar-vietnam"
+}

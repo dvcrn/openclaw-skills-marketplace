@@ -1,0 +1,10 @@
+{
+  "name": "tammy-hash--pangolinfo-scrape",
+  "description": "Search Google and scrape Amazon using Pangolin APIs. Supports AI Mode search (Google AI Overview with multi-turn dialogue), standard SERP with AI Overview extraction, Amazon product/keyword/category scraping, and screenshot capture. Use when needing to search Google programmatically, get AI overviews, scrape SERP results, perform multi-turn Google AI search, or extract Amazon product data. Requires PANGOLIN_EMAIL and PANGOLIN_PASSWORD env vars (or PANGOLIN_TOKEN).",
+  "version": "0.1.0",
+  "author": {
+    "name": "tammy-hash"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tammy-hash/pangolinfo-scrape",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tammy-hash/pangolinfo-scrape"
+}

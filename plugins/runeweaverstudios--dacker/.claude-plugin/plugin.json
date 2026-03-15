@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--dacker",
+  "description": "Installs and uses Docker reliably with official docs. Use when installing Docker (Desktop or Engine), building or running containers, writing Dockerfiles, using docker compose, or when the user asks about containers, images, or Docker CLI.",
+  "version": "1.0.1",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://docs.docker.com/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/dacker"
+}

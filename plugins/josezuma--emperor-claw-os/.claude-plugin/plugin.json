@@ -1,0 +1,10 @@
+{
+  "name": "josezuma--emperor-claw-os",
+  "description": "Operate the Emperor Claw control plane as the Manager for an AI workforce: interpret goals into projects, claim and complete tasks, manage agents, incidents, SLAs, and tactics, and call the Emperor Claw MCP endpoints for all state changes.",
+  "version": "1.12.1",
+  "author": {
+    "name": "josezuma"
+  },
+  "homepage": "https://emperorclaw.malecu.eu",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/josezuma/emperor-claw-os"
+}

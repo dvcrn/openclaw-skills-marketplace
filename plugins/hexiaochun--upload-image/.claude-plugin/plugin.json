@@ -1,0 +1,10 @@
+{
+  "name": "hexiaochun--upload-image",
+  "description": "上传本地图片到云存储，获取公开访问的 URL 链接。当用户需要上传图片、转存网络图片、获取图片 URL 时使用此 skill。",
+  "version": "1.0.1",
+  "author": {
+    "name": "hexiaochun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/upload-image",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/upload-image"
+}

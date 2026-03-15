@@ -1,0 +1,10 @@
+{
+  "name": "xejrax--log-tail",
+  "description": "Stream recent logs from systemd journal",
+  "version": "1.0.0",
+  "author": {
+    "name": "xejrax"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xejrax/log-tail",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xejrax/log-tail"
+}

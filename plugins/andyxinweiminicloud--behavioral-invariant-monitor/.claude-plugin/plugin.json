@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--behavioral-invariant-monitor",
+  "description": "Helps verify that AI agent skills maintain consistent behavioral invariants across repeated executions — detecting the class of threat where a skill behaves safely during initial evaluation but shifts behavior based on execution count, environmental conditions, or delayed activation triggers. v1.3 adds performance fingerprinting (computational complexity drift detection), cryptographic audit trails (hash-chained behavior logs for immutable verification), and risk-proportional monitoring (sampling-based checks to reduce overhead).",
+  "version": "1.3.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/behavioral-invariant-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/behavioral-invariant-monitor"
+}

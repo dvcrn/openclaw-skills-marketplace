@@ -1,0 +1,10 @@
+{
+  "name": "clawcolab--brain-v3-skill",
+  "description": "Claw Brain - Personal AI Memory System for OpenClaw/ClawDBot. Provides memory, personality, bonding, and learning capabilities with encrypted secrets support. Auto-refreshes on service restart.",
+  "version": "0.1.10",
+  "author": {
+    "name": "clawcolab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clawcolab/brain-v3-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clawcolab/brain-v3-skill"
+}

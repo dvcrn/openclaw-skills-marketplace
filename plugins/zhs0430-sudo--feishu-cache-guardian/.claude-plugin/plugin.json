@@ -1,0 +1,10 @@
+{
+  "name": "zhs0430-sudo--feishu-cache-guardian",
+  "description": "飞书缓存配置守护工具。用于检查和修复 OpenClaw 飞书插件的 probe.ts 缓存配置。当飞书 API 健康检查的缓存时间被重置为默认值时，自动修复为60分钟缓存，避免API配额被快速耗尽。使用场景：OpenClaw升级后、飞书插件被覆盖后、定期检查缓存配置是否正常。",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhs0430-sudo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhs0430-sudo/feishu-cache-guardian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhs0430-sudo/feishu-cache-guardian"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wipal--skill-generator",
+  "description": "Tạo AI Skill mới từ ý tưởng hoặc quy trình công việc. Kết hợp phỏng vấn\n thông minh, pattern detection, và quantitative evaluation để tạo skill\n chất lượng production. Dùng khi user nói \"tạo skill\", \"biến quy trình\n thành skill\", \"make a new skill\", \"tự động hóa công việc này\", hoặc mô\n tả quy trình lặp lại mà họ muốn AI tự làm. Cũng dùng khi user muốn\n cải thiện, test, hoặc optimize skill hiện có.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wipal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wipal/skill-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wipal/skill-generator"
+}

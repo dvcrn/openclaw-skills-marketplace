@@ -1,0 +1,10 @@
+{
+  "name": "orientluna--openclaw-glm-plan-usage",
+  "description": "查询 GLM 编码套餐使用统计，包括配额、模型使用和 MCP 工具使用情况 | Query GLM coding plan usage statistics, including quota, model usage, and MCP tool usage",
+  "version": "1.0.1",
+  "author": {
+    "name": "orientluna"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/orientluna/openclaw-glm-plan-usage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/orientluna/openclaw-glm-plan-usage"
+}

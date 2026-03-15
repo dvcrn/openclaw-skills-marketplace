@@ -1,0 +1,10 @@
+{
+  "name": "linfangw--qveris-official",
+  "description": "QVeris is a capability discovery and tool calling engine. Use discover to find specialized API tools — real-time data, historical sequences, structured reports, web extraction, PDF workflows, media generation, OCR, TTS, translation, and more. Then call the selected tool. Discovery queries must be English API capability descriptions. Requires QVERIS_API_KEY.",
+  "version": "1.0.8",
+  "author": {
+    "name": "linfangw"
+  },
+  "homepage": "https://github.com/QVerisAI/open-qveris-skills/tree/main/qveris-official",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/linfangw/qveris-official"
+}

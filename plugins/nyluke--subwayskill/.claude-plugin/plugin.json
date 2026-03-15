@@ -1,0 +1,10 @@
+{
+  "name": "nyluke--subwayskill",
+  "description": "Fetch NYC subway departure times. Use when the user asks about subway trains, commute times, when the next train is, or NYC transit schedules. Covers all subway lines (1-7, A-G, J, Z, L, N, Q, R, W, S, SIR).",
+  "version": "1.0.0",
+  "author": {
+    "name": "nyluke"
+  },
+  "homepage": "https://github.com/nyluke/subwayskill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nyluke/subwayskill"
+}

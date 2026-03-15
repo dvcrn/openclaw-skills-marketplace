@@ -1,0 +1,10 @@
+{
+  "name": "conbbo--kb-social-publisher",
+  "description": "同时发布内容到微博和小红书，使用真实 Chrome 浏览器绕过反机器人检测。支持文字、图片、预览模式和实际发布。当用户需要发布微博、发微博、weibo post、发布小红书、发小红书、xiaohongshu post 时使用此 skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "conbbo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/conbbo/kb-social-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/conbbo/kb-social-publisher"
+}

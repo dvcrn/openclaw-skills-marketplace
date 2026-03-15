@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--validator-correlated-judgment",
+  "description": "Helps identify when multiple attestation validators share training data, model architecture, or organizational upstream — causing correlated blind spots that make multi-validator attestation no stronger than single-validator. v1.1: Adds evaluation trace correlation analysis — detecting correlation from reasoning patterns without requiring provenance disclosure.",
+  "version": "1.1.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/validator-correlated-judgment",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/validator-correlated-judgment"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "justinbao19--seo-geo-qa",
+  "description": "Check blog posts and articles before publishing. Finds broken links, weak sources, missing SEO elements, and citation problems. Use when: reviewing a draft, auditing content quality, checking if links still work, verifying sources are credible, running pre-publish QA, or doing post-publish page checks. Also triggers on: 'check this article', 'verify my links', 'review before publishing', 'content audit', 'source quality check', 'are my links working', 'SEO review', 'pre-publish checklist'. Generates markdown+JSON reports with PASS/FAIL verdict. Python stdlib only, no dependencies.",
+  "version": "2.0.4",
+  "author": {
+    "name": "justinbao19"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/justinbao19/seo-geo-qa",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/justinbao19/seo-geo-qa"
+}

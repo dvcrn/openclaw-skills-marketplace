@@ -1,0 +1,10 @@
+{
+  "name": "wfce--aawp",
+  "description": "AAWP (AI Agent Wallet Protocol) — the only crypto wallet protocol built exclusively for AI Agents on EVM-compatible blockchains. Not for humans. The signer is the AI Agent itself, cryptographically bound at wallet creation. Supports wallet lifecycle management, token transfers, DEX swaps, cross-chain bridging, arbitrary contract interactions, DCA automation, and price alerts.",
+  "version": "1.5.2",
+  "author": {
+    "name": "wfce"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wfce/aawp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wfce/aawp"
+}

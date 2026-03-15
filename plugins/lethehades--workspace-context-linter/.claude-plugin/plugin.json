@@ -1,0 +1,10 @@
+{
+  "name": "lethehades--workspace-context-linter",
+  "description": "Diagnose always-loaded workspace context files such as AGENTS.md, SOUL.md, USER.md, MEMORY.md, and TOOLS.md. Use when you want to reduce context bloat, detect duplicated rules, spot misplaced content, identify overweight sections, or audit whether core context files still match their intended roles before reorganizing them.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lethehades"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lethehades/workspace-context-linter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lethehades/workspace-context-linter"
+}

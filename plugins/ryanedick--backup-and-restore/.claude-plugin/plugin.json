@@ -1,0 +1,10 @@
+{
+  "name": "ryanedick--backup-and-restore",
+  "description": "Backup, restore, disaster recovery, and migration for OpenClaw. Encrypts and stores ~/.openclaw/ locally and to cloud destinations (S3, R2, B2, GCS, Google Drive, rsync). Use when the user asks about backups, snapshots, disaster recovery, migration, or restoring OpenClaw from a backup.",
+  "version": "1.3.0",
+  "author": {
+    "name": "ryanedick"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ryanedick/backup-and-restore",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ryanedick/backup-and-restore"
+}

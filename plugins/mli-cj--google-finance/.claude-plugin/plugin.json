@@ -1,0 +1,10 @@
+{
+  "name": "mli-cj--google-finance",
+  "description": "Track stock prices and company news from Google Finance on a schedule. Use when user wants to monitor stocks, get buy/sell recommendations, check price changes, follow company news, set up stock alerts, or track portfolio symbols. Triggers: 'track stock', 'watch AAPL', 'stock alert', 'buy or sell', 'stock news', 'Google Finance'. Default watchlist: NVDA, AAPL, META, GOOGL.",
+  "version": "1.1.0",
+  "author": {
+    "name": "mli-cj"
+  },
+  "homepage": "https://finance.google.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mli-cj/google-finance"
+}

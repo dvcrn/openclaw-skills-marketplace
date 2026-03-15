@@ -1,0 +1,10 @@
+{
+  "name": "zscole--openclaw",
+  "description": "Secure key management for AI agents. Use when handling private keys, API secrets, wallet credentials, or when building systems that need agent-controlled funds. Covers secure storage, session keys, leak prevention, and prompt injection defense.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zscole"
+  },
+  "homepage": "https://numbergroup.xyz",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zscole/openclaw"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "yuf1011--xiaohongshu-publisher",
+  "description": "Draft and publish posts to 小红书 (Xiaohongshu/RED). Use when creating content for 小红书, drafting posts, generating cover images, or publishing via browser automation. Covers the full workflow from content creation to browser-based publishing, including cover image generation with Pillow.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yuf1011"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yuf1011/xiaohongshu-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yuf1011/xiaohongshu-publisher"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "foontinz--linkdapi",
+  "description": "Work with LinkdAPI Python SDK for accessing LinkedIn professional profile and company data. Use when you need to fetch profile information, company data, job listings, or search for people/jobs on LinkedIn. The skill uses uv script pattern for ephemeral Python scripts with inline dependencies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "foontinz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/foontinz/linkdapi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/foontinz/linkdapi"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "iclems--airfrance-afkl",
+  "description": "Track Air France flights using the Air France–KLM Open Data APIs (Flight Status). Use when the user gives a flight number/date (e.g., AF007 on 2026-01-29) and wants monitoring, alerts (delay/gate/aircraft changes), or analysis (previous-flight chain, aircraft tail number → cabin recency / Wi‑Fi). Also use when setting up or tuning polling schedules within API rate limits.",
+  "version": "1.0.1",
+  "author": {
+    "name": "iclems"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iclems/airfrance-afkl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iclems/airfrance-afkl"
+}

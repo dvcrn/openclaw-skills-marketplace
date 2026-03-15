@@ -1,0 +1,10 @@
+{
+  "name": "shuakami--uapi-get-history-programmer",
+  "description": "使用 UAPI 的“程序员历史事件”单接口 skill，处理 程序员历史事件 等请求。 Use when the user wants get history programmer, history programmer, programmer, or when you need to call GET /history/programmer directly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shuakami"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-history-programmer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-history-programmer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "patches429--trade-executor",
+  "description": "Execute cryptocurrency trades on exchanges (Binance, OKX) with risk controls, user confirmation, and audit logging.",
+  "version": "0.1.0",
+  "author": {
+    "name": "patches429"
+  },
+  "homepage": "https://www.binance.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/patches429/trade-executor"
+}

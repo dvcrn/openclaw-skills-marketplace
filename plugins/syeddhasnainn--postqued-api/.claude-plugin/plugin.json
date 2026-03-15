@@ -1,0 +1,10 @@
+{
+  "name": "syeddhasnainn--postqued-api",
+  "description": "PostQued social media scheduling API integration. Use when performing API calls to PostQued for content upload, publishing to TikTok (and other platforms), managing platform accounts, or querying publish status. Triggers on tasks involving social media posting, content scheduling, TikTok draft posting, or any PostQued API operations.",
+  "version": "1.0.6",
+  "author": {
+    "name": "syeddhasnainn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/syeddhasnainn/postqued-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/syeddhasnainn/postqued-api"
+}

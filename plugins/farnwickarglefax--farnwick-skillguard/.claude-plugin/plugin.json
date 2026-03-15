@@ -1,0 +1,10 @@
+{
+  "name": "farnwickarglefax--farnwick-skillguard",
+  "description": "AI-powered security scanner for OpenClaw skills. Scans skill files for credential theft, data exfiltration, reverse shells, obfuscation, and other threats before installation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "farnwickarglefax"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/farnwickarglefax/farnwick-skillguard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/farnwickarglefax/farnwick-skillguard"
+}

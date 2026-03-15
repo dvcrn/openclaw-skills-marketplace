@@ -1,0 +1,10 @@
+{
+  "name": "zhengxinjipai--stock-screener-growth",
+  "description": "A comprehensive growth stock screening and analysis skill. Use this skill whenever the user asks about growth stocks, stock screening, equity analysis, investment opportunities, stock picks, market trends affecting equities, sector rotation, earnings analysis, revenue growth analysis, or fundamental stock evaluation. Also trigger when the user mentions terms like \"high-growth companies\", \"multibagger\", \"momentum stocks\", \"earnings growth\", \"revenue acceleration\", \"TAM expansion\", \"secular trends\", \"stock watchlist\", \"portfolio ideas\", or asks questions like \"what stocks should I look at\", \"find me growth opportunities\", \"which companies are benefiting from AI/cloud/EVs\", or \"analyze this stock's growth potential\". This skill combines quantitative financial screening with qualitative trend analysis to deliver institutional-grade growth stock research.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhengxinjipai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhengxinjipai/stock-screener-growth",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhengxinjipai/stock-screener-growth"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wanng-ide--clawhub-skill-publisher",
+  "description": "Trusted publish assistant for bot and agent teams. Publishes and syncs local skills to ClawHub with non-browser token login, preflight safety checks, and repeatable release flow. Use when users ask to upload, publish, sync, or release skills to clawhub.ai.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wanng-ide"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/clawhub-skill-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/clawhub-skill-publisher"
+}

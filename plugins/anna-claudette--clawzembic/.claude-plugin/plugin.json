@@ -1,0 +1,10 @@
+{
+  "name": "anna-claudette--clawzembic",
+  "description": "Lighthouse-style efficiency audit for OpenClaw. Scores your instance A+ to F across 6 categories (context injection, cron health, session bloat, config, skills, transcripts). Identifies wasted tokens, bloated sessions, misconfigured crons, and model right-sizing opportunities. Zero dependencies (Python stdlib only).",
+  "version": "1.0.0",
+  "author": {
+    "name": "anna-claudette"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anna-claudette/clawzembic",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anna-claudette/clawzembic"
+}

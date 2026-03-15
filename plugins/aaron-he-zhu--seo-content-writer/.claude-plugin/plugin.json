@@ -1,0 +1,10 @@
+{
+  "name": "aaron-he-zhu--seo-content-writer",
+  "description": "This skill should be used when the user asks to \"write SEO content\", \"create a blog post\", \"write an article\", \"content writing for SEO\", \"draft optimized content\", \"write a how-to guide\", \"create a product description\", \"write a landing page\", \"SEO copywriting\", \"draft content targeting [keyword]\", or \"write 2000-word article about [topic]\". Creates keyword-optimized content using a 12-step workflow: CORE-EEAT pre-write checklist, keyword integration, title optimization (5 formula options), meta description, H1/H2/H3 hierarchy, featured snippet targeting, internal/external linking, and readability enhancement. Produces full drafts with embedded SEO elements, title variants, meta description, FAQ section with schema, and a self-scored CORE-EEAT checklist. For AI-citation optimization, see geo-content-optimizer. For updating existing content, see content-refresher.",
+  "version": "3.0.0",
+  "author": {
+    "name": "aaron-he-zhu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/seo-content-writer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/seo-content-writer"
+}

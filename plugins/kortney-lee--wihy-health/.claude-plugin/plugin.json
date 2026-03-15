@@ -1,0 +1,10 @@
+{
+  "name": "kortney-lee--wihy-health",
+  "description": "Fact-check health and nutrition claims using the WIHY research knowledge base. Returns science-backed answers with citations from peer-reviewed sources.",
+  "version": "1.0.3",
+  "author": {
+    "name": "kortney-lee"
+  },
+  "homepage": "https://wihy.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kortney-lee/wihy-health"
+}

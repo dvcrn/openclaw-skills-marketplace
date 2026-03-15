@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--safe-update-merge",
+  "description": "Safely merge upstream OpenClaw updates without destroying plugin/skill injections, custom UI tabs, or workspace features. Two-phase: Phase 1 (automated) merges, builds, and restarts the gateway from a safe-merge branch — without touching local-desktop-main. Phase 2 (user-confirmed) promotes to local-desktop-main and pushes to the fork remote only after the user verifies the gateway is healthy.",
+  "version": "1.3.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/safe-update-merge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/safe-update-merge"
+}

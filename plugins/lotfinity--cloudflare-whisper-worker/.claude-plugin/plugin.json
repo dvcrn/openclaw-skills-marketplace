@@ -1,0 +1,10 @@
+{
+  "name": "lotfinity--cloudflare-whisper-worker",
+  "description": "Transcribe audio using a deployed Cloudflare Worker Whisper endpoint. Use when converting voice/audio files (wav, mp3, m4a, ogg, webm) to text through the custom /transcribe API, including bearer-token auth, plain-text extraction, and quick CLI transcription workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lotfinity"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lotfinity/cloudflare-whisper-worker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lotfinity/cloudflare-whisper-worker"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "x-rayluan--soul-backup-skill",
+  "description": "Backup and restore OpenClaw workspace SOUL files with versioning, validation, and sanitized openclaw.json handling.",
+  "version": "1.2.1",
+  "author": {
+    "name": "x-rayluan"
+  },
+  "homepage": "https://github.com/X-RayLuan/soul-backup-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/x-rayluan/soul-backup-skill"
+}

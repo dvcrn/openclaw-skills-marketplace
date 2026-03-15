@@ -1,0 +1,10 @@
+{
+  "name": "tmustier--dyson-cli",
+  "description": "Control Dyson air purifiers, fans, and heaters via local MQTT. Use when asked to control Dyson devices, adjust fan speed, set temperature/heat, enable oscillation, or check room temperature/humidity. Requires being on the same WiFi network as the device.",
+  "version": "0.1.0",
+  "author": {
+    "name": "tmustier"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tmustier/dyson-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tmustier/dyson-cli"
+}

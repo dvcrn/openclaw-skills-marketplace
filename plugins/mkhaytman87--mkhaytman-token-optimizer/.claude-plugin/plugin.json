@@ -1,0 +1,10 @@
+{
+  "name": "mkhaytman87--mkhaytman-token-optimizer",
+  "description": "Automatically analyze and reduce OpenClaw token waste through context compression, tool-call deduplication insights, model selection guidance, and session hygiene checks. Use when sessions are nearing context limits, costs are climbing, or you want proactive token optimization before expensive tasks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mkhaytman87"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mkhaytman87/mkhaytman-token-optimizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mkhaytman87/mkhaytman-token-optimizer"
+}

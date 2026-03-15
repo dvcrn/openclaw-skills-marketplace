@@ -1,0 +1,10 @@
+{
+  "name": "briancolinger--dreaming",
+  "description": "Creative exploration during quiet hours. Turns idle heartbeat time into freeform thinking — hypotheticals, future scenarios, reflections, unexpected connections. Use when you want your agent to do something meaningful during low-activity periods instead of just returning HEARTBEAT_OK. Outputs written to files for human review later (like remembering dreams in the morning).",
+  "version": "1.0.2",
+  "author": {
+    "name": "briancolinger"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/briancolinger/dreaming",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/briancolinger/dreaming"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wpank--dual-stream-architecture",
+  "description": "Dual-stream event publishing combining Kafka for durability with Redis Pub/Sub for real-time delivery. Use when building event-driven systems needing both guaranteed delivery and low-latency updates. Triggers on dual stream, event publishing, Kafka Redis, real-time events, pub/sub, streaming architecture.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/dual-stream-architecture",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/dual-stream-architecture"
+}

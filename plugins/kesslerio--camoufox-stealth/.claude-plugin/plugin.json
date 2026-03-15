@@ -1,0 +1,10 @@
+{
+  "name": "kesslerio--camoufox-stealth",
+  "description": "C++ level anti-bot browser automation using Camoufox (patched Firefox) in isolated containers. Bypasses Cloudflare Turnstile, Datadome, Airbnb, Yelp. Superior to Chrome-based solutions (undetected-chromedriver, puppeteer-stealth) which only patch at JS level. Use when standard Playwright/Selenium gets blocked.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kesslerio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/camoufox-stealth",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/camoufox-stealth"
+}

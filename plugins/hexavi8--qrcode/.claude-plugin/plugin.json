@@ -1,0 +1,10 @@
+{
+  "name": "hexavi8--qrcode",
+  "description": "Generate styled QR codes (SVG/PNG/JPG) with custom colors, shapes, and error correction. Agent should display generated files. Secure: all outputs saved to workspace root.",
+  "version": "1.0.1",
+  "author": {
+    "name": "hexavi8"
+  },
+  "homepage": "https://github.com/HeXavi8/skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hexavi8/qrcode"
+}

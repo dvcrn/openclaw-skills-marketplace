@@ -1,0 +1,10 @@
+{
+  "name": "hqman--mijia",
+  "description": "Control Xiaomi Mijia smart home devices. Use this skill when the user wants to control desk lamps, smart plugs, or other Mijia devices. Supports turning lights on/off, adjusting brightness, setting color temperature, switching modes, and more.",
+  "version": "0.1.0",
+  "author": {
+    "name": "hqman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hqman/mijia",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hqman/mijia"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "clawd21--bitcoin-daily",
+  "description": "Daily digest of the Bitcoin Development mailing list and Bitcoin Core commits. Use when asked about recent bitcoin-dev discussions, mailing list activity, Bitcoin Core code changes, or to set up daily summaries. Fetches threads from groups.google.com/g/bitcoindev and commits from github.com/bitcoin/bitcoin.",
+  "version": "1.3.2",
+  "author": {
+    "name": "clawd21"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clawd21/bitcoin-daily",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clawd21/bitcoin-daily"
+}

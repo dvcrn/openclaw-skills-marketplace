@@ -1,0 +1,10 @@
+{
+  "name": "nazimboudeffa--yahoo-finance-forex",
+  "description": "Fetches real-time FOREX news and market data from Yahoo Finance for major currency pairs (EUR/USD, GBP/USD, USD/JPY, etc.). Analyzes sentiment and provides trading context.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nazimboudeffa"
+  },
+  "homepage": "https://github.com/nazimboudeffa/openclaw-yahoo-finance-forex",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nazimboudeffa/yahoo-finance-forex"
+}

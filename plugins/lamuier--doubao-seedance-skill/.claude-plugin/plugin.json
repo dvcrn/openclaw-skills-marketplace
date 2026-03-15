@@ -1,0 +1,10 @@
+{
+  "name": "lamuier--doubao-seedance-skill",
+  "description": "调用火山引擎 Seedance 视频生成 API。当用户需要生成视频、文生视频、图生视频时使用此 skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "lamuier"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lamuier/doubao-seedance-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lamuier/doubao-seedance-skill"
+}

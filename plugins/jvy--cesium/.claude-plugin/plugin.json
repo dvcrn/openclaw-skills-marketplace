@@ -1,0 +1,10 @@
+{
+  "name": "jvy--cesium",
+  "description": "Build, debug, and optimize CesiumJS 3D globe apps, including viewer setup, terrain/imagery, 3D Tiles, GeoJSON/CZML loading, camera control, picking, entity styling, and performance tuning. Use when the user asks for Cesium code, Cesium architecture, Cesium bugs, or migration guidance in web projects.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jvy"
+  },
+  "homepage": "https://cesium.com/platform/cesiumjs/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jvy/cesium"
+}

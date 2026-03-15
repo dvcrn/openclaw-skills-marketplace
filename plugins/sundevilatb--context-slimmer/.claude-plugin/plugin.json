@@ -1,0 +1,10 @@
+{
+  "name": "sundevilatb--context-slimmer",
+  "description": "Audit and slim down always-loaded context files (AGENTS.md, TOOLS.md, USER.md, MEMORY.md, HEARTBEAT.md, SOUL.md, IDENTITY.md). Use when asked to reduce token usage, audit context files, optimize context window, or slim down workspace files. Measures current token cost and identifies what to move, remove, or compress.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sundevilatb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sundevilatb/context-slimmer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sundevilatb/context-slimmer"
+}

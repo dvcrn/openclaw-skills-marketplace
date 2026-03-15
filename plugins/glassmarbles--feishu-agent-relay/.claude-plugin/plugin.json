@@ -1,0 +1,10 @@
+{
+  "name": "glassmarbles--feishu-agent-relay",
+  "description": "Build multi-Agent collaboration systems on Feishu (Lark). Provides complete patterns for: (1) orchestrator-specialist Agent architecture, (2) cross-Agent user identity mapping with Feishu open_id isolation, (3) Agent-to-Agent task relay via sessions_send, (4) specialist Agents proactively messaging users. Use when building multi-Bot coordination workflows where users contact one Bot but receive responses from different specialist Bots.",
+  "version": "1.0.0",
+  "author": {
+    "name": "glassmarbles"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/glassmarbles/feishu-agent-relay",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/glassmarbles/feishu-agent-relay"
+}

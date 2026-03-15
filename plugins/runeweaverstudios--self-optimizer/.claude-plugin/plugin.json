@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--self-optimizer",
+  "description": "Analyzes OpenClaw logs, chat history, and the .openclaw installation to propose self-improvement and optimization suggestions. Use when optimizing or auditing OpenClaw setup.",
+  "version": "0.1.0",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/self-optimizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/self-optimizer"
+}

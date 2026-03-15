@@ -1,0 +1,10 @@
+{
+  "name": "guzus--snu-canvas-cli",
+  "description": "Operate SNU's Canvas LMS (etl.snu.ac.kr) through CLI commands. Use when you need to inspect config, list courses/assignments/files/announcements, run bot/serve modes, or troubleshoot Canvas API issues. Never guess or substitute LMS domains; validate the configured Canvas URL first. Never ask users to send API tokens via chat.",
+  "version": "1.0.0",
+  "author": {
+    "name": "guzus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guzus/snu-canvas-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guzus/snu-canvas-cli"
+}

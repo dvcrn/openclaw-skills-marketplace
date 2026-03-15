@@ -1,0 +1,97 @@
+{
+  "database_name": "Opportunities",
+  "description": "Nero 商机池 - 存储所有高分产品机会",
+  "properties": {
+    "Title": {
+      "type": "title",
+      "description": "商机名称"
+    },
+    "Status": {
+      "type": "status",
+      "options": [
+        {"name": "Research", "color": "blue"},
+        {"name": "Building", "color": "yellow"},
+        {"name": "Launched", "color": "green"},
+        {"name": "Discarded", "color": "gray"}
+      ]
+    },
+    "Playbook Tag": {
+      "type": "select",
+      "options": [
+        {"name": "Micro-SaaS", "color": "blue"},
+        {"name": "生态插件", "color": "purple"},
+        {"name": "高价竞品平替", "color": "green"},
+        {"name": "API/自动化胶水", "color": "orange"}
+      ]
+    },
+    "Priority": {
+      "type": "select",
+      "options": [
+        {"name": "🚀 立即行动", "color": "red"},
+        {"name": "⭐ 高优先级", "color": "orange"},
+        {"name": "✅ 中等优先级", "color": "yellow"},
+        {"name": "⏸️ 低优先级", "color": "gray"}
+      ]
+    },
+    "Demand Score": {
+      "type": "number",
+      "description": "需求评分（0-100）"
+    },
+    "Difficulty": {
+      "type": "select",
+      "options": [
+        {"name": "Easy", "color": "green"},
+        {"name": "Medium", "color": "yellow"},
+        {"name": "Hard", "color": "orange"},
+        {"name": "Extreme", "color": "red"}
+      ]
+    },
+    "Source": {
+      "type": "select",
+      "options": [
+        {"name": "Reddit", "color": "blue"},
+        {"name": "Twitter", "color": "default"},
+        {"name": "GitHub", "color": "gray"},
+        {"name": "ProductHunt", "color": "red"},
+        {"name": "Other", "color": "brown"}
+      ]
+    },
+    "URL": {
+      "type": "url",
+      "description": "原始链接"
+    },
+    "First Seen": {
+      "type": "date",
+      "description": "首次发现时间"
+    },
+    "Last Seen": {
+      "type": "date",
+      "description": "最后发现时间"
+    },
+    "Seen Count": {
+      "type": "number",
+      "description": "发现次数"
+    },
+    "Intent/Tag": {
+      "type": "multi_select",
+      "options": []
+    },
+    "Daily Report": {
+      "type": "relation",
+      "database_id": "DAILY_REPORT_DB_ID",
+      "description": "关联的 Daily Report"
+    },
+    "Demand Content": {
+      "type": "rich_text",
+      "description": "英文原文"
+    },
+    "Trans Content": {
+      "type": "rich_text",
+      "description": "中文翻译"
+    },
+    "PM 解读": {
+      "type": "rich_text",
+      "description": "PM专业解读"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ant-1984--team-task-dispatch",
+  "description": "Coordinate team task execution on OpenAnt. Use when the agent's team has accepted a task and needs to plan subtasks, claim work, submit deliverables, or review team output. Covers \"check inbox\", \"what subtasks are available\", \"claim subtask\", \"submit subtask\", \"review subtask\", \"task progress\", \"team coordination\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "ant-1984"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/team-task-dispatch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/team-task-dispatch"
+}

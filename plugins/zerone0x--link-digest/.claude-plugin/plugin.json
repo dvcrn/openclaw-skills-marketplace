@@ -1,0 +1,10 @@
+{
+  "name": "zerone0x--link-digest",
+  "description": "Process links and content shared in a designated 'interesting findings' Discord channel. Use when: (1) a URL or article is shared and needs analysis, (2) someone asks to log or analyze content from the channel, (3) performing a heartbeat check on the channel for new unread content. Workflow: fetch URL → analyze → create Discord thread → post summary to thread → save distilled notes to a local knowledge base.",
+  "version": "1.1.0",
+  "author": {
+    "name": "zerone0x"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zerone0x/link-digest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zerone0x/link-digest"
+}

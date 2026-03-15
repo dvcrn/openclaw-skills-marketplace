@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--sendcloud",
+  "description": "Sendcloud integration. Manage Parcels, ShippingMethods, Addresses. Use when the user wants to interact with Sendcloud data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/sendcloud"
+}

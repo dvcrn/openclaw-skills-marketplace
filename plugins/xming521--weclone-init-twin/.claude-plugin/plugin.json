@@ -1,0 +1,10 @@
+{
+  "name": "xming521--weclone-init-twin",
+  "description": "Scaffold a digital twin persona directory with markdown templates such as profile, state, persona examples, and guardrails. Use when the user wants to initialize, bootstrap, reset, or regenerate the persona files that weclone-twin-reply will read.",
+  "version": "0.1.0",
+  "author": {
+    "name": "xming521"
+  },
+  "homepage": "https://github.com/xming521/WeClone-Skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xming521/weclone-init-twin"
+}

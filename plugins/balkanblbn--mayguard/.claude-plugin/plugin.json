@@ -1,0 +1,10 @@
+{
+  "name": "balkanblbn--mayguard",
+  "description": "A security auditor for agent skills. Scans skill directories for malicious patterns (credential theft, suspicious network calls, destructive commands) and provides a safety score. Use before installing unknown skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "balkanblbn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/balkanblbn/mayguard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/balkanblbn/mayguard"
+}

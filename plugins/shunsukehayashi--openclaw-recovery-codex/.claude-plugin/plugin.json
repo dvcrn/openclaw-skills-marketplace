@@ -1,0 +1,10 @@
+{
+  "name": "shunsukehayashi--openclaw-recovery-codex",
+  "description": "OpenClaw Gateway recovery and infrastructure diagnostics for Codex agents. Use when Gateway is unreachable, Telegram/Discord/Signal channels are down, Scheduled Tasks are broken, webhook pipelines stopped working, or openclaw status shows errors. Works on Windows, macOS, and Linux. No prior OpenClaw knowledge required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shunsukehayashi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shunsukehayashi/openclaw-recovery-codex",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shunsukehayashi/openclaw-recovery-codex"
+}

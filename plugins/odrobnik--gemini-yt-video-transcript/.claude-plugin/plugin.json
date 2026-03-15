@@ -1,0 +1,10 @@
+{
+  "name": "odrobnik--gemini-yt-video-transcript",
+  "description": "Create a verbatim transcript for a YouTube URL using Google Gemini (speaker labels, paragraph breaks; no time codes). Use when the user asks to transcribe a YouTube video or wants a clean transcript (no timestamps).",
+  "version": "1.0.4",
+  "author": {
+    "name": "odrobnik"
+  },
+  "homepage": "https://github.com/odrobnik/gemini-yt-video-transcript-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/gemini-yt-video-transcript"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "femto--new-tag",
+  "description": "Prepare and publish a git release tag by inspecting the repo's release convention, bumping affected package versions, validating release builds, committing the release prep, pushing the branch, and pushing a new tag. Use when asked to bump project versions, cut a release, push a tag, or trigger tag-based GitHub Actions or npm publishing.",
+  "version": "0.1.1",
+  "author": {
+    "name": "femto"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/femto/new-tag",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/femto/new-tag"
+}

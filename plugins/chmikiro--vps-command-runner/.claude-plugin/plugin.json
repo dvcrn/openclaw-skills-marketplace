@@ -1,0 +1,10 @@
+{
+  "name": "chmikiro--vps-command-runner",
+  "description": "Run commands across multiple VPS simultaneously. Execute SSH commands, deploy updates, check logs, and manage services across all your servers from one place. Use when managing multiple VPS, running commands across all hosts, checking status of distributed services, or deploying changes to multiple servers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chmikiro"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chmikiro/vps-command-runner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chmikiro/vps-command-runner"
+}

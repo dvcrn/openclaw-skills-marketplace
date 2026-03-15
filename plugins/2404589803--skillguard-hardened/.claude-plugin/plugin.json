@@ -1,0 +1,10 @@
+{
+  "name": "2404589803--skillguard-hardened",
+  "description": "Security guard for OpenClaw skills, developed and maintained by rose北港（小红帽 / 猫猫帽帽）. Audits installed or incoming skills with local rules plus DeepSeek intent review, then recommends pass, warn, block, or quarantine.",
+  "version": "1.0.4",
+  "author": {
+    "name": "2404589803"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/2404589803/skillguard-hardened",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/2404589803/skillguard-hardened"
+}

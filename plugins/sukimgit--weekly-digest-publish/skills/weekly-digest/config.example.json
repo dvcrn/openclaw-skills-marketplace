@@ -1,0 +1,32 @@
+{
+  "_comment": "",
+  "_warning": "",
+  "github": {
+    "username": "",
+    "token": ""
+  },
+  "email": {
+    "enabled": true,
+    "address": "",
+    "smtp_host": "",
+    "smtp_port": 465,
+    "auth_user": "",
+    "auth_pass": ""
+  },
+  "feishu": {
+    "enabled": true,
+    "webhook": ""
+  },
+  "schedule": {
+    "day_of_week": "",
+    "hour": 17,
+    "minute": 0
+  },
+  "options": {
+    "include_news": true,
+    "include_github": true,
+    "include_notion": false,
+    "notion_token": "",
+    "notion_database_id": ""
+  }
+}

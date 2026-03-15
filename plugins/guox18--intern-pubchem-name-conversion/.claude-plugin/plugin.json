@@ -1,0 +1,10 @@
+{
+  "name": "guox18--intern-pubchem-name-conversion",
+  "description": "Convert molecules between IUPAC, SMILES, and molecular formula using PubChem as the source of truth. Use this whenever the user asks to convert, normalize, or cross-check molecular representations in chemistry/science workflows (including Intern research tasks). Prefer API lookup over memory; do not guess.",
+  "version": "0.1.0",
+  "author": {
+    "name": "guox18"
+  },
+  "homepage": "https://pubchem.ncbi.nlm.nih.gov/docs/pug-rest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guox18/intern-pubchem-name-conversion"
+}

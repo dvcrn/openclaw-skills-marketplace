@@ -1,0 +1,10 @@
+{
+  "name": "diegopetrucci--odds-checker-api",
+  "description": "Query Odds-API.io for sports events, bookmakers, and betting odds (e.g., \"what are the odds for Inter vs Arsenal\", \"get odds for Paddy the Baddie vs Gaethje\"). Use when you need to call the Odds-API.io v3 API or interpret its responses; requires a user-provided API key.",
+  "version": "1.0.0",
+  "author": {
+    "name": "diegopetrucci"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/diegopetrucci/odds-checker-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/diegopetrucci/odds-checker-api"
+}

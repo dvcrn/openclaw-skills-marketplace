@@ -1,0 +1,10 @@
+{
+  "name": "twocode--gen-music",
+  "description": "Generate songs from prompts or lyrics through an ACE-Step-compatible API backend. Use when users want text-to-music, lyrics-to-song, fast prompt iteration, stable output files, or to generate music and then play the result on Clawatch.",
+  "version": "0.1.0",
+  "author": {
+    "name": "twocode"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/twocode/gen-music",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/twocode/gen-music"
+}

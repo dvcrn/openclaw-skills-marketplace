@@ -1,0 +1,41 @@
+{
+  "id": "openclaw-cli-bridge-elvatis",
+  "slug": "openclaw-cli-bridge-elvatis",
+  "name": "OpenClaw CLI Bridge",
+  "version": "1.8.5",
+  "license": "MIT",
+  "description": "Phase 1: openai-codex auth bridge. Phase 2: local HTTP proxy routing model calls through gemini/claude CLIs (vllm provider).",
+  "providers": [
+    "openai-codex"
+  ],
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "codexAuthPath": {
+        "type": "string",
+        "description": "Path to ~/.codex/auth.json (default: auto)"
+      },
+      "enableCodex": {
+        "type": "boolean",
+        "description": "Register openai-codex provider from Codex CLI auth (default: true)"
+      },
+      "enableProxy": {
+        "type": "boolean",
+        "description": "Start the local CLI proxy server for gemini/claude (default: true)"
+      },
+      "proxyPort": {
+        "type": "number",
+        "description": "Port for the local CLI proxy server (default: 31337)"
+      },
+      "proxyApiKey": {
+        "type": "string",
+        "description": "API key the vllm provider uses to auth with the proxy (default: cli-bridge)"
+      },
+      "proxyTimeoutMs": {
+        "type": "number",
+        "description": "Max time to wait for a CLI response in ms (default: 120000)"
+      }
+    }
+  }
+}

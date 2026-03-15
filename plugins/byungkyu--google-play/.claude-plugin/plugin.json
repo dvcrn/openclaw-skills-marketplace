@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--google-play",
+  "description": "Google Play Developer API (Android Publisher) integration with managed OAuth. Manage apps, subscriptions, in-app purchases, and reviews. Use this skill when users want to interact with Google Play Console programmatically. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.3",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/google-play",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/google-play"
+}

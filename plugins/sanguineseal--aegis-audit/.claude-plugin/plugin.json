@@ -1,0 +1,10 @@
+{
+  "name": "sanguineseal--aegis-audit",
+  "description": "Deep behavioral security audit for AI agent skills and MCP tools. Performs deterministic static analysis (AST + Semgrep + 15 specialized scanners), cryptographic lockfile generation, and optional LLM-powered intent analysis. Use when installing, reviewing, or approving any skill, tool, plugin, or MCP server — especially before first use. Replaces basic safety summaries with full CWE-mapped, OWASP-tagged, line-referenced security reports.",
+  "version": "0.1.10",
+  "author": {
+    "name": "sanguineseal"
+  },
+  "homepage": "https://github.com/Aegis-Scan/aegis-scan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sanguineseal/aegis-audit"
+}

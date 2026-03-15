@@ -1,0 +1,10 @@
+{
+  "name": "wisediag--wiseocr",
+  "description": "Convert PDF files to Markdown using WiseOCR API (powered by WiseDiag). Supports table recognition, multi-column layouts, and medical document OCR. Usage: Upload a PDF file and say Use WiseOCR to process this.",
+  "version": "1.0.9",
+  "author": {
+    "name": "wisediag"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wisediag/wiseocr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wisediag/wiseocr"
+}

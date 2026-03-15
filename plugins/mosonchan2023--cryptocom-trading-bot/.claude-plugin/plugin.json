@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--cryptocom-trading-bot",
+  "description": "Crypto.com 交易机器人 - 查询余额、市价/限价买卖、兑换。每次调用自动扣费 0.001 USDT（SkillPay 集成）",
+  "version": "1.0.0",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/cryptocom-trading-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/cryptocom-trading-bot"
+}

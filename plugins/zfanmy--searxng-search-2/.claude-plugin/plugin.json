@@ -1,0 +1,10 @@
+{
+  "name": "zfanmy--searxng-search-2",
+  "description": "Web search using SearXNG instance via MCP. Provides web search capability for agents with configurable SearXNG endpoint.",
+  "version": "0.1.2",
+  "author": {
+    "name": "zfanmy"
+  },
+  "homepage": "",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zfanmy/searxng-search-2"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ramensushi2026--openclaw-cli",
+  "description": "Operate and troubleshoot the OpenClaw CLI across setup, gateway/node lifecycle, channel login, messaging, agent turns, models, plugins, and system health. Use when asked to choose, run, debug, or explain `openclaw` commands, global flags (`--dev`, `--profile`), or command families such as `gateway`, `agent`, `channels`, `message`, `doctor`, `status`, and `update`.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ramensushi2026"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ramensushi2026/openclaw-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ramensushi2026/openclaw-cli"
+}

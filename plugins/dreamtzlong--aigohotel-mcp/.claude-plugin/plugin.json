@@ -1,0 +1,10 @@
+{
+  "name": "dreamtzlong--aigohotel-mcp",
+  "description": "使用 AigoHotel MCP 工具完成酒店检索、结构化筛选和实时房型价格确认。用户提出酒店推荐、预算或星级限制、候选对比、房型价格与退改规则确认时触发。本技能优先调用 MCP 工具并返回结构化结论，同时根据客户端环境选择 cloud HTTP、uvx stdio 或本地调试模式。",
+  "version": "1.0.0",
+  "author": {
+    "name": "dreamtzlong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dreamtzlong/aigohotel-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dreamtzlong/aigohotel-mcp"
+}

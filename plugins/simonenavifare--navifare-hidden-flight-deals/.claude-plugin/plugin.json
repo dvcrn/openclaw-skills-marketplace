@@ -1,0 +1,10 @@
+{
+  "name": "simonenavifare--navifare-hidden-flight-deals",
+  "description": "Verify and compare flight prices across multiple booking sites using Navifare. Trigger when users share flight prices from any booking site (Skyscanner, Kayak, etc.) or upload flight screenshots to find better deals. Returns ranked results with booking links from multiple providers.",
+  "version": "1.2.0",
+  "author": {
+    "name": "simonenavifare"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/simonenavifare/navifare-hidden-flight-deals",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/simonenavifare/navifare-hidden-flight-deals"
+}

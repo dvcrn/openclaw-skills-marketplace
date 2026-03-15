@@ -1,0 +1,10 @@
+{
+  "name": "homecity--snipit",
+  "description": "Share code snippets and files securely via snipit.sh with AES-256 encryption. Use when sharing code, configs, logs, diffs, or secrets with password protection, burn-after-read, or auto-expiration. Supports CLI (snipit) or curl API fallback.",
+  "version": "1.0.0",
+  "author": {
+    "name": "homecity"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/homecity/snipit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/homecity/snipit"
+}

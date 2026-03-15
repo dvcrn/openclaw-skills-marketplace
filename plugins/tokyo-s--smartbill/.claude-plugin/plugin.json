@@ -1,0 +1,10 @@
+{
+  "name": "tokyo-s--smartbill",
+  "description": "Issue SmartBill invoices through the SmartBill.ro API with local automation. Use for SmartBill tasks such as validating invoice payloads, creating invoices, listing available document series, and downloading invoice PDFs by series and number.",
+  "version": "1.0.2",
+  "author": {
+    "name": "tokyo-s"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tokyo-s/smartbill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tokyo-s/smartbill"
+}

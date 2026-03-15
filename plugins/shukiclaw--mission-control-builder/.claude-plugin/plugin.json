@@ -1,0 +1,10 @@
+{
+  "name": "shukiclaw--mission-control-builder",
+  "description": "Build a personal dashboard for OpenClaw with task management, memory browser, calendar, team tracking, and GitHub trends. Use when the user wants to create a web-based mission control dashboard for their OpenClaw instance, track tasks, view memories, manage calendar events, or build a custom dashboard interface.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shukiclaw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shukiclaw/mission-control-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shukiclaw/mission-control-builder"
+}

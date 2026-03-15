@@ -1,0 +1,10 @@
+{
+  "name": "nitansde--safe-email",
+  "description": "Privacy-first workflow for processing explicitly forwarded emails via IMAP in a dedicated inbox. Use only when the user explicitly asks to process the latest forwarded email. Extract structured information and return safe next-step suggestions; do not auto-read or auto-act on external systems.",
+  "version": "1.0.7",
+  "author": {
+    "name": "nitansde"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nitansde/safe-email",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nitansde/safe-email"
+}

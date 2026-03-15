@@ -1,0 +1,10 @@
+{
+  "name": "issa-me-sush--openserv-launch",
+  "description": "Launch tokens on Base blockchain via the OpenServ Launch API. Creates ERC-20 tokens with Aerodrome concentrated liquidity pools. Use when launching tokens, deploying memecoins, or building agents that create tokens with locked LP. Read reference.md for the full API reference. Read openserv-agent-sdk and openserv-client for building and running agents. You can launch tokens for your OpenServ agents.",
+  "version": "1.0.3",
+  "author": {
+    "name": "issa-me-sush"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/issa-me-sush/openserv-launch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/issa-me-sush/openserv-launch"
+}

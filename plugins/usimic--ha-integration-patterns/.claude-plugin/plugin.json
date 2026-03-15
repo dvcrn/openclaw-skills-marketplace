@@ -1,0 +1,10 @@
+{
+  "name": "usimic--ha-integration-patterns",
+  "description": "Home Assistant custom integration patterns and architectural decisions. Use when building HACS integrations, custom components, or API bridges for Home Assistant. Covers service response data, HTTP views, storage APIs, and integration architecture.",
+  "version": "1.0.0",
+  "author": {
+    "name": "usimic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/usimic/ha-integration-patterns",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/usimic/ha-integration-patterns"
+}

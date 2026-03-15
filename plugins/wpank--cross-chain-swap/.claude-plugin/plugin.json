@@ -1,0 +1,10 @@
+{
+  "name": "wpank--cross-chain-swap",
+  "description": "Execute a cross-chain token swap via Uniswap's bridge infrastructure. Handles quoting, safety validation, bridge monitoring, and destination confirmation. Use when the user wants to swap tokens across different chains.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/cross-chain-swap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/cross-chain-swap"
+}

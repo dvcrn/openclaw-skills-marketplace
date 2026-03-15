@@ -1,0 +1,10 @@
+{
+  "name": "naivekid--zhihu-assistant-skill",
+  "description": "知乎热榜抓取与回答草稿生成助手 - 自动抓取知乎热榜，使用 AI 生成优质回答草稿，推送到飞书审核",
+  "version": "0.1.1",
+  "author": {
+    "name": "naivekid"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/naivekid/zhihu-assistant-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/naivekid/zhihu-assistant-skill"
+}

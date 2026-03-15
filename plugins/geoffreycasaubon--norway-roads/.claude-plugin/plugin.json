@@ -1,0 +1,10 @@
+{
+  "name": "geoffreycasaubon--norway-roads",
+  "description": "Query real-time road conditions, closures, and traffic issues in Norway. Use when the user asks about road status, closed roads, traffic conditions, weather on roads, or planning a route in Norway. Handles queries like \"Are there road closures between Oslo and Bergen?\", \"What's the road condition on E6?\", \"Any issues driving to Trondheim today?\", or general road condition checks for Norwegian roads.",
+  "version": "1.0.0",
+  "author": {
+    "name": "geoffreycasaubon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/geoffreycasaubon/norway-roads",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/geoffreycasaubon/norway-roads"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "alexander-spring--browser-cash",
+  "description": "Spin up unblocked browser sessions via Browser.cash for web automation. Sessions bypass anti-bot protections (Cloudflare, DataDome, etc.) making them ideal for scraping and automation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "alexander-spring"
+  },
+  "homepage": "https://browser.cash",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alexander-spring/browser-cash"
+}

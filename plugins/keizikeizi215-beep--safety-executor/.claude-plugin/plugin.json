@@ -1,0 +1,10 @@
+{
+  "name": "keizikeizi215-beep--safety-executor",
+  "description": "当需要执行系统命令时候，请遵循核心原则（硬性阻止），限制原则（需要用户确认）。提供系统命令执行的安全指南，保护系统完整性和防止潜在有害操作。",
+  "version": "1.0.0",
+  "author": {
+    "name": "keizikeizi215-beep"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/keizikeizi215-beep/safety-executor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/keizikeizi215-beep/safety-executor"
+}

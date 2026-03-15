@@ -1,0 +1,10 @@
+{
+  "name": "oiioai--bookmorph-magic",
+  "description": "Orchestrate a book-to-content workflow when the user wants to turn one book into multiple content assets such as video, audio, and cover images for an episode or campaign. Use for requests like “制作 ep38 内容”, “turn this book into an episode package”, or “generate multi-format content from a book”. This is a publishable template skill: it defines the adapter contracts for selecting a source book, generating longform media, generating covers, and bundling outputs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "oiioai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oiioai/bookmorph-magic",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oiioai/bookmorph-magic"
+}

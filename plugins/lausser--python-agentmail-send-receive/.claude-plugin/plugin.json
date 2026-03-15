@@ -1,0 +1,10 @@
+{
+  "name": "lausser--python-agentmail-send-receive",
+  "description": "python files which are used to send an email and to download received emails from an inbox. The email provider is agentmail.to, which offers an API. This way of email handling is very AI-agent friendly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lausser"
+  },
+  "homepage": "https://github.com/lausser/python-agentmail-send-receive",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lausser/python-agentmail-send-receive"
+}

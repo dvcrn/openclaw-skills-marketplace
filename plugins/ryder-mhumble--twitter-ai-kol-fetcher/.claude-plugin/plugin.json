@@ -1,0 +1,10 @@
+{
+  "name": "ryder-mhumble--twitter-ai-kol-fetcher",
+  "description": "抓取 Twitter AI 领域 KOL 最新动态、识别热门话题、生成专业内参。触发条件：\\\"抓取 Twitter\\\"、\\\"AI 领域最新动态\\\"、\\\"每天 AI 动态\\\"、\\\"写内参\\\"、\\\"AI 内参\\\"。",
+  "version": "1.0.1",
+  "author": {
+    "name": "ryder-mhumble"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ryder-mhumble/twitter-ai-kol-fetcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ryder-mhumble/twitter-ai-kol-fetcher"
+}

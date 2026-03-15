@@ -1,0 +1,10 @@
+{
+  "name": "bjesuiter--nb",
+  "description": "Manage notes, bookmarks, and notebooks using the nb CLI. Create, list, search, and organize notes across multiple notebooks with Git-backed versioning.",
+  "version": "1.0.2",
+  "author": {
+    "name": "bjesuiter"
+  },
+  "homepage": "https://github.com/xwmx/nb",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bjesuiter/nb"
+}

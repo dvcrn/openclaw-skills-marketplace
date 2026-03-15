@@ -1,0 +1,10 @@
+{
+  "name": "yorch233--minimax-coding-plan-tool",
+  "description": "A lightweight MiniMax Coding Plan Tool skill that directly calls official MCP APIs using pure JavaScript. No external MCP servers. No tool bridge. No subprocess invocation. Designed for minimal overhead and fast integration within OpenClaw.",
+  "version": "1.0.3",
+  "author": {
+    "name": "yorch233"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yorch233/minimax-coding-plan-tool",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yorch233/minimax-coding-plan-tool"
+}

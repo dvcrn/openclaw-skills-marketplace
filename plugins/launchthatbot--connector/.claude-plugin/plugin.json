@@ -1,0 +1,10 @@
+{
+  "name": "launchthatbot--connector",
+  "description": "Deprecated legacy connector skill. Use @launchthatbot/connect-openclaw-plugin for all new LaunchThatBot OpenClaw connect flows with configurable permissions.",
+  "version": "0.1.0",
+  "author": {
+    "name": "launchthatbot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/launchthatbot/connector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/launchthatbot/connector"
+}

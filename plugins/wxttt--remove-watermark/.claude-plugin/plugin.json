@@ -1,0 +1,10 @@
+{
+  "name": "wxttt--remove-watermark",
+  "description": "Remove light-colored text watermarks from white-background document images (exam papers, scanned documents). No API key needed - pure local image processing. Use when the user wants to remove watermarks, clean up document screenshots, or remove light text overlays from images.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wxttt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wxttt/remove-watermark",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wxttt/remove-watermark"
+}

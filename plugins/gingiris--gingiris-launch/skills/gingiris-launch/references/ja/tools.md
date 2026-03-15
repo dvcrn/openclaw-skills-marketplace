@@ -1,0 +1,50 @@
+# ツールボックス
+
+## リサーチ＆分析
+
+| ツール | 目的 | リンク |
+|:---|:---|:---|
+| Reddit Pain Points Agent | AI：Redditユーザーのペインポイント分析 | [Leapility](https://leapility.com/share/agent/i-6nto7kumdswl) |
+| Reddit Marketing Agent | AI：Redditコンテンツ戦略生成 | [Leapility](https://leapility.com/share/agent/i-8poxa0f1xq9q) |
+| Vizzylabs | バイラルコンテンツ分析 | [vizzylabs.ai](https://app.vizzylabs.ai/trending) |
+| PH Deck | 毎日のPH Featured製品 | [phdeck.com](https://www.phdeck.com/) |
+| AITDK | SEOキーワード分析 | [aitdk.com](https://aitdk.com/) |
+
+## KOL＆UGC管理
+
+| ツール | 目的 | リンク |
+|:---|:---|:---|
+| EEzycollab | KOLマッチング＆メール | [eezycollab.com](https://www.eezycollab.com/) |
+| Growi | クリエイター/UGC管理 | [growi.io](https://www.growi.io/grow) |
+| Magicbrief | KOL/UGCブリーフ作成 | [magicbrief.com](https://magicbrief.com/) |
+
+## ソーシャルメディア自動化
+
+| ツール | 目的 | リンク |
+|:---|:---|:---|
+| XAutoDM | Twitter DM自動化 | [xautodm.com](https://xautodm.com/) |
+| Phantombuster | LinkedIn DMツール | [phantombuster.com](https://phantombuster.com/) |
+
+## リンクトラッキング＆アナリティクス
+
+| ツール | 目的 | リンク |
+|:---|:---|:---|
+| Bitly | 短縮リンク | [bitly.com](https://bitly.com) |
+| Mixpanel | ユーザー行動分析 | [mixpanel.com](https://mixpanel.com/) |
+| PostHog | オープンソース分析 | [posthog.com](https://posthog.com/) |
+
+## コアプラットフォーム
+
+| プラットフォーム | タイプ | コアバリュー |
+|:---|:---|:---|
+| **Product Hunt** | ローンチプラットフォーム | 最高品質の早期ユーザートラフィック |
+| **ウェブサイト** | 公式 | すべてのトラフィックの最終コンバージョンポイント |
+| **GitHub** | オープンソース | 開発者コミュニティハブ |
+
+## ソーシャルメディア優先度
+
+| プラットフォーム | オーディエンス | 優先度 |
+|:---|:---|:---|
+| Twitter/X | テック、開発者、創業者 | ⭐⭐⭐⭐⭐ |
+| LinkedIn | プロフェッショナル、B2B | ⭐⭐⭐⭐ |
+| YouTube | ディープコンテンツ消費者 | ⭐⭐⭐⭐ |

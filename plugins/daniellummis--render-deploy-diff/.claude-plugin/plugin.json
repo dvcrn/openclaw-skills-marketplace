@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--render-deploy-diff",
+  "description": "Detect config drift between required local env keys and a Render service before deploy; fails when required keys are missing remotely.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/render-deploy-diff",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/render-deploy-diff"
+}

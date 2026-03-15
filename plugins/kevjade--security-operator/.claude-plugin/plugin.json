@@ -1,0 +1,10 @@
+{
+  "name": "kevjade--security-operator",
+  "description": "Runtime security guardrails for OpenClaw agents. Protects against prompt injection, excessive agency, cost runaway, credential leaks, and cascade effects. Includes a setup wizard and periodic audits.",
+  "version": "2.2.0",
+  "author": {
+    "name": "kevjade"
+  },
+  "homepage": "https://theoperatorvault.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kevjade/security-operator"
+}

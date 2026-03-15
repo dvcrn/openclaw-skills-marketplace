@@ -1,0 +1,10 @@
+{
+  "name": "cinience--volcengine-ai-entry-ark",
+  "description": "Entry skill for Volcengine ARK model invocation and routing. Use when users ask to start with ARK, need request templates, endpoint setup, model routing, or authentication troubleshooting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/volcengine-ai-entry-ark",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/volcengine-ai-entry-ark"
+}

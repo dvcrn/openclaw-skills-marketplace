@@ -1,0 +1,10 @@
+{
+  "name": "lakendocean--agent-collaboration-profile-builder",
+  "description": "Help AI understand a user's cognitive style, output preferences, and value orientation so it can generate deliverables that better match what they actually want. Use when a user wants to build a reusable collaboration profile for OpenClaw or other agents, improve answer fit, or turn repeated prompting into a stable USER.md, WORKSTYLE.md, COLLAB_PROTOCOL.md, or AI_USER_PROFILE.md.",
+  "version": "0.1.1",
+  "author": {
+    "name": "lakendocean"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lakendocean/agent-collaboration-profile-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lakendocean/agent-collaboration-profile-builder"
+}

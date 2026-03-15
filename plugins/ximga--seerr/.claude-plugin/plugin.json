@@ -1,0 +1,10 @@
+{
+  "name": "ximga--seerr",
+  "description": "Search for movies and TV shows via a Seerr instance and request them for download. Use when the user asks to download, find, request, or queue a movie or TV show. Requires a running Seerr instance with Sonarr/Radarr configured.",
+  "version": "1.5.0",
+  "author": {
+    "name": "ximga"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ximga/seerr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ximga/seerr"
+}

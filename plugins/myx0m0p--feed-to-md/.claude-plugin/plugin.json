@@ -1,0 +1,10 @@
+{
+  "name": "myx0m0p--feed-to-md",
+  "description": "Convert RSS or Atom feed URLs into Markdown using the bundled local converter script. Use this when a user asks to turn a feed URL into readable Markdown, optionally limiting items or writing to a file.",
+  "version": "1.2.0",
+  "author": {
+    "name": "myx0m0p"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/myx0m0p/feed-to-md",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/myx0m0p/feed-to-md"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "taxue2025--skill-org",
+  "description": "组织设计师。把目的编译成可执行的岗位JD和skill文件。当用户需要从零开始设计一个新岗位、新skill、新Agent职责时立即触发。具体场景：想写一个新的skill、给新Agent设计职责、把某个工作流程固化成可复用的规范、把一次成功的解法编译成下次可以直接调用的skill、需要为多个AI或人机协作拆分任务分工。也适用于用户说\"帮我写一个skill\"、\"给这个Agent定职责\"、\"把这个方法固化下来\"、\"拆分这个工作流\"、\"这个任务该谁负责\"时。是expert-roundtable的下游编译器，接收圆桌结论并编译成可执行系统。不适用于：维护或诊断已有系统（交给yudl-management）、思考层的战略判断（交给expert-roundtable）、一次性prompt修改（不需要固化时直接回答）。",
+  "version": "0.1.0",
+  "author": {
+    "name": "taxue2025"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/taxue2025/skill-org",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/taxue2025/skill-org"
+}

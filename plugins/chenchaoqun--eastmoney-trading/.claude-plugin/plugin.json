@@ -1,0 +1,10 @@
+{
+  "name": "chenchaoqun--eastmoney-trading",
+  "description": "东方财富证券交易技能，支持自动登录、持仓查询、买入、卖出、撤单、委托查询、资金查询等完整交易功能。使用 CDP 连接浏览器，支持验证码自动识别。⚠️ 高风险操作，需谨慎使用。",
+  "version": "3.0.0",
+  "author": {
+    "name": "chenchaoqun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chenchaoqun/eastmoney-trading",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chenchaoqun/eastmoney-trading"
+}

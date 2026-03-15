@@ -1,0 +1,10 @@
+{
+  "name": "the-ladder-of-rrogress--china-mirror-resolver",
+  "description": "Self-healing China mirror source resolver. Automatically discovers, validates, and configures domestic mirror sources for pip/npm/yarn/pnpm/conda/Docker/Go/ Rust/Maven/Gradle/Homebrew/apt/yum/GitHub/HuggingFace when downloads are slow or timing out in mainland China. Trigger keywords: \"换源\", \"镜像源\", \"下载慢\", \"超时\", \"timeout\", \"mirror\", \"registry\", \"proxy\", \"connection refused\", \"SSL error\", \"443\", \"ETIMEDOUT\", \"CondaHTTPError\", \"pip install failed\".",
+  "version": "2.1.0",
+  "author": {
+    "name": "the-ladder-of-rrogress"
+  },
+  "homepage": "https://github.com/The-Ladder-of-Rrogress/china-mirror-resolver",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/the-ladder-of-rrogress/china-mirror-resolver"
+}

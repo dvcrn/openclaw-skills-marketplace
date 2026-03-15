@@ -1,0 +1,10 @@
+{
+  "name": "es-v--push-server-py",
+  "description": "Send notifications to WeCom (企业微信) users via OpenAPI push service(https://github.com/qingzhou-dev/push-server). Supports TEXT, MARKDOWN, TEXT_CARD, and NEWS message types.",
+  "version": "1.0.0",
+  "author": {
+    "name": "es-v"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/es-v/push-server-py",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/es-v/push-server-py"
+}

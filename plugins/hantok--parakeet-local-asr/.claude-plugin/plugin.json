@@ -1,0 +1,10 @@
+{
+  "name": "hantok--parakeet-local-asr",
+  "description": "Install and operate local NVIDIA Parakeet ASR for OpenClaw with an OpenAI-compatible transcription API on Ubuntu/Linux and macOS (Intel/Apple Silicon). Use when the user wants private/local speech-to-text, voice transcription setup, ASR troubleshooting, or OpenClaw voice stack configuration with Parakeet (and optional Whisper fallback).",
+  "version": "0.1.0",
+  "author": {
+    "name": "hantok"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hantok/parakeet-local-asr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hantok/parakeet-local-asr"
+}

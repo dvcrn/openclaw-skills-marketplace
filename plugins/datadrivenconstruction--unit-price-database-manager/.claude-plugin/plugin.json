@@ -1,0 +1,10 @@
+{
+  "name": "datadrivenconstruction--unit-price-database-manager",
+  "description": "Manage construction unit price databases: update prices, track vendors, apply location factors, maintain historical records. Essential for accurate estimating.",
+  "version": "2.0.0",
+  "author": {
+    "name": "datadrivenconstruction"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/unit-price-database-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/unit-price-database-manager"
+}

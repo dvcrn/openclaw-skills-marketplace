@@ -1,0 +1,10 @@
+{
+  "name": "yaplora--polymarket-latest-events",
+  "description": "Fetch the latest events from Polymarket prediction market. Use when user asks about Polymarket events, prediction markets, trending bets, or wants to see what's new on Polymarket.",
+  "version": "0.1.0",
+  "author": {
+    "name": "yaplora"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yaplora/polymarket-latest-events",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yaplora/polymarket-latest-events"
+}

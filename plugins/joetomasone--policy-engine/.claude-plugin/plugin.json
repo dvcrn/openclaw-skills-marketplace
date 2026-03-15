@@ -1,0 +1,10 @@
+{
+  "name": "joetomasone--policy-engine",
+  "description": "Deterministic governance layer for OpenClaw tool execution. Enforces tool allowlists, deny patterns, path allowlists, risk tiers, dry-run mode, and escalation tracking via the before_tool_call hook. Every decision is logged for audit. Production-hardened with 88 tests and three deadlock classes fixed.",
+  "version": "1.1.0",
+  "author": {
+    "name": "joetomasone"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/joetomasone/policy-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joetomasone/policy-engine"
+}

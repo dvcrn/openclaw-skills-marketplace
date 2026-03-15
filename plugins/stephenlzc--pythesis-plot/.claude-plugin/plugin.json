@@ -1,0 +1,10 @@
+{
+  "name": "stephenlzc--pythesis-plot",
+  "description": "Python scientific plotting tool for thesis/dissertation scenarios. Workflow: data upload → analysis → recommendations → confirmation → generation. Triggers when users upload data files (CSV/Excel/TXT) and ask for plots, charts, figures, or data visualization for academic publications.",
+  "version": "1.0.3",
+  "author": {
+    "name": "stephenlzc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stephenlzc/pythesis-plot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stephenlzc/pythesis-plot"
+}

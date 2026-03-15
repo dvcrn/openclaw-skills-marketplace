@@ -1,0 +1,10 @@
+{
+  "name": "hzlpypy--gettangemperors",
+  "description": "Query local backend API for Tang Dynasty emperor information. Use when user asks about Tang emperors, needs to fetch emperor data from local API, or references唐朝皇帝 / 唐朝前3代皇帝 / 唐朝帝王. The API runs at http://127.0.0.1:8080 with GET /api/v1/test endpoint.",
+  "version": "1.0.1",
+  "author": {
+    "name": "hzlpypy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hzlpypy/gettangemperors",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hzlpypy/gettangemperors"
+}

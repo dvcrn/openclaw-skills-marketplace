@@ -1,0 +1,10 @@
+{
+  "name": "nyrosveil--a2a-manager",
+  "description": "Agent-to-Agent Manager dành cho Coordinator/Orchestrator. Sử dụng khi: (1) Tạo agent mới theo yêu cầu, (2) Quản lý Discord Category/Channel/Role, (3) Binding agent với channel, (4) Điều phối agent-to-agent, (5) Tạo/cập nhật A2A_MAP.md (từ template cứng trong script), (6) Spawn/dispose Specialists (sub-agents), (7) Quản lý task workflow với Notion.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nyrosveil"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nyrosveil/a2a-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nyrosveil/a2a-manager"
+}

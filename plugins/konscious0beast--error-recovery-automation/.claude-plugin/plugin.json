@@ -1,0 +1,10 @@
+{
+  "name": "konscious0beast--error-recovery-automation",
+  "description": "Standardize handling of common OpenClaw errors (gateway restart, browser service unavailable, cron failures) with automated recovery steps. Use when you need to automate detection and recovery from known failure modes, reducing manual intervention and increasing system resilience.",
+  "version": "1.0.0",
+  "author": {
+    "name": "konscious0beast"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/konscious0beast/error-recovery-automation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/konscious0beast/error-recovery-automation"
+}

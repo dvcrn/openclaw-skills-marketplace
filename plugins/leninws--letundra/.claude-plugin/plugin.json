@@ -1,0 +1,10 @@
+{
+  "name": "leninws--letundra",
+  "description": "Универсальный AI-скилл для путешествий — визы, новости, RSS, праздники, валюты с letundra.com. Используй when: пользователь спрашивает о визах, новостях, праздниках, курсах валют. NOT for: бронирование, отели.",
+  "version": "1.0.2",
+  "author": {
+    "name": "leninws"
+  },
+  "homepage": "https://letundra.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leninws/letundra"
+}

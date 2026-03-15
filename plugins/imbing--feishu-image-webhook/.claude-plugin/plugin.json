@@ -1,0 +1,10 @@
+{
+  "name": "imbing--feishu-image-webhook",
+  "description": "上传本地图片到飞书并通过 webhook 发送到群。使用方式：python send_image.py <图片路径>",
+  "version": "1.0.0",
+  "author": {
+    "name": "imbing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imbing/feishu-image-webhook",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imbing/feishu-image-webhook"
+}

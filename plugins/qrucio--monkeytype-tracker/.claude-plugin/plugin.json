@@ -1,0 +1,10 @@
+{
+  "name": "qrucio--monkeytype-tracker",
+  "description": "Track and analyze Monkeytype typing statistics with improvement tips. Use when user mentions \"monkeytype\", \"typing stats\", \"typing speed\", \"WPM\", \"typing practice\", \"typing progress\", or wants to check their typing performance. Features on-demand stats, test history analysis, personal bests, progress comparison, leaderboard lookup, and optional automated reports. Requires user's Monkeytype ApeKey for API access.",
+  "version": "1.1.0",
+  "author": {
+    "name": "qrucio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qrucio/monkeytype-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qrucio/monkeytype-tracker"
+}

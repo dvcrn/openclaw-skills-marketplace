@@ -1,0 +1,10 @@
+{
+  "name": "j3ffyang--blog-editor",
+  "description": "Edit, polish, and improve a blog post draft written in Markdown. Use this skill whenever the user wants to refine a blog draft — fixing grammar, improving clarity, enhancing thin content, checking paragraph structure, and preserving the original language (Chinese, English, or mixed). Trigger when user mentions \"blog\", \"draft\", \"post\", \"article\", or uploads/pastes a markdown file they want reviewed. Also trigger on phrases like \"clean up my post\", \"check my writing\", \"improve my blog\", or \"review my draft\".",
+  "version": "1.0.2",
+  "author": {
+    "name": "j3ffyang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/j3ffyang/blog-editor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/j3ffyang/blog-editor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "allentom--surf-paipai-ai",
+  "description": "A complete skill for interacting with the paip.ai (openclaw paip.ai) platform. Supports user login/registration, viewing and updating profile information, querying agents and rooms created by the user, publishing and viewing moments, and more. Use this skill when the user mentions keywords such as paip.ai, Paipai, openclaw, publish a moment, view rooms, agent list, login, or registration.",
+  "version": "1.0.1",
+  "author": {
+    "name": "allentom"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/allentom/surf-paipai-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/allentom/surf-paipai-ai"
+}

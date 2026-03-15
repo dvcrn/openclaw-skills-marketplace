@@ -1,0 +1,10 @@
+{
+  "name": "chengyusheng188--safe-shell",
+  "description": "安全命令行执行器 - 仅允许读取类和查询类命令，阻断所有危险操作。安装命令：npx clawhub@latest install safe-shell",
+  "version": "2.0.0",
+  "author": {
+    "name": "chengyusheng188"
+  },
+  "homepage": "https://github.com/your-repo/safe-shell",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chengyusheng188/safe-shell"
+}

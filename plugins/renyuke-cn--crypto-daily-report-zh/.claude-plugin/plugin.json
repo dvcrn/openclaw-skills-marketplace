@@ -1,0 +1,10 @@
+{
+  "name": "renyuke-cn--crypto-daily-report-zh",
+  "description": "Generate and send cryptocurrency daily reports with market overview, fear & greed index, liquidation data, economic calendar, and news aggregation. Use when users need crypto market daily briefings, automated market updates, or scheduled crypto news delivery to Telegram/Discord channels. Triggers include \"币圈日报\", \"crypto daily\", \"daily report\", \"market update\", \"跑个日报\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "renyuke-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/renyuke-cn/crypto-daily-report-zh",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/renyuke-cn/crypto-daily-report-zh"
+}

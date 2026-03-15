@@ -1,0 +1,10 @@
+{
+  "name": "zihan-zhu--academic-writing-refiner",
+  "description": "Refine academic writing for computer science research papers targeting top-tier venues (NeurIPS, ICLR, ICML, AAAI, IJCAI, ACL, EMNLP, NAACL, CVPR, WWW, KDD, SIGIR, CIKM, and similar). Use this skill whenever a user asks to improve, polish, refine, edit, or proofread academic or research writing — including paper drafts, abstracts, introductions, related work sections, methodology descriptions, experiment write-ups, or conclusion sections. Also trigger when users paste LaTeX content and ask for writing help, mention \"camera-ready\", \"rebuttal\", \"paper revision\", or reference any academic venue or conference. This skill handles both full paper refinement and section-by-section editing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zihan-zhu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zihan-zhu/academic-writing-refiner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zihan-zhu/academic-writing-refiner"
+}

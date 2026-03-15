@@ -1,0 +1,10 @@
+{
+  "name": "darinrowe--openclaw-backup-restore",
+  "description": "Backup and restore OpenClaw configuration, agents, sessions, and workspace to/from a private Git repository. Use when the user wants to manually trigger a backup, migrate to a new machine, or restore from a previous state.",
+  "version": "1.0.2",
+  "author": {
+    "name": "darinrowe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/darinrowe/openclaw-backup-restore",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/darinrowe/openclaw-backup-restore"
+}

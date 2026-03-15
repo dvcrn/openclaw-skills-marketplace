@@ -1,0 +1,10 @@
+{
+  "name": "zhengxinjipai--skill-lookup-tool",
+  "description": "Search, retrieve, and install Agent Skills from the prompts.chat registry using MCP tools. Use when the user asks to find skills, browse skill catalogs, install a skill for Claude, or extend Claude's capabilities with reusable AI agent components.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhengxinjipai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhengxinjipai/skill-lookup-tool",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhengxinjipai/skill-lookup-tool"
+}

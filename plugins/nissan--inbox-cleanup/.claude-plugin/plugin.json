@@ -1,0 +1,10 @@
+{
+  "name": "nissan--inbox-cleanup",
+  "description": "IMAP bulk email triage — pattern-based delete/archive with dry-run mode. Use when: cleaning up large email inboxes, bulk-deleting emails from specific senders or domains, archiving newsletter/digest emails, triaging email by sender domain or subject patterns. Supports IMAP STARTTLS (e.g. Proton Bridge), dry-run preview, YAML/JSON config for patterns, and processes UIDs (not sequence numbers) for reliable bulk ops.",
+  "version": "1.0.1",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/inbox-cleanup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/inbox-cleanup"
+}

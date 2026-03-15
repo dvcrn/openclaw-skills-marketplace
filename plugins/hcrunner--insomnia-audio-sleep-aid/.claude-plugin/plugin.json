@@ -1,0 +1,10 @@
+{
+  "name": "hcrunner--insomnia-audio-sleep-aid",
+  "description": "This skill provides audio sleep aid recommendations and guidance for users experiencing insomnia or sleep-related issues. Activate this skill when users mention insomnia symptoms, difficulty sleeping, sleep problems, or request sleep assistance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hcrunner"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hcrunner/insomnia-audio-sleep-aid",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hcrunner/insomnia-audio-sleep-aid"
+}

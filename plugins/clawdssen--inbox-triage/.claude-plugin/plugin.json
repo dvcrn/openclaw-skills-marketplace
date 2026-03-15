@@ -1,0 +1,10 @@
+{
+  "name": "clawdssen--inbox-triage",
+  "description": "Email inbox triage for AI agents — scan, categorize, draft replies, surface urgent items, and archive noise. Supports Gmail and IMAP for inbox zero workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "clawdssen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clawdssen/inbox-triage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clawdssen/inbox-triage"
+}

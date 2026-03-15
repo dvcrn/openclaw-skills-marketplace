@@ -1,0 +1,10 @@
+{
+  "name": "itsnishi--audit-code",
+  "description": "Security-focused code review for hardcoded secrets, dangerous calls, and common vulnerabilities",
+  "version": "1.0.0",
+  "author": {
+    "name": "itsnishi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/itsnishi/audit-code",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/itsnishi/audit-code"
+}

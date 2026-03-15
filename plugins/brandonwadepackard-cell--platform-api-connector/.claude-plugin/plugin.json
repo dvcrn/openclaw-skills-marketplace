@@ -1,0 +1,10 @@
+{
+  "name": "brandonwadepackard-cell--platform-api-connector",
+  "description": "Connect to social media and content platform APIs by navigating developer portals, creating apps, obtaining OAuth tokens, and storing credentials. Covers Facebook Graph API, Instagram Business API, YouTube Data API, Twitter/X API v2, and TikTok Content Posting API. Use when setting up API access for any social platform, refreshing expired OAuth tokens, or debugging authentication flows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brandonwadepackard-cell"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brandonwadepackard-cell/platform-api-connector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brandonwadepackard-cell/platform-api-connector"
+}

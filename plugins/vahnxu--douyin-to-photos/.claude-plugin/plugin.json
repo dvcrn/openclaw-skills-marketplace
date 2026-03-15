@@ -1,0 +1,10 @@
+{
+  "name": "vahnxu--douyin-to-photos",
+  "description": "Build and maintain an Apple Shortcuts workflow that takes a Douyin share link, resolves a no-watermark MP4 URL via configurable backend APIs, saves the video into the Photos app, and cleans temporary cache. Use when users ask for one-tap Douyin link-to-Photos automation on iPhone/macOS, Share Sheet/Back Tap integration, publish-ready skill packaging, parameterization, error handling, and privacy-safe behavior.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vahnxu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vahnxu/douyin-to-photos",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vahnxu/douyin-to-photos"
+}

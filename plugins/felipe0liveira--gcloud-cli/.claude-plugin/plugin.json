@@ -1,0 +1,10 @@
+{
+  "name": "felipe0liveira--gcloud-cli",
+  "description": "Manage Google Cloud Platform resources using the official gcloud CLI, discovering command syntax dynamically with `gcloud <group> --help` before execution.",
+  "version": "1.0.0",
+  "author": {
+    "name": "felipe0liveira"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/felipe0liveira/gcloud-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/felipe0liveira/gcloud-cli"
+}

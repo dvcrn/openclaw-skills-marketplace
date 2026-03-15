@@ -1,0 +1,10 @@
+{
+  "name": "veeky-kumar--job-auto-apply",
+  "description": "Automated job search and application system for Clawdbot. Use when the user wants to search for jobs and automatically apply to positions matching their criteria. Handles job searching across LinkedIn, Indeed, Glassdoor, ZipRecruiter, and Wellfound, generates tailored cover letters, fills application forms, and tracks application status. Use when user says things like \"find and apply to jobs\", \"auto-apply for [job title]\", \"search for [position] jobs and apply\", or \"help me apply to multiple jobs automatically\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "veeky-kumar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/veeky-kumar/job-auto-apply",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/veeky-kumar/job-auto-apply"
+}

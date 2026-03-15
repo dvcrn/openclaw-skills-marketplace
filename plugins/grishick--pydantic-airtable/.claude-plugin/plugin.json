@@ -1,0 +1,10 @@
+{
+  "name": "grishick--pydantic-airtable",
+  "description": "Manage Airtable tables and records via the pydantic-airtable Python library. Use when creating, listing, updating, deleting, or inspecting Airtable records or tables; syncing a Pydantic model to Airtable; validating schema against a model; or writing Python code that uses AirtableModel, AirtableManager, or AirtableClient.",
+  "version": "1.0.1",
+  "author": {
+    "name": "grishick"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/grishick/pydantic-airtable",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/grishick/pydantic-airtable"
+}

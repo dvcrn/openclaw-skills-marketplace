@@ -1,0 +1,10 @@
+{
+  "name": "chunhualiao--openclaw-docker-setup",
+  "description": "Install and configure a fully operational Dockerized OpenClaw instance on macOS from scratch. Includes browser pairing, Discord channel setup, and optional Gmail/Google Drive integration. Use when user asks to \"install openclaw docker\", \"set up dockerized openclaw\", \"openclaw in docker\", or \"isolated openclaw instance\".",
+  "version": "1.0.2",
+  "author": {
+    "name": "chunhualiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/openclaw-docker-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/openclaw-docker-setup"
+}

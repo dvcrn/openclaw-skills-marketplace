@@ -1,0 +1,10 @@
+{
+  "name": "balonegit--appflowy-skill",
+  "description": "AppFlowy Cloud/GoTrue API 的认证与调用流程（获取 token、workspace/文档/数据库/搜索等）。在本仓库用 Python 编写或调试 AppFlowy API 客户端、脚本、自动化或排查接口问题时使用。",
+  "version": "0.1.0",
+  "author": {
+    "name": "balonegit"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/balonegit/appflowy-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/balonegit/appflowy-skill"
+}

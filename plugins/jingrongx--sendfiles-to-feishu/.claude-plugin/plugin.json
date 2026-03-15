@@ -1,0 +1,10 @@
+{
+  "name": "jingrongx--sendfiles-to-feishu",
+  "description": "发送任意本地文件到飞书，自动处理大文件。视频/音频按 20MB 分段（不重新编码），其他文件压缩为 ZIP。支持大文件自动处理。",
+  "version": "1.0.4",
+  "author": {
+    "name": "jingrongx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jingrongx/sendfiles-to-feishu",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jingrongx/sendfiles-to-feishu"
+}

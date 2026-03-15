@@ -1,0 +1,10 @@
+{
+  "name": "8co--review-evo",
+  "description": "Self-improving code reviewer that learns your codebase over time. Analyzes git history, spots patterns, identifies risk — and gets smarter every run.",
+  "version": "0.1.1",
+  "author": {
+    "name": "8co"
+  },
+  "homepage": "https://github.com/8co/review-evo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/8co/review-evo"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "joehoel--trein",
+  "description": "Query Dutch Railways (NS) for train departures, trip planning, disruptions, and station search via the trein CLI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "joehoel"
+  },
+  "homepage": "https://github.com/joelkuijper/trein",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joehoel/trein"
+}

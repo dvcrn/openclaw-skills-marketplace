@@ -1,0 +1,10 @@
+{
+  "name": "iyeque--iyeque-unified-web-search",
+  "description": "Pick the best source (Tavily, Web Search Plus, Browser, or local files) for a query, run the search, and return ranked results with provenance.",
+  "version": "1.1.1",
+  "author": {
+    "name": "iyeque"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iyeque/iyeque-unified-web-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iyeque/iyeque-unified-web-search"
+}

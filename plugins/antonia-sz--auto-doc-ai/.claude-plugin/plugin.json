@@ -1,0 +1,10 @@
+{
+  "name": "antonia-sz--auto-doc-ai",
+  "description": "基于 AST 和 LLM 自动生成 Python 代码文档（Google Style docstring）。 自动分析代码结构，生成符合 Google Style 的 docstring。",
+  "version": "1.0.0",
+  "author": {
+    "name": "antonia-sz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/antonia-sz/auto-doc-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/antonia-sz/auto-doc-ai"
+}

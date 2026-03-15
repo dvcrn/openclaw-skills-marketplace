@@ -1,0 +1,10 @@
+{
+  "name": "takeovernat--sessions-dashboard",
+  "description": "Live dashboard viewer for OpenClaw sessions (CLI + web) that shows color-coded states, token/cost totals, and shareable HTML panels. Requires local OpenClaw CLI access (`openclaw sessions` and optional `openclaw logs`). Created by Nate Teshome (stellarsitesai.com).",
+  "version": "1.0.1",
+  "author": {
+    "name": "takeovernat"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/takeovernat/sessions-dashboard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/takeovernat/sessions-dashboard"
+}

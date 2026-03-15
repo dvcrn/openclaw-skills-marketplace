@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--binance-rsi-bot",
+  "description": "RSI indicator trading bot for Binance - generate buy/sell signals based on RSI technical analysis. Each call charges 0.001 USDT via SkillPay.",
+  "version": "1.0.1",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/binance-rsi-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/binance-rsi-bot"
+}

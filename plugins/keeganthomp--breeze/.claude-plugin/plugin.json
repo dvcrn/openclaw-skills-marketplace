@@ -1,0 +1,10 @@
+{
+  "name": "keeganthomp--breeze",
+  "description": "Interact with the Breeze yield aggregator through the x402 payment-gated HTTP API. Use when the user wants to check DeFi balances, deposit tokens, withdraw tokens, or manage Solana yield positions via x402 micropayments.",
+  "version": "1.0.0",
+  "author": {
+    "name": "keeganthomp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/keeganthomp/breeze",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/keeganthomp/breeze"
+}

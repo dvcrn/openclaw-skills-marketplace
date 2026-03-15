@@ -1,0 +1,10 @@
+{
+  "name": "wd041216-bit--feishu-task-status",
+  "description": "Use when working in Feishu and the task is likely to take more than a few seconds, involves multiple tool calls, heavy search, document generation, coding, or when the user asks whether OpenClaw is still running. Uses sessions_spawn, sessions_list, subagents, and session_status to provide visible in-progress updates and completion handoff instead of silent waiting.",
+  "version": "1.0.1",
+  "author": {
+    "name": "wd041216-bit"
+  },
+  "homepage": "https://docs.openclaw.ai/session-tool",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wd041216-bit/feishu-task-status"
+}

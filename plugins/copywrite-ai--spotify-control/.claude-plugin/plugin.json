@@ -1,0 +1,10 @@
+{
+  "name": "copywrite-ai--spotify-control",
+  "description": "macOS Spotify control skill for OpenClaw. Supports playback, volume, position, and metadata retrieval via AppleScript.",
+  "version": "1.0.1",
+  "author": {
+    "name": "copywrite-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/copywrite-ai/spotify-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/copywrite-ai/spotify-control"
+}

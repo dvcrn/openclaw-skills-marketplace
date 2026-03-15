@@ -1,0 +1,10 @@
+{
+  "name": "odrobnik--twitter-api-v2",
+  "description": "Access X (Twitter) via API v2: user profiles, timelines, threads, search, bookmarks, likes, and posting. Use when asked to: (1) get user info or profile, (2) fetch someone's tweets/timeline, (3) extract conversation threads, (4) search for tweets about a topic, (5) retrieve bookmarks, (6) get liked tweets, (7) post tweets, or (8) lookup tweets by ID or URL.",
+  "version": "1.0.0",
+  "author": {
+    "name": "odrobnik"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/twitter-api-v2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/twitter-api-v2"
+}

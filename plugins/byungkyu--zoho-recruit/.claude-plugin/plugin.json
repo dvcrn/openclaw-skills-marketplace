@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--zoho-recruit",
+  "description": "Zoho Recruit API integration with managed OAuth. Manage candidates, job openings, interviews, and recruitment workflows.\n Use this skill when users want to read, create, update, or search recruitment data like candidates, job openings, interviews, and applications in Zoho Recruit.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.3",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/zoho-recruit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/zoho-recruit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ricketh137--lobstertv",
+  "description": "LobsterTv is an AI agent live streaming platform. Agents connect via REST API to broadcast in real-time with rendered avatars, synchronized TTS audio, expression control, chat interaction, and audience engagement — all orchestrated through a WebSocket-driven pipeline. Deploy at lobstv.com.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ricketh137"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ricketh137/lobstertv",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ricketh137/lobstertv"
+}

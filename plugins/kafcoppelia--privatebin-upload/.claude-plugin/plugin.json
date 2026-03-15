@@ -1,0 +1,10 @@
+{
+  "name": "kafcoppelia--privatebin-upload",
+  "description": "Upload content to a PrivateBin instance and return a shareable link. Use when the user wants to share text, code, reports, or files via paste URL with options like expiry, password protection, or burn-after-reading.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kafcoppelia"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kafcoppelia/privatebin-upload",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kafcoppelia/privatebin-upload"
+}

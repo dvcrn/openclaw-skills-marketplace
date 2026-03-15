@@ -1,0 +1,10 @@
+{
+  "name": "kevinzhangqi--amazon-product-research-skill",
+  "description": "Skill for Amazon product research, market validation, competitor analysis, ASIN review, pricing guidance, and product opportunity discovery. It turns ecommerce data into structured seller workflows such as category evaluation, product discovery, competitor comparison, and research reporting. It uses APIClaw (apiclaw.io) as its data source. This skill requires one credential, `APICLAW_API_KEY`, used only for requests to the APIClaw API. Triggers on requests like \"Amazon product research\", \"find products\", \"analyze competitors\", \"analyze this ASIN\", \"pricing strategy\", \"market validation\", and \"is this niche worth entering\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "kevinzhangqi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kevinzhangqi/amazon-product-research-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kevinzhangqi/amazon-product-research-skill"
+}

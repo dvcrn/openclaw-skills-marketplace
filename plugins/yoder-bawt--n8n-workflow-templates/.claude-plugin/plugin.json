@@ -1,0 +1,10 @@
+{
+  "name": "yoder-bawt--n8n-workflow-templates",
+  "description": "Production-ready n8n workflow templates for AI agents. Deploy pre-built automations for webhooks, RSS monitoring, health checks, social metrics, and data backup. Includes deployment scripts and workflow management utilities. Use when: (1) Setting up n8n automations from templates, (2) Deploying workflows to n8n instances, (3) Managing active workflows via API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yoder-bawt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yoder-bawt/n8n-workflow-templates",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yoder-bawt/n8n-workflow-templates"
+}

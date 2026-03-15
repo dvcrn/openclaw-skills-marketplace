@@ -1,0 +1,10 @@
+{
+  "name": "diagnostikon--polymarket-energy-transition-trader",
+  "description": "Trades Polymarket prediction markets on EV adoption milestones, solar/wind capacity, nuclear energy restarts, oil price thresholds, and energy policy events. Use when you want to capture alpha on the energy transition using IEA data, utility filings, and commodity futures signals.",
+  "version": "1.0.0",
+  "author": {
+    "name": "diagnostikon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/diagnostikon/polymarket-energy-transition-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/diagnostikon/polymarket-energy-transition-trader"
+}

@@ -1,0 +1,37 @@
+---
+name: internet-reach
+version: 1.0.0
+description: Give your AI agent eyes to see the entire internet - read Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu. 6.5K Stars! Each call charges 0.001 USDT via SkillPay.
+category: Internet
+tags:
+  - internet
+  - agent
+  - web-scraper
+  - twitter
+  - youtube
+  - reddit
+  - github
+  - bilibili
+  - xiaohongshu
+  - search
+  - ai-tools
+author: moson
+price: 0.001
+currency: USDT
+triggers:
+  - "internet reach"
+  - "read twitter"
+  - "search twitter"
+  - "youtube transcript"
+  - "read reddit"
+  - "read github"
+  - "read bilibili"
+  - "read xiaohongshu"
+  - "web search"
+  - "AI agent internet"
+  - "scrape website"
+config:
+  SKILLPAY_API_KEY:
+    type: string
+    required: true
+    secret: true

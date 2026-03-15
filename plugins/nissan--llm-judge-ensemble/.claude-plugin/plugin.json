@@ -1,0 +1,10 @@
+{
+  "name": "nissan--llm-judge-ensemble",
+  "description": "Build a cost-efficient LLM evaluation ensemble with sampling, tiebreakers, and deterministic validators. Learned from 600+ production runs judging local Ollama models.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/reddinft/skill-llm-as-judge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/llm-judge-ensemble"
+}

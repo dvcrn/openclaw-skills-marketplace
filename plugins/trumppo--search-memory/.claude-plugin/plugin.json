@@ -1,0 +1,10 @@
+{
+  "name": "trumppo--search-memory",
+  "description": "Local-first memory search and indexing for Openclaw. Use when you need to (1) index memory files, (2) search memory from the CLI, or (3) wire a slash command for memory lookup.",
+  "version": "0.1.0",
+  "author": {
+    "name": "trumppo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/trumppo/search-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/trumppo/search-memory"
+}

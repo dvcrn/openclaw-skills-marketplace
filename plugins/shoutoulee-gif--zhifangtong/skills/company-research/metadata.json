@@ -1,0 +1,9 @@
+{
+  "name": "company-research",
+  "version": "1.0.0",
+  "description": "企业背景调查工具，面向中国电信客户经理。输入企业名称生成企业概况、近期动态和商机雷达报告。",
+  "engines": 4,
+  "region": "苏州",
+  "requires_api_key": false,
+  "license": "MIT"
+}

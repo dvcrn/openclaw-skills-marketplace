@@ -1,0 +1,10 @@
+{
+  "name": "djasha--home-assistant-master",
+  "description": "Home Assistant OS (HAOS) operations skill for OpenClaw agents. Use for read-only audits, diagnostics, automation design/review, dashboard UX planning, voice intent mapping, integration risk assessment, backup/restore readiness checks, and maintenance playbooks. Default to read-only; require explicit approval before any write/reload/restart. Apply when users ask to troubleshoot entities/devices/integrations, improve reliability, design automations, or plan safe Home Assistant changes.",
+  "version": "1.0.3",
+  "author": {
+    "name": "djasha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/djasha/home-assistant-master",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/djasha/home-assistant-master"
+}

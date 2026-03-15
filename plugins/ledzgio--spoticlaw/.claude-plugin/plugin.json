@@ -1,0 +1,10 @@
+{
+  "name": "ledzgio--spoticlaw",
+  "description": "Spotify Web API client for Nyx agents. Use when interacting with Spotify: search, playback, playlists, library, tracks, artists, albums, shows, podcasts. Requires SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REDIRECT_URI, and a local .spotify_cache token file.",
+  "version": "1.0.7",
+  "author": {
+    "name": "ledzgio"
+  },
+  "homepage": "https://github.com/ledzgio/spoticlaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ledzgio/spoticlaw"
+}

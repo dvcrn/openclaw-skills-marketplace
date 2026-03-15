@@ -1,0 +1,10 @@
+{
+  "name": "brennerspear--telegram-ops",
+  "description": "Telegram Bot API operations for forum management. Use for creating/editing/archiving forum topics, setting topic icons, managing Telegram groups via Bot API. Use when archiving channels/topics. Requires bot token from OpenClaw config.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brennerspear"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brennerspear/telegram-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brennerspear/telegram-ops"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "theshadowrose--incident-replay",
+  "description": "Post-mortem analysis for AI agent failures. Capture state, reconstruct timelines, identify root causes. When your agent breaks, know what happened, why, and how to prevent it.",
+  "version": "1.0.6",
+  "author": {
+    "name": "theshadowrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/incident-replay",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/incident-replay"
+}

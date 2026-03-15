@@ -1,0 +1,10 @@
+{
+  "name": "arespollo--grok-research",
+  "description": "Crypto research via Grok model's real-time X/Twitter knowledge. Forwards the user's query as-is to Grok API — no prompt injection, no context bloat. Use when: (1) user asks to research a token's narrative/story/sentiment, (2) user says \"调研\", \"research\", \"grok research\", \"查一下叙事\", \"帮我看看这个币\", (3) user wants to know what CT is saying about a token/project. NOT for: price analysis, on-chain data, or trading execution.",
+  "version": "1.0.0",
+  "author": {
+    "name": "arespollo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arespollo/grok-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arespollo/grok-research"
+}

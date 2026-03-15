@@ -1,0 +1,59 @@
+{
+  "name": "interactive-card-reader",
+  "version": "1.0.0",
+  "description": "获取飞书/QQ/企业微信交互式卡片内容，自动调用平台API解析卡片结构",
+  "author": "miliger",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openclaw/interactive-card-reader"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "interactive-card",
+    "feishu",
+    "qq",
+    "wechat"
+  ],
+  "openclaw": {
+    "skillVersion": "1.0.0",
+    "minOpenClawVersion": "2026.3.1",
+    "triggers": [
+      "卡片内容",
+      "交互式卡片",
+      "获取卡片",
+      "card content",
+      "这个卡片"
+    ],
+    "capabilities": [
+      "card-detection",
+      "api-integration",
+      "json-parsing",
+      "multi-platform"
+    ],
+    "scripts": {
+      "install": "install.sh",
+      "get-token": "scripts/get-feishu-token.sh",
+      "get-card": "scripts/get-feishu-card.sh",
+      "integrate": "scripts/integrate-card.sh"
+    },
+    "platforms": {
+      "feishu": {
+        "enabled": true,
+        "permissions": ["im:message:readonly"]
+      },
+      "qq": {
+        "enabled": false
+      },
+      "wechat": {
+        "enabled": false
+      }
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "scripts/integrate-card.sh 'om_x100b55a43f16d4a0c2bff2ed4e68060'"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "asif2bd--openclaw-skill-lazy-loader",
+  "description": "Dramatically reduce per-session token usage by loading skills and context files only when needed — not at session start. Includes the SKILLS catalog pattern, AGENTS.md lazy loading strategy, and a Python helper that recommends exactly which files to load for any given task. Compatible with all OpenClaw agents. Works alongside Token Optimizer.",
+  "version": "1.0.0",
+  "author": {
+    "name": "asif2bd"
+  },
+  "homepage": "https://github.com/Asif2BD/openclaw-skill-lazy-loader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/asif2bd/openclaw-skill-lazy-loader"
+}

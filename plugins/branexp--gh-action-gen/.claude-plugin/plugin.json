@@ -1,0 +1,10 @@
+{
+  "name": "branexp--gh-action-gen",
+  "description": "Generate GitHub Actions workflows from plain English. Use when setting up CI.",
+  "version": "1.0.1",
+  "author": {
+    "name": "branexp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/branexp/gh-action-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/branexp/gh-action-gen"
+}

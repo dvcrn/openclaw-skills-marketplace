@@ -1,0 +1,10 @@
+{
+  "name": "nefas11--governed-agents",
+  "description": "Deterministic verification + reputation scoring for AI sub-agents. Prevents hallucinated success via 4 code gates (files, tests, lint, AST) and a 3-layer pipeline (Structural → Grounding → LLM Council) for open-ended tasks.",
+  "version": "0.1.7",
+  "author": {
+    "name": "nefas11"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nefas11/governed-agents",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nefas11/governed-agents"
+}

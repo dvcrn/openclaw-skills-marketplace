@@ -1,0 +1,10 @@
+{
+  "name": "sebbsssss--clude-memory-mcp",
+  "description": "MCP server for Clude's 4-tier cognitive memory system — store, recall, search, and dream. Built on Supabase + pgvector with type-specific decay, Hebbian association graphs, and on-chain commitment via Solana.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sebbsssss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sebbsssss/clude-memory-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sebbsssss/clude-memory-mcp"
+}

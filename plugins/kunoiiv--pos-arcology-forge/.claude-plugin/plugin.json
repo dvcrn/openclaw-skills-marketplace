@@ -1,0 +1,10 @@
+{
+  "name": "kunoiiv--pos-arcology-forge",
+  "description": "PoW-verified Elysium Arcology Planner + Hub. Grind nonces on O'Neill sims/exosuits (physics/3D exports) → trustless shares for P2P hub. Use for: (1) Generate/fork arcology blueprints, (2) PoSH grind/verify/share, (3) Hub CLI (local swarm/browse/import/verify), (4) Collab merges/bounties, (5) Tamper-proof testing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kunoiiv"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kunoiiv/pos-arcology-forge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kunoiiv/pos-arcology-forge"
+}

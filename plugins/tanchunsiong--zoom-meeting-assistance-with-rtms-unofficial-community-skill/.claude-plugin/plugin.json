@@ -1,0 +1,10 @@
+{
+  "name": "tanchunsiong--zoom-meeting-assistance-with-rtms-unofficial-community-skill",
+  "description": "Zoom RTMS Meeting Assistant — start on-demand to capture meeting audio, video, transcript, screenshare, and chat via Zoom Real-Time Media Streams. Handles meeting.rtms_started and meeting.rtms_stopped webhook events. Provides AI-powered dialog suggestions, sentiment analysis, and live summaries with WhatsApp notifications. Use when a Zoom RTMS webhook fires or the user asks to record/analyze a meeting.",
+  "version": "0.1.3",
+  "author": {
+    "name": "tanchunsiong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tanchunsiong/zoom-meeting-assistance-with-rtms-unofficial-community-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tanchunsiong/zoom-meeting-assistance-with-rtms-unofficial-community-skill"
+}

@@ -1,0 +1,101 @@
+{
+  "version": "1.0.0",
+  "storage": {
+    "primary": {
+      "type": "postgresql",
+      "host": "localhost",
+      "port": 5432,
+      "database": "cognitive_brain",
+      "user": "postgres",
+      "password": "cognitive123",
+      "extensions": ["pgvector", "pg_trgm"]
+    },
+    "cache": {
+      "type": "redis",
+      "host": "localhost",
+      "port": 6379,
+      "db": 0,
+      "keyPrefix": "brain:"
+    }
+  },
+  "embedding": {
+    "provider": "local",
+    "dimension": 384,
+    "options": {
+      "model": "paraphrase-multilingual-MiniLM-L12-v2",
+      "script": "scripts/embed.py"
+    }
+  },
+  "memory": {
+    "sensory": {
+      "ttl": 30000,
+      "maxSize": 100,
+      "storage": "redis"
+    },
+    "working": {
+      "ttl": 3600000,
+      "maxSize": 50,
+      "storage": "redis"
+    },
+    "episodic": {
+      "maxCount": 10000,
+      "decayRate": 0.1,
+      "storage": "postgresql"
+    },
+    "semantic": {
+      "maxCount": 5000,
+      "storage": "postgresql"
+    }
+  },
+  "association": {
+    "activationThreshold": 0.3,
+    "decayFactor": 0.9,
+    "maxDepth": 3,
+    "cacheEnabled": true
+  },
+  "forgetting": {
+    "enabled": true,
+    "schedule": "0 3 * * *",
+    "minAge": 604800000,
+    "importanceThreshold": 0.2
+  },
+  "autolearn": {
+    "enabled": true,
+    "reflection": {
+      "schedule": "0 4 * * *",
+      "lookbackHours": 24
+    },
+    "consolidation": {
+      "schedule": "0 3 * * *",
+      "similarityThreshold": 0.8
+    },
+    "patternMining": {
+      "schedule": "0 5 * * 0",
+      "minSupport": 5
+    }
+  },
+  "selfaware": {
+    "identity": {
+      "type": "AI Agent",
+      "name": "OpenClaw Agent",
+      "runtime": "OpenClaw"
+    },
+    "reflectionInterval": 21600000,
+    "confidenceThreshold": 0.7
+  },
+  "performance": {
+    "cacheWarmupSize": 100,
+    "maxRecallResults": 20,
+    "indexOptimizationInterval": 86400000
+  },
+  "sharedWorkspace": {
+    "enabled": true,
+    "sync": true,
+    "storage": {
+      "type": "filesystem",
+      "path": "~/.openclaw/workspace/shared"
+    },
+    "syncInterval": 30000,
+    "conflictResolution": "newest-wins"
+  }
+}

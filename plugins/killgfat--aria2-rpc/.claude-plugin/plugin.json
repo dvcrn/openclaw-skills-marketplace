@@ -1,0 +1,10 @@
+{
+  "name": "killgfat--aria2-rpc",
+  "description": "Remote control for aria2 download service via JSON-RPC 2.0. Supports adding downloads (HTTP/FTP/Torrent/Magnet), querying task status, pausing/resuming, and removing tasks. Works with local or remote aria2 instances.",
+  "version": "0.1.2",
+  "author": {
+    "name": "killgfat"
+  },
+  "homepage": "https://aria2.github.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/killgfat/aria2-rpc"
+}

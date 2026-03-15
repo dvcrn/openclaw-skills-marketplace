@@ -1,0 +1,1098 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Token Unlock Pro - 代币解锁预警系统</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <span class="logo-icon">🔓</span>
+                <h1>Token Unlock Pro</h1>
+            </div>
+            <div class="tagline">专业的代币解锁预警系统</div>
+            <div class="price-badge">每次调用: 0.001 USDT</div>
+        </header>
+
+        <!-- Features -->
+        <section class="features">
+            <h2>⚡ 核心功能</h2>
+            <div class="feature-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">⏰</div>
+                    <h3>多时间维度预警</h3>
+                    <p>支持 72h/48h/24h/6h/实时 多维度预警</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📊</div>
+                    <h3>类型分类</h3>
+                    <p>种子轮/公募/生态/质押/团队/顾问/社区</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🐋</div>
+                    <h3>额度分级</h3>
+                    <p>鲸鱼级/大型/中型/小型 一目了然</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📅</div>
+                    <h3>解锁日历</h3>
+                    <p>月/周/日 视图查看解锁计划</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📈</div>
+                    <h3>历史分析</h3>
+                    <p>分析历次解锁后的价格走势</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">👤</div>
+                    <h3>自定义监控</h3>
+                    <p>手动添加/导入持仓/热门订阅</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Demo Section -->
+        <section class="demo">
+            <h2>🎯 在线演示</h2>
+            <div class="demo-controls">
+                <div class="control-group">
+                    <label>预警时间范围</label>
+                    <select id="timeframe">
+                        <option value="72h">72小时预警</option>
+                        <option value="48h">48小时预警</option>
+                        <option value="24h">24小时预警</option>
+                        <option value="6h">6小时预警</option>
+                        <option value="realtime">实时</option>
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label>解锁类型</label>
+                    <select id="unlockType">
+                        <option value="">全部类型</option>
+                        <option value="seed">种子轮</option>
+                        <option value="public">公募</option>
+                        <option value="ecosystem">生态</option>
+                        <option value="staking">质押</option>
+                        <option value="team">团队</option>
+                        <option value="advisor">顾问</option>
+                        <option value="community">社区</option>
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label>最小解锁价值 (USD)</label>
+                    <input type="number" id="minValue" placeholder="0" min="0">
+                </div>
+                <button class="btn-primary" onclick="fetchAlerts()">查询预警</button>
+            </div>
+
+            <div id="results" class="results">
+                <div class="placeholder">
+                    <p>点击上方按钮查询代币解锁预警</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Calendar Section -->
+        <section class="calendar">
+            <h2>📅 解锁日历</h2>
+            <div class="calendar-controls">
+                <button class="btn-secondary" onclick="showCalendar('day')">日视图</button>
+                <button class="btn-secondary" onclick="showCalendar('week')">周视图</button>
+                <button class="btn-secondary" onclick="showCalendar('month')">月视图</button>
+            </div>
+            <div id="calendar-results" class="calendar-results">
+                <div class="placeholder">
+                    <p>选择视图查看解锁日历</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Analysis Section -->
+        <section class="analysis">
+            <h2>📈 历史数据分析</h2>
+            <div class="analysis-controls">
+                <input type="text" id="tokenInput" placeholder="输入代币符号 (如 ARB, OP, SOL)">
+                <button class="btn-primary" onclick="analyzeToken()">分析走势</button>
+            </div>
+            <div id="analysis-results" class="analysis-results">
+                <div class="placeholder">
+                    <p>输入代币符号分析历史走势</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Trending Section -->
+        <section class="trending">
+            <h2>🔥 热门项目订阅</h2>
+            <div id="trending-list" class="trending-list">
+                <div class="loading">加载中...</div>
+            </div>
+        </section>
+
+        <!-- API Documentation -->
+        <section class="api-docs">
+            <h2>📚 API 文档</h2>
+            <div class="api-endpoints">
+                <div class="endpoint">
+                    <h3>GET /api/alerts</h3>
+                    <p>获取预警列表</p>
+                    <pre><code>{
+  "timeframe": "72h",
+  "unlock_type": "seed",
+  "min_value": 1000000
+}</code></pre>
+                </div>
+                <div class="endpoint">
+                    <h3>GET /api/calendar</h3>
+                    <p>获取解锁日历</p>
+                    <pre><code>{
+  "view": "week",
+  "start_date": "2024-01-01",
+  "end_date": "2024-01-07"
+}</code></pre>
+                </div>
+                <div class="endpoint">
+                    <h3>GET /api/analysis/{token}</h3>
+                    <p>获取代币历史分析</p>
+                    <pre><code>/api/analysis/ARB</code></pre>
+                </div>
+                <div class="endpoint">
+                    <h3>POST /api/watchlist</h3>
+                    <p>添加监控</p>
+                    <pre><code>{
+  "token_symbol": "BTC",
+  "token_name": "Bitcoin"
+}</code></pre>
+                </div>
+                <div class="endpoint">
+                    <h3>POST /api/billing/charge</h3>
+                    <p>支付计费</p>
+                    <pre><code>{
+  "user_id": "user123",
+  "amount": 0.001,
+  "currency": "USDT"
+}</code></pre>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>© 2024 Token Unlock Pro | Powered by SkillPay</p>
+            <p>每次 API 调用: 0.001 USDT</p>
+        </footer>
+    </div>
+
+    <script>
+        // Mock data for demonstration
+        const mockAlerts = [
+            { token: "ARB", name: "Arbitrum", type: "seed", unlock_value: 386000000, hours_until_unlock: 48, grade: "whale" },
+            { token: "OP", name: "Optimism", type: "ecosystem", unlock_value: 78000000, hours_until_unlock: 36, grade: "large" },
+            { token: "SAND", name: "The Sandbox", type: "team", unlock_value: 68750000, hours_until_unlock: 24, grade: "large" },
+            { token: "AXS", name: "Axie Infinity", type: "staking", unlock_value: 4450000, hours_until_unlock: 60, grade: "medium" },
+            { token: "GMT", name: "GMT", type: "public", unlock_value: 22500000, hours_until_unlock: 70, grade: "medium" },
+            { token: "SOL", name: "Solana", type: "team", unlock_value: 117600000, hours_until_unlock: 72, grade: "whale" },
+            { token: "APT", name: "Aptos", type: "seed", unlock_value: 82106000, hours_until_unlock: 96, grade: "large" },
+            { token: "BLUR", name: "Blur", type: "community", unlock_value: 18750000, hours_until_unlock: 120, grade: "medium" }
+        ];
+
+        const mockTrending = [
+            { token: "ARB", name: "Arbitrum", subscribers: 15420, unlock_value: 386000000 },
+            { token: "OP", name: "Optimism", subscribers: 12350, unlock_value: 78000000 },
+            { token: "SOL", name: "Solana", subscribers: 9800, unlock_value: 117600000 },
+            { token: "APT", name: "Aptos", subscribers: 8750, unlock_value: 82106000 },
+            { token: "SAND", name: "The Sandbox", subscribers: 6500, unlock_value: 68750000 }
+        ];
+
+        const mockAnalysis = {
+            ARB: {
+                total_unlocks: 5,
+                avg_change_24h: -7.1,
+                avg_change_7d: -13.16,
+                prediction: "BEARISH",
+                historical: [
+                    { date: "2024-01-15", change_24h: -8.2, change_7d: -15.3 },
+                    { date: "2024-02-15", change_24h: -6.3, change_7d: -15.0 },
+                    { date: "2024-03-15", change_24h: -7.1, change_7d: -11.4 },
+                    { date: "2024-04-15", change_24h: -10.0, change_7d: -15.0 },
+                    { date: "2024-05-15", change_24h: -2.9, change_7d: -7.1 }
+                ]
+            }
+        };
+
+        // Format currency
+        function formatUSD(value) {
+            if (value >= 1000000000) {
+                return "$" + (value / 1000000000).toFixed(2) + "B";
+            } else if (value >= 1000000) {
+                return "$" + (value / 1000000).toFixed(2) + "M";
+            } else if (value >= 1000) {
+                return "$" + (value / 1000).toFixed(2) + "K";
+            }
+            return "$" + value.toFixed(2);
+        }
+
+        // Get grade badge
+        function getGradeBadge(grade) {
+            const badges = {
+                whale: { text: "🐋 鲸鱼级", class: "badge-whale" },
+                large: { text: "🏢 大型", class: "badge-large" },
+                medium: { text: "📊 中型", class: "badge-medium" },
+                small: { text: "📉 小型", class: "badge-small" }
+            };
+            return badges[grade] || badges.small;
+        }
+
+        // Get type display
+        function getTypeDisplay(type) {
+            const types = {
+                seed: "种子轮",
+                public: "公募",
+                ecosystem: "生态",
+                staking: "质押",
+                team: "团队",
+                advisor: "顾问",
+                community: "社区"
+            };
+            return types[type] || type;
+        }
+
+        // Fetch alerts
+        function fetchAlerts() {
+            const timeframe = document.getElementById('timeframe').value;
+            const unlockType = document.getElementById('unlockType').value;
+            const minValue = parseInt(document.getElementById('minValue').value) || 0;
+
+            let filtered = mockAlerts;
+
+            // Filter by timeframe
+            const hoursMap = { "72h": 72, "48h": 48, "24h": 24, "6h": 6, "realtime": 0 };
+            const maxHours = hoursMap[timeframe];
+            filtered = filtered.filter(a => a.hours_until_unlock <= maxHours);
+
+            // Filter by type
+            if (unlockType) {
+                filtered = filtered.filter(a => a.type === unlockType);
+            }
+
+            // Filter by min value
+            if (minValue > 0) {
+                filtered = filtered.filter(a => a.unlock_value >= minValue);
+            }
+
+            // Render results
+            const resultsDiv = document.getElementById('results');
+            if (filtered.length === 0) {
+                resultsDiv.innerHTML = '<div class="placeholder"><p>没有找到符合条件的预警</p></div>';
+                return;
+            }
+
+            let html = '<table class="data-table"><thead><tr><th>代币</th><th>类型</th><th>解锁价值</th><th>剩余时间</th><th>级别</th></tr></thead><tbody>';
+
+            filtered.forEach(alert => {
+                const badge = getGradeBadge(alert.grade);
+                html += `<tr>
+                    <td><strong>${alert.token}</strong><br><small>${alert.name}</small></td>
+                    <td>${getTypeDisplay(alert.type)}</td>
+                    <td>${formatUSD(alert.unlock_value)}</td>
+                    <td>${alert.hours_until_unlock}h</td>
+                    <td><span class="badge ${badge.class}">${badge.text}</span></td>
+                </tr>`;
+            });
+
+            html += '</tbody></table>';
+            resultsDiv.innerHTML = html;
+        }
+
+        // Show calendar
+        function showCalendar(view) {
+            const calendarDiv = document.getElementById('calendar-results');
+
+            // Generate mock calendar data
+            const days = view === 'day' ? 1 : view === 'week' ? 7 : 30;
+            let html = '<div class="calendar-grid">';
+
+            for (let i = 0; i < days; i++) {
+                const date = new Date();
+                date.setDate(date.getDate() + i);
+                const dateStr = date.toISOString().split('T')[0];
+
+                // Random events for demo
+                const events = mockAlerts.slice(0, Math.floor(Math.random() * 3) + 1);
+
+                html += `<div class="calendar-day">
+                    <div class="date-header">${dateStr}</div>
+                    <div class="day-events">`;
+
+                if (i < 3 && events.length > 0) {
+                    events.forEach(e => {
+                        html += `<div class="event ${e.grade}">${e.token}: ${formatUSD(e.unlock_value)}</div>`;
+                    });
+                } else {
+                    html += '<div class="no-events">无解锁</div>';
+                }
+
+                html += '</div></div>';
+            }
+
+            html += '</div>';
+            calendarDiv.innerHTML = html;
+        }
+
+        // Analyze token
+        function analyzeToken() {
+            const token = document.getElementById('tokenInput').value.toUpperCase();
+            const analysisDiv = document.getElementById('analysis-results');
+
+            if (!token) {
+                analysisDiv.innerHTML = '<div class="placeholder"><p>请输入代币符号</p></div>';
+                return;
+            }
+
+            const analysis = mockAnalysis[token];
+
+            if (!analysis) {
+                analysisDiv.innerHTML = `<div class="placeholder"><p>未找到 ${token} 的历史数据</p></div>`;
+                return;
+            }
+
+            const predictionClass = analysis.prediction === "BEARISH" ? "bearish" : analysis.prediction === "BULLISH" ? "bullish" : "neutral";
+            const recommendation = analysis.prediction === "BEARISH" ? "建议在解锁前适当减仓或设置止损" : "建议观望，关注市场情绪";
+
+            let html = `<div class="analysis-card">
+                <h3>${token} 历史分析</h3>
+                <div class="stats-grid">
+                    <div class="stat">
+                        <div class="stat-value">${analysis.total_unlocks}</div>
+                        <div class="stat-label">历史解锁次数</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat-value ${analysis.avg_change_24h < 0 ? 'negative' : 'positive'}">${analysis.avg_change_24h.toFixed(2)}%</div>
+                        <div class="stat-label">平均24h变化</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat-value ${analysis.avg_change_7d < 0 ? 'negative' : 'positive'}">${analysis.avg_change_7d.toFixed(2)}%</div>
+                        <div class="stat-label">平均7天变化</div>
+                    </div>
+                </div>
+                <div class="prediction ${predictionClass}">
+                    <strong>走势预测:</strong> ${analysis.prediction}<br>
+                    <small>${recommendation}</small>
+                </div>
+                <h4>历史数据</h4>
+                <table class="data-table">
+                    <thead><tr><th>日期</th><th>24h变化</th><th>7天变化</th></tr></thead>
+                    <tbody>`;
+
+            analysis.historical.forEach(h => {
+                html += `<tr>
+                    <td>${h.date}</td>
+                    <td class="${h.change_24h < 0 ? 'negative' : 'positive'}">${h.change_24h.toFixed(2)}%</td>
+                    <td class="${h.change_7d < 0 ? 'negative' : 'positive'}">${h.change_7d.toFixed(2)}%</td>
+                </tr>`;
+            });
+
+            html += '</tbody></table></div>';
+            analysisDiv.innerHTML = html;
+        }
+
+        // Load trending
+        function loadTrending() {
+            const trendingDiv = document.getElementById('trending-list');
+
+            let html = '<table class="data-table"><thead><tr><th>代币</th><th>名称</th><th>订阅数</th><th>解锁价值</th><th>操作</th></tr></thead><tbody>';
+
+            mockTrending.forEach(t => {
+                html += `<tr>
+                    <td><strong>${t.token}</strong></td>
+                    <td>${t.name}</td>
+                    <td>${t.subscribers.toLocaleString()}</td>
+                    <td>${formatUSD(t.unlock_value)}</td>
+                    <td><button class="btn-subscribe" onclick="subscribe('${t.token}')">订阅</button></td>
+                </tr>`;
+            });
+
+            html += '</tbody></table>';
+            trendingDiv.innerHTML = html;
+        }
+
+        // Subscribe
+        function subscribe(token) {
+            alert(`已成功订阅 ${token} 的解锁监控！`);
+        }
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', function() {
+            loadTrending();
+            showCalendar('week');
+        });
+    </script>
+
+<style>
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+.inland-security-footer {
+  position: fixed;
+  z-index: 10;
+  bottom: 0;
+  right: 0;
+  width: fit-content;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.tooltip-container {
+  position: relative;
+}
+
+.trigger-content {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  background-color: transparent;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.minimax-link {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-weight: 300;
+  color: #adadad;
+  text-decoration: none;
+}
+
+.minimax-link:visited {
+  color: #adadad;
+}
+
+.minimax-link:hover {
+  color: #666666;
+}
+
+.tooltip-content {
+  position: absolute;
+  bottom: 100%;
+  right: 0;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 8px;
+  padding-bottom: 16px; /* 8px 内容间距 + 8px 用于鼠标移动的透明区域 */
+  font-size: 12px;
+  line-height: 17px;
+  background-color: #fafafa;
+  border-radius: 12px;
+  white-space: nowrap;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  color: #171717;
+}
+
+/* 创建透明的连接区域，让鼠标可以平滑移动到 tooltip */
+.tooltip-content::after {
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  left: 0;
+  right: 0;
+  height: 16px;
+}
+
+.tooltip-container:hover .tooltip-content {
+  display: flex;
+}
+
+.info-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+}
+
+.beian-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #171717;
+}
+
+.beian-icon {
+  width: 14px;
+  height: 14px;
+  margin-right: 2px;
+}
+
+.underline-text {
+  color: #171717;
+  text-decoration: underline;
+}
+
+.underline-text:hover {
+  color: #000000;
+}
+
+/* 深色模式支持 */
+@media (prefers-color-scheme: dark) {
+  .trigger-content {
+    background-color: transparent;
+  }
+
+  .minimax-link,
+  .minimax-link:visited {
+    color: #666666;
+  }
+
+  .minimax-link:hover {
+    color: #adadad;
+  }
+
+  .tooltip-content {
+    background-color: #262626;
+    color: #ededed;
+  }
+
+  .beian-link,
+  .underline-text {
+    color: #ededed;
+  }
+
+  .underline-text:hover {
+    color: #ffffff;
+  }
+}
+
+</style>
+<div class="inland-security-footer">
+  <div class="tooltip-container">
+    <div class="trigger-content">
+      <a href="https://www.minimaxi.com/" target="_blank" rel="noreferrer" class="minimax-link">
+        <span>© 2026 MiniMax</span>
+      </a>
+    </div>
+    <div class="tooltip-content">
+      <section class="info-section">
+        <span>上海稀宇科技有限公司</span>
+      </section>
+
+      <section class="info-section">
+        <a class="beian-link" href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010402010179" target="_blank" rel="noreferrer">
+          <img alt="hailuo-beian-icon" src="https://cdn.hailuoai.com/hailuo-video-web/public_assets/223037d3-79fd-4db0-a456-749f38a6a14b.png" class="beian-icon">
+          <span class="underline-text">沪公网安备31010402010179号</span>
+        </a>
+        <a href="https://beian.miit.gov.cn/" target="_blank" rel="noreferrer" class="underline-text">
+          沪ICP备2023003282号-38
+        </a>
+      </section>
+
+      <section class="info-section">
+        <span>模型名称：MiniMax</span>
+        <span>备案号：Shanghai-MiniMax-202505230046</span>
+      </section>
+
+      <section class="info-section">
+        <a href="https://agent.minimaxi.com/doc/zh/terms-of-service.html" target="_blank" rel="noreferrer" class="underline-text">
+          用户协议
+        </a>
+        <a href="https://agent.minimaxi.com/doc/zh/privacy-policy.html" target="_blank" rel="noreferrer" class="underline-text">
+          隐私政策
+        </a>
+      </section>
+    </div>
+  </div>
+</div>
+
+
+<script>
+/**
+ * Iframe 元素高亮注入脚本
+ * 需要在目标网站中引入此脚本来支持跨域 iframe 高亮功能
+ *
+ * 使用方法：
+ * 1. 将此脚本添加到目标网站的 HTML 中
+ * 2. 或通过浏览器扩展、用户脚本等方式注入
+ */
+
+(function () {
+  "use strict";
+
+  // 检查是否在 iframe 中
+  if (window.self === window.top) {
+    return; // 不在 iframe 中，不执行
+  }
+
+  // 检查是否已经初始化过
+  if (window.__iframeHighlightInitialized) {
+    return;
+  }
+  window.__iframeHighlightInitialized = true;
+  console.log("Iframe 高亮脚本已加载");
+
+  // 创建高亮覆盖层
+  var overlay = document.createElement("div");
+  overlay.id = "iframe-highlight-overlay";
+  overlay.style.cssText = "\n    position: fixed;\n    top: 0;\n    left: 0;\n    width: 100vw;\n    height: 100vh;\n    pointer-events: none;\n    z-index: 999999;\n    overflow: hidden;\n  ";
+
+  // 创建悬停高亮框（虚线边框）
+  var highlightBox = document.createElement("div");
+  highlightBox.id = "iframe-highlight-box";
+  highlightBox.style.cssText = "\n    position: absolute;\n    border: 2px dashed #007AFF;\n    background: rgba(0, 122, 255, 0.08);\n    pointer-events: none;\n    display: none;\n    transition: all 0.1s ease;\n    box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.8);\n    border-radius: 2px;\n  ";
+
+  // 创建选中节点的常驻高亮框（实线边框）
+  var selectedBox = document.createElement("div");
+  selectedBox.id = "iframe-selected-box";
+  selectedBox.style.cssText = "\n    position: absolute;\n    border: 2px solid #007AFF;\n    pointer-events: none;\n    display: none;\n    box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.9), 0 0 8px rgba(255, 107, 53, 0.4);\n    border-radius: 2px;\n    z-index: 1000000;\n  ";
+
+  // 创建悬停标签显示
+  var tagLabel = document.createElement("div");
+  tagLabel.id = "iframe-tag-label";
+  tagLabel.style.cssText = "\n    position: absolute;\n    background: #007AFF;\n    color: white;\n    padding: 2px 6px;\n    font-size: 11px;\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;\n    border-radius: 2px;\n    pointer-events: none;\n    display: none;\n    white-space: nowrap;\n    z-index: 1000001;\n    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);\n    font-weight: 500;\n  ";
+
+  // 创建选中节点标签
+  var selectedLabel = document.createElement("div");
+  selectedLabel.id = "iframe-selected-label";
+  selectedLabel.style.cssText = "\n    position: absolute;\n    background: #007AFF;\n    color: white;\n    padding: 3px 8px;\n    font-size: 11px;\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;\n    border-radius: 3px;\n    pointer-events: none;\n    display: none;\n    white-space: nowrap;\n    z-index: 1000002;\n    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);\n    font-weight: 600;\n  ";
+  overlay.appendChild(highlightBox);
+  overlay.appendChild(selectedBox);
+  overlay.appendChild(tagLabel);
+  overlay.appendChild(selectedLabel);
+  document.body.appendChild(overlay);
+
+  // 存储当前选中的元素
+  var selectedElement = null;
+  var highlightEnabled = false;
+
+  // 更新选中元素的高亮显示
+  function updateSelectedHighlight(element) {
+    console.log("updateSelectedHighlight called with:", element);
+    if (!element) {
+      selectedBox.style.display = "none";
+      selectedLabel.style.display = "none";
+      selectedElement = null;
+      console.log("Cleared selected highlight");
+      return;
+    }
+    selectedElement = element;
+    var rect = element.getBoundingClientRect();
+    console.log("Selected element rect:", rect);
+
+    // 更新选中高亮框位置
+    selectedBox.style.display = "block";
+    selectedBox.style.left = "".concat(rect.left - 2, "px");
+    selectedBox.style.top = "".concat(rect.top - 2, "px");
+    selectedBox.style.width = "".concat(rect.width + 4, "px");
+    selectedBox.style.height = "".concat(rect.height + 4, "px");
+
+    // 更新选中标签位置和内容
+    selectedLabel.style.display = "block";
+    selectedLabel.textContent = "\u2713 <".concat(element.tagName.toLowerCase(), ">");
+
+    // 计算标签位置，确保不超出视窗
+    var labelTop = rect.top - 28;
+    var labelLeft = rect.left;
+
+    // 如果标签会超出顶部，显示在元素下方
+    if (labelTop < 5) {
+      labelTop = rect.bottom + 5;
+    }
+
+    // 如果标签会超出右侧，向左调整
+    var labelWidth = selectedLabel.offsetWidth || 100; // 预估宽度
+    if (labelLeft + labelWidth > window.innerWidth - 10) {
+      labelLeft = window.innerWidth - labelWidth - 10;
+    }
+    selectedLabel.style.left = "".concat(Math.max(5, labelLeft), "px");
+    selectedLabel.style.top = "".concat(labelTop, "px");
+    console.log("Selected highlight positioned at:", {
+      left: selectedBox.style.left,
+      top: selectedBox.style.top,
+      width: selectedBox.style.width,
+      height: selectedBox.style.height
+    });
+  }
+  function getElementSelector(element) {
+    if (!(element instanceof Element)) throw new Error('Argument must be a DOM element');
+    var segments = [];
+    var current = element;
+    while (current !== document.documentElement) {
+      var selector = '';
+      // 优先检查唯一ID
+      if (current.id && document.querySelectorAll("#".concat(current.id)).length === 1) {
+        segments.unshift("#".concat(current.id));
+        break; // ID唯一，无需继续向上
+      }
+
+      // 生成类名选择器（取第一个有效类名）
+      var classes = Array.from(current.classList).filter(function (c) {
+        return !c.startsWith('js-');
+      });
+      var className = classes.length > 0 ? ".".concat(classes[0]) : '';
+
+      // 生成位置索引（nth-child）
+      var tag = current.tagName.toLowerCase();
+      if (!className) {
+        var siblings = Array.from(current.parentNode.children);
+        var index = siblings.findIndex(function (el) {
+          return el === current;
+        }) + 1;
+        selector = "".concat(tag, ":nth-child(").concat(index, ")");
+      } else {
+        selector = className;
+      }
+      segments.unshift(selector);
+      current = current.parentElement;
+    }
+
+    // 处理根元素
+    if (current === document.documentElement) {
+      segments.unshift('html');
+    }
+    return segments.join(' > ');
+  }
+
+  // 获取元素文本内容
+  function getElementText(element) {
+    var _element$textContent;
+    if (element.tagName === "INPUT") {
+      return element.value || element.placeholder || "";
+    }
+    if (element.tagName === "TEXTAREA") {
+      return element.value || element.placeholder || "";
+    }
+    var text = ((_element$textContent = element.textContent) === null || _element$textContent === void 0 ? void 0 : _element$textContent.trim()) || "";
+    return text.length > 50 ? text.substring(0, 50) + "..." : text;
+  }
+
+  // 获取元素属性信息
+  function getElementAttributes(element) {
+    var attrs = {};
+    for (var i = 0; i < element.attributes.length; i++) {
+      var attr = element.attributes[i];
+      attrs[attr.name] = attr.value;
+    }
+    return attrs;
+  }
+
+  // 鼠标悬停事件处理
+  function handleMouseOver(e) {
+    if (!highlightEnabled) return;
+    var target = e.target;
+    if (!target || target === overlay || target === highlightBox || target === tagLabel || target === selectedBox || target === selectedLabel) {
+      return;
+    }
+
+    // 避免高亮 html 和 body 元素
+    if (target === document.documentElement || target === document.body) {
+      return;
+    }
+
+    // 如果是已选中的元素，不显示悬停高亮
+    if (target === selectedElement) {
+      highlightBox.style.display = "none";
+      tagLabel.style.display = "none";
+      return;
+    }
+    var rect = target.getBoundingClientRect();
+    var selector = getElementSelector(target);
+    var text = getElementText(target);
+    var attributes = getElementAttributes(target);
+
+    // 更新悬停高亮框位置
+    highlightBox.style.display = "block";
+    highlightBox.style.left = "".concat(rect.left - 2, "px");
+    highlightBox.style.top = "".concat(rect.top - 2, "px");
+    highlightBox.style.width = "".concat(rect.width + 4, "px");
+    highlightBox.style.height = "".concat(rect.height + 4, "px");
+
+    // 更新标签位置和内容
+    tagLabel.style.display = "block";
+    tagLabel.textContent = "<".concat(target.tagName.toLowerCase(), ">");
+
+    // 计算标签位置，确保不超出视窗
+    var labelTop = rect.top - 22;
+    var labelLeft = rect.left;
+
+    // 如果标签会超出顶部，显示在元素下方
+    if (labelTop < 0) {
+      labelTop = rect.bottom + 5;
+    }
+
+    // 如果标签会超出右侧，向左调整
+    if (labelLeft + tagLabel.offsetWidth > window.innerWidth) {
+      labelLeft = window.innerWidth - tagLabel.offsetWidth - 5;
+    }
+    tagLabel.style.left = "".concat(Math.max(0, labelLeft), "px");
+    tagLabel.style.top = "".concat(labelTop, "px");
+
+    // 发送消息到父窗口
+    var elementInfo = {
+      tagName: target.tagName.toLowerCase(),
+      rect: {
+        left: rect.left,
+        top: rect.top,
+        right: rect.right,
+        bottom: rect.bottom,
+        width: rect.width,
+        height: rect.height,
+        x: rect.x,
+        y: rect.y
+      },
+      selector: selector,
+      text: text,
+      attributes: attributes,
+      url: window.location.href,
+      path: window.location.pathname,
+      timestamp: Date.now()
+    };
+    try {
+      window.parent.postMessage({
+        type: "iframe-element-hover",
+        data: elementInfo,
+        source: "iframe-highlight-injector"
+      }, "*");
+    } catch (error) {
+      console.warn("无法发送消息到父窗口:", error);
+    }
+  }
+
+  // 鼠标离开事件处理
+  function handleMouseOut(e) {
+    if (!highlightEnabled) return;
+    var relatedTarget = e.relatedTarget;
+
+    // 如果鼠标移动到高亮相关元素上，不隐藏高亮
+    if (relatedTarget && (relatedTarget === highlightBox || relatedTarget === tagLabel || relatedTarget === overlay || relatedTarget === selectedBox || relatedTarget === selectedLabel)) {
+      return;
+    }
+    highlightBox.style.display = "none";
+    tagLabel.style.display = "none";
+    try {
+      window.parent.postMessage({
+        type: "iframe-element-hover",
+        data: null,
+        source: "iframe-highlight-injector"
+      }, "*");
+    } catch (error) {
+      console.warn("无法发送消息到父窗口:", error);
+    }
+  }
+
+  // 点击事件处理
+  function handleClick(e) {
+    var target = e.target;
+    if (!target || target === overlay || target === highlightBox || target === tagLabel || target === selectedBox || target === selectedLabel) {
+      return;
+    }
+
+    // 避免处理 html 和 body 元素
+    if (target === document.documentElement || target === document.body) {
+      return;
+    }
+
+    // 检查是否是交互元素，这些元素需要保留默认行为
+    var isInteractiveElement = ['input', 'textarea', 'select', 'button', 'a'].includes(target.tagName.toLowerCase());
+
+    // 如果高亮功能启用，对于非交互元素阻止默认行为和事件传播
+    if (highlightEnabled) {
+      e.preventDefault();
+      e.stopPropagation();
+    }
+    var rect = target.getBoundingClientRect();
+    var selector = getElementSelector(target);
+    var text = getElementText(target);
+    var attributes = getElementAttributes(target);
+    console.log("Element clicked:", {
+      tagName: target.tagName,
+      selector: selector,
+      rect: rect
+    });
+
+    // 立即更新选中高亮
+    updateSelectedHighlight(target);
+
+    // 隐藏悬停高亮，因为现在是选中状态
+    highlightBox.style.display = "none";
+    tagLabel.style.display = "none";
+    var elementInfo = {
+      tagName: target.tagName.toLowerCase(),
+      rect: {
+        left: rect.left,
+        top: rect.top,
+        right: rect.right,
+        bottom: rect.bottom,
+        width: rect.width,
+        height: rect.height,
+        x: rect.x,
+        y: rect.y
+      },
+      selector: selector,
+      text: text,
+      attributes: attributes,
+      url: window.location.href,
+      path: window.location.pathname,
+      timestamp: Date.now()
+    };
+    try {
+      window.parent.postMessage({
+        type: "iframe-element-click",
+        data: elementInfo,
+        source: "iframe-highlight-injector"
+      }, "*");
+    } catch (error) {
+      console.warn("无法发送消息到父窗口:", error);
+    }
+  }
+
+  // 监听来自父窗口的消息
+  function handleParentMessage(event) {
+    console.log("Received message from parent:", event.data);
+    if (event.data.type === "iframe-highlight-toggle") {
+      var enabled = event.data.enabled;
+      console.log("Highlight toggle:", enabled);
+      if (enabled) {
+        enableHighlight();
+      } else {
+        disableHighlight();
+      }
+    } else if (event.data.type === "enable-iframe-highlight") {
+      console.log("Enable iframe highlight");
+      enableHighlight();
+    } else if (event.data.type === "disable-iframe-highlight") {
+      console.log("Disable iframe highlight");
+      disableHighlight();
+    } else if (event.data.type === "toggle-iframe-highlight") {
+      var _enabled = event.data.enabled !== undefined ? event.data.enabled : !highlightEnabled;
+      console.log("Toggle iframe highlight to:", _enabled);
+      if (_enabled) {
+        enableHighlight();
+      } else {
+        disableHighlight();
+      }
+    } else if (event.data.type === "update-selected-element") {
+      var selector = event.data.selector;
+      console.log("Update selected element with selector:", selector);
+      if (selector) {
+        try {
+          var element = document.querySelector(selector);
+          console.log("Found element by selector:", element);
+          updateSelectedHighlight(element);
+        } catch (error) {
+          console.warn("Failed to select element:", error);
+          updateSelectedHighlight(null);
+        }
+      } else {
+        updateSelectedHighlight(null);
+      }
+    } else if (event.data.type === "clear-selected-element") {
+      console.log("Clear selected element");
+      updateSelectedHighlight(null);
+    }
+  }
+
+  // 启用高亮功能
+  function enableHighlight() {
+    console.log("Enabling highlight");
+    document.addEventListener("mouseover", handleMouseOver, true);
+    document.addEventListener("mouseout", handleMouseOut, true);
+    document.addEventListener("click", handleClick, true);
+    highlightEnabled = true;
+    overlay.style.display = "block";
+  }
+
+  // 禁用高亮功能
+  function disableHighlight() {
+    console.log("Disabling highlight");
+    highlightEnabled = false;
+    // 保持事件监听器，但通过 highlightEnabled 变量控制行为
+    // 这样可以保留选中状态的显示
+    highlightBox.style.display = "none";
+    tagLabel.style.display = "none";
+    // 不隐藏 selectedBox 和 selectedLabel，保留选中状态
+  }
+
+  // 完全禁用高亮功能（移除所有监听器）
+  function fullyDisableHighlight() {
+    console.log("Fully disabling highlight");
+    highlightEnabled = false;
+    document.removeEventListener("mouseover", handleMouseOver, true);
+    document.removeEventListener("mouseout", handleMouseOut, true);
+    document.removeEventListener("click", handleClick, true);
+    overlay.style.display = "none";
+    highlightBox.style.display = "none";
+    tagLabel.style.display = "none";
+    selectedBox.style.display = "none";
+    selectedLabel.style.display = "none";
+  }
+
+  // 添加事件监听
+  enableHighlight();
+  window.addEventListener("message", handleParentMessage);
+
+  // 暴露全局函数供外部调用
+  window.__iframeHighlightControl = {
+    enable: enableHighlight,
+    disable: disableHighlight,
+    fullyDisable: fullyDisableHighlight,
+    isEnabled: function isEnabled() {
+      return highlightEnabled;
+    },
+    getSelectedElement: function getSelectedElement() {
+      return selectedElement;
+    },
+    updateSelected: updateSelectedHighlight,
+    // 通过消息发送开关控制
+    sendToggleMessage: function sendToggleMessage(enabled) {
+      window.parent.postMessage({
+        type: 'iframe-highlight-status',
+        enabled: enabled || highlightEnabled,
+        source: 'iframe-highlight-injector'
+      }, '*');
+    }
+  };
+
+  // 通知父窗口脚本已加载
+  try {
+    window.parent.postMessage({
+      type: "iframe-highlight-ready",
+      data: {
+        url: window.location.href,
+        userAgent: navigator.userAgent,
+        timestamp: Date.now()
+      },
+      source: "iframe-highlight-injector"
+    }, "*");
+  } catch (error) {
+    console.warn("无法发送就绪消息到父窗口:", error);
+  }
+
+  // 清理函数
+  window.__iframeHighlightCleanup = function () {
+    fullyDisableHighlight();
+    window.removeEventListener("message", handleParentMessage);
+    if (overlay.parentElement) {
+      overlay.parentElement.removeChild(overlay);
+    }
+    delete window.__iframeHighlightInitialized;
+    delete window.__iframeHighlightCleanup;
+  };
+})();
+
+</script>
+</body>
+</html>

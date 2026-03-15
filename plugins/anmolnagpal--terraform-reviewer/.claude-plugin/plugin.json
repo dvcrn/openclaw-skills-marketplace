@@ -1,0 +1,10 @@
+{
+  "name": "anmolnagpal--terraform-reviewer",
+  "description": "Review Terraform plans and HCL files for AWS security misconfigurations before deployment",
+  "version": "1.0.0",
+  "author": {
+    "name": "anmolnagpal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/terraform-reviewer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/terraform-reviewer"
+}

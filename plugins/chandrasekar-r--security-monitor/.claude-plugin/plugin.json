@@ -1,0 +1,10 @@
+{
+  "name": "chandrasekar-r--security-monitor",
+  "description": "Real-time security monitoring for Clawdbot. Detects intrusions, unusual API calls, credential usage patterns, and alerts on breaches.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chandrasekar-r"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chandrasekar-r/security-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chandrasekar-r/security-monitor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "glitch003--vincentpolymarket",
+  "description": "Polymarket prediction market trading for agents. Use this skill when users want to create a\n Polymarket wallet, browse markets, place bets, manage positions, or withdraw funds.\n Triggers on \"polymarket\", \"prediction market\", \"place bet\", \"browse markets\", \"trade prediction\",\n \"polymarket wallet\", \"betting\", \"market odds\".",
+  "version": "1.0.70",
+  "author": {
+    "name": "glitch003"
+  },
+  "homepage": "https://heyvincent.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/glitch003/vincentpolymarket"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "leonthepro2012--file-summary",
+  "description": "Local document summary tool. Activate when user mentions \"总结文件\", \"帮我总结\", \"总结文档\", \"分析文档\" or provides a local file path (txt/docx/pdf/xlsx/xls).",
+  "version": "1.0.0",
+  "author": {
+    "name": "leonthepro2012"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leonthepro2012/file-summary",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leonthepro2012/file-summary"
+}

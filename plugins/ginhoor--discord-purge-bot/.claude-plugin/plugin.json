@@ -1,0 +1,10 @@
+{
+  "name": "ginhoor--discord-purge-bot",
+  "description": "Operate a Discord message cleanup workflow with an official bot token and Discord HTTP API. Use when asked to purge guild channel history, delete messages by user/keyword/time window, run dry-run previews, execute guarded bulk deletion jobs, or recreate a channel for fast wipe. Do not use for self-bot cleanup or personal DM history wipe.",
+  "version": "0.1.2",
+  "author": {
+    "name": "ginhoor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ginhoor/discord-purge-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ginhoor/discord-purge-bot"
+}

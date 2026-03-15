@@ -1,0 +1,10 @@
+{
+  "name": "launchthatbot--git-team-ops",
+  "description": "Role-based GitOps skill for OpenClaw agents with junior and senior operating modes.",
+  "version": "0.1.5",
+  "author": {
+    "name": "launchthatbot"
+  },
+  "homepage": "https://launchthatbot.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/launchthatbot/git-team-ops"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-failure-phase-audit",
+  "description": "Group GitHub Actions failures by pipeline phase (setup/build/test/lint/deploy/security) with minute impact to prioritize fixes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-failure-phase-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-failure-phase-audit"
+}

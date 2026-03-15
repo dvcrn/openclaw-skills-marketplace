@@ -1,0 +1,10 @@
+{
+  "name": "1999azzar--cloudflare-manager",
+  "description": "Manage Cloudflare DNS records, Tunnels (cloudflared), and Zero Trust policies. Use for pointing domains, exposing local services via tunnels, and updating ingress rules.",
+  "version": "1.1.0",
+  "author": {
+    "name": "1999azzar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/1999azzar/cloudflare-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/1999azzar/cloudflare-manager"
+}

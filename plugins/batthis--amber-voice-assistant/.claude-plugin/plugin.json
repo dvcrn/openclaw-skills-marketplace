@@ -1,0 +1,10 @@
+{
+  "name": "batthis--amber-voice-assistant",
+  "description": "The most complete voice and phone calling skill for OpenClaw. Handles inbound and outbound phone calls over Twilio with OpenAI Realtime speech. Inbound outbound calling, calendar management, CRM, multilingual phone assistant with transcripts. Includes setup wizard, live dashboard, and brain-in-the-loop escalation. Now also ships as a Claude Desktop plugin (MCP) — make calls, check CRM, and query your calendar directly from Claude Desktop.",
+  "version": "5.5.5",
+  "author": {
+    "name": "batthis"
+  },
+  "homepage": "https://github.com/batthis/amber-openclaw-voice-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/batthis/amber-voice-assistant"
+}

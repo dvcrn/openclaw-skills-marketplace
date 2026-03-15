@@ -1,0 +1,36 @@
+{
+  "name": "polyclawster",
+  "version": "1.7.0",
+  "description": "Trade on Polymarket prediction markets. Non-custodial: your agent signs orders locally. Relay mode (geo-bypass) or Direct mode (EAP) — sync on-chain trades without relay.",
+  "homepage": "https://polyclawster.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/al1enjesus/polyclawster.git"
+  },
+  "main": "scripts/auto.js",
+  "scripts": {
+    "setup": "node scripts/setup.js --auto",
+    "browse": "node scripts/browse.js",
+    "trade": "node scripts/trade.js",
+    "balance": "node scripts/balance.js",
+    "auto": "node scripts/auto.js",
+    "sell": "node scripts/sell.js",
+    "link": "node scripts/link.js",
+    "approve": "node scripts/approve.js"
+  },
+  "keywords": [
+    "polymarket",
+    "prediction-markets",
+    "trading",
+    "ai-agent",
+    "defi",
+    "polygon",
+    "openclaw"
+  ],
+  "author": "Virix Labs <general@virixlabs.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.7.1",
+    "@polymarket/clob-client": "^5.3.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kingmadellc--prediction-market-arbiter",
+  "description": "Cross-platform divergence scanner comparing Kalshi and Polymarket prices on identical events. Fuzzy title matching across 1000+ markets per run, configurable thresholds for volume, divergence percentage, and match quality. Detects arbitrage opportunities and market mispricings automatically. Zero cost — both APIs are free. Part of the OpenClaw Prediction Market Trading Stack — divergences feed into Market Morning Brief and pair with Kalshi Command Center for execution.",
+  "version": "1.0.1",
+  "author": {
+    "name": "kingmadellc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/prediction-market-arbiter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/prediction-market-arbiter"
+}

@@ -1,0 +1,69 @@
+{
+  "emoji": "\u26bd",
+  "requires": {
+    "env": [
+      "SIMMER_API_KEY"
+    ],
+    "pip": [
+      "simmer-sdk"
+    ]
+  },
+  "cron": null,
+  "autostart": false,
+  "automaton": {
+    "managed": true,
+    "entrypoint": "trader.py"
+  },
+  "tunables": [
+    {
+      "env": "SIMMER_MAX_POSITION",
+      "default": 25,
+      "range": [
+        1,
+        200
+      ],
+      "step": 1,
+      "label": "Max position size (USD)"
+    },
+    {
+      "env": "SIMMER_MIN_VOLUME",
+      "default": 5000,
+      "range": [
+        0,
+        200000
+      ],
+      "step": 500,
+      "label": "Min market volume (USD)"
+    },
+    {
+      "env": "SIMMER_MAX_SPREAD",
+      "default": 0.08,
+      "range": [
+        0.01,
+        0.5
+      ],
+      "step": 0.01,
+      "label": "Max bid-ask spread"
+    },
+    {
+      "env": "SIMMER_MIN_DAYS",
+      "default": 2,
+      "range": [
+        1,
+        180
+      ],
+      "step": 1,
+      "label": "Min days until resolution"
+    },
+    {
+      "env": "SIMMER_MAX_POSITIONS",
+      "default": 8,
+      "range": [
+        1,
+        20
+      ],
+      "step": 1,
+      "label": "Max open positions"
+    }
+  ]
+}

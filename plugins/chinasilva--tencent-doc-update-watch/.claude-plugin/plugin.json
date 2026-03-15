@@ -1,0 +1,10 @@
+{
+  "name": "chinasilva--tencent-doc-update-watch",
+  "description": "Privacy-first re-crawl and diff workflow for Tencent Docs (docs.qq.com) update checks. Use when asked to re-crawl Tencent Docs links, verify whether content changed since last snapshot, and produce a structured update report. Supports sheet/doc/aio links and snapshot comparison.",
+  "version": "0.1.1",
+  "author": {
+    "name": "chinasilva"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chinasilva/tencent-doc-update-watch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chinasilva/tencent-doc-update-watch"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "binubmuse--medical-triage",
+  "description": "Classify medical messages (emails, iMessages) as critical, urgent, or routine based on medical urgency indicators.",
+  "version": "1.0.0",
+  "author": {
+    "name": "binubmuse"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/binubmuse/medical-triage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/binubmuse/medical-triage"
+}

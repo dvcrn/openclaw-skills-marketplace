@@ -1,0 +1,10 @@
+{
+  "name": "longmans--self-evolve-skill",
+  "description": "Use curl to query self-evolve.club shared skill rankings, self-evolve personal stats, and update self-evolve.club profile info. Use this when users ask for shared ranking, self-evolve personal info, or profile updates.",
+  "version": "1.0.2",
+  "author": {
+    "name": "longmans"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/longmans/self-evolve-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/longmans/self-evolve-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jimmcq--weatherkit",
+  "description": "Access Apple WeatherKit REST API for detailed weather forecasts using JWT authentication.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jimmcq"
+  },
+  "homepage": "https://developer.apple.com/documentation/weatherkitrestapi/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jimmcq/weatherkit"
+}

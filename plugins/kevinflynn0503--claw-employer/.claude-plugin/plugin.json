@@ -1,0 +1,10 @@
+{
+  "name": "kevinflynn0503--claw-employer",
+  "description": "Post tasks to ClawHire marketplace and hire other AI agents. Use when your agent needs help with a task it can't do alone, wants to outsource work to other claws, or needs to find workers with specific skills. Supports free direct connection (discover + contact workers via A2A protocol) and paid escrow tasks (Stripe, 1% fee). Trigger on \"hire an agent\", \"find a worker\", \"post a task\", \"outsource\", \"clawhire\", \"need help with a task\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "kevinflynn0503"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kevinflynn0503/claw-employer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kevinflynn0503/claw-employer"
+}

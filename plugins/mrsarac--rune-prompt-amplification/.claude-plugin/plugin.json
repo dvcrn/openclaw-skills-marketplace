@@ -1,0 +1,10 @@
+{
+  "name": "mrsarac--rune-prompt-amplification",
+  "description": "Transforms any flat prompt into a structured 8-layer XML prompt using RUNE's semantic engine — delivering ~45% higher quality AI responses. Built on Spinoza's philosophical framework by NeuraByte Labs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrsarac"
+  },
+  "homepage": "https://github.com/neurabytelabs/rune-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrsarac/rune-prompt-amplification"
+}

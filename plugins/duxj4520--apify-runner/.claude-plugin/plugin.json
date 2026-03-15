@@ -1,0 +1,10 @@
+{
+  "name": "duxj4520--apify-runner",
+  "description": "Run any Apify Actor to scrape web data (Instagram, TikTok, Reddit, Twitter, etc). Handles Actor discovery, quality filtering, probe testing, batched execution, and result collection. Use when user asks to scrape/crawl/extract data from websites or social media platforms, or mentions Apify directly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "duxj4520"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/duxj4520/apify-runner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/duxj4520/apify-runner"
+}

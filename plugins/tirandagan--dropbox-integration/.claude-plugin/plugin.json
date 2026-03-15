@@ -1,0 +1,10 @@
+{
+  "name": "tirandagan--dropbox-integration",
+  "description": "Read-only Dropbox integration for browsing, searching, and downloading files from your Dropbox account. Includes automatic OAuth token refresh, secure credential storage, and comprehensive setup guide. Perfect for accessing your Dropbox files from OpenClaw without giving write access.",
+  "version": "1.0.1",
+  "author": {
+    "name": "tirandagan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tirandagan/dropbox-integration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tirandagan/dropbox-integration"
+}

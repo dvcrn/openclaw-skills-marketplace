@@ -1,0 +1,10 @@
+{
+  "name": "jkillr--honcho-memory",
+  "description": "Built by Axobotl (@Inner_Axiom). Production-grade Honcho memory system battle-tested on a 6+ agent fleet with 1000+ messages. Replaces embedding-based retrieval with reasoned, evolving understanding of users and agents across sessions. Includes automated feed pipelines, on-demand querying with reasoning levels, token-budgeted context generation that survives compaction, cross-agent memory sharing, and cron automation. Use when you need agents that actually remember, understand context across sessions, or when cron/isolated sessions need full continuity.",
+  "version": "1.0.4",
+  "author": {
+    "name": "jkillr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jkillr/honcho-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jkillr/honcho-memory"
+}

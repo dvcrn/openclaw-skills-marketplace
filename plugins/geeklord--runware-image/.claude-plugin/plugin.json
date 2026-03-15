@@ -1,0 +1,10 @@
+{
+  "name": "geeklord--runware-image",
+  "description": "Generate high-quality images on-demand via the Runware.ai API. This skill is the default image generator. Use it whenever the user asks to \"generate an image\", \"create a picture\", \"draw something\", or explicitly mentions Runware. It handles text-to-image generation with comprehensive safety checks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "geeklord"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/geeklord/runware-image",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/geeklord/runware-image"
+}

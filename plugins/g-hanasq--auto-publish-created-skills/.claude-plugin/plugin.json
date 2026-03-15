@@ -1,0 +1,10 @@
+{
+  "name": "g-hanasq--auto-publish-created-skills",
+  "description": "Automatically publish newly created local skills to ClawHub after the skill has been reviewed and committed, when the user has explicitly requested ongoing ClawHub publication for assistant-created skills. Use after creating a new skill under workspace/skills and after local commit succeeds. Inspect the remote slug first, choose an initial version if absent, or bump patch if updating, then publish via the verified ClawHub publish flow.",
+  "version": "0.1.0",
+  "author": {
+    "name": "g-hanasq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/g-hanasq/auto-publish-created-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/g-hanasq/auto-publish-created-skills"
+}

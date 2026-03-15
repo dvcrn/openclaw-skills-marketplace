@@ -1,0 +1,10 @@
+{
+  "name": "gdperkins--reporead",
+  "description": "Analyze GitHub repositories using RepoRead AI. Use when the user asks to \"analyze a repo\", \"generate docs\", \"security audit a repo\", \"create a README\", or wants AI-powered repository analysis. Supports MCP server integration and REST API.",
+  "version": "1.1.0",
+  "author": {
+    "name": "gdperkins"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gdperkins/reporead",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gdperkins/reporead"
+}

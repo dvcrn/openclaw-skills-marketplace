@@ -1,0 +1,10 @@
+{
+  "name": "zyl-hub--repo-runner",
+  "description": "Bootstrap and run a GitHub project by following its docs (README/docs), with safeguards for untrusted install/run steps. Use when the user gives a GitHub repo and asks to run it locally.",
+  "version": "1.0.2",
+  "author": {
+    "name": "zyl-hub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zyl-hub/repo-runner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zyl-hub/repo-runner"
+}

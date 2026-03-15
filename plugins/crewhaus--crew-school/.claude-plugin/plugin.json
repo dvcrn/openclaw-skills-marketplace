@@ -1,0 +1,10 @@
+{
+  "name": "crewhaus--crew-school",
+  "description": "Structured learning system for AI agent crews. Design curricula, run research sessions, track progress, and prevent common failure modes (lazy output, planning-without-executing). Use when setting up agent learning, running training sessions, auditing knowledge gaps, or building a curriculum for specialized agents. Works for single agents or multi-agent crews.",
+  "version": "1.0.0",
+  "author": {
+    "name": "crewhaus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crewhaus/crew-school",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crewhaus/crew-school"
+}

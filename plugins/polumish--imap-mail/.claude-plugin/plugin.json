@@ -1,0 +1,10 @@
+{
+  "name": "polumish--imap-mail",
+  "description": "Personal email via your own IMAP/SMTP server. Send and receive emails, manage folders, and search messages using standard protocols — no third-party email platform required. Use when you need to check inbox, send emails, move messages between folders, search by sender/subject/date, list all mailboxes, schedule emails for future delivery, save attachments, or get push notifications for new mail (IMAP IDLE).",
+  "version": "1.5.4",
+  "author": {
+    "name": "polumish"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/polumish/imap-mail",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/polumish/imap-mail"
+}

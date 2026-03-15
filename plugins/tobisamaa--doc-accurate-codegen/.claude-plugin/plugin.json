@@ -1,0 +1,10 @@
+{
+  "name": "tobisamaa--doc-accurate-codegen",
+  "description": "Generate code that references actual documentation, preventing hallucination bugs. ALWAYS loads docs first, validates against API signatures, and verifies correctness. Use for ANY code generation, API usage, or configuration creation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tobisamaa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tobisamaa/doc-accurate-codegen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tobisamaa/doc-accurate-codegen"
+}

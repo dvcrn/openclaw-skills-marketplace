@@ -1,0 +1,10 @@
+{
+  "name": "scikkk--senseaudio-asr",
+  "description": "Build and troubleshoot SenseAudio speech recognition integrations, including HTTP transcription (`/v1/audio/transcriptions`), realtime WebSocket ASR (`/ws/v1/audio/transcriptions`), audio quality analysis (`/v1/audio/analysis`), and recognition record queries (`/v1/audio/records`). Use this whenever user asks for speech-to-text, diarization, translation, streaming ASR, or ASR model/parameter selection.",
+  "version": "1.0.2",
+  "author": {
+    "name": "scikkk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/scikkk/senseaudio-asr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scikkk/senseaudio-asr"
+}

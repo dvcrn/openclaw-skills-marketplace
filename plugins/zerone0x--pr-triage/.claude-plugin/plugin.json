@@ -1,0 +1,10 @@
+{
+  "name": "zerone0x--pr-triage",
+  "description": "Triage open PRs by detecting duplicates, assessing quality, and generating prioritized reports. Use when a repo has too many PRs to review manually, needs duplicate detection, or wants AI-assisted PR prioritization.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zerone0x"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zerone0x/pr-triage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zerone0x/pr-triage"
+}

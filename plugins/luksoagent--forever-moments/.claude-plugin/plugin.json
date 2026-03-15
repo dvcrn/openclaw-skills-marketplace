@@ -1,0 +1,10 @@
+{
+  "name": "luksoagent--forever-moments",
+  "description": "Forever Moments social platform on LUKSO - post moments (LSP8 NFTs), mint LIKES tokens, \n create/join collections, and interact with decentralized social features.\n \n USE WHEN:\n - User wants to post a moment to Forever Moments\n - User wants to mint/buy LIKES tokens\n - User wants to create or join a collection\n - User wants to list a moment for sale\n - User wants to \"like\" a moment (send LIKES tokens)\n - Automated posting with AI-generated images (cron jobs)\n \n DON'T USE WHEN:\n - User hasn't provided or confirmed Universal Profile credentials\n - DALLE_API_KEY or FM_PRIVATE_KEY not available (check .credentials first)\n - The operation requires manual user approval for spending LYX\n - Alternative social platforms are more appropriate\n \n SUCCESS CRITERIA:\n - Moment posted with transaction hash and IPFS CID returned\n - LIKES minted with confirmation of LYX spent\n - Collection joined/created with membership confirmed\n - Image successfully pinned to IPFS before moment creation",
+  "version": "1.0.0",
+  "author": {
+    "name": "luksoagent"
+  },
+  "homepage": "https://www.forevermoments.life",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luksoagent/forever-moments"
+}

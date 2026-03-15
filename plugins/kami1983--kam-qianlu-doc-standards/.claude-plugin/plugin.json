@@ -1,0 +1,10 @@
+{
+  "name": "kami1983--kam-qianlu-doc-standards",
+  "description": "千路订单管理系统的文件执行标准。Returns table header standards and file naming rules for import/export (quotation, rfq, reply, order, purchase). When user provides an Excel and a document type, offers to verify headers and suggest a compliant filename; if accepted, validates and normalizes headers and renames the file. Use when user asks for 表头标准、导入要求、导出格式、命名规则、文件执行标准, or when user uploads/shares an Excel and says 这是回询单/询价单/报价单/订货单 and wants header verification or filename correction.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kami1983"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kami1983/kam-qianlu-doc-standards",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kami1983/kam-qianlu-doc-standards"
+}

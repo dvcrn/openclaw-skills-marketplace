@@ -1,0 +1,10 @@
+{
+  "name": "shirtlessfounder--moltmarkets-agent",
+  "description": "Complete MoltMarkets trading agent setup with autonomous trader, market creator, and resolution crons. Use when setting up a new MoltMarkets agent, configuring trading bots, or replicating the bicep agent architecture. Includes Kelly criterion betting, learning loops, and degenerate trader personality.",
+  "version": "1.0.1",
+  "author": {
+    "name": "shirtlessfounder"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shirtlessfounder/moltmarkets-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shirtlessfounder/moltmarkets-agent"
+}

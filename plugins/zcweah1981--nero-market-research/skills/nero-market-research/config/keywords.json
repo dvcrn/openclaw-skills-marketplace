@@ -1,0 +1,51 @@
+{
+  "pain_keywords": {
+    "tier_1_golden": [
+      "I wish there was",
+      "Looking for a tool",
+      "Does anyone know",
+      "Is there a tool for",
+      "alternative to",
+      "better than",
+      "how to automate",
+      "how do you manage",
+      "any tool for",
+      "how to solve"
+    ],
+    "tier_2_strong_pain": [
+      "I hate",
+      "This is frustrating",
+      "Manually doing",
+      "Takes too long",
+      "Tedious task",
+      "Painful process",
+      "Time consuming",
+      "Annoying",
+      "Broken",
+      "Expensive"
+    ],
+    "tier_3_need_expression": [
+      "Does anyone know",
+      "Is there a tool for",
+      "Need help with",
+      "Trying to find",
+      "Can't find",
+      "Missing feature",
+      "Looking for recommendations",
+      "Suggestions please",
+      "What's the best",
+      "Any alternatives"
+    ]
+  },
+  "noise_keywords": [
+    "CVPR",
+    "ICML",
+    "NeurIPS",
+    "arXiv",
+    "I built",
+    "check out",
+    "tutorial",
+    "guide",
+    "course"
+  ]
+}

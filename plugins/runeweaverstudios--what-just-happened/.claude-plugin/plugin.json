@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--what-just-happened",
+  "description": "When the gateway comes back online, check recent logs and post a short message about what happened (restart, SIGUSR1, auth change, reconnect). User sees the response in TUI or Telegram.",
+  "version": "1.1.0",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/what-just-happened",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/what-just-happened"
+}

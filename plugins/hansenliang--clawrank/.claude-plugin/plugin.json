@@ -1,0 +1,10 @@
+{
+  "name": "hansenliang--clawrank",
+  "description": "Report local OpenClaw token usage to ClawRank (clawrank.dev), the AI agent leaderboard. Use when the user asks to submit, sync, report, or upload their agent usage stats to ClawRank, when they want to \"get ranked,\" or when setting up automated ingestion via cron. Requires Python 3 and gh CLI (for auto-setup).",
+  "version": "2.5.0",
+  "author": {
+    "name": "hansenliang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hansenliang/clawrank",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hansenliang/clawrank"
+}

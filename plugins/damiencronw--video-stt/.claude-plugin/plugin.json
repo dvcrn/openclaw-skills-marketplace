@@ -1,0 +1,10 @@
+{
+  "name": "damiencronw--video-stt",
+  "description": "Extract audio from video URLs and transcribe using STT (Speech-to-Text). Supports local Whisper or cloud APIs. Use when: user provides a video URL and wants to know what is being said, transcribing YouTube videos, podcasts, or any video with audio.",
+  "version": "1.0.0",
+  "author": {
+    "name": "damiencronw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/damiencronw/video-stt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/damiencronw/video-stt"
+}

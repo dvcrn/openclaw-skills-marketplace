@@ -1,0 +1,10 @@
+{
+  "name": "moodykong--ssh-op",
+  "description": "Use the ssh-op helper script to load an SSH private key from 1Password (op) into an in-memory ssh-agent and then run ssh. Use when connecting to hosts that require the 1Password-managed key, troubleshooting ssh-op, or onboarding a new machine by configuring the 1Password vault/item and adding SSH host aliases to ~/.ssh/config.",
+  "version": "0.1.0",
+  "author": {
+    "name": "moodykong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moodykong/ssh-op",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moodykong/ssh-op"
+}

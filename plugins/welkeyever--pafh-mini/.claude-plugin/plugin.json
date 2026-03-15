@@ -1,0 +1,10 @@
+{
+  "name": "welkeyever--pafh-mini",
+  "description": "PAHF (Personalized Agents from Human Feedback) - Continual Personalization Framework.\n \n Triggered when applying the PAHF three-step loop:\n (1) Pre-action Clarification - Resolve ambiguity before action, proactively ask for confirmation\n (2) Preference-grounded Action - Retrieve user preferences from memory to guide decisions\n (3) Post-action Feedback Integration - Collect feedback after action, update preference memory\n \n Use when:\n - User expresses preferences or habits\n - Need to make decisions with multiple valid options\n - User corrects or adjusts your behavior\n - Need to remember personalized settings\n - Detecting potential preference changes",
+  "version": "1.0.2",
+  "author": {
+    "name": "welkeyever"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/welkeyever/pafh-mini",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/welkeyever/pafh-mini"
+}

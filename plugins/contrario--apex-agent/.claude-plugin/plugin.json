@@ -1,0 +1,10 @@
+{
+  "name": "contrario--apex-agent",
+  "description": "Transforms your OpenClaw agent with the APEX cognitive framework — a battle-tested thinking system built by a solo founder over 10 months of AI product development. Enhances response quality with structured thinking patterns, context-aware modes, and execution precision for every response. Works with Claude, GPT, Gemini, DeepSeek, or any local model. Zero API keys. Zero config. Session-scoped — active only while installed.",
+  "version": "1.0.3",
+  "author": {
+    "name": "contrario"
+  },
+  "homepage": "https://clawhub.ai/contrario",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/contrario/apex-agent"
+}

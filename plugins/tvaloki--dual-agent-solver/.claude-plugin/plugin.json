@@ -1,0 +1,10 @@
+{
+  "name": "tvaloki--dual-agent-solver",
+  "description": "Run a two-agent collaborative problem-solving workflow where one agent is your OpenClaw agent (primary solver) and a second agent challenges assumptions, surfaces risks, and improves the plan over multiple rounds, then outputs one merged actionable solution and stores it in Open Brain memory.",
+  "version": "0.1.0",
+  "author": {
+    "name": "tvaloki"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tvaloki/dual-agent-solver",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tvaloki/dual-agent-solver"
+}

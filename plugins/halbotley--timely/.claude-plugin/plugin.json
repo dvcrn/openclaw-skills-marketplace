@@ -1,0 +1,10 @@
+{
+  "name": "halbotley--timely",
+  "description": "Manage Apple Reminders from the command line with geofencing support. Use when creating reminders on macOS with optional location-based triggers (arrive/depart), due dates, or time-based alerts. Works with iCloud-synced reminder lists.",
+  "version": "1.0.0",
+  "author": {
+    "name": "halbotley"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/halbotley/timely",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/halbotley/timely"
+}

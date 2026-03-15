@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--create-agent",
+  "description": "Creates new Overstory agents for Overclaw by updating all seven integration points (config, manifest, agent-def, gateway prompt, task_router, generate_agent_context, and regeneration). Supports manual creation and optional analysis from logs, TROUBLESHOOTING.md, mulch, and project tree.",
+  "version": "1.0.0",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/create-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/create-agent"
+}

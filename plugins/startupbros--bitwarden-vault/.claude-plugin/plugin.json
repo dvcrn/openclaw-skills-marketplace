@@ -1,0 +1,10 @@
+{
+  "name": "startupbros--bitwarden-vault",
+  "description": "Set up and use Bitwarden CLI (bw). Use when installing the CLI, authenticating (login/unlock), or reading secrets from your vault. Supports email/password, API key, and SSO authentication methods.",
+  "version": "1.0.0",
+  "author": {
+    "name": "startupbros"
+  },
+  "homepage": "https://bitwarden.com/help/cli/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/startupbros/bitwarden-vault"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "santacruzg282-cyber--macro-pipeline",
+  "description": "Create and manage macro-task pipelines (QA, roadmaps, feature rollouts) using PIPELINE.md + HEARTBEAT.md pattern. Use when building multi-step project plans that agents execute autonomously via cron.",
+  "version": "3.0.0",
+  "author": {
+    "name": "santacruzg282-cyber"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/santacruzg282-cyber/macro-pipeline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/santacruzg282-cyber/macro-pipeline"
+}

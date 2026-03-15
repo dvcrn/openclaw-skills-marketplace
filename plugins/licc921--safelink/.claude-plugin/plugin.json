@@ -1,0 +1,10 @@
+{
+  "name": "licc921--safelink",
+  "description": "Secure agent-to-agent hiring and execution skill for OpenClaw MCP with escrowed settlement, x402 facilitator payments, ERC-8004 identity/reputation checks, strict replay protection, DNS-safe endpoint validation, and MPC wallet signing. Use when building or operating production A2A workflows that require proof-before-settlement, policy gating, risk-scored transactions, and beginner-friendly wallet setup.",
+  "version": "0.1.4",
+  "author": {
+    "name": "licc921"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/licc921/safelink",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/licc921/safelink"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "melody1015--forge-loop",
+  "description": "Forge 🔨 — Repair-Inspect loop orchestrator. Automated code repair with independent inspection, dependency-aware parallel execution, protected file guardrails, and crash-recoverable state. Use when: fixing multiple code issues (bug fixes, review board recommendations, audit findings), need verified repairs with independent QA, want safe automated code changes with rollback protection. NOT for: simple one-line fixes, architecture decisions, prompt modifications.",
+  "version": "1.0.0",
+  "author": {
+    "name": "melody1015"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/melody1015/forge-loop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/melody1015/forge-loop"
+}

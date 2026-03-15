@@ -1,0 +1,10 @@
+{
+  "name": "schwartzdev--tapauth",
+  "description": "Get delegated access for AI agents via TapAuth — the trust layer between humans and AI agents. Use when your agent needs to access GitHub, Google Workspace, Gmail, Linear, or other OAuth providers on behalf of a user. One API call to create an auth request, user approves in browser, agent gets scoped tokens. No API key required.",
+  "version": "1.2.1",
+  "author": {
+    "name": "schwartzdev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/schwartzdev/tapauth",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/schwartzdev/tapauth"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hamandmore--tides",
+  "description": "Access global ocean tides model. Functions include tide height at a given date/time/location, tide extrema, and grid weather data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hamandmore"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hamandmore/tides",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hamandmore/tides"
+}

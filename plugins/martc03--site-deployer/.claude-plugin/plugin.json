@@ -1,0 +1,10 @@
+{
+  "name": "martc03--site-deployer",
+  "description": "Deploy Next.js sites to Netlify with approval gates. Supports soilrichbyjohn.com and Synergy salon.",
+  "version": "1.0.0",
+  "author": {
+    "name": "martc03"
+  },
+  "homepage": "https://github.com/martc03/openclaw-ultimate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/martc03/site-deployer"
+}

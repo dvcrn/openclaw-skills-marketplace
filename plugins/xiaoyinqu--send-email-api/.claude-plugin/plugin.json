@@ -1,0 +1,10 @@
+{
+  "name": "xiaoyinqu--send-email-api",
+  "description": "USE THIS to send email, send message, email automation. Send transactional emails (welcome, password reset, notifications), marketing emails, newsletters. AWS SES backend. HTML templates supported. Track opens and clicks. No SMTP setup required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiaoyinqu"
+  },
+  "homepage": "https://skillboss.co",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaoyinqu/send-email-api"
+}

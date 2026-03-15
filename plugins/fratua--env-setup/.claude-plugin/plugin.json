@@ -1,0 +1,10 @@
+{
+  "name": "fratua--env-setup",
+  "description": "Scan codebase for environment variables, generate .env.example, validate .env, and ensure .gitignore safety",
+  "version": "1.0.0",
+  "author": {
+    "name": "fratua"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fratua/env-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fratua/env-setup"
+}

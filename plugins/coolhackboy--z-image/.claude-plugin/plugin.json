@@ -1,0 +1,10 @@
+{
+  "name": "coolhackboy--z-image",
+  "description": "Use PoYo AI Z-Image for straightforward prompt-based image generation through the `https://api.poyo.ai/api/generate/submit` endpoint. Use when a user wants direct text-to-image output, simple aspect-ratio control, lightweight PoYo payloads, or submissions for `z-image`.",
+  "version": "1.0.0",
+  "author": {
+    "name": "coolhackboy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/coolhackboy/z-image",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/coolhackboy/z-image"
+}

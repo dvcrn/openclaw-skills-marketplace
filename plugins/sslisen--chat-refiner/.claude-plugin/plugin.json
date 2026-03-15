@@ -1,0 +1,10 @@
+{
+  "name": "sslisen--chat-refiner",
+  "description": "Refine conversation history by deleting useless/redundant/process exchanges. Keep explicit instructions, disciplines, important configs, skills learned (how), user &#39;remember this&#39; info. Use when user asks to summarize/clean chat logs, sessions_history, or memory maintenance. Produces concise MEMORY.md updates or summary files.",
+  "version": "0.1.0",
+  "author": {
+    "name": "sslisen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sslisen/chat-refiner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sslisen/chat-refiner"
+}

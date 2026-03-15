@@ -1,0 +1,10 @@
+{
+  "name": "mrgoodgreen--tracked-video-analysis",
+  "description": "Analyze local or linked video files and convert them into structured summaries of features, functions, workflows, or topics. Use when a user wants a walkthrough/demo video reviewed, asks to extract and organize features from a video, needs category > function > description > benefit summaries, or wants a tracked local workflow for long/noisy video transcription. Especially useful when chat media is inaccessible and you need a reliable two-stage process with explicit progress files.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrgoodgreen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrgoodgreen/tracked-video-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrgoodgreen/tracked-video-analysis"
+}

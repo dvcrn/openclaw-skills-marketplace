@@ -1,0 +1,10 @@
+{
+  "name": "tokisakix--swiftscholar-skill",
+  "description": "Integrates the SwiftScholar HTTP API for searching, submitting, and analyzing academic papers. Use when the user wants to search literature, submit PDFs/URLs for parsing, retrieve analyses, manage favorites, or inspect SwiftScholar account usage programmatically.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tokisakix"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tokisakix/swiftscholar-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tokisakix/swiftscholar-skill"
+}

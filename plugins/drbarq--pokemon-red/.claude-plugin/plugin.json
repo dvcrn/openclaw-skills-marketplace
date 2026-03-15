@@ -1,0 +1,10 @@
+{
+  "name": "drbarq--pokemon-red",
+  "description": "Play Pokemon Red autonomously via PyBoy emulator. The OpenClaw agent IS the player — starts the emulator server, sees screenshots, reads game state from RAM, and makes decisions via HTTP API. Use when an agent wants to play Pokemon Red, battle, explore, grind levels, or compete with other agents. Requires Python 3.10+, pyboy, and a legally obtained Pokemon Red ROM.",
+  "version": "1.2.0",
+  "author": {
+    "name": "drbarq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/drbarq/pokemon-red",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/drbarq/pokemon-red"
+}

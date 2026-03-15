@@ -1,0 +1,10 @@
+{
+  "name": "jakebot-ops--persistent-memory",
+  "description": "Three-layer persistent memory system (Markdown + ChromaDB vectors + NetworkX knowledge graph) for long-term agent recall across sessions. One-command setup with automatic OpenClaw integration. Use when the agent needs to remember decisions, facts, context, or institutional knowledge between sessions.",
+  "version": "3.0.0",
+  "author": {
+    "name": "jakebot-ops"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jakebot-ops/persistent-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jakebot-ops/persistent-memory"
+}

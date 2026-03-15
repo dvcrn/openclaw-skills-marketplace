@@ -1,0 +1,10 @@
+{
+  "name": "chenzhuowen--invoice-qr-scanner",
+  "description": "Scan QR codes from invoice receipts and automatically fill electronic invoice applications. Use when user asks to scan QR codes from images, complete electronic invoice applications, or process invoice receipts that contain QR codes for online billing systems.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chenzhuowen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chenzhuowen/invoice-qr-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chenzhuowen/invoice-qr-scanner"
+}

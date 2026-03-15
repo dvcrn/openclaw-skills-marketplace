@@ -1,0 +1,10 @@
+{
+  "name": "dhrxy--psd-automator",
+  "description": "Automate PSD text replacement on Mac and Windows with Photoshop, dry-run safety, style-lock checks, rollback, and local PSD index cache. Use when requests include file/path hints, layer name, and replacement text from chat channels (including DingTalk) and require no popup dialogs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dhrxy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dhrxy/psd-automator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dhrxy/psd-automator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dreamtraveler13--guicountrol",
+  "description": "Control the Linux desktop GUI using xdotool, wmctrl, and dogtail. Use when you need to interact with non-browser applications, simulate mouse/keyboard input, manage windows, or inspect the UI hierarchy of applications on X11/GNOME. Supports: (1) Clicking/typing in apps, (2) Resizing/moving windows, (3) Extracting text-based UI trees from apps (A11y), (4) Taking screenshots for visual analysis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dreamtraveler13"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dreamtraveler13/guicountrol",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dreamtraveler13/guicountrol"
+}

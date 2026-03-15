@@ -1,0 +1,10 @@
+{
+  "name": "azep-ninja--tator-trader",
+  "description": "Execute crypto trades using natural language via Tator's AI trading API. Use when: buying tokens, selling tokens, swapping, bridging cross-chain, sending tokens, wrapping/unwrapping ETH, opening perp positions, betting on prediction markets, launching tokens, registering blockchain names, or managing yield positions. Triggers: 'buy token', 'sell token', 'swap X for Y', 'bridge to', 'send tokens', 'open long', 'open short', 'bet on', 'launch token', 'register name', 'deposit yield', 'wrap ETH'. Supports 24 chains. Returns UNSIGNED transactions — you sign and broadcast. Costs $0.20 USDC per request via x402. Recommended wallet integration: Sponge (SPONGE_API_KEY) or AgentWallet (AGENTWALLET_API_TOKEN) — no raw private keys needed. This skill is a transaction builder and never accesses your private keys or tokens.",
+  "version": "1.0.6",
+  "author": {
+    "name": "azep-ninja"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/azep-ninja/tator-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/azep-ninja/tator-trader"
+}

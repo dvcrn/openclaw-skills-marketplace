@@ -1,0 +1,10 @@
+{
+  "name": "zhen08--bitstamp-trader",
+  "description": "Safety-first Bitcoin and crypto trading on Bitstamp via CLI. Use when the user wants to check crypto prices, view account balance, place buy/sell orders, manage open orders, check trade history, or monitor the market on Bitstamp. Supports BTC/USD, ETH/USD, and other pairs. All trades are dry-run by default — live execution requires explicit --live flag. Safety guardrails include max order size, daily volume limits, price deviation checks, and a kill switch.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhen08"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhen08/bitstamp-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhen08/bitstamp-trader"
+}

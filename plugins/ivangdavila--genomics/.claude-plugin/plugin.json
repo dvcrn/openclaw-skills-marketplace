@@ -1,0 +1,10 @@
+{
+  "name": "ivangdavila--genomics",
+  "description": "Interpret genomic variants with ACMG classification, pharmacogenomics, and clinical annotation from ClinVar and gnomAD.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ivangdavila"
+  },
+  "homepage": "https://clawic.com/skills/genomics",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/genomics"
+}

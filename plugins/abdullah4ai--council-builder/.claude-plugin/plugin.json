@@ -1,0 +1,10 @@
+{
+  "name": "abdullah4ai--council-builder",
+  "description": "Build a personalized team of AI agent personas for OpenClaw. Interviews the user, analyzes their workflow, then creates specialized agents with distinct personalities, adaptive model routing (Fast/Think/Deep/Strategic), weekly learning metrics, visual architecture docs, and inter-agent coordination. USE WHEN: user wants to create an agent team/council, build specialized AI personas, set up multi-agent workflows, 'build me a team of agents', 'create agents for my workflow', 'set up an agent council', 'I want specialized AI assistants', 'build me a crew'. DON'T USE WHEN: user wants a single skill (use skill-creator), wants to install existing skills (use clawhub), or wants to chat with existing agents (just route to them).",
+  "version": "1.1.1",
+  "author": {
+    "name": "abdullah4ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abdullah4ai/council-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abdullah4ai/council-builder"
+}

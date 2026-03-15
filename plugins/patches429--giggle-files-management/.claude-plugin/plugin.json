@@ -1,0 +1,10 @@
+{
+  "name": "patches429--giggle-files-management",
+  "description": "Upload files to Giggle asset service and get public/download URLs.",
+  "version": "0.2.0",
+  "author": {
+    "name": "patches429"
+  },
+  "homepage": "https://api.giggle.pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/patches429/giggle-files-management"
+}

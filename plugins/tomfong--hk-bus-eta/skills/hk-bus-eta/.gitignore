@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated databases (user must run sync_bus_stops.py)
+bus_stops.db
+
+# API caches (generated at runtime)
+kmb_stops.json
+ctb_stops.json
+stops_cache.json

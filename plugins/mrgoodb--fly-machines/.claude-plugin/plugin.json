@@ -1,0 +1,10 @@
+{
+  "name": "mrgoodb--fly-machines",
+  "description": "Deploy and manage Fly.io Machines - create, start, stop, delete, and monitor containerized apps. Use for deploying containers, managing app instances, and orchestrating multi-tenant workloads.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrgoodb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/fly-machines",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/fly-machines"
+}

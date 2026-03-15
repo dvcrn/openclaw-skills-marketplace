@@ -1,0 +1,10 @@
+{
+  "name": "2manslkh--line-api",
+  "description": "LINE messaging integration via Chrome extension gateway. Send/read LINE messages, manage contacts, groups, profile, and reactions. Authenticate with QR code login. Provides HMAC-signed API access through the Chrome extension gateway (line-chrome-gw.line-apps.com).",
+  "version": "0.2.1",
+  "author": {
+    "name": "2manslkh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/2manslkh/line-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/2manslkh/line-api"
+}

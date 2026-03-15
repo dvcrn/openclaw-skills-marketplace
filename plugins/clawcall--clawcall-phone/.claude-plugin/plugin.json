@@ -1,0 +1,10 @@
+{
+  "name": "clawcall--clawcall-phone",
+  "description": "Give this agent a real phone number. Receive calls from the user, call user back when tasks complete, run scheduled calls, or call third parties on the user's behalf. All phone infrastructure is handled automatically via the ClawCall service.",
+  "version": "1.1.0",
+  "author": {
+    "name": "clawcall"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clawcall/clawcall-phone",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clawcall/clawcall-phone"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "inasens--hts-classifier",
+  "description": "Look up HTS tariff codes and 2026 US duty rates. Use when: user asks about tariff codes, duty rates, HTS classification, import taxes, or trade compliance for any product. NOT for: customs brokerage, filing entries, or legal trade advice. No API key needed.",
+  "version": "1.0.1",
+  "author": {
+    "name": "inasens"
+  },
+  "homepage": "https://ustariffrates.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/inasens/hts-classifier"
+}

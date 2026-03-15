@@ -1,0 +1,10 @@
+{
+  "name": "heyweekly--easy-recruitment",
+  "description": "智能招聘助手。根据职位JD自动筛选和评估简历，输出候选人排序报告，并为每个候选人生成定制化面试问题清单。当用户需要筛选简历、评估候选人匹配度、准备面试问题时触发。",
+  "version": "1.0.0",
+  "author": {
+    "name": "heyweekly"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/heyweekly/easy-recruitment",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/heyweekly/easy-recruitment"
+}

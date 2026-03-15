@@ -1,0 +1,10 @@
+{
+  "name": "shuakami--uapi-get-convert-unixtime",
+  "description": "使用 UAPI 的“时间戳转换”单接口 skill，处理 时间戳转换、Unix时间戳、日期转时间戳 等请求。 Use when the user wants get convert unixtime, convert unixtime, unixtime, or when you need to call GET /convert/unixtime directly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shuakami"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-convert-unixtime",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-convert-unixtime"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "volodstaimi--youtube-transcript-api",
+  "description": "Extract, transcribe, and translate YouTube video transcripts using the YouTubeTranscript.dev V2 API. Supports captions, ASR audio transcription, batch processing (up to 100 videos), translation to 100+ languages, and multiple output formats. Use when working with YouTube videos, subtitles, captions, or video-to-text conversion.",
+  "version": "0.1.0",
+  "author": {
+    "name": "volodstaimi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/volodstaimi/youtube-transcript-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/volodstaimi/youtube-transcript-api"
+}

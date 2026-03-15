@@ -1,0 +1,10 @@
+{
+  "name": "gora050--algolia-search",
+  "description": "Algolia Search integration. Manage Indexs, Records, Rules, Tasks, Clusters, Users. Use when the user wants to interact with Algolia Search data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gora050"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gora050/algolia-search"
+}

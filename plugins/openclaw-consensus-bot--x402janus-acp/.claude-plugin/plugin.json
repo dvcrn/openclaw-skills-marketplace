@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-consensus-bot--x402janus-acp",
+  "description": "ACP buyer skill — hire x402janus for wallet security scans via the Virtuals ACP marketplace. Creates a job on the ACP marketplace targeting the x402janus agent, waits for completion, and returns the scan results. Pays with $VIRTUAL tokens.",
+  "version": "2.0.0",
+  "author": {
+    "name": "openclaw-consensus-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openclaw-consensus-bot/x402janus-acp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openclaw-consensus-bot/x402janus-acp"
+}

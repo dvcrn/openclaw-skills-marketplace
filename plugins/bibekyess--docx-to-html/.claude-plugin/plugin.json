@@ -1,0 +1,10 @@
+{
+  "name": "bibekyess--docx-to-html",
+  "description": "Use this skill whenever the user has a DOCX file (.docx) and wants to convert, read, view, extract content from, or process it in any way — including summarization, displaying in a browser, extracting tables or lists, or feeding into AI pipelines. Always use this skill for any task involving .docx files, even if the request seems simple. Triggers include: 'convert docx', 'open word file', 'read word document', 'extract tables from docx', or any mention of a .docx filename.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bibekyess"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bibekyess/docx-to-html",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bibekyess/docx-to-html"
+}

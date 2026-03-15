@@ -1,0 +1,10 @@
+{
+  "name": "wbingli--pmctl",
+  "description": "Browse and inspect Postman collections, requests, and environments from the terminal using pmctl. Use when you need to discover API endpoints, look up request details (method, URL, headers, body, query params), resolve environment variables to real base URLs, or construct curl commands from Postman data. Works with any Postman workspace. Requires pmctl to be installed (`pip install pmctl`).",
+  "version": "1.0.0",
+  "author": {
+    "name": "wbingli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wbingli/pmctl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wbingli/pmctl"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "masonc15--clawd-modifier",
+  "description": "Modify Clawd, the Claude Code mascot. Use this skill when users want to customize Clawd's appearance in their Claude Code CLI, including changing colors (blue Clawd, green Clawd, holiday themes), adding features (arms, hats, accessories), or creating custom ASCII art variants. Triggers include \"change Clawd color\", \"give Clawd arms\", \"customize the mascot\", \"modify Clawd\", \"make Clawd [color]\", or any request to personalize the Claude Code terminal mascot.",
+  "version": "1.0.0",
+  "author": {
+    "name": "masonc15"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/masonc15/clawd-modifier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/masonc15/clawd-modifier"
+}

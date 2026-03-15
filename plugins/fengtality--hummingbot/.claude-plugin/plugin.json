@@ -1,0 +1,10 @@
+{
+  "name": "fengtality--hummingbot",
+  "description": "Agent skill that faithfully reproduces Hummingbot CLI commands (connect, balance, create, start, stop, status, history) via Hummingbot API. V1 focuses on core trading workflows. For DEX/LP strategies on Solana, use lp-agent instead.",
+  "version": "1.0.1",
+  "author": {
+    "name": "fengtality"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fengtality/hummingbot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fengtality/hummingbot"
+}

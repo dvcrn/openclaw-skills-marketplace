@@ -1,0 +1,10 @@
+{
+  "name": "lijianfei--qshell-copilot",
+  "description": "Manage files on Qiniu Cloud Storage (Kodo) via the qshell CLI tool: upload, download, list, delete, copy, move files, CDN refresh/prefetch, and bucket management. Use this skill whenever the user mentions Qiniu, qiniu, qshell, Kodo, uploading to cloud storage, CDN operations, object storage buckets, or managing remote files on Qiniu's platform. Also trigger when the user asks to transfer local files to a Chinese cloud storage provider, fetch remote URLs into a storage bucket, generate private download links, or batch-upload a directory. Even if the user simply says \"upload this to my bucket\" or \"list my cloud files\" in a context where Qiniu is the configured provider, use this skill.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lijianfei"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lijianfei/qshell-copilot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lijianfei/qshell-copilot"
+}

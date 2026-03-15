@@ -1,0 +1,10 @@
+{
+  "name": "darknoah--rednote-cli",
+  "description": "Use when the user needs to publish, search, inspect, log into, or otherwise operate Xiaohongshu (RedNote) from the terminal with the `@skills-store/rednote` CLI. When handling `rednote login`, expect the command to return a local QR code image path on success and present that QR code image to the user.",
+  "version": "0.1.10",
+  "author": {
+    "name": "darknoah"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/darknoah/rednote-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/darknoah/rednote-cli"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jameseball--enhanced-memory",
+  "description": "Enhanced memory search with hybrid vector+keyword scoring, temporal routing, filepath scoring, adaptive weighting, pseudo-relevance feedback, salience scoring, and knowledge graph cross-references. Replaces the default memory search with a 4-signal fusion retrieval system. Use when searching memories, indexing memory files, building cross-references, or scoring memory salience. Requires Ollama with nomic-embed-text model.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jameseball"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jameseball/enhanced-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jameseball/enhanced-memory"
+}

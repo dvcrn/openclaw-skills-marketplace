@@ -1,0 +1,10 @@
+{
+  "name": "nagellack5c--lan-media-server",
+  "description": "Share images, screenshots, and files from the AI workspace to users on the local network via HTTP. Use when the agent needs to show images, browser screenshots, or any files to the user and the current channel doesn't support inline media (e.g., webchat, CLI). Starts a lightweight Node.js static file server on LAN, managed by systemd. Drop files in the shared directory and send the user a clickable URL.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nagellack5c"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nagellack5c/lan-media-server",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nagellack5c/lan-media-server"
+}

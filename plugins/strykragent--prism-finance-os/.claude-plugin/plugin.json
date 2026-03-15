@@ -1,0 +1,10 @@
+{
+  "name": "strykragent--prism-finance-os",
+  "description": "Financial data SDK for AI Agents. 218+ read-only endpoints for market data, prices, fundamentals. Built for Cursor, Claude, OpenClaw. Data retrieval only.",
+  "version": "0.1.2",
+  "author": {
+    "name": "strykragent"
+  },
+  "homepage": "https://api.prismapi.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/strykragent/prism-finance-os"
+}

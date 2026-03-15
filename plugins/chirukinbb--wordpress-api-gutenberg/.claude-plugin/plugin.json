@@ -1,0 +1,10 @@
+{
+  "name": "chirukinbb--wordpress-api-gutenberg",
+  "description": "Create, edit, and publish WordPress posts via REST API with full Gutenberg block support. Use when Codex needs to automate WordPress content publishing, generate articles programmatically, or manage posts through API calls. Includes authentication methods (JWT, Application Passwords), Gutenberg block serialization, featured images, categories, tags, and draft/publish workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chirukinbb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chirukinbb/wordpress-api-gutenberg",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chirukinbb/wordpress-api-gutenberg"
+}

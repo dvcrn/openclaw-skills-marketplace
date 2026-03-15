@@ -1,0 +1,10 @@
+{
+  "name": "srikanth-hn--medical-auditor",
+  "description": "Audits hospital surgical logs against billing to find revenue leakage.",
+  "version": "1.0.0",
+  "author": {
+    "name": "srikanth-hn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/srikanth-hn/medical-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/srikanth-hn/medical-auditor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "theshadowrose--channel-bridge",
+  "description": "In-memory message routing library for multi-channel agent communication. Provides routing rules, filters, and transforms. Wire your own platform adapters for Discord, Slack, Telegram, etc.",
+  "version": "1.0.2",
+  "author": {
+    "name": "theshadowrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/channel-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/channel-bridge"
+}

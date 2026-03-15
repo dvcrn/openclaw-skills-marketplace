@@ -1,0 +1,10 @@
+{
+  "name": "operator-auteng-ai--markdown-publish-share",
+  "description": "Publish markdown and return share links using curl. Support markdown with mermaid diagrams such as component diagrams, flowcharts, and sequence diagrams. Also supports KaTex and code blocks. AutEng will return a shareable link to the published rendered document. Use cases include Software Architecture diagrams and documentation, Maths and Physics derivations and Systems documentation.",
+  "version": "1.0.5",
+  "author": {
+    "name": "operator-auteng-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/operator-auteng-ai/markdown-publish-share",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/operator-auteng-ai/markdown-publish-share"
+}

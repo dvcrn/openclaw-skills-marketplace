@@ -1,0 +1,10 @@
+{
+  "name": "smilelight--skillscope",
+  "description": "Search and discover AI Agent skills via the SkillScope public API. Use when a user wants to find skills by keyword, browse categories, check leaderboards, view skill details, or explore starter kits.",
+  "version": "1.0.0",
+  "author": {
+    "name": "smilelight"
+  },
+  "homepage": "https://skillscope.cn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/smilelight/skillscope"
+}

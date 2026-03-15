@@ -1,0 +1,10 @@
+{
+  "name": "brianppetty--farmos-equipment",
+  "description": "Query equipment status, maintenance schedules, and service history for the farm fleet. Uses integration endpoints (no auth required).",
+  "version": "1.0.0",
+  "author": {
+    "name": "brianppetty"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brianppetty/farmos-equipment",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brianppetty/farmos-equipment"
+}

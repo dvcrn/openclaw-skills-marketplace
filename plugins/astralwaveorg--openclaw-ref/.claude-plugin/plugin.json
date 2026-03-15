@@ -1,0 +1,10 @@
+{
+  "name": "astralwaveorg--openclaw-ref",
+  "description": "OpenClaw 配置、CLI、排错、模型管理完整参考手册。修改 openclaw.json、执行 CLI 命令、排查问题时必须查阅此 Skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "astralwaveorg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/astralwaveorg/openclaw-ref",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/astralwaveorg/openclaw-ref"
+}

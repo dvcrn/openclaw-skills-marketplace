@@ -1,0 +1,10 @@
+{
+  "name": "hoyin258--macos-screenshot-telegram",
+  "description": "Take a screenshot on macOS and send it to Telegram. Use when the user asks to capture their screen, take a screenshot, or send a screen capture to Telegram. \n Works around OpenClaw's message tool bug (#15541) that fails to send media.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hoyin258"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hoyin258/macos-screenshot-telegram",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hoyin258/macos-screenshot-telegram"
+}

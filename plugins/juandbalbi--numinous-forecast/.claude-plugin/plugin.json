@@ -1,0 +1,10 @@
+{
+  "name": "juandbalbi--numinous-forecast",
+  "description": "Get calibrated probabilities from Numinous (Bittensor Subnet 6) with metadata/provenance.",
+  "version": "1.0.3",
+  "author": {
+    "name": "juandbalbi"
+  },
+  "homepage": "https://numinouslabs.io/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/juandbalbi/numinous-forecast"
+}

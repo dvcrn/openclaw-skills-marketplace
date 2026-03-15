@@ -1,0 +1,10 @@
+{
+  "name": "vacinc--simple-backup",
+  "description": "Backup agent brain (workspace) and body (state) to local folder and optionally sync to cloud via rclone.",
+  "version": "2.2.0",
+  "author": {
+    "name": "vacinc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vacinc/simple-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vacinc/simple-backup"
+}

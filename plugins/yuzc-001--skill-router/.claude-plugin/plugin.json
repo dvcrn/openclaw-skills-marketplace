@@ -1,0 +1,10 @@
+{
+  "name": "yuzc-001--skill-router",
+  "description": "Route the current task to the most relevant installed skill, and only suggest new skills when existing ones are not enough. Use when the user asks things like \"do we already have a skill for this\", \"which skill should we use\", \"did we install something for this\", or when multiple installed skills could fit and the main problem is choosing the best one without wasting tokens or adding noise.",
+  "version": "0.1.0",
+  "author": {
+    "name": "yuzc-001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yuzc-001/skill-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yuzc-001/skill-router"
+}

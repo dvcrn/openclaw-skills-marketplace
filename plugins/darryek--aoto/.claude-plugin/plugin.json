@@ -1,0 +1,10 @@
+{
+  "name": "darryek--aoto",
+  "description": "Desktop automation via native OS accessibility trees using the agent-desktop CLI. Use when an AI agent needs to observe, interact with, or automate desktop applications (click buttons, fill forms, navigate menus, read UI state, toggle checkboxes, scroll, drag, type text, take screenshots, manage windows, use clipboard). Covers 54 commands across observation, interaction, keyboard/mouse, app lifecycle, clipboard, and wait. Triggers on: \"click button\", \"fill form\", \"open app\", \"read UI\", \"automate desktop\", \"accessibility tree\", \"snapshot app\", \"type into field\", \"navigate menu\", \"toggle checkbox\", \"take screenshot\", \"desktop automation\", \"agent-desktop\", or any desktop GUI interaction task. Supports macOS (Phase 1), with Windows and Linux planned.",
+  "version": "1.0.0",
+  "author": {
+    "name": "darryek"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/darryek/aoto",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/darryek/aoto"
+}

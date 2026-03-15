@@ -1,0 +1,10 @@
+{
+  "name": "krishnakumarmahadevan-cmd--openclaw-skill-tools",
+  "description": "Generate and security-scan OpenClaw SKILL.md files. Use when creating new OpenClaw skills, scanning skills for security vulnerabilities like prompt injection or data exfiltration, auditing ClawHub skills before installation, or building agent skill packages.",
+  "version": "1.0.0",
+  "author": {
+    "name": "krishnakumarmahadevan-cmd"
+  },
+  "homepage": "https://portal.toolweb.in",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/krishnakumarmahadevan-cmd/openclaw-skill-tools"
+}

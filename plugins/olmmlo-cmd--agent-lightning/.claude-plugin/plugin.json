@@ -1,0 +1,10 @@
+{
+  "name": "olmmlo-cmd--agent-lightning",
+  "description": "Microsoft Research's agent training framework. Optimizes AI agents with Reinforcement Learning, Automatic Prompt Optimization, and Supervised Fine-tuning. Zero code change required. Works with LangChain, AutoGen, CrewAI, OpenAI Agent SDK.",
+  "version": "1.0.0",
+  "author": {
+    "name": "olmmlo-cmd"
+  },
+  "homepage": "https://microsoft.github.io/agent-lightning/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/olmmlo-cmd/agent-lightning"
+}

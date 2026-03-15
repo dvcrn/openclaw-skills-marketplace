@@ -1,0 +1,10 @@
+{
+  "name": "crewhaus--focus-tracker",
+  "description": "Maintain persistent focus on active work across compactions and session restarts. Use when starting a multi-step project, when resuming after compaction, when the user says \"we're working on X\", or when you notice you've lost track of what was being done. Also use proactively at session start to check if there's unfinished work. Prevents the agent from forgetting mid-project context, drifting between topics, or asking \"what were we doing?\" after a compaction.",
+  "version": "1.0.0",
+  "author": {
+    "name": "crewhaus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crewhaus/focus-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crewhaus/focus-tracker"
+}

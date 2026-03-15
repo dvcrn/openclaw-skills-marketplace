@@ -1,0 +1,10 @@
+{
+  "name": "vkozlovskyi--pomoclaw",
+  "description": "Control the PomoClaw pomodoro timer on the Mac. Use when the user asks to start, stop, pause a pomodoro/pomoclaw/focus timer, check timer status, or when a pomodoro webhook fires (system event containing \"Pomodoro finished\").",
+  "version": "1.0.0",
+  "author": {
+    "name": "vkozlovskyi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vkozlovskyi/pomoclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vkozlovskyi/pomoclaw"
+}

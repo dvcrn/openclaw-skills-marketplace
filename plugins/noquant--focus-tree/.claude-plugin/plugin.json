@@ -1,0 +1,10 @@
+{
+  "name": "noquant--focus-tree",
+  "description": "Maintain persistent focus on active work with hierarchical task tracking. Prevents the agent from forgetting mid-project context, drifting between topics, or asking \"what were we doing?\" after compaction. Extracts decisions, TODOs, constraints, blockers, and sub-agents into tree structure.",
+  "version": "1.0.1",
+  "author": {
+    "name": "noquant"
+  },
+  "homepage": "https://github.com/openclaw/focus-tree",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/noquant/focus-tree"
+}

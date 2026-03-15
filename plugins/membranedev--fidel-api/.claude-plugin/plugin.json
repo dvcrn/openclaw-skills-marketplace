@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--fidel-api",
+  "description": "Fidel API integration. Manage Persons, Organizations, Deals, Leads, Projects, Activities and more. Use when the user wants to interact with Fidel API data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/fidel-api"
+}

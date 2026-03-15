@@ -1,0 +1,10 @@
+{
+  "name": "unicornnoway--context-guard",
+  "description": "防遗忘防卡顿的context管理协议。自动监控水位、分区管理、压缩前存档、压缩后恢复。适用于所有OpenClaw agent和sub-agent。在heartbeat或session启动时触发。",
+  "version": "1.0.0",
+  "author": {
+    "name": "unicornnoway"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/unicornnoway/context-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/unicornnoway/context-guard"
+}

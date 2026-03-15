@@ -1,0 +1,10 @@
+{
+  "name": "openwaygate--youtube-caption",
+  "description": "Manage YouTube video captions. Use this skill to list, insert, update, download, or delete video captions. Useful when working with YouTube caption — provides commands to delete, download, insert, list, and update caption via the yutu CLI. Includes setup and installation instructions for first-time users. Triggers: delete captions, delete caption, delete my caption, download a caption, download caption, download my caption, insert a caption, insert caption, insert my caption, list captions, list caption, list my caption, update a video caption, update caption, update my caption",
+  "version": "0.10.6-3",
+  "author": {
+    "name": "openwaygate"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openwaygate/youtube-caption",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openwaygate/youtube-caption"
+}

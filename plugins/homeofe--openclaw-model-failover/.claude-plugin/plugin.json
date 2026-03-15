@@ -1,0 +1,10 @@
+{
+  "name": "homeofe--openclaw-model-failover",
+  "description": "OpenClaw plugin: auto-detect rate limits/quota/auth failures and switch sessions to fallback LLMs. Prevents 'API rate limit reached' loops by patching pinned session models.",
+  "version": "0.2.1",
+  "author": {
+    "name": "homeofe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/homeofe/openclaw-model-failover",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/homeofe/openclaw-model-failover"
+}

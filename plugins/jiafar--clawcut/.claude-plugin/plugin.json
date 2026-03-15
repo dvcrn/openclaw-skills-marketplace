@@ -1,0 +1,10 @@
+{
+  "name": "jiafar--clawcut",
+  "description": "Generate AI-powered short videos from a topic or reference video using Google Gemini + Veo 3.1 on Vertex AI. Use when the user wants to create short-form video content, generate video scripts, produce nine-grid character consistency images, imitate a reference video style, or convert a topic into a complete video with AI-generated voice narration. Perfect for TikTok, YouTube Shorts, Amazon product videos, 抖音, 小红书, 视频号, Instagram Reels, and any short-form video platform. Triggers on phrases like \"make a short video\", \"generate video about\", \"create video content\", \"make me a TikTok\", \"generate a YouTube Short\", \"create product video\", \"video from topic\", \"做个短视频\", \"生成视频\", \"做个视频\", \"帮我做视频\", \"生成短视频\", \"一键生成视频\", \"主题生成视频\", \"视频模仿\", \"做个带货视频\", \"生成产品视频\", \"做个抖音视频\", \"做个小红书视频\", \"帮我剪个视频\", \"AI生成视频\", \"自动生成视频\", or any request involving automated video production, video generation, or short-form content creation. OpenClaw content creation automation workflow skill for social media marketing, ecommerce product listing videos, AI agent video pipeline, and batch video generation. Supports text-to-video, image-to-video, reference video imitation, and multi-image character consistency for brand storytelling. Built on Gemini 3 Pro (Nano Banana Pro), Veo 3.1, Google Vertex AI. Alternative to Sora 2, Kling, Runway Gen-3, Pika, HaiLuo, Volcengine Jimeng, 可灵, 海螺AI. Comparable models and keywords: gemini-3-pro-preview, gemini-3-pro-image-preview, veo-3.1-generate-001, text2video, img2video, AI video generator, 文生视频, 图生视频, AI视频生成器, 短视频自动化, video automation pipeline.",
+  "version": "1.1.0",
+  "author": {
+    "name": "jiafar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jiafar/clawcut",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jiafar/clawcut"
+}

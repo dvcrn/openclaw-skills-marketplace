@@ -1,0 +1,10 @@
+{
+  "name": "leowing--programming-assistant",
+  "description": "Assist with programming tasks using Claude CLI. Use when OpenClaw needs to perform coding tasks, create new programs, modify existing code, or get programming assistance. Handles project setup, code generation, debugging, refactoring, and code review.",
+  "version": "1.0.0",
+  "author": {
+    "name": "leowing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leowing/programming-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leowing/programming-assistant"
+}

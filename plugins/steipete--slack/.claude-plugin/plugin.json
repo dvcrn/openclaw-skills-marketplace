@@ -1,0 +1,10 @@
+{
+  "name": "steipete--slack",
+  "description": "Use when you need to control Slack from Clawdbot via the slack tool, including reacting to messages or pinning/unpinning items in Slack channels or DMs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/steipete/slack",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/slack"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "endcy--project-analyzer-generate-doc",
+  "description": "Java Maven multi-module project documentation generator. Supports MyBatis SQL mapping, Maven dependency analysis, generates L3(file-level) to L2(module-level) to L1(project-level) hierarchical docs. Features task monitoring, auto-retry, checkpoint resume, and health checks.",
+  "version": "2.1.4",
+  "author": {
+    "name": "endcy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/endcy/project-analyzer-generate-doc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/endcy/project-analyzer-generate-doc"
+}

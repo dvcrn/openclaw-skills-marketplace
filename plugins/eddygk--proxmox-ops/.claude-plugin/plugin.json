@@ -1,0 +1,10 @@
+{
+  "name": "eddygk--proxmox-ops",
+  "description": "Ops-focused Proxmox VE management via REST API — monitor, control, provision, and troubleshoot VMs and LXC containers with battle-tested operational patterns.\n\n Use when asked to:\n - List, start, stop, restart VMs or LXC containers\n - Check node status, cluster health, or resource usage\n - Create, clone, or delete VMs and containers\n - Manage snapshots, backups, storage, or templates\n - Resize disks (API + in-guest filesystem steps)\n - Query guest agent for IP addresses\n - View tasks or system event logs\n\n Includes helper script (pve.sh) with auto node discovery from VMID, operational safety gates (read-only vs reversible vs destructive), vmstate snapshot warnings, post-resize guest filesystem steps, and a separate provisioning reference.\n\n Requires: curl, jq.\n Credentials: PROXMOX_HOST, PROXMOX_TOKEN_ID, PROXMOX_TOKEN_SECRET — set as env vars or stored in ~/.proxmox-credentials (sourced at runtime, user-created, mode 600).\n Writes: ~/.proxmox-credentials (user-created, API token, mode 600).\n Network: connects to user-configured Proxmox host only (HTTPS, TLS verification disabled for self-signed certs).\n\n Helper script: scripts/pve.sh (relative to this skill)\n Configuration: ~/.proxmox-credentials",
+  "version": "1.1.2",
+  "author": {
+    "name": "eddygk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/eddygk/proxmox-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eddygk/proxmox-ops"
+}

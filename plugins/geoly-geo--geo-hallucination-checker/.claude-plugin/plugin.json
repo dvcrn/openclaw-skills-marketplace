@@ -1,0 +1,10 @@
+{
+  "name": "geoly-geo--geo-hallucination-checker",
+  "description": "Detect and annotate hallucinations, unsupported claims, fabricated studies, and incorrect conclusions in text so that AI only cites verifiable, trustworthy content. Use this skill whenever the user asks you to fact-check, validate sources, check for hallucinations, or ensure that generated content is grounded in real evidence, even if they do not explicitly use the word \"hallucination\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "geoly-geo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/geoly-geo/geo-hallucination-checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/geoly-geo/geo-hallucination-checker"
+}

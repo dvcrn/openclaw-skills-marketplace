@@ -1,0 +1,10 @@
+{
+  "name": "binsonhao--halo-manager",
+  "description": "Halo博客管理技能 - 使用官方@halo-dev/api-client发布文章。支持Markdown语法自动转为HTML富文本格式。Triggers: halo, 博客, 发布文章",
+  "version": "1.0.0",
+  "author": {
+    "name": "binsonhao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/binsonhao/halo-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/binsonhao/halo-manager"
+}

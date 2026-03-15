@@ -1,0 +1,10 @@
+{
+  "name": "h4gen--frontend-builder",
+  "description": "Meta-skill for generating production-ready React UI for non-programmers by orchestrating frontend-design-ultimate, shadcn-ui, and react-expert. Use when users describe UI outcomes (for example dashboards, landing pages, admin screens) and need a single copy-pasteable TSX component with explicit setup and dependency instructions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "h4gen"
+  },
+  "homepage": "https://clawhub.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/h4gen/frontend-builder"
+}

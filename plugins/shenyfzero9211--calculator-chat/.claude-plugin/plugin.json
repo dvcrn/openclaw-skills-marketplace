@@ -1,0 +1,10 @@
+{
+  "name": "shenyfzero9211--calculator-chat",
+  "description": "用计算器数字回应用户。当用户发送 /calc-chat 或表达情感时，在系统计算器上显示对应数字（如 520=我爱你，88=再见）。支持中文谐音翻译。",
+  "version": "0.1.5",
+  "author": {
+    "name": "shenyfzero9211"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shenyfzero9211/calculator-chat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shenyfzero9211/calculator-chat"
+}

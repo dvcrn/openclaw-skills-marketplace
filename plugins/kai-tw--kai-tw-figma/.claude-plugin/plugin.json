@@ -1,0 +1,10 @@
+{
+  "name": "kai-tw--kai-tw-figma",
+  "description": "Interact with the Figma REST API to read files, export layers/components as images, and retrieve comments. Use when the user needs information from Figma designs or wants to export assets for development. Triggers include \"read figma file\", \"export figma layer\", or \"check figma comments\".",
+  "version": "1.0.3",
+  "author": {
+    "name": "kai-tw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kai-tw/kai-tw-figma",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kai-tw/kai-tw-figma"
+}

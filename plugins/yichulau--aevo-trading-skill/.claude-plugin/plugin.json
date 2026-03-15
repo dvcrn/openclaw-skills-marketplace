@@ -1,0 +1,10 @@
+{
+  "name": "yichulau--aevo-trading-skill",
+  "description": "AI trading assistant for AEVO, a decentralized derivatives exchange. Connects any MCP-compatible client to AEVO's 45 tools for market data, portfolio management, order execution, risk analysis, and options strategies. Use this skill whenever the user mentions AEVO, asks about crypto derivatives or perpetual futures trading, wants to check positions or portfolio risk, asks about funding rates or basis, wants to place or cancel orders on a decentralized exchange, discusses options strategies on crypto assets, or asks about volatility or market regime. Also trigger when the user has AEVO MCP tools connected, even if they don't mention AEVO by name.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yichulau"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yichulau/aevo-trading-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yichulau/aevo-trading-skill"
+}

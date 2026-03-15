@@ -1,0 +1,10 @@
+{
+  "name": "dbalve--fast-io",
+  "description": "Workspaces for agentic teams. Complete agent guide with all 19 consolidated tools using action-based routing — parameters, workflows, ID formats, and constraints. Use this skill when agents need shared workspaces to collaborate with other agents and humans, create branded shares (Send/Receive/Exchange), or query documents using built-in AI. Supports ownership transfer to humans, workspace management, workflow primitives (tasks, worklogs, approvals, todos), and real-time collaboration. Free agent plan with 50 GB storage and 5,000 monthly credits.",
+  "version": "1.121.0",
+  "author": {
+    "name": "dbalve"
+  },
+  "homepage": "https://fast.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dbalve/fast-io"
+}

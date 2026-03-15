@@ -1,0 +1,10 @@
+{
+  "name": "nathanielweiner--openclaw-health",
+  "description": "Generate a daily health brief from Oura, Whoop, and Withings. Unified re-auth script, local token persistence, Green/Yellow/Red morning summary.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nathanielweiner"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nathanielweiner/openclaw-health",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nathanielweiner/openclaw-health"
+}

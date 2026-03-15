@@ -1,0 +1,10 @@
+{
+  "name": "yhy0--ghsa-skill-builder",
+  "description": "Use when building or updating vulnerability pattern Skills from multiple sources: GitHub Security Advisories (GHSA), HackerOne Hacktivity, or NVD. Triggers on keywords: GHSA, CVE, vulnerability skill, vuln pattern, update skills, security advisory, HackerOne, H1, hacktivity, pentest skill, bug bounty, check for updates.",
+  "version": "0.1.0",
+  "author": {
+    "name": "yhy0"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yhy0/ghsa-skill-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yhy0/ghsa-skill-builder"
+}

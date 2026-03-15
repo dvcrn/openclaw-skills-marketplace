@@ -1,0 +1,10 @@
+{
+  "name": "z233--weread",
+  "description": "WeChat Reading (微信读书) CLI tool for fetching notes and highlights.\n Use when: (1) user asks about weread/微信读书 notes or highlights,\n (2) fetching today's or recent reading notes, (3) exporting book highlights,\n (4) managing reading bookshelf, (5) any task involving reading notes from WeChat Reading.",
+  "version": "1.0.1",
+  "author": {
+    "name": "z233"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/z233/weread",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/z233/weread"
+}

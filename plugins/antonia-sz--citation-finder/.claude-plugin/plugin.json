@@ -1,0 +1,10 @@
+{
+  "name": "antonia-sz--citation-finder",
+  "description": "Academic citation lookup and formatter. Given a fuzzy paper title (Chinese or English), searches CrossRef, Semantic Scholar, Baidu Scholar, and CNKI, then returns GB/T 7714, APA 7th, and MLA 9th formatted citations with source links.",
+  "version": "1.0.0",
+  "author": {
+    "name": "antonia-sz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/antonia-sz/citation-finder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/antonia-sz/citation-finder"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "linsheng9731--openclaw-insight",
+  "description": "Analyze OpenClaw AI assistant usage patterns and generate interactive insight reports.\n Trigger when users ask about: OpenClaw usage stats, session analytics, token consumption,\n cost estimation, friction analysis, optimization suggestions, or any request to audit/visualize\n OpenClaw session data (e.g. \"show my stats\", \"how much am I spending on AI\", \"usage report\").",
+  "version": "1.0.0",
+  "author": {
+    "name": "linsheng9731"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/linsheng9731/openclaw-insight",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/linsheng9731/openclaw-insight"
+}

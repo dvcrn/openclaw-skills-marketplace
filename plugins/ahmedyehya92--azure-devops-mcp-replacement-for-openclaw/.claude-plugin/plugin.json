@@ -1,0 +1,10 @@
+{
+  "name": "ahmedyehya92--azure-devops-mcp-replacement-for-openclaw",
+  "description": "Interact with Azure DevOps via direct REST API calls — list projects, teams, repos, work items, sprints/iterations (project-wide or scoped to a specific team), pipelines, builds, test plans, and wikis. Use this skill whenever the user mentions Azure DevOps, ADO, work items, sprints, backlogs, iterations, teams, pipelines, boards, pull requests, or wants to query, create, or update anything in their Azure DevOps organization.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ahmedyehya92"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ahmedyehya92/azure-devops-mcp-replacement-for-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ahmedyehya92/azure-devops-mcp-replacement-for-openclaw"
+}

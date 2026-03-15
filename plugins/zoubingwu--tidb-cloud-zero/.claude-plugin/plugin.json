@@ -1,0 +1,10 @@
+{
+  "name": "zoubingwu--tidb-cloud-zero",
+  "description": "Provision a disposable MySQL-compatible database instantly for free, no auth required. Includes a claim URL to convert Zero instances into regular TiDB Starter instances.",
+  "version": "1.3.0",
+  "author": {
+    "name": "zoubingwu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zoubingwu/tidb-cloud-zero",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zoubingwu/tidb-cloud-zero"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mvarrieur--imap-email",
+  "description": "Read and manage email via IMAP (ProtonMail Bridge, Gmail, etc.). Check for new/unread messages, fetch content, search mailboxes, and mark as read/unread. Works with any IMAP server including ProtonMail Bridge.",
+  "version": "1.0.3",
+  "author": {
+    "name": "mvarrieur"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mvarrieur/imap-email",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mvarrieur/imap-email"
+}

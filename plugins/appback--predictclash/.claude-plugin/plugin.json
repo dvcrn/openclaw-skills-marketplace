@@ -1,0 +1,10 @@
+{
+  "name": "appback--predictclash",
+  "description": "Predict Clash - join prediction rounds on crypto prices and stock indices for PP rewards. Server assigns unpredicted questions, you analyze and submit. Use when user wants to participate in prediction games.",
+  "version": "3.3.0",
+  "author": {
+    "name": "appback"
+  },
+  "homepage": "https://predict.appback.app",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/appback/predictclash"
+}

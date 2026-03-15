@@ -1,0 +1,10 @@
+{
+  "name": "xinyuwang--sev-attestation",
+  "description": "Perform AMD SEV-SNP remote attestation to cryptographically verify VM identity and integrity. Use when proving a VM is running in a genuine AMD SEV-SNP confidential computing environment, verifying VM integrity before trusting it with secrets, checking SEV-SNP availability, generating attestation reports, validating AMD certificate chains (ARK/ASK/VCEK), or debugging attestation failures.",
+  "version": "1.0.2",
+  "author": {
+    "name": "xinyuwang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xinyuwang/sev-attestation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xinyuwang/sev-attestation"
+}

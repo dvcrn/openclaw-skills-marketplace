@@ -1,0 +1,10 @@
+{
+  "name": "stepandel--linear-plugin",
+  "description": "Linear project management integration. Provides tools for processing a notification queue, managing issues, comments, teams, projects, and issue relations via the Linear GraphQL API.",
+  "version": "0.7.1",
+  "author": {
+    "name": "stepandel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stepandel/linear-plugin",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stepandel/linear-plugin"
+}

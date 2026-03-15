@@ -1,0 +1,10 @@
+{
+  "name": "spideystreet--x-to-notebook",
+  "description": "Push X/Twitter bookmarks into Google NotebookLM notebooks, auto-routed by bookmark folder. Use when the user wants to send bookmarks to NotebookLM, says \"push my bookmarks\", \"sync bookmarks to notebook\", or \"send X bookmarks to NotebookLM\".",
+  "version": "1.1.0",
+  "author": {
+    "name": "spideystreet"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spideystreet/x-to-notebook",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spideystreet/x-to-notebook"
+}

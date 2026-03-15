@@ -1,0 +1,10 @@
+{
+  "name": "benoitjadinon--obsidian-plugin-tasknotes",
+  "description": "Manage tasks in Obsidian via TaskNotes plugin API. Use when user wants to create tasks, list tasks, query by status or project, update task status, delete tasks, or check what they need to do.",
+  "version": "0.1.0",
+  "author": {
+    "name": "benoitjadinon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/benoitjadinon/obsidian-plugin-tasknotes",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/benoitjadinon/obsidian-plugin-tasknotes"
+}

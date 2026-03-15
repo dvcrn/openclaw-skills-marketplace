@@ -1,0 +1,10 @@
+{
+  "name": "dongyang-mt--musify",
+  "description": "Convert CUDA code to MUSA (Moore Threads GPU) using the musify tool. Use when migrating CUDA codebases to MUSA platform, converting CUDA kernels/APIs to MUSA equivalents, or porting NVIDIA GPU code to Moore Threads GPUs. Supports batch conversion of .cu, .cuh, .cpp, .h files with text-based API mapping.",
+  "version": "0.1.0",
+  "author": {
+    "name": "dongyang-mt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dongyang-mt/musify",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dongyang-mt/musify"
+}

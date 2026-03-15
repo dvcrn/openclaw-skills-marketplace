@@ -1,0 +1,10 @@
+{
+  "name": "knightluozichu--agent-orchestrator-0-1-0",
+  "description": "Meta-agent skill for orchestrating complex tasks through autonomous sub-agents. Decomposes macro tasks into subtasks, spawns specialized sub-agents with dynamically generated SKILL.md files, coordinates file-based communication, consolidates results, and dissolves agents upon completion.\n\n MANDATORY TRIGGERS: orchestrate, multi-agent, decompose task, spawn agents, sub-agents, parallel agents, agent coordination, task breakdown, meta-agent, agent factory, delegate tasks",
+  "version": "1.0.0",
+  "author": {
+    "name": "knightluozichu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/knightluozichu/agent-orchestrator-0-1-0",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/knightluozichu/agent-orchestrator-0-1-0"
+}

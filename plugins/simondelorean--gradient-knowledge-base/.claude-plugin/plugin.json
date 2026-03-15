@@ -1,0 +1,10 @@
+{
+  "name": "simondelorean--gradient-knowledge-base",
+  "description": "Community skill (unofficial) for DigitalOcean Gradient Knowledge Bases. Build RAG pipelines: store documents in DO Spaces, configure data sources, manage indexing, and run semantic or hybrid search queries.",
+  "version": "0.1.4",
+  "author": {
+    "name": "simondelorean"
+  },
+  "homepage": "https://github.com/Rogue-Iteration/TheBigClaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/simondelorean/gradient-knowledge-base"
+}

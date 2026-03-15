@@ -1,0 +1,10 @@
+{
+  "name": "p0lish--brainmd",
+  "description": "Neuroplastic self-modifying runtime for AI agents. Creates a file-based 'brain' that learns from interactions: reflexes (fast-path responses), habits (learned patterns), weighted pathways (reinforcement), and a cortex (self-review loop). Use when: setting up adaptive agent behavior, creating learning loops, building persistent behavioral memory, or making an agent that improves over time.",
+  "version": "0.1.2",
+  "author": {
+    "name": "p0lish"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/p0lish/brainmd",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/p0lish/brainmd"
+}

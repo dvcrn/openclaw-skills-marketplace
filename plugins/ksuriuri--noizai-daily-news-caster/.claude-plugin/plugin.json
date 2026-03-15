@@ -1,0 +1,10 @@
+{
+  "name": "ksuriuri--noizai-daily-news-caster",
+  "description": "Fetches the latest news using news-aggregator-skill, formats it into a podcast script in Markdown format, and uses the tts skill to generate a podcast audio file. Use when the user asks to get the latest news and read it out as a podcast.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ksuriuri"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ksuriuri/noizai-daily-news-caster",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ksuriuri/noizai-daily-news-caster"
+}

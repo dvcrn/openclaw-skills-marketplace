@@ -1,0 +1,10 @@
+{
+  "name": "xmeir-dev--polymarket-monitor",
+  "description": "Monitor Polymarket prediction markets and alert when odds cross a threshold. Use when a user wants to track any Polymarket market probability, set up recurring price checks, or get notified when a market's Yes/No probability exceeds a specific percentage. Covers searching for markets by topic, fetching current odds, and setting up cron-based alerts via Slack or other channels.",
+  "version": "1.0.1",
+  "author": {
+    "name": "xmeir-dev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xmeir-dev/polymarket-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xmeir-dev/polymarket-monitor"
+}

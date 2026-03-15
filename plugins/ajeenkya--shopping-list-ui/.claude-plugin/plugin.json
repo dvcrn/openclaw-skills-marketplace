@@ -1,0 +1,10 @@
+{
+  "name": "ajeenkya--shopping-list-ui",
+  "description": "Web UI for the shopping-list skill. Adds a /shopping page to Second Brain with full CRUD — view, add, edit, check off, and delete items. Requires the shopping-list skill to be installed (shares the same data files).",
+  "version": "1.0.0",
+  "author": {
+    "name": "ajeenkya"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ajeenkya/shopping-list-ui",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ajeenkya/shopping-list-ui"
+}

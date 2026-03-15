@@ -1,0 +1,10 @@
+{
+  "name": "embodiedsystems-org--vagus-mcp",
+  "description": "Connect to the user's Android phone via the VAGUS MCP server. Read phone sensors (motion, location, environment), device state (battery, connectivity, screen, notifications, clipboard), and act through the phone (haptics, TTS, notifications, clipboard). Use when you need physical-world awareness or need to reach the user through their phone.",
+  "version": "1.0.0",
+  "author": {
+    "name": "embodiedsystems-org"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/embodiedsystems-org/vagus-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/embodiedsystems-org/vagus-mcp"
+}

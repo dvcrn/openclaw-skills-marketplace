@@ -1,0 +1,179 @@
+---
+name: data-breach-impact-calculator
+description: "Calculate data breach costs, financial impact, regulatory fines, and remediation expenses. Use when estimating breach costs, GDPR/CCPA penalty exposure, incident financial impact, cyber insurance claims, breach notification costs, or board-level breach risk reporting."
+homepage: https://portal.toolweb.in
+---
+
+# Data Breach Impact Calculator 💰🔓
+
+Calculate the comprehensive financial impact of a data breach — including direct costs, regulatory fines (GDPR, CCPA, HIPAA), legal expenses, notification costs, reputation damage, and remediation expenses. Uses industry benchmarks and regulatory frameworks to estimate total breach cost.
+
+**Built by a CISSP/CISM certified security professional at [ToolWeb.in](https://toolweb.in)**
+
+## When to Use
+
+- User asks "how much would a data breach cost us"
+- User wants to estimate breach financial impact
+- User needs to calculate GDPR/CCPA fine exposure
+- User mentions cyber insurance, breach notification costs, or incident costs
+- User asks about breach cost per record
+- User needs breach impact figures for board reporting or risk assessments
+- User wants to justify security budget with breach cost data
+
+## Prerequisites
+
+- `TOOLWEB_API_KEY` — Get your API key from [portal.toolweb.in](https://portal.toolweb.in)
+- `curl` must be available on the system
+
+## API Endpoint
+
+```
+POST https://portal.toolweb.in/apis/security/data-breach-calculator
+```
+
+## Workflow
+
+1. **Gather inputs** from the user. All fields inside `assessmentData` are required:
+
+   - `organizationSize` — Size of the organization (e.g., "Startup", "Small", "Medium", "Large", "Enterprise")
+   - `industry` — Industry sector (e.g., "Healthcare", "Finance", "Technology", "Retail", "Education", "Government", "Manufacturing")
+   - `recordsAffected` — Estimated number of records compromised (e.g., "Under 1,000", "1,000-10,000", "10,000-100,000", "100,000-1M", "1M-10M", "Over 10M")
+   - `dataSensitivity` — Type/sensitivity of data breached (e.g., "Public data", "Internal data", "Confidential PII", "Financial/payment data", "Health records (PHI)", "Authentication credentials", "Highly sensitive/classified")
+   - `regulatoryRegions` — Applicable regulatory regions as a list (e.g., ["GDPR (EU)", "CCPA (California)", "HIPAA (US Healthcare)", "PCI DSS", "PIPEDA (Canada)", "LGPD (Brazil)"])
+   - `currentSecurity` — Current security posture level (e.g., "Minimal", "Basic", "Moderate", "Strong", "Advanced")
+   - `previousIncidents` — History of previous breaches (e.g., "None", "1 incident", "2-3 incidents", "Multiple incidents")
+
+2. **Call the API**:
+
+```bash
+curl -s -X POST "https://portal.toolweb.in/apis/security/data-breach-calculator" \
+  -H "Content-Type: application/json" \
+  -H "X-API-Key: $TOOLWEB_API_KEY" \
+  -d '{
+    "assessmentData": {
+      "organizationSize": "<size>",
+      "industry": "<industry>",
+      "recordsAffected": "<count_range>",
+      "dataSensitivity": "<sensitivity>",
+      "regulatoryRegions": ["<region1>", "<region2>"],
+      "currentSecurity": "<security_level>",
+      "previousIncidents": "<history>",
+      "sessionId": "<unique-id>",
+      "timestamp": "<ISO-timestamp>"
+    },
+    "sessionId": "<same-unique-id>",
+    "timestamp": "<same-ISO-timestamp>"
+  }'
+```
+
+   Generate a unique `sessionId` and set `timestamp` to current ISO 8601 datetime. Use the same values in both the outer request and inside `assessmentData`.
+
+3. **Present results** clearly:
+   - Lead with the total estimated breach cost
+   - Break down costs by category (fines, legal, notification, remediation, reputation)
+   - Highlight the highest-cost areas
+   - Show regulatory fine exposure by region
+   - Present cost reduction recommendations
+
+## Output Format
+
+```
+💰 Data Breach Impact Assessment
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Industry: [industry]
+Records Affected: [count]
+Data Sensitivity: [level]
+
+💵 Total Estimated Cost: $[amount]
+
+📊 Cost Breakdown:
+  🏛️ Regulatory Fines: $[amount]
+  ⚖️ Legal & Litigation: $[amount]
+  📧 Notification Costs: $[amount]
+  🔧 Remediation & Recovery: $[amount]
+  📉 Reputation & Business Loss: $[amount]
+  🔍 Investigation & Forensics: $[amount]
+
+⚠️ Regulatory Exposure:
+  [Region]: Up to $[max_fine]
+
+💡 Cost Reduction Recommendations:
+  1. [Action] — Could reduce cost by [amount/percentage]
+  2. [Action] — Could reduce cost by [amount/percentage]
+
+📎 Full report powered by ToolWeb.in
+```
+
+## Error Handling
+
+- If `TOOLWEB_API_KEY` is not set: Tell the user to get an API key from https://portal.toolweb.in
+- If the API returns 401: API key is invalid or expired
+- If the API returns 422: Missing required fields — all assessment fields must be provided
+- If the API returns 429: Rate limit exceeded — wait and retry after 60 seconds
+- If curl is not available: Suggest installing curl
+
+## Example Interaction
+
+**User:** "How much would a data breach cost our hospital if patient records were compromised?"
+
+**Agent flow:**
+1. Ask: "I'll calculate the breach impact. How many patient records could be affected, and what's your current security posture?"
+2. User responds: "About 50,000 patient records, moderate security, we're HIPAA and GDPR regulated"
+3. Call API:
+```bash
+curl -s -X POST "https://portal.toolweb.in/apis/security/data-breach-calculator" \
+  -H "Content-Type: application/json" \
+  -H "X-API-Key: $TOOLWEB_API_KEY" \
+  -d '{
+    "assessmentData": {
+      "organizationSize": "Large",
+      "industry": "Healthcare",
+      "recordsAffected": "10,000-100,000",
+      "dataSensitivity": "Health records (PHI)",
+      "regulatoryRegions": ["HIPAA (US Healthcare)", "GDPR (EU)"],
+      "currentSecurity": "Moderate",
+      "previousIncidents": "None",
+      "sessionId": "sess-20260312-001",
+      "timestamp": "2026-03-12T12:00:00Z"
+    },
+    "sessionId": "sess-20260312-001",
+    "timestamp": "2026-03-12T12:00:00Z"
+  }'
+```
+4. Present total cost estimate, breakdown by category, and cost reduction recommendations
+
+## Pricing
+
+- API access via portal.toolweb.in subscription plans
+- Starter: ₹2,999/month (~$36) — 500 API calls
+- Professional: ₹9,999/month (~$120) — 5,000 API calls
+- Enterprise: ₹49,999/month (~$600) — Unlimited API calls
+- Free trial: 10 API calls to test the skill
+
+**International Users (USA, UK, Europe):** At checkout, select **PayPal** as your payment method to pay in USD, EUR, GBP, or 6 other international currencies. PayU processes the conversion automatically.
+
+## About
+
+Created by **ToolWeb.in** — a security-focused MicroSaaS platform with 200+ security APIs, built by a CISSP & CISM certified professional. Trusted by security teams in USA, UK, and Europe and we have platforms for "Pay-per-run", "API Gateway", "RapidAPI" and "OpenClaw".
+
+- 🌐 Platform: https://toolweb.in
+- 🔌 API Hub (Kong): https://portal.toolweb.in
+- 🛒 RapidAPI: https://rapidapi.com/user/mkrishna477
+- 📺 YouTube demos: https://youtube.com/@toolweb-009
+
+## Related Skills
+
+- **GDPR Compliance Tracker** — Assess GDPR compliance readiness
+- **IT Risk Assessment Tool** — Comprehensive IT risk scoring
+- **OT Security Posture Scorecard** — OT/ICS/SCADA security assessment
+- **Threat Assessment & Defense Guide** — Threat modeling and defense
+- **ISO 42001 AIMS Readiness** — AI governance compliance
+
+## Tips
+
+- Healthcare breaches are consistently the most expensive ($10.93M average per IBM 2023 report)
+- Organizations with incident response plans reduce breach costs by ~$2.66M on average
+- Use the output to justify security investments — show the board "a breach costs $X, prevention costs $Y"
+- Run multiple scenarios (different record counts, data types) to build a risk matrix
+- Combine with the IT Risk Assessment Tool to correlate security posture with potential breach costs

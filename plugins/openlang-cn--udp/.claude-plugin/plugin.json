@@ -1,0 +1,10 @@
+{
+  "name": "openlang-cn--udp",
+  "description": "Helps with UDP sockets, datagram send/receive, and network debugging. Use when the user needs to send or receive UDP packets, write UDP client/server code, test UDP ports, or debug packet loss and firewall issues.",
+  "version": "1.0.0",
+  "author": {
+    "name": "openlang-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/udp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/udp"
+}

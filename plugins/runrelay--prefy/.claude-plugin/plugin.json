@@ -1,0 +1,10 @@
+{
+  "name": "runrelay--prefy",
+  "description": "Connect to Prefy AI platform — Conductor API (19 models, OpenAI-compatible), server management, web search, image generation, phone calls (AutoCall). Use when agent needs multi-model AI routing, dedicated server provisioning, web intelligence, or restaurant/hotel phone calls. Base URL https://prefy.com.",
+  "version": "1.0.0",
+  "author": {
+    "name": "runrelay"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runrelay/prefy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runrelay/prefy"
+}

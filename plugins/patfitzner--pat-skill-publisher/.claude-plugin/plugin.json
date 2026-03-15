@@ -1,0 +1,10 @@
+{
+  "name": "patfitzner--pat-skill-publisher",
+  "description": "Create, package, and publish OpenClaw skills to ClawHub. Use when you need to: (1) build a new skill from scratch, (2) package a skill into a .skill file, (3) publish or update a skill on clawhub.com, (4) set up a GitHub repo for a skill, (5) audit a skill before publishing. Covers the full lifecycle from idea to published skill, including frontmatter, scripts, references, validation, versioning, and the clawhub CLI. Complements the skill-creator skill with ClawHub-specific publishing workflow and practical patterns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "patfitzner"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/patfitzner/pat-skill-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/patfitzner/pat-skill-publisher"
+}

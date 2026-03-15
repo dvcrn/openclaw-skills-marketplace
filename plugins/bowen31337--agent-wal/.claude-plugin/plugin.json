@@ -1,0 +1,10 @@
+{
+  "name": "bowen31337--agent-wal",
+  "description": "Write-Ahead Log protocol for agent state persistence. Prevents losing corrections, decisions, and context during conversation compaction. Use when: (1) receiving a user correction — log it before responding, (2) making an important decision or analysis — log it before continuing, (3) pre-compaction memory flush — flush the working buffer to WAL, (4) session start — replay unapplied WAL entries to restore lost context, (5) any time you want to ensure something survives compaction.",
+  "version": "1.0.1",
+  "author": {
+    "name": "bowen31337"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/agent-wal",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/agent-wal"
+}

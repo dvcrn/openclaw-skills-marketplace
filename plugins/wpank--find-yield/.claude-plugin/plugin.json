@@ -1,0 +1,10 @@
+{
+  "name": "wpank--find-yield",
+  "description": "Find the highest-yield LP pools on Uniswap filtered by risk tolerance and minimum TVL. Use when the user asks about the best yields, highest APY pools, or where to earn fees.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/find-yield",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/find-yield"
+}

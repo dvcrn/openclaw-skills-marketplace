@@ -1,0 +1,10 @@
+{
+  "name": "unrealbnb--binance-coach",
+  "description": "AI-powered crypto trading behavior coach for Binance users. Analyzes live portfolio health, detects emotional trading patterns (FOMO, panic selling, overtrading), provides smart DCA recommendations based on RSI + Fear & Greed index, and delivers personalized AI coaching via Claude. Use when a user asks to: analyze their crypto portfolio, get DCA advice, check market conditions (RSI, Fear & Greed, SMA200), review trading behavior/FOMO/panic sells, get AI coaching on their holdings, set price/RSI alerts, learn about crypto concepts (RSI, DCA, SMA200), start a Telegram trading coach bot, ask anything about their Binance portfolio, get latest Binance news or announcements, check new coin listings, check launchpools or HODLer airdrops, or start/stop a real-time announcement watcher.",
+  "version": "1.5.1",
+  "author": {
+    "name": "unrealbnb"
+  },
+  "homepage": "https://github.com/UnrealBNB/BinanceCoachAI",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/unrealbnb/binance-coach"
+}

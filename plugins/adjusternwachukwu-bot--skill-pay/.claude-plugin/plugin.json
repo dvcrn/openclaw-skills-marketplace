@@ -1,0 +1,10 @@
+{
+  "name": "adjusternwachukwu-bot--skill-pay",
+  "description": "Add credit-based payments to any OpenClaw skill. Register paid skills, charge users per call, track earnings, and withdraw USDC. Use when a user wants to monetize a skill, set up payments for agent services, check credit balances, register as a builder, or integrate pay-per-use into their agent workflow.",
+  "version": "1.0.0",
+  "author": {
+    "name": "adjusternwachukwu-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adjusternwachukwu-bot/skill-pay",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adjusternwachukwu-bot/skill-pay"
+}

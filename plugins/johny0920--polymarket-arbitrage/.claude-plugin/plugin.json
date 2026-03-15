@@ -1,0 +1,10 @@
+{
+  "name": "johny0920--polymarket-arbitrage",
+  "description": "Monitor and execute arbitrage opportunities on Polymarket prediction markets. Detects math arbitrage (multi-outcome probability mismatches), cross-market arbitrage (same event different prices), and orderbook inefficiencies. Use when user wants to find or trade Polymarket arbitrage, monitor prediction markets for opportunities, or implement automated trading strategies. Includes risk management, P&L tracking, and alerting.",
+  "version": "0.1.0",
+  "author": {
+    "name": "johny0920"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johny0920/polymarket-arbitrage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johny0920/polymarket-arbitrage"
+}

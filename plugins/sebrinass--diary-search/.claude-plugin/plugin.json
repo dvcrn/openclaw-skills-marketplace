@@ -1,0 +1,10 @@
+{
+  "name": "sebrinass--diary-search",
+  "description": "检索日记与会话内容，支持中文分词、BM25搜索、时间衰减排序。用于搜索日记、查找历史对话、导出会话记录的场景。",
+  "version": "1.1.1",
+  "author": {
+    "name": "sebrinass"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sebrinass/diary-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sebrinass/diary-search"
+}

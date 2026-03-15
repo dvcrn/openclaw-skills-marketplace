@@ -1,0 +1,10 @@
+{
+  "name": "superworldsavior--ax-development",
+  "description": "Agent Experience (AX) development framework. Apply when building libraries, CLIs, APIs, or any software that will be consumed by AI agents — not just humans. Covers: deterministic design, machine-readable contracts, fail-fast validation, composable primitives, documentation co-location. Use when: (1) starting a new project/lib that agents will use, (2) reviewing code for agent-friendliness, (3) designing CLI output contracts, (4) structuring error handling for machine consumption, (5) writing tests for deterministic behavior.",
+  "version": "1.0.0",
+  "author": {
+    "name": "superworldsavior"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/superworldsavior/ax-development",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/superworldsavior/ax-development"
+}

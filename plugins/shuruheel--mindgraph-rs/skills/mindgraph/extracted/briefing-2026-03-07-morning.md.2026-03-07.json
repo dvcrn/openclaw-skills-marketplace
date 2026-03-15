@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "source_path": "/home/node/.openclaw/workspace/memory/geopolitics/briefing-2026-03-07-morning.md",
+    "extracted_at": "2026-03-07T14:01:17.618Z",
+    "model": "google/gemini-3-flash-preview",
+    "summarized": false,
+    "file_hash": "d2598e5b249df5d1",
+    "file_size": 2857,
+    "node_count": 16,
+    "edge_count": 11,
+    "entity_resolution": {
+      "checked": 4,
+      "resolved": 0,
+      "canonicalized": 0
+    }
+  },
+  "nodes": [
+    {
+      "label": "Israel-Iran War",
+      "type": "Observation",
+      "summary": "The conflict between Israel and Iran, known as Epic Fury, enters its second week as of March 7, 2026.",
+      "props": {
+        "content": "Israel-Iran war enters day 8 with intensifying strikes and retaliations.",
+        "observed_at": 1772841600
+      }
+    },
+    {
+      "label": "Tehran Air Strikes",
+      "type": "Observation",
+      "summary": "Israel launched strikes involving 80 jets hitting military sites near Tehran's Mehrabad Airport on March 7, 2026.",
+      "props": {
+        "content": "80 Israeli jets targeted military sites near Mehrabad Airport; Iran retaliated with missiles and drones.",
+        "observed_at": 1772841600
+      }
+    },
+    {
+      "label": "Donald Trump",
+      "type": "Entity",
+      "summary": "President of the United States in 2026.",
+      "props": {
+        "entity_type": "person"
+      }
+    },
+    {
+      "label": "Unconditional Surrender Demand",
+      "type": "Decision",
+      "summary": "The Trump administration has demanded the unconditional surrender of Iran, mirroring WWII rhetoric.",
+      "props": {
+        "status": "active",
+        "decision_rationale": "Intended to force regime change in Iran."
+      }
+    },
+    {
+      "label": "Iran Regime Change",
+      "type": "Goal",
+      "summary": "The strategic objective of forcing a change in the Iranian government.",
+      "props": {
+        "priority": "high",
+        "status": "in_progress"
+      }
+    },
+    {
+      "label": "Post-War Planning Absence",
+      "type": "RiskAssessment",
+      "summary": "FT reports the Trump administration lacks aftermath planning for Iran, increasing the risk of a power vacuum.",
+      "props": {
+        "risk_type": "geopolitical instability",
+        "severity": "high",
+        "likelihood": "high",
+        "mitigation": "none reported"
+      }
+    },
+    {
+      "label": "PLA Command Vacuum",
+      "type": "Anomaly",
+      "summary": "A significant leadership gap in the Chinese People's Liberation Army with 71% of CMC positions vacant.",
+      "props": {
+        "anomaly_type": "structural",
+        "severity": "critical",
+        "status": "ongoing"
+      }
+    },
+    {
+      "label": "CMC Vacancy Data",
+      "type": "Evidence",
+      "summary": "Quantitative analysis showing 71% of Central Military Commission positions are vacant following purges.",
+      "props": {
+        "evidence_type": "statistical",
+        "quantitative_value": "0.71"
+      }
+    },
+    {
+      "label": "Taiwan Invasion Implausibility",
+      "type": "Claim",
+      "summary": "Major PLA operations, including a Taiwan invasion, are considered mechanically implausible due to command chain collapse.",
+      "props": {
+        "content": "PLA command vacuum makes Taiwan invasion mechanically implausible in the near term.",
+        "truth_status": "likely",
+        "certainty_degree": 0.8
+      }
+    },
+    {
+      "label": "Xi Jinping",
+      "type": "Entity",
+      "summary": "Leader of China who initiated purges within the military leadership.",
+      "props": {
+        "entity_type": "person"
+      }
+    },
+    {
+      "label": "Keir Starmer",
+      "type": "Entity",
+      "summary": "UK Prime Minister facing a leadership crisis in March 2026.",
+      "props": {
+        "entity_type": "person"
+      }
+    },
+    {
+      "label": "Gorton By-election",
+      "type": "Observation",
+      "summary": "Labour fell to third place in the Gorton by-election, behind the Greens and Reform.",
+      "props": {
+        "content": "Labour Party defeat in Gorton by-election described as an 'earthquake'.",
+        "observed_at": 1770508800
+      }
+    },
+    {
+      "label": "Starmer Resignation Refusal",
+      "type": "Decision",
+      "summary": "Keir Starmer signals he will not resign despite the Gorton by-election defeat.",
+      "props": {
+        "status": "made",
+        "decision_rationale": "Preventing a leadership vacuum during the Middle East crisis."
+      }
+    },
+    {
+      "label": "May 2026 Local Elections",
+      "type": "Milestone",
+      "summary": "The next major survival gate for Keir Starmer's leadership.",
+      "props": {
+        "description": "UK local elections serving as a critical test for the Labour government.",
+        "status": "pending"
+      }
+    },
+    {
+      "label": "Polymarket Trading System",
+      "type": "Entity",
+      "summary": "Prediction market platform tracking geopolitical and political events.",
+      "props": {
+        "entity_type": "technology"
+      }
+    },
+    {
+      "label": "Iran Regime Fall Prediction",
+      "type": "Claim",
+      "summary": "Prediction market odds for the fall of the Iranian regime have risen to 33%.",
+      "props": {
+        "content": "Market odds for Iran regime fall at 33%, up from 19 cents.",
+        "truth_status": "contested",
+        "certainty_degree": 0.33
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "Tehran Air Strikes",
+      "to": "Israel-Iran War",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Unconditional Surrender Demand",
+      "to": "Iran Regime Change",
+      "type": "MOTIVATED_BY"
+    },
+    {
+      "from": "Post-War Planning Absence",
+      "to": "Iran Regime Change",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Donald Trump",
+      "to": "Unconditional Surrender Demand",
+      "type": "AUTHORED_BY"
+    },
+    {
+      "from": "CMC Vacancy Data",
+      "to": "PLA Command Vacuum",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "PLA Command Vacuum",
+      "to": "Taiwan Invasion Implausibility",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "Xi Jinping",
+      "to": "PLA Command Vacuum",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Gorton By-election",
+      "to": "Starmer Resignation Refusal",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Starmer Resignation Refusal",
+      "to": "May 2026 Local Elections",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Iran Regime Fall Prediction",
+      "to": "Polymarket Trading System",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Iran Regime Fall Prediction",
+      "to": "Iran Regime Change",
+      "type": "RELEVANT_TO"
+    }
+  ]
+}

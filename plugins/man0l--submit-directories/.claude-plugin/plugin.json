@@ -1,0 +1,10 @@
+{
+  "name": "man0l--submit-directories",
+  "description": "Use when submitting a product to AI/startup directories - covers the full pipeline from collecting product info, analyzing directories, discovering forms, auto-submitting, handling captchas/OAuth/GitHub PRs, and tracking progress in checkpoint.md.",
+  "version": "0.1.2",
+  "author": {
+    "name": "man0l"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/man0l/submit-directories",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/man0l/submit-directories"
+}

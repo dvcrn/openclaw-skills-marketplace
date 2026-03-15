@@ -1,0 +1,10 @@
+{
+  "name": "xujfcn--crazyrouter-tts",
+  "description": "Text-to-speech via Crazyrouter API. OpenAI TTS voices (alloy, echo, fable, onyx, nova, shimmer). Convert text to natural speech audio files. Use when user asks to read aloud, generate audio, or convert text to speech. Requires environment variable CRAZYROUTER_API_KEY (get at https://crazyrouter.com).",
+  "version": "1.1.0",
+  "author": {
+    "name": "xujfcn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xujfcn/crazyrouter-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xujfcn/crazyrouter-tts"
+}

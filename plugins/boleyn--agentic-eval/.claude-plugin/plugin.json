@@ -1,0 +1,10 @@
+{
+  "name": "boleyn--agentic-eval",
+  "description": "Patterns and techniques for evaluating and improving AI agent outputs. Use this skill when:\n - Implementing self-critique and reflection loops\n - Building evaluator-optimizer pipelines for quality-critical generation\n - Creating test-driven code refinement workflows\n - Designing rubric-based or LLM-as-judge evaluation systems\n - Adding iterative improvement to agent outputs (code, reports, analysis)\n - Measuring and improving agent response quality",
+  "version": "1.0.0",
+  "author": {
+    "name": "boleyn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/boleyn/agentic-eval",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/boleyn/agentic-eval"
+}

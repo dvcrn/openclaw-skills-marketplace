@@ -1,0 +1,10 @@
+{
+  "name": "imaflytok--whale-watch",
+  "description": "Monitor large crypto transactions across chains. Track whale wallets, detect unusual volume, alert on big moves. Supports Hedera, Ethereum, and Solana via public APIs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "imaflytok"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imaflytok/whale-watch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imaflytok/whale-watch"
+}

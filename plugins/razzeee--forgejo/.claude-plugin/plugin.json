@@ -1,0 +1,10 @@
+{
+  "name": "razzeee--forgejo",
+  "description": "Interact with Forgejo using the `tea` CLI. Use `tea issue`, `tea pr`, `tea actions`, and `tea api` for issues, PRs, Actions, and advanced queries.",
+  "version": "0.1.0",
+  "author": {
+    "name": "razzeee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/razzeee/forgejo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/razzeee/forgejo"
+}

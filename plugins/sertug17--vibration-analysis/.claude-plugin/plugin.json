@@ -1,0 +1,10 @@
+{
+  "name": "sertug17--vibration-analysis",
+  "description": "Analyzes wind turbine drivetrain vibration data (main bearing, gearbox, generator) from CMS trends, RMS/peak values, frequency spectrum, and SCADA alarms. Classifies severity (1-5) and recommends shutdown or monitoring actions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sertug17"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sertug17/vibration-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sertug17/vibration-analysis"
+}

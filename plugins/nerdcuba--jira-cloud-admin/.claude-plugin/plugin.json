@@ -1,0 +1,10 @@
+{
+  "name": "nerdcuba--jira-cloud-admin",
+  "description": "Jira Cloud admin playbook. Use for Jira Cloud administration tasks: projects (company-managed/team-managed), permissions, workflows, fields/screens, automation, JSM setup (queues/SLAs/portals), reporting/dashboards, and Confluence integrations. Includes official Atlassian references and best-practice checklists in ES/EN.",
+  "version": "1.0.1",
+  "author": {
+    "name": "nerdcuba"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nerdcuba/jira-cloud-admin",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nerdcuba/jira-cloud-admin"
+}

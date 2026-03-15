@@ -1,0 +1,10 @@
+{
+  "name": "mrgoodb--circleci",
+  "description": "Manage CircleCI pipelines, jobs, and workflows via API. Trigger and monitor builds.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrgoodb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/circleci",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/circleci"
+}

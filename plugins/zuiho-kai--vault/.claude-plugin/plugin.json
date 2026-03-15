@@ -1,0 +1,10 @@
+{
+  "name": "zuiho-kai--vault",
+  "description": "Secure local password storage tool with AES-256-GCM encryption. Store, retrieve, and manage passwords with CLI commands.",
+  "version": "1.1.2",
+  "author": {
+    "name": "zuiho-kai"
+  },
+  "homepage": "https://github.com/zuiho-kai/openclaw-vault",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zuiho-kai/vault"
+}

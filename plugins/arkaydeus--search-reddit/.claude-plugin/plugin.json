@@ -1,0 +1,10 @@
+{
+  "name": "arkaydeus--search-reddit",
+  "description": "Search Reddit in real time using OpenAI web_search with enrichment (engagement + top comments). Use when you need recent Reddit threads, subreddit-filtered results, or quick link lists.",
+  "version": "1.0.0",
+  "author": {
+    "name": "arkaydeus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arkaydeus/search-reddit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arkaydeus/search-reddit"
+}

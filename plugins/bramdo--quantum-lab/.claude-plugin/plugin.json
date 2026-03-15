@@ -1,0 +1,10 @@
+{
+  "name": "bramdo--quantum-lab",
+  "description": "Run the /home/bram/work/quantum_lab Python scripts and demos inside the existing venv ~/.venvs/qiskit. Use when asked (e.g., via Telegram/OpenClaw) to run quant_math_lab.py, qcqi_pure_math_playground.py, quantum_app.py subcommands, quantumapp.server, or notebooks under the repo.",
+  "version": "0.1.0",
+  "author": {
+    "name": "bramdo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bramdo/quantum-lab",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bramdo/quantum-lab"
+}

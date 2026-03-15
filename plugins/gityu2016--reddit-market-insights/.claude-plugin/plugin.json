@@ -1,0 +1,10 @@
+{
+  "name": "gityu2016--reddit-market-insights",
+  "description": "Research ecommerce categories on Reddit to find opportunity areas (pain points) and trending products using semantic AI search via reddit-insights.com MCP server.\n Use when you need to: (1) Find ecommerce buyer pain points and complaints tied to a category, (2) Identify underserved use cases and product gaps, (3) Discover trending products and “what people are buying/recommending”, (4) Validate category/product ideas with real user feedback, (5) Extract verbatim quotes as evidence.\n Triggers: ecommerce market research, category opportunities, trending products, reddit ecommerce research, pain points for buyers, product gap, DTC research, Amazon alternatives, what to buy, gift ideas, product recommendations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gityu2016"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gityu2016/reddit-market-insights",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gityu2016/reddit-market-insights"
+}

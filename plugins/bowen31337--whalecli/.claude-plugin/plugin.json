@@ -1,0 +1,10 @@
+{
+  "name": "bowen31337--whalecli",
+  "description": "Agent-native whale wallet tracker for ETH and BTC chains. Track large crypto wallet movements, score whale activity, detect accumulation/distribution patterns, and stream real-time alerts. Integrates with FearHarvester and Simmer prediction markets for closed-loop signal→bet workflows. Use when: user asks about whale activity, on-chain signals, large wallet movements, smart money flows, or when pre-validating crypto trades/bets with on-chain data.",
+  "version": "0.1.0",
+  "author": {
+    "name": "bowen31337"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/whalecli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/whalecli"
+}

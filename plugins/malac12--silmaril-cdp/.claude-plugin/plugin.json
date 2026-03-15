@@ -1,0 +1,10 @@
+{
+  "name": "malac12--silmaril-cdp",
+  "description": "Browser automation, DOM inspection, page mutation, wait orchestration, flow execution, and local proxy override work through the Silmaril Chrome DevTools Protocol toolkit. Use when the task requires opening Chrome with CDP, navigating pages, reading DOM or source, extracting structured data, clicking or typing into elements, evaluating JavaScript, waiting for UI state changes, running Silmaril flow JSON files, or managing mitmproxy-backed local overrides.",
+  "version": "1.0.2",
+  "author": {
+    "name": "malac12"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/malac12/silmaril-cdp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/malac12/silmaril-cdp"
+}

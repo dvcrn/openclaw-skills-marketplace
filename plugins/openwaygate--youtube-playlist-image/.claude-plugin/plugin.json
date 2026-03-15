@@ -1,0 +1,10 @@
+{
+  "name": "openwaygate--youtube-playlist-image",
+  "description": "Manage YouTube playlist images. Use this skill to list, insert, update, or delete playlist images. Useful when working with YouTube playlist image — provides commands to delete, insert, list, and update playlist image via the yutu CLI. Includes setup and installation instructions for first-time users. Triggers: delete playlist images, delete playlist image, delete my playlist image, insert a playlist image, insert playlist image, insert my playlist image, list playlist images, list playlist image, list my playlist image, update a playlist image, update playlist image, update my playlist image",
+  "version": "0.10.6-3",
+  "author": {
+    "name": "openwaygate"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openwaygate/youtube-playlist-image",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openwaygate/youtube-playlist-image"
+}

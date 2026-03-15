@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--typeform",
+  "description": "Typeform API integration with managed OAuth. Create forms, manage responses, and access insights. Use this skill when users want to interact with Typeform surveys and responses. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.4",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/typeform",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/typeform"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "franklu0819-lang--douyin-video-download",
+  "description": "抖音视频批量下载工具。支持单视频、批量下载、自动去重、无水印下载，智能选择最优下载方式（yt-dlp/Playwright）。",
+  "version": "1.0.3",
+  "author": {
+    "name": "franklu0819-lang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/franklu0819-lang/douyin-video-download",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/franklu0819-lang/douyin-video-download"
+}

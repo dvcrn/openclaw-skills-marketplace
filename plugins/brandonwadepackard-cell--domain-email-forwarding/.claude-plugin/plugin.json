@@ -1,0 +1,10 @@
+{
+  "name": "brandonwadepackard-cell--domain-email-forwarding",
+  "description": "Set up email forwarding for custom domains to receive verification codes, password resets, and other emails at a domain you own but don't actively use for email. Covers GoDaddy, Namecheap, Cloudflare Email Routing, and ImprovMX. Use when recovering accounts linked to inactive domain emails, setting up catch-all forwarding, or routing domain email to Gmail/Outlook without paying for email hosting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brandonwadepackard-cell"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brandonwadepackard-cell/domain-email-forwarding",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brandonwadepackard-cell/domain-email-forwarding"
+}

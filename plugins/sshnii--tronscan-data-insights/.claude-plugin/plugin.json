@@ -1,0 +1,10 @@
+{
+  "name": "sshnii--tronscan-data-insights",
+  "description": "TRON network insights: new accounts, daily tx count, tx type distribution,\n hot tokens, hot contracts, top accounts by tx count or staked TRX.\n Use when user asks \"what is happening on TRON\", \"new accounts\", \"daily new addresses\", \"hot tokens\", \"network activity\", \"accounts with most TRX transfers yesterday\", \"TRX staking rankings\".\n Do NOT use for single token details (use tronscan-token-scanner); single address profiling (use tronscan-account-profiler); non-TRX token transfer count rankings; non-TRX token transfer volume rankings.",
+  "version": "1.0.4",
+  "author": {
+    "name": "sshnii"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sshnii/tronscan-data-insights",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sshnii/tronscan-data-insights"
+}

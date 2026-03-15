@@ -1,0 +1,10 @@
+{
+  "name": "openwaygate--youtube-super-chat-event",
+  "description": "Manage YouTube Super Chat events. Use this skill to list Super Chat events for a channel. Useful when working with YouTube super chat event — provides commands to list super chat event via the yutu CLI. Includes setup and installation instructions for first-time users. Triggers: list super chat events, list super chat event, list my super chat event",
+  "version": "0.10.6-3",
+  "author": {
+    "name": "openwaygate"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openwaygate/youtube-super-chat-event",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openwaygate/youtube-super-chat-event"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "rosasalberto--didit-proof-of-address",
+  "description": "Integrate Didit Proof of Address standalone API to verify address documents. Use when the user wants to verify a proof of address, validate utility bills, bank statements, government documents, extract address from documents, verify residential address, implement address verification, or perform PoA checks using Didit. Supports OCR extraction, geocoding, name matching, and multi-page documents.",
+  "version": "1.1.0",
+  "author": {
+    "name": "rosasalberto"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-proof-of-address",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rosasalberto/didit-proof-of-address"
+}

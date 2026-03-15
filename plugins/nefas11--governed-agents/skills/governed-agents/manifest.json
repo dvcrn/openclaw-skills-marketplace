@@ -1,0 +1,84 @@
+{
+  "name": "governed-agents",
+  "type": "executable",
+  "description": "Deterministic verification + reputation scoring for AI sub-agents.",
+  "install": {
+    "kind": "script",
+    "script": "install.sh"
+  },
+  "filesystem_writes": [
+    "~/.openclaw/workspace/.state/governed_agents/"
+  ],
+  "capabilities": [
+    "persistent_db_writes",
+    "external_cli_execution",
+    "network_requests"
+  ],
+  "network_access": true,
+  "requires": {
+    "bins": [
+      {
+        "name": "codex",
+        "optional": false
+      },
+      {
+        "name": "git",
+        "optional": false
+      },
+      {
+        "name": "ruff",
+        "optional": true
+      },
+      {
+        "name": "flake8",
+        "optional": true
+      },
+      {
+        "name": "pylint",
+        "optional": true
+      }
+    ],
+    "env": [
+      {
+        "name": "OPENCLAW_WORKSPACE",
+        "optional": true
+      },
+      {
+        "name": "GOVERNED_WORK_DIR",
+        "optional": true
+      },
+      {
+        "name": "GOVERNED_DB_PATH",
+        "optional": true
+      },
+      {
+        "name": "GOVERNED_AUTH_TOKEN",
+        "optional": true
+      },
+      {
+        "name": "CODEX_CLI",
+        "optional": true
+      },
+      {
+        "name": "OPENAI_API_KEY",
+        "optional": true
+      },
+      {
+        "name": "GOVERNED_NO_NETWORK",
+        "optional": true
+      },
+      {
+        "name": "GOVERNED_NO_DB",
+        "optional": true
+      },
+      {
+        "name": "GOVERNED_DB_MODE",
+        "optional": true
+      },
+      {
+        "name": "GOVERNED_PASS_ENV",
+        "optional": true
+      }
+    ]
+  }
+}

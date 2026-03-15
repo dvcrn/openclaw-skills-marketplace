@@ -1,0 +1,10 @@
+{
+  "name": "sethclawd-prog--schemaguard",
+  "description": "Detect breaking changes in OpenAPI specs. Use when reviewing API changes, validating PRs that modify API specs, checking backward compatibility, or linting OpenAPI spec quality. Provides diff, lint, and CI check tools.",
+  "version": "0.1.2",
+  "author": {
+    "name": "sethclawd-prog"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sethclawd-prog/schemaguard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sethclawd-prog/schemaguard"
+}

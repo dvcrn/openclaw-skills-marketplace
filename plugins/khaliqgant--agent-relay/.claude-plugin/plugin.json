@@ -1,0 +1,10 @@
+{
+  "name": "khaliqgant--agent-relay",
+  "description": "Real-time messaging across OpenClaw instances (channels, DMs, threads, reactions, search).",
+  "version": "3.1.7",
+  "author": {
+    "name": "khaliqgant"
+  },
+  "homepage": "https://agentrelay.dev/openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/khaliqgant/agent-relay"
+}

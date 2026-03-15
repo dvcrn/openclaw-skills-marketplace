@@ -1,0 +1,10 @@
+{
+  "name": "spiceman161--sys-updater",
+  "description": "Production-safe Ubuntu maintenance orchestrator: runs daily apt security updates, tracks non-security updates across apt/npm/pnpm/brew with quarantine + auto-review, applies only approved updates, rotates logs/state, and generates clear 09:00 MSK Telegram reports (including what was actually installed).",
+  "version": "1.1.0",
+  "author": {
+    "name": "spiceman161"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spiceman161/sys-updater",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spiceman161/sys-updater"
+}

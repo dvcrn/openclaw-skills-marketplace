@@ -1,0 +1,10 @@
+{
+  "name": "rhanxerox--rhandus-backup-recovery",
+  "description": "Backup & Recovery Automation for OpenClaw using rClone. Daily backups to Google Drive with 20-day rotation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rhanxerox"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rhanxerox/rhandus-backup-recovery",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rhanxerox/rhandus-backup-recovery"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "deemoartisan--gateway-notify",
+  "description": "Set up automatic notifications when OpenClaw gateway restarts. Use when user wants to be notified of gateway startup events via any messaging channel (iMessage, WhatsApp, Telegram, Discord, etc.).",
+  "version": "1.0.5",
+  "author": {
+    "name": "deemoartisan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deemoartisan/gateway-notify",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deemoartisan/gateway-notify"
+}

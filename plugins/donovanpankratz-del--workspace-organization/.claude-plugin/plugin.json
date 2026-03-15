@@ -1,0 +1,10 @@
+{
+  "name": "donovanpankratz-del--workspace-organization",
+  "description": "Automated workspace health checks and entropy prevention for OpenClaw. Detects broken symlinks, empty dirs, large files, malformed names. Maintenance audit script with cron support. Keeps deployments clean and structured.",
+  "version": "1.0.0",
+  "author": {
+    "name": "donovanpankratz-del"
+  },
+  "homepage": "https://clawhub.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/donovanpankratz-del/workspace-organization"
+}

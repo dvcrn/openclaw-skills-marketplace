@@ -1,0 +1,10 @@
+{
+  "name": "stwith--x-cdp",
+  "description": "Automate X (Twitter) via Chromium CDP: post tweets, reply, quote-retweet, publish articles. Uses real browser sessions with existing login, no API keys needed. Trigger: user asks to post on X/Twitter, reply to a tweet, quote retweet, or publish an X article.",
+  "version": "1.0.0",
+  "author": {
+    "name": "stwith"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stwith/x-cdp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stwith/x-cdp"
+}

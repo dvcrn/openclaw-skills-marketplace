@@ -1,0 +1,10 @@
+{
+  "name": "abczsl520--bug-audit",
+  "description": "Comprehensive bug audit for Node.js web projects. Activate when user asks to audit, review, check bugs, find vulnerabilities, or do security/quality review on a project. Works by dissecting the project's actual code to build project-specific check matrices, then exhaustively verifying each item — not by running a generic checklist. Supports games, data tools, WeChat apps, API services, bots, and dashboards.",
+  "version": "1.1.0",
+  "author": {
+    "name": "abczsl520"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abczsl520/bug-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abczsl520/bug-audit"
+}

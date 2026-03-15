@@ -1,0 +1,10 @@
+{
+  "name": "winlinvip--llm-switcher",
+  "description": "Change OpenClaw's global default AI model in config, save the change, and restart the gateway after explicit confirmation. Before writing default config, first test model availability by applying a session-only override. Use when the user wants to switch the default model for future sessions and validate it safely first.",
+  "version": "1.0.0",
+  "author": {
+    "name": "winlinvip"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/winlinvip/llm-switcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/winlinvip/llm-switcher"
+}

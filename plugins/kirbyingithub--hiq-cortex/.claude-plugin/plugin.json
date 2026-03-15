@@ -1,0 +1,10 @@
+{
+  "name": "kirbyingithub--hiq-cortex",
+  "description": "Find carbon emission factors for any material or process. 1M+ LCA datasets (HiQLCD, Ecoinvent, CarbonMinds). AI-powered BOM carbon footprint calculation and material comparison.",
+  "version": "1.3.0",
+  "author": {
+    "name": "kirbyingithub"
+  },
+  "homepage": "https://www.hiqlcd.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kirbyingithub/hiq-cortex"
+}

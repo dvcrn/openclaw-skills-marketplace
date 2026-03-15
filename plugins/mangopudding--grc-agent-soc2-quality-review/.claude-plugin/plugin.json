@@ -1,0 +1,10 @@
+{
+  "name": "mangopudding--grc-agent-soc2-quality-review",
+  "description": "Evaluate SOC 2 report quality using the SOC 2 Quality Guild rubric (Structure, Substance, Source). Use when reviewing a vendor SOC 2 Type 1/Type 2 report, triaging report credibility, producing a risk memo, or preparing diligence follow-up questions and evidence requests.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mangopudding"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mangopudding/grc-agent-soc2-quality-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mangopudding/grc-agent-soc2-quality-review"
+}

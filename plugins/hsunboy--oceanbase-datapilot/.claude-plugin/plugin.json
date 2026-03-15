@@ -1,0 +1,10 @@
+{
+  "name": "hsunboy--oceanbase-datapilot",
+  "description": "面向所有问数与数据分析场景，基于 DataPilot 的 OpenAPI 执行从数据源接入到数据问答的完整流程。用于自然语言查数、SQL 查询校验、图表生成、报告导出下载、创建与管理数据分析 Agent、维护 Agent 知识库。",
+  "version": "1.0.1",
+  "author": {
+    "name": "hsunboy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hsunboy/oceanbase-datapilot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hsunboy/oceanbase-datapilot"
+}

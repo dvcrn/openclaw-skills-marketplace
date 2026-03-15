@@ -1,0 +1,10 @@
+{
+  "name": "brennerspear--cron-setup",
+  "description": "Create and manage OpenClaw cron jobs following our conventions. Use when setting up periodic tasks, reminders, automated checks, or any scheduled work.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brennerspear"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brennerspear/cron-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brennerspear/cron-setup"
+}

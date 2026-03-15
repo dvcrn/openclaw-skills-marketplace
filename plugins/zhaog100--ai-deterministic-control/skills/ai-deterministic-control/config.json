@@ -1,0 +1,10 @@
+{
+  "temperature": 1.2,
+  "default_mode": "balance",
+  "api_provider": "mock",
+  "api_key": "",
+  "history_db": "/root/.openclaw/workspace/skills/ai-deterministic-control/history.db",
+  "seeds_file": "/root/.openclaw/workspace/skills/ai-deterministic-control/seeds.json",
+  "cache_enabled": true,
+  "cache_ttl": 300
+}

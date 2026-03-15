@@ -1,0 +1,10 @@
+{
+  "name": "law52525--market-radar",
+  "description": "Industry hotspot and competitor monitoring across 5 dimensions. Use when user (in Chinese) asks to monitor an industry (监测...行业) and provides competitor URLs. Systematically browses international English sources using agent-browser, runs a 5-dimension scan (brand activity, visual identity, brand positioning, content hotspots, strategic signals) on each competitor, then delivers a structured Chinese daily-brief with brand alerts and role-based action recommendations via Telegram.",
+  "version": "1.0.0",
+  "author": {
+    "name": "law52525"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/law52525/market-radar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/law52525/market-radar"
+}

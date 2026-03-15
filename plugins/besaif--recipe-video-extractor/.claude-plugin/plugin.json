@@ -1,0 +1,10 @@
+{
+  "name": "besaif--recipe-video-extractor",
+  "description": "Extract a structured cooking recipe from a shared video URL when the user sends `recipe <url>`. Prioritize caption/description and comments via browser automation, then use web search/fetch as fallback with clear source attribution.",
+  "version": "1.0.1",
+  "author": {
+    "name": "besaif"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/besaif/recipe-video-extractor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/besaif/recipe-video-extractor"
+}

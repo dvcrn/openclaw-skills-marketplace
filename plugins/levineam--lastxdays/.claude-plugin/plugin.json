@@ -1,0 +1,10 @@
+{
+  "name": "levineam--lastxdays",
+  "description": "Research and summarize what happened in the last N days (or a date range) about a topic, optionally using Reddit API and X ingestion via x-cli/API/archive with graceful fallback to web.",
+  "version": "1.0.2",
+  "author": {
+    "name": "levineam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/levineam/lastxdays",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/levineam/lastxdays"
+}

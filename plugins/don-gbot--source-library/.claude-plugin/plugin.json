@@ -1,0 +1,10 @@
+{
+  "name": "don-gbot--source-library",
+  "description": "Searchable knowledge base that captures and cross-references everything users share. Auto-triggers when user shares ANY URL (article, tweet, thread, repo, video, paper). Saves structured summaries with key claims, quotes, analysis, tags, and decay tracking. Cross-references sources, maps connections, detects conflicts, and manages reading queue. Triggers on: shared URLs, \"source library\", \"what have I read\", \"search sources\", \"find that article about\", \"remember when I shared\", \"conflicts\", \"connections\". Do NOT use for general web browsing, bookmark management, or fetching pages without saving.",
+  "version": "2.1.1",
+  "author": {
+    "name": "don-gbot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/don-gbot/source-library",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/don-gbot/source-library"
+}

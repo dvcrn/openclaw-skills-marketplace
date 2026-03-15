@@ -1,0 +1,10 @@
+{
+  "name": "p0lish--web-recon",
+  "description": "Website vulnerability scanner and security audit toolkit. Scan any website for security issues: open ports (nmap), exposed secrets, subdomain enumeration, directory bruteforce, security header scoring, CORS misconfigurations, SSL/TLS analysis, WordPress vulnerabilities, and more. One command, full report. Pentesting and OSINT reconnaissance for web applications.",
+  "version": "0.1.0",
+  "author": {
+    "name": "p0lish"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/p0lish/web-recon",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/p0lish/web-recon"
+}

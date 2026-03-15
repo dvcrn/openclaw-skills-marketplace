@@ -1,0 +1,10 @@
+{
+  "name": "voidcooks--clawd-presence",
+  "description": "Physical presence display for AI agents. Shows a customizable monogram (A-Z), status state, and current activity on a dedicated terminal/screen. Provides faster feedback than chat - glance at the display to see what the agent is doing. Use when setting up always-on agent visibility.",
+  "version": "1.0.1",
+  "author": {
+    "name": "voidcooks"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/voidcooks/clawd-presence",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/voidcooks/clawd-presence"
+}

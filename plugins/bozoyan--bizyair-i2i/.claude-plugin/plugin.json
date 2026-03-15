@@ -1,0 +1,10 @@
+{
+  "name": "bozoyan--bizyair-i2i",
+  "description": "BizyAir 图生图（Image-to-Image）助手。将本地图片上传后作为参考，使用 AI 生成新的图片。当用户说\"根据这张图片生成\"、\"图生图\"、\"参考图片生成\"、\"图片转图片\"等时触发。",
+  "version": "1.0.0",
+  "author": {
+    "name": "bozoyan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bozoyan/bizyair-i2i",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bozoyan/bizyair-i2i"
+}

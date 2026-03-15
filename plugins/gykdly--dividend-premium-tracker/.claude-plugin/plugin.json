@@ -1,0 +1,10 @@
+{
+  "name": "gykdly--dividend-premium-tracker",
+  "description": "Track the dividend premium (dividend yield minus 10-year bond yield) for CSI Dividend Low Volatility Index. Monitor dividend yield, 10-year bond yield, and calculate the premium for investment decisions.",
+  "version": "1.0.1",
+  "author": {
+    "name": "gykdly"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gykdly/dividend-premium-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gykdly/dividend-premium-tracker"
+}

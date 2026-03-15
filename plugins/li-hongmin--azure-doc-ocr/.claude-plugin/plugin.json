@@ -1,0 +1,10 @@
+{
+  "name": "li-hongmin--azure-doc-ocr",
+  "description": "Extract text and structured data from documents using Azure Document Intelligence (formerly Form Recognizer).\n Supports OCR for PDFs, images, scanned documents, handwritten text, CJK languages, tables, forms, invoices,\n receipts, ID documents, business cards, and tax forms. Uses the REST API v4.0 (2024-11-30) with prebuilt\n models for various document types.\n\n Triggers: OCR, text extraction, Azure Document Intelligence, PDF OCR, image OCR, scanned documents,\n handwriting recognition, CJK text extraction, table extraction, invoice processing, receipt scanning,\n ID document recognition, document parsing, form extraction, Azure Form Recognizer",
+  "version": "1.0.0",
+  "author": {
+    "name": "li-hongmin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/li-hongmin/azure-doc-ocr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/li-hongmin/azure-doc-ocr"
+}

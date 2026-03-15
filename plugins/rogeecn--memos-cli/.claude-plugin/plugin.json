@@ -1,0 +1,10 @@
+{
+  "name": "rogeecn--memos-cli",
+  "description": "Use when a user needs to read, search, create, update, delete, comment on, tag, or inspect Memos data through this repository's Go CLI, especially when the agent should prefer real project commands over guessing HTTP API calls.",
+  "version": "0.1.0",
+  "author": {
+    "name": "rogeecn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rogeecn/memos-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rogeecn/memos-cli"
+}

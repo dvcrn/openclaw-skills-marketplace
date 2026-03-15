@@ -1,0 +1,10 @@
+{
+  "name": "xiaoyinqu--gemini-models",
+  "description": "Access Gemini 2.5 Pro and Flash models. 1M token context, multimodal, best for long documents. No Google Cloud setup needed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiaoyinqu"
+  },
+  "homepage": "https://skillboss.co",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaoyinqu/gemini-models"
+}

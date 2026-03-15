@@ -1,0 +1,10 @@
+{
+  "name": "kjaylee--kj-parallel-agents",
+  "description": "Dispatch multiple subagents for independent tasks simultaneously. Use when facing 2+ unrelated tasks that can proceed without shared state or sequential dependencies. Maximizes throughput by parallelizing work.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kjaylee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kjaylee/kj-parallel-agents",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kjaylee/kj-parallel-agents"
+}

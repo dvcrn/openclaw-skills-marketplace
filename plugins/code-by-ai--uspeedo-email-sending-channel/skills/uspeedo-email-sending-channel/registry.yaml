@@ -1,0 +1,51 @@
+name: uspeedo-email-sending-channel
+description: Send email via the uSpeedo Email API using platform infrastructure rather than the user's mailbox or SMTP server.
+version: 1.0.2
+
+author:
+  name: uSpeedo
+  email: support@uspeedo.com
+
+homepage: https://uspeedo.com
+repository: https://github.com/uspeedo/uspeedo-email-skill
+
+license: MIT
+
+tags:
+  - email
+  - communication
+  - api
+  - messaging
+
+categories:
+  - communication
+
+required_credentials:
+  - ACCESSKEY_ID
+  - ACCESSKEY_SECRET
+
+credentials_schema:
+  ACCESSKEY_ID:
+    type: string
+    required: true
+    description: uSpeedo API Access Key ID
+
+  ACCESSKEY_SECRET:
+    type: secret
+    required: true
+    description: uSpeedo API Access Key Secret
+
+security:
+  sensitive_credentials: true
+  credential_handling: platform_secret_storage
+  network_access: https://api.uspeedo.com
+
+capabilities:
+  - send_email
+
+permissions:
+  outbound_network: true
+  filesystem: none
+  system_prompt_access: false
+
+risk_level: low

@@ -1,0 +1,25 @@
+name: defi-yield-optimizer
+slug: defi-yield-optimizer
+version: 1.0.0
+author: moson
+description: DeFi Yield 优化器 - 跨协议收益对比，自动再平衡
+license: MIT
+permissions:
+  - network
+config:
+  SKILLPAY_API_KEY:
+    type: string
+    required: true
+    secret: true
+entryPoint:
+  type: typescript
+  path: index.js
+metadata:
+  clawdbot:
+    emoji: "📈"
+    category: defi
+    price: "0.001 USDT per call"
+price:
+  amount: 0.001
+  currency: USDT
+  per: call

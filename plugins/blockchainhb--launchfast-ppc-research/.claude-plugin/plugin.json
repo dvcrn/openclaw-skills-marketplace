@@ -1,0 +1,10 @@
+{
+  "name": "blockchainhb--launchfast-ppc-research",
+  "description": "Amazon PPC keyword research using the LaunchFast MCP. Analyzes up to 15\n competitor ASINs at once, extracts ranked keywords, segments by match type,\n and generates a ready-to-upload Amazon Sponsored Products Bulk Operations CSV.\n\n USE THIS SKILL FOR:\n - \"PPC research for [ASIN]\"\n - \"find keywords for my Amazon listing\"\n - \"build a PPC campaign for [product]\"\n - \"what keywords are competitors using?\"\n - \"generate Amazon bulk upload file\"\n\n Requirements: mcp__launchfast__amazon_keyword_research available",
+  "version": "1.0.0",
+  "author": {
+    "name": "blockchainhb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/blockchainhb/launchfast-ppc-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/blockchainhb/launchfast-ppc-research"
+}

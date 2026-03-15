@@ -1,0 +1,10 @@
+{
+  "name": "simondelorean--gradient-inference",
+  "description": "Community skill (unofficial) for DigitalOcean Gradient AI Serverless Inference. Discover available models and pricing, run chat completions or the Responses API with prompt caching, and generate images. OpenAI-compatible.",
+  "version": "0.1.3",
+  "author": {
+    "name": "simondelorean"
+  },
+  "homepage": "https://github.com/Rogue-Iteration/TheBigClaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/simondelorean/gradient-inference"
+}

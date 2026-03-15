@@ -1,0 +1,10 @@
+{
+  "name": "zopyx--tuebingen-weather",
+  "description": "Send daily 08:00 weather reports for Tübingen using open-meteo.com. Use when Master wants an automated summary (current conditions + today’s high/low + rain chance) stored locally and forwarded via Telegram.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zopyx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zopyx/tuebingen-weather",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zopyx/tuebingen-weather"
+}

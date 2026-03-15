@@ -1,0 +1,10 @@
+{
+  "name": "mwangxiang--wx-skill-factory",
+  "description": "Skill工厂，AI作为规划层循环迭代生产新Skill（需求对齐→选档→设计→生成→测试→对比→迭代→交付），支持手动/半自动/全自动三档模式",
+  "version": "1.0.0",
+  "author": {
+    "name": "mwangxiang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mwangxiang/wx-skill-factory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mwangxiang/wx-skill-factory"
+}

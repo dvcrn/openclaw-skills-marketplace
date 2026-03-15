@@ -1,0 +1,10 @@
+{
+  "name": "patfitzner--stremio-unwatched",
+  "description": "Check Stremio library for unwatched TV episodes, view upcoming release calendar, and download new episodes. Use when you need to: (1) find unwatched episodes in Stremio library, (2) see upcoming episode air dates, (3) download pending episodes via Stremio server or torrent clients, (4) sync Stremio episode calendar to Google Calendar. Connects to the Stremio central API and Cinemeta addon. Supports transmission, aria2, deluge, and qbittorrent for standalone downloads.",
+  "version": "1.0.0",
+  "author": {
+    "name": "patfitzner"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/patfitzner/stremio-unwatched",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/patfitzner/stremio-unwatched"
+}

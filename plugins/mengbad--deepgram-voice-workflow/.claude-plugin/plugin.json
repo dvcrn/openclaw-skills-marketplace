@@ -1,0 +1,10 @@
+{
+  "name": "mengbad--deepgram-voice-workflow",
+  "description": "End-to-end voice workflow with Deepgram STT and TTS. Use when transcribing voice messages, generating spoken replies, or building a shell-based audio pipeline that turns input audio into text and optionally returns an MP3 reply. Especially useful for Telegram/QQ/OneBot voice-message automation and Chinese speech workflows.",
+  "version": "0.1.0",
+  "author": {
+    "name": "mengbad"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mengbad/deepgram-voice-workflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mengbad/deepgram-voice-workflow"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "oschina--gitee-merge-pr-check",
+  "description": "Use this skill when the user asks to merge a PR, check if a PR is ready to merge, \"merge PR\", \"can this PR be merged\", \"merge-pr-check\". Requires Gitee MCP Server to be configured.",
+  "version": "1.0.0",
+  "author": {
+    "name": "oschina"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oschina/gitee-merge-pr-check",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oschina/gitee-merge-pr-check"
+}

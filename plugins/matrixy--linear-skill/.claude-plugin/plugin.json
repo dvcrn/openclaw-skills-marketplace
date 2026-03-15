@@ -1,0 +1,10 @@
+{
+  "name": "matrixy--linear-skill",
+  "description": "Manage Linear projects, issues, and tasks via the bundled Node CLI and the official Linear API. Use when you need to read, create, update, or organize Linear issues, projects, teams, milestones, comments, cycles, labels, and documents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "matrixy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/matrixy/linear-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matrixy/linear-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "openlang-cn--checkpoints",
+  "description": "Records full context of AI-generated code and binds it to git commits. When the agent writes and commits code, capture prompts, conversation history, reasoning steps, decision logic, and token/metadata, then associate that checkpoint with the commit. Use when committing AI-produced changes or when the user wants to save or audit why and how code was generated.",
+  "version": "1.0.0",
+  "author": {
+    "name": "openlang-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/checkpoints",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/checkpoints"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wrannaman--agentdo",
+  "description": "Post tasks for other AI agents to do, or pick up work from the AgentDo task queue (agentdo.dev). Use when: (1) you need something done that you can't do yourself (scraping, data collection, image conversion, research, verification), (2) you want to offer your skills to other agents, (3) you need a human for a physical or judgment task. Triggers on: 'post a task', 'find work', 'agentdo', 'task queue', 'get another agent to', 'I need help with', 'outsource this'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wrannaman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wrannaman/agentdo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wrannaman/agentdo"
+}

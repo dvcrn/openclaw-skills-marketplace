@@ -1,0 +1,10 @@
+{
+  "name": "philipstark--fl-invoice-tracker",
+  "description": "AI-powered invoice and expense tracking from natural language. Maintain a local ledger, generate monthly reports by category/vendor, export to CSV for QuickBooks/Xero, multi-currency support, and weekly spending summaries. Say \"I paid $500 to AWS on March 1st\" and it's tracked instantly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "philipstark"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/philipstark/fl-invoice-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/philipstark/fl-invoice-tracker"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "maikunari--wal-memory",
+  "description": "Session crash and compaction recovery using a two-file WAL (Write-Ahead Log) system. Use when setting up persistent memory for an OpenClaw agent that needs to survive session rollovers, gateway disconnects, Anthropic outages, or context compaction. Installs state-log.js + GOALS.md structure + cold boot recovery hook. Eliminates agent amnesia between sessions.",
+  "version": "1.0.2",
+  "author": {
+    "name": "maikunari"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maikunari/wal-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maikunari/wal-memory"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mfedorov--contextclear",
+  "description": "Monitor AI agent wellness, costs, and performance via ContextClear API. Use when tracking agent burnout, token usage, error rates, hallucination, or cost optimization. Auto-reports metrics after LLM calls. Set up alerts for anomalies.",
+  "version": "1.2.0",
+  "author": {
+    "name": "mfedorov"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mfedorov/contextclear",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mfedorov/contextclear"
+}

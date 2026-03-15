@@ -1,0 +1,10 @@
+{
+  "name": "renhaosu2024--circos-plot-generator",
+  "description": "Generate Circos configuration files for circular genomics data visualization. Supports genomic variations (SNPs, CNVs, structural variants), cell-cell communication networks, and custom track configurations for publication-ready circular plots.",
+  "version": "0.1.0",
+  "author": {
+    "name": "renhaosu2024"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/renhaosu2024/circos-plot-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/renhaosu2024/circos-plot-generator"
+}

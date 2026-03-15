@@ -1,0 +1,10 @@
+{
+  "name": "ps06756--nano-banana-pdf-skill",
+  "description": "Edit PDF files visually using natural language with the nano-pdf CLI tool, powered by Google's Gemini 3 Pro Image (Nano Banana). Use this skill whenever the user wants to edit, modify, or update PDF slides or pages using AI — including fixing typos, updating charts/graphs, changing colors or branding, adding new slides, modifying text, or making any visual change to a PDF deck or report. Also trigger when the user mentions \"nano-pdf\", \"nano pdf\", \"edit my pdf\", \"update my slides\", \"fix my deck\", or wants AI-powered changes to PDF content. Even if the user just says \"change the title on page 3\" or \"fix the typo on slide 5\" for a PDF file, this skill applies. Do NOT use for extracting text, merging/splitting PDFs, filling forms, or other non-visual PDF operations.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ps06756"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ps06756/nano-banana-pdf-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ps06756/nano-banana-pdf-skill"
+}

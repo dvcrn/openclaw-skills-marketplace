@@ -1,0 +1,10 @@
+{
+  "name": "jarviyin--whoop-health",
+  "description": "Fetch, analyze, and visualize WHOOP wearable health data via the WHOOP Developer API v2. Use when the user wants to connect their WHOOP band, retrieve recovery scores, HRV, sleep performance, strain, or workout data, analyze health trends, or integrate WHOOP data into a broader workflow. Triggers on phrases like \"WHOOP data\", \"WHOOP API\", \"WHOOP health\", \"connect WHOOP\", \"whoop recovery\", \"whoop sleep\", \"whoop strain\", or any request to analyze wearable data from a WHOOP device.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jarviyin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jarviyin/whoop-health",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jarviyin/whoop-health"
+}

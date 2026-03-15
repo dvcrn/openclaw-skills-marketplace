@@ -1,0 +1,10 @@
+{
+  "name": "odysseus0--feed-digest",
+  "description": "Agentic feed digest using the feed CLI. Fetch, triage, and summarize RSS/Atom/JSON feeds to surface high-signal posts. Use when: (1) reading feeds or catching up on news, (2) user asks for a digest, roundup, or summary of recent posts, (3) user asks what's new or interesting today, (4) user mentions feed, RSS, blogs, or subscriptions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "odysseus0"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/odysseus0/feed-digest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odysseus0/feed-digest"
+}

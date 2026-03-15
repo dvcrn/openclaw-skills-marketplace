@@ -1,0 +1,10 @@
+{
+  "name": "virtaava--openclaw-hardener",
+  "description": "Harden OpenClaw (workspace + ~/.openclaw): run openclaw security audit, catch prompt-injection/exfil risks, scan for secrets, and apply safe fixes (chmod/exec-bit cleanup). Includes optional config.patch planning to reduce attack surface.",
+  "version": "0.1.2",
+  "author": {
+    "name": "virtaava"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/virtaava/openclaw-hardener",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/virtaava/openclaw-hardener"
+}

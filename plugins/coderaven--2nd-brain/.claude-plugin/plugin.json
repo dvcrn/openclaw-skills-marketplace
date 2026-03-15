@@ -1,0 +1,10 @@
+{
+  "name": "coderaven--2nd-brain",
+  "description": "Personal knowledge base for capturing and retrieving information about people,\n places, restaurants, games, tech, events, media, ideas, and organizations.\n Use when: user mentions a person, place, restaurant, landmark, game, device,\n event, book/show, idea, or company. Trigger phrases: \"remember\", \"note that\",\n \"met this person\", \"visited\", \"played\", \"what do I know about\", etc.\n Brain entries take precedence over daily logs for named entities.",
+  "version": "1.3.0",
+  "author": {
+    "name": "coderaven"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/coderaven/2nd-brain",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/coderaven/2nd-brain"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "yikai123456--cli-anything-xingyue",
+  "description": "基于 HKUDS/CLI-Anything 仓库重构的 OpenClaw Skill。为任意软件生成 CLI 工具，让 AI Agent 可以控制它。通过分析软件源代码，自动生成可被 AI 调用的命令行接口。支持 GIMP、Blender、LibreOffice、OBS 等软件。",
+  "version": "1.0.2",
+  "author": {
+    "name": "yikai123456"
+  },
+  "homepage": "https://github.com/HKUDS/CLI-Anything",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yikai123456/cli-anything-xingyue"
+}

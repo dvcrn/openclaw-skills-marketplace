@@ -1,0 +1,10 @@
+{
+  "name": "quantdeveloperusa--gemini-live-phone",
+  "description": "Bridge Twilio phone calls to Google Gemini Live API for real-time AI voice conversations. No STT/TTS middleware required. Includes VAD and echo suppression.",
+  "version": "1.0.1",
+  "author": {
+    "name": "quantdeveloperusa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/quantdeveloperusa/gemini-live-phone",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/quantdeveloperusa/gemini-live-phone"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "0xrag--pay-for-service",
+  "description": "Make a paid API request to an x402 endpoint with automatic USDC payment. Use when you or the user want to call a paid API, make an x402 request, use a paid service, or pay for an API call. Use after finding a service with search-for-service.",
+  "version": "0.1.0",
+  "author": {
+    "name": "0xrag"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xrag/pay-for-service",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xrag/pay-for-service"
+}

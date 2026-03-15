@@ -1,0 +1,10 @@
+{
+  "name": "psyduckler--aeo-analytics-free",
+  "description": "Track AI visibility — measure whether a brand is mentioned and cited by AI assistants (Gemini, ChatGPT, Perplexity) for target prompts. Runs scans, tracks mention/citation rates over time, detects trends, and identifies opportunities. Uses Gemini API free tier (with grounding) as primary method, web search as fallback. Use when a user wants to: check if AI models mention their brand, track AI citation changes over time, measure AEO content effectiveness, monitor competitor AI visibility, or audit their brand's presence in AI-generated answers. Pairs with aeo-prompt-research-free (identifies prompts) and aeo-content-free (creates/refreshes content). This skill closes the loop by measuring results.",
+  "version": "1.0.0",
+  "author": {
+    "name": "psyduckler"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/psyduckler/aeo-analytics-free",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/psyduckler/aeo-analytics-free"
+}

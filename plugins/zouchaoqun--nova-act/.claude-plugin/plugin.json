@@ -1,0 +1,10 @@
+{
+  "name": "zouchaoqun--nova-act",
+  "description": "Write and execute Python scripts using Amazon Nova Act for AI-powered browser automation tasks like flight searches, data extraction, and form filling.",
+  "version": "1.6.0",
+  "author": {
+    "name": "zouchaoqun"
+  },
+  "homepage": "https://nova.amazon.com/act",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zouchaoqun/nova-act"
+}

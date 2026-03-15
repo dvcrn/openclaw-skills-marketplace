@@ -1,0 +1,10 @@
+{
+  "name": "850media--frameo",
+  "description": "Control Frameo digital photo frames. Use when: sending photos to Frameo frames, listing paired frames, controlling frame via ADB (brightness, screen, navigation). Supports both cloud API (read-only) and ADB (full control including photo upload). Requires either Frameo account credentials or ADB access to the frame.",
+  "version": "1.0.0",
+  "author": {
+    "name": "850media"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/850media/frameo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/850media/frameo"
+}

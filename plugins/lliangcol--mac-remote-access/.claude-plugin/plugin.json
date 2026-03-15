@@ -1,0 +1,10 @@
+{
+  "name": "lliangcol--mac-remote-access",
+  "description": "Diagnose, configure, and recover remote access to a macOS machine over Tailscale. Use when setting up or troubleshooting Mac SSH, Screen Sharing/VNC, RealVNC, AnyDesk, RustDesk, Tailscale ACLs, or remote-access baselines, especially for Windows-to-Mac access, unreachable port 22/5900 issues, visible-in-tailnet-but-not-connectable cases, or break-glass remote recovery planning.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lliangcol"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lliangcol/mac-remote-access",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lliangcol/mac-remote-access"
+}

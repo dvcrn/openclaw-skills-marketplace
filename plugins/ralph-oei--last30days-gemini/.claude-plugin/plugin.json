@@ -1,0 +1,10 @@
+{
+  "name": "ralph-oei--last30days-gemini",
+  "description": "Research any topic from the last 30 days. Sources: X (Twitter), YouTube transcripts, web search. Generates expert briefings and copy-paste prompts using Gemini.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ralph-oei"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ralph-oei/last30days-gemini",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ralph-oei/last30days-gemini"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bencoremans--cliproxy-media",
+  "description": "Analyze images (jpg, png, gif, webp) and PDFs via CLIProxyAPI — a Claude Max proxy that routes requests through your subscription at zero extra cost. Use this skill whenever you need to analyze, describe, or extract information from an image or photo (\"analyze image\", \"describe photo\", \"what is in this picture\"), read or summarize a PDF document (\"read PDF\", \"summary of this document\"), or process any media file via a CLIProxy-compatible endpoint (\"process media via proxy\", \"cliproxy vision\", \"cliproxy media\"). NEVER use the built-in `image` or `pdf` tools when using CLIProxyAPI — they fall back to direct Anthropic API which requires separate credits. Use this skill instead for all vision and document analysis tasks.",
+  "version": "1.0.3",
+  "author": {
+    "name": "bencoremans"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bencoremans/cliproxy-media",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bencoremans/cliproxy-media"
+}

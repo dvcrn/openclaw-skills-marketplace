@@ -1,0 +1,10 @@
+{
+  "name": "chunhualiao--openclaw-claude-usage",
+  "description": "Check Claude Max plan usage limits by launching Claude Code and running /usage. Use when the user asks about Claude plan usage, remaining quota, rate limits, or sends /claude_usage.",
+  "version": "1.0.1",
+  "author": {
+    "name": "chunhualiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/openclaw-claude-usage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/openclaw-claude-usage"
+}

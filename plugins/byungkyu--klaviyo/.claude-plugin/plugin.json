@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--klaviyo",
+  "description": "Klaviyo API integration with managed OAuth. Access profiles, lists, segments, campaigns, flows, events, metrics, templates, catalogs, and webhooks. Use this skill when users want to manage email marketing, customer data, or integrate with Klaviyo workflows. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.4",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/klaviyo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/klaviyo"
+}

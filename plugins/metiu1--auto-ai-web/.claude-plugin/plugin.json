@@ -1,0 +1,10 @@
+{
+  "name": "metiu1--auto-ai-web",
+  "description": "Skill per generare codice e immagini tramite interfaccia web di Claude AI e Gemini quando le API non sono disponibili. Si attiva automaticamente quando l'utente richiede generazione di immagini o scrittura/analisi di codice.",
+  "version": "1.0.0",
+  "author": {
+    "name": "metiu1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/metiu1/auto-ai-web",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/metiu1/auto-ai-web"
+}

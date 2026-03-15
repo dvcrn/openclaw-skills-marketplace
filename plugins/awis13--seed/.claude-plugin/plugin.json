@@ -1,0 +1,10 @@
+{
+  "name": "awis13--seed",
+  "description": "Grow firmware on any hardware through HTTP — upload C, compile on device, apply with watchdog rollback",
+  "version": "0.1.2",
+  "author": {
+    "name": "awis13"
+  },
+  "homepage": "https://github.com/Awis13/seed",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/awis13/seed"
+}

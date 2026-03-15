@@ -1,0 +1,10 @@
+{
+  "name": "scikkk--subtitle",
+  "description": "Generate synchronized subtitles (SRT/VTT/ASS) from video audio with precise timestamps. Use when users need subtitles, captions, or video transcription with timing.",
+  "version": "1.0.1",
+  "author": {
+    "name": "scikkk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/scikkk/subtitle",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scikkk/subtitle"
+}

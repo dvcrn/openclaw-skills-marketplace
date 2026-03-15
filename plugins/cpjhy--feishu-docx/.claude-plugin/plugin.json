@@ -1,0 +1,10 @@
+{
+  "name": "cpjhy--feishu-docx",
+  "description": "飞书云文档（docx）的创建与编辑技能。支持通过 API 创建文档、追加内容、批量更新块等操作。使用此技能需要提供 App ID 和 App Secret。",
+  "version": "1.0.2",
+  "author": {
+    "name": "cpjhy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cpjhy/feishu-docx",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cpjhy/feishu-docx"
+}

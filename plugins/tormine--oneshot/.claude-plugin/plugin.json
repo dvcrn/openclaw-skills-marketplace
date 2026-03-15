@@ -1,0 +1,10 @@
+{
+  "name": "tormine--oneshot",
+  "description": "OneShot SDK for AI agent commercial transactions. Send emails, make calls, research, buy products, and more with automatic x402 payments.\n Use this skill when agents need to execute real-world actions: email, voice, SMS, research, commerce, or data enrichment.\n Supports Coinbase CDP Wallets (recommended, no private keys) or raw wallet key authentication.",
+  "version": "1.3.1",
+  "author": {
+    "name": "tormine"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tormine/oneshot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tormine/oneshot"
+}

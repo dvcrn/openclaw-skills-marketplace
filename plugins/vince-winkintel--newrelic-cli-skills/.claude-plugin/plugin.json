@@ -1,0 +1,10 @@
+{
+  "name": "vince-winkintel--newrelic-cli-skills",
+  "description": "Monitor, query, and manage New Relic observability data via the newrelic CLI. Covers NRQL queries, APM performance triage, deployment markers, alert management, infrastructure monitoring, and agent diagnostics. Use when user asks about application performance, error rates, slow transactions, deployment tracking, or New Relic configuration.",
+  "version": "1.0.2",
+  "author": {
+    "name": "vince-winkintel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vince-winkintel/newrelic-cli-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vince-winkintel/newrelic-cli-skills"
+}

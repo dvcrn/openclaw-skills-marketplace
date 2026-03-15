@@ -1,0 +1,10 @@
+{
+  "name": "mib424242--riskofficer",
+  "description": "Portfolio risk management and analytics. Use when user asks to calculate VaR, run Monte Carlo, stress test, optimize with Risk Parity / Calmar / Black-Litterman, run pre-trade check, check sector concentration, manage portfolios, or analyze cross-portfolio correlation. Also covers ticker search, broker sync, batch portfolio creation, and portfolio comparison.",
+  "version": "4.3.0",
+  "author": {
+    "name": "mib424242"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mib424242/riskofficer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mib424242/riskofficer"
+}

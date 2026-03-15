@@ -1,0 +1,10 @@
+{
+  "name": "geoion--xmind-generator",
+  "description": "Generate XMind mind map files (.xmind) from Markdown outlines or plain text descriptions. Use when a user asks to create a mind map, visualize a structure, or export to XMind format. Supports both Markdown outline syntax (# headings, - bullets, indentation) and free-form text descriptions. Output is saved as a .xmind file in the workspace directory, openable directly in XMind app.",
+  "version": "1.0.3",
+  "author": {
+    "name": "geoion"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/geoion/xmind-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/geoion/xmind-generator"
+}

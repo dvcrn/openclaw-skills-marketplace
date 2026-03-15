@@ -1,0 +1,10 @@
+{
+  "name": "unlimitwave--food-expiry-reminder",
+  "description": "食品过期提醒技能。用于记录、管理和提醒食品过期情况。当用户需要记录食品信息、检查食品是否过期、查看即将过期的食品或管理食品库存时使用此技能。数据存储在food_data.json文件中。",
+  "version": "1.0.0",
+  "author": {
+    "name": "unlimitwave"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/unlimitwave/food-expiry-reminder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/unlimitwave/food-expiry-reminder"
+}

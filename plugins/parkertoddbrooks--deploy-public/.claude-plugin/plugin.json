@@ -1,0 +1,10 @@
+{
+  "name": "parkertoddbrooks--deploy-public",
+  "description": "Private-to-public repo sync. Copies everything except ai/ to the public mirror. Creates PR, merges, syncs releases.",
+  "version": "1.9.4",
+  "author": {
+    "name": "parkertoddbrooks"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/parkertoddbrooks/deploy-public",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/parkertoddbrooks/deploy-public"
+}

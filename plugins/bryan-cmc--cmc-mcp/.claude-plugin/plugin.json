@@ -1,0 +1,10 @@
+{
+  "name": "bryan-cmc--cmc-mcp",
+  "description": "Fetches cryptocurrency market data, prices, technical analysis, news, and trends using the CoinMarketCap MCP.\n Use for ANY question involving cryptocurrencies, tokens, or blockchain markets, even if the user doesn't explicitly ask for data. This includes price checks, portfolio questions, market analysis, coin comparisons, holder metrics, technical indicators, and news.\n Trigger: \"bitcoin\", \"ETH\", \"crypto\", \"token price\", \"market cap\", \"how is [coin] doing\", \"/cmc-mcp\"",
+  "version": "1.0.3",
+  "author": {
+    "name": "bryan-cmc"
+  },
+  "homepage": "https://github.com/coinmarketcap/skills-for-ai-agents-by-CoinMarketCap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bryan-cmc/cmc-mcp"
+}

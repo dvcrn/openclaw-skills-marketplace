@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--mac-mini-server",
+  "description": "Set up OpenClaw on Mac Mini as always-on AI server — hardware recommendations, macOS config, Docker Desktop, launchd auto-start, Tailscale remote access, and cost comparison vs VPS. Use when deploying OpenClaw on Mac Mini for 24/7 personal AI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/mac-mini-server"
+}

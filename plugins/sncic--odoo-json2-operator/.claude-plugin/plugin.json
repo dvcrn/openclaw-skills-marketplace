@@ -1,0 +1,10 @@
+{
+  "name": "sncic--odoo-json2-operator",
+  "description": "Execute Odoo operations through JSON-2 API endpoints with bearer API keys. Use when the user asks to query or mutate Odoo data (search, read, create, write, unlink, or custom model methods), validate model/method signatures from the api_doc module, or automate step-by-step business actions against an Odoo instance.",
+  "version": "2026.2.18",
+  "author": {
+    "name": "sncic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sncic/odoo-json2-operator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sncic/odoo-json2-operator"
+}

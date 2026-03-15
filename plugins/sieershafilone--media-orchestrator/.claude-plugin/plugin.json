@@ -1,0 +1,10 @@
+{
+  "name": "sieershafilone--media-orchestrator",
+  "description": "Unified skill for resolving, downloading, and delivering media (audio/video) to chat platforms. Integrates yt-dlp for resolution and handles Spotify metadata sync.",
+  "version": "0.1.1",
+  "author": {
+    "name": "sieershafilone"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sieershafilone/media-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sieershafilone/media-orchestrator"
+}

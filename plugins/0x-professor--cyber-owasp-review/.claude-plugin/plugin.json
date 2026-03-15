@@ -1,0 +1,10 @@
+{
+  "name": "0x-professor--cyber-owasp-review",
+  "description": "Map application security findings to OWASP Top 10 categories and generate remediation checklists. Use for normalized AppSec review outputs and category-level prioritization.",
+  "version": "0.1.0",
+  "author": {
+    "name": "0x-professor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0x-professor/cyber-owasp-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0x-professor/cyber-owasp-review"
+}

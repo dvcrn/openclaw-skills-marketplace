@@ -1,0 +1,10 @@
+{
+  "name": "kennethrajsimon--spacetime-memory",
+  "description": "High-performance SpacetimeDB memory integration for OpenClaw. Replaces static file memory with a lightning-fast WebAssembly-powered mind-vault running on a local SpacetimeDB instance. Now includes full CRUD support, legacy file imports, and consolidation tools.",
+  "version": "1.1.7",
+  "author": {
+    "name": "kennethrajsimon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kennethrajsimon/spacetime-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kennethrajsimon/spacetime-memory"
+}

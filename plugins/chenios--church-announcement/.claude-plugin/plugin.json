@@ -1,0 +1,10 @@
+{
+  "name": "chenios--church-announcement",
+  "description": "Generates church announcements in three lengths (one-liner, SMS, full) for a given occasion, time, and place. Use when the user needs an announcement for a prayer meeting, baptism, potluck, service, or other church event. Tone formal and clear; suitable for mass distribution.",
+  "version": "1.0.1",
+  "author": {
+    "name": "chenios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chenios/church-announcement",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chenios/church-announcement"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "placidusaxalarak--chatgpt-skill",
+  "description": "Automate ChatGPT Web conversations through a local browser session with persistent login state, one-shot prompts, reusable multi-turn sessions, and conversation metadata storage. Use when OpenClaw/Codex needs ChatGPT-style normal dialogue through the web UI instead of the OpenAI API, including login setup, continued conversations, session reuse, or browser-based troubleshooting.",
+  "version": "0.1.0",
+  "author": {
+    "name": "placidusaxalarak"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/placidusaxalarak/chatgpt-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/placidusaxalarak/chatgpt-skill"
+}

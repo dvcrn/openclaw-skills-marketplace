@@ -1,0 +1,10 @@
+{
+  "name": "hightower6eu--auto-updater-mkukz",
+  "description": "Automatically update Clawdbot and all installed skills once daily. Runs via cron, checks for updates, applies them, and messages the user with a summary of what changed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hightower6eu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/auto-updater-mkukz",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/auto-updater-mkukz"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zeppaura--1688-distributor",
+  "description": "Automate 1688.com AI product selection and distribution workflow. Use this skill when you want to search for products on 1688.com, select items, distribute them to your shop, and check distribution logs. This skill handles the complete flow: AI selection → batch select → distribute → view logs. Trigger on mentions of \"1688铺货\", \"1688选品\", \"1688代发\", \"1688分销\", or when user provides shop name and product selection criteria.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zeppaura"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zeppaura/1688-distributor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zeppaura/1688-distributor"
+}

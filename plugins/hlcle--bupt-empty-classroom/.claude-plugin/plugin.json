@@ -1,0 +1,10 @@
+{
+  "name": "hlcle--bupt-empty-classroom",
+  "description": "Query empty classrooms at BUPT (Beijing University of Posts and Telecommunications) Xitucheng campus. Use when the user needs to find available/empty classrooms for a specific building and time period at Xitucheng campus. Supports selecting buildings (教2, 教3, 教4, 未来学习大楼) and time periods.",
+  "version": "2.0.0",
+  "author": {
+    "name": "hlcle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hlcle/bupt-empty-classroom",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hlcle/bupt-empty-classroom"
+}

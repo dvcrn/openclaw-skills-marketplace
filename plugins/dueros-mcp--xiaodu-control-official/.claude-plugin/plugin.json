@@ -1,0 +1,10 @@
+{
+  "name": "dueros-mcp--xiaodu-control-official",
+  "description": "当用户要连接、验证、排障或控制小度智能屏 MCP 与小度 IoT MCP 时使用，包括配置 mcporter、列设备、文本播报、语音指令、拍照、资源推送、IoT 家电控制、场景触发与平台 token 刷新。",
+  "version": "1.0.4",
+  "author": {
+    "name": "dueros-mcp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dueros-mcp/xiaodu-control-official",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dueros-mcp/xiaodu-control-official"
+}

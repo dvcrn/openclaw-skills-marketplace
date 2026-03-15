@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--skills-compat",
+  "description": "Ensures OpenClaw skills.md format works with both nanobot and overstory. Loads skills, registers tools, maps between systems.",
+  "version": "1.0.0",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/skills-compat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/skills-compat"
+}

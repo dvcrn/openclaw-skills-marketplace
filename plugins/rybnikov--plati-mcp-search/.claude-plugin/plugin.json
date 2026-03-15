@@ -1,0 +1,10 @@
+{
+  "name": "rybnikov--plati-mcp-search",
+  "description": "Find cheapest reliable subscription offers from Plati using the local MCP server. Use when users ask for best price options, reliable sellers, PRO/Plus subscription comparisons, or top-N cheapest offers for a product keyword like \"claude code\" or \"chatgpt plus\".",
+  "version": "0.1.6",
+  "author": {
+    "name": "rybnikov"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rybnikov/plati-mcp-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rybnikov/plati-mcp-search"
+}

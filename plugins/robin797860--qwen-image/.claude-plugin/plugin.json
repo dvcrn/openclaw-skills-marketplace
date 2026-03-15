@@ -1,0 +1,10 @@
+{
+  "name": "robin797860--qwen-image",
+  "description": "Generate images using Qwen Image API (Alibaba Cloud DashScope). Use when users request image generation with Chinese prompts or need high-quality AI-generated images from text descriptions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "robin797860"
+  },
+  "homepage": "https://dashscope.aliyuncs.com/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robin797860/qwen-image"
+}

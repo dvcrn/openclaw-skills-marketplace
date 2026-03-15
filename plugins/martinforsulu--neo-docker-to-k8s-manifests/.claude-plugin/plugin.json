@@ -1,0 +1,10 @@
+{
+  "name": "martinforsulu--neo-docker-to-k8s-manifests",
+  "description": "Automatically generate optimized Kubernetes deployment manifests from Dockerfile and docker-compose configurations with proper resource limits and health checks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "martinforsulu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/martinforsulu/neo-docker-to-k8s-manifests",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/martinforsulu/neo-docker-to-k8s-manifests"
+}

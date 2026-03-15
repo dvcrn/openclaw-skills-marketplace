@@ -1,0 +1,10 @@
+{
+  "name": "krisyejh--bailian-web-search",
+  "description": "AI-optimized web search via Bailian(Alibaba ModelStdio) API. Returns multisourced, concise web search results for LLMs.",
+  "version": "1.0.4",
+  "author": {
+    "name": "krisyejh"
+  },
+  "homepage": "https://bailian.console.aliyun.com/cn-beijing?tab=app#/mcp-market/detail/WebSearch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/krisyejh/bailian-web-search"
+}

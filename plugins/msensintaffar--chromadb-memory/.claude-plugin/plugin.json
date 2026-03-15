@@ -1,0 +1,10 @@
+{
+  "name": "msensintaffar--chromadb-memory",
+  "description": "Long-term memory via ChromaDB with local Ollama embeddings. Auto-recall injects relevant context every turn. No cloud APIs required — fully self-hosted.",
+  "version": "1.2.1",
+  "author": {
+    "name": "msensintaffar"
+  },
+  "homepage": "https://github.com/openclaw/openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/msensintaffar/chromadb-memory"
+}

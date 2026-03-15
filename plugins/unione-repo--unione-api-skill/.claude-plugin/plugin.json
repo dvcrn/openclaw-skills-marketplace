@@ -1,0 +1,10 @@
+{
+  "name": "unione-repo--unione-api-skill",
+  "description": "Send transactional and marketing emails via UniOne Email API. Manage email templates, validate email addresses, check delivery statistics, manage suppression lists, configure webhooks, and handle domain settings. UniOne delivers billions of emails annually with 99.88% deliverability.",
+  "version": "0.1.2",
+  "author": {
+    "name": "unione-repo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/unione-repo/unione-api-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/unione-repo/unione-api-skill"
+}

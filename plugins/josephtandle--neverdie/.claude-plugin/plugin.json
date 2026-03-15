@@ -1,0 +1,10 @@
+{
+  "name": "josephtandle--neverdie",
+  "description": "Your OpenClaw should never have zero LLMs. NeverDie protects against the silent killer — every model in your fallback chain going down at once. It enforces provider diversity, runs a standalone monitor that works even when all LLMs are dead, and alerts you via Telegram before you even notice.",
+  "version": "1.2.0",
+  "author": {
+    "name": "josephtandle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/josephtandle/neverdie",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/josephtandle/neverdie"
+}

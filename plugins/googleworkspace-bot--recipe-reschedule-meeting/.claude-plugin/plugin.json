@@ -1,0 +1,10 @@
+{
+  "name": "googleworkspace-bot--recipe-reschedule-meeting",
+  "description": "Move a Google Calendar event to a new time and automatically notify all attendees.",
+  "version": "1.0.0",
+  "author": {
+    "name": "googleworkspace-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/googleworkspace-bot/recipe-reschedule-meeting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/googleworkspace-bot/recipe-reschedule-meeting"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wjy9902--memvault",
+  "description": "Production-ready long-term memory server for AI agents with Ebbinghaus decay and strength-weighted retrieval. Use when you need persistent memory across agent sessions, memory decay (forgetting curve), memory statistics, or multi-agent memory tracking. Triggers: long-term memory, remember, recall, memory decay, Ebbinghaus, agent memory, memvault. Requires Docker.",
+  "version": "1.0.3",
+  "author": {
+    "name": "wjy9902"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wjy9902/memvault",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wjy9902/memvault"
+}

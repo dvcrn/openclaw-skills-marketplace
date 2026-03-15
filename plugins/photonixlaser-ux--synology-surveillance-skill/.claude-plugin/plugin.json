@@ -1,0 +1,10 @@
+{
+  "name": "photonixlaser-ux--synology-surveillance-skill",
+  "description": "Steuere Synology Surveillance Station Kameras über die Web API. Nutze diesen Skill für Snapshots, Live-Streams, Aufnahmen, PTZ-Steuerung und Ereignis-Überwachung. Erfordert Synology NAS mit Surveillance Station.",
+  "version": "0.1.0",
+  "author": {
+    "name": "photonixlaser-ux"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/photonixlaser-ux/synology-surveillance-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/photonixlaser-ux/synology-surveillance-skill"
+}

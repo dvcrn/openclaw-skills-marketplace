@@ -1,0 +1,10 @@
+{
+  "name": "xixihhhh--nsfw-image",
+  "description": "Generate AI images for mature creative projects using Wan 2.6, Seedream, and other models with relaxed content policies via Atlas Cloud API. Designed for adult (18+) artistic and professional use cases including figure drawing, fashion photography, fine art, and mature illustration. Models include Alibaba Wan 2.6 (recommended, $0.021/image), ByteDance Seedream v5.0/v4.5/v4, and Wan 2.5. Supports text-to-image and image editing. Use this skill when the user explicitly requests NSFW or mature image generation for legitimate adult creative work.",
+  "version": "1.0.1",
+  "author": {
+    "name": "xixihhhh"
+  },
+  "homepage": "https://github.com/AtlasCloudAI/nano-banana-2-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xixihhhh/nsfw-image"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kowl64--api-credentials-hygiene",
+  "description": "Audits and hardens API credential handling (env vars, separation, rotation plan, least privilege, auditability). Use when integrating services or preparing production deployments where secrets must be managed safely.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kowl64"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kowl64/api-credentials-hygiene",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kowl64/api-credentials-hygiene"
+}

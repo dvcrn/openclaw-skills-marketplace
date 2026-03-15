@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--defi-yield-optimizer",
+  "description": "DeFi Yield optimizer - cross-protocol yield comparison, auto-rebalancing, best yield farming strategies. Each call charges 0.001 USDT via SkillPay.",
+  "version": "1.0.1",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/defi-yield-optimizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/defi-yield-optimizer"
+}

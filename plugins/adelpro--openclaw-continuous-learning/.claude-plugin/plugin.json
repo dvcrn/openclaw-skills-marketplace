@@ -1,0 +1,10 @@
+{
+  "name": "adelpro--openclaw-continuous-learning",
+  "description": "Instinct-based learning system for OpenClaw. Analyzes sessions, detects patterns, creates atomic learnings with confidence scoring, and suggests optimizations for self-evolution.\n \n Works alongside agent-self-improvement for complete learning: internal session analysis + external user feedback.\n \n Use when: you want your AI agent to learn from its own behavior, improve over time, discover optimization opportunities, or build a self-improving automation system.\n \n Don't use when: static agent behavior is preferred.",
+  "version": "1.3.0",
+  "author": {
+    "name": "adelpro"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adelpro/openclaw-continuous-learning",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adelpro/openclaw-continuous-learning"
+}

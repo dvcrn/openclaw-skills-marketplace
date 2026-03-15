@@ -1,0 +1,10 @@
+{
+  "name": "mupengi-bot--unified-invoice",
+  "description": "통합 견적서/세금계산서 생성기. 한국형 견적서(사업자등록번호, 부가세) + 프리랜서 인보이스(다국어, VAT). 거래처/품목 DB, PDF 출력, 자동 계산.",
+  "version": "1.1.0",
+  "author": {
+    "name": "mupengi-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/unified-invoice",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/unified-invoice"
+}

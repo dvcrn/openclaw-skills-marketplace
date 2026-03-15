@@ -1,0 +1,10 @@
+{
+  "name": "silvermoonswk--activity-notifier",
+  "description": "Broadcast agent activity status to Discord channel (thinking, tool use, web search, coding, done, error). Use for transparency so users know agent is working.",
+  "version": "1.0.0",
+  "author": {
+    "name": "silvermoonswk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/silvermoonswk/activity-notifier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/silvermoonswk/activity-notifier"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "crazypeace--telegram-pairing-message-customization",
+  "description": "Add custom messages to Telegram pairing replies for unapproved users. Insert custom text (e.g., group links, instructions) above the approval command in pairing messages. Use when unpaired Telegram users need additional guidance during the pairing process.",
+  "version": "1.0.6",
+  "author": {
+    "name": "crazypeace"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crazypeace/telegram-pairing-message-customization",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crazypeace/telegram-pairing-message-customization"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mrjessek--the-time-masheen",
+  "description": "THE_TIME_MASHEEN — full-spectrum web intelligence combining live scraping, historical time travel, and interactive browser automation. Use when: (1) scraping or crawling any live website (static, JS-heavy, or rendering-protected), (2) going back in time to retrieve archived or historical versions of any page via the Wayback Machine, (3) comparing what a site looks like now vs. what it looked like in any previous year, (4) automating browser interactions (login, click, fill forms) on web apps that can't be passively scraped, (5) extracting data from login-gated or paywalled pages, or (6) any task requiring live scraping + historical research + browser interaction in combination. Triggers on: \"scrape this\", \"crawl\", \"wayback\", \"archive\", \"what did this site look like\", \"compare current vs historical\", \"browser automation\", \"extract data from\", \"log in and scrape\", \"go back in time on\".",
+  "version": "1.0.2",
+  "author": {
+    "name": "mrjessek"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrjessek/the-time-masheen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrjessek/the-time-masheen"
+}

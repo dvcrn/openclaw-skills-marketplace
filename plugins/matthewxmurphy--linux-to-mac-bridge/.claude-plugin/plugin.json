@@ -1,0 +1,10 @@
+{
+  "name": "matthewxmurphy--linux-to-mac-bridge",
+  "description": "Legacy combined bridge skill for Linux-to-Mac wrapper installs. Prefer the newer split skills `macos-bridge` for Mac-owned CLIs and `homebrew-bridge` for Homebrew-backed tools.",
+  "version": "1.2.1",
+  "author": {
+    "name": "matthewxmurphy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/linux-to-mac-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/linux-to-mac-bridge"
+}

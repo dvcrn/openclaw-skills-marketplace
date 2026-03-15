@@ -1,0 +1,10 @@
+{
+  "name": "chetan-guevara--fluora-setup",
+  "description": "Interactive setup wizard for Fluora marketplace integration. Clones fluora-mcp from GitHub, builds locally, generates wallet, and configures mcporter.",
+  "version": "1.2.1",
+  "author": {
+    "name": "chetan-guevara"
+  },
+  "homepage": "https://fluora.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chetan-guevara/fluora-setup"
+}

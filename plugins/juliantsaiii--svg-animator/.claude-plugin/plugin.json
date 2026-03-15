@@ -1,0 +1,10 @@
+{
+  "name": "juliantsaiii--svg-animator",
+  "description": "Generate animated videos from SVG frames using text LLM. Supports any subject (animals, humans, characters, scenes, abstract art), automatic duration calculation, and multi-scene story animations. Perfect替代 AI 视频生成 API，直接用文本模型生成 SVG 代码然后合成视频。",
+  "version": "1.0.0",
+  "author": {
+    "name": "juliantsaiii"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/juliantsaiii/svg-animator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/juliantsaiii/svg-animator"
+}

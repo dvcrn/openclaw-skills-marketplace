@@ -1,0 +1,10 @@
+{
+  "name": "ghsmc--kalshi-trading",
+  "description": "Trade on Kalshi prediction markets (CFTC-regulated prediction market exchange). Check portfolio, search markets, analyze orderbooks, place/cancel orders. Use when working with Kalshi API, trading binary contracts, checking market prices, managing positions, or researching prediction markets on politics, economics, crypto, weather, sports, technology events.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ghsmc"
+  },
+  "homepage": "https://kalshi.com/docs/api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ghsmc/kalshi-trading"
+}

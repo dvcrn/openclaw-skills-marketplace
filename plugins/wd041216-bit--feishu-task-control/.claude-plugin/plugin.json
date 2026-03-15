@@ -1,0 +1,10 @@
+{
+  "name": "wd041216-bit--feishu-task-control",
+  "description": "Use in Feishu chats when the user wants to inspect, stop, or clean up background tasks spawned from the current chat. Uses subagents and session tools to list running tasks, stop one specific task, or stop all active tasks.",
+  "version": "1.0.1",
+  "author": {
+    "name": "wd041216-bit"
+  },
+  "homepage": "https://docs.openclaw.ai/commands",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wd041216-bit/feishu-task-control"
+}

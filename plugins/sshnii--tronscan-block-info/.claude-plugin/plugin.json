@@ -1,0 +1,10 @@
+{
+  "name": "sshnii--tronscan-block-info",
+  "description": "Query TRON latest block, block reward, block time, producer, burned TRX, resource use,\n transaction count.\n Use when user asks \"latest block\", \"block height\", \"block producer\", \"block reward\", \"burned TRX\", or network load.\n Do NOT use for real-time TPS/network dashboard (use tronscan-realtime-network); tx by hash (use tronscan-transaction-info).",
+  "version": "1.0.3",
+  "author": {
+    "name": "sshnii"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sshnii/tronscan-block-info",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sshnii/tronscan-block-info"
+}

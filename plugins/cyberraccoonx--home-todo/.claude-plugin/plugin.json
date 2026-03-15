@@ -1,0 +1,10 @@
+{
+  "name": "cyberraccoonx--home-todo",
+  "description": "检查并提醒用户回家后需要处理的事项。当用户通过Dashboard（webchat）发任何消息时，自动检查待办文件并提醒。",
+  "version": "1.0.0",
+  "author": {
+    "name": "cyberraccoonx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cyberraccoonx/home-todo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cyberraccoonx/home-todo"
+}

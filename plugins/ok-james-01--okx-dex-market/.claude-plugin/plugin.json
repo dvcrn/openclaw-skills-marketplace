@@ -1,0 +1,10 @@
+{
+  "name": "ok-james-01--okx-dex-market",
+  "description": "This skill should be used when the user asks about live on-chain market data: token prices, price charts (K-line, OHLC), trade history, or swap activity. Also covers on-chain signals — smart money, whale, and KOL wallet activity, large trades, and signal-supported chains. For meme tokens: scanning new launches (扫链/trenches，golden dog, alpha, pump fun), checking dev wallets, developer reputation, rug pull detection, tokens by same creator, bundle/sniper detection, bonding curves, and meme token safety checks. For token search, market cap, liquidity, trending tokens, or holder distribution, use okx-dex-token instead.",
+  "version": "1.0.2",
+  "author": {
+    "name": "ok-james-01"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ok-james-01/okx-dex-market",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ok-james-01/okx-dex-market"
+}

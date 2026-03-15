@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--wati",
+  "description": "WATI (WhatsApp Team Inbox) API integration with managed authentication. Send WhatsApp messages, manage contacts, and handle templates.\n Use this skill when users want to send WhatsApp messages, manage WhatsApp contacts, or work with message templates via WATI.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/wati",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/wati"
+}

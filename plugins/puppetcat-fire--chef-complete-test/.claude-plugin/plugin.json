@@ -1,0 +1,10 @@
+{
+  "name": "puppetcat-fire--chef-complete-test",
+  "description": "专业厨师对话食谱生成技能：完整的交互式食谱生成工作流，模拟专业厨师与AI审查的完整流程。使用场景：当用户询问'我想吃XXX，作为一个专业的厨师，你会怎么做？'时，提供专业厨师视角的详细烹饪指导。",
+  "version": "1.0.0",
+  "author": {
+    "name": "puppetcat-fire"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/puppetcat-fire/chef-complete-test",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/puppetcat-fire/chef-complete-test"
+}

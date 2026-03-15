@@ -1,0 +1,10 @@
+{
+  "name": "aaron-he-zhu--keyword-research",
+  "description": "This skill should be used when the user asks to \"find keywords\", \"keyword research\", \"what should I write about\", \"keyword difficulty score\", \"search volume data\", \"identify ranking opportunities\", \"topic ideas\", \"what are people searching for\", \"which keywords to target\", \"content ideas for [topic]\", or \"long-tail keyword suggestions\". Discovers high-value keywords with search intent classification (informational/commercial/transactional/navigational), keyword difficulty (KD) scoring, monthly search volume (MSV), CPC estimates, and AI citation potential. Produces ranked keyword lists, topic clusters with pillar + cluster page assignments, and priority-scored content calendars. Works with Ahrefs, SEMrush, Google Keyword Planner, Google Search Console, or manual data input. For competitor keyword gaps, see competitor-analysis. For topic coverage gaps, see content-gap-analysis.",
+  "version": "3.0.0",
+  "author": {
+    "name": "aaron-he-zhu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/keyword-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/keyword-research"
+}

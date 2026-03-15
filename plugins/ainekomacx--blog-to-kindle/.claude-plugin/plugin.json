@@ -1,0 +1,10 @@
+{
+  "name": "ainekomacx--blog-to-kindle",
+  "description": "Scrape blogs/essay sites and compile into Kindle-friendly EPUB with AI-generated cover. Use for requests to download blogs for Kindle, compile essays into ebook, or send blog archives to Kindle. Supports Paul Graham, Kevin Kelly, Derek Sivers, Wait But Why, Astral Codex Ten, and custom sites.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ainekomacx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ainekomacx/blog-to-kindle",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ainekomacx/blog-to-kindle"
+}

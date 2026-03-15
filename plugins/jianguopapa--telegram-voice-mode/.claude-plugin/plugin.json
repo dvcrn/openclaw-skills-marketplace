@@ -1,0 +1,10 @@
+{
+  "name": "jianguopapa--telegram-voice-mode",
+  "description": "语音回复模式。使用 /voiceMode 切换语音回复模式。\n 开启后所有回复自动转换为语音发送，关闭后恢复文字回复。\n 支持 Telegram、iMessage 等渠道的语音消息发送。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jianguopapa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jianguopapa/telegram-voice-mode",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jianguopapa/telegram-voice-mode"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "pfrederiksen--email-intelligence",
+  "description": "Analyze email inbox health with weather metaphors, spam/signal classification, email debt scoring, and ghost detection. Use when user asks about inbox status, email overwhelm, who they're ghosting, or email time cost. Requires himalaya CLI configured with IMAP.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pfrederiksen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pfrederiksen/email-intelligence",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pfrederiksen/email-intelligence"
+}

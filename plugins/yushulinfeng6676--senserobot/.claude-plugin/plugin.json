@@ -1,0 +1,10 @@
+{
+  "name": "yushulinfeng6676--senserobot",
+  "description": "用户可以让 OpenClaw 控制元萝卜下棋机器人进行围棋取落子、机械臂移动、表情控制、语音播报、棋盘管理时使用此技能。触发词包括\"元萝卜\"、\"下棋机器人\"、\"机械臂控制\"。",
+  "version": "1.0.0",
+  "author": {
+    "name": "yushulinfeng6676"
+  },
+  "homepage": "www.SenseRobotChess.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yushulinfeng6676/senserobot"
+}

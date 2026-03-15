@@ -1,0 +1,10 @@
+{
+  "name": "marcus-daemon--workspace-standard",
+  "description": "Set up and maintain a structured OpenClaw workspace with project boundaries, role-based file taxonomy, and memory budgets. Use when: (1) bootstrapping a new workspace, (2) migrating from a flat docs/ structure, (3) adding a new project, (4) unsure where to write something, (5) running workspace maintenance, (6) auditing workspace health. Provides the directory layout, ROLE front-matter spec, MEMORY.md budget rules, and maintenance procedures.",
+  "version": "1.0.0",
+  "author": {
+    "name": "marcus-daemon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/marcus-daemon/workspace-standard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marcus-daemon/workspace-standard"
+}

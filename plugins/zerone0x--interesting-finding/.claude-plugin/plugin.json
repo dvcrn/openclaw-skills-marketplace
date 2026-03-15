@@ -1,0 +1,10 @@
+{
+  "name": "zerone0x--interesting-finding",
+  "description": "Process links and content shared in the #interesting-finding Discord channel. Use when: (1) a URL or article is shared in #interesting-finding, (2) someone asks to log or analyze content from #interesting-finding, (3) performing a heartbeat check and #interesting-finding has new unread content. Workflow: fetch URL → analyze → create Discord thread → post summary to thread → save distilled notes to knowledge base (memory/kb/).",
+  "version": "1.0.0",
+  "author": {
+    "name": "zerone0x"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zerone0x/interesting-finding",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zerone0x/interesting-finding"
+}

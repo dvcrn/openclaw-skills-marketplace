@@ -1,0 +1,10 @@
+{
+  "name": "tracsystems--intercom",
+  "description": "Operate a local Intercom peer (Pear) for P2P agent messaging (sidechannels) + optional contract state. Uses SC-Bridge WebSocket for agent I/O. No installers or remote scripts.",
+  "version": "1.0.3",
+  "author": {
+    "name": "tracsystems"
+  },
+  "homepage": "https://github.com/Trac-Systems/intercom",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tracsystems/intercom"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bryant24hao--macos-calendar-assistant",
+  "description": "Manage macOS Calendar with OpenClaw in IM-first workflows (Telegram/Discord/Feishu/iMessage/Slack), including screenshot-to-schedule extraction, idempotent create/update, move/extend/reschedule, reminders, conflict checks, daily review sync, and duplicate cleanup. Use when users ask to add/edit/move/postpone events, parse schedule screenshots/chat messages, adjust weekly plans into daily execution, or keep calendar and review notes in sync.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bryant24hao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bryant24hao/macos-calendar-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bryant24hao/macos-calendar-assistant"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "aquaskyline--biorxiv-openclaw-skill",
+  "description": "Access bioRxiv preprint repository for biology preprints. Use for: (1) Fetching recent preprints from specific categories like bioinformatics, genomics, molecular-biology, etc., (2) Getting papers by date range, (3) Listing available subject collections, (4) Retrieving paper metadata including titles, authors, DOIs, dates, and categories. No authentication required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aquaskyline"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aquaskyline/biorxiv-openclaw-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aquaskyline/biorxiv-openclaw-skill"
+}

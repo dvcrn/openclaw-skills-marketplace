@@ -1,0 +1,10 @@
+{
+  "name": "kckyan--web-autopilot",
+  "description": "Record any web app operation once, AI turns it into a reusable automation tool. Use when: (1) automating repetitive tasks on any web application (reports, submissions, data extraction), (2) creating no-code automation for any logged-in web app, (3) building callable tools from recorded browser sessions. Supports REST, GraphQL, form submissions, file uploads, any login method. Task types: query/export (data extraction) and submit (form submissions like expense reports, travel requests, payment requests).",
+  "version": "1.1.0",
+  "author": {
+    "name": "kckyan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kckyan/web-autopilot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kckyan/web-autopilot"
+}

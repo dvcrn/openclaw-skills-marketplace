@@ -1,0 +1,10 @@
+{
+  "name": "tradesmantools--tradesman-verify",
+  "description": "Verify contractor credentials via OpenCorporates business entity lookup (140+ jurisdictions) and Accumulate blockchain identity verification. W3C Verifiable Credentials for contractor license, insurance, and business entity validation.",
+  "version": "0.1.4",
+  "author": {
+    "name": "tradesmantools"
+  },
+  "homepage": "https://gitlab.com/lv8rlabs/tradesman-verify",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tradesmantools/tradesman-verify"
+}

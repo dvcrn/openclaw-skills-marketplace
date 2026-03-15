@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--pinecone",
+  "description": "Pinecone vector database — manage indexes, upsert vectors, query similarity search, manage namespaces, and track collections via the Pinecone API. Build semantic search, recommendation systems, and RAG pipelines with high-performance vector storage. Built for AI agents — Python stdlib only, zero dependencies. Use for vector search, semantic similarity, RAG applications, recommendation engines, and AI memory systems.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/pinecone"
+}

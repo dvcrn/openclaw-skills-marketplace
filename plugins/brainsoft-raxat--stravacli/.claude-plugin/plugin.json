@@ -1,0 +1,10 @@
+{
+  "name": "brainsoft-raxat--stravacli",
+  "description": "Use the stravacli terminal tool to access Strava data (athlete profile, activities, streams, routes, segments, clubs, gear, uploads) and perform limited write actions (activity update/upload). Trigger when the user asks for Strava metrics/history/exports or wants Strava automation via CLI.",
+  "version": "2.2.98",
+  "author": {
+    "name": "brainsoft-raxat"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brainsoft-raxat/stravacli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brainsoft-raxat/stravacli"
+}

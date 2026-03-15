@@ -1,0 +1,10 @@
+{
+  "name": "vince-winkintel--checkly-cli-skills",
+  "description": "Comprehensive Checkly CLI command reference and Monitoring as Code workflows. Use when user mentions Checkly CLI, monitoring as code, synthetic monitoring, API checks, browser checks, Playwright testing, check deployment, or npx checkly commands. Routes to specialized sub-skills for auth, config, checks, testing, deployment, imports, constructs, and advanced patterns. Triggers on checkly, monitoring as code, synthetic monitoring, checkly cli, npx checkly.",
+  "version": "1.0.1",
+  "author": {
+    "name": "vince-winkintel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vince-winkintel/checkly-cli-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vince-winkintel/checkly-cli-skills"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sukanto-m--sec-watcher",
+  "description": "Monitor SEC EDGAR filings for AI/tech companies in real time. Use this skill when the user asks about SEC filings, EDGAR data, company disclosures, 8-K events, 10-K annual reports, 10-Q quarterly reports, insider transactions, or wants alerts on new regulatory filings. Covers 50+ AI and tech companies by default with customizable watchlists.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sukanto-m"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sukanto-m/sec-watcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sukanto-m/sec-watcher"
+}

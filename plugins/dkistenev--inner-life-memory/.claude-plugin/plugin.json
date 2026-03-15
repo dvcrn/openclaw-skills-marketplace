@@ -1,0 +1,10 @@
+{
+  "name": "dkistenev--inner-life-memory",
+  "description": "Your agent loses context between sessions and performs familiarity instead of genuine recall. inner-life-memory transforms passive logging into active development — structured memories with confidence scores, curiosity tracking, and questions that carry forward.",
+  "version": "1.0.4",
+  "author": {
+    "name": "dkistenev"
+  },
+  "homepage": "https://github.com/DKistenev/openclaw-inner-life",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dkistenev/inner-life-memory"
+}

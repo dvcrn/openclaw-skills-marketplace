@@ -1,0 +1,10 @@
+{
+  "name": "zuoanco--sre-operator",
+  "description": "提供结构化的服务器运维工作流程，包含系统识别、安全检查、命令验证和故障排查；当用户需要系统管理、性能优化、日志分析或服务器维护时使用",
+  "version": "0.0.1",
+  "author": {
+    "name": "zuoanco"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zuoanco/sre-operator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zuoanco/sre-operator"
+}

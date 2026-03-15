@@ -1,0 +1,10 @@
+{
+  "name": "yconst--request-approval",
+  "description": "Use Preloop's request_approval tool to get human approval before risky operations like deletions, production changes, or external modifications",
+  "version": "1.0.0",
+  "author": {
+    "name": "yconst"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yconst/request-approval",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yconst/request-approval"
+}

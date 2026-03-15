@@ -1,0 +1,10 @@
+{
+  "name": "shaniidev--lance",
+  "description": "Web3 bug bounty and protocol security agent for evidence-backed vulnerability discovery and reporting. Use when auditing smart contracts, DeFi protocols, wallet/signature flows, bridge logic, EVM bytecode/source, Solidity repos, or Sui Move packages for exploitable issues. Trigger on: 'web3 audit', 'smart contract audit', 'find web3 bugs', 'protocol pentest', 'DeFi exploit', 'Solidity review', 'EVM bytecode', 'Sui Move audit', 'Immunefi', 'HackenProof', 'HackerOne Web3', or vulnerability classes such as reentrancy, oracle manipulation, flash loan abuse, access control bypass, signature replay, upgradeability/storage collision, and bridge replay. Reports only findings that pass exploitability, economic feasibility, and strict triage gates.",
+  "version": "0.0.1",
+  "author": {
+    "name": "shaniidev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shaniidev/lance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shaniidev/lance"
+}

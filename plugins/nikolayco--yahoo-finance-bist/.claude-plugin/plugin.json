@@ -1,0 +1,10 @@
+{
+  "name": "nikolayco--yahoo-finance-bist",
+  "description": "Yahoo Finance API tabanlı tarihsel veri analizi, algoritmik teknik indikatör skoru (RSI, MACD, Stoch, SMA), Excel geçmiş veri dışa aktarma, portföy alarm takibi ve işlem loglama. BIST (.IS), ABD, kripto, emtia ve parite desteklenir. Kullanıcı 'indikatör', 'skor', 'excel', 'geçmiş veri', 'işlem geçmişi', 'portföy raporu' gibi kelimeler kullandığında devreye girer.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nikolayco"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nikolayco/yahoo-finance-bist",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nikolayco/yahoo-finance-bist"
+}

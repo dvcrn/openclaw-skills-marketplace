@@ -1,0 +1,10 @@
+{
+  "name": "spooktheducks--honcho-memory-mux",
+  "description": "Install and enable Honcho + the @alloralabs/honcho-memory-mux extension, migrate legacy file memory, and update workspace instructions so agents use memory via Honcho-first multiplexed retrieval with local-file fallback.",
+  "version": "0.1.0",
+  "author": {
+    "name": "spooktheducks"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spooktheducks/honcho-memory-mux",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spooktheducks/honcho-memory-mux"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "deantiwang--bark-push",
+  "description": "Send push notifications to iOS devices via Bark. Use when you need to send a push notification to user's iPhone. Triggered by phrases like \"send a notification\", \"push to phone\", \"bark notify\", or when explicitly asked to send a push.",
+  "version": "1.0.2",
+  "author": {
+    "name": "deantiwang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deantiwang/bark-push",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deantiwang/bark-push"
+}

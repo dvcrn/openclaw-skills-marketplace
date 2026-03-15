@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--permission-auditor",
+  "description": "Generate RBAC permission configs from your routes. Use when you need role-based access control without building it from scratch.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/permission-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/permission-auditor"
+}

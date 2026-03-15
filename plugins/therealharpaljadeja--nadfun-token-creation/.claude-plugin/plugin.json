@@ -1,0 +1,10 @@
+{
+  "name": "therealharpaljadeja--nadfun-token-creation",
+  "description": "Guide for creating a token on Nad.fun. Covers the full 4-step flow - uploading an image, uploading metadata, mining a salt for a vanity address, and deploying the token on-chain via the BondingCurveRouter contract.",
+  "version": "1.0.0",
+  "author": {
+    "name": "therealharpaljadeja"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/therealharpaljadeja/nadfun-token-creation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/therealharpaljadeja/nadfun-token-creation"
+}

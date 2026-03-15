@@ -1,0 +1,10 @@
+{
+  "name": "gaojizhou--epub",
+  "description": "Use this skill whenever the user wants to read, parse, extract content from, modify, or otherwise process an .epub file. Triggers include any mention of \".epub\", \"ebook\", \"epub file\", or requests to extract chapters, table of contents, text, images, or metadata from an ebook. Also use when the user wants to convert epub content to another format, inspect epub structure, or edit epub files. Since epub files are ZIP archives in disguise, this skill uses a reliable unzip-then-parse approach that always works. Use this skill even for seemingly simple epub tasks like \"read this epub\" or \"show me the chapters\" — the extraction workflow is always needed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gaojizhou"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gaojizhou/epub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gaojizhou/epub"
+}

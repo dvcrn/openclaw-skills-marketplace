@@ -1,0 +1,10 @@
+{
+  "name": "sunnyyao2222-eng--feishu-doc-write",
+  "description": "Feishu (Lark) Document API writing spec. Converts Markdown content to Feishu Block structures and writes to cloud docs. Handles concurrency ordering. Use when syncing articles, creating document blocks, or writing long-form content to Feishu docs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sunnyyao2222-eng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunnyyao2222-eng/feishu-doc-write",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunnyyao2222-eng/feishu-doc-write"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "fortytwode--meta-video-ad-analyzer",
+  "description": "Extract and analyze content from video ads using Gemini Vision AI. Supports frame extraction, OCR text detection, audio transcription, and AI-powered scene analysis. Use when analyzing video creative content, extracting text overlays, or generating scene-by-scene descriptions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fortytwode"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fortytwode/meta-video-ad-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fortytwode/meta-video-ad-analyzer"
+}

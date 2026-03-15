@@ -1,0 +1,10 @@
+{
+  "name": "wpank--uniswap-pool-analysis",
+  "description": "Analyze Uniswap pool data including liquidity distribution, fee tiers, tick ranges, and TVL. Use when the user asks about pool metrics, liquidity analysis, or wants to query on-chain pool state.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/uniswap-pool-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/uniswap-pool-analysis"
+}

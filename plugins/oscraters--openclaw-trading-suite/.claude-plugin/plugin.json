@@ -1,0 +1,10 @@
+{
+  "name": "oscraters--openclaw-trading-suite",
+  "description": "Unified OpenClaw skill for autonomous algo and swing trading workflows: hypothesis generation, screening, technical/sentiment analysis, strategy-specific risk controls, execution gating, P&L and win-rate planning, and self-improvement loops backed by persistent trade data for ML/RL retraining.",
+  "version": "1.0.0",
+  "author": {
+    "name": "oscraters"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oscraters/openclaw-trading-suite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oscraters/openclaw-trading-suite"
+}

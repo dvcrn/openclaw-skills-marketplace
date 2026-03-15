@@ -1,0 +1,10 @@
+{
+  "name": "nuwaiapp--kapsel",
+  "description": "Project memory capsules — archive completed project knowledge to Google Drive and reload it on demand. Use this skill whenever the user mentions \"Kapsel\", \"capsule\", \"project archive\", \"project memory\", or wants to store, recall, or manage knowledge from completed projects. Also trigger when the user says things like \"save this project\", \"archive this\", \"I'm done with this project\", \"load the old project\", \"what did we do on project X?\", or \"forget this project but keep the knowledge\". Works with rclone and any cloud remote (Google Drive, OneDrive, S3, etc.).",
+  "version": "1.0.0",
+  "author": {
+    "name": "nuwaiapp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nuwaiapp/kapsel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nuwaiapp/kapsel"
+}

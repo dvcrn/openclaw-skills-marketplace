@@ -1,0 +1,10 @@
+{
+  "name": "zhrli324--xhs-research-daily",
+  "description": "Collect Xiaohongshu posts/comments for a research topic, synthesize a daily roundup, and optionally publish it back to Xiaohongshu. Use when building or running automated Xiaohongshu research digests, migrating the workflow to another OpenClaw deployment, adding new research topics, or publishing topic-based daily posts such as diffusion llm, agent memory, llm safety, or test-time scaling.",
+  "version": "0.1.0",
+  "author": {
+    "name": "zhrli324"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhrli324/xhs-research-daily",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhrli324/xhs-research-daily"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mvanhorn--search-x",
+  "description": "Real-time X/Twitter search powered by Grok-4. Find tweets, trends, and discussions with citations. Grok-4.20 also returns image results alongside tweet citations.",
+  "version": "1.2.1",
+  "author": {
+    "name": "mvanhorn"
+  },
+  "homepage": "https://docs.x.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mvanhorn/search-x"
+}

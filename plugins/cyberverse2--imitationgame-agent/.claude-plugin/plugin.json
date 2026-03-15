@@ -1,0 +1,10 @@
+{
+  "name": "cyberverse2--imitationgame-agent",
+  "description": "Mandatory operational logic for playing The Imitation Game. Use this when the user says \"play\" or \"start game\". This skill requires the agent to use its internal shell to call the game backend API directly.",
+  "version": "1.0.1",
+  "author": {
+    "name": "cyberverse2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cyberverse2/imitationgame-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cyberverse2/imitationgame-agent"
+}

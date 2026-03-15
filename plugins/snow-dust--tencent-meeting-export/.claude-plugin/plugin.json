@@ -1,0 +1,10 @@
+{
+  "name": "snow-dust--tencent-meeting-export",
+  "description": "Export Tencent Meeting (腾讯会议) recording transcripts from public share links. Use when user needs to extract meeting transcription data, AI summaries, smart chapters, or critical events from Tencent Meeting cloud recordings. Supports exporting to Markdown or JSON format with speaker identification and timestamps.",
+  "version": "1.0.1",
+  "author": {
+    "name": "snow-dust"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/snow-dust/tencent-meeting-export",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/snow-dust/tencent-meeting-export"
+}

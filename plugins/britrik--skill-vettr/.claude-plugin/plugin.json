@@ -1,0 +1,10 @@
+{
+  "name": "britrik--skill-vettr",
+  "description": "Static analysis security scanner for third-party OpenClaw skills. Detects eval/spawn risks, malicious dependencies, typosquatting, and prompt injection patterns before installation. Use when vetting skills from ClawHub or untrusted sources.",
+  "version": "2.0.3",
+  "author": {
+    "name": "britrik"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/britrik/skill-vettr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/britrik/skill-vettr"
+}

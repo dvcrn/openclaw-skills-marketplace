@@ -1,0 +1,10 @@
+{
+  "name": "guoqunabc--browser-zombie-cleaner",
+  "description": "Detect and clean up zombie browser processes left by OpenClaw's browser tool. When the OpenClaw Gateway restarts, Playwright-launched browser processes get orphaned and accumulate memory. This skill identifies them safely and optionally terminates them. Use when: memory is high, browser processes are piling up, or as part of periodic health checks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "guoqunabc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guoqunabc/browser-zombie-cleaner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guoqunabc/browser-zombie-cleaner"
+}

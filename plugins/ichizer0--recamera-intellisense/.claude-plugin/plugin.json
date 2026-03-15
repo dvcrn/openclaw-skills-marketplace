@@ -1,0 +1,10 @@
+{
+  "name": "ichizer0--recamera-intellisense",
+  "description": "Registers reCamera devices, configures AI detection models/rules/schedules, monitors and clears detection events, fetches event snapshots, and runs manual image/video capture. Uses local Python CLI scripts with JSON I/O. Triggers on camera onboarding, detection setup, event polling, snapshot capture, or reCamera automation tasks.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ichizer0"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ichizer0/recamera-intellisense",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ichizer0/recamera-intellisense"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "maddy-cc--seedance-video-volcengine",
+  "description": "Generate AI videos with ByteDance Seedance (豆包/火山方舟) via Ark API. Supports text-to-video and image-to-video using model endpoint doubao-seedance-1-5-pro-251215. Use when the user wants to create videos from text or from an image, or mentions 火山、豆包、Seedance or AI video generation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maddy-cc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maddy-cc/seedance-video-volcengine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maddy-cc/seedance-video-volcengine"
+}

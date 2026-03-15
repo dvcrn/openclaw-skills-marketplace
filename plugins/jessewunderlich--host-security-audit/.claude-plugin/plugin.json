@@ -1,0 +1,10 @@
+{
+  "name": "jessewunderlich--host-security-audit",
+  "description": "Comprehensive security audit and hardening for OpenClaw host machines. Checks firewall, disk encryption, open ports, auto-updates, brew outdated, OpenClaw version, disk usage, Time Machine, suspicious processes, and API key exposure. Use when user asks for a security audit, hardening check, security posture review, or wants to schedule periodic security monitoring. Works on macOS and Linux.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jessewunderlich"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jessewunderlich/host-security-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jessewunderlich/host-security-audit"
+}

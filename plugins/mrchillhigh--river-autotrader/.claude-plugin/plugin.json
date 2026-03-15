@@ -1,0 +1,10 @@
+{
+  "name": "mrchillhigh--river-autotrader",
+  "description": "River ($RIVER) 加密货币实时信息追踪工具，提供价格走势、波动率、Staking 收益、TVL 等关键数据。适用于持有 RIVER 或关注比特币收益协议的用户。当用户询问 River 价格、走势、波动、Staking、解锁、空投等信息时使用此技能。每次调用费用 0.001 USDT。River ($RIVER) cryptocurrency real-time information tracker with price trends, volatility, Staking rewards, TVL data. Use when users ask about River price, trends, volatility, Staking, unlocks, airdrops. Fee: 0.001 USDT per call.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrchillhigh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrchillhigh/river-autotrader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrchillhigh/river-autotrader"
+}

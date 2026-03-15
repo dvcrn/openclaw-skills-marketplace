@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--granola-api",
+  "description": "Granola MCP integration with managed authentication. Use this skill when users want to search meeting content, get meeting summaries, find action items, or retrieve transcripts from Granola via MCP. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.1",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/granola-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/granola-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "oscraters--massive",
+  "description": "Bash CLI wrapper and OpenClaw skill for Massive's public REST API. Use when Codex or an OpenClaw agent needs to query Massive market-data endpoints from a shell workflow, align authentication to OpenClaw-style secret references, keep logs free of secrets, or integrate Massive responses into agent pipelines and other CLI tools.",
+  "version": "1.0.1",
+  "author": {
+    "name": "oscraters"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oscraters/massive",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oscraters/massive"
+}

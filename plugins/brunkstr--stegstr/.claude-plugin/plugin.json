@@ -1,0 +1,10 @@
+{
+  "name": "brunkstr--stegstr",
+  "description": "Decode and embed Stegstr payloads in PNG images. Use when the user needs to extract hidden Nostr data from a Stegstr image, encode a payload into a cover PNG, or work with steganographic social networking (Nostr-in-images). Supports CLI (stegstr-cli decode, detect, embed, post) for scripts and AI agents.",
+  "version": "1.0.1",
+  "author": {
+    "name": "brunkstr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brunkstr/stegstr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brunkstr/stegstr"
+}

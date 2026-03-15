@@ -1,0 +1,10 @@
+{
+  "name": "scikkk--voice-picker",
+  "description": "Recommend the best SenseAudio voice for any scenario or emotion. Use when users ask which voice to use — e.g. \"儿童故事播客用什么音色\", \"电商直播带货适合哪个声音\", \"我需要撒娇感的女声\", \"有没有傲娇的音色\". No API key needed for recommendations; optionally generates a TTS preview sample.",
+  "version": "1.0.0",
+  "author": {
+    "name": "scikkk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/scikkk/voice-picker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scikkk/voice-picker"
+}

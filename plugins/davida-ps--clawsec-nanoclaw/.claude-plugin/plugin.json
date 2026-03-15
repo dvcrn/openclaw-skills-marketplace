@@ -1,0 +1,10 @@
+{
+  "name": "davida-ps--clawsec-nanoclaw",
+  "description": "Use when checking for security vulnerabilities in NanoClaw skills, before installing new skills, or when asked about security advisories affecting the bot",
+  "version": "0.0.3",
+  "author": {
+    "name": "davida-ps"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/davida-ps/clawsec-nanoclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davida-ps/clawsec-nanoclaw"
+}

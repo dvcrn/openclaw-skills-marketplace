@@ -1,0 +1,10 @@
+{
+  "name": "theshadowrose--token-compressor",
+  "description": "Pre-process prompts through 3 compression layers before sending to paid APIs. Uses a local Ollama model to intelligently compress messages and summarize history. Same quality, fewer tokens, lower bills.",
+  "version": "1.1.0",
+  "author": {
+    "name": "theshadowrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/token-compressor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/token-compressor"
+}

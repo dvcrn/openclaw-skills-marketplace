@@ -1,0 +1,10 @@
+{
+  "name": "ceorater-skills--ceorater",
+  "description": "Get institutional-grade CEO performance analytics for S&P 500 companies. Proprietary scores: CEORaterScore (composite), AlphaScore (market outperformance), RevenueCAGRScore (revenue growth), CompScore (compensation efficiency). Underlying data includes Total Stock Return (TSR) vs. S&P 500 (SPY), average annual returns, CEO total compensation (most recent fiscal year from proxy filings), and tenure-adjusted Revenue CAGR. Each record includes CEO name, company name, ticker, sector, industry, and tenure dates. Coverage: 500+ CEOs, updated daily. For live record count and last refresh timestamp, call GET /v1/meta. Useful for investment research, due diligence, and executive compensation analysis.",
+  "version": "1.0.9",
+  "author": {
+    "name": "ceorater-skills"
+  },
+  "homepage": "https://www.ceorater.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ceorater-skills/ceorater"
+}

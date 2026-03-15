@@ -1,0 +1,10 @@
+{
+  "name": "jacob-bd--universal-skills-manager",
+  "description": "The master coordinator for AI skills. Discovers skills from multiple sources (SkillsMP.com, SkillHub, and ClawHub), manages installation, and synchronization across Claude Code, Gemini CLI, Google Anti-Gravity, OpenCode, and other AI tools. Handles User-level (Global) and Project-level (Local) scopes.",
+  "version": "1.7.0",
+  "author": {
+    "name": "jacob-bd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jacob-bd/universal-skills-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jacob-bd/universal-skills-manager"
+}

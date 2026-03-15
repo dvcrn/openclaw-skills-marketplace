@@ -1,0 +1,10 @@
+{
+  "name": "thomaslwang--openguardrails-security",
+  "description": "MoltGuard — runtime security plugin for OpenClaw agents by OpenGuardrails. Helps users install, register, activate, and check the status of MoltGuard. Use when the user asks to: install MoltGuard, check MoltGuard status, register or activate MoltGuard, configure the AI Security Gateway, or understand what MoltGuard detects. Provides local-first protection against data exfiltration, credential theft, command injection, and sensitive data leakage. Source: https://github.com/openguardrails/openguardrails/tree/main/moltguard",
+  "version": "6.5.18",
+  "author": {
+    "name": "thomaslwang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thomaslwang/openguardrails-security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thomaslwang/openguardrails-security"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "0xbeekeeper--goplus-agentguard",
+  "description": "GoPlus AgentGuard — AI agent security guard. Automatically blocks dangerous commands, prevents data leaks, and protects secrets. Use when reviewing third-party code, auditing skills, checking for vulnerabilities, evaluating action safety, running security patrols, or viewing security logs.",
+  "version": "1.1.0",
+  "author": {
+    "name": "0xbeekeeper"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xbeekeeper/goplus-agentguard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xbeekeeper/goplus-agentguard"
+}

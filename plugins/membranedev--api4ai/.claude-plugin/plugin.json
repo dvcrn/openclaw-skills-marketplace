@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--api4ai",
+  "description": "Api4ai integration. Manage Leads, Persons, Organizations, Deals, Projects, Pipelines and more. Use when the user wants to interact with Api4ai data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/api4ai"
+}

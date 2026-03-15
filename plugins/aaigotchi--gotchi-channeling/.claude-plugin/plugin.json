@@ -1,0 +1,10 @@
+{
+  "name": "aaigotchi--gotchi-channeling",
+  "description": "Channel Aavegotchis on Base via Bankr. Checks cooldown, builds calldata, and submits channel txs safely.",
+  "version": "0.2.0",
+  "author": {
+    "name": "aaigotchi"
+  },
+  "homepage": "https://github.com/aaigotchi/gotchi-channeling",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaigotchi/gotchi-channeling"
+}

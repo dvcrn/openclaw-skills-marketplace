@@ -1,0 +1,10 @@
+{
+  "name": "silencezx007--capture-website",
+  "description": "Capture website screenshots from the command line. Use when user wants to take screenshots of any URL (Twitter, news sites, webpages) and send them via Discord/Feishu. Requires capture-website-cli to be installed (npm install -g capture-website-cli).",
+  "version": "1.0.0",
+  "author": {
+    "name": "silencezx007"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/silencezx007/capture-website",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/silencezx007/capture-website"
+}

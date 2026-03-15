@@ -1,0 +1,10 @@
+{
+  "name": "deploydon--aifs-space",
+  "description": "Store and retrieve files via AIFS.space cloud storage API. Use when persisting notes, documents, or data to the cloud; syncing files across sessions; or when the user mentions AIFS, aifs.space, or cloud file storage. Not to be used for any sensitive content.",
+  "version": "1.0.0",
+  "author": {
+    "name": "deploydon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deploydon/aifs-space",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deploydon/aifs-space"
+}

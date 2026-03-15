@@ -1,0 +1,10 @@
+{
+  "name": "843645440--context-not-control",
+  "description": "Enable \"Context, not Control\" workflow - clarify requirements through multi-turn dialogue, reduce rework, and execute with appropriate permission levels. Use when users want AI to take more autonomy, need help clarifying vague requirements, or want to establish trust-based collaboration patterns. Supports three permission levels (Master/Collaborative/Assistant) and automatic context management.",
+  "version": "1.0.0",
+  "author": {
+    "name": "843645440"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/843645440/context-not-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/843645440/context-not-control"
+}

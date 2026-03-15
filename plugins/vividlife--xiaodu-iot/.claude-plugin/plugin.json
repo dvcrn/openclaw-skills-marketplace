@@ -1,0 +1,10 @@
+{
+  "name": "vividlife--xiaodu-iot",
+  "description": "小度智能设备控制技能。用于控制小度音箱、IoT设备、查看设备列表、语音播报等。当用户需要控制小度智能设备、查询设备状态、发送语音指令或管理智能家居时使用此技能。",
+  "version": "1.0.0",
+  "author": {
+    "name": "vividlife"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vividlife/xiaodu-iot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vividlife/xiaodu-iot"
+}

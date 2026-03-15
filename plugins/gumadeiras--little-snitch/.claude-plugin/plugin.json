@@ -1,0 +1,10 @@
+{
+  "name": "gumadeiras--little-snitch",
+  "description": "Control Little Snitch firewall on macOS. View logs, manage profiles and rule groups, monitor network traffic. Use when the user wants to check firewall activity, enable/disable profiles or blocklists, or troubleshoot network connections.",
+  "version": "1.0.1",
+  "author": {
+    "name": "gumadeiras"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gumadeiras/little-snitch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gumadeiras/little-snitch"
+}

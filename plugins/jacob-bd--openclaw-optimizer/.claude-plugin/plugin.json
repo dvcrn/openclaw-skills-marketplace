@@ -1,0 +1,10 @@
+{
+  "name": "jacob-bd--openclaw-optimizer",
+  "description": "Use when: you want to optimize an OpenClaw setup (v2026.2.23+) — cost reduction, model routing,\n provider configuration, context management, cron automation, sub-agent architecture, skills,\n or agent personality/identity optimization (SOUL.md, IDENTITY.md, AGENTS.md, USER.md audit).\n Also use when troubleshooting any OpenClaw error, startup failure, channel issue, or provider problem.\n CLI-first. Advisory by default — audit first, propose exact changes, apply only on approval.\n Output: prioritized plan + exact CLI commands + config patches + rollback.",
+  "version": "1.19.0",
+  "author": {
+    "name": "jacob-bd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jacob-bd/openclaw-optimizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jacob-bd/openclaw-optimizer"
+}

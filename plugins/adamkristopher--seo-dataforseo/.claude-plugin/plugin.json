@@ -1,0 +1,10 @@
+{
+  "name": "adamkristopher--seo-dataforseo",
+  "description": "SEO keyword research using the DataForSEO API. Perform keyword analysis, YouTube keyword research, competitor analysis, SERP analysis, and trend tracking. Use when the user asks to: research keywords, analyze search volume/CPC/competition, find keyword suggestions, check keyword difficulty, analyze competitors, get trending topics, do YouTube SEO research, or optimize landing page keywords. Requires a DataForSEO API account and credentials in .env file.",
+  "version": "1.0.0",
+  "author": {
+    "name": "adamkristopher"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adamkristopher/seo-dataforseo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adamkristopher/seo-dataforseo"
+}

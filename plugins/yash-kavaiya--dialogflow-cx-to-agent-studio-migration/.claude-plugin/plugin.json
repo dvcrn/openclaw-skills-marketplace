@@ -1,0 +1,10 @@
+{
+  "name": "yash-kavaiya--dialogflow-cx-to-agent-studio-migration",
+  "description": "Migrate Dialogflow CX agents to CX Agent Studio (CES) using official REST/RPC APIs. Exports full CX agent packages, validates components (intents, entities, flows, pages, etc.), and creates CES apps/agents (remote Dialogflow agent) with a migration report.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yash-kavaiya"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yash-kavaiya/dialogflow-cx-to-agent-studio-migration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yash-kavaiya/dialogflow-cx-to-agent-studio-migration"
+}

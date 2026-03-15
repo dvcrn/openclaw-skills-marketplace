@@ -1,0 +1,10 @@
+{
+  "name": "xavjer--openclaw-commute-traffic",
+  "description": "Check real-time traffic conditions for a route between two locations using TomTom. Use when the user asks about traffic, commute time, best time to leave, driving conditions, or road congestion. The user provides origin and destination conversationally — extract them from context.",
+  "version": "0.1.0",
+  "author": {
+    "name": "xavjer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xavjer/openclaw-commute-traffic",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xavjer/openclaw-commute-traffic"
+}

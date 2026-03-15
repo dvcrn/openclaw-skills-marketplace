@@ -1,0 +1,10 @@
+{
+  "name": "triwinds--searxng-docker",
+  "description": "Search the web using a local SearXNG instance (privacy-respecting metasearch engine). Use when user asks to search, look something up, \"搜索\", \"搜一下\", \"查一下\", or when web_search returns poor results. Supports categories (news, images, videos, IT, science), time filters, language, and multiple engines (Google, Bing, DuckDuckGo, etc.). No API key needed — fully self-hosted.",
+  "version": "1.0.0",
+  "author": {
+    "name": "triwinds"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/triwinds/searxng-docker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/triwinds/searxng-docker"
+}

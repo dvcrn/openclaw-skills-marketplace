@@ -1,0 +1,10 @@
+{
+  "name": "cpojer--orf",
+  "description": "On-demand ORF news digest in German. Use when the user says 'orf', 'pull orf', or 'orf 10'. Focus on Austrian politics (Inland) and international politics (Ausland) + major headlines; exclude sports. Send each item as its own message (Title + Age + Link). Then generate a Nano Banana image in a cartoon ZiB studio with the anchor presenting the news, plus subtle Easter eggs based on the selected stories.",
+  "version": "1.0.2",
+  "author": {
+    "name": "cpojer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cpojer/orf",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cpojer/orf"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "coolhackboy--seedance-2",
+  "description": "Use PoYo AI Seedance 1.5 Pro for higher-end image-to-video generation through the `https://api.poyo.ai/api/generate/submit` endpoint. Use when a user wants longer 4s, 8s, or 12s clips, optional audio, fixed-lens control, broad aspect-ratio support, or PoYo payloads for `seedance-1.5-pro`.",
+  "version": "1.0.0",
+  "author": {
+    "name": "coolhackboy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/coolhackboy/seedance-2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/coolhackboy/seedance-2"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xenofex7--phishing-reporter",
+  "description": "Report phishing, malware, and scam URLs to Google Safe Browsing, NCSC (Swiss Cyber Security), and other abuse reporting services. Use when a user shares a suspicious/phishing URL and wants it reported, or asks to report a dangerous website. Triggers on phrases like \"report phishing\", \"melde diese Seite\", \"report this URL\", \"phishing melden\", \"scam melden\", \"report abuse\".",
+  "version": "1.1.0",
+  "author": {
+    "name": "xenofex7"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xenofex7/phishing-reporter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xenofex7/phishing-reporter"
+}

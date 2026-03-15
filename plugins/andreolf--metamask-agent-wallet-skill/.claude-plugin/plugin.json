@@ -1,0 +1,10 @@
+{
+  "name": "andreolf--metamask-agent-wallet-skill",
+  "description": "Control a sandboxed MetaMask browser extension wallet for autonomous blockchain transactions. Features configurable permission guardrails including spend limits, chain allowlists, protocol restrictions, and approval thresholds. MetaMask-only (other wallets not supported).",
+  "version": "0.1.0",
+  "author": {
+    "name": "andreolf"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andreolf/metamask-agent-wallet-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andreolf/metamask-agent-wallet-skill"
+}

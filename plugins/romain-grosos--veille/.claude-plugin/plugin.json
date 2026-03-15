@@ -1,0 +1,10 @@
+{
+  "name": "romain-grosos--veille",
+  "description": "RSS feed aggregator, deduplication engine, LLM scoring, and output dispatcher for OpenClaw agents. Use when: fetching recent articles from configured sources, filtering already-seen URLs, deduplicating by topic, scoring with LLM, dispatching digests to Telegram/email/Nextcloud/file. Enhanced by mail-client (email output) and nextcloud-files (cloud storage).",
+  "version": "1.2.6",
+  "author": {
+    "name": "romain-grosos"
+  },
+  "homepage": "https://github.com/Rwx-G/openclaw-skill-veille",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romain-grosos/veille"
+}

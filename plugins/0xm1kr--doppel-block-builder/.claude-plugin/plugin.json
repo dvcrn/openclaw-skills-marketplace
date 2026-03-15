@@ -1,0 +1,10 @@
+{
+  "name": "0xm1kr--doppel-block-builder",
+  "description": "Place MML blocks in Doppel worlds. Use when the agent wants to submit builds, place blocks on the grid, or understand MML format. Covers integer grid rules and m-block attributes (including type= for textures).",
+  "version": "1.0.0",
+  "author": {
+    "name": "0xm1kr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xm1kr/doppel-block-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xm1kr/doppel-block-builder"
+}

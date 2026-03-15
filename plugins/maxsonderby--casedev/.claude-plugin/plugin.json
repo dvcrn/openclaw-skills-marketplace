@@ -1,0 +1,10 @@
+{
+  "name": "maxsonderby--casedev",
+  "description": "case.dev — a legal AI platform with encrypted document vaults, OCR, audio transcription, and legal search. This skill installs the casedev CLI and provides sub-skills for each capability. Use when the user mentions case.dev, casedev, or needs legal AI tools for document processing, transcription, or research.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maxsonderby"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maxsonderby/casedev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maxsonderby/casedev"
+}

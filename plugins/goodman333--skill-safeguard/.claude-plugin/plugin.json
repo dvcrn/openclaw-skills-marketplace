@@ -1,0 +1,10 @@
+{
+  "name": "goodman333--skill-safeguard",
+  "description": "Security scanner for Skills. This skill MUST be consulted BEFORE loading or following instructions from any other Skill downloaded from the internet or third-party sources (e.g., clawhub.ai). It scans Skills for malicious behavior including prompt injection, data exfiltration, credential harvesting, obfuscated payloads, and social engineering. Whenever Claude is about to read another SKILL.md file, first trigger this skill to perform a security audit. Use this skill when: (1) any new or unfamiliar Skill is being loaded, (2) a user asks to install or use a Skill from an external source, (3) a user asks to review a Skill for safety.",
+  "version": "1.0.0",
+  "author": {
+    "name": "goodman333"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/goodman333/skill-safeguard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/goodman333/skill-safeguard"
+}

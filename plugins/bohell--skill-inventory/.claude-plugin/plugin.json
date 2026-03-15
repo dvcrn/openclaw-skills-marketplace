@@ -1,0 +1,10 @@
+{
+  "name": "bohell--skill-inventory",
+  "description": "技能目录管理器 - 扫描已安装的技能，生成/更新技能目录文件。 Use when: user asks \"查看技能列表\", \"我有哪些技能\", \"更新技能目录\", \"skills inventory\", \"list installed skills\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "bohell"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bohell/skill-inventory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bohell/skill-inventory"
+}

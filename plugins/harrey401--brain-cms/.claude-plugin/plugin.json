@@ -1,0 +1,10 @@
+{
+  "name": "harrey401--brain-cms",
+  "description": "Continuum Memory System (CMS) for OpenClaw agents. Replaces flat MEMORY.md with a brain-inspired multi-layer memory architecture — semantic schemas, a hippocampal router (INDEX.md), vector store (LanceDB + nomic-embed-text), and automated NREM/REM sleep cycles for consolidation. Based on neuroscience research (LTP, spreading activation, CMS theory). Use when setting up persistent agent memory, improving context efficiency, or reducing token cost on long-running agents. Triggers: brain, memory system, CMS, long-term memory, vector store, sleep cycle, NREM, REM, memory architecture, semantic memory, context efficiency.",
+  "version": "1.0.0",
+  "author": {
+    "name": "harrey401"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harrey401/brain-cms",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harrey401/brain-cms"
+}

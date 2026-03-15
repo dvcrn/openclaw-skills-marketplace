@@ -1,0 +1,10 @@
+{
+  "name": "pangin--openclaw-confluence-skill",
+  "description": "Full Confluence Cloud REST API v2 skill (pages, spaces, folders, databases, whiteboards, comments, labels, tasks, properties, etc.) with basic/OAuth auth, pagination, and migration from confluence-cli.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pangin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pangin/openclaw-confluence-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pangin/openclaw-confluence-skill"
+}

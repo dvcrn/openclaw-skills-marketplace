@@ -1,0 +1,10 @@
+{
+  "name": "atefr--niri-ipc",
+  "description": "Control the Niri Wayland compositor on Linux via its IPC (`niri msg --json` / $NIRI_SOCKET). Use when you need to query Niri state (outputs/workspaces/windows/focused window) or perform actions (focus/move/close windows, switch workspaces, spawn commands, reload config) from an OpenClaw agent running on a Niri session.",
+  "version": "1.0.0",
+  "author": {
+    "name": "atefr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/atefr/niri-ipc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/atefr/niri-ipc"
+}

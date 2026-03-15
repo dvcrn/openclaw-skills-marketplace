@@ -1,0 +1,10 @@
+{
+  "name": "domilin--marsbit-news-skill",
+  "description": "Fetch MarsBit news and flash data through the hosted MCP route in marsbit-co. Use this for latest news, channel lookup, keyword search, detail, related news, and flash updates.",
+  "version": "1.0.7",
+  "author": {
+    "name": "domilin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/domilin/marsbit-news-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/domilin/marsbit-news-skill"
+}

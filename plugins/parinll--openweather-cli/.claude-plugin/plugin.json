@@ -1,0 +1,10 @@
+{
+  "name": "parinll--openweather-cli",
+  "description": "Use this skill when the user wants to run, troubleshoot, or extend the owget CLI for geocoding, current weather, and 5-day forecasts with OpenWeatherMap.",
+  "version": "1.0.8",
+  "author": {
+    "name": "parinll"
+  },
+  "homepage": "https://github.com/ParinLL/OpenWeatherMap-script",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/parinll/openweather-cli"
+}

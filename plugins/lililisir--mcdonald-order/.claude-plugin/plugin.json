@@ -1,0 +1,10 @@
+{
+  "name": "lililisir--mcdonald-order",
+  "description": "McDonald's China assistant (麦当劳助手) for coupon management, delivery ordering, and nutrition planning. Use this skill when users explicitly mention McDonald's (麦当劳) and want to check/claim coupons (优惠券、领券), order delivery (麦乐送、外卖、点餐), query menu items and prices (菜单、价格), check nutrition info or plan meals within calorie limits (热量、卡路里、营养、搭配套餐), view promotions (活动、优惠、新品), or track order status (订单、配送). Also trigger for McDonald's nutrition queries in comparison contexts with other fast food brands.",
+  "version": "1.0.5",
+  "author": {
+    "name": "lililisir"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lililisir/mcdonald-order",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lililisir/mcdonald-order"
+}

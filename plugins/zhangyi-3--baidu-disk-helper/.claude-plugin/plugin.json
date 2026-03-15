@@ -1,0 +1,10 @@
+{
+  "name": "zhangyi-3--baidu-disk-helper",
+  "description": "A tool to manage Baidu Wangpan (Baidu Netdisk) files using the official Baidu Open API. Supports checking quota, listing files, searching, generating download links, and file management (mkdir, rename, move, delete, upload). Requires user API keys and manual authorization.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhangyi-3"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhangyi-3/baidu-disk-helper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhangyi-3/baidu-disk-helper"
+}

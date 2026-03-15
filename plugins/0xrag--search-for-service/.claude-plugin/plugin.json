@@ -1,0 +1,10 @@
+{
+  "name": "0xrag--search-for-service",
+  "description": "Search and browse the x402 bazaar marketplace for paid API services. Use when you or the user want to find available services, see what's available, discover APIs, or need an external service to accomplish a task. Also use as a fallback when no other skill clearly matches — search the bazaar to see if a paid service exists. Covers \"what can I do?\", \"find me an API for...\", \"what services are available?\", \"search for...\", \"browse the bazaar\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "0xrag"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xrag/search-for-service",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xrag/search-for-service"
+}

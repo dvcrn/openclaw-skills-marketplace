@@ -1,0 +1,10 @@
+{
+  "name": "anivar--zod-skill",
+  "description": "Zod v4 best practices, patterns, and API guidance for schema validation, parsing, error handling, and type inference in TypeScript applications. Covers safeParse, object composition, refinements, transforms, codecs, branded types, and v3→v4 migration. Baseline: zod ^4.0.0. Triggers on: zod imports, z.object, z.string, z.infer, safeParse, mentions of \"zod\", \"schema validation\", \"zod v4\", or \"z.enum\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "anivar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anivar/zod-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anivar/zod-skill"
+}

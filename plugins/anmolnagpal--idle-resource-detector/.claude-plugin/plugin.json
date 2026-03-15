@@ -1,0 +1,10 @@
+{
+  "name": "anmolnagpal--idle-resource-detector",
+  "description": "Detect AWS idle and zombie resources consuming cost with zero meaningful utilization",
+  "version": "1.0.0",
+  "author": {
+    "name": "anmolnagpal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/idle-resource-detector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/idle-resource-detector"
+}

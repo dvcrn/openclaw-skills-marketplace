@@ -1,0 +1,10 @@
+{
+  "name": "kjaylee--verify-before-done",
+  "description": "Require fresh verification evidence before claiming work is complete. Use ALWAYS before any completion claim, commit, push, PR, or status report. Prevents false completion claims.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kjaylee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kjaylee/verify-before-done",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kjaylee/verify-before-done"
+}

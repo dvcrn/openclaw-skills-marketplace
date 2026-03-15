@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--manychat",
+  "description": "ManyChat API integration with managed authentication. Manage subscribers, tags, custom fields, and send messages through Facebook Messenger.\n Use this skill when users want to manage ManyChat subscribers, send messages, add/remove tags, or work with custom fields and bot automation.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.2",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/manychat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/manychat"
+}

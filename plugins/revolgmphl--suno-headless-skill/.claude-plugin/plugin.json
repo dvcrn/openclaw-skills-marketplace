@@ -1,0 +1,10 @@
+{
+  "name": "revolgmphl--suno-headless-skill",
+  "description": "Suno AI 音乐创作助手（无头 Linux 服务器专用版）— 自动登录、创建歌曲、下载音频。通过 Xvfb 虚拟显示在无 GUI 的 Linux 云服务器上运行。当用户要求生成音乐、写歌、创作歌曲、用 Suno 生成 AI 音乐时使用。",
+  "version": "1.0.6",
+  "author": {
+    "name": "revolgmphl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/revolgmphl/suno-headless-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/revolgmphl/suno-headless-skill"
+}

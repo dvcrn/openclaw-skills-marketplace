@@ -1,0 +1,10 @@
+{
+  "name": "macterra--archon-keymaster",
+  "description": "Core Archon DID toolkit - identity management, verifiable credentials, encrypted messaging (dmail), Nostr integration, file encryption/signing, aliasing, authorization (challenge/response), groups, and cryptographic polls. Use for creating/managing DIDs, issuing/accepting verifiable credentials, sending encrypted messages between DIDs, deriving Nostr keypairs, encrypting/signing files, managing DID aliases, challenge/response authorization, managing DID groups, or running cryptographically verifiable polls. For vaults/backups see archon-vault; for ecash see archon-cashu.",
+  "version": "0.1.4",
+  "author": {
+    "name": "macterra"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/macterra/archon-keymaster",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/macterra/archon-keymaster"
+}

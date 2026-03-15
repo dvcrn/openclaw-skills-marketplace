@@ -1,0 +1,10 @@
+{
+  "name": "goforu--phoenixclaw-ledger",
+  "description": "Passive financial tracking plugin for PhoenixClaw.\n Automatically detects expenses and income from conversations and payment screenshots.\n \n Use when:\n - User mentions money/spending (any language)\n - User shares payment screenshots (WeChat Pay, Alipay, etc.)\n - User asks about finances (\"How much did I spend?\", \"My budget\")\n - User wants expense reports (\"Monthly summary\", \"Spending analysis\")",
+  "version": "0.0.2",
+  "author": {
+    "name": "goforu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/goforu/phoenixclaw-ledger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/goforu/phoenixclaw-ledger"
+}

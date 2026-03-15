@@ -1,0 +1,10 @@
+{
+  "name": "bastos--topydo",
+  "description": "Manage todo.txt tasks using topydo CLI. Add, list, complete, prioritize, tag, and organize tasks with dependencies, due dates, recurrence, and projects. Use for any task management, todo lists, or when the user mentions tasks, todos, or todo.txt. Requires Python 3 and pip. Works on macOS, Linux, and Windows.",
+  "version": "1.0.5",
+  "author": {
+    "name": "bastos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bastos/topydo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bastos/topydo"
+}

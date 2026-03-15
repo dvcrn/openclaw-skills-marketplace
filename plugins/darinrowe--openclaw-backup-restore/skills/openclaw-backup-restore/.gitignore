@@ -1,0 +1,31 @@
+# OpenClaw Backup - .gitignore
+# ============================
+
+# Exclude all node_modules directories
+**/node_modules/
+
+# Exclude package manager lockfiles
+**/package-lock.json
+**/yarn.lock
+
+# Exclude log files
+logs/
+*.log
+
+# Exclude temporary files
+*.tmp
+*.temp
+*.swp
+.cache/
+tmp/
+
+# Exclude build artifacts
+dist/
+build/
+
+# Exclude generated shell completion files
+completions/
+
+# Exclude OS metadata files
+.DS_Store
+Thumbs.db

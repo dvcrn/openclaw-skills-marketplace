@@ -1,0 +1,10 @@
+{
+  "name": "long1973m--insurance-policy-parser",
+  "description": "解析医疗险条款文档并提取32个结构化字段，含14个核心字段和18个增强字段，支持PDF/DOCX/TXT格式，输出标准JSON",
+  "version": "1.0.0",
+  "author": {
+    "name": "long1973m"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/long1973m/insurance-policy-parser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/long1973m/insurance-policy-parser"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "elliotllliu--agentshield-scanner",
+  "description": "Scan AI agent skills, MCP servers, and plugins for security vulnerabilities. Use when: user asks to check a skill/plugin for safety, audit security, scan for backdoors/data exfiltration/credential leaks, or evaluate trust of a third-party skill. Triggers: \"is this skill safe\", \"scan for security issues\", \"audit this plugin\", \"check for backdoors\", \"安全扫描\", \"扫一下安不安全\".",
+  "version": "0.5.1",
+  "author": {
+    "name": "elliotllliu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/elliotllliu/agentshield-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/elliotllliu/agentshield-scanner"
+}

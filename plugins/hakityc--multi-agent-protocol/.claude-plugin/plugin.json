@@ -1,0 +1,10 @@
+{
+  "name": "hakityc--multi-agent-protocol",
+  "description": "OpenClaw-native v2 protocol for spec-first multi-agent delivery. Use when you need 2+ agents with explicit phase control, dual review gates, bounded retry/circuit breaker behavior, Lobster approval/recovery for side effects, OpenProse orchestration, typed plugin tools backed by SQLite/event log for task state, and ACP integration for external coding harnesses such as Codex. Avoid when a single agent or prompt-only delegation is enough.",
+  "version": "2.0.0",
+  "author": {
+    "name": "hakityc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hakityc/multi-agent-protocol",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hakityc/multi-agent-protocol"
+}

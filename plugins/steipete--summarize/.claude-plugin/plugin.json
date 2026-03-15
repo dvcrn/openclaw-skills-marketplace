@@ -1,0 +1,10 @@
+{
+  "name": "steipete--summarize",
+  "description": "Summarize URLs or files with the summarize CLI (web, PDFs, images, audio, YouTube).",
+  "version": "1.0.0",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "https://summarize.sh",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/summarize"
+}

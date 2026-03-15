@@ -1,0 +1,10 @@
+{
+  "name": "l-u-c-k-y--asana-agent-skill",
+  "description": "Manage Asana tasks, projects, briefs, status updates, custom fields, dependencies, attachments, events, and timelines via Personal Access Token (PAT).",
+  "version": "0.2.0",
+  "author": {
+    "name": "l-u-c-k-y"
+  },
+  "homepage": "https://developers.asana.com/docs/personal-access-token",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/l-u-c-k-y/asana-agent-skill"
+}

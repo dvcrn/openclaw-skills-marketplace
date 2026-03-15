@@ -1,0 +1,10 @@
+{
+  "name": "ai-byte--daily-investment-digest",
+  "description": "Fetch financing event lists from the iYiou skill API and generate a daily financing report in Markdown to stdout. Use when the task asks to pull investment/financing events via `https://api.iyiou.com/skill/info?page=...&pageSize=...`, paginate with `pageSize=10` and `page<=5`, deduplicate records, default to yesterday's date, and optionally use today's date only when explicitly requested by the user.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ai-byte"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ai-byte/daily-investment-digest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ai-byte/daily-investment-digest"
+}

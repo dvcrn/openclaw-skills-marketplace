@@ -1,0 +1,10 @@
+{
+  "name": "gloryxia--screen-recommendation-loop",
+  "description": "Build and run a low-friction movie/anime recommendation + follow-up loop. Use when a user wants long-term taste profiling from watched/unfinished/dropped feedback, mixed sources (e.g., Douban/Bangumi Top lists), random title-type selection, and automatic type-based follow-up timing.",
+  "version": "0.0.1",
+  "author": {
+    "name": "gloryxia"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gloryxia/screen-recommendation-loop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gloryxia/screen-recommendation-loop"
+}

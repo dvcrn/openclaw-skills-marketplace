@@ -1,0 +1,10 @@
+{
+  "name": "suhteevah--depguard",
+  "description": "Dependency audit, vulnerability scanning, and license compliance. Free vuln check + paid continuous monitoring via git hooks.",
+  "version": "1.0.1",
+  "author": {
+    "name": "suhteevah"
+  },
+  "homepage": "https://depguard.pages.dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/suhteevah/depguard"
+}

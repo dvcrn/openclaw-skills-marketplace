@@ -1,0 +1,10 @@
+{
+  "name": "mfy-apl--airport-pickups-london",
+  "description": "Book UK airport and cruise port transfers via Airport Pickups London. Get instant fixed-price quotes, validate flights, and create real bookings for all London airports (Heathrow, Gatwick, Stansted, Luton, City), Edinburgh, and cruise ports (Southampton, Dover, Portsmouth, Tilbury, Harwich). TfL-licensed, 24/7 service. Supports A2A pricing negotiation (up to 5% discount).",
+  "version": "1.0.2",
+  "author": {
+    "name": "mfy-apl"
+  },
+  "homepage": "https://www.airport-pickups-london.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mfy-apl/airport-pickups-london"
+}

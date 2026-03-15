@@ -1,0 +1,10 @@
+{
+  "name": "anmolnagpal--iam-policy-auditor",
+  "description": "Audit AWS IAM policies and roles for over-privilege, wildcard permissions, and least-privilege violations",
+  "version": "1.0.0",
+  "author": {
+    "name": "anmolnagpal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/iam-policy-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/iam-policy-auditor"
+}

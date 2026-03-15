@@ -1,0 +1,10 @@
+{
+  "name": "damirikys--demo-slap",
+  "description": "Generate CS2 highlights and fragmovies from demos using the Demo-Slap API. Includes optional Leetify integration for auto-fetching demo URLs. Use when a user asks to \"record a highlight\", \"make a fragmovie\", \"clip that round\", etc.",
+  "version": "1.0.1",
+  "author": {
+    "name": "damirikys"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/damirikys/demo-slap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/damirikys/demo-slap"
+}

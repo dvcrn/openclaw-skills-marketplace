@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenClaw Scrapefun"
+  short_description: "Operate scrapefun through regular business APIs."
+  default_prompt: "Use $openclaw-scrapefun to call regular /api business endpoints with X-OpenClaw-Key or Bearer auth, and do not use /api/openclaw/* endpoints."

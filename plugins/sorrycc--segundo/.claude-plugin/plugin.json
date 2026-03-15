@@ -1,0 +1,10 @@
+{
+  "name": "sorrycc--segundo",
+  "description": "CLI tool for capturing and retrieving thoughts as a second brain. Stores memories as daily markdown journals with optional semantic search.\n\n USE FOR:\n - Capturing thoughts, notes, ideas, recommendations\n - Searching memories by text or semantic similarity\n - Listing and filtering memories by date range or tags\n - Importing/exporting notes, viewing brain statistics\n\n Requires: bun or npm. Semantic search requires an embedding provider (Ollama or OpenAI).",
+  "version": "1.0.0",
+  "author": {
+    "name": "sorrycc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sorrycc/segundo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sorrycc/segundo"
+}

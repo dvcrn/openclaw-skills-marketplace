@@ -1,0 +1,10 @@
+{
+  "name": "harrylabsj--skill-update-helper",
+  "description": "Manage OpenClaw and installed skill updates with scheduled checks, safe upgrade workflows, rollback-minded guidance, and clear reporting. Use when setting up automatic update routines, checking for newer skill versions, or keeping an OpenClaw environment current.",
+  "version": "1.0.1",
+  "author": {
+    "name": "harrylabsj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/skill-update-helper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/skill-update-helper"
+}

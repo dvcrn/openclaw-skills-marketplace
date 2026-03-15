@@ -1,0 +1,10 @@
+{
+  "name": "phy041--twitter-auto-engage",
+  "description": "Automated Twitter/X engagement script that scans a curated pool of target accounts, generates authentic GPT-powered replies, and posts them via the Twitter GraphQL API. Use when you want to run a scheduled engagement routine that builds presence through high-quality, non-sycophantic replies to thought leaders in your niche.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phy041"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phy041/twitter-auto-engage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phy041/twitter-auto-engage"
+}

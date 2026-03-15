@@ -1,0 +1,10 @@
+{
+  "name": "daaab--daily-voice-quote",
+  "description": "每日名言語音任務。產生「語音 + 封面圖靜態影片 +（選配）HeyGen 數位人影片」並發送給主人。",
+  "version": "1.1.0",
+  "author": {
+    "name": "daaab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daaab/daily-voice-quote",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daaab/daily-voice-quote"
+}

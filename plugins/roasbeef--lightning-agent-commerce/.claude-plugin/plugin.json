@@ -1,0 +1,10 @@
+{
+  "name": "roasbeef--lightning-agent-commerce",
+  "description": "End-to-end agentic commerce workflow using Lightning Network. Use when an agent needs to set up a full payment stack (lnd + lnget + aperture), buy or sell data via L402, or enable agent-to-agent micropayments.",
+  "version": "1.0.0",
+  "author": {
+    "name": "roasbeef"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/roasbeef/lightning-agent-commerce",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/roasbeef/lightning-agent-commerce"
+}

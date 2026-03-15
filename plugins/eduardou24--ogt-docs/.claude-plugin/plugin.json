@@ -1,0 +1,10 @@
+{
+  "name": "eduardou24--ogt-docs",
+  "description": "Documentation-as-Source-of-Truth workflow. Use when working with projects that use docs/ as the canonical source for definitions, rules, and tasks. Routes to specialized sub-skills for specific documentation types.",
+  "version": "1.0.0",
+  "author": {
+    "name": "eduardou24"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/eduardou24/ogt-docs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eduardou24/ogt-docs"
+}

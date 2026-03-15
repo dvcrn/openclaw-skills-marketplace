@@ -1,0 +1,10 @@
+{
+  "name": "jeadland--world-meeting-coordination-skill",
+  "description": "Find the best cross-timezone meeting windows with DST-safe conversion and ranked output (Optimal, Stretch, Avoid). Use when users ask for overlap windows across 2+ cities/timezones, want results anchored to one timezone, or need Telegram-friendly scheduling output with 24h + 12h time formats and +1 day markers.",
+  "version": "0.2.2",
+  "author": {
+    "name": "jeadland"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jeadland/world-meeting-coordination-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeadland/world-meeting-coordination-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wangbo12bob2-source--wangbo-polymarket-copytrading",
+  "description": "Build and run Polymarket copy-trading workflows (trader discovery, peak/decline cycle detection, candidate ranking, risk limits, and execution handoff). Use when user asks to follow高手/跟单, find top traders to copy, check whether traders are in peak form, or convert leaderboard data into executable copy-trade plans.",
+  "version": "0.2.0",
+  "author": {
+    "name": "wangbo12bob2-source"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangbo12bob2-source/wangbo-polymarket-copytrading",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangbo12bob2-source/wangbo-polymarket-copytrading"
+}

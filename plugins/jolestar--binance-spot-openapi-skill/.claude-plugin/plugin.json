@@ -1,0 +1,10 @@
+{
+  "name": "jolestar--binance-spot-openapi-skill",
+  "description": "Operate Binance Spot market, account, and order APIs through UXC with a curated OpenAPI schema, Binance query signing, and separate mainnet/testnet link flows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jolestar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jolestar/binance-spot-openapi-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jolestar/binance-spot-openapi-skill"
+}

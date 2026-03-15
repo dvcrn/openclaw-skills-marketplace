@@ -1,0 +1,10 @@
+{
+  "name": "thu-nmrc--zeelin-report-publisher",
+  "description": "Publish reports to the ZeeLin reports website (\"智灵报告网站\") by copying report assets, inserting a new top entry into public/reports_config.json for any category, running build checks, and preparing PR-ready branches.",
+  "version": "0.1.1",
+  "author": {
+    "name": "thu-nmrc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thu-nmrc/zeelin-report-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thu-nmrc/zeelin-report-publisher"
+}

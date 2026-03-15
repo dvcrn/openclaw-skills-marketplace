@@ -1,0 +1,10 @@
+{
+  "name": "kaw0naivyn--memory-setup-openclaw",
+  "description": "Configure and validate OpenClaw memory recall for persistent context. Use when enabling memory_search/memory_get, fixing poor memory recall, or setting up MEMORY.md + memory/*.md workflows in an OpenClaw workspace.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kaw0naivyn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kaw0naivyn/memory-setup-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kaw0naivyn/memory-setup-openclaw"
+}

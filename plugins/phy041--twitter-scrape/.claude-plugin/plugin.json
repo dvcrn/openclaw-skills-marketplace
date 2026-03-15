@@ -1,0 +1,10 @@
+{
+  "name": "phy041--twitter-scrape",
+  "description": "Scrape Twitter profiles and tweets via GraphQL, export to JSON or database",
+  "version": "1.0.0",
+  "author": {
+    "name": "phy041"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phy041/twitter-scrape",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phy041/twitter-scrape"
+}

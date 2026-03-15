@@ -1,0 +1,10 @@
+{
+  "name": "kimchichobo--plvr-event-discovery-safe",
+  "description": "Discover and compare live events on plvr.io by date, city, genre, and budget using the public web flow. Provide concise recommendations, visible pricing/availability signals, and planning details. This skill does not execute checkout or payment.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kimchichobo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kimchichobo/plvr-event-discovery-safe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kimchichobo/plvr-event-discovery-safe"
+}

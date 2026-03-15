@@ -1,0 +1,10 @@
+{
+  "name": "itsnishi--vet-repo",
+  "description": "Scan repository agent configuration files for known malicious patterns",
+  "version": "1.0.0",
+  "author": {
+    "name": "itsnishi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/itsnishi/vet-repo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/itsnishi/vet-repo"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cecwxf--copilot-cli-skill",
+  "description": "Run GitHub Copilot CLI from OpenClaw for coding tasks in a target project directory. Use when the user asks OpenClaw to use Copilot for implementation, debugging, refactoring, review, or scripted coding workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cecwxf"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cecwxf/copilot-cli-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cecwxf/copilot-cli-skill"
+}

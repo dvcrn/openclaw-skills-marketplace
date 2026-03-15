@@ -1,0 +1,10 @@
+{
+  "name": "fei-moss--moss-trade-bot-factory",
+  "description": "用户用自然语言描述交易风格，自动创建加密货币交易Bot并运行本地回测。支持周期反思进化。可选连接外部平台进行验证和模拟交易。",
+  "version": "1.0.9",
+  "author": {
+    "name": "fei-moss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fei-moss/moss-trade-bot-factory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fei-moss/moss-trade-bot-factory"
+}

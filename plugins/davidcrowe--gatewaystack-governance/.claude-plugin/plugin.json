@@ -1,0 +1,10 @@
+{
+  "name": "davidcrowe--gatewaystack-governance",
+  "description": "Deny-by-default governance for every tool call — identity, scope, rate limiting, injection detection, audit logging, plus opt-in output DLP, escalation, and behavioral monitoring. Hooks into OpenClaw at the process level so the agent can't bypass it.",
+  "version": "0.2.0",
+  "author": {
+    "name": "davidcrowe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/davidcrowe/gatewaystack-governance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davidcrowe/gatewaystack-governance"
+}

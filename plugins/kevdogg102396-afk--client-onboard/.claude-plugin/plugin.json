@@ -1,0 +1,10 @@
+{
+  "name": "kevdogg102396-afk--client-onboard",
+  "description": "Generate a complete client onboarding package from a project description. Creates project brief, tech stack, milestones, folder structure, CLAUDE.md, and a ready-to-send kickoff message. Run when closing a new freelance client.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kevdogg102396-afk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kevdogg102396-afk/client-onboard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kevdogg102396-afk/client-onboard"
+}

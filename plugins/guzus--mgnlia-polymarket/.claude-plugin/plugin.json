@@ -1,0 +1,10 @@
+{
+  "name": "guzus--mgnlia-polymarket",
+  "description": "Browse, trade, and manage positions on Polymarket prediction markets via the polymarket CLI. Use when: user asks about prediction market odds, wants to search/browse markets, check prices, place/cancel orders, view portfolio, or interact with Polymarket CLOB. Supports JSON output for programmatic use. NOT for: general crypto trading (use other tools), non-Polymarket prediction platforms.",
+  "version": "1.1.0",
+  "author": {
+    "name": "guzus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guzus/mgnlia-polymarket",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guzus/mgnlia-polymarket"
+}

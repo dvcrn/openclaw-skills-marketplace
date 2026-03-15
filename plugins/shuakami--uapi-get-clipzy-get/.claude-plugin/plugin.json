@@ -1,0 +1,10 @@
+{
+  "name": "shuakami--uapi-get-clipzy-get",
+  "description": "使用 UAPI 的“步骤2 (方法一): 获取加密数据”单接口 skill，处理 步骤2 (方法一): 获取加密数据、加密剪贴板、端到端加密文本、加密分享 等请求。 Use when the user wants get clipzy get, api get, get, clipzy, or when you need to call GET /api/get directly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shuakami"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-clipzy-get",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-clipzy-get"
+}

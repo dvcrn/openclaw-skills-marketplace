@@ -1,0 +1,10 @@
+{
+  "name": "grittygrease--safe-encryption-skill",
+  "description": "Encrypt, decrypt, and manage keys with the SAFE CLI — a modern GPG alternative with post-quantum support.",
+  "version": "0.1.0",
+  "author": {
+    "name": "grittygrease"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/grittygrease/safe-encryption-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/grittygrease/safe-encryption-skill"
+}

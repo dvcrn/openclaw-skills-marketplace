@@ -1,0 +1,10 @@
+{
+  "name": "tommygeoco--ui-audit",
+  "description": "AI skill for automated UI audits. Evaluate interfaces against proven UX principles for visual hierarchy, accessibility, cognitive load, navigation, and more. Based on Making UX Decisions by Tommy Geoco.",
+  "version": "1.0.1",
+  "author": {
+    "name": "tommygeoco"
+  },
+  "homepage": "https://audit.uxtools.co",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tommygeoco/ui-audit"
+}

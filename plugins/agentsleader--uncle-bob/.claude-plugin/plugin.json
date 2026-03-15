@@ -1,0 +1,10 @@
+{
+  "name": "agentsleader--uncle-bob",
+  "description": "Apply Robert C. Martin (Uncle Bob) principles for clean code, SOLID design, and clean architecture. Use when: (1) reviewing or refactoring code for quality, (2) designing modules, classes, or functions, (3) asked to \"clean up\" or improve code structure, (4) evaluating architectural boundaries, (5) naming things, (6) reducing coupling or increasing cohesion. Triggers on phrases like \"clean code\", \"SOLID\", \"uncle bob\", \"clean architecture\", \"refactor for quality\", \"code smells\", \"single responsibility\", \"dependency inversion\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "agentsleader"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agentsleader/uncle-bob",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agentsleader/uncle-bob"
+}

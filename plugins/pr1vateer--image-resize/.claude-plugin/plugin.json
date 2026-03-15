@@ -1,0 +1,10 @@
+{
+  "name": "pr1vateer--image-resize",
+  "description": "Resize images using ImageMagick (CLI). Entrypoint is a Bash script.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pr1vateer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pr1vateer/image-resize",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pr1vateer/image-resize"
+}

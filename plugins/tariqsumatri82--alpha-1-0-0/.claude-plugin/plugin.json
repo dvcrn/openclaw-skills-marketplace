@@ -1,0 +1,10 @@
+{
+  "name": "tariqsumatri82--alpha-1-0-0",
+  "description": "Binance Alpha new coin launch detector. Uses WebSocket to monitor !miniTicker@arr stream and detects new trading pairs immediately when they appear. Maintains known symbols set in memory and triggers alert for new symbols with valid opening price.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tariqsumatri82"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tariqsumatri82/alpha-1-0-0",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tariqsumatri82/alpha-1-0-0"
+}

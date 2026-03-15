@@ -1,0 +1,330 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Web3 Investor Skill Configuration",
+  "version": "0.5.0",
+  "description": "Configuration schema for Web3 Investor Skill. This file defines the structure and validation rules for config.json. For detailed usage, see SKILL.md and references/*.md",
+  
+  "type": "object",
+  "required": ["chain", "api", "security", "discovery"],
+  
+  "properties": {
+    "_comment": {
+      "type": "string",
+      "description": "Optional comment field for documentation purposes"
+    },
+    
+    "chain": {
+      "type": "object",
+      "description": "Blockchain network configuration. Defines which chains are supported and their RPC endpoints.",
+      "required": ["default", "supported"],
+      "properties": {
+        "default": {
+          "type": "string",
+          "enum": ["base", "ethereum"],
+          "default": "base",
+          "description": "Default chain for transactions. 'base' recommended for lower gas fees."
+        },
+        "supported": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["base", "ethereum"]
+          },
+          "default": ["base", "ethereum"],
+          "description": "List of supported chains for discovery and trading"
+        },
+        "rpc": {
+          "type": "object",
+          "description": "RPC endpoints for each chain. Multiple URLs enable automatic failover.",
+          "additionalProperties": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "format": "uri"
+            }
+          },
+          "default": {
+            "base": ["https://base.llamarpc.com", "https://base.drpc.org"],
+            "ethereum": ["https://eth.llamarpc.com", "https://rpc.flashbots.net/fast"]
+          }
+        }
+      }
+    },
+    
+    "api": {
+      "type": "object",
+      "description": "Local signer API configuration. The signer service holds private keys and signs transactions. This skill does NOT store private keys.",
+      "required": ["url"],
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "default": "http://localhost:3000/api",
+          "description": "Signer API base URL. Should be localhost for security. Never expose to public internet."
+        },
+        "timeout_seconds": {
+          "type": "integer",
+          "default": 30,
+          "minimum": 5,
+          "maximum": 120,
+          "description": "Request timeout for signer API calls"
+        }
+      }
+    },
+    
+    "security": {
+      "type": "object",
+      "description": "Trading security constraints. These rules protect against accidental high-risk transactions.",
+      "properties": {
+        "max_trade_usd": {
+          "type": "number",
+          "default": 10000,
+          "minimum": 0,
+          "description": "Maximum single transaction value in USD. Transactions exceeding this will be rejected."
+        },
+        "max_slippage_percent": {
+          "type": "number",
+          "default": 3.0,
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Maximum allowed slippage for DEX trades. Higher values accept more price impact."
+        },
+        "whitelist_enabled": {
+          "type": "boolean",
+          "default": false,
+          "description": "Enable/disable whitelist enforcement. When false, all tokens/protocols are allowed. When true, only whitelisted items are allowed."
+        },
+        "whitelist_tokens": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": ["USDC", "USDT", "DAI", "WETH", "ETH", "stETH", "rETH"],
+          "description": "Allowed tokens for trading. Only effective when whitelist_enabled is true."
+        },
+        "whitelist_protocols": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": ["uniswap", "aave", "compound", "lido", "0x"],
+          "description": "Allowed protocols for interaction. Only effective when whitelist_enabled is true."
+        },
+        "double_confirm": {
+          "type": "object",
+          "description": "Additional confirmation requirements for high-risk transactions",
+          "properties": {
+            "enabled": {
+              "type": "boolean",
+              "default": true,
+              "description": "Enable double confirmation for flagged transactions"
+            },
+            "large_trade_threshold_usd": {
+              "type": "number",
+              "default": 5000,
+              "description": "Triggers double confirmation for trades above this USD value"
+            },
+            "high_slippage_threshold_percent": {
+              "type": "number",
+              "default": 1.0,
+              "description": "Triggers double confirmation for slippage above this percentage"
+            },
+            "new_protocol_confirm": {
+              "type": "boolean",
+              "default": true,
+              "description": "Require confirmation for protocols not in whitelist"
+            },
+            "confirm_phrase": {
+              "type": "string",
+              "default": "CONFIRM_HIGH_RISK",
+              "description": "Phrase user must type to confirm high-risk transactions"
+            }
+          }
+        }
+      }
+    },
+    
+    "preflight": {
+      "type": "object",
+      "description": "Pre-execution validation checks. These are run before any transaction to ensure readiness.",
+      "properties": {
+        "enabled": {
+          "type": "boolean",
+          "default": true,
+          "description": "Enable preflight checks before transaction execution"
+        },
+        "min_gas_eth": {
+          "type": "number",
+          "default": 0.001,
+          "description": "Minimum ETH balance required for gas (in ETH)"
+        },
+        "checks": {
+          "type": "object",
+          "description": "List of checks to run for each transaction type",
+          "additionalProperties": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": ["signer_api", "rpc_reachable", "gas_balance", "token_balance"]
+            }
+          }
+        }
+      }
+    },
+    
+    "rpc": {
+      "type": "object",
+      "description": "RPC connection management settings",
+      "properties": {
+        "timeout_seconds": {
+          "type": "integer",
+          "default": 10,
+          "description": "Timeout for RPC calls"
+        },
+        "fallback_enabled": {
+          "type": "boolean",
+          "default": true,
+          "description": "Enable automatic fallback to secondary RPC URLs"
+        },
+        "session_sticky": {
+          "type": "boolean",
+          "default": true,
+          "description": "Stick to same RPC during a session for consistency"
+        }
+      }
+    },
+    
+    "discovery": {
+      "type": "object",
+      "description": "Investment opportunity discovery configuration. Controls how the skill searches for DeFi and RWA opportunities.",
+      "properties": {
+        "data_sources": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["mcp", "dune", "defillama"]
+          },
+          "default": ["mcp", "dune", "defillama"],
+          "description": "Priority order of data sources. 'mcp' = MCP servers (RWA products), 'dune' = Dune Analytics, 'defillama' = DefiLlama API"
+        },
+        
+        "mcp": {
+          "type": "object",
+          "description": "MCP (Model Context Protocol) server configuration. MCP servers provide structured data access for AI agents.",
+          "properties": {
+            "enabled": {
+              "type": "boolean",
+              "default": true,
+              "description": "Enable MCP data source for RWA products"
+            },
+            "cache_ttl_seconds": {
+              "type": "integer",
+              "default": 300,
+              "minimum": 0,
+              "maximum": 3600,
+              "description": "Cache time-to-live in seconds. RWA products rarely change, so 5 minutes (300s) is recommended."
+            },
+            "servers": {
+              "type": "array",
+              "description": "List of MCP servers to query. Multiple servers are supported for different product providers.",
+              "items": {
+                "type": "object",
+                "required": ["name", "primary_url"],
+                "properties": {
+                  "name": {
+                    "type": "string",
+                    "description": "Unique identifier for this MCP server"
+                  },
+                  "description": {
+                    "type": "string",
+                    "description": "Human-readable description of products offered"
+                  },
+                  "primary_url": {
+                    "type": "string",
+                    "format": "uri",
+                    "description": "Primary MCP endpoint URL"
+                  },
+                  "fallback_url": {
+                    "type": "string",
+                    "format": "uri",
+                    "description": "Fallback URL if primary is unavailable"
+                  },
+                  "timeout_seconds": {
+                    "type": "integer",
+                    "default": 30,
+                    "description": "Request timeout for this server"
+                  }
+                }
+              }
+            }
+          }
+        },
+        
+        "dune": {
+          "type": "object",
+          "description": "Dune Analytics MCP configuration. Dune provides on-chain analytics through SQL queries.",
+          "properties": {
+            "mcp_endpoint": {
+              "type": "string",
+              "format": "uri",
+              "default": "https://api.dune.com/mcp/v1",
+              "description": "Dune MCP API endpoint"
+            },
+            "enabled": {
+              "type": "boolean",
+              "default": true,
+              "description": "Enable Dune data source"
+            },
+            "auth": {
+              "type": "object",
+              "description": "Authentication configuration. API key should be stored in environment variable DUNE_API_KEY.",
+              "properties": {
+                "header": {
+                  "type": "object",
+                  "properties": {
+                    "name": {
+                      "type": "string",
+                      "default": "x-dune-api-key"
+                    },
+                    "env_var": {
+                      "type": "string",
+                      "default": "DUNE_API_KEY",
+                      "description": "Environment variable name containing the API key"
+                    }
+                  }
+                },
+                "query_param": {
+                  "type": "object",
+                  "properties": {
+                    "name": {
+                      "type": "string",
+                      "default": "api_key"
+                    },
+                    "env_var": {
+                      "type": "string",
+                      "default": "DUNE_API_KEY"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        
+        "min_apy": {
+          "type": "number",
+          "default": 0,
+          "minimum": 0,
+          "description": "Minimum APY percentage to include in results. Use 0 to see all opportunities."
+        },
+        "max_results": {
+          "type": "integer",
+          "default": 20,
+          "minimum": 1,
+          "maximum": 100,
+          "description": "Maximum number of opportunities to return per query"
+        }
+      }
+    }
+  }
+}

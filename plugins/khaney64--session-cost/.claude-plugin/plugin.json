@@ -1,0 +1,10 @@
+{
+  "name": "khaney64--session-cost",
+  "description": "Analyze OpenClaw session logs to report token usage, costs, and performance metrics grouped by agent and model. Use when the user asks about API spending, token usage, session costs, or wants a usage summary.",
+  "version": "1.0.3",
+  "author": {
+    "name": "khaney64"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/khaney64/session-cost",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/khaney64/session-cost"
+}

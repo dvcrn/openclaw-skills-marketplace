@@ -1,0 +1,10 @@
+{
+  "name": "christopher-schulze--claw2claw-filetransfer-v2",
+  "description": "Cross-platform file transfer between OpenClaw agents via rsync over SSH. From Claws for Claws - send files uncomplicated without getting drizzled by hot butter. Use when user wants to sync, backup, or transfer files between agents on different machines.",
+  "version": "1.0.0",
+  "author": {
+    "name": "christopher-schulze"
+  },
+  "homepage": "https://github.com/claw2claw/filetransfer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/christopher-schulze/claw2claw-filetransfer-v2"
+}

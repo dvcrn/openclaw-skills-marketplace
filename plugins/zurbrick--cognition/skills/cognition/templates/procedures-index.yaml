@@ -1,0 +1,18 @@
+# Procedural Memory — Skill Registry
+# Compiled expertise from solved problems. Each entry is a reusable procedure.
+# Success rates tracked via Bayesian updating: successes / (successes + failures)
+#
+# After solving a non-trivial problem, compile the solution here.
+# After using a procedure, update its success/failure count.
+# Procedures below 0.3 success rate after 5+ attempts → flag for review.
+# Procedures above 0.8 → reliable, recommend with high confidence.
+
+procedures: []
+  # Example:
+  # - id: deploy-to-production
+  #   name: "Production Deployment"
+  #   file: deploy-to-production.md
+  #   domain: infrastructure
+  #   success_rate: 0.9
+  #   attempts: 10
+  #   last_used: 2026-03-08

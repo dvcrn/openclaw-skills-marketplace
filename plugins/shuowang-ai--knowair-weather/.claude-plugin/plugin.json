@@ -1,0 +1,10 @@
+{
+  "name": "shuowang-ai--knowair-weather",
+  "description": "Get comprehensive air quality forecast from monitoring stations with up to 15-day coverage via the Caiyun Weather API. Returns AQI, PM2.5, PM10, O3, NO2, SO2, CO values with trend analysis, best/worst periods, and health recommendations. Use when the user asks about air quality, AQI, PM2.5, pollution forecast, smog, air pollution, or is it safe to exercise outdoors.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shuowang-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shuowang-ai/knowair-weather",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shuowang-ai/knowair-weather"
+}

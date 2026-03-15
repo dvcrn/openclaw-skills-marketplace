@@ -1,0 +1,10 @@
+{
+  "name": "mahone-bot--playwright-npx",
+  "description": "Fast browser automation using Node.js scripts with Playwright (run via `node script.mjs`). Use for web scraping, screenshots, form automation, and any browser task requiring programmatic control. For simple page fetching without JavaScript execution, use web_fetch first. For interactive CLI browsing without writing code, use browser tool or playwright-cli. This skill is ideal when you need full control, custom logic, or reusable scripts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mahone-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mahone-bot/playwright-npx",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mahone-bot/playwright-npx"
+}

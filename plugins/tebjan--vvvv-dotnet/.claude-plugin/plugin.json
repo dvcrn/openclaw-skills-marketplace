@@ -1,0 +1,10 @@
+{
+  "name": "tebjan--vvvv-dotnet",
+  "description": "Helps with .NET integration in vvvv gamma — NuGet packages, library references, .csproj project configuration, the [assembly: ImportAsIs] attribute, vector type interop, and async patterns. Use when adding NuGet packages, configuring build settings, referencing external .NET libraries, setting up the ImportAsIs assembly attribute, working with System.Numerics/Stride type conversions, or when nodes aren't appearing in the node browser due to missing assembly configuration.",
+  "version": "1.0.1",
+  "author": {
+    "name": "tebjan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tebjan/vvvv-dotnet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tebjan/vvvv-dotnet"
+}

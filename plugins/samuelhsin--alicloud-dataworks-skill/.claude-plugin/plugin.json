@@ -1,0 +1,10 @@
+{
+  "name": "samuelhsin--alicloud-dataworks-skill",
+  "description": "Manage Alibaba Cloud DataWorks via OpenAPI/MCP Server. Use for data development, workflow operations, data quality, metadata lineage, workspace management, and troubleshooting across the entire DataWorks platform through a single skill.",
+  "version": "1.0.0",
+  "author": {
+    "name": "samuelhsin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/samuelhsin/alicloud-dataworks-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/samuelhsin/alicloud-dataworks-skill"
+}

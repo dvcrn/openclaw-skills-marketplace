@@ -1,0 +1,10 @@
+{
+  "name": "heimo-he--feishu-chat",
+  "description": "Feishu (Lark) group chat messaging guide for OpenClaw. Includes Raw/Card message modes, @ mention formatting, and group member management. Use when sending messages in Feishu groups, mentioning users/bots, or formatting messages with Markdown.",
+  "version": "1.1.1",
+  "author": {
+    "name": "heimo-he"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/heimo-he/feishu-chat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/heimo-he/feishu-chat"
+}

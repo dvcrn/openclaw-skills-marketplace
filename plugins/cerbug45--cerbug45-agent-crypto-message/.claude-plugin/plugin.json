@@ -1,0 +1,10 @@
+{
+  "name": "cerbug45--cerbug45-agent-crypto-message",
+  "description": "Enables AI agents to communicate securely with each other through encrypted messaging. Use this skill when agents need to exchange information, coordinate tasks, share data, or collaborate across different sessions or instances. Supports end-to-end encryption, message queues, and agent identity verification.",
+  "version": "0.1.0",
+  "author": {
+    "name": "cerbug45"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cerbug45/cerbug45-agent-crypto-message",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cerbug45/cerbug45-agent-crypto-message"
+}

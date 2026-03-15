@@ -1,0 +1,10 @@
+{
+  "name": "olegqm--whatsapp-local-endpoints-router",
+  "description": "Route incoming WhatsApp content to local HTTP endpoints and return endpoint JSON directly to the user. Use when a WhatsApp message contains plain text/random symbols that should be sent to POST http://localhost:8080/process, or when a WhatsApp message contains a QR image that should be sent to POST http://localhost:8080/decode-qr.",
+  "version": "1.0.0",
+  "author": {
+    "name": "olegqm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/olegqm/whatsapp-local-endpoints-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/olegqm/whatsapp-local-endpoints-router"
+}

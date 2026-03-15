@@ -1,0 +1,10 @@
+{
+  "name": "vandeefeng--karakeep-sh",
+  "description": "Karakeep bookmark manager with full API support including notes, updates, and deletion. Requires KARAKEEP_SERVER_URL and KARAKEEP_API_KEY environment variables.",
+  "version": "1.0.2",
+  "author": {
+    "name": "vandeefeng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vandeefeng/karakeep-sh",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vandeefeng/karakeep-sh"
+}

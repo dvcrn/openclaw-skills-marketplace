@@ -1,0 +1,10 @@
+{
+  "name": "am-will--openai-docs",
+  "description": "Query the OpenAI developer documentation via the OpenAI Docs MCP server using CLI (curl/jq). Use whenever a task involves the OpenAI API (Responses, Chat Completions, Realtime, etc.), OpenAI SDKs, ChatGPT Apps SDK, Codex, MCP integrations, endpoint schemas, parameters, limits, or migrations and you need up-to-date official guidance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "am-will"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/am-will/openai-docs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/am-will/openai-docs"
+}

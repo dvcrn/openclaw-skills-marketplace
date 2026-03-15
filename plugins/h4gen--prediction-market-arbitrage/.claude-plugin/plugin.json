@@ -1,0 +1,10 @@
+{
+  "name": "h4gen--prediction-market-arbitrage",
+  "description": "Meta-skill for orchestrating topic-monitor, polymarket-odds, and simmer-weather to detect potential news-vs-market mispricing in prediction markets. Use when users want a clear, step-by-step LM workflow for monitoring breaking signals, reading current Polymarket probabilities, computing confidence/price deltas, and producing alert-first arbitrage decisions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "h4gen"
+  },
+  "homepage": "https://clawhub.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/h4gen/prediction-market-arbitrage"
+}

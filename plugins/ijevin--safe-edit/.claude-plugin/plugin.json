@@ -1,0 +1,10 @@
+{
+  "name": "ijevin--safe-edit",
+  "description": "安全配置修改辅助技能 - 在修改重要配置文件前自动设置回滚，支持多平台（Linux/macOS/FreeBSD/Windows）",
+  "version": "1.0.0",
+  "author": {
+    "name": "ijevin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ijevin/safe-edit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ijevin/safe-edit"
+}

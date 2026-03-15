@@ -1,0 +1,10 @@
+{
+  "name": "jacobzwj--bilibili-hot-monitor",
+  "description": "生成B站热门视频日报并发送邮件。触发词：B站热门、bilibili日报、视频日报、热门视频",
+  "version": "1.0.21",
+  "author": {
+    "name": "jacobzwj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jacobzwj/bilibili-hot-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jacobzwj/bilibili-hot-monitor"
+}

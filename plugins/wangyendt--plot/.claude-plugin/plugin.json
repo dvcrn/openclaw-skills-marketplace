@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--plot",
+  "description": "Enhanced spectrogram visualization tools for time-frequency analysis. Use when creating spectrograms, spectral analysis, or time-frequency plots for signals including IMU data (accelerometer, gyroscope), physiological signals (PPG, ECG, respiration), vibration analysis, and audio processing. Supports frequency unit conversion (Hz/bpm/kHz), multiple normalization modes (global/local/none), and MATLAB-style parula colormap.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/plot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/plot"
+}

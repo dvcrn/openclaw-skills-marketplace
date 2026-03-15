@@ -1,0 +1,7 @@
+interface:
+  display_name: "Apple Health Sync"
+  short_description: "Sync encrypted Apple Health data from your iPhone to your OpenClaw agent."
+  default_prompt: "Use $apple-health-sync to initialize onboarding keys/QR, fetch and decrypt relay payloads with strict sanitization, persist validated snapshots in ~/.apple-health-sync, and schedule sync/report runs via OpenClaw CronJobs."
+
+policy:
+  allow_implicit_invocation: true

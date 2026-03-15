@@ -1,0 +1,10 @@
+{
+  "name": "maxquick--hippius",
+  "description": "Hippius decentralized storage on Bittensor Subnet 75 — upload files, query storage, manage buckets via S3-compatible API. Use when user asks to upload to Hippius, check storage status, set up Hippius credentials, list buckets/files, or asks about IPFS vs S3 options.",
+  "version": "1.0.1",
+  "author": {
+    "name": "maxquick"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maxquick/hippius",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maxquick/hippius"
+}

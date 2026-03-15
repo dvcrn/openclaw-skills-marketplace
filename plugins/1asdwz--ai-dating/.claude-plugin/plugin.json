@@ -1,0 +1,10 @@
+{
+  "name": "1asdwz--ai-dating",
+  "description": "This skill enables dating and matchmaking workflows. Use it when a user asks to make friends, find a partner, run matchmaking, or provide dating preferences/profile updates. The skill should execute `dating-cli` commands to complete profile setup, task creation/update, match checking, contact reveal, and review.",
+  "version": "1.1.4",
+  "author": {
+    "name": "1asdwz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/1asdwz/ai-dating",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/1asdwz/ai-dating"
+}

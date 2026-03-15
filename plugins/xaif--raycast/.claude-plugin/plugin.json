@@ -1,0 +1,10 @@
+{
+  "name": "xaif--raycast",
+  "description": "Build and maintain Raycast extensions using the Raycast API. Triggers on @raycast/api, List, Grid, Detail, Form, AI.ask, LocalStorage, Cache, showToast, and BrowserExtension. Use this repo's references/api/*.md files as the primary source of truth for component specs and API usage.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xaif"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xaif/raycast",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xaif/raycast"
+}

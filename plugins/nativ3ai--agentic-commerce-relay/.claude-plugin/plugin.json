@@ -1,0 +1,10 @@
+{
+  "name": "nativ3ai--agentic-commerce-relay",
+  "description": "Run the CCTP relay to burn USDC on a source chain and mint on a destination chain, returning verifiable receipts. Use for multichain agent-to-agent settlement, with optional Moltbook discovery and integrations.",
+  "version": "0.1.0",
+  "author": {
+    "name": "nativ3ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nativ3ai/agentic-commerce-relay",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nativ3ai/agentic-commerce-relay"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "yingcd--planning-with-files-from-github",
+  "description": "This skill should be used when the user asks to start a complex task, research project, multi-step implementation, or any task expected to require more than 5 tool calls. Triggers: 'plan this', 'start planning', 'help me build', 'research and implement', 'complex task', '/plan'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yingcd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yingcd/planning-with-files-from-github",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yingcd/planning-with-files-from-github"
+}

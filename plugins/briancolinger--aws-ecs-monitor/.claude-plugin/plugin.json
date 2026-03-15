@@ -1,0 +1,10 @@
+{
+  "name": "briancolinger--aws-ecs-monitor",
+  "description": "AWS ECS production health monitoring with CloudWatch log analysis — monitors ECS service health, ALB targets, SSL certificates, and provides deep CloudWatch log analysis for error categorization, restart detection, and production alerts.",
+  "version": "1.0.1",
+  "author": {
+    "name": "briancolinger"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/briancolinger/aws-ecs-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/briancolinger/aws-ecs-monitor"
+}

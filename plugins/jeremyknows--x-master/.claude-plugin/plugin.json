@@ -1,0 +1,10 @@
+{
+  "name": "jeremyknows--x-master",
+  "description": "Master routing skill for all X/Twitter operations — reading, researching, posting, and engaging. Routes to the correct sub-tool based on the task. Covers reading tweets by URL, searching X, trend research, posting tweets/replies, and handling mentions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jeremyknows"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jeremyknows/x-master",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeremyknows/x-master"
+}

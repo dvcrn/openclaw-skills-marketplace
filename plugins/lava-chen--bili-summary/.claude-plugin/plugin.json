@@ -1,0 +1,10 @@
+{
+  "name": "lava-chen--bili-summary",
+  "description": "Bilibili video download, subtitle extraction, and AI summarization tool. Supports video info, audio download, Whisper transcription, and Gemini-powered detailed summaries. Use when: user asks to download/summarize B站 video, extract subtitles, or transcribe bilibili video.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lava-chen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lava-chen/bili-summary",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lava-chen/bili-summary"
+}

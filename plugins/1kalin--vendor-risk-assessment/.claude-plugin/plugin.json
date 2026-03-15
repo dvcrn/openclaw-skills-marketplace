@@ -1,0 +1,10 @@
+{
+  "name": "1kalin--vendor-risk-assessment",
+  "description": "Assess third-party vendor risk for AI and SaaS products. Evaluates security posture, data handling, compliance, financial stability, and operational resilience. Use when onboarding new vendors, conducting annual reviews, or building a vendor management program. Generates a scored risk report with mitigation recommendations. Built by AfrexAI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "1kalin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/1kalin/vendor-risk-assessment",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/1kalin/vendor-risk-assessment"
+}

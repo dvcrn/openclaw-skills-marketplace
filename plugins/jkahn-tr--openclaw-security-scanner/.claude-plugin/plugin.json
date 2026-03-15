@@ -1,0 +1,10 @@
+{
+  "name": "jkahn-tr--openclaw-security-scanner",
+  "description": "Run a comprehensive local security scan on your OpenClaw installation. Checks config, network exposure, credentials, OS hardening, and agent guardrails. Scores your setup and offers auto-fixes. Everything stays local — no data leaves your machine.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jkahn-tr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jkahn-tr/openclaw-security-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jkahn-tr/openclaw-security-scanner"
+}

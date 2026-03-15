@@ -1,0 +1,10 @@
+{
+  "name": "jeffaf--pokemon",
+  "description": "CLI for AI agents to lookup Pokémon info for their humans. Uses PokéAPI. No auth required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jeffaf"
+  },
+  "homepage": "https://pokeapi.co",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeffaf/pokemon"
+}

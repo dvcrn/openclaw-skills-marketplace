@@ -1,0 +1,10 @@
+{
+  "name": "astinz--deepbook-cli",
+  "description": "Operate the deepbook CLI for DeepBook reads (REST/SSE), global ~/.deepbook config/account management, on-chain spot trading, top-level swap execution, balance-manager ops, and margin trading.",
+  "version": "0.0.1",
+  "author": {
+    "name": "astinz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/astinz/deepbook-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/astinz/deepbook-cli"
+}

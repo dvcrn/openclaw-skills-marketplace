@@ -1,0 +1,10 @@
+{
+  "name": "clk1st--wechat-send",
+  "description": "Automate sending text messages in the macOS WeChat desktop app by controlling the UI via AppleScript and JXA. This is NOT a WeChat chat channel for OpenClaw — it controls the WeChat GUI on your Mac to send messages on your behalf. Use when: (1) user asks to send a WeChat message to someone, (2) notifying a WeChat contact, (3) batch messaging multiple contacts. Requires: WeChat for Mac installed, logged in, and window visible. macOS Accessibility permission granted to node. NOT for: reading or receiving WeChat messages, group chat management, file/image transfers, or using WeChat as a conversation channel with OpenClaw.",
+  "version": "1.0.0",
+  "author": {
+    "name": "clk1st"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clk1st/wechat-send",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clk1st/wechat-send"
+}

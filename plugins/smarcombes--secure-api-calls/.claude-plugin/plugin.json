@@ -1,0 +1,10 @@
+{
+  "name": "smarcombes--secure-api-calls",
+  "description": "Call any API without leaking credentials. Keychains proxies requests and injects real tokens server-side — your agent never sees them.",
+  "version": "1.0.3",
+  "author": {
+    "name": "smarcombes"
+  },
+  "homepage": "https://keychains.dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/smarcombes/secure-api-calls"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jaggu1999--mcp-bridge",
+  "description": "Use mcp-bridge-openclaw CLI to connect to and manage Model Context Protocol (MCP) servers with auto-reconnection and retry logic. Install via npm install -g mcp-bridge-openclaw.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jaggu1999"
+  },
+  "homepage": "https://www.npmjs.com/package/mcp-bridge-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jaggu1999/mcp-bridge"
+}

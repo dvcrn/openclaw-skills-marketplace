@@ -1,0 +1,10 @@
+# China Shopping Skill v1.0.0
+# 中国购物网站推荐工具
+
+# 本工具仅使用 Python 标准库，无需额外依赖
+# Python 版本要求: >= 3.7
+
+# 可选依赖（用于开发测试）
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0

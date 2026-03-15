@@ -1,0 +1,10 @@
+{
+  "name": "zhang-shubo--image2prompt",
+  "description": "Analyze images and generate detailed prompts for image generation. Supports portrait, landscape, product, animal, illustration categories with structured or natural output.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhang-shubo"
+  },
+  "homepage": "https://docs.openclaw.ai/tools/image2prompt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhang-shubo/image2prompt"
+}

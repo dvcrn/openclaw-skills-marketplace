@@ -1,0 +1,10 @@
+{
+  "name": "joelchance--markdown-convert",
+  "description": "Convert public web pages into clean Markdown with markdown.new for AI workflows. Use when tasks require URL-to-Markdown conversion for summarization, RAG ingestion, extraction, archiving, or token reduction, including selecting conversion method (auto/ai/browser), enabling image retention, and handling rate limits or conversion failures.",
+  "version": "1.0.0",
+  "author": {
+    "name": "joelchance"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/joelchance/markdown-convert",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joelchance/markdown-convert"
+}

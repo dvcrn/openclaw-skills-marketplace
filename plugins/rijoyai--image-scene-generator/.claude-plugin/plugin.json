@@ -1,0 +1,10 @@
+{
+  "name": "rijoyai--image-scene-generator",
+  "description": "Generates professional e-commerce product scene prompts (Midjourney/DALL-E/Stable Diffusion) with physics-based lighting, material-accurate rendering, and lifestyle compositions. Use when the user mentions product photography, scene rendering, Midjourney prompts, product mockup, lifestyle shot, flat lay, product visual, hero image, social media product content, AI-generated product image, product on background, studio shot, or wants to create realistic product visuals for their store—even if they do not say \"Midjourney\" or \"scene\" explicitly. Also trigger when users provide a product image or description and ask for \"better photos,\" \"more angles,\" or \"lifestyle images.\"",
+  "version": "0.1.0",
+  "author": {
+    "name": "rijoyai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rijoyai/image-scene-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rijoyai/image-scene-generator"
+}

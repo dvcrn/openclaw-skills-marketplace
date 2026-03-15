@@ -1,0 +1,10 @@
+{
+  "name": "tristanmanchester--assemblyai-transcribe",
+  "description": "Transcribe, diarise, translate, post-process, and structure audio/video with AssemblyAI. Use this skill when the user wants AssemblyAI specifically, needs high-quality speech-to-text from a local file or URL, wants speaker labels or named speakers, language detection, subtitles, paragraph/sentence exports, topic/entity/sentiment extraction, Speech Understanding, or agent-friendly transcript output as Markdown or normalised JSON for downstream AI workflows.",
+  "version": "1.0.1",
+  "author": {
+    "name": "tristanmanchester"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/assemblyai-transcribe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/assemblyai-transcribe"
+}

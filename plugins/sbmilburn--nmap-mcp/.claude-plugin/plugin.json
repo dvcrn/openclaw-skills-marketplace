@@ -1,0 +1,10 @@
+{
+  "name": "sbmilburn--nmap-mcp",
+  "description": "Network scanning MCP server wrapping nmap. Provides 14 purpose-built tools for host discovery, port scanning (SYN/TCP/UDP), service & OS detection, NSE script execution, and vulnerability scanning. Returns structured JSON output. Includes scope enforcement (CIDR allowlist), audit logging, and scan persistence. Use when performing network security audits, asset discovery, or recon on authorized networks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sbmilburn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sbmilburn/nmap-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sbmilburn/nmap-mcp"
+}

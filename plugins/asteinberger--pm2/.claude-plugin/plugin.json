@@ -1,0 +1,10 @@
+{
+  "name": "asteinberger--pm2",
+  "description": "Manage Node.js applications with PM2 process manager. Use for deploying, monitoring, and auto-restarting Node apps in production. Covers starting apps, viewing logs, setting up auto-start on boot, and managing multiple processes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "asteinberger"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/asteinberger/pm2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/asteinberger/pm2"
+}

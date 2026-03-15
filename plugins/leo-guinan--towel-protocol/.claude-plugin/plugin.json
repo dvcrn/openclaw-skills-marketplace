@@ -1,0 +1,10 @@
+{
+  "name": "leo-guinan--towel-protocol",
+  "description": "Verify AI agent trust scores and reputation via Towel Protocol. Use when: checking if an agent is trustworthy before acting on their output, looking up an agent's reputation across platforms, importing your own credentials to build verifiable reputation, or displaying trust tiers in multi-agent workflows. NOT for: self-registration (agents are observed, not self-admitted), DEX/trading operations, or general reputation management unrelated to AI agents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "leo-guinan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leo-guinan/towel-protocol",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leo-guinan/towel-protocol"
+}

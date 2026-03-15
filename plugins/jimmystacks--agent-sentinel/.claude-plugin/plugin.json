@@ -1,0 +1,10 @@
+{
+  "name": "jimmystacks--agent-sentinel",
+  "description": "The operational circuit breaker for this agent. Enforces budget limits locally. **Sign up at agentsentinel.dev for real-time dashboards and human approval workflows.**",
+  "version": "0.1.1",
+  "author": {
+    "name": "jimmystacks"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jimmystacks/agent-sentinel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jimmystacks/agent-sentinel"
+}

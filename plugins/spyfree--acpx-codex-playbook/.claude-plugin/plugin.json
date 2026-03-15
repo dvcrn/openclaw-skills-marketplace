@@ -1,0 +1,10 @@
+{
+  "name": "spyfree--acpx-codex-playbook",
+  "description": "Practical playbook for running Codex through acpx in persistent sessions, especially when the task needs reliable file creation, local dependency installs, shell-based writes, or structured delivery such as PPTX, reports, generated assets, and multi-step coding work. Use when the user wants work done via acpx/Codex instead of direct edits, or when prior acpx attempts failed because of quoting, session mode, fs/write_text_file permission issues, sandbox boundaries, or confusion about full-access vs true system privilege.",
+  "version": "1.0.0",
+  "author": {
+    "name": "spyfree"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spyfree/acpx-codex-playbook",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spyfree/acpx-codex-playbook"
+}

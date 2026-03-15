@@ -1,0 +1,10 @@
+{
+  "name": "xiangyu-cas--xiaohongshu-ops",
+  "description": "End-to-end Xiaohongshu operations including positioning, topic research, content production, publish execution, and post-incident recovery. Reusable across verticals with templates and a concrete 陪你看剧 case preset.",
+  "version": "0.1.1",
+  "author": {
+    "name": "xiangyu-cas"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiangyu-cas/xiaohongshu-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiangyu-cas/xiaohongshu-ops"
+}

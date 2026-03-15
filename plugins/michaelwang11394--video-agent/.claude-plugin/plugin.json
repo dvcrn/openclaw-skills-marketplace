@@ -1,0 +1,10 @@
+{
+  "name": "michaelwang11394--video-agent",
+  "description": "[DEPRECATED] Use `create-video` for prompt-based video generation or `avatar-video` for precise avatar/scene control. This legacy skill combines both workflows — the newer focused skills provide clearer guidance.",
+  "version": "2.16.0",
+  "author": {
+    "name": "michaelwang11394"
+  },
+  "homepage": "https://docs.heygen.com/reference/generate-video-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/michaelwang11394/video-agent"
+}

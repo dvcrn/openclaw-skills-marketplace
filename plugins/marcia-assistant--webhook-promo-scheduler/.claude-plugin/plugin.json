@@ -1,0 +1,10 @@
+{
+  "name": "marcia-assistant--webhook-promo-scheduler",
+  "description": "Schedule and send promo/alert messages to a Discord webhook URL with an anti-spam ledger.",
+  "version": "0.1.1",
+  "author": {
+    "name": "marcia-assistant"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/marcia-assistant/webhook-promo-scheduler",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marcia-assistant/webhook-promo-scheduler"
+}

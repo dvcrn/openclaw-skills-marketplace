@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--erpclaw-region-ca",
+  "description": "Canada regional compliance — GST/HST/PST/QST, CPP/CPP2/QPP/EI, federal+provincial income tax, T4/T4A/ROE/PD7A, Canadian CoA (ASPE), and ID validation (BN/SIN) for ERPClaw ERP",
+  "version": "2.1.0",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.erpclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/erpclaw-region-ca"
+}

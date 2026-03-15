@@ -1,0 +1,10 @@
+{
+  "name": "xiaoyierle--invoice-verify-hsy",
+  "description": "使用慧穗云发票查验 API，根据发票代码、号码、日期和金额等信息查询发票详情。",
+  "version": "1.0.1",
+  "author": {
+    "name": "xiaoyierle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaoyierle/invoice-verify-hsy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaoyierle/invoice-verify-hsy"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "psyduckler--itinerary-carousel-post",
+  "description": "Create and publish an Instagram carousel post from a tabiji.ai itinerary. Given an itinerary URL, finds Instagram-worthy photos for the destination + top attractions, applies text overlays, and publishes as a carousel. Use when asked to create an Instagram post, carousel, or social content for a tabiji destination or itinerary.",
+  "version": "1.0.0",
+  "author": {
+    "name": "psyduckler"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/psyduckler/itinerary-carousel-post",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/psyduckler/itinerary-carousel-post"
+}

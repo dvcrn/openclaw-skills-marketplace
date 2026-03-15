@@ -1,0 +1,78 @@
+{
+  "name": "quote-reader",
+  "version": "1.1.0",
+  "description": "引用前文内容读取技能，智能识别用户引用的历史消息，通过平台API获取真实消息内容，支持飞书/QQ/企业微信交互式卡片内容解析",
+  "author": "miliger",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openclaw/quote-reader"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "quote",
+    "reply",
+    "context",
+    "history",
+    "feishu",
+    "qq",
+    "interactive-card"
+  ],
+  "openclaw": {
+    "skillVersion": "1.1.0",
+    "minOpenClawVersion": "2026.3.1",
+    "triggers": [
+      "引用",
+      "回复",
+      "quote",
+      "reply",
+      "前文",
+      "这个卡片"
+    ],
+    "capabilities": [
+      "quote-detection",
+      "history-retrieval",
+      "context-extraction",
+      "intent-recognition",
+      "interactive-card-parsing",
+      "platform-api-integration"
+    ],
+    "scripts": {
+      "install": "install.sh",
+      "detect": "scripts/detect-quote.sh",
+      "extract": "scripts/extract-quote.sh",
+      "get-token": "scripts/get-feishu-token.sh",
+      "integrate": "scripts/integrate-quote.sh",
+      "test": "scripts/test-quote.sh"
+    },
+    "platforms": {
+      "feishu": {
+        "enabled": true,
+        "features": ["text", "interactive-card", "image"]
+      },
+      "qq": {
+        "enabled": false
+      },
+      "wechat": {
+        "enabled": false
+      }
+    },
+    "config": {
+      "context_window": {
+        "before": 2,
+        "after": 2
+      },
+      "token_cache": {
+        "enabled": true,
+        "max_age": 7000
+      }
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "scripts/test-quote.sh",
+    "install-deps": "echo 'No dependencies required'"
+  }
+}

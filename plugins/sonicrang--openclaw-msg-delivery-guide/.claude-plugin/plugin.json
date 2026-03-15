@@ -1,0 +1,10 @@
+{
+  "name": "sonicrang--openclaw-msg-delivery-guide",
+  "description": "Ensure later replies actually reach the user in OpenClaw. Use when the user asks for reminders, scheduled checks, follow-up notifications, completion updates, recurring monitoring, or any task where execution and user-visible delivery happen in different steps. Default to cron for scheduled or notification-critical tasks, use subagent completion for background-result handoff, use direct reply when finishing now, and avoid heartbeat unless the user explicitly wants a soft, low-precision follow-up.",
+  "version": "1.0.5",
+  "author": {
+    "name": "sonicrang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sonicrang/openclaw-msg-delivery-guide",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sonicrang/openclaw-msg-delivery-guide"
+}

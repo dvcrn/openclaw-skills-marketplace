@@ -1,0 +1,10 @@
+{
+  "name": "thesethrose--agent-browser",
+  "description": "A fast Rust-based headless browser automation CLI with Node.js fallback that enables AI agents to navigate, click, type, and snapshot pages via structured commands.",
+  "version": "0.2.0",
+  "author": {
+    "name": "thesethrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thesethrose/agent-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thesethrose/agent-browser"
+}

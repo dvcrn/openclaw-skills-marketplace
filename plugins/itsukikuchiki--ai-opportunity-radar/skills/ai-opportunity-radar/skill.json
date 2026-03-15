@@ -1,0 +1,32 @@
+{
+  "name": "ai-opportunity-radar",
+  "type": "agent",
+  "description": "Discover what in your life should be automated.",
+  "triggers": [
+    {
+      "type": "cron",
+      "schedule": "0 12 * * *",
+      "action": "checkin"
+    },
+    {
+      "type": "cron",
+      "schedule": "0 18 * * *",
+      "action": "checkin"
+    },
+    {
+      "type": "cron",
+      "schedule": "0 0 * * *",
+      "action": "checkin"
+    },
+    {
+      "type": "cron",
+      "schedule": "0 8 * * *",
+      "action": "daily_reflection"
+    },
+    {
+      "type": "cron",
+      "schedule": "0 8 * * 1",
+      "action": "weekly_reflection"
+    }
+  ]
+}

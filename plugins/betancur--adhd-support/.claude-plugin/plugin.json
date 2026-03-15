@@ -1,0 +1,10 @@
+{
+  "name": "betancur--adhd-support",
+  "description": "Cognitive copilot for people with ADHD. Use this skill whenever someone mentions paralysis, can't start a task, feels overwhelmed, needs to organize their day, is procrastinating, doing a brain dump, wants to plan their week, or says anything like \"I don't know where to start\", \"I have too much on my plate\", \"I can't focus\", \"I'm stuck\", or \"I finished X but can't start Y\". Also triggers on general focus and productivity requests — don't wait for the user to explicitly say \"ADHD\". If someone seems stuck, scattered, or overwhelmed, this skill applies.",
+  "version": "1.0.4",
+  "author": {
+    "name": "betancur"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/betancur/adhd-support",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/betancur/adhd-support"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "qidu--chat-deepseek",
+  "description": "openclaw browser open https://chat.deepseek.com and login it, then input questions from user's messages, extract response of deepseek chat to reply user.",
+  "version": "1.0.0",
+  "author": {
+    "name": "qidu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qidu/chat-deepseek",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qidu/chat-deepseek"
+}

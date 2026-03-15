@@ -1,0 +1,10 @@
+{
+  "name": "cinnabarhorse--aavegotchi-baazaar",
+  "description": "View, add, and execute Aavegotchi Baazaar listings on Base mainnet (8453). Buy with GHST directly or buy with USDC using swapAndBuy*. Safety-first: dryRun defaults true (simulate with cast call; only broadcast with cast send when dryRun=false / DRY_RUN=0).",
+  "version": "0.1.4",
+  "author": {
+    "name": "cinnabarhorse"
+  },
+  "homepage": "https://github.com/aavegotchi/aavegotchi-baazaar-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinnabarhorse/aavegotchi-baazaar"
+}

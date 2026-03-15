@@ -1,0 +1,10 @@
+{
+  "name": "phy041--phy-video-bgm",
+  "description": "Analyze a video's mood and add AI-generated BGM. Optionally speed up/slow down. Uses Gemini for video analysis and fal.ai Lyria2 for music generation. Triggers on \"add bgm\", \"add music to video\", \"video bgm\", or any request to add background music to a video file.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phy041"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-video-bgm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-video-bgm"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "powtac--buy-me-a-pie",
+  "description": "Read and change Buy Me a Pie lists. Unofficial third-party skill. No affiliation with Buy Me a Pie. Use for lists, items, purchased state, sharing, unique items, and account checks. API first. Browser only for signup, PIN reset, OAuth, print, or API drift.",
+  "version": "1.0.0",
+  "author": {
+    "name": "powtac"
+  },
+  "homepage": "https://app.buymeapie.com/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/powtac/buy-me-a-pie"
+}

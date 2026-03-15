@@ -1,0 +1,10 @@
+{
+  "name": "davidharket--clawng-term-memory",
+  "description": "Make your OpenClaw agent portable and persistent. Version-controls SOUL.md, MEMORY.md, and all core knowledge files using git with automatic GitHub push — so your agent's identity, memory, and operating rules are backed up and can be restored on any machine by cloning the repo. Use whenever core knowledge files are modified to commit and push changes. Also use when asked to show history, diff a file, or revert a change. Watch your assistant evolve over time through its git history.",
+  "version": "1.2.0",
+  "author": {
+    "name": "davidharket"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/davidharket/clawng-term-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davidharket/clawng-term-memory"
+}

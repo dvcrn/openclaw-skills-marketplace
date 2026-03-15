@@ -1,0 +1,10 @@
+{
+  "name": "gyliiiiii--soul-pack",
+  "description": "Export and import SOUL packages for OpenClaw agents. Use when creating a reusable persona package (SOUL.md + preview.md + manifest.json), installing a soul package into a new/existing agent workspace, or batch listing local soul packages for a Soul marketplace workflow.",
+  "version": "0.1.0",
+  "author": {
+    "name": "gyliiiiii"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gyliiiiii/soul-pack",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gyliiiiii/soul-pack"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "loopintoai--gateway-validator",
+  "description": "Validate OpenClaw gateway configuration changes before applying them to production. Use when the user wants to change models, API keys, providers, or any gateway settings. Tests changes first on an isolated test gateway if possible, or validates provider connectivity directly as a fallback.",
+  "version": "1.0.0",
+  "author": {
+    "name": "loopintoai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/loopintoai/gateway-validator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/loopintoai/gateway-validator"
+}

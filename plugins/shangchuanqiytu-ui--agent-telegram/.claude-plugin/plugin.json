@@ -1,0 +1,10 @@
+{
+  "name": "shangchuanqiytu-ui--agent-telegram",
+  "description": "Agent 团队 Telegram 通信规范。所有 Agent 向用户发送消息时必须遵循此规范，确保消息正确发送到 Telegram。",
+  "version": "1.0.0",
+  "author": {
+    "name": "shangchuanqiytu-ui"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shangchuanqiytu-ui/agent-telegram",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shangchuanqiytu-ui/agent-telegram"
+}

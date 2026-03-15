@@ -1,0 +1,10 @@
+{
+  "name": "shidengyun--wacai-index-official-website-demand-dev",
+  "description": "修改官网项目代码并同步需求文档。用于用户提供一大段产品需求、项目路径和可选分支后，将其写入指定项目目录下的 productdemand.md、先做小时级备份、切换并更新目标分支、按需求修改项目代码、执行基础校验、最后 git commit、git push 到远端分支，并在 push 成功后通过企业微信 webhook 发送包含时间和代码变动点的通知。适用于官网需求变更、页面调整、文案/交互更新、组件改造、SEO/展示内容修改等开发任务。",
+  "version": "1.0.0",
+  "author": {
+    "name": "shidengyun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shidengyun/wacai-index-official-website-demand-dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shidengyun/wacai-index-official-website-demand-dev"
+}

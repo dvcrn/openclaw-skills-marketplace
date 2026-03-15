@@ -1,0 +1,10 @@
+{
+  "name": "davida-ps--clawsec-scanner",
+  "description": "Automated vulnerability scanner for agent platforms. Performs dependency scanning (npm audit, pip-audit), multi-database CVE lookup (OSV, NVD, GitHub Advisory), SAST analysis (Semgrep, Bandit), and agent-specific DAST hook execution testing for OpenClaw hooks.",
+  "version": "0.0.2",
+  "author": {
+    "name": "davida-ps"
+  },
+  "homepage": "https://clawsec.prompt.security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davida-ps/clawsec-scanner"
+}

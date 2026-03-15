@@ -1,0 +1,16 @@
+{
+  "name": "meal-planner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/meal_planner_cli.py",
+  "bin": {
+    "meal-planner": "src/meal_planner_cli.py"
+  },
+  "keywords": ["openclaw", "skill", "productivity"],
+  "author": "harrylabs0913",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harrylabs0913/meal-planner.git"
+  }
+}

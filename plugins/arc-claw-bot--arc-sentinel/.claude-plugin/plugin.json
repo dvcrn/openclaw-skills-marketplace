@@ -1,0 +1,10 @@
+{
+  "name": "arc-claw-bot--arc-sentinel",
+  "description": "Security monitoring and infrastructure health checks for OpenClaw agents. Run breach monitoring (HaveIBeenPwned), SSL certificate expiry checks, GitHub security audits, credential rotation tracking, secret scanning, git hygiene, token watchdog, and permission audits. Use when performing security scans, checking credential rotation status, auditing repos for leaked secrets, or monitoring SSL certificates and infrastructure health.",
+  "version": "1.0.0",
+  "author": {
+    "name": "arc-claw-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arc-claw-bot/arc-sentinel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arc-claw-bot/arc-sentinel"
+}

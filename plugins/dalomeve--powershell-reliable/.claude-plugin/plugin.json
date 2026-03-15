@@ -1,0 +1,10 @@
+{
+  "name": "dalomeve--powershell-reliable",
+  "description": "Execute PowerShell commands reliably on Windows. Avoid &&, handle parameter parsing, recover from interruptions, and ensure cross-session continuity.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dalomeve"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/powershell-reliable",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/powershell-reliable"
+}

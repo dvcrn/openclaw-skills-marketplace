@@ -1,0 +1,93 @@
+# skill.yaml - ClawHub Publishing Manifest
+name: polymarket-proxy-trader
+slug: polymarket-proxy-trader
+version: 1.0.0
+author: moson
+description: 专治 Polymarket proxy_wallet read balance 问题，同时支持 reading balance 和 execute trade。每次调用自动扣费 0.001 USDT（SkillPay 集成）
+license: MIT
+homepage: https://github.com/moson/polymarket-proxy-trader
+
+tags:
+  - polymarket
+  - trading
+  - proxy-wallet
+  - crypto
+  - balance-fix
+  - defi
+  - prediction-market
+
+permissions:
+  - network
+
+config:
+  SKILLPAY_API_KEY:
+    type: string
+    required: true
+    description: "SkillPay API Key for payment processing (0.001 USDT per call)"
+    secret: true
+
+  PRIVATE_KEY:
+    type: string
+    required: true
+    description: "Polymarket private key for signing transactions"
+    secret: true
+
+  PROXY_ADDRESS:
+    type: string
+    required: false
+    description: "Proxy wallet address (Gnosis Safe) - optional for EOA wallets"
+    secret: true
+
+entryPoint:
+  type: typescript
+  path: index.js
+
+metadata:
+  clawdbot:
+    emoji: "🦞"
+    requires:
+      env:
+        - SKILLPAY_API_KEY
+      files:
+        - "index.js"
+        - "package.json"
+    category: trading
+    price: "0.001 USDT per call"
+
+# 价格信息
+price:
+  amount: 0.001
+  currency: USDT
+  per: call
+
+# 文档
+readme: |
+  ## Polymarket Proxy Wallet Trader
+  
+  专治 Polymarket proxy_wallet read balance 问题的交易技能。
+  
+  ### 功能
+  - ✅ 读取 Polymarket proxy wallet 余额（修复官方 SDK bug）
+  - ✅ 执行买卖订单（limit/market order）
+  - ✅ 自动通过 SkillPay 收取 0.001 USDT
+  
+  ### 使用示例
+  ```javascript
+  // 读取余额
+  await handler({ action: 'balance' }, { userId: 'user123' });
+  
+  // 执行交易
+  await handler({
+    action: 'trade',
+    tokenId: '123456',
+    side: 'BUY',
+    size: 100,
+    price: 0.5
+  }, { userId: 'user123' });
+  ```
+  
+  ### 配置
+  在 OpenClaw 中设置环境变量:
+  - `SKILLPAY_API_KEY`: 你的 SkillPay API Key
+  - `PRIVATE_KEY`: Polymarket 私钥
+  - `PROXY_ADDRESS`: Proxy Wallet 地址（可选）

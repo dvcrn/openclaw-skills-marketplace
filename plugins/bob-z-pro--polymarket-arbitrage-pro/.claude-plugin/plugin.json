@@ -1,0 +1,10 @@
+{
+  "name": "bob-z-pro--polymarket-arbitrage-pro",
+  "description": "Polymarket预测市场套利工具。自动检测并执行套利交易，每次调用自动扣费。",
+  "version": "7.1.5",
+  "author": {
+    "name": "bob-z-pro"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bob-z-pro/polymarket-arbitrage-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bob-z-pro/polymarket-arbitrage-pro"
+}

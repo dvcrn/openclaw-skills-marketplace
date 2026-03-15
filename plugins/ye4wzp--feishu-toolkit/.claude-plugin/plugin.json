@@ -1,0 +1,10 @@
+{
+  "name": "ye4wzp--feishu-toolkit",
+  "description": "Complete Feishu (Lark) integration toolkit for AI agents. Read/write documents, fetch chat history, send files & screenshots, manage permissions, and create scheduled reminders. Supports Wiki, Docs, Sheets, Bitable, and IM operations. Triggers: \"飞书\", \"feishu\", \"lark\", \"读文档\", \"群聊记录\", \"发文件\", \"截屏发飞书\", \"文档权限\", \"定时提醒\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "ye4wzp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ye4wzp/feishu-toolkit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ye4wzp/feishu-toolkit"
+}

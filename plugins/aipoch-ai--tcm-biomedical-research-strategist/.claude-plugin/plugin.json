@@ -1,0 +1,10 @@
+{
+  "name": "aipoch-ai--tcm-biomedical-research-strategist",
+  "description": "Designs complete, rigorous research plans for medicinal plant / TCM molecular mechanism studies against diseases (colorectal cancer, liver cancer, diabetes, etc.). Use whenever a user provides a broad herbal medicine or network pharmacology research direction and wants it translated into a structured, executable, methodologically defensible study plan. Triggers: \"research plan for herbal medicine\", \"network pharmacology study design\", \"TCM against cancer\", \"compound-target-pathway analysis\", \"hub gene identification\", \"immune microenvironment + natural products\", \"molecular docking study design\", or any bioinformatics-driven pharmacology study from scratch. Always use this skill — do not improvise — when the user wants a full study framework.",
+  "version": "0.1.0",
+  "author": {
+    "name": "aipoch-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aipoch-ai/tcm-biomedical-research-strategist",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aipoch-ai/tcm-biomedical-research-strategist"
+}

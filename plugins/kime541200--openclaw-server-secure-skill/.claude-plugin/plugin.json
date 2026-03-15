@@ -1,0 +1,10 @@
+{
+  "name": "kime541200--openclaw-server-secure-skill",
+  "description": "Comprehensive security hardening and installation guide for OpenClaw (formerly Clawdbot/Moltbot). Use this skill when the user wants to secure a server, install the OpenClaw agent, or configure Tailscale/Firewall for the agent.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kime541200"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kime541200/openclaw-server-secure-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kime541200/openclaw-server-secure-skill"
+}

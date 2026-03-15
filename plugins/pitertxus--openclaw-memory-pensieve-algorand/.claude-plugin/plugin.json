@@ -1,0 +1,10 @@
+{
+  "name": "pitertxus--openclaw-memory-pensieve-algorand",
+  "description": "Operate the current Pensieve memory stack for OpenClaw with append-only local layers, hash-chain integrity, daily dream-cycle consolidation, encrypted Algorand anchoring of full content (events + semantic + procedural + self_model), and v2.1 post-anchor recoverability hardening checks. Use when implementing, running, auditing, or recovering this memory system.",
+  "version": "2.1.1",
+  "author": {
+    "name": "pitertxus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pitertxus/openclaw-memory-pensieve-algorand",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pitertxus/openclaw-memory-pensieve-algorand"
+}

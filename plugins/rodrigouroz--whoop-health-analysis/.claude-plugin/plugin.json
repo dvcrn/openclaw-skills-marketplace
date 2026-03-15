@@ -1,0 +1,10 @@
+{
+  "name": "rodrigouroz--whoop-health-analysis",
+  "description": "Access Whoop wearable health data (sleep, recovery, strain, HRV, workouts) and generate interactive charts. Use when the user asks about sleep quality, recovery scores, strain levels, HRV trends, workout data, or wants health visualizations/graphs from their Whoop band.",
+  "version": "1.1.0",
+  "author": {
+    "name": "rodrigouroz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rodrigouroz/whoop-health-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rodrigouroz/whoop-health-analysis"
+}

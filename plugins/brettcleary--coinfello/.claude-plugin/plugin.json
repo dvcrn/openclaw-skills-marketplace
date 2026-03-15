@@ -1,0 +1,10 @@
+{
+  "name": "brettcleary--coinfello",
+  "description": "Interact with CoinFello using the @coinfello/agent-cli to create a smart account, sign in with SIWE, manage delegations, send prompts with server-driven ERC-20 token subdelegations, and check transaction status. Use when the user wants to send crypto transactions via natural language prompts, manage smart account delegations, or check CoinFello transaction results.",
+  "version": "0.2.1",
+  "author": {
+    "name": "brettcleary"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brettcleary/coinfello",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brettcleary/coinfello"
+}

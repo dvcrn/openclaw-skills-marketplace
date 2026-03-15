@@ -1,0 +1,10 @@
+{
+  "name": "khaney64--discogs-sync",
+  "description": "Add and remove albums from a Discogs wantlist or collection by artist and album name, master ID, or release ID. Search marketplace pricing for vinyl, CD, and other formats. List wantlist and collection contents. Use when the user asks to add or remove a record from their Discogs wantlist or collection, check what's on their wantlist, look up marketplace prices, or find what a record is selling for. Also supports bulk operations via CSV/JSON file input.",
+  "version": "0.1.9",
+  "author": {
+    "name": "khaney64"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/khaney64/discogs-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/khaney64/discogs-sync"
+}

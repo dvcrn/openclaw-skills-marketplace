@@ -1,0 +1,10 @@
+{
+  "name": "who-ohw--restart-safe-workflow",
+  "description": "Safe OpenClaw gateway restart workflow with doctor precheck, checkpoint, restart-health-resume chain, task continuation, reconcile, and user-visible notifications.",
+  "version": "1.0.3",
+  "author": {
+    "name": "who-ohw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/who-ohw/restart-safe-workflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/who-ohw/restart-safe-workflow"
+}

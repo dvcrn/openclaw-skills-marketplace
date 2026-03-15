@@ -1,0 +1,10 @@
+{
+  "name": "devfaraaz--kash",
+  "description": "Pay for APIs, tools, and services from your agent's Kash wallet. Spends below $5 are autonomous; above $5 requires explicit user YES. Requires KASH_KEY and KASH_AGENT_ID from kash.dev.",
+  "version": "1.0.7",
+  "author": {
+    "name": "devfaraaz"
+  },
+  "homepage": "https://kash.dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/devfaraaz/kash"
+}

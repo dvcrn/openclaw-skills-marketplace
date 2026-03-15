@@ -1,0 +1,10 @@
+{
+  "name": "lepetitpince--clawdo",
+  "description": "Todo list and task management for AI agents. Add, track, and complete tasks with autonomy levels — agents propose work, humans approve. Works in heartbeats, cron, and conversations. Persistent SQLite CLI with structured JSON output.",
+  "version": "1.1.4",
+  "author": {
+    "name": "lepetitpince"
+  },
+  "homepage": "https://github.com/LePetitPince/clawdo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lepetitpince/clawdo"
+}

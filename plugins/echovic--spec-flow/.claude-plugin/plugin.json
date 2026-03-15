@@ -1,0 +1,10 @@
+{
+  "name": "echovic--spec-flow",
+  "description": "Spec-driven development workflow. Interactive phase-by-phase confirmation from proposal to implementation. Trigger: 'spec-flow', 'spec mode', 'need a plan', 'structured development', 'write a spec', 'feature spec', 'technical spec', '需求文档', '技术方案', '任务拆解', '规格驱动', '写个方案', '做个规划', '结构化开发', 'plan this feature', 'break this down', 'design doc'. Creates .spec-flow/ directory with proposal, requirements, design, and tasks.",
+  "version": "0.1.0",
+  "author": {
+    "name": "echovic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/echovic/spec-flow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/echovic/spec-flow"
+}

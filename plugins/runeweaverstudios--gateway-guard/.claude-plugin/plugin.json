@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--gateway-guard",
+  "description": "Ensures OpenClaw gateway auth consistency and can auto-prompt \"continue\" when a run error (Unhandled stop reason: error) appears in gateway logs. Use when checking or fixing gateway token/password mismatch, device_token_mismatch errors, or before delegating to sub-agents.",
+  "version": "1.0.7",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/gateway-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/gateway-guard"
+}

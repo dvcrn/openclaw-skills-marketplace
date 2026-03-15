@@ -1,0 +1,10 @@
+{
+  "name": "alexrudloff--llmrouter",
+  "description": "Intelligent LLM proxy that routes requests to appropriate models based on complexity. Save money by using cheaper models for simple tasks. Tested with Anthropic, OpenAI, Gemini, Kimi/Moonshot, and Ollama.",
+  "version": "0.1.1",
+  "author": {
+    "name": "alexrudloff"
+  },
+  "homepage": "https://github.com/alexrudloff/llmrouter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alexrudloff/llmrouter"
+}

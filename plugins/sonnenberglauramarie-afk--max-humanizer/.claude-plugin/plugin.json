@@ -1,0 +1,10 @@
+{
+  "name": "sonnenberglauramarie-afk--max-humanizer",
+  "description": "Remove signs of AI-generated writing from text. Use when editing or reviewing\n text to make it sound more natural and human-written. Based on Wikipedia's\n comprehensive \"Signs of AI writing\" guide. Detects and fixes patterns including:\n inflated symbolism, promotional language, superficial -ing analyses, vague\n attributions, em dash overuse, rule of three, AI vocabulary words, negative\n parallelisms, and excessive conjunctive phrases.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sonnenberglauramarie-afk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sonnenberglauramarie-afk/max-humanizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sonnenberglauramarie-afk/max-humanizer"
+}

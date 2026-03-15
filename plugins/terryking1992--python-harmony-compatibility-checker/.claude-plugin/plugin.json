@@ -1,0 +1,10 @@
+{
+  "name": "terryking1992--python-harmony-compatibility-checker",
+  "description": "Check Python library compatibility with HarmonyOS. Downloads source from GitHub/PyPI, detects Windows-specific dependencies, runs pytest with per-test-case reporting, and generates detailed compatibility reports.",
+  "version": "1.0.1",
+  "author": {
+    "name": "terryking1992"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/terryking1992/python-harmony-compatibility-checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/terryking1992/python-harmony-compatibility-checker"
+}

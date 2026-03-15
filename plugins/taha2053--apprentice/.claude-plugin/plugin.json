@@ -1,0 +1,10 @@
+{
+  "name": "taha2053--apprentice",
+  "description": "Watch-me-once workflow learning. Say \"watch me\" and do a task — apprentice observes every step, understands your intent, and turns it into a permanent, repeatable skill your agent can run forever. Programming by demonstration. No code. No specs. Just do it once. Triggers on \"watch me\", \"learn this\", \"remember how I do this\", \"apprentice mode\", \"teach you something\", \"run [workflow-name]\", \"what have you learned\", or \"replay [workflow-name]\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "taha2053"
+  },
+  "homepage": "https://github.com/Taha2053/apprentice",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/taha2053/apprentice"
+}

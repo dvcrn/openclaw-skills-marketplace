@@ -1,0 +1,10 @@
+{
+  "name": "alirezarezvani--decision-logger",
+  "description": "Two-layer memory architecture for board meeting decisions. Manages raw transcripts (Layer 1) and approved decisions (Layer 2). Use when logging decisions after a board meeting, reviewing past decisions with /cs:decisions, or checking overdue action items with /cs:review. Invoked automatically by the board-meeting skill after Phase 5 founder approval.",
+  "version": "2.1.1",
+  "author": {
+    "name": "alirezarezvani"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/decision-logger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/decision-logger"
+}

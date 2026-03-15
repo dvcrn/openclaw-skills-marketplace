@@ -1,0 +1,10 @@
+{
+  "name": "eftalyurtseven--eachlabs-image-generation",
+  "description": "Generate new images from text prompts using EachLabs AI models. Supports text-to-image with multiple model families including Flux, GPT Image, Gemini, Imagen, Seedream, and more. Use when the user wants to create new images from text. For editing existing images, see eachlabs-image-edit.",
+  "version": "0.1.2",
+  "author": {
+    "name": "eftalyurtseven"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-image-generation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-image-generation"
+}

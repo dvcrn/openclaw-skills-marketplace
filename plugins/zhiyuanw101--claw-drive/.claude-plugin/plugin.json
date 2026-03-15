@@ -1,0 +1,10 @@
+{
+  "name": "zhiyuanw101--claw-drive",
+  "description": "Claw Drive — AI-managed personal drive for OpenClaw. Auto-categorize, tag, deduplicate, and retrieve files with natural language. Backed by Google Drive for cloud sync and security. Use when receiving files to store, or when asked to find/retrieve a previously stored file.",
+  "version": "0.4.4",
+  "author": {
+    "name": "zhiyuanw101"
+  },
+  "homepage": "https://github.com/dissaozw/claw-drive",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhiyuanw101/claw-drive"
+}

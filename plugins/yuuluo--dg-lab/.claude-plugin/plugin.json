@@ -1,0 +1,10 @@
+{
+  "name": "yuuluo--dg-lab",
+  "description": "Control DG-LAB Coyote 3.0 (郊狼) pulse device via WebSocket. Manage strength, send waveform patterns, handle device pairing. Use when the user mentions 郊狼, DG-LAB, coyote, pulse device, e-stim, 脉冲, 电脉冲, waveform control, or wants to interact with dungeon-lab hardware.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yuuluo"
+  },
+  "homepage": "https://github.com/YuuLuo/DG-LAB-Skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yuuluo/dg-lab"
+}

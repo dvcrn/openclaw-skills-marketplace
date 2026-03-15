@@ -1,0 +1,10 @@
+{
+  "name": "matthiashbusch--mechanics-sketches",
+  "description": "Generate technical engineering mechanics sketches (beams, supports, forces, moments, dimensions, coordinate systems) as PDF/PNG/SVG using the MechanicsSketches Python library. Use this skill when asked to create free-body diagrams, structural sketches, or mechanical engineering figures.",
+  "version": "1.0.0",
+  "author": {
+    "name": "matthiashbusch"
+  },
+  "homepage": "https://github.com/MatthiasHBusch/MechanicsSketches",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matthiashbusch/mechanics-sketches"
+}

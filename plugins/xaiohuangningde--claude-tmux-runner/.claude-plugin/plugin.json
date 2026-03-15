@@ -1,0 +1,10 @@
+{
+  "name": "xaiohuangningde--claude-tmux-runner",
+  "description": "Claude Code parallel task manager with tmux backend. For running multiple Claude Code tasks concurrently, monitoring progress, and managing background jobs. Activate when user mentions: Claude Code, background task, parallel, tmux.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xaiohuangningde"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xaiohuangningde/claude-tmux-runner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xaiohuangningde/claude-tmux-runner"
+}

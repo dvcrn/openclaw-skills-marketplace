@@ -1,0 +1,10 @@
+{
+  "name": "jdrhyne--nutrient-openclaw",
+  "description": "OpenClaw-native PDF/document processing skill for Nutrient DWS. Best for OpenClaw users who need PDF conversion, OCR, text/table extraction, PII redaction, watermarking, digital signatures, and API credit checks via built-in `nutrient_*` tools. Triggers on OpenClaw tool names (`nutrient_convert_to_pdf`, `nutrient_extract_text`, etc.), \"OpenClaw plugin\", \"Nutrient OpenClaw\", and document-processing requests in OpenClaw chats. Files are processed by Nutrient DWS over the network, so use it only when third-party document processing is acceptable. For non-OpenClaw environments, use the Universal Nutrient Document Processing skill instead.",
+  "version": "1.2.5",
+  "author": {
+    "name": "jdrhyne"
+  },
+  "homepage": "https://www.nutrient.io/api/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jdrhyne/nutrient-openclaw"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "proxyhq--proxy-status",
+  "description": "Check status of Proxy payment intents and transactions. Usage: /proxy-status [intent-id] or /proxy-status to see all recent.",
+  "version": "1.0.0",
+  "author": {
+    "name": "proxyhq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/proxyhq/proxy-status",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/proxyhq/proxy-status"
+}

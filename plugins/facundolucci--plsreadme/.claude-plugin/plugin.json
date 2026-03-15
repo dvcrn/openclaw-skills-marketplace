@@ -1,0 +1,10 @@
+{
+  "name": "facundolucci--plsreadme",
+  "description": "Share markdown files and text as clean, readable web links via plsreadme.com. Use when someone asks to share a document, README, PRD, proposal, notes, or any markdown as a shareable link. Also triggers for \"create a preview link\", \"share this as a page\", or \"make this readable\". Requires the plsreadme MCP server (npx plsreadme-mcp).",
+  "version": "0.4.0",
+  "author": {
+    "name": "facundolucci"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/facundolucci/plsreadme",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/facundolucci/plsreadme"
+}

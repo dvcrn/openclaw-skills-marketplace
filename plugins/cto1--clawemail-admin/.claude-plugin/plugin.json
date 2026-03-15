@@ -1,0 +1,10 @@
+{
+  "name": "cto1--clawemail-admin",
+  "description": "Provision and manage @clawemail.com Google Workspace email accounts. Use when the user wants to create an email for their AI agent, check email availability, or manage existing ClawEmail accounts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cto1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cto1/clawemail-admin",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cto1/clawemail-admin"
+}

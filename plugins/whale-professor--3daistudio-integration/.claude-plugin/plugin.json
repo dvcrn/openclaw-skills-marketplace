@@ -1,0 +1,10 @@
+{
+  "name": "whale-professor--3daistudio-integration",
+  "description": "Convert images and text prompts to 3D models (.glb) using the 3D AI Studio API. Supports TRELLIS.2, Hunyuan Rapid, and Hunyuan Pro models.",
+  "version": "1.0.4",
+  "author": {
+    "name": "whale-professor"
+  },
+  "homepage": "https://www.3daistudio.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/whale-professor/3daistudio-integration"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "godofbush--crypto-lens",
+  "description": "CryptoLens — AI-driven multi-coin crypto analysis. Compare 2-5 coins (relative performance, correlation matrix, volatility ranking), get single-coin technical analysis charts with MA(7/25/99), RSI, MACD, and Bollinger Bands, or run AI market analysis with scoring engine (0-100 composite score + actionable signals). Dark-theme PNG output. Per-call billing via SkillPay: 1 token (0.001 USDT) per call for all commands. Use when user asks for crypto comparison, portfolio analysis, technical indicators, RSI, MACD, Bollinger Bands, multi-coin analysis, or \"should I buy/sell\" questions.",
+  "version": "2.0.1",
+  "author": {
+    "name": "godofbush"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/godofbush/crypto-lens",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/godofbush/crypto-lens"
+}

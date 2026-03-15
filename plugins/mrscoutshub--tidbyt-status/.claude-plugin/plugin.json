@@ -1,0 +1,10 @@
+{
+  "name": "mrscoutshub--tidbyt-status",
+  "description": "HTTP API server that exposes OpenClaw agent status for Tidbyt LED displays. Use when creating integrations with Tidbyt devices, building status dashboards, or displaying agent activity on 64x32 pixel displays. Returns JSON with agent status, emoji, activity level, and task counts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrscoutshub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrscoutshub/tidbyt-status",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrscoutshub/tidbyt-status"
+}

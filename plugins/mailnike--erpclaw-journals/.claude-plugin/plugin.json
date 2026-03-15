@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--erpclaw-journals",
+  "description": "Journal entry management with draft-submit-cancel lifecycle for ERPClaw ERP",
+  "version": "1.0.1",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.erpclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/erpclaw-journals"
+}

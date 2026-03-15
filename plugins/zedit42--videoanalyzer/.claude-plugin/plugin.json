@@ -1,0 +1,10 @@
+{
+  "name": "zedit42--videoanalyzer",
+  "description": "Download videos, extract transcripts, capture frames. Analyze YouTube, tutorials, DD videos with yt-dlp + Whisper + ffmpeg.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zedit42"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zedit42/videoanalyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zedit42/videoanalyzer"
+}

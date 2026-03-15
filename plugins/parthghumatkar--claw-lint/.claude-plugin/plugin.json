@@ -1,0 +1,10 @@
+{
+  "name": "parthghumatkar--claw-lint",
+  "description": "Security scanner for OpenClaw skills. Detects malware and backdoors before execution, scores risk levels, and monitors file integrity through static code analysis.",
+  "version": "1.0.4",
+  "author": {
+    "name": "parthghumatkar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/parthghumatkar/claw-lint",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/parthghumatkar/claw-lint"
+}

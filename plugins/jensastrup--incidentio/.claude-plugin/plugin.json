@@ -1,0 +1,10 @@
+{
+  "name": "jensastrup--incidentio",
+  "description": "Manage incidents via the incident.io REST API. Create, view, update, escalate, and resolve incidents. Check severities, statuses, and post incident updates. Requires INCIDENTIO_API_KEY environment variable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jensastrup"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jensastrup/incidentio",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jensastrup/incidentio"
+}

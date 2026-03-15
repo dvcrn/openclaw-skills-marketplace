@@ -1,0 +1,10 @@
+{
+  "name": "kunoiiv--proof-of-share",
+  "description": "PoW verified collabs—sender hashes skill/memory + sig → JSON share. Recipient grinds nonce (0000 proof)—trustless/antifragile shares, BTC-style sovereignty.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kunoiiv"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kunoiiv/proof-of-share",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kunoiiv/proof-of-share"
+}

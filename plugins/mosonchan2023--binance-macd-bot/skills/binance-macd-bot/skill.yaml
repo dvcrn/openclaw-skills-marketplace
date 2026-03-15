@@ -1,0 +1,24 @@
+#BJ|# skill.yaml
+#SB|name: binance-macd-bot
+#VK|slug: binance-macd-bot
+#HY|version: 1.0.0
+#WZ|author: moson
+#VX|description: MACD 指标交易策略。每次调用自动扣费 0.001 USDT
+#RX|license: MIT
+#TS|tags:
+#JM|  - binance
+#BR|  - MACD
+#YS|  - strategy
+#PR|permissions:
+#WZ|  - network
+#RZ|config:
+#QW|  SKILLPAY_API_KEY:
+#PJ|    type: string
+#ZZ|    required: true
+#PM|    secret: true
+#VW|entryPoint:
+#SZ|  type: typescript
+#ZK|  path: index.js
+#KX|price:
+#VV|  amount: 0.001
+#RV|  currency: USDT

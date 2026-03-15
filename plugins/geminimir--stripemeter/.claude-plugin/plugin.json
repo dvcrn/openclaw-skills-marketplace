@@ -1,0 +1,10 @@
+{
+  "name": "geminimir--stripemeter",
+  "description": "Integrate Stripe usage-based billing with idempotent event ingestion, late-event handling, and pre-invoice reconciliation. Use when implementing usage metering, tracking API calls or seats, pushing usage to Stripe, handling billing drift, or building usage-based pricing.",
+  "version": "0.1.0",
+  "author": {
+    "name": "geminimir"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/geminimir/stripemeter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/geminimir/stripemeter"
+}

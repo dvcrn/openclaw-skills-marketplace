@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--binance-trading-bot",
+  "description": "Binance 现货/合约交易机器人 - 查询余额、市价/限价下单、止盈止损。每次调用自动扣费 0.001 USDT（SkillPay 集成）",
+  "version": "1.0.0",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/binance-trading-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/binance-trading-bot"
+}

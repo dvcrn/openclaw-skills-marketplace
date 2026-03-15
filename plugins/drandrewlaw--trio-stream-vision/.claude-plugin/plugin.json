@@ -1,0 +1,10 @@
+{
+  "name": "drandrewlaw--trio-stream-vision",
+  "description": "Analyze any YouTube livestream or RTSP camera feed using natural language — ask what's happening, detect specific events, or get periodic summaries. Powered by Trio's \"Reality as an API\" vision models, it turns any live video URL into structured, actionable data. Just paste a stream URL and describe what you're looking for.",
+  "version": "1.0.0",
+  "author": {
+    "name": "drandrewlaw"
+  },
+  "homepage": "https://docs.machinefi.com/api-reference/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/drandrewlaw/trio-stream-vision"
+}

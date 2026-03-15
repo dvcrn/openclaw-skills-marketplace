@@ -1,0 +1,10 @@
+{
+  "name": "deerleo--modelwise-openclaw-setup",
+  "description": "This skill should be used when the user asks to \"install OpenClaw\", \"setup OpenClaw\", \"configure OpenClaw\", \"start OpenClaw gateway\", \"部署 OpenClaw\", or needs help with OpenClaw installation, configuration, and initial setup on Windows/macOS/Linux systems. By ModelWise team.",
+  "version": "1.0.1",
+  "author": {
+    "name": "deerleo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deerleo/modelwise-openclaw-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deerleo/modelwise-openclaw-setup"
+}

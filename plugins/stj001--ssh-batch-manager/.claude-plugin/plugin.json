@@ -1,0 +1,10 @@
+{
+  "name": "stj001--ssh-batch-manager",
+  "description": "Batch SSH key management. Distribute/remove SSH keys to/from multiple servers with intelligent connectivity pre-check and source tracking.",
+  "version": "2.1.9",
+  "author": {
+    "name": "stj001"
+  },
+  "homepage": "https://gitee.com/subline/onepeace/tree/develop/src/skills/ssh-batch-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stj001/ssh-batch-manager"
+}

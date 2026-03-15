@@ -1,0 +1,10 @@
+{
+  "name": "ezviz-open--ezviz-open-camera-config",
+  "description": "萤石设备配置技能。支持 9 个设备配置 API，包括布防/撤防、镜头遮蔽、全天录像、移动侦测灵敏度等。Use when: 需要远程配置萤石设备参数、修改设备布防状态、调整设备功能开关。",
+  "version": "1.0.0",
+  "author": {
+    "name": "ezviz-open"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ezviz-open/ezviz-open-camera-config",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ezviz-open/ezviz-open-camera-config"
+}

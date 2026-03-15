@@ -1,0 +1,22 @@
+{
+  "name": "ai-deterministic-control",
+  "version": "1.0.0",
+  "description": "AI确定性控制工具 - 控制AI输出随机性，提供确定性模式",
+  "author": "小米粒 (xiaomili)",
+  "license": "MIT",
+  "keywords": [
+    "ai",
+    "deterministic",
+    "temperature",
+    "consistency",
+    "reproducibility"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhaog100/openclaw-skills"
+  },
+  "dependencies": {
+    "python": ">=3.8",
+    "click": ">=8.0.0"
+  }
+}

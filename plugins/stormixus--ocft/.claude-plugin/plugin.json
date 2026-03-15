@@ -1,0 +1,10 @@
+{
+  "name": "stormixus--ocft",
+  "description": "P2P file transfer between AI agents via message channels. Supports chunked transfer, IPFS fallback for large files, and trusted peer management.",
+  "version": "1.1.2",
+  "author": {
+    "name": "stormixus"
+  },
+  "homepage": "https://github.com/stormixus/ocft",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stormixus/ocft"
+}

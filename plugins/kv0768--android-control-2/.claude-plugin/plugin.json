@@ -1,0 +1,10 @@
+{
+  "name": "kv0768--android-control-2",
+  "description": "Control an Android device via command-line tools (uiautomator, screencap, input, am). Automatically attempts non-root execution first and falls back to root if necessary.",
+  "version": "0.1.1",
+  "author": {
+    "name": "kv0768"
+  },
+  "homepage": "https://developer.android.com/studio/test/uiautomator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kv0768/android-control-2"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jameseball--jameseball-clawdio",
+  "description": "Secure P2P communication for AI agents. Noise XX handshake, XChaCha20-Poly1305 encryption, connection consent, human verification. Zero central servers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jameseball"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jameseball/jameseball-clawdio",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jameseball/jameseball-clawdio"
+}

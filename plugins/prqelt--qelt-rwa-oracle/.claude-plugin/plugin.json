@@ -1,0 +1,10 @@
+{
+  "name": "prqelt--qelt-rwa-oracle",
+  "description": "Fetch real-world asset (RWA) data and proof-of-reserve status from the QXMP Oracle — managing $1.17 trillion in certified in-ground mining assets on the QELT blockchain. Use when asked about tokenized assets, reserve proofs, asset valuations, QXMP portfolio stats, or proof freshness. No API key required.",
+  "version": "0.1.0",
+  "author": {
+    "name": "prqelt"
+  },
+  "homepage": "https://qxmp.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/prqelt/qelt-rwa-oracle"
+}

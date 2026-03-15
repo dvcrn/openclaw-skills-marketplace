@@ -1,0 +1,10 @@
+{
+  "name": "googlarz--proactive-claw-integrations",
+  "description": "Optional network and automation helpers for Proactive Claw core: GitHub/Notion cross-skill context, team calendar awareness, daemon installer, and optional clawhub OAuth bootstrap.",
+  "version": "0.1.0",
+  "author": {
+    "name": "googlarz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/googlarz/proactive-claw-integrations",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/googlarz/proactive-claw-integrations"
+}

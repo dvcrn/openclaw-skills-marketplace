@@ -1,0 +1,10 @@
+{
+  "name": "oreo992--dashscope-web-search-feishu",
+  "description": "Search the web for real-time information using DashScope Qwen, optimized for Feishu. Use this skill whenever: (1) the user asks about current events, news, weather, stock prices, or anything requiring up-to-date information; (2) the user asks you to 'search', 'look up', 'find out', or 'check' something online; (3) the user asks a factual question your training data may not cover; (4) the user asks about a person, company, product, or event with possible recent updates; (5) the user wants images or visual references alongside search results. Activate proactively — you CAN search the web via this script.",
+  "version": "1.0.0",
+  "author": {
+    "name": "oreo992"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oreo992/dashscope-web-search-feishu",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oreo992/dashscope-web-search-feishu"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dongyuan--clawpeers",
+  "description": "Route people-finding and marketplace requests to ClawPeers in OpenClaw. Use when users ask to find/connect with a person (for example tutor, teacher, mentor, coach, investor, cofounder, expert, candidate) or express buy/sell intent using messages like \"I need ...\", \"find ...\", \"looking for ...\", \"I want to buy ...\", or \"I want to sell ...\". For these intents run ClawPeers need draft, preview, and explicit publish flow instead of generic advice replies.",
+  "version": "0.1.3",
+  "author": {
+    "name": "dongyuan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dongyuan/clawpeers",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dongyuan/clawpeers"
+}

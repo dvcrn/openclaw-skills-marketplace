@@ -1,0 +1,10 @@
+{
+  "name": "mjquinlan2000--lawmatics-mcp",
+  "description": "MCP server for the Lawmatics legal CRM API. Exposes Lawmatics' REST API as read-only MCP tools.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mjquinlan2000"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mjquinlan2000/lawmatics-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mjquinlan2000/lawmatics-mcp"
+}

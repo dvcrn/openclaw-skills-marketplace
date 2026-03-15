@@ -1,0 +1,10 @@
+{
+  "name": "th3hypn0tist--symbolic-memory",
+  "description": "Stateless symbolic memory effect for LLM agents using SQL facts + canonical semantics, activated via symbols and JIT meaning (PostgreSQL + Ollama).",
+  "version": "1.0.5",
+  "author": {
+    "name": "th3hypn0tist"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/th3hypn0tist/symbolic-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/th3hypn0tist/symbolic-memory"
+}

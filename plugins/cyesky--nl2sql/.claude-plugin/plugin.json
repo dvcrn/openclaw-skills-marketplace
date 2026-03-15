@@ -1,0 +1,10 @@
+{
+  "name": "cyesky--nl2sql",
+  "description": "自然语言转 SQL 查询助手。将用户的自然语言描述转换为 SQL 语句，自动执行并返回结果。 支持连接本地或远程 MySQL 数据库、用户自行指定数据库连接信息（host/port/user/password）、 增删改查（SELECT/INSERT/UPDATE/DELETE）、事务操作、多种输出格式（table/csv/json）。 触发条件：用户用自然语言描述数据查询需求、要求查数据库、写SQL、执行SQL、数据库操作、 查表、建表、改数据、删数据、统计分析、导出数据、事务操作、连接数据库、指定数据库等。",
+  "version": "1.0.0",
+  "author": {
+    "name": "cyesky"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cyesky/nl2sql",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cyesky/nl2sql"
+}

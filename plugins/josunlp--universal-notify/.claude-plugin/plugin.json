@@ -1,0 +1,10 @@
+{
+  "name": "josunlp--universal-notify",
+  "description": "Send notifications through multiple channels with a single script. Supports ntfy.sh (free, no signup), Gotify (self-hosted), generic webhooks, email (SMTP/curl), Telegram Bot API, and Pushover. Use when sending alerts, monitoring notifications, deployment notices, or any event that needs to reach a human through their preferred channel. Unified interface with priority levels (low/normal/high/urgent).",
+  "version": "1.0.0",
+  "author": {
+    "name": "josunlp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/josunlp/universal-notify",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/josunlp/universal-notify"
+}

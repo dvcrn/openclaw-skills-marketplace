@@ -1,0 +1,10 @@
+{
+  "name": "cheminem--pharmaclaw-tox-agent",
+  "description": "Toxicology Agent for pharma drug safety profiling from SMILES. Computes RDKit ADMET descriptors (logP, TPSA, MW, HBD, HBA, rotatable bonds), Lipinski Rule of Five violations, Veber rule checks, QED drug-likeness score, and PAINS substructure alerts. Outputs risk classification (Low/Medium/High) with full property report. Chains from Chemistry Query (receives SMILES) and feeds into IP Expansion for safer derivative suggestions. Triggers on tox, toxicology, safety, ADMET, hepatotox, carcinogen, risk, PAINS, drug safety, Lipinski, Veber, QED.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cheminem"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cheminem/pharmaclaw-tox-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cheminem/pharmaclaw-tox-agent"
+}

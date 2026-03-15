@@ -1,0 +1,10 @@
+{
+  "name": "sirius-777-llm--liudao-heritage",
+  "description": "Search, enrich, and manage family heritage and historical relationship data from the LiùDào (六道) SQLite database. Use this skill when answering questions about historical figures, calculating relationship paths (A的B), or adding new personal records with privacy controls.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sirius-777-llm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sirius-777-llm/liudao-heritage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sirius-777-llm/liudao-heritage"
+}

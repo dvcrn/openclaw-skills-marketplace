@@ -1,0 +1,10 @@
+{
+  "name": "xuanguan2020--csvtoexcel",
+  "description": "Convert CSV files to professionally formatted Excel workbooks with Chinese character support, automatic formatting, and multi-sheet capabilities. Use when users need to: (1) Convert single CSV to Excel, (2) Combine multiple CSV files into one Excel with separate sheets, (3) Format CSV data with headers, borders, and auto-adjusted columns, (4) Handle Chinese or other non-ASCII characters in CSV files, or (5) Create professional Excel reports from CSV data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xuanguan2020"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xuanguan2020/csvtoexcel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xuanguan2020/csvtoexcel"
+}

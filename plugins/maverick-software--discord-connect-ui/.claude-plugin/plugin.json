@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--discord-connect-ui",
+  "description": "Complete Discord integration for Clawdbot with automatic UI installation. Provides Discord bot connectivity, dashboard tab, setup wizard, credential management, server monitoring, and plugin architecture hooks. Use when setting up Discord channel integration or adding Discord tab to the Control dashboard. Includes automatic installation of UI components, RPC handlers, and navigation updates.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/discord-connect-ui",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/discord-connect-ui"
+}

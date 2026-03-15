@@ -1,0 +1,10 @@
+{
+  "name": "xiongjjlj--feishu-docx-powerwrite",
+  "description": "High-quality Feishu/Lark Docx writing via OpenClaw. Use when you want to turn Markdown into well-formatted Feishu Docx (headings, lists, nesting, code blocks) using feishu_docx_write_markdown; includes safe workflows, templates, and troubleshooting. Trigger on Feishu doc/docx links, “write to Feishu doc”, “generate a Feishu doc”, “append/replace docx”, “convert markdown to feishu doc”, or when users want consistently good doc formatting.",
+  "version": "0.1.0",
+  "author": {
+    "name": "xiongjjlj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiongjjlj/feishu-docx-powerwrite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiongjjlj/feishu-docx-powerwrite"
+}

@@ -1,0 +1,76 @@
+{
+  "name": "nero-market-research",
+  "version": "4.0.0",
+  "description": "AI 独立开发者的情报挖掘系统 - 从500条噪音中精准找到神仙点子",
+  "author": {
+    "name": "Pascal AI Team",
+    "email": "zcweah@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zcweah1981/nero-market-research.git"
+  },
+  "keywords": [
+    "market-research",
+    "ai",
+    "automation",
+    "notion",
+    "product-ideas",
+    "indie-hacker",
+    "startup"
+  ],
+  "license": "MIT",
+  "main": "SKILL.md",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "install.sh",
+    "uninstall.sh",
+    "config.json.example",
+    "QUICK_REFERENCE.md",
+    "GIT_SYNC_GUIDE.md",
+    "config/",
+    "docs/",
+    "templates/",
+    "scripts/"
+  ],
+  "engines": {
+    "openclaw": ">=2026.3.0"
+  },
+  "dependencies": {
+    "python": ">=3.10"
+  },
+  "scripts": {
+    "install": "./install.sh",
+    "uninstall": "./uninstall.sh",
+    "sync": "./auto-sync.sh"
+  },
+  "config": {
+    "notion": {
+      "api_key": {
+        "required": true,
+        "description": "Notion API Key"
+      },
+      "database_id": {
+        "required": true,
+        "description": "Notion 商机池数据库 ID"
+      },
+      "daily_report_db_id": {
+        "required": true,
+        "description": "Notion 每日报告数据库 ID"
+      }
+    },
+    "translation": {
+      "api_url": {
+        "required": true,
+        "description": "LibreTranslate API URL"
+      }
+    },
+    "search": {
+      "primary_url": {
+        "required": true,
+        "description": "SearXNG 主地址"
+      }
+    }
+  }
+}

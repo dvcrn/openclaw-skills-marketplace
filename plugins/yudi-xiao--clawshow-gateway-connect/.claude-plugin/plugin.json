@@ -1,0 +1,10 @@
+{
+  "name": "yudi-xiao--clawshow-gateway-connect",
+  "description": "Install and activate @bowong/clawshow-gateway in OpenClaw, then migrate existing Gateway channel configuration to ClawShow with rollback safety. Use when a user wants one-step plugin install plus config migration without repeating requirements each run, applying changes via Config RPC config.apply full replace with minimal file access and no default outbound test traffic.",
+  "version": "1.0.3",
+  "author": {
+    "name": "yudi-xiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yudi-xiao/clawshow-gateway-connect",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yudi-xiao/clawshow-gateway-connect"
+}

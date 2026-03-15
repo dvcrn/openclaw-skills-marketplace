@@ -1,0 +1,10 @@
+{
+  "name": "xxxzhuo--gofilshsearcher",
+  "description": "闲鱼商品自动搜索技能，支持严格筛选（个人闲置/单一价格/排除商家），输出 TOP10 价格升序列表",
+  "version": "1.0.1",
+  "author": {
+    "name": "xxxzhuo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xxxzhuo/gofilshsearcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xxxzhuo/gofilshsearcher"
+}

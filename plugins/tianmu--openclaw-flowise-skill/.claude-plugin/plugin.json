@@ -1,0 +1,10 @@
+{
+  "name": "tianmu--openclaw-flowise-skill",
+  "description": "Interact with Flowise AI workflows via REST API. Use when user mentions Flowise, chatflows, or wants to send messages to Flowise bots/agents. Supports listing flows, sending predictions, and managing conversations.",
+  "version": "0.1.0",
+  "author": {
+    "name": "tianmu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tianmu/openclaw-flowise-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tianmu/openclaw-flowise-skill"
+}

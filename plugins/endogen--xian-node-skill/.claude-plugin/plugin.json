@@ -1,0 +1,10 @@
+{
+  "name": "endogen--xian-node-skill",
+  "description": "Set up and manage Xian blockchain nodes. Use when deploying a Xian node to join mainnet/testnet, creating a new Xian network, or managing running nodes. Covers Docker-based setup via xian-stack, CometBFT configuration, and node monitoring.",
+  "version": "0.1.0",
+  "author": {
+    "name": "endogen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/endogen/xian-node-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/endogen/xian-node-skill"
+}

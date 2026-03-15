@@ -1,0 +1,10 @@
+{
+  "name": "luojin520520--security-audit-tools",
+  "description": "Inspect third-party Claude/OpenClaw/Codex/OpenCode skills, plugins, repos, npm packages, pip packages, shell installers, and GitHub Actions before any download or installation. Use automatically whenever a user asks to install, add, pull, clone, run, curl-bash, npm install, pip install, clawhub install, or use a skill/plugin from GitHub, ClawHub, or other registries. Perform source reputation checks first, then pre-download code review, then post-download deep inspection without executing install scripts. Block or escalate when you detect credential theft, data exfiltration, remote command execution, malicious IP/domain beacons, wallet theft, obfuscation, suspicious lifecycle hooks, prompt-injection-to-shell patterns, unknown packages, typosquatting, dependency confusion, or unsafe GitHub Actions/workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "luojin520520"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luojin520520/security-audit-tools",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luojin520520/security-audit-tools"
+}

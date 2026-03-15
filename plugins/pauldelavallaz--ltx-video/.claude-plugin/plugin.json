@@ -1,0 +1,10 @@
+{
+  "name": "pauldelavallaz--ltx-video",
+  "description": "Generate videos via LTX-2.3 API (ltx.video). Supports text-to-video, image-to-video,\n audio-to-video (lip-sync from audio + image), extend, and retake.\n Use when: generating AI video from text/image/audio, animating a portrait,\n creating lip-sync video from an existing image + audio recording.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pauldelavallaz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/ltx-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/ltx-video"
+}

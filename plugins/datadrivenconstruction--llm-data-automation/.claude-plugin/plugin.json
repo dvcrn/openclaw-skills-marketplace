@@ -1,0 +1,10 @@
+{
+  "name": "datadrivenconstruction--llm-data-automation",
+  "description": "Automate construction data processing using LLM (ChatGPT, Claude, LLaMA). Generate Python/Pandas scripts, extract data from documents, and create automated pipelines without deep programming knowledge.",
+  "version": "2.1.0",
+  "author": {
+    "name": "datadrivenconstruction"
+  },
+  "homepage": "https://datadrivenconstruction.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/llm-data-automation"
+}

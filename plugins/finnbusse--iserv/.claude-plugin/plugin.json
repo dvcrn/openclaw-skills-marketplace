@@ -1,0 +1,10 @@
+{
+  "name": "finnbusse--iserv",
+  "description": "HTTP client for IServ school platforms. Log in to an IServ instance (e.g. https://grabbe-dt.de) and fetch common student data like unread mail counts, calendar events, files/folders, tasks/exercises, announcements/news, and other IServ modules via HTTP endpoints. Includes best-effort file ops + exercise submission.",
+  "version": "0.1.0",
+  "author": {
+    "name": "finnbusse"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/finnbusse/iserv",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/finnbusse/iserv"
+}

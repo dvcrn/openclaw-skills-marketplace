@@ -1,0 +1,81 @@
+{
+  "name": "@guava-parity/guard-scanner",
+  "version": "15.0.0",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "description": "Agent Skill Security Scanner - ASI Sanctuary Enforcer (v15)",
+  "openclaw": {
+    "extensions": [
+      "./dist/openclaw-plugin.mjs"
+    ]
+  },
+  "main": "src/scanner.js",
+  "bin": {
+    "guard-scanner": "src/cli.js"
+  },
+  "scripts": {
+    "build:plugin": "npx tsc -p tsconfig.build.json",
+    "check:upstream": "node scripts/check-openclaw-upstream.js",
+    "scan": "node src/cli.js",
+    "lint": "node scripts/lint.js",
+    "typecheck": "npx tsc --noEmit -p tsconfig.json",
+    "release:gate": "node scripts/release-gate.js",
+    "test": "npm run lint && npm run typecheck && npm run build:plugin && node scripts/generate-capabilities.js && node scripts/generate-readme-metrics.js && node scripts/generate-readme-stats.js && node scripts/verify-capabilities.js && node scripts/test-quality-gate.js && node scripts/corpus-metrics.js --check && node scripts/perf-regression.js && node scripts/release-gate.js && node --test test/*.test.js",
+    "test:core": "node --test test/scanner.test.js test/patterns.test.js",
+    "test:contracts": "npm run build:plugin && node scripts/release-gate.js && node --test test/finding-schema.test.js test/mcp.test.js test/e2e-mcp.test.js test/openclaw-plugin-compat.test.js test/stale-claims.test.js test/openclaw-upstream-check.test.js",
+    "test:corpus": "node scripts/corpus-metrics.js --check",
+    "test:perf": "node scripts/perf-regression.js",
+    "test:quality": "node scripts/test-quality-gate.js",
+    "sbom": "node scripts/generate-sbom.js",
+    "sync:readme": "node scripts/generate-capabilities.js && node scripts/generate-readme-metrics.js && node scripts/generate-readme-stats.js",
+    "prepack": "npm run build:plugin && npm run release:gate"
+  },
+  "keywords": [
+    "security",
+    "scanner",
+    "ai-agent",
+    "skill-scanner",
+    "prompt-injection",
+    "openclaw",
+    "mcp",
+    "sarif",
+    "compaction-persistence",
+    "threat-signatures",
+    "owasp",
+    "discovery",
+    "daemon",
+    "typescript"
+  ],
+  "author": "Guava & Dee",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koatora20/guard-scanner.git"
+  },
+  "homepage": "https://github.com/koatora20/guard-scanner",
+  "files": [
+    "dist/",
+    "src/",
+    "hooks/",
+    "docs/",
+    "openclaw-plugin.mts",
+    "openclaw.plugin.json",
+    "SKILL.md",
+    "SECURITY.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "openclaw": "2026.3.8",
+    "typescript": "^5.7.0"
+  },
+  "dependencies": {
+    "ws": "^8.19.0"
+  }
+}

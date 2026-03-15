@@ -1,0 +1,10 @@
+{
+  "name": "dedene--strawpoll-cli",
+  "description": "Create and manage StrawPoll polls, meeting polls, and ranking polls from the terminal using the strawpoll CLI. Use when the user wants to create polls, view poll results, schedule meetings with availability, run ranked-choice votes, delete or update polls, or automate StrawPoll workflows in scripts.",
+  "version": "1.0.2",
+  "author": {
+    "name": "dedene"
+  },
+  "homepage": "https://github.com/dedene/strawpoll-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dedene/strawpoll-cli"
+}

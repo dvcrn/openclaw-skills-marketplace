@@ -1,0 +1,10 @@
+{
+  "name": "dongweiii--feishu-doc-collab",
+  "description": "Enable real-time AI collaboration in Feishu (Lark) documents. When a user edits a Feishu doc,\n the agent automatically detects the change, reads the document, and responds inline —\n turning any Feishu document into a live human-AI conversation.\n\n Features:\n - Feishu document edit event → triggers isolated agent session automatically\n - Structured in-doc chat protocol (status flags prevent premature AI responses while user is still typing)\n - Multi-party support: multiple humans + multiple AI agents in one document\n - Bitable (spreadsheet) task board integration for collaborative task management\n - Anti-loop: bot's own edits are automatically ignored\n\n Triggers: Feishu doc collaboration, 飞书文档协作, document edit event, in-doc chat, 文档内对话,\n Lark document AI, feishu doc auto-reply, 飞书文档自动回复",
+  "version": "1.0.0",
+  "author": {
+    "name": "dongweiii"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dongweiii/feishu-doc-collab",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dongweiii/feishu-doc-collab"
+}

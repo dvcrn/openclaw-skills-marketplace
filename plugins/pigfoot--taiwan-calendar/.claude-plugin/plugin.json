@@ -1,0 +1,10 @@
+{
+  "name": "pigfoot--taiwan-calendar",
+  "description": "Taiwan calendar query for accurate working day/holiday information. Use when user asks about Taiwan dates, working days, holidays, make-up workdays, or needs date calculations. Solves Claude's knowledge cutoff issues with Taiwan's administrative calendar.",
+  "version": "0.0.1",
+  "author": {
+    "name": "pigfoot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pigfoot/taiwan-calendar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pigfoot/taiwan-calendar"
+}

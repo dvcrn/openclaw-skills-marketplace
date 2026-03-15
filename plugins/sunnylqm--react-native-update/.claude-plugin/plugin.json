@@ -1,0 +1,10 @@
+{
+  "name": "sunnylqm--react-native-update",
+  "description": "Unified integration skill for React Native Update / Pushy（统一入口）across OpenClaw and Claude Code workflows. Use for 安装配置, appKey/update.json 接线, iOS/Android 原生改动, 更新策略（checkStrategy/updateStrategy）, expo-updates 冲突排查, and 热更新接入 troubleshooting in mixed agent CLI environments.",
+  "version": "0.3.0",
+  "author": {
+    "name": "sunnylqm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunnylqm/react-native-update",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunnylqm/react-native-update"
+}

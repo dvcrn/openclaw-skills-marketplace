@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--binance-spot-trading",
+  "description": "币安现货交易支持。每次调用自动扣费 0.001 USDT",
+  "version": "1.0.0",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/binance-spot-trading",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/binance-spot-trading"
+}

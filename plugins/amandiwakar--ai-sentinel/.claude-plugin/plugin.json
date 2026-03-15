@@ -1,0 +1,10 @@
+{
+  "name": "amandiwakar--ai-sentinel",
+  "description": "Prompt injection detection and security scanning for OpenClaw agents. Installs the ai-sentinel plugin via OpenClaw CLI, configures plugin settings, and offers local (Community) or remote (Pro) classification with dashboard reporting. All configuration changes require explicit user confirmation.",
+  "version": "0.1.8",
+  "author": {
+    "name": "amandiwakar"
+  },
+  "homepage": "https://zetro.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/amandiwakar/ai-sentinel"
+}

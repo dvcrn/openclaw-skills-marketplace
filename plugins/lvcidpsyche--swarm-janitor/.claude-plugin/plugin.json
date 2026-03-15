@@ -1,0 +1,10 @@
+{
+  "name": "lvcidpsyche--swarm-janitor",
+  "description": "Enterprise-grade OpenClaw skill for cleaning up orphaned subagent processes, archiving transcripts to SuperMemory, and freeing disk space without losing work. Features dry-run mode, configurable retention policies, and comprehensive safety checks.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lvcidpsyche"
+  },
+  "homepage": "https://github.com/openclawdad/swarm-janitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lvcidpsyche/swarm-janitor"
+}

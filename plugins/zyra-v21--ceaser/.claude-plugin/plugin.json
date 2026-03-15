@@ -1,0 +1,10 @@
+{
+  "name": "zyra-v21--ceaser",
+  "description": "Interact with the Ceaser privacy protocol on Base L2 using the ceaser-mcp MCP tools. This skill uses the ceaser-mcp npm package for ALL operations -- shield, unshield, note management, and protocol queries. All ceaser tool calls use CLI subcommands (npx -y ceaser-mcp <subcommand>). Ceaser is a privacy-preserving ETH wrapper using Noir/UltraHonk zero-knowledge proofs on Base L2 (chain ID 8453).",
+  "version": "1.4.2",
+  "author": {
+    "name": "zyra-v21"
+  },
+  "homepage": "https://ceaser.org",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zyra-v21/ceaser"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "oscraters--iex-cloud",
+  "description": "Use this skill when a task needs IEX Cloud market data through the REST API (quotes, charts, fundamentals, market lists, and batch calls), including secure token handling and scriptable CLI usage.",
+  "version": "1.0.1",
+  "author": {
+    "name": "oscraters"
+  },
+  "homepage": "https://github.com/oscraters/iex-cloud-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oscraters/iex-cloud"
+}

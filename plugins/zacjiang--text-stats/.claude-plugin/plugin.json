@@ -1,0 +1,10 @@
+{
+  "name": "zacjiang--text-stats",
+  "description": "Analyze text documents for word count, reading time, readability scores (Flesch-Kincaid, Gunning Fog), keyword density, and sentence statistics. Supports multiple languages including CJK. Zero dependencies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zacjiang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zacjiang/text-stats",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zacjiang/text-stats"
+}

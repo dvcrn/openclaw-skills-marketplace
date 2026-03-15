@@ -1,0 +1,10 @@
+{
+  "name": "kaichop--phenoskill",
+  "description": "Extract clinical phenotypes and medication entities from user-provided text using PhenoSnap, producing a timestamped JSON output.",
+  "version": "0.1.1",
+  "author": {
+    "name": "kaichop"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kaichop/phenoskill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kaichop/phenoskill"
+}

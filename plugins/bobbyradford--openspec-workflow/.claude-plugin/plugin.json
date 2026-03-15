@@ -1,0 +1,10 @@
+{
+  "name": "bobbyradford--openspec-workflow",
+  "description": "Autonomous spec-driven development with OpenSpec CLI and Claude Code. You orchestrate (draft artifacts, make judgment calls, ship PRs) while Claude Code reviews with real codebase access and implements tasks. Use when: (1) making any code change in a repo that uses OpenSpec, (2) creating or modifying proposals, designs, specs, or task breakdowns, (3) shipping PRs that need spec artifacts, (4) setting up auto-archive CI for OpenSpec repos. Covers the full lifecycle: issue → OpenSpec artifacts → Claude Code review → Claude Code implementation → PR → auto-archive on merge. Requires: openspec CLI, claude CLI (Claude Code), gh CLI, git.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bobbyradford"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bobbyradford/openspec-workflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bobbyradford/openspec-workflow"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "nanomolar--wemol-cli",
+  "description": "Use when a task may involve Wemol, a drug-discovery computing platform that integrates many biology, AI, and chemistry modules for workflows such as biologics design, small-molecule discovery, molecular simulation, ADMET prediction, virtual screening, structure prediction, antibody engineering, and immunogenicity analysis. This skill is the operating manual for the Wemol CLI client.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nanomolar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nanomolar/wemol-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nanomolar/wemol-cli"
+}

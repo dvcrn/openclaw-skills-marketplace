@@ -1,0 +1,10 @@
+{
+  "name": "topcheer--privateclaw-plugin-setup",
+  "description": "Install, enable, verify, and pair the PrivateClaw OpenClaw plugin, preferably returning the invite QR to the current Telegram, Discord, or QQ conversation via /privateclaw.",
+  "version": "1.0.0",
+  "author": {
+    "name": "topcheer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/topcheer/privateclaw-plugin-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/topcheer/privateclaw-plugin-setup"
+}

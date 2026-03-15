@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--ifttt",
+  "description": "IFTTT (If This Then That) automation — trigger webhooks, manage applets, and fire events via the IFTTT Webhooks and API. Connect 800+ services with simple if-then logic, trigger custom events, and pass data between services. Built for AI agents — Python stdlib only, zero dependencies. Use for simple automation, webhook triggers, IoT integration, smart home control, and cross-service event firing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/ifttt"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "2233admin--markdown-browser",
+  "description": "Wrapper skill for OpenClaw web_fetch results. Use when you need MECE post-processing on fetched pages: policy decision from Content-Signal, privacy redaction, optional markdown normalization fallback, and stable output schema without re-implementing network fetch.",
+  "version": "1.0.0",
+  "author": {
+    "name": "2233admin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/2233admin/markdown-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/2233admin/markdown-browser"
+}

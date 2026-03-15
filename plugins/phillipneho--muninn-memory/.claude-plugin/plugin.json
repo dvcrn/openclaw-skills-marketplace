@@ -1,0 +1,10 @@
+{
+  "name": "phillipneho--muninn-memory",
+  "description": "Memory system for AI agents. Store, recall, and manage memories with semantic search, entity extraction, and salience scoring. Works locally with SQLite and Ollama. Free tier: full features, no restrictions.",
+  "version": "1.0.5",
+  "author": {
+    "name": "phillipneho"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phillipneho/muninn-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phillipneho/muninn-memory"
+}

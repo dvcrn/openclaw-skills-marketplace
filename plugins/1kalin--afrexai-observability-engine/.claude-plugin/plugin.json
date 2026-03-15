@@ -1,0 +1,10 @@
+{
+  "name": "1kalin--afrexai-observability-engine",
+  "description": "Complete observability & reliability engineering system. Use when designing monitoring, implementing structured logging, setting up distributed tracing, building alerting systems, creating SLO/SLI frameworks, running incident response, conducting post-mortems, or auditing system reliability. Covers all three pillars (logs/metrics/traces), alert design, dashboard architecture, on-call operations, chaos engineering, and cost optimization.",
+  "version": "1.0.0",
+  "author": {
+    "name": "1kalin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/1kalin/afrexai-observability-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/1kalin/afrexai-observability-engine"
+}

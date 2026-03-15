@@ -1,0 +1,10 @@
+{
+  "name": "xiaoyaner0201--cursor-council",
+  "description": "Multi-Cursor orchestration for parallel task execution and AI council deliberation. Use when needing to run multiple Cursor agents in parallel, coordinate complex multi-step coding tasks, get diverse perspectives from different AI models (Opus/Sonnet/GPT) on technical decisions, or synthesize multi-agent discussions into actionable recommendations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiaoyaner0201"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaoyaner0201/cursor-council",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaoyaner0201/cursor-council"
+}

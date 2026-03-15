@@ -1,0 +1,10 @@
+{
+  "name": "furoxr--taco-dev",
+  "description": "Interact with the Taco crypto trading platform via API. Use when the user wants to (1) get kline/candlestick market data, (2) check account balance and positions, (3) open perpetual positions, (4) close perpetual positions, (5) update take-profit or stop-loss on existing positions, (6) calculate technical indicators (EMA, MACD, RSI, ATR, BollingerBands, DonchianChannel), or (7) any trading operations on Taco. Supports exchanges: Binance, Hyper, Aster, Grvt, StandX, Lighter.",
+  "version": "1.1.0",
+  "author": {
+    "name": "furoxr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/furoxr/taco-dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/furoxr/taco-dev"
+}

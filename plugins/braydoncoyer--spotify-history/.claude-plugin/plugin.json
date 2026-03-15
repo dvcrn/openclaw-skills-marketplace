@@ -1,0 +1,10 @@
+{
+  "name": "braydoncoyer--spotify-history",
+  "description": "Access Spotify listening history, top artists/tracks, and get personalized recommendations via the Spotify Web API. Use when fetching a user's recent plays, analyzing music taste, or generating recommendations. Requires one-time OAuth setup.",
+  "version": "1.1.0",
+  "author": {
+    "name": "braydoncoyer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/braydoncoyer/spotify-history",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/braydoncoyer/spotify-history"
+}

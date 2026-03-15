@@ -1,0 +1,10 @@
+{
+  "name": "devpranoy--ultrahuman-openclaw",
+  "description": "Fetch and summarize Ultrahuman Ring/CGM metrics inside OpenClaw using the Ultrahuman MCP server (via mcporter). Use when the user asks about Ultrahuman data such as sleep score, total sleep, sleep stages, HR/HRV/RHR, steps, recovery index, movement index, VO2 max, or wants a daily/weekly Ultrahuman summary.",
+  "version": "0.1.2",
+  "author": {
+    "name": "devpranoy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/devpranoy/ultrahuman-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/devpranoy/ultrahuman-openclaw"
+}

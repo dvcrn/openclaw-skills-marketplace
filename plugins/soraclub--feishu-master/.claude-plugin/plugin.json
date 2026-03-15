@@ -1,0 +1,10 @@
+{
+  "name": "soraclub--feishu-master",
+  "description": "AI Tool Extension for Feishu API - A progressively extensible skill that enables AI tools (OpenClaw, Claude Code, etc.) to leverage Feishu capabilities on-demand. Only implements APIs when needed, avoiding premature development.",
+  "version": "1.0.0",
+  "author": {
+    "name": "soraclub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/soraclub/feishu-master",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/soraclub/feishu-master"
+}

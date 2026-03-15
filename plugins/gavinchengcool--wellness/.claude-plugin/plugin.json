@@ -1,0 +1,10 @@
+{
+  "name": "gavinchengcool--wellness",
+  "description": "A personal Wellness hub for OpenClaw. Use when users want an all-in-one way to connect their health/wellness apps and devices (wearables, workouts, sleep, nutrition, weight, vitals) and get unified daily/weekly summaries, insights, and reminders inside OpenClaw (any chat channel). Guides users to add data sources via official personal OAuth/API keys (Tier 1) or via phone OS health aggregators like Apple Health / Android Health Connect (Tier 2).",
+  "version": "0.3.0",
+  "author": {
+    "name": "gavinchengcool"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gavinchengcool/wellness",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gavinchengcool/wellness"
+}

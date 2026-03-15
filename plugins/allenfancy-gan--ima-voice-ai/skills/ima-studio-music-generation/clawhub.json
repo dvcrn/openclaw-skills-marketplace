@@ -1,0 +1,104 @@
+{
+  "name": "IMA Studio Music Generation",
+  "tagline": "Text-to-music, BGM, songs with lyrics — Suno sonic, DouBao BGM, DouBao Song. One-stop AI music generation.",
+  "description": "Top-tier AI music generation. One-stop access to Suno sonic v4/v5, DouBao BGM (GenBGM), DouBao Song (GenSong). Custom mode, lyrics, vocal and style tags. Use for: text-to-music, background music, BGM, songs with lyrics, soundtrack, jingles, ambient music, vocal and instrumental tracks. Output: MP3/WAV. Optional: install ima-knowledge-ai for production workflow guidance. Requires IMA_API_KEY.",
+  "category": "file-generation",
+  "requiredEnvVars": ["IMA_API_KEY"],
+  "credentialNotice": "The IMA API key is required at runtime (--api-key or IMA_API_KEY). It is sent only to api.imastudio.com (music generation does not use image upload endpoints). Obtain keys at https://imastudio.com. Use a scoped or test key if concerned about credential exposure.",
+  "optionalDependencyNote": "When ima-knowledge-ai is installed, this skill may instruct the agent to read that skill's reference files (~/.openclaw/skills/ima-knowledge-ai/references/*) for workflow and model-selection guidance. The skill works standalone without it; those reads are optional and only for complex or multi-step workflows.",
+  "localPaths": {
+    "readWrite": [
+      "~/.openclaw/memory/ima_prefs.json",
+      "~/.openclaw/logs/ima_skills/"
+    ],
+    "purpose": "Preferences (model defaults) and generation logs; logs auto-deleted after 7 days. User can delete anytime."
+  },
+  "supported_models": [
+    "Suno",
+    "Suno sonic",
+    "Suno sonic v4",
+    "Suno sonic v5",
+    "DouBao",
+    "DouBao BGM",
+    "DouBao Song",
+    "GenBGM",
+    "GenSong",
+    "text-to-music",
+    "BGM",
+    "instrumental",
+    "song with lyrics"
+  ],
+  "tags": [
+    "ima-studio",
+    "music-generation",
+    "ai-music",
+    "text-to-music",
+    "suno",
+    "suno-sonic",
+    "doubao",
+    "doubao-bgm",
+    "doubao-song",
+    "genbgm",
+    "gensong",
+    "soundtrack",
+    "lyrics",
+    "vocal",
+    "instrumental",
+    "BGM"
+  ],
+  "version": "1.1.0",
+  "license": "MIT",
+  "pricing": "free",
+  "author": {
+    "name": "IMA Studio",
+    "url": "https://www.imaclaw.ai/"
+  },
+  "keywords": [
+    "music generation",
+    "text to music",
+    "ima studio",
+    "suno",
+    "suno sonic",
+    "doubao",
+    "doubao bgm",
+    "doubao song",
+    "genbgm",
+    "gensong",
+    "soundtrack",
+    "lyrics",
+    "BGM",
+    "instrumental",
+    "vocal"
+  ],
+  "search_optimized_terms": [
+    "suno",
+    "suno sonic",
+    "doubao",
+    "doubao bgm",
+    "doubao song",
+    "genbgm",
+    "gensong",
+    "music generation",
+    "text to music",
+    "BGM",
+    "AI music"
+  ],
+  "related_skills": [
+    "ima-knowledge-ai",
+    "ima-image-ai",
+    "ima-video-ai",
+    "ima-all-ai",
+    "ima-resource-skill"
+  ],
+  "use_cases": [
+    "Music generation, AI composition, BGM production",
+    "Vocal and instrumental with lyrics",
+    "Intros, jingles, ambient music"
+  ],
+  "key_features": [
+    "Suno sonic v5, DouBao BGM, DouBao Song",
+    "Lyrics, vocal, style tags configurable",
+    "MP3/WAV output",
+    "With ima-knowledge-ai for workflow"
+  ]
+}

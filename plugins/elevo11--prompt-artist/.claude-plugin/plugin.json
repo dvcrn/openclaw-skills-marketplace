@@ -1,0 +1,10 @@
+{
+  "name": "elevo11--prompt-artist",
+  "description": "Optimize and generate text-to-image prompts for AI art platforms. Use when a user wants to: (1) Optimize prompts for Midjourney, Nano Banana, Dreamina, Qwen image generation, (2) Translate simple descriptions into professional prompts, (3) Generate platform-specific prompt variations, (4) Add style/lighting/composition modifiers, (5) Create negative prompts. Supports Chinese/English input. Integrates SkillPay.me at 0.005 USDT/call.",
+  "version": "1.1.0",
+  "author": {
+    "name": "elevo11"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/elevo11/prompt-artist",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/elevo11/prompt-artist"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "coolhackboy--poyo-sora-2-pro",
+  "description": "Use PoYo AI Sora 2 Pro for longer premium video generation through the `https://api.poyo.ai/api/generate/submit` endpoint. Use when a user wants 15s or 25s cinematic clips, optional storyboard control, style presets, image-to-video input, or PoYo payloads for `sora-2-pro` and `sora-2-pro-private`.",
+  "version": "1.0.0",
+  "author": {
+    "name": "coolhackboy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/coolhackboy/poyo-sora-2-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/coolhackboy/poyo-sora-2-pro"
+}

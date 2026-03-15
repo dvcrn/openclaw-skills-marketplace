@@ -1,0 +1,10 @@
+{
+  "name": "johntheyoung--comfy-cli",
+  "description": "Install, manage, and run ComfyUI instances. Use when setting up ComfyUI, launching servers, installing/updating/debugging custom nodes, downloading models from CivitAI/HuggingFace, managing workspaces, running API workflows, or troubleshooting node conflicts with bisect.",
+  "version": "1.0.0",
+  "author": {
+    "name": "johntheyoung"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johntheyoung/comfy-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johntheyoung/comfy-cli"
+}

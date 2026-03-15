@@ -1,0 +1,10 @@
+{
+  "name": "tezatezaz--clawbrowser",
+  "description": "Use when the agent needs to drive a browser through the Microsoft Playwright CLI (`playwright-cli`) for navigation, form interactions, screenshots, recordings, data extraction, session management, or debugging without loading a full MCP browser. It trains the agent on the CLI commands, snapshots, and session/config habits that make Playwright CLI reliable for scripted browsing.",
+  "version": "0.1.1",
+  "author": {
+    "name": "tezatezaz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tezatezaz/clawbrowser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tezatezaz/clawbrowser"
+}

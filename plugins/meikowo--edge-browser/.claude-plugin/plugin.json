@@ -1,0 +1,10 @@
+{
+  "name": "meikowo--edge-browser",
+  "description": "Control Microsoft Edge browser to fetch web pages and extract content. Use when the user wants to access a specific URL using Edge browser instead of Chrome, or when regular web fetching tools fail due to anti-scraping protections. Useful for accessing pages that require JavaScript rendering or have bot detection.",
+  "version": "1.0.0",
+  "author": {
+    "name": "meikowo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/meikowo/edge-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/meikowo/edge-browser"
+}

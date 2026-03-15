@@ -1,0 +1,10 @@
+{
+  "name": "codeblackhole1024--openclaw-remote-install",
+  "description": "One-click remote OpenClaw deployment via SSH. Auto-detects OS and selects best method (Docker/Podman/npm). Use when: (1) Installing on VPS/cloud servers, (2) Automating multi-machine deployment, (3) Configuring models/channels/gateway post-install.",
+  "version": "1.0.1",
+  "author": {
+    "name": "codeblackhole1024"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codeblackhole1024/openclaw-remote-install",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codeblackhole1024/openclaw-remote-install"
+}

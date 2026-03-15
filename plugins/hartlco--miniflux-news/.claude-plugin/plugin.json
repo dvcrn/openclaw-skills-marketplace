@@ -1,0 +1,10 @@
+{
+  "name": "hartlco--miniflux-news",
+  "description": "Fetch and triage the latest unread RSS/news entries from a Miniflux instance via its REST API using an API token. Use when the user asks to get the latest Miniflux unread items, list recent entries with titles/links, or generate short summaries of specific Miniflux entries. Includes a bundled script to query Miniflux (/v1/entries and /v1/entries/{id}) using credentials from ~/.config/clawdbot/miniflux-news.json (or MINIFLUX_URL and MINIFLUX_TOKEN overrides).",
+  "version": "0.1.0",
+  "author": {
+    "name": "hartlco"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hartlco/miniflux-news",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hartlco/miniflux-news"
+}

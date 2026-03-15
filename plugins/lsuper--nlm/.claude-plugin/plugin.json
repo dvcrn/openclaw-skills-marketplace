@@ -1,0 +1,10 @@
+{
+  "name": "lsuper--nlm",
+  "description": "NotebookLM CLI for listing notebooks, creating notebooks, adding sources, querying notebooks, generating studio artifacts, downloading outputs, sharing notebooks, setting up MCP integrations, and diagnosing auth/install issues. Use when working with the `nlm` command or automating NotebookLM from the terminal.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lsuper"
+  },
+  "homepage": "https://github.com/jacob-bd/notebooklm-mcp-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lsuper/nlm"
+}

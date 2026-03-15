@@ -1,0 +1,10 @@
+{
+  "name": "signorcrypto--deck0-skills",
+  "description": "Interact with DECK-0 digital collectibles platform to browse collections, buy card packs, open packs, view leaderboards, and apply as a publisher. Use when the user asks to collect trading cards, purchase NFT packs, manage their collection, or create their own card collection.",
+  "version": "1.0.1",
+  "author": {
+    "name": "signorcrypto"
+  },
+  "homepage": "https://app.deck-0.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/signorcrypto/deck0-skills"
+}

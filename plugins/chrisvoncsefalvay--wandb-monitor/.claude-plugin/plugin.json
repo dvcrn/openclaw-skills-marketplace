@@ -1,0 +1,10 @@
+{
+  "name": "chrisvoncsefalvay--wandb-monitor",
+  "description": "Monitor and analyze Weights & Biases training runs. Use when checking training status, detecting failures, analyzing loss curves, comparing runs, or monitoring experiments. Triggers on \"wandb\", \"training runs\", \"how's training\", \"did my run finish\", \"any failures\", \"check experiments\", \"loss curve\", \"gradient norm\", \"compare runs\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "chrisvoncsefalvay"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chrisvoncsefalvay/wandb-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chrisvoncsefalvay/wandb-monitor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "puppetcat-fire--skill-validator",
+  "description": "技能检验工具：基于ClawHub技能格式规范的验证工具，确保技能符合最新发布要求。自动检测格式问题，提供修复建议，与ClawHub规范同步更新。",
+  "version": "1.0.2",
+  "author": {
+    "name": "puppetcat-fire"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/puppetcat-fire/skill-validator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/puppetcat-fire/skill-validator"
+}

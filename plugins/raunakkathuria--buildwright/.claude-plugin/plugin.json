@@ -1,0 +1,10 @@
+{
+  "name": "raunakkathuria--buildwright",
+  "description": "Autonomous development workflow with multi-agent Claw Architecture. Single-agent mode for simple features; multi-agent mode decomposes cross-domain work into specialist claws (UI, API, DB). Includes TDD, security scan, code review, and quality gates. Works with Claude Code, OpenCode, OpenClaw, and Cursor.",
+  "version": "0.0.3",
+  "author": {
+    "name": "raunakkathuria"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/raunakkathuria/buildwright",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/raunakkathuria/buildwright"
+}

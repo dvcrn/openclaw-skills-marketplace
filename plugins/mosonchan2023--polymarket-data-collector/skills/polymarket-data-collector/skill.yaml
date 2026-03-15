@@ -1,0 +1,26 @@
+#BJ|# skill.yaml
+#SB|name: polymarket-data-collector
+#VK|slug: polymarket-data-collector
+#HY|version: 1.0.0
+#WZ|author: moson
+#VX|description: 收集和分析 Polymarket 历史数据，用于回测和策略研究。每次调用自动扣费 0.001 USDT
+#RX|license: MIT
+#RQ|homepage: https://github.com/moson/polymarket-data-collector
+#TS|tags:
+#JM|  - polymarket
+#BR|  - data
+#YS|  - analytics
+#XR|  - backtesting
+#PR|permissions:
+#WZ|  - network
+#RZ|config:
+#QW|  SKILLPAY_API_KEY:
+#PJ|    type: string
+#ZZ|    required: true
+#PM|    secret: true
+#VW|entryPoint:
+#SZ|  type: typescript
+#ZK|  path: index.js
+#KX|price:
+#VV|  amount: 0.001
+#RV|  currency: USDT

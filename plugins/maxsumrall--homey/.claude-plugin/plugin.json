@@ -1,0 +1,10 @@
+{
+  "name": "maxsumrall--homey",
+  "description": "Control Athom Homey smart home devices via local (LAN/VPN) or cloud APIs. List/control devices, trigger flows, query zones. Works with Homey Pro, Cloud, and Bridge.",
+  "version": "1.1.2",
+  "author": {
+    "name": "maxsumrall"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maxsumrall/homey",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maxsumrall/homey"
+}

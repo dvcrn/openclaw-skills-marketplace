@@ -1,0 +1,10 @@
+{
+  "name": "veeramanikandanr48--ai-sdk-core",
+  "description": "Build backend AI with Vercel AI SDK v6 stable. Covers Output API (replaces generateObject/streamObject), speech synthesis, transcription, embeddings, MCP tools with security guidance. Includes v4→v5 migration and 15 error solutions with workarounds.\n\n Use when: implementing AI SDK v5/v6, migrating versions, troubleshooting AI_APICallError, Workers startup issues, Output API errors, Gemini caching issues, Anthropic tool errors, MCP tools, or stream resumption failures.",
+  "version": "0.1.0",
+  "author": {
+    "name": "veeramanikandanr48"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/veeramanikandanr48/ai-sdk-core",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/veeramanikandanr48/ai-sdk-core"
+}

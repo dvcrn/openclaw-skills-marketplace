@@ -1,0 +1,10 @@
+{
+  "name": "kaicianflone--consensus-persona-generator",
+  "description": "Generate and persist reusable persona panels (persona_set artifacts) for consensus decision workflows. This skill initializes evaluator diversity for downstream guards; ongoing reputation updates are owned by consensus-persona-engine.",
+  "version": "1.1.14",
+  "author": {
+    "name": "kaicianflone"
+  },
+  "homepage": "https://github.com/kaicianflone/consensus-persona-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kaicianflone/consensus-persona-generator"
+}

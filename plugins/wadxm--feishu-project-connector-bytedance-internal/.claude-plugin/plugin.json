@@ -1,0 +1,10 @@
+{
+  "name": "wadxm--feishu-project-connector-bytedance-internal",
+  "description": "通过 MCP 服务连接 Meego（飞书项目字节内网版），支持 OAuth 认证，可查询和管理工作项、视图等。",
+  "version": "1.0.7",
+  "author": {
+    "name": "wadxm"
+  },
+  "homepage": "https://www.npmjs.com/package/mcporter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wadxm/feishu-project-connector-bytedance-internal"
+}

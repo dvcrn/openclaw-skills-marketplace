@@ -1,0 +1,36 @@
+{
+  "slug": "nostrsocial",
+  "name": "NostrSocial",
+  "version": "0.1.0",
+  "summary": "Social graph manager — contacts, trust tiers, and identity verification over Nostr",
+  "author": {
+    "name": "Humanjava Enterprises",
+    "url": "https://loginwithnostr.com/openclaw"
+  },
+  "license": "MIT",
+  "acceptLicenseTerms": true,
+  "repository": "https://github.com/HumanjavaEnterprises/nostrsocial.app.OC-python.src",
+  "tags": [
+    "nostr",
+    "social",
+    "contacts",
+    "trust",
+    "identity",
+    "ai-identity",
+    "sovereign"
+  ],
+  "install": {
+    "pip": "nostrsocial"
+  },
+  "requires": {
+    "python": ">=3.10"
+  },
+  "dependencies": [
+    "nostrkey"
+  ],
+  "categories": [
+    "social",
+    "communication",
+    "identity"
+  ]
+}

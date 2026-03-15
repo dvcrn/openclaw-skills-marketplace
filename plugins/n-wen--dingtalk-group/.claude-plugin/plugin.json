@@ -1,0 +1,10 @@
+{
+  "name": "n-wen--dingtalk-group",
+  "description": "调用钉钉开放平台 API，提供群聊管理功能（创建群、修改群、解散群、成员管理等）",
+  "version": "1.0.0",
+  "author": {
+    "name": "n-wen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/n-wen/dingtalk-group",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/n-wen/dingtalk-group"
+}

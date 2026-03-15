@@ -1,0 +1,10 @@
+{
+  "name": "xueyetianya--ssl-checker",
+  "description": "Error: --domain required. Use when you need ssl checker capabilities. Triggers on: ssl checker, domain, port, warn-days, format, output.",
+  "version": "2.3.0",
+  "author": {
+    "name": "xueyetianya"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xueyetianya/ssl-checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xueyetianya/ssl-checker"
+}

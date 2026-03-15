@@ -1,0 +1,10 @@
+{
+  "name": "aungmyokyaw--spec-kit",
+  "description": "Use GitHub Spec Kit for Spec-Driven Development. Initialize projects, create specifications, and build software using the /speckit.* slash commands. Supports Claude Code, GitHub Copilot, Gemini CLI, and Codebuddy.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aungmyokyaw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aungmyokyaw/spec-kit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aungmyokyaw/spec-kit"
+}

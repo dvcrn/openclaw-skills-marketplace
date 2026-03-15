@@ -1,0 +1,10 @@
+{
+  "name": "hsooooo--korea-metropolitan-bus-alerts",
+  "description": "Create and manage scheduled bus arrival alerts using Korea TAGO (국토교통부) OpenAPI and Clawdbot cron. Use when a user wants to register weekday/weekend schedules like \"평일 오전 7시, <정류소명>, <노선들>\" and receive automatic arrival summaries via their configured Gateway messaging (DM only).",
+  "version": "1.0.2",
+  "author": {
+    "name": "hsooooo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hsooooo/korea-metropolitan-bus-alerts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hsooooo/korea-metropolitan-bus-alerts"
+}

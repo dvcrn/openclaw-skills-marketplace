@@ -1,0 +1,10 @@
+{
+  "name": "mehranhydary--hyperliquid-prime",
+  "description": "Trade on Hyperliquid's perp markets (native + HIP-3) with intelligent order routing and cross-market splitting. Use when the user wants to trade crypto, stocks, or commodities on Hyperliquid, get best execution across fragmented markets, split large orders across multiple venues, compare funding rates, view aggregated orderbooks, or manage positions across multiple collateral types. Routes across both native HL perps (ETH, BTC) and HIP-3 deployer markets. Handles collateral swaps (USDC→USDH/USDT0) automatically during execution when the best liquidity requires it.",
+  "version": "0.1.4",
+  "author": {
+    "name": "mehranhydary"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mehranhydary/hyperliquid-prime",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mehranhydary/hyperliquid-prime"
+}

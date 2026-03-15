@@ -1,0 +1,10 @@
+{
+  "name": "satriapamudji--clawdbot-logs",
+  "description": "Analyze Clawdbot logs and diagnostics. Use when the user asks about bot performance, response times, errors, session stats, token usage, API costs, or wants to debug slow responses.",
+  "version": "1.0.0",
+  "author": {
+    "name": "satriapamudji"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/satriapamudji/clawdbot-logs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/satriapamudji/clawdbot-logs"
+}

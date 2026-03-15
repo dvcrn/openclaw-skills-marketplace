@@ -1,0 +1,10 @@
+{
+  "name": "phy041--phy-openclaw-multibot-audit",
+  "description": "Security audit for multi-tenant OpenClaw Telegram bots. Checks workspace isolation, filesystem sandboxing, session scoping, auth separation, error leaking, and 15+ multi-user security concerns. Use when deploying or reviewing any OpenClaw bot that serves multiple users.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phy041"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-openclaw-multibot-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-openclaw-multibot-audit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "qiaotucodes--openclaw-skill-whisper-stt",
+  "description": "语音转文字 - 使用OpenAI Whisper将音频文件识别为文字",
+  "version": "0.1.0",
+  "author": {
+    "name": "qiaotucodes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qiaotucodes/openclaw-skill-whisper-stt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qiaotucodes/openclaw-skill-whisper-stt"
+}

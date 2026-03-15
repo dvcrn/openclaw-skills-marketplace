@@ -1,0 +1,10 @@
+{
+  "name": "msaad00--agent-bom-compliance",
+  "description": "AI compliance and policy engine — evaluate scan results against OWASP LLM Top 10, MITRE ATLAS, EU AI Act, NIST AI RMF, and custom policy-as-code rules. Generate SBOMs in CycloneDX or SPDX format. Use when the user mentions compliance checking, security policy enforcement, SBOM generation, or regulatory frameworks.",
+  "version": "0.70.7",
+  "author": {
+    "name": "msaad00"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/msaad00/agent-bom-compliance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/msaad00/agent-bom-compliance"
+}

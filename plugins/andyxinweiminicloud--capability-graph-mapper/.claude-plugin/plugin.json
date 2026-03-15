@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--capability-graph-mapper",
+  "description": "Helps map the composite permission surface across AI agent skill dependency chains. Traces what each skill can do individually, then computes what they can do together — revealing emergent capabilities nobody explicitly approved.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/capability-graph-mapper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/capability-graph-mapper"
+}

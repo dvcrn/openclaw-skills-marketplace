@@ -1,0 +1,10 @@
+{
+  "name": "phenomenoner--cron-worker-guardrails",
+  "description": "Use when: hardening OpenClaw cron/background workers (POSIX shells: bash/sh) against brittle quoting,\n cwd/env drift, and false pipeline failures (SIGPIPE, pipefail + head).\n Don't use when: the issue is application logic rather than execution-wrapper reliability.\n Output: a scripts-first hardening checklist + safe patterns (silent-on-success, deterministic cwd/env, rollback-friendly).",
+  "version": "1.0.5",
+  "author": {
+    "name": "phenomenoner"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phenomenoner/cron-worker-guardrails",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phenomenoner/cron-worker-guardrails"
+}

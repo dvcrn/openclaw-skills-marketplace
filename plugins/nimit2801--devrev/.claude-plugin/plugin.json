@@ -1,0 +1,10 @@
+{
+  "name": "nimit2801--devrev",
+  "description": "Interact with DevRev to create/update issues and tickets, and search/query works and parts. Use when asked to create a DevRev issue or ticket, update an existing work item, search for issues or tickets, list open/closed works, get details about a specific work item by ID, or perform any DevRev API operations. Requires DEVREV_TOKEN environment variable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nimit2801"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nimit2801/devrev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nimit2801/devrev"
+}

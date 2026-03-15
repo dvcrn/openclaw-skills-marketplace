@@ -1,0 +1,10 @@
+{
+  "name": "anmolnagpal--entra-id-auditor",
+  "description": "Audit Microsoft Entra ID for over-privileged roles, dangerous access patterns, and identity security gaps",
+  "version": "1.0.0",
+  "author": {
+    "name": "anmolnagpal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/entra-id-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/entra-id-auditor"
+}

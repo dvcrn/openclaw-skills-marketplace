@@ -1,0 +1,10 @@
+{
+  "name": "sunnyhot--clawhub-skill-installer",
+  "description": "A comprehensive ClawHub skill installer that bypasses API rate limits. Search, install single skills, or batch install multiple skills with automatic retry logic and version management.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sunnyhot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunnyhot/clawhub-skill-installer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunnyhot/clawhub-skill-installer"
+}

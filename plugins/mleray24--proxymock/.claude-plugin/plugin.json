@@ -1,0 +1,10 @@
+{
+  "name": "mleray24--proxymock",
+  "description": "Record, inspect, mock, replay, and generate API traffic using the proxymock CLI. Use when the user wants to capture HTTP/gRPC/database traffic, create mocks from real traffic or OpenAPI specs, replay traffic for testing, compare traffic snapshots, run mock servers, or manage proxymock RRPair files. Also use for load testing, regression testing, CI pipeline integration, or any task involving proxymock or Speedscale traffic replay.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mleray24"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mleray24/proxymock",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mleray24/proxymock"
+}

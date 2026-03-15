@@ -1,0 +1,10 @@
+{
+  "name": "justinhartbiz--yt-to-blog",
+  "description": "Full content pipeline: YouTube URL → transcript → blog post → Substack draft → X/Twitter thread → vertical video clips via HeyGen AI avatar. One URL in, entire content suite out. Use when asked to: \"turn this video into content\", \"create a content suite from this YouTube video\", \"write a blog from this video\", \"repurpose this video\", or any video-to-multi-platform content request. Can run the full pipeline or individual steps.",
+  "version": "2.0.0",
+  "author": {
+    "name": "justinhartbiz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/justinhartbiz/yt-to-blog",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/justinhartbiz/yt-to-blog"
+}

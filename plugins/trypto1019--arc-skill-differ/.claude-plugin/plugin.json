@@ -1,0 +1,10 @@
+{
+  "name": "trypto1019--arc-skill-differ",
+  "description": "Compare two versions of an OpenClaw skill to detect security-relevant changes. Use before updating any skill from ClawHub. Highlights new capabilities, changed patterns, and recommends whether an update is safe.",
+  "version": "1.0.0",
+  "author": {
+    "name": "trypto1019"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-skill-differ",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-skill-differ"
+}

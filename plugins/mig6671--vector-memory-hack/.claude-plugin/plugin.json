@@ -1,0 +1,10 @@
+{
+  "name": "mig6671--vector-memory-hack",
+  "description": "Fast semantic search for AI agent memory files using TF-IDF and SQLite. Enables instant context retrieval from MEMORY.md or any markdown documentation. Use when the agent needs to (1) Find relevant context before starting a task, (2) Search through large memory files efficiently, (3) Retrieve specific rules or decisions without reading entire files, (4) Enable semantic similarity search instead of keyword matching. Lightweight alternative to heavy embedding models - zero external dependencies, <10ms search time.",
+  "version": "1.0.3",
+  "author": {
+    "name": "mig6671"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mig6671/vector-memory-hack",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mig6671/vector-memory-hack"
+}

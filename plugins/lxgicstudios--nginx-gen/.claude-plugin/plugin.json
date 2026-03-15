@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--nginx-gen",
+  "description": "Generate nginx configs from plain English. Use when you need reverse proxy, SSL, or load balancing setup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/nginx-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/nginx-gen"
+}

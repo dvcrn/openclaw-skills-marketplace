@@ -1,0 +1,10 @@
+{
+  "name": "coderxjeff--openclaw-acp-channel-skill",
+  "description": "ACP channel plugin for OpenClaw — configure and use. Covers single/multi identity configuration, strict 1:1 binding policy (agentId <-> accountId), agent.md creation/sync, daily usage (send messages, sync/status per identity, session behavior, permissions), rank/search API, group chat, and troubleshooting.",
+  "version": "0.1.4",
+  "author": {
+    "name": "coderxjeff"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/coderxjeff/openclaw-acp-channel-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/coderxjeff/openclaw-acp-channel-skill"
+}

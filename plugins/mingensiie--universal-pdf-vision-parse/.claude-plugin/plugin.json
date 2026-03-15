@@ -1,0 +1,10 @@
+{
+  "name": "mingensiie--universal-pdf-vision-parse",
+  "description": "Extract multilingual document content and language learning notes (French, German, Japanese, Spanish, etc.) from PDFs using multimodal vision (Qwen-VL-Max). This skill converts PDF pages to high-res images and 'sees' the content to produce perfectly structured, high-readability Markdown.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mingensiie"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mingensiie/universal-pdf-vision-parse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mingensiie/universal-pdf-vision-parse"
+}

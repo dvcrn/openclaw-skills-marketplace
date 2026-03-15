@@ -1,0 +1,10 @@
+{
+  "name": "kiril-shturman--worker-executor",
+  "description": "Heavy execution role for a startup-style AI team. Use when an agent must perform the real work after receiving a clear task from a commander/COO: research, writing, coding, analysis, implementation, drafting, or artifact creation. Triggers on requests for worker, executor, implementer, builder, researcher, marketer, writer, or when an agent should execute rather than orchestrate.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kiril-shturman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kiril-shturman/worker-executor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kiril-shturman/worker-executor"
+}

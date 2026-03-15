@@ -1,0 +1,10 @@
+{
+  "name": "aisoftgg--para-memory",
+  "description": "Set up and maintain a 3-layer PARA memory system for OpenClaw agents. Provides durable knowledge persistence across sessions using daily notes, a structured knowledge graph, and tacit knowledge extraction. Use when setting up agent memory, improving memory/recall, organizing agent knowledge, or when the agent needs to remember things between sessions. Also handles nightly consolidation workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aisoftgg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aisoftgg/para-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aisoftgg/para-memory"
+}

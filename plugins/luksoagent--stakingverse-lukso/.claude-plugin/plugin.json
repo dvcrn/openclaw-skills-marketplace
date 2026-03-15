@@ -1,0 +1,10 @@
+{
+  "name": "luksoagent--stakingverse-lukso",
+  "description": "Stake LYX tokens on Stakingverse (LUKSO liquid staking). Use when the user wants to stake LYX, unstake LYX, claim rewards, or check sLYX balance on Stakingverse. Supports deposit, withdrawal requests, and oracle-claim pattern.",
+  "version": "1.0.0",
+  "author": {
+    "name": "luksoagent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luksoagent/stakingverse-lukso",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luksoagent/stakingverse-lukso"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "twood2024--revenue-calculator",
+  "description": "Projects revenue for OpenClaw sub-agent strategies (marketplace, subs, pay-per-task). Use for monetization estimates: input users/pricing/conversions → detailed annual/monthly projections, sensitivity analysis, break-even. Triggers: 'calculate revenue', 'project earnings', 'monetize skill/agent'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "twood2024"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/twood2024/revenue-calculator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/twood2024/revenue-calculator"
+}

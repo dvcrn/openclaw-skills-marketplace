@@ -1,0 +1,10 @@
+{
+  "name": "destructatron--ii-irc",
+  "description": "Persistent IRC presence using ii (minimalist file-based IRC client) with event-driven mention detection. Use when setting up an AI agent on IRC, monitoring IRC channels, sending IRC messages, or integrating OpenClaw with IRC via ii. Covers ii setup, mention watcher, systemd services, and message sending/reading.",
+  "version": "1.0.0",
+  "author": {
+    "name": "destructatron"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/destructatron/ii-irc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/destructatron/ii-irc"
+}

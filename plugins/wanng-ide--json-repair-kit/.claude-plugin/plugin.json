@@ -1,0 +1,10 @@
+{
+  "name": "wanng-ide--json-repair-kit",
+  "description": "Repair malformed JSON files by normalizing them through Node.js evaluation. Use this to fix trailing commas, single quotes, unquoted keys, or other common syntax errors in JSON files (e.g. config files, manually edited data).",
+  "version": "1.0.0",
+  "author": {
+    "name": "wanng-ide"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/json-repair-kit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/json-repair-kit"
+}

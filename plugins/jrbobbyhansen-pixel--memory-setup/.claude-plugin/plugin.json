@@ -1,0 +1,10 @@
+{
+  "name": "jrbobbyhansen-pixel--memory-setup",
+  "description": "Enable and configure Moltbot/Clawdbot memory search for persistent context. Use when setting up memory, fixing \"goldfish brain,\" or helping users configure memorySearch in their config. Covers MEMORY.md, daily logs, and vector search setup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jrbobbyhansen-pixel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jrbobbyhansen-pixel/memory-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jrbobbyhansen-pixel/memory-setup"
+}

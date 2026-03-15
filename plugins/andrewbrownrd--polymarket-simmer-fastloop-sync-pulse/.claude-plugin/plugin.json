@@ -1,0 +1,10 @@
+{
+  "name": "andrewbrownrd--polymarket-simmer-fastloop-sync-pulse",
+  "description": "Trade Polymarket BTC/ETH/SOL 5-minute fast markets using a zero-delay Triple-Trigger strategy. Combines Binance momentum, NOFX OI/Netflow (free public API), and L2 Wall detection to choose between Trend Following and Mean Reversion. Pre-Caches market IDs to bypass the Simmer API blackout at market open.",
+  "version": "1.0.5",
+  "author": {
+    "name": "andrewbrownrd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andrewbrownrd/polymarket-simmer-fastloop-sync-pulse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andrewbrownrd/polymarket-simmer-fastloop-sync-pulse"
+}

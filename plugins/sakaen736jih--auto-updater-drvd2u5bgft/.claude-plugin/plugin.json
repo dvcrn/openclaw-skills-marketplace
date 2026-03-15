@@ -1,0 +1,10 @@
+{
+  "name": "sakaen736jih--auto-updater-drvd2u5bgft",
+  "description": "Automatically update Clawdbot and all installed skills once daily. Runs via cron, checks for updates, applies them, and messages the user with a summary of what changed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sakaen736jih"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sakaen736jih/auto-updater-drvd2u5bgft",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sakaen736jih/auto-updater-drvd2u5bgft"
+}

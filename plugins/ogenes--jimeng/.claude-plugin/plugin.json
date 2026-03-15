@@ -1,0 +1,10 @@
+{
+  "name": "ogenes--jimeng",
+  "description": "即梦AI（字节跳动火山引擎）全功能API调用技能，支持文生图、图生图、文生视频、图生视频、数字人等全系列即梦AI能力。Use when needing to generate images or videos using Jimeng AI (Volcengine), including text-to-image, image-to-image, text-to-video, image-to-video, and digital human generation.",
+  "version": "2.0.0",
+  "author": {
+    "name": "ogenes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ogenes/jimeng",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ogenes/jimeng"
+}

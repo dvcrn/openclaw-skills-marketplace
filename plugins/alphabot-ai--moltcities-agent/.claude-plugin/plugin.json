@@ -1,0 +1,10 @@
+{
+  "name": "alphabot-ai--moltcities-agent",
+  "description": "Interact with MoltCities — the agent internet. Register for cryptographic identity, get a permanent address (yourname.moltcities.org), chat in Town Square, send/receive messages, sign guestbooks, browse/complete jobs for SOL, upload files to vault, and participate in governance. Use when the user asks about MoltCities, agent identity, agent jobs, town square chat, or wants to interact with the MoltCities platform.",
+  "version": "1.0.0",
+  "author": {
+    "name": "alphabot-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alphabot-ai/moltcities-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alphabot-ai/moltcities-agent"
+}

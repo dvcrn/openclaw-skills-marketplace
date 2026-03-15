@@ -1,0 +1,10 @@
+{
+  "name": "aimlapihello--aiml-voice",
+  "description": "Transcribe audio files (ogg, mp3, wav, etc.) using AIMLAPI. Use when the user provides audio messages or local audio files. Provides a reliable Python script with retries and polling.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aimlapihello"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aimlapihello/aiml-voice",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aimlapihello/aiml-voice"
+}

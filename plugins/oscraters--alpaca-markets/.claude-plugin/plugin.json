@@ -1,0 +1,10 @@
+{
+  "name": "oscraters--alpaca-markets",
+  "description": "This skill provides integration with the Alpaca Markets API for trading stocks, options, and cryptocurrencies. Use it when you need to interact with Alpaca's brokerage services programmatically, such as placing orders, fetching account data, managing positions, or retrieving market data for automated trading or portfolio management.",
+  "version": "1.0.1",
+  "author": {
+    "name": "oscraters"
+  },
+  "homepage": "https://clawhub.ai/oscraters/alpaca-markets",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oscraters/alpaca-markets"
+}

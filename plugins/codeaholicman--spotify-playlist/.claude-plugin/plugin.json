@@ -1,0 +1,10 @@
+{
+  "name": "codeaholicman--spotify-playlist",
+  "description": "Build and manage Spotify playlists from natural language requests. Search tracks/artists/albums, create playlists, manage tracks, view listening history. Use when the user asks to create a playlist, find music, check what they've been listening to, or any Spotify-related request. Examples - \"make me a playlist for a rainy Sunday\", \"what have I been listening to lately\", \"find songs like Bonobo\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "codeaholicman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codeaholicman/spotify-playlist",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codeaholicman/spotify-playlist"
+}

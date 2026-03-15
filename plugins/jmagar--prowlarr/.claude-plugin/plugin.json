@@ -1,0 +1,10 @@
+{
+  "name": "jmagar--prowlarr",
+  "description": "Search indexers and manage Prowlarr. Use when the user asks to \"search for a torrent\", \"search indexers\", \"find a release\", \"check indexer status\", \"list indexers\", \"prowlarr search\", \"sync indexers\", or mentions Prowlarr/indexer management.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jmagar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jmagar/prowlarr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jmagar/prowlarr"
+}

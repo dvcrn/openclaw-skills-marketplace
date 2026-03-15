@@ -1,0 +1,10 @@
+{
+  "name": "zli484--llamaparse",
+  "description": "Parse, extract, and analyze documents using the LlamaParse API (LlamaCloud). Use when the user asks to parse PDFs, images, spreadsheets, or other documents into markdown/text/structured data, extract tables or charts from documents, do OCR on scans, batch-process a folder of files, or use LlamaParse for any document processing task. Triggers on phrases like \"parse this PDF\", \"extract text from document\", \"OCR this scan\", \"convert PDF to markdown\", \"extract tables\", \"parse with LlamaParse\", \"llamaparse\", \"llama parse\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "zli484"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zli484/llamaparse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zli484/llamaparse"
+}

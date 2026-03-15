@@ -1,0 +1,10 @@
+{
+  "name": "brackyt--playlistable",
+  "description": "Create AI-powered Spotify playlists and discover music via Playlistable MCP. Use when the user wants to generate playlists from a mood/prompt, search songs or artists, get personalized playlist suggestions, or manage their playlists. Requires OAuth authentication via https://mcp.playlistable.io/authorize. Supports PLAYLISTABLE_API_KEY env var or config/auth.json.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brackyt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brackyt/playlistable",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brackyt/playlistable"
+}

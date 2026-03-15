@@ -1,0 +1,10 @@
+{
+  "name": "edoserbia--agent-autopilot",
+  "description": "Self-driving agent workflow with heartbeat-driven task execution, day/night progress reports, and long-term memory consolidation. Integrates with todo-management for task tracking.",
+  "version": "1.4.1",
+  "author": {
+    "name": "edoserbia"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/edoserbia/agent-autopilot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/edoserbia/agent-autopilot"
+}

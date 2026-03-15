@@ -1,0 +1,10 @@
+{
+  "name": "zktufo--localspeechrecognition",
+  "description": "本地语音转文字。使用 faster-whisper 在本地运行 Whisper 模型，无需 API 费用。",
+  "version": "1.0.0",
+  "author": {
+    "name": "zktufo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zktufo/localspeechrecognition",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zktufo/localspeechrecognition"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jiabaochen1--voice2notion",
+  "description": "语音录音转录并保存到 Notion 数据库。使用 faster-whisper 转录，自动提取关键信息并写入数据库。",
+  "version": "1.2.0",
+  "author": {
+    "name": "jiabaochen1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jiabaochen1/voice2notion",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jiabaochen1/voice2notion"
+}

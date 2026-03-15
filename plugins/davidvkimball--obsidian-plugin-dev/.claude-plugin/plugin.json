@@ -1,0 +1,10 @@
+{
+  "name": "davidvkimball--obsidian-plugin-dev",
+  "description": "Create and develop Obsidian plugins from scratch. Use when building a new Obsidian plugin, scaffolding from the sample-plugin-plus template, or developing plugin features. Covers project setup, manifest configuration, TypeScript development, settings UI, commands, ribbons, modals, and Obsidian API patterns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "davidvkimball"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/davidvkimball/obsidian-plugin-dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davidvkimball/obsidian-plugin-dev"
+}

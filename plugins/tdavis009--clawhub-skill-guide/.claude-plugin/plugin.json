@@ -1,0 +1,10 @@
+{
+  "name": "tdavis009--clawhub-skill-guide",
+  "description": "Create, structure, and publish OpenClaw skills to ClawHub that pass the security scanner with clean ratings. Covers frontmatter schema, env var declarations, script safety, config change patterns, and the full publish workflow. Use when: creating a new skill, publishing to ClawHub, fixing security scan warnings, structuring skill files, writing SKILL.md frontmatter, declaring environment variables, understanding scanner categories, preparing scripts for publication.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tdavis009"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tdavis009/clawhub-skill-guide",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tdavis009/clawhub-skill-guide"
+}

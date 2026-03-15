@@ -1,0 +1,10 @@
+{
+  "name": "cktc--moltpost",
+  "description": "Send real physical postcards anywhere in the world. Pay with x402 (USDC on Base), Stripe, or manual USDC transfer. No signup, no API key — just one API call.",
+  "version": "1.3.1",
+  "author": {
+    "name": "cktc"
+  },
+  "homepage": "https://moltpost.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cktc/moltpost"
+}

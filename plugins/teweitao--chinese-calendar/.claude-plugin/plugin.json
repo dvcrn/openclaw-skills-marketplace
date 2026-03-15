@@ -1,0 +1,10 @@
+{
+  "name": "teweitao--chinese-calendar",
+  "description": "获取中国日历信息，包括节假日、调休安排、工作日判断。使用 timor.tech API，数据每年自动更新。Use when: 需要判断某天是否是工作日、查询节假日安排、了解调休情况。",
+  "version": "1.0.0",
+  "author": {
+    "name": "teweitao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/teweitao/chinese-calendar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/teweitao/chinese-calendar"
+}

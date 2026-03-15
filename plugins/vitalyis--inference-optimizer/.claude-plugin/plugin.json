@@ -1,0 +1,10 @@
+{
+  "name": "vitalyis--inference-optimizer",
+  "description": "Audit OpenClaw token usage and run optimization actions with approval. Use /audit for analyze-only and /optimize for analyze + action flow.",
+  "version": "0.2.4",
+  "author": {
+    "name": "vitalyis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vitalyis/inference-optimizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vitalyis/inference-optimizer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "gate-exchange--gate-info-coin-compare",
+  "description": "Coin comparison. Use this skill whenever the user asks to compare two or more coins. Trigger phrases include: compare, versus, vs, which is better, difference. MCP tools: info_marketsnapshot_get_market_snapshot, info_coin_get_coin_info per coin (or batch/search when available).",
+  "version": "1.0.0",
+  "author": {
+    "name": "gate-exchange"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-info-coin-compare",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-info-coin-compare"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lolieatapple--xflows-bridge-skills",
+  "description": "Cross-chain bridge operations using the xflows CLI (Wanchain XFlows). Use when the user wants to: (1) create or manage crypto wallets for cross-chain use, (2) query supported chains, tokens, pairs, bridges, or DEXes, (3) get cross-chain swap quotes and fee estimates, (4) send cross-chain transactions between EVM chains, (5) track cross-chain transaction status and completion, (6) send native tokens (ETH/BNB/WAN) on the same chain, (7) send ERC20 tokens on the same chain, (8) check balance of any address (no wallet needed). Triggers on: cross-chain, bridge, swap tokens between chains, xflows, Wanchain, WanBridge, QUiX, move/transfer tokens from Ethereum/BSC/Polygon/Arbitrum/Optimism/Avalanche/Wanchain to another chain, bridge ETH/BNB/USDC/USDT, transfer ETH, send tokens, ERC20 transfer, check balance, query address balance.",
+  "version": "0.2.0",
+  "author": {
+    "name": "lolieatapple"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lolieatapple/xflows-bridge-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lolieatapple/xflows-bridge-skills"
+}

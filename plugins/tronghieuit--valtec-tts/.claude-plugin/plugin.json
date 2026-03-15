@@ -1,0 +1,10 @@
+{
+  "name": "tronghieuit--valtec-tts",
+  "description": "Local Vietnamese text-to-speech via VITS2 (offline, no cloud). Supports 5 built-in speaker voices and zero-shot voice cloning from reference audio.",
+  "version": "1.0.3",
+  "author": {
+    "name": "tronghieuit"
+  },
+  "homepage": "https://github.com/tronghieuit/valtec-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tronghieuit/valtec-tts"
+}

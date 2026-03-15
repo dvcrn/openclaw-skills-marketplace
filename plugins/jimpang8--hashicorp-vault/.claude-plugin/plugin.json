@@ -1,0 +1,10 @@
+{
+  "name": "jimpang8--hashicorp-vault",
+  "description": "Work with HashiCorp Vault using the `vault` CLI for authentication checks, KV secret reads and writes, listing paths, enabling and tuning secrets engines, policy inspection, token lookup, and operational troubleshooting. Use when tasks mention HashiCorp Vault, Vault KV, secret paths like `secret/` or `kv/`, `VAULT_ADDR`, `VAULT_TOKEN`, AppRole, policies, mounts, or the `vault` command.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jimpang8"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jimpang8/hashicorp-vault",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jimpang8/hashicorp-vault"
+}

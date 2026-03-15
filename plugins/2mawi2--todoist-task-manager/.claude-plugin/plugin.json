@@ -1,0 +1,10 @@
+{
+  "name": "2mawi2--todoist-task-manager",
+  "description": "Manage Todoist tasks via the `todoist` CLI (list, add, modify, complete, delete). Supports filters, projects, labels, and priorities.",
+  "version": "1.0.0",
+  "author": {
+    "name": "2mawi2"
+  },
+  "homepage": "https://github.com/sachaos/todoist",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/2mawi2/todoist-task-manager"
+}

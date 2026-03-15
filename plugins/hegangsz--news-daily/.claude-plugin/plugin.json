@@ -1,0 +1,10 @@
+{
+  "name": "hegangsz--news-daily",
+  "description": "获取新闻热榜（国内、国际、科技、AI）并发送到飞书。不依赖本地工程，直接从 RSS 获取数据。",
+  "version": "1.0.0",
+  "author": {
+    "name": "hegangsz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hegangsz/news-daily",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hegangsz/news-daily"
+}

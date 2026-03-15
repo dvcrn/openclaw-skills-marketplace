@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--api-key-ui-tab",
+  "description": "Vault-backed API Keys management for OpenClaw. Secure file-based secret storage with one-click migration from plaintext config, dynamic key discovery, vault key selector for skills, manual secret creation, and plugin-registered settings tab.",
+  "version": "3.0.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/api-key-ui-tab",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/api-key-ui-tab"
+}

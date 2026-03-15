@@ -1,0 +1,10 @@
+{
+  "name": "swiftking100--snyk-skill-scanner",
+  "description": "Scan installed agent components (MCP servers, skills, agent tools) for security vulnerabilities using snyk-agent-scan. Use only when running uvx snyk-agent-scan commands to scan skills for risks like prompt injection, malware, or credential leaks. This skill intentionally executes external code (snyk-agent-scan via uvx) for security auditing purposes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "swiftking100"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/swiftking100/snyk-skill-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/swiftking100/snyk-skill-scanner"
+}

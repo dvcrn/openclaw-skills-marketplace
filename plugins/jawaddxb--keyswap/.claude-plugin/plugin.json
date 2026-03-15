@@ -1,0 +1,10 @@
+{
+  "name": "jawaddxb--keyswap",
+  "description": "Rotate Claude Max API token for OpenClaw Anthropic profiles. Use when the user says \"swap key\", \"rotate key\", \"new key\", \"keyswap\", or provides a new `sk-ant-` token to replace the current one.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jawaddxb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jawaddxb/keyswap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jawaddxb/keyswap"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "andyzwp--scholar-paper-downloader",
+  "description": "学术文献PDF批量下载工具,支持从多个学术网站(arXiv、PubMed、PMC、Semantic Scholar等)搜索和下载论文,\n 自动提取元数据、生成索引列表。优先从官方免费渠道下载,付费文献提供手动下载指引。",
+  "version": "1.0.3",
+  "author": {
+    "name": "andyzwp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyzwp/scholar-paper-downloader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyzwp/scholar-paper-downloader"
+}

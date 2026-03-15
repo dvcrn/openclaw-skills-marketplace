@@ -1,0 +1,10 @@
+{
+  "name": "dzming--clawpolicy",
+  "description": "Install and use ClawPolicy, an explainable autonomous execution policy engine for low-touch, auditable agent execution. Supports initialization, policy supervision, status checks, risky/suspended inspection, and Python API usage.",
+  "version": "3.0.2",
+  "author": {
+    "name": "dzming"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dzming/clawpolicy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dzming/clawpolicy"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "balkanblbn--hierarchical-memory",
+  "description": "Manage and navigate a multi-layered, branch-based memory system. This skill helps organize complex agent context into Root, Domain, and Project layers to prevent context bloat. It includes a helper script `add_branch.py` which creates local markdown files and directories to structure your memory.",
+  "version": "1.0.1",
+  "author": {
+    "name": "balkanblbn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/balkanblbn/hierarchical-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/balkanblbn/hierarchical-memory"
+}

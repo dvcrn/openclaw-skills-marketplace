@@ -1,0 +1,10 @@
+{
+  "name": "trumppo--gh",
+  "description": "Use the GitHub CLI (gh) to perform core GitHub operations: auth status, repo create/clone/fork, issues, pull requests, releases, and basic repo management. Trigger for requests to use gh, manage GitHub repos, PRs, or issues from the CLI.",
+  "version": "0.1.0",
+  "author": {
+    "name": "trumppo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/trumppo/gh",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/trumppo/gh"
+}

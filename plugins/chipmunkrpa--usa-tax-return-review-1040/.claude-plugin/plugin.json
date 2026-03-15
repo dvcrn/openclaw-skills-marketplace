@@ -1,0 +1,10 @@
+{
+  "name": "chipmunkrpa--usa-tax-return-review-1040",
+  "description": "Review U.S. individual income tax returns (Form 1040/1040-SR) for the most recent tax year, compare major return items against current-year tax rules, check consistency across historical returns when multiple years are provided, generate a standalone DOCX risk register, and estimate audit likelihood from return content. Use when tasks involve 1040 compliance review, multi-year consistency analysis, tax-law validation, or audit-risk assessment.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chipmunkrpa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chipmunkrpa/usa-tax-return-review-1040",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chipmunkrpa/usa-tax-return-review-1040"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "guitenbay--code-review-for-gitcode",
+  "description": "Complete code review workflow for GitCode PRs. Combines automated security scanning with manual code review, outputs formatted findings, and posts comments to PR. Use when reviewing GitCode pull requests - follows 5-step process: automated scan, manual review, issue selection, formatted output, and optional PR comment posting.",
+  "version": "0.1.0",
+  "author": {
+    "name": "guitenbay"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guitenbay/code-review-for-gitcode",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guitenbay/code-review-for-gitcode"
+}

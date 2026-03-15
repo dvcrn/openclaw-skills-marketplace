@@ -1,0 +1,30 @@
+{
+  "title": "多平台收藏词复活计划",
+  "subtitle": "支持 Google / 有道｜每天 1 词，不让收藏吃灰",
+  "timezone": "Asia/Shanghai",
+  "dailyPush": {
+    "enabled": true,
+    "time": "09:00",
+    "count": 1,
+    "dedupeSameDay": true
+  },
+  "platforms": {
+    "google": {
+      "enabled": true,
+      "label": "Google Translate",
+      "savedUrl": "https://translate.google.com/saved?sl=en&tl=zh-CN&op=translate",
+      "pageTextFile": "./data/cache/google-page.txt"
+    },
+    "youdao": {
+      "enabled": true,
+      "label": "有道词典",
+      "savedUrl": "https://dict.youdao.com/webwordbook/wordlist",
+      "pageTextFile": "./data/cache/youdao-page.txt"
+    }
+  },
+  "push": {
+    "channel": "telegram",
+    "target": "",
+    "sendCommand": ""
+  }
+}

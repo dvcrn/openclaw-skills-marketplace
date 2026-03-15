@@ -1,0 +1,10 @@
+{
+  "name": "jzocb--jz-workflow-enforcer",
+  "description": "让 AI Agent 的执行流程稳定可控。\n 通过 Gate 门禁、强制输出格式、Style Context 持久化，\n 把\"建议\"变成\"必须\"，解决 Agent 选择性执行的问题。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jzocb"
+  },
+  "homepage": "https://github.com/example/agent-workflow-enforcer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jzocb/jz-workflow-enforcer"
+}

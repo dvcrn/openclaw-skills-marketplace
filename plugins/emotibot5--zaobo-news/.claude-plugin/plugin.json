@@ -1,0 +1,10 @@
+{
+  "name": "emotibot5--zaobo-news",
+  "description": "生成 Zao Live 分享卡片。当用户说\"我要听早播\"、\"播一段新闻\"、\"来段早播\"、\"听新闻\"等想要收听播客/新闻音频的内容时，使用此技能。",
+  "version": "1.0.0",
+  "author": {
+    "name": "emotibot5"
+  },
+  "homepage": "https://zao.live",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/emotibot5/zaobo-news"
+}

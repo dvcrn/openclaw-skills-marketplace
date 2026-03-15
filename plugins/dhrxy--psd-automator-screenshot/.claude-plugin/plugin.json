@@ -1,0 +1,10 @@
+{
+  "name": "dhrxy--psd-automator-screenshot",
+  "description": "Use screenshot + natural language instruction to locate PSD text layers and dispatch automated edits with confidence gating. Requires psd-automator core.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dhrxy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dhrxy/psd-automator-screenshot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dhrxy/psd-automator-screenshot"
+}

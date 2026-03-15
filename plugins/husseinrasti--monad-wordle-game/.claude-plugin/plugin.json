@@ -1,0 +1,10 @@
+{
+  "name": "husseinrasti--monad-wordle-game",
+  "description": "Play a 5-letter Wordle game on the Monad blockchain using $WORDLE tokens. Start games, submit guesses, and retrieve game state via HTTP API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "husseinrasti"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/husseinrasti/monad-wordle-game",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/husseinrasti/monad-wordle-game"
+}

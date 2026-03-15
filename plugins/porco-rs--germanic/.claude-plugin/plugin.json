@@ -1,0 +1,10 @@
+{
+  "name": "porco-rs--germanic",
+  "description": "Validate JSON data against schemas and compile to binary .grm files. Schema-enforced data contracts for AI agents. Catches missing fields, wrong types, empty strings in one pass. Supports JSON Schema Draft 7. Use for structured data validation, data extraction, form processing. Binary output prevents structural injection.",
+  "version": "0.2.3",
+  "author": {
+    "name": "porco-rs"
+  },
+  "homepage": "https://github.com/germanicdev/germanic",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/porco-rs/germanic"
+}

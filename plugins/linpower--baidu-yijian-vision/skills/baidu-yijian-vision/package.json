@@ -1,0 +1,26 @@
+{
+  "name": "baidu-yijian-vision",
+  "version": "0.9.19",
+  "description": "Client tool for registering and invoking Baidu Yijian vision skills",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "scripts": {
+    "pack": "node scripts/pack.mjs",
+    "test": "node --test 'tests/*.test.mjs'"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "archiver": "^7.0.1"
+  },
+  "optionalDependencies": {
+    "sharp": "^0.33.0"
+  },
+  "requiredEnvVars": [
+    "YIJIAN_API_KEY"
+  ],
+  "primaryCredential": "YIJIAN_API_KEY"
+}

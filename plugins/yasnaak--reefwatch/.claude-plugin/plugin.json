@@ -1,0 +1,10 @@
+{
+  "name": "yasnaak--reefwatch",
+  "description": "Continuous local security monitoring daemon for Linux and macOS. Detects brute-force attacks, malware, privilege escalation, suspicious processes, file tampering, cryptominers, and network anomalies using YARA, Sigma, and custom detection rules. Runs as a background process and alerts only when real threats are found. Use when the user wants host-level intrusion detection, security monitoring, threat scanning, or asks about suspicious activity on their machine.",
+  "version": "1.3.0",
+  "author": {
+    "name": "yasnaak"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yasnaak/reefwatch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yasnaak/reefwatch"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "myrodar--skill-deps",
+  "description": "Track and manage dependencies between OpenClaw skills. Scan skills for dependencies, visualize skill trees, detect circular dependencies, and manage skill versioning. Use when analyzing skill relationships, checking which skills depend on others, or managing skill installations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "myrodar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/myrodar/skill-deps",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/myrodar/skill-deps"
+}

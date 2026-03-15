@@ -1,0 +1,10 @@
+{
+  "name": "hollaugo--openclaw-manager",
+  "description": "Deploy, harden, and operate OpenClaw across local and hosted environments (Fly.io, Render, Railway, Hetzner, GCP) with secure defaults, channel setup guidance, integration onboarding, and troubleshooting workflows grounded in official OpenClaw documentation. Use when users need install/deploy help, migration support, runtime hardening, memory/agent operations tuning, or incident response.",
+  "version": "0.1.1",
+  "author": {
+    "name": "hollaugo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hollaugo/openclaw-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hollaugo/openclaw-manager"
+}

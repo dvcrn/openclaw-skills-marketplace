@@ -1,0 +1,54 @@
+{
+  "name": "openclaw-backup-restore",
+  "version": "1.5.2",
+  "description": "OpenClaw Backup Restore for workspace backup, restore, validation, auto git add/commit/push, and daily GitHub backup sync",
+  "type": "module",
+  "main": "scripts/backup.mjs",
+  "bin": {
+    "openclaw-backup": "scripts/backup.mjs",
+    "openclaw-restore": "scripts/restore.mjs",
+    "openclaw-backup-list": "scripts/list.mjs",
+    "openclaw-backup-validate": "scripts/validate.mjs",
+    "openclaw-backup-push": "scripts/backup-and-push.mjs"
+  },
+  "scripts": {
+    "backup": "node scripts/backup.mjs",
+    "restore": "node scripts/restore.mjs",
+    "list": "node scripts/list.mjs",
+    "validate": "node scripts/validate.mjs",
+    "backup:push": "node scripts/backup-and-push.mjs",
+    "test": "node tests/test.mjs"
+  },
+  "keywords": [
+    "openclaw",
+    "backup",
+    "restore",
+    "daily-backup",
+    "github-backup",
+    "recovery",
+    "rollback",
+    "workspace",
+    "soul",
+    "agent",
+    "ai"
+  ],
+  "author": "OpenClaw Community",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/X-RayLuan/openclaw-backup-restore-clawlite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/X-RayLuan/openclaw-backup-restore-clawlite/issues"
+  },
+  "homepage": "https://github.com/X-RayLuan/openclaw-backup-restore-clawlite#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "scripts/",
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ]
+}

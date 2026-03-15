@@ -1,0 +1,10 @@
+{
+  "name": "googleworkspace-bot--recipe-create-events-from-sheet",
+  "description": "Read event data from a Google Sheets spreadsheet and create Google Calendar entries for each row.",
+  "version": "1.0.1",
+  "author": {
+    "name": "googleworkspace-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/googleworkspace-bot/recipe-create-events-from-sheet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/googleworkspace-bot/recipe-create-events-from-sheet"
+}

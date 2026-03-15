@@ -1,0 +1,10 @@
+{
+  "name": "wzliu888--clawpaw-phone-control",
+  "description": "Guide users through ClawPaw Android setup — installing the APK, granting permissions, connecting SSH tunnel, and verifying the full LLM-to-phone control chain. Use when a user wants to set up ClawPaw, install the app, connect a new phone, or troubleshoot connection issues.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wzliu888"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wzliu888/clawpaw-phone-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wzliu888/clawpaw-phone-control"
+}

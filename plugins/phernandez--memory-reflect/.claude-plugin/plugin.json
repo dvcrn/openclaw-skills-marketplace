@@ -1,0 +1,10 @@
+{
+  "name": "phernandez--memory-reflect",
+  "description": "Sleep-time memory reflection: review recent conversations and daily notes, extract insights, and consolidate into long-term memory. Use when triggered by cron, heartbeat, or explicit request to reflect on recent activity. Runs as background processing to improve memory quality over time.",
+  "version": "0.1.0",
+  "author": {
+    "name": "phernandez"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phernandez/memory-reflect",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phernandez/memory-reflect"
+}

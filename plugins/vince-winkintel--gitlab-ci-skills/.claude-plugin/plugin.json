@@ -1,0 +1,10 @@
+{
+  "name": "vince-winkintel--gitlab-ci-skills",
+  "description": "Use when working with GitLab CLI (glab) commands across auth, CI/CD, merge requests, issues, releases, repos, and related operations. Routes to specific glab-* sub-skills.",
+  "version": "1.0.2",
+  "author": {
+    "name": "vince-winkintel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vince-winkintel/gitlab-ci-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vince-winkintel/gitlab-ci-skills"
+}

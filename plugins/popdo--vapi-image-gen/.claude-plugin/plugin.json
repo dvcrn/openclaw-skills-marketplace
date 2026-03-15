@@ -1,0 +1,10 @@
+{
+  "name": "popdo--vapi-image-gen",
+  "description": "Generate images via VAPI's OpenAI-compatible Images API. Supports nano-banana and gpt-image model series. Default model is nano-banana-pro. Images are NOT saved locally by default (URL only). Use --save flag when the user wants to keep the image.",
+  "version": "1.0.1",
+  "author": {
+    "name": "popdo"
+  },
+  "homepage": "https://api.v3.cm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/popdo/vapi-image-gen"
+}

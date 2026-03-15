@@ -1,0 +1,10 @@
+{
+  "name": "masoncags-tech--abstract-toolkit",
+  "description": "Deploy smart contracts and bridge assets to Abstract (ZK Stack L2). Use when an agent needs to deploy contracts on Abstract, bridge ETH/tokens to Abstract, trade/swap tokens, check balances, transfer assets, or interact with Abstract mainnet. Covers zksolc compilation, Hardhat deployment, Relay bridging, DEX trading, and key contract addresses.",
+  "version": "1.0.0",
+  "author": {
+    "name": "masoncags-tech"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/masoncags-tech/abstract-toolkit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/masoncags-tech/abstract-toolkit"
+}

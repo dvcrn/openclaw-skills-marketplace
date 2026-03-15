@@ -1,0 +1,10 @@
+{
+  "name": "damiencronw--port-manager",
+  "description": "Port Manager - Track and manage system port usage. Use when: (1) Port conflict when installing software, (2) Check port usage, (3) Release occupied ports, (4) List all recorded service ports",
+  "version": "1.0.0",
+  "author": {
+    "name": "damiencronw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/damiencronw/port-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/damiencronw/port-manager"
+}

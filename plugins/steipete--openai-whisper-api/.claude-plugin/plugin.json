@@ -1,0 +1,10 @@
+{
+  "name": "steipete--openai-whisper-api",
+  "description": "Transcribe audio via OpenAI Audio Transcriptions API (Whisper).",
+  "version": "1.0.0",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "https://platform.openai.com/docs/guides/speech-to-text",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/openai-whisper-api"
+}

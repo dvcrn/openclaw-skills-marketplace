@@ -1,0 +1,10 @@
+{
+  "name": "shuakami--uapi-get-misc-weather",
+  "description": "使用 UAPI 的“查询天气”单接口 skill，处理 查询天气、天气预报、城市天气、adcode天气、实时天气、天气查询 等请求。 Use when the user wants get misc weather, misc weather, weather, weather api, city weather, forecast lookup, or when you need to call GET /misc/weather directly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shuakami"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-misc-weather",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-misc-weather"
+}

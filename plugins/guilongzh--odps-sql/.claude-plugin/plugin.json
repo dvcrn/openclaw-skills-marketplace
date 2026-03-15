@@ -1,0 +1,10 @@
+{
+  "name": "guilongzh--odps-sql",
+  "description": "Use this skill when the user wants to query, analyze, or explore data in Alibaba Cloud ODPS (MaxCompute / 阿里云大数据计算服务).\n This skill executes SQL queries, lists tables, and inspects table schemas by running the odps_helper.py command-line script.\n Trigger this skill for requests like: querying ODPS data, listing MaxCompute tables, running SQL on ODPS, checking table structure,\n analyzing business data stored in ODPS, or any data exploration tasks involving Alibaba Cloud MaxCompute / ODPS.",
+  "version": "1.0.1",
+  "author": {
+    "name": "guilongzh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guilongzh/odps-sql",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guilongzh/odps-sql"
+}

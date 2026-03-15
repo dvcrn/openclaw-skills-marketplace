@@ -1,0 +1,10 @@
+{
+  "name": "coolhackboy--poyo-gpt-image-1-5",
+  "description": "Use PoYo AI GPT Image 1.5 through the `https://api.poyo.ai/api/generate/submit` endpoint. Use when a user wants to generate or edit media with this model family, prepare PoYo-compatible payloads, submit jobs, or poll task status for `gpt-image-1.5`, `gpt-image-1.5-edit`.",
+  "version": "1.0.0",
+  "author": {
+    "name": "coolhackboy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/coolhackboy/poyo-gpt-image-1-5",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/coolhackboy/poyo-gpt-image-1-5"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--zoho-mail",
+  "description": "Zoho Mail API integration with managed OAuth. Send, receive, and manage emails, folders, and labels.\n Use this skill when users want to send emails, read messages, manage folders, or work with email labels in Zoho Mail.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.4",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/zoho-mail",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/zoho-mail"
+}

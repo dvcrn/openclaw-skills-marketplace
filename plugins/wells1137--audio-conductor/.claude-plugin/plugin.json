@@ -1,0 +1,10 @@
+{
+  "name": "wells1137--audio-conductor",
+  "description": "Intelligently dispatches requests to the appropriate audio generation model (Music, Sound Effects, or TTS). Use this as a unified entry point for all audio generation needs.",
+  "version": "1.2.0",
+  "author": {
+    "name": "wells1137"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wells1137/audio-conductor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wells1137/audio-conductor"
+}

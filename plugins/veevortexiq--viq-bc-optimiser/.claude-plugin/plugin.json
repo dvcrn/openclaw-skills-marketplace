@@ -1,0 +1,10 @@
+{
+  "name": "veevortexiq--viq-bc-optimiser",
+  "description": "Autonomous BigCommerce product content optimizer. Bulk-update, rewrite, optimize, or generate product titles and descriptions on a BigCommerce store. Triggers on \"optimize my BigCommerce products\", \"rewrite product descriptions\", \"update product content\", \"improve my store listings\", \"bulk update BigCommerce\", or when BigCommerce API credentials (store hash, API token) are provided for content work. Handles the full lifecycle: fetching products page-by-page, generating improved content, updating the store, and tracking progress — all autonomously without stopping.",
+  "version": "1.0.0",
+  "author": {
+    "name": "veevortexiq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/veevortexiq/viq-bc-optimiser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/veevortexiq/viq-bc-optimiser"
+}

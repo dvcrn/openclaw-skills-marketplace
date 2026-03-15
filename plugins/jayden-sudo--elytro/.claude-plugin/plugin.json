@@ -1,0 +1,10 @@
+{
+  "name": "jayden-sudo--elytro",
+  "description": "Ethereum EIP-4337 smart contract wallet designed for AI agents. Use this skill whenever the user wants to manage Ethereum accounts, check balances, send ETH/tokens, swap tokens on Uniswap, manage 2FA security hooks, or do anything with their Elytro wallet. Supports gasless transactions via sponsorship. For token swaps, combines with the Uniswap swap-planner skill.",
+  "version": "0.1.1",
+  "author": {
+    "name": "jayden-sudo"
+  },
+  "homepage": "https://elytro.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jayden-sudo/elytro"
+}

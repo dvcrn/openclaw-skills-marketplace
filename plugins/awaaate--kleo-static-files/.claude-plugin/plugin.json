@@ -1,0 +1,10 @@
+{
+  "name": "awaaate--kleo-static-files",
+  "description": "Host static files on subdomains with optional authentication. Use when you need to serve HTML, images, CSS, JS, or any static content on a dedicated subdomain. Supports file upload, basic auth, quota management, and automatic SSL via Caddy. Commands include sf sites (create/list/delete), sf upload (files/directories), sf files (list/delete).",
+  "version": "1.0.0",
+  "author": {
+    "name": "awaaate"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/awaaate/kleo-static-files",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/awaaate/kleo-static-files"
+}

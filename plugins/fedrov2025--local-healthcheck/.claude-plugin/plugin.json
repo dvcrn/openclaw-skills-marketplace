@@ -1,0 +1,10 @@
+{
+  "name": "fedrov2025--local-healthcheck",
+  "description": "Simple local security check (firewall, updates, ssh status) without external dependencies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fedrov2025"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fedrov2025/local-healthcheck",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fedrov2025/local-healthcheck"
+}

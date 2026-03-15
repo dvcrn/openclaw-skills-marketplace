@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--tv",
+  "description": "使用极速数据电视节目预告 API 查询指定频道某日的电视节目单，并支持获取全部电视频道列表。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/tv",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/tv"
+}

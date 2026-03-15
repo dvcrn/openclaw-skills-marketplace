@@ -1,0 +1,10 @@
+{
+  "name": "balingsisi--writing-agent-creator",
+  "description": "Generate writing agent configurations for OpenClaw. Use when the user wants to:\n (1) Create specialized writing agents (tech, marketing, academic, business, creative)\n (2) Add custom agent templates (persisted, won't be overwritten)\n (3) Generate sub-agent spawn instructions\n (4) List available agent templates\n IMPORTANT: This skill GENERATES configs - it does NOT modify user's existing files.\n User custom templates are saved to ~/.openclaw/workspace/agent-templates/",
+  "version": "1.0.0",
+  "author": {
+    "name": "balingsisi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/balingsisi/writing-agent-creator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/balingsisi/writing-agent-creator"
+}

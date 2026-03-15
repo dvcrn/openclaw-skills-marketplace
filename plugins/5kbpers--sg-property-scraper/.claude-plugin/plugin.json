@@ -1,0 +1,10 @@
+{
+  "name": "5kbpers--sg-property-scraper",
+  "description": "Search Singapore property rental and sale listings with flexible filters. Use when asked to search Singapore properties, find rental or sale listings, check property prices near MRT stations, or compare commute times. Supports filtering by listing type (rent/sale), property type (HDB/Condo/Landed), bedrooms, bathrooms, price range, size, TOP year, MRT station codes, distance to MRT, room type, availability, and commute time to a destination. Outputs JSON to stdout.",
+  "version": "1.0.1",
+  "author": {
+    "name": "5kbpers"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/5kbpers/sg-property-scraper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/5kbpers/sg-property-scraper"
+}

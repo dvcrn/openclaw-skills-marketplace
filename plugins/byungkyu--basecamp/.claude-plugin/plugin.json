@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--basecamp",
+  "description": "Basecamp API integration with managed OAuth. Manage projects, to-dos, messages, schedules, documents, and team collaboration.\n Use this skill when users want to create and manage projects, to-do lists, schedule events, or collaborate with teams in Basecamp.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.2",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/basecamp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/basecamp"
+}

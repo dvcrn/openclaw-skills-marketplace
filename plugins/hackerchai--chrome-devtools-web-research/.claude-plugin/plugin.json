@@ -1,0 +1,10 @@
+{
+  "name": "hackerchai--chrome-devtools-web-research",
+  "description": "Browser-driven web research and live site inspection using chrome-devtools-mcp over a remote-debugging Chrome session. Use when a user asks to investigate, verify, cross-check, monitor, or extract information from real websites or dynamic pages—especially social platforms, search engines, docs, dashboards, login-aware flows, and JavaScript-heavy sites where page state matters or normal search/read tools are insufficient. Always start with Chrome DevTools MCP via mcporter instead of waiting for the user to remind you. Default pattern: Google first for the main reporting chain, X second for live discussion, and Reddit third for community source-tracing and cross-verification.",
+  "version": "1.0.3",
+  "author": {
+    "name": "hackerchai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hackerchai/chrome-devtools-web-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hackerchai/chrome-devtools-web-research"
+}

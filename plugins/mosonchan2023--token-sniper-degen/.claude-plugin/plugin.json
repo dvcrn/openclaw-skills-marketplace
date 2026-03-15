@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--token-sniper-degen",
+  "description": "Token Sniper + Degen 交易工具 - 监控新品 Launchpad、检测聪明钱地址、追踪套利机会。每次调用自动扣费 0.001 USDT（SkillPay 集成）",
+  "version": "1.0.0",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/token-sniper-degen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/token-sniper-degen"
+}

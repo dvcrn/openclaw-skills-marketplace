@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--pangolin-utils",
+  "description": "3D visualization toolkit wrapping Pangolin viewer for real-time display of point clouds, trajectories, cameras, planes, chessboards, and images. Use when visualizing sensor data (IMU, SLAM, tracking), robot states, or any 3D data with camera poses and trajectories. Supports dual-image display, step mode for debugging, and main camera following.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/pangolin-utils",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/pangolin-utils"
+}

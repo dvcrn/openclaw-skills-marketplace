@@ -1,0 +1,10 @@
+{
+  "name": "suryast--cron-doctor",
+  "description": "Diagnose and triage cron job failures. Checks job states, identifies error patterns, prioritizes by criticality, generates health reports. Triggers on: cron failures, job health check, scheduled task errors, cron diagnosis, job not running, backup failed.",
+  "version": "1.0.1",
+  "author": {
+    "name": "suryast"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/suryast/cron-doctor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/suryast/cron-doctor"
+}

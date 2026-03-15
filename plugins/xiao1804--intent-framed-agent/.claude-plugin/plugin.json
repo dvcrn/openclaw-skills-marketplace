@@ -1,0 +1,10 @@
+{
+  "name": "xiao1804--intent-framed-agent",
+  "description": "Frames coding-agent work sessions with explicit intent capture and drift monitoring. Use when a session transitions from planning/Q&A to implementation for coding tasks, refactors, feature builds, bug fixes, or other multi-step execution where scope drift is a risk.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiao1804"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiao1804/intent-framed-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiao1804/intent-framed-agent"
+}

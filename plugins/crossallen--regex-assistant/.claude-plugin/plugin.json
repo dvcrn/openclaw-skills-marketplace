@@ -1,0 +1,10 @@
+{
+  "name": "crossallen--regex-assistant",
+  "description": "正则表达式助手，帮助用户测试、调试和生成正则表达式。支持匹配测试、分组捕获、替换操作等常见正则操作。",
+  "version": "1.0.1",
+  "author": {
+    "name": "crossallen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crossallen/regex-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crossallen/regex-assistant"
+}

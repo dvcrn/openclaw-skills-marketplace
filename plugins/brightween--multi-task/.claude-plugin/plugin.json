@@ -1,0 +1,10 @@
+{
+  "name": "brightween--multi-task",
+  "description": "Orchestrate parallel execution of batch tasks by splitting work into independent units and dispatching them to multiple subagents simultaneously. Use this skill whenever the user has multiple similar independent tasks — such as processing a batch of files (PDFs, DOCX, images, CSVs), developing multiple pages or components, generating multiple reports, or any scenario involving 'each', 'every', 'all', 'batch', or a list of similar items. Also trigger when the user provides a numbered list of tasks, references a folder of files to process, or describes repetitive work across multiple inputs. Even if the user doesn't explicitly say 'parallel' or 'batch', if the work naturally decomposes into 3+ independent units of similar type, use this skill to maximize throughput.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brightween"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brightween/multi-task",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brightween/multi-task"
+}

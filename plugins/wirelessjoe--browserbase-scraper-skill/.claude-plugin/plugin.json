@@ -1,0 +1,10 @@
+{
+  "name": "wirelessjoe--browserbase-scraper-skill",
+  "description": "Scrape Cloudflare-protected websites using Stagehand + Browserbase cloud browsers. Use when the user needs to extract data from websites with bot protection, bypass Cloudflare challenges, or scrape JavaScript-heavy pages that block traditional methods like curl or Playwright stealth. Supports AI-powered extraction via Gemini.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wirelessjoe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wirelessjoe/browserbase-scraper-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wirelessjoe/browserbase-scraper-skill"
+}

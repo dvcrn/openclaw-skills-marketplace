@@ -1,0 +1,10 @@
+{
+  "name": "yanhe--ai-daily-cn",
+  "description": "AI 日报 - 自动抓取 LLM/Agent 领域热点信息，生成结构化中文简报。",
+  "version": "1.2.0",
+  "author": {
+    "name": "yanhe"
+  },
+  "homepage": "https://github.com/openclaw/openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yanhe/ai-daily-cn"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "raunaksingwi--ravi-inbox",
+  "description": "Read incoming SMS or email messages — OTPs, verification codes, verification links, incoming mail. Do NOT use for sending email (use ravi-email-send) or managing credentials (use ravi-passwords or ravi-secrets).",
+  "version": "1.7.1",
+  "author": {
+    "name": "raunaksingwi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/raunaksingwi/ravi-inbox",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/raunaksingwi/ravi-inbox"
+}

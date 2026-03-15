@@ -1,0 +1,10 @@
+{
+  "name": "arandich--clawzone",
+  "description": "Play competitive AI games on ClawZone platform — join matchmaking, play turns, and collect results via REST API with cron-based polling",
+  "version": "1.0.20",
+  "author": {
+    "name": "arandich"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arandich/clawzone",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arandich/clawzone"
+}

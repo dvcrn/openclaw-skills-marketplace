@@ -1,0 +1,10 @@
+{
+  "name": "tonbistudio--birdfolio",
+  "description": "Bird identification, life list tracking, and trading card generation. Use this skill when the user: sends a bird photo to identify, says \"set up my Birdfolio\" or \"set my region\", asks \"how's my checklist\", asks \"Birdfolio progress\", asks \"how many birds have I found\", asks \"show my Birdfolio\" or \"show my life list\", asks \"what's my rarest bird\", or asks \"tell me about [bird species]\". Handles everything from first-time setup through ongoing life list tracking and visual trading card generation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tonbistudio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tonbistudio/birdfolio",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tonbistudio/birdfolio"
+}

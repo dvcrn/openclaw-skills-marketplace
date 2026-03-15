@@ -1,0 +1,10 @@
+{
+  "name": "nnswjlll--itinerary-docx-template",
+  "description": "Generate tourism itinerary DOCX by replacing only matched itinerary sections inside a provided Chinese template document. Use when the user sends a simplified route text like \"1南宁接 ... 住XX酒店\" and asks to keep original template styling/terms while updating day-by-day schedule, scenic descriptions, meals, and hotels.",
+  "version": "1.0.1",
+  "author": {
+    "name": "nnswjlll"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nnswjlll/itinerary-docx-template",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nnswjlll/itinerary-docx-template"
+}

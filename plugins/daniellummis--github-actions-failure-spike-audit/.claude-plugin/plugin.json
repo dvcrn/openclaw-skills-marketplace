@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-failure-spike-audit",
+  "description": "Detect sudden GitHub Actions failure-rate spikes by workflow group using recent-vs-baseline run windows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-failure-spike-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-failure-spike-audit"
+}

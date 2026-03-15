@@ -1,0 +1,10 @@
+{
+  "name": "qclawbot--chart",
+  "description": "Local-first chart generation engine for trends, comparisons, distributions, and quick visual explanations. Use whenever the user wants to visualize data, compare numbers, plot a trend, turn CSV or JSON into a chart, or decide which chart type fits a dataset best. Generates charts locally and stores outputs in the user's workspace.",
+  "version": "1.0.0",
+  "author": {
+    "name": "qclawbot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qclawbot/chart",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qclawbot/chart"
+}

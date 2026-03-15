@@ -1,0 +1,10 @@
+{
+  "name": "thomaslwang--og-openclawguard-test",
+  "description": "Runtime security plugin for AI agents. Provides local-first protection against data exfiltration, credential theft, command injection, and sensitive data leakage. Includes a free AI Security Gateway that sanitizes PII before it reaches LLM providers. Fully open source (Apache 2.0) — all detection and sanitization logic is auditable on GitHub. Source: github.com/openguardrails/openguardrails",
+  "version": "2.0.2",
+  "author": {
+    "name": "thomaslwang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thomaslwang/og-openclawguard-test",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thomaslwang/og-openclawguard-test"
+}

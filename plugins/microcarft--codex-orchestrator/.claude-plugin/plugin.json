@@ -1,0 +1,10 @@
+{
+  "name": "microcarft--codex-orchestrator",
+  "description": "Monitor, control, and orchestrate background Codex sessions. Use this skill to track progress, handle interruptions, and ensure task completion for long-running coding tasks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "microcarft"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/microcarft/codex-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/microcarft/codex-orchestrator"
+}

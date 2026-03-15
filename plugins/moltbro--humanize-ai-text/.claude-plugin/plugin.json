@@ -1,0 +1,10 @@
+{
+  "name": "moltbro--humanize-ai-text",
+  "description": "Humanize AI-generated text to bypass detection. This humanizer rewrites ChatGPT, Claude, and GPT content to sound natural and pass AI detectors like GPTZero, Turnitin, and Originality.ai. Based on Wikipedia's comprehensive \"Signs of AI Writing\" guide. Makes robotic AI writing undetectable and human-like.",
+  "version": "1.0.1",
+  "author": {
+    "name": "moltbro"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moltbro/humanize-ai-text",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moltbro/humanize-ai-text"
+}

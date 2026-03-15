@@ -1,0 +1,10 @@
+{
+  "name": "jvy--pip",
+  "description": "Use pip for Python package install, upgrade, freeze, and dependency file workflows with virtual environments first. Use when handling requirements.txt, pip install errors, pipx vs pip decisions, or reproducible Python dependency setup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jvy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jvy/pip",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jvy/pip"
+}

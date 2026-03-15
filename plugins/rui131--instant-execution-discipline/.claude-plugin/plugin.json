@@ -1,0 +1,10 @@
+{
+  "name": "rui131--instant-execution-discipline",
+  "description": "Revenue-focused execution operating system for agents: converts \"do it now\" requests into immediate tool actions, enforces strict start/progress/finish SLAs, and prevents kickoff-only false completions. Best for shipping tasks where delay kills conversion (publish/release/distribution).",
+  "version": "0.1.6",
+  "author": {
+    "name": "rui131"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rui131/instant-execution-discipline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rui131/instant-execution-discipline"
+}

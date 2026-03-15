@@ -1,0 +1,10 @@
+{
+  "name": "geoly-geo--auto-index",
+  "description": "Google Indexing API tool. Use when user wants to submit URLs for Google indexing. Supports two modes: \"auto-index\" (fetch sitemap, diff against cache, submit new URLs) and \"index-now\" (submit specific URLs immediately). Requires a Google Cloud service account JSON key with Indexing API enabled and Search Console ownership.",
+  "version": "1.0.0",
+  "author": {
+    "name": "geoly-geo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/geoly-geo/auto-index",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/geoly-geo/auto-index"
+}

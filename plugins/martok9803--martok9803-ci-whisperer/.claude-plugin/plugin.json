@@ -1,0 +1,10 @@
+{
+  "name": "martok9803--martok9803-ci-whisperer",
+  "description": "Analyze GitHub Actions failures and propose fixes. Use when a user shares a failing GitHub Actions run URL/id, says 'CI is failing', asks 'why did this workflow fail', wants logs summarized, wants the minimal fix, or wants an automated PR to address the failure. Uses the GitHub CLI (`gh`) and GitHub API to fetch run metadata/logs safely and produce a concise root-cause + next steps report.",
+  "version": "0.2.0",
+  "author": {
+    "name": "martok9803"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/martok9803/martok9803-ci-whisperer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/martok9803/martok9803-ci-whisperer"
+}

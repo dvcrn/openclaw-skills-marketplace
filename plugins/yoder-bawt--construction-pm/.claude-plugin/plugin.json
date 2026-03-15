@@ -1,0 +1,10 @@
+{
+  "name": "yoder-bawt--construction-pm",
+  "description": "Construction project management toolkit for AI agents. Use when: (1) Tracking construction jobs through the full lifecycle from lead to paid, (2) Generating daily PM briefings on job status and pipeline health, (3) Checking for stale permits or aging jobs that need attention, (4) Parsing emails from project managers for job updates, (5) Monitoring revenue pipeline across all job statuses.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yoder-bawt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yoder-bawt/construction-pm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yoder-bawt/construction-pm"
+}

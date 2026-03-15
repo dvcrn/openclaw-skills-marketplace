@@ -1,0 +1,10 @@
+{
+  "name": "vibrant--agentns",
+  "description": "Register and manage ICANN domains for AI agents. Wallet authentication (SIWE/SIWS), USDC payments on Base or Solana, full DNS management.",
+  "version": "1.0.1",
+  "author": {
+    "name": "vibrant"
+  },
+  "homepage": "https://agentns.xyz",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vibrant/agentns"
+}

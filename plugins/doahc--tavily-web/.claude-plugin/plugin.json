@@ -1,0 +1,10 @@
+{
+  "name": "doahc--tavily-web",
+  "description": "Web search and content extraction using Tavily Search/Extract/Research APIs (Bearer auth). Use when you need web results (general/news/finance), date/topic/domain filtering, source citations, or want Tavily instead of built-in web_search/Firecrawl. Requires TAVILY_API_KEY.",
+  "version": "0.0.3",
+  "author": {
+    "name": "doahc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/doahc/tavily-web",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/doahc/tavily-web"
+}

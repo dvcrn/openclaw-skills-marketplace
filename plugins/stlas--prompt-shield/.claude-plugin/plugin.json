@@ -1,0 +1,10 @@
+{
+  "name": "stlas--prompt-shield",
+  "description": "Prompt Injection Firewall for AI agents. 113 detection patterns, 14 threat categories, zero dependencies. Protects against fake authority, command injection, memory poisoning, skill malware, crypto spam, and more. Hash-chain tamper-proof whitelist with mandatory peer review. Claude Code hook integration.",
+  "version": "3.0.6",
+  "author": {
+    "name": "stlas"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stlas/prompt-shield",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stlas/prompt-shield"
+}

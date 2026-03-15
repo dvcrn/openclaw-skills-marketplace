@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--twilio-api",
+  "description": "Twilio API integration with managed OAuth. SMS, voice calls, phone numbers, and communications.\n Use this skill when users want to send SMS messages, make voice calls, manage phone numbers, or work with Twilio resources.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.2",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/twilio-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/twilio-api"
+}

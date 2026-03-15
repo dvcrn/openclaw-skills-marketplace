@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--bg-job-toasts",
+  "description": "Background job toast notification system for the OpenClaw Control UI. Bottom-right corner toast bar that shows running/complete/error status for all background processes — cron jobs, memory compaction, knowledge extraction, and any custom jobs. Includes gateway cron event enrichment (job name forwarded in broadcast payload) and context gauge button with live spinner + progress modal. Use when adding or improving background job visibility in the OpenClaw UI, fixing 'Background job' fallback names on toasts, or troubleshooting the compaction button showing no progress.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/bg-job-toasts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/bg-job-toasts"
+}

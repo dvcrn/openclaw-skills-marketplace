@@ -1,0 +1,10 @@
+{
+  "name": "ericrosenberg--jellyseerr",
+  "description": "Request movies and TV shows through Jellyseerr. Use when the user wants to add media to their Plex/Jellyfin server, search for content availability, or manage media requests.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ericrosenberg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ericrosenberg/jellyseerr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ericrosenberg/jellyseerr"
+}

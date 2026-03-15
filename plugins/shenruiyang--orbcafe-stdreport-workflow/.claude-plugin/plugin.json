@@ -1,0 +1,10 @@
+{
+  "name": "shenruiyang--orbcafe-stdreport-workflow",
+  "description": "Build ORBCAFE standard report/list pages with CStandardPage, CTable, CSmartFilter, useStandardReport, variant/layout persistence, and quickCreate/quickEdit/quickDelete flows. Use when implementing filters, pagination, grouped tables, or report page orchestration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shenruiyang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shenruiyang/orbcafe-stdreport-workflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shenruiyang/orbcafe-stdreport-workflow"
+}

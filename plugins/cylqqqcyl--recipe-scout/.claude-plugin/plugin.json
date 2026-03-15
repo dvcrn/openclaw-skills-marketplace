@@ -1,0 +1,10 @@
+{
+  "name": "cylqqqcyl--recipe-scout",
+  "description": "Find and normalize Chinese recipes (中餐菜谱) from structured sources first, then export clean recipe notes to Obsidian markdown. Prefer stable recipe sites over social posts; use 小红书 only for inspiration/fallback. Use when user asks for: Chinese recipes / 中餐菜谱, \"how to cook X\" / 做法, meal ideas, home-style dishes, weeknight cooking, recipe collection / curation, or recipe note creation in Obsidian.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cylqqqcyl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cylqqqcyl/recipe-scout",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cylqqqcyl/recipe-scout"
+}

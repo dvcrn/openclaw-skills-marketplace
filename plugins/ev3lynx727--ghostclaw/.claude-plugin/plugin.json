@@ -1,0 +1,10 @@
+{
+  "name": "ev3lynx727--ghostclaw",
+  "description": "Architectural code review and refactoring assistant that perceives code vibes and system-level flow issues. Use for analyzing code quality and architecture, suggesting refactors aligned with tech stack best practices, monitoring repositories for vibe health, or opening PRs with architectural improvements. Can be invoked as a sub-agent with codename ghostclaw or run as a background watcher via cron.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ev3lynx727"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ev3lynx727/ghostclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ev3lynx727/ghostclaw"
+}

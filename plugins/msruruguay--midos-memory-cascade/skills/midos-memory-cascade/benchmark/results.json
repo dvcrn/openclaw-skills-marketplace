@@ -1,0 +1,67 @@
+{
+  "slug": "midos-memory-cascade",
+  "version": "1.0.1",
+  "run_at": "2026-03-04T18:05:00.068944+00:00",
+  "dimensions": {
+    "completeness": {
+      "score": 10.0,
+      "max": 10,
+      "sections": {
+        "frontmatter": true,
+        "description": true,
+        "quick_start": true,
+        "usage": true,
+        "examples": true,
+        "footer": true
+      }
+    },
+    "depth": {
+      "score": 9.4,
+      "max": 10,
+      "lines": 249,
+      "code_blocks": 12,
+      "tables": 12,
+      "headers": 49,
+      "size_kb": 9.0
+    },
+    "differentiation": {
+      "score": 10,
+      "max": 10,
+      "competitors": 3,
+      "unique_features": 5
+    },
+    "security": {
+      "score": 10,
+      "max": 10,
+      "issues": []
+    },
+    "testability": {
+      "score": 5,
+      "max": 10,
+      "test_files": 1
+    }
+  },
+  "competitors": [
+    {
+      "slug": "elite-longterm-memory",
+      "author": "NextFrontierBuilds",
+      "downloads": 20400,
+      "weakness": "6 manual layers, no self-tune, requires OpenAI key"
+    },
+    {
+      "slug": "byterover",
+      "author": "byteroverinc",
+      "downloads": 24000,
+      "weakness": "CLI-only, external npm dep, sends data to LLM provider"
+    },
+    {
+      "slug": "proactive-agent",
+      "author": "halthelobster",
+      "downloads": 53700,
+      "weakness": "Memory is a side feature, not the core. Manual SESSION-STATE.md"
+    }
+  ],
+  "score": 9.35,
+  "max_score": 10.0,
+  "grade": "A+"
+}

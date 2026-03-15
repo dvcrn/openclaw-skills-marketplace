@@ -1,0 +1,10 @@
+{
+  "name": "cinience--alicloud-ai-entry-modelstudio-test",
+  "description": "Run a minimal test matrix for the Model Studio skills that exist in this repo, including image/video/audio, realtime speech, omni, visual reasoning, embedding, rerank, and edit variants. Use to execute one small request per skill and record results.",
+  "version": "1.0.3",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-ai-entry-modelstudio-test",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-ai-entry-modelstudio-test"
+}

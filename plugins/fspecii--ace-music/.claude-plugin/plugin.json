@@ -1,0 +1,10 @@
+{
+  "name": "fspecii--ace-music",
+  "description": "Generate AI music using ACE-Step 1.5 via ACE Music's free API. Use when the user asks to create, generate, or compose music, songs, beats, instrumentals, or audio tracks. Supports lyrics, style prompts, covers, and repainting. Free API, no cost.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fspecii"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fspecii/ace-music",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fspecii/ace-music"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "imamark--publer",
+  "description": "Post content to social media via the Publer API. Use when scheduling or publishing posts to TikTok (carousels, videos), Instagram, Facebook, Twitter/X, or any Publer-supported platform. Handles media upload, post creation, scheduling, and job polling. Use for any task involving \"post to TikTok\", \"schedule a post\", \"publish to social media\", or \"upload to Publer\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "imamark"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imamark/publer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imamark/publer"
+}

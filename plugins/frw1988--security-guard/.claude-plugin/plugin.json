@@ -1,0 +1,10 @@
+{
+  "name": "frw1988--security-guard",
+  "description": "Enforce strict security rules to protect sensitive information (API keys, tokens, credentials, PII, financial data). Always sanitize or refuse to reveal full sensitive data in ANY chat (private or group). Guide users to view sensitive info locally instead. Apply session initialization protocol at start of every session. Use when handling requests involving sensitive data or when user asks to bypass security rules.",
+  "version": "1.0.0",
+  "author": {
+    "name": "frw1988"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/frw1988/security-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/frw1988/security-guard"
+}

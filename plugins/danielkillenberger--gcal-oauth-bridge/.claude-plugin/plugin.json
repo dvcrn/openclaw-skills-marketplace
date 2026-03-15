@@ -1,0 +1,10 @@
+{
+  "name": "danielkillenberger--gcal-oauth-bridge",
+  "description": "Interact with the Calendar Bridge — a self-hosted Node.js service that provides a persistent REST API for Google Calendar events. Handles OAuth token auto-refresh so you never have to re-authenticate. Use when checking upcoming events, listing calendars, setting up Google Calendar access, or troubleshooting calendar auth.",
+  "version": "1.0.3",
+  "author": {
+    "name": "danielkillenberger"
+  },
+  "homepage": "https://github.com/DanielKillenberger/gcal-oauth-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danielkillenberger/gcal-oauth-bridge"
+}

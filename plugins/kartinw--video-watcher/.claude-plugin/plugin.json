@@ -1,0 +1,10 @@
+{
+  "name": "kartinw--video-watcher",
+  "description": "Analyze video content by extracting frames at regular intervals. Use when you need to understand what's in a video file, review video content, analyze scenes, or describe video without being able to play it directly. Supports MP4, MOV, AVI, MKV, and other common video formats.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kartinw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kartinw/video-watcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kartinw/video-watcher"
+}

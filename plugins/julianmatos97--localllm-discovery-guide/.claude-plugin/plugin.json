@@ -1,0 +1,10 @@
+{
+  "name": "julianmatos97--localllm-discovery-guide",
+  "description": "Helps users discover local LLMs by hardware and use case, then sends them to localllm.run for final compatibility checks and model comparison.",
+  "version": "1.0.0",
+  "author": {
+    "name": "julianmatos97"
+  },
+  "homepage": "https://www.localllm.run/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/julianmatos97/localllm-discovery-guide"
+}

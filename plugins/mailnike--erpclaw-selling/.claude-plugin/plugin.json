@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--erpclaw-selling",
+  "description": "Order-to-cash cycle -- customers, quotations, sales orders, delivery notes, sales invoices, credit notes, recurring invoices for ERPClaw ERP",
+  "version": "1.0.0",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.erpclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/erpclaw-selling"
+}

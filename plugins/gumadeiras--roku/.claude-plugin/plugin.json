@@ -1,0 +1,10 @@
+{
+  "name": "gumadeiras--roku",
+  "description": "Control Roku devices via CLI. Discovery, remote control, app launching, search, and HTTP bridge mode for real-time control.",
+  "version": "2.0.0",
+  "author": {
+    "name": "gumadeiras"
+  },
+  "homepage": "https://github.com/gumadeiras/roku-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gumadeiras/roku"
+}

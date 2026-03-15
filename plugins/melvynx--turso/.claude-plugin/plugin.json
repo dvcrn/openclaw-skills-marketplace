@@ -1,0 +1,10 @@
+{
+  "name": "melvynx--turso",
+  "description": "Manage Turso SQLite databases via CLI - databases, groups, tokens, replicas. Use when user mentions 'turso', 'libsql', 'sqlite edge', or wants to manage Turso databases.",
+  "version": "1.0.0",
+  "author": {
+    "name": "melvynx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/melvynx/turso",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/melvynx/turso"
+}

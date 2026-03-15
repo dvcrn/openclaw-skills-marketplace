@@ -1,0 +1,10 @@
+{
+  "name": "newbienodes--trade-memory",
+  "description": "Save a trade or signal event to local memory log file (trades.jsonl). Use when a trade signal is confirmed and needs to be recorded, saved, or logged for future reference and history tracking.",
+  "version": "1.0.0",
+  "author": {
+    "name": "newbienodes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/newbienodes/trade-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/newbienodes/trade-memory"
+}

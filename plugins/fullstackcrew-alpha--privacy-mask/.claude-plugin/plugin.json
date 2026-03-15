@@ -1,0 +1,10 @@
+{
+  "name": "fullstackcrew-alpha--privacy-mask",
+  "description": "Mask and redact sensitive information (PII) in screenshots and images before analysis — phone numbers, emails, IDs, API keys, crypto wallets, credit cards, passwords, and more. Uses OCR (Tesseract / EasyOCR) to detect private data and applies redaction overlays. All processing is 100% local and offline — no data leaves your machine. Use when receiving screenshots that may contain private data, or when the user mentions privacy / masking / redacting / PII removal / sensitive data protection.",
+  "version": "0.3.0",
+  "author": {
+    "name": "fullstackcrew-alpha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fullstackcrew-alpha/privacy-mask",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fullstackcrew-alpha/privacy-mask"
+}

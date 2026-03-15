@@ -1,0 +1,10 @@
+{
+  "name": "weichengwu--brew",
+  "description": "Manage Homebrew end-to-end on macOS, including detecting whether Homebrew is installed, understanding formula vs cask, updating metadata and packages, installing/uninstalling software, searching/listing package state, cleanup/autoremove, diagnostics, and Brewfile workflows. Use when users ask to update brew, install or remove apps/tools with brew, check outdated packages, fix brew errors, export/sync package setup, or verify Homebrew environment health.",
+  "version": "1.0.0",
+  "author": {
+    "name": "weichengwu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/weichengwu/brew",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/weichengwu/brew"
+}

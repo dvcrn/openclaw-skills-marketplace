@@ -1,0 +1,10 @@
+{
+  "name": "nicholasoxford--market-snapshot",
+  "description": "Fetch a token market snapshot (price/liquidity/volume) and return stable JSON (backed by Jupiter).",
+  "version": "1.0.0",
+  "author": {
+    "name": "nicholasoxford"
+  },
+  "homepage": "https://app.vecstack.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nicholasoxford/market-snapshot"
+}

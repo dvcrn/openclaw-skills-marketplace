@@ -1,0 +1,10 @@
+{
+  "name": "aksenkin--voice-stt-tts",
+  "description": "Full voice message setup (STT + TTS) for OpenClaw using faster-whisper and Edge TTS",
+  "version": "1.0.3",
+  "author": {
+    "name": "aksenkin"
+  },
+  "homepage": "https://docs.openclaw.ai/nodes/audio",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aksenkin/voice-stt-tts"
+}

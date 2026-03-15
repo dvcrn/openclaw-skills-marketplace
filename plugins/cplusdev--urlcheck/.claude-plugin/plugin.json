@@ -1,0 +1,10 @@
+{
+  "name": "cplusdev--urlcheck",
+  "description": "Companion skill for @cybrlab/urlcheck-openclaw. Requires URLCheck plugin tools to assess URLs for threats and intent alignment before navigation.",
+  "version": "1.0.4",
+  "author": {
+    "name": "cplusdev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cplusdev/urlcheck",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cplusdev/urlcheck"
+}

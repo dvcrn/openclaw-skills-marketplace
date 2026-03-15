@@ -1,0 +1,10 @@
+{
+  "name": "earthwalking--literature-search-workflow",
+  "description": "Standardized literature search workflow integrating tavily-search, pubmed-database, bgpt-paper-search, openalex-database and other academic search skills. Provides complete literature search process from query analysis to literature acquisition.",
+  "version": "1.0.0",
+  "author": {
+    "name": "earthwalking"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/earthwalking/literature-search-workflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/earthwalking/literature-search-workflow"
+}

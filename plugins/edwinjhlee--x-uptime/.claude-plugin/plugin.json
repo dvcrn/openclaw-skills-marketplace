@@ -1,0 +1,10 @@
+{
+  "name": "edwinjhlee--x-uptime",
+  "description": "Enhanced `uptime` with structured YAML output showing \n uptime, users, and 1/5/15-minute load averages.\n \n **Dependency**: This is an x-cmd module. Install x-cmd first (see x-cmd skill for installation options).\n see x-cmd skill for installation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "edwinjhlee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/edwinjhlee/x-uptime",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/edwinjhlee/x-uptime"
+}

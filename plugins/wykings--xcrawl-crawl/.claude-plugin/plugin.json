@@ -1,0 +1,10 @@
+{
+  "name": "wykings--xcrawl-crawl",
+  "description": "Use this skill for XCrawl crawl tasks, including bulk site crawling, crawler rule design, async status polling, and delivery of crawl output for downstream scrape and search workflows.",
+  "version": "1.0.2",
+  "author": {
+    "name": "wykings"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wykings/xcrawl-crawl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wykings/xcrawl-crawl"
+}

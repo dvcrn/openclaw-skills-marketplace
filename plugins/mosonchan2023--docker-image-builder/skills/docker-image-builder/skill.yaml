@@ -1,0 +1,12 @@
+name: docker-image-builder
+version: 1.0.0
+description: Build Docker images from Dockerfile
+category: Docker
+tags:
+  - docker
+  - image
+  - build
+  - dockerfile
+author: mosonchan2023
+price: 0.001
+currency: USDT

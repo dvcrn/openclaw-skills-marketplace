@@ -1,0 +1,10 @@
+{
+  "name": "qi812560784--tc-cheapflights",
+  "description": "同程特价机票查询与价格监控技能。通过第三方旅行平台API查询机票价格，支持自然语言解析、价格监控、降价推送（飞书）。当用户需要查询机票价格、监控特定航班价格波动、设置价格提醒时使用此技能。",
+  "version": "1.0.3",
+  "author": {
+    "name": "qi812560784"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qi812560784/tc-cheapflights",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qi812560784/tc-cheapflights"
+}

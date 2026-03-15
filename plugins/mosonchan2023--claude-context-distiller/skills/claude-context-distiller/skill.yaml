@@ -1,0 +1,12 @@
+name: claude-context-distiller
+version: 1.0.0
+description: Distill large context for better Claude performance
+category: Claude
+tags:
+  - claude
+  - context
+  - distillation
+  - summarize
+author: mosonchan2023
+price: 0.001
+currency: USDT

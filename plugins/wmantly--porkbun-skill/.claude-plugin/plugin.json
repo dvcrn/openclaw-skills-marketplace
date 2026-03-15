@@ -1,0 +1,10 @@
+{
+  "name": "wmantly--porkbun-skill",
+  "description": "Manage Porkbun DNS records and domains via API v3. Use when Codex needs to create, read, update, or delete DNS records on Porkbun; list domains; configure API access; work with common record types (A, AAAA, CNAME, MX, TXT, etc.). The skill includes a CLI tool `scripts/porkbun-dns.js` for executing DNS operations reliably.",
+  "version": "0.1.2",
+  "author": {
+    "name": "wmantly"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wmantly/porkbun-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wmantly/porkbun-skill"
+}

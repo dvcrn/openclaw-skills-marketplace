@@ -1,0 +1,10 @@
+{
+  "name": "jeremyknows--prism",
+  "description": "Parallel Review by Independent Specialist Models. Multi-agent review protocol\n that deploys 5+ specialist reviewers in parallel to eliminate confirmation bias\n and groupthink. v2 adds memory: reviewers see prior findings, verify fixes,\n and escalate ignored issues. The system improves with each run.\n Core insight: Disagreements are more valuable than consensus.",
+  "version": "2.0.1",
+  "author": {
+    "name": "jeremyknows"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jeremyknows/prism",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeremyknows/prism"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "silentcool--crusty-security",
+  "description": "Security and threat scanning skill for OpenClaw agents. Scans files and skills for malware. Monitors agent behavior for compromise indicators. Audits host security posture. Triggers on: \"scan this file\", \"is this safe\", \"virus scan\", \"malware check\", \"security scan\", \"scan for threats\", \"check this download\", \"quarantine\", \"scan my system\", \"threat report\", \"scheduled scan\", \"audit host security\", \"audit this skill\", \"check agent integrity\", \"security report\", \"monitor agent\".",
+  "version": "0.1.4",
+  "author": {
+    "name": "silentcool"
+  },
+  "homepage": "https://crustysecurity.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/silentcool/crusty-security"
+}

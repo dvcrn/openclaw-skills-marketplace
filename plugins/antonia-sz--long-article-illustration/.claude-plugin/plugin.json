@@ -1,0 +1,10 @@
+{
+  "name": "antonia-sz--long-article-illustration",
+  "description": "长文配图助手。为长篇文章自动划分段落、生成AI配图提示词并调用图像生成工具完成配图。适用场景：(1) 公众号/博客长文需要配图 (2) 用户上传文章希望获得段落配图建议 (3) 批量生成文章插图 (4) 用户提到\"文章配图\"\"长文插画\"\"段落配图\"等关键词时触发",
+  "version": "1.0.0",
+  "author": {
+    "name": "antonia-sz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/antonia-sz/long-article-illustration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/antonia-sz/long-article-illustration"
+}

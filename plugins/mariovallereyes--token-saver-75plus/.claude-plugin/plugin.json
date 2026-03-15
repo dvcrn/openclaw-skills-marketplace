@@ -1,0 +1,10 @@
+{
+  "name": "mariovallereyes--token-saver-75plus",
+  "description": "Always-on token optimization + model routing protocol. Auto-classifies requests (T1-T4), routes execution to the cheapest capable model via sessions_spawn, and applies maximum output compression. Target: 75%+ token savings.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mariovallereyes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mariovallereyes/token-saver-75plus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mariovallereyes/token-saver-75plus"
+}

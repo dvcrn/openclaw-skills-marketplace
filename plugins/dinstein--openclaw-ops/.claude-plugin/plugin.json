@@ -1,0 +1,10 @@
+{
+  "name": "dinstein--openclaw-ops",
+  "description": "Use when diagnosing, repairing, or maintaining an OpenClaw Gateway on the same machine. Designed for rescue agents to fix a down gateway or check operational health. Supports Linux (systemd) and macOS (launchd).",
+  "version": "1.2.1",
+  "author": {
+    "name": "dinstein"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dinstein/openclaw-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dinstein/openclaw-ops"
+}

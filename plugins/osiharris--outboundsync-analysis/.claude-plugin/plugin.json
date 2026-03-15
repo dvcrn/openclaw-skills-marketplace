@@ -1,0 +1,10 @@
+{
+  "name": "osiharris--outboundsync-analysis",
+  "description": "Analyze outbound campaign performance, reply rates, open-to-reply conversion, follow-up prioritization, platform attribution, and deliverability using OutboundSync engagement signals in HubSpot or Salesforce. Use this skill when someone asks about campaign replies, which sequences are working, who to follow up with, bounce or unsubscribe trends, or how platforms like Instantly, Smartlead, EmailBison, or HeyReach are performing. Also handles exploratory HeyReach social signal analysis. Read-only, local-only, deterministic preflight routing.",
+  "version": "0.1.1",
+  "author": {
+    "name": "osiharris"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/osiharris/outboundsync-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/osiharris/outboundsync-analysis"
+}

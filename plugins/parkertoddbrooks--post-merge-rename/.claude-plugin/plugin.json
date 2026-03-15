@@ -1,0 +1,10 @@
+{
+  "name": "parkertoddbrooks--post-merge-rename",
+  "description": "Post-merge branch renaming. Appends --merged-YYYY-MM-DD to preserve history.",
+  "version": "1.9.23",
+  "author": {
+    "name": "parkertoddbrooks"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/parkertoddbrooks/post-merge-rename",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/parkertoddbrooks/post-merge-rename"
+}

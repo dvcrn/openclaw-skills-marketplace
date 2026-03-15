@@ -1,0 +1,10 @@
+{
+  "name": "nwcalvin--poe-api-orchestrator",
+  "description": "Use Poe API to call specialized AI models (Claude-Opus, Claude-Sonnet, Gemini, GPT-Codex). Automatically spawn subagents for coding, UI/UX design, data analysis, and complex reasoning tasks. Main agent decides which specialized subagent to use based on task type.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nwcalvin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nwcalvin/poe-api-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nwcalvin/poe-api-orchestrator"
+}

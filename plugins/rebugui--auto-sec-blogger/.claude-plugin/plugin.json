@@ -1,0 +1,10 @@
+{
+  "name": "rebugui--auto-sec-blogger",
+  "description": "AI-powered security blog automation system (identical to github.com/rebugui/intelligence-agent). Collects news from Google News, arXiv, HackerNews → generates blog posts with GLM-4.7 → publishes to Notion → auto-deploys to GitHub Pages via Git. Features Human-in-the-Loop approval workflow. Use when you want to automate blog writing, news collection, or content generation with the exact functionality of the original intelligence-agent repository. Triggers: \"블로그 글 작성\", \"보안 뉴스 발행\", \"깃헙 블로그 발행\", \"intelligence agent\", \"지능형 에이전트\", \"자동 글쓰기\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "rebugui"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rebugui/auto-sec-blogger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rebugui/auto-sec-blogger"
+}

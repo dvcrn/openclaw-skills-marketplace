@@ -1,0 +1,10 @@
+{
+  "name": "arnarsson--ripgrep",
+  "description": "Blazingly fast text search tool - recursively searches directories for regex patterns with respect to gitignore rules.",
+  "version": "1.0.0",
+  "author": {
+    "name": "arnarsson"
+  },
+  "homepage": "https://github.com/BurntSushi/ripgrep",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arnarsson/ripgrep"
+}

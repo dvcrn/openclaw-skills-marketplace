@@ -1,0 +1,10 @@
+{
+  "name": "f-liva--ecovacs-mcp",
+  "description": "Control Ecovacs robot vacuums (DEEBOT series) via the official Ecovacs MCP server — start/stop/pause cleaning, send the robot to its dock, check battery and cleaning status, list devices. Use this skill whenever the user mentions their robot vacuum, DEEBOT, Ecovacs, floor cleaning robot, or wants to vacuum, mop, clean the house, check if the vacuum is charging, or send it home — even if they don't say \"Ecovacs\" explicitly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "f-liva"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/f-liva/ecovacs-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/f-liva/ecovacs-mcp"
+}

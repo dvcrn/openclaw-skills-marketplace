@@ -1,0 +1,10 @@
+{
+  "name": "wzy2008a--lightcloud-ai",
+  "description": "Integrate with Qingyun/Lightcloud (轻云) API to manage form documents - fetch access tokens, retrieve, create, update, and delete form data. Use this skill when users request to interact with Qingyun/Lightcloud API, get access tokens, retrieve/create/update/delete form data, or work with Qingyun documents. Triggers include mentions of \"轻云\", \"yunzhijia\", \"qingyun\", \"lightcloud\", or requests to fetch/create/update/delete form data, access tokens, or document operations from Qingyun platform.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wzy2008a"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wzy2008a/lightcloud-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wzy2008a/lightcloud-ai"
+}

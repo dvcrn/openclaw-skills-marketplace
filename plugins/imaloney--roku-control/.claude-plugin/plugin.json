@@ -1,0 +1,10 @@
+{
+  "name": "imaloney--roku-control",
+  "description": "Control Roku devices via local network (ECP protocol). Use when the user wants to control their Roku TV or streaming device, change channels, launch apps (Netflix, YouTube, Hulu, etc.), navigate menus, adjust volume, play/pause content, search for shows, or power off. Works over LAN with no authentication required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "imaloney"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imaloney/roku-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imaloney/roku-control"
+}

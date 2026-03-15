@@ -1,0 +1,10 @@
+{
+  "name": "nmadeleidev--google-search-console-cli",
+  "description": "Use this skill when working with this repository's `gsc` CLI, including Google Cloud OAuth client setup, CLI authentication, troubleshooting auth/config issues, and running all supported commands (site, sitemap, url inspection, analytics, doctor, config).",
+  "version": "1.0.0",
+  "author": {
+    "name": "nmadeleidev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nmadeleidev/google-search-console-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nmadeleidev/google-search-console-cli"
+}

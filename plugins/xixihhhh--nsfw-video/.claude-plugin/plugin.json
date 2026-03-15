@@ -1,0 +1,10 @@
+{
+  "name": "xixihhhh--nsfw-video",
+  "description": "Generate AI videos for mature creative projects using Wan 2.2 Spicy (LoRA-tuned for NSFW, top recommended), Wan 2.6, Seedance 1.5, Vidu Q3-Pro, and other models with relaxed content policies via Atlas Cloud API. Designed for adult (18+) artistic and professional use cases including artistic film, fashion video, choreography, and mature animation. Wan 2.2 Spicy is purpose-built for mature content with LoRA fine-tuning at just $0.03/s. Also includes Wan 2.6 (up to 15s 1080p, audio-guided), Seedance v1.5 Pro (native audio-visual), and Vidu Q3-Pro (anime support). Supports text-to-video, image-to-video, and video-to-video. Use this skill when the user explicitly requests NSFW or mature video generation for legitimate adult creative work.",
+  "version": "1.0.7",
+  "author": {
+    "name": "xixihhhh"
+  },
+  "homepage": "https://github.com/AtlasCloudAI/nano-banana-2-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xixihhhh/nsfw-video"
+}

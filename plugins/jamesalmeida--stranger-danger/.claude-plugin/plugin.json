@@ -1,0 +1,10 @@
+{
+  "name": "jamesalmeida--stranger-danger",
+  "description": "Give your AI agent a safe word. Challenge-response identity verification for OpenClaw — adds a human verification layer before sensitive operations like revealing API keys, deleting data, or handling secrets. Answer is bcrypt-hashed and stored in macOS Keychain.",
+  "version": "1.0.2",
+  "author": {
+    "name": "jamesalmeida"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamesalmeida/stranger-danger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamesalmeida/stranger-danger"
+}

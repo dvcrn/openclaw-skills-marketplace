@@ -1,0 +1,10 @@
+{
+  "name": "zed-venus--venus-agent-skills",
+  "description": "Analyze Venus Protocol lending/borrowing positions on BNB Chain with risk-first guidance. Use when users ask about Venus markets, collateral/borrow decisions, health factor, liquidation risk, APY/utilization comparison, isolated pools, or \"can I borrow X safely\" style what-if checks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zed-venus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zed-venus/venus-agent-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zed-venus/venus-agent-skills"
+}

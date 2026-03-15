@@ -1,0 +1,10 @@
+{
+  "name": "darrryz--openclaw-wecom-channel",
+  "description": "企业微信 (WeCom) Channel 插件 — 让 OpenClaw AI Agent 通过企业微信收发消息。支持消息加解密、Token 自动管理、访问控制策略。",
+  "version": "0.1.0",
+  "author": {
+    "name": "darrryz"
+  },
+  "homepage": "https://github.com/darrryZ/openclaw-wecom-channel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/darrryz/openclaw-wecom-channel"
+}

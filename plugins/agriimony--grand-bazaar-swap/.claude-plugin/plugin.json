@@ -1,0 +1,10 @@
+{
+  "name": "agriimony--grand-bazaar-swap",
+  "description": "Perform and document Grand Bazaar P2P swaps on Base using deployed AirSwap Swap contracts. Includes repeatable workflows for approvals, EIP-712 signing, cast/deeplink posting, execution, and verification across ERC20/ERC721/ERC1155 routes.",
+  "version": "0.1.0",
+  "author": {
+    "name": "agriimony"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agriimony/grand-bazaar-swap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agriimony/grand-bazaar-swap"
+}

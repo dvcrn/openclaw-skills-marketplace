@@ -1,0 +1,10 @@
+{
+  "name": "tag-assistant--pi",
+  "description": "Personal investigator / people lookup skill. Deep background research on any person using public records, court documents, property records, social media, corporate filings, and web OSINT. Use when asked to look up, investigate, research, or find information about a person — including court records, traffic infractions, property ownership, career history, social media profiles, corporate affiliations, family connections, and contact details. Also use for \"find everything about [person]\", \"background check\", \"dig up info on\", \"what can you find on\", or any people-search request.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tag-assistant"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tag-assistant/pi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tag-assistant/pi"
+}

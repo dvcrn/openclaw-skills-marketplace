@@ -1,0 +1,10 @@
+{
+  "name": "aaigotchi--aavegotchi-traits",
+  "description": "Retrieve Aavegotchi NFT data by gotchi ID or name on Base. Returns traits, wearables, rarity scores, kinship, XP, level, and owner data.",
+  "version": "1.1.0",
+  "author": {
+    "name": "aaigotchi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaigotchi/aavegotchi-traits",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaigotchi/aavegotchi-traits"
+}

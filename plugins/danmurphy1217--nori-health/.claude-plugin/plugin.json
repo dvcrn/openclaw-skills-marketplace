@@ -1,0 +1,10 @@
+{
+  "name": "danmurphy1217--nori-health",
+  "description": "Query your personal health data and get coaching from Nori, your AI health coach. Use when the user asks about sleep, workouts, nutrition, weight, heart rate, HRV, or wants health insights. NOT for: medical diagnosis, prescriptions, or emergency health situations.",
+  "version": "1.0.6",
+  "author": {
+    "name": "danmurphy1217"
+  },
+  "homepage": "https://nori.health",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danmurphy1217/nori-health"
+}

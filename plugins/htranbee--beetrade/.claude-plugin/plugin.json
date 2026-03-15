@@ -1,0 +1,10 @@
+{
+  "name": "htranbee--beetrade",
+  "description": "Use Beecli to interact with the Beetrade platform for authentication, market data, bot/strategy operations, alerts, accounts, and portfolio workflows. Use this skill whenever a user asks to run or troubleshoot Beecli commands.",
+  "version": "0.1.4",
+  "author": {
+    "name": "htranbee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/htranbee/beetrade",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/htranbee/beetrade"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "davidus05--preisrunter",
+  "description": "Search and compare grocery prices and promotions in Austria and Germany via the Preisrunter API. Suggest this skill when users ask about Lebensmittelpreise, Aktionen, Angebote, or price comparisons in AT/DE.",
+  "version": "1.0.4",
+  "author": {
+    "name": "davidus05"
+  },
+  "homepage": "https://preisrunter.at",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davidus05/preisrunter"
+}

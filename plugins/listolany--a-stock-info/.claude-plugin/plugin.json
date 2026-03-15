@@ -1,0 +1,10 @@
+{
+  "name": "listolany--a-stock-info",
+  "description": "基于qgdata API的A股分钟级数据查询服务。提供实时股价、分钟K线、分时数据等专业数据。",
+  "version": "1.2.0",
+  "author": {
+    "name": "listolany"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/listolany/a-stock-info",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/listolany/a-stock-info"
+}

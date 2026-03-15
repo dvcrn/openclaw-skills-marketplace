@@ -1,0 +1,10 @@
+{
+  "name": "azzgo--aria2-json-rpc",
+  "description": "Interact with aria2 download manager via JSON-RPC 2.0. Manage downloads, query status, and control tasks through natural language commands. Use when working with aria2, download management, or torrent operations.",
+  "version": "0.1.0",
+  "author": {
+    "name": "azzgo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/azzgo/aria2-json-rpc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/azzgo/aria2-json-rpc"
+}

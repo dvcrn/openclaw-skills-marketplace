@@ -1,0 +1,10 @@
+{
+  "name": "kenswj--things-mac-1-0-0",
+  "description": "Manage Things 3 via the `things` CLI on macOS (add/update projects+todos via URL scheme; read/search/list from the local Things database). Use when a user asks Clawdbot to add a task to Things, list inbox/today/upcoming, search tasks, or inspect projects/areas/tags.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kenswj"
+  },
+  "homepage": "https://github.com/ossianhempel/things3-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kenswj/things-mac-1-0-0"
+}

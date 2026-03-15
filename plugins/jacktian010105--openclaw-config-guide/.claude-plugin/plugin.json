@@ -1,0 +1,10 @@
+{
+  "name": "jacktian010105--openclaw-config-guide",
+  "description": "OpenClaw configuration management best practices and common pitfalls. Use when: (1) User needs to modify OpenClaw configuration, (2) User asks about config paths or structure, (3) User encountered config errors, (4) Adding new providers or channels, (5) Before making any config changes - to avoid common mistakes like wrong paths or direct JSON editing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jacktian010105"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jacktian010105/openclaw-config-guide",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jacktian010105/openclaw-config-guide"
+}

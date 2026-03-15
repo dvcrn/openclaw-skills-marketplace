@@ -1,0 +1,10 @@
+{
+  "name": "autoxj--gitcode-issue-reply",
+  "description": "Generate reply drafts for a single GitCode issue with similar-issue references; maintainer reviews before posting. Use when user asks to reply to or comment on an issue and provides a GitCode issue link; do not use when user only wants to fetch or query issue data. 针对单个 GitCode Issue 生成回复草稿（含相似 Issue 参考），维护者审阅后可发送评论；仅当用户要回复或评论且提供链接时使用，仅获取或查询 issue 信息时勿用。Python 3.7+ standard library only (requests optional for DeepWiki).",
+  "version": "1.0.0",
+  "author": {
+    "name": "autoxj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/autoxj/gitcode-issue-reply",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/autoxj/gitcode-issue-reply"
+}

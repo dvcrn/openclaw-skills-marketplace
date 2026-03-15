@@ -1,0 +1,10 @@
+{
+  "name": "thuongvh2-python--tiktok-motivation-video",
+  "description": "Full AI pipeline to create dark motivational TikTok/Reels videos using REAL video footage. Generates script (Claude), voiceover (ElevenLabs), searches real dark/cinematic video clips from Pexels API (no AI image generation), adds animated text overlays (MoviePy), color grading (FFmpeg), and exports final 1080x1920 MP4. Use this skill for: motivation video, dark aesthetic TikTok, pixel motivation reel, AI motivation video with voice, vuongmilano style video.",
+  "version": "1.0.0",
+  "author": {
+    "name": "thuongvh2-python"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thuongvh2-python/tiktok-motivation-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thuongvh2-python/tiktok-motivation-video"
+}

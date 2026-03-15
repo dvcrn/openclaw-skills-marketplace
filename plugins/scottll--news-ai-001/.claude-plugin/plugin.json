@@ -1,0 +1,10 @@
+{
+  "name": "scottll--news-ai-001",
+  "description": "Delivers a daily news digest to a Discord channel via webhook. Use this skill whenever the user wants to: send today's news to Discord, set up an automated daily news briefing, post AI/tech headlines to a Discord server, configure a news bot for Discord, or get a morning digest of top stories. Trigger even if the user says things like \"news to discord\", \"daily briefing\", \"morning headlines\", or \"news bot\". This skill handles both one-off sends and recurring scheduled deliveries.",
+  "version": "1.0.0",
+  "author": {
+    "name": "scottll"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/scottll/news-ai-001",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scottll/news-ai-001"
+}

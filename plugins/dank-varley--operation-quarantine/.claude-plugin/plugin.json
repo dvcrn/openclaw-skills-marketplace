@@ -1,0 +1,10 @@
+{
+  "name": "dank-varley--operation-quarantine",
+  "description": "Prompt injection defense for OpenClaw agents. Scans emails and skill installations through a two-phase security pipeline (pattern matching + optional LLM analysis) before untrusted content enters your context. Use before reading any email body content or installing any skill from ClawHub.",
+  "version": "1.0.3",
+  "author": {
+    "name": "dank-varley"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dank-varley/operation-quarantine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dank-varley/operation-quarantine"
+}

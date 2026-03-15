@@ -1,0 +1,10 @@
+{
+  "name": "nissan--langfuse-backup",
+  "description": "Docker volume backup and restore for self-hosted Langfuse. Use when: backing up a self-hosted Langfuse instance, restoring Langfuse after a crash or migration, setting up daily cron backups for Langfuse postgres/clickhouse/minio/redis volumes. Backs up postgres (traces, scores), minio (blobs), with optional clickhouse and redis. Includes restore script with validation and 14-day retention pruning.",
+  "version": "1.0.1",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/langfuse-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/langfuse-backup"
+}

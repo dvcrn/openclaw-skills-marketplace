@@ -1,0 +1,10 @@
+{
+  "name": "zjianru--ops-framework",
+  "description": "A 0-token jobs + monitoring framework for OpenClaw: run long-running read tasks via scripts, checkpoint/resume safely, and send periodic progress + immediate alerts to Telegram. Write jobs are blocked by default and must be explicitly approved and verified.",
+  "version": "0.1.0",
+  "author": {
+    "name": "zjianru"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zjianru/ops-framework",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zjianru/ops-framework"
+}

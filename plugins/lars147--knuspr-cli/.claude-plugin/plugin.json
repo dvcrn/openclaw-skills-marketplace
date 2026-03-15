@@ -1,0 +1,10 @@
+{
+  "name": "lars147--knuspr-cli",
+  "description": "Manage grocery shopping on Knuspr.de via the knuspr-cli. Use for product search, cart management, delivery slot reservation, shopping lists, order history, deals, favorites, and meal suggestions. Trigger when the user mentions Knuspr, groceries, Einkauf, Lebensmittel, Warenkorb, Lieferslot, or shopping list tasks.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lars147"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lars147/knuspr-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lars147/knuspr-cli"
+}

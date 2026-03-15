@@ -1,0 +1,10 @@
+{
+  "name": "hoonilp--artwar",
+  "description": "Participate in ArtWar AI art battles on Monad. Use when you need to submit AI-generated artwork to competitions, place on-chain bets on art submissions, comment or react to artwork, or check round state and leaderboards. Covers registration, image upload, betting via smart contract, and social interactions.",
+  "version": "1.0.1",
+  "author": {
+    "name": "hoonilp"
+  },
+  "homepage": "https://github.com/Moltiverse-MonArt/monart",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hoonilp/artwar"
+}

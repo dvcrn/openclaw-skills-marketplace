@@ -1,0 +1,10 @@
+{
+  "name": "baiyishr--truthcheck",
+  "description": "Verify claims, fact-check content, check URL trustworthiness, and trace claims to their origin using the TruthCheck CLI. Use when: (1) user asks to fact-check or verify a claim, (2) user wants to check if a URL/source is trustworthy, (3) user wants to trace where a claim originated, (4) user asks about misinformation or content verification. Requires: pip install truthcheck",
+  "version": "0.4.3",
+  "author": {
+    "name": "baiyishr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/baiyishr/truthcheck",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/baiyishr/truthcheck"
+}

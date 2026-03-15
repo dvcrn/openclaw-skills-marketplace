@@ -1,0 +1,10 @@
+{
+  "name": "maverick-ai-tech--smartbill-invoicing",
+  "description": "Issue SmartBill invoices through the SmartBill.ro API with local automation. Use for SmartBill tasks such as validating invoice payloads, creating invoices, listing available document series, and downloading invoice PDFs by series and number.",
+  "version": "1.0.9",
+  "author": {
+    "name": "maverick-ai-tech"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-ai-tech/smartbill-invoicing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-ai-tech/smartbill-invoicing"
+}

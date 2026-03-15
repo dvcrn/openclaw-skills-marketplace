@@ -1,0 +1,227 @@
+# crew_routing_and_dispatch — GitLab Duo Workflow
+# Spec: GitLab Duo Workflows YAML v1 (requires GitLab Premium + Duo license)
+# MCP server: tradesman-verify (https://gitlab.com/tradesmantools1/tradesman-verify)
+#
+# Purpose: Given a verified job record, find the best available crew member whose
+#          blockchain credentials match the job requirements, and dispatch them.
+#
+# Trigger: Downstream from tradesman_job_intake, or manually with a job_id
+
+name: crew_routing_and_dispatch
+version: "1.0"
+description: >
+  Route a verified job to the most qualified available crew member. Checks each
+  candidate's blockchain credentials, matches license type and jurisdiction, and
+  dispatches the first fully-qualified match. Falls back to human review if no
+  qualified candidate is found.
+
+metadata:
+  category: trades_operations
+  tags: [dispatch, crew, routing, verification, accumulate]
+  mcp_server: tradesman-verify
+  author: TradesmanTools / LV8R Labs
+  gitlab_catalog_listing: tradesmantools1/tradesman-verify
+
+inputs:
+  job_id:
+    type: string
+    description: "Job record ID from tradesman_job_intake"
+    required: true
+
+  job_type:
+    type: string
+    description: >
+      License type required for this job (e.g. "electrical", "plumbing", "hvac", "roofing").
+      Matched against ContractorLicense.claims.licenseType.
+    required: true
+
+  job_state:
+    type: string
+    description: >
+      US state abbreviation where work will be performed (e.g. "TX", "CA").
+      Matched against ContractorLicense.claims.licenseState.
+    required: true
+
+  minimum_verification_level:
+    type: string
+    description: >
+      Minimum blockchain verification level required for this assignment.
+      One of: basic | kyc | enhanced. Defaults to "kyc".
+    default: "kyc"
+
+  candidate_adi_urls:
+    type: array
+    description: >
+      Ordered list of candidate contractor ADI URLs to evaluate, highest priority first.
+      e.g. ["acc://alice-electric.acme", "acc://bob-electric.acme"]
+    items:
+      type: string
+    required: true
+
+steps:
+  # ── Step 1: Verify first candidate ───────────────────────────────────────────
+  - id: verify_candidate_1
+    name: "Verify Primary Candidate"
+    description: >
+      Check the first (highest-priority) candidate's blockchain credentials.
+    type: agent_tool
+    tool:
+      name: verify_contractor
+      server: tradesman-verify
+    with:
+      adi_url: "${{ inputs.candidate_adi_urls[0] }}"
+      require_kyc: "true"
+      require_license: "true"
+      require_insurance: "true"
+    outputs:
+      - name: candidate_1_result
+        from: $
+      - name: candidate_1_verified
+        from: verified
+      - name: candidate_1_level
+        from: level
+      - name: candidate_1_license_type
+        from: credentials.license.license_type
+      - name: candidate_1_license_state
+        from: credentials.license.license_state
+
+  # ── Step 2: Route candidate 1 ────────────────────────────────────────────────
+  - id: route_candidate_1
+    name: "Qualify Primary Candidate"
+    type: condition
+    if: >
+      "${{ steps.verify_candidate_1.outputs.candidate_1_verified == true
+          && steps.verify_candidate_1.outputs.candidate_1_license_type == inputs.job_type
+          && steps.verify_candidate_1.outputs.candidate_1_license_state == inputs.job_state }}"
+    then:
+      next: dispatch_candidate_1
+    else:
+      next: verify_candidate_2
+
+  # ── Step 3: Dispatch candidate 1 ─────────────────────────────────────────────
+  - id: dispatch_candidate_1
+    name: "Dispatch Primary Candidate"
+    type: agent_tool
+    tool:
+      name: assign_job
+      server: tradesman-tools
+    with:
+      job_id: "${{ inputs.job_id }}"
+      contractor_adi_url: "${{ inputs.candidate_adi_urls[0] }}"
+      verification_level: "${{ steps.verify_candidate_1.outputs.candidate_1_level }}"
+      assignment_reason: "Primary candidate — credentials verified"
+    outputs:
+      - name: assignment_id
+        from: assignment_id
+      - name: assigned_adi_url
+        from: contractor_adi_url
+
+  # ── Step 4: Verify second candidate (fallback) ────────────────────────────────
+  - id: verify_candidate_2
+    name: "Verify Fallback Candidate"
+    type: agent_tool
+    tool:
+      name: verify_contractor
+      server: tradesman-verify
+    with:
+      adi_url: "${{ inputs.candidate_adi_urls[1] }}"
+      require_kyc: "true"
+      require_license: "true"
+      require_insurance: "true"
+    outputs:
+      - name: candidate_2_result
+        from: $
+      - name: candidate_2_verified
+        from: verified
+      - name: candidate_2_level
+        from: level
+      - name: candidate_2_license_type
+        from: credentials.license.license_type
+      - name: candidate_2_license_state
+        from: credentials.license.license_state
+
+  # ── Step 5: Route candidate 2 ────────────────────────────────────────────────
+  - id: route_candidate_2
+    name: "Qualify Fallback Candidate"
+    type: condition
+    if: >
+      "${{ steps.verify_candidate_2.outputs.candidate_2_verified == true
+          && steps.verify_candidate_2.outputs.candidate_2_license_type == inputs.job_type
+          && steps.verify_candidate_2.outputs.candidate_2_license_state == inputs.job_state }}"
+    then:
+      next: dispatch_candidate_2
+    else:
+      next: no_qualified_candidate
+
+  # ── Step 6: Dispatch candidate 2 ─────────────────────────────────────────────
+  - id: dispatch_candidate_2
+    name: "Dispatch Fallback Candidate"
+    type: agent_tool
+    tool:
+      name: assign_job
+      server: tradesman-tools
+    with:
+      job_id: "${{ inputs.job_id }}"
+      contractor_adi_url: "${{ inputs.candidate_adi_urls[1] }}"
+      verification_level: "${{ steps.verify_candidate_2.outputs.candidate_2_level }}"
+      assignment_reason: "Fallback candidate — primary did not qualify"
+    outputs:
+      - name: assignment_id
+        from: assignment_id
+      - name: assigned_adi_url
+        from: contractor_adi_url
+
+  # ── Step 7: No qualified candidate — escalate to human ───────────────────────
+  - id: no_qualified_candidate
+    name: "No Qualified Candidate — Manual Dispatch"
+    type: human_review
+    prompt: |
+      No automatically qualified candidate found for job ${{ inputs.job_id }}.
+
+      Job requirements:
+      - Type: ${{ inputs.job_type }}
+      - State: ${{ inputs.job_state }}
+      - Minimum level: ${{ inputs.minimum_verification_level }}
+
+      Candidates evaluated:
+      - ${{ inputs.candidate_adi_urls[0] }}: level=${{ steps.verify_candidate_1.outputs.candidate_1_level }}, license_type=${{ steps.verify_candidate_1.outputs.candidate_1_license_type }}, license_state=${{ steps.verify_candidate_1.outputs.candidate_1_license_state }}
+      - ${{ inputs.candidate_adi_urls[1] }}: level=${{ steps.verify_candidate_2.outputs.candidate_2_level }}, license_type=${{ steps.verify_candidate_2.outputs.candidate_2_license_type }}, license_state=${{ steps.verify_candidate_2.outputs.candidate_2_license_state }}
+
+      Select a contractor for manual dispatch or cancel this job.
+    on_approve:
+      next: manual_dispatch_approved
+    on_reject:
+      next: cancel_job
+
+  # ── Step 8: Manual dispatch (human-approved override) ────────────────────────
+  - id: manual_dispatch_approved
+    name: "Manual Dispatch Approved"
+    type: agent_tool
+    tool:
+      name: assign_job
+      server: tradesman-tools
+    with:
+      job_id: "${{ inputs.job_id }}"
+      contractor_adi_url: "manual_override"
+      verification_level: "exception_approved"
+      assignment_reason: "Manual dispatch — no auto-qualified candidate"
+    outputs:
+      - name: assignment_id
+        from: assignment_id
+
+  # ── Step 9: Cancel job ────────────────────────────────────────────────────────
+  - id: cancel_job
+    name: "Cancel Job"
+    type: agent_tool
+    tool:
+      name: cancel_job_record
+      server: tradesman-tools
+    with:
+      job_id: "${{ inputs.job_id }}"
+      reason: "No qualified contractor available for job type and state"
+
+outputs:
+  - name: assignment_id
+    from: steps.dispatch_candidate_1.outputs.assignment_id
+  - name: assigned_adi_url
+    from: steps.dispatch_candidate_1.outputs.assigned_adi_url

@@ -1,0 +1,10 @@
+{
+  "name": "klautimus--openclaw-token-memory-optimizer",
+  "description": "Optimization suite for OpenClaw agents to prevent token leaks and context bloat. Use when an agent needs to implement background task isolation (Cron) or a Reset & Summarize workflow (RAG).",
+  "version": "1.0.0",
+  "author": {
+    "name": "klautimus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/klautimus/openclaw-token-memory-optimizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/klautimus/openclaw-token-memory-optimizer"
+}

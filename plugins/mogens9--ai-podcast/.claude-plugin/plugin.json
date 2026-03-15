@@ -1,0 +1,10 @@
+{
+  "name": "mogens9--ai-podcast",
+  "description": "Generate AI podcast episodes from PDFs, text, notes, and links using MagicPodcast in OpenClaw. Creates natural two-person dialogue audio, supports custom language, and returns podcast links with progress tracking in the MagicPodcast dashboard. Use for PDF-to-podcast, text-to-podcast, and fast content-to-audio workflows.",
+  "version": "1.0.11",
+  "author": {
+    "name": "mogens9"
+  },
+  "homepage": "https://www.magicpodcast.app",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mogens9/ai-podcast"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "@openclaw/skill-pattern-miner",
+  "version": "1.0.0",
+  "description": "Pattern Miner - Intelligent pattern recognition and actionable insights from multi-source data",
+  "main": "dist/index.js",
+  "bin": {
+    "pattern-miner": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/cli.ts",
+    "test": "jest",
+    "lint": "eslint src/**/*.ts",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "pattern-mining",
+    "machine-learning",
+    "clustering",
+    "association-rules",
+    "insights"
+  ],
+  "author": "OpenClaw",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.2.0",
+    "glob": "^10.3.10",
+    "lodash": "^4.17.21",
+    "date-fns": "^3.0.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.6",
+    "@types/fs-extra": "^11.0.4",
+    "@types/lodash": "^4.14.202",
+    "typescript": "^5.3.3",
+    "ts-node": "^10.9.2",
+    "jest": "^29.7.0",
+    "@types/jest": "^29.5.11",
+    "eslint": "^8.56.0",
+    "@typescript-eslint/eslint-plugin": "^6.16.0",
+    "@typescript-eslint/parser": "^6.16.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "skill": {
+    "name": "pattern-miner",
+    "category": "analysis",
+    "entry": "dist/cli.js",
+    "pythonDependencies": [
+      "tree-sitter",
+      "numpy",
+      "scikit-learn",
+      "pandas"
+    ]
+  }
+}

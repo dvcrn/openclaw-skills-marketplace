@@ -1,0 +1,10 @@
+{
+  "name": "biao29--til",
+  "description": "Capture and manage TIL (Today I Learned) entries on OpenTIL. Use /til <content> to capture, /til to extract insights from conversation, or /til list|publish|edit|search|delete|status|sync|tags|categories|batch to manage entries -- all without leaving the CLI.",
+  "version": "1.11.0",
+  "author": {
+    "name": "biao29"
+  },
+  "homepage": "https://opentil.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/biao29/til"
+}

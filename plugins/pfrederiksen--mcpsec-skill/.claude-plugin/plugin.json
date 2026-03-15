@@ -1,0 +1,10 @@
+{
+  "name": "pfrederiksen--mcpsec-skill",
+  "description": "Scan MCP server configuration files for security vulnerabilities using mcpsec (OWASP MCP Top 10). Use when: auditing MCP tool configs for prompt injection, hardcoded secrets, missing auth, insecure transport, or excessive permissions. Auto-discovers config files for Claude Desktop, Cursor, VS Code, and custom paths. Reports findings by severity. Read-only — never modifies any config.",
+  "version": "1.0.3",
+  "author": {
+    "name": "pfrederiksen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pfrederiksen/mcpsec-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pfrederiksen/mcpsec-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "baoduy--drunk-trading-analyzer",
+  "description": "Multi-source trading analyzer (`/drunk-trading-analyzer`) combining crypto data (TradingView), stock data (Alpha Vantage), and market intelligence (Yahoo Finance) into unified analysis reports with price trends, technical indicators, and sentiment analysis.",
+  "version": "0.0.6",
+  "author": {
+    "name": "baoduy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/baoduy/drunk-trading-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/baoduy/drunk-trading-analyzer"
+}

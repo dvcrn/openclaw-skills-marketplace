@@ -1,0 +1,10 @@
+{
+  "name": "justasknudge--daily-briefing-skill",
+  "description": "Automated daily morning briefing generator. Fetches weather, calendar, news, AI/tech updates, OpenClaw insights, and actionable tips. Delivers via iMessage at 7am daily.",
+  "version": "0.1.0",
+  "author": {
+    "name": "justasknudge"
+  },
+  "homepage": "https://github.com/nudge/openclaw-skills/tree/main/daily-briefing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/justasknudge/daily-briefing-skill"
+}

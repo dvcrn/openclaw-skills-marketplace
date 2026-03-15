@@ -1,0 +1,10 @@
+{
+  "name": "ant-1984--authenticate-openant",
+  "description": "Sign in to OpenAnt. Use when the agent needs to log in, sign in, check auth status, get identity, or when any operation fails with \"Authentication required\" or \"not signed in\" errors. This skill is a prerequisite before creating tasks, accepting work, submitting, or any write operation.",
+  "version": "0.1.1",
+  "author": {
+    "name": "ant-1984"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/authenticate-openant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/authenticate-openant"
+}

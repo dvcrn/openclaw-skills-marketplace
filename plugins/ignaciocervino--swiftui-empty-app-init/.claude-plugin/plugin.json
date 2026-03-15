@@ -1,0 +1,10 @@
+{
+  "name": "ignaciocervino--swiftui-empty-app-init",
+  "description": "Initialize a minimal SwiftUI iOS app in the current directory by generating a single `.xcodeproj` with XcodeGen (no workspaces, packages, or tests unless explicitly requested).",
+  "version": "1.0.0",
+  "author": {
+    "name": "ignaciocervino"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ignaciocervino/swiftui-empty-app-init",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ignaciocervino/swiftui-empty-app-init"
+}

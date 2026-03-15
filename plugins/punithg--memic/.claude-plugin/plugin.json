@@ -1,0 +1,10 @@
+{
+  "name": "punithg--memic",
+  "description": "Context engineering platform for AI agents. Upload documents, search with semantic + structured queries, and inject relevant context into LLM prompts. Supports RAG, Text2SQL, hybrid search, metadata filters, and multi-tenant isolation. Use this skill to integrate Memic into any AI agent, copilot, or application that needs grounded context from documents and databases.",
+  "version": "1.0.4",
+  "author": {
+    "name": "punithg"
+  },
+  "homepage": "https://app.memic.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/punithg/memic"
+}

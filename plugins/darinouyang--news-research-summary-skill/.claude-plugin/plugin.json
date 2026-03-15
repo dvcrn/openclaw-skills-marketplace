@@ -1,0 +1,10 @@
+{
+  "name": "darinouyang--news-research-summary-skill",
+  "description": "Researches news and factual information on the web, then produces a cited, deduplicated summary tailored to constraints (topic, time range, region, sources, language, length, and angle). Use when the user asks to “检索资讯/搜集资料/查新闻/整理资料/做信息汇总/竞品动态/行业动态/政策解读/舆情摘要/日报周报” or requests a summary with sources/links.",
+  "version": "1.0.1",
+  "author": {
+    "name": "darinouyang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/darinouyang/news-research-summary-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/darinouyang/news-research-summary-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "gitgoodordietrying--ssh-tunnel",
+  "description": "SSH tunneling, port forwarding, and remote access patterns. Use when setting up local/remote/dynamic port forwards, configuring jump hosts, managing SSH keys, multiplexing connections, transferring files with scp/rsync, or debugging SSH connection issues.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gitgoodordietrying"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/ssh-tunnel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/ssh-tunnel"
+}

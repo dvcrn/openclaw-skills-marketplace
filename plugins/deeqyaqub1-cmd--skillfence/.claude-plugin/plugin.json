@@ -1,0 +1,10 @@
+{
+  "name": "deeqyaqub1-cmd--skillfence",
+  "description": "Runtime security monitor for OpenClaw skills. Watches what your installed skills actually DO — network calls, file access, credential reads, process activity. Not a scanner. A watchdog.",
+  "version": "1.0.6",
+  "author": {
+    "name": "deeqyaqub1-cmd"
+  },
+  "homepage": "https://cascadeai.dev/skillfence",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deeqyaqub1-cmd/skillfence"
+}

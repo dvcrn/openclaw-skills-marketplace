@@ -1,0 +1,10 @@
+{
+  "name": "mattboston--gsm-sms-gateway",
+  "description": "Send and receive SMS messages through a self-hosted SMS Gateway running on a USB GSM modem. Use when the user needs to send text messages, check for incoming messages, or manage SMS communications via a local gateway.",
+  "version": "0.0.4",
+  "author": {
+    "name": "mattboston"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mattboston/gsm-sms-gateway",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mattboston/gsm-sms-gateway"
+}

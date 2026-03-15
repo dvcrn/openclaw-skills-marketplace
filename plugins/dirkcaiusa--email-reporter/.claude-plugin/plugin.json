@@ -1,0 +1,10 @@
+{
+  "name": "dirkcaiusa--email-reporter",
+  "description": "Generic email reporting tool for OpenClaw agents. Auto-converts Markdown to PDF and sends as attachments.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dirkcaiusa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dirkcaiusa/email-reporter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dirkcaiusa/email-reporter"
+}

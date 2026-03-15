@@ -1,0 +1,10 @@
+{
+  "name": "spbavarva--openclaw-policy-check",
+  "description": "Scan repositories for risky security patterns before execution. Use when users ask for a quick preflight security check, policy enforcement scan, suspicious code triage, or detection of unsafe commands, secret leakage, and dangerous shell behavior.",
+  "version": "1.0.0",
+  "author": {
+    "name": "spbavarva"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spbavarva/openclaw-policy-check",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spbavarva/openclaw-policy-check"
+}

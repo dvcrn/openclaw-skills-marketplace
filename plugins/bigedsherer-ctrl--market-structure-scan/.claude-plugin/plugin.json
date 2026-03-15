@@ -1,0 +1,10 @@
+{
+  "name": "bigedsherer-ctrl--market-structure-scan",
+  "description": "Rule-based trading algorithm using Ichimoku (1H bias), Bollinger Bands, MACD, RSI(14) + 14-period smoothed MA, Fib ratios, EMA Ribbon (5,8,13,21,50), and Linear Regression. Calculates confluence score (0-7) and generates clear signals. Supports all markets. No BOS, CHOCH, SMC, ICT. Analysis only — no automatic execution.",
+  "version": "1.0.1",
+  "author": {
+    "name": "bigedsherer-ctrl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bigedsherer-ctrl/market-structure-scan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bigedsherer-ctrl/market-structure-scan"
+}

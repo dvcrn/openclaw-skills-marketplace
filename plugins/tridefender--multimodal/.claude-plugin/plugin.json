@@ -1,0 +1,10 @@
+{
+  "name": "tridefender--multimodal",
+  "description": "使用GLM-4.6V模型进行多模态内容理解（图片、视频、文档）",
+  "version": "1.0.0",
+  "author": {
+    "name": "tridefender"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tridefender/multimodal",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tridefender/multimodal"
+}

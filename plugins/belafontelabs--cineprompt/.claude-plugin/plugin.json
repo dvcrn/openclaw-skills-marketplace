@@ -1,0 +1,10 @@
+{
+  "name": "belafontelabs--cineprompt",
+  "description": "Build CinePrompt video prompts and share links without a browser. Converts natural language shot descriptions into structured CinePrompt state, generates prompt text, and creates shareable links (cineprompt.io/p/...). Use when asked to create video prompts, build CinePrompt links, describe shots for AI video generation, or batch-create prompts for a sequence of shots.",
+  "version": "1.0.1",
+  "author": {
+    "name": "belafontelabs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/belafontelabs/cineprompt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/belafontelabs/cineprompt"
+}

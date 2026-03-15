@@ -1,0 +1,10 @@
+{
+  "name": "cnwangjie--cmux",
+  "description": "Control cmux terminal multiplexer via its Unix socket API. Use when needing to: (1) List, create, select, or close workspaces; (2) Split panes and manage surfaces; (3) Send text or key presses to terminals; (4) Create notifications; (5) Set sidebar status, progress bars, or log entries; (6) Query system state. Requires cmux CLI or Unix socket at /tmp/cmux.sock.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cnwangjie"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cnwangjie/cmux",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cnwangjie/cmux"
+}

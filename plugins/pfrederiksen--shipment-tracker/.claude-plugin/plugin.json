@@ -1,0 +1,10 @@
+{
+  "name": "pfrederiksen--shipment-tracker",
+  "description": "Track packages across carriers (USPS, UPS, FedEx, DHL, Amazon, OnTrac, LaserShip). Use when: user asks about package status, adds a tracking number, wants delivery updates, or mentions shipments. Reads a markdown shipments file, auto-detects carrier from tracking number patterns, and checks status. Hybrid approach: tries direct HTTP first, recommends browser-use for JS-heavy carrier pages. ⚠️ Privacy: browser-use fallback sends tracking data to cloud services.",
+  "version": "1.1.1",
+  "author": {
+    "name": "pfrederiksen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pfrederiksen/shipment-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pfrederiksen/shipment-tracker"
+}

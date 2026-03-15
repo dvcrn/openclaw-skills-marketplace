@@ -1,0 +1,10 @@
+{
+  "name": "cepheiden--openbot-esxi",
+  "description": "Zero-touch Debian 13 VM deployment on VMware ESXi 8. Builds custom preseed ISO, creates NVMe+vmxnet3 VM with serial console, and runs unattended installation. Use when deploying Debian VMs on ESXi, automating VM provisioning, or setting up serial console access for headless ESXi VM management.",
+  "version": "0.1.3",
+  "author": {
+    "name": "cepheiden"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cepheiden/openbot-esxi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cepheiden/openbot-esxi"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bigbubbaagent-bot--miro-mcp",
+  "description": "Connect OpenClaw agents to Miro via Model Context Protocol (MCP). Use when generating diagrams, visualizing code, brainstorming board layouts, or integrating Miro into AI-powered design workflows. Supports OAuth 2.1 authentication, 14+ MCP-compatible clients (Cursor, Claude Code, Replit, Lovable, VSCode/Copilot, Gemini CLI, Windsurf, Kiro CLI, Amazon Q, others). Best for design thinking, architecture visualization, project planning, collaborative ideation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bigbubbaagent-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bigbubbaagent-bot/miro-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bigbubbaagent-bot/miro-mcp"
+}

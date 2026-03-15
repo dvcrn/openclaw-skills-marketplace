@@ -1,0 +1,10 @@
+{
+  "name": "hackjsw--subagent-orchestrator",
+  "description": "Orchestrate OpenClaw subagents for continuous autopilot workflows. Use when managing UI/代码/验证/档案/侦察 task lines, continuing multi-round work without waiting for the user to restate each step, cleaning finished sessions while preserving memory records, routing default models by role, or updating AGENT_TASK_BOARD / subagent handoff rules.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hackjsw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hackjsw/subagent-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hackjsw/subagent-orchestrator"
+}

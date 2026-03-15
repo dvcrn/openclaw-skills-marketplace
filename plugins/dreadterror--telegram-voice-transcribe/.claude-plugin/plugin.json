@@ -1,0 +1,10 @@
+{
+  "name": "dreadterror--telegram-voice-transcribe",
+  "description": "Transcribe Telegram voice messages and audio notes into text using the OpenAI Whisper API. Use when (1) a user sends a voice message or audio note via Telegram and you need to read or understand its content, (2) you receive a message with a voice file_id in the Telegram message metadata, (3) the user explicitly asks you to transcribe an audio file. Produces the transcript as plain text so you can respond naturally. Requires OPENAI_API_KEY env var and optionally TELEGRAM_BOT_TOKEN for file_id mode. NOT for live audio streams, video transcription, or non-Telegram audio pipelines (though the script supports local files and URLs too).",
+  "version": "1.3.0",
+  "author": {
+    "name": "dreadterror"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dreadterror/telegram-voice-transcribe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dreadterror/telegram-voice-transcribe"
+}

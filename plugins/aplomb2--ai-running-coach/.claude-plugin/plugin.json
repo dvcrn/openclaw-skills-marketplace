@@ -1,0 +1,10 @@
+{
+  "name": "aplomb2--ai-running-coach",
+  "description": "AI Running Coach — personalized training via IM with automatic Strava-driven plan adjustments. Use when the user asks about running training, workout plans, marathon/half-marathon/10K/5K preparation, today's workout, weekly schedule, running stats/records (fastest, longest, weekly mileage), Strava analysis, or wants to chat with an AI running coach. Triggers on: running plan, training plan, today's workout, running stats, Strava data, marathon training, running coach.",
+  "version": "1.0.1",
+  "author": {
+    "name": "aplomb2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aplomb2/ai-running-coach",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aplomb2/ai-running-coach"
+}

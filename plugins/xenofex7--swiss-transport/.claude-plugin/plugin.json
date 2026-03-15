@@ -1,0 +1,10 @@
+{
+  "name": "xenofex7--swiss-transport",
+  "description": "Swiss Public Transport real-time information. Use when querying train, bus, tram, or boat schedules in Switzerland. Supports station search, departure boards, journey planning from A to B, and connection details. Use for queries like \"When does the next train leave from Zürich?\" or \"How do I get from Bern to Geneva?\" or \"Show departures at Basel SBB\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "xenofex7"
+  },
+  "homepage": "https://transport.opendata.ch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xenofex7/swiss-transport"
+}

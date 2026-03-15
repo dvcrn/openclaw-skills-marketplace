@@ -1,0 +1,10 @@
+{
+  "name": "yangyuwen-bri--patent-retriever-bigquery",
+  "description": "Team ZeeLin’s production-grade patent evidence retrieval skill for Google Patents BigQuery.\n Converts natural-language research intent into auditable multi-round retrieval plans with explicit filters (keywords, country, date, assignee/inventor, IPC/CPC), and outputs validated JSON artifacts for downstream analysis and drafting.\n Triggers: patent search, prior art, google patents, bigquery patent, 专利检索, 专利查新, 技术情报.",
+  "version": "0.1.2",
+  "author": {
+    "name": "yangyuwen-bri"
+  },
+  "homepage": "https://github.com/yangyuwen-bri/patent-retriever-bigquery",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yangyuwen-bri/patent-retriever-bigquery"
+}

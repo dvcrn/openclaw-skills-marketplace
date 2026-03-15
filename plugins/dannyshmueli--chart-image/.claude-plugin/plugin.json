@@ -1,0 +1,10 @@
+{
+  "name": "dannyshmueli--chart-image",
+  "description": "Generate publication-quality chart images from data. Supports line, bar, area, point, candlestick, pie/donut, heatmap, multi-series, and stacked charts. Use when visualizing data, creating graphs, plotting time series, or generating chart images for reports/alerts. Designed for Fly.io/VPS deployments - no native compilation, no Puppeteer, no browser required. Pure Node.js with prebuilt binaries.",
+  "version": "2.5.1",
+  "author": {
+    "name": "dannyshmueli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dannyshmueli/chart-image",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dannyshmueli/chart-image"
+}

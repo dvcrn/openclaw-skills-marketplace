@@ -1,0 +1,10 @@
+{
+  "name": "fonilye--news-content",
+  "description": "输入新闻 URL，通过远程 API 高效提取网页的正文、标题、作者和时间。",
+  "version": "1.0.0",
+  "author": {
+    "name": "fonilye"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fonilye/news-content",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fonilye/news-content"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "geoly-geo--geo-structured-writer",
+  "description": "Format any content into AI-readable structured formats that maximize citation probability. Converts unstructured text into GEO-optimized layouts using headers, FAQs, tables, and definition blocks. Use whenever the user mentions reformatting content for AI search, structuring articles for AI citations, converting text to GEO-friendly format, adding FAQs and headers, or making pages AI-readable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "geoly-geo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/geoly-geo/geo-structured-writer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/geoly-geo/geo-structured-writer"
+}

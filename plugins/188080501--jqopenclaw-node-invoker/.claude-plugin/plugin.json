@@ -1,0 +1,10 @@
+{
+  "name": "188080501--jqopenclaw-node-invoker",
+  "description": "统一通过 Gateway 的 node.invoke 调用 JQOpenClawNode 能力（file.read、file.write、process.exec、process.manage、system.run、process.which、system.info、system.screenshot、system.notify、system.clipboard、system.input、node.selfUpdate）。当用户需要远程文件读写、文件移动/删除、目录创建/删除、进程管理（列表/搜索/终止）、远程进程执行、命令可执行性探测、系统信息采集、截图采集、系统弹窗、系统剪贴板读写、输入控制（鼠标/键盘）、节点自更新、节点命令可用性排查或修复 node.invoke 参数错误时使用。",
+  "version": "26.3.9",
+  "author": {
+    "name": "188080501"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/188080501/jqopenclaw-node-invoker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/188080501/jqopenclaw-node-invoker"
+}

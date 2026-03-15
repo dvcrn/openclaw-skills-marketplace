@@ -1,0 +1,10 @@
+{
+  "name": "wp-ai-dev--wooshpay",
+  "description": "WooshPay Payment Gateway Integration. For creating payments, checking order status, processing refunds, and managing checkout sessions.\n Use scenarios:\n - Create Payment Intent (direct channel payment link)\n - Create Checkout Session (WooshPay hosted checkout page)\n - Query Order Status\n - Process Refunds\n Requires WOOSHPAY_API_KEY environment variable to be configured",
+  "version": "1.0.2",
+  "author": {
+    "name": "wp-ai-dev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wp-ai-dev/wooshpay",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wp-ai-dev/wooshpay"
+}

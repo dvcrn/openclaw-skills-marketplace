@@ -1,0 +1,10 @@
+{
+  "name": "coolhackboy--poyo-grok-imagine",
+  "description": "Use PoYo AI Grok Imagine Video for short text-to-video and image-to-video generation with motion-style controls through the `https://api.poyo.ai/api/generate/submit` endpoint. Use when a user wants 6s or 10s clips, optional `mode` styling, or PoYo payloads for `grok-imagine`.",
+  "version": "1.0.0",
+  "author": {
+    "name": "coolhackboy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/coolhackboy/poyo-grok-imagine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/coolhackboy/poyo-grok-imagine"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "davidedicillo--codifica",
+  "description": "Keep context when work moves between agents or between you and a human. Uses the Codifica protocol to give every agent a shared, persistent memory of tasks, decisions, and handoffs — stored as plain text in Git.",
+  "version": "1.0.1",
+  "author": {
+    "name": "davidedicillo"
+  },
+  "homepage": "https://github.com/davidedicillo/codifica",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davidedicillo/codifica"
+}

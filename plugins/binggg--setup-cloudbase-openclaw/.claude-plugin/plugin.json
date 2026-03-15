@@ -1,0 +1,10 @@
+{
+  "name": "binggg--setup-cloudbase-openclaw",
+  "description": "CloudBase (腾讯云开发) 适用场景：全栈 Web、微信小程序、静态托管、云函数、云托管、文档/MySQL 数据库、身份认证、云存储等。用于在 OpenClaw/Moltbot 下配置 CloudBase（mcporter + 提示词约束，无脚本、设备码登录）。",
+  "version": "1.1.0",
+  "author": {
+    "name": "binggg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/binggg/setup-cloudbase-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/binggg/setup-cloudbase-openclaw"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "evanfen-c3--channel3-product-discovery",
+  "description": "Use this skill when you need real product data to answer a user's question — finding products, comparing prices, recommending items, or checking availability across retailers. This skill gives you a search script that queries a catalog of millions of products and returns structured results.\n\n Trigger for: \"find me X\", \"what's the best Y\", \"compare Z\", \"best X under $N\", product recommendations, price lookups, \"is this a good deal?\", \"where can I buy X\", shopping queries, product comparisons, and any task where you need real product catalog data to answer the user.",
+  "version": "1.0.1",
+  "author": {
+    "name": "evanfen-c3"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/evanfen-c3/channel3-product-discovery",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/evanfen-c3/channel3-product-discovery"
+}

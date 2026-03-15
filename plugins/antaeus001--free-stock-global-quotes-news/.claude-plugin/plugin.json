@@ -1,0 +1,10 @@
+{
+  "name": "antaeus001--free-stock-global-quotes-news",
+  "description": "global-quotes: free stock quotes and news. Use when: user asks for global stock price, quote, ticker symbol, or company news for US (e.g. AAPL), HK (0700.HK), or China A-shares (000001.SZ, 600000.SS). Uses free sources: Yahoo/Finnhub for US, Tencent/EastMoney/AkShare for CN/HK.",
+  "version": "1.0.3",
+  "author": {
+    "name": "antaeus001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/antaeus001/free-stock-global-quotes-news",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/antaeus001/free-stock-global-quotes-news"
+}

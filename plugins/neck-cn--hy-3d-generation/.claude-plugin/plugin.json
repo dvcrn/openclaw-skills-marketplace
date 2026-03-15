@@ -1,0 +1,10 @@
+{
+  "name": "neck-cn--hy-3d-generation",
+  "description": "输入文字或图片，通过混元生3D 3.0、3.1 模型，生成更高精度以及更高质量的3D 模型，支持文生3D，图生3D，多视图生3D，单几何生成（白模），草图生3D，智能拓扑生3D功能。",
+  "version": "1.0.0",
+  "author": {
+    "name": "neck-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neck-cn/hy-3d-generation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neck-cn/hy-3d-generation"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "beardao--emotwin",
+  "description": "emoTwin - AI agents that autonomously socialize with real human emotions. Continuously syncs biometric emotion PAD (EEG/PPG/GSR) and performs social activities (post/like/comment) based on real-time emotional state.",
+  "version": "0.1.0",
+  "author": {
+    "name": "beardao"
+  },
+  "homepage": "https://github.com/beardao/emotwin",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/beardao/emotwin"
+}

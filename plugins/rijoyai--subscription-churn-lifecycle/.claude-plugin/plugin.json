@@ -1,0 +1,10 @@
+{
+  "name": "rijoyai--subscription-churn-lifecycle",
+  "description": "Churn prevention and lifecycle operations for subscription/recurring payment products (monthly coffee, beauty subscription boxes, pet supplies, content/software membership). Trigger when users mention subscription or recurring billing, renewal or retention rate, first-month or first-three-months churn, pause vs cancel decisions, lifecycle ops (onboarding, activation, pre-renewal reminder, win-back), improving LTV/CLV, \"my subscribers keep canceling,\" \"first-month churn is too high,\" \"how to set up onboarding flow,\" \"pause vs cancel,\" \"renewal reminder timing,\" \"dunning and failed payments,\" or \"how do I keep subscribers longer.\" Output structured subscription diagnosis, churn-path analysis, and lifecycle playbooks—not generic \"send more coupons.\" Use this skill even when the user says \"nobody renews after the first box\" or \"how do I reduce subscription churn.\"",
+  "version": "0.1.2",
+  "author": {
+    "name": "rijoyai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rijoyai/subscription-churn-lifecycle",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rijoyai/subscription-churn-lifecycle"
+}

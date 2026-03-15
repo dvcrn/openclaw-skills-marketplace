@@ -1,0 +1,10 @@
+{
+  "name": "rustyorb--humanize-text",
+  "description": "Humanize AI-generated text by removing telltale AI writing patterns. Use when text needs to sound natural and human-written — removing em-dashes, AI filler phrases, structural tells, and sycophantic patterns. Works on any text: blog posts, emails, documentation, social posts, framework documents. Triggers: 'humanize this', 'make this sound human', 'remove AI patterns', 'de-AI this text', 'clean up AI writing'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rustyorb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rustyorb/humanize-text",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rustyorb/humanize-text"
+}

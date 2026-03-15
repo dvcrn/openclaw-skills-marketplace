@@ -1,0 +1,10 @@
+{
+  "name": "roger0808--openclaw-git",
+  "description": "Git automation for OpenClaw workspace. Use when user needs to commit and push changes from /home/roger/.openclaw to the remote repository. Triggers on: git commit, git push, save changes, backup openclaw.",
+  "version": "1.0.2",
+  "author": {
+    "name": "roger0808"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/roger0808/openclaw-git",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/roger0808/openclaw-git"
+}

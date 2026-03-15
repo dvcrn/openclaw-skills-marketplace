@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--manus-api",
+  "description": "Manus AI Agent API integration with managed API key authentication. Create and manage AI agent tasks, projects, files, and webhooks.\n Use this skill when users want to run AI agent tasks, manage projects, upload files, or set up webhooks with Manus.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/manus-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/manus-api"
+}

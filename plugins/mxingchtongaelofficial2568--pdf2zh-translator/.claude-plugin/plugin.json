@@ -1,0 +1,10 @@
+{
+  "name": "mxingchtongaelofficial2568--pdf2zh-translator",
+  "description": "用统一脚本执行 pdf2zh-next。支持单/多PDF、目录批处理、按 glob 筛选；未指定 provider 时按 config.toml 生效；指定 provider 时按官方 --<Services> 参数传给主程序；支持实时监控与并行翻译。",
+  "version": "0.0.3",
+  "author": {
+    "name": "mxingchtongaelofficial2568"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mxingchtongaelofficial2568/pdf2zh-translator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mxingchtongaelofficial2568/pdf2zh-translator"
+}

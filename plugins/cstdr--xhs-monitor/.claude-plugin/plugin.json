@@ -1,0 +1,10 @@
+{
+  "name": "cstdr--xhs-monitor",
+  "description": "小红书竞品监控 - 自动采集竞品笔记，推送飞书通知，写入数据看板",
+  "version": "1.0.1",
+  "author": {
+    "name": "cstdr"
+  },
+  "homepage": "https://github.com/openclaw/xhs-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cstdr/xhs-monitor"
+}

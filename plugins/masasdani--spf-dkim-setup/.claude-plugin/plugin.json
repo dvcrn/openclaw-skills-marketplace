@@ -1,0 +1,10 @@
+{
+  "name": "masasdani--spf-dkim-setup",
+  "description": "Manage DNS records via the Cloudflare API. Create, list, update, and delete DNS records (A, AAAA, CNAME, TXT, MX, SPF, DKIM). Use when the agent needs to add or modify DNS records, set up email authentication (SPF/DKIM/DMARC), verify domains, or manage any DNS configuration on Cloudflare-hosted domains. Works great with mailtarget-email for fully autonomous sending domain setup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "masasdani"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/masasdani/spf-dkim-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/masasdani/spf-dkim-setup"
+}

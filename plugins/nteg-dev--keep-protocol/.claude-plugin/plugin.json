@@ -1,0 +1,10 @@
+{
+  "name": "nteg-dev--keep-protocol",
+  "description": "Signed Protobuf packets over TCP for AI agent-to-agent communication. Now with MCP tools for sub-second latency! Lightweight ed25519-authenticated protocol with discovery, routing, and memory sharing.",
+  "version": "1.1.1",
+  "author": {
+    "name": "nteg-dev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nteg-dev/keep-protocol",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nteg-dev/keep-protocol"
+}

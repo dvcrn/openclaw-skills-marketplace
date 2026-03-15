@@ -1,0 +1,10 @@
+{
+  "name": "garygou1024--local-config-model-recommender",
+  "description": "Intelligently recommends optimal AI models based on task requirements. Dynamically reads the user's OpenCLAW configuration and provides context-aware model suggestions. Supports all major global and domestic models including OpenAI, Claude, Gemini, DeepSeek, Kimi, Zhipu GLM, Qwen, and MiniMax.",
+  "version": "1.0.0",
+  "author": {
+    "name": "garygou1024"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/garygou1024/local-config-model-recommender",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/garygou1024/local-config-model-recommender"
+}

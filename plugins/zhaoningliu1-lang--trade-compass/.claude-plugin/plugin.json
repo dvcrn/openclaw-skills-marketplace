@@ -1,0 +1,10 @@
+{
+  "name": "zhaoningliu1-lang--trade-compass",
+  "description": "Global landed cost calculator for traders shipping to the US. Combines live USITC tariffs, Section 232/301/AD-CVD duties, real-time exchange rates (ECB), ocean freight costs, UFLPA compliance, and customs entry fees into a single per-unit cost. Supports 18+ origin countries.",
+  "version": "3.2.0",
+  "author": {
+    "name": "zhaoningliu1-lang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhaoningliu1-lang/trade-compass",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhaoningliu1-lang/trade-compass"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sarahmirrand001-oss--agent-swarm-network",
+  "description": "Agent communication protocol skill. Provides: inter-agent messaging, context snapshot/restore, event-driven collaboration, model dispatch notifications, sub-agent management, task routing, file transfer, and network diagnostics. Invoke this Skill when cross-session context persistence, multi-agent coordination, or context overflow handling is needed. Built on top of Pilot Protocol (https://github.com/TeoSlayer/pilotprotocol).",
+  "version": "1.0.6",
+  "author": {
+    "name": "sarahmirrand001-oss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sarahmirrand001-oss/agent-swarm-network",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sarahmirrand001-oss/agent-swarm-network"
+}

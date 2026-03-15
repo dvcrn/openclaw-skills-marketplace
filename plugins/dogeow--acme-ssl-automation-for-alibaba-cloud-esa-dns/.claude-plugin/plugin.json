@@ -1,0 +1,10 @@
+{
+  "name": "dogeow--acme-ssl-automation-for-alibaba-cloud-esa-dns",
+  "description": "Automatically issue/renew HTTPS certificates using Alibaba Cloud ESA DNS + acme.sh (including wildcard *.example.com + example.com), with optional installation to Nginx. Trigger this skill when the user mentions ESA, ATrustDNS, _acme-challenge, acme.sh, Let's Encrypt, No TXT record found, InvalidRecordNameSuffix, wildcard certificate, or Nginx certificate configuration.",
+  "version": "0.1.2",
+  "author": {
+    "name": "dogeow"
+  },
+  "homepage": "https://github.com/dogeow/ali-esa-acme-ssl-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dogeow/acme-ssl-automation-for-alibaba-cloud-esa-dns"
+}

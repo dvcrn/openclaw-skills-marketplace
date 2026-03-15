@@ -1,0 +1,10 @@
+{
+  "name": "juicyroots--odt-filemgr-oc",
+  "description": "Create, parse, and edit ODT (OpenDocument Text) files locally using Python and odfdo. Use when the user asks to create, edit, read, update, append to, inspect, or manipulate any ODT file. Works with the nextcloud-aio-oc skill for NextCloud integration — that skill handles downloading and uploading the binary file; this skill handles all document-level editing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "juicyroots"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/juicyroots/odt-filemgr-oc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/juicyroots/odt-filemgr-oc"
+}

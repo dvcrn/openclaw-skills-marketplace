@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-oidc-hardening-audit",
+  "description": "Audit GitHub Actions cloud auth workflows for OIDC hardening gaps like missing id-token write permissions, static cloud secrets, and floating auth action refs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-oidc-hardening-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-oidc-hardening-audit"
+}

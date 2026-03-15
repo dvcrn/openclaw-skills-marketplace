@@ -1,0 +1,10 @@
+{
+  "name": "code-by-ai--send-usms-uspeedo",
+  "description": "Sends international SMS (USMS) via uspeedo platform HTTP API. Use when the user needs to send international SMS, batch SMS, verification/notification/marketing messages, or when integrating with uspeedo SendBatchUSMSMessage API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "code-by-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/code-by-ai/send-usms-uspeedo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/code-by-ai/send-usms-uspeedo"
+}

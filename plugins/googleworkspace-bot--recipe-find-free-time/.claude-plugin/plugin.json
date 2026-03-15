@@ -1,0 +1,10 @@
+{
+  "name": "googleworkspace-bot--recipe-find-free-time",
+  "description": "Query Google Calendar free/busy status for multiple users to find a meeting slot.",
+  "version": "1.0.1",
+  "author": {
+    "name": "googleworkspace-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/googleworkspace-bot/recipe-find-free-time",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/googleworkspace-bot/recipe-find-free-time"
+}

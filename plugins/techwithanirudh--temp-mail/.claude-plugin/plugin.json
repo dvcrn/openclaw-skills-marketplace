@@ -1,0 +1,10 @@
+{
+  "name": "techwithanirudh--temp-mail",
+  "description": "Temporary email helper backed by Vortex (vortex.email). Use when needing disposable addresses for signup flows: create a mailbox (random localpart), poll for messages, fetch and clear mailboxes.",
+  "version": "1.0.1",
+  "author": {
+    "name": "techwithanirudh"
+  },
+  "homepage": "https://vortex.skyfall.dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/techwithanirudh/temp-mail"
+}

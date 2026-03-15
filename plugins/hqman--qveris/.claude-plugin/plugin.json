@@ -1,0 +1,10 @@
+{
+  "name": "hqman--qveris",
+  "description": "Search and execute dynamic tools via QVeris API. Use when needing to find and call external APIs/tools dynamically (weather, search, data retrieval, stock trading analysis, etc.). Requires QVERIS_API_KEY environment variable.",
+  "version": "0.1.0",
+  "author": {
+    "name": "hqman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hqman/qveris",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hqman/qveris"
+}

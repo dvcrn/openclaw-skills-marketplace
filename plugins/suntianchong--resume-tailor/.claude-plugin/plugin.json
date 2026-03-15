@@ -1,0 +1,10 @@
+{
+  "name": "suntianchong--resume-tailor",
+  "description": "Customize resumes and generate cover letters based on a specific job description (JD). \n Use this skill whenever the user wants to tailor their resume to a job posting, adapt their CV for a specific role, \n highlight relevant skills for a position, write a personalized cover letter, or asks anything related to job applications, \n job hunting materials, or making their resume more competitive for a specific company or role.\n Triggers: \"tailor my resume\", \"customize CV\", \"write a cover letter\", \"optimize resume for JD\", \n \"make my resume match this job\", \"apply for job\", \"job application materials\", \"rewrite resume for role\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "suntianchong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/suntianchong/resume-tailor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/suntianchong/resume-tailor"
+}

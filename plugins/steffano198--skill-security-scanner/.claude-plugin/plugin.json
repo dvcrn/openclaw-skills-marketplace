@@ -1,0 +1,10 @@
+{
+  "name": "steffano198--skill-security-scanner",
+  "description": "Scan OpenClaw skills for security issues, suspicious permissions, and trust scoring. Use when: (1) Installing a new skill, (2) Auditing existing skills, (3) User asks if a skill is safe, (4) Before running untrusted skills.",
+  "version": "1.0.1",
+  "author": {
+    "name": "steffano198"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/steffano198/skill-security-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steffano198/skill-security-scanner"
+}

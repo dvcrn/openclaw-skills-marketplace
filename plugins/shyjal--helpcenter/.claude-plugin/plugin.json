@@ -1,0 +1,10 @@
+{
+  "name": "shyjal--helpcenter",
+  "description": "When the user wants to create, update, read, or manage help center articles via the Help.Center API. Use when the user says \"write a help article\", \"update the docs\", \"publish an article\", \"add to the help center\", \"create a knowledge base article\", \"edit the getting started guide\", or mentions Help.Center, help articles, or knowledge base content management. Also use when the user wants to search existing articles, manage drafts, change categories, or publish/unpublish content.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shyjal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shyjal/helpcenter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shyjal/helpcenter"
+}

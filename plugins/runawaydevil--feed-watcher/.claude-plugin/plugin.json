@@ -1,0 +1,10 @@
+{
+  "name": "runawaydevil--feed-watcher",
+  "description": "Monitor RSS/Atom feeds and send notifications when new content appears.\n Track YouTube channels, Reddit subreddits, GitHub releases, blogs, and any RSS/Atom feed.\n Supports webhook notifications for Discord, Telegram, Slack, etc.",
+  "version": "0.0.1",
+  "author": {
+    "name": "runawaydevil"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runawaydevil/feed-watcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runawaydevil/feed-watcher"
+}

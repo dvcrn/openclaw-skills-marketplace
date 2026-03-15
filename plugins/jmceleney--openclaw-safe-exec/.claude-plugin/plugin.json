@@ -1,0 +1,10 @@
+{
+  "name": "jmceleney--openclaw-safe-exec",
+  "description": "Protect against prompt injection from shell command output. Wrap untrusted commands (curl, API calls, reading user-generated files) with UUID-based security boundaries. Use when executing commands that return external/untrusted data that could contain prompt injection attacks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jmceleney"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jmceleney/openclaw-safe-exec",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jmceleney/openclaw-safe-exec"
+}

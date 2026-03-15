@@ -1,0 +1,10 @@
+{
+  "name": "spideystreet--sm-saver",
+  "description": "Save and digest resources from social media posts (X/Twitter, LinkedIn) or any URL. Use when the user shares a tweet URL, a LinkedIn post, or any link they want to keep and understand. Extracts linked resources, fetches their content, and appends a structured entry to the resource log.",
+  "version": "0.0.0-pr-check",
+  "author": {
+    "name": "spideystreet"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spideystreet/sm-saver",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spideystreet/sm-saver"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "incognos--shortcut-skill",
+  "description": "Access and manage Shortcut.com (formerly Clubhouse) project management. Use when the user asks to: list stories, view backlog, search issues, check epics, update story state, create stories or epics, add comments, wire story dependencies, or fetch/triage a story. Trigger keywords: shortcut, story, backlog, sc-XXXX, sprint, epic, ticket.",
+  "version": "1.0.2",
+  "author": {
+    "name": "incognos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/incognos/shortcut-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/incognos/shortcut-skill"
+}

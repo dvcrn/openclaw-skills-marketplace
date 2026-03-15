@@ -1,0 +1,10 @@
+{
+  "name": "yckbz--zotero-vectorize",
+  "description": "Build and maintain a cross-platform local Zotero semantic index using metadata embeddings and PDF full-text chunk embeddings. Use when the user asks to vectorize a Zotero library, create or refresh metadata_vectors.json or fulltext_vectors.json, check for new Zotero items missing from the vector store, incrementally update a Zotero semantic/RAG index, verify vector store counts and sizes, or reproduce this workflow on Windows, macOS, or Linux.",
+  "version": "0.1.0",
+  "author": {
+    "name": "yckbz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yckbz/zotero-vectorize",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yckbz/zotero-vectorize"
+}

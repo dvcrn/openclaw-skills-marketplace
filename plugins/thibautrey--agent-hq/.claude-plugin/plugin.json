@@ -1,0 +1,10 @@
+{
+  "name": "thibautrey--agent-hq",
+  "description": "Deploy the Agent HQ mission-control stack (Express + React + Telegram notifier / Jarvis summary) so other Clawdbot teams can spin up the same board, high-priority watcher, and alert automation. Includes setup, telemetry, and automation hooks.",
+  "version": "1.0.1",
+  "author": {
+    "name": "thibautrey"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thibautrey/agent-hq",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thibautrey/agent-hq"
+}

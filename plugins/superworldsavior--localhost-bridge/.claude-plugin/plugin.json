@@ -1,0 +1,10 @@
+{
+  "name": "superworldsavior--localhost-bridge",
+  "description": "Bridge Docker containers to host localhost services via socat. Solves the #1 networking issue in containerized AI agent deployments: containers can't reach services bound to 127.0.0.1.",
+  "version": "2.0.0",
+  "author": {
+    "name": "superworldsavior"
+  },
+  "homepage": "https://casys.ai/blog/the-localhost-trap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/superworldsavior/localhost-bridge"
+}

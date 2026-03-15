@@ -1,0 +1,10 @@
+{
+  "name": "franklu0819-lang--xiaohongshu-post-gen",
+  "description": "Generate complete Xiaohongshu (Little Red Book) posts with up to 10 pages (3:4 vertical format). Auto-parses text content into cover + content pages. Supports 4 styles (dreamy, tech, minimal, warm). Uses Gemini 3.1 Flash Image Preview via nano-banana-2-direct.",
+  "version": "1.1.0",
+  "author": {
+    "name": "franklu0819-lang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/franklu0819-lang/xiaohongshu-post-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/franklu0819-lang/xiaohongshu-post-gen"
+}

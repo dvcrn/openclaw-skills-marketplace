@@ -1,0 +1,10 @@
+{
+  "name": "modellix--modellix",
+  "description": "Integrate Modellix's unified API for AI image and video generation into applications. Use this skill whenever the user wants to generate images from text, create videos from text or images, edit images, do virtual try-on, or call any Modellix model API. Also trigger when the user mentions Modellix, model-as-a-service for media generation, or needs to work with providers like Qwen, Wan, Seedream, Seedance, Kling, Hailuo, or MiniMax through a unified API.",
+  "version": "1.0.3",
+  "author": {
+    "name": "modellix"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/modellix/modellix",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/modellix/modellix"
+}

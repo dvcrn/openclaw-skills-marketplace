@@ -1,0 +1,10 @@
+{
+  "name": "junyij--finance-lite",
+  "description": "Daily macro + market brief (FRED + benchmarks + watchlist ticker) with critical-headline triage, explicit source/freshness notes, and graceful fallback behavior. Use when the user asks for a concise “what moved today and why” summary with practical context.",
+  "version": "1.0.1",
+  "author": {
+    "name": "junyij"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/junyij/finance-lite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/junyij/finance-lite"
+}

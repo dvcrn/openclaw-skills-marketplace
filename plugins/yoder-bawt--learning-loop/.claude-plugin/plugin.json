@@ -1,0 +1,10 @@
+{
+  "name": "yoder-bawt--learning-loop",
+  "description": "Structured self-improvement system for AI agents with confidence decay, cross-agent sharing, and anomaly detection. Use when: (1) After debugging sessions to capture lessons learned, (2) When receiving feedback or corrections from users, (3) Before risky actions to check relevant rules, (4) Weekly to review metrics and promote proven patterns to enforced rules, (5) Setting up persistent memory that survives session compactions.",
+  "version": "1.4.0",
+  "author": {
+    "name": "yoder-bawt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yoder-bawt/learning-loop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yoder-bawt/learning-loop"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bilalbayram--metacli",
+  "description": "Meta Marketing CLI for authentication lifecycle, Graph API requests, campaign/ad/adset writes, insights reporting, and Instagram publishing. Use when handling Meta ads or Instagram operations from terminal commands with strict fail-closed behavior.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bilalbayram"
+  },
+  "homepage": "https://github.com/bilalbayram/metacli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bilalbayram/metacli"
+}

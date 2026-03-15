@@ -1,0 +1,10 @@
+{
+  "name": "josephrp--autonomous",
+  "description": "CreditNexus x402 agent. Use when the user wants stock predictions, backtests, bank linking, or agent/borrower scores. Payment-protected MCP tools (run_prediction, run_backtest, link_bank_account, get_agent_reputation_score, get_borrower_score, and by-email variants) with x402 flow (Aptos + Base). Agent handles 402 → pay → retry autonomously. Supports wallet attestation (signing) for onboarding.",
+  "version": "1.0.0",
+  "author": {
+    "name": "josephrp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/josephrp/autonomous",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/josephrp/autonomous"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "douyin-video-analyzer",
+  "version": "3.2.1",
+  "description": "抖音视频多维度深度拆解分析器（支持 Playwright 爬虫 + FFmpeg 抽帧 + GLM-4.6V 视觉分析）",
+  "main": "scripts/analyze.js",
+  "scripts": {
+    "analyze": "node scripts/analyze.js"
+  },
+  "keywords": [
+    "douyin",
+    "tiktok",
+    "video",
+    "analyzer",
+    "content-analysis",
+    "ai"
+  ],
+  "author": "Leo",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1",
+    "playwright": "^1.58.2"
+  },
+  "openclaw": {
+    "requires": {
+      "bins": [
+        "node"
+      ]
+    }
+  }
+}

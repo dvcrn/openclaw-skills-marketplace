@@ -1,0 +1,10 @@
+{
+  "name": "davidme6--davidme6-auth-guard",
+  "description": "授权保护技能 - 所有外部 API 操作必须经过用户明确授权。这是最高优先级的安全层，确保没有任何自动化可以擅自使用你的授权。核心原则：用户指令是唯一且最优先级。",
+  "version": "1.0.0",
+  "author": {
+    "name": "davidme6"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/davidme6/davidme6-auth-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davidme6/davidme6-auth-guard"
+}

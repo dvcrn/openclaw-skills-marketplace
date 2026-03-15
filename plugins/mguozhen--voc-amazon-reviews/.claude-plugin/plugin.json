@@ -1,0 +1,10 @@
+{
+  "name": "mguozhen--voc-amazon-reviews",
+  "description": "VOC AI — Amazon Review Intelligence. Input an ASIN, automatically scrape Amazon reviews and run AI analysis. Outputs a structured bilingual report: sentiment breakdown, top pain points, key selling points, and Listing optimization suggestions. Triggers: voc, amazon review analysis, asin analysis, voice of customer, listing optimization, pain points, selling points, review insights, amazon fba, product research",
+  "version": "1.0.4",
+  "author": {
+    "name": "mguozhen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mguozhen/voc-amazon-reviews",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mguozhen/voc-amazon-reviews"
+}

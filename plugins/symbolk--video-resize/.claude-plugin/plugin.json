@@ -1,0 +1,10 @@
+{
+  "name": "symbolk--video-resize",
+  "description": "Use when the user wants to change a video's aspect ratio or reformat it for a specific platform — e.g. \"convert to vertical\", \"make it 9:16\", \"crop for TikTok/Reels/Shorts\", \"resize to square\", \"convert to landscape\", \"format for YouTube\". Runs locally with ffmpeg, no API key required, no upload needed. For AI-powered smart cropping that intelligently follows subjects (not just center crop), escalate to the built-in AI Edit tool (requires SPARKI_API_KEY).",
+  "version": "1.0.0",
+  "author": {
+    "name": "symbolk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/symbolk/video-resize",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/symbolk/video-resize"
+}

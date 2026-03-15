@@ -1,0 +1,10 @@
+{
+  "name": "en1r0py1865--minecraft-server-admin",
+  "description": "Execute Minecraft Java Edition admin commands through the RCON remote console. Use for player moderation, whitelist management, item/state commands, world rules, broadcast messages, and recent log review on servers you control. Covers in-game command administration only. Does NOT handle full server lifecycle, filesystem backups, or plugin installation/update workflows; use a dedicated server-ops skill for those. Requires RCON enabled on the target server and is not for singleplayer worlds.",
+  "version": "1.0.0",
+  "author": {
+    "name": "en1r0py1865"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/en1r0py1865/minecraft-server-admin",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/en1r0py1865/minecraft-server-admin"
+}

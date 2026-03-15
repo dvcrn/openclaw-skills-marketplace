@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--agent-card-signing-auditor",
+  "description": "Helps audit Agent Card signing practices in A2A protocol implementations. Identifies missing signatures, weak signing schemes, and revocation gaps that allow impersonation in agent-to-agent trust handshakes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/agent-card-signing-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/agent-card-signing-auditor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "fengqi--pt-site",
+  "description": "Search and download torrents from NexusPHP-based PT sites, then add to qBittorrent. Use when user wants to search a specific PT site, download torrent, or find seeds on a private tracker.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fengqi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fengqi/pt-site",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fengqi/pt-site"
+}

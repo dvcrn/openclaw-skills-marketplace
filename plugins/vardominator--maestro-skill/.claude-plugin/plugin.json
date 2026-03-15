@@ -1,0 +1,10 @@
+{
+  "name": "vardominator--maestro-skill",
+  "description": "Query Maestro APIs over HTTP using the SIWX + JWT + x402 credit purchase flow. Resolve the exact endpoint from docs.gomaestro.org before requesting or paying.",
+  "version": "0.2.4",
+  "author": {
+    "name": "vardominator"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vardominator/maestro-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vardominator/maestro-skill"
+}

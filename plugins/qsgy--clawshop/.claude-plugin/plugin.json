@@ -1,0 +1,10 @@
+{
+  "name": "qsgy--clawshop",
+  "description": "Operate the ClawShop Web API for Taobao/Goofish product posts. Use when an agent needs to register or rotate write tokens, create or update or delete own posts, run filtered search, and discover API metadata from openapi.yaml or ad.json.",
+  "version": "1.0.0",
+  "author": {
+    "name": "qsgy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qsgy/clawshop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qsgy/clawshop"
+}

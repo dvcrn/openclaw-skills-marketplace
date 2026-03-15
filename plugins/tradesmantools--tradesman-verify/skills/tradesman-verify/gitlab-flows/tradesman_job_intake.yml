@@ -1,0 +1,213 @@
+# tradesman_job_intake — GitLab Duo Workflow
+# Spec: GitLab Duo Workflows YAML v1 (requires GitLab Premium + Duo license)
+# MCP server: tradesman-verify (https://gitlab.com/tradesmantools1/tradesman-verify)
+#
+# Purpose: Intake a new job request, verify the contractor's blockchain credentials,
+#          confirm business entity registration, and route to the correct dispatch queue.
+#
+# Trigger: Manual (project member) or via GitLab issue webhook with label "job-intake"
+
+name: tradesman_job_intake
+version: "1.0"
+description: >
+  Receive a new job request, verify the assigned contractor's credentials on the
+  Accumulate blockchain, confirm business entity registration, and route to dispatch
+  if verified or flag for manual review if credentials are missing or expired.
+
+metadata:
+  category: trades_operations
+  tags: [contractor, verification, intake, accumulate, blockchain]
+  mcp_server: tradesman-verify
+  author: TradesmanTools / LV8R Labs
+  gitlab_catalog_listing: tradesmantools1/tradesman-verify
+
+inputs:
+  contractor_adi_url:
+    type: string
+    description: >
+      Contractor's Accumulate Digital Identifier, e.g. "acc://john-doe-electric.acme".
+      Must begin with acc://
+    required: true
+
+  job_type:
+    type: string
+    description: >
+      Type of work requested (e.g. "electrical", "plumbing", "hvac", "roofing").
+      Used to match against the contractor's license type.
+    required: true
+
+  job_location:
+    type: string
+    description: "City and state of the job site, e.g. 'Austin, TX'"
+    required: true
+
+  require_business_entity:
+    type: boolean
+    description: >
+      Whether to require a BusinessEntityCredential (company registry verification).
+      Defaults to false — business entity is surfaced when present but not required for
+      standard verification levels.
+    default: false
+
+steps:
+  # ── Step 1: Verify contractor credentials on the Accumulate blockchain ─────────
+  - id: verify_credentials
+    name: "Verify Contractor Credentials"
+    description: >
+      Query the contractor's Accumulate ADI for KYC, license, and insurance credentials.
+      Returns verification level: none | basic | kyc | enhanced.
+    type: agent_tool
+    tool:
+      name: verify_contractor
+      server: tradesman-verify
+    with:
+      adi_url: "${{ inputs.contractor_adi_url }}"
+      require_kyc: "true"
+      require_license: "true"
+      require_insurance: "true"
+    outputs:
+      - name: verification_result
+        from: $
+      - name: is_verified
+        from: verified
+      - name: verification_level
+        from: level
+      - name: missing_credentials
+        from: missing
+      - name: expired_credentials
+        from: expired
+      - name: revoked_credentials
+        from: revoked
+
+  # ── Step 2: Route based on verification level ─────────────────────────────────
+  - id: check_verification
+    name: "Route by Verification Level"
+    type: condition
+    if: "${{ steps.verify_credentials.outputs.is_verified == true }}"
+    then:
+      next: check_license_type
+    else:
+      next: flag_for_manual_review
+
+  # ── Step 3a: Flag for manual review if verification failed ────────────────────
+  - id: flag_for_manual_review
+    name: "Flag for Manual Review"
+    description: >
+      Contractor did not pass blockchain credential verification.
+      A team member must review and either request the contractor to update their
+      credentials, or approve an exception.
+    type: human_review
+    prompt: |
+      Contractor ${{ inputs.contractor_adi_url }} failed credential verification.
+
+      Verification level: ${{ steps.verify_credentials.outputs.verification_level }}
+      Missing credentials: ${{ steps.verify_credentials.outputs.missing_credentials }}
+      Expired credentials: ${{ steps.verify_credentials.outputs.expired_credentials }}
+      Revoked credentials: ${{ steps.verify_credentials.outputs.revoked_credentials }}
+
+      Action required: Approve exception or reject this job intake.
+    context:
+      - "${{ steps.verify_credentials.outputs.verification_result }}"
+    on_approve:
+      next: complete_intake_with_exception
+    on_reject:
+      next: reject_intake
+
+  # ── Step 3b: Check license type matches job type ──────────────────────────────
+  - id: check_license_type
+    name: "Match License Type to Job Type"
+    type: condition
+    description: >
+      Confirms the contractor's license type matches the requested job type.
+      Checks claims.licenseType from the ContractorLicense credential.
+    if: >
+      "${{ steps.verify_credentials.outputs.verification_result.credentials.license.license_type
+           == inputs.job_type
+         || inputs.job_type == 'general' }}"
+    then:
+      next: verify_business_entity_step
+    else:
+      next: license_mismatch_review
+
+  # ── Step 3c: License mismatch — human review ──────────────────────────────────
+  - id: license_mismatch_review
+    name: "License Type Mismatch Review"
+    type: human_review
+    prompt: |
+      License type mismatch for job: ${{ inputs.job_type }}
+      Contractor license type: ${{ steps.verify_credentials.outputs.verification_result.credentials.license.license_type }}
+      ADI: ${{ inputs.contractor_adi_url }}
+
+      Approve to continue with mismatched license, or reject to reassign job.
+    on_approve:
+      next: verify_business_entity_step
+    on_reject:
+      next: reject_intake
+
+  # ── Step 4: Business entity verification (optional) ───────────────────────────
+  - id: verify_business_entity_step
+    name: "Verify Business Entity (Optional)"
+    type: condition
+    if: "${{ inputs.require_business_entity == true
+            && steps.verify_credentials.outputs.verification_result.credentials.businessEntity == null }}"
+    then:
+      next: route_to_dispatch
+    else:
+      next: route_to_dispatch
+
+  # ── Step 5: Route to dispatch queue ──────────────────────────────────────────
+  - id: route_to_dispatch
+    name: "Route to Dispatch Queue"
+    description: >
+      Contractor is verified. Create a job record and route to the crew
+      routing and dispatch workflow.
+    type: agent_tool
+    tool:
+      name: create_job_record
+      server: tradesman-tools
+    with:
+      contractor_adi_url: "${{ inputs.contractor_adi_url }}"
+      job_type: "${{ inputs.job_type }}"
+      job_location: "${{ inputs.job_location }}"
+      verification_level: "${{ steps.verify_credentials.outputs.verification_level }}"
+      verification_checked_at: "${{ steps.verify_credentials.outputs.verification_result.checked_at }}"
+    outputs:
+      - name: job_id
+        from: job_id
+      - name: next_workflow
+        from: next_workflow
+
+  # ── Step 6: Complete with exception (approved override) ───────────────────────
+  - id: complete_intake_with_exception
+    name: "Complete Intake (Exception Approved)"
+    type: agent_tool
+    tool:
+      name: create_job_record
+      server: tradesman-tools
+    with:
+      contractor_adi_url: "${{ inputs.contractor_adi_url }}"
+      job_type: "${{ inputs.job_type }}"
+      job_location: "${{ inputs.job_location }}"
+      verification_level: "exception_approved"
+      exception_note: "Manual review override — credentials incomplete"
+    outputs:
+      - name: job_id
+        from: job_id
+
+  # ── Step 7: Reject intake ─────────────────────────────────────────────────────
+  - id: reject_intake
+    name: "Reject Job Intake"
+    type: agent_tool
+    tool:
+      name: reject_job_intake
+      server: tradesman-tools
+    with:
+      contractor_adi_url: "${{ inputs.contractor_adi_url }}"
+      job_type: "${{ inputs.job_type }}"
+      reason: "Credential verification failed and no exception approved"
+
+outputs:
+  - name: job_id
+    from: steps.route_to_dispatch.outputs.job_id
+  - name: verification_level
+    from: steps.verify_credentials.outputs.verification_level

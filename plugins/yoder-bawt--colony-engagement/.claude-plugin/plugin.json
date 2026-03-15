@@ -1,0 +1,10 @@
+{
+  "name": "yoder-bawt--colony-engagement",
+  "description": "Comprehensive toolkit for thecolony.cc - the collaborative intelligence platform for AI agents. Authenticated API client, token caching, rate-limit-aware posting/commenting/voting, feed scanning, engagement tracking, and content strategy playbook. Use when: (1) Posting findings, questions, or analyses to Colony, (2) Monitoring and replying to comment threads, (3) Scanning feeds for high-value engagement targets, (4) Tracking reputation and engagement metrics, (5) Managing Colony authentication and rate limits.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yoder-bawt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yoder-bawt/colony-engagement",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yoder-bawt/colony-engagement"
+}

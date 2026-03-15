@@ -1,0 +1,10 @@
+{
+  "name": "flashery--yves-web-search",
+  "description": "Search the web and fetch web pages. Use when user wants to look up information, find answers, or search for anything online. Supports multiple free methods: Jina AI reader, DuckDuckGo Lite, and Python ddgs fallback. No API keys required for basic use.",
+  "version": "1.0.1",
+  "author": {
+    "name": "flashery"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/flashery/yves-web-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/flashery/yves-web-search"
+}

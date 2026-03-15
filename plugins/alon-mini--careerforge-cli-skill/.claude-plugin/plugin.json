@@ -1,0 +1,10 @@
+{
+  "name": "alon-mini--careerforge-cli-skill",
+  "description": "AI-powered CV generator for job applications. Sets up automated job search with CareerForge CLI, manages master resume creation, configures filtering criteria (location, keywords, remote/in-person, schedule), and generates tailored CVs on demand. Use when user wants to automate job search, create/update a master resume, configure job filters, or generate CVs for specific job postings.",
+  "version": "1.1.0",
+  "author": {
+    "name": "alon-mini"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alon-mini/careerforge-cli-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alon-mini/careerforge-cli-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "aligurelli--perplexity-web-search",
+  "description": "Web search and URL fetching via Perplexity (default: sonar, optional: sonar-pro). Use when searching the web, looking up information, fetching URL content, or configuring web search settings. Covers web_search tool (Perplexity direct API) and web_fetch tool (HTML to markdown extraction).",
+  "version": "1.5.0",
+  "author": {
+    "name": "aligurelli"
+  },
+  "homepage": "https://github.com/aligurelli/clawd/tree/main/skills/web_search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aligurelli/perplexity-web-search"
+}

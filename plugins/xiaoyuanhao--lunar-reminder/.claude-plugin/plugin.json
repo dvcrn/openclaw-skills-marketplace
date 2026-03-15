@@ -1,0 +1,10 @@
+{
+  "name": "xiaoyuanhao--lunar-reminder",
+  "description": "按农历日期设置提醒（生日、节日等）。当用户需要：(1) 按农历添加提醒事件 (2) 查看农历事件列表 (3) 农历日期与公历日期转换 (4) 设置农历生日/节日提醒 时使用此 skill。触发词：农历、农历生日、农历节日、阴历提醒。",
+  "version": "1.0.1",
+  "author": {
+    "name": "xiaoyuanhao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaoyuanhao/lunar-reminder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaoyuanhao/lunar-reminder"
+}

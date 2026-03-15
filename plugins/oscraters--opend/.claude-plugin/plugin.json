@@ -1,0 +1,10 @@
+{
+  "name": "oscraters--opend",
+  "description": "Agentic trading and market-data workflows for Futu OpenD (MooMoo/Futu OpenAPI), including OpenClaw-compatible secret-ref credential loading, account discovery, position queries, and simulated or live order placement. Use when tasks require calling local OpenD through Python/Bash automation with structured JSON output and explicit trading-safety guardrails.",
+  "version": "1.0.1",
+  "author": {
+    "name": "oscraters"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oscraters/opend",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oscraters/opend"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zijunl--alpaca-py-cli",
+  "description": "AI agent skill for Alpaca Markets trading. Intelligent setup wizard (alpaca init) guides users through registration. Trade stocks/crypto, manage portfolios, execute orders via natural language. Token-efficient design with runtime guidance. Paper trading by default ($100k virtual money). IMPORTANT - Setup requires user interaction to configure API keys in shell environment.",
+  "version": "2.0.0",
+  "author": {
+    "name": "zijunl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zijunl/alpaca-py-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zijunl/alpaca-py-cli"
+}

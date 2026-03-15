@@ -1,0 +1,10 @@
+{
+  "name": "steipete--discord",
+  "description": "Use when you need to control Discord from Clawdbot via the discord tool: send messages, react, post or upload stickers, upload emojis, run polls, manage threads/pins/search, fetch permissions or member/role/channel info, or handle moderation actions in Discord DMs or channels.",
+  "version": "1.0.1",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/steipete/discord",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/discord"
+}

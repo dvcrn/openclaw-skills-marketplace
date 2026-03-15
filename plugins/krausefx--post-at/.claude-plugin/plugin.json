@@ -1,0 +1,10 @@
+{
+  "name": "krausefx--post-at",
+  "description": "Manage Austrian Post (post.at) deliveries - list packages, check delivery status, set delivery place preferences.",
+  "version": "0.1.0",
+  "author": {
+    "name": "krausefx"
+  },
+  "homepage": "https://github.com/krausefx/post-at-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/krausefx/post-at"
+}

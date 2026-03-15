@@ -1,0 +1,10 @@
+{
+  "name": "nicvaniek--zeal-agent-wallet",
+  "description": "Propose transactions to a Zeal Wallet. Use when the user wants to set up an agent as a Zeal Wallet signer, propose transactions, or manage a delegate wallet.",
+  "version": "1.0.1",
+  "author": {
+    "name": "nicvaniek"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nicvaniek/zeal-agent-wallet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nicvaniek/zeal-agent-wallet"
+}

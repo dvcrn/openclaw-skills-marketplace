@@ -1,0 +1,10 @@
+{
+  "name": "wpank--assess-risk",
+  "description": "Get an independent risk assessment for any proposed Uniswap operation — swap, LP position, bridge, or token interaction. Evaluates slippage, impermanent loss, liquidity, smart contract, and bridge risks with a clear APPROVE or VETO decision. Use when the user asks if something is safe or wants a risk evaluation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/assess-risk",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/assess-risk"
+}

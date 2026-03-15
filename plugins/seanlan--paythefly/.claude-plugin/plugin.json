@@ -1,0 +1,10 @@
+{
+  "name": "seanlan--paythefly",
+  "description": "Create crypto payment & withdrawal links for your app. Works with BSC, Ethereum, TRON. Users pay via PayTheFlyPro gateway - you get shareable URLs with built-in signature verification.",
+  "version": "1.0.8",
+  "author": {
+    "name": "seanlan"
+  },
+  "homepage": "https://pro.paythefly.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seanlan/paythefly"
+}

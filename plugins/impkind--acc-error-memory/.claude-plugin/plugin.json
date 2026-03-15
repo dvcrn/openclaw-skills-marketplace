@@ -1,0 +1,10 @@
+{
+  "name": "impkind--acc-error-memory",
+  "description": "Error pattern tracking for AI agents. Detects corrections, escalates recurring mistakes, learns mitigations. The 'something's off' detector from the AI Brain series.",
+  "version": "1.0.0",
+  "author": {
+    "name": "impkind"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/impkind/acc-error-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/impkind/acc-error-memory"
+}

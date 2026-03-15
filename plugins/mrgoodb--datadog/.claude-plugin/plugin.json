@@ -1,0 +1,10 @@
+{
+  "name": "mrgoodb--datadog",
+  "description": "Monitor infrastructure and applications via Datadog API. Query metrics, manage dashboards, and create alerts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrgoodb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/datadog",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/datadog"
+}

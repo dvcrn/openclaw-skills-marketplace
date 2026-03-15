@@ -1,0 +1,10 @@
+{
+  "name": "rayray1218--semantic-model-router",
+  "description": "Smart LLM Router — routes every query to the cheapest capable model. Supports 17 models across Anthropic, OpenAI, Google, DeepSeek & xAI (Grok). Uses a pre-trained ML classifier. No extra API keys required.",
+  "version": "1.0.3",
+  "author": {
+    "name": "rayray1218"
+  },
+  "homepage": "https://github.com/rayray1218/ClawSkill-Semantic-Router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rayray1218/semantic-model-router"
+}

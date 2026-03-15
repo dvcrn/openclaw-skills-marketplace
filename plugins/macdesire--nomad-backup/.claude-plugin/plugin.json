@@ -1,0 +1,10 @@
+{
+  "name": "macdesire--nomad-backup",
+  "description": "Query HashiCorp Nomad clusters. List jobs, nodes, allocations, evaluations, and services. Read-only operations for monitoring and troubleshooting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "macdesire"
+  },
+  "homepage": "https://github.com/danfedick/nomad-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/macdesire/nomad-backup"
+}

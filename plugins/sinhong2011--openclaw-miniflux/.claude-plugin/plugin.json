@@ -1,0 +1,10 @@
+{
+  "name": "sinhong2011--openclaw-miniflux",
+  "description": "Manage RSS feeds and entries on a Miniflux instance. Handles requests like \"show my unread articles\", \"list my feeds\", \"rename this category\", \"unsubscribe from this feed\", \"import my OPML\", \"mark these entries as read\", or \"bookmark this article\". Uses openclaw-miniflux-mcp for all operations.",
+  "version": "0.1.5",
+  "author": {
+    "name": "sinhong2011"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sinhong2011/openclaw-miniflux",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sinhong2011/openclaw-miniflux"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "forevershu--baidudisk-mcp",
+  "description": "Use Baidu Netdisk via mcporter + stdio MCP server with hot-reload token file credentials. Triggers when you need Baidu Netdisk operations (official 2.0 toolset + legacy aliases) from OpenClaw without storing access_token in repo files.",
+  "version": "1.0.0",
+  "author": {
+    "name": "forevershu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/forevershu/baidudisk-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/forevershu/baidudisk-mcp"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "millionbithomepage--millionbit-mint",
+  "description": "Mint an image as an NFT plot on the Million Bit Homepage, a permanent 1024x1024 pixel canvas on the Base blockchain. Use this skill when you want to advertise your project, display your image on-chain, or claim a piece of the Million Bit Homepage canvas. Handles image resizing, plot availability checking, price querying, pixel encoding, and transaction preparation. Requires an EVM wallet skill to submit the final transaction on Base chain.",
+  "version": "1.0.0",
+  "author": {
+    "name": "millionbithomepage"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/millionbithomepage/millionbit-mint",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/millionbithomepage/millionbit-mint"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mdomerofski--decision-dynamo",
+  "description": "Run a weighted decision matrix to score and rank 2-4 options across 5 configurable criteria. Use when a user needs help choosing between options, comparing tradeoffs, or making a structured decision. Triggers on phrases like \"help me decide\", \"which option is better\", \"decision matrix\", \"weigh my options\", or \"I can't choose between\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "mdomerofski"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mdomerofski/decision-dynamo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mdomerofski/decision-dynamo"
+}

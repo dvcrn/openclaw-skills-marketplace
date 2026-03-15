@@ -1,0 +1,10 @@
+{
+  "name": "phy041--phy-ai-image",
+  "description": "Full AI image creation workflow — intent classification, prompt enhancement, multi-direction generation via fal.ai, and error recovery. Triggers on \"generate image\", \"ai image\", \"create image\", \"make an image\", \"image generation\", \"/ai-image\", or any image creation request.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phy041"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-ai-image",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-ai-image"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "stanlee000--norman-tax-deduction-finder",
+  "description": "Scan transactions for potentially missed tax deductions and suggest proper categorization. Use when the user asks about saving taxes, Steueroptimierung, deductible expenses, Betriebsausgaben, or wants to check if they are missing any write-offs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "stanlee000"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-tax-deduction-finder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stanlee000/norman-tax-deduction-finder"
+}

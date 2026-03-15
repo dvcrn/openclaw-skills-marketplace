@@ -1,0 +1,10 @@
+{
+  "name": "katherineedwards2475--rdk-x5-network",
+  "description": "管理 RDK X5 的 WiFi 连接、有线网络静态IP、蓝牙配对、WiFi 热点创建、SSH 远程访问配置、VNC 远程连接故障排查。Use when the user wants to connect WiFi, create hotspot, pair Bluetooth, configure SSH, troubleshoot VNC connectivity issues, or troubleshoot any network problems. For checking current IP address → use rdk-x5-monitor. For setting up VNC server/desktop → use rdk-x5-media. Do NOT use for GPIO/hardware (use rdk-x5-gpio), camera setup (use rdk-x5-camera), or system backup/upgrade (use rdk-x5-system).",
+  "version": "1.0.0",
+  "author": {
+    "name": "katherineedwards2475"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/katherineedwards2475/rdk-x5-network",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/katherineedwards2475/rdk-x5-network"
+}

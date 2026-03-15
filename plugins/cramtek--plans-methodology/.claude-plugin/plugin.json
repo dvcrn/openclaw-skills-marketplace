@@ -1,0 +1,10 @@
+{
+  "name": "cramtek--plans-methodology",
+  "description": "Structured work tracking methodology using Plans. Use when creating, managing, reviewing, or delegating plans for significant work. Covers plan lifecycle (draft, approved, in_progress, completed, archived), folder structure, approval authority, cross-agent delegation, and task tracking. Use when a user asks to create a plan, track work, delegate tasks to sub-agents, or review plan status.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cramtek"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cramtek/plans-methodology",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cramtek/plans-methodology"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "matthewxmurphy--mac-multi-user-agents",
+  "description": "Configure a powerful macOS machine to host multiple dedicated OpenClaw agent users with Fast User Switching, a shared Homebrew toolchain, per-user OpenClaw homes, per-user SSH trust, and auditable rollback. Use when you want a MacBook Pro or similar Mac to run several agent users at the same time without improvising the user layout each time.",
+  "version": "1.1.0",
+  "author": {
+    "name": "matthewxmurphy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/mac-multi-user-agents",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/mac-multi-user-agents"
+}

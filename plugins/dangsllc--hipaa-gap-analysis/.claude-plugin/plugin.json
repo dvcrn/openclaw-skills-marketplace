@@ -1,0 +1,10 @@
+{
+  "name": "dangsllc--hipaa-gap-analysis",
+  "description": "Assess compliance documents against HIPAA Security Rule and Privacy Rule requirements. Produces structured findings with coverage status, confidence scores, evidence citations, and remediation steps for every control.",
+  "version": "0.1.0",
+  "author": {
+    "name": "dangsllc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dangsllc/hipaa-gap-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dangsllc/hipaa-gap-analysis"
+}

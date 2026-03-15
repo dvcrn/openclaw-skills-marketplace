@@ -1,0 +1,10 @@
+{
+  "name": "nissan--tweet-humanizer",
+  "description": "Detect and fix AI-generated tweet patterns to make tweets sound like a real\n human typed them. Covers cadence uniformity, punchline addiction, missing\n casual markers, emoji absence, over-polished phrasing, and other tells\n specific to short-form social media. Works on single tweets or batches.\n Companion to the long-form \"humanizer\" skill.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/reddinft/skill-tweet-humanizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/tweet-humanizer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "civen-cn--windows-skills",
+  "description": "Windows desktop automation skills - screenshot capture, OCR text extraction, and image-based UI element location. Use when: (1) capturing screen content (2) extracting text from images (3) locating UI elements for automation",
+  "version": "1.0.1",
+  "author": {
+    "name": "civen-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/civen-cn/windows-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/civen-cn/windows-skills"
+}

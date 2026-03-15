@@ -1,0 +1,10 @@
+{
+  "name": "bowen31337--claw-forge-cli",
+  "description": "Use the claw-forge CLI to run autonomous coding agents on a project until all features pass. Covers the full workflow: init → spec → plan → run → status → ui. Use when a user asks to build a project with claw-forge, run agents on a codebase, generate a feature DAG, manage the provider pool, or fix bugs with the reproduce-first protocol.",
+  "version": "1.0.2",
+  "author": {
+    "name": "bowen31337"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/claw-forge-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/claw-forge-cli"
+}

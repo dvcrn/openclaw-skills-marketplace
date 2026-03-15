@@ -1,0 +1,10 @@
+{
+  "name": "alexpolonsky--jlm-coffee",
+  "description": "Search Jerusalem specialty coffee shops by name, amenities, ratings, and opening hours. Use when user asks about \"coffee in Jerusalem\", \"Jerusalem cafe\", \"בית קפה בירושלים\", \"קפה בירושלים\", \"specialty coffee Jerusalem\", \"where to get coffee in Jerusalem\", \"dog-friendly cafe Jerusalem\", \"laptop cafe Jerusalem\", \"open now coffee Jerusalem\".",
+  "version": "2.1.0",
+  "author": {
+    "name": "alexpolonsky"
+  },
+  "homepage": "https://github.com/alexpolonsky/agent-skill-jlm-coffee",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/jlm-coffee"
+}

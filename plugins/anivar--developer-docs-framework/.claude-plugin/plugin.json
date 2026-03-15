@@ -1,0 +1,10 @@
+{
+  "name": "anivar--developer-docs-framework",
+  "description": "Enterprise technical documentation best practices, patterns, and frameworks for developer and partner adoption. Covers content architecture (Diataxis four quadrants), 14 content types (tutorials, how-to guides, API reference, SDK docs, migration guides, changelogs, runbooks, integration guides, troubleshooting, architecture docs), pluggable writing styles (Diataxis, Google, Microsoft, Stripe, Canonical, Minimal), information architecture, docs-as-code workflows, documentation audit, anti-patterns checklist, and developer experience (DX) strategy. 27 rules, 5 references, 6 style guides. Baseline: Diataxis + Google OpenDocs + Good Docs Project. Triggers on: \"write docs\", \"document this\", \"API docs\", \"developer docs\", \"migration guide\", \"changelog\", \"tutorial\", \"how-to guide\", \"reference docs\", \"documentation strategy\", \"docs audit\", \"information architecture\", \"developer experience\", \"partner docs\", \"SDK documentation\", \"runbook\", \"troubleshooting guide\", \"integration guide\", \"quickstart\", \"getting started\", \"technical writing\", \"docs-as-code\", \"DX\", mentions of \"Diataxis\", \"Good Docs Project\", or \"Google OpenDocs\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "anivar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anivar/developer-docs-framework",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anivar/developer-docs-framework"
+}

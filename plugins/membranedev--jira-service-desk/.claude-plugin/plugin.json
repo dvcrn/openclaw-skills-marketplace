@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--jira-service-desk",
+  "description": "Jira Service Desk integration. Manage Tickets, Customers, Agents. Use when the user wants to interact with Jira Service Desk data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/jira-service-desk"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ckchzh--cli-builder",
+  "description": "CLI tool generator. Project scaffolding, command adding, argument parsing, help docs, config handling, publish checklist, interactive prompts, colored output. Supports Python, Node.js, Bash, Go. cli, command-line, argparse, commander, scaffolding, developer-tools.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ckchzh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ckchzh/cli-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ckchzh/cli-builder"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "longtimecoding--baidu-map-android-sdk",
+  "description": "百度地图 Android SDK 集成与开发规范。覆盖地图展示、MapView/BaiduMap 生命周期、定位、标注与覆盖物、POI 检索、路线规划、步骑行导航；输出符合隐私与 AK 配置的 Android 地图方案。在开发 Android 地图应用、集成百度地图 SDK、MapView、路线规划、POI、导航时使用。",
+  "version": "1.0.1",
+  "author": {
+    "name": "longtimecoding"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/longtimecoding/baidu-map-android-sdk",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/longtimecoding/baidu-map-android-sdk"
+}

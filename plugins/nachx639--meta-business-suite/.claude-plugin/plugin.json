@@ -1,0 +1,10 @@
+{
+  "name": "nachx639--meta-business-suite",
+  "description": "Meta Business Suite automation via Graph API. Use this skill when:\n (1) Publishing posts to Facebook Pages\n (2) Scheduling Facebook posts\n (3) Publishing to Instagram (photos, reels, carousels)\n (4) Reading insights/analytics from Facebook or Instagram\n (5) Managing comments on Facebook or Instagram\n (6) Uploading photos or videos to Facebook Pages\n (7) Deleting posts from Facebook or Instagram",
+  "version": "1.0.4",
+  "author": {
+    "name": "nachx639"
+  },
+  "homepage": "https://developers.facebook.com/docs/graph-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nachx639/meta-business-suite"
+}

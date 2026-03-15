@@ -1,0 +1,10 @@
+{
+  "name": "scikkk--music-gen",
+  "description": "SenseAudio Music Generation API for creating AI-generated lyrics and songs. Supports lyrics generation, song generation with style/vocal control, and async task polling.",
+  "version": "1.0.0",
+  "author": {
+    "name": "scikkk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/scikkk/music-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scikkk/music-gen"
+}

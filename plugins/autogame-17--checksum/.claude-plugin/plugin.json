@@ -1,0 +1,10 @@
+{
+  "name": "autogame-17--checksum",
+  "description": "A CLI utility for generating and verifying cryptographic file checksums (MD5, SHA1, SHA256). Supports recursive directory hashing and verification from file.",
+  "version": "1.0.0",
+  "author": {
+    "name": "autogame-17"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/checksum",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/checksum"
+}

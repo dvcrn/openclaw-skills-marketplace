@@ -1,0 +1,10 @@
+{
+  "name": "rnijhara--beads",
+  "description": "Git-backed issue tracker for AI agents. Use when managing tasks, dependencies, or multi-step work. Triggers on task tracking, issue management, dependency graphs, ready work queues, or mentions of \"beads\" / \"bd\" CLI.",
+  "version": "1.0.1",
+  "author": {
+    "name": "rnijhara"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rnijhara/beads",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rnijhara/beads"
+}

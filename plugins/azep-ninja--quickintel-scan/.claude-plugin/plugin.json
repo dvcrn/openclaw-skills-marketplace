@@ -1,0 +1,10 @@
+{
+  "name": "azep-ninja--quickintel-scan",
+  "description": "Scan any token for security risks, honeypots, and scams using Quick Intel's contract analysis API. Use when: checking if a token is safe to buy, detecting honeypots, analyzing contract ownership and permissions, finding hidden mint/blacklist functions, or evaluating token risk before trading. Triggers: 'is this token safe', 'scan token', 'check for honeypot', 'audit contract', 'rug pull check', 'token security', 'safe to buy', 'scam check'. Supports 63 chains including Base, Ethereum, Solana, Sui, Tron. Costs $0.03 USDC per scan via x402 payment protocol. Requires an x402-compatible wallet — recommended: managed wallet service (Sponge, AgentWallet) with no raw key exposure. Programmatic signing with dedicated hot wallet also supported. This skill is read-only and never accesses your tokens or assets.",
+  "version": "1.0.8",
+  "author": {
+    "name": "azep-ninja"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/azep-ninja/quickintel-scan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/azep-ninja/quickintel-scan"
+}

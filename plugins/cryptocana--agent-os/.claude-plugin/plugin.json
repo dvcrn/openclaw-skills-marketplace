@@ -1,0 +1,10 @@
+{
+  "name": "cryptocana--agent-os",
+  "description": "Persistent agent operating system for OpenClaw. Agents remember across sessions, learn from experience, coordinate on complex projects without duplicate work.",
+  "version": "0.1.0",
+  "author": {
+    "name": "cryptocana"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cryptocana/agent-os",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cryptocana/agent-os"
+}

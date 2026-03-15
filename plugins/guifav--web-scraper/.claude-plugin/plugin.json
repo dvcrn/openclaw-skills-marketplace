@@ -1,0 +1,10 @@
+{
+  "name": "guifav--web-scraper",
+  "description": "Web scraping and content comprehension agent — multi-strategy extraction with cascade fallback, news detection, boilerplate removal, structured metadata, and LLM entity extraction",
+  "version": "0.1.0",
+  "author": {
+    "name": "guifav"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guifav/web-scraper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guifav/web-scraper"
+}

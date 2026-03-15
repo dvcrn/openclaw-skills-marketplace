@@ -1,0 +1,10 @@
+{
+  "name": "satbot-mdk--moneydevkit",
+  "description": "Accept payments on any website using moneydevkit. Use when building a site that sells something, adding a checkout/paywall, or integrating payments into a Next.js or Replit app. Supports fixed pricing, pay-what-you-want, products, customers, and orders. Bitcoin Lightning under the hood — works globally, no bank account needed.",
+  "version": "0.2.0",
+  "author": {
+    "name": "satbot-mdk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/satbot-mdk/moneydevkit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/satbot-mdk/moneydevkit"
+}

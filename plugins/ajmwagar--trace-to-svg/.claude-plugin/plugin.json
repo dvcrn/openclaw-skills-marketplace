@@ -1,0 +1,10 @@
+{
+  "name": "ajmwagar--trace-to-svg",
+  "description": "Trace bitmap images (PNG/JPG/WebP) into clean SVG paths using potrace/mkbitmap. Use to convert logos/silhouettes into vectors for downstream CAD workflows (e.g., create-dxf etch_svg_path) and for turning reference images into manufacturable outlines.",
+  "version": "0.1.0",
+  "author": {
+    "name": "ajmwagar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ajmwagar/trace-to-svg",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ajmwagar/trace-to-svg"
+}

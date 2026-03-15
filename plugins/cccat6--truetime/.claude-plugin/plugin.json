@@ -1,0 +1,10 @@
+{
+  "name": "cccat6--truetime",
+  "description": "Ensure real-time accurate scheduling and planning across UTC, server time, NTP-sourced time, user local time, and arbitrary time zones. Use for timers, reminders, cron planning, in X minutes or months or years calculations, absolute timestamp conversion, Chinese lunar date awareness, and cross-timezone coordination. Enforce exact duration fidelity so user values are never replaced by example values, compute target times in UTC first, and verify deltas before execution.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cccat6"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cccat6/truetime",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cccat6/truetime"
+}

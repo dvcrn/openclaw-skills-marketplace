@@ -1,0 +1,10 @@
+{
+  "name": "stillstellung--lifx",
+  "description": "Control LIFX smart lights via natural language. Toggle, set colors/brightness, activate scenes, create gradients on multi-zone devices.",
+  "version": "1.0.1",
+  "author": {
+    "name": "stillstellung"
+  },
+  "homepage": "https://github.com/Stillstellung/via-clara-claw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stillstellung/lifx"
+}

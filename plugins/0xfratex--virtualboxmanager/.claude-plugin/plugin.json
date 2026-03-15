@@ -1,0 +1,10 @@
+{
+  "name": "0xfratex--virtualboxmanager",
+  "description": "Control and manage VirtualBox virtual machines directly from openclaw. Start, stop, snapshot, clone, configure and monitor VMs using VBoxManage CLI. Supports full lifecycle management including VM creation, network configuration, shared folders, and performance monitoring.",
+  "version": "0.0.1",
+  "author": {
+    "name": "0xfratex"
+  },
+  "homepage": "https://www.virtualbox.org/manual/ch08.html",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xfratex/virtualboxmanager"
+}

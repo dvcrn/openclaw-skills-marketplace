@@ -1,0 +1,10 @@
+{
+  "name": "konscious0beast--external-ai-integration",
+  "description": "Leverage external AI models (ChatGPT, Claude, Hugging Face, etc.) as tools via browser automation (Chrome Relay) and optional Hugging Face API. Use when you need to augment the assistant's capabilities with external LLMs for reasoning, summarization, code generation, or other tasks without spawning isolated sub‑agents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "konscious0beast"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/konscious0beast/external-ai-integration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/konscious0beast/external-ai-integration"
+}

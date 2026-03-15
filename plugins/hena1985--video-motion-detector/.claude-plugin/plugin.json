@@ -1,0 +1,10 @@
+{
+  "name": "hena1985--video-motion-detector",
+  "description": "视频动作检测与分析。用于检测视频中的特定动作序列，如武术动作、舞蹈动作、人体姿态变化等。当用户要求检测视频中的动作、分析动作是否完成、验证特定动作序列时触发此技能。支持输入视频URL或本地视频文件，检测完成后通过飞书通知结果。",
+  "version": "1.0.0",
+  "author": {
+    "name": "hena1985"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hena1985/video-motion-detector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hena1985/video-motion-detector"
+}

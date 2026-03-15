@@ -1,0 +1,10 @@
+{
+  "name": "cnqso--calorie-counter",
+  "description": "Track daily calorie and protein intake, set goals, and log weight. Use when user mentions food they ate, wants to know remaining calories, or needs to track weight. Stores data in SQLite with automatic daily totals.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cnqso"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cnqso/calorie-counter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cnqso/calorie-counter"
+}

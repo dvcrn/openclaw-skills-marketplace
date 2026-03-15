@@ -1,0 +1,10 @@
+{
+  "name": "1999azzar--mema-vault",
+  "description": "Secure credential manager using AES-256 (Fernet) encryption. Stores, retrieves, and rotates secrets using a mandatory Master Key. Use for managing API keys, database credentials, and other sensitive tokens.",
+  "version": "1.1.9",
+  "author": {
+    "name": "1999azzar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/1999azzar/mema-vault",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/1999azzar/mema-vault"
+}

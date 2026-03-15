@@ -1,0 +1,10 @@
+{
+  "name": "jolestar--uxc-skill-creator",
+  "description": "Create wrapper skills that call remote tools through UXC. Use when defining a new provider skill and you need reusable templates, validation rules, and anti-pattern guidance based on proven UXC skill practices.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jolestar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jolestar/uxc-skill-creator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jolestar/uxc-skill-creator"
+}

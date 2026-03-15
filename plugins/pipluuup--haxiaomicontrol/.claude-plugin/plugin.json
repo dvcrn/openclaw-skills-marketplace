@@ -1,0 +1,10 @@
+{
+  "name": "pipluuup--haxiaomicontrol",
+  "description": "Control Xiaomi smart home devices via Home Assistant API. Use when user wants to control Xiaomi or Xiao AI devices such as air conditioner, speakers, and lights through Home Assistant. Triggers include messages containing device control commands.",
+  "version": "0.1.0",
+  "author": {
+    "name": "pipluuup"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pipluuup/haxiaomicontrol",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pipluuup/haxiaomicontrol"
+}

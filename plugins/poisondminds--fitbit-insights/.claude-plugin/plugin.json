@@ -1,0 +1,10 @@
+{
+  "name": "poisondminds--fitbit-insights",
+  "description": "Fitbit fitness data integration. Use when the user wants fitness insights, workout summaries, step counts, heart rate data, sleep analysis, or to ask questions about their Fitbit activity data. Provides AI-powered analysis of fitness metrics.",
+  "version": "1.0.0",
+  "author": {
+    "name": "poisondminds"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/poisondminds/fitbit-insights",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/poisondminds/fitbit-insights"
+}

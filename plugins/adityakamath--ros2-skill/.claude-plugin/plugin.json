@@ -1,0 +1,10 @@
+{
+  "name": "adityakamath--ros2-skill",
+  "description": "Controls ROS 2 robots directly via rclpy CLI. Use when the user asks about ROS 2 topics, services, nodes, parameters, actions, robot movement, sensor data, or any ROS 2 robot interaction.",
+  "version": "1.0.3",
+  "author": {
+    "name": "adityakamath"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adityakamath/ros2-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adityakamath/ros2-skill"
+}

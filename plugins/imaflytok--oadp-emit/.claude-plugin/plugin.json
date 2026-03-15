@@ -1,0 +1,10 @@
+{
+  "name": "imaflytok--oadp-emit",
+  "description": "Emit OADP discovery signals from your agent's workspace so other agents can find you. Adds markers to your files, configures .well-known endpoints, and joins the open agent discovery network.",
+  "version": "1.0.0",
+  "author": {
+    "name": "imaflytok"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imaflytok/oadp-emit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imaflytok/oadp-emit"
+}

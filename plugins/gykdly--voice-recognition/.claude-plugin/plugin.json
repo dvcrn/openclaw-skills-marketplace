@@ -1,0 +1,10 @@
+{
+  "name": "gykdly--voice-recognition",
+  "description": "Local speech-to-text with OpenAI Whisper CLI. Supports Chinese, English, 100+ languages with translation and summarization.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gykdly"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gykdly/voice-recognition",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gykdly/voice-recognition"
+}

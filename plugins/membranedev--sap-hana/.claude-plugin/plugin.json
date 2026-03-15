@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--sap-hana",
+  "description": "SAP S4 HANA integration. Manage Organizations, Persons, Leads, Deals, Activities, Notes and more. Use when the user wants to interact with SAP S4 HANA data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/sap-hana"
+}

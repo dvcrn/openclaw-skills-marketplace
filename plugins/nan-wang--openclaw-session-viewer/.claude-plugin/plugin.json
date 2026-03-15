@@ -1,0 +1,10 @@
+{
+  "name": "nan-wang--openclaw-session-viewer",
+  "description": "Generate interactive HTML viewer for OpenClaw conversation sessions. Use when: (1) reviewing conversation history, (2) analyzing context management, (3) debugging session logs, (4) visualizing tool calls and results, (5) understanding token usage. Triggers on \"view session\", \"conversation viewer\", \"session history\", \"context viewer\", \"review this conversation\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "nan-wang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nan-wang/openclaw-session-viewer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nan-wang/openclaw-session-viewer"
+}

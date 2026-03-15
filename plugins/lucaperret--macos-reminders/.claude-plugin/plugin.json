@@ -1,0 +1,10 @@
+{
+  "name": "lucaperret--macos-reminders",
+  "description": "Create, list, and manage macOS Reminders via AppleScript. Use when the user asks to create a reminder, add a to-do, make a task, set a reminder for something, or anything involving Apple Reminders on macOS. Triggers on requests like \"remind me to buy milk\", \"add a to-do to call the dentist\", \"create a reminder for Friday\", \"add to my shopping list\", \"flag this as important\". macOS only.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lucaperret"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lucaperret/macos-reminders",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lucaperret/macos-reminders"
+}

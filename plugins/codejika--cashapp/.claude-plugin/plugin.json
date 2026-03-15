@@ -1,0 +1,10 @@
+{
+  "name": "codejika--cashapp",
+  "description": "Cash App Pay integration skill. Accept payments via Cash App — the #1 personal finance app in the U.S. Covers the Network API, Customer Request API, Management API, Pay Kit SDK, sandbox testing, webhooks, and dispute handling.",
+  "version": "1.0.2",
+  "author": {
+    "name": "codejika"
+  },
+  "homepage": "https://developers.cash.app",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codejika/cashapp"
+}

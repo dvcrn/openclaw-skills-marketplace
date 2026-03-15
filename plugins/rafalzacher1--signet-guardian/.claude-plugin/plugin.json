@@ -1,0 +1,10 @@
+{
+  "name": "rafalzacher1--signet-guardian",
+  "description": "Payment guard middleware for AI agents. Use whenever any skill is about to initiate a payment. Runs a preflight check against the user's policy (payments enabled, per-transaction limit, monthly cap). Returns ALLOW, DENY, or CONFIRM_REQUIRED. Other payment-capable skills must call signet-preflight before proceeding and signet-record after a successful payment.",
+  "version": "0.1.0",
+  "author": {
+    "name": "rafalzacher1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rafalzacher1/signet-guardian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rafalzacher1/signet-guardian"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "deals-hunter",
+  "version": "3.0.0",
+  "description": "多数据源羊毛推荐系统 - 基于什么值得买 Feed RSS + 慢慢买实时数据，提供 20 个商品的详细推荐（包含多平台购买链接、推荐理由）",
+  "main": "scripts/deals-hunter-v3.py",
+  "scripts": {
+    "start": "python3 scripts/deals-hunter-v3.py"
+  },
+  "keywords": [
+    "deals",
+    "discounts",
+    "price-monitoring",
+    "shopping",
+    "china",
+    "smzdm",
+    "manmanbuy",
+    "multi-platform",
+    "detailed-recommendations"
+  ],
+  "author": "sunnyhot",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sunnyhot/deals-hunter"
+  },
+  "bugs": {
+    "url": "https://github.com/sunnyhot/deals-hunter/issues"
+  },
+  "homepage": "https://clawhub.com/deals-hunter",
+  "dependencies": {
+    "python": ">=3.7"
+  },
+  "engines": {
+    "python": ">=3.7"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kanfred--gladia-youtube-transcribe",
+  "description": "Transcribe speech from YouTube videos or audio URLs into text using Gladia API with up to 10 free hours of monthly transcription. Use when: you need to summarize YouTube videos (especially Cantonese/Chinese content without captions), convert MP3/audio to text, or extract speech from any video URL. NOT for: private/unlisted content, real-time transcription needs, or when Gladia quota is exhausted.",
+  "version": "1.0.4",
+  "author": {
+    "name": "kanfred"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kanfred/gladia-youtube-transcribe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kanfred/gladia-youtube-transcribe"
+}

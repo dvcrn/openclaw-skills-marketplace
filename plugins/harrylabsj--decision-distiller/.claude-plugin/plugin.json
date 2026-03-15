@@ -1,0 +1,10 @@
+{
+  "name": "harrylabsj--decision-distiller",
+  "description": "Distill decision contexts, options, trade-offs, and outcomes into structured decision records. Use when the user is facing a choice, has made a decision they want to document, or needs to analyze past decisions for patterns. Captures rationale, alternatives considered, and lessons learned.",
+  "version": "1.0.0",
+  "author": {
+    "name": "harrylabsj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/decision-distiller",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/decision-distiller"
+}

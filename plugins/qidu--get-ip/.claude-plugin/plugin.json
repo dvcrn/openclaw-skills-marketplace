@@ -1,0 +1,10 @@
+{
+  "name": "qidu--get-ip",
+  "description": "Get current public IP address and geolocation information. Use when users ask about IP addresses, network location, or want to check their public IP. Supports both fetching IP info and displaying it clearly.",
+  "version": "1.0.2",
+  "author": {
+    "name": "qidu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qidu/get-ip",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qidu/get-ip"
+}

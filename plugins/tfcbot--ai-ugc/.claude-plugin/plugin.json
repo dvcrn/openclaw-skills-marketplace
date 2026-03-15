@@ -1,0 +1,10 @@
+{
+  "name": "tfcbot--ai-ugc",
+  "description": "Call the RawUGC API to generate AI videos/images/music, manage content (personas, products, styles, characters), schedule social media posts, research TikTok content, and analyze viral videos. Use when the user wants to interact with any RawUGC API endpoint.",
+  "version": "0.0.4",
+  "author": {
+    "name": "tfcbot"
+  },
+  "homepage": "https://github.com/tfcbot/rawugc-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tfcbot/ai-ugc"
+}

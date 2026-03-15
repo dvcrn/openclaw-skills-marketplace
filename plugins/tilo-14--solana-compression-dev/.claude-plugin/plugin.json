@@ -1,0 +1,10 @@
+{
+  "name": "tilo-14--solana-compression-dev",
+  "description": "For client and program development on Solana ~160x cheaper and without rent-exemption for per-user state, DePIN registrations, or custom compressed accounts. Create, update, close, burn, and reinitialize compressed accounts.",
+  "version": "1.0.4",
+  "author": {
+    "name": "tilo-14"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tilo-14/solana-compression-dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tilo-14/solana-compression-dev"
+}

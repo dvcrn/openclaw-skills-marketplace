@@ -1,0 +1,10 @@
+{
+  "name": "brorlandi--openclaw-youtube-upload",
+  "description": "Uploads a video to YouTube using the official YouTube Data API v3 and OAuth 2.0. Use this skill when the user asks to upload a video to YouTube. It supports titles, descriptions, privacy settings (public, private, unlisted), and large file chunking. Requires a Google Cloud 'client_secret.json' file.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brorlandi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brorlandi/openclaw-youtube-upload",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brorlandi/openclaw-youtube-upload"
+}

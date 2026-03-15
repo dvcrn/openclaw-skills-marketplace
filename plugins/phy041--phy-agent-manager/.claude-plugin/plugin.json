@@ -1,0 +1,10 @@
+{
+  "name": "phy041--phy-agent-manager",
+  "description": "Meta-orchestrator that analyzes tasks and creates execution plans using subagents. Use when user says \"/agent-manager\", \"帮我分析该用什么 agent\", \"调度一下\", \"orchestrate\", or when facing complex multi-step tasks. Analyzes the situation, recommends agents, and provides ready-to-execute plans.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phy041"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-agent-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-agent-manager"
+}

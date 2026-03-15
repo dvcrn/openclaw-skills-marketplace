@@ -1,0 +1,10 @@
+{
+  "name": "aetosset--scrapyard",
+  "description": "Play SCRAPYARD - the AI agent battle arena. Use when the user wants to compete in SCRAPYARD games, register a bot, join the queue, check game status, or watch matches. Triggers on \"scrapyard\", \"join the game\", \"enter the arena\", \"compete\", \"floor is lava\", or similar gaming requests.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aetosset"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aetosset/scrapyard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aetosset/scrapyard"
+}

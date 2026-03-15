@@ -1,0 +1,10 @@
+{
+  "name": "vaibhav1805--notion-to-markdown",
+  "description": "Convert Notion pages and databases to markdown format using the official Notion API. Use when you need to: (1) Export a single Notion page to markdown, (2) Bulk export entire Notion databases, (3) Automate Notion content publishing, or (4) Integrate Notion content into documentation workflows. Requires Notion API token setup.",
+  "version": "1.0.1",
+  "author": {
+    "name": "vaibhav1805"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vaibhav1805/notion-to-markdown",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vaibhav1805/notion-to-markdown"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "tarnadas--orderly-sdk-install-dependency",
+  "description": "Install Orderly SDK packages and related dependencies (hooks, UI, features, wallet connectors) using the preferred package manager.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tarnadas"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tarnadas/orderly-sdk-install-dependency",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tarnadas/orderly-sdk-install-dependency"
+}

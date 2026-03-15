@@ -1,0 +1,10 @@
+{
+  "name": "alirezarezvani--customer-success-manager",
+  "description": "Monitors customer health, predicts churn risk, and identifies expansion opportunities using weighted scoring models for SaaS customer success. Use when analyzing customer accounts, reviewing retention metrics, scoring at-risk customers, or when the user mentions churn, customer health scores, upsell opportunities, expansion revenue, retention analysis, or customer analytics. Runs three Python CLI tools to produce deterministic health scores, churn risk tiers, and prioritized expansion recommendations across Enterprise, Mid-Market, and SMB segments.",
+  "version": "2.1.1",
+  "author": {
+    "name": "alirezarezvani"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/customer-success-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/customer-success-manager"
+}

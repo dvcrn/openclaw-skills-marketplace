@@ -1,0 +1,10 @@
+{
+  "name": "zeron-g--pc-control",
+  "description": "Remote Windows desktop control from WSL/Linux via screenshot + mouse/keyboard simulation. Use when: user asks to control their PC, click something, open an app, interact with a GUI program, take a screenshot, or perform any desktop automation that has no CLI alternative. NOT for: tasks with command-line alternatives (prefer CLI/PowerShell), reading files, or running scripts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zeron-g"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zeron-g/pc-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zeron-g/pc-control"
+}

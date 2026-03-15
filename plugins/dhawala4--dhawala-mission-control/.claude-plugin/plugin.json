@@ -1,0 +1,10 @@
+{
+  "name": "dhawala4--dhawala-mission-control",
+  "description": "CLI-first system health aggregator for autonomous AI agents. Query all agent processes, resources, cron jobs, and services in one shot. Use when a user asks for system status, agent health, resource monitoring, cron checks, or wants to restart/inspect autonomous systems (daemons, AOMS, VPS workers, cron jobs).",
+  "version": "1.0.0",
+  "author": {
+    "name": "dhawala4"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dhawala4/dhawala-mission-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dhawala4/dhawala-mission-control"
+}

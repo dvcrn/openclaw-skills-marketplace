@@ -1,0 +1,10 @@
+{
+  "name": "yhongm--baidu-search-openclaw",
+  "description": "使用百度 AI 搜索 API 进行 Web 搜索。优先使用 API 模式，配额不足时自动切换到浏览器模式。支持中文搜索、新闻搜索等功能。",
+  "version": "1.0.0",
+  "author": {
+    "name": "yhongm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yhongm/baidu-search-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yhongm/baidu-search-openclaw"
+}

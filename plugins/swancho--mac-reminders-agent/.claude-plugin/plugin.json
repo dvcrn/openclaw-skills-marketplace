@@ -1,0 +1,10 @@
+{
+  "name": "swancho--mac-reminders-agent",
+  "description": "Integrate with macOS Reminders app to check, add, edit, delete, and complete reminders.\n Supports multiple reminder lists (calendars), priority levels (high/medium/low), and title search.\n Supports native recurrence (매주/weekly/毎週/每周) via Swift EventKit - creates single reminder with repeat rule.\n Supports editing and deleting reminders by ID (calendarItemIdentifier from EventKit).\n Supports multiple languages (en, ko, ja, zh) for trigger detection and response formatting.\n When users request recurring reminders, MUST use --repeat option (daily|weekly|monthly|yearly).\n Supports parsing meeting notes to extract action items and suggest reminders (parse command).\n Parse command is pure text processing - no Reminders app access required.",
+  "version": "1.4.0",
+  "author": {
+    "name": "swancho"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/swancho/mac-reminders-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/swancho/mac-reminders-agent"
+}

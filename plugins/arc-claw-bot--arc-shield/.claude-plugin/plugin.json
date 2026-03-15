@@ -1,0 +1,10 @@
+{
+  "name": "arc-claw-bot--arc-shield",
+  "description": "Output sanitization for agent responses - prevents accidental secret leaks",
+  "version": "1.0.0",
+  "author": {
+    "name": "arc-claw-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arc-claw-bot/arc-shield",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arc-claw-bot/arc-shield"
+}

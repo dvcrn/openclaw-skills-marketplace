@@ -1,0 +1,10 @@
+{
+  "name": "sukimgit--task-reminder",
+  "description": "智能任务提醒系统：自动检查到期任务、过期任务，支持飞书/邮件通知，防止错过重要事项。",
+  "version": "1.0.1",
+  "author": {
+    "name": "sukimgit"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sukimgit/task-reminder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sukimgit/task-reminder"
+}

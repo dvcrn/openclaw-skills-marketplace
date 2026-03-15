@@ -1,0 +1,10 @@
+{
+  "name": "thisisjeron--actual-budget",
+  "description": "Query and manage personal finances via the official Actual Budget Node.js API. Use for budget queries, transaction imports/exports, account management, categorization, rules, schedules, and bank sync with self-hosted Actual Budget instances.",
+  "version": "1.0.2",
+  "author": {
+    "name": "thisisjeron"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thisisjeron/actual-budget",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thisisjeron/actual-budget"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "proxyhq--proxy-pay-mcp",
+  "description": "Proxy MCP server integration for agent payments. Use MCP tools to create intents, issue cards within policy, and track transactions. Supports agent tokens for autonomous runs and OAuth for interactive clients.",
+  "version": "1.0.1",
+  "author": {
+    "name": "proxyhq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/proxyhq/proxy-pay-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/proxyhq/proxy-pay-mcp"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "harrey401--lofy-home",
+  "description": "Smart home control for the Lofy AI assistant — scene modes (study, chill, sleep, morning, grind), device management via Home Assistant REST API, presence-based automation, natural language commands for lights, music, thermostat, and PC wake-on-LAN. Use when controlling smart home devices, activating scene modes, or managing home automation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "harrey401"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harrey401/lofy-home",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harrey401/lofy-home"
+}

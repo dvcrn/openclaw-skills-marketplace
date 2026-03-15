@@ -1,0 +1,10 @@
+{
+  "name": "roggeohta--github-digest",
+  "description": "Generate a structured GitHub repo digest with briefing summary, categorized changes (breaking/major features/minor features/bug fixes), community discussions, and clickable source links. Use when: (1) user asks about a repo's recent activity, releases, PRs, or issues, (2) user wants a daily/weekly GitHub digest or briefing, (3) user asks 'what's new' or 'what happened' on a GitHub repo. NOT for: single PR review (use github skill), code changes (use coding-agent), or CI/issue management (use github skill directly).",
+  "version": "1.0.0",
+  "author": {
+    "name": "roggeohta"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/roggeohta/github-digest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/roggeohta/github-digest"
+}

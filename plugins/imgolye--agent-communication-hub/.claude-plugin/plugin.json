@@ -1,0 +1,10 @@
+{
+  "name": "imgolye--agent-communication-hub",
+  "description": "Provide agent-to-agent communication for OpenClaw skills with direct messaging, broadcast delivery, pub/sub events, session tracking, offline queues, and SQLite-backed persistence. Use when agents need reliable message exchange, event fan-out, subscription filtering, or communication history.",
+  "version": "0.1.0",
+  "author": {
+    "name": "imgolye"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imgolye/agent-communication-hub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imgolye/agent-communication-hub"
+}

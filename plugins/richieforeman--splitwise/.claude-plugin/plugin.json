@@ -1,0 +1,10 @@
+{
+  "name": "richieforeman--splitwise",
+  "description": "Create and manage expenses on Splitwise. Use this skill when the user wants to log a new expense, split a bill, or check their Splitwise balance.",
+  "version": "0.1.0",
+  "author": {
+    "name": "richieforeman"
+  },
+  "homepage": "https://github.com/richieforeman/openclaw-splitwise-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/richieforeman/splitwise"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jdrhyne--nutrient-document-processing",
+  "description": "Document processing for OpenClaw — convert, extract, OCR, redact, sign, and watermark PDFs and Office documents using the Nutrient DWS API. Use when asked to convert documents (DOCX/XLSX/PPTX to PDF, PDF to images or Office formats), extract text or tables from PDFs, apply OCR to scanned documents, redact sensitive information or PII, add watermarks, or digitally sign documents. Triggers on \"convert to PDF\", \"extract text\", \"OCR this\", \"redact PII\", \"watermark\", \"sign document\", or any document processing request.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jdrhyne"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jdrhyne/nutrient-document-processing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jdrhyne/nutrient-document-processing"
+}

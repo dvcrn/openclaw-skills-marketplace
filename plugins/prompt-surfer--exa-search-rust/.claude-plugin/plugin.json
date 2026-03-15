@@ -1,0 +1,10 @@
+{
+  "name": "prompt-surfer--exa-search-rust",
+  "description": "Neural web search, similar-page discovery, and URL content fetching via the Exa AI search engine. USE WHEN: user asks to search the web, find articles/repos/papers on a topic, look up recent news, find pages similar to a URL, or fetch page contents for a known URL. NOT FOR: fetching tweets (use fxtwitter), downloading videos (use yt-dlp), scraping JS-heavy or anti-bot sites (use scrapling), querying APIs directly, or searching local files/repos (use rg/find).",
+  "version": "1.0.3",
+  "author": {
+    "name": "prompt-surfer"
+  },
+  "homepage": "https://github.com/Prompt-Surfer/exa-search-rust",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/prompt-surfer/exa-search-rust"
+}

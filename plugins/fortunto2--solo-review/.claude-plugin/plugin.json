@@ -1,0 +1,10 @@
+{
+  "name": "fortunto2--solo-review",
+  "description": "Final code review and quality gate — run tests, check coverage, audit security, verify acceptance criteria from spec, and generate ship-ready report. Use when user says \"review code\", \"quality check\", \"is it ready to ship\", \"final review\", or after /deploy completes. Do NOT use for planning (use /plan) or building (use /build).",
+  "version": "1.1.1",
+  "author": {
+    "name": "fortunto2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-review"
+}

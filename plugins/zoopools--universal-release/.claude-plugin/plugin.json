@@ -1,0 +1,10 @@
+{
+  "name": "zoopools--universal-release",
+  "description": "Universal release workflow. Auto-detects version files and changelogs. Supports Node.js, Python, Rust, Claude Plugin, and generic projects. Use when user says \"release\", \"发布\", \"new version\", \"bump version\", \"push\", \"推送\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "zoopools"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zoopools/universal-release",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zoopools/universal-release"
+}

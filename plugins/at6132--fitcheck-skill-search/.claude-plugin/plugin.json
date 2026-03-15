@@ -1,0 +1,10 @@
+{
+  "name": "at6132--fitcheck-skill-search",
+  "description": "Find and retrieve available skills using keyword search, semantic search, or LLM-powered task matching. Use when the agent needs to discover, search, or intelligently match skills to tasks. Supports hybrid search (BM25 + semantic), natural language task descriptions, and intelligent skill recommendations.",
+  "version": "1.1.0",
+  "author": {
+    "name": "at6132"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/at6132/fitcheck-skill-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/at6132/fitcheck-skill-search"
+}

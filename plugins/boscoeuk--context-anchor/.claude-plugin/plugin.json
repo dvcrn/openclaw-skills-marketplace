@@ -1,0 +1,10 @@
+{
+  "name": "boscoeuk--context-anchor",
+  "description": "Recover from context compaction by scanning memory files and surfacing where you left off. Use when waking up fresh, after compaction, or when you feel lost about what you were doing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "boscoeuk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/boscoeuk/context-anchor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/boscoeuk/context-anchor"
+}

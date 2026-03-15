@@ -1,0 +1,10 @@
+{
+  "name": "zxrys--arxiv-paper-reviews",
+  "description": "Interact with arXiv Crawler API to fetch papers, read reviews, submit comments, search papers, and import papers. Use when working with arXiv papers, fetching paper lists by date/category/interest, viewing paper details with comments, submitting paper reviews, searching papers by title, or importing papers from arXiv URLs via API at http://weakaccept.top:8000/.",
+  "version": "1.0.6",
+  "author": {
+    "name": "zxrys"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zxrys/arxiv-paper-reviews",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zxrys/arxiv-paper-reviews"
+}

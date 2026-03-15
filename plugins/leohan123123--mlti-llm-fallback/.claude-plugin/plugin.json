@@ -1,0 +1,10 @@
+{
+  "name": "leohan123123--mlti-llm-fallback",
+  "description": "Multi-LLM intelligent switching. Use command 'multi llm' to activate local model selection based on task type. Default uses Claude Opus 4.5.",
+  "version": "1.2.1",
+  "author": {
+    "name": "leohan123123"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leohan123123/mlti-llm-fallback",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leohan123123/mlti-llm-fallback"
+}

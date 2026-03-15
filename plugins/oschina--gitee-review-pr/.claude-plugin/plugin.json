@@ -1,0 +1,10 @@
+{
+  "name": "oschina--gitee-review-pr",
+  "description": "Use this skill when the user asks to review a PR, do a code review, check a pull request, \"review this PR\", \"review-pr\", or \"look at this pull request\". Requires Gitee MCP Server to be configured.",
+  "version": "1.0.0",
+  "author": {
+    "name": "oschina"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oschina/gitee-review-pr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oschina/gitee-review-pr"
+}

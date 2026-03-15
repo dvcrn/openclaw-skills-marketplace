@@ -1,0 +1,10 @@
+{
+  "name": "stym06--keys-manager",
+  "description": "Manage API keys locally from the terminal using the `keys` CLI. Use when users want to store, retrieve, search, import, export, or organize API keys and secrets. Handles .env file operations, profile-based key isolation, and secure key management workflows.",
+  "version": "0.5.1",
+  "author": {
+    "name": "stym06"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stym06/keys-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stym06/keys-manager"
+}

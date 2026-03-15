@@ -1,0 +1,10 @@
+{
+  "name": "majmunu--ccw-project-supervisor",
+  "description": "supervise software project execution with openclaude and claude code workflow. use when the user wants an ai supervisor to drive workflow-plan, /issue/plan, /issue/queue, and /issue/execute, validate backlog quality, check engineering dependency order, prevent scope drift, and recommend the next ccw step for a greenfield or existing software project.",
+  "version": "1.0.0",
+  "author": {
+    "name": "majmunu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/majmunu/ccw-project-supervisor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/majmunu/ccw-project-supervisor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "romainsantoli-web--firm-gateway-hardening-pack",
+  "description": "Gateway authentication hardening and credentials audit pack. Validates device auth, Baileys credentials, webhook HMAC signatures, log configuration, and workspace integrity. 5 specialized security tools.",
+  "version": "1.0.0",
+  "author": {
+    "name": "romainsantoli-web"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-gateway-hardening-pack",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-gateway-hardening-pack"
+}

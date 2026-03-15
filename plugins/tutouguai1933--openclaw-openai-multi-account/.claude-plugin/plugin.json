@@ -1,0 +1,10 @@
+{
+  "name": "tutouguai1933--openclaw-openai-multi-account",
+  "description": "Manage multiple OpenAI OAuth login accounts inside OpenClaw, including OpenAI Codex OAuth account snapshots, switching, real active-account detection, 5-hour and weekly quota inspection via Codex CLI cache, ACTIVE metadata repair, auto-enrollment of newly logged-in accounts, same-model auto-rotation near exhaustion, and fallback to a backup model such as Bailian when all OpenAI accounts are unavailable. Use when the user asks about multiple OpenAI OAuth accounts in OpenClaw, OpenAI/Codex account switching, the current real active account, local saved accounts, 5h or weekly remaining quota, OAuth re-login, automatic account rotation, or fallback behavior in OpenClaw.",
+  "version": "1.0.2",
+  "author": {
+    "name": "tutouguai1933"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tutouguai1933/openclaw-openai-multi-account",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tutouguai1933/openclaw-openai-multi-account"
+}

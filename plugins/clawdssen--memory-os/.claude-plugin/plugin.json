@@ -1,0 +1,10 @@
+{
+  "name": "clawdssen--memory-os",
+  "description": "Persistent memory system for AI agents — daily logs, long-term memory, identity files, and heartbeat-driven recall. Solves context amnesia across sessions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "clawdssen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clawdssen/memory-os",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clawdssen/memory-os"
+}

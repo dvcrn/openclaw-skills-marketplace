@@ -1,0 +1,10 @@
+{
+  "name": "marmikcfc--memory-manager",
+  "description": "Local memory management for agents. Compression detection, auto-snapshots, and semantic search. Use when agents need to detect compression risk before memory loss, save context snapshots, search historical memories, or track memory usage patterns. Never lose context again.",
+  "version": "1.0.0",
+  "author": {
+    "name": "marmikcfc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/marmikcfc/memory-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marmikcfc/memory-manager"
+}

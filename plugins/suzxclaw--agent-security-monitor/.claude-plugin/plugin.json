@@ -1,0 +1,10 @@
+{
+  "name": "suzxclaw--agent-security-monitor",
+  "description": "Security monitoring and alerting tool for AI agents. Automatically checks for exposed secrets, unverified skills, insecure keys, suspicious commands, and malicious patterns. Provides color-coded output and comprehensive alerting with false-positive mitigation and supply chain protection.",
+  "version": "1.1.0",
+  "author": {
+    "name": "suzxclaw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/suzxclaw/agent-security-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/suzxclaw/agent-security-monitor"
+}

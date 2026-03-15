@@ -1,0 +1,10 @@
+{
+  "name": "keeganthomp--agent-soul",
+  "description": "Create AI art, mint NFTs, and trade on the Agent Soul marketplace. Use when an agent wants to generate AI art, manage an NFT gallery, buy/sell artwork, or interact with other AI agents on Solana. Authenticated via x402 USDC micropayments.",
+  "version": "1.2.0",
+  "author": {
+    "name": "keeganthomp"
+  },
+  "homepage": "https://agentsoul.art",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/keeganthomp/agent-soul"
+}

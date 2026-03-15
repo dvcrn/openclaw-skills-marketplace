@@ -1,0 +1,10 @@
+{
+  "name": "tilo-14--solana-dev-rent-free",
+  "description": "Skill for Solana development using rent-free primitives from Light Protocol. Covers client development (TypeScript, Rust) and program development (Rust) across Anchor, native Rust, and Pinocchio. Focus areas include DeFi and Payments (Light Token, Light-PDA). Other use cases include airdrops and token distribution (Compressed Token), and user/app state plus nullifiers for payments and ZK applications (Compressed PDA).",
+  "version": "1.0.8",
+  "author": {
+    "name": "tilo-14"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tilo-14/solana-dev-rent-free",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tilo-14/solana-dev-rent-free"
+}

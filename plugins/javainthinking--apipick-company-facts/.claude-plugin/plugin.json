@@ -1,0 +1,10 @@
+{
+  "name": "javainthinking--apipick-company-facts",
+  "description": "Retrieve public company information by stock ticker symbol or SEC CIK number using the apipick Company Facts API. Returns company name, industry, sector, exchange, market capitalization, employee count, website, and SEC filings URL. Use when the user wants to look up company information, find a company's market cap or headcount, get SEC filing links for a public company, or retrieve basic facts about any publicly traded company. Requires an apipick API key (x-api-key). Get a free key at https://www.apipick.com.",
+  "version": "1.0.0",
+  "author": {
+    "name": "javainthinking"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/javainthinking/apipick-company-facts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/javainthinking/apipick-company-facts"
+}

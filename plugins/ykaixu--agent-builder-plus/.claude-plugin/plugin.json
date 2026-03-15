@@ -1,0 +1,10 @@
+{
+  "name": "ykaixu--agent-builder-plus",
+  "description": "Build high-performing OpenClaw agents end-to-end with comprehensive safety features. Use when you want to design a new agent (persona + operating rules) and generate required OpenClaw workspace files (SOUL.md, IDENTITY.md, AGENTS.md, USER.md, HEARTBEAT.md, optional MEMORY.md + memory/YYYY-MM-DD.md). Includes anti-deadlock protection, timeout handling, error recovery, loop breaker, message overload protection, token limit protection, retry mechanism, health check, degraded mode, monitoring & logging, configuration validation, and channel conflict prevention. Also use to iterate on an existing agent's behavior, guardrails, autonomy model, heartbeat plan, and skill roster.",
+  "version": "1.0.3",
+  "author": {
+    "name": "ykaixu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ykaixu/agent-builder-plus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ykaixu/agent-builder-plus"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "parkertoddbrooks--wip-1password",
+  "description": "AI plugin (Claude Code, OpenClaw) for 1Password secrets via JS SDK. Resolves op:// references at startup, provides agent tools for reading/writing secrets, fully headless via service account.",
+  "version": "0.2.2",
+  "author": {
+    "name": "parkertoddbrooks"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/parkertoddbrooks/wip-1password",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/parkertoddbrooks/wip-1password"
+}

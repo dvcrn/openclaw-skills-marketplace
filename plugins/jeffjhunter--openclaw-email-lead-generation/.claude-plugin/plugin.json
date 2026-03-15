@@ -1,0 +1,10 @@
+{
+  "name": "jeffjhunter--openclaw-email-lead-generation",
+  "description": "OpenClaw Email Lead Generation — the complete outreach and pipeline system for your agent. Guided setup builds your config, Template Forge creates custom email sequences from a voice interview, and 3-tier architecture scales from manual pipeline tracking to fully automated cron-driven outreach. Add leads, score them, run email sequences, monitor replies, get morning briefings, and track your entire funnel — all through conversation. v1.0.1: timezone support, per-domain rate limits, email warmup, compliance/unsubscribe, audit logging, inbound HTML stripping, credential security, temp-file email body (fixes JSON escaping). Works standalone or alongside AI Persona OS. Built by Jeff J Hunter.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jeffjhunter"
+  },
+  "homepage": "https://jeffjhunter.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeffjhunter/openclaw-email-lead-generation"
+}

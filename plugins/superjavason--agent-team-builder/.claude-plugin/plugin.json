@@ -1,0 +1,10 @@
+{
+  "name": "superjavason--agent-team-builder",
+  "description": "Guide users through building a custom multi-agent team on OpenClaw — from role design to workspace files, routing bindings, channel configuration, and collaboration rules. Use this skill whenever the user mentions building an AI team, multi-agent setup, multi-agent collaboration, agent roles, OpenClaw team configuration, or wants to create multiple agents that work together. Also trigger when the user says things like \"set up my agents\", \"create an agent team\", \"configure multi-agent\", \"I want multiple AI assistants working together\", or references team coordination, agent routing, agent-to-agent communication, or workspace isolation in OpenClaw.",
+  "version": "0.1.0",
+  "author": {
+    "name": "superjavason"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/superjavason/agent-team-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/superjavason/agent-team-builder"
+}

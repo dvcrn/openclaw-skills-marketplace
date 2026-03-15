@@ -1,0 +1,10 @@
+{
+  "name": "ustay-coder--kr-document-reviewer",
+  "description": "한국 비즈니스 서류(세금계산서, 계약서, 통장사본, 견적서, 거래명세서, 사업자등록증, 사업비 요청 공문, 지원금 신청서, 검수조서, 이체확인증, 결과보고서) 검토 및 검증. Use when reviewing Korean business documents for format compliance, required fields, value accuracy, and cross-document consistency. Triggers on: 서류 검토, 문서 확인, 세금계산서 검증, 계약서 리뷰, 견적서 확인, 통장사본 검증, 거래명세서 확인, 사업자등록증 확인, 검수조서 검토, 이체확인증 검증, 결과보고서 검토, document review, invoice check.",
+  "version": "1.1.1",
+  "author": {
+    "name": "ustay-coder"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ustay-coder/kr-document-reviewer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ustay-coder/kr-document-reviewer"
+}

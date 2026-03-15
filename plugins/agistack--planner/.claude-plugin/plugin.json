@@ -1,0 +1,10 @@
+{
+  "name": "agistack--planner",
+  "description": "Local-first planning engine for trips, weeks, launches, projects, schedules, and structured decision-making. Use whenever the user wants to plan something, organize future steps, create a roadmap, map constraints, compare options, or turn a vague goal into a phased plan. Also use when the user says they need a plan, itinerary, schedule, rollout, timeline, or structured next steps. Local-only storage.",
+  "version": "1.0.0",
+  "author": {
+    "name": "agistack"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agistack/planner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agistack/planner"
+}

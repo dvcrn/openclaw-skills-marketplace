@@ -1,0 +1,10 @@
+{
+  "name": "yoavrez--openclaw-youtube-transcript",
+  "description": "\"Transcribe YouTube videos to text using yt-dlp from video URL made for Openclaw agents. Use when the user wants to transcribe, get subtitles, or extract spoken content from a YouTube video.",
+  "version": "1.0.1",
+  "author": {
+    "name": "yoavrez"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yoavrez/openclaw-youtube-transcript",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yoavrez/openclaw-youtube-transcript"
+}

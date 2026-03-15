@@ -1,0 +1,10 @@
+{
+  "name": "brs999--kalshi-trades",
+  "description": "Read-only Kalshi OpenAPI scouting skill for market discovery, liquidity checks, and market validation. Use for scanning and ranking Kalshi opportunities. Pair with a separate paper-trading skill if you want open/close execution.",
+  "version": "1.0.1",
+  "author": {
+    "name": "brs999"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brs999/kalshi-trades",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brs999/kalshi-trades"
+}

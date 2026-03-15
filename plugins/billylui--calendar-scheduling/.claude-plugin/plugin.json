@@ -1,0 +1,10 @@
+{
+  "name": "billylui--calendar-scheduling",
+  "description": "Schedule meetings, check availability, and manage calendars across Google, Outlook, and CalDAV. Routes to focused sub-skills for datetime resolution and calendar scheduling.\n Also available as temporal-cortex. Both listings install the same MCP server and share the same source code.",
+  "version": "0.9.1",
+  "author": {
+    "name": "billylui"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/billylui/calendar-scheduling",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/billylui/calendar-scheduling"
+}

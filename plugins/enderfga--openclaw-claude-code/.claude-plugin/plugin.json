@@ -1,0 +1,10 @@
+{
+  "name": "enderfga--openclaw-claude-code",
+  "description": "Control Claude Code via MCP protocol. Execute commands, read/write files, search code, and use all Claude Code tools programmatically with agent team support.",
+  "version": "0.3.0",
+  "author": {
+    "name": "enderfga"
+  },
+  "homepage": "https://github.com/enderfga/claude-code-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/enderfga/openclaw-claude-code"
+}

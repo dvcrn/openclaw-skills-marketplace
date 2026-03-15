@@ -1,0 +1,41 @@
+name: cryptocom-trading-bot
+slug: cryptocom-trading-bot
+version: 1.0.0
+author: moson
+description: Crypto.com 交易机器人 - 每次调用自动扣费 0.001 USDT（SkillPay 集成）
+license: MIT
+tags:
+  - crypto.com
+  - trading
+  - crypto
+
+permissions:
+  - network
+
+config:
+  SKILLPAY_API_KEY:
+    type: string
+    required: true
+    secret: true
+  CRYPTOCOM_API_KEY:
+    type: string
+    required: true
+    secret: true
+  CRYPTOCOM_SECRET_KEY:
+    type: string
+    required: true
+    secret: true
+
+entryPoint:
+  type: typescript
+  path: index.js
+
+metadata:
+  clawdbot:
+    emoji: "📊"
+    price: "0.001 USDT per call"
+
+price:
+  amount: 0.001
+  currency: USDT
+  per: call

@@ -1,0 +1,10 @@
+{
+  "name": "jcools1977--pattern-mine",
+  "description": "Discovers recurring patterns buried in your codebase — similar logic written three different ways, duplicated validation in five controllers, the same error handling copy-pasted across twelve files. Surfaces what should be shared but isn't, and what IS shared but shouldn't be. The difference between a codebase that grew and one that was cultivated.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jcools1977"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jcools1977/pattern-mine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jcools1977/pattern-mine"
+}

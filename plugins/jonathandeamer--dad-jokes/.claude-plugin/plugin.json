@@ -1,0 +1,10 @@
+{
+  "name": "jonathandeamer--dad-jokes",
+  "description": "Tell dad jokes on demand by fetching a random joke from the shuttie/dadjokes HuggingFace dataset. Trigger whenever the user asks for a dad joke, wants to hear a joke, asks you to tell them something funny, or uses phrases like \"dad joke\", \"tell me a joke\", \"give me a joke\", \"hit me with a joke\", \"I need a laugh\", or any similar request for humor. Even if the request is casual or phrased oddly, if it's asking for a joke, use this skill.",
+  "version": "1.1.3",
+  "author": {
+    "name": "jonathandeamer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jonathandeamer/dad-jokes",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jonathandeamer/dad-jokes"
+}

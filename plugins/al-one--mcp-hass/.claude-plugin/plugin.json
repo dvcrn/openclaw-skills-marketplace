@@ -1,0 +1,10 @@
+{
+  "name": "al-one--mcp-hass",
+  "description": "The skill for control Home Assistant smart home devices and query states using MCP protocol.",
+  "version": "1.0.1",
+  "author": {
+    "name": "al-one"
+  },
+  "homepage": "https://home-assistant.io/integrations/mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/al-one/mcp-hass"
+}

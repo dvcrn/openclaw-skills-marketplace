@@ -1,0 +1,10 @@
+{
+  "name": "xucheng--local-openclaw-router",
+  "description": "Install, update, or repair the OpenClaw Router plugin from its public GitHub repo into ~/.openclaw, then verify routing, CLI commands, and stats.",
+  "version": "0.1.0",
+  "author": {
+    "name": "xucheng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xucheng/local-openclaw-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xucheng/local-openclaw-router"
+}

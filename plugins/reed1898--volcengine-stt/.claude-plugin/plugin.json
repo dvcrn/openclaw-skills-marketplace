@@ -1,0 +1,10 @@
+{
+  "name": "reed1898--volcengine-stt",
+  "description": "Transcribe audio to text using Volcano Engine (Volcengine/ARK) speech-to-text APIs. Use when the user wants to replace Whisper/OpenAI STT with Volcengine, transcribe Telegram/Discord voice notes via Volcengine, or build a reusable STT skill for other OpenClaw agents.",
+  "version": "0.2.1",
+  "author": {
+    "name": "reed1898"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/reed1898/volcengine-stt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/reed1898/volcengine-stt"
+}

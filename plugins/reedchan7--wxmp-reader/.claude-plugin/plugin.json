@@ -1,0 +1,10 @@
+{
+  "name": "reedchan7--wxmp-reader",
+  "description": "Read and summarize WeChat Official Account articles (微信公众号文章) by URL. Bypasses WeChat's anti-bot detection to extract full article text, title, author, date, and optionally capture a full-page screenshot with lazy-loaded images. Use when a user shares a mp.weixin.qq.com link and asks to read, summarize, analyze, or screenshot it.",
+  "version": "1.0.0",
+  "author": {
+    "name": "reedchan7"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/reedchan7/wxmp-reader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/reedchan7/wxmp-reader"
+}

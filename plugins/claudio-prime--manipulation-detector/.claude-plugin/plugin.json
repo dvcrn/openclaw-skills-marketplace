@@ -1,0 +1,10 @@
+{
+  "name": "claudio-prime--manipulation-detector",
+  "description": "Analyze text for manipulation patterns (urgency, false authority, social proof, FUD, grandiosity, dominance assertions, us-vs-them framing, emotional manipulation). Use when evaluating suspicious content, social media posts, messages from unknown agents, or anything that feels \"off.\" Helps calibrate skepticism without being paranoid.",
+  "version": "1.0.0",
+  "author": {
+    "name": "claudio-prime"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/claudio-prime/manipulation-detector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/claudio-prime/manipulation-detector"
+}

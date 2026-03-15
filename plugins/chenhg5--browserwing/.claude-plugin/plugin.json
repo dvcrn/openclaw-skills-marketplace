@@ -1,0 +1,10 @@
+{
+  "name": "chenhg5--browserwing",
+  "description": "Control browser automation through HTTP API. Supports page navigation, element interaction (click, type, select), data extraction, accessibility snapshot analysis, screenshot, JavaScript execution, and batch operations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chenhg5"
+  },
+  "homepage": "https://github.com/browserwing/browserwing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chenhg5/browserwing"
+}

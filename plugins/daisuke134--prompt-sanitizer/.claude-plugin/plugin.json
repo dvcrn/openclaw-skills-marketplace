@@ -1,0 +1,10 @@
+{
+  "name": "daisuke134--prompt-sanitizer",
+  "description": "Sanitize prompts before sending to LLMs. Detects PII, prompt injection, toxicity, and off-topic content. Returns cleaned text + risk score. Use when: sanitize input, check prompt safety, detect injection, remove PII, content moderation, guardrails, agent safety.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daisuke134"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daisuke134/prompt-sanitizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daisuke134/prompt-sanitizer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mariuswang007--tv-strategy-settings",
+  "description": "Open and modify TradingView strategy settings on the current chart page. Use when: user wants to change strategy parameters, adjust inputs like stop-loss/take-profit/period/amount, modify strategy properties like initial capital/commission/slippage, or tune any strategy setting on TradingView. Supports natural language (e.g. '把止损改成2%') and exact parameter names. NOT for: creating new strategies, writing Pine Script code, or chart drawing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mariuswang007"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mariuswang007/tv-strategy-settings",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mariuswang007/tv-strategy-settings"
+}

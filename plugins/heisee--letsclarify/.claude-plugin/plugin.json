@@ -1,0 +1,10 @@
+{
+  "name": "heisee--letsclarify",
+  "description": "Collect structured human input — approvals, decisions, reviews, data — via web forms. Create a form with a JSON schema, send unique URLs to humans, poll for results. Use when your workflow needs a human in the loop before proceeding.",
+  "version": "1.0.7",
+  "author": {
+    "name": "heisee"
+  },
+  "homepage": "https://letsclarify.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/heisee/letsclarify"
+}

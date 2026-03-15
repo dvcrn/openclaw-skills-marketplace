@@ -1,0 +1,10 @@
+{
+  "name": "atyachin--social-sentiment",
+  "description": "Sentiment analysis for brands and products across Twitter, Reddit, and Instagram. Monitor public opinion, track brand reputation, detect PR crises, surface complaints and praise at scale — analyze 70K+ posts with bulk CSV export and Python/pandas. Social listening and brand monitoring powered by 1.5B+ indexed posts.",
+  "version": "1.4.0",
+  "author": {
+    "name": "atyachin"
+  },
+  "homepage": "https://xpoz.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/atyachin/social-sentiment"
+}

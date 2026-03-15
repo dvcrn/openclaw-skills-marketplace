@@ -1,0 +1,10 @@
+{
+  "name": "martc03--gov-disaster-intel",
+  "description": "FEMA disaster declarations, NOAA weather alerts, and USGS earthquake data. 3 tools for real-time disaster monitoring.",
+  "version": "1.0.0",
+  "author": {
+    "name": "martc03"
+  },
+  "homepage": "https://github.com/martc03/gov-mcp-servers",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/martc03/gov-disaster-intel"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kaicianflone--consensus-publish-guard",
+  "description": "Persona-weighted governance for outbound publishing (blog, social, announcements). Prevents unsafe public claims via hard-block checks, weighted consensus, rewrite paths, and board-native audit artifacts.",
+  "version": "1.1.17",
+  "author": {
+    "name": "kaicianflone"
+  },
+  "homepage": "https://github.com/kaicianflone/consensus-publish-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kaicianflone/consensus-publish-guard"
+}

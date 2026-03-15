@@ -1,0 +1,10 @@
+{
+  "name": "baokui--llm-video-generator",
+  "description": "Generate videos from text descriptions using ZhipuAI CogVideoX-3 model. Supports text-to-video, image-to-video, and first/last frame-to-video generation. Automatically handles long videos (over 5s) by chaining multiple generation calls with last-frame continuation. Use when the user asks to create/generate a video from text, make a video, text-to-video, 文生视频, 生成视频, 做个视频, or any request involving converting text/images into a video. Supports configuring video content, style, resolution (up to 4K), frame rate (30/60fps), audio, and duration.",
+  "version": "1.0.1",
+  "author": {
+    "name": "baokui"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/baokui/llm-video-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/baokui/llm-video-generator"
+}

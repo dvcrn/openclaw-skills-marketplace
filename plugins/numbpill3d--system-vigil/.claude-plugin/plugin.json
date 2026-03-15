@@ -1,0 +1,10 @@
+{
+  "name": "numbpill3d--system-vigil",
+  "description": "Monitor host system health (Disk, RAM, CPU). Returns structured JSON status for predictive maintenance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "numbpill3d"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/numbpill3d/system-vigil",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/numbpill3d/system-vigil"
+}

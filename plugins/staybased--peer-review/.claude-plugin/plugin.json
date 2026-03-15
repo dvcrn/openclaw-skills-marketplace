@@ -1,0 +1,10 @@
+{
+  "name": "staybased--peer-review",
+  "description": "Multi-model peer review layer using local LLMs via Ollama to catch errors in cloud model output.\n Fan-out critiques to 2-3 local models, aggregate flags, synthesize consensus.\n\n Use when: validating trade analyses, reviewing agent output quality, testing local model accuracy,\n checking any high-stakes Claude output before publishing or acting on it.\n\n Don't use when: simple fact-checking (just search the web), tasks that don't benefit from\n multi-model consensus, time-critical decisions where 60s latency is unacceptable,\n reviewing trivial or low-stakes content.\n\n Negative examples:\n - \"Check if this date is correct\" → No. Just web search it.\n - \"Review my grocery list\" → No. Not worth multi-model inference.\n - \"I need this answer in 5 seconds\" → No. Peer review adds 30-60s latency.\n\n Edge cases:\n - Short text (<50 words) → Models may not find meaningful issues. Consider skipping.\n - Highly technical domain → Local models may lack domain knowledge. Weight flags lower.\n - Creative writing → Factual review doesn't apply well. Use only for logical consistency.",
+  "version": "1.0.0",
+  "author": {
+    "name": "staybased"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/staybased/peer-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/staybased/peer-review"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--website-auditor",
+  "description": "Audit any website across 8 quality signals to determine if it is outdated, broken, or neglected. Returns a structured audit dict used by the lead-scorer skill.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/website-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/website-auditor"
+}

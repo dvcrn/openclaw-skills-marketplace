@@ -1,0 +1,10 @@
+{
+  "name": "youpele52--stock-price-checker-pro",
+  "description": "Run a local script to fetch current stock prices. Use the read tool to load this SKILL.md, then exec the uv run command inside it. Do NOT use sessions_spawn or web search. Triggers: stock price, share price, how much is [company] stock, ticker price, market price of.",
+  "version": "0.1.4",
+  "author": {
+    "name": "youpele52"
+  },
+  "homepage": "https://finance.yahoo.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/youpele52/stock-price-checker-pro"
+}

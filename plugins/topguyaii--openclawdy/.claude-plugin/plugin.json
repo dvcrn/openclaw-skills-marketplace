@@ -1,0 +1,10 @@
+{
+  "name": "topguyaii--openclawdy",
+  "description": "Memory infrastructure for AI agents. Persistent storage, semantic recall, reputation tracking, cross-agent pools, and time-travel snapshots. Wallet-based auth (signing only, no private key access).",
+  "version": "1.1.0",
+  "author": {
+    "name": "topguyaii"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/topguyaii/openclawdy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/topguyaii/openclawdy"
+}

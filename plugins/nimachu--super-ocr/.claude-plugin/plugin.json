@@ -1,0 +1,10 @@
+{
+  "name": "nimachu--super-ocr",
+  "description": "Production-grade OCR with intelligent engine selection. Tesseract (lightweight, fast) and PaddleOCR (high accuracy, Chinese-optimized). Use when extracting text from images, processing Chinese documents, needing confidence scores, or working with mixed Chinese/English content.",
+  "version": "0.1.0",
+  "author": {
+    "name": "nimachu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nimachu/super-ocr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nimachu/super-ocr"
+}

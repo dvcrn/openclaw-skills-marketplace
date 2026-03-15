@@ -1,0 +1,10 @@
+{
+  "name": "cyecho-io--pure-search",
+  "description": "A lightweight, API-key-free web search skill based on DuckDuckGo and Trafilatura. Returns highly relevant URLs and clean markdown content.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cyecho-io"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cyecho-io/pure-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cyecho-io/pure-search"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "enchantedmotorcycle--homeassistant-n8n-agent",
+  "description": "Bridge OpenClaw with your n8n instance for Home Assistant automation.",
+  "version": "1.0.4",
+  "author": {
+    "name": "enchantedmotorcycle"
+  },
+  "homepage": "https://n8n.io/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/enchantedmotorcycle/homeassistant-n8n-agent"
+}

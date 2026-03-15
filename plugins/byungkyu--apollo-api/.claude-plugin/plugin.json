@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--apollo-api",
+  "description": "Apollo.io API integration with managed OAuth. Search and enrich people and companies, manage contacts and accounts. Use this skill when users want to prospect, enrich leads, or manage sales data. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.5",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/apollo-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/apollo-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "memepilot--clawlodge",
+  "description": "Use ClawLodge to search, inspect, download, and publish OpenClaw workspaces. Trigger when the user wants to find reusable workspaces, compare versions, fetch a workspace zip, or publish the current workspace to clawlodge.com.",
+  "version": "1.0.2",
+  "author": {
+    "name": "memepilot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/memepilot/clawlodge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/memepilot/clawlodge"
+}

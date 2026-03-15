@@ -1,0 +1,10 @@
+{
+  "name": "zhihang9978--mtproto-2-0",
+  "description": "MTProto 2.0 protocol implementation guide for Telegram backend development. Use when implementing MTProto encryption, handshake, message serialization, or building Telegram-compatible servers. Covers DH key exchange, AES-256-IGE encryption, TL language, and security best practices.",
+  "version": "1.0.1",
+  "author": {
+    "name": "zhihang9978"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhihang9978/mtproto-2-0",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhihang9978/mtproto-2-0"
+}

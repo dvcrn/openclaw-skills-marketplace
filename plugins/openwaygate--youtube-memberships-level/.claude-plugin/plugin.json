@@ -1,0 +1,10 @@
+{
+  "name": "openwaygate--youtube-memberships-level",
+  "description": "Manage YouTube memberships levels. Use this skill to list information about channel membership levels. Useful when working with YouTube memberships level — provides commands to list memberships level via the yutu CLI. Includes setup and installation instructions for first-time users. Triggers: list memberships levels, list memberships level, list my memberships level",
+  "version": "0.10.6-3",
+  "author": {
+    "name": "openwaygate"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openwaygate/youtube-memberships-level",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openwaygate/youtube-memberships-level"
+}

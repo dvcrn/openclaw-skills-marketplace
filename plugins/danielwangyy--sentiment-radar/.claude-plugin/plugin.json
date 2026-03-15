@@ -1,0 +1,10 @@
+{
+  "name": "danielwangyy--sentiment-radar",
+  "description": "Multi-platform sentiment monitoring and analysis for products/brands/topics. Collect public opinions from Chinese platforms (小红书/XHS via MediaCrawler) and English platforms (Twitter/Reddit via Xpoz MCP). Generate structured sentiment reports with product mention tracking, pricing complaints, comparison analysis, and actionable insights. Use when: (1) monitoring competitor sentiment, (2) tracking product launch reception, (3) analyzing user pain points across social media, (4) building market intelligence reports.",
+  "version": "1.0.0",
+  "author": {
+    "name": "danielwangyy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danielwangyy/sentiment-radar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danielwangyy/sentiment-radar"
+}

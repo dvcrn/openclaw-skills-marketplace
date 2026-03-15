@@ -1,0 +1,10 @@
+{
+  "name": "ethcipher--linkdapi-official",
+  "description": "Complete LinkdAPI integration OpenClaw skill. Includes all 50+ endpoints, Python/Node.js/Go SDKs, authentication, rate limits, and real-world examples. Use this skill whenever the user wants to look up LinkedIn profiles, search LinkedIn people or companies, enrich leads, research LinkedIn jobs, scrape LinkedIn posts or articles, do B2B prospecting, get LinkedIn company data, or call any LinkedIn data API. Always use this skill for ANY LinkedIn data task, even if the user just says \"find me on LinkedIn\" or \"look up this company\" or \"search LinkedIn for engineers in Berlin\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "ethcipher"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ethcipher/linkdapi-official",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ethcipher/linkdapi-official"
+}

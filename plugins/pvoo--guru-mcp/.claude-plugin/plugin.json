@@ -1,0 +1,10 @@
+{
+  "name": "pvoo--guru-mcp",
+  "description": "Access Guru knowledge base via MCP - ask AI questions, search documents, create drafts, and update cards. Connects to all your Guru sources including Slack, Drive, Confluence, and SharePoint.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pvoo"
+  },
+  "homepage": "https://www.getguru.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pvoo/guru-mcp"
+}

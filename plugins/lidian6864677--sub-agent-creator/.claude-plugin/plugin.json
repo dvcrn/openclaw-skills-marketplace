@@ -1,0 +1,10 @@
+{
+  "name": "lidian6864677--sub-agent-creator",
+  "description": "Full workflow for creating an OpenClaw Agent. Use when the user says 'create an agent', 'make a new agent', 'add a bot', or needs to set up a new AI assistant. Covers the complete setup process including (1) adding agent config and peer bindings to openclaw.json, (2) creating workspace directory with SOUL.md persona, (3) scaffolding required folders and files, (4) copying agent runtime configs from main, (5) restarting gateway to apply changes.",
+  "version": "1.0.1",
+  "author": {
+    "name": "lidian6864677"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lidian6864677/sub-agent-creator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lidian6864677/sub-agent-creator"
+}

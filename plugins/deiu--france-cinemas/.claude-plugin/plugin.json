@@ -1,0 +1,10 @@
+{
+  "name": "deiu--france-cinemas",
+  "description": "Search French cinema establishments using the open data.culture.gouv.fr API. Query by city, region, proximity, screen count, Art et Essai label, and multiplex status. No API key required.",
+  "version": "1.0.1",
+  "author": {
+    "name": "deiu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deiu/france-cinemas",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deiu/france-cinemas"
+}

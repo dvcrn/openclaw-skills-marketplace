@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--crypto-2",
+  "description": "Encryption and decryption toolkit for string and byte data. Supports Fernet (AES-128) symmetric encryption, fallback XOR encryption, custom password protection, code obfuscation, and batch processing. Use when users need to encrypt/decrypt sensitive data, protect algorithms, or obfuscate Python code.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/crypto-2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/crypto-2"
+}

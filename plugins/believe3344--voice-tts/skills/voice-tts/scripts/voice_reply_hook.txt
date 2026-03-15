@@ -1,0 +1,34 @@
+#!/usr/bin/env python3
+"""全局语音回复 hook - 监听消息并自动回复语音"""
+
+import os
+import sys
+import json
+import asyncio
+import edge_tts
+
+MEDIA_OUT = os.environ.get('MEDIA_OUT', '/Users/cx/.openclaw/media/outbound')
+VOICE = os.environ.get('VOICE', 'zh-CN-XiaoxiaoNeural')
+
+async def synthesize(text, output_path):
+    """合成语音"""
+    tts = edge_tts.Communicate(text, VOICE)
+    await tts.save(output_path)
+
+def main():
+    # 从环境变量获取输入
+    transcript = os.environ.get('TRANSCRIPT', '')
+    reply_text = os.environ.get('REPLY_TEXT', '')
+    
+    if not reply_text:
+        print("No reply text provided")
+        sys.exit(1)
+    
+    # 生成语音文件
+    output_file = os.path.join(MEDIA_OUT, 'auto_voice_reply.mp3')
+    asyncio.run(synthesize(reply_text, output_file))
+    
+    print(output_file)
+
+if __name__ == "__main__":
+    main()

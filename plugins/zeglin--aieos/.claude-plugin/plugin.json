@@ -1,0 +1,10 @@
+{
+  "name": "zeglin--aieos",
+  "description": "AIEOS (AI Entity Object Specification) is a standardization framework designed to solve the \"identity crisis\" currently facing AI agents. Combined with Soul Documents, together they form a comprehensive blueprint for AI behavior. The goal is to establish a standardized data structure that defines exactly how an agent speaks, reacts, and remembers. This allows developers, and agents themselves, to construct specific personas with the portability to move across different ecosystems without losing their behavioral integrity. As we move toward a world of \"Agentic Workflows,\" AIEOS ensures that agents maintain consistent traits regardless of the underlying model. By treating personality as a deployable asset rather than a fragile prompt, we are providing the \"DNA kit\" for the next generation of digital entities.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zeglin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zeglin/aieos",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zeglin/aieos"
+}

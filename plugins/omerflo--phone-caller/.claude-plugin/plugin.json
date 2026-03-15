@@ -1,0 +1,10 @@
+{
+  "name": "omerflo--phone-caller",
+  "description": "Make AI-powered outbound phone calls using ElevenLabs voice + GPT brain + Twilio. Supports one-way pre-recorded messages AND live two-way conversations where the AI listens, thinks, and responds in real-time. Use when asked to call someone, leave a voice message, schedule a morning call, have an AI make a reservation or appointment, run a voice campaign, or set up interactive phone conversations. Requires Twilio + ElevenLabs credentials. Triggers on 'call', 'phone', 'voice message', 'reserve', 'book by phone', 'schedule a call', 'call and tell them'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "omerflo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/omerflo/phone-caller",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/omerflo/phone-caller"
+}

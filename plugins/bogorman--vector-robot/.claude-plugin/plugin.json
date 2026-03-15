@@ -1,0 +1,10 @@
+{
+  "name": "bogorman--vector-robot",
+  "description": "Control Anki Vector robot via wire-pod. Speak through Vector, see through its camera, move head/lift/wheels, change eye colors, trigger animations. Use when user mentions Vector robot, wants to speak through a robot, control a physical robot, or interact with wire-pod.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bogorman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bogorman/vector-robot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bogorman/vector-robot"
+}

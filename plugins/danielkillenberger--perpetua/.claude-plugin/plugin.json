@@ -1,0 +1,10 @@
+{
+  "name": "danielkillenberger--perpetua",
+  "description": "OAuth proxy for calling external APIs (Oura, Google Calendar, etc.) via Perpetua.sh hosted API using a single API key. Use when fetching Oura data, Google Calendar events, or managing OAuth connections.",
+  "version": "1.0.0",
+  "author": {
+    "name": "danielkillenberger"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danielkillenberger/perpetua",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danielkillenberger/perpetua"
+}

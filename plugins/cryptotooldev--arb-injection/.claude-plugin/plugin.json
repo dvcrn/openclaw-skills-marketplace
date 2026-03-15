@@ -1,0 +1,10 @@
+{
+  "name": "cryptotooldev--arb-injection",
+  "description": "BYOCB ArbInjectionSkill: Scan EVM smart contracts for arbitrary call injection vulnerabilities. Monitor chains in real-time or scan specific addresses.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cryptotooldev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cryptotooldev/arb-injection",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cryptotooldev/arb-injection"
+}

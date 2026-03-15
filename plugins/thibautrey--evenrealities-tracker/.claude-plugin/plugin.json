@@ -1,0 +1,10 @@
+{
+  "name": "thibautrey--evenrealities-tracker",
+  "description": "Automate Evenrealities order monitoring (daily checks, status history, change-only alerts). Uses fast-browser-use to fill the tracker form, compare statuses, and notify Telegram only when something changes, while logging everything into `memory/evenrealities-status-history.json`.",
+  "version": "1.2.0",
+  "author": {
+    "name": "thibautrey"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thibautrey/evenrealities-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thibautrey/evenrealities-tracker"
+}

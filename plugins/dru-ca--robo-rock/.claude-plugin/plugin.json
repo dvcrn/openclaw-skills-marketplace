@@ -1,0 +1,10 @@
+{
+  "name": "dru-ca--robo-rock",
+  "description": "Control Roborock robot vacuums (status, clean, maps, consumables). Use when asked to vacuum, check vacuum status, control robot vacuum, or manage cleaning schedules. Triggers on vacuum, roborock, clean floor, hoover, robot cleaner keywords.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dru-ca"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dru-ca/robo-rock",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dru-ca/robo-rock"
+}

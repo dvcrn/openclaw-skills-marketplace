@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--binance-macd-bot",
+  "description": "MACD indicator trading bot for Binance - generate buy/sell signals based on MACD technical analysis. Each call charges 0.001 USDT via SkillPay.",
+  "version": "1.0.1",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/binance-macd-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/binance-macd-bot"
+}

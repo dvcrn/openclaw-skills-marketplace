@@ -1,0 +1,10 @@
+{
+  "name": "moodykong--onedrive-integration",
+  "description": "Copy large/long files to OneDrive for sharing when the user is on Telegram or WhatsApp and wants to view a full document or long file. Use to place files into OneDrive under an OpenClaw folder and provide the new filename/location.",
+  "version": "0.1.0",
+  "author": {
+    "name": "moodykong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moodykong/onedrive-integration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moodykong/onedrive-integration"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "koriyoshi2041--fabric-bridge",
+  "description": "Run Fabric AI patterns for text transformation, analysis, and content creation. Use when the user asks to use a Fabric pattern, extract wisdom, analyze claims, improve writing, summarize with Fabric, or mentions 'fabric' CLI. Supports 242+ patterns for tasks like content analysis, writing improvement, code review, threat modeling, and structured extraction.",
+  "version": "1.0.0",
+  "author": {
+    "name": "koriyoshi2041"
+  },
+  "homepage": "https://github.com/danielmiessler/fabric",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/koriyoshi2041/fabric-bridge"
+}

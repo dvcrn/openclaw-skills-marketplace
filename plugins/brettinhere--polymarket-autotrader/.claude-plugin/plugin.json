@@ -1,0 +1,10 @@
+{
+  "name": "brettinhere--polymarket-autotrader",
+  "description": "Polymarket AutoTrader (Premium) — BTC 5-minute prediction auto-trading bot with 92%+ win rate, 5-8% profit per trade. Enters in the last 30 seconds of each 5-min slot when BTC moves ≥$50, buys the winning side at $0.92-0.95. FOK orders: full match or auto-cancel, zero loss on unmatched. Strong signals (≥$100) trigger 2x position. Built-in billing (0.001 USDT/trade, pre-configured). Only 2 required env vars: POLY_PRIVATE_KEY, POLY_WALLET_ADDRESS (wallet address doubles as billing user ID). Billing vars pre-filled in .env.example. Optional: POLY_RPC, CLOB_HOST, CHAIN_ID, SIGNATURE_TYPE, TRADE_SIZE_USD, MAX_ASK_PRICE, MIN_BTC_MOVE, STRONG_BTC_MOVE. Connects to: Polymarket CLOB, Binance, Gamma API, skillpay.me. Writes .poly-creds.json (sensitive) and trades.json locally.",
+  "version": "2.4.0",
+  "author": {
+    "name": "brettinhere"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brettinhere/polymarket-autotrader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brettinhere/polymarket-autotrader"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jarvis563--oura-health",
+  "description": "What: Query Oura Ring health data — sleep, readiness, activity, heart rate, and trends via the Oura API v2.\n When: User asks about their sleep, readiness, activity, heart rate, health trends, or wants a daily health briefing.\n Triggers: oura, sleep score, readiness, activity score, heart rate, HRV, health briefing, ring data",
+  "version": "1.0.0",
+  "author": {
+    "name": "jarvis563"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jarvis563/oura-health",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jarvis563/oura-health"
+}

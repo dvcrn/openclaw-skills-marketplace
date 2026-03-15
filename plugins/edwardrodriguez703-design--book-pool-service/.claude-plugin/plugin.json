@@ -1,0 +1,10 @@
+{
+  "name": "edwardrodriguez703-design--book-pool-service",
+  "description": "Book pool-service services through Lokuli MCP. Use when user needs to find and book pool-service. Triggers on requests like \"book a pool-service\", \"find pool-service near me\", or any pool-service service request.",
+  "version": "1.0.1",
+  "author": {
+    "name": "edwardrodriguez703-design"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/edwardrodriguez703-design/book-pool-service",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/edwardrodriguez703-design/book-pool-service"
+}

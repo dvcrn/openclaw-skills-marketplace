@@ -1,0 +1,10 @@
+{
+  "name": "danielfoch--show-booking",
+  "description": "Book real estate showing tours from emailed or pasted listing details, including extracting listing data, preparing outbound call jobs, coordinating a calling sub-agent, creating calendar invites, and returning confirmations. Use when the user asks to book showings for one or more properties, coordinate preferred windows for a client, or automate office calls instead of manual BrokerBay login flows.",
+  "version": "0.1.0",
+  "author": {
+    "name": "danielfoch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danielfoch/show-booking",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danielfoch/show-booking"
+}

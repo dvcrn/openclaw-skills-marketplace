@@ -1,0 +1,10 @@
+{
+  "name": "matrix-meta--hex-vetter",
+  "description": "Physical-layer hex auditing for skills. Detects hidden binary data, control characters, and encoding-based attacks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "matrix-meta"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/matrix-meta/hex-vetter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matrix-meta/hex-vetter"
+}

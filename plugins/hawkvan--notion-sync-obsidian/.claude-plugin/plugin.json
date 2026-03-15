@@ -1,0 +1,10 @@
+{
+  "name": "hawkvan--notion-sync-obsidian",
+  "description": "自动将Notion文章同步到本地Obsidian目录，支持定时检查、完整内容导出、智能标题提取。",
+  "version": "1.0.0",
+  "author": {
+    "name": "hawkvan"
+  },
+  "homepage": "https://github.com/openclaw/openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hawkvan/notion-sync-obsidian"
+}

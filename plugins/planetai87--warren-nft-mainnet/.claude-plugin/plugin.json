@@ -1,0 +1,10 @@
+{
+  "name": "planetai87--warren-nft-mainnet",
+  "description": "Deploy NFT collections permanently on MegaETH mainnet. Images are stored on-chain via SSTORE2, then published through WarrenContainer and WarrenLaunchedNFT.",
+  "version": "1.0.8",
+  "author": {
+    "name": "planetai87"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/planetai87/warren-nft-mainnet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/planetai87/warren-nft-mainnet"
+}

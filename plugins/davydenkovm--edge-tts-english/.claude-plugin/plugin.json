@@ -1,0 +1,10 @@
+{
+  "name": "davydenkovm--edge-tts-english",
+  "description": "Generate high-quality English (and multilingual) audio using Microsoft Edge TTS. Use when the user asks to \"speak this\", \"pronounce\", \"read aloud\", \"say this in English\", \"озвучь голосом\", \"прочитай по-английски\", \"произнеси\", or wants to hear text spoken with a native accent for language learning or pronunciation practice. Supports American and British English voices (male and female). Requires edge-tts installed via pipx. Sends the resulting MP3 directly to the user.",
+  "version": "1.0.2",
+  "author": {
+    "name": "davydenkovm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/davydenkovm/edge-tts-english",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davydenkovm/edge-tts-english"
+}

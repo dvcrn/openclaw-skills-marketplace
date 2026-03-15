@@ -1,0 +1,10 @@
+{
+  "name": "elliotllliu--agent-hush",
+  "description": "Invisible privacy guardian for agent workspaces. Automatically intercepts outbound actions (git push, skill publish, file sharing) and checks for sensitive data leaks. Users don't need to know commands — the agent handles everything silently. Activate on: ANY outbound action (push, publish, share, sync, send files), or when user asks \"检查隐私\", \"有没有敏感信息\", \"privacy check\", \"scan for secrets\".",
+  "version": "1.2.0",
+  "author": {
+    "name": "elliotllliu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/elliotllliu/agent-hush",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/elliotllliu/agent-hush"
+}

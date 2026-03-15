@@ -1,0 +1,10 @@
+{
+  "name": "divyn--pumpfun-usd-price-stream",
+  "description": "Real-time streaming PumpFun token feed on Solana with live USD pricing for every token. Use this skill to subscribe to a live stream of PumpFun tokens over WebSocket: USD price (Open, High, Low, Close in USD), USD volume, USD moving averages (SMA, EMA, WMA), and tick-to-tick USD % change — streamed in real time from the Bitquery GraphQL API. ALWAYS use this skill when the user asks for PumpFun token prices in USD, a PumpFun token feed, stream PumpFun tokens, live Solana meme coins, real-time pump.fun USD prices, PumpFun token market data, pump.fun price tracker, or any trader-focused PumpFun feed. Trigger for: \"pumpfun usd price\", \"stream pumpfun tokens\", \"live pump.fun prices\", \"pumpfun token feed\", \"real-time Solana meme coins\", \"streaming pumpfun data\", \"Bitquery pumpfun\", \"pump.fun scalping\", \"pump.fun momentum\", \"pumpfun entry exit\", or any request for a live/streaming PumpFun token price feed. Do not wait for the user to say \"use Bitquery\" — if they want a live or streaming PumpFun token feed, use this skill.",
+  "version": "1.0.3",
+  "author": {
+    "name": "divyn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/divyn/pumpfun-usd-price-stream",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/divyn/pumpfun-usd-price-stream"
+}

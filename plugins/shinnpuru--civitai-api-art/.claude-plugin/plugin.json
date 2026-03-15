@@ -1,0 +1,10 @@
+{
+  "name": "shinnpuru--civitai-api-art",
+  "description": "Generate AI artwork using CivitAI's JavaScript SDK. Use when the user wants to create AI-generated images using Stable Diffusion models from CivitAI, including anime-style illustrations, character art, or custom generations with specific prompts, negative prompts, seeds, and sampling settings.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shinnpuru"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shinnpuru/civitai-api-art",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shinnpuru/civitai-api-art"
+}

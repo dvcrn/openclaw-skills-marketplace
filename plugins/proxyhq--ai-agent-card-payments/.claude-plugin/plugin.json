@@ -1,0 +1,10 @@
+{
+  "name": "proxyhq--ai-agent-card-payments",
+  "description": "Virtual card payments for AI agents. Create intents, issue cards within policy, and make autonomous purchases with approvals for high-value spend.",
+  "version": "1.0.1",
+  "author": {
+    "name": "proxyhq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/proxyhq/ai-agent-card-payments",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/proxyhq/ai-agent-card-payments"
+}

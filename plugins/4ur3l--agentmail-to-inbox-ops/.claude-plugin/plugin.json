@@ -1,0 +1,10 @@
+{
+  "name": "4ur3l--agentmail-to-inbox-ops",
+  "description": "Manage Agentmail.to inbox operations with deterministic Python scripts: list/read messages, download and analyze attachments, reply with sender filters, and set read/unread state. Use when handling inbox workflows for any Agentmail.to inbox.",
+  "version": "0.1.2",
+  "author": {
+    "name": "4ur3l"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/4ur3l/agentmail-to-inbox-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/4ur3l/agentmail-to-inbox-ops"
+}

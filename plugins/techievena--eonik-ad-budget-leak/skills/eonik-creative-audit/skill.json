@@ -1,0 +1,39 @@
+{
+  "name": "eonik-ad-budget-leak",
+  "version": "1.0.7",
+  "description": "Identifies burning and decaying Meta Ads by running the eonik Budget heuristics engine.",
+  "author": "eonik",
+  "license": "MIT",
+  "source": "https://github.com/eonik-ai/eonik-ad-budget-leak-skill",
+  "homepage": "https://eonik.ai",
+  "tags": [
+    "ads",
+    "marketing",
+    "meta",
+    "budgeting",
+    "eonik"
+  ],
+  "triggers": [
+    "Audit my Meta ads",
+    "Check for budget leaks",
+    "Optimize my Meta ad account",
+    "Find decaying creatives",
+    "Run the eonik ad audit pipeline",
+    "cron"
+  ],
+  "schedule": "0 8 * * *",
+  "dependencies": {
+    "python": ">=3.7"
+  },
+  "requiredEnv": [
+    "EONIK_API_KEY"
+  ],
+  "requirements": {
+    "bins": [
+      "python3"
+    ]
+  },
+  "config_required": true,
+  "readme": "README.md",
+  "skill_file": "SKILL.md"
+}

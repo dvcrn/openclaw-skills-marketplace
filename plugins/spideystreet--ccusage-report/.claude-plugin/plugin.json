@@ -1,0 +1,10 @@
+{
+  "name": "spideystreet--ccusage-report",
+  "description": "Report Claude Code token consumption and costs using ccusage. Use when the user asks about their Claude Code usage, token consumption, API costs, spending, or wants a daily/weekly/monthly usage summary.",
+  "version": "1.0.3",
+  "author": {
+    "name": "spideystreet"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spideystreet/ccusage-report",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spideystreet/ccusage-report"
+}

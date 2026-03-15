@@ -1,0 +1,10 @@
+{
+  "name": "scsun1978--aruba-iap",
+  "description": "Comprehensive Aruba Instant AP (IAP) configuration management with automatic baseline capture, \n rollback support, and health monitoring. Supports device discovery, configuration snapshots,\n SSID management, and safe configuration changes with interactive config mode.",
+  "version": "1.2.0",
+  "author": {
+    "name": "scsun1978"
+  },
+  "homepage": "https://www.arubanetworks.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scsun1978/aruba-iap"
+}

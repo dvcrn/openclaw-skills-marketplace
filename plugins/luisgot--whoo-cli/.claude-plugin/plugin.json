@@ -1,0 +1,10 @@
+{
+  "name": "luisgot--whoo-cli",
+  "description": "Use the whoo CLI to retrieve and interpret WHOOP health data: recovery score, HRV, sleep quality, strain, SpO2, and body measurements. Invoke when the user asks about their WHOOP metrics, readiness, fitness recovery, sleep performance, wearable health data, or wants to pull or analyze WHOOP data for any date range.",
+  "version": "0.1.1",
+  "author": {
+    "name": "luisgot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luisgot/whoo-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luisgot/whoo-cli"
+}

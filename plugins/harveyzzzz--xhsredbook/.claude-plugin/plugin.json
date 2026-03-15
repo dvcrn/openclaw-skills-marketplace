@@ -1,0 +1,10 @@
+{
+  "name": "harveyzzzz--xhsredbook",
+  "description": "Automatically publish notes to Xiaohongshu (小红书) creator center. Generates cover images (PIL poster, multiple styles), writes content from templates, and publishes via Playwright browser context. Cross-platform (Windows/macOS/Linux). Login once, publish many times. Use when user wants to post to 小红书, XHS, or Red Note.",
+  "version": "1.0.1",
+  "author": {
+    "name": "harveyzzzz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harveyzzzz/xhsredbook",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harveyzzzz/xhsredbook"
+}

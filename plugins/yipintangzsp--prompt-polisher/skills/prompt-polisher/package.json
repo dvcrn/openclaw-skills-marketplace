@@ -1,0 +1,9 @@
+{
+  "name": "prompt-polisher",
+  "version": "1.0.0",
+  "description": "Prompt 降维打击工具 - 全球顶尖提示词工程师，用 CoT+Role-Play 框架重写你的需求",
+  "main": "index.js",
+  "bin": { "prompt-polisher": "./index.js" },
+  "dependencies": { "node-fetch": "^2.7.0" },
+  "keywords": ["Prompt", "AI", "提示词", "优化"]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "datadrivenconstruction--validation-rules-builder",
+  "description": "Build validation rules for construction data. Create RegEx and logic-based validation for BIM elements, cost codes, and schedule data.",
+  "version": "2.1.0",
+  "author": {
+    "name": "datadrivenconstruction"
+  },
+  "homepage": "https://datadrivenconstruction.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/validation-rules-builder"
+}

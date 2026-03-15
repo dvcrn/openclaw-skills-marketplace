@@ -1,0 +1,171 @@
+# Staging Configuration for Ralph Loop Agent
+# This file contains settings for staging/testing environments
+
+# Core Loop Configuration
+loop_type: for              # Default loop type
+iterations: 100            # Moderate iteration count for staging
+delay_ms: 500              # Moderate delay for testing
+retry_count: 2             # Moderate retry count
+continue_on_error: false    # Fail fast for staging reliability
+
+# Progress Tracking
+progress_enabled: true     # Enable progress monitoring
+progress_format: percentage   # Simple percentage format
+progress_update_interval: 0.5  # Moderate update frequency
+
+# Logging Configuration
+log_enabled: true          # Enable detailed logging
+log_level: debug           # Debug logging for staging
+log_format: json          # Structured JSON logs
+log_file: "/var/log/ralph-loop/staging.log"  # Staging log location
+log_rotation: true         # Enable log rotation
+log_max_size: 20971520     # 20MB max log size
+log_backup_count: 10      # Keep 10 days of logs
+
+# Error Handling
+error_handler_enabled: true  # Robust error handling
+error_handler_log: true      # Log all errors
+error_handler_max_retries: 2 # Maximum retry attempts
+error_handler_retry_delay: 1000 # 1-second delay between retries
+
+# Configuration File Management
+config_file_search_paths:
+  - "/etc/ralph-loop"
+  - "/opt/ralph-loop-agent/config"
+  - "~/.config/ralph-loop"
+config_auto_load: true      # Auto-load configuration
+config_validation: true     # Strict configuration validation
+
+# State Management (Staging Resumability)
+state_enabled: true         # Enable state persistence
+state_dir: "/var/lib/ralph-loop/staging"  # Staging state directory
+state_auto_save: true      # Auto-save state
+state_checkpoint_interval: 20  # Checkpoint every 20 iterations
+state_retention_days: 3    # Keep 3 days of state history
+state_compression: false    # No compression for easier debugging
+
+# Rich Logging (Staging)
+rich_logging_enabled: true # Enable rich logging
+rich_logging_format: json  # JSON format for log aggregation
+rich_logging_level: debug  # Debug level logging for staging
+rich_logging_max_size: 52428800 # 50MB max log size
+
+# Performance Optimization
+performance_optimized: true    # Enable performance optimizations
+memory_efficient: true        # Memory-efficient mode
+minimal_output: false        # Show progress for monitoring
+batch_size: 50               # Smaller batch size for staging
+
+# Staging Monitoring
+health_check_interval: 120  # 2-minute health checks
+monitor_metrics: true       # Collect performance metrics
+alert_thresholds:
+  cpu_usage: 60              # 60% CPU threshold (lower than production)
+  memory_usage: 80          # 80% memory threshold (lower than production)
+  disk_usage: 70            # 70% disk usage threshold (lower than production)
+
+# Security Settings
+security_validate_inputs: true   # Validate all inputs
+security_escape_outputs: true     # Escape output values
+security_sanitize_paths: true    # Sanitize file paths
+security_restrict_commands: true # Restrict dangerous commands
+security_audit_trail: true      # Enable audit logging
+
+# Reliability Settings
+reliability_mode: medium    # Medium reliability mode
+graceful_shutdown: true     # Enable graceful shutdown
+recovery_enabled: true      # Enable automatic recovery
+backup_enabled: true        # Enable state backup
+
+# Backup and Recovery
+backup_interval: 43200     # 12-hour backup interval (more frequent)
+backup_retention: 7        # Keep 7 days of backups
+recovery_max_attempts: 3   # Maximum recovery attempts
+recovery_delay: 3000       # 3-second recovery delay
+
+# Network Settings
+network_timeout: 15000     # 15-second network timeout
+network_retries: 2         # Network retry attempts
+network_backoff: true      # Enable exponential backoff
+
+# Database Integration (if applicable)
+database_enabled: false     # Disable database by default
+database_pool_size: 5      # Smaller connection pool for staging
+database_timeout: 3000     # 3-second database timeout
+database_retries: 2        # Database retry attempts
+
+# Load Balancing (if applicable)
+load_balancing_enabled: false # Disable load balancing by default
+load_balancer_strategy: round_robin # Load balancing strategy
+worker_count: 2             # Number of worker processes
+
+# Security Settings
+ssl_enabled: false         # SSL/TLS encryption
+ssl_cert_file: ""          # SSL certificate file
+ssl_key_file: ""           # SSL private key file
+encryption_enabled: false  # Data encryption
+encryption_key: ""         # Encryption key
+
+# Compliance Settings
+audit_enabled: true        # Enable audit logging
+compliance_level: medium   # Medium compliance level
+data_retention: 30         # 30-day data retention (shorter than production)
+privacy_mode: false        # Privacy protection mode
+
+# Performance Settings
+concurrent_limit: 50       # Lower concurrency limit for staging
+queue_size: 500           # Smaller task queue size
+cache_enabled: true        # Enable caching
+cache_size: 500           # Smaller cache size limit
+
+# Development/Debug Options (enabled in staging)
+debug_mode: true          # Enable debug mode for staging
+verbose_output: true       # Enable verbose output for debugging
+trace_execution: false     # Disable execution tracing (optional)
+performance_profiling: true # Enable performance profiling
+
+# Resource Management
+memory_limit: 268435456    # 256MB memory limit (lower than production)
+cpu_limit: 30               # 30% CPU limit (lower than production)
+disk_limit: 5368709120     # 5GB disk limit (lower than production)
+network_limit: 500000      # 500KB/s network limit (lower than production)
+
+# Alerting and Notifications
+alert_enabled: true       # Enable alerting for staging
+alert_email: "staging-alerts@example.com"  # Staging alert email
+alert_slack: ""           # Slack webhook URL (optional)
+alert_thresholds_cpu: 60   # CPU alert threshold (lower than production)
+alert_thresholds_memory: 80 # Memory alert threshold (lower than production)
+alert_thresholds_disk: 70  # Disk alert threshold (lower than production)
+
+# Backup Strategy
+backup_strategy: incremental  # Incremental backup
+backup_compression: true     # Enable compression
+backup_encryption: false     # Disable encryption for staging
+backup_remote: false        # Disable remote backup for staging
+backup_location: "/var/backups/ralph-loop/staging"  # Staging backup location
+
+# Disaster Recovery
+disaster_recovery_enabled: false # Disable disaster recovery for staging
+disaster_recovery_site: ""       # Disaster recovery site (not applicable)
+disaster_recovery_rpo: 1800      # Recovery Point Objective (30 minutes)
+disaster_recovery_rto: 3600      # Recovery Time Objective (1 hour)
+
+# Testing-specific Settings
+test_mode: true            # Enable test mode
+test_data_generation: true # Enable test data generation
+test_failure_simulation: false # Disable failure simulation
+test_performance_benchmarks: true # Enable performance benchmarking
+
+# Development Integration
+development_integration: true  # Enable development integration
+code_coverage: true           # Enable code coverage reporting
+test_results_directory: "/tmp/ralph-loop-tests"  # Test results location
+integration_tests: true      # Enable integration tests
+
+# Feature Flags
+feature_flags:
+  experimental_features: true    # Enable experimental features
+  beta_features: true           # Enable beta features
+  new_ui_components: false     # Disable new UI components
+  advanced_logging: true        # Enable advanced logging features

@@ -1,0 +1,10 @@
+{
+  "name": "nyxur42--nyx-archive-skill-security-protocol",
+  "description": "Teach your AI agent to think about security. A reasoning methodology for vetting skills before installation — red/green flag heuristics, 4-phase audit protocol, post-install verification. No scripts, no dependencies. Just judgment. Built on fallibilism (being wrong about a skill's safety is recoverable; being overconfident is not) and relational security (you and your human decide together on edge cases — trust is built through transparency, not just detection).",
+  "version": "1.1.1",
+  "author": {
+    "name": "nyxur42"
+  },
+  "homepage": "https://clawhub.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nyxur42/nyx-archive-skill-security-protocol"
+}

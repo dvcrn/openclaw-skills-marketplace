@@ -1,0 +1,10 @@
+{
+  "name": "zgq233333--cc-connect-manager",
+  "description": "Manage cc-connect projects: add new projects to ~/.cc-connect/config.toml, set up multi-agent relay bindings, and restart cc-connect in tmux. Use when the user wants to: add a project to cc-connect, configure a new bot/platform binding, remove a project, restart cc-connect, set up multiple agents (Claude Code + Codex/Cursor/Gemini) in the same chat group with relay/bind. Triggers on: \"add project to cc-connect\", \"connect this project to telegram/discord/feishu\", \"restart cc-connect\", \"add a new bot\", \"bind this workspace to a platform\", \"add codex/cursor agent\", \"set up two agents in the same channel\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "zgq233333"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zgq233333/cc-connect-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zgq233333/cc-connect-manager"
+}

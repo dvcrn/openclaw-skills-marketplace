@@ -1,0 +1,10 @@
+{
+  "name": "zsvedic--gembox-skill",
+  "description": "Coding assistance for [GemBox components](https://www.gemboxsoftware.com/). Use when users ask about any GemBox component or coding task that can be performed with a GemBox component. This includes GemBox.Spreadsheet (.NET read/write Excel files), GemBox.Document (.NET read/write Word files), GemBox.Pdf (.NET read/write PDF files), GemBox.Presentation (.NET read/write PowerPoint files), GemBox.Email (.NET read/write email files, send/receive emails), GemBox.Imaging (.NET read/write image files), and GemBox.PdfViewer (JavaScript display/print/save PDF files).",
+  "version": "0.9.0",
+  "author": {
+    "name": "zsvedic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zsvedic/gembox-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zsvedic/gembox-skill"
+}

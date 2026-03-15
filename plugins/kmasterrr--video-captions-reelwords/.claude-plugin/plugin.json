@@ -1,0 +1,10 @@
+{
+  "name": "kmasterrr--video-captions-reelwords",
+  "description": "Generate captions for short-form videos using the ReelWords (reelwords.ai) Caption API. Use when a user asks to create caption jobs, render stylized subtitles for Reels/TikTok/Shorts, poll caption-job status, or download the rendered captioned video via the ReelWords REST API endpoints (/api/v1/caption-jobs) using an x-api-key (rw_...).",
+  "version": "1.0.0",
+  "author": {
+    "name": "kmasterrr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kmasterrr/video-captions-reelwords",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kmasterrr/video-captions-reelwords"
+}

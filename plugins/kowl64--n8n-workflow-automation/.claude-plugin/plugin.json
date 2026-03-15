@@ -1,0 +1,10 @@
+{
+  "name": "kowl64--n8n-workflow-automation",
+  "description": "Designs and outputs n8n workflow JSON with robust triggers, idempotency, error handling, logging, retries, and human-in-the-loop review queues. Use when you need an auditable automation that won’t silently fail.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kowl64"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kowl64/n8n-workflow-automation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kowl64/n8n-workflow-automation"
+}

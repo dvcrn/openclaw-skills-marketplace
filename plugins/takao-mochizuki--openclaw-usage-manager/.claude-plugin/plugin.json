@@ -1,0 +1,10 @@
+{
+  "name": "takao-mochizuki--openclaw-usage-manager",
+  "description": "Real-time usage dashboard and auto-switcher for dual Claude Max accounts. Use when: (1) checking C1/C2 utilization, (2) switching between accounts, (3) monitoring 5h/7d rate limits. Launches a browser dashboard showing both accounts side-by-side. Auto-switches when either 5h or 7d utilization exceeds 80%.",
+  "version": "1.1.0",
+  "author": {
+    "name": "takao-mochizuki"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/takao-mochizuki/openclaw-usage-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/takao-mochizuki/openclaw-usage-manager"
+}

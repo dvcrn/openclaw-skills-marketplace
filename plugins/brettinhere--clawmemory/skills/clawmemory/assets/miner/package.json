@@ -1,0 +1,17 @@
+{
+  "name": "@omp/miner",
+  "version": "1.0.0",
+  "description": "OpenClaw Memory Protocol — PoW miner",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "mine":  "node index.js"
+  },
+  "dependencies": {
+    "ethers": "^6.9.0",
+    "merkletreejs": "^0.3.11",
+    "hypercore": "^10.0.0",
+    "hyperswarm": "^4.0.0",
+    "dotenv": "^16.0.0"
+  }
+}

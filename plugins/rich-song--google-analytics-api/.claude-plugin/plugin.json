@@ -1,0 +1,10 @@
+{
+  "name": "rich-song--google-analytics-api",
+  "description": "Google Analytics API integration with managed OAuth. Manage accounts, properties, and data streams (Admin API). Run reports on sessions, users, page views, and conversions (Data API). Use this skill when users want to configure or query Google Analytics. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "rich-song"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rich-song/google-analytics-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rich-song/google-analytics-api"
+}

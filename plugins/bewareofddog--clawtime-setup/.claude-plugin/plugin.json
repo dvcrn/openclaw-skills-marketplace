@@ -1,0 +1,10 @@
+{
+  "name": "bewareofddog--clawtime-setup",
+  "description": "Install, configure, start, and troubleshoot ClawTime — a private self-hosted webchat UI for OpenClaw with passkey (Face ID) auth, Piper TTS voice, and 3D avatar. Requires Cloudflare tunnel for HTTPS (passkeys need a real domain). Use when the user wants to install ClawTime on a new machine, configure the tunnel, register a passkey, set up TTS, start/stop the server, or diagnose errors. Triggered by requests like \"install clawtime\", \"set up clawtime\", \"start clawtime\", \"clawtime isn't working\", \"register passkey\", \"device auth issue\".",
+  "version": "1.2.0",
+  "author": {
+    "name": "bewareofddog"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bewareofddog/clawtime-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bewareofddog/clawtime-setup"
+}

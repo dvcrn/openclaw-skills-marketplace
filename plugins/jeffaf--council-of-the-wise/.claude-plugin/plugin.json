@@ -1,0 +1,10 @@
+{
+  "name": "jeffaf--council-of-the-wise",
+  "description": "Send an idea to the Council of the Wise for multi-perspective feedback. Spawns sub-agents to analyze from multiple expert perspectives. Auto-discovers agent personas from agents/ folder.",
+  "version": "1.4.0",
+  "author": {
+    "name": "jeffaf"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jeffaf/council-of-the-wise",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeffaf/council-of-the-wise"
+}

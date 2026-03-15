@@ -1,0 +1,10 @@
+{
+  "name": "andreasnlarsen--whoop-cli",
+  "description": "Companion skill for @andreasnlarsen/whoop-cli: agent-friendly WHOOP access via stable CLI JSON (day briefs, health flags, trends, exports) without raw API plumbing.",
+  "version": "0.3.1",
+  "author": {
+    "name": "andreasnlarsen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andreasnlarsen/whoop-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andreasnlarsen/whoop-cli"
+}

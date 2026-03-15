@@ -1,0 +1,10 @@
+{
+  "name": "yh9277--kaito",
+  "description": "Mindshare tracking primitive using Kaito MCP tools. Use this skill to check mindshare trends for an entity or narrative. Triggers on phrases like 'mindshare for SOL', 'how is the AI narrative trending', 'mindshare trend for Hyperliquid', 'which narratives are gaining share', 'mindshare comparison'. This is a primitive skill — it fetches mindshare data via kaito_mindshare, kaito_narrative_mindshare, or kaito_mindshare_delta and presents trend analysis. Can be called standalone or composed into workflow skills (social-listening, strategy, investigation). Do NOT use for sentiment (sentiment skill), content search (search skill), or user profiling (user-profile skill).",
+  "version": "1.0.0",
+  "author": {
+    "name": "yh9277"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yh9277/kaito",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yh9277/kaito"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "peetzweg--atlassian-cli",
+  "description": "Reference guide for the Atlassian CLI (acli) - a command-line tool for interacting with Jira Cloud and Atlassian organization administration. Use this skill when the user wants to perform Jira operations (create/edit/search/transition work items, manage projects, boards, sprints, filters, dashboards), administer Atlassian organizations (manage users, authentication), or automate Atlassian workflows from the terminal. Covers all acli commands including: jira workitem (create, edit, search, assign, transition, comment, clone, link, archive), jira project (create, list, update, archive), jira board/sprint, jira filter/dashboard, admin user management, and rovodev (Rovo Dev AI agent). Requires an authenticated acli binary already installed on the system.",
+  "version": "1.0.1",
+  "author": {
+    "name": "peetzweg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/peetzweg/atlassian-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/peetzweg/atlassian-cli"
+}

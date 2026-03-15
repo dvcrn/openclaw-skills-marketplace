@@ -1,0 +1,10 @@
+{
+  "name": "chair4ce--braindb",
+  "description": "Persistent, semantic memory for AI agents. Gives your AI long-term recall that survives compaction and session resets — 98% accuracy, 20ms latency.",
+  "version": "0.5.2",
+  "author": {
+    "name": "chair4ce"
+  },
+  "homepage": "https://github.com/Chair4ce/braindb",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chair4ce/braindb"
+}

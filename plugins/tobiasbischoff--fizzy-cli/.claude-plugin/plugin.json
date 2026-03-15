@@ -1,0 +1,10 @@
+{
+  "name": "tobiasbischoff--fizzy-cli",
+  "description": "Use the fizzy-cli tool to authenticate and manage Fizzy kanban boards, cards, comments, tags, columns, users, and notifications from the command line. Apply this skill when you need to list, create, update, or delete Fizzy resources or when scripting Fizzy workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tobiasbischoff"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tobiasbischoff/fizzy-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tobiasbischoff/fizzy-cli"
+}

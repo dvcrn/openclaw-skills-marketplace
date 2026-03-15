@@ -1,0 +1,10 @@
+{
+  "name": "nullying--printer-ai-skills",
+  "description": "Cross-platform local printer CLI - Manage and print to local printers (Windows/macOS/Linux) via the printer-ai CLI. Use when the user needs to print files, query printer status, or manage print jobs. NOT for: cloud/remote printers.",
+  "version": "0.1.1",
+  "author": {
+    "name": "nullying"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nullying/printer-ai-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nullying/printer-ai-skills"
+}

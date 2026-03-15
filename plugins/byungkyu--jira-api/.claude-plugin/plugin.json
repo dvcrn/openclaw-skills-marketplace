@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--jira-api",
+  "description": "Jira API integration with managed OAuth. Search issues with JQL, create and update issues, manage projects and transitions. Use this skill when users want to interact with Jira issues, projects, or workflows. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.5",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/jira-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/jira-api"
+}

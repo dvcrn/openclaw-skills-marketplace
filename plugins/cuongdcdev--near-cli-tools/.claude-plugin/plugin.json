@@ -1,0 +1,10 @@
+{
+  "name": "cuongdcdev--near-cli-tools",
+  "description": "NEAR Protocol CLI installation and setup guide. Use when: (1) User asks how to install NEAR CLI, (2) User needs help setting up near-cli-rs, (3) User wants to verify NEAR CLI installation, (4) User needs to install near-cli-rs, (5) user wants to use near cli to perform any action on the blockchain. AGENTS MUST ALWAYS get the absolute path of the 'near' binary before execution.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cuongdcdev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cuongdcdev/near-cli-tools",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cuongdcdev/near-cli-tools"
+}

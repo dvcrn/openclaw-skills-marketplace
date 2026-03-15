@@ -1,0 +1,10 @@
+{
+  "name": "raunaksingwi--ravi-email-send",
+  "description": "Send, compose, reply, reply-all, or forward emails with HTML formatting and attachments. Do NOT use for reading incoming email (use ravi-inbox) or for credentials (use ravi-passwords or ravi-secrets).",
+  "version": "1.7.1",
+  "author": {
+    "name": "raunaksingwi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/raunaksingwi/ravi-email-send",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/raunaksingwi/ravi-email-send"
+}

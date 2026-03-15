@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--smart-updater-pro",
+  "description": "OpenClaw auto-update checker and safe applier. Checks for new versions, compares changelogs, and applies updates with rollback safety. Designed to run as a cron job for hands-free maintenance. Use for keeping OpenClaw up to date automatically.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/smart-updater-pro"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "icloud-git--polymarket-edge",
+  "description": "Trade and analyse Polymarket prediction markets with a 5-minute BTC EMA crossover strategy. Browse markets, read order books, run signals, manage a live auto-trader, and view portfolio positions. Billed per-call via SkillPay.me (0.001 USDT / call, BNB Chain USDT).",
+  "version": "1.0.0",
+  "author": {
+    "name": "icloud-git"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/icloud-git/polymarket-edge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/icloud-git/polymarket-edge"
+}

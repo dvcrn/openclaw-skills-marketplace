@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--dockerfile-hardening-audit",
+  "description": "Statically audit Dockerfiles for common container hardening risks (root user, unpinned/latest base images, missing healthchecks, and risky build patterns).",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/dockerfile-hardening-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/dockerfile-hardening-audit"
+}

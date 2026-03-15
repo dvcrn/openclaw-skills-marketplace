@@ -1,0 +1,10 @@
+{
+  "name": "proxyhq--proxy-mcp",
+  "description": "Proxy MCP server integration for AI agent payments. Use Proxy's Model Context Protocol tools to create payment intents, provision virtual cards, check balances, and track transactions. Requires Proxy account and agent token.",
+  "version": "1.0.0",
+  "author": {
+    "name": "proxyhq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/proxyhq/proxy-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/proxyhq/proxy-mcp"
+}

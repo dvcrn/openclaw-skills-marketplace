@@ -1,0 +1,10 @@
+{
+  "name": "g-hanasq--skill-merge-and-republish",
+  "description": "Merge overlapping local skills into one canonical skill and republish the canonical skill to ClawHub. Use when two local skills have overlapping responsibilities, when a temporary helper skill should be folded back into a stronger existing skill, or when the user asks to merge duplicated skills and update ClawHub after the merge.",
+  "version": "0.1.0",
+  "author": {
+    "name": "g-hanasq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/g-hanasq/skill-merge-and-republish",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/g-hanasq/skill-merge-and-republish"
+}

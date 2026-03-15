@@ -1,0 +1,45 @@
+{
+  "name": "openclaw-skill-smart-router",
+  "version": "1.0.0",
+  "description": "智能路由器技能 - 多维度模型调度和成本优化系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "install": "node install.js",
+    "update": "node update.js"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "router",
+    "model",
+    "cost-optimization",
+    "ai",
+    "scheduling"
+  ],
+  "author": "OpenClaw AI",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  },
+  "openclaw": {
+    "skill": {
+      "id": "smart-router",
+      "name": "智能路由器",
+      "description": "多维度智能模型调度和成本优化系统",
+      "version": "1.0.0",
+      "category": "optimization",
+      "tags": ["routing", "cost-optimization", "models", "automation"],
+      "compatibility": "2026.2.13+",
+      "files": [
+        "SKILL.md",
+        "package.json",
+        "index.js",
+        "install.js",
+        "update.js",
+        "test.js",
+        "examples/"
+      ]
+    }
+  }
+}

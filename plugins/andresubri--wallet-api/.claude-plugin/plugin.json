@@ -1,0 +1,10 @@
+{
+  "name": "andresubri--wallet-api",
+  "description": "Interact with the BudgetBakers Wallet API for personal finance data. Use when the user needs to query accounts, categories, transactions (records), budgets, or templates from their Wallet app via the REST API. Requires WALLET_API_TOKEN environment variable.",
+  "version": "0.0.1",
+  "author": {
+    "name": "andresubri"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andresubri/wallet-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andresubri/wallet-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jamierossouw--macro-regime-detector",
+  "description": "Detect the current macro regime (Risk-On, Risk-Off, Inflationary, Deflationary, Stagflation) using multi-source intelligence. Combines Fear & Greed, DXY, yield curve, VIX, gold/BTC ratio, Reddit sentiment, and major news events. Use when you need macro regime analysis, risk-on vs risk-off determination, portfolio positioning advice, or crypto market context.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jamierossouw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/macro-regime-detector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/macro-regime-detector"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "atyachin--xpoz-setup",
+  "description": "Set up and authenticate the Xpoz MCP server for social media intelligence. Required by all Xpoz skills. Handles server configuration, OAuth login, and connection verification with minimal user interaction.",
+  "version": "1.2.0",
+  "author": {
+    "name": "atyachin"
+  },
+  "homepage": "https://xpoz.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/atyachin/xpoz-setup"
+}

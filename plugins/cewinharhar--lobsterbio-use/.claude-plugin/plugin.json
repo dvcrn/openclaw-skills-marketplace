@@ -1,0 +1,10 @@
+{
+  "name": "cewinharhar--lobsterbio-use",
+  "description": "Runs bioinformatics analysis with Lobster AI -- single-cell RNA-seq, bulk RNA-seq,\n genomics (VCF/GWAS), proteomics (mass spec/affinity), metabolomics (LC-MS/GC-MS/NMR),\n machine learning (feature selection, survival analysis), drug discovery,\n literature search, dataset discovery, and visualization.\n Use when working with biological data, omics analysis, or bioinformatics tasks.\n Covers: H5AD, CSV, VCF, PLINK, 10X, mzML formats, GEO/SRA/PRIDE/MetaboLights accessions.\n\n TRIGGER PHRASES: \"analyze cells\", \"search PubMed\", \"download GEO\", \"run QC\",\n \"cluster\", \"find markers\", \"differential expression\", \"UMAP\", \"volcano plot\",\n \"single-cell\", \"RNA-seq\", \"VCF\", \"GWAS\", \"proteomics\", \"mass spec\",\n \"metabolomics\", \"MetaboLights\", \"LC-MS\", \"metabolite\",\n \"feature selection\", \"survival analysis\", \"biomarker\", \"bioinformatics\",\n \"drug discovery\", \"pharmacogenomics\", \"variant annotation\"\n\n ASSUMES: Lobster is installed and configured. For setup issues, tell user to\n run `lobster config-test` and fix any errors before proceeding.",
+  "version": "1.1.406",
+  "author": {
+    "name": "cewinharhar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cewinharhar/lobsterbio-use",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cewinharhar/lobsterbio-use"
+}

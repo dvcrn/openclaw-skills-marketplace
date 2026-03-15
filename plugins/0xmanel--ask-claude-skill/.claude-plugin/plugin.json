@@ -1,0 +1,10 @@
+{
+  "name": "0xmanel--ask-claude-skill",
+  "description": "Delegate a task to Claude Code CLI and immediately report the result back in chat. Supports persistent sessions — Claude Code remembers previous context within the same workdir. Use when the user asks to run Claude, delegate a coding task, continue a previous Claude session, or any task benefiting from Claude Code's tools (file editing, code analysis, bash, etc.). ALWAYS run synchronously and ALWAYS include the result in your reply.",
+  "version": "1.1.1",
+  "author": {
+    "name": "0xmanel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xmanel/ask-claude-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xmanel/ask-claude-skill"
+}

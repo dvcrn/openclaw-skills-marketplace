@@ -1,0 +1,10 @@
+{
+  "name": "jianmo1997--shulian-weather",
+  "description": "Get current weather and forecasts via WeatherAPI.com. Use when: user asks about weather, temperature, or forecasts for any location. IMPORTANT: You must configure your own API key in OpenClaw settings or config file before using this skill.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jianmo1997"
+  },
+  "homepage": "https://www.weatherapi.com/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jianmo1997/shulian-weather"
+}

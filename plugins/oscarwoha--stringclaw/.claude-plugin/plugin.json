@@ -1,0 +1,10 @@
+{
+  "name": "oscarwoha--stringclaw",
+  "description": "Make real phone calls via Stringclaw. Use when the user says 'call me', 'give me a call', 'phone me', or wants to talk by voice. Initiates an outbound voice call that connects them to a live session with you.",
+  "version": "0.0.9",
+  "author": {
+    "name": "oscarwoha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oscarwoha/stringclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oscarwoha/stringclaw"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "oki3505f--notebooklm-integration",
+  "description": "Integrate Google NotebookLM capabilities into your workflow via the unofficial notebooklm-py library. Use when you need to: create/manage notebooks, import sources (URLs, PDFs, YouTube, etc.), run research queries, generate audio/video overviews, create slide decks/infographics/quizzes/flashcards, or download generated artifacts. Provides programmatic access to NotebookLM features not exposed in the web UI.",
+  "version": "1.0.1",
+  "author": {
+    "name": "oki3505f"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oki3505f/notebooklm-integration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oki3505f/notebooklm-integration"
+}

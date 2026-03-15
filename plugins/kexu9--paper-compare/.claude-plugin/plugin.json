@@ -1,0 +1,10 @@
+{
+  "name": "kexu9--paper-compare",
+  "description": "Compare academic research papers side-by-side to identify similarities, differences, and research gaps. Use when user wants to compare 1-5 papers via DOIs, URLs, search queries, or PDF files. Supports mixed input types. Outputs both comparison table and detailed narrative summary.",
+  "version": "1.2.1",
+  "author": {
+    "name": "kexu9"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kexu9/paper-compare",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kexu9/paper-compare"
+}

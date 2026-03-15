@@ -1,0 +1,10 @@
+{
+  "name": "iops--prompt-engineer-agentic",
+  "description": "Designs and optimizes system prompts for advisory AI and autonomous agent systems using a three-layer architecture (Foundation → Structure → Execution). Integrates evidence-graded techniques with production-proven patterns from Claude Code, Vercel v0, and Manus. Use when designing agentic systems with tool use, building advisory AI with confidence grading, optimizing existing prompts, diagnosing prompt failures, or building a spec to hand off to a prompt engineer. Includes a spec builder knowledge base and modular extensions for RAG grounding, domain calibration, and multi-agent orchestration. Trigger on: \"system prompt\", \"agent\", \"agentic\", \"prompt engineering\", \"write a prompt\", \"improve my prompt\", \"AI advisor\", \"tool use prompt\", \"multi-agent\", \"build me a spec\", \"write a spec\", \"spec for\", \"tool specification\", \"system prompt build request\".",
+  "version": "4.1.0",
+  "author": {
+    "name": "iops"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iops/prompt-engineer-agentic",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iops/prompt-engineer-agentic"
+}

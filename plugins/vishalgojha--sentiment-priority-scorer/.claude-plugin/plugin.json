@@ -1,0 +1,10 @@
+{
+  "name": "vishalgojha--sentiment-priority-scorer",
+  "description": "Score normalized real-estate leads using sentiment, urgency, intent, recency, and record type to produce deterministic priority rankings and P1-P3 buckets. Use when users ask to prioritize hot leads, rank callback queue, or triage follow-ups without performing writes or outbound sends. Recommended chain: india-location-normalizer then sentiment-priority-scorer then summary-generator and action-suggester.",
+  "version": "1.0.2",
+  "author": {
+    "name": "vishalgojha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vishalgojha/sentiment-priority-scorer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vishalgojha/sentiment-priority-scorer"
+}

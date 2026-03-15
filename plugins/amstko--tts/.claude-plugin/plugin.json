@@ -1,0 +1,10 @@
+{
+  "name": "amstko--tts",
+  "description": "Convert text to speech using Hume AI (or OpenAI) API. Use when the user asks for an audio message, a voice reply, or to hear something \"of vive voix\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "amstko"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/amstko/tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/amstko/tts"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ambition0802--acp-background-runs",
+  "description": "Route requests for ACP or external coding agents such as Codex, Claude Code, Gemini CLI, and OpenCode into non-blocking OpenClaw background ACP runs instead of executing synchronously in the current chat. Use when a user wants to hand coding work to an external agent and expects the current conversation to continue without waiting. Triggers: \"ACP\", \"Codex\", \"Claude Code\", \"Gemini CLI\", \"OpenCode\", \"background run\", \"background task\".",
+  "version": "0.1.2",
+  "author": {
+    "name": "ambition0802"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ambition0802/acp-background-runs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ambition0802/acp-background-runs"
+}

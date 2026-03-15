@@ -1,0 +1,11 @@
+{
+  "name": "快递100 物流信息服务",
+  "tagline": "查快递轨迹、估运费与时效，寄件引导至官网/APP/小程序",
+  "description": "基于快递100 MCP，在对话中完成物流单号轨迹查询、运费预估、智能时效预估（全程/在途）；当用户需要寄快递时，引导通过快递100 官网、APP 或微信小程序下单。适用于 Cursor、OpenClaw 等支持 MCP 的客户端，需用户自备快递100 API Key。",
+  "category": "utility",
+  "tags": ["快递", "物流", "MCP", "快递100", "轨迹查询", "运费预估"],
+  "version": "1.0.0",
+  "license": "MIT",
+  "pricing": "free",
+  "homepage": "https://www.kuaidi100.com"
+}

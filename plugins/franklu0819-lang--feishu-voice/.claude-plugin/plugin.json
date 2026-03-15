@@ -1,0 +1,10 @@
+{
+  "name": "franklu0819-lang--feishu-voice",
+  "description": "飞书语音消息发送技能。将文本转换为语音并发送到飞书，支持 TTS 生成、格式转换、时长读取、文件上传和消息发送。",
+  "version": "1.0.1",
+  "author": {
+    "name": "franklu0819-lang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/franklu0819-lang/feishu-voice",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/franklu0819-lang/feishu-voice"
+}

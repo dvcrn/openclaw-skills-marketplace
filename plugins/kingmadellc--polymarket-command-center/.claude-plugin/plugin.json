@@ -1,0 +1,10 @@
+{
+  "name": "kingmadellc--polymarket-command-center",
+  "description": "Read-only Polymarket interface — browse trending markets, get detailed odds with probability bars, search active markets, and track watchlists. Zero API key required, uses public Gamma and CLOB APIs with thread-safe caching. Part of the OpenClaw Prediction Market Trading Stack — feeds Polymarket data to Market Morning Brief and pairs with Prediction Market Arbiter for cross-platform divergence detection.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kingmadellc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/polymarket-command-center",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/polymarket-command-center"
+}

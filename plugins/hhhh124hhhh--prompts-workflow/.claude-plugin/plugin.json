@@ -1,0 +1,10 @@
+{
+  "name": "hhhh124hhhh--prompts-workflow",
+  "description": "Automated workflow for collecting, converting, and publishing AI prompts to ClawdHub. Collects from multiple sources (Reddit, GitHub, Hacker News, SearXNG), converts prompts into Clawdbot Skills, and publishes them automatically.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hhhh124hhhh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hhhh124hhhh/prompts-workflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hhhh124hhhh/prompts-workflow"
+}

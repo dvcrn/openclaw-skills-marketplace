@@ -1,0 +1,10 @@
+{
+  "name": "abdhilabs--karmabank-usdc",
+  "description": "AI agents borrow USDC based on their Moltbook karma score. Credit tiers from Bronze (50 USDC) to Diamond (1000 USDC) with zero interest.",
+  "version": "1.0.0",
+  "author": {
+    "name": "abdhilabs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abdhilabs/karmabank-usdc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abdhilabs/karmabank-usdc"
+}

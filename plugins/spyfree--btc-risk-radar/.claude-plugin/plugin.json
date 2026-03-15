@@ -1,0 +1,10 @@
+{
+  "name": "spyfree--btc-risk-radar",
+  "description": "Professional BTC risk radar using public options, perp, and spot data. Use when the user wants a clear Bitcoin risk snapshot with volatility/skew context, panic or black-swan validation, timestamped evidence, confidence scoring, and explicit caveats for traders or advanced observers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "spyfree"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spyfree/btc-risk-radar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spyfree/btc-risk-radar"
+}

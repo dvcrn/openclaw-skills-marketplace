@@ -1,0 +1,10 @@
+{
+  "name": "c0nspic0us7urk3r--smart-router",
+  "description": "Expertise-aware model router with semantic domain scoring, context-overflow protection, and security redaction. Automatically selects the optimal AI model using weighted expertise scoring (Feb 2026 benchmarks). Supports Claude, GPT, Gemini, Grok with automatic fallback chains, HITL gates, and cost optimization.",
+  "version": "0.1.2",
+  "author": {
+    "name": "c0nspic0us7urk3r"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/c0nspic0us7urk3r/smart-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/c0nspic0us7urk3r/smart-router"
+}

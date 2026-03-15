@@ -1,0 +1,10 @@
+{
+  "name": "askrauthein--azion-deploy",
+  "description": "Deploy applications, static sites, and edge functions to Azion using Azion CLI. Use when the user asks to deploy/publish to Azion, configure link/build/deploy flow, or troubleshoot Azion auth/project linking problems.",
+  "version": "0.1.1",
+  "author": {
+    "name": "askrauthein"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/askrauthein/azion-deploy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/askrauthein/azion-deploy"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bowen31337--intelligent-router",
+  "description": "Intelligent model routing for sub-agent task delegation. Choose the optimal model based on task complexity, cost, and capability requirements. Reduces costs by routing simple tasks to cheaper models while preserving quality for complex work.",
+  "version": "3.0.1",
+  "author": {
+    "name": "bowen31337"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/intelligent-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/intelligent-router"
+}

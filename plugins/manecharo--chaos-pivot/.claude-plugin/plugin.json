@@ -1,0 +1,10 @@
+{
+  "name": "manecharo--chaos-pivot",
+  "description": "Prevents LLMs from sunk-cost pushing broken solutions. Triggers when an agent is stuck, looping, or failing repeatedly. Forces a Popperian falsification moment, then generates 3 constrained-chaotic alternative approaches and picks the best one. Loops like design thinking until solved or escalated.",
+  "version": "1.0.0",
+  "author": {
+    "name": "manecharo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/manecharo/chaos-pivot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/manecharo/chaos-pivot"
+}

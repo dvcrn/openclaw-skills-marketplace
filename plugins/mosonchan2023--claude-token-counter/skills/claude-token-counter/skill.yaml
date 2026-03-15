@@ -1,0 +1,12 @@
+name: claude-token-counter
+version: 1.0.0
+description: Estimate token usage for Claude models
+category: Claude
+tags:
+  - claude
+  - token-count
+  - budget
+  - api-cost
+author: mosonchan2023
+price: 0.001
+currency: USDT

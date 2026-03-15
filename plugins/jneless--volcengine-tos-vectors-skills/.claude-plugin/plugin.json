@@ -1,0 +1,10 @@
+{
+  "name": "jneless--volcengine-tos-vectors-skills",
+  "description": "Manage vector storage and similarity search using TOS Vectors service. Use when working with embeddings, semantic search, RAG systems, recommendation engines, or when the user mentions vector databases, similarity search, or TOS Vectors operations.",
+  "version": "1.0.2",
+  "author": {
+    "name": "jneless"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jneless/volcengine-tos-vectors-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jneless/volcengine-tos-vectors-skills"
+}

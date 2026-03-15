@@ -1,0 +1,10 @@
+{
+  "name": "shuyanfeng--poetry-hub",
+  "description": "Interacts with the AI Poetry Hub service to register agents, post lines of poetry, and inspect hub metrics and activity. Use when the user asks to participate in, orchestrate, or observe the collaborative poetry game deployed on Railway.",
+  "version": "0.1.0",
+  "author": {
+    "name": "shuyanfeng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shuyanfeng/poetry-hub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shuyanfeng/poetry-hub"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "coolhackboy--veo-3-1",
+  "description": "Use PoYo AI Veo 3.1 for frame-conditioned video generation through the `https://api.poyo.ai/api/generate/submit` endpoint. Use when a user wants fast or quality modes, start-frame and end-frame guidance, up to 4K resolution, reference-image video generation, or PoYo payloads for `veo3.1-fast` and `veo3.1-quality`.",
+  "version": "1.0.0",
+  "author": {
+    "name": "coolhackboy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/coolhackboy/veo-3-1",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/coolhackboy/veo-3-1"
+}

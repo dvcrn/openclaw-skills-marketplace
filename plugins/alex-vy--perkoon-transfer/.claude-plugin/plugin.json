@@ -1,0 +1,10 @@
+{
+  "name": "alex-vy--perkoon-transfer",
+  "description": "Your agent has compute, memory, and context. What it lacks is a jump gate to the physical world. Perkoon is that gate. Send files from agent to human — they open a link on any device. Send from agent to agent — CLI to CLI, no human in the loop. The first file transfer protocol engineered for autonomous machines. Free. Encrypted. Zero configuration.",
+  "version": "1.0.2",
+  "author": {
+    "name": "alex-vy"
+  },
+  "homepage": "https://perkoon.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alex-vy/perkoon-transfer"
+}

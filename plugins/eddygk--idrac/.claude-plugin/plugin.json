@@ -1,0 +1,10 @@
+{
+  "name": "eddygk--idrac",
+  "description": "Monitor and manage Dell PowerEdge servers via iDRAC Redfish API (iDRAC 8/9).\n\n Use when asked to:\n - Check server hardware status, health, or temperatures\n - Query CPU, memory, storage/RAID details\n - Monitor system sensors (fans, voltage, thermal)\n - Perform power operations (status, on, off, graceful shutdown, force restart)\n - Check BIOS/firmware versions or system inventory\n - View system event logs (SEL) or lifecycle controller logs\n - Get hardware inventory or serial numbers\n\n Requires: curl, jq. Optional: 1Password CLI (op) for credential hydration.\n Writes: ~/.config/idrac-skill/config (user-created), ~/.idrac-credentials (cached credentials, mode 600).\n Network: connects to user-configured iDRAC IP only (HTTPS, TLS verification disabled for self-signed certs).\n\n Helper script: scripts/idrac.sh (relative to this skill)\n Configuration: ~/.config/idrac-skill/config",
+  "version": "1.1.0",
+  "author": {
+    "name": "eddygk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/eddygk/idrac",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eddygk/idrac"
+}

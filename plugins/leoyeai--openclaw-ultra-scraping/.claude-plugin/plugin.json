@@ -1,0 +1,10 @@
+{
+  "name": "leoyeai--openclaw-ultra-scraping",
+  "description": "Powerful web scraping, crawling, and data extraction with stealth anti-bot bypass (Cloudflare Turnstile, CAPTCHAs). Use when: (1) scraping websites that block normal requests, (2) extracting structured data from web pages, (3) crawling multiple pages with concurrency, (4) taking screenshots of web pages, (5) extracting links, (6) any web scraping task that needs stealth/anti-detection, (7) user asks to scrape/crawl/extract from URLs, (8) need to bypass Cloudflare or other bot protection. Supports CSS/XPath selectors, adaptive element tracking (survives site redesigns), multi-session spiders, pause/resume crawls, proxy rotation, and async operations. Powered by MyClaw.ai.",
+  "version": "1.0.2",
+  "author": {
+    "name": "leoyeai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leoyeai/openclaw-ultra-scraping",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leoyeai/openclaw-ultra-scraping"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "avalon-467--teamclaw",
+  "description": "A high-performance Agent subsystem for complex multi-agent orchestration. It provides a visual workflow canvas (OASIS) to coordinate OpenClaw agents, automated computer use tasks, and real-time monitoring via a dedicated Web UI. Supports Telegram/QQ bot integrations and Cloudflare Tunnel for secure remote access.",
+  "version": "0.1.3",
+  "author": {
+    "name": "avalon-467"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/avalon-467/teamclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/avalon-467/teamclaw"
+}

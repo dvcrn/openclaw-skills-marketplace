@@ -1,0 +1,10 @@
+{
+  "name": "tony888880lang--openclaw-cat",
+  "description": "Cat Life Status Query Skill. Triggers when you send /cat command or ask about your cat. The skill calls the underlying LLM model to interact with you as a sassy and funny cat, telling you what the cat is doing and thinking. For OpenClaw deployment environments.",
+  "version": "0.1.1",
+  "author": {
+    "name": "tony888880lang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tony888880lang/openclaw-cat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tony888880lang/openclaw-cat"
+}

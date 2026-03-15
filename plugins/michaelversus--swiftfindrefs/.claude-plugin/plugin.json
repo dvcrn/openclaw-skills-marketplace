@@ -1,0 +1,10 @@
+{
+  "name": "michaelversus--swiftfindrefs",
+  "description": "Use swiftfindrefs (IndexStoreDB) to list every Swift source file referencing a symbol. Mandatory for “find references”, “fix missing imports”, and cross-module refactors. Do not replace with grep/rg or IDE search.",
+  "version": "1.0.5",
+  "author": {
+    "name": "michaelversus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/michaelversus/swiftfindrefs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/michaelversus/swiftfindrefs"
+}

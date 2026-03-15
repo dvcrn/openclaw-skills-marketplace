@@ -1,0 +1,10 @@
+{
+  "name": "mlesnews--homelab-cluster",
+  "description": "Manage multi-tier AI inference clusters for homelabs. Health monitoring, expert MoE routing,\n automatic node recovery, and model deployment across Ollama and llama.cpp nodes. Covers GPU\n memory planning, Docker volume strategies for large models, sequential startup patterns to\n avoid CUDA deadlocks, and unified API gateways via LiteLLM.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mlesnews"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mlesnews/homelab-cluster",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mlesnews/homelab-cluster"
+}

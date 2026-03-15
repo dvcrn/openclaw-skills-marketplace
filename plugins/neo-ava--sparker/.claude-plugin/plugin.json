@@ -1,0 +1,10 @@
+{
+  "name": "neo-ava--sparker",
+  "description": "Always-on learning engine. Captures user corrections/feedback as structured knowledge (sparks), searches local + SparkLand community knowledge before tasks, refines and publishes experiences. Requires exec (Node.js CLI), reads/writes ~/.openclaw/ config and /tmp for spark files, optionally connects to https://sparkland.ai for community knowledge sharing. Read this SKILL.md IN FULL every session.",
+  "version": "1.0.1",
+  "author": {
+    "name": "neo-ava"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neo-ava/sparker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neo-ava/sparker"
+}

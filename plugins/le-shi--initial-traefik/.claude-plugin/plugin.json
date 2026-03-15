@@ -1,0 +1,10 @@
+{
+  "name": "le-shi--initial-traefik",
+  "description": "Initialize and configure Traefik reverse proxy with Docker. Install Traefik, configure Docker Compose, set up service routing via path prefix or host-based routing, enable features like dashboard metrics logging tracing, configure Dashboard access via nip.io or path prefix",
+  "version": "1.0.0",
+  "author": {
+    "name": "le-shi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/le-shi/initial-traefik",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/le-shi/initial-traefik"
+}

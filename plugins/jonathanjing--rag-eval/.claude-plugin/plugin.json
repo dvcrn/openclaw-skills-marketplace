@@ -1,0 +1,10 @@
+{
+  "name": "jonathanjing--rag-eval",
+  "description": "Evaluate your RAG pipeline quality using Ragas metrics (faithfulness, answer relevancy, context precision).",
+  "version": "1.2.1",
+  "author": {
+    "name": "jonathanjing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jonathanjing/rag-eval",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jonathanjing/rag-eval"
+}

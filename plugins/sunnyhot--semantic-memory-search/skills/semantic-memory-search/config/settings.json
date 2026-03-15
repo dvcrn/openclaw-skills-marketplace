@@ -1,0 +1,16 @@
+{
+  "memory_path": "~/.openclaw/workspace/memory/",
+  "memsearch_path": "~/Library/Python/3.14/bin/memsearch",
+  "milvus_uri": "~/.memsearch/milvus.db",
+  "embedding": {
+    "provider": "local",
+    "model": "all-MiniLM-L6-v2"
+  },
+  "search": {
+    "top_k": 5
+  },
+  "watch": {
+    "enabled": false,
+    "interval_seconds": 60
+  }
+}

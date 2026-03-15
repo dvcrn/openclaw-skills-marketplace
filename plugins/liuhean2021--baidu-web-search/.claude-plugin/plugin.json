@@ -1,0 +1,10 @@
+{
+  "name": "liuhean2021--baidu-web-search",
+  "description": "Use Baidu Qianfan web search API for real-time web retrieval. Use when the user needs to search the web, get latest news, verify facts, or expresses intent like \"查一下\",\"搜一下\",\"最近\",\"今天\",\"今年\", or asks about events/people/products that require looking up.",
+  "version": "1.1.0",
+  "author": {
+    "name": "liuhean2021"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/liuhean2021/baidu-web-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/liuhean2021/baidu-web-search"
+}

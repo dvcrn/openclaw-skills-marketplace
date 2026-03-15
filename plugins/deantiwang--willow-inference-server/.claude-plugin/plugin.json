@@ -1,0 +1,10 @@
+{
+  "name": "deantiwang--willow-inference-server",
+  "description": "Local ASR and TTS inference server. Use when the user wants to transcribe audio to text (ASR) or convert text to speech (TTS). Requires a running Willow Inference Server instance. Supports Whisper for ASR and custom TTS voices.",
+  "version": "1.0.0",
+  "author": {
+    "name": "deantiwang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deantiwang/willow-inference-server",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deantiwang/willow-inference-server"
+}

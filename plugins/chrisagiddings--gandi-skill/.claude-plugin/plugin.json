@@ -1,0 +1,10 @@
+{
+  "name": "chrisagiddings--gandi-skill",
+  "description": "Comprehensive Gandi domain registrar integration for domain and DNS management. Register and manage domains, create/update/delete DNS records (A, AAAA, CNAME, MX, TXT, SRV, and more), configure email forwarding and aliases, check SSL certificate status, create DNS snapshots for safe rollback, bulk update zone files, and monitor domain expiration. Supports multi-domain management, zone file import/export, and automated DNS backups. Includes both read-only and destructive operations with safety controls.",
+  "version": "0.2.7",
+  "author": {
+    "name": "chrisagiddings"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chrisagiddings/gandi-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chrisagiddings/gandi-skill"
+}

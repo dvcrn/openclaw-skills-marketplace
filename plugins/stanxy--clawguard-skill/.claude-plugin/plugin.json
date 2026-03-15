@@ -1,0 +1,10 @@
+{
+  "name": "stanxy--clawguard-skill",
+  "description": "Outbound DLP for OpenClaw — hard regex blocks secrets & PII from leaving the machine. Domain control, no LLM.",
+  "version": "0.3.0",
+  "author": {
+    "name": "stanxy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stanxy/clawguard-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stanxy/clawguard-skill"
+}

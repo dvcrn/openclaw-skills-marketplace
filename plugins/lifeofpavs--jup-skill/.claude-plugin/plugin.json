@@ -1,0 +1,10 @@
+{
+  "name": "lifeofpavs--jup-skill",
+  "description": "Execute Jupiter API operations on Solana - fetch quotes, sign transactions, execute swaps, prediction markets. Use when implementing token swaps, DCA, limit orders, lending, prediction markets, or any Jupiter integration. Includes scripts for Ultra and Metis swap flows.",
+  "version": "1.0.2",
+  "author": {
+    "name": "lifeofpavs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lifeofpavs/jup-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lifeofpavs/jup-skill"
+}

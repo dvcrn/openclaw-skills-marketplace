@@ -1,0 +1,10 @@
+{
+  "name": "gitgoodordietrying--security-audit-toolkit",
+  "description": "Audit codebases and infrastructure for security issues. Use when scanning dependencies for vulnerabilities, detecting hardcoded secrets, checking OWASP top 10 issues, verifying SSL/TLS, auditing file permissions, or reviewing code for injection and auth flaws.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gitgoodordietrying"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/security-audit-toolkit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/security-audit-toolkit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "deniurchak--esimpal-api",
+  "description": "Use when building or debugging an agent (e.g. Telegram/WhatsApp bot, AI assistant) that integrates with the eSIMPal API to buy eSIMs for end-users, create orders, and deliver activation links, QR codes, or manual-install details.",
+  "version": "1.0.2",
+  "author": {
+    "name": "deniurchak"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deniurchak/esimpal-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deniurchak/esimpal-api"
+}

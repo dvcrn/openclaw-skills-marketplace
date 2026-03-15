@@ -1,0 +1,10 @@
+{
+  "name": "eric8810--authy",
+  "description": "Inject secrets into subprocesses via environment variables. You never see secret values — authy run injects them directly. Use for any command that needs API keys, credentials, or tokens.",
+  "version": "0.3.0",
+  "author": {
+    "name": "eric8810"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/eric8810/authy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eric8810/authy"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "tader--knhb-hockey",
+  "description": "Query Dutch field hockey match schedules and results from KNHB Match Center (hockeyweerelt.nl). Use when looking up hockey clubs, teams, upcoming matches, or match results in the Netherlands.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tader"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tader/knhb-hockey",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tader/knhb-hockey"
+}

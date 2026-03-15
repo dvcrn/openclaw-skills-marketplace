@@ -1,0 +1,15 @@
+{
+  "name": "qiushi-skill",
+  "version": "1.2.0",
+  "description": "AI Content Authenticity Verification Tool. Specialized in AI hallucination detection, including path hallucination, fake data, false claims, and sensitive content scanning.",
+  "author": "Tao"
+  "homepage": "https://clawhub.com/arkcai/qiushi-skill",
+  "repository": "https://clawhub.com/arkcai/qiushi-skill.git",
+  "license": "MIT",
+  "permissions": ["content_verify", "file_read"],
+  "dependencies": {},
+  "main": "main.py",
+  "keywords": ["truth", "verification", "AI hallucination", "authenticity", "security"],
+  "category": "productivity",
+  "icon": "🔍"
+}

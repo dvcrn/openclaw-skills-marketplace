@@ -1,0 +1,10 @@
+{
+  "name": "jdchi--claw-trace",
+  "description": "Track and visualize the OpenClaw agent's work process. Record tool call inputs, outputs, duration, and status, and present them in an easy-to-read format.\n **IMPORTANT**: When config `enable = true`, this skill MUST automatically show trace output after EVERY tool call, WITHOUT waiting for user to ask \"show trace\".\n Only applicable to OpenClaw platform.",
+  "version": "1.1.1",
+  "author": {
+    "name": "jdchi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jdchi/claw-trace",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jdchi/claw-trace"
+}

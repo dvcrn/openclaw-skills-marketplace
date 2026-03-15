@@ -1,0 +1,10 @@
+{
+  "name": "zoopools--openclaw-config-center",
+  "description": "为 OpenClaw 构建集中化配置管理系统，告别硬编码和配置分散，实现\"改一处，生效全局\"的现代化运维体验。包含配置加载器、主配置融合、记忆同步、AGENTS.md 模板、memoryFlush、memorySearch、多 Agent 配置、ClawRouter 成本优化等核心功能。",
+  "version": "1.2.0",
+  "author": {
+    "name": "zoopools"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zoopools/openclaw-config-center",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zoopools/openclaw-config-center"
+}

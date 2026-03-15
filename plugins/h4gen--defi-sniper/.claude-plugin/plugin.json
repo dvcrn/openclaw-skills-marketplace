@@ -1,0 +1,10 @@
+{
+  "name": "h4gen--defi-sniper",
+  "description": "Meta-skill for early token-launch intelligence and execution orchestration across Solana and Base using minara, torchmarket, and torchliquidationbot. Use when users need fast launch detection, on-chain risk triage, social-signal confirmation, and rule-based swap execution with strict guardrails.",
+  "version": "1.0.0",
+  "author": {
+    "name": "h4gen"
+  },
+  "homepage": "https://clawhub.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/h4gen/defi-sniper"
+}

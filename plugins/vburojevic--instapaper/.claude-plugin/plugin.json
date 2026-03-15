@@ -1,0 +1,10 @@
+{
+  "name": "vburojevic--instapaper",
+  "description": "Use when operating the instapaper-cli (ip) tool or troubleshooting it: authenticating, listing/exporting/importing bookmarks, bulk mutations, folders/highlights/text, choosing output formats (ndjson/json/plain), cursor-based sync, and interpreting stderr-json/exit codes for automation.",
+  "version": "0.2.9",
+  "author": {
+    "name": "vburojevic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vburojevic/instapaper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vburojevic/instapaper"
+}

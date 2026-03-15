@@ -1,0 +1,10 @@
+{
+  "name": "zhangwud1--optional-strict-instructions",
+  "description": "Handle operations requiring user confirmation, permission verification, and strict adherence to explicit instructions. Activate when: (1) Operations need sudo/elevated permissions, (2) File deletion or modification is requested, (3) System changes are required, (4) User explicitly specifies a method (e.g., \"use sudo\"), (5) Sensitive operations need explicit consent, (6) Multiple valid approaches exist and user choice is required. Use this skill to ensure proper verification, user interaction, and strict compliance with user instructions.",
+  "version": "0.0.1",
+  "author": {
+    "name": "zhangwud1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhangwud1/optional-strict-instructions",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhangwud1/optional-strict-instructions"
+}

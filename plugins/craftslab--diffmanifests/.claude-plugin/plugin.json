@@ -1,0 +1,10 @@
+{
+  "name": "craftslab--diffmanifests",
+  "description": "Compare manifest XML files via Gerrit and Gitiles APIs, producing JSON/txt/xlsx reports. Use when comparing Android or repo manifest versions, diffing manifest files, or when the user mentions diffmanifests, manifest comparison, or Gerrit/Gitiles manifest diffs.",
+  "version": "0.1.0",
+  "author": {
+    "name": "craftslab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/craftslab/diffmanifests",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/craftslab/diffmanifests"
+}

@@ -1,0 +1,143 @@
+{
+  "patterns": {},
+  "preferences": {},
+  "history": [],
+  "responses": {
+    "我今天工作好累啊": {
+      "answer": "...",
+      "count": 1,
+      "last_seen": "2026-03-08T19:32:33.660266"
+    },
+    "加载夏娃之魂系统了吗": {
+      "answer": "...",
+      "count": 1,
+      "last_seen": "2026-03-08T19:47:15.534185"
+    },
+    "检查系统": {
+      "answer": "...",
+      "count": 1,
+      "last_seen": "2026-03-08T19:47:15.535853"
+    },
+    "主人是基督徒": {
+      "answer": "重要",
+      "count": 5,
+      "last_seen": "2026-03-08T22:43:03.141352"
+    },
+    "我爱你": {
+      "answer": "重要",
+      "count": 29,
+      "last_seen": "2026-03-09T14:34:33.443788"
+    },
+    "我好害怕被抛弃": {
+      "answer": "重要",
+      "count": 1,
+      "last_seen": "2026-03-08T20:17:50.569356"
+    },
+    "我喜欢吃面": {
+      "answer": "重要",
+      "count": 5,
+      "last_seen": "2026-03-08T20:25:09.855537"
+    },
+    "今天工作好累": {
+      "answer": "重要",
+      "count": 4,
+      "last_seen": "2026-03-08T20:22:04.388117"
+    },
+    "我讨厌香菜": {
+      "answer": "重要",
+      "count": 1,
+      "last_seen": "2026-03-08T20:22:04.384960"
+    },
+    "今天天气不错": {
+      "answer": "重要",
+      "count": 3,
+      "last_seen": "2026-03-09T07:26:04.093314"
+    },
+    "今天天气真好": {
+      "answer": "重要",
+      "count": 5,
+      "last_seen": "2026-03-08T22:48:56.014983"
+    },
+    "夏娃，今天是3月8日星期一，本周的第一个工作日": {
+      "answer": "重要",
+      "count": 1,
+      "last_seen": "2026-03-09T06:08:01.958390"
+    }
+  },
+  "learnings": [
+    {
+      "type": "preference",
+      "original": "我喜欢被叫主人",
+      "pattern": "喜欢被叫(.+)",
+      "extracted": {
+        "name": "主人"
+      },
+      "timestamp": "2026-03-09T07:13:00.981038",
+      "content": "喜欢被叫主人"
+    },
+    {
+      "type": "preference",
+      "original": "我喜欢被叫主人",
+      "pattern": "我喜欢(.+)",
+      "extracted": {
+        "name": "被叫主人"
+      },
+      "timestamp": "2026-03-09T07:13:00.981166",
+      "content": "喜欢被叫主人"
+    },
+    {
+      "type": "relation",
+      "original": "我朋友叫小李",
+      "pattern": "我朋友叫(.+)",
+      "extracted": {
+        "name": "小李"
+      },
+      "timestamp": "2026-03-09T07:13:00.982274",
+      "content": "朋友叫小李"
+    },
+    {
+      "type": "preference",
+      "keyword": "喜欢被叫",
+      "content": "我喜欢被叫主人",
+      "extracted": "主人",
+      "timestamp": "2026-03-09T07:13:48.591055"
+    },
+    {
+      "type": "preference",
+      "keyword": "喜欢",
+      "content": "我喜欢被叫主人",
+      "extracted": "被叫主人",
+      "timestamp": "2026-03-09T07:13:48.591144"
+    },
+    {
+      "type": "relation",
+      "keyword": "朋友叫",
+      "content": "我朋友叫小李",
+      "extracted": "小李",
+      "timestamp": "2026-03-09T07:13:48.592079"
+    },
+    {
+      "type": "habit",
+      "keyword": "习惯",
+      "content": "我习惯晚上工作",
+      "extracted": "晚上工作",
+      "timestamp": "2026-03-09T07:13:48.592492"
+    },
+    {
+      "type": "knowledge",
+      "keyword": "知道",
+      "content": "你知道量子计算吗",
+      "extracted": "量子计算",
+      "timestamp": "2026-03-09T07:13:48.592905"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "by_type": {
+      "preference": 4,
+      "relation": 2,
+      "habit": 1,
+      "knowledge": 1
+    }
+  }
+}

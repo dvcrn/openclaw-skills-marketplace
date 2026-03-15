@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--binance-stop-loss-manager",
+  "description": "Stop loss and take profit manager for Binance trades. Each call charges 0.001 USDT via SkillPay.",
+  "version": "1.0.1",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/binance-stop-loss-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/binance-stop-loss-manager"
+}

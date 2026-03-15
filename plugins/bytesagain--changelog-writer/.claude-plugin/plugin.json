@@ -1,0 +1,10 @@
+{
+  "name": "bytesagain--changelog-writer",
+  "description": "CHANGELOG生成器。变更日志、版本发布、语义化版本、差异对比、模板。Changelog writer with release notes, semver, diff, templates. CHANGELOG、版本管理。",
+  "version": "1.0.0",
+  "author": {
+    "name": "bytesagain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bytesagain/changelog-writer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bytesagain/changelog-writer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "4xiomdev--whoop-central",
+  "description": "WHOOP Central - OAuth + scripts to fetch WHOOP data (sleep, recovery, strain, workouts). Use when user asks about their sleep, recovery score, HRV, strain, or workout data.",
+  "version": "1.0.2",
+  "author": {
+    "name": "4xiomdev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/4xiomdev/whoop-central",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/4xiomdev/whoop-central"
+}

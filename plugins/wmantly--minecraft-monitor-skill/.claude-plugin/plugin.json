@@ -1,0 +1,10 @@
+{
+  "name": "wmantly--minecraft-monitor-skill",
+  "description": "Monitor Minecraft servers by checking online status, player counts, latency, and version info using the Server List Ping protocol. Use when the user asks to check Minecraft server status, monitor a Minecraft server, verify if a server is online, get player counts, or mentions Minecraft server monitoring. Example servers include corejourney.org.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wmantly"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wmantly/minecraft-monitor-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wmantly/minecraft-monitor-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bryan-project--vt-hash-intel",
+  "description": "Instantly check if a file, URL, domain, or IP is malicious using VirusTotal. Paste any MD5/SHA1/SHA256 hash, URL, domain name, or IP address into the chat and get a full threat report — detection ratio across 70+ security engines, malware family, YARA matches, sandbox verdicts, DNS records, WHOIS info, and a direct link to the VirusTotal report. Supports single and batch lookups of mixed IOC types. Also handles defanged IOCs (hxxp, [.] notation). Perfect for incident response, threat hunting, IOC enrichment, SOC triage, and daily security operations. Use this skill whenever the user has a suspicious hash, URL, domain, or IP they want to investigate. Also triggers on: VirusTotal, VT, hash lookup, malware check, file reputation, threat intel, IOC, URL scan, domain reputation, IP reputation, 查hash, 查IP, 查域名, 查URL, 威胁情报, 病毒查询, 恶意软件分析.",
+  "version": "1.0.2",
+  "author": {
+    "name": "bryan-project"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bryan-project/vt-hash-intel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bryan-project/vt-hash-intel"
+}

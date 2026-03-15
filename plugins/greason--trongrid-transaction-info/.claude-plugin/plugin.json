@@ -1,0 +1,10 @@
+{
+  "name": "greason--trongrid-transaction-info",
+  "description": "Query and decode TRON transactions including status, confirmation, sender/receiver, resource costs, internal transactions, event logs, and failure analysis. Use when a user asks about a transaction hash, wants to check if a transaction succeeded, understand what a transaction did, or debug a failed transaction.",
+  "version": "1.0.1",
+  "author": {
+    "name": "greason"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/greason/trongrid-transaction-info",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/greason/trongrid-transaction-info"
+}

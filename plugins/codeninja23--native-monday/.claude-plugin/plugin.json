@@ -1,0 +1,10 @@
+{
+  "name": "codeninja23--native-monday",
+  "description": "Read and query Monday.com boards, items, workspaces, and users directly via the Monday.com GraphQL API. Use when you need project/task data, board contents, or team info. Calls api.monday.com directly with no third-party proxy.",
+  "version": "0.1.0",
+  "author": {
+    "name": "codeninja23"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codeninja23/native-monday",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codeninja23/native-monday"
+}

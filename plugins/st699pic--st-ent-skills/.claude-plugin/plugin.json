@@ -1,0 +1,10 @@
+{
+  "name": "st699pic--st-ent-skills",
+  "description": "Search 699pic enterprise photo/video assets, check whether an asset was already downloaded, inspect download records, and generate download links through the local 699pic OpenAPI integration. Use when the user asks to 搜索699素材、找图片、找视频、查企业下载记录、判断素材是否下载过、生成下载链接，或 when you need to use the local st-mcp / 699pic OpenAPI workflow from this machine.",
+  "version": "0.1.2",
+  "author": {
+    "name": "st699pic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/st699pic/st-ent-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/st699pic/st-ent-skills"
+}

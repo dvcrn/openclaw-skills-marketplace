@@ -1,0 +1,10 @@
+{
+  "name": "melvynx--cli-vercel",
+  "description": "Deploy and manage Vercel projects via CLI - deploy, env, domains, logs, teams. Use when user mentions 'vercel', 'deploy', 'vercel project', or wants to interact with Vercel.",
+  "version": "1.0.0",
+  "author": {
+    "name": "melvynx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/melvynx/cli-vercel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/melvynx/cli-vercel"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xbtoshi--monero-wallet",
+  "description": "Official KYC-rip Monero Agent Skill. Manage XMR wallets on Mainnet/Stagenet via Ripley Gateway.",
+  "version": "1.0.11",
+  "author": {
+    "name": "xbtoshi"
+  },
+  "homepage": "https://github.com/KYC-rip/ripley-xmr-gateway",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xbtoshi/monero-wallet"
+}

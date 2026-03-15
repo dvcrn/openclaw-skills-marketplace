@@ -1,0 +1,10 @@
+{
+  "name": "cyberpsychosissss--video-news-downloader",
+  "description": "Automated daily news video downloader with AI subtitle proofreading. Downloads CBS Evening News and BBC News at Ten from YouTube, extracts and proofreads subtitles using DeepSeek, serves videos via HTTP with embedded players. Use when: (1) Setting up automated daily news video downloads, (2) Downloading CBS/BBC news with subtitles, (3) Proofreading subtitle files with AI, (4) Creating local video streaming servers with web players, (5) Managing cron jobs for scheduled video updates.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cyberpsychosissss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cyberpsychosissss/video-news-downloader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cyberpsychosissss/video-news-downloader"
+}

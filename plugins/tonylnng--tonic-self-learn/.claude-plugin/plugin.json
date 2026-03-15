@@ -1,0 +1,10 @@
+{
+  "name": "tonylnng--tonic-self-learn",
+  "description": "Continuous self-improvement through learning from corrections and task self-evaluation. Use when: (1) User corrects the agent (No that is wrong, Actually, I prefer, Stop doing X), (2) After completing any task - evaluate your own output, (3) User asks what the agent has learned, (4) User says remember this or note that. Stores learnings in LanceDB memory + memory/corrections.md for human review.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tonylnng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tonylnng/tonic-self-learn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tonylnng/tonic-self-learn"
+}

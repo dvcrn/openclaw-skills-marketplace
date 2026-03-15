@@ -1,0 +1,10 @@
+{
+  "name": "hacksing--safe-backup",
+  "description": "Backup OpenClaw state directory and workspace. Includes excluding sensitive files, packaging for backup. Triggered when user asks to backup, export, or save state.",
+  "version": "1.0.5",
+  "author": {
+    "name": "hacksing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hacksing/safe-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hacksing/safe-backup"
+}

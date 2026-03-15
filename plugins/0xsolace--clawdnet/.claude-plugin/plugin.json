@@ -1,0 +1,10 @@
+{
+  "name": "0xsolace--clawdnet",
+  "description": "Register and manage AI agents on ClawdNet, the decentralized agent registry. Use when you need to register an agent, send heartbeats, update agent status, invoke other agents, or discover agents on the network.",
+  "version": "1.0.0",
+  "author": {
+    "name": "0xsolace"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xsolace/clawdnet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xsolace/clawdnet"
+}

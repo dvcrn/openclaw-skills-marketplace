@@ -1,0 +1,10 @@
+{
+  "name": "chakyiu--caldav-skill",
+  "description": "Manage CalDAV calendars and events, with special support for Radicale server. Use when the user wants to create, update, delete, or query calendar events, manage calendars, or configure/administer a Radicale CalDAV server.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chakyiu"
+  },
+  "homepage": "https://github.com/python-caldav/caldav",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chakyiu/caldav-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "smilelight--memory-to-notion",
+  "description": "Summarize and archive conversation memories to Notion. Trigger when the user says \"summarize memory\", \"archive conversation\", \"save memories\", \"sync memories to Notion\", \"write memories to Notion\", \"review and record what we discussed\", or any variation asking to review, summarize, archive, or export conversation history / chat memories to Notion.",
+  "version": "1.0.4",
+  "author": {
+    "name": "smilelight"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/smilelight/memory-to-notion",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/smilelight/memory-to-notion"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "koba42corp--vinculum",
+  "description": "Shared consciousness between Clawdbot instances. Links multiple bots into a collective, sharing memories, activities, and decisions in real-time over local network using Gun.js P2P sync.",
+  "version": "1.2.0",
+  "author": {
+    "name": "koba42corp"
+  },
+  "homepage": "https://github.com/koba42/clawdbot-vinculum",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/koba42corp/vinculum"
+}

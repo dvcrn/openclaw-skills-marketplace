@@ -1,0 +1,10 @@
+{
+  "name": "minerva-care--amp-code",
+  "description": "Delegate coding tasks to Sourcegraph Amp, an autonomous coding agent. Use when: multi-file changes, new features, bug fixes, test writing, or any coding task > ~5 minutes. Amp reads the codebase, plans, edits files, and runs tests autonomously. NOT for: simple single-line edits, read-only questions, tasks needing fine-grained control.",
+  "version": "1.0.0",
+  "author": {
+    "name": "minerva-care"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/minerva-care/amp-code",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/minerva-care/amp-code"
+}

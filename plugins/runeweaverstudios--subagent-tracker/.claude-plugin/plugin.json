@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--subagent-tracker",
+  "description": "Say \"agent status\" and get updates on all subagent progress. Track subagent actions while they run; list active subagents, status, and tail transcripts. Install for power users using the agent swarm.",
+  "version": "1.2.0",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/subagent-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/subagent-tracker"
+}

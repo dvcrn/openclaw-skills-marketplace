@@ -1,0 +1,10 @@
+{
+  "name": "thisisjeron--food-cal-order",
+  "description": "Order food delivery via browser automation, triggered by calendar events. Supports two modes — Direct (specific service + restaurant) and Discovery (criteria-based search across all services). Services include DoorDash, Uber Eats, Grubhub. Use when a calendar event matches food ordering patterns. Spawns sub-agents for browser control.",
+  "version": "1.1.0",
+  "author": {
+    "name": "thisisjeron"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thisisjeron/food-cal-order",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thisisjeron/food-cal-order"
+}

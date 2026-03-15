@@ -1,0 +1,10 @@
+{
+  "name": "danzig233--clawdos",
+  "description": "Windows automation via Clawdos API: screen capture, mouse/keyboard input, window management, file-system operations, and shell command execution. Standalone CLI execution via Python script. Use when the user wants to control or inspect a Windows host remotely.",
+  "version": "2.1.1",
+  "author": {
+    "name": "danzig233"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danzig233/clawdos",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danzig233/clawdos"
+}

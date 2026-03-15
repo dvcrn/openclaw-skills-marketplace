@@ -1,0 +1,10 @@
+{
+  "name": "lkisme--stt-simple",
+  "description": "Simple local Speech-To-Text using Whisper. One-command install with auto model download. Supports 99+ languages.",
+  "version": "1.0.1",
+  "author": {
+    "name": "lkisme"
+  },
+  "homepage": "https://openai.com/research/whisper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lkisme/stt-simple"
+}

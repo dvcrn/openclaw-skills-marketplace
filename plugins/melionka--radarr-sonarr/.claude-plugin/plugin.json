@@ -1,0 +1,10 @@
+{
+  "name": "melionka--radarr-sonarr",
+  "description": "Radarr and Sonarr integration for OpenClaw. Automatic movie and TV series downloads via your automation server.",
+  "version": "1.0.3",
+  "author": {
+    "name": "melionka"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/melionka/radarr-sonarr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/melionka/radarr-sonarr"
+}

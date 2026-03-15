@@ -1,0 +1,41 @@
+#!/usr/bin/env python3
+"""
+Audio failure handler for voice-tts skill.
+When whisper fails, this outputs a user-friendly error message.
+"""
+
+import json
+import sys
+
+ERROR_MESSAGES = {
+    "file_not_found": "抱歉，音频文件没找到，可能是网络不稳定，请重试。",
+    "file_empty": "抱歉，音频文件是空的，可能是网络不稳定，请重试。",
+    "file_too_small": "抱歉，音频文件不完整，可能是网络不稳定，请重试。",
+    "file_stale": "抱歉，音频文件已过期，可能是网络不稳定，请重试。",
+    "transcription_failed": "抱歉，语音识别失败了，请重试。",
+    "no_file_path": "抱歉，没有收到音频文件，请重试。",
+}
+
+def main():
+    if len(sys.argv) < 3:
+        print(ERROR_MESSAGES["no_file_path"])
+        sys.exit(1)
+    
+    error_type = sys.argv[1]
+    error_details = sys.argv[2] if len(sys.argv) > 2 else ""
+    
+    message = ERROR_MESSAGES.get(error_type, ERROR_MESSAGES.get("transcription_failed", "网络不稳定，请重试。"))
+    
+    # Output as JSON for structured handling
+    result = {
+        "success": False,
+        "error": error_type,
+        "message": message,
+        "details": error_details
+    }
+    
+    print(json.dumps(result, ensure_ascii=False))
+    sys.exit(1)
+
+if __name__ == "__main__":
+    main()

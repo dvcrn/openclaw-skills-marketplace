@@ -1,0 +1,10 @@
+{
+  "name": "xixihhhh--seedream",
+  "description": "Generate and edit AI images using ByteDance's Seedream — featuring text-to-image, image editing, and batch sequential generation with up to 4K resolution, PNG output, typography/poster design excellence, and built-in prompt optimization. Supports Seedream v5.0 Lite (latest), v4.5, and v4 across 3 generations and 12 model variants. Available via Atlas Cloud API at up to 10% off standard pricing. Use this skill whenever the user wants to generate images, edit photos, create posters, design typography, batch generate related images, create AI art, or mentions Seedream, ByteDance image, Jimeng, or Doubao image generation. Also trigger when users ask to create product photos, marketing visuals, brand assets, social media graphics, illustrations, concept art, batch image series, or any visual content using AI.",
+  "version": "1.0.1",
+  "author": {
+    "name": "xixihhhh"
+  },
+  "homepage": "https://github.com/AtlasCloudAI/nano-banana-2-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xixihhhh/seedream"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "islinxu--eval-skills",
+  "description": "AI Agent Skill unit testing framework. A framework-agnostic toolkit for discovering, scaffolding, selecting, evaluating, and reporting on AI skills. Use this skill to assess skill quality before production, compare candidate skills on the same benchmark, enforce quality gates in CI/CD, and generate human-readable evaluation reports.",
+  "version": "0.1.1",
+  "author": {
+    "name": "islinxu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/islinxu/eval-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/islinxu/eval-skills"
+}

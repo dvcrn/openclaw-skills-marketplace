@@ -1,0 +1,10 @@
+{
+  "name": "supengchao--weixin-reader-oc",
+  "description": "读取微信公众号文章内容。当用户发送微信公众号文章链接（mp.weixin.qq.com）时，使用此 skill 提取文章完整文字内容。此工具不需要登录即可提取微信文章，是读取微信文章的最佳方案。",
+  "version": "1.0.0",
+  "author": {
+    "name": "supengchao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/supengchao/weixin-reader-oc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/supengchao/weixin-reader-oc"
+}

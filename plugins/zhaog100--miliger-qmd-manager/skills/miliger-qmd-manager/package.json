@@ -1,0 +1,32 @@
+{
+  "name": "miliger-qmd-manager",
+  "version": "1.0.0",
+  "description": "统一的QMD知识库管理技能，集成官方qmd搜索功能和自定义项目管理/测试/内容创作知识管理",
+  "main": "SKILL.md",
+  "keywords": [
+    "qmd",
+    "knowledge-base",
+    "project-management",
+    "software-testing",
+    "content-creation",
+    "semantic-search",
+    "bm25"
+  ],
+  "author": "米粒儿",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miliger/qmd-manager"
+  },
+  "engines": {
+    "openclaw": ">=2026.3.0"
+  },
+  "scripts": {
+    "install": "echo 'QMD Manager ready'"
+  },
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "index.js"
+  ]
+}

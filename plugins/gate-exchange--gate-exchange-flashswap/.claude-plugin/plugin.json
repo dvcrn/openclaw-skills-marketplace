@@ -1,0 +1,10 @@
+{
+  "name": "gate-exchange--gate-exchange-flashswap",
+  "description": "Gate Flash Swap query Skill for querying supported currency pairs, validating swap limits, viewing order history, and tracking specific orders. Use this skill whenever you need to query flash swap currency pairs, check swap limits, view flash swap order history, or look up a specific flash swap order. Trigger phrases include \"flash swap pairs\", \"flash swap orders\", \"flash swap limits\", \"query flash swap\", \"check swap amount\", or any request involving flash swap query.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gate-exchange"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-exchange-flashswap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-exchange-flashswap"
+}

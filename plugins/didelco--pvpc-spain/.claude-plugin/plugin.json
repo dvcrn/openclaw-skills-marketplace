@@ -1,0 +1,10 @@
+{
+  "name": "didelco--pvpc-spain",
+  "description": "Consulta y optimiza precios de electricidad PVPC en España (tarifa 2.0TD para usuarios domésticos). Usa cuando necesites (1) precio actual con contexto (alto/medio/bajo vs día), (2) identificar periodos valle/llano/punta según horario, (3) encontrar las horas más baratas del día, (4) optimizar cuándo usar electrodomésticos (lavadora, lavavajillas, secadora, etc.) para minimizar coste eléctrico.",
+  "version": "1.0.0",
+  "author": {
+    "name": "didelco"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/didelco/pvpc-spain",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/didelco/pvpc-spain"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jamierossouw--prediction-market-aggregator",
+  "description": "Cross-market prediction market data aggregator. Covers Polymarket, Manifold, Metaculus, and Kalshi. Finds arbitrage between markets, tracks consensus drift, compares implied probabilities, and detects edge. Open-source alternative to DomeAPI. Use when you need cross-market prediction market data, arbitrage detection, consensus comparison, or unified prediction market signals.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jamierossouw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/prediction-market-aggregator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/prediction-market-aggregator"
+}

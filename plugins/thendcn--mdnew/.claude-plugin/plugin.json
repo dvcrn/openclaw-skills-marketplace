@@ -1,0 +1,10 @@
+{
+  "name": "thendcn--mdnew",
+  "description": "Fetch clean, agent-optimized Markdown from any URL using the markdown.new service. Use when web_fetch or browser fails to provide clean content, or when you need a token-efficient version of a web page for deep analysis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "thendcn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thendcn/mdnew",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thendcn/mdnew"
+}

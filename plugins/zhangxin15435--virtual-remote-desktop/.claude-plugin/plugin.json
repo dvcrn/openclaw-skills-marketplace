@@ -1,0 +1,10 @@
+{
+  "name": "zhangxin15435--virtual-remote-desktop",
+  "description": "KasmVNC-based virtual desktop for headless Linux with AI-first automation and human handoff. Use when most steps are automated but a user must manually intervene for captcha/risk-control/login approval, then return to automation. Includes requirement-driven setup for mobile/desktop takeover and browser mobile/desktop rendering.",
+  "version": "1.0.3",
+  "author": {
+    "name": "zhangxin15435"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhangxin15435/virtual-remote-desktop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhangxin15435/virtual-remote-desktop"
+}

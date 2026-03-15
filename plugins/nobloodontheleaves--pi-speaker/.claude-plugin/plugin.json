@@ -1,0 +1,10 @@
+{
+  "name": "nobloodontheleaves--pi-speaker",
+  "description": "Play TTS or audio on the Raspberry Pi (or gateway host) default speaker. Use when the user asks for an announcement, alarm, news summary, or \"say X on the Pi speaker\" and the gateway runs on a Pi (or host with local audio).",
+  "version": "1.0.1",
+  "author": {
+    "name": "nobloodontheleaves"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nobloodontheleaves/pi-speaker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nobloodontheleaves/pi-speaker"
+}

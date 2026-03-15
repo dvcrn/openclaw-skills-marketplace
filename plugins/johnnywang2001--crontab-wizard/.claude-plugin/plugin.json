@@ -1,0 +1,10 @@
+{
+  "name": "johnnywang2001--crontab-wizard",
+  "description": "Explain, generate, validate, and preview crontab expressions. Use when a user needs to understand what a cron expression means, create a new cron schedule, check if a cron expression is valid, or see when a cron job will run next. Supports standard 5-field cron syntax and shortcuts like @daily, @hourly, @weekly. No dependencies required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "johnnywang2001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/crontab-wizard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/crontab-wizard"
+}

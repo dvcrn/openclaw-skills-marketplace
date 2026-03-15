@@ -1,0 +1,10 @@
+{
+  "name": "doanbactam--claude-agent-team-workflows",
+  "description": "Universal multi-agent workflow orchestration using Claude Code Agent Teams. Use when user asks to run a team workflow, create an agent team, or coordinate parallel work across multiple teammates — for any domain (software, content, data, strategy, research, etc.).",
+  "version": "0.1.0",
+  "author": {
+    "name": "doanbactam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/doanbactam/claude-agent-team-workflows",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/doanbactam/claude-agent-team-workflows"
+}

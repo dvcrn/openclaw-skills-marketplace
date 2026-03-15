@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--gmail",
+  "description": "Gmail API integration with managed OAuth. Read, send, and manage emails, threads, labels, and drafts. Use this skill when users want to interact with Gmail. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.6",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/gmail",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/gmail"
+}

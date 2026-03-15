@@ -1,0 +1,10 @@
+{
+  "name": "gl813788-byte--agent-weave",
+  "description": "Master-Worker Agent Cluster for parallel task execution. Use when building distributed agent systems with parallel processing needs, task orchestration, or MapReduce-style workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gl813788-byte"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gl813788-byte/agent-weave",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gl813788-byte/agent-weave"
+}

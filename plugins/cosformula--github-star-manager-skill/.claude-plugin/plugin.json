@@ -1,0 +1,10 @@
+{
+  "name": "cosformula--github-star-manager-skill",
+  "description": "Manage GitHub stars with AI-powered categorization and cleanup. Use when a user wants to organize their starred repos into GitHub Lists, clean up stale/deprecated stars, export star data for analysis, or get stats about their GitHub stars. Supports semantic categorization via LLM and bulk operations (unstar, add-to-list).",
+  "version": "0.1.2",
+  "author": {
+    "name": "cosformula"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cosformula/github-star-manager-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cosformula/github-star-manager-skill"
+}

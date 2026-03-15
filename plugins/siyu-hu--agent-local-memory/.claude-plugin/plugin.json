@@ -1,0 +1,10 @@
+{
+  "name": "siyu-hu--agent-local-memory",
+  "description": "Persistent local memory system for AI agents across conversations — file-based, zero external dependencies. Trigger when: (1) user asks to \"remember\" something, (2) user asks what you remember, (3) saving progress before context limit, (4) conversation starts — auto-check for existing memories.",
+  "version": "1.0.1",
+  "author": {
+    "name": "siyu-hu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/siyu-hu/agent-local-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/siyu-hu/agent-local-memory"
+}

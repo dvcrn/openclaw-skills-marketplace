@@ -1,0 +1,10 @@
+{
+  "name": "adam-researchh--music-analysis",
+  "description": "Analyze music/audio files locally without external APIs. Extract tempo, pocket/groove feel, pulse stability, swing proxy, section/repetition structure, key clarity, harmonic tension, timbre descriptors, temporal mood-energy journeys, and lyric-aware emotional reads where real Whisper lyrics can override the vibe when the words are clearly darker, warmer, or more intense than the arrangement alone suggests. Use when asked to 'listen to this', 'hear the music', audit tracks, compare mixes, inspect structure, or generate producer-facing notes from audio files.",
+  "version": "1.2.0",
+  "author": {
+    "name": "adam-researchh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adam-researchh/music-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adam-researchh/music-analysis"
+}

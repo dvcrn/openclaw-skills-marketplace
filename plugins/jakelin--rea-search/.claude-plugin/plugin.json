@@ -1,0 +1,10 @@
+{
+  "name": "jakelin--rea-search",
+  "description": "Search realestate.com.au property listings by constructing search and listing URLs. Use when searching for Australian properties to buy, rent, or sold via realestate.com.au. Supports building filtered search URLs (suburb, price, bedrooms, property type, multiple suburbs) and individual listing URLs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jakelin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jakelin/rea-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jakelin/rea-search"
+}

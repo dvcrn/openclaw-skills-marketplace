@@ -1,0 +1,10 @@
+{
+  "name": "r2crypto--polymarket-negrisk-arb",
+  "description": "Scan multi-outcome Polymarket markets for mathematical arbitrage. When the sum of all outcome prices falls below $1.00, buy all sides simultaneously via batch trade to lock in risk-free profit. No signals. No AI. Just math.",
+  "version": "1.0.2",
+  "author": {
+    "name": "r2crypto"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/r2crypto/polymarket-negrisk-arb",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/r2crypto/polymarket-negrisk-arb"
+}

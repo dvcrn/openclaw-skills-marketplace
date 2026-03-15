@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--exchange",
+  "description": "使用极速数据汇率查询 API，支持货币间汇率换算、单个货币的热门汇率、所有货币列表及十大银行外汇牌价查询。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/exchange",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/exchange"
+}

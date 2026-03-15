@@ -1,0 +1,10 @@
+{
+  "name": "tkuehnl--pager-triage",
+  "description": "AI-powered incident triage for PagerDuty. List active incidents, deep-dive with timeline and alert correlation, check on-call schedules, acknowledge, resolve, and annotate — all from your agent. Read-only by default; write operations require explicit --confirm.",
+  "version": "0.1.2",
+  "author": {
+    "name": "tkuehnl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tkuehnl/pager-triage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tkuehnl/pager-triage"
+}

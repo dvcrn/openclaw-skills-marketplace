@@ -1,0 +1,10 @@
+{
+  "name": "shawnminh--tencent-cloud-cos-skill",
+  "description": "腾讯云对象存储(COS)和数据万象(CI)集成技能。当用户需要上传、下载、管理云存储文件， 或需要进行图片处理（质量评估、超分辨率、抠图、二维码识别、水印）、智能图片搜索、 文档转PDF、视频智能封面生成等操作时使用此技能。",
+  "version": "1.0.6",
+  "author": {
+    "name": "shawnminh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shawnminh/tencent-cloud-cos-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shawnminh/tencent-cloud-cos-skill"
+}

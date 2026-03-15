@@ -1,0 +1,10 @@
+{
+  "name": "financial-ai-analyst--mx-stockpick",
+  "description": "通过自然语言查询进行选股、选板块、选基金。类型支持 A股、港股、美股、基金、ETF、可转债、板块。调用妙想智能选股工具获取数据，输出全量 CSV 及数据说明文件。需要配置EM_API_KEY环境变量。",
+  "version": "1.0.4",
+  "author": {
+    "name": "financial-ai-analyst"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/financial-ai-analyst/mx-stockpick",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/financial-ai-analyst/mx-stockpick"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ec-cyber258--variant-pathogenicity-predictor",
+  "description": "Integrate REVEL, CADD, PolyPhen scores to predict variant pathogenicity",
+  "version": "0.1.0",
+  "author": {
+    "name": "ec-cyber258"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ec-cyber258/variant-pathogenicity-predictor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ec-cyber258/variant-pathogenicity-predictor"
+}

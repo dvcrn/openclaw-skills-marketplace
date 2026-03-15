@@ -1,0 +1,10 @@
+{
+  "name": "yejinlei--k8s-fta-skill",
+  "description": "基于FTA故障树分析法的Kubernetes问题定位和修复工具。当用户遇到k8s集群问题、Pod运行异常、服务访问失败、RBAC权限问题、DNS解析失败、OOMKilled、健康检查失败、网络策略限制、存储挂载问题、HPA扩展问题、API Server连接问题等情况时，使用此技能自动执行kubectl命令进行故障排查和修复。同时支持k3s轻量级Kubernetes发行版的故障排查。Supports both Chinese and English troubleshooting and automated fixing for Kubernetes cluster issues including Pod failures, service access problems, RBAC issues, DNS resolution failures, OOMKilled, health check failures, network policy restrictions, storage mount issues, HPA scaling problems, and API Server connectivity issues. Also supports k3s lightweight Kubernetes distribution.",
+  "version": "0.1.0",
+  "author": {
+    "name": "yejinlei"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yejinlei/k8s-fta-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yejinlei/k8s-fta-skill"
+}

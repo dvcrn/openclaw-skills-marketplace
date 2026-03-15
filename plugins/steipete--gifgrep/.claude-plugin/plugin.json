@@ -1,0 +1,10 @@
+{
+  "name": "steipete--gifgrep",
+  "description": "Search GIF providers with CLI/TUI, download results, and extract stills/sheets.",
+  "version": "1.0.1",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "https://gifgrep.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/gifgrep"
+}

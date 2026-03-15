@@ -1,0 +1,10 @@
+{
+  "name": "shuakami--uapi-get-daily-news-image",
+  "description": "使用 UAPI 的“每日新闻图”单接口 skill，处理 每日新闻图、新闻海报、每日内容 等请求。 Use when the user wants get daily news image, daily news-image, news-image, daily news image, daily digest, news poster, or when you need to call GET /daily/news-image directly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shuakami"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-daily-news-image",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-daily-news-image"
+}

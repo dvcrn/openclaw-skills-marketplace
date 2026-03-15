@@ -1,0 +1,10 @@
+{
+  "name": "rogue-agent1--brew-audit",
+  "description": "Audit Homebrew installation — outdated packages, cleanup opportunities, and health checks. Use when asked about brew updates, system maintenance, or package health on macOS.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rogue-agent1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rogue-agent1/brew-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rogue-agent1/brew-audit"
+}

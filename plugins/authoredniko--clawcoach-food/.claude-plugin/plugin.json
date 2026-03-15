@@ -1,0 +1,10 @@
+{
+  "name": "authoredniko--clawcoach-food",
+  "description": "Food photo analysis and meal logging for ClawCoach. Send a photo of your meal and get instant macro breakdown via Claude Vision.",
+  "version": "1.0.1",
+  "author": {
+    "name": "authoredniko"
+  },
+  "homepage": "https://github.com/clawcoach/clawcoach",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/authoredniko/clawcoach-food"
+}

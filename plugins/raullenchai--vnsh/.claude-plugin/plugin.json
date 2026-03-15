@@ -1,0 +1,10 @@
+{
+  "name": "raullenchai--vnsh",
+  "description": "Securely share files via encrypted, expiring links. Use this skill to (1) upload a local file to get a secure vnsh.dev URL, or (2) read a vnsh.dev URL to decrypt and access its content.",
+  "version": "1.1.1",
+  "author": {
+    "name": "raullenchai"
+  },
+  "homepage": "https://vnsh.dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/raullenchai/vnsh"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "trypto1019--arc-wake-state",
+  "description": "Persist agent state across crashes, context deaths, and restarts. Use when you need to save current context, restore after a crash, maintain a memory file across sessions, or implement crash recovery. Essential for autonomous agents that must survive context window limits.",
+  "version": "1.0.0",
+  "author": {
+    "name": "trypto1019"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-wake-state",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-wake-state"
+}

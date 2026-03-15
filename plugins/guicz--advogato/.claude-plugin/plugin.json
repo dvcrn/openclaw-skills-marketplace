@@ -1,0 +1,10 @@
+{
+  "name": "guicz--advogato",
+  "description": "Consultor jurídico estratégico para o ordenamento brasileiro. Use quando o usuário pedir para analisar, revisar, redigir ou negociar contratos (prestação de serviços, SaaS, NDAs, DPA/LGPD, termos de uso, políticas de privacidade), avaliar riscos e conformidade (CDC, LGPD, Lei 14.133/21), criar redlines, playbooks de negociação, matrizes de risco, ou estruturar estratégia pré-contenciosa/processual (prova, notificações, execução, mediação/arbitragem). Gatilhos comuns: \"revisar contrato\", \"minuta\", \"redigir cláusula\", \"cláusula de rescisão\", \"limitar responsabilidade\", \"multa\", \"SLA\", \"LGPD\", \"DPA\", \"consumidor\", \"aditivo\", \"edital\", \"licitação\", \"arbitragem\", \"notificação extrajudicial\", \"risco jurídico\", \"compliance\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "guicz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guicz/advogato",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guicz/advogato"
+}

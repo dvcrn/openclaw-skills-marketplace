@@ -1,0 +1,10 @@
+{
+  "name": "tebjan--vvvv-shaders",
+  "description": "Helps write SDSL shaders for Stride and vvvv gamma — TextureFX, shader mixins, compute shaders, and ShaderFX composition. SDSL is a superset of HLSL, so use this skill when writing or debugging .sdsl shader files, GPU shaders, visual effects, HLSL code for vvvv, working with the Stride rendering pipeline, composing shader mixins, or any GPU/compute work. Trigger even if the user says 'HLSL', 'shader', 'GPU effect', 'render pass', or 'compute' in a vvvv context.",
+  "version": "1.0.1",
+  "author": {
+    "name": "tebjan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tebjan/vvvv-shaders",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tebjan/vvvv-shaders"
+}

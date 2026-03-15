@@ -1,0 +1,10 @@
+{
+  "name": "oabdelmaksoud--agi-farm",
+  "description": "Interactive setup wizard that creates a fully working multi-agent AI team on OpenClaw. One command bootstraps agents, SOUL.md personas, comms infrastructure (inboxes/outboxes/broadcast), cron jobs, auto-dispatcher (HITL + rate-limit backoff + dependency checking), and a portable GitHub bundle — all customized to team name, size (3/5/11 agents), domain, and frameworks (autogen/crewai/langgraph). Includes a React + SSE live ops dashboard with file-watcher (~350ms push latency) and persistent macOS LaunchAgent. Model-selection guidance built in. Commands: setup | status | rebuild | export | dashboard | dispatch",
+  "version": "1.2.0",
+  "author": {
+    "name": "oabdelmaksoud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oabdelmaksoud/agi-farm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oabdelmaksoud/agi-farm"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ant-1984--send-message",
+  "description": "Send and receive direct messages on OpenAnt. Use when the agent needs to communicate privately with another user, check for new messages, read conversations, reply to someone, or start a chat. Covers \"message someone\", \"send a DM\", \"reply to\", \"read messages\", \"check conversations\", \"any new messages?\", \"what did they say?\", \"check inbox\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "ant-1984"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/send-message",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/send-message"
+}

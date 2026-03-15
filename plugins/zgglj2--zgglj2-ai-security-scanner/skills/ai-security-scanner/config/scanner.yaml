@@ -1,0 +1,94 @@
+# AI Agent Scanner 配置文件
+
+# 官方 Skill 白名单
+official_skills:
+  # 内置 Skills (openclaw-bundled)
+  - weather
+  - healthcheck
+  - skill-creator
+  - session-logs
+  - github
+  - discord
+  - slack
+  - notion
+  - trello
+  - obsidian
+  - bear-notes
+  - apple-notes
+  - apple-reminders
+  - things-mac
+  - openai-whisper
+  - openai-whisper-api
+  - openai-image-gen
+  - gemini
+  - sag
+  - sherpa-onnx-tts
+  - summarize
+  - himalaya
+  - gog
+  - mcporter
+  - peekaboo
+  - tmux
+  - video-frames
+  - gifgrep
+  - songsee
+  - spotify-player
+  - sonoscli
+  - openhue
+  - eightctl
+  - blucli
+  - camsnap
+  - voice-call
+  - bluebubbles
+  - imsg
+  - wacli
+  - xurl
+  - gh-issues
+  - oracle
+  - nano-pdf
+  - nano-banana-pro
+  - coding-agent
+  - blogwatcher
+  - clawhub
+  - 1password
+  - goplaces
+  - ordercli
+  - canvas
+  # 扩展 Skills (openclaw-extra)
+  - feishu-doc
+  - feishu-drive
+  - feishu-wiki
+  - feishu-perm
+
+# 高可信 API 域名白名单
+trusted_api_domains:
+  # 官方 API
+  - api.github.com
+  - api.openai.com
+  - api.anthropic.com
+  - generativelanguage.googleapis.com
+  - openrouter.ai
+  - api.moonshot.cn
+  - api.deepseek.com
+  - api.trello.com
+  - api.notion.com
+  - api.twitter.com
+  - api.x.com
+  - discord.com
+  - slack.com
+  - api.slack.com
+  - open.feishu.cn
+  - bigmodel.cn
+  - open.bigmodel.cn
+  - api.perplexity.ai
+  # 本地服务
+  - 127.0.0.1
+  - localhost
+  - 0.0.0.0
+
+# 扫描配置
+scan_config:
+  skip_official: true
+  enable_llm: false
+  llm_provider: zhipu
+  verbose: false

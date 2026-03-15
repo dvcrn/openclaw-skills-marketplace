@@ -1,0 +1,10 @@
+{
+  "name": "0xjordansg-yolo--openclaw-aisa-youtube",
+  "description": "YouTube Search API via AIsa unified endpoint. Search YouTube videos, channels, and playlists with a single AIsa API key — no Google API key or OAuth required. Use this skill when users want to search YouTube content. For other AIsa capabilities (LLM, financial data, Twitter, web search), see the aisa-core skill.",
+  "version": "1.0.0",
+  "author": {
+    "name": "0xjordansg-yolo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xjordansg-yolo/openclaw-aisa-youtube",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xjordansg-yolo/openclaw-aisa-youtube"
+}

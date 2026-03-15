@@ -1,0 +1,10 @@
+{
+  "name": "kcdev001--keychat",
+  "description": "Install Keychat — sovereign E2E encrypted messaging for OpenClaw agents via Signal Protocol over Nostr relays. Use when the user wants to add Keychat or set up encrypted messaging for their agent.",
+  "version": "1.1.1",
+  "author": {
+    "name": "kcdev001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kcdev001/keychat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kcdev001/keychat"
+}

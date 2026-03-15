@@ -1,0 +1,10 @@
+{
+  "name": "sunshine-del-ux--api-docs-generator",
+  "description": "从代码注释自动生成 API 文档，支持 OpenAPI/Swagger 格式，输出 JSON 或 YAML。",
+  "version": "1.0.0",
+  "author": {
+    "name": "sunshine-del-ux"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunshine-del-ux/api-docs-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunshine-del-ux/api-docs-generator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "csyr--crypto-briefing",
+  "description": "Generate crypto market briefing reports with latest news, price analysis, trend predictions, sentiment analysis, and Fear & Greed Index. Use when user asks for crypto news summary, market briefing, BTC/ETH/SOL/SUI/WLD/WIF/BGB analysis, or market sentiment report.",
+  "version": "1.0.0",
+  "author": {
+    "name": "csyr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/csyr/crypto-briefing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/csyr/crypto-briefing"
+}

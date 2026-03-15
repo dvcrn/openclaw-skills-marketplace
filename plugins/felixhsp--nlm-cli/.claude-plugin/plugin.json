@@ -1,0 +1,10 @@
+{
+  "name": "felixhsp--nlm-cli",
+  "description": "使用 Jacob Brown 的 `notebooklm-mcp-cli`（`nlm` 命令）自动化操作 NotebookLM。适用于处理 Notebook、来源（sources）、Studio 内容生成、Research、分享、MCP 配置，以及音频、视频、报告、幻灯片、信息图、数据表、测验、抽认卡等产物下载。凡是准备使用 `nlm`，尤其是可能需要先安装 CLI 或先完成认证时，都应先读取此技能。",
+  "version": "0.1.0",
+  "author": {
+    "name": "felixhsp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/felixhsp/nlm-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/felixhsp/nlm-cli"
+}

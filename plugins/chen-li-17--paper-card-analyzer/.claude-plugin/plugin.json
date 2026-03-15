@@ -1,0 +1,10 @@
+{
+  "name": "chen-li-17--paper-card-analyzer",
+  "description": "Analyze `paper-parse` outputs and generate a research-oriented paper card directly in natural language. Use this skill after paper parsing when you need a structured summary of contributions, method, experiments, limitations, reproducibility notes, and future work without running any extra script.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chen-li-17"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chen-li-17/paper-card-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chen-li-17/paper-card-analyzer"
+}

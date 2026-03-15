@@ -1,0 +1,10 @@
+{
+  "name": "promptrotator--operator",
+  "description": "Manage your Operator fleet of AI agent instances. Create, configure, monitor, message, and manage OpenClaw agents. Handles authentication, instance lifecycle, secrets, automations, and webhooks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "promptrotator"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/promptrotator/operator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/promptrotator/operator"
+}

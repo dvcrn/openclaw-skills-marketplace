@@ -1,0 +1,10 @@
+{
+  "name": "itcastwsy--juejin-pins-publish",
+  "description": "自动发布沸点到稀土掘金社区。当用户要求发布沸点、发布动态到掘金、juejin.cn 时触发此技能。",
+  "version": "1.0.0",
+  "author": {
+    "name": "itcastwsy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/itcastwsy/juejin-pins-publish",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/itcastwsy/juejin-pins-publish"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sammy-spk--igpt-email-ask",
+  "description": "Secure, per-user-isolated email reasoning and analysis via the iGPT Context Engine API. Summarizes threads, extracts tasks and decisions, detects sentiment, and reasons across multiple conversations -- no shell access, no filesystem access, API-key scoped only. Supports structured JSON output with schema validation and streaming (SSE). Use when the user needs analysis, summaries, structured data extraction, or answers that require understanding email context. For retrieval/lookup only, use the companion skill igpt-email-search.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sammy-spk"
+  },
+  "homepage": "https://igpt.ai/hub/playground/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sammy-spk/igpt-email-ask"
+}

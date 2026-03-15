@@ -1,0 +1,10 @@
+{
+  "name": "luciuscao--deep-discussion",
+  "description": "Multi-agent deep discussion with intelligent Orchestrator coordination. \n Uses agenda checklist to track progress. Each agenda item goes through\n 3 rounds (Diverge → Discuss → Converge). Use for complex problems requiring \n diverse perspectives. Triggers on \"深入讨论\", \"深度讨论\", \"专家讨论\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "luciuscao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luciuscao/deep-discussion",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luciuscao/deep-discussion"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "haojian--personal-data-hub",
+  "description": "Pull personal data (emails, issues) and propose outbound actions (drafts, replies) through the PersonalDataHub access control gateway. Data is filtered, redacted, and shaped by the owner's policy before reaching the agent.",
+  "version": "0.1.0",
+  "author": {
+    "name": "haojian"
+  },
+  "homepage": "https://github.com/AISmithLab/PersonalDataHub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/haojian/personal-data-hub"
+}

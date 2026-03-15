@@ -1,0 +1,10 @@
+{
+  "name": "sebastienb--qrdex",
+  "description": "Create, manage, and track QR codes using the QRdex.io REST API. Use when working with QR code generation, URL shortening with QR codes, WiFi QR codes, email/SMS/WhatsApp QR codes, scan tracking, or any QRdex.io operations. Supports all QR types (url, email, telephone, sms, whatsapp, wifi) with customizable colors and shapes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sebastienb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sebastienb/qrdex",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sebastienb/qrdex"
+}

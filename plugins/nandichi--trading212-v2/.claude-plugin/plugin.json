@@ -1,0 +1,10 @@
+{
+  "name": "nandichi--trading212-v2",
+  "description": "Analyzes Trading212 portfolio, generates daily summaries with P&L and top gainers/losers, makes trade proposals based on configurable rules, and can place orders. Also supports dividend overview, order history, watchlist with price alerts, and portfolio allocation analysis with rebalancing proposals. Use when the user asks about portfolio, daily performance, trade actions, or requests a portfolio overview.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nandichi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nandichi/trading212-v2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nandichi/trading212-v2"
+}

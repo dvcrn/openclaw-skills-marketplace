@@ -1,0 +1,10 @@
+{
+  "name": "moltonbot000--cord-trees",
+  "description": "Dynamic task tree orchestration inspired by Cord protocol. Agent builds its own coordination tree at runtime — deciding decomposition, parallelism, and dependencies dynamically. Implements spawn (isolated context) vs fork (inherited context) as first-class primitives, plus ask (human elicitation) and serial (ordered sequences).\n \n Use when: complex goals that need dynamic decomposition, tasks where the agent should decide how to break down work, multi-agent coordination with runtime flexibility, human-in-the-loop checkpoints.\n \n Triggers: \"figure out how to do X\", \"decompose this task\", \"build a task tree for\", \"dynamic orchestration\", \"cord-style\", \"self-organizing agents\"",
+  "version": "1.0.1",
+  "author": {
+    "name": "moltonbot000"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moltonbot000/cord-trees",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moltonbot000/cord-trees"
+}

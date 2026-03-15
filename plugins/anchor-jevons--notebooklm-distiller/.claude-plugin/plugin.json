@@ -1,0 +1,10 @@
+{
+  "name": "anchor-jevons--notebooklm-distiller",
+  "description": "NotebookLM Distiller: Batch knowledge extraction from Google NotebookLM into Obsidian. Supports Q&A generation (15-20 deep questions), structured summaries, glossary extraction, web research sessions, and direct markdown persistence.",
+  "version": "2.0.0",
+  "author": {
+    "name": "anchor-jevons"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anchor-jevons/notebooklm-distiller",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anchor-jevons/notebooklm-distiller"
+}

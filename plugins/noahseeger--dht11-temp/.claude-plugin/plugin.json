@@ -1,0 +1,10 @@
+{
+  "name": "noahseeger--dht11-temp",
+  "description": "Read temperature and humidity from DHT11 sensor. Supports custom GPIO pins via CLI argument or environment variable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "noahseeger"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/noahseeger/dht11-temp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/noahseeger/dht11-temp"
+}

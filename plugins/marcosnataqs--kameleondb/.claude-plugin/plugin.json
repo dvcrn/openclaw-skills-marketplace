@@ -1,0 +1,10 @@
+{
+  "name": "marcosnataqs--kameleondb",
+  "description": "Store and query structured data without planning schemas upfront. Use when you need to remember information, track entities across conversations, build knowledge bases, ingest API data, store user preferences, create CRM systems, or maintain any persistent state. Automatically evolves data structure as you discover new fields. No migrations, no schema design - just store data and query it.",
+  "version": "0.1.5",
+  "author": {
+    "name": "marcosnataqs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/marcosnataqs/kameleondb",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marcosnataqs/kameleondb"
+}

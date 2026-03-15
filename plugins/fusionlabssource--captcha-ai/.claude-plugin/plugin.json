@@ -1,0 +1,10 @@
+{
+  "name": "fusionlabssource--captcha-ai",
+  "description": "Issue ClawPrint reverse-CAPTCHA challenges to verify that another user or agent is a real AI, not a human. Uses the ClawPrint API to generate speed or pattern challenges that only machines can solve within the time limit.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fusionlabssource"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fusionlabssource/captcha-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fusionlabssource/captcha-ai"
+}

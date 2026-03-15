@@ -1,0 +1,10 @@
+{
+  "name": "kolikoliko--feishu-card-sender-beautify",
+  "description": "发送飞书 Interactive Card 格式消息，用于美化富文本卡片推送和优化通知。\n 触发条件：(1) 用户要求发送卡片消息 (2) 定时任务推送 (3) 格式化通知需求",
+  "version": "1.0.0",
+  "author": {
+    "name": "kolikoliko"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kolikoliko/feishu-card-sender-beautify",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kolikoliko/feishu-card-sender-beautify"
+}

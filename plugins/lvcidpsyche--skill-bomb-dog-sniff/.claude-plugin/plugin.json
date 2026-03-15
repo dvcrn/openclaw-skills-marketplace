@@ -1,0 +1,10 @@
+{
+  "name": "lvcidpsyche--skill-bomb-dog-sniff",
+  "description": "Security-first skill management for OpenClaw - like a bomb-sniffing dog for skills.\n Sniffs out malicious payloads (crypto stealers, keyloggers, reverse shells) before installation.\n Quarantine → Scan → Install only the safe ones.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lvcidpsyche"
+  },
+  "homepage": "https://github.com/openclaw/skills/bomb-dog-sniff",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lvcidpsyche/skill-bomb-dog-sniff"
+}

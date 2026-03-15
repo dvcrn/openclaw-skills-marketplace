@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--docs-bot",
+  "description": "Scans and fetches the most up-to-date documentation for coding tasks. Use when building integrations (e.g. OpenRouter), implementing third-party APIs, or when the user asks for current docs, model lists, or API reference for a service.",
+  "version": "1.0.0",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/docs-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/docs-bot"
+}

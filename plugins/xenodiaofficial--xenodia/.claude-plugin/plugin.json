@@ -1,0 +1,10 @@
+{
+  "name": "xenodiaofficial--xenodia",
+  "description": "Enables this agent to authenticate with and use the Xenodia Multimodal AI Gateway. Covers two wallet identity modes (local keypair OR CDP Server Wallet), balance checking, model availability queries, and switching your LLM provider to Xenodia.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xenodiaofficial"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xenodiaofficial/xenodia",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xenodiaofficial/xenodia"
+}

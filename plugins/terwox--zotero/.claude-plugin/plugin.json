@@ -1,0 +1,10 @@
+{
+  "name": "terwox--zotero",
+  "description": "Manage Zotero reference libraries via the Web API. Search, list, add items by DOI/ISBN/PMID (with duplicate detection), delete/trash items, update metadata and tags, export in BibTeX/RIS/CSL-JSON, batch-add from files, check PDF attachments, cross-reference citations, find missing DOIs via CrossRef, and fetch open-access PDFs. Supports --json output for scripting. Use when the user asks about academic references, citation management, literature libraries, PDFs for papers, bibliography export, or Zotero specifically.",
+  "version": "1.0.0",
+  "author": {
+    "name": "terwox"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/terwox/zotero",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/terwox/zotero"
+}

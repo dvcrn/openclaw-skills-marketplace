@@ -1,0 +1,10 @@
+{
+  "name": "qwe123sddfsdfs--websocket-reconnect",
+  "description": "WebSocket connection management with exponential backoff + jitter retry, heartbeat detection, and circuit breaker pattern. Use when you need reliable WebSocket connections that automatically recover from network failures.",
+  "version": "1.0.0",
+  "author": {
+    "name": "qwe123sddfsdfs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qwe123sddfsdfs/websocket-reconnect",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qwe123sddfsdfs/websocket-reconnect"
+}

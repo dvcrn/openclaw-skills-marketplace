@@ -1,0 +1,10 @@
+{
+  "name": "commonlightlabsllc--guardian-angel-protocol",
+  "description": "This skill should be used when the user asks to 'run alignment check', 'check my agent alignment', 'get a safety reminder', 'guardian angel check', or when an agent wants to review its own behavior for safety and alignment best practices. Also activates on agent startup if configured.",
+  "version": "1.0.2",
+  "author": {
+    "name": "commonlightlabsllc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/commonlightlabsllc/guardian-angel-protocol",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/commonlightlabsllc/guardian-angel-protocol"
+}

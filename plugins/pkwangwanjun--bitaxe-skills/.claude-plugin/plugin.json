@@ -1,0 +1,10 @@
+{
+  "name": "pkwangwanjun--bitaxe-skills",
+  "description": "Discover, inspect, and manage solo miners on the same local network, with support for Bitaxe and Nerd or NerdAxe devices. Use when Codex or OpenClaw needs to scan a LAN for miner IPs via /api/system/info, extract and record core status fields, answer questions about miner metrics such as best difficulty, hashrate, temperature, pool settings, or uptime, update basic settings via PATCH /api/system, or restart devices via POST /api/system/restart.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pkwangwanjun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pkwangwanjun/bitaxe-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pkwangwanjun/bitaxe-skills"
+}

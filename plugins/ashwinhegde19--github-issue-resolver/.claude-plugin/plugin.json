@@ -1,0 +1,10 @@
+{
+  "name": "ashwinhegde19--github-issue-resolver",
+  "description": "Autonomous GitHub Issue Resolver Agent with guardrails. Use when the user wants to discover, analyze, and fix open issues in GitHub repositories. Triggers on requests like \"fix GitHub issues\", \"resolve issues in repo\", \"work on GitHub bugs\", or when the user provides a GitHub repository URL and asks for issue resolution. Supports the full workflow from issue discovery to PR submission with safety guardrails preventing scope creep, unauthorized access, and dangerous operations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ashwinhegde19"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ashwinhegde19/github-issue-resolver",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ashwinhegde19/github-issue-resolver"
+}

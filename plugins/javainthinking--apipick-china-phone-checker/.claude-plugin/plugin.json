@@ -1,0 +1,10 @@
+{
+  "name": "javainthinking--apipick-china-phone-checker",
+  "description": "Validate Chinese mobile phone numbers using the apipick China Phone Checker API. Returns carrier (China Mobile/Telecom/Unicom), province, city, zip code, and area code. Use when the user wants to verify a Chinese phone number, look up carrier information for a Chinese mobile number, or get geographic information associated with a Chinese phone number. Requires an apipick API key (x-api-key). Get a free key at https://www.apipick.com.",
+  "version": "1.0.1",
+  "author": {
+    "name": "javainthinking"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/javainthinking/apipick-china-phone-checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/javainthinking/apipick-china-phone-checker"
+}

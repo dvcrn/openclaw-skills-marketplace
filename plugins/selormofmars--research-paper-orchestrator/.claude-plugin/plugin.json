@@ -1,0 +1,10 @@
+{
+  "name": "selormofmars--research-paper-orchestrator",
+  "description": "Master Orchestrator coordinating 10 specialized subagents to produce complete doctorate-level research papers (12,000-15,000 words) in Word document format (.docx)",
+  "version": "1.0.0",
+  "author": {
+    "name": "selormofmars"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/selormofmars/research-paper-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/selormofmars/research-paper-orchestrator"
+}

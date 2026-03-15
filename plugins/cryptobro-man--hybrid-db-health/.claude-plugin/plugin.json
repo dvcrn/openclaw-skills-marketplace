@@ -1,0 +1,10 @@
+{
+  "name": "cryptobro-man--hybrid-db-health",
+  "description": "Validate and troubleshoot the hybrid database system used by OpenClaw agents (Pulse task DB + RAG Pinecone stack). Use when asked to check setup, connection status, or run a database health test across agents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cryptobro-man"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cryptobro-man/hybrid-db-health",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cryptobro-man/hybrid-db-health"
+}

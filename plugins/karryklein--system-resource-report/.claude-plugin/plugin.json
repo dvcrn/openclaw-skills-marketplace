@@ -1,0 +1,10 @@
+{
+  "name": "karryklein--system-resource-report",
+  "description": "Check current Linux system resource usage and report load, memory, swap, disk, and top CPU/memory processes. Use when the user asks about system resources, resource usage, CPU/memory/disk occupancy, or wants periodic machine health/resource summaries.",
+  "version": "1.0.0",
+  "author": {
+    "name": "karryklein"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/karryklein/system-resource-report",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/karryklein/system-resource-report"
+}

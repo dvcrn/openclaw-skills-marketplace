@@ -1,0 +1,10 @@
+{
+  "name": "techlaai--techla-fb-repost",
+  "description": "Skill để lấy nội dung từ link bài viết Facebook, viết lại bài theo phong cách phù hợp, tạo ảnh minh họa bằng Gemini, rồi đăng lên Facebook Page qua Graph API. KÍCH HOẠT khi user đưa link Facebook và muốn repost, đăng lại, viết lại bài, hay nói \"lấy bài này đăng lên page\". Dùng skill này BẤT CỨ KHI NÀO có link FB + yêu cầu đăng bài.",
+  "version": "1.0.0",
+  "author": {
+    "name": "techlaai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/techlaai/techla-fb-repost",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/techlaai/techla-fb-repost"
+}

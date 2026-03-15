@@ -1,0 +1,10 @@
+{
+  "name": "typhonius--pidgesms",
+  "description": "Send and read SMS text messages via an Android phone using pidge. Use when asked to send a text, check texts, read SMS inbox, or reply to a text message.",
+  "version": "1.0.0",
+  "author": {
+    "name": "typhonius"
+  },
+  "homepage": "https://github.com/typhonius/pidge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/typhonius/pidgesms"
+}

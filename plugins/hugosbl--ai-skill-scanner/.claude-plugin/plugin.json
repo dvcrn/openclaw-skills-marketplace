@@ -1,0 +1,10 @@
+{
+  "name": "hugosbl--ai-skill-scanner",
+  "description": "Scan OpenBot/Clawdbot skills for security vulnerabilities, malicious code, and suspicious patterns before installing them. Use when a user wants to audit a skill, check if a ClawHub skill is safe, scan for credential exfiltration, detect prompt injection, or review skill security. Triggers on security audit, skill safety check, malware scan, or trust verification.",
+  "version": "2.1.0",
+  "author": {
+    "name": "hugosbl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hugosbl/ai-skill-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hugosbl/ai-skill-scanner"
+}

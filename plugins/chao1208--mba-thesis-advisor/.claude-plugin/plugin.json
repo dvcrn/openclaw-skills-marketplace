@@ -1,0 +1,10 @@
+{
+  "name": "chao1208--mba-thesis-advisor",
+  "description": "MBA thesis advisor for improving academic papers to award-winning quality. Use when a user wants to: (1) upgrade an MBA thesis to top-tier quality (e.g., Tsinghua excellent graduation thesis), (2) diagnose problems with an existing thesis draft, (3) rewrite thesis sections with critical analysis (\"writing style B\"), (4) build a strong theoretical framework, (5) identify and articulate the original contribution (novelty) of a thesis, or (6) revise conclusions to be insightful and non-trivial. Handles LaTeX-based theses (thuthesis template preferred) and Chinese MBA thesis conventions. Trigger phrases: \"帮我改论文\", \"MBA论文\", \"优秀毕业论文\", \"thesis improvement\", \"论文诊断\", \"帮同学改论文\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "chao1208"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chao1208/mba-thesis-advisor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chao1208/mba-thesis-advisor"
+}

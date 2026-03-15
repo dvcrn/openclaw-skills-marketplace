@@ -1,0 +1,10 @@
+{
+  "name": "kitakitsune0x--openclaw-notion-sync",
+  "description": "Sync local workspace directories and files to Notion pages using the notion-sync CLI or programmatic API. Use when the user wants to push files to Notion, mirror a directory structure into Notion, initialize notion-sync config, manage ignore patterns, or check sync status.",
+  "version": "0.1.0",
+  "author": {
+    "name": "kitakitsune0x"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kitakitsune0x/openclaw-notion-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kitakitsune0x/openclaw-notion-sync"
+}

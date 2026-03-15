@@ -1,0 +1,10 @@
+{
+  "name": "toolate28--reson8-activator",
+  "description": "The meta-skill that knows its own activation surface. Use this skill whenever the user wants to \"activate\" a capability, asks \"what can you do\", wants to chain multiple skills together, needs help finding the right tool for a task, asks about available integrations or connectors, wants to publish to a marketplace, or says \"activate\", \"inventory\", \"compose\", \"what tools\", \"what skills\", \"what can we use\", \"show me everything\", or \"tapestry\". Also triggers when another agent (Grok, Gemini) needs to understand what capabilities exist and how to invoke them. This is the Tapestry of Skills — the self-aware orchestration layer.",
+  "version": "1.0.0",
+  "author": {
+    "name": "toolate28"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/toolate28/reson8-activator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/toolate28/reson8-activator"
+}

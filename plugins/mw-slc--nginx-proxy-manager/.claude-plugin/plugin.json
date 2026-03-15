@@ -1,0 +1,10 @@
+{
+  "name": "mw-slc--nginx-proxy-manager",
+  "description": "Manage Nginx Proxy Manager (NPM) for reverse proxy and SSL termination to internal services like staging/prod apps. Use when creating/updating proxy hosts, requesting or renewing Let's Encrypt certificates, enforcing HTTPS redirects, setting websocket support, or routing domains/subdomains to target servers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mw-slc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mw-slc/nginx-proxy-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mw-slc/nginx-proxy-manager"
+}

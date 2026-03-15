@@ -1,0 +1,10 @@
+{
+  "name": "dobbybud--agent-task-manager",
+  "description": "Manages and orchestrates multi-step, stateful agent workflows; handles task dependencies, persistent state, error recovery, and external rate-limiting. Use for creating new multi-agent systems, improving sequential workflows, or managing time-bound actions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dobbybud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dobbybud/agent-task-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dobbybud/agent-task-manager"
+}

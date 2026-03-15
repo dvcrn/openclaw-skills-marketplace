@@ -1,0 +1,10 @@
+{
+  "name": "yhy0--go-vuln-dos",
+  "description": "Use when auditing Go code involving goroutine management, channel operations, HTTP request handling, resource allocation, or panic recovery. Covers CWE-400/770/476. Keywords: denial of service, goroutine leak, channel deadlock, panic recover, io.ReadAll, resource exhaustion, OOM, HTTP/2 abuse, protobuf, unbounded allocation, rate limiting",
+  "version": "0.1.0",
+  "author": {
+    "name": "yhy0"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yhy0/go-vuln-dos",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yhy0/go-vuln-dos"
+}

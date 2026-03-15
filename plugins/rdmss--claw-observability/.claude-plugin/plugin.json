@@ -1,0 +1,10 @@
+{
+  "name": "rdmss--claw-observability",
+  "description": "Real-time visual observability for Claude Code multi-agent workflows. Automatic reporting via hooks — zero agent involvement.",
+  "version": "1.0.1",
+  "author": {
+    "name": "rdmss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rdmss/claw-observability",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rdmss/claw-observability"
+}

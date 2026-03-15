@@ -1,0 +1,10 @@
+{
+  "name": "tomas-mikula--krea-ai",
+  "description": "Generate images via Krea.ai API — Nano Banana 2 (default), Flux, Imagen 4, Seedream 3, Ideogram 3.0, Nano Pro/base. Returns direct URLs.",
+  "version": "1.0.2",
+  "author": {
+    "name": "tomas-mikula"
+  },
+  "homepage": "https://docs.krea.ai/developers/introduction",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tomas-mikula/krea-ai"
+}

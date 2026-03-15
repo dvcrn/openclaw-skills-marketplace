@@ -1,0 +1,10 @@
+{
+  "name": "ankitsul--kuvera",
+  "description": "Kuvera portfolio & market data CLI. Query mutual fund data, gold prices, USD/INR rates, fund category returns, and user portfolio info from Kuvera. Use when the user asks about their investments, mutual funds, gold prices, market overview, or Kuvera portfolio.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ankitsul"
+  },
+  "homepage": "https://kuvera.in",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ankitsul/kuvera"
+}

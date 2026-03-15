@@ -1,0 +1,10 @@
+{
+  "name": "clawdbotworker--pagerduty-agent",
+  "description": "Manage PagerDuty incidents, on-call schedules, services, and maintenance windows directly from your agent.",
+  "version": "1.0.0",
+  "author": {
+    "name": "clawdbotworker"
+  },
+  "homepage": "https://github.com/openclaw/skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clawdbotworker/pagerduty-agent"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "uchibeke--aport-agent-guardrail",
+  "description": "Pre-action authorization for AI agents. Installs an OpenClaw before_tool_call hook that evaluates every tool call against a passport and policy before execution. Blocks unauthorized commands, data exfiltration, and policy violations. Supports local (offline) and hosted (API) passport modes. Requires Node.js 18+ and npx.",
+  "version": "1.1.14",
+  "author": {
+    "name": "uchibeke"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/uchibeke/aport-agent-guardrail",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/uchibeke/aport-agent-guardrail"
+}

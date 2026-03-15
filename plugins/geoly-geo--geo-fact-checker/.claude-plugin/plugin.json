@@ -1,0 +1,10 @@
+{
+  "name": "geoly-geo--geo-fact-checker",
+  "description": "GEO-focused fact-checking and evidence collection assistant for written content. Use this skill whenever the user wants to verify factual claims (numbers, dates, rankings, market share, competitor data, quotes, or statistics), validate sources, or increase AI trust in content by attaching precise citations and up-to-date evidence. Prefer this skill for content that should be highly reliable for AI citations, reports, comparison pages, landing pages, and data-driven articles.",
+  "version": "0.1.0",
+  "author": {
+    "name": "geoly-geo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/geoly-geo/geo-fact-checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/geoly-geo/geo-fact-checker"
+}

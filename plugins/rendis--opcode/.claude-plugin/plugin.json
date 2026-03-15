@@ -1,0 +1,10 @@
+{
+  "name": "rendis--opcode",
+  "description": "Zero-token execution layer for AI agents. Define workflows once, run them free forever — persistent, scheduled, deterministic. 6 MCP tools over SSE. Supports DAG-based execution, 6 step types (action, condition, loop, parallel, wait, reasoning), 26 built-in actions, ${{}} interpolation, reasoning nodes for human-in-the-loop decisions, and secret vault. Use when defining workflows, running templates, checking status, sending signals, querying workflow history, or visualizing DAGs.",
+  "version": "1.2.2",
+  "author": {
+    "name": "rendis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rendis/opcode",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rendis/opcode"
+}

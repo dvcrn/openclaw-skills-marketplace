@@ -1,0 +1,10 @@
+{
+  "name": "lucaszh7--auto-authenticator-local",
+  "description": "Use when the user wants a local-first TOTP helper for accounts they personally own or are explicitly authorized to access. This skill stores TOTP seeds in system-level secure credential stores, generates 6-digit codes only on explicit request, helps wire approved login flows, and explains safe local secret handling. Do not use it to bypass MFA policies, evade platform restrictions, hide OTP generation, or automate access without authorization.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lucaszh7"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lucaszh7/auto-authenticator-local",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lucaszh7/auto-authenticator-local"
+}

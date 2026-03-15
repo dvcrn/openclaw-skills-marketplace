@@ -1,0 +1,10 @@
+{
+  "name": "bytesagain--cron-expression",
+  "description": "Cron表达式生成、解释、常用示例、验证、下次执行时间、平台转换(Linux/AWS/GitHub Actions). Use when you need cron expression capabilities. Triggers on: cron expression.",
+  "version": "2.3.0",
+  "author": {
+    "name": "bytesagain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bytesagain/cron-expression",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bytesagain/cron-expression"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--github-api",
+  "description": "GitHub API integration with managed OAuth. Access repositories, issues, pull requests, commits, branches, and users.\n Use this skill when users want to interact with GitHub repositories, manage issues and PRs, search code, or automate workflows.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.3",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/github-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/github-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "civen-cn--model-verifier",
+  "description": "Verify model identity by testing 4 dimensions: knowledge cutoff, safety style, multimodal capability, and thinking language patterns. Use when user says 'verify model' or wants to check model authenticity.",
+  "version": "1.0.1",
+  "author": {
+    "name": "civen-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/civen-cn/model-verifier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/civen-cn/model-verifier"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "tongtanhieu--futa-tracker",
+  "description": "Track FUTA Express (Phương Trang) package delivery status using their public API. Use when the user wants to track/tra cứu đơn hàng, kiện hàng from FUTA Express, FUTA Express, or Phương Trang Express. Requires a tracking code (mã vận đơn) to query.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tongtanhieu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tongtanhieu/futa-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tongtanhieu/futa-tracker"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ivangdavila--plant-identifier",
+  "description": "Identify plants from photos using trait-based analysis, ranked species candidates, follow-up capture guidance, and a reusable local log.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ivangdavila"
+  },
+  "homepage": "https://clawic.com/skills/plant-identifier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/plant-identifier"
+}

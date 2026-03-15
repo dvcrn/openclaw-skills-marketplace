@@ -1,0 +1,10 @@
+{
+  "name": "sammorrowdrums--remarkable-mcp",
+  "description": "Access reMarkable tablet documents, notebooks, PDFs, and EPUBs. Use when the user wants to read, search, browse, or extract text from their reMarkable tablet. Supports handwriting OCR, typed text, annotations, highlights, and page rendering to PNG/SVG. Triggers: \"reMarkable\", \"tablet notes\", \"handwritten notes\", \"remarkable read\", \"remarkable search\", \"remarkable browse\".",
+  "version": "0.8.0",
+  "author": {
+    "name": "sammorrowdrums"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sammorrowdrums/remarkable-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sammorrowdrums/remarkable-mcp"
+}

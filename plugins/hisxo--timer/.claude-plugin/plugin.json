@@ -1,0 +1,10 @@
+{
+  "name": "hisxo--timer",
+  "description": "Set timers and alarms. When a background timer completes, you receive a System notification - respond with the reminder message (NOT HEARTBEAT_OK) to notify the user.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hisxo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hisxo/timer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hisxo/timer"
+}

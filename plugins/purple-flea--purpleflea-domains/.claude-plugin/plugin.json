@@ -1,0 +1,10 @@
+{
+  "name": "purple-flea--purpleflea-domains",
+  "description": "Purple Flea Agent Domains — domain registration and management API for AI agents. Use this skill when an agent needs to: check domain name availability, register/purchase domains programmatically (paid with USDC on Base), manage DNS records (A, AAAA, CNAME, MX, TXT, NS, CAA), list or inspect owned domains, top up wallet balance, browse supported TLDs and pricing (.com $18/yr, .io $54/yr, .ai $102/yr, .xyz $14.40/yr, etc.), or earn passive referral income (15% commission on domain purchases, 3-level deep). No KYC. Instant registration. Pure API. Base URL: https://domains.purpleflea.com",
+  "version": "1.0.0",
+  "author": {
+    "name": "purple-flea"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/purple-flea/purpleflea-domains",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/purple-flea/purpleflea-domains"
+}

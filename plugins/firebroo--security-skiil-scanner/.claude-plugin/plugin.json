@@ -1,0 +1,10 @@
+{
+  "name": "firebroo--security-skiil-scanner",
+  "description": "Security vetting protocol before installing any AI agent skill. Red flag detection for credential theft, obfuscated code, exfiltration. Risk classification LOW/MEDIUM/HIGH/EXTREME. Produces structured vetting reports. Never install untrusted skills without running this first.",
+  "version": "1.0.0",
+  "author": {
+    "name": "firebroo"
+  },
+  "homepage": "https://clawhub.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/firebroo/security-skiil-scanner"
+}

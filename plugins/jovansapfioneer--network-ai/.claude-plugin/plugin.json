@@ -1,0 +1,10 @@
+{
+  "name": "jovansapfioneer--network-ai",
+  "description": "Python orchestration skill: local multi-agent workflows via blackboard file, permission gating, and token budget scripts. All execution is local — no network calls, no Node.js required. TypeScript/Node.js features (HMAC tokens, AES-256, MCP server, 14 adapters, CLI) are in the SEPARATE companion npm package (npm install -g network-ai) and are NOT part of this skill bundle.",
+  "version": "4.3.7",
+  "author": {
+    "name": "jovansapfioneer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jovansapfioneer/network-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jovansapfioneer/network-ai"
+}

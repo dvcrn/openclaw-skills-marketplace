@@ -1,0 +1,10 @@
+{
+  "name": "yutaigu--briefing-skill",
+  "description": "Automatically track creator channels and transcribe new videos (YouTube, Bilibili, TikTok) with zero token cost during the pipeline. Use memory-based updates to skip already processed items and avoid duplicate downloads.",
+  "version": "1.0.9",
+  "author": {
+    "name": "yutaigu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yutaigu/briefing-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yutaigu/briefing-skill"
+}

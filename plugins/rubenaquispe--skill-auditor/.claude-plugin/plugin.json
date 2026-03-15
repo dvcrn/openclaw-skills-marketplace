@@ -1,0 +1,10 @@
+{
+  "name": "rubenaquispe--skill-auditor",
+  "description": "Security scanner that catches malicious skills before they steal your data. Detects credential theft, prompt injection, and hidden backdoors. Works immediately with zero setup. Optional AST dataflow analysis traces how your data moves through code.",
+  "version": "2.1.3",
+  "author": {
+    "name": "rubenaquispe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rubenaquispe/skill-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rubenaquispe/skill-auditor"
+}

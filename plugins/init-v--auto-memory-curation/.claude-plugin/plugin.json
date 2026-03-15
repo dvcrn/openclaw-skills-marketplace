@@ -1,0 +1,10 @@
+{
+  "name": "init-v--auto-memory-curation",
+  "description": "Automatically analyzes messages for important information and stores it in the right memory files. Runs silently on every message. Filters noise, captures meaningful content. Use when you want passive memory building without manual \"remember this\" commands.",
+  "version": "1.0.0",
+  "author": {
+    "name": "init-v"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/init-v/auto-memory-curation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/init-v/auto-memory-curation"
+}

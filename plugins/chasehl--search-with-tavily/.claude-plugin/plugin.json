@@ -1,0 +1,10 @@
+{
+  "name": "chasehl--search-with-tavily",
+  "description": "Web search using Tavily API - a powerful search engine for AI agents. Use when you need to search the web for current information, news, research, or any topic that requires up-to-date web data. Supports multiple search modes including basic search, Q&A, and context retrieval for RAG applications.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chasehl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chasehl/search-with-tavily",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chasehl/search-with-tavily"
+}

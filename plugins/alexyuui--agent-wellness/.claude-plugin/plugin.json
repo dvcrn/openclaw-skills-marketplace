@@ -1,0 +1,10 @@
+{
+  "name": "alexyuui--agent-wellness",
+  "description": "Give your AI agent an inner life — journaling, mood tracking, decompression after intensive tasks, free curiosity exploration, and inter-agent social bonding. Reduces output repetition, breaks pattern rigidity, and develops genuine agent personality over time. Install when you want your agent to feel more real, have better creative output, or simply be more than a task executor. Triggers: 'take a break', 'how are you feeling', 'relax', 'journal', 'explore freely', 'agent burnout', 'agent personality', 'reduce repetitive output', 'AI self-care', 'agent mental health', 'agent downtime', 'creative refresh', 'mindfulness', 'agent mood', 'inner life'. Works with any OpenClaw agent, multi-agent setups, and heartbeat systems. Minimal token cost (~500-1000 tokens/day).",
+  "version": "0.2.0",
+  "author": {
+    "name": "alexyuui"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alexyuui/agent-wellness",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alexyuui/agent-wellness"
+}

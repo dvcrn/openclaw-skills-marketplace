@@ -1,0 +1,10 @@
+{
+  "name": "timing-up--groq-voice-transcribe",
+  "description": "Transcribe audio files via Groq's OpenAI-compatible speech-to-text API. Use when the user sends voice messages or audio files and you need fast cloud speech-to-text through Groq instead of local Whisper.",
+  "version": "1.0.1",
+  "author": {
+    "name": "timing-up"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/timing-up/groq-voice-transcribe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/timing-up/groq-voice-transcribe"
+}

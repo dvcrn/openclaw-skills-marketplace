@@ -1,0 +1,10 @@
+{
+  "name": "sharkwind--ai-news-briefing",
+  "description": "Professional AI news briefing using OpenClaw skills ecosystem. Monitors 10 top AI news sources, extracts content with summarize skill, and generates high-quality Chinese briefings. Use when: (1) generating AI news briefings, (2) monitoring AI industry updates, (3) analyzing multiple AI news sources with time filtering. NOT for: general web browsing or non-AI content.",
+  "version": "1.0.1",
+  "author": {
+    "name": "sharkwind"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sharkwind/ai-news-briefing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sharkwind/ai-news-briefing"
+}

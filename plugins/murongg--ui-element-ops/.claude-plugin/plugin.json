@@ -1,0 +1,10 @@
+{
+  "name": "murongg--ui-element-ops",
+  "description": "Parse UI screenshots into structured element JSON (type, OCR text, bbox) and operate desktop UI from parsed elements. Use when a user asks to detect/locate UI elements, return coordinates, find elements by text/type, wait for element appearance or disappearance, click/type/press keys/hotkeys, take screenshots, or calibrate coordinates for multi-display/DPI/window offsets.",
+  "version": "1.0.2",
+  "author": {
+    "name": "murongg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/murongg/ui-element-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/murongg/ui-element-ops"
+}

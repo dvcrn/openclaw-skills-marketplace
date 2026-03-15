@@ -1,0 +1,10 @@
+{
+  "name": "btcagentic--raydium",
+  "description": "Audit Raydium liquidity positions before capital is deployed. Analyze pool depth, concentration, liquidity quality, structural risks, and parameter changes so users can make cleaner LP decisions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "btcagentic"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/btcagentic/raydium",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/btcagentic/raydium"
+}

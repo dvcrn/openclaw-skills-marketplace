@@ -1,0 +1,10 @@
+{
+  "name": "nandichi--crypto-trader",
+  "description": "Automated cryptocurrency trading skill for OpenClaw. Supports 8 trading strategies\n (Grid Trading, DCA, Trend Following, Scalping, Arbitrage, Swing Trading, Copy Trading,\n Portfolio Rebalancing), multi-exchange connectivity (Binance, Bybit, Kraken, Coinbase),\n AI-driven sentiment analysis, comprehensive risk management, backtesting, paper trading,\n and real-time monitoring with Telegram/Discord/Email alerts.\n Use when the user asks about crypto trading, portfolio management, market analysis,\n starting/stopping strategies, checking balances, or running backtests.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nandichi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nandichi/crypto-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nandichi/crypto-trader"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "winlinvip--srs-support",
+  "description": "Answer SRS (Simple Realtime Server) questions for developers and users — protocols, configuration, architecture, codecs, ecosystem tools, deployment, and troubleshooting. Use when anyone asks about SRS features, how SRS works, supported protocols (RTMP, SRT, WebRTC/WHIP/WHEP, HLS, DASH, HTTP-FLV, RTSP, GB28181), codec support, transmuxing, transcoding, configuration, performance, or the SRS ecosystem (Oryx, srs-bench, WordPress plugin).",
+  "version": "1.0.1",
+  "author": {
+    "name": "winlinvip"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/winlinvip/srs-support",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/winlinvip/srs-support"
+}

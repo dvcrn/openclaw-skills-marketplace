@@ -1,0 +1,10 @@
+{
+  "name": "lxj0276--focus-break-reminder",
+  "description": "Workspace wellness break reminder with configurable work interval, cooldown, idle reset, quiet hours, and per-day caps. Use when users want OpenClaw to remind them to take regular breaks during long sessions, including setup of heartbeat checks, reminder templates, and on/off/snooze/status controls.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lxj0276"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxj0276/focus-break-reminder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxj0276/focus-break-reminder"
+}

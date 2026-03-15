@@ -1,0 +1,10 @@
+{
+  "name": "m4vf14--perplexity-search-skill",
+  "description": "Search the web using Perplexity's Search API for ranked, real-time web results with advanced filtering. Use when you need to search for current information, market research, trending topics, or when Brave Search is unavailable. Supports recency filtering (day/week/month/year) and returns structured results with titles, URLs, and snippets.",
+  "version": "1.0.0",
+  "author": {
+    "name": "m4vf14"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/m4vf14/perplexity-search-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/m4vf14/perplexity-search-skill"
+}

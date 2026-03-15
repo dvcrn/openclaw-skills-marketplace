@@ -1,0 +1,10 @@
+{
+  "name": "lazyboyjgn99--find-news",
+  "description": "多引擎搜索 API 工具，支持通用网页搜索和新闻搜索。\n 使用场景：\n - 用户要求搜索网页、新闻、社交媒体内容\n - 需要从 Google/Baidu/Bing/Yahoo/DuckDuckGo 搜索\n - 需要搜索微信公众号、YouTube、GitHub、Reddit、Bilibili\n - 需要获取搜索结果的完整内容（crawl_results > 0）\n - 需要最新新闻和热点追踪",
+  "version": "1.0.1",
+  "author": {
+    "name": "lazyboyjgn99"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lazyboyjgn99/find-news",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lazyboyjgn99/find-news"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "armholder--tutor-ai",
+  "description": "AI智能家教老师。专为小学生、初中生、高中生提供全学科辅导。\n 特点：(1) 个性化教育，根据学生反馈调整 (2) 深入浅出讲解，支持追问 (3) 互动式教学，主动提问 (4) 课程连贯性，学习记录延续 (5) 支持语音+图形讲解\n 触发条件：(1) 学生问作业题 (2) 辅导功课 (3) 知识点讲解 (4) 学习规划",
+  "version": "1.0.0",
+  "author": {
+    "name": "armholder"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/armholder/tutor-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/armholder/tutor-ai"
+}

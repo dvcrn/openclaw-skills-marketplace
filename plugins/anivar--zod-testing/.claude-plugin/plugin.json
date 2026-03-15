@@ -1,0 +1,10 @@
+{
+  "name": "anivar--zod-testing",
+  "description": "Testing patterns for Zod schemas using Jest and Vitest. Covers schema correctness testing, mock data generation, error assertion patterns, integration testing with API handlers and forms, snapshot testing with z.toJSONSchema(), and property-based testing. Baseline: zod ^4.0.0. Triggers on: test files for Zod schemas, zod-schema-faker imports, mentions of \"test schema\", \"schema test\", \"zod mock\", \"zod test\", or schema testing patterns.",
+  "version": "1.0.1",
+  "author": {
+    "name": "anivar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anivar/zod-testing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anivar/zod-testing"
+}

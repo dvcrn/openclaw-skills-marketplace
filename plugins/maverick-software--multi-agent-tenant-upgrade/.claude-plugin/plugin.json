@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--multi-agent-tenant-upgrade",
+  "description": "Multi-agent UX for OpenClaw Control UI — agent selector, per-agent sessions, session history viewer with search, agent-filtered Sessions tab with friendly names, Create Agent wizard, emoji picker, backend agent CRUD, and auth mode badge.",
+  "version": "1.5.2",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/multi-agent-tenant-upgrade",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/multi-agent-tenant-upgrade"
+}

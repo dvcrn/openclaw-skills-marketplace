@@ -1,0 +1,10 @@
+{
+  "name": "edxi--miniade-cancel",
+  "description": "Cancel an active interactive dispatch run by run-id from slash command cancel. Use when user wants to stop a dispatchi or ralph-loop task immediately.",
+  "version": "0.1.1",
+  "author": {
+    "name": "edxi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/edxi/miniade-cancel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/edxi/miniade-cancel"
+}

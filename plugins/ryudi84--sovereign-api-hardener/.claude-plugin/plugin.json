@@ -1,0 +1,10 @@
+{
+  "name": "ryudi84--sovereign-api-hardener",
+  "description": "Hardens API endpoints against common attacks. Covers rate limiting, input validation, auth, CORS, headers, injection prevention, error handling, and monitoring.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ryudi84"
+  },
+  "homepage": "https://github.com/ryudi84/sovereign-tools",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ryudi84/sovereign-api-hardener"
+}

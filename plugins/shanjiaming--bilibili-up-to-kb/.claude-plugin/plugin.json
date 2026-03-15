@@ -1,0 +1,10 @@
+{
+  "name": "shanjiaming--bilibili-up-to-kb",
+  "description": "Convert Bilibili (B站) videos into a searchable text knowledge base. Supports single videos and batch processing of entire UP主 channels. Uses local whisper.cpp for transcription (no API key needed). Includes automated transcript cleaning to fix ASR errors with full paragraph-level coverage. Use when: (1) user wants to transcribe a Bilibili video, (2) user wants to build a knowledge base from a channel, (3) user sends a bilibili.com or b23.tv link and asks for text/transcript/summary, (4) user says 转写, 知识库, 文字版, or transcribe bilibili.",
+  "version": "0.1.0",
+  "author": {
+    "name": "shanjiaming"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shanjiaming/bilibili-up-to-kb",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shanjiaming/bilibili-up-to-kb"
+}

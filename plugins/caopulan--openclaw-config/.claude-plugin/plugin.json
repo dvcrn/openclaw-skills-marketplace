@@ -1,0 +1,10 @@
+{
+  "name": "caopulan--openclaw-config",
+  "description": "Edit and validate OpenClaw Gateway config (openclaw.json / JSON5). Use when adding/changing config keys (gateway.*, agents.*, models.*, channels.*, tools.*, skills.*, plugins.*, $include) or diagnosing openclaw doctor/config validation errors, to avoid schema mismatches that prevent the Gateway from starting or weaken security policies.",
+  "version": "0.1.0",
+  "author": {
+    "name": "caopulan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/caopulan/openclaw-config",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/caopulan/openclaw-config"
+}

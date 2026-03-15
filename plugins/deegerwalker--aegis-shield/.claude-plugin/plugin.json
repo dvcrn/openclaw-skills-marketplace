@@ -1,0 +1,10 @@
+{
+  "name": "deegerwalker--aegis-shield",
+  "description": "Prompt-injection and data-exfiltration screening for untrusted text. Use before summarizing web/email/social content, before replying, and especially before writing anything to memory. Provides a safe memory append workflow (scan → lint → accept or quarantine).",
+  "version": "0.1.0",
+  "author": {
+    "name": "deegerwalker"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deegerwalker/aegis-shield",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deegerwalker/aegis-shield"
+}

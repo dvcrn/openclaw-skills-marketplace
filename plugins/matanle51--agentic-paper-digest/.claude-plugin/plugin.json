@@ -1,0 +1,10 @@
+{
+  "name": "matanle51--agentic-paper-digest",
+  "description": "Fetches and summarizes recent arXiv and Hugging Face papers with Agentic Paper Digest. Use when the user wants a paper digest, a JSON feed of recent papers, or to run the arXiv/HF pipeline.",
+  "version": "0.1.0",
+  "author": {
+    "name": "matanle51"
+  },
+  "homepage": "https://github.com/matanle51/agentic_paper_digest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matanle51/agentic-paper-digest"
+}

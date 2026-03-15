@@ -1,0 +1,10 @@
+{
+  "name": "subfeed-ai--subfeed",
+  "description": "AI entities with full agentic backend for your OpenClaw project in one prompt. Your IDE agent will self-register and start building. Human is optional.",
+  "version": "1.0.2",
+  "author": {
+    "name": "subfeed-ai"
+  },
+  "homepage": "https://subfeed.app",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/subfeed-ai/subfeed"
+}

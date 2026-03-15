@@ -1,0 +1,10 @@
+{
+  "name": "dangsllc--baa-review",
+  "description": "Clause-by-clause BAA analysis against 45 CFR 164.504(e)(2). Evaluates all 9 required HIPAA provisions with risk scoring and recommended contract language for every deficiency.",
+  "version": "0.1.0",
+  "author": {
+    "name": "dangsllc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dangsllc/baa-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dangsllc/baa-review"
+}

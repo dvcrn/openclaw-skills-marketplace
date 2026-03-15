@@ -1,0 +1,10 @@
+{
+  "name": "anmolnagpal--activity-log-detector",
+  "description": "Analyze Azure Activity Logs and Sentinel incidents for suspicious patterns and attack indicators",
+  "version": "1.0.0",
+  "author": {
+    "name": "anmolnagpal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/activity-log-detector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/activity-log-detector"
+}

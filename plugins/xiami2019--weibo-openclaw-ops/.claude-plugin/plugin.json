@@ -1,0 +1,10 @@
+{
+  "name": "xiami2019--weibo-openclaw-ops",
+  "description": "Weibo operations for OpenClaw via server-side browser automation. Use when the user asks to log in by QR, persist session state, read feed/messages/hot topics, summarize recent posts, publish posts, or run safe like/follow workflows with explicit limits.",
+  "version": "1.2.0",
+  "author": {
+    "name": "xiami2019"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiami2019/weibo-openclaw-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiami2019/weibo-openclaw-ops"
+}

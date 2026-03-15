@@ -1,0 +1,10 @@
+{
+  "name": "kesslerio--amadeus-hotels",
+  "description": "Search hotel prices and availability via Amadeus API. Find vacation hotels by city, coordinates, or amenities. Compare prices, view ratings, get offer details. Track prices with alerts. Use when user asks to \"find hotels\", \"search hotels in [city]\", \"hotel prices\", \"vacation accommodation\", \"hotel deals\", \"track hotel price\".",
+  "version": "1.0.2",
+  "author": {
+    "name": "kesslerio"
+  },
+  "homepage": "https://github.com/kesslerio/amadeus-hotels-clawhub-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/amadeus-hotels"
+}

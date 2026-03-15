@@ -1,0 +1,10 @@
+{
+  "name": "davida-ps--soul-guardian",
+  "description": "Drift detection + baseline integrity guard for agent workspace files with automatic alerting support",
+  "version": "0.0.2",
+  "author": {
+    "name": "davida-ps"
+  },
+  "homepage": "https://clawsec.prompt.security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davida-ps/soul-guardian"
+}

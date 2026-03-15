@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--google-contacts",
+  "description": "Google Contacts API integration with managed OAuth. Manage contacts, contact groups, and search your address book.\n Use this skill when users want to create, read, update, or delete contacts, manage contact groups, or search for people in their Google account.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.3",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/google-contacts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/google-contacts"
+}

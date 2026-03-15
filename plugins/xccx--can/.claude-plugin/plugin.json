@@ -1,0 +1,10 @@
+{
+  "name": "xccx--can",
+  "description": "Agent & MCP integration. CAN stamps what flows through any pipe. Verify, name, log locally.",
+  "version": "1.9.0",
+  "author": {
+    "name": "xccx"
+  },
+  "homepage": "https://github.com/xccx/can",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xccx/can"
+}

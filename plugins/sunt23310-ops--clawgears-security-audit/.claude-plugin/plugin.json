@@ -1,0 +1,10 @@
+{
+  "name": "sunt23310-ops--clawgears-security-audit",
+  "description": "Comprehensive OpenClaw security audit — checks gateway binding, credential exposure, channel policies, tool sandboxing, network/IP leaks, and macOS system security (SIP, FileVault, TCC).",
+  "version": "1.0.0",
+  "author": {
+    "name": "sunt23310-ops"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunt23310-ops/clawgears-security-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunt23310-ops/clawgears-security-audit"
+}

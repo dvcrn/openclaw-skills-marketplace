@@ -1,0 +1,10 @@
+{
+  "name": "chair4ce--swarm",
+  "description": "Cut your LLM costs by 200x. Offload parallel, batch, and research work to Gemini Flash workers instead of burning your expensive primary model.",
+  "version": "1.3.7",
+  "author": {
+    "name": "chair4ce"
+  },
+  "homepage": "https://github.com/Chair4ce/node-scaling",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chair4ce/swarm"
+}

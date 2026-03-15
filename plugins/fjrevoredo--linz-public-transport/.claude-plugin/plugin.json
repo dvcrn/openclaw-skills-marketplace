@@ -1,0 +1,10 @@
+{
+  "name": "fjrevoredo--linz-public-transport",
+  "description": "Query Linz Linien raw EFA endpoints for stop lookup and live departures. Use when tasks involve Linz public transport stop search, resolving stop IDs from stop names, or fetching upcoming departures from a stop.",
+  "version": "1.0.1",
+  "author": {
+    "name": "fjrevoredo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fjrevoredo/linz-public-transport",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fjrevoredo/linz-public-transport"
+}

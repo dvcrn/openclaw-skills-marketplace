@@ -1,0 +1,10 @@
+{
+  "name": "alexunitario-sketch--context-restore",
+  "description": "Skill that restores conversation context when users want to \"continue where we left off\".\n Reads compressed context files, extracts key information (recent operations, projects, tasks),\n and provides structured output to help users quickly resume their work.",
+  "version": "1.1.0",
+  "author": {
+    "name": "alexunitario-sketch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alexunitario-sketch/context-restore",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alexunitario-sketch/context-restore"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "amir-ag--clawhub-skill-scanner",
+  "description": "Security gatekeeper for skill installations. MANDATORY before installing any skill from ClawHub, GitHub, or external sources. Performs deep code analysis to detect malicious patterns, credential access, data exfiltration, command injection, and other security risks. Triggers: \"install skill\", \"clawhub install\", \"new skill\", \"add skill\", \"skill from\". Always run this BEFORE installation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "amir-ag"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/amir-ag/clawhub-skill-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/amir-ag/clawhub-skill-scanner"
+}

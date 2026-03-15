@@ -1,0 +1,10 @@
+{
+  "name": "npfaerber--nodejs-security-audit",
+  "description": "Audit Node.js HTTP servers and web apps for security vulnerabilities. Checks OWASP Top 10, CORS, auth bypass, XSS, path traversal, hardcoded secrets, missing headers, rate limiting, and input validation. Use when reviewing server code before deployment or after changes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "npfaerber"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/npfaerber/nodejs-security-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/npfaerber/nodejs-security-audit"
+}

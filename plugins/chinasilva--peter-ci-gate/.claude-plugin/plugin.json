@@ -1,0 +1,10 @@
+{
+  "name": "chinasilva--peter-ci-gate",
+  "description": "CI 绿灯门禁。负责远端检查状态、失败定位、单次重跑策略，并输出“是否可合并”。",
+  "version": "1.1.0",
+  "author": {
+    "name": "chinasilva"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chinasilva/peter-ci-gate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chinasilva/peter-ci-gate"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "enenkov--citrineos-assistant",
+  "description": "Install, configure, and manage CitrineOS (EV charging / OCPP) via natural language. Supports Docker, cloud hosting, and API operations.",
+  "version": "1.0.1",
+  "author": {
+    "name": "enenkov"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/enenkov/citrineos-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/enenkov/citrineos-assistant"
+}

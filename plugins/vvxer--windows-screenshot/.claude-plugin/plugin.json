@@ -1,0 +1,10 @@
+{
+  "name": "vvxer--windows-screenshot",
+  "description": "Pure PowerShell GDI+ screenshot tool for Windows. No external dependencies, captures to PNG with automatic scaling.",
+  "version": "1.0.3",
+  "author": {
+    "name": "vvxer"
+  },
+  "homepage": "https://github.com/vvxer/windows-screenshot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vvxer/windows-screenshot"
+}

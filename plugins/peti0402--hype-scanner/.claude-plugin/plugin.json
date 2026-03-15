@@ -1,0 +1,10 @@
+{
+  "name": "peti0402--hype-scanner",
+  "description": "Real-time crypto and stock hype detection using Reddit, CoinGecko, DEXScreener, and StockTwits. AI-powered signal validation with local Ollama model. Only real hype passes — zero noise. Use when you want early signals on viral tokens, meme coins, or stocks before they hit mainstream.",
+  "version": "1.0.0",
+  "author": {
+    "name": "peti0402"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/peti0402/hype-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/peti0402/hype-scanner"
+}

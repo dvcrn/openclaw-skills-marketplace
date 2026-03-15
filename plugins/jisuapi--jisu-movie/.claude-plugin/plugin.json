@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--jisu-movie",
+  "description": "使用极速数据电影影讯 API 查询当前城市上映电影、电影放映的电影院、电影院放映的电影、电影详情、按城市获取电影院以及电影城市列表。",
+  "version": "1.0.2",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/jisu-movie",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/jisu-movie"
+}

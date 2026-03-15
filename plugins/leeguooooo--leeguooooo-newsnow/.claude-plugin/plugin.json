@@ -1,0 +1,10 @@
+{
+  "name": "leeguooooo--leeguooooo-newsnow",
+  "description": "CLI tool to fetch trending news and hot topics from 66 sources across 44 platforms. Returns structured news items with titles, URLs, and metadata.\n\n USE FOR:\n - Fetching trending/hot news from Chinese and international platforms\n - Monitoring hot topics across social media, tech, finance, and news sites\n - Getting structured news data as JSON for further processing\n - Listing available news sources\n\n Requires npm install. Some sources need env vars (PRODUCTHUNT_API_TOKEN). Some sources may be blocked by Cloudflare (linuxdo).",
+  "version": "1.0.1",
+  "author": {
+    "name": "leeguooooo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leeguooooo/leeguooooo-newsnow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leeguooooo/leeguooooo-newsnow"
+}

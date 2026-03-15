@@ -1,0 +1,10 @@
+{
+  "name": "baoyangispoor--personality-analysis-yang",
+  "description": "Analyze a person's personality traits based on their written text or chat messages. Use this skill whenever the user wants to understand someone's personality, character, communication style, or behavioral tendencies from text. Trigger when the user says things like \"analyze this person's personality\", \"what kind of person wrote this\", \"tell me about this person based on their messages\", \"profile this person\", \"what does this text say about their character\", or pastes messages/conversations and asks for a personality read. Also trigger when the user wants to understand communication patterns, emotional tendencies, or interpersonal styles inferred from written language.",
+  "version": "1.0.0",
+  "author": {
+    "name": "baoyangispoor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/baoyangispoor/personality-analysis-yang",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/baoyangispoor/personality-analysis-yang"
+}

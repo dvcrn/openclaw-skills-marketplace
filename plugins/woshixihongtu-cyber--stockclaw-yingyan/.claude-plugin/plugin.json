@@ -1,0 +1,10 @@
+{
+  "name": "woshixihongtu-cyber--stockclaw-yingyan",
+  "description": "为该股票量化项目提供 OpenClaw 接入说明，支持股票量化图生成、股票行情问答、自然语言 AI 搜股与 WebSocket 实时监控信号推送。用户发送股票代码或名称时调用量化图接口；用户发送\"股票代码或名称+行情\"时调用行情分析接口，接口返回 TDX 截面数据与提示词，由 OpenClaw 大模型完成趋势诊断；用户发送自然语言选股条件时调用轻量版搜股接口，最多返回 20 只股票和固定字段；用户需要实时监控信号时，先调用监控流接口获取 WebSocket 连接模板，再由客户端优先使用原生 WebSocket 能力建立长连接，并按文档中的成功判定与排障规则执行。",
+  "version": "1.1.0",
+  "author": {
+    "name": "woshixihongtu-cyber"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/woshixihongtu-cyber/stockclaw-yingyan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/woshixihongtu-cyber/stockclaw-yingyan"
+}

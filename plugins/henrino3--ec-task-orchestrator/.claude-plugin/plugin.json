@@ -1,0 +1,10 @@
+{
+  "name": "henrino3--ec-task-orchestrator",
+  "description": "Autonomous multi-agent task orchestration with dependency analysis, parallel tmux/Codex execution, and self-healing heartbeat monitoring. Use for large projects with multiple issues/tasks that need coordinated parallel execution.",
+  "version": "1.0.0",
+  "author": {
+    "name": "henrino3"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/henrino3/ec-task-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/henrino3/ec-task-orchestrator"
+}

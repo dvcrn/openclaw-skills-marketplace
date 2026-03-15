@@ -1,0 +1,10 @@
+{
+  "name": "ppiankov--host-hardening",
+  "description": "Harden an OpenClaw Linux server with SSH key-only auth, UFW firewall, fail2ban brute-force protection, and credential permissions. Use when setting up a new OpenClaw instance, auditing server security, or after a security incident. Requires root/sudo on Linux (Ubuntu/Debian).",
+  "version": "1.0.4",
+  "author": {
+    "name": "ppiankov"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ppiankov/host-hardening",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ppiankov/host-hardening"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "adjusternwachukwu-bot--quantum-bridge",
+  "description": "Transpile quantum circuits between Qiskit (OpenQASM) and OriginIR, run IBC multi-agent consensus, validate OriginIR, and submit circuits to real quantum hardware (Wukong 72Q chip) via the Quantum Bridge API. Use when a user asks to convert quantum circuits, run quantum consensus, submit to quantum hardware, check quantum backends, or work with OriginIR/OpenQASM formats.",
+  "version": "1.0.0",
+  "author": {
+    "name": "adjusternwachukwu-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adjusternwachukwu-bot/quantum-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adjusternwachukwu-bot/quantum-bridge"
+}

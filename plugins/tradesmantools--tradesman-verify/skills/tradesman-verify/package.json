@@ -1,0 +1,58 @@
+{
+  "name": "tradesman-verify",
+  "version": "0.1.0",
+  "description": "Accumulate ADI credential verifier for licensed tradespeople — open-core verification layer",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/lv8rlabs/tradesman-verify"
+  },
+  "keywords": [
+    "accumulate",
+    "adi",
+    "verifiable-credentials",
+    "w3c-vc",
+    "contractor",
+    "license-verification",
+    "blockchain"
+  ],
+  "bin": {
+    "tradesman-verify": "./dist/cli.js"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist",
+    "!dist/**/*.test.*",
+    "contexts",
+    "examples",
+    "docs/trust-model.md",
+    "docs/acme-integration.md",
+    "docs/privacy.md",
+    "docs/pipeline.md",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "tsc",
+    "dev": "tsc --watch",
+    "verify": "node dist/cli.js",
+    "test": "node --test dist/**/*.test.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.2",
+    "typescript": "^5.3.0"
+  }
+}

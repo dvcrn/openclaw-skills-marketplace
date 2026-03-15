@@ -1,0 +1,10 @@
+{
+  "name": "assistant-design--clawflight",
+  "description": "Find flights with Starlink satellite WiFi. Filters to Starlink-equipped airlines only, ranks by WiFi score/price/jet lag, returns affiliate booking links. Use when searching for flights where you need to work on the plane.",
+  "version": "1.0.0",
+  "author": {
+    "name": "assistant-design"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/assistant-design/clawflight",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/assistant-design/clawflight"
+}

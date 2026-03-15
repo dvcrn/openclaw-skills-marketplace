@@ -1,0 +1,10 @@
+{
+  "name": "shenshuo-03--book-to-skill",
+  "description": "根据上传的书籍自动提取技能和思维方式并创建新skill。用于：当用户上传一本书（PDF、TXT、EPUB等），希望从中提取核心技能、方法论或思维方式，并生成一个可复用的skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "shenshuo-03"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shenshuo-03/book-to-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shenshuo-03/book-to-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "yaxuan42--claude-code-legacy",
+  "description": "Trigger Claude Code development tasks in observable tmux sessions with stable startup, progress visibility, and completion callback to OpenClaw. Use when user asks to run coding work via Claude Code and wants to SSH in, monitor progress, and get auto-notified for review after completion.",
+  "version": "0.1.0",
+  "author": {
+    "name": "yaxuan42"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yaxuan42/claude-code-legacy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yaxuan42/claude-code-legacy"
+}

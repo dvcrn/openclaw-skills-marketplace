@@ -1,0 +1,10 @@
+{
+  "name": "linshuikeji--browser-search",
+  "description": "浏览器自动化搜索技能 - 使用本地浏览器进行网页搜索和内容提取。\n 支持 Bing、Google、Baidu 等搜索引擎，无需 API 配置。\n 适合：实时搜索、信息收集、资料整理、竞品分析等场景。",
+  "version": "1.0.0",
+  "author": {
+    "name": "linshuikeji"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/linshuikeji/browser-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/linshuikeji/browser-search"
+}

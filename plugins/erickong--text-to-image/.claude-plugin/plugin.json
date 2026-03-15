@@ -1,0 +1,10 @@
+{
+  "name": "erickong--text-to-image",
+  "description": "Render text into an image and return a temporary local image file path, with optional data URI. Use when Clawhub or Codex needs to convert plain text, styled text, colored text, multilingual text, slogans, posters, captions, or text snippets into an image with controllable width, height, format, font size, full-text color, or partial text colors. Support svg, png, jpg, and jpeg output, return a real temp file path under the skill tmp folder, and work across Windows and macOS with built-in font fallback. Also use for 文本转图片、文字转图片、生成文字海报、彩色文字图片、指定尺寸文字图、局部文字颜色、高亮部分文字、输出临时图片地址、返回本地图片路径、返回 image 文件路径、指定 svg/png/jpg 格式、Mac 兼容、Windows 兼容、return temp file path, local image path, or data URI output.",
+  "version": "0.1.0",
+  "author": {
+    "name": "erickong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/erickong/text-to-image",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/erickong/text-to-image"
+}

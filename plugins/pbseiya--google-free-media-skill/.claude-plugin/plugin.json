@@ -1,0 +1,10 @@
+{
+  "name": "pbseiya--google-free-media-skill",
+  "description": "สร้างรูปภาพและวิดีโอ AI ฟรีผ่าน Google Gemini และ Google Flow โดยใช้ browser automation ไม่ต้องจ่าย API fee ใช้เมื่อต้องการสร้างสื่อ visual (รูปปก, thumbnail, วิดีโอสั้น) โดยไม่เสียค่าใช้จ่าย",
+  "version": "1.0.0",
+  "author": {
+    "name": "pbseiya"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pbseiya/google-free-media-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pbseiya/google-free-media-skill"
+}

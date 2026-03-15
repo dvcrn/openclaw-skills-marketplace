@@ -1,0 +1,10 @@
+{
+  "name": "keenlycat--keenlycat-self-improving-agent",
+  "description": "Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects the agent's behavior, (3) Agent completes a complex task successfully, (4) Periodic review of past learnings.",
+  "version": "1.0.1",
+  "author": {
+    "name": "keenlycat"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/keenlycat/keenlycat-self-improving-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/keenlycat/keenlycat-self-improving-agent"
+}

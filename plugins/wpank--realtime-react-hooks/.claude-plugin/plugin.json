@@ -1,0 +1,10 @@
+{
+  "name": "wpank--realtime-react-hooks",
+  "description": "React hooks for real-time data with SSE, WebSocket, and SWR integration. Covers connection management, reconnection logic, and optimistic updates. Use when building React apps with real-time features. Triggers on SSE hook, WebSocket hook, real-time React, useEventSource, live updates.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/realtime-react-hooks",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/realtime-react-hooks"
+}

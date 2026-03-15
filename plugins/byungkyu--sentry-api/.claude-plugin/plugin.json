@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--sentry-api",
+  "description": "Sentry API integration with managed authentication. Monitor errors, issues, and application performance.\n Use this skill when users want to list issues, retrieve events, manage projects, teams, or releases in Sentry.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/sentry-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/sentry-api"
+}

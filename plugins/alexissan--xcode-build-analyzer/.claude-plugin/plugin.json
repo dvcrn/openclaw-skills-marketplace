@@ -1,0 +1,10 @@
+{
+  "name": "alexissan--xcode-build-analyzer",
+  "description": "Analyze Xcode build logs — timing, warnings, errors, slow compiles, and build history from DerivedData.",
+  "version": "1.2.0",
+  "author": {
+    "name": "alexissan"
+  },
+  "homepage": "https://clawhub.ai/alexissan/xcode-build-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alexissan/xcode-build-analyzer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "littlesheepxy--phone-call-agent",
+  "description": "AI voice call agent — make outbound calls, generate browser call links, accept inbound calls, and retrieve full transcripts + summaries when calls end. Supports Chinese and English. Self-hosted with Docker.",
+  "version": "1.0.1",
+  "author": {
+    "name": "littlesheepxy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/littlesheepxy/phone-call-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/littlesheepxy/phone-call-agent"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "weitanai--devloop-agent-pack",
+  "description": "Complete multi-agent collaboration workflow for product-driven development loops. Covers the full lifecycle from product discovery through architecture design, parallel coding, testing, to marketing. Includes 6 specialized agents (Product, Core Dev, Dev, Test, Marketing, Research) with defined roles, communication protocols, and shared file conventions. This skill should be used when setting up or understanding the DevLoop agent collaboration system, configuring agent workflows, troubleshooting inter-agent communication, resolving agent responsibility questions, or customizing agent behavior through SOUL.override.md and MEMORY.md.",
+  "version": "1.0.0",
+  "author": {
+    "name": "weitanai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/weitanai/devloop-agent-pack",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/weitanai/devloop-agent-pack"
+}

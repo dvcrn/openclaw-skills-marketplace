@@ -1,0 +1,10 @@
+{
+  "name": "and3rn3t--apple-music-dj",
+  "description": "Ultimate personalization engine for Apple Music. Analyzes listening history, Apple Music Replay stats, library data, and taste patterns to create intelligent playlists directly in the user's Apple Music library via the MusicKit API. Supports deep cuts discovery, mood/activity playlists, trend scouting, constellation discovery (\"surprise me\"), playlist refresh/evolution, automated weekly curation via cron, taste DNA cards, compatibility scoring, listening insights, catalog gap analysis, album deep dives, artist rabbit holes, daily song drops, concert prep, and personalized new release radar. Use this skill whenever the user mentions Apple Music, playlists, music recommendations, listening habits, music taste, \"what should I listen to\", discovering new music, mood playlists, workout playlists, deep cuts, hidden gems, trending music, \"surprise me\", refreshing a playlist, or anything related to curating their music experience. Also trigger on: \"DJ\", \"mix\", \"playlist for\", \"music for\", \"songs like\", \"similar to\", \"what's hot\", \"new releases for me\", \"taste DNA\", \"taste card\", \"compatibility\", \"how compatible\", \"year in review\", \"listening stats\", \"what have I missed\", \"album deep dive\", \"rabbit hole\", \"concert prep\", \"seeing [artist] live\", \"daily song\", \"what should I listen to right now\", or OpenClaw in the context of music.",
+  "version": "3.1.0",
+  "author": {
+    "name": "and3rn3t"
+  },
+  "homepage": "https://github.com/and3rn3t/apple-music-dj",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/and3rn3t/apple-music-dj"
+}

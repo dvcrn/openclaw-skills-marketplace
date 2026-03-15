@@ -1,0 +1,10 @@
+{
+  "name": "yes999zc--gateway-monitor-installer",
+  "description": "Install, update, run, and remove OpenClaw Gateway Monitor + Gateway Watchdog on macOS via LaunchAgent. Use when user asks to deploy one-click monitoring, recover broken gateway daemon automatically, check launchctl health, or uninstall monitor/watchdog services.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yes999zc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yes999zc/gateway-monitor-installer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yes999zc/gateway-monitor-installer"
+}

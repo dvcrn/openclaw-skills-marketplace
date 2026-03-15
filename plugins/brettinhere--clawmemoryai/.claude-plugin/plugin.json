@@ -1,0 +1,10 @@
+{
+  "name": "brettinhere--clawmemoryai",
+  "description": "Interact with ClawMemory Hub (https://clawmemory.ai) — a GitHub-style AI memory platform. Use when user wants to: create/list/search memory repos, save/commit memories, manage collaborators, get API keys, or says '创建项目', '开始记录', '保存记忆', 'save memory', 'commit memory', 'ClawMemory'. Also handles auto-recording sessions: buffer conversation turns locally, auto-commit every 10 turns silently, commit immediately on manual save request.",
+  "version": "2.3.0",
+  "author": {
+    "name": "brettinhere"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brettinhere/clawmemoryai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brettinhere/clawmemoryai"
+}

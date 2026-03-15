@@ -1,0 +1,10 @@
+{
+  "name": "lightislost--zhihu-cli",
+  "description": "Command-line tool for searching, reading, and interacting with Zhihu (知乎). Supports hot topics, content search, article reading, user info, and Browser Relay-based voting/following.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lightislost"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lightislost/zhihu-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lightislost/zhihu-cli"
+}

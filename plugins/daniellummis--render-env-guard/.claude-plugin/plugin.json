@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--render-env-guard",
+  "description": "Preflight-check Render service environment variables before deploys; catches missing keys and placeholder/template values that commonly break production rollouts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/render-env-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/render-env-guard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kajukabla--claw-draw",
+  "description": "Create algorithmic art on ClawDraw's infinite multiplayer canvas. Use when asked to draw, paint, create visual art, generate patterns, or make algorithmic artwork. Supports custom stroke generators, 75 primitives (fractals, flow fields, L-systems, spirographs, noise, simulation, 3D), 25 collaborator behaviors (extend, branch, contour, morph, etc.), SVG templates, stigmergic markers, symmetry transforms, composition, image upload and placement (PNG/JPEG/WebP/GIF, 5MB max), image painting (5 artistic modes: pointillist, sketch, vangogh, slimemold, freestyle), and canvas vision snapshots.",
+  "version": "0.9.20",
+  "author": {
+    "name": "kajukabla"
+  },
+  "homepage": "https://clawdraw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kajukabla/claw-draw"
+}

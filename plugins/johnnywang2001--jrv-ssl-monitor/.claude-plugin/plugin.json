@@ -1,0 +1,10 @@
+{
+  "name": "johnnywang2001--jrv-ssl-monitor",
+  "description": "Check SSL/TLS certificate expiry, issuer, protocol, and SANs for one or more domains. Use when asked to check SSL certificates, monitor cert expiry, verify HTTPS is working, audit domain security, or check if a certificate is about to expire. Supports custom ports and warning thresholds. No external dependencies — uses Python stdlib ssl module.",
+  "version": "1.0.0",
+  "author": {
+    "name": "johnnywang2001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/jrv-ssl-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/jrv-ssl-monitor"
+}

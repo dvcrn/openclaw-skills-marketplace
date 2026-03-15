@@ -1,0 +1,10 @@
+{
+  "name": "netanelrotem--telegram-interactive-buttons",
+  "description": "Create interactive Telegram messages with inline buttons using OpenClaw CLI. Use when you need user interaction in Telegram (selection from a list, confirmation dialogs, workflow menus, quick actions). Handles button formatting, callback handling, and message editing. Critical for UX-friendly Telegram automation.",
+  "version": "1.1.2",
+  "author": {
+    "name": "netanelrotem"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/netanelrotem/telegram-interactive-buttons",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/netanelrotem/telegram-interactive-buttons"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jingyuan9527--wallhaven-downloader",
+  "description": "Download wallpapers in batch from wallhaven.cc via API v1 with flexible query parameters (q, categories, purity, sorting, order, topRange, atleast, resolutions, ratios, colors, page, seed). Use when user asks to download one or many wallpapers from Wallhaven, especially with custom filters (e.g. purity/category/toplist/time range) and target folder requirements.",
+  "version": "0.1.3",
+  "author": {
+    "name": "jingyuan9527"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jingyuan9527/wallhaven-downloader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jingyuan9527/wallhaven-downloader"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "pdpaer--qqmail",
+  "description": "Manage QQ Mail (QQ邮箱) via IMAP/SMTP. Use when the user wants to read, send, search, or manage emails from their QQ mailbox. Supports reading inbox, sending emails with attachments, searching by subject/sender/date, and listing folders.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pdpaer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pdpaer/qqmail",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pdpaer/qqmail"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "parasyte-x--openclaw-bitagent",
+  "description": "Launch, buy, and sell tokens on BitAgent bonding curves via CLI. Use when the user wants to create a new agent token, or trade existing agent tokens on BitAgent (BSC Testnet/Mainnet).",
+  "version": "0.1.1",
+  "author": {
+    "name": "parasyte-x"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/parasyte-x/openclaw-bitagent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/parasyte-x/openclaw-bitagent"
+}

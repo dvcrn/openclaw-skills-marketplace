@@ -1,0 +1,10 @@
+{
+  "name": "guim4dev--caprover-management",
+  "description": "Manage CapRover PaaS instances via API: create/update apps, deploy from Docker image or custom Dockerfile (tar file), configure ports, volumes, env vars, and serviceUpdateOverride for Docker Swarm settings. Use when the user wants to deploy, configure, or diagnose an app on a CapRover server — including setting up TCP ports for non-HTTP servers (game servers, databases), mounting persistent volumes, building custom Docker images on the host, or reading build/runtime logs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "guim4dev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guim4dev/caprover-management",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guim4dev/caprover-management"
+}

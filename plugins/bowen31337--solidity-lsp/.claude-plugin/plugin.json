@@ -1,0 +1,10 @@
+{
+  "name": "bowen31337--solidity-lsp",
+  "description": "Solidity language server providing smart contract development support including compilation, linting, security analysis, and code intelligence for .sol files. Use when working with Ethereum smart contracts, Substrate pallets, or any Solidity code that needs compilation, security checks, gas optimization, or code navigation. Essential for ClawChain pallet development.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bowen31337"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/solidity-lsp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/solidity-lsp"
+}

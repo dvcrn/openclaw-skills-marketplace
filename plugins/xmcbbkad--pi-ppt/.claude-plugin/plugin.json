@@ -1,0 +1,10 @@
+{
+  "name": "xmcbbkad--pi-ppt",
+  "description": "调用 Pi API 生成 PPT。通过传入要生成的PPT的内容描述、PPT的页数和PPT的语言来控制。",
+  "version": "1.0.1",
+  "author": {
+    "name": "xmcbbkad"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xmcbbkad/pi-ppt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xmcbbkad/pi-ppt"
+}

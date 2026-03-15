@@ -1,0 +1,10 @@
+{
+  "name": "fredhjc--ai-news-feed",
+  "description": "Query the AI News Feed API for real-time AI/ML news from 57+ curated Twitter/X accounts. Use when the user asks about AI news, trending AI topics, what's happening in AI/ML, or wants to build news-powered features. Provides pre-enriched bilingual (EN/ZH) summaries, importance scores, and topic tags via REST API hosted on RapidAPI.",
+  "version": "1.1.1",
+  "author": {
+    "name": "fredhjc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fredhjc/ai-news-feed",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fredhjc/ai-news-feed"
+}

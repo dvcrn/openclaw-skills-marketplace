@@ -1,0 +1,10 @@
+{
+  "name": "jundonggit--smart-email",
+  "description": "Email assistant skill — check emails, AI summaries, daily digests. Supports Gmail, Outlook/M365, Google Workspace. Users interact through their chat platform (Telegram, Feishu, WhatsApp, etc.).",
+  "version": "1.2.0",
+  "author": {
+    "name": "jundonggit"
+  },
+  "homepage": "https://clawhub.ai/skills/smart-email",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jundonggit/smart-email"
+}

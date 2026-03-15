@@ -1,0 +1,10 @@
+{
+  "name": "xray918--wan",
+  "description": "Generate images using Alibaba DashScope wan2.6-t2i model, download to Desktop, and upload to catbox.moe image hosting. Use when the user asks to generate, create, or draw an image, picture, or illustration using wan or DashScope.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xray918"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xray918/wan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xray918/wan"
+}

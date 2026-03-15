@@ -1,0 +1,10 @@
+{
+  "name": "abhibavishi--wp-to-static",
+  "description": "Convert a WordPress website to a static site and deploy to Cloudflare Pages. Mirrors the rendered HTML via SSH, extracts only referenced assets (shrinks 1.5GB+ to ~25MB), fixes URLs, self-hosts fonts, strips WordPress cruft, and deploys. Use when migrating a WordPress site to static hosting.",
+  "version": "1.2.0",
+  "author": {
+    "name": "abhibavishi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abhibavishi/wp-to-static",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abhibavishi/wp-to-static"
+}

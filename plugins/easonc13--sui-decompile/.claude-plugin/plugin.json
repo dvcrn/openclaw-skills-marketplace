@@ -1,0 +1,10 @@
+{
+  "name": "easonc13--sui-decompile",
+  "description": "Fetch on-chain Sui Move contract source code and let your agent explain how smart contracts work. Scrape from Suivision/Suiscan explorers, analyze DeFi protocols, and understand any contract on Sui.",
+  "version": "1.0.3",
+  "author": {
+    "name": "easonc13"
+  },
+  "homepage": "https://suivision.xyz",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/easonc13/sui-decompile"
+}

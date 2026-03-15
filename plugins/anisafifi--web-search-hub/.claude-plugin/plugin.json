@@ -1,0 +1,10 @@
+{
+  "name": "anisafifi--web-search-hub",
+  "description": "Use this skill when users need to search the web for information, news, images, or videos. Triggers include: requests to \\\"search for\\\", \\\"find information about\\\", \\\"look up\\\", \\\"what's the latest on\\\", or any request requiring current web content. Also use for research tasks, fact-checking, finding visual resources, or gathering recent news. Requires OpenClawCLI installation from clawhub.ai. Do NOT use when Claude's built-in web_search tool is more appropriate for simple queries.",
+  "version": "0.1.3",
+  "author": {
+    "name": "anisafifi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anisafifi/web-search-hub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anisafifi/web-search-hub"
+}

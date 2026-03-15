@@ -1,0 +1,10 @@
+{
+  "name": "borye--xiaohongshu-mcp",
+  "description": "Automate Xiaohongshu (RedNote) content operations using a Python client for the xiaohongshu-mcp server. Use for: (1) Publishing image, text, and video content, (2) Searching for notes and trends, (3) Analyzing post details and comments, (4) Managing user profiles and content feeds. Triggers: xiaohongshu automation, rednote content, publish to xiaohongshu, xiaohongshu search, social media management.",
+  "version": "1.0.0",
+  "author": {
+    "name": "borye"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/borye/xiaohongshu-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/borye/xiaohongshu-mcp"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--postmark",
+  "description": "Postmark integration. Manage Emails, Templates, Servers, Signatures, Domains, MessageStreams. Use when the user wants to interact with Postmark data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/postmark"
+}

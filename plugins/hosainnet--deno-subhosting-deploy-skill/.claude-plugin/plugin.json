@@ -1,0 +1,10 @@
+{
+  "name": "hosainnet--deno-subhosting-deploy-skill",
+  "description": "Deploy simple web pages and HTML apps live to the internet using the Deno Deploy REST API. Use this skill whenever the user wants to make something \"live\", \"hosted\", \"shareable via URL\", \"deployed\", or \"accessible online\" — even if they don't mention Deno explicitly. Also trigger when the user asks to build a web page, interactive app, or HTML project that would benefit from a live URL. Does not require the Deno MCP tool — this skill is fully standalone and uses the Deno API directly.",
+  "version": "0.1.0",
+  "author": {
+    "name": "hosainnet"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hosainnet/deno-subhosting-deploy-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hosainnet/deno-subhosting-deploy-skill"
+}

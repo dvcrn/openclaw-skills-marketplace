@@ -1,0 +1,10 @@
+{
+  "name": "lsj210001--openclaw-automation-architecture",
+  "description": "Design OpenClaw-native automation systems using cron, HEARTBEAT.md, spawned sessions, specialist-agent delegation, first-class tools, MCPs, and local scripts. Use when the user wants to automate a workflow, set up reminders, schedule recurring reports, monitor topics, build alerting pipelines, design agent orchestration, choose between cron vs heartbeat vs spawned session vs script vs MCP vs Zapier/Make/n8n, or replace brittle no-code flows with an OpenClaw-first architecture. Trigger on requests like \"automate this\", \"build a workflow\", \"set up a cron\", \"heartbeat task\", \"reminder\", \"scheduled report\", \"monitor this\", \"alert me when\", \"pipeline\", \"agent orchestration\", \"Zapier\", \"Make\", \"n8n\", \"save time\", or \"OpenClaw automation\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "lsj210001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lsj210001/openclaw-automation-architecture",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lsj210001/openclaw-automation-architecture"
+}

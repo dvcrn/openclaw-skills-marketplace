@@ -1,0 +1,10 @@
+{
+  "name": "mrgoodb--aws-lambda",
+  "description": "Manage AWS Lambda functions via AWS CLI/API. Deploy, invoke, and monitor serverless functions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrgoodb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/aws-lambda",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/aws-lambda"
+}

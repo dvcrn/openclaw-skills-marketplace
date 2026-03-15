@@ -1,0 +1,10 @@
+{
+  "name": "pauldelavallaz--ugc-campaign-pipeline",
+  "description": "Complete UGC video campaign pipeline: product → hero image → variations → videos → edited final.\n \n ✅ USE WHEN:\n - User says \"crear campaña UGC\" or \"pipeline completo\"\n - Need end-to-end UGC video production\n - Starting from product image/URL → final edited video\n - Want the full Doritos-style workflow\n \n ❌ DON'T USE WHEN:\n - Just need one step (use individual skills)\n - Already have final videos, just editing → use Remotion\n - Only need images, no video → use Morpheus only\n \n OUTPUT: Edited MP4 video with multiple scenes + subtitles + logo",
+  "version": "1.0.0",
+  "author": {
+    "name": "pauldelavallaz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/ugc-campaign-pipeline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/ugc-campaign-pipeline"
+}

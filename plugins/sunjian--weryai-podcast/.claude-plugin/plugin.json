@@ -1,0 +1,10 @@
+{
+  "name": "sunjian--weryai-podcast",
+  "description": "Generate an AI podcast discussion or broadcast audio using the WeryAI Podcast Generation API. Use when the user asks to generate a podcast or audio discussion on a topic.",
+  "version": "1.0.2",
+  "author": {
+    "name": "sunjian"
+  },
+  "homepage": "https://weryai.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunjian/weryai-podcast"
+}

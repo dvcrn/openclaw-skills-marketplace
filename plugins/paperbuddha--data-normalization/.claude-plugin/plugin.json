@@ -1,0 +1,10 @@
+{
+  "name": "paperbuddha--data-normalization",
+  "description": "Standardizes raw DB1 records before enrichment — handles names, wallet addresses, dates, prices, social handles, and chain identifiers to prevent false matches downstream.",
+  "version": "1.0.0",
+  "author": {
+    "name": "paperbuddha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/paperbuddha/data-normalization",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paperbuddha/data-normalization"
+}

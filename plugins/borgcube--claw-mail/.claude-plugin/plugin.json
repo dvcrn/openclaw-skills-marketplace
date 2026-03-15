@@ -1,0 +1,10 @@
+{
+  "name": "borgcube--claw-mail",
+  "description": "Multi-account email management skill for IMAP/SMTP. Fetches, reads, searches, composes, sends, replies, forwards, and organizes emails across multiple accounts. Features IMAP Outbox for reliable delivery, secure credential storage via 1Password and macOS Keychain, TLS 1.2+ with hardened ciphers, OAuth2 authentication, IMAP IDLE push monitoring, connection pooling, S/MIME signing, calendar invitations, mail merge, conversation threading, webhook rule actions, and configurable dated-folder archival.",
+  "version": "1.0.0",
+  "author": {
+    "name": "borgcube"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/borgcube/claw-mail",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/borgcube/claw-mail"
+}

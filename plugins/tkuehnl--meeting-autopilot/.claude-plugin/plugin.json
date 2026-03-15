@@ -1,0 +1,10 @@
+{
+  "name": "tkuehnl--meeting-autopilot",
+  "description": "Turn meeting transcripts into operational outputs — action items, decisions, follow-up email drafts, and ticket drafts. Not a summarizer. An operator. Accepts VTT, SRT, or plain text. Multi-pass LLM extraction.",
+  "version": "0.1.2",
+  "author": {
+    "name": "tkuehnl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tkuehnl/meeting-autopilot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tkuehnl/meeting-autopilot"
+}

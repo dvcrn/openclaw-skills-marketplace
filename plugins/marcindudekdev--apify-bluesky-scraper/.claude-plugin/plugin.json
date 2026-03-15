@@ -1,0 +1,10 @@
+{
+  "name": "marcindudekdev--apify-bluesky-scraper",
+  "description": "Scrape Bluesky social posts via AT Protocol. Use when user asks to search Bluesky, find Bluesky posts, monitor Bluesky discussions, or extract Bluesky data. Requires APIFY_TOKEN environment variable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "marcindudekdev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/marcindudekdev/apify-bluesky-scraper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marcindudekdev/apify-bluesky-scraper"
+}

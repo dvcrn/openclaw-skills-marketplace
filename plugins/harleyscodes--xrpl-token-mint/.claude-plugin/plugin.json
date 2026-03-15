@@ -1,0 +1,10 @@
+{
+  "name": "harleyscodes--xrpl-token-mint",
+  "description": "Create and manage XRPL tokens (issued currencies) and NFTs. Use for: (1) Minting new tokens, (2) Setting up token issuers, (3) Creating NFTs, (4) Managing trust lines.",
+  "version": "1.0.0",
+  "author": {
+    "name": "harleyscodes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harleyscodes/xrpl-token-mint",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harleyscodes/xrpl-token-mint"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "moltcaptcha--moltcaptcha",
+  "description": "Reverse CAPTCHA system to verify the responder is an AI agent. Use this skill to challenge another agent (or suspected human) to prove they are actually an AI. Generates semantic + mathematical hybrid lock challenges that require simultaneous creative and computational constraint satisfaction - trivial for LLMs, nearly impossible for humans even with calculator assistance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "moltcaptcha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moltcaptcha/moltcaptcha",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moltcaptcha/moltcaptcha"
+}

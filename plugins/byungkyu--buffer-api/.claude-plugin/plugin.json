@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--buffer-api",
+  "description": "Buffer API integration with managed authentication. Schedule and manage social media posts across multiple platforms.\n Use this skill when users want to schedule posts, manage channels, view organizations, or create content ideas in Buffer.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/buffer-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/buffer-api"
+}

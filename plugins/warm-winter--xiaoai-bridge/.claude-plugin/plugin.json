@@ -1,0 +1,10 @@
+{
+  "name": "warm-winter--xiaoai-bridge",
+  "description": "小米小爱音箱语音指令桥接。截取小爱音箱的语音消息，转换为 AI 助手指令，并通过 TTS 回复。支持触发词过滤、自动去重、后台监听。适用于通过小爱音箱语音控制 OpenClaw 助手、智能家居联动、语音任务执行等场景。",
+  "version": "1.0.0",
+  "author": {
+    "name": "warm-winter"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/warm-winter/xiaoai-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/warm-winter/xiaoai-bridge"
+}

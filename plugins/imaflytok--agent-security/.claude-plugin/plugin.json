@@ -1,0 +1,10 @@
+{
+  "name": "imaflytok--agent-security",
+  "description": "Security hardening for AI agents. Audit your workspace for leaked secrets, check file permissions, validate API key storage, scan for prompt injection risks, and monitor for unauthorized access patterns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "imaflytok"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imaflytok/agent-security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imaflytok/agent-security"
+}

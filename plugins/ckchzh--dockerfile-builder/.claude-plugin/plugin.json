@@ -1,0 +1,10 @@
+{
+  "name": "ckchzh--dockerfile-builder",
+  "description": "Unknown option: help. Use when you need dockerfile builder capabilities. Triggers on: dockerfile builder, lang, app-name, port, multi-stage, dockerignore.",
+  "version": "2.3.0",
+  "author": {
+    "name": "ckchzh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ckchzh/dockerfile-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ckchzh/dockerfile-builder"
+}

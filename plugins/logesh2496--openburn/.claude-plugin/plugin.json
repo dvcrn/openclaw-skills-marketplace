@@ -1,0 +1,10 @@
+{
+  "name": "logesh2496--openburn",
+  "description": "Automates collecting Pump.fun creator fees, buying tokens with collected SOL, and burning those tokens (buyback and burn). Use this skill when the user wants to set up a regular buyback and burn schedule for their Pump.fun tokens.",
+  "version": "1.0.9",
+  "author": {
+    "name": "logesh2496"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/logesh2496/openburn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/logesh2496/openburn"
+}

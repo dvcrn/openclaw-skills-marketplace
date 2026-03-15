@@ -1,0 +1,10 @@
+{
+  "name": "scikkk--senseaudio-voice",
+  "description": "Guide for SenseAudio voice selection, plan-level voice entitlement checks, and cloned voice usage constraints in TTS calls. Use this whenever user asks why a voice_id is unavailable, how to use cloned voices, or how to configure pronunciation/dictionary behavior for clone voices.",
+  "version": "1.0.0",
+  "author": {
+    "name": "scikkk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/scikkk/senseaudio-voice",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scikkk/senseaudio-voice"
+}

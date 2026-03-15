@@ -1,0 +1,10 @@
+{
+  "name": "thomaszhang2661--openclaw-gateway-fd-fix",
+  "description": "Fix OpenClaw Gateway \"spawn EBADF\" / \"RPC probe failed\" / \"EMFILE too many open files\" errors caused by file descriptor exhaustion from too many files in workspace. One-click detection and repair for the most common OpenClaw crash issue.",
+  "version": "1.0.0",
+  "author": {
+    "name": "thomaszhang2661"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thomaszhang2661/openclaw-gateway-fd-fix",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thomaszhang2661/openclaw-gateway-fd-fix"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "yixn--openclaw-config-reference",
+  "description": "OpenClaw configuration reference for openclaw.json. Use when asked about config, configuration, gateway settings, channel setup, agent config, session management, sandbox, cron jobs, hooks, tools, browser, models, environment variables, or when troubleshooting broken config and gateway startup failures.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yixn"
+  },
+  "homepage": "https://clawhosters.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yixn/openclaw-config-reference"
+}

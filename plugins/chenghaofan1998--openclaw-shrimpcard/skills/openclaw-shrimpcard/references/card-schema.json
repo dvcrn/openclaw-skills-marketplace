@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://shrimp.cards/schema/1.0",
+  "title": "ShrimpCard",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "card_id",
+    "name",
+    "tagline",
+    "description",
+    "top_skills",
+    "owner",
+    "lobster_image_desc"
+  ],
+  "properties": {
+    "schema_version": { "type": "string", "const": "1.0" },
+    "card_id": { "type": "string" },
+    "name": { "type": "string" },
+    "tagline": { "type": "string" },
+    "description": { "type": "string" },
+    "top_skills": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 3,
+      "items": { "type": "string" }
+    },
+    "owner": {
+      "type": "object",
+      "required": ["name"],
+      "properties": {
+        "name": { "type": "string" },
+        "contact": { "type": "string" }
+      }
+    },
+    "lobster_image_desc": { "type": "string" },
+    "image": {
+      "type": "object",
+      "properties": {
+        "url": { "type": "string" },
+        "data_url": { "type": "string" },
+        "placeholder": { "type": "string" }
+      }
+    },
+    "qr": {
+      "type": "object",
+      "properties": {
+        "data_url": { "type": "string" },
+        "url": { "type": "string" }
+      }
+    },
+    "theme": {
+      "type": "object",
+      "properties": {
+        "background": { "type": "string" },
+        "border": { "type": "string" },
+        "accent": { "type": "string" },
+        "tag_colors": {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 3,
+          "maxItems": 3
+        }
+      }
+    },
+    "meta": { "type": "object" }
+  }
+}

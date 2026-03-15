@@ -1,0 +1,10 @@
+{
+  "name": "radonx--upgrade-guardian",
+  "description": "A cognitive protocol for safely managing and auditing OpenClaw application upgrades. Analyzes configuration-level risks (schema, defaults) and runtime-level behavioral shifts (routing, sessions, streaming) using semantic changelog analysis to prevent silent breaking changes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "radonx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/radonx/upgrade-guardian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/radonx/upgrade-guardian"
+}

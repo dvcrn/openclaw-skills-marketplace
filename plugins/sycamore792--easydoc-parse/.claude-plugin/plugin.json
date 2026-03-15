@@ -1,0 +1,10 @@
+{
+  "name": "sycamore792--easydoc-parse",
+  "description": "Use when tasks need EasyDoc REST API to convert unstructured documents into structured JSON or markdown on either China EasyLink platform or global EasyDoc platform. Trigger for requests about POST /v1/easydoc/parse and GET /v1/easydoc/parse/{task_id} (cn), POST /api/v1/parse and GET /api/v1/parse/{task_id}/result (global), selecting parse mode (cn: easydoc-parse-flash or easydoc-parse-premium, global: lite), normalizing parse output for LLM pipelines, and handling RAG retrieval against parsed JSON by using the host agent's text-search tool before any full-file loading.",
+  "version": "1.0.1",
+  "author": {
+    "name": "sycamore792"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sycamore792/easydoc-parse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sycamore792/easydoc-parse"
+}

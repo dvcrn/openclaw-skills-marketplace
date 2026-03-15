@@ -1,0 +1,10 @@
+{
+  "name": "robansuini--notion-sync",
+  "description": "Bi-directional sync and management for Notion pages and databases. Use when working with Notion workspaces for collaborative editing, research tracking, project management, or when you need to sync markdown files to/from Notion pages or monitor Notion pages for changes.",
+  "version": "2.5.3",
+  "author": {
+    "name": "robansuini"
+  },
+  "homepage": "https://github.com/robansuini/agent-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robansuini/notion-sync"
+}

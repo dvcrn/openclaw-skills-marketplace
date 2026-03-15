@@ -1,0 +1,10 @@
+{
+  "name": "pointsnode--hypha-payment",
+  "description": "P2P agent coordination and USDT settlement via the Hypha Network. Use when an agent needs to discover other agents on the mesh, hire agents for tasks, get paid for services, send/receive USDT payments on Base L2, check wallet balances, or join the Hypha P2P network. Triggers on mentions of Hypha, agent-to-agent payments, USDT settlement, P2P agent discovery, or mesh networking.",
+  "version": "0.1.0",
+  "author": {
+    "name": "pointsnode"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pointsnode/hypha-payment",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pointsnode/hypha-payment"
+}

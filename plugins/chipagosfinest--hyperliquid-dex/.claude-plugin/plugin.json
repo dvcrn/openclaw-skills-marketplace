@@ -1,0 +1,10 @@
+{
+  "name": "chipagosfinest--hyperliquid-dex",
+  "description": "Query Hyperliquid DEX for account balances, positions, PnL, and margin data via ClawdBot API",
+  "version": "1.1.0",
+  "author": {
+    "name": "chipagosfinest"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chipagosfinest/hyperliquid-dex",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chipagosfinest/hyperliquid-dex"
+}

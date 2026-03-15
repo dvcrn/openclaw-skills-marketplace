@@ -1,0 +1,10 @@
+{
+  "name": "jskoiz--openclaw-cloudflare-secure",
+  "description": "Securely expose an OpenClaw Gateway WebUI on a VPS via Cloudflare Zero Trust Access + Cloudflare Tunnel (cloudflared), including DNS cutover for custom hostnames and optional cleanup of Tailscale Serve.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jskoiz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jskoiz/openclaw-cloudflare-secure",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jskoiz/openclaw-cloudflare-secure"
+}

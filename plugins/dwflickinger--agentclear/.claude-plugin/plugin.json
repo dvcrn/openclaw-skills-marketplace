@@ -1,0 +1,10 @@
+{
+  "name": "dwflickinger--agentclear",
+  "description": "Discover, call, and pay for APIs through AgentClear — the commerce layer for AI agents. Use when you need to: (1) find an API or tool by describing what you need in natural language, (2) call a paid API service through the AgentClear proxy with automatic micro-billing, (3) list available services on the marketplace, (4) check your AgentClear balance or account status. Requires an AgentClear API key (starts with axk_). Get one free at https://agentclear.dev with $5 in credits.",
+  "version": "1.1.0",
+  "author": {
+    "name": "dwflickinger"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dwflickinger/agentclear",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dwflickinger/agentclear"
+}

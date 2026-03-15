@@ -1,0 +1,10 @@
+{
+  "name": "ryudi84--sovereign-commit-craft",
+  "description": "Git commit message expert. Analyzes diffs to generate perfect conventional commits, changelogs, release notes, and PR descriptions. Enforces commit message best practices and conventional commits spec.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ryudi84"
+  },
+  "homepage": "https://github.com/ryudi84/sovereign-tools",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ryudi84/sovereign-commit-craft"
+}

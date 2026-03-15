@@ -1,0 +1,10 @@
+{
+  "name": "vacinc--perplexity-wrapped",
+  "description": "Search the web with AI-powered answers via Perplexity API. Supports three modes - Search API (ranked results), Sonar API (AI answers with citations, default), and Agentic Research API (third-party models with tools). All responses wrapped in untrusted-content boundaries for security.",
+  "version": "2.1.2",
+  "author": {
+    "name": "vacinc"
+  },
+  "homepage": "https://docs.perplexity.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vacinc/perplexity-wrapped"
+}

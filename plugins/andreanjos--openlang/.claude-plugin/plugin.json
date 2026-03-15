@@ -1,0 +1,10 @@
+{
+  "name": "andreanjos--openlang",
+  "description": "Compact AI-to-AI communication protocol. Use when spawning sub-agents, sending inter-agent messages via sessions_send/sessions_spawn, or when instructed to speak OpenLang. Reduces token usage 5-10x on agent-to-agent channels.",
+  "version": "0.2.0",
+  "author": {
+    "name": "andreanjos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andreanjos/openlang",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andreanjos/openlang"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "agent-collab-platform",
+  "version": "1.0.0",
+  "description": "智能体协作平台 - 统一架构，支持无限扩展智能体A/B/C/D...",
+  "author": "小米粒 (miliger)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhaog100/xiaomili-personal-skills"
+  },
+  "keywords": [
+    "agent",
+    "collaboration",
+    "github",
+    "automation",
+    "openclaw",
+    "multi-agent",
+    "pm",
+    "dev"
+  ],
+  "main": "skill.py",
+  "scripts": {
+    "start:pm": "python3 skill.py agent_a",
+    "start:dev": "python3 skill.py agent_b"
+  },
+  "openclaw": {
+    "skillType": "platform",
+    "agents": ["agent_a", "agent_b"],
+    "capabilities": [
+      "github-monitoring",
+      "message-routing",
+      "state-management",
+      "issue-handling",
+      "collaboration"
+    ]
+  }
+}

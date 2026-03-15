@@ -1,0 +1,10 @@
+{
+  "name": "aero323--hinihao-chinese-tutor",
+  "description": "Proactive Chinese language tutor that delivers curated, real-world Mandarin learning content on a schedule. Use when: (1) User wants to learn or improve Chinese/Mandarin. (2) User asks for Chinese reading material, podcast, video, or song recommendations. (3) A scheduled lesson push is triggered via cron/heartbeat. (4) User says \"中文课\", \"Chinese lesson\", \"teach me Chinese\", \"HiNiHao\", or \"learn Mandarin\". Covers HSK 1-6 with authentic content from Chinese platforms.",
+  "version": "1.0.1",
+  "author": {
+    "name": "aero323"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aero323/hinihao-chinese-tutor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aero323/hinihao-chinese-tutor"
+}

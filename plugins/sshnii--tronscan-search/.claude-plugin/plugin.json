@@ -1,0 +1,10 @@
+{
+  "name": "sshnii--tronscan-search",
+  "description": "Search TRON blockchain by name or keyword: resolve token/contract name to address,\n find accounts, transactions, or blocks.\n Use when user asks \"USDT contract address\", \"token/contract address on TRON\", \"look up by name\", or search by keyword.\n Do NOT use for token list (use tronscan-token-list); single token deep dive (use tronscan-token-scanner).",
+  "version": "1.0.2",
+  "author": {
+    "name": "sshnii"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sshnii/tronscan-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sshnii/tronscan-search"
+}

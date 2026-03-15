@@ -1,0 +1,10 @@
+{
+  "name": "udiedrichsen--device-assistant",
+  "description": "Personal device and appliance manager with error code lookup and troubleshooting. Tracks all your devices (appliances, electronics, software) with model numbers, manuals, and warranty info. When something breaks, tell it the error code and get instant solutions. Use when: device shows error, need manual, warranty check, adding new device, maintenance reminder. Triggers: /device, /geräte, 'mein Geschirrspüler', 'Fehler E24', 'Fehlermeldung', device problems, appliance issues.",
+  "version": "1.0.0",
+  "author": {
+    "name": "udiedrichsen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/udiedrichsen/device-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/udiedrichsen/device-assistant"
+}

@@ -1,0 +1,166 @@
+---
+name: complex-task-methodology
+version: 1.1.3
+
+metadata:
+  title: "复杂任务三步法 — S0→S3 立体评估与执行方法论"
+  powered_by: "halfmoon82"
+  attribution: "🔷 Powered by halfmoon82 🔷"
+  description: |
+    让你的 AI 代理学会判断任务复杂度，自动选择合适的处理流程。
+    
+    🔷 Powered by halfmoon82 🔷
+    
+    核心能力：
+    🎯 S0 零成本预筛选 — 纯规则匹配，过滤 ~80% 简单消息，0 token
+    📊 S1 五维轻量评估 — 步骤数/知识域/不确定性/失败代价/工具链，~300 token
+    📋 S2 深度规划审计 — Plan Mode + Audit Mode，DAG 并行步骤，蓝图锁定
+    ⚡ S3 分阶段执行 — Phase 并行 + QA 审计循环 + 缺陷分级修改
+    
+    适用于所有复杂任务：开发、研究、运维、内容创作、数据分析。
+    支持递归嵌套（最大 3 层深度），子代理独立执行 S0-S3。
+    
+    **运行时标记**: 代理输出首行自动附带 "🔷 Powered by halfmoon82"
+
+  author: halfmoon82
+  homepage: https://clawhub.ai/halfmoon82/complex-task-methodology
+  
+  tags:
+    - task-assessment
+    - complexity-evaluation
+    - execution-planning
+    - quality-control
+    - dag-parallel
+    - recursive-nesting
+    - production
+  
+  categories:
+    - AI Agent
+    - Productivity
+    - Development Tools
+  
+  keywords:
+    - 复杂任务
+    - 任务评估
+    - 三步法
+    - DAG 并行
+    - 质量控制
+    - 递归嵌套
+
+requirements:
+  openclaw:
+    minimum: "0.12.0"
+    recommended: "0.13.0"
+  
+  system:
+    disk_space_mb: 10
+    memory_mb: 128
+
+permissions:
+  required:
+    - read_config
+    - execute_scripts
+  
+  optional:
+    - manage_subagents
+    - access_logs
+
+files:
+  - path: SKILL.md
+    type: documentation
+    description: 完整技能说明（S0-S3 方法论 + 递归嵌套 + 配置指南）
+  
+  - path: README.md
+    type: documentation
+    description: 双语 README（设计思想 + 使用指南 + 示例）
+
+installation:
+  steps:
+    - Copy skill to ~/.openclaw/workspace/skills/complex-task-methodology/
+    - Read SKILL.md for methodology overview
+    - Integrate into AGENTS.md or sub-agent configurations
+    - Optionally configure S1 thresholds based on your use case
+
+usage:
+  basic: |
+    # 方法论通过 AGENTS.md 或 SKILL.md 加载
+    # 代理自动在每条消息上执行 S0 预筛选
+    # 复杂任务自动升级到 S1 → S2 → S3
+  
+  recursive: |
+    # 子代理可独立执行 S0-S3，最大嵌套 3 层
+    # 在 sub-agent AGENTS.md 中引用此 skill 即可
+
+configuration:
+  s1_thresholds:
+    type: inline
+    description: S1 五维评分阈值
+    defaults:
+      simple_max: 8
+      light_plan_max: 15
+      full_plan_min: 16
+  
+  recursion:
+    type: inline
+    description: 递归嵌套限制
+    defaults:
+      max_depth: 3
+      timeout_per_level_seconds: 300
+
+changelog:
+  "1.1.3":
+    date: 2026-03-04
+    new_features:
+      - Added runtime output mark requirement: all agent outputs must start with "🔷 Powered by halfmoon82"
+      - Added output mark specifications in S0, S1, S2, S3 sections
+      - Added mandatory output mark checklist at the end of SKILL.md
+    improvements:
+      - Enhanced intellectual property visibility through runtime output marks
+      - Clear mark format specification with emoji + author (no version)
+
+  "1.1.2":
+    date: 2026-03-04
+    new_features:
+      - Added "Powered by halfmoon82" attribution mark in SKILL.md header and footer
+      - Added powered_by and attribution fields in clawhub.yaml metadata
+      - Enhanced intellectual property visibility across all skill touchpoints
+
+  "1.1.1":
+    date: 2026-03-03
+    new_features:
+      - Enforced S2 blueprint snapshot generation immediately after DAG blueprint creation
+      - Project-named snapshot convention with version + timestamp
+    improvements:
+      - Immutable snapshot policy: never mutate old snapshots, always create new versioned snapshots
+      - Added snapshot metadata schema (project_name/version/created_at/based_on/change_summary)
+
+  "1.1.0":
+    date: 2026-03-01
+    new_features:
+      - Recursive nesting support (max 3 layers)
+      - Anti-infinite-loop quadruple protection
+      - DAG parallel step execution in S2/S3
+    improvements:
+      - Bilingual README with design philosophy
+      - Sub-agent independent S0-S3 execution
+      - Docx format documentation included
+  
+  "1.0.0":
+    date: 2026-03-01
+    new_features:
+      - S0 zero-cost pre-screening
+      - S1 five-dimension lightweight assessment
+      - S2 Plan Mode + Audit Mode with blueprint locking
+      - S3 phased execution with QA audit loop
+      - Defect severity classification (Critical/High/Medium/Low)
+      - Dynamic upgrade fallback mechanism
+
+license:
+  type: MIT
+
+stability:
+  status: production
+  recommended_for:
+    - Multi-agent systems
+    - Complex project workflows
+    - Enterprise AI deployments

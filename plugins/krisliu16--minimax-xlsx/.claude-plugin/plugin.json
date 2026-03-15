@@ -1,0 +1,10 @@
+{
+  "name": "krisliu16--minimax-xlsx",
+  "description": "MiniMax spreadsheet production system. Engage for any task that involves tabular data, numeric analysis, or spreadsheet generation. Supports XLSX/XLSM/CSV through Python 3 (openpyxl + pandas) for workbook construction, formula recalculation via recalc.py (LibreOffice headless), and the MiniMaxXlsx CLI (C#/.NET) for structural validation, formula auditing, and pivot table synthesis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "krisliu16"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/krisliu16/minimax-xlsx",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/krisliu16/minimax-xlsx"
+}

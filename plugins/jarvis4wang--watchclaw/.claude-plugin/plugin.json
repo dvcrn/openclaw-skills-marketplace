@@ -1,0 +1,10 @@
+{
+  "name": "jarvis4wang--watchclaw",
+  "description": "Auto-recovery watchdog for OpenClaw gateway. Monitors health, detects bad config changes, and recovers via git stash/revert. Supports native and Docker restart modes with pluggable alerts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jarvis4wang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jarvis4wang/watchclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jarvis4wang/watchclaw"
+}

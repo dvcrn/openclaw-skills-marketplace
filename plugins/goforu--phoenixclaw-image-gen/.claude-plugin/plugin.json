@@ -1,0 +1,10 @@
+{
+  "name": "goforu--phoenixclaw-image-gen",
+  "description": "图像生成辅助。支持通过 OpenRouter 直接调用各种生图模型（如 Seedream），为 OpenClaw 优化，支持提示词、尺寸等参数配置。目前仅限 OpenRouter provider。",
+  "version": "0.2.1",
+  "author": {
+    "name": "goforu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/goforu/phoenixclaw-image-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/goforu/phoenixclaw-image-gen"
+}

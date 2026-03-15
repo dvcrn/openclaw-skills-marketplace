@@ -1,0 +1,10 @@
+{
+  "name": "lewis-404--otc-confirmation",
+  "description": "One-Time Confirmation code security mechanism for sensitive agent operations. Generates a cryptographically secure single-use code, delivers it via a private channel (email), and requires the user to reply with the code before execution proceeds. The code never appears in stdout, logs, or chat — it flows through a secure state file. Use when the agent needs to confirm dangerous, irreversible, or externally-visible operations.",
+  "version": "3.1.0",
+  "author": {
+    "name": "lewis-404"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lewis-404/otc-confirmation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lewis-404/otc-confirmation"
+}

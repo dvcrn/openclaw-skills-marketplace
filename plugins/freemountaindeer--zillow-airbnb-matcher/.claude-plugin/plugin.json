@@ -1,0 +1,10 @@
+{
+  "name": "freemountaindeer--zillow-airbnb-matcher",
+  "description": "Find properties for sale that are already generating Airbnb income. Cross-references Zillow listings with active Airbnb rentals using geo-matching and calculates investment metrics.",
+  "version": "3.1.0",
+  "author": {
+    "name": "freemountaindeer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/freemountaindeer/zillow-airbnb-matcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/freemountaindeer/zillow-airbnb-matcher"
+}

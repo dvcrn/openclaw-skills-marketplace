@@ -1,0 +1,10 @@
+{
+  "name": "ryanchen01--mcd-cn",
+  "description": "Query McDonald's China MCP server via the mcd-cn CLI for campaign calendars, coupons, and auto-claiming. Use for human-friendly coupon lookup or JSON output for scripts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ryanchen01"
+  },
+  "homepage": "https://github.com/ryanchen01/mcd-cn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ryanchen01/mcd-cn"
+}

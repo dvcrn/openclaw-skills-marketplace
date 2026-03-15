@@ -1,0 +1,10 @@
+{
+  "name": "goog--super-product",
+  "description": "任务管理 CLI 工具，用于 Super Productivity 数据的命令行管理。支持任务管理、计数器管理、项目管理、今日状态查看等功能。当用户提到 super-productivity、sp 任务管理、命令行任务管理时触发。",
+  "version": "1.0.0",
+  "author": {
+    "name": "goog"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/goog/super-product",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/goog/super-product"
+}

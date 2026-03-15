@@ -1,0 +1,10 @@
+{
+  "name": "ccjingeth--openclaw-token-save",
+  "description": "Optimize OpenClaw token usage and cost by auditing context injection, trimming workspace files (AGENTS.md/SOUL.md/MEMORY.md and daily memory), enabling prompt caching, heartbeat, context pruning, compaction, memory search or qmd, subagents, model tiering, and cron frequency. Use when a user asks to reduce OpenClaw token spend, speed up sessions, shrink context, or configure openclaw.json and memory search settings.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ccjingeth"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ccjingeth/openclaw-token-save",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ccjingeth/openclaw-token-save"
+}

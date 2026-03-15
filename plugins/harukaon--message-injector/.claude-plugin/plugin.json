@@ -1,0 +1,10 @@
+{
+  "name": "harukaon--message-injector",
+  "description": "OpenClaw plugin that prepends custom text to every user message before it reaches the agent. Use for: enforcing memory_search before replies, injecting system-level instructions, adding persistent reminders to every conversation turn. Install as a workspace extension — works on all channels including WebChat, Telegram, Slack, etc.",
+  "version": "1.0.0",
+  "author": {
+    "name": "harukaon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harukaon/message-injector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harukaon/message-injector"
+}

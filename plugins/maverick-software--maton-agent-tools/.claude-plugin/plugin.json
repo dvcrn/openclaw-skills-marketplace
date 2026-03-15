@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--maton-agent-tools",
+  "description": "Connect to SaaS tools via Maton AI. Includes full UI integration for Clawdbot Gateway dashboard. Use when setting up Maton integration, connecting apps (Gmail, Slack, Notion, HubSpot, etc.), or managing OAuth connections.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/maton-agent-tools",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/maton-agent-tools"
+}

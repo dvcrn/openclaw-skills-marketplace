@@ -1,0 +1,10 @@
+{
+  "name": "homeofe--openclaw-help",
+  "description": "OpenClaw plugin providing a config-driven /shortcuts command with safe placeholder defaults. Use when you want a /shortcuts command that lists your local commands and project shortcuts without leaking private info to public repos.",
+  "version": "0.2.0",
+  "author": {
+    "name": "homeofe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/homeofe/openclaw-help",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/homeofe/openclaw-help"
+}

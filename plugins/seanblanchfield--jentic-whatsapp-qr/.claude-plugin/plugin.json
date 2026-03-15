@@ -1,0 +1,10 @@
+{
+  "name": "seanblanchfield--jentic-whatsapp-qr",
+  "description": "Generate a clean WhatsApp pairing QR code PNG from a running OpenClaw agent and deliver it to the user via any channel. Use when a user asks to link WhatsApp, set up WhatsApp, or scan a WhatsApp QR code. Built by Jentic.",
+  "version": "1.3.0",
+  "author": {
+    "name": "seanblanchfield"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seanblanchfield/jentic-whatsapp-qr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seanblanchfield/jentic-whatsapp-qr"
+}

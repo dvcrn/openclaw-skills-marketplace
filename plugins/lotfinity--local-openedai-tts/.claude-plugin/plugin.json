@@ -1,0 +1,10 @@
+{
+  "name": "lotfinity--local-openedai-tts",
+  "description": "Configure an OpenClaw instance to use a local OpenAI-compatible TTS backend (for example openedai-speech) with cloned voices. Use when users ask to wire local TTS, set OpenClaw to use local speech synthesis, verify voice/model mapping, generate test clips, troubleshoot wrong voice/model selection, or expose the local TTS endpoint to LAN/Tailscale.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lotfinity"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lotfinity/local-openedai-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lotfinity/local-openedai-tts"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "easonc13--overleaf",
+  "description": "Access Overleaf projects via CLI. Use for reading/writing LaTeX files, syncing local .tex files to Overleaf, downloading projects, and managing Overleaf project structure. Triggers on Overleaf, LaTeX sync, or tex file uploads to Overleaf.",
+  "version": "1.1.1",
+  "author": {
+    "name": "easonc13"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/easonc13/overleaf",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/easonc13/overleaf"
+}

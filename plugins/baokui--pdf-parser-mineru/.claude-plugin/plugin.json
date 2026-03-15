@@ -1,0 +1,10 @@
+{
+  "name": "baokui--pdf-parser-mineru",
+  "description": "PDF document parsing tool based on local MinerU, supports converting PDF to Markdown, JSON, and other machine-readable formats.",
+  "version": "1.0.2",
+  "author": {
+    "name": "baokui"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/baokui/pdf-parser-mineru",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/baokui/pdf-parser-mineru"
+}

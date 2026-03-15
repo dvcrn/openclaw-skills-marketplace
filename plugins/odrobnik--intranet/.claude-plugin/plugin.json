@@ -1,0 +1,10 @@
+{
+  "name": "odrobnik--intranet",
+  "description": "Lightweight local HTTP file server with plugin support. Serves static files from a webroot, mounts plugin directories at URL prefixes via config, and runs index.py entry points as CGI.",
+  "version": "3.2.7",
+  "author": {
+    "name": "odrobnik"
+  },
+  "homepage": "https://github.com/odrobnik/intranet-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/intranet"
+}

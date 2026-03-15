@@ -1,0 +1,10 @@
+{
+  "name": "raphael2025--ta-analyzer",
+  "description": "Multi-timeframe technical analysis skill using CCXT. Calculates 20+ indicators including RSI, MACD, Bollinger Bands, Ichimoku, Stochastic, Williams %R, ADX, MFI, CCI, Fibonacci, Pivot Points, Support/Resistance, and detects 10+ chart patterns. Use when user asks for technical analysis, chart analysis, indicator values, trading signals, or price predictions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "raphael2025"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/raphael2025/ta-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/raphael2025/ta-analyzer"
+}

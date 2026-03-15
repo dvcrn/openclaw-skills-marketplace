@@ -1,0 +1,10 @@
+{
+  "name": "dkistenev--inner-life-reflect",
+  "description": "Your agent repeats the same patterns without learning. inner-life-reflect adds self-reflection with trigger detection and quality gates — your agent observes its own behavior, notices shifts, and evolves its personality over time through SELF.md.",
+  "version": "1.0.4",
+  "author": {
+    "name": "dkistenev"
+  },
+  "homepage": "https://github.com/DKistenev/openclaw-inner-life",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dkistenev/inner-life-reflect"
+}

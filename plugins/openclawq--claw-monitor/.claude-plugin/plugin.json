@@ -1,0 +1,10 @@
+{
+  "name": "openclawq--claw-monitor",
+  "description": "Use the `clawmonitor` CLI to monitor OpenClaw sessions (last user/assistant messages, run state via locks, delivery failures, Telegram thread-binding routing).",
+  "version": "0.1.2",
+  "author": {
+    "name": "openclawq"
+  },
+  "homepage": "https://github.com/openclawq/clawmonitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openclawq/claw-monitor"
+}

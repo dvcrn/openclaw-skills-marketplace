@@ -1,0 +1,10 @@
+{
+  "name": "chuanchuan007--cloudbypass",
+  "description": "Use Cloudbypass API (穿云API/穿云) to fetch pages protected by Cloudflare/Turnstile/JS challenge. Use when normal requests fail with challenge/403 and compliant protected-page retrieval is required. Requires CLOUDBYPASS_APIKEY; V2/V2S also require CLOUDBYPASS_PROXY.",
+  "version": "0.0.5",
+  "author": {
+    "name": "chuanchuan007"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chuanchuan007/cloudbypass",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chuanchuan007/cloudbypass"
+}

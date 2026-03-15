@@ -1,0 +1,10 @@
+{
+  "name": "mdann1992--crypto-signals-automation",
+  "description": "Build and operate a crypto signal trading automation using RapidAPI cryptexAI Buy & Sell Signals as signal source and dYdX v4 for execution. Use when setting up end-to-end signal ingestion, API subscription/key configuration, dYdX credential/bootstrap (API key + passphrase + signing material), cron execution, TP/SL handling, retries, cleanup, and Telegram notifications.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mdann1992"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mdann1992/crypto-signals-automation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mdann1992/crypto-signals-automation"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "steipete--domain-dns-ops",
+  "description": "Domain/DNS ops across Cloudflare, DNSimple, Namecheap for Peter. Use for onboarding zones to Cloudflare, flipping nameservers, setting redirects (Page Rules/Rulesets/Workers), updating redirect-worker mappings, and verifying DNS/HTTP. Source of truth: ~/Projects/manager.",
+  "version": "1.0.0",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/steipete/domain-dns-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/domain-dns-ops"
+}

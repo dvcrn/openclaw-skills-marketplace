@@ -1,0 +1,10 @@
+{
+  "name": "rexlunae--cf-manager",
+  "description": "Manage Cloudflare via API — DNS zones and records, page rules, SSL/TLS settings, caching, firewall rules, Workers, and analytics. Free tier includes DNS, CDN, DDoS protection, and SSL.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rexlunae"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rexlunae/cf-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rexlunae/cf-manager"
+}

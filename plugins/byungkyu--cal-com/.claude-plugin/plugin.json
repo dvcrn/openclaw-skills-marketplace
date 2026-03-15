@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--cal-com",
+  "description": "Cal.com API integration with managed OAuth. Create and manage event types, bookings, schedules, and availability.\n Use this skill when users want to manage scheduling, create bookings, configure event types, or check availability.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/cal-com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/cal-com"
+}

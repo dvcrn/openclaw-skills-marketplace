@@ -1,0 +1,10 @@
+{
+  "name": "smallccwc--chronosync",
+  "description": "跨会话聊天记录同步工具。自动备份 OpenClaw 各会话的聊天记录， 实现会话间记忆共享，避免切换会话后丢失上下文。",
+  "version": "1.0.2",
+  "author": {
+    "name": "smallccwc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/smallccwc/chronosync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/smallccwc/chronosync"
+}

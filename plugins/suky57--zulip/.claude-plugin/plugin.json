@@ -1,0 +1,10 @@
+{
+  "name": "suky57--zulip",
+  "description": "Interact with Zulip chat platform via REST API and Python client. Use when you need to read messages from streams/topics, send messages to channels or users, manage DM conversations, list users, or integrate with Zulip organizations for team communication workflows.",
+  "version": "1.0.2",
+  "author": {
+    "name": "suky57"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/suky57/zulip",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/suky57/zulip"
+}

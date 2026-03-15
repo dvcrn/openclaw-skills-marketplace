@@ -1,0 +1,12 @@
+name: claude-safety-checker
+version: 1.0.0
+description: Check prompts and outputs for Claude safety alignment
+category: Claude
+tags:
+  - claude
+  - safety
+  - moderation
+  - alignment
+author: mosonchan2023
+price: 0.001
+currency: USDT

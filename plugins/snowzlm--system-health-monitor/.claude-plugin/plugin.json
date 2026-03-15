@@ -1,0 +1,10 @@
+{
+  "name": "snowzlm--system-health-monitor",
+  "description": "System health and security monitoring skill with 8-layer monitoring system. Provides real-time health scoring, security reporting, and performance analysis. Use when: checking system status, monitoring security events, or generating health reports.",
+  "version": "1.1.1",
+  "author": {
+    "name": "snowzlm"
+  },
+  "homepage": "https://github.com/openclaw/openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/snowzlm/system-health-monitor"
+}

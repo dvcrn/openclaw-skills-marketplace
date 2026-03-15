@@ -1,0 +1,10 @@
+{
+  "name": "ax2--exchange-rate",
+  "description": "Real-time forex and cryptocurrency exchange rate lookup and amount conversion powered by QVeris. Supports multiple providers (Alpha Vantage, Twelve Data) with fallback for reliability.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ax2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ax2/exchange-rate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ax2/exchange-rate"
+}

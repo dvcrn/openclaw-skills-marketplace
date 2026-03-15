@@ -1,0 +1,10 @@
+{
+  "name": "montecrypto999--solana-agent-registry",
+  "description": "TypeScript SDK for the 8004 Trustless Agent Registry on Solana. Covers agent registration, feedback/SEAL v1, ATOM reputation engine, signing, indexer queries, x402 payment feedback, and skipSend server-mode patterns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "montecrypto999"
+  },
+  "homepage": "https://github.com/QuantuLabs/8004-solana-ts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/montecrypto999/solana-agent-registry"
+}

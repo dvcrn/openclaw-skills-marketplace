@@ -1,0 +1,10 @@
+{
+  "name": "robbyczgw-cla--smart-followups",
+  "description": "Generate contextual follow-up suggestions after AI responses. Shows 3 clickable buttons (Quick, Deep Dive, Related) when user types \"/followups\".",
+  "version": "2.1.6",
+  "author": {
+    "name": "robbyczgw-cla"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/smart-followups",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/smart-followups"
+}

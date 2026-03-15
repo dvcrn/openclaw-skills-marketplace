@@ -1,0 +1,10 @@
+{
+  "name": "andreolf--wallet-pilot",
+  "description": "Universal browser wallet automation for AI agents. Supports 10 wallets including MetaMask, Rabby, Phantom, Trust Wallet, OKX, Coinbase, and more. EVM + Solana. Configurable guardrails with spend limits, chain allowlists, and approval thresholds.",
+  "version": "0.1.0",
+  "author": {
+    "name": "andreolf"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andreolf/wallet-pilot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andreolf/wallet-pilot"
+}

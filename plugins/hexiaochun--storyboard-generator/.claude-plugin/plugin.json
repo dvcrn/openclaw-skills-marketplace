@@ -1,0 +1,10 @@
+{
+  "name": "hexiaochun--storyboard-generator",
+  "description": "将剧本转换为分镜表（Shot List）和静帧提示词，支持即梦/banana模型。当需要生成分镜、制作镜头表、批量生成图片提示词时使用。",
+  "version": "1.0.0",
+  "author": {
+    "name": "hexiaochun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/storyboard-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/storyboard-generator"
+}

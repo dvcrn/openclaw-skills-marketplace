@@ -1,0 +1,10 @@
+{
+  "name": "sabatesduran--clawdbot-meshyai-skill",
+  "description": "Use the Meshy.ai REST API to generate assets: (1) text-to-2d (Meshy Text to Image) and (2) image-to-3d, then download outputs locally. Use when the user wants Meshy generations, needs polling async tasks, and especially when they want the resulting OBJ saved to disk. Requires MESHY_API_KEY in the environment.",
+  "version": "0.1.0",
+  "author": {
+    "name": "sabatesduran"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sabatesduran/clawdbot-meshyai-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sabatesduran/clawdbot-meshyai-skill"
+}

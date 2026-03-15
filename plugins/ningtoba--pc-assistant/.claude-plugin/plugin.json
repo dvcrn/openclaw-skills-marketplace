@@ -1,0 +1,10 @@
+{
+  "name": "ningtoba--pc-assistant",
+  "description": "PC healthcheck and diagnostics with detailed system information and actionable recommendations. Works on Windows, macOS, and Linux. Read-only system diagnostics. Supports scheduling via cron.",
+  "version": "1.2.4",
+  "author": {
+    "name": "ningtoba"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ningtoba/pc-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ningtoba/pc-assistant"
+}

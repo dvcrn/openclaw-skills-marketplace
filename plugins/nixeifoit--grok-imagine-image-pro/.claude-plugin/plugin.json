@@ -1,0 +1,10 @@
+{
+  "name": "nixeifoit--grok-imagine-image-pro",
+  "description": "Generiert hochwertige Bilder mit xAI Grok/Flux API. Use when user asks for image generation (\"mach a Bild von...\", \"generier PNG...\", \"Bild erstellen\") or image editing (\"ändere das Bild\", \"mach daraus...\"). Handles Prompts, styles, aspect ratios, edits, batch generation. Outputs PNG via base64 or file.",
+  "version": "1.0.2",
+  "author": {
+    "name": "nixeifoit"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nixeifoit/grok-imagine-image-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nixeifoit/grok-imagine-image-pro"
+}

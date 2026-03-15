@@ -1,0 +1,10 @@
+{
+  "name": "guifav--test-sentinel",
+  "description": "Writes and runs tests (unit, integration, E2E), performs linting, and auto-fixes failures",
+  "version": "0.1.1",
+  "author": {
+    "name": "guifav"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guifav/test-sentinel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guifav/test-sentinel"
+}

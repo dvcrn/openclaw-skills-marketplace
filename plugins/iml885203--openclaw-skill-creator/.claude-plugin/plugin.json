@@ -1,0 +1,10 @@
+{
+  "name": "iml885203--openclaw-skill-creator",
+  "description": "Create, improve, or evaluate OpenClaw skills (SKILL.md). Use when: (1) designing a new skill from scratch, (2) improving an existing skill's description for better triggering accuracy, (3) evaluating whether a skill description would trigger correctly, (4) reviewing the skill library for quality issues. NOT for: creating Claude Code / Codex skills (those use a different format), editing skill scripts/assets unrelated to skill design.",
+  "version": "1.0.0",
+  "author": {
+    "name": "iml885203"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iml885203/openclaw-skill-creator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iml885203/openclaw-skill-creator"
+}

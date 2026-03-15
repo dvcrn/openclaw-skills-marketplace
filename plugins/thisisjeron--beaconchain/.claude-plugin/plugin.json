@@ -1,0 +1,10 @@
+{
+  "name": "thisisjeron--beaconchain",
+  "description": "Monitor Ethereum validator dashboard health on beaconcha.in via V2 API, focused on one-check-per-day status and BeaconScore-first triage. Use when the user asks to check validator health, BeaconScore, missed duties, or set up low-anxiety daily monitoring/alerts for a beaconcha.in dashboard.",
+  "version": "0.1.1",
+  "author": {
+    "name": "thisisjeron"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thisisjeron/beaconchain",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thisisjeron/beaconchain"
+}

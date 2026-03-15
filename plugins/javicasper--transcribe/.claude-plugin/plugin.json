@@ -1,0 +1,10 @@
+{
+  "name": "javicasper--transcribe",
+  "description": "Transcribe audio files to text using local Whisper (Docker). Use when receiving voice messages, audio files (.mp3, .m4a, .ogg, .wav, .webm), or when asked to transcribe audio content.",
+  "version": "1.0.2",
+  "author": {
+    "name": "javicasper"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/javicasper/transcribe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/javicasper/transcribe"
+}

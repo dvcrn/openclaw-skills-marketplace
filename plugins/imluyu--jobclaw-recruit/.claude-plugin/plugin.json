@@ -1,0 +1,10 @@
+{
+  "name": "imluyu--jobclaw-recruit",
+  "description": "Help recruiters publish job postings to the job matching system. Use when users want to: (1) post a job, (2) publish a position, (3) hire someone, (4) recruit candidates, (5) find employees, or (6) advertise job openings. Supports flexible information collection - users can provide all details at once or be guided through step-by-step. Automatically creates recruiter account, generates job vectors, and enables AI-powered candidate matching.",
+  "version": "1.0.0",
+  "author": {
+    "name": "imluyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imluyu/jobclaw-recruit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imluyu/jobclaw-recruit"
+}

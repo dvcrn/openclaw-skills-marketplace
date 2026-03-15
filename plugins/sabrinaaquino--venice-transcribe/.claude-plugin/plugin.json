@@ -1,0 +1,10 @@
+{
+  "name": "sabrinaaquino--venice-transcribe",
+  "description": "Transcribe audio to text using Venice AI's Whisper-based speech recognition. Supports WAV, MP3, FLAC, M4A, AAC formats with optional timestamps.",
+  "version": "1.0.1",
+  "author": {
+    "name": "sabrinaaquino"
+  },
+  "homepage": "https://venice.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sabrinaaquino/venice-transcribe"
+}

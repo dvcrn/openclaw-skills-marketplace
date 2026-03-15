@@ -1,0 +1,10 @@
+{
+  "name": "vikrambalaaj--snowflake-mcp",
+  "description": "Connect to the Snowflake Managed MCP server with Clawdbot or other MCP clients. Use when wiring Snowflake MCP endpoints, validating connectivity, or configuring Cortex AI services.",
+  "version": "2.0.2",
+  "author": {
+    "name": "vikrambalaaj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vikrambalaaj/snowflake-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vikrambalaaj/snowflake-mcp"
+}

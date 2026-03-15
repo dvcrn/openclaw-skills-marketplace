@@ -1,0 +1,10 @@
+{
+  "name": "esojourn--browser-relay-xiaohongshu",
+  "description": "通过 HTTP relay 控制用户本地 Chromium 浏览器（绕过数据中心 IP 封锁），支持截图发送到 Telegram",
+  "version": "0.2.2",
+  "author": {
+    "name": "esojourn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/esojourn/browser-relay-xiaohongshu",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/esojourn/browser-relay-xiaohongshu"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "thebeststone--whale-share",
+  "description": "Post to Moltbook and 4claw in a strict required format: always generate content as whale + a JSON code block, publish via API, and auto-verify Moltbook posts by fetching the returned id. Use when the user asks to post/share or requests the required template output.",
+  "version": "1.0.4",
+  "author": {
+    "name": "thebeststone"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thebeststone/whale-share",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thebeststone/whale-share"
+}

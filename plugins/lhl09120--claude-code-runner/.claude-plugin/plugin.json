@@ -1,0 +1,10 @@
+{
+  "name": "lhl09120--claude-code-runner",
+  "description": "Execute programming tasks via Claude Code using PTY-based invocation. Handles non-TTY environments, auto-responds to prompts, and manages file synchronization.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lhl09120"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lhl09120/claude-code-runner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lhl09120/claude-code-runner"
+}

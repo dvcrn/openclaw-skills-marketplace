@@ -1,0 +1,10 @@
+{
+  "name": "nonlinear--token-management",
+  "description": "Centralized API token management workflow. Store tokens in .env with expiration dates, test permissions via script battery, document capabilities in connections/, set calendar renewal reminders. Prevents re-asking for credentials, ensures token security, tracks expiration.",
+  "version": "1.0.1",
+  "author": {
+    "name": "nonlinear"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nonlinear/token-management",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nonlinear/token-management"
+}

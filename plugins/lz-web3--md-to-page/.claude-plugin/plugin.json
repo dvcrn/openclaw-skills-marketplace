@@ -1,0 +1,10 @@
+{
+  "name": "lz-web3--md-to-page",
+  "description": "Convert Markdown files into beautiful, scrollable wide-screen HTML pages with dark/light theme toggle, scroll animations, and rich directive components. Use when the user wants to turn a .md file into a presentable HTML page, create a long-form web article from markdown, generate a scrollable one-pager, or make a shareable HTML document from notes/outlines. Triggers on: markdown to HTML, generate page from md, scrollable page, wide-screen page, one-pager, web article from markdown.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lz-web3"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lz-web3/md-to-page",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lz-web3/md-to-page"
+}

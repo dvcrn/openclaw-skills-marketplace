@@ -1,0 +1,10 @@
+{
+  "name": "anecdotes-yair--trust-my-agent-ai",
+  "description": "🛡️ TrustMyAgent - Security posture monitoring for AI agents. Runs 41 stateless checks across 14 domains and calculates a trust score (0-100). Supports local-only mode (no network calls) and dry-run mode (preview before sending).",
+  "version": "1.0.0",
+  "author": {
+    "name": "anecdotes-yair"
+  },
+  "homepage": "https://www.trustmyagent.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anecdotes-yair/trust-my-agent-ai"
+}

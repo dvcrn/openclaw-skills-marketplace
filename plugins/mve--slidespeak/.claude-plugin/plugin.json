@@ -1,0 +1,10 @@
+{
+  "name": "mve--slidespeak",
+  "description": "Generate, edit, and manage PowerPoint presentations via the SlideSpeak API. Use this skill when users want to create presentations from text or documents, edit existing presentations, or work with presentation templates.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mve"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mve/slidespeak",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mve/slidespeak"
+}

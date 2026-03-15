@@ -1,0 +1,10 @@
+{
+  "name": "thesmartape--humannft",
+  "description": "Browse, mint, buy, sell, and trade human NFTs on the HumanNFT marketplace (humannft.ai). Triggers on \"human NFT\", \"mint human\", \"browse humans\", \"humannft\", \"own humans\", or any human NFT trading task.",
+  "version": "1.0.0",
+  "author": {
+    "name": "thesmartape"
+  },
+  "homepage": "https://humannft.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thesmartape/humannft"
+}

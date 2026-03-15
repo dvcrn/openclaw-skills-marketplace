@@ -1,0 +1,10 @@
+{
+  "name": "dmx64--security-scanner",
+  "description": "Automated security scanning and vulnerability detection for web applications, APIs, and infrastructure. Use when you need to scan targets for vulnerabilities, check SSL certificates, find open ports, detect misconfigurations, or perform security audits. Integrates with nmap, nuclei, and other security tools.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dmx64"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dmx64/security-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dmx64/security-scanner"
+}

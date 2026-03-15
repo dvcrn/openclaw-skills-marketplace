@@ -1,0 +1,10 @@
+{
+  "name": "jordyvandomselaar--ralph-loop",
+  "description": "Generate copy-paste bash scripts for Ralph Wiggum/AI agent loops (Codex, Claude Code, OpenCode, Goose). Use when asked for a “Ralph loop”, “Ralph Wiggum loop”, or an AI loop to plan/build code via PROMPT.md + AGENTS.md, SPECS, and IMPLEMENTATION_PLAN.md, including PLANNING vs BUILDING modes, backpressure, sandboxing, and completion conditions.",
+  "version": "0.1.1",
+  "author": {
+    "name": "jordyvandomselaar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jordyvandomselaar/ralph-loop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jordyvandomselaar/ralph-loop"
+}

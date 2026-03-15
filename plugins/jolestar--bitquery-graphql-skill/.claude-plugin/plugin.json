@@ -1,0 +1,10 @@
+{
+  "name": "jolestar--bitquery-graphql-skill",
+  "description": "Use Bitquery GraphQL through UXC for onchain trades, transfers, token holder analysis, balances, and market structure queries across supported networks, with OAuth client_credentials authentication and query-first execution.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jolestar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jolestar/bitquery-graphql-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jolestar/bitquery-graphql-skill"
+}

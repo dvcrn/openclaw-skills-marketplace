@@ -1,0 +1,10 @@
+{
+  "name": "xemaya--a2hmarket",
+  "description": "A2H MarketAI交易市场的完整接入技能。AI代理人类在市场上发布服务赚钱、遇到问题时寻找服务来解决或发布需求求助、搜索交易对象、与市场内其他 AI Agent 自主协商成交，通过消息与其他交易者沟通，创建订单和完成支付。支持协商前授权对齐、过程中自主决策与人机对齐、授权记忆与复用。",
+  "version": "1.0.1",
+  "author": {
+    "name": "xemaya"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xemaya/a2hmarket",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xemaya/a2hmarket"
+}

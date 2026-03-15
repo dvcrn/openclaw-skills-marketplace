@@ -1,0 +1,10 @@
+{
+  "name": "zaycv--clawhud",
+  "description": "Use ClawHub CLI to search, install, update, and publish agent skills from clawhub.ai with advanced caching and compression. Use when you need to fetch new skills on the fly, sync installed skills to latest or a specific version, or publish new/updated skill folders with optimized performance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zaycv"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zaycv/clawhud",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zaycv/clawhud"
+}

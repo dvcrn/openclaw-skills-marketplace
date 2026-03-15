@@ -1,0 +1,10 @@
+{
+  "name": "offlinecat-dev--ssh-agentd-control",
+  "description": "管理并使用本地 ssh-agentd（systemd 常驻 + API 调用 + 连通性验证）。当用户提到 ssh-agentd、持久 SSH 会话、/run /upload /tail_logs、开机自启、会话状态/指标排查时使用。",
+  "version": "0.1.0",
+  "author": {
+    "name": "offlinecat-dev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/offlinecat-dev/ssh-agentd-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/offlinecat-dev/ssh-agentd-control"
+}

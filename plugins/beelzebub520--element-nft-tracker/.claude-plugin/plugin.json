@@ -1,0 +1,10 @@
+{
+  "name": "beelzebub520--element-nft-tracker",
+  "description": "Element Market integration for NFT portfolio and market monitoring. REQUIRES the 'ELEMENT_API_KEY' environment variable. When explicitly authorized by the user, this credential allows the skill to access personal account-level data (such as private asset lists, sales history, and received offers).",
+  "version": "1.0.1",
+  "author": {
+    "name": "beelzebub520"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/beelzebub520/element-nft-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/beelzebub520/element-nft-tracker"
+}

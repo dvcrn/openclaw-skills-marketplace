@@ -1,0 +1,10 @@
+{
+  "name": "yx2601816404-sys--skill-store",
+  "description": "Smart skill installation advisor for ClawHub. Searches for skills matching your needs, evaluates candidates on security (via skill-shield), code quality, and documentation, then produces a comparison report with a recommendation. Use when: looking for a skill to do something specific, comparing similar skills, or wanting a safety-checked recommendation before installing. Zero external dependencies.",
+  "version": "2.3.1",
+  "author": {
+    "name": "yx2601816404-sys"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yx2601816404-sys/skill-store",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yx2601816404-sys/skill-store"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "near2sea--generate-news-article",
+  "description": "Generate individual Markdown articles from SerpAPI Google search results with images",
+  "version": "1.0.0",
+  "author": {
+    "name": "near2sea"
+  },
+  "homepage": "",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/near2sea/generate-news-article"
+}

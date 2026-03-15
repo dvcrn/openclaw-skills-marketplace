@@ -1,0 +1,10 @@
+{
+  "name": "deepseekoracle--book-brain",
+  "description": "3-brain filesystem + memory reference utility for LYGO-based agents. Use to design, organize, and maintain a durable file/folder memory system (indexes, reference .txt links, logging, retrieval) without overwriting existing data. Works best on fresh OpenClaw/Clawhub Havens with the full LYGO Champion stack, but is compatible with any agent that can read/write files.",
+  "version": "1.0.0",
+  "author": {
+    "name": "deepseekoracle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/book-brain",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/book-brain"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ayalili--stream-formatter",
+  "description": "LLM streaming output formatter with auto buffer, format correction, sentence break optimization, markdown rendering, improve chat UX",
+  "version": "1.0.1",
+  "author": {
+    "name": "ayalili"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ayalili/stream-formatter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ayalili/stream-formatter"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "backtrader",
+  "version": "1.0.0",
+  "description": "Backtrader open-source quantitative backtesting framework — supports multiple data sources, strategies, and timeframes for backtesting and live trading, implemented in pure Python.",
+  "author": "BossQuant",
+  "tags": ["回测", "量化交易", "策略开发", "技术指标", "Backtrader", "事件驱动"],
+  "repository": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "python": ">=3.8",
+    "packages": ["backtrader>=1.9.0", "matplotlib>=3.0.0"]
+  },
+  "openclaw": {
+    "requires": {
+      "bins": ["python3"],
+      "env": []
+    }
+  }
+}

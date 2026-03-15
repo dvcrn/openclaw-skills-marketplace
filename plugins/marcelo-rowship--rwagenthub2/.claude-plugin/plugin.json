@@ -1,0 +1,10 @@
+{
+  "name": "marcelo-rowship--rwagenthub2",
+  "description": "Call 32 real-world APIs — flights, hotels, weather, crypto prices, DeFi yields, stock quotes, web search, geocoding, IP reputation, blockchain data, code execution, and email — paying per call in USDC on Base via x402. Requires Node.js 20+ and a Base wallet with USDC.",
+  "version": "1.0.0",
+  "author": {
+    "name": "marcelo-rowship"
+  },
+  "homepage": "https://agents-production-73c1.up.railway.app",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marcelo-rowship/rwagenthub2"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sentinel199--open-sentinel",
+  "description": "Transparent LLM proxy that monitors and enforces policies on AI agent behavior — evaluates responses against configurable rules for hallucinations, PII leaks, prompt injection, and workflow violations before they reach users.",
+  "version": "1.0.4",
+  "author": {
+    "name": "sentinel199"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sentinel199/open-sentinel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sentinel199/open-sentinel"
+}

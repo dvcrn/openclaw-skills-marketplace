@@ -1,0 +1,10 @@
+{
+  "name": "solitaire2015--event-watcher",
+  "description": "Event watcher skill for OpenClaw. Use when you need to subscribe to event sources (Redis Streams + webhook JSONL) and wake an agent only when matching events arrive. Covers filtering, dedupe, retry, and session routing via sessions_send/agent_gate.",
+  "version": "1.0.1",
+  "author": {
+    "name": "solitaire2015"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/solitaire2015/event-watcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/solitaire2015/event-watcher"
+}

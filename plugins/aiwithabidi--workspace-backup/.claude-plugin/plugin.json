@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--workspace-backup",
+  "description": "Automated workspace backup to GitHub — git-based with auto-generated commit messages, proper .gitignore, and restore procedures. Cron-friendly for hands-free backup. Use for backing up your OpenClaw workspace, skills, memory, and configuration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/workspace-backup"
+}

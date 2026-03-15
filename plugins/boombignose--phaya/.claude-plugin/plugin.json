@@ -1,0 +1,10 @@
+{
+  "name": "boombignose--phaya",
+  "description": "Use the Phaya SaaS backend to generate images, videos, audio, music, and run LLM chat completions via simple REST API calls. Use when the user wants to generate media, call AI models, or use the Phaya API for image/video/audio/text generation.",
+  "version": "1.0.2",
+  "author": {
+    "name": "boombignose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/boombignose/phaya",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/boombignose/phaya"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "wechat-article-typeset",
+  "displayName": "公众号文章排版",
+  "version": "1.0.0",
+  "description": "公众号文章排版技能——生成 HTML 并调用 edit.shiker.tech 生成可复制到公众号的复制页链接",
+  "author": "wework",
+  "license": "MIT",
+  "keywords": [
+    "公众号",
+    "排版",
+    "微信",
+    "HTML",
+    "排版工具"
+  ],
+  "main": "wechat-copy.js",
+  "scripts": {
+    "copy": "node wechat-copy.js",
+    "html": "node wechat-html.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openclaw/openclaw.git"
+  },
+  "homepage": "https://docs.openclaw.ai/skills/wechat-article-typeset",
+  "bugs": {
+    "url": "https://github.com/openclaw/openclaw/issues"
+  },
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "wechat-copy.js",
+    "wechat-html.js",
+    "presets.js",
+    "opts.js",
+    "package.json",
+    "lib/"
+  ],
+  "skill": {
+    "category": "content-creation",
+    "tags": [
+      "公众号",
+      "排版",
+      "微信",
+      "HTML",
+      "内容创作"
+    ],
+    "trigger": [
+      "公众号排版",
+      "复制到公众号",
+      "edit.shiker.tech",
+      "公众号文章"
+    ],
+    "examples": [
+      "帮我把这篇文章排成公众号格式",
+      "生成公众号排版链接",
+      "用紫色优雅主题排版"
+    ]
+  }
+}

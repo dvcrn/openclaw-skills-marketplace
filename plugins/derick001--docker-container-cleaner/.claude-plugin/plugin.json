@@ -1,0 +1,10 @@
+{
+  "name": "derick001--docker-container-cleaner",
+  "description": "CLI tool to clean up stopped Docker containers, unused images, volumes, and networks to free up disk space.",
+  "version": "1.0.0",
+  "author": {
+    "name": "derick001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/derick001/docker-container-cleaner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/derick001/docker-container-cleaner"
+}

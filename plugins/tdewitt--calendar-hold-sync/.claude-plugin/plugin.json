@@ -1,0 +1,10 @@
+{
+  "name": "tdewitt--calendar-hold-sync",
+  "description": "Sync one or more source Google calendars into private Busy hold events in one or more target calendars using gog. Use when users need idempotent double-booking prevention, backfill of legacy holds, drift reconcile, or safe scheduled sync.",
+  "version": "1.0.1",
+  "author": {
+    "name": "tdewitt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tdewitt/calendar-hold-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tdewitt/calendar-hold-sync"
+}

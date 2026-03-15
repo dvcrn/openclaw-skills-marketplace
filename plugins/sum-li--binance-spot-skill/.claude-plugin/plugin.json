@@ -1,0 +1,10 @@
+{
+  "name": "sum-li--binance-spot-skill",
+  "description": "Binance Spot request using the Binance API. Authentication requires API key and secret key. Supports testnet and mainnet.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sum-li"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sum-li/binance-spot-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sum-li/binance-spot-skill"
+}

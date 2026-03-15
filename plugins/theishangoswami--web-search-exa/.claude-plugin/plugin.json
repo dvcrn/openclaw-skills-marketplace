@@ -1,0 +1,10 @@
+{
+  "name": "theishangoswami--web-search-exa",
+  "description": "Neural web search, content extraction, company and people research, code search, and deep research via the Exa MCP server. Use when you need to: (1) search the web with semantic understanding — not just keywords, (2) find research papers, news, tweets, companies, or people, (3) extract clean content from URLs, (4) find semantically similar pages to a known URL, (5) get code examples and documentation, (6) run deep multi-step research with a report, (7) get a quick synthesized answer with citations. NOT for: local file operations, non-web tasks, or anything that doesn't involve web search or content retrieval.",
+  "version": "2.0.0",
+  "author": {
+    "name": "theishangoswami"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theishangoswami/web-search-exa",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theishangoswami/web-search-exa"
+}

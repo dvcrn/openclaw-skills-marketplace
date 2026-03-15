@@ -1,0 +1,10 @@
+{
+  "name": "kenera--weather-cn",
+  "description": "中文天气查询工具 - 使用中国天气网获取实时天气（无需API密钥，不依赖大模型）",
+  "version": "1.0.1",
+  "author": {
+    "name": "kenera"
+  },
+  "homepage": "https://www.weather.com.cn/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kenera/weather-cn"
+}

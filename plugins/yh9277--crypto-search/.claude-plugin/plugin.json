@@ -1,0 +1,10 @@
+{
+  "name": "yh9277--crypto-search",
+  "description": "Content search and synthesis primitive using Kaito MCP tools. Use this skill to search for and synthesize content from Twitter (X) and News sources. Triggers on phrases like 'search for tweets about X', 'what's being said about Y', 'find content about Z', 'any news on X', 'what are people saying about Y on Twitter'. This is a primitive skill — it searches content via kaito_advanced_search and synthesizes results. It can be called standalone or composed into higher-level workflow skills. Do NOT use for mindshare tracking (mindshare skill), sentiment analysis (sentiment skill), or user profiling (user-profile skill).",
+  "version": "1.0.0",
+  "author": {
+    "name": "yh9277"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yh9277/crypto-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yh9277/crypto-search"
+}

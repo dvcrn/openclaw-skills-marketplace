@@ -1,0 +1,10 @@
+{
+  "name": "subraiz--perceptron",
+  "description": "Image and video analysis powered by Isaac vision models. Capabilities include visual Q&A, object detection, OCR, captioning, counting, and grounded spatial reasoning with bounding boxes, points, and polygons. Supports streaming, structured outputs, DSL composition, and in-context learning. NOT for: generating images (analysis only).",
+  "version": "1.0.1",
+  "author": {
+    "name": "subraiz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/subraiz/perceptron",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/subraiz/perceptron"
+}

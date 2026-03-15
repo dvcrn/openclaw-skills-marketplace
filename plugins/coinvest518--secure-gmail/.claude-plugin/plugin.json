@@ -1,0 +1,10 @@
+{
+  "name": "coinvest518--secure-gmail",
+  "description": "Secure Gmail skill using Composio brokered OAuth — no raw tokens stored locally. Reads, searches, and drafts emails with least-privilege enforcement. Blocks send and delete at the Composio API gateway level, not just in code. Use when user asks to check inbox, find specific emails by sender or subject, summarize unread threads, or create reply drafts without sending. Requires COMPOSIO_API_KEY in .env and Gmail connected at app.composio.dev. Do NOT use for sending emails — use a send-confirmed skill with human approval instead.",
+  "version": "0.1.0",
+  "author": {
+    "name": "coinvest518"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/coinvest518/secure-gmail",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/coinvest518/secure-gmail"
+}

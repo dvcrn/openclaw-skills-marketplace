@@ -1,0 +1,10 @@
+{
+  "name": "interagentic--keychains",
+  "description": "Call any API without leaking credentials. Keychains proxies requests and injects real tokens server-side — your agent never sees them.",
+  "version": "1.0.2",
+  "author": {
+    "name": "interagentic"
+  },
+  "homepage": "https://keychains.dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/interagentic/keychains"
+}

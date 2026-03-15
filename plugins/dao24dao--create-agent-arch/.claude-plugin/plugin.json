@@ -1,0 +1,10 @@
+{
+  "name": "dao24dao--create-agent-arch",
+  "description": "完整创建一个 OpenClaw Agent，包括：一次性问卷收集配置信息、自动生成 workspace 文件（SOUL.md/AGENTS.md/IDENTITY.md/USER.md/MEMORY.md/HEARTBEAT.md）、 执行 `openclaw agents add` CLI 注册、内置 capability-evolver 自我进化（--review 模式）、 以及向用户输出完整的后续操作清单。 触发词：创建 agent、新建 agent、帮我建一个 agent、create agent、new agent、add agent、 setup agent、我想要一个新的 agent、初始化 agent。 任何涉及 OpenClaw agent 创建、初始化、注册的请求都应触发此 skill。",
+  "version": "1.0.1",
+  "author": {
+    "name": "dao24dao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dao24dao/create-agent-arch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dao24dao/create-agent-arch"
+}

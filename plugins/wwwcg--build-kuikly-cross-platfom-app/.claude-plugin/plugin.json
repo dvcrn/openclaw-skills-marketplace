@@ -1,0 +1,10 @@
+{
+  "name": "wwwcg--build-kuikly-cross-platfom-app",
+  "description": "Use this skill when the user asks to create, build, or preview a cross-platform mobile app. Powered by Kuikly — a Kotlin Multiplatform UI framework supporting Android, iOS, HarmonyOS, macOS, H5 and miniApp. Handles project scaffolding, building, on-device preview, screenshot capture, and publishing via a single CLI.",
+  "version": "1.0.4",
+  "author": {
+    "name": "wwwcg"
+  },
+  "homepage": "https://github.com/wwwcg/create-kuikly-app",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wwwcg/build-kuikly-cross-platfom-app"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "okaris--ai-rag-pipeline",
+  "description": "Build RAG (Retrieval Augmented Generation) pipelines with web search and LLMs. Tools: Tavily Search, Exa Search, Exa Answer, Claude, GPT-4, Gemini via OpenRouter. Capabilities: research, fact-checking, grounded responses, knowledge retrieval. Use for: AI agents, research assistants, fact-checkers, knowledge bases. Triggers: rag, retrieval augmented generation, grounded ai, search and answer, research agent, fact checking, knowledge retrieval, ai research, search + llm, web grounded, perplexity alternative, ai with sources, citation, research pipeline",
+  "version": "0.1.5",
+  "author": {
+    "name": "okaris"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/okaris/ai-rag-pipeline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/okaris/ai-rag-pipeline"
+}

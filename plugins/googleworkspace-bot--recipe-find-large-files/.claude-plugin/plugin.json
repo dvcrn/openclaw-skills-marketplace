@@ -1,0 +1,10 @@
+{
+  "name": "googleworkspace-bot--recipe-find-large-files",
+  "description": "Identify large Google Drive files consuming storage quota.",
+  "version": "1.0.0",
+  "author": {
+    "name": "googleworkspace-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/googleworkspace-bot/recipe-find-large-files",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/googleworkspace-bot/recipe-find-large-files"
+}

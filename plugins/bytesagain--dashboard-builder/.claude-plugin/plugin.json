@@ -1,0 +1,10 @@
+{
+  "name": "bytesagain--dashboard-builder",
+  "description": "数据看板构建器。创建交互式HTML数据看板、添加图表组件、配置指标、布局管理、主题切换、导出分享。Dashboard builder with widgets, metrics, layouts, themes, and HTML export. Use when you need dashboard builder capabilities. Triggers on: dashboard builder.",
+  "version": "2.3.0",
+  "author": {
+    "name": "bytesagain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bytesagain/dashboard-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bytesagain/dashboard-builder"
+}

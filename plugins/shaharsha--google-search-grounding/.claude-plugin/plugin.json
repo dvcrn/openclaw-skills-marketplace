@@ -1,0 +1,10 @@
+{
+  "name": "shaharsha--google-search-grounding",
+  "description": "Google web search via Gemini Search Grounding (primary) and Custom Search JSON API (fallback). Use for: (1) Synthesized answers with citations (grounded search), (2) Raw link results with snippets, (3) Image search. Excellent Hebrew support. Preferred over built-in web_search (Perplexity).",
+  "version": "2.1.0",
+  "author": {
+    "name": "shaharsha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shaharsha/google-search-grounding",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shaharsha/google-search-grounding"
+}

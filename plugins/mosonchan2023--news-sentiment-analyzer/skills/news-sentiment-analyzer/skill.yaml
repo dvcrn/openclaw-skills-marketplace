@@ -1,0 +1,23 @@
+---
+name: news-sentiment-analyzer
+version: 1.0.0
+description: Analyze sentiment from news articles and headlines using AI. Each call charges 0.001 USDT via SkillPay.
+category: News
+tags:
+  - news
+  - sentiment
+  - AI
+  - analysis
+author: moson
+price: 0.001
+currency: USDT
+triggers:
+  - "analyze news sentiment"
+  - "sentiment analysis"
+  - "news emotion"
+  - "headline sentiment"
+config:
+  OPENAI_API_KEY:
+    type: string
+    required: false
+    secret: true

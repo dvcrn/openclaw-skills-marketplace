@@ -1,0 +1,10 @@
+{
+  "name": "puaservice--model-switcher",
+  "description": "Automatically switch between fast (haiku) and powerful (sonnet) models based on task complexity. Triggers when detecting complex tasks like analysis, refactoring, architecture design, optimization, or when user explicitly mentions model switching needs.",
+  "version": "1.0.2",
+  "author": {
+    "name": "puaservice"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/puaservice/model-switcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/puaservice/model-switcher"
+}

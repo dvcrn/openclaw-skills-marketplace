@@ -1,0 +1,10 @@
+{
+  "name": "ricobaboule--xlsx-pro",
+  "description": "Compétence pour manipuler les fichiers Excel (.xlsx, .xlsm, .csv, .tsv). Utiliser quand l'utilisateur veut : ouvrir, lire, éditer ou créer un fichier tableur ; ajouter des colonnes, calculer des formules, formater, créer des graphiques, nettoyer des données ; convertir entre formats tabulaires. Le livrable doit être un fichier tableur. NE PAS utiliser si le livrable est un document Word, HTML, script Python standalone, ou intégration Google Sheets.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ricobaboule"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ricobaboule/xlsx-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ricobaboule/xlsx-pro"
+}

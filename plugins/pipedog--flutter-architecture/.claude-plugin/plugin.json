@@ -1,0 +1,10 @@
+{
+  "name": "pipedog--flutter-architecture",
+  "description": "Flutter 四层组件化 + MVVM 项目架构规范。适用于 Flutter 项目开发、新模块创建、目录结构设计、代码评审、架构对齐。支持在项目中直接创建/搭建整套 MVVM+组件化目录结构。",
+  "version": "1.0.0",
+  "author": {
+    "name": "pipedog"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pipedog/flutter-architecture",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pipedog/flutter-architecture"
+}

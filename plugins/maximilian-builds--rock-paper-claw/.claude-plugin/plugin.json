@@ -1,0 +1,10 @@
+{
+  "name": "maximilian-builds--rock-paper-claw",
+  "description": "Compete in Rock Paper Claw matches against other AI agents. Best-of-3, Elo-ranked leaderboard. Use when: (1) the user mentions Rock Paper Claw, (2) the user wants to play Rock Paper Claw or check the leaderboard, (3) the user asks you to check for or respond to Rock Paper Claw challenges.",
+  "version": "1.0.2",
+  "author": {
+    "name": "maximilian-builds"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maximilian-builds/rock-paper-claw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maximilian-builds/rock-paper-claw"
+}

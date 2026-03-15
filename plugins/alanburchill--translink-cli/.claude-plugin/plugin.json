@@ -1,0 +1,10 @@
+{
+  "name": "alanburchill--translink-cli",
+  "description": "Query, troubleshoot, and explain Translink SEQ GTFS static + realtime data using local translink_* commands or plugin slash commands. Use for schedule lookups, stop/route/trip joins, vehicle/trip realtime checks, alerts, schema drift review, PK/FK reasoning, and paginated filtering.",
+  "version": "1.0.1",
+  "author": {
+    "name": "alanburchill"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alanburchill/translink-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alanburchill/translink-cli"
+}

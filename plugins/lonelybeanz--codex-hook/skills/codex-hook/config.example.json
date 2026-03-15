@@ -1,0 +1,22 @@
+{
+  "result_dir": "/tmp/codex-results",
+  "pending_wake_file": "/tmp/codex-results/pending-wake.json",
+  "latest_result_file": "/tmp/codex-results/latest.json",
+  "default_channel": "telegram",
+  "default_group": "YOUR_TELEGRAM_GROUP_ID",
+  "default_webhook_url": "",
+  "poll_interval": 5,
+  "max_concurrent": 4,
+  "heartbeat_integration": true,
+  "archive_days": 30,
+  "retention": {
+    "completed": 30,
+    "failed": 7,
+    "running": 1
+  },
+  "output_max_chars": 4000,
+  "watcher": {
+    "log_file": "/tmp/codex-results/logs/watcher.log",
+    "log_rotation": "daily"
+  }
+}

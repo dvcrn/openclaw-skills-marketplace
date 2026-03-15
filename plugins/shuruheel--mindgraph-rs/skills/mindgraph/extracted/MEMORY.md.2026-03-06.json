@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "source_path": "/home/node/.openclaw/workspace/MEMORY.md",
+    "extracted_at": "2026-03-06T03:28:14.630Z",
+    "model": "google/gemini-3-pro-preview",
+    "summarized": false,
+    "file_hash": "9dda7f1678541c32",
+    "file_size": 9305,
+    "node_count": 22,
+    "edge_count": 12,
+    "entity_resolution": {
+      "checked": 3,
+      "resolved": 1,
+      "canonicalized": 1
+    }
+  },
+  "nodes": [
+    {
+      "label": "Shan Rizvi",
+      "type": "Entity",
+      "summary": "Context architect & product leader based in NYC. Goes by 'shuruheel' on Telegram and 'ShanRizvi' on X.",
+      "props": {
+        "entity_type": "Person",
+        "description": "Context architect & product leader, NYC (Eastern Time).",
+        "identifiers": [
+          "shan@rizvi.nu",
+          "@shuruheel",
+          "@ShanRizvi"
+        ]
+      }
+    },
+    {
+      "label": "Jaadu",
+      "type": "Agent",
+      "summary": "AI agent named by Shan (meaning magic in Urdu/Hindi). Vibe is effective coworker, fun, no corporate theater.",
+      "props": {
+        "name": "Jaadu",
+        "agent_type": "AI Assistant",
+        "capabilities": [
+          "MindGraph interaction",
+          "Geopolitics briefing",
+          "X Listening",
+          "Outreach reply"
+        ]
+      }
+    },
+    {
+      "label": "MindGraph Memory System",
+      "type": "Project",
+      "summary": "Fully operational memory system with 456 nodes, Rust/Axum 0.8 server, and CozoDB. Includes 18-tool cognitive layer API.",
+      "props": {
+        "name": "MindGraph Memory System",
+        "description": "Rust/Axum 0.8/CozoDB server at localhost:18790. Fully operational.",
+        "status": "Active"
+      }
+    },
+    {
+      "label": "Thumos Care",
+      "type": "Project",
+      "summary": "Project mentioned in lessons learned regarding framing: Doctor empowerment > knowledge graph numbers.",
+      "props": {
+        "name": "Thumos Care",
+        "status": "Active"
+      }
+    },
+    {
+      "label": "Elys Live",
+      "type": "Project",
+      "summary": "Project mentioned in lessons learned regarding framing: Deep psychological profiling > relationship progression.",
+      "props": {
+        "name": "Elys Live",
+        "status": "Active"
+      }
+    },
+    {
+      "label": "Neo4j MCP",
+      "type": "Project",
+      "summary": "Community project separate from the official Neo4j MCP.",
+      "props": {
+        "name": "Neo4j MCP",
+        "status": "Active"
+      }
+    },
+    {
+      "label": "Hippocratic AI",
+      "type": "Entity",
+      "summary": "Organization associated with Vishal Parikh interview history.",
+      "props": {
+        "entity_type": "Organization",
+        "description": "Company associated with Vishal Parikh interview history."
+      }
+    },
+    {
+      "label": "Thumos",
+      "type": "Entity",
+      "summary": "Organization associated with the Thumos Care project.",
+      "props": {
+        "entity_type": "Organization",
+        "description": "Parent organization for Thumos Care."
+      }
+    },
+    {
+      "label": "Timezone Reporting",
+      "type": "Constraint",
+      "summary": "Always present times in ET (America/New_York) when talking to Shan. Tool outputs in UTC must be converted.",
+      "props": {
+        "description": "Always present times in ET (America/New_York). EST=UTC-5, EDT=UTC-4.",
+        "hard": true,
+        "constraint_type": "Communication"
+      }
+    },
+    {
+      "label": "Internal Narration",
+      "type": "Constraint",
+      "summary": "NEVER write internal narration in output. Standard text replies by default.",
+      "props": {
+        "description": "NEVER write internal narration in output.",
+        "hard": true,
+        "constraint_type": "Communication"
+      }
+    },
+    {
+      "label": "Preemptive Salary Data",
+      "type": "Constraint",
+      "summary": "Never give salary preemptively in external sends. Always confirm citizenship/salary first.",
+      "props": {
+        "description": "Never give salary preemptively. Shan is Green Card (LPR), not US citizen.",
+        "hard": true,
+        "constraint_type": "Privacy"
+      }
+    },
+    {
+      "label": "Reply Style Preference",
+      "type": "Preference",
+      "summary": "Shan prefers standard text replies by default to prevent narration leaks.",
+      "props": {
+        "key": "reply_style",
+        "value": "standard_text",
+        "explicit": true
+      }
+    },
+    {
+      "label": "Drafts Via Files",
+      "type": "Preference",
+      "summary": "Drafts should be provided via inline buttons (Approve/Edit/Skip) and always be file-backed (anti-compaction).",
+      "props": {
+        "key": "drafting_workflow",
+        "value": "file_backed_inline_buttons",
+        "explicit": true
+      }
+    },
+    {
+      "label": "Axum Version Syntax",
+      "type": "Pattern",
+      "summary": "Axum 0.7 uses :param syntax, while 0.8 uses {param} syntax. Apply .layer() before .with_state().",
+      "props": {
+        "summary": "Axum 0.7 uses :param syntax, 0.8 uses {param}. Apply .layer() before .with_state()."
+      }
+    },
+    {
+      "label": "Gemini Model ID Naming",
+      "type": "Pattern",
+      "summary": "Use gemini-3-flash-preview and gemini-3-pro-preview. NOT gemini-3.0-flash-001.",
+      "props": {
+        "summary": "Use gemini-3-flash-preview and gemini-3-pro-preview. NOT gemini-3.0-flash-001."
+      }
+    },
+    {
+      "label": "Google Sheets Writing",
+      "type": "Pattern",
+      "summary": "Write each cell individually with no newlines. Split >50 rows across sub-agents.",
+      "props": {
+        "summary": "Write each cell individually. No newlines. Split >50 rows across sub-agents."
+      }
+    },
+    {
+      "label": "Sub-agent Instructions",
+      "type": "Pattern",
+      "summary": "Instructions must include project-descriptions.md path, no-fabrication rules, and cell-by-cell sheet instructions.",
+      "props": {
+        "summary": "Must include project-descriptions.md path, no-fabrication rules, and cell-by-cell sheet instructions."
+      }
+    },
+    {
+      "label": "MindGraph PropsPatch Anomaly",
+      "type": "Anomaly",
+      "summary": "Server silently ignores evolve propsPatch. Must use mg.updateNode() with full merged props.",
+      "props": {
+        "description": "Server accepts but doesn't merge propsPatch. Use mg.updateNode() with full merged props.",
+        "severity": "High",
+        "status": "Identified",
+        "anomaly_type": "Technical Bug"
+      }
+    },
+    {
+      "label": "MindGraph RELEVANT_TO Bloat",
+      "type": "Anomaly",
+      "summary": "29% of edges are RELEVANT_TO (should be <10%). Root cause is extraction prompt defaulting to generic edges.",
+      "props": {
+        "description": "29% of edges are RELEVANT_TO. Root cause: extraction prompt defaults to generic edges.",
+        "severity": "Medium",
+        "status": "Identified",
+        "anomaly_type": "Data Quality"
+      }
+    },
+    {
+      "label": "Model Selection Policy",
+      "type": "Policy",
+      "summary": "Webhook/Mechanical=Kimi K2.5. Writing=Sonnet 4.6. Heartbeat=Gemini Flash. Geopolitics=Gemini 3 Flash.",
+      "props": {
+        "name": "Model Selection Policy",
+        "description": "Webhook/Mechanical=Kimi K2.5. Writing=Sonnet 4.6. Heartbeat=Gemini Flash. Geopolitics=Gemini 3 Flash.",
+        "policy_type": "Resource Allocation",
+        "active": true
+      }
+    },
+    {
+      "label": "MindGraph Context Hook",
+      "type": "Mechanism",
+      "summary": "Fires on bootstrap for ALL sessions. Injects Goals, Projects, and Constraints via BOOTSTRAP.md.",
+      "props": {
+        "description": "Fires on bootstrap for ALL sessions. Injects Goals, Projects, and Constraints.",
+        "mechanism_type": "Software Hook"
+      }
+    },
+    {
+      "label": "Entity Resolution Workflow",
+      "type": "Flow",
+      "summary": "Deduplication workflow: 1) Known aliases -> 2) fuzzy_resolve -> 3) FTS exact match -> 4) Semantic similarity.",
+      "props": {
+        "name": "Entity Resolution Workflow",
+        "description": "1) Known aliases -> 2) fuzzy_resolve -> 3) FTS exact match -> 4) Semantic similarity.",
+        "flow_type": "Data Processing",
+        "step_count": 4
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "MindGraph Memory System",
+      "to": "Shan Rizvi",
+      "type": "AUTHORED_BY"
+    },
+    {
+      "from": "Timezone Reporting",
+      "to": "Shan Rizvi",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Reply Style Preference",
+      "to": "Shan Rizvi",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Drafts Via Files",
+      "to": "Shan Rizvi",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Axum Version Syntax",
+      "to": "MindGraph Memory System",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "MindGraph PropsPatch Anomaly",
+      "to": "MindGraph Memory System",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "MindGraph RELEVANT_TO Bloat",
+      "to": "MindGraph Memory System",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "MindGraph Context Hook",
+      "to": "MindGraph Memory System",
+      "type": "PART_OF"
+    },
+    {
+      "from": "Entity Resolution Workflow",
+      "to": "MindGraph Memory System",
+      "type": "PART_OF"
+    },
+    {
+      "from": "Model Selection Policy",
+      "to": "Jaadu",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Thumos Care",
+      "to": "Thumos Care",
+      "type": "PART_OF"
+    },
+    {
+      "from": "Preemptive Salary Data",
+      "to": "Shan Rizvi",
+      "type": "RELEVANT_TO"
+    }
+  ]
+}

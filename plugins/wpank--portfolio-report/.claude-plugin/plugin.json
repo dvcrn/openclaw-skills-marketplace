@@ -1,0 +1,10 @@
+{
+  "name": "wpank--portfolio-report",
+  "description": "Generate a comprehensive portfolio report for a wallet's Uniswap positions across all chains — covering total value, PnL, fee earnings, impermanent loss, and composition. Use when the user asks about their positions, earnings, or portfolio overview.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/portfolio-report",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/portfolio-report"
+}

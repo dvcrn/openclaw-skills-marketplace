@@ -1,0 +1,10 @@
+{
+  "name": "smorzandos--openclaw-diary-setup",
+  "description": "OpenClaw Diary 日记系统安装向导。引导用户完成日记系统的初始化设置，包括人设选择、用户身份建立、存储配置和授权管理。\n\n **立即触发当**：用户说「setup my journal」「初始化日记」「配置日记系统」「journal setup」「开始设置日记」。\n **主动触发当**：用户首次尝试使用 diary skill 但配置文件不存在时，主动提示「看起来你还没有初始化日记系统，要现在设置吗？」\n\n 完成 5 个阶段的设置：人设选择、用户身份建立（可选）、存储配置、授权收集、生成配置文件。\n\n **核心特性**：\n - 智能授权合并：如果导入和存储使用相同平台（如飞书），只需授权一次\n - 渐进式引导：5 个阶段，可选步骤可跳过\n - 人设一致性：INTJ/ENFP 风格贯穿全程\n - 纯文本交互：完全适配 Telegram/WhatsApp/Discord 等消息平台",
+  "version": "1.0.2",
+  "author": {
+    "name": "smorzandos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/smorzandos/openclaw-diary-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/smorzandos/openclaw-diary-setup"
+}

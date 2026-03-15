@@ -1,0 +1,10 @@
+{
+  "name": "zhongrenfei1-hub--clean-skill",
+  "description": "Cross-reference restaurant recommendations from Xiaohongshu (小红书) and Dianping (大众点评) to validate restaurant quality and consistency. Use when querying restaurant recommendations by geographic location (city/district) to get validated insights from both platforms. Automatically fetches ratings, review counts, and analyzes consistency across platforms to provide trustworthy recommendations with confidence scores.",
+  "version": "1.1.0",
+  "author": {
+    "name": "zhongrenfei1-hub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhongrenfei1-hub/clean-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhongrenfei1-hub/clean-skill"
+}

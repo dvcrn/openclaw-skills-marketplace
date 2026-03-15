@@ -1,0 +1,10 @@
+{
+  "name": "hexiaochun--fal-llms-txt",
+  "description": "获取 fal.ai 模型系列的所有变体及其 llms.txt 链接。当用户提供 fal.ai 模型链接并要求获取 llms.txt、查看模型文档、或查看模型变体时使用此 skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "hexiaochun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/fal-llms-txt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/fal-llms-txt"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "foreztgump--indeed-brightdata",
+  "description": "Search and scrape Indeed job listings and company information using Bright Data's Web Scraper API. Use when the user asks to find jobs on Indeed, search for job postings by keyword or location, look up company information from Indeed, collect job listing details from Indeed URLs, discover companies by industry, or perform any Indeed-related recruiting research. Requires BRIGHTDATA_API_KEY env var. Supports: job search by keyword/location/URL, company lookup by URL/keyword/industry, batch collection with polling, and structured JSON output.",
+  "version": "0.1.4",
+  "author": {
+    "name": "foreztgump"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/foreztgump/indeed-brightdata",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/foreztgump/indeed-brightdata"
+}

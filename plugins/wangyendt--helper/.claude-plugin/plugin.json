@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--helper",
+  "description": "Project configuration management helper for YAML config files. Use when projects need cross-process/cross-file parameter sharing via a centralized config file. Supports automatic project root detection, nested config key management, and waiting mechanism for values set by other processes.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/helper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/helper"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ckchzh--sshkey",
+  "description": "SSH key pair manager. Generate new SSH key pairs, list existing keys, copy public keys to clipboard, check key fingerprints, add keys to ssh-agent, convert key formats, and test SSH connections. Simplify SSH key management from your terminal.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ckchzh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ckchzh/sshkey",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ckchzh/sshkey"
+}

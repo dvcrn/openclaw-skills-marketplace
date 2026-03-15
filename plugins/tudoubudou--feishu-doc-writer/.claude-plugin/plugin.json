@@ -1,0 +1,10 @@
+{
+  "name": "tudoubudou--feishu-doc-writer",
+  "description": "飞书文档写入工具。用于解决飞书文档创建后内容为空的问题。正确流程：先用 create 创建文档（只有标题），再用 append 追加内容。支持 Markdown 格式自动转换。",
+  "version": "1.0.0",
+  "author": {
+    "name": "tudoubudou"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tudoubudou/feishu-doc-writer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tudoubudou/feishu-doc-writer"
+}

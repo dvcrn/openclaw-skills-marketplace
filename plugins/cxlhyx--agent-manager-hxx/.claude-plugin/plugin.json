@@ -1,0 +1,10 @@
+{
+  "name": "cxlhyx--agent-manager-hxx",
+  "description": "管理 OpenClaw 系统中的 Agent 生命周期，包括 Agent 配置、Matrix 账号注册、账号绑定等操作。",
+  "version": "1.0.0",
+  "author": {
+    "name": "cxlhyx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cxlhyx/agent-manager-hxx",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cxlhyx/agent-manager-hxx"
+}

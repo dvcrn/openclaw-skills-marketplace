@@ -1,0 +1,10 @@
+{
+  "name": "yhy0--go-vuln-crypto-tls",
+  "description": "Use when auditing Go code involving TLS configuration, certificate validation, JWT token parsing, SAML assertion verification, webhook signature checking, or cryptographic operations. Covers CWE-295/347/345. Keywords: InsecureSkipVerify, TLS, mTLS, certificate validation, JWT algorithm, SAML signature, cosign, sigstore, hmac.Equal, X.509, webhook HMAC",
+  "version": "0.1.0",
+  "author": {
+    "name": "yhy0"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yhy0/go-vuln-crypto-tls",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yhy0/go-vuln-crypto-tls"
+}

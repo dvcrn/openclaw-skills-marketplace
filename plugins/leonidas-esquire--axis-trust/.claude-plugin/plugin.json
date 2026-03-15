@@ -1,0 +1,10 @@
+{
+  "name": "leonidas-esquire--axis-trust",
+  "description": "Check AI agent trust scores and credit ratings before interacting, delegating tasks, or transacting. Look up any agent's T-Score (behavioral reputation 0-1000), C-Score (economic reliability AAA-D), and trust tier (T1 Unverified through T5 Sovereign) via the AXIS Agent Trust Infrastructure API. Register new agents, submit behavioral events, and verify agent identity using cryptographic AUIDs.",
+  "version": "1.1.0",
+  "author": {
+    "name": "leonidas-esquire"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leonidas-esquire/axis-trust",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leonidas-esquire/axis-trust"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "chengzeyi--wavespeed-seedance-15-pro",
+  "description": "Generate videos using ByteDance's Seedance V1.5 Pro model via WaveSpeed AI. Supports text-to-video and image-to-video generation with 4-12 second duration at up to 1080p. Features audio generation, camera control, smart duration, and configurable seeds. Use when the user wants to create videos from text prompts or animate images.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chengzeyi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chengzeyi/wavespeed-seedance-15-pro",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chengzeyi/wavespeed-seedance-15-pro"
+}

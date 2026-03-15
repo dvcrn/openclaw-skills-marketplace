@@ -1,0 +1,10 @@
+{
+  "name": "rongself--agent-skills-tools",
+  "description": "Security audit and validation tools for the Agent Skills ecosystem. Scan skill packages for common vulnerabilities like credential leaks, unauthorized file access, and Git history secrets. Use when you need to audit skills for security before installation, validate skill packages against Agent Skills standards, or ensure your skills follow best practices.",
+  "version": "0.1.0",
+  "author": {
+    "name": "rongself"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rongself/agent-skills-tools",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rongself/agent-skills-tools"
+}

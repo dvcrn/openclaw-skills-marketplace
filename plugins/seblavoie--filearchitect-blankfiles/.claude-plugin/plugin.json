@@ -1,0 +1,10 @@
+{
+  "name": "seblavoie--filearchitect-blankfiles",
+  "description": "Use blankfiles.com as a binary test-file gateway: discover formats, filter by type/category, and return direct download URLs from the public API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "seblavoie"
+  },
+  "homepage": "https://blankfiles.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seblavoie/filearchitect-blankfiles"
+}

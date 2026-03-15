@@ -1,0 +1,10 @@
+{
+  "name": "smile-xuc--haibo-jina-reader",
+  "description": "Extract clean, readable markdown content from any URL using Jina Reader API. Use when you need to fetch and parse web pages without dealing with HTML, JavaScript rendering, or paywalls. Ideal for research, article summarization, content analysis, and working with search results from tavily-search, web_search, or searxng skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "smile-xuc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/smile-xuc/haibo-jina-reader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/smile-xuc/haibo-jina-reader"
+}

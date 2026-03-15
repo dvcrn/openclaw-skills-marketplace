@@ -1,0 +1,10 @@
+{
+  "name": "qrg-cloud--ai-pm-intel-brief",
+  "description": "Create a daily AI PM intelligence brief from Twitter/X or similar high-signal sources. Use when the user asks for an AI product manager news brief, signal brief, trend roundup, account digest, \"今天 AI 圈在聊什么\", \"整理成简报\", or wants recent posts from selected people/accounts summarized into: key signals, product insights, original excerpts, and links. Also use when turning raw social posts into a concise brief for product strategy, workflow design, agent products, growth, or market positioning.",
+  "version": "0.1.0",
+  "author": {
+    "name": "qrg-cloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qrg-cloud/ai-pm-intel-brief",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qrg-cloud/ai-pm-intel-brief"
+}

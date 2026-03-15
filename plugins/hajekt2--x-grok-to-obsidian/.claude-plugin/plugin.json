@@ -1,0 +1,10 @@
+{
+  "name": "hajekt2--x-grok-to-obsidian",
+  "description": "Export Grok conversations from X (x.com) via browser-network capture and convert them into Obsidian-ready Markdown files. Use when a user wants to back up Grok chat history, preserve User vs Grok turns, and generate Markdown notes with YAML frontmatter (URL, created) from captured JSON.",
+  "version": "0.1.0",
+  "author": {
+    "name": "hajekt2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hajekt2/x-grok-to-obsidian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hajekt2/x-grok-to-obsidian"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "rons4--signl4",
+  "description": "Send and close SIGNL4 alerts using the SIGNL4 inbound webhook (team secret in URL).",
+  "version": "1.0.0",
+  "author": {
+    "name": "rons4"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rons4/signl4",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rons4/signl4"
+}

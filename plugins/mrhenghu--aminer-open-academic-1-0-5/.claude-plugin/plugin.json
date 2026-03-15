@@ -1,0 +1,10 @@
+{
+  "name": "mrhenghu--aminer-open-academic-1-0-5",
+  "description": "使用 AMiner 开放平台 API 进行学术数据查询与分析。当用户需要查询学者信息、论文详情、机构数据、期刊内容或专利信息时使用此 skill。 触发场景：提到 AMiner、学术数据查询、查论文/学者/机构/期刊/专利、学术问答搜索、引用分析、科研机构分析、学者画像、论文引用链、期刊投稿分析等。 支持 6 大组合工作流（学者全景分析、论文深度挖掘、机构研究力分析、期刊论文监控、学术智能问答、专利链分析）以及 28 个独立 API 的直接调用。 即使用户只说\"帮我查一下 XXX 学者\"或\"找找关于 XXX 的论文\"，也应主动使用此 skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrhenghu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrhenghu/aminer-open-academic-1-0-5",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrhenghu/aminer-open-academic-1-0-5"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dru-ca--abm-outbound",
+  "description": "Multi-channel ABM automation that turns LinkedIn URLs into coordinated outbound campaigns. Scrapes profiles, enriches with Apollo (email + phone), gets mailing addresses via Skip Trace, then orchestrates email sequences, LinkedIn touches, and handwritten letters via Scribeless. The secret weapon for standing out in crowded inboxes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dru-ca"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dru-ca/abm-outbound",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dru-ca/abm-outbound"
+}

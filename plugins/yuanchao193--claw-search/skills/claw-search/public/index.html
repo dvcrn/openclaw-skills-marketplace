@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Claw Search - 免费 AI 搜索 API</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    :root {
+      --primary: #FF6B35;
+      --primary-dark: #E55A2B;
+      --bg: #0D0D0D;
+      --bg-secondary: #1A1A1A;
+      --text: #FFFFFF;
+      --text-secondary: #A0A0A0;
+      --border: #2A2A2A;
+    }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+    
+    /* Header */
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px 40px;
+      border-bottom: 1px solid var(--border);
+    }
+    
+    .logo {
+      font-size: 24px;
+      font-weight: 700;
+      color: var(--primary);
+    }
+    
+    .logo span {
+      color: var(--text);
+    }
+    
+    nav a {
+      color: var(--text-secondary);
+      text-decoration: none;
+      margin-left: 30px;
+      font-size: 14px;
+      transition: color 0.3s;
+    }
+    
+    nav a:hover {
+      color: var(--text);
+    }
+    
+    /* Hero */
+    .hero {
+      text-align: center;
+      padding: 100px 20px 60px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    
+    .hero h1 {
+      font-size: 56px;
+      font-weight: 800;
+      margin-bottom: 20px;
+      line-height: 1.1;
+    }
+    
+    .hero h1 .highlight {
+      color: var(--primary);
+    }
+    
+    .hero p {
+      font-size: 20px;
+      color: var(--text-secondary);
+      margin-bottom: 40px;
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    
+    /* Search Box */
+    .search-box {
+      display: flex;
+      max-width: 700px;
+      margin: 0 auto 40px;
+      background: var(--bg-secondary);
+      border-radius: 50px;
+      padding: 8px;
+      border: 1px solid var(--border);
+    }
+    
+    .search-box input {
+      flex: 1;
+      background: transparent;
+      border: none;
+      padding: 15px 25px;
+      font-size: 18px;
+      color: var(--text);
+      outline: none;
+    }
+    
+    .search-box button {
+      background: var(--primary);
+      border: none;
+      padding: 15px 35px;
+      border-radius: 40px;
+      font-size: 16px;
+      font-weight: 600;
+      color: white;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+    
+    .search-box button:hover {
+      background: var(--primary-dark);
+    }
+    
+    /* API Demo */
+    .api-demo {
+      background: var(--bg-secondary);
+      border-radius: 12px;
+      padding: 30px;
+      text-align: left;
+      max-width: 700px;
+      margin: 0 auto;
+      border: 1px solid var(--border);
+    }
+    
+    .api-demo h3 {
+      font-size: 14px;
+      color: var(--text-secondary);
+      margin-bottom: 15px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    
+    .api-demo pre {
+      background: #000;
+      padding: 20px;
+      border-radius: 8px;
+      overflow-x: auto;
+      font-size: 14px;
+      color: #A0A0A0;
+    }
+    
+    .api-demo .keyword {
+      color: var(--primary);
+    }
+    
+    .api-demo .string {
+      color: #98C379;
+    }
+    
+    /* Features */
+    .features {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 30px;
+      max-width: 1200px;
+      margin: 100px auto;
+      padding: 0 40px;
+    }
+    
+    .feature-card {
+      background: var(--bg-secondary);
+      border-radius: 16px;
+      padding: 40px 30px;
+      border: 1px solid var(--border);
+      transition: transform 0.3s, border-color 0.3s;
+    }
+    
+    .feature-card:hover {
+      transform: translateY(-5px);
+      border-color: var(--primary);
+    }
+    
+    .feature-icon {
+      font-size: 40px;
+      margin-bottom: 20px;
+    }
+    
+    .feature-card h3 {
+      font-size: 20px;
+      margin-bottom: 15px;
+    }
+    
+    .feature-card p {
+      color: var(--text-secondary);
+      font-size: 15px;
+    }
+    
+    /* Code Section */
+    .code-section {
+      background: var(--bg-secondary);
+      padding: 80px 40px;
+      text-align: center;
+    }
+    
+    .code-section h2 {
+      font-size: 36px;
+      margin-bottom: 20px;
+    }
+    
+    .code-section p {
+      color: var(--text-secondary);
+      margin-bottom: 40px;
+    }
+    
+    .code-blocks {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+      gap: 20px;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    
+    .code-block {
+      background: #000;
+      border-radius: 12px;
+      padding: 25px;
+      text-align: left;
+    }
+    
+    .code-block h4 {
+      font-size: 14px;
+      color: var(--text-secondary);
+      margin-bottom: 15px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    
+    .code-block pre {
+      font-size: 14px;
+      color: #E0E0E0;
+      white-space: pre-wrap;
+    }
+    
+    /* Footer */
+    footer {
+      text-align: center;
+      padding: 60px 20px;
+      border-top: 1px solid var(--border);
+      color: var(--text-secondary);
+    }
+    
+    footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    
+    /* Responsive */
+    @media (max-width: 768px) {
+      .hero h1 {
+        font-size: 36px;
+      }
+      
+      .features {
+        padding: 0 20px;
+      }
+      
+      .code-blocks {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">Claw<span>Search</span></div>
+    <nav>
+      <a href="#features">功能</a>
+      <a href="#docs">文档</a>
+      <a href="#pricing">免费</a>
+      <a href="https://github.com">GitHub</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>让 AI Agents 拥有<br>免费搜索能力<span class="highlight">🦔</span></h1>
+    <p>类似 Brave Search 的 Web Search API，专为 AI Agents 设计。无需 API Key，完全免费。</p>
+    
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="搜索anything..." />
+      <button onclick="doSearch()">搜索</button>
+    </div>
+    
+    <div class="api-demo">
+      <h3>cURL 示例</h3>
+      <pre><span class="keyword">curl</span> -X POST https://api.claw-search.com/api/search \
+  -H <span class="string">"Content-Type: application/json"</span> \
+  -d '<span class="string">{"query": "openclaw ai agent", "count": 10}</span>'</pre>
+    </div>
+  </section>
+
+  <section class="features" id="features">
+    <div class="feature-card">
+      <div class="feature-icon">🔑</div>
+      <h3>无需 API Key</h3>
+      <p>完全免费使用，无需申请 API Key。让你的 AI Agents 立即拥有搜索能力。</p>
+    </div>
+    
+    <div class="feature-card">
+      <div class="feature-icon">🌐</div>
+      <h3>通用兼容</h3>
+      <p>兼容 OpenClaw、Claude Code、LangChain 等各种 Agent 框架。</p>
+    </div>
+    
+    <div class="feature-card">
+      <div class="feature-icon">🚀</div>
+      <h3>快速响应</h3>
+      <p>优化的搜索体验，低延迟返回结果。支持分页和多种筛选条件。</p>
+    </div>
+    
+    <div class="feature-card">
+      <div class="feature-icon">🐳</div>
+      <h3>一键部署</h3>
+      <p>支持 Docker 一键部署到任意服务器。开源免费，可自托管。</p>
+    </div>
+    
+    <div class="feature-card">
+      <div class="feature-icon">📡</div>
+      <h3>RESTful API</h3>
+      <p>标准 REST API 设计，兼容 Brave Search 格式，学习成本为零。</p>
+    </div>
+    
+    <div class="feature-card">
+      <div class="feature-icon">🔒</div>
+      <h3>隐私优先</h3>
+      <p>不追踪用户数据。可自行部署，完全掌控你的搜索数据。</p>
+    </div>
+  </section>
+
+  <section class="code-section" id="docs">
+    <h2>简单易用</h2>
+    <p>几行代码即可集成到你的 AI 应用中</p>
+    
+    <div class="code-blocks">
+      <div class="code-block">
+        <h4>JavaScript</h4>
+        <pre>const response = await fetch('https://api.claw-search.com/api/search', {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/json' },
+  body: JSON.stringify({
+    query: 'openclaw ai agent',
+    count: 10
+  })
+});
+const data = await response.json();</pre>
+      </div>
+      
+      <div class="code-block">
+        <h4>Python</h4>
+        <pre>import requests
+
+response = requests.post(
+    'https://api.claw-search.com/api/search',
+    json={
+        'query': 'openclaw ai agent',
+        'count': 10
+    }
+)
+data = response.json()</pre>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2026 Claw Search. 开源免费，可自托管。</p>
+    <p style="margin-top: 10px;">
+      <a href="https://github.com">GitHub</a> · 
+      <a href="#">文档</a> · 
+      <a href="#">关于</a>
+    </p>
+  </footer>
+
+  <script>
+    function doSearch() {
+      const query = document.getElementById('searchInput').value;
+      if (query) {
+        window.open('https://github.com/search?q=' + encodeURIComponent(query), '_blank');
+      }
+    }
+    
+    document.getElementById('searchInput').addEventListener('keypress', function(e) {
+      if (e.key === 'Enter') {
+        doSearch();
+      }
+    });
+  </script>
+</body>
+</html>

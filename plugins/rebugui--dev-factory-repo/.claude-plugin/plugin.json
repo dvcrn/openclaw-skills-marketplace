@@ -1,0 +1,10 @@
+{
+  "name": "rebugui--dev-factory-repo",
+  "description": "Automated software development agent using ChatDev 2.0 and GLM-5. Discovers topics from GitHub Trending, CVE databases, and security news → generates code with 7-agent ChatDev team → tests automatically → publishes to GitHub. Self-correction loop (error → fix → retry, max 3 times). Use when you want to automate development, create security tools, or generate DevOps utilities. Triggers: \"자동 개발\", \"도구 생성\", \"builder agent\", \"chatdev\".",
+  "version": "1.1.1",
+  "author": {
+    "name": "rebugui"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rebugui/dev-factory-repo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rebugui/dev-factory-repo"
+}

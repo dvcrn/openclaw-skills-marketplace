@@ -1,0 +1,10 @@
+{
+  "name": "xexojay--maliang-image",
+  "description": "Generate images from text prompts or edit existing images with AI. Powered by Google Gemini via Maliang API. Free $6 credit on first use (~10 images). Supports text-to-image and multi-image inpainting editing.",
+  "version": "1.1.1",
+  "author": {
+    "name": "xexojay"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xexojay/maliang-image",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xexojay/maliang-image"
+}

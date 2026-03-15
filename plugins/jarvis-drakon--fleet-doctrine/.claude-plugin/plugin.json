@@ -1,0 +1,10 @@
+{
+  "name": "jarvis-drakon--fleet-doctrine",
+  "description": "Model routing strategy for multi-model AI fleet. Use when spawning sub-agents, choosing models for cron jobs, delegating coding tasks, or deciding which model should handle a task. Covers Opus, Codex, Sonnet, Gemini, and Grok routing rules.",
+  "version": "1.1.0",
+  "author": {
+    "name": "jarvis-drakon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jarvis-drakon/fleet-doctrine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jarvis-drakon/fleet-doctrine"
+}

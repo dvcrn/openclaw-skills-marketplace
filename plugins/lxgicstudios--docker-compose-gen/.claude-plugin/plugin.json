@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--docker-compose-gen",
+  "description": "Generate docker-compose.yml by scanning your project. Use when containerizing an existing app.",
+  "version": "1.0.1",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/docker-compose-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/docker-compose-gen"
+}

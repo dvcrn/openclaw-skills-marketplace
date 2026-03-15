@@ -1,0 +1,10 @@
+{
+  "name": "oswalpalash--causal-inference",
+  "description": "Add causal reasoning to agent actions. Trigger on ANY high-level action with observable outcomes - emails, messages, calendar changes, file operations, API calls, notifications, reminders, purchases, deployments. Use for planning interventions, debugging failures, predicting outcomes, backfilling historical data for analysis, or answering \"what happens if I do X?\" Also trigger when reviewing past actions to understand what worked/failed and why.",
+  "version": "0.2.0",
+  "author": {
+    "name": "oswalpalash"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oswalpalash/causal-inference",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oswalpalash/causal-inference"
+}

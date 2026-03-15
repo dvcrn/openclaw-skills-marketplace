@@ -1,0 +1,10 @@
+{
+  "name": "delorenj--unfuck-my-git-state",
+  "description": "Diagnose and recover broken Git state and worktree metadata with a staged, low-risk recovery flow. Use when Git reports detached or contradictory HEAD state, phantom worktree locks, orphaned worktree entries, missing refs, 0000000000000000000000000000000000000000 hashes, or branch operations fail with errors like already checked out, unknown revision, not a valid object name, or cannot lock ref.",
+  "version": "0.2.1",
+  "author": {
+    "name": "delorenj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/delorenj/unfuck-my-git-state",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/delorenj/unfuck-my-git-state"
+}

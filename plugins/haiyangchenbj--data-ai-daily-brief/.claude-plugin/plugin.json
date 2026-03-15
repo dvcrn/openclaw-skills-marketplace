@@ -1,0 +1,10 @@
+{
+  "name": "haiyangchenbj--data-ai-daily-brief",
+  "description": "AI-powered industry intelligence daily brief generator. This skill automatically searches,\n filters, writes, and delivers structured daily briefings for any industry.\n Default configuration covers Data+AI (data platforms, lakehouse, streaming, governance, etc.),\n but can be customized for FinTech, HealthTech, Cybersecurity, DevTools, or any domain.\n Trigger keywords: daily brief, 日报, industry report, 行业日报, data+ai report, 数据平台日报,\n 全球日报, industry newsletter, intelligence brief, 情报简报.",
+  "version": "1.0.1",
+  "author": {
+    "name": "haiyangchenbj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/haiyangchenbj/data-ai-daily-brief",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/haiyangchenbj/data-ai-daily-brief"
+}

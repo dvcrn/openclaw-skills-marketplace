@@ -1,0 +1,10 @@
+{
+  "name": "dorukardahan--traktor",
+  "description": "Extract all assets and content from websites including images, SVGs, fonts,\n videos, and page structure. Parallel agents with thorough scraping coverage.\n Triggers: \"extract assets\", \"scrape website\", \"download site assets\",\n \"get all images from\", or \"/traktor url\". Supports multiple URLs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dorukardahan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dorukardahan/traktor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dorukardahan/traktor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "scikkk--video-narrator",
+  "description": "Generate SenseAudio TTS narration tracks for videos, including timestamped segments, style variants, and editor-ready voiceover exports. Use when users need voiceovers, video narration, timed commentary, or accessibility narration.",
+  "version": "1.0.1",
+  "author": {
+    "name": "scikkk"
+  },
+  "homepage": "https://senseaudio.cn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scikkk/video-narrator"
+}

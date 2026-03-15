@@ -1,0 +1,10 @@
+{
+  "name": "bowen31337--agent-access-control",
+  "description": "Tiered stranger access control for AI agents. Use when setting up contact permissions, handling unknown senders, managing approved contacts, or configuring stranger deflection on messaging platforms (WhatsApp, Telegram, Discord, Signal). Provides diplomatic deflection, owner approval flow, and multi-tier access (owner/trusted/chat-only/blocked).",
+  "version": "1.0.1",
+  "author": {
+    "name": "bowen31337"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/agent-access-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/agent-access-control"
+}

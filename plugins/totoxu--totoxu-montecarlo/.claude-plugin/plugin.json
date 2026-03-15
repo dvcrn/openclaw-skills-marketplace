@@ -1,0 +1,10 @@
+{
+  "name": "totoxu--totoxu-montecarlo",
+  "description": "Monte Carlo Crypto Trading Core. Simulates thousands of future price paths (Geometric Brownian Motion) to evaluate win probabilities, risk of ruin, and stop-loss impact for trading strategies.",
+  "version": "1.3.0",
+  "author": {
+    "name": "totoxu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/totoxu/totoxu-montecarlo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/totoxu/totoxu-montecarlo"
+}

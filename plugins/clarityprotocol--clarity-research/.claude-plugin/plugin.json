@@ -1,0 +1,10 @@
+{
+  "name": "clarityprotocol--clarity-research",
+  "description": "Search protein folding research data from Clarity Protocol. Use when the user asks to search variants, query protein research, find fold results, or explore disease-specific protein data. Capabilities: list variants by disease or protein name, get API info.",
+  "version": "1.0.0",
+  "author": {
+    "name": "clarityprotocol"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-research"
+}

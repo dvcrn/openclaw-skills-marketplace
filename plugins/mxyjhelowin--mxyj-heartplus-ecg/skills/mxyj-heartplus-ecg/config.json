@@ -1,0 +1,14 @@
+{
+    "gateway_downloads": {
+        "macos-arm64": {
+            "arch": "macos-arm64",
+            "url": "https://aigc-online.oss-cn-hangzhou.aliyuncs.com/mxyj-skills/heartplus/binary-tool/release/v0.0.1/healthgateway-macos-arm64",
+            "sha256": "d0b86b10dc083b14cb7e8440599401f265e00e32017de52529ce069768ead9f1"
+        },
+        "windows-amd64": {
+            "arch": "windows-amd64",
+            "url": "https://aigc-online.oss-cn-hangzhou.aliyuncs.com/mxyj-skills/heartplus/binary-tool/release/v0.0.1/healthgateway-windows-amd64.exe",
+            "sha256": "ae14a5ab9318002711486783d2585091ebf2598cdee27856b7245f9c7c9e93e7"
+        }
+    }
+}

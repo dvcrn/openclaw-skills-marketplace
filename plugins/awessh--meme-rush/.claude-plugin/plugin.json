@@ -1,0 +1,10 @@
+{
+  "name": "awessh--meme-rush",
+  "description": "Meme token fast-trading assistant with two core capabilities:\n 1. Meme Rush - Real-time meme token lists from launchpads (Pump.fun, Four.meme, etc.) across new, finalizing, and migrated stages\n 2. Topic Rush - AI-powered market hot topics with associated tokens ranked by net inflow\n Use this skill when users ask about new meme tokens, meme launches, bonding curve, migration status,\n pump.fun tokens, four.meme tokens, fast meme trading, market hot topics, or trending narratives.",
+  "version": "0.1.0",
+  "author": {
+    "name": "awessh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/awessh/meme-rush",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/awessh/meme-rush"
+}

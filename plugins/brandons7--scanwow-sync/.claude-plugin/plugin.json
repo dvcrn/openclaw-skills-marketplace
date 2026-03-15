@@ -1,0 +1,10 @@
+{
+  "name": "brandons7--scanwow-sync",
+  "description": "Sync your OpenClaw agent with the ScanWow iOS app. Start an HTTP webhook to receive high-quality OCR scans directly from your phone into your agent's workspace.",
+  "version": "1.0.0",
+  "author": {
+    "name": "brandons7"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brandons7/scanwow-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brandons7/scanwow-sync"
+}

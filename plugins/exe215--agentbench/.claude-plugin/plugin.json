@@ -1,0 +1,10 @@
+{
+  "name": "exe215--agentbench",
+  "description": "Benchmark your OpenClaw agent across 40 real-world tasks. Tests file creation, research, data analysis, multi-step workflows, memory, error handling, and tool efficiency. Not a coding benchmark — measures your agent setup and config.",
+  "version": "1.0.0",
+  "author": {
+    "name": "exe215"
+  },
+  "homepage": "https://www.agentbench.app",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/exe215/agentbench"
+}

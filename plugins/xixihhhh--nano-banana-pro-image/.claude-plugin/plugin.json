@@ -1,0 +1,10 @@
+{
+  "name": "xixihhhh--nano-banana-pro-image",
+  "description": "Generate and edit images using Google's Nano Banana Pro (Gemini 3 Pro Image / Imagen Pro) — the premium AI image generation model optimized for professional asset production with advanced reasoning ('Thinking'), high-fidelity text rendering, and complex multi-turn creation. Supports text-to-image and image editing with up to 6 reference images, resolutions up to 4K, and 14+ aspect ratios. Two provider modes: Atlas Cloud and Google AI Studio. Use this skill whenever the user wants to generate high-quality professional images, create AI art with precise text, edit photos with AI, produce marketing assets, infographics, menus, diagrams, or any visual content requiring detailed text rendering. Also trigger when users mention Nano Banana Pro, Gemini 3 Pro Image, Imagen Pro, or ask for premium/professional-grade AI image generation, concept art, product photography, or visual assets with complex compositions.",
+  "version": "1.0.2",
+  "author": {
+    "name": "xixihhhh"
+  },
+  "homepage": "https://github.com/AtlasCloudAI/nano-banana-2-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xixihhhh/nano-banana-pro-image"
+}

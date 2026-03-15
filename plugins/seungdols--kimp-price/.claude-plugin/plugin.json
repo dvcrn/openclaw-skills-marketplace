@@ -1,0 +1,10 @@
+{
+  "name": "seungdols--kimp-price",
+  "description": "Real-time Bitcoin Kimchi Premium calculator. Compares Bitcoin prices between a Korean exchange (Upbit, KRW) and a global exchange (Binance, USD) to calculate the premium percentage and price difference in KRW. Reflects live USD/KRW exchange rates and uses only Node.js built-in modules with zero dependencies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "seungdols"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seungdols/kimp-price",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seungdols/kimp-price"
+}

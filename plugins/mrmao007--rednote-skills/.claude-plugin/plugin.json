@@ -1,0 +1,10 @@
+{
+  "name": "mrmao007--rednote-skills",
+  "description": "Comprehensive tool for interacting with rednote (xiaohongshu,小红书) platform. This skill enables users to search for posts by keyword, extract content from specific notes in markdown format, and perform interaction actions like liking, commenting, collecting, following, and publishing. Use this when users need to engage with content from xiaohongshu.com.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrmao007"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrmao007/rednote-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrmao007/rednote-skills"
+}

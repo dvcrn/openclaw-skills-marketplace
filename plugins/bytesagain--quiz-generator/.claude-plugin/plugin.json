@@ -1,0 +1,10 @@
+{
+  "name": "bytesagain--quiz-generator",
+  "description": "考试题目生成器。选择题/填空题/简答题生成、模拟考试、答案解析、难度分级、格式化输出、题库管理。Quiz generator with multiple choice, fill-in-blank, short answer, mock exams, explanations, difficulty levels. Use when you need quiz generator capabilities. Triggers on: quiz generator.",
+  "version": "2.3.0",
+  "author": {
+    "name": "bytesagain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bytesagain/quiz-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bytesagain/quiz-generator"
+}

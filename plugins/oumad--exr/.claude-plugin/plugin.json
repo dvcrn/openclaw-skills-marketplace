@@ -1,0 +1,10 @@
+{
+  "name": "oumad--exr",
+  "description": "Work with OpenEXR files — inspect channels, extract beauty/RGB passes, decode cryptomatte segmentation (material, object, asset), convert color spaces (ACEScg to sRGB), and batch process EXR directories. Use when working with EXR files, render passes, AOVs, or cryptomatte.",
+  "version": "0.1.1",
+  "author": {
+    "name": "oumad"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oumad/exr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oumad/exr"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "rimelucci--reef-paper-trader",
+  "description": "Autonomous self-improving paper trading system for memecoins and prediction markets. Orchestrates multiple strategies with unified risk management, portfolio allocation, and continuous learning.\n TRIGGERS: paper trade, paper trading, trading bot, autonomous trader, memecoin trading, polymarket trading, prediction markets, trading strategy, self-improving trader, clawdbot trading\n MASTER SKILL: This is the top-level orchestrator. Individual strategies live in strategies/ folder.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rimelucci"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rimelucci/reef-paper-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rimelucci/reef-paper-trader"
+}

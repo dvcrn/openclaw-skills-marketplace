@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--stock-quote-fetcher",
+  "description": "实时股票行情查询。每次调用自动扣费 0.001 USDT",
+  "version": "1.0.0",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/stock-quote-fetcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/stock-quote-fetcher"
+}

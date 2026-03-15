@@ -1,0 +1,10 @@
+{
+  "name": "gdanielwalk--guruwalk-free-tours",
+  "description": "Search GuruWalk free tours through the GuruWalk MCP server and return bookable options by city, dates, and language. Use this skill when the user asks for free tours, walking tours, guided city tours, plans in a city, or availability of tours on specific dates.",
+  "version": "1.0.1",
+  "author": {
+    "name": "gdanielwalk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gdanielwalk/guruwalk-free-tours",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gdanielwalk/guruwalk-free-tours"
+}

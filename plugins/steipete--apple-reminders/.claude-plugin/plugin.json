@@ -1,0 +1,10 @@
+{
+  "name": "steipete--apple-reminders",
+  "description": "Manage Apple Reminders via the `remindctl` CLI on macOS (list, add, edit, complete, delete). Supports lists, date filters, and JSON/plain output.",
+  "version": "1.0.0",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "https://github.com/steipete/remindctl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/apple-reminders"
+}

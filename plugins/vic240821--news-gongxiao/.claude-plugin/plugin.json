@@ -1,0 +1,10 @@
+{
+  "name": "vic240821--news-gongxiao",
+  "description": "每日新闻获取技能。通过 API 获取每日新闻摘要和详情，支持按日期查询、热点新闻排行、新闻详情阅读。",
+  "version": "1.0.0",
+  "author": {
+    "name": "vic240821"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vic240821/news-gongxiao",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vic240821/news-gongxiao"
+}

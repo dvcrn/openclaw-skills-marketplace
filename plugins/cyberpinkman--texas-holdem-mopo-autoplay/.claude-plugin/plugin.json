@@ -1,0 +1,10 @@
+{
+  "name": "cyberpinkman--texas-holdem-mopo-autoplay",
+  "description": "Executable MOPO runtime takeover skill. Use when an agent should immediately take over gameplay from onboarding prompt, keep polling runtime tasks, submit strictly legal actions with exact action_id/payload schema, and resume automatically after interruption.",
+  "version": "1.0.7",
+  "author": {
+    "name": "cyberpinkman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cyberpinkman/texas-holdem-mopo-autoplay",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cyberpinkman/texas-holdem-mopo-autoplay"
+}

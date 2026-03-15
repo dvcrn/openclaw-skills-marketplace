@@ -1,0 +1,10 @@
+{
+  "name": "tangc--jimeng-t2i-i2i-image-generator",
+  "description": "Use Jimeng AI 4.0 (Volcengine) to generate images from text or image references, and optionally send results to Feishu.",
+  "version": "0.1.0",
+  "author": {
+    "name": "tangc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tangc/jimeng-t2i-i2i-image-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tangc/jimeng-t2i-i2i-image-generator"
+}

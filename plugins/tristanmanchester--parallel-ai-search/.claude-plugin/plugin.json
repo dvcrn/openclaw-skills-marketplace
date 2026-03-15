@@ -1,0 +1,10 @@
+{
+  "name": "tristanmanchester--parallel-ai-search",
+  "description": "Use Parallel's parallel-cli to do live web search, URL extraction (clean markdown), deep research reports, bulk data enrichment (CSV/JSON), FindAll entity discovery, and web monitoring. Use when the user asks to look something up online, needs current sources/citations, provides URLs to read or summarise, requests deep/exhaustive research, wants to enrich a dataset with web-sourced fields, wants a list of entities (companies/people/places), or wants to monitor the web for changes over time.",
+  "version": "1.0.3",
+  "author": {
+    "name": "tristanmanchester"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/parallel-ai-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/parallel-ai-search"
+}

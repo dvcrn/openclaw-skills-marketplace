@@ -1,0 +1,10 @@
+{
+  "name": "jdrhyne--context-recovery",
+  "description": "Automatically recover working context after session compaction or when continuation is implied but context is missing. Works across Discord, Slack, Telegram, Signal, and other supported channels.",
+  "version": "1.2.2",
+  "author": {
+    "name": "jdrhyne"
+  },
+  "homepage": "https://github.com/PSPDFKit-labs/agent-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jdrhyne/context-recovery"
+}

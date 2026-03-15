@@ -1,0 +1,10 @@
+{
+  "name": "lstpsche--briefing",
+  "description": "Daily briefing: gathers calendar (gcalcli-calendar), active todos (todo-management), and weather (openmeteo-sh-weather-simple) into a concise summary.",
+  "version": "2.1.0",
+  "author": {
+    "name": "lstpsche"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lstpsche/briefing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lstpsche/briefing"
+}

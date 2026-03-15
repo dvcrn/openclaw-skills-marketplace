@@ -1,0 +1,10 @@
+{
+  "name": "mrbeandev--file-links-tool",
+  "description": "Use this skill whenever an AI agent needs to share files, export results, upload outputs, or send data to its owner. Securely uploads files from the agent's private workspace to a hosted server and returns a direct download/preview URL. Use whenever the user says things like 'upload this file', 'share this with me', 'give me a link', 'send me the output', 'export results', or whenever the agent generates a file the user needs to access.",
+  "version": "3.0.2",
+  "author": {
+    "name": "mrbeandev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrbeandev/file-links-tool",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrbeandev/file-links-tool"
+}

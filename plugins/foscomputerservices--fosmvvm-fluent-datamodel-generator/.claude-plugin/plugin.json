@@ -1,0 +1,10 @@
+{
+  "name": "foscomputerservices--fosmvvm-fluent-datamodel-generator",
+  "description": "Generate Fluent DataModels for FOSMVVM server-side persistence. Scaffolds models, migrations, and tests for database-backed entities.",
+  "version": "2.0.6",
+  "author": {
+    "name": "foscomputerservices"
+  },
+  "homepage": "https://github.com/foscomputerservices/FOSUtilities",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/foscomputerservices/fosmvvm-fluent-datamodel-generator"
+}

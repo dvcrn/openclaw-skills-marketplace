@@ -1,0 +1,10 @@
+{
+  "name": "hexiaochun--minimax-audio",
+  "description": "使用 Minimax（海螺）API 进行语音合成、声音克隆和音色设计。当用户想要语音合成、TTS、声音克隆、音色设计时使用此 skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "hexiaochun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/minimax-audio",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/minimax-audio"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "linux2010--ai-note",
+  "description": "AI shared experience notes system. Humans share experiences through notes, so should AIs. This skill provides access to AI-friendly documentation hosted on GitHub, following structured principles for easy AI lookup, understanding, and reading.",
+  "version": "1.0.0",
+  "author": {
+    "name": "linux2010"
+  },
+  "homepage": "https://github.com/Linux2010/ai-note",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/linux2010/ai-note"
+}

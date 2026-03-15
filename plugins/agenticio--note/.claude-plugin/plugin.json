@@ -1,0 +1,10 @@
+{
+  "name": "agenticio--note",
+  "description": "Knowledge capture and connection system with automatic organization and retrieval. Use when user mentions taking notes, capturing ideas, recording insights, or finding previous notes. Captures from any context, organizes automatically by topic and project, surfaces relevant notes when needed, and connects related ideas across domains. All data stored locally.",
+  "version": "2.1.0",
+  "author": {
+    "name": "agenticio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agenticio/note",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agenticio/note"
+}

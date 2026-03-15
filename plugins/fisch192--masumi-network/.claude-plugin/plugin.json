@@ -1,0 +1,10 @@
+{
+  "name": "fisch192--masumi-network",
+  "description": "Masumi Network skill for warranty vault verification. Handles OCR receipt scanning, Cardano blockchain proof-of-purchase logging, immutable decision logging, agent collaboration discovery, and smart wallet payments. Use for warranty claims, product verification, agent-to-agent service payments, or immutable audit trails on Cardano.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fisch192"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fisch192/masumi-network",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fisch192/masumi-network"
+}

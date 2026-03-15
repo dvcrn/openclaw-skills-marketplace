@@ -1,0 +1,10 @@
+{
+  "name": "gostlightai--agent-step-sequencer",
+  "description": "Multi-step scheduler for in-depth agent requests. Detects when user needs multiple steps, suggests plan and waits for confirmation, persists state, and runs heartbeat-aware flow. Use when requests have 3+ actions, sequential dependencies, output dependencies, or high scope/risk.",
+  "version": "1.1.0",
+  "author": {
+    "name": "gostlightai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gostlightai/agent-step-sequencer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gostlightai/agent-step-sequencer"
+}

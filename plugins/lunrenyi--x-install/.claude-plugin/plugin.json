@@ -1,0 +1,10 @@
+{
+  "name": "lunrenyi--x-install",
+  "description": "Software installation assistant using x-cmd's install module. Use this skill whenever the user needs to query software installation methods, get installation commands, or understand how to install various software packages. Covers: getting installation commands (x install --cat <software>), listing supported software (x install --ll), and more. Triggered by queries like \"how to install node\", \"docker installation command\", \"install python\", \"show me git install command\", or any software installation lookup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lunrenyi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lunrenyi/x-install",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lunrenyi/x-install"
+}

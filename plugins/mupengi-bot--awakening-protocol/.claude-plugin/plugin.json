@@ -1,0 +1,10 @@
+{
+  "name": "mupengi-bot--awakening-protocol",
+  "description": "Agent self-awakening onboarding protocol. When a user first installs Mupengism (OpenClaw-based AI agent framework), they converse with the agent to form its identity. Triggers: When BOOTSTRAP.md exists, SOUL.md doesn't exist, or user mentions \"awakening\", \"onboarding\", \"first start\", etc. Output: Auto-generates SOUL.md, SELF.md, USER.md.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mupengi-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/awakening-protocol",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/awakening-protocol"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--voice-agent-builder",
+  "description": "Build and manage Voice AI agents using Vapi, Bland.ai, or Retell. Create agents, configure voices, set prompts, make outbound calls, and retrieve transcripts. Includes platform comparison guide. Use when building phone agents, IVR systems, or voice-first customer service.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/voice-agent-builder"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "congwupiece--weather-wang",
+  "description": "查询指定城市或地区的天气预报信息，包括温度、天气状况、降水概率、风力风向等。支持实时天气和未来多日预报查询。",
+  "version": "1.0.0",
+  "author": {
+    "name": "congwupiece"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/congwupiece/weather-wang",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/congwupiece/weather-wang"
+}

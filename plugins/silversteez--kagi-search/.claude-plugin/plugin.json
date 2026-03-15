@@ -1,0 +1,10 @@
+{
+  "name": "silversteez--kagi-search",
+  "description": "Web search using Kagi Search API. Use when you need to search the web for current information, facts, or references. Requires KAGI_API_KEY in the environment.",
+  "version": "1.2.0",
+  "author": {
+    "name": "silversteez"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/silversteez/kagi-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/silversteez/kagi-search"
+}

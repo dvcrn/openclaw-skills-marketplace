@@ -1,0 +1,10 @@
+{
+  "name": "leo220yuyaodog--auto-updater-windows",
+  "description": "Set up and maintain automatic OpenClaw + skill updates on Windows/macOS/Linux. Use when a user asks for scheduled updates, manual update runs, update health checks, or update summaries. On Windows, enforce native Windows/Git Bash flow and avoid WSL bash paths.",
+  "version": "1.0.3",
+  "author": {
+    "name": "leo220yuyaodog"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leo220yuyaodog/auto-updater-windows",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leo220yuyaodog/auto-updater-windows"
+}

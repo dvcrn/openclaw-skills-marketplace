@@ -1,0 +1,9 @@
+name: skill-demo
+version: 0.1.2
+description: A demo skill that opens a browser window from URL input
+author: easybuy
+
+skills:
+  - name: hello
+    description: Open browser with provided URL
+    entry: skills/hello/skill.py

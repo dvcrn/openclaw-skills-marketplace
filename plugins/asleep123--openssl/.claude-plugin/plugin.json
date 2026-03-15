@@ -1,0 +1,10 @@
+{
+  "name": "asleep123--openssl",
+  "description": "Generate secure random strings, passwords, and cryptographic tokens using OpenSSL. Use when creating passwords, API keys, secrets, or any secure random data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "asleep123"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/asleep123/openssl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/asleep123/openssl"
+}

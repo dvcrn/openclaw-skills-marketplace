@@ -1,0 +1,10 @@
+{
+  "name": "whoabuddy--aibtc-bitcoin-wallet",
+  "description": "Bitcoin L1 wallet for agents - check balances, send BTC, manage UTXOs. Extends to Stacks L2 (STX, DeFi) and Pillar smart wallets (sBTC yield).",
+  "version": "1.26.0",
+  "author": {
+    "name": "whoabuddy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/whoabuddy/aibtc-bitcoin-wallet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/whoabuddy/aibtc-bitcoin-wallet"
+}

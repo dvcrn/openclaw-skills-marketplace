@@ -1,0 +1,10 @@
+{
+  "name": "luv005--renderful-ai",
+  "description": "Generate images and videos via renderful.ai API (FLUX, Kling, Sora, WAN, etc.) with crypto payments.\n Use when the user wants to create AI images, videos, or needs a crypto-friendly generation service.\n Triggers: renderful, renderful.ai, generate image, generate video, crypto payment generation",
+  "version": "1.0.0",
+  "author": {
+    "name": "luv005"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luv005/renderful-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luv005/renderful-ai"
+}

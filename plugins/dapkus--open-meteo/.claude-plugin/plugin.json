@@ -1,0 +1,10 @@
+{
+  "name": "dapkus--open-meteo",
+  "description": "Get weather forecasts via Open-Meteo API (free, no API key). Use when: user asks about weather, temperature, rain probability, UV index, wind, or forecasts for any location. Provides current conditions, hourly forecasts, and 7-day daily forecasts with precipitation probability, feels-like temp, UV index, sunrise/sunset. Also generates Weather Strip SVG widget for the daily digest. Default weather skill — replaces wttr.in.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dapkus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dapkus/open-meteo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dapkus/open-meteo"
+}

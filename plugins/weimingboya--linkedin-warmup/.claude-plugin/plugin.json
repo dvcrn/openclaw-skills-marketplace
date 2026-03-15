@@ -1,0 +1,10 @@
+{
+  "name": "weimingboya--linkedin-warmup",
+  "description": "LinkedIn 新号自动化养号与轻量加人获客（每日定时 10 分钟左右），通过 AdsPower 指纹浏览器 Local API 启动指定浏览器（可指定 CDP 端口），再用 OpenClaw browser 工具控制 profile=linkedin 的 Chrome 会话，在 My Network 到 More suggestions for you 的推荐区按“先看主页再返回再 Connect”的节奏发送 2-3 个连接邀请；遇到验证码/风控/限制提示立刻停止并通知。",
+  "version": "0.1.0",
+  "author": {
+    "name": "weimingboya"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/weimingboya/linkedin-warmup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/weimingboya/linkedin-warmup"
+}

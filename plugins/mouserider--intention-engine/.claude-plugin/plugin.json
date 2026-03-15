@@ -1,0 +1,10 @@
+{
+  "name": "mouserider--intention-engine",
+  "description": "Intent inference and alignment for persistent AI agents. Classifies gaps between tasks and intentions, checks for misalignment before executing, and prevents wasted work.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mouserider"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mouserider/intention-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mouserider/intention-engine"
+}

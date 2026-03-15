@@ -1,0 +1,10 @@
+{
+  "name": "parkertoddbrooks--wip-universal-installer",
+  "description": "Reference installer for agent-native software. Scans a repo, detects which interfaces it exposes, and installs them all.",
+  "version": "1.9.12",
+  "author": {
+    "name": "parkertoddbrooks"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/parkertoddbrooks/wip-universal-installer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/parkertoddbrooks/wip-universal-installer"
+}

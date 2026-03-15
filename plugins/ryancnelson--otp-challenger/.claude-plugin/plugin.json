@@ -1,0 +1,10 @@
+{
+  "name": "ryancnelson--otp-challenger",
+  "description": "Enable agents and skills to challenge users for fresh two-factor authentication proof (TOTP or YubiKey) before executing sensitive actions. Use this for identity verification in approval workflows - deploy commands, financial operations, data access, admin operations, and change control.",
+  "version": "1.0.6",
+  "author": {
+    "name": "ryancnelson"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ryancnelson/otp-challenger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ryancnelson/otp-challenger"
+}

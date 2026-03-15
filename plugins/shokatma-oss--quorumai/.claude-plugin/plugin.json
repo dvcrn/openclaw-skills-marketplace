@@ -1,0 +1,10 @@
+{
+  "name": "shokatma-oss--quorumai",
+  "description": "Run multi-model AI synthesis inquiries via QuorumAI. Four AI models (Claude, GPT, Gemini, Grok) compete to answer your question from specialized perspectives, get scored by an arbiter, and the best elements are synthesized into one ultimate answer.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shokatma-oss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shokatma-oss/quorumai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shokatma-oss/quorumai"
+}

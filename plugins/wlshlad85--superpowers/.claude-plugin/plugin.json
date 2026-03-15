@@ -1,0 +1,10 @@
+{
+  "name": "wlshlad85--superpowers",
+  "description": "Spec-first, TDD, subagent-driven software development workflow. Use when: (1) building any new feature or app — triggers brainstorm → plan → subagent execution loop, (2) debugging a bug or test failure — triggers systematic root-cause process, (3) user says \"let's build\", \"help me plan\", \"I want to add X\", or \"this is broken\", (4) completing a feature branch — triggers test verification + merge/PR options. NOT for: one-liner fixes (just edit), reading code, or non-code tasks. Requires exec tool and sessions_spawn.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wlshlad85"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wlshlad85/superpowers",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wlshlad85/superpowers"
+}

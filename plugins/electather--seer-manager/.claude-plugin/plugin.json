@@ -1,0 +1,10 @@
+{
+  "name": "electather--seer-manager",
+  "description": "CLI for the Seer media request management API. Search movies and TV shows, create and manage media requests, manage users, track issues, and administer a self-hosted Seer instance. Use when asked to find, request, or manage media content, check what is trending, look up actors or collections, manage users, or check system status.",
+  "version": "v0.2.5",
+  "author": {
+    "name": "electather"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/electather/seer-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/electather/seer-manager"
+}

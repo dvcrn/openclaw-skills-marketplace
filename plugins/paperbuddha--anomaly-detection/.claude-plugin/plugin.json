@@ -1,0 +1,10 @@
+{
+  "name": "paperbuddha--anomaly-detection",
+  "description": "A pre-filter that inspects raw data records to identify and flag structurally broken, logically impossible, or suspicious data points before further processing.",
+  "version": "1.0.1",
+  "author": {
+    "name": "paperbuddha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/paperbuddha/anomaly-detection",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paperbuddha/anomaly-detection"
+}

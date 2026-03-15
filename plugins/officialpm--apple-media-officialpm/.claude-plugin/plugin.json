@@ -1,0 +1,10 @@
+{
+  "name": "officialpm--apple-media-officialpm",
+  "description": "Discover and control Apple media/AirPlay devices (HomePod, Apple TV, AirPlay speakers) from macOS. Use when you want to scan for AirPlay devices, map names→IPs/IDs, pair/connect, and control playback/volume using pyatv (atvremote) and Airfoil.",
+  "version": "0.1.1",
+  "author": {
+    "name": "officialpm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/officialpm/apple-media-officialpm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/officialpm/apple-media-officialpm"
+}

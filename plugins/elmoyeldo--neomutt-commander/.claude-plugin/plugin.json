@@ -1,0 +1,10 @@
+{
+  "name": "elmoyeldo--neomutt-commander",
+  "description": "Read, search, organise, and draft emails using neomutt — a terminal IMAP client. List inbox, search, read HTML email via w3m, mark read/unread, manage folders, archive messages, and compose drafts. If sending is not enabled or approved, always save as draft instead.",
+  "version": "1.0.0",
+  "author": {
+    "name": "elmoyeldo"
+  },
+  "homepage": "https://github.com/LogicalSapien/agent-skills/tree/main/clawhub/neomutt-commander",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/elmoyeldo/neomutt-commander"
+}

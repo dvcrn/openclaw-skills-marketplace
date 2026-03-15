@@ -1,0 +1,10 @@
+{
+  "name": "twhidden--openclaw-skill-bitwarden",
+  "description": "Bitwarden & Vaultwarden password manager integration. Use when storing, retrieving, generating, or managing passwords and credentials. Wraps the Bitwarden CLI (bw) with automatic session management. Works with both official Bitwarden and self-hosted Vaultwarden servers.",
+  "version": "1.0.3",
+  "author": {
+    "name": "twhidden"
+  },
+  "homepage": "https://github.com/TWhidden/openclaw-skill-bitwarden",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/twhidden/openclaw-skill-bitwarden"
+}

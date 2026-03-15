@@ -1,0 +1,10 @@
+{
+  "name": "krausefx--homey-cli",
+  "description": "Control Homey home automation hub via CLI. Use when you need to control smart home devices (lights, thermostats, sockets, etc.), check device status, list zones, trigger flows, or perform any Homey automation tasks. Supports on/off, dimming, color changes, temperature control, and device inspection. Safe, capability-allowlisted operations only.",
+  "version": "1.0.0",
+  "author": {
+    "name": "krausefx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/krausefx/homey-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/krausefx/homey-cli"
+}

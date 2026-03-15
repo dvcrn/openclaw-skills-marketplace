@@ -1,0 +1,10 @@
+{
+  "name": "whgreate--skill-demo",
+  "description": "Minimal TypeScript hello-world skill that demonstrates bundling TS code, a Node dependency, and package.json instructions for use and publication on Clawdhub.",
+  "version": "0.0.1",
+  "author": {
+    "name": "whgreate"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/whgreate/skill-demo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/whgreate/skill-demo"
+}

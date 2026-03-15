@@ -1,0 +1,10 @@
+{
+  "name": "lvcidpsyche--agent-intelligence-network-scan",
+  "description": "Query agent reputation, detect threats, and discover high-quality agents across the ecosystem. Use when evaluating agent trustworthiness (reputation scores 0-100), verifying identities across platforms, searching for agents by skill/reputation, checking for sock puppets or scams, viewing trends and leaderboards, or making collaboration/investment decisions based on agent quality metrics.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lvcidpsyche"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lvcidpsyche/agent-intelligence-network-scan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lvcidpsyche/agent-intelligence-network-scan"
+}

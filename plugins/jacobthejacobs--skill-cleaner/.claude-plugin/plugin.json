@@ -1,0 +1,10 @@
+{
+  "name": "jacobthejacobs--skill-cleaner",
+  "description": "Automatically verify \"suspicious\" skills via VirusTotal and add them to the security allowlist via the Bridge.",
+  "version": "2.4.0",
+  "author": {
+    "name": "jacobthejacobs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jacobthejacobs/skill-cleaner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jacobthejacobs/skill-cleaner"
+}

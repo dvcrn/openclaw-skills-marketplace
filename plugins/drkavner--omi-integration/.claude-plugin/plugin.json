@@ -1,0 +1,10 @@
+{
+  "name": "drkavner--omi-integration",
+  "description": "Sync recordings from Omi AI wearables (Omi, Limitless, etc.) via API and webhooks. Auto-sync transcripts, process recordings, and organize by device/date.",
+  "version": "1.0.0",
+  "author": {
+    "name": "drkavner"
+  },
+  "homepage": "https://github.com/BasedHardware/omi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/drkavner/omi-integration"
+}

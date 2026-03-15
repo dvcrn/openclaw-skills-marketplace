@@ -1,0 +1,10 @@
+{
+  "name": "vectorsss--openreview-review-analyzer",
+  "description": "Fetch and analyze peer reviews from OpenReview for any academic paper. Use this skill when the user mentions OpenReview, asks about reviews for a paper, wants a review summary or synthesis, provides an openreview.net URL, mentions a paper forum ID, asks about reviewer opinions or scores for a conference submission (ICLR, NeurIPS, ICML, AAAI, etc.), or wants to understand what reviewers think about a specific paper. Also trigger when the user says things like 'what did reviewers say about this paper', 'summarize the reviews', 'get reviews for this submission', or 'analyze reviewer feedback'. Even if the user just pastes an OpenReview link, this skill should trigger.",
+  "version": "1.0.1",
+  "author": {
+    "name": "vectorsss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vectorsss/openreview-review-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vectorsss/openreview-review-analyzer"
+}

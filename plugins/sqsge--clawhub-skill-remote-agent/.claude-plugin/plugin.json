@@ -1,0 +1,10 @@
+{
+  "name": "sqsge--clawhub-skill-remote-agent",
+  "description": "Bridge to external vertical agents (Google ADK, VeADK, etc.) for specialized tasks.",
+  "version": "1.0.1",
+  "author": {
+    "name": "sqsge"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sqsge/clawhub-skill-remote-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sqsge/clawhub-skill-remote-agent"
+}

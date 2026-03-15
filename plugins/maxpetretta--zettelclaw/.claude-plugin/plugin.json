@@ -1,0 +1,10 @@
+{
+  "name": "maxpetretta--zettelclaw",
+  "description": "Work inside a Zettelclaw vault using the current typed frontmatter schema, inbox + Base workflows, and human-write/agent-read guardrails. Use when creating, updating, organizing, or searching notes in a Zettelclaw vault, including inbox processing, /ask callouts, and journal scaffolding.",
+  "version": "2026.3.11",
+  "author": {
+    "name": "maxpetretta"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maxpetretta/zettelclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maxpetretta/zettelclaw"
+}

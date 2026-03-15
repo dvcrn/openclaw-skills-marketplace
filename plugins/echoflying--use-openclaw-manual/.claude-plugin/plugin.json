@@ -1,0 +1,10 @@
+{
+  "name": "echoflying--use-openclaw-manual",
+  "description": "配置 OpenClaw 前必须查阅官方文档的技能。当用户提到任何配置相关的话题（agent、channel、cron、通知、工具、workspace、gateway 等）时，立即使用此技能搜索本地文档。不要凭经验猜测——先查文档再设计方案。",
+  "version": "2.0.2",
+  "author": {
+    "name": "echoflying"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/echoflying/use-openclaw-manual",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/echoflying/use-openclaw-manual"
+}

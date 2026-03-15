@@ -1,0 +1,10 @@
+{
+  "name": "kjaylee--subagent-dev",
+  "description": "Execute implementation plans using fresh subagents per task with two-stage review (spec compliance + code quality). Use when executing multi-task plans with independent work units. Enhances ralph-loop methodology.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kjaylee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kjaylee/subagent-dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kjaylee/subagent-dev"
+}

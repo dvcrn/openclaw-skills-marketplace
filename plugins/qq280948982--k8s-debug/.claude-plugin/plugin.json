@@ -1,0 +1,10 @@
+{
+  "name": "qq280948982--k8s-debug",
+  "description": "Diagnose and fix Kubernetes pods, CrashLoopBackOff, Pending, DNS, networking, storage, and rollout failures with kubectl.",
+  "version": "0.1.0",
+  "author": {
+    "name": "qq280948982"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qq280948982/k8s-debug",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qq280948982/k8s-debug"
+}

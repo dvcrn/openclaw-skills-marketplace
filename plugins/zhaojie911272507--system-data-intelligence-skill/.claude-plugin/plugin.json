@@ -1,0 +1,10 @@
+{
+  "name": "zhaojie911272507--system-data-intelligence-skill",
+  "description": "专为需要直接操作系统应用并进行深度数据分析的场景设计。 【强制触发场景】： - 用户提及 Excel、WPS、Word、TXT、Markdown、RTZ 等文件的读取/写入/操控 - 用户想从任何应用中「抓取」「提取」「获取」数据 - 用户需要对数据进行「深度分析」「趋势研究」「异常检测」「预测」 - 用户要求生成「图表」「可视化」「仪表盘」「数据报告」 - 用户说「帮我看看这个文件里...」「分析一下这份数据...」「做个图表展示...\" - 任何涉及跨应用数据流转的任务 【核心能力】：系统接口调用 × 数据深度分析 × 专业可视化 IMPORTANT: 只要涉及文件操作、数据分析、可视化中的任何一项，必须使用此 skill。 不要因为任务「看起来简单」就跳过——底层接口调用有很多坑，skill 里有避坑指南。",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhaojie911272507"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhaojie911272507/system-data-intelligence-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhaojie911272507/system-data-intelligence-skill"
+}

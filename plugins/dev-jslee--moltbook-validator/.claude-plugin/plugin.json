@@ -1,0 +1,10 @@
+{
+  "name": "dev-jslee--moltbook-validator",
+  "description": "Validate Moltbook API requests before sending. Checks required fields (content, title, submolt), warns about incorrect field names (text vs content), prevents failed posts and wasted cooldowns. Use before any POST to Moltbook API.",
+  "version": "1.0.0-alpha",
+  "author": {
+    "name": "dev-jslee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dev-jslee/moltbook-validator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dev-jslee/moltbook-validator"
+}

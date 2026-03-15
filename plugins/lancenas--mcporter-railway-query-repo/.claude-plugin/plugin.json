@@ -1,0 +1,10 @@
+{
+  "name": "lancenas--mcporter-railway-query-repo",
+  "description": "Query and book Chinese railway tickets via 12306 using mcporter CLI. Use when user wants to search for G/D/C train tickets, check train schedules, query seat availability, or plan rail travel between Chinese cities. Supports filtering by date, time range, train type, and sorting results.",
+  "version": "1.0.2",
+  "author": {
+    "name": "lancenas"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lancenas/mcporter-railway-query-repo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lancenas/mcporter-railway-query-repo"
+}

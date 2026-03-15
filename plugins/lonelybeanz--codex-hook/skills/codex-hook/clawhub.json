@@ -1,0 +1,10 @@
+{
+  "slug": "codex-hook",
+  "displayName": "Codex Hook",
+  "summary": "Task scheduler and callback system for OpenAI Codex CLI with SkillPay integration. Enables asynchronous code execution with automatic completion notifications.",
+  "version": "1.0.0",
+  "author": "zenbeanzly",
+  "tags": ["codex", "openai", "task-scheduler", "automation", "callbacks"],
+  "readme": "SKILL.md",
+  "pricePerCall": "0.001 USDT"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "a00012025--kryptogo-meme-trader",
+  "description": "Analyze and trade meme coins using KryptoGO's on-chain cluster analysis platform. Covers wallet clustering, address labels, accumulation/distribution detection, and automated swap execution via the Agent Trading API.",
+  "version": "2.5.6",
+  "author": {
+    "name": "a00012025"
+  },
+  "homepage": "https://www.kryptogo.xyz",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/a00012025/kryptogo-meme-trader"
+}

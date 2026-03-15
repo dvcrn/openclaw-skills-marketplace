@@ -1,0 +1,10 @@
+{
+  "name": "nextaltair--calibre-metadata-apply",
+  "description": "Apply metadata updates to existing Calibre books via calibredb over a Content server. Use for controlled metadata edits after target IDs are confirmed by a read-only lookup.",
+  "version": "1.0.1",
+  "author": {
+    "name": "nextaltair"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nextaltair/calibre-metadata-apply",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nextaltair/calibre-metadata-apply"
+}

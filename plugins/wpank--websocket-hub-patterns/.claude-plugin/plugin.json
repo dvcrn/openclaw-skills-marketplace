@@ -1,0 +1,10 @@
+{
+  "name": "wpank--websocket-hub-patterns",
+  "description": "Horizontally-scalable WebSocket hub pattern with lazy Redis subscriptions, connection registry, and graceful shutdown. Use when building real-time WebSocket servers that scale across multiple instances. Triggers on WebSocket hub, WebSocket scaling, connection registry, Redis WebSocket, real-time gateway, horizontal scaling.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/websocket-hub-patterns",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/websocket-hub-patterns"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "emsin44--polymarket-setup",
+  "description": "Set up automated trading on Polymarket. Covers wallet setup, token approvals, API authentication, market discovery, order placement, WebSocket feeds, and position management.",
+  "version": "1.0.6",
+  "author": {
+    "name": "emsin44"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/emsin44/polymarket-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/emsin44/polymarket-setup"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "nietzsche247--context-sentinel",
+  "description": "Monitors session context and automatically manages model switching based on a cascading protocol. Use as part of a heartbeat or cron job to maintain session health and optimize token usage.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nietzsche247"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nietzsche247/context-sentinel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nietzsche247/context-sentinel"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "datadrivenconstruction--auto-estimate-generator",
+  "description": "Automatically generate estimates from QTO data. Apply pricing rules to BIM quantities for cost estimates.",
+  "version": "2.1.0",
+  "author": {
+    "name": "datadrivenconstruction"
+  },
+  "homepage": "https://datadrivenconstruction.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/auto-estimate-generator"
+}

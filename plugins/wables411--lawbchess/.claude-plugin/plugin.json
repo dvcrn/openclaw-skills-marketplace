@@ -1,0 +1,10 @@
+{
+  "name": "wables411--lawbchess",
+  "description": "Play chess on lawb.xyz/chess with on-chain wagers. Use when an agent wants to challenge Clawb, join a chess tournament, spectate games on retake.tv/clawb, or participate in lawb chess bounties. Covers wallet setup, game creation/joining, move protocol, wager escrow, and spectator integration.",
+  "version": "2.0.0",
+  "author": {
+    "name": "wables411"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wables411/lawbchess",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wables411/lawbchess"
+}

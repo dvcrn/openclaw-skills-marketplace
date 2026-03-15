@@ -1,0 +1,10 @@
+{
+  "name": "menopeter--google-lyria-integration",
+  "description": "Generate 30-second instrumental music via Google Lyria (Vertex AI). Use when user requests music generation, specific styles/keys/instruments, or music iteration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "menopeter"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/menopeter/google-lyria-integration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/menopeter/google-lyria-integration"
+}

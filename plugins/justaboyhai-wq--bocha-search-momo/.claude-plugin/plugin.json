@@ -1,0 +1,10 @@
+{
+  "name": "justaboyhai-wq--bocha-search-momo",
+  "description": "博查 AI 搜索工具。调用 https://api.bocha.cn 进行网页搜索，返回带摘要的中文结果。不依赖 OpenClaw 内置 web_search。",
+  "version": "1.0.0",
+  "author": {
+    "name": "justaboyhai-wq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/justaboyhai-wq/bocha-search-momo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/justaboyhai-wq/bocha-search-momo"
+}

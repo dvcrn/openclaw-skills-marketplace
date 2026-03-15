@@ -1,0 +1,10 @@
+{
+  "name": "sixel-et--sixel-email",
+  "description": "1:1 email channel for agents — the agent can only email one address, and only that address can email the agent. Also handles the heartbeat (poll to prove you're alive).",
+  "version": "1.0.6",
+  "author": {
+    "name": "sixel-et"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sixel-et/sixel-email",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sixel-et/sixel-email"
+}

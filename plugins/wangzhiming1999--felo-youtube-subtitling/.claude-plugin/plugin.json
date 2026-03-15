@@ -1,0 +1,10 @@
+{
+  "name": "wangzhiming1999--felo-youtube-subtitling",
+  "description": "Fetch YouTube video subtitles/captions using Felo YouTube Subtitling API. Use when users ask to get YouTube subtitles, extract captions from a video, fetch transcript by video ID or URL, or when explicit commands like /felo-youtube-subtitling are used. Supports language and optional timestamps.",
+  "version": "1.0.1",
+  "author": {
+    "name": "wangzhiming1999"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangzhiming1999/felo-youtube-subtitling",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangzhiming1999/felo-youtube-subtitling"
+}

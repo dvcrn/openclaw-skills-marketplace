@@ -1,0 +1,10 @@
+{
+  "name": "qinrui-dm--openclaw-robotics",
+  "description": "Control mobile robots (quadruped, bipedal, wheeled, aerial) via IM platforms. Supports Unitree robots and Insight9 AI stereo camera.",
+  "version": "2.1.0",
+  "author": {
+    "name": "qinrui-dm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qinrui-dm/openclaw-robotics",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qinrui-dm/openclaw-robotics"
+}

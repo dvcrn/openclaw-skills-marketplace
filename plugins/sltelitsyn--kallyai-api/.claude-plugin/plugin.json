@@ -1,0 +1,10 @@
+{
+  "name": "sltelitsyn--kallyai-api",
+  "description": "KallyAI Executive Assistant — AI that handles phone calls (outbound + inbound), email, bookings, research, errands, multi-channel messaging, and phone number management on your behalf. Use when users want to: make/receive calls, manage inbound rules, handle voicemails, provision phone numbers, send email, book restaurants/hotels, search for services, manage calendar, check inbox/messages, handle bills, order food/rides, run errands, check credits/budget, coordinate goals, manage channels (WhatsApp/Telegram/social), run outreach campaigns, referrals, or any delegation task. Triggers on: call, phone, reservation, appointment, email, search, book, find, schedule, cancel, inbox, messages, research, assistant, coordinate, goal, credits, budget, ride, food, errand, bill, dispute, calendar, KallyAI, inbound, receptionist, voicemail, phone number, forward, transfer, takeover, channels, WhatsApp, Telegram, outreach, referral, subscription.",
+  "version": "2.0.0",
+  "author": {
+    "name": "sltelitsyn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sltelitsyn/kallyai-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sltelitsyn/kallyai-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "shuakami--uapi-get-ai-translate-languages",
+  "description": "使用 UAPI 的“AI翻译配置”单接口 skill，处理 AI翻译配置、AI翻译、翻译配置 等请求。 Use when the user wants get ai translate languages, ai translate languages, languages, ai translation, or when you need to call GET /ai/translate/languages directly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shuakami"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-ai-translate-languages",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-ai-translate-languages"
+}

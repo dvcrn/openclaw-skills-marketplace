@@ -1,0 +1,10 @@
+{
+  "name": "ckchzh--schema-builder",
+  "description": "Database schema designer. Design table structures, generate SQL DDL, migration scripts, seed data, ER diagrams, optimization reports, NoSQL schemas, and schema diffs. Commands: design, sql, migrate, seed, erd, optimize, nosql, compare. Use for database design, table structure, SQL generation.",
+  "version": "2.2.0",
+  "author": {
+    "name": "ckchzh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ckchzh/schema-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ckchzh/schema-builder"
+}

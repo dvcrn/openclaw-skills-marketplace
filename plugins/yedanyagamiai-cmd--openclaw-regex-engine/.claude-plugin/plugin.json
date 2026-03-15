@@ -1,0 +1,10 @@
+{
+  "name": "yedanyagamiai-cmd--openclaw-regex-engine",
+  "description": "Production-grade regex processing suite — test patterns with capture groups, explain any regex in plain English, build regex from natural language descriptions, browse 50+ battle-tested patterns, and find-replace with backreferences. Use when: (1) user says 'test this regex' or 'does this pattern match', (2) user asks 'explain this regex' or 'what does this regex do', (3) user needs to 'build a regex for emails' or 'create a pattern that matches URLs', (4) user wants a 'ready-made regex for phone numbers' or 'UUID pattern', (5) user requests 'regex find and replace' or 'search and replace with backreferences'. Supports all ES2024 flags, named groups, lookahead/lookbehind. Zero install, sub-100ms on Cloudflare Workers. Free + Pro $9/mo.",
+  "version": "2.0.0",
+  "author": {
+    "name": "yedanyagamiai-cmd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yedanyagamiai-cmd/openclaw-regex-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yedanyagamiai-cmd/openclaw-regex-engine"
+}

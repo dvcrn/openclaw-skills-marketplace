@@ -1,0 +1,10 @@
+{
+  "name": "con2000us--zentable",
+  "description": "Render structured table data as high-quality PNG images using Headless Chrome. Use when: need to visualize tabular data for chat interfaces, reports, or social media. NOT for: simple text tables that don't need visualization.",
+  "version": "0.9.2",
+  "author": {
+    "name": "con2000us"
+  },
+  "homepage": "https://github.com/con2000us/zenTable",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/con2000us/zentable"
+}

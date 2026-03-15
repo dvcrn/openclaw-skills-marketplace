@@ -1,0 +1,10 @@
+{
+  "name": "vegasbrianc--security-dashboard",
+  "description": "Real-time security monitoring dashboard for OpenClaw and Linux server infrastructure. Monitors gateway status, network security, public exposure, system updates, SSH access, TLS certificates, and resource usage.",
+  "version": "1.2.1",
+  "author": {
+    "name": "vegasbrianc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vegasbrianc/security-dashboard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vegasbrianc/security-dashboard"
+}

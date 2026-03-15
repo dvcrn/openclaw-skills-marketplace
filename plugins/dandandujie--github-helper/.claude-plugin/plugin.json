@@ -1,0 +1,10 @@
+{
+  "name": "dandandujie--github-helper",
+  "description": "Local GitHub repository helper for search, clone, sync, and issue/PR inspection workflows. Use when users mention github/repo/repository, ask to download or track repositories, or need structured local knowledge at /Users/liuchen/Documents/github with gh CLI and GitHub MCP integration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dandandujie"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dandandujie/github-helper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dandandujie/github-helper"
+}

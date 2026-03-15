@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "pending_questions": [
+    {
+      "id": "问_1ed53408",
+      "entity": "碳中和",
+      "category": "concepts",
+      "question": "主人，碳中和是什么呢？",
+      "context": "这个'碳中和'很重要",
+      "timestamp": "2026-03-09T08:08:25.416255",
+      "status": "pending"
+    },
+    {
+      "id": "问_515e2a7f",
+      "entity": "今天去字节跳动公司",
+      "category": "companies",
+      "question": "主人，今天去字节跳动公司是哪个公司呀？",
+      "context": "今天去字节跳动公司开会",
+      "timestamp": "2026-03-09T08:08:25.455939",
+      "status": "pending"
+    }
+  ],
+  "asked_history": [],
+  "learned": {},
+  "stats": {
+    "total_asked": 2,
+    "total_learned": 0
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "picseeinc--picsee-url-shortener-web",
+  "description": "Quickly shorten URLs and generate QR codes via PicSee (picsee.io). After logging in, you can also view analytics and history. Use when user says \"縮網址\", \"短網址\", \"shorten URL\", or requests URL shortening.",
+  "version": "1.0.0",
+  "author": {
+    "name": "picseeinc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/picseeinc/picsee-url-shortener-web",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/picseeinc/picsee-url-shortener-web"
+}

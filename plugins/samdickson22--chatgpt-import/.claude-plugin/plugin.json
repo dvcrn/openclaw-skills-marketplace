@@ -1,0 +1,10 @@
+{
+  "name": "samdickson22--chatgpt-import",
+  "description": "Import ChatGPT conversation history into OpenClaw's memory search. Use when migrating from ChatGPT, giving OpenClaw access to old conversations, or building a searchable archive of past chats.",
+  "version": "1.0.2",
+  "author": {
+    "name": "samdickson22"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/samdickson22/chatgpt-import",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/samdickson22/chatgpt-import"
+}

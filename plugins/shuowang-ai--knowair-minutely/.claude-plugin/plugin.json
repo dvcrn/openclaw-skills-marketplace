@@ -1,0 +1,10 @@
+{
+  "name": "shuowang-ai--knowair-minutely",
+  "description": "Get minute-level precipitation forecast for the next 2 hours via the Caiyun Weather API. Returns precipitation intensity at 1-minute intervals and 30-minute probability data. Best for major cities in China. Use when the user asks about rain in the next hour, will it rain soon, should I bring an umbrella, precipitation forecast, or minute-level rain prediction.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shuowang-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shuowang-ai/knowair-minutely",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shuowang-ai/knowair-minutely"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "shadowrocketai--scientific-internet-access",
+  "description": "AI-powered Scientific Internet Access engine for OpenClaw. AI驱动的科学上网术——你的私人科学上网管家。 自动抓取免费节点、测速、筛选，一步步引导小白完成配置。 官网: https://shadowrocket.ai 推荐搭配Claude模型使用，指令遵循更准确。 Trigger on: VPN, proxy, 翻墙, 科学上网, 梯子, 节点, shadowsocks, v2ray, vmess, vless, trojan, clash, surge, shadowrocket, subscribe, subscription, GFW, firewall, 免费节点, 机场, 上不了外网, 上不了Google, 怎么翻墙, 有什么节点, 帮我上Google, 连不上外网, 看不了YouTube, 打不开谷歌, internet freedom, censorship bypass, proxy nodes, free nodes, 给我个节点, 有没有能用的节点, 我想上外网, 怎么上Google, 科学上网怎么弄, VPN怎么用, 有免费VPN吗, 电报上不了, 电报连不上, Telegram连不上, 电报代理, 电报中文, Telegram中文",
+  "version": "1.7.1",
+  "author": {
+    "name": "shadowrocketai"
+  },
+  "homepage": "https://shadowrocket.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shadowrocketai/scientific-internet-access"
+}

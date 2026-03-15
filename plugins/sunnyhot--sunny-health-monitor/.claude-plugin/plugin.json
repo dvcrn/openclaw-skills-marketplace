@@ -1,0 +1,10 @@
+{
+  "name": "sunnyhot--sunny-health-monitor",
+  "description": "Lightweight system health monitoring for macOS - monitor CPU, memory, disk usage, cron job status, and generate health reports with Discord notifications.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sunnyhot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunnyhot/sunny-health-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunnyhot/sunny-health-monitor"
+}

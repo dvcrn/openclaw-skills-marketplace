@@ -1,0 +1,10 @@
+{
+  "name": "effimail--crop-image",
+  "description": "Use this skill when an AI agent needs to crop images through the deployed Crop Image service. Trigger this for URL-based cropping (`POST /crop`) and file-upload cropping (`POST /crop/upload`), especially when returning production URLs and handling API-level errors.",
+  "version": "0.1.0",
+  "author": {
+    "name": "effimail"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/effimail/crop-image",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/effimail/crop-image"
+}

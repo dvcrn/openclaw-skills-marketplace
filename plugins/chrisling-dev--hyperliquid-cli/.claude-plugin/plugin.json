@@ -1,0 +1,10 @@
+{
+  "name": "chrisling-dev--hyperliquid-cli",
+  "description": "Trade crypto, stocks (AAPL, NVDA, TSLA), indexes, and commodities (GOLD, SILVER) 24/7 on Hyperliquid via HIP-3. Real-time position & P&L tracking, orderbook monitoring, multi-account management, and websocket client for sub-5ms low-latency high-frequency trading.",
+  "version": "1.0.3",
+  "author": {
+    "name": "chrisling-dev"
+  },
+  "homepage": "https://github.com/chrisling-dev/hyperliquid-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chrisling-dev/hyperliquid-cli"
+}

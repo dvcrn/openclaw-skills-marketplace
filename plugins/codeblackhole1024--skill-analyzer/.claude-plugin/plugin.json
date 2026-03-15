@@ -1,0 +1,10 @@
+{
+  "name": "codeblackhole1024--skill-analyzer",
+  "description": "Quality scanner for OpenClaw skills. Evaluates functionality, security, usability, documentation, and best practices with weighted scoring. Use when: (1) Analyzing skill quality before publishing, (2) Finding improvement opportunities, (3) Security review of third-party skills. Pure Python - no dependencies.",
+  "version": "0.2.0",
+  "author": {
+    "name": "codeblackhole1024"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codeblackhole1024/skill-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codeblackhole1024/skill-analyzer"
+}

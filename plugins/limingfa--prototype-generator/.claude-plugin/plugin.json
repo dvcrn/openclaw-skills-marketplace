@@ -1,0 +1,10 @@
+{
+  "name": "limingfa--prototype-generator",
+  "description": "Generates admin/list prototypes from requirements. Supports mountListPage-style frameworks (e.g. kfk-mock-ui), standalone HTML, or project-specific setups. Use when user wants to create a prototype, generate prototype from requirements, add list pages, or says \"根据需求生成原型\" / \"自动生成一套原型\" / \"创建原型\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "limingfa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/limingfa/prototype-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/limingfa/prototype-generator"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "china-shopping",
+  "version": "1.0.1",
+  "description": "中国购物网站推荐工具 - 根据商品名称推荐最佳购物网站",
+  "main": "china-shopping.py",
+  "bin": {
+    "china-shopping": "./china-shopping.py"
+  },
+  "scripts": {
+    "test": "python3 -m pytest tests/",
+    "lint": "flake8 china-shopping.py",
+    "format": "black china-shopping.py"
+  },
+  "keywords": [
+    "shopping",
+    "china",
+    "e-commerce",
+    "recommendation",
+    "cli",
+    "购物",
+    "推荐",
+    "电商"
+  ],
+  "author": "harrylabs0913",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harrylabs0913/china-shopping.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harrylabs0913/china-shopping/issues"
+  },
+  "homepage": "https://github.com/harrylabs0913/china-shopping#readme",
+  "engines": {
+    "python": ">=3.7"
+  },
+  "categories": [
+    "electronics",
+    "clothing",
+    "groceries",
+    "beauty"
+  ],
+  "supported_sites": [
+    "京东",
+    "天猫",
+    "淘宝",
+    "苏宁易购",
+    "唯品会",
+    "小米商城",
+    "京东到家",
+    "天猫超市",
+    "1号店",
+    "每日优鲜",
+    "天猫国际",
+    "京东美妆",
+    "小红书",
+    "网易考拉"
+  ]
+}

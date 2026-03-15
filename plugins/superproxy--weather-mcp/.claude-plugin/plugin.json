@@ -1,0 +1,10 @@
+{
+  "name": "superproxy--weather-mcp",
+  "description": "Query weather information via a local/remote MCP weather server using the SSE endpoint https://api-dev.ljyd.cn/mcp-servers/myweather/sse. Use when the user asks about weather or forecasts and an MCP server is available.",
+  "version": "1.0.0",
+  "author": {
+    "name": "superproxy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/superproxy/weather-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/superproxy/weather-mcp"
+}

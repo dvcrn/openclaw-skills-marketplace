@@ -1,0 +1,10 @@
+{
+  "name": "kidehen--sql-sparql-graphql-skill",
+  "description": "Execute SQL, SPARQL, SPASQL, SPARQL-FED, and GraphQL queries against live data spaces and knowledge graphs via OpenLink's OpenAPI-compliant web services. Use this skill whenever the user wants to query a database, RDF store, or SPARQL endpoint; explore a knowledge graph or data space; asks \"How to ...\", \"Define the term ...\", or poses a question against a known article or graph context; or mentions linkeddata.uriburner.com, Virtuoso, OPAL, or OpenLink services. Full query templates are in references/query-templates.md — load that file before constructing any predefined query.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kidehen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kidehen/sql-sparql-graphql-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kidehen/sql-sparql-graphql-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "msarheed--proxmox-full",
+  "description": "Complete Proxmox VE management - create/clone/start/stop VMs and LXC containers, manage snapshots, backups, storage, and templates. Use when user wants to manage Proxmox infrastructure, virtual machines, or containers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "msarheed"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/msarheed/proxmox-full",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/msarheed/proxmox-full"
+}

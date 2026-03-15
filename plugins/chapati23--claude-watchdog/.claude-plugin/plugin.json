@@ -1,0 +1,10 @@
+{
+  "name": "chapati23--claude-watchdog",
+  "description": "Monitor the Claude API for outages and latency spikes with rich Telegram alerts. Status monitoring, latency probes, and automatic recovery notifications.",
+  "version": "1.2.1",
+  "author": {
+    "name": "chapati23"
+  },
+  "homepage": "https://github.com/gisk0/claude-watchdog",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chapati23/claude-watchdog"
+}

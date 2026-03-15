@@ -1,0 +1,10 @@
+{
+  "name": "iret77--iret77-smart-memory",
+  "description": "5-layer memory architecture for OpenClaw agents. Solves context bloat, the 48h fogging problem, and rule amnesia. Works for single-agent and multi-agent setups. Agent reads this file and sets up the full system.",
+  "version": "1.5.5",
+  "author": {
+    "name": "iret77"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iret77/iret77-smart-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iret77/iret77-smart-memory"
+}

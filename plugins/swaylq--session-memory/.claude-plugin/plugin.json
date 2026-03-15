@@ -1,0 +1,10 @@
+{
+  "name": "swaylq--session-memory",
+  "description": "Persistent memory toolkit for AI agents. Save context, recall with relevance scoring, consolidate insights, track decisions across sessions. Features importance levels, multi-keyword search, session context loader, export/import, memory stats. Pure bash+node, no dependencies. v2.0.0",
+  "version": "2.0.0",
+  "author": {
+    "name": "swaylq"
+  },
+  "homepage": "https://github.com/voidborne-d/session-memory-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/swaylq/session-memory"
+}

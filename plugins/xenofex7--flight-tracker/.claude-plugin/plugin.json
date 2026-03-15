@@ -1,0 +1,10 @@
+{
+  "name": "xenofex7--flight-tracker",
+  "description": "Flight tracking and scheduling. Track live flights in real-time by region, callsign, or airport using OpenSky Network. Search flight schedules between airports. Use for queries like \"What flights are over Switzerland?\" or \"When do flights from Hamburg arrive in Zurich?\" or \"Track flight SWR123\".",
+  "version": "1.1.0",
+  "author": {
+    "name": "xenofex7"
+  },
+  "homepage": "https://openskynetwork.github.io/opensky-api/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xenofex7/flight-tracker"
+}

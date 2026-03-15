@@ -1,0 +1,10 @@
+{
+  "name": "stperic--local-websearch",
+  "description": "Search the web using a self-hosted SearXNG metasearch engine. Aggregates Google, Brave, DuckDuckGo, and more without API keys.",
+  "version": "1.0.0",
+  "author": {
+    "name": "stperic"
+  },
+  "homepage": "https://docs.searxng.org",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stperic/local-websearch"
+}

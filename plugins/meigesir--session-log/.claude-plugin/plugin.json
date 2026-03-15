@@ -1,0 +1,10 @@
+{
+  "name": "meigesir--session-log",
+  "description": "Lightweight session logging for OpenClaw agents. Automatically creates a timestamped session file on every session start (including /new resets) and appends topic summaries during conversation. Solves the problem of /new overwriting session history — logs persist across resets and are readable by daily report crons. Use when setting up session continuity, conversation audit trails, or multi-agent daily summaries. Works for main, writer, coding, or any agent.",
+  "version": "1.0.0",
+  "author": {
+    "name": "meigesir"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/meigesir/session-log",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/meigesir/session-log"
+}

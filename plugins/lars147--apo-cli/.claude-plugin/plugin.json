@@ -1,0 +1,10 @@
+{
+  "name": "lars147--apo-cli",
+  "description": "Search and order pharmacy products from apohealth.de via apo-cli. Use for medication search (by name or PZN), product details, category browsing, and cart management. Trigger when the user mentions Apotheke, pharmacy, Medikament, medication, PZN, apohealth, or health products.",
+  "version": "0.1.1",
+  "author": {
+    "name": "lars147"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lars147/apo-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lars147/apo-cli"
+}

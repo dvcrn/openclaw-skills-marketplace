@@ -1,0 +1,10 @@
+{
+  "name": "emphaiser--secondmind",
+  "description": "Autonomous three-tier memory with proactive initiative, project tracking, and social intelligence. Ingests OpenClaw conversations, extracts knowledge + emotions, and proactively suggests automations, fixes, and project ideas. v1.4.0: Project tracking, semantic dedup, bulk feedback, archive retrieval, gentle reminders. All models via OpenRouter Cloud. Cross-platform: Linux + Windows.",
+  "version": "1.4.0",
+  "author": {
+    "name": "emphaiser"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/emphaiser/secondmind",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/emphaiser/secondmind"
+}

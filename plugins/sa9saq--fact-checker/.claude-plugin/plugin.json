@@ -1,0 +1,10 @@
+{
+  "name": "sa9saq--fact-checker",
+  "description": "Verify claims with web search, assign confidence scores, and generate structured fact-check reports.",
+  "version": "1.0.2",
+  "author": {
+    "name": "sa9saq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sa9saq/fact-checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sa9saq/fact-checker"
+}

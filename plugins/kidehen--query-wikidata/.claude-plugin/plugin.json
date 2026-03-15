@@ -1,0 +1,10 @@
+{
+  "name": "kidehen--query-wikidata",
+  "description": "Transform natural language questions into SPARQL queries for Wikidata and generate beautiful HTML results pages. Query the Wikidata knowledge base using plain English prompts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kidehen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kidehen/query-wikidata",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kidehen/query-wikidata"
+}

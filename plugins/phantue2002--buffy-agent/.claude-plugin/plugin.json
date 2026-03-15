@@ -1,0 +1,10 @@
+{
+  "name": "phantue2002--buffy-agent",
+  "description": "Multi-channel personal behavior agent for habits, tasks, and routines that tracks activities, schedules reminders, and sends daily briefings across ChatGPT, Telegram, Slack, and internal tools, all powered by a single unified behavior engine. Use when the user wants to create or adjust habits/routines, get progress summaries or daily briefings, or personalize reminder timing and channels based on their preferences and history.",
+  "version": "1.0.2",
+  "author": {
+    "name": "phantue2002"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phantue2002/buffy-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phantue2002/buffy-agent"
+}

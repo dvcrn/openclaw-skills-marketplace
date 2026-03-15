@@ -1,0 +1,10 @@
+{
+  "name": "vvusu--team-dispatch",
+  "description": "Use when a request requires multi-agent workflow orchestration (task decomposition + dependency/DAG + parallel execution), needs durable task tracking across context compaction, or needs retries/fallbacks and completion notifications.",
+  "version": "1.0.8",
+  "author": {
+    "name": "vvusu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vvusu/team-dispatch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vvusu/team-dispatch"
+}

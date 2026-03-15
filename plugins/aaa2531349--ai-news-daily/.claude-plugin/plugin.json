@@ -1,0 +1,10 @@
+{
+  "name": "aaa2531349--ai-news-daily",
+  "description": "AI 新闻日报 v1.0.3 - 自动抓取全球 AI 行业最新动态，每日推送 10 条精选新闻。支持英文标题/内容自动翻译、400-500 字中文摘要、外部配置 (config.yaml)、失败重试、智能去重。安装后自动创建 OpenClaw 定时任务，每天早上 9:00 自动推送到对话框。用于定时抓取 AI 新闻、RSS 聚合、多语言支持。",
+  "version": "1.0.4",
+  "author": {
+    "name": "aaa2531349"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaa2531349/ai-news-daily",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaa2531349/ai-news-daily"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "fisherhhyu--tsa-risk-assessment-strategies-skill",
+  "description": "腾讯云智能顾问（Cloud Advisor）工具，用于查询评估项列表、查看各产品风险项，并生成可直接跳转到控制台的风险项链接。当用户询问云资源风险、巡检项、智能顾问评估项，或需要查看某产品的风险检查项时使用此 skill。支持：列出所有评估项（按产品/分组筛选）、生成评估项控制台直达链接、安装和使用 tccli 调用智能顾问接口。",
+  "version": "1.0.0",
+  "author": {
+    "name": "fisherhhyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fisherhhyu/tsa-risk-assessment-strategies-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fisherhhyu/tsa-risk-assessment-strategies-skill"
+}

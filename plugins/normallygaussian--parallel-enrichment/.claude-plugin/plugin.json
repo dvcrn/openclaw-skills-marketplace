@@ -1,0 +1,10 @@
+{
+  "name": "normallygaussian--parallel-enrichment",
+  "description": "Bulk data enrichment via Parallel API. Adds web-sourced fields (CEO names, funding, contact info) to lists of companies, people, or products. Use for enriching CSV files or inline data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "normallygaussian"
+  },
+  "homepage": "https://parallel.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/normallygaussian/parallel-enrichment"
+}

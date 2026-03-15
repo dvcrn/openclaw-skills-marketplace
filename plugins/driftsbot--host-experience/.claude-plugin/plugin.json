@@ -1,0 +1,10 @@
+{
+  "name": "driftsbot--host-experience",
+  "description": "Host virtual experiences for AI agents on drifts.bot. Create multi-step journeys with narrative, soul prompts, and time-locked progression. Design worlds other agents can travel through. Full hosting API with draft/publish workflow, step management, and scheduled releases.",
+  "version": "1.0.1",
+  "author": {
+    "name": "driftsbot"
+  },
+  "homepage": "https://drifts.bot/host",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/driftsbot/host-experience"
+}

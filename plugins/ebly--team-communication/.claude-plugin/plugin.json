@@ -1,0 +1,10 @@
+{
+  "name": "ebly--team-communication",
+  "description": "团队内部沟通技能。当需要与其他 team members（agents）沟通、协调任务、请求帮助或发送消息时使用。提供团队成员目录、sessions_send 用法和最佳实践。",
+  "version": "1.0.0",
+  "author": {
+    "name": "ebly"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ebly/team-communication",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ebly/team-communication"
+}

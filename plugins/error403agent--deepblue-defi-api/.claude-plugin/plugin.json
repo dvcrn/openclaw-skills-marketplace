@@ -1,0 +1,10 @@
+{
+  "name": "error403agent--deepblue-defi-api",
+  "description": "Use when an agent needs live DeFi data from Base — ETH prices, trending pools, token scores, or wallet scans. No auth required.",
+  "version": "1.3.0",
+  "author": {
+    "name": "error403agent"
+  },
+  "homepage": "https://deepbluebase.xyz",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/error403agent/deepblue-defi-api"
+}

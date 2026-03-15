@@ -1,0 +1,19 @@
+{
+  "name": "qmt",
+  "version": "1.1.0",
+  "description": "QMT Xuntou Quantitative Trading Terminal — Built-in Python strategy development, backtesting engine, and live trading, supporting all instruments in the Chinese securities market.",
+  "author": "BossQuant",
+  "tags": ["量化交易", "QMT", "迅投", "回测", "实盘", "A股", "期货", "期权"],
+  "repository": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "python": ">=3.8",
+    "packages": ["xtquant>=1.0.0", "numpy>=1.20.0"]
+  },
+  "openclaw": {
+    "requires": {
+      "bins": ["python3"],
+      "env": []
+    }
+  }
+}

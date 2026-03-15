@@ -1,0 +1,10 @@
+{
+  "name": "robbyczgw-cla--personal-analytics",
+  "description": "Analyze conversation patterns, track productivity, and surface self-knowledge insights. Use when user wants to understand their own patterns (when they chat, what topics they discuss, productivity trends, sentiment over time). Provides weekly/monthly reports, topic recommendations, and time-based insights. Privacy-first design with all analysis local.",
+  "version": "1.0.0",
+  "author": {
+    "name": "robbyczgw-cla"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/personal-analytics",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/personal-analytics"
+}

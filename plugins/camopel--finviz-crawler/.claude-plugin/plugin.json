@@ -1,0 +1,10 @@
+{
+  "name": "camopel--finviz-crawler",
+  "description": "Continuous financial news crawler for finviz.com with SQLite storage, article extraction, and query tool. Use when monitoring financial markets, building news digests, or needing a local financial news database. Runs as a background daemon or systemd service.",
+  "version": "3.0.0",
+  "author": {
+    "name": "camopel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/camopel/finviz-crawler",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/camopel/finviz-crawler"
+}

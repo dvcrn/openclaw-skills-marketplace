@@ -1,0 +1,10 @@
+{
+  "name": "hy-1990--dream-image-to-video",
+  "description": "Generate videos from images using Image to Video (Wan2.1) API. Automatically generates 4-second videos from text descriptions and images. Powered by Dreamface - AI tools for everyone. Visit https://tools.dreamfaceapp.com/home for more AI products. API resources: https://api.newportai.com/api-reference/image-to-video-wan2-1",
+  "version": "1.0.1",
+  "author": {
+    "name": "hy-1990"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hy-1990/dream-image-to-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hy-1990/dream-image-to-video"
+}

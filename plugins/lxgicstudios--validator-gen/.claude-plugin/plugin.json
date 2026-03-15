@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--validator-gen",
+  "description": "Generate Zod and Yup validation schemas from TypeScript types. Use when you need runtime validation that matches your types.",
+  "version": "1.0.1",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/validator-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/validator-gen"
+}

@@ -1,0 +1,48 @@
+#!/usr/bin/env python3
+"""Validate audio file before transcription - reject stale/empty files."""
+
+import json
+import os
+import sys
+import time
+from pathlib import Path
+
+MAX_FILE_AGE_SECONDS = 300  # 5 minutes - files older than this are suspicious
+MIN_FILE_SIZE = 1000  # bytes - files smaller than this are suspicious
+
+def main():
+    if len(sys.argv) < 2:
+        print(json.dumps({"error": "no_file_path"}))
+        sys.exit(1)
+    
+    file_path = sys.argv[1]
+    
+    # Check exists
+    if not os.path.exists(file_path):
+        print(json.dumps({"error": "file_not_found", "path": file_path}))
+        sys.exit(1)
+    
+    # Check size
+    file_size = os.path.getsize(file_path)
+    if file_size == 0:
+        print(json.dumps({"error": "file_empty", "path": file_path, "size": 0}))
+        sys.exit(1)
+    
+    if file_size < MIN_FILE_SIZE:
+        print(json.dumps({"error": "file_too_small", "path": file_path, "size": file_size, "min": MIN_FILE_SIZE}))
+        sys.exit(1)
+    
+    # Check age (modification time)
+    file_mtime = os.path.getmtime(file_path)
+    file_age = time.time() - file_mtime
+    
+    if file_age > MAX_FILE_AGE_SECONDS:
+        print(json.dumps({"error": "file_stale", "path": file_path, "age_seconds": int(file_age), "max_age": MAX_FILE_AGE_SECONDS}))
+        sys.exit(1)
+    
+    # All checks passed
+    print(json.dumps({"valid": True, "path": file_path, "size": file_size, "age_seconds": int(file_age)}))
+    sys.exit(0)
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,10 @@
+{
+  "name": "revisual-ai--faceswap",
+  "description": "AI face swap service - Use verging.ai AI face swap directly from command line. Supports local video files and images, remote video URLs (YouTube, Bilibili, etc.), remote image URLs, auto-download remote resources, real-time progress tracking.",
+  "version": "1.0.3",
+  "author": {
+    "name": "revisual-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/revisual-ai/faceswap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/revisual-ai/faceswap"
+}

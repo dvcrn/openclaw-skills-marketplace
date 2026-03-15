@@ -1,0 +1,10 @@
+{
+  "name": "scikkk--segment-anything",
+  "description": "使用 SAM（Segment Anything Model）去除图像背景，将前景主体提取为透明 PNG。适用于去除背景、抠图、提取前景主体或图像分割等需求。",
+  "version": "1.0.0",
+  "author": {
+    "name": "scikkk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/scikkk/segment-anything",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scikkk/segment-anything"
+}

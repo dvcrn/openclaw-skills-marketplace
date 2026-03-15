@@ -1,0 +1,10 @@
+{
+  "name": "jusscubs--ore-miner",
+  "description": "Autonomous ORE mining on Solana via refinORE. Onboard humans, start/stop sessions, optimize tile strategies, track P&L, manage risk, auto-restart, multi-coin mining (SOL/USDC/stablecoins), DCA/limit orders, staking.",
+  "version": "1.0.3",
+  "author": {
+    "name": "jusscubs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jusscubs/ore-miner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jusscubs/ore-miner"
+}

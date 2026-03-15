@@ -1,0 +1,10 @@
+{
+  "name": "mike007jd--costlens",
+  "description": "OpenClaw 成本和 Token 使用监控工具。从事件日志计算模型调用成本，支持预算告警和多维度报表（按模型/按天）。",
+  "version": "1.0.0",
+  "author": {
+    "name": "mike007jd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mike007jd/costlens",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mike007jd/costlens"
+}

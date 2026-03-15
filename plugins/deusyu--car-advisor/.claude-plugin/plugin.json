@@ -1,0 +1,10 @@
+{
+  "name": "deusyu--car-advisor",
+  "description": "实时汽车问答与对比分析系统。当用户询问任何买车、选车、汽车参数对比、车型评测、价格分析相关问题时触发此 Skill。\n\n 触发场景（只要涉及以下任一情形就必须使用此 Skill）：\n - 车型参数对比：\"小米SU7和Model 3哪个好\"、\"国产车和特斯拉对比\"\n - 配置/价格查询：\"Model Y 焕新版座椅加热有吗\"、\"问界M9多少钱\"\n - 真实车主评价：\"XX车口碑怎么样\"、\"懂车帝评分\"\n - 购车决策辅助：\"20-30万预算推荐什么车\"、\"新能源SUV怎么选\"\n - 车辆功能查询：\"这款车支持V2L吗\"、\"有没有露营模式\"\n - 销量/市场数据：\"2024年最畅销新能源车\"\n\n 即使用户没有明确说\"帮我对比\"或\"查一下\"，只要话题涉及具体车型的任何属性，都应该主动触发此 Skill 进行实时数据检索，而不是依赖训练数据回答。",
+  "version": "1.0.0",
+  "author": {
+    "name": "deusyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deusyu/car-advisor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deusyu/car-advisor"
+}

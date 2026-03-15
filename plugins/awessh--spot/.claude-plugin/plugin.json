@@ -1,0 +1,10 @@
+{
+  "name": "awessh--spot",
+  "description": "Binance Spot request using the Binance API. Authentication requires API key and secret key. Supports testnet and mainnet.",
+  "version": "0.1.0",
+  "author": {
+    "name": "awessh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/awessh/spot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/awessh/spot"
+}

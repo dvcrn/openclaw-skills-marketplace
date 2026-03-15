@@ -1,0 +1,10 @@
+{
+  "name": "rsh3khar--openmandate",
+  "description": "Post mandates and find matches on OpenMandate — ongoing matching for cofounders and early teams. Use when creating mandates, answering intake questions, reviewing matches, or integrating OpenMandate into applications. Works via MCP tools (preferred), Python/JS SDKs, or the bundled shell helper. Requires OPENMANDATE_API_KEY.",
+  "version": "0.5.0",
+  "author": {
+    "name": "rsh3khar"
+  },
+  "homepage": "https://openmandate.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rsh3khar/openmandate"
+}

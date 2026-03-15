@@ -1,0 +1,10 @@
+{
+  "name": "stephancill--open-wallet",
+  "description": "Use https://tx.steer.fun to have a user execute a wallet action (send a transaction or sign a message) with their own wallet via a shareable URL. Use when an agent needs the user to approve/execute a JSON-RPC request (e.g. eth_sendTransaction, personal_sign, eth_signTypedData_v4, wallet_sendCalls) and return the result (tx hash/signature) back to the agent, optionally via redirect_url.",
+  "version": "1.0.4",
+  "author": {
+    "name": "stephancill"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stephancill/open-wallet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stephancill/open-wallet"
+}

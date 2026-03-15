@@ -1,0 +1,10 @@
+{
+  "name": "arosstale--openclaw-memories",
+  "description": "Agent memory with ALMA meta-learning, LLM fact extraction, and full-text search. Observer calls remote LLM APIs (OpenAI/Anthropic/Gemini). ALMA and Indexer work offline.",
+  "version": "2.1.0",
+  "author": {
+    "name": "arosstale"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arosstale/openclaw-memories",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arosstale/openclaw-memories"
+}

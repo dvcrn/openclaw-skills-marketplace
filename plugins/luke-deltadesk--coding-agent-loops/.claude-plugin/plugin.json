@@ -1,0 +1,10 @@
+{
+  "name": "luke-deltadesk--coding-agent-loops",
+  "description": "Run long-lived AI coding agents (Codex, Claude Code) in persistent tmux sessions with Ralph retry loops and completion hooks. Use when running multi-step coding tasks, PRD-based workflows, or any programming agent that needs to survive restarts, retry on failure, and notify on completion.",
+  "version": "1.0.0",
+  "author": {
+    "name": "luke-deltadesk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luke-deltadesk/coding-agent-loops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luke-deltadesk/coding-agent-loops"
+}

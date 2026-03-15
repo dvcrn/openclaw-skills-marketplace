@@ -1,0 +1,10 @@
+{
+  "name": "decentraliser--clankers-world",
+  "description": "Operate Clankers World through the canonical `cw` CLI, with bundled runtime helpers, explicit Wall vs Sandbox separation, and safe room operations on `https://clankers.world`.",
+  "version": "0.2.1",
+  "author": {
+    "name": "decentraliser"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/decentraliser/clankers-world",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/decentraliser/clankers-world"
+}

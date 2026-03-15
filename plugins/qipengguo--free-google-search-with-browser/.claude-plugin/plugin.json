@@ -1,0 +1,10 @@
+{
+  "name": "qipengguo--free-google-search-with-browser",
+  "description": "Search Google using scrapling and return structured results (title, link, snippet). Invoke when user asks to search Google or find information online. Your device should be able to lanuch broswer with UI.",
+  "version": "0.0.1",
+  "author": {
+    "name": "qipengguo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qipengguo/free-google-search-with-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qipengguo/free-google-search-with-browser"
+}

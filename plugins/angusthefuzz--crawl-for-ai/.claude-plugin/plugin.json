@@ -1,0 +1,10 @@
+{
+  "name": "angusthefuzz--crawl-for-ai",
+  "description": "Web scraping using local Crawl4AI instance. Use for fetching full page content with JavaScript rendering. Better than Tavily for complex pages. Unlimited usage.",
+  "version": "1.0.1",
+  "author": {
+    "name": "angusthefuzz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/angusthefuzz/crawl-for-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/angusthefuzz/crawl-for-ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "maomaoshuo--maomao-weather",
+  "description": "查询全球任何城市的当前天气情况。当用户询问天气、查询城市温度、了解气象状况时使用此技能。支持中文、英文、拼音输入，自动匹配最佳位置。默认查询北京。",
+  "version": "1.0.2",
+  "author": {
+    "name": "maomaoshuo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maomaoshuo/maomao-weather",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maomaoshuo/maomao-weather"
+}

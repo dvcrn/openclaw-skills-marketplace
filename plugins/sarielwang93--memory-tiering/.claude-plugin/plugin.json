@@ -1,0 +1,10 @@
+{
+  "name": "sarielwang93--memory-tiering",
+  "description": "Automated multi-tiered memory management (HOT, WARM, COLD). Use this skill to organize, prune, and archive context during memory operations or compactions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sarielwang93"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sarielwang93/memory-tiering",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sarielwang93/memory-tiering"
+}

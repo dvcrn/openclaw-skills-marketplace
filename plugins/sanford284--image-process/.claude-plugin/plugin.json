@@ -1,0 +1,10 @@
+{
+  "name": "sanford284--image-process",
+  "description": "Image processing tool for compression, background removal/replacement, and upscaling. Invoke when user wants to compress image, remove background, change background, or enlarge image.",
+  "version": "0.1.0",
+  "author": {
+    "name": "sanford284"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sanford284/image-process",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sanford284/image-process"
+}

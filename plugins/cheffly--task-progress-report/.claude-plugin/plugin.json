@@ -1,0 +1,10 @@
+{
+  "name": "cheffly--task-progress-report",
+  "description": "在运行长任务时，同步开启\"任务进展汇报\"功能，定时输出当前任务进展情况。当用户提到\"汇报进展\"、\"定时报告\"、\"任务进度\"、\"长时间运行\"、\"监控任务状态\"或需要了解长时间任务的执行情况时，使用此技能。特别适用于模型蒸馏、数据训练、批量处理、爬虫任务等需要长时间运行的场景。",
+  "version": "1.0.0",
+  "author": {
+    "name": "cheffly"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cheffly/task-progress-report",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cheffly/task-progress-report"
+}

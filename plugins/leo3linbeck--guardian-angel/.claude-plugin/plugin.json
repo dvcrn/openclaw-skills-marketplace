@@ -1,0 +1,10 @@
+{
+  "name": "leo3linbeck--guardian-angel",
+  "description": "Guardian Angel gives AI agents a moral conscience rooted in Thomistic virtue ethics.\n Rather than relying solely on rule lists, it cultivates stable virtuous dispositions—\n prudence, justice, fortitude, temperance—that guide every interaction.\n \n The foundation is caritas: willing the good of the person you serve. From this flow\n the cardinal virtues as practical habits of right action and sound judgment.\n \n v3.0 introduced virtue-based disposition as the primary evaluation layer, providing\n deeper coherence than checklists alone. The agent's character becomes the safeguard.\n \n v3.1 adds: Plugin enforcement layer with before_tool_call hooks, approval workflows\n for ambiguous cases, and protections for sensitive infrastructure actions.",
+  "version": "3.1.2",
+  "author": {
+    "name": "leo3linbeck"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leo3linbeck/guardian-angel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leo3linbeck/guardian-angel"
+}

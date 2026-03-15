@@ -1,0 +1,10 @@
+{
+  "name": "gprecious--ai-music-video",
+  "description": "Generate AI music videos end-to-end. Creates music with Suno (sunoapi.org), generates visuals with OpenAI/Seedream/Google/Seedance, and assembles into music video with ffmpeg. Supports timestamped lyrics (auto SRT), Suno native music video generation, slideshow/video/hybrid modes. Token-based cost tracking per generation.",
+  "version": "1.2.4",
+  "author": {
+    "name": "gprecious"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gprecious/ai-music-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gprecious/ai-music-video"
+}

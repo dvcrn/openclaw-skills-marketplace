@@ -1,0 +1,10 @@
+{
+  "name": "aicodelion--agent-conductor",
+  "description": "Orchestrate coding sub-agents (Claude Code, Codex, Cursor, Gemini Code, or any CLI-based coding agent) for maximum throughput on implementation tasks. Use when: (1) writing or modifying code files, (2) running scripts or data pipelines, (3) batch processing large datasets, (4) multi-stage workflows requiring parallel execution. Covers agent-agnostic dispatch templates, task decomposition, parallel coordination, and acceptance criteria. NOT for: simple file reads, config-only changes, or sending messages. Core principle — the orchestrator plans; the coding agents execute.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aicodelion"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aicodelion/agent-conductor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aicodelion/agent-conductor"
+}

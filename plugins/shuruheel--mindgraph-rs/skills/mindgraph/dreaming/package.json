@@ -1,0 +1,15 @@
+{
+  "name": "mindgraph-dreaming",
+  "version": "1.0.0",
+  "description": "Nightly agentic optimization of MindGraph semantic memory",
+  "main": "dream-agent.js",
+  "scripts": {
+    "dream": "node dream-agent.js --report",
+    "dream:dry": "node dream-agent.js --dry-run --report",
+    "dream:apply": "node dream-agent.js --apply-low-risk --report"
+  },
+  "dependencies": {
+    "ulidx": "^2.0.0"
+  },
+  "keywords": ["mindgraph", "knowledge-graph", "memory", "agent"]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "miloudbelarebia--openclaw-security-guard",
+  "description": "Security audit CLI + live dashboard for OpenClaw. Scans for secrets, config issues, prompt injections, vulnerable dependencies, and unverified MCP servers. Zero telemetry.",
+  "version": "1.0.0",
+  "author": {
+    "name": "miloudbelarebia"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/miloudbelarebia/openclaw-security-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/miloudbelarebia/openclaw-security-guard"
+}

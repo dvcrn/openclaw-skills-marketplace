@@ -1,0 +1,10 @@
+{
+  "name": "pghostek--ares-business-registry",
+  "description": "Query Czech ARES business registry by ICO or name with human/JSON/raw outputs, retries, and legal-form decoding.",
+  "version": "0.2.0",
+  "author": {
+    "name": "pghostek"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pghostek/ares-business-registry",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pghostek/ares-business-registry"
+}

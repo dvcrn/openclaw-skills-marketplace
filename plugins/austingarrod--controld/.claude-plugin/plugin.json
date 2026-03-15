@@ -1,0 +1,10 @@
+{
+  "name": "austingarrod--controld",
+  "description": "Manage Control D DNS filtering service via API. Use for DNS profile management, device configuration, custom blocking rules, service filtering, analytics settings, and network diagnostics. Triggers when user mentions Control D, DNS filtering, DNS blocking, device DNS setup, or managing DNS profiles.",
+  "version": "1.0.3",
+  "author": {
+    "name": "austingarrod"
+  },
+  "homepage": "https://controld.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/austingarrod/controld"
+}

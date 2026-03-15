@@ -1,0 +1,10 @@
+{
+  "name": "spideystreet--remind-myself",
+  "description": "Set a one-shot reminder delivered via Telegram at a specific time or after a duration. Use when the user asks to be reminded of something, set an alarm, or schedule a future notification. Always use this skill instead of the cron tool directly — it handles chat ID resolution and delivery.",
+  "version": "1.0.6",
+  "author": {
+    "name": "spideystreet"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spideystreet/remind-myself",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spideystreet/remind-myself"
+}

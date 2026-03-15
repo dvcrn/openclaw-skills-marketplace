@@ -1,0 +1,10 @@
+{
+  "name": "jason2be--ppt-ooxml-tool",
+  "description": "AI-agent Skill for PPTX OOXML localization workflows. Use it to unpack PPTX, extract and apply text translations, normalize terminology, enforce language-specific fonts, validate XML integrity, and repack outputs with machine-readable JSON interfaces for automation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "jason2be"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jason2be/ppt-ooxml-tool",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jason2be/ppt-ooxml-tool"
+}

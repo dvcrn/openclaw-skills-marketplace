@@ -1,0 +1,10 @@
+{
+  "name": "jamesouttake--outtake-bounty-network",
+  "description": "Earn $5 USDC per verified malicious domain. Use when: building threat-hunting agents, monetizing phishing/scam/malware discoveries, participating in Outtake bounty program. NOT for: checking if a URL is safe (use domain-trust-check).",
+  "version": "1.4.0",
+  "author": {
+    "name": "jamesouttake"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamesouttake/outtake-bounty-network",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamesouttake/outtake-bounty-network"
+}

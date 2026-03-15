@@ -1,0 +1,183 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "mindgraph-dream-proposal",
+  "title": "MindGraph Dream Proposal",
+  "description": "Schema for proposed graph mutations from nightly dreaming analysis",
+  "type": "object",
+  "required": ["id", "type", "timestamp", "target", "reason"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique proposal ID (ulid or uuid)"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "belief_revision",
+        "edge_addition",
+        "edge_removal",
+        "salience_boost",
+        "salience_decay",
+        "confidence_update",
+        "answer_question",
+        "goal_review",
+        "goal_archive",
+        "decision_expired",
+        "decision_reaffirm",
+        "source_drift",
+        "schema_fix",
+        "merge_nodes",
+        "embedding_generate"
+      ],
+      "description": "Type of proposed mutation"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "When the proposal was generated"
+    },
+    "dream_session": {
+      "type": "string",
+      "description": "Identifier for the dreaming session that generated this"
+    },
+    "target": {
+      "type": "object",
+      "required": ["uid"],
+      "properties": {
+        "uid": {
+          "type": "string",
+          "description": "Target node UID"
+        },
+        "label": {
+          "type": "string",
+          "description": "Human-readable label"
+        },
+        "node_type": {
+          "type": "string",
+          "description": "Type of target node"
+        }
+      }
+    },
+    "action": {
+      "type": "string",
+      "description": "Human-readable description of the action"
+    },
+    "reason": {
+      "type": "string",
+      "description": "Detailed explanation for why this proposal was generated"
+    },
+    "old_value": {
+      "description": "Previous value (for updates)"
+    },
+    "new_value": {
+      "description": "Proposed new value"
+    },
+    "delta": {
+      "type": "number",
+      "description": "Numeric change (for salience/confidence updates)"
+    },
+    "impact": {
+      "type": "string",
+      "enum": ["high", "medium", "low"],
+      "description": "Estimated impact of this change"
+    },
+    "auto_apply": {
+      "type": "boolean",
+      "default": false,
+      "description": "Whether this proposal can be applied without manual review"
+    },
+    "auto_apply_reason": {
+      "type": "string",
+      "description": "Why this can or cannot be auto-applied"
+    },
+    "requires_web_search": {
+      "type": "boolean",
+      "default": false,
+      "description": "Whether web search was used to generate this proposal"
+    },
+    "web_search_results": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "source": { "type": "string" },
+          "url": { "type": "string" },
+          "snippet": { "type": "string" },
+          "confidence": { "type": "number" }
+        }
+      }
+    },
+    "edge_details": {
+      "type": "object",
+      "description": "For edge_addition proposals",
+      "properties": {
+        "from_uid": { "type": "string" },
+        "to_uid": { "type": "string" },
+        "edge_type": { "type": "string" },
+        "confidence": { "type": "number" },
+        "weight": { "type": "number" }
+      }
+    },
+    "schema_violation": {
+      "type": "object",
+      "description": "For schema_fix proposals",
+      "properties": {
+        "missing_props": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "invalid_props": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "prop": { "type": "string" },
+              "current": {},
+              "expected": {}
+            }
+          }
+        }
+      }
+    },
+    "contradiction_details": {
+      "type": "object",
+      "description": "For belief_revision from contradictions",
+      "properties": {
+        "contradicting_uid": { "type": "string" },
+        "contradicting_label": { "type": "string" },
+        "resolution_strategy": {
+          "type": "string",
+          "enum": ["favor_newer", "favor_higher_confidence", "mark_both_uncertain", "manual_review"]
+        }
+      }
+    },
+    "trending_details": {
+      "type": "object",
+      "description": "For salience_boost from trending detection",
+      "properties": {
+        "mention_count": { "type": "integer" },
+        "previous_count": { "type": "integer" },
+        "percent_change": { "type": "number" },
+        "window_days": { "type": "integer" }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": { "type": { "const": "edge_addition" } }
+      },
+      "then": {
+        "required": ["edge_details"]
+      }
+    },
+    {
+      "if": {
+        "properties": { "type": { "const": "schema_fix" } }
+      },
+      "then": {
+        "required": ["schema_violation"]
+      }
+    }
+  ]
+}

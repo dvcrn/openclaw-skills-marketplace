@@ -1,0 +1,10 @@
+{
+  "name": "fangxm233--aistatus",
+  "description": "Check real-time AI provider status, search model availability, get trending models, LLM benchmark leaderboard, and recent outage incidents. Use when the user asks about AI service status, whether a provider is down, model availability, or AI rankings.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fangxm233"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fangxm233/aistatus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fangxm233/aistatus"
+}

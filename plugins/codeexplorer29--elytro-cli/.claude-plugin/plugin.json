@@ -1,0 +1,10 @@
+{
+  "name": "codeexplorer29--elytro-cli",
+  "description": "TypeScript CLI that initializes Elytro ERC-4337 vaults, manages counterfactual smart accounts, and builds/sends sponsored UserOperations; use whenever an agent must drive Elytro wallets end-to-end.",
+  "version": "1.0.0",
+  "author": {
+    "name": "codeexplorer29"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codeexplorer29/elytro-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codeexplorer29/elytro-cli"
+}

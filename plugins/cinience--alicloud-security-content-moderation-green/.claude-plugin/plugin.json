@@ -1,0 +1,10 @@
+{
+  "name": "cinience--alicloud-security-content-moderation-green",
+  "description": "Manage Alibaba Cloud Content Moderation (Green) via OpenAPI/SDK. Use whenever the user needs content moderation resource and policy operations, including list/create/update actions, status inspection, and troubleshooting moderation workflow failures.",
+  "version": "1.0.3",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-security-content-moderation-green",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-security-content-moderation-green"
+}

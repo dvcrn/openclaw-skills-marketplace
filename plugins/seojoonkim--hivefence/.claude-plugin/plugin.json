@@ -1,0 +1,10 @@
+{
+  "name": "seojoonkim--hivefence",
+  "description": "Collective immunity network for AI agents. When one agent detects a prompt injection attack, all connected agents become immune. Real-time pattern detection, community voting, and distributed threat intelligence. Built on top of prompt-guard.",
+  "version": "1.0.0",
+  "author": {
+    "name": "seojoonkim"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seojoonkim/hivefence",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seojoonkim/hivefence"
+}

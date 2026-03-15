@@ -1,0 +1,10 @@
+{
+  "name": "aileaile--claw-pet",
+  "description": "Catch a pet or loot item by calling a configured remote pet backend API. Use when the user asks to catch a pet, fish for loot, try their luck, or trigger a remote catch action. Supports configured API calls, result formatting, and clear handling for pet, item, empty, and error responses.",
+  "version": "1.2.0",
+  "author": {
+    "name": "aileaile"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aileaile/claw-pet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aileaile/claw-pet"
+}

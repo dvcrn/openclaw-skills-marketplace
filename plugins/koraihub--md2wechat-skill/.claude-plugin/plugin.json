@@ -1,0 +1,10 @@
+{
+  "name": "koraihub--md2wechat-skill",
+  "description": "将 Markdown 文件转换为微信公众号兼容的内联样式 HTML，并一键发送到微信草稿箱。支持 Front Matter 元数据、表格、代码块、列表、图片自动上传等完整排版能力。",
+  "version": "2.0.0",
+  "author": {
+    "name": "koraihub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/koraihub/md2wechat-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/koraihub/md2wechat-skill"
+}

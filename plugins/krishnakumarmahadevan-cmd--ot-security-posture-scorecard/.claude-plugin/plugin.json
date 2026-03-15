@@ -1,0 +1,10 @@
+{
+  "name": "krishnakumarmahadevan-cmd--ot-security-posture-scorecard",
+  "description": "Assess OT/ICS/SCADA security posture and generate risk scorecards with remediation guidance. Use when evaluating operational technology security, industrial control system risks, SCADA vulnerabilities, OT-IT convergence gaps, IEC 62443 compliance, or NIST CSF alignment for critical infrastructure.",
+  "version": "1.0.2",
+  "author": {
+    "name": "krishnakumarmahadevan-cmd"
+  },
+  "homepage": "https://portal.toolweb.in",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/krishnakumarmahadevan-cmd/ot-security-posture-scorecard"
+}

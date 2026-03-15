@@ -1,0 +1,10 @@
+{
+  "name": "mupengi-bot--mupeng-web-claude",
+  "description": "Unified web search skill. Fallback order — web_search(Brave) → duckduckgo → claude.ai. Auto-cache search results (saved to memory/research/)",
+  "version": "1.0.0",
+  "author": {
+    "name": "mupengi-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/mupeng-web-claude",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/mupeng-web-claude"
+}

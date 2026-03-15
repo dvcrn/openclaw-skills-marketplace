@@ -1,0 +1,10 @@
+{
+  "name": "chauncyzbc--structured-memory",
+  "description": "Build and maintain a structured memory system for OpenClaw workspaces using layered storage: daily memory as the source of truth, domain/module/entity/tag indexing, critical-facts extraction, and retrieval planning. Use when designing, initializing, updating, or operating a memory system that must scale across work topics such as business, finance, legal, HR, projects, operations, tech, routines, and personal context.",
+  "version": "1.0.1",
+  "author": {
+    "name": "chauncyzbc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chauncyzbc/structured-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chauncyzbc/structured-memory"
+}

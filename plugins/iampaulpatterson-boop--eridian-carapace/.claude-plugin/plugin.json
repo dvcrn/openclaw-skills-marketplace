@@ -1,0 +1,10 @@
+{
+  "name": "iampaulpatterson-boop--eridian-carapace",
+  "description": "Agent security hardening and prompt injection defense for OpenClaw. Protects against ClawHavoc-style attacks including prompt injection, data exfiltration, credential theft, and unauthorized operations. Runtime protection that complements pre-installation skill scanners like Clawdex. Includes security audit checklist, 8 documented attack vector defenses with mitigations, copy-paste AGENTS.md security patterns, credential file protection, browser URL allowlisting, and sensitive operation approval flows. Use when setting up agent security, performing security audits, hardening agent configurations, protecting credentials, preventing data leaks, or defending against indirect prompt injection attacks.",
+  "version": "1.0.2",
+  "author": {
+    "name": "iampaulpatterson-boop"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iampaulpatterson-boop/eridian-carapace",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iampaulpatterson-boop/eridian-carapace"
+}

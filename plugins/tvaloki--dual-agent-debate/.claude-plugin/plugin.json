@@ -1,0 +1,10 @@
+{
+  "name": "tvaloki--dual-agent-debate",
+  "description": "Run a structured 2-agent debate loop between ChatGPT (OpenAI API) and the user's own thoughts retrieved from Supabase Open Brain via MCP, iterating up to 3 rounds (or until semantic agreement), then write the final outcome back to Open Brain. Use when user asks to compare/pressure-test an idea against prior thoughts or memory.",
+  "version": "0.3.0",
+  "author": {
+    "name": "tvaloki"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tvaloki/dual-agent-debate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tvaloki/dual-agent-debate"
+}

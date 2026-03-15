@@ -1,0 +1,10 @@
+{
+  "name": "fdocr--clawshier",
+  "description": "Scan receipt or invoice photos sent via chat, extract expense data using OpenAI Vision, validate and deduplicate, then log to a Google Spreadsheet. Responds with a short summary of what was added.",
+  "version": "0.0.6",
+  "author": {
+    "name": "fdocr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fdocr/clawshier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fdocr/clawshier"
+}

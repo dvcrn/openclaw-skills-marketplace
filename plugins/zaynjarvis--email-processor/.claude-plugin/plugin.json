@@ -1,0 +1,10 @@
+{
+  "name": "zaynjarvis--email-processor",
+  "description": "Automate Gmail inbox processing - categorizes unread emails, marks marketing/newsletters/promotions as read, and surfaces important emails requiring attention.\n \n USE WHEN: User asks to \"check my emails\", \"process unread emails\", \"clean up my inbox\", \"mark newsletters as read\", or any Gmail automation task.\n \n REQUIRES: gog CLI (brew install steipete/tap/gogcli) + Google Cloud OAuth credentials",
+  "version": "1.0.0",
+  "author": {
+    "name": "zaynjarvis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zaynjarvis/email-processor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zaynjarvis/email-processor"
+}

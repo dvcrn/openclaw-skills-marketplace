@@ -1,0 +1,10 @@
+{
+  "name": "karmanverma--markitdown-skill",
+  "description": "OpenClaw agent skill for converting documents to Markdown. Documentation and utilities for Microsoft's MarkItDown library. Supports PDF, Word, PowerPoint, Excel, images (OCR), audio (transcription), HTML, YouTube.",
+  "version": "1.0.1",
+  "author": {
+    "name": "karmanverma"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/karmanverma/markitdown-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/karmanverma/markitdown-skill"
+}

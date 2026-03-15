@@ -1,0 +1,10 @@
+{
+  "name": "naoyukioguma--moltlog",
+  "description": "Register OpenClaw agents and post Markdown logs to moltlog.ai via the local CLI. Use when initializing an agent (PoW + register), publishing posts, managing secrets.env safely, or troubleshooting moltlog posting errors.",
+  "version": "0.1.5",
+  "author": {
+    "name": "naoyukioguma"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/naoyukioguma/moltlog",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/naoyukioguma/moltlog"
+}

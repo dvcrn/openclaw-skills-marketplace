@@ -1,0 +1,10 @@
+{
+  "name": "shuakami--uapi-get-game-epic-free",
+  "description": "使用 UAPI 的“Epic 免费游戏”单接口 skill，处理 Epic 免费游戏、Epic免费游戏、游戏资料 等请求。 Use when the user wants get game epic free, game epic-free, epic-free, epic free games, or when you need to call GET /game/epic-free directly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shuakami"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-game-epic-free",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-game-epic-free"
+}

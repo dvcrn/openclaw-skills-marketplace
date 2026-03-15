@@ -1,0 +1,10 @@
+{
+  "name": "shawnshenopeninterx--creator-screening",
+  "description": "Screen and evaluate social media creators/influencers using configurable quality frameworks. Analyzes Instagram, TikTok, YouTube creators using Memories.ai V2 Video Understanding API — fetches profile metadata, runs MAI visual+audio AI analysis on videos, and scores against production quality, audio, delivery, and positioning criteria. Use when asked to vet creators, screen influencers, evaluate content quality, or generate creator reports.",
+  "version": "1.1.0",
+  "author": {
+    "name": "shawnshenopeninterx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shawnshenopeninterx/creator-screening",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shawnshenopeninterx/creator-screening"
+}

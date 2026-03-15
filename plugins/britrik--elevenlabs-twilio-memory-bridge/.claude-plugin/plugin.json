@@ -1,0 +1,10 @@
+{
+  "name": "britrik--elevenlabs-twilio-memory-bridge",
+  "description": "FastAPI personalization webhook that adds persistent caller memory and dynamic context injection to ElevenLabs Conversational AI agents on Twilio. No audio proxying, file-based persistence, OpenClaw compatible.",
+  "version": "1.0.0",
+  "author": {
+    "name": "britrik"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/britrik/elevenlabs-twilio-memory-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/britrik/elevenlabs-twilio-memory-bridge"
+}

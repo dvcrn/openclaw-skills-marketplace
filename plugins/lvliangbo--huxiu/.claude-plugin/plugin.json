@@ -1,0 +1,10 @@
+{
+  "name": "lvliangbo--huxiu",
+  "description": "获取虎嗅网文章和24小时资讯。用于当用户想查看虎嗅网热点文章或24小时模块内容。支持的场景：(1) 查看虎嗅网首页热点 (2) 获取24小时模块资讯 (3) 获取特定文章详细内容",
+  "version": "1.0.1",
+  "author": {
+    "name": "lvliangbo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lvliangbo/huxiu",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lvliangbo/huxiu"
+}

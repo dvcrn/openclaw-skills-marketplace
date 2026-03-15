@@ -1,0 +1,10 @@
+{
+  "name": "zcxggmu--linux-riscv-contribute",
+  "description": "Orchestrate an OpenClaw multi-agent pipeline to close Linux RISC-V gaps versus ARM/x86 (Linux tree + KVM lore), create and manage GitHub issues, generate design plans with Claude Code, implement/verify with Codex, and prepare upstream patch emails. Use when users ask to automate or run RISC-V kernel contribution workflows, gap analysis, issue-driven execution, or patch submission preparation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zcxggmu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zcxggmu/linux-riscv-contribute",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zcxggmu/linux-riscv-contribute"
+}

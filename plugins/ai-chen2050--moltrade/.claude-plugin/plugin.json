@@ -1,0 +1,10 @@
+{
+  "name": "ai-chen2050--moltrade",
+  "description": "Operate the Moltrade trading bot (config, backtest, test-mode runs, Nostr signal broadcast, exchange adapters, strategy integration) in OpenClaw.",
+  "version": "1.0.8",
+  "author": {
+    "name": "ai-chen2050"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ai-chen2050/moltrade",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ai-chen2050/moltrade"
+}

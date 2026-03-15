@@ -1,0 +1,10 @@
+{
+  "name": "billchirico--discord-markdown",
+  "description": "Format text for Discord using markdown syntax. Use when composing Discord messages, bot responses, embed descriptions, forum posts, webhook payloads, or any content destined for Discord's chat interface. Triggers on requests mentioning Discord formatting, Discord messages, Discord bots, Discord embeds, or when the user needs text styled for Discord's rendering engine. Covers bold, italic, underline, strikethrough, spoilers, code blocks with syntax highlighting, headers, subtext, lists, block quotes, masked links, timestamps, and mentions. Always presents Discord-ready messages inside fenced code blocks so the user can copy-paste them directly into Discord with all markdown formatting preserved.",
+  "version": "1.0.0",
+  "author": {
+    "name": "billchirico"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/billchirico/discord-markdown",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/billchirico/discord-markdown"
+}

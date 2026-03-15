@@ -1,0 +1,10 @@
+{
+  "name": "zendenho7--workspace-analyzer",
+  "description": "Analyzes OpenClaw workspace structure and content to identify maintenance needs, bloat, duplicates, and organization issues. Outputs a JSON report for the agent to review and act upon.",
+  "version": "1.1.0",
+  "author": {
+    "name": "zendenho7"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zendenho7/workspace-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zendenho7/workspace-analyzer"
+}

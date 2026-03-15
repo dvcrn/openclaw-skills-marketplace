@@ -1,0 +1,10 @@
+{
+  "name": "steipete--native-app-performance",
+  "description": "Native macOS/iOS app performance profiling via xctrace/Time Profiler and CLI-only analysis of Instruments traces. Use when asked to profile, attach, record, or analyze Instruments .trace files, find hotspots, or optimize native app performance without opening Instruments UI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/steipete/native-app-performance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/native-app-performance"
+}

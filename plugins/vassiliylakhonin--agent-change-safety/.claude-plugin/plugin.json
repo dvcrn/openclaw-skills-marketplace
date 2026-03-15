@@ -1,0 +1,10 @@
+{
+  "name": "vassiliylakhonin--agent-change-safety",
+  "description": "Production-safe change protocol for AI agents: preflight checks, risk scoring, rollback planning, HITL gates, and post-change validation. Use when users ask to update config, restart services, connect integrations, change automations, modify routing, rotate secrets, or run any potentially disruptive production change.",
+  "version": "0.3.0",
+  "author": {
+    "name": "vassiliylakhonin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vassiliylakhonin/agent-change-safety",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vassiliylakhonin/agent-change-safety"
+}

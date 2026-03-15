@@ -1,0 +1,10 @@
+{
+  "name": "fgbytes--sansfiction-library",
+  "description": "Authorized SansFiction library manager. Adds books to your library, updates reading status, logs progress, and can schedule a daily “how much did you read today?” check-in. Requires a SansFiction personal token (read/write).",
+  "version": "1.0.1",
+  "author": {
+    "name": "fgbytes"
+  },
+  "homepage": "https://sansfiction.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fgbytes/sansfiction-library"
+}

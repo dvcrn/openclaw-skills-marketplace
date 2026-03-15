@@ -1,0 +1,10 @@
+{
+  "name": "michaelfanous2--nyne-enrichment",
+  "description": "Enrich any person by email, phone, LinkedIn URL, or name using the Nyne Enrichment API. Returns contact info, social profiles, work history, education, and optional social media posts. Supports lite mode (3 credits), newsfeed add-on, and AI-enhanced deep search. Async with polling.",
+  "version": "1.0.0",
+  "author": {
+    "name": "michaelfanous2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/michaelfanous2/nyne-enrichment",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/michaelfanous2/nyne-enrichment"
+}

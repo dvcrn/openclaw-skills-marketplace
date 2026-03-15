@@ -1,0 +1,10 @@
+{
+  "name": "egge21m--cocod",
+  "description": "A Cashu ecash wallet CLI for Bitcoin and Lightning payments. Use when managing Cashu tokens, sending/receiving payments via Lightning (bolt11) or ecash, handling HTTP 402 X-Cashu payment requests, or viewing wallet history.",
+  "version": "0.0.13",
+  "author": {
+    "name": "egge21m"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/egge21m/cocod",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/egge21m/cocod"
+}

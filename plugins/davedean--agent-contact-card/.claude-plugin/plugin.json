@@ -1,0 +1,10 @@
+{
+  "name": "davedean--agent-contact-card",
+  "description": "Discover and create Agent Contact Cards - a vCard-like format for AI agents. Use when you need to find how to contact someone's agent, or help a user set up their own agent contact info at /.well-known/agent-card.",
+  "version": "0.1.0",
+  "author": {
+    "name": "davedean"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/davedean/agent-contact-card",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davedean/agent-contact-card"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "geoly-geo--geo-citation-writer",
+  "description": "Write AI-citable content in proven formats including FAQ pages, definition articles (\"What is X?\"), comparison guides (A vs B), how-to guides, and original data/statistics roundups. Creates content optimized for ChatGPT, Perplexity, Gemini, and Claude citations. Use whenever the user mentions writing content for AI citations, creating FAQ pages, writing definition articles, building comparison content, making how-to guides, or generating statistics roundups that AI will reference.",
+  "version": "1.0.0",
+  "author": {
+    "name": "geoly-geo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/geoly-geo/geo-citation-writer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/geoly-geo/geo-citation-writer"
+}

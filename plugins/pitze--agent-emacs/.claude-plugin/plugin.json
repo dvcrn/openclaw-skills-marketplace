@@ -1,0 +1,10 @@
+{
+  "name": "pitze--agent-emacs",
+  "description": "Unified persistent text-based environment for AI agents. Use when an agent needs to maintain state across sessions, perform structural code editing, or manage remote nodes via TRAMP. Transforms the agent from a stateless script executor into a stateful resident of a living Emacs daemon.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pitze"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pitze/agent-emacs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pitze/agent-emacs"
+}

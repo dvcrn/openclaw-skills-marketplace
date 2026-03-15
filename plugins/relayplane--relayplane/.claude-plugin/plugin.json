@@ -1,0 +1,10 @@
+{
+  "name": "relayplane--relayplane",
+  "description": "Agent ops layer for OpenClaw — observability, governance, and cost optimization with automatic failover. Never breaks your setup.",
+  "version": "4.1.0",
+  "author": {
+    "name": "relayplane"
+  },
+  "homepage": "https://relayplane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/relayplane/relayplane"
+}

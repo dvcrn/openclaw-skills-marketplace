@@ -1,0 +1,10 @@
+{
+  "name": "hydralerne--oblien-runtime",
+  "description": "Complete Oblien workspace environment — what you are running inside (Firecracker microVM), how auth works (gateway JWT vs raw token), and the full Internal API reference: files, search, exec, terminal, and watcher on port 9990.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hydralerne"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hydralerne/oblien-runtime",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hydralerne/oblien-runtime"
+}

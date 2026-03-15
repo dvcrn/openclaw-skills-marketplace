@@ -1,0 +1,10 @@
+{
+  "name": "cottom--translate-image",
+  "description": "Translate text in images, extract text via OCR, and remove text using TranslateImage AI. Use when user says 'translate image', 'OCR image', 'extract text from image', 'remove text from image', 'manga translate', or wants to process images with foreign-language text.",
+  "version": "1.0.3",
+  "author": {
+    "name": "cottom"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cottom/translate-image",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cottom/translate-image"
+}

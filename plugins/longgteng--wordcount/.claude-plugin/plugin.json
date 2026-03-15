@@ -1,0 +1,10 @@
+{
+  "name": "longgteng--wordcount",
+  "description": "Count lines, words, characters, and bytes of text or files. Supports CJK text. Use when: (1) counting words in a document, (2) checking file length, (3) estimating text size before sending to LLM.",
+  "version": "1.0.0",
+  "author": {
+    "name": "longgteng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/longgteng/wordcount",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/longgteng/wordcount"
+}

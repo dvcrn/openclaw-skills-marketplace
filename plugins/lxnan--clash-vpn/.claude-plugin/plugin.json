@@ -1,0 +1,10 @@
+{
+  "name": "lxnan--clash-vpn",
+  "description": "Manage Clash VPN proxy service for accessing blocked websites like Google Play. Use when the user needs to (1) setup/configure VPN proxy, (2) update Clash proxy configuration, (3) start/stop VPN service, (4) test proxy connectivity, or (5) access blocked resources through proxy.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lxnan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxnan/clash-vpn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxnan/clash-vpn"
+}

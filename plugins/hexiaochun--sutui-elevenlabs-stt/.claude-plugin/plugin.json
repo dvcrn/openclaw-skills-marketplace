@@ -1,0 +1,10 @@
+{
+  "name": "hexiaochun--sutui-elevenlabs-stt",
+  "description": "使用 ElevenLabs Scribe V2 进行语音转文字。当用户想要语音识别、音频转录、语音转文字，或提到 elevenlabs、scribe 时使用此 skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "hexiaochun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/sutui-elevenlabs-stt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/sutui-elevenlabs-stt"
+}

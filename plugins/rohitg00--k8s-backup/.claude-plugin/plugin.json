@@ -1,0 +1,10 @@
+{
+  "name": "rohitg00--k8s-backup",
+  "description": "Kubernetes backup and restore with Velero. Use when creating backups, restoring applications, managing disaster recovery, or migrating workloads between clusters.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rohitg00"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rohitg00/k8s-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rohitg00/k8s-backup"
+}

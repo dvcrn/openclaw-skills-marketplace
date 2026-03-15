@@ -1,0 +1,10 @@
+{
+  "name": "kesslerio--academic-deep-research",
+  "description": "Transparent, rigorous research with full methodology — not a black-box API wrapper. Conducts exhaustive investigation through mandated 2-cycle research per theme, APA 7th citations, evidence hierarchy, and 3 user checkpoints. Self-contained using native OpenClaw tools (web_search, web_fetch, sessions_spawn). Use for literature reviews, competitive intelligence, or any research requiring academic rigor and reproducibility.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kesslerio"
+  },
+  "homepage": "https://github.com/kesslerio/academic-deep-research-clawhub-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/academic-deep-research"
+}

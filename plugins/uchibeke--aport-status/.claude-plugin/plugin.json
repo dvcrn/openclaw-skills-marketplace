@@ -1,0 +1,10 @@
+{
+  "name": "uchibeke--aport-status",
+  "description": "Show your current APort passport status — capabilities, deliverable contract, pending tasks, and recent decisions. Like `git status` for your agent's identity and accountability state.",
+  "version": "0.1.0",
+  "author": {
+    "name": "uchibeke"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/uchibeke/aport-status",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/uchibeke/aport-status"
+}

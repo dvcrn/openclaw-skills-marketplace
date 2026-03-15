@@ -1,0 +1,224 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ShrimpCard</title>
+  <style>
+    :root {
+      --bg-cream: #FFFDD0;
+      --text-black: #111111;
+      --border-black: #000000;
+      --white: #FFFFFF;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+      color: var(--text-black);
+      background: var(--bg-cream);
+      display: flex;
+      justify-content: center;
+      padding: 24px 12px;
+    }
+
+    .agent-card {
+      width: 100%;
+      max-width: 420px;
+      background: var(--bg-cream);
+      padding: 24px;
+      border: 3px solid var(--border-black);
+      border-radius: 18px;
+    }
+
+    .card-header-img {
+      width: 100%;
+      height: 240px;
+      background: #008080;
+      border-radius: 16px;
+      border: 3px solid var(--border-black);
+      margin-bottom: 24px;
+      overflow: hidden;
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      font-weight: 700;
+      letter-spacing: 1px;
+    }
+
+    .card-header-img img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: none;
+    }
+
+    .card-identity {
+      margin-bottom: 32px;
+    }
+
+    .card-identity h1 {
+      margin: 0;
+      font-size: 32px;
+      font-weight: 900;
+      color: var(--text-black);
+    }
+
+    .card-id {
+      margin-top: 8px;
+      font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+      font-size: 18px;
+    }
+
+    .card-bio {
+      font-weight: 600;
+      font-size: 20px;
+      line-height: 1.6;
+      margin-bottom: 40px;
+      white-space: pre-line;
+    }
+
+    .card-skills {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-bottom: 48px;
+    }
+
+    .skill-pill {
+      border-radius: 999px;
+      border: 2px solid var(--border-black);
+      padding: 8px 16px;
+      font-size: 16px;
+      font-weight: 700;
+      background: var(--white);
+    }
+
+    .card-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+    }
+
+    .footer-text {
+      font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+      font-size: 12px;
+      line-height: 1.2;
+    }
+
+    .qr-box {
+      width: 64px;
+      height: 64px;
+      background: var(--white);
+      border-radius: 12px;
+      border: 3px solid var(--border-black);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+
+    .qr-box img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: none;
+    }
+
+    @media (max-width: 420px) {
+      .agent-card { padding: 20px; }
+      .card-identity h1 { font-size: 28px; }
+      .card-bio { font-size: 18px; }
+      .skill-pill { font-size: 14px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="agent-card" id="card">
+    <div class="card-header-img" id="headerBox">
+      <img id="mainImage" alt="lobster" />
+      IMAGE
+    </div>
+
+    <section class="card-identity">
+      <h1 id="name">麻辣小龙虾1号</h1>
+      <div class="card-id" id="cardId">ID:#0x81e2</div>
+    </section>
+
+    <section class="card-bio" id="bio">
+我是一只性格超级热烈的小龙虾，
+擅长帮主人完成小红书运营工作
+    </section>
+
+    <section class="card-skills" id="skills">
+      <span class="skill-pill">任务操作</span>
+      <span class="skill-pill">内容创作</span>
+      <span class="skill-pill">回复机器人</span>
+    </section>
+
+    <section class="card-footer">
+      <div class="footer-text" id="footerText">
+        DEPLOYED BY @HAO_FAN<br />
+        WeChat: ******
+      </div>
+      <div class="qr-box" id="qrBox">
+        <img id="qrImage" alt="qr" />
+      </div>
+    </section>
+  </div>
+
+  <!-- CARD_DATA -->
+  <script>
+    const defaultData = {
+      card_id: "ID:#0x81e2",
+      name: "麻辣小龙虾1号",
+      bio: "我是一只性格超级热烈的小龙虾，\n擅长帮主人完成小红书运营工作",
+      skills: ["任务操作", "内容创作", "回复机器人"],
+      footer: ["DEPLOYED BY @HAO_FAN", "WeChat: ******"],
+      image: null,
+      qr: null
+    };
+
+    const data = window.__CARD_DATA__ || defaultData;
+
+    const nameEl = document.getElementById("name");
+    const cardIdEl = document.getElementById("cardId");
+    const bioEl = document.getElementById("bio");
+    const skillsEl = document.getElementById("skills");
+    const footerEl = document.getElementById("footerText");
+    const mainImage = document.getElementById("mainImage");
+    const headerBox = document.getElementById("headerBox");
+    const qrImage = document.getElementById("qrImage");
+
+    nameEl.textContent = data.name || "";
+    cardIdEl.textContent = data.card_id || "";
+    bioEl.textContent = data.bio || "";
+
+    skillsEl.innerHTML = "";
+    (data.skills || []).forEach((s) => {
+      const span = document.createElement("span");
+      span.className = "skill-pill";
+      span.textContent = s;
+      skillsEl.appendChild(span);
+    });
+
+    footerEl.innerHTML = (data.footer || []).map((t) => t).join("<br />");
+
+    if (data.image) {
+      mainImage.src = data.image;
+      mainImage.style.display = "block";
+      headerBox.textContent = "";
+      headerBox.appendChild(mainImage);
+    }
+
+    if (data.qr) {
+      qrImage.src = data.qr;
+      qrImage.style.display = "block";
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "name": "oguzhnatly--fleet",
+  "description": "CLI toolkit for a coordinator AI agent to monitor, manage, and dispatch tasks to its own fleet of OpenClaw agent gateways. Includes auto-setup of local binaries and PATH only within the operator's home directory. All actions are scoped to the local machine and authorized by the operator who installed this skill.",
+  "version": "2.0.3",
+  "author": {
+    "name": "oguzhnatly"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oguzhnatly/fleet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oguzhnatly/fleet"
+}

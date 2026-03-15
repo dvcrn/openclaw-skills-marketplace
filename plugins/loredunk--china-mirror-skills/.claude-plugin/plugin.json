@@ -1,0 +1,10 @@
+{
+  "name": "loredunk--china-mirror-skills",
+  "description": "Main entry point for configuring and diagnosing all development tools in China's network\n environment. Detects installed tools (pip/uv/poetry, npm/yarn/pnpm, docker, apt, cargo, go,\n conda, flutter, homebrew), checks for proxy conflicts, and applies appropriate mirror\n configurations for each. Also provides comprehensive network diagnostics — tests connectivity\n to official and mirror sources, detects current mirror configuration status, and generates\n actionable recommendations. This is a self-contained skill — all setup and diagnostic scripts\n are bundled in the scripts/ subdirectory.\n Use this skill when the user wants to configure everything at once, is setting up a new\n development machine in China, or doesn't know which specific tool is slow.\n Also use when the user says \"配置国内镜像\", \"网络太慢全部配一下\", \"为什么下载慢\", \"诊断网络\",\n \"diagnose network\", or describes a general \"slow downloads in China\" problem.\n Use for diagnostics when the user wants to audit their environment, compare mirror speeds,\n or troubleshoot network issues before applying mirror configurations.\n For individual tool fixes, still use this skill and run only the relevant script.",
+  "version": "1.0.0",
+  "author": {
+    "name": "loredunk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/loredunk/china-mirror-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/loredunk/china-mirror-skills"
+}

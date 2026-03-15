@@ -1,0 +1,10 @@
+{
+  "name": "phuc-nt--facebook-group-monitor",
+  "description": "Monitor Facebook groups for new posts using Playwright browser automation with stealth mode and persistent login session. Scrapes group feed, tracks seen posts, reports only new ones. Captures a single stitched \"feed strip\" screenshot (viewport scroll + Pillow stitch) for efficient LLM vision analysis — one image covers the full feed. Use when: monitoring Facebook groups, scraping FB posts, checking new group activity, Facebook automation, marketplace monitoring, book sale tracking, competitor group monitoring. Triggers: 'check Facebook group', 'scrape FB posts', 'new posts in group', 'monitor group', 'Facebook marketplace', 'group update'.",
+  "version": "1.3.0",
+  "author": {
+    "name": "phuc-nt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phuc-nt/facebook-group-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phuc-nt/facebook-group-monitor"
+}

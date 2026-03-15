@@ -1,0 +1,22 @@
+# Refactor: Analyze -> Plan -> Implement -> Verify
+id: refactor
+name: Refactor
+description: Analyze code structure, plan refactoring, implement changes, verify nothing broke.
+steps:
+  - id: analyze
+    agent: architect
+    task_template: "Analyze the code structure and identify refactoring opportunities. Map dependencies and assess risk:\n\n{{ user_input }}"
+
+  - id: plan
+    agent: architect
+    task_template: "Create a step-by-step refactoring plan. Each step should be a safe, incremental change that keeps tests green:\n\n{{ analyze_output }}"
+
+  - id: implement
+    agent: dev
+    task_template: "Implement this refactoring plan. Make incremental changes and ensure tests pass after each step:\n\n{{ plan_output }}"
+    timeout: 900
+
+  - id: verify
+    agent: tester
+    task_template: "Verify the refactoring is correct. Run the full test suite, check for regressions, and confirm the code is cleaner:\n\n{{ implement_output }}"
+    timeout: 600

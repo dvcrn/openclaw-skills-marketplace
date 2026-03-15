@@ -1,0 +1,10 @@
+{
+  "name": "lxcong--web3-data",
+  "description": "Explore Web3 on-chain data using Chainbase APIs. Use this skill when the user asks about blockchain data, token holders, wallet addresses, token prices, NFTs, ENS domains, transactions, DeFi portfolios, or any on-chain analytics. Triggers include: \"top holders of\", \"who holds\", \"wallet address\", \"address labels\", \"token price\", \"token transfers\", \"NFT owners\", \"ENS domain\", \"on-chain data\", \"blockchain query\", \"SQL query on-chain\", or any request to look up, analyze, or explore Web3/blockchain data across Ethereum, BSC, Polygon, Arbitrum, Optimism, Base, Avalanche, zkSync, and other EVM chains.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lxcong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxcong/web3-data",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxcong/web3-data"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lunrenyi--x-mirror",
+  "description": "x-mirror is a comprehensive mirror source management tool for various package managers. Use this skill whenever users need to configure, switch, or query package manager download mirrors. This skill handles: setting up and switching mirrors for package managers (pip, npm, brew, apt, go, cargo, gem, etc.), viewing available mirror options, checking current mirror configuration, restoring default official sources, and optimizing download speeds in China regions. Triggered by queries like \"set npm mirror\", \"change pip source\", \"npm mirror speed\", \"pip Tsinghua mirror\", \"brew Chinese mirror\", \"x mirror apt\", \"how to speed up npm download\", \"configure pip mirror\", \"switch npm registry\", or any request related to package manager mirrors, registry settings, or download acceleration. This skill is essential for developers in China or anyone needing to optimize package download speeds.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lunrenyi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lunrenyi/x-mirror",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lunrenyi/x-mirror"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "rexlunae--digitalocean",
+  "description": "Manage DigitalOcean resources via API — Droplets (create/destroy/resize/power), DNS zones and records, Spaces (object storage), Databases, Firewalls, Load Balancers, Kubernetes, and account/billing info.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rexlunae"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rexlunae/digitalocean",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rexlunae/digitalocean"
+}

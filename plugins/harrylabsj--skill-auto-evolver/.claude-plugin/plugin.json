@@ -1,0 +1,10 @@
+{
+  "name": "harrylabsj--skill-auto-evolver",
+  "description": "Analyze and improve OpenClaw agent skills by tracking usage, checking skill health, scanning code quality, and generating actionable improvement suggestions. Use when evaluating skill reliability, performance, maintainability, or release readiness.",
+  "version": "0.1.1",
+  "author": {
+    "name": "harrylabsj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/skill-auto-evolver",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/skill-auto-evolver"
+}

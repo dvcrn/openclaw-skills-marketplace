@@ -1,0 +1,10 @@
+{
+  "name": "cryptobro-man--shared-pinecone-rag",
+  "description": "Use the shared Pinecone RAG index for any agent in this workspace. Use when an agent needs to ingest markdown/text docs into pulse-rag or query semantic context from the shared index.",
+  "version": "1.0.1",
+  "author": {
+    "name": "cryptobro-man"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cryptobro-man/shared-pinecone-rag",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cryptobro-man/shared-pinecone-rag"
+}

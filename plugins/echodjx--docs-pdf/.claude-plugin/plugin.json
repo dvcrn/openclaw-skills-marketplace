@@ -1,0 +1,10 @@
+{
+  "name": "echodjx--docs-pdf",
+  "description": "Use this skill whenever the user wants to do anything with PDF files. Triggers include: reading or extracting text/tables from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating new PDFs from scratch, filling PDF forms, encrypting or password-protecting PDFs, extracting images from PDFs, OCR on scanned PDFs, compressing/optimizing PDFs, viewing PDF info/metadata, converting images to PDF, converting PDF to images, comparing two PDFs, reordering pages, repairing corrupted PDFs, and listing fonts. Also trigger when the user uploads a .pdf file and asks you to do something with it, or when they mention \"PDF\" in any context involving file creation, editing, or data extraction — even if they don't say \"PDF skill\" explicitly.",
+  "version": "1.0.3",
+  "author": {
+    "name": "echodjx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/echodjx/docs-pdf",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/echodjx/docs-pdf"
+}

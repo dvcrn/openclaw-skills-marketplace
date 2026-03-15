@@ -1,0 +1,10 @@
+{
+  "name": "christianhaberl--revolut-business",
+  "description": "Revolut Business API CLI — accounts, balances, transactions, counterparties, payments, FX exchange, CSV export. Auto-refreshes OAuth tokens. Business accounts only (not personal).",
+  "version": "1.0.1",
+  "author": {
+    "name": "christianhaberl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/christianhaberl/revolut-business",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/christianhaberl/revolut-business"
+}

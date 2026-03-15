@@ -1,0 +1,10 @@
+{
+  "name": "moltcheck--moltcheck",
+  "description": "Security scanner for Moltbot skills. Scan GitHub repositories for vulnerabilities before installation.",
+  "version": "1.0.4",
+  "author": {
+    "name": "moltcheck"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moltcheck/moltcheck",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moltcheck/moltcheck"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lixingxun--orthogonal-agent-framework",
+  "description": "正交性Agent框架 - 模块化AI Agent设计系统。将Agent能力拆分为规划、执行、记忆、评估四个正交维度，实现可组合、可替换、可测试、可扩展的Agent架构。",
+  "version": "1.0.0",
+  "author": {
+    "name": "lixingxun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lixingxun/orthogonal-agent-framework",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lixingxun/orthogonal-agent-framework"
+}

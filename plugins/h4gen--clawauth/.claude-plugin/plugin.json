@@ -1,0 +1,10 @@
+{
+  "name": "h4gen--clawauth",
+  "description": "Let agents request OAuth access from end users via short links, continue working asynchronously, and later claim reusable third-party API tokens from local keychain storage instead of a centralized SaaS token vault.",
+  "version": "1.0.6",
+  "author": {
+    "name": "h4gen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/h4gen/clawauth",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/h4gen/clawauth"
+}

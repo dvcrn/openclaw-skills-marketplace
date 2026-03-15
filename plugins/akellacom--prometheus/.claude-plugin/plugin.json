@@ -1,0 +1,10 @@
+{
+  "name": "akellacom--prometheus",
+  "description": "Query Prometheus monitoring data to check server metrics, resource usage, and system health. Use when the user asks about server status, disk space, CPU/memory usage, network stats, or any metrics collected by Prometheus. Supports multiple Prometheus instances with aggregated queries, config file or environment variables, and HTTP Basic Auth.",
+  "version": "1.1.0",
+  "author": {
+    "name": "akellacom"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/akellacom/prometheus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/akellacom/prometheus"
+}

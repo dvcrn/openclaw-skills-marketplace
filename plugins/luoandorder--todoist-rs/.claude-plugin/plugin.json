@@ -1,0 +1,10 @@
+{
+  "name": "luoandorder--todoist-rs",
+  "description": "Manage Todoist tasks. Use when the user mentions \"todoist\", \"my tasks\", \"task list\", \"add a task\", \"complete task\", or wants to interact with their Todoist account.",
+  "version": "1.0.1",
+  "author": {
+    "name": "luoandorder"
+  },
+  "homepage": "https://github.com/LuoAndOrder/todoist-rs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luoandorder/todoist-rs"
+}

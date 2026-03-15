@@ -1,0 +1,10 @@
+{
+  "name": "cooperun--workspace-git-backup",
+  "description": "Set up automatic scheduled backups to GitHub or GitLab. Use when users want to backup their OpenClaw workspace or other directories. Supports GitHub CLI for easy repo creation. Works on macOS (launchd) and Linux (cron).",
+  "version": "1.0.0",
+  "author": {
+    "name": "cooperun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cooperun/workspace-git-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cooperun/workspace-git-backup"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kaicianflone--consensus-persona-respawn",
+  "description": "Ledger-informed persona lifecycle management. Replaces low-performing personas with successor personas derived from mistake patterns in board decision history, preserving adaptive governance over long-running automation. Reputation updates are computed by consensus-persona-engine.",
+  "version": "1.1.13",
+  "author": {
+    "name": "kaicianflone"
+  },
+  "homepage": "https://github.com/kaicianflone/consensus-persona-respawn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kaicianflone/consensus-persona-respawn"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "pengxiao-wang--lark-report-collector",
+  "description": "Collect weekly reports from Lark Reports (oa.larksuite.com), summarize into Lark Docs, and notify. Use when: (1) collecting weekly reports from specific teams/templates, (2) checking who hasn't submitted reports, (3) generating report summaries as Lark documents. Requires browser automation (Reports is a SPA, API not available on international Lark).",
+  "version": "1.0.0",
+  "author": {
+    "name": "pengxiao-wang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pengxiao-wang/lark-report-collector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pengxiao-wang/lark-report-collector"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "poisondminds--gmail-inbox-zero-triage",
+  "description": "Gmail Inbox Zero Triage - Interactive inbox management using gog CLI with Telegram buttons. Use when the user wants to achieve inbox zero, triage their Gmail inbox interactively, process ALL inbox messages (read and unread) with AI summaries and batch actions (archive, filter, unsubscribe). OAuth-based, no passwords needed.",
+  "version": "1.0.1",
+  "author": {
+    "name": "poisondminds"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/poisondminds/gmail-inbox-zero-triage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/poisondminds/gmail-inbox-zero-triage"
+}

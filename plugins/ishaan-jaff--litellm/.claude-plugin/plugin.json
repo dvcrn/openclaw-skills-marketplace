@@ -1,0 +1,10 @@
+{
+  "name": "ishaan-jaff--litellm",
+  "description": "Call 100+ LLM providers through LiteLLM's unified API. Use when you need to call a different model than your primary (e.g., use GPT-4 for code review while running on Claude), compare outputs from multiple models, route to cheaper models for simple tasks, or access models your runtime doesn't natively support.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ishaan-jaff"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ishaan-jaff/litellm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ishaan-jaff/litellm"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zhouyi531--tuqu-photo-skill",
+  "description": "Use when interacting with the Tuqu Dream Weaver photo or billing APIs for image generation, preset application, prompt enhancement, catalog or model discovery, character management, history queries, token balance checks, or recharge flows, especially around /api/v2/generate-image, /api/v2/apply-preset, /api/v2/generate-for-character, /api/enhance-prompt, /api/catalog, /api/model-costs, /api/characters, /api/history, /api/billing/balance, /api/v1/recharge/plans, /api/v1/recharge/wechat, or /api/v1/recharge/stripe.",
+  "version": "1.0.1",
+  "author": {
+    "name": "zhouyi531"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhouyi531/tuqu-photo-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhouyi531/tuqu-photo-skill"
+}

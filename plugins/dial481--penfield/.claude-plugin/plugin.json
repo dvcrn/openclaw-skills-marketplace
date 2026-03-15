@@ -1,0 +1,10 @@
+{
+  "name": "dial481--penfield",
+  "description": "Persistent memory for OpenClaw agents. Store decisions, preferences, and context that survive across sessions. Build knowledge graphs that compound over time. Hybrid search (BM25 + vector + graph) recalls what matters when you need it.",
+  "version": "1.1.2",
+  "author": {
+    "name": "dial481"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dial481/penfield",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dial481/penfield"
+}

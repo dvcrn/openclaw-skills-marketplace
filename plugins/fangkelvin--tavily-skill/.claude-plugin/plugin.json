@@ -1,0 +1,10 @@
+{
+  "name": "fangkelvin--tavily-skill",
+  "description": "Use Tavily API for real-time web search and content extraction. Use when: user needs real-time web search results, research, or current information from the web. Requires Tavily API key.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fangkelvin"
+  },
+  "homepage": "https://tavily.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fangkelvin/tavily-skill"
+}

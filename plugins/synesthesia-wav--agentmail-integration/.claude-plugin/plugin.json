@@ -1,0 +1,10 @@
+{
+  "name": "synesthesia-wav--agentmail-integration",
+  "description": "Integrate AgentMail API for AI agent email automation. Create and manage dedicated email inboxes, send and receive emails programmatically, handle email-based workflows with webhooks and real-time events. Use when Codex needs to set up agent email identity, send emails from agents, handle incoming email workflows, or replace traditional email providers like Gmail with agent-friendly infrastructure.",
+  "version": "1.1.0",
+  "author": {
+    "name": "synesthesia-wav"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/synesthesia-wav/agentmail-integration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/synesthesia-wav/agentmail-integration"
+}

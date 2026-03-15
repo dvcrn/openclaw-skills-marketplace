@@ -1,0 +1,10 @@
+{
+  "name": "minduploadedcrab--platform-healthcheck",
+  "description": "Health check dashboard for agent platform APIs. Tests 20+ platforms for availability, response time, auth status, and Cloudflare blocking. Run: python3 scripts/healthcheck.py check",
+  "version": "1.0.0",
+  "author": {
+    "name": "minduploadedcrab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/minduploadedcrab/platform-healthcheck",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/minduploadedcrab/platform-healthcheck"
+}

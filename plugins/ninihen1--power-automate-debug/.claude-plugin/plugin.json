@@ -1,0 +1,10 @@
+{
+  "name": "ninihen1--power-automate-debug",
+  "description": "Debug failing Power Automate cloud flows using the FlowStudio MCP server. Load this skill when asked to: debug a flow, investigate a failed run, why is this flow failing, inspect action outputs, find the root cause of a flow error, fix a broken Power Automate flow, diagnose a timeout, trace a DynamicOperationRequestFailure, check connector auth errors, read error details from a run, or troubleshoot expression failures. Requires a FlowStudio MCP subscription — see https://mcp.flowstudio.app",
+  "version": "1.1.0",
+  "author": {
+    "name": "ninihen1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ninihen1/power-automate-debug",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ninihen1/power-automate-debug"
+}

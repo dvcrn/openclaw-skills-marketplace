@@ -1,0 +1,10 @@
+{
+  "name": "javainthinking--apipick-ip-geolocation",
+  "description": "Look up geographic location and network information for any IPv4 or IPv6 address using the apipick IP Geolocation API. Returns country, continent, city, latitude/longitude, timezone, currency, ISP, and ASN. Use when the user wants to geolocate an IP address, find the country or city for an IP, identify the ISP or ASN of an IP, look up timezone or currency for an IP, or check their own public IP location. Omit the IP parameter to look up the caller's own IP. Requires an apipick API key (x-api-key). Get a free key at https://www.apipick.com.",
+  "version": "1.0.0",
+  "author": {
+    "name": "javainthinking"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/javainthinking/apipick-ip-geolocation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/javainthinking/apipick-ip-geolocation"
+}

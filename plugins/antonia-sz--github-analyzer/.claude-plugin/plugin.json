@@ -1,0 +1,10 @@
+{
+  "name": "antonia-sz--github-analyzer",
+  "description": "输入项目想法或 GitHub 链接，自动搜索相关开源项目，生成结构化分析报告（技术栈/优缺点/评分）， 并可下载评分最高的前3名代码包。支持意图搜索和直链分析两种模式。",
+  "version": "1.0.0",
+  "author": {
+    "name": "antonia-sz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/antonia-sz/github-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/antonia-sz/github-analyzer"
+}

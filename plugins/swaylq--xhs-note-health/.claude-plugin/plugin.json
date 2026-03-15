@@ -1,0 +1,10 @@
+{
+  "name": "swaylq--xhs-note-health",
+  "description": "检测小红书笔记限流状态。通过创作者后台 API 获取所有笔记的 level 字段，判断限流等级、敏感词命中、标签风险。",
+  "version": "1.1.0",
+  "author": {
+    "name": "swaylq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/swaylq/xhs-note-health",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/swaylq/xhs-note-health"
+}

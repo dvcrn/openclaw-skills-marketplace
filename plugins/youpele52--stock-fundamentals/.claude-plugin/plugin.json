@@ -1,0 +1,10 @@
+{
+  "name": "youpele52--stock-fundamentals",
+  "description": "Run local script to analyze stock fundamentals (P/E, EPS, margins, debt, ROE, analyst targets) using yfinance. Use exec tool to run: uv run /root/.openclaw/workspace/skills/stock-fundamentals/src/main.py <TICKER>. No API key required.",
+  "version": "0.1.1",
+  "author": {
+    "name": "youpele52"
+  },
+  "homepage": "https://finance.yahoo.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/youpele52/stock-fundamentals"
+}

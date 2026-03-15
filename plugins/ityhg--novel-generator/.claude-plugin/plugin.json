@@ -1,0 +1,10 @@
+{
+  "name": "ityhg--novel-generator",
+  "description": "根据用户提供的内容方向自动生成提示词并创作爽文小说。适用场景：(1) 用户提供小说方向/题材/关键词，(2) 需要生成章节连贯的长篇爽文，(3) 需要维护角色、地点、情节的连续性，(4) 需要为关键情节生成图解，(5) 需要记录生成失败场景以优化后续创作。支持都市、修仙、玄幻、重生、系统流等多种题材。Use when user asks to write a novel, generate fiction, create stories, or mentions 爽文/小说/写作。",
+  "version": "1.0.0",
+  "author": {
+    "name": "ityhg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ityhg/novel-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ityhg/novel-generator"
+}

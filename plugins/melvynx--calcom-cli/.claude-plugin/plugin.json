@@ -1,0 +1,10 @@
+{
+  "name": "melvynx--calcom-cli",
+  "description": "Manage Cal.com calendars via CLI - schedules, bookings, event types, slots, user profile. Use when user mentions 'Cal.com', 'scheduling', 'bookings', or needs to interact with the Cal.com API.",
+  "version": "0.1.0",
+  "author": {
+    "name": "melvynx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/melvynx/calcom-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/melvynx/calcom-cli"
+}

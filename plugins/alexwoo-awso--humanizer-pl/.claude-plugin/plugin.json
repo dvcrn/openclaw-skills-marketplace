@@ -1,0 +1,10 @@
+{
+  "name": "alexwoo-awso--humanizer-pl",
+  "description": "Usuwa ślady pisania AI z polskiego tekstu. Używaj przy edycji lub przeglądaniu\n tekstu, aby brzmiał bardziej naturalnie i po ludzku. Oparte na przewodniku\n Wikipedii „Signs of AI writing\" oraz wzorcach specyficznych dla polszczyzny.\n Wykrywa i naprawia: napuszanie znaczenia, język promocyjny, powierzchowne\n analizy z imiesłowami, niejasne przypisania, nadużycie myślników, regułę\n trzech, słownictwo AI, negatywne paralelizmy i nadmierne frazy łączące.",
+  "version": "0.1.0",
+  "author": {
+    "name": "alexwoo-awso"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alexwoo-awso/humanizer-pl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alexwoo-awso/humanizer-pl"
+}

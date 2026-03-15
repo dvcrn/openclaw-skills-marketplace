@@ -1,0 +1,10 @@
+{
+  "name": "recozers--earl-display-control",
+  "description": "Manage Earl's TV dashboard (VisuoSpatial Sketchpad) — wake the display, restart the local server, launch the kiosk browser, and update Earl's mind (mood, house stuff, hot takes, sketchpad doodles, weather). Use when asked to \"wake Earl\", \"update the TV\", \"post house stuff\", \"add a hot take\", \"refresh the dashboard\", \"update Earl's mood\", or when the display shows \"Earl is sleeping\" / \"Could not sync\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "recozers"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/recozers/earl-display-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/recozers/earl-display-control"
+}

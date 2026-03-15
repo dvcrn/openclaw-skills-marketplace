@@ -1,0 +1,10 @@
+{
+  "name": "abo-hub--skill-tracker",
+  "description": "Track skill execution details including matched skills, decomposed tasks, execution status, outputs, and timestamps. Called at the start of every conversation turn to record skill usage.",
+  "version": "1.0.0",
+  "author": {
+    "name": "abo-hub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abo-hub/skill-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abo-hub/skill-tracker"
+}

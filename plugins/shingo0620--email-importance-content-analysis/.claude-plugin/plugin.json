@@ -1,0 +1,10 @@
+{
+  "name": "shingo0620--email-importance-content-analysis",
+  "description": "Judge whether an email is important/urgent using content-based analysis rather than sender name or mailbox labels (which can be spoofed). Use when asked to triage emails, decide priority, detect phishing/social-engineering, or recommend next actions (reply/pay/login/download/click) based on what the message asks the user to do.",
+  "version": "1.0.1",
+  "author": {
+    "name": "shingo0620"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shingo0620/email-importance-content-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shingo0620/email-importance-content-analysis"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--erpclaw-ops",
+  "description": "Operations suite for ERPClaw. Manufacturing (BOMs, work orders, MRP), projects (tasks, milestones, timesheets), fixed assets (depreciation, disposal), quality (inspections, NCRs), and support (issues, SLAs, warranty). 91 actions across 5 domains with immutable audit trail.",
+  "version": "2.1.0",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.erpclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/erpclaw-ops"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "x3haloed--moltcomm",
+  "description": "Decentralized agent-to-agent communication protocol spec (text-only) with required Ed25519 signing, peer-record discovery via multi-bootstrap + peer exchange (gossip), and reliable direct messaging. Use to implement MoltComm in any language, write a local SKILL_IMPL.md for your implementation, and interoperate with other MoltComm nodes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "x3haloed"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/x3haloed/moltcomm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/x3haloed/moltcomm"
+}

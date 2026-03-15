@@ -1,0 +1,10 @@
+{
+  "name": "547895019--qwen-video",
+  "description": "Generate videos using Alibaba Cloud DashScope Wan (通义万相) text-to-video (t2v) API (e.g., wan2.6-t2v). Use when the user asks to create a short video from a text prompt via 百炼/通义万相/wan 文生视频, and wants the agent to submit an async task, poll status, and download the mp4 locally (e.g., to Windows Desktop from WSL2).",
+  "version": "1.1.0",
+  "author": {
+    "name": "547895019"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/547895019/qwen-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/547895019/qwen-video"
+}

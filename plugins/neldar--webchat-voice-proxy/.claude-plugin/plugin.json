@@ -1,0 +1,10 @@
+{
+  "name": "neldar--webchat-voice-proxy",
+  "description": "⚠️ DEPRECATED — This skill has been split into two separate skills for better modularity: **webchat-https-proxy** (HTTPS/WSS reverse proxy) and **webchat-voice-gui** (mic button, VU meter, i18n). Install those instead. Use **webchat-voice-full-stack** for one-step deployment of all components. Keywords: voice input, microphone, WebChat, Control UI, speech to text, STT, local transcription, MediaRecorder, HTTPS proxy, voice button, mic button, push-to-talk, PTT, keyboard shortcut, i18n, localization.",
+  "version": "0.2.2",
+  "author": {
+    "name": "neldar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neldar/webchat-voice-proxy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neldar/webchat-voice-proxy"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dalomeve--clawhub-web-only-publish",
+  "description": "Publish skills to ClawHub via web dashboard only. No CLI login, no device flow. Reuse existing browser session.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dalomeve"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/clawhub-web-only-publish",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dalomeve/clawhub-web-only-publish"
+}

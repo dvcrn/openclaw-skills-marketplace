@@ -1,0 +1,10 @@
+{
+  "name": "nosselil--captions-and-clips-from-youtube-link",
+  "description": "Turn YouTube videos into viral short-form clips with captions (TikTok, Reels, Shorts) using the MakeAIClips API at https://makeaiclips.live. Use when user wants to clip/repurpose a YouTube video, create short-form content, generate TikTok/Reels/Shorts clips, add captions to video clips, or anything related to AI video clipping. Free tier gives 10 clips/month with no credit card. Requires env var MAKEAICLIPS_API_KEY — get one free at https://makeaiclips.live/sign-up. Note: YouTube URLs are sent to makeaiclips.live for processing.",
+  "version": "1.3.1",
+  "author": {
+    "name": "nosselil"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nosselil/captions-and-clips-from-youtube-link",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nosselil/captions-and-clips-from-youtube-link"
+}

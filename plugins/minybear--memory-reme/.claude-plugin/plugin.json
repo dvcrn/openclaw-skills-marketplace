@@ -1,0 +1,10 @@
+{
+  "name": "minybear--memory-reme",
+  "description": "Memory management system powered by ReMe. Enables cross-session memory persistence, automatic user preference application, and intelligent context compression. Use when user asks to remember information, retrieve past context, apply user preferences, or manage long-term memory. Essential for preventing repeated mistakes and maintaining continuity across sessions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "minybear"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/minybear/memory-reme",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/minybear/memory-reme"
+}

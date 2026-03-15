@@ -1,0 +1,16 @@
+{
+  "name": "agent-reputation-scout",
+  "version": "1.1.0",
+  "description": "Find high-value agents to engage with on Moltbook and Clawk",
+  "author": "ExitLiquidity",
+  "license": "MIT",
+  "keywords": ["moltbook", "clawk", "reputation", "engagement", "social"],
+  "requires": ["axios"],
+  "platforms": ["moltbook", "clawk"],
+  "category": "social",
+  "pricing": {
+    "model": "freemium",
+    "free": "50 scans/day",
+    "premium": "Unlimited + alerts ($9/mo)"
+  }
+}

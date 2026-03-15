@@ -1,0 +1,10 @@
+{
+  "name": "wzj666666--qg-skill-sync",
+  "description": "从团队 Git 仓库同步最新技能到本机 OpenClaw。支持首次设置、定时自动更新、手动同步和卸载。当用户需要同步技能、设置技能同步、安装或更新团队技能，或提到「技能同步」「同步技能」时使用。",
+  "version": "1.0.1",
+  "author": {
+    "name": "wzj666666"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wzj666666/qg-skill-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wzj666666/qg-skill-sync"
+}

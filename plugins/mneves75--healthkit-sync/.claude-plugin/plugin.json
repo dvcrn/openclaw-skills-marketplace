@@ -1,0 +1,10 @@
+{
+  "name": "mneves75--healthkit-sync",
+  "description": "iOS HealthKit data sync CLI commands and patterns. Use when working with healthsync CLI, fetching Apple Health data (steps, heart rate, sleep, workouts), pairing iOS devices over local network, or understanding the iOS Health Sync project architecture including mTLS certificate pinning, Keychain storage, and audit logging.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mneves75"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mneves75/healthkit-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mneves75/healthkit-sync"
+}

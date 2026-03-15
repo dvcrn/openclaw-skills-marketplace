@@ -1,0 +1,43 @@
+{
+  "name": "odoo_store_manager",
+  "version": "1.0.0",
+  "description": "Seamlessly manage your Odoo store directly from OpenClaw. Query sales, check stock, and update inventory using Natural Language.",
+  "author": "OpenClaw Community",
+  "license": "MIT",
+  "entrypoint": "SKILL.md",
+  "requirements": {
+    "python": ">=3.8"
+  },
+  "permissions": {
+    "network": ["https://*"],
+    "file_system": ["read", "write"]
+  },
+  "env": [
+    {
+      "name": "ODOO_URL",
+      "description": "The full URL of your Odoo instance (e.g., https://my-store.odoo.com)",
+      "required": true
+    },
+    {
+      "name": "ODOO_DB",
+      "description": "The name of your Odoo database",
+      "required": true
+    },
+    {
+      "name": "ODOO_USER",
+      "description": "Your Odoo login email or username",
+      "required": true
+    },
+    {
+      "name": "ODOO_PASSWORD",
+      "description": "Your Odoo password or API key",
+      "required": true,
+      "secret": true
+    },
+    {
+      "name": "ODOO_BOT_ID",
+      "description": "The Partner ID of the Odoo user that OpenClaw will use to reply in Odoo Discuss",
+      "required": true
+    }
+  ]
+}

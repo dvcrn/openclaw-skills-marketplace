@@ -1,0 +1,10 @@
+{
+  "name": "cookiemikeliu--skill-security-scanner-clean",
+  "description": "Security scanner for OpenClaw skills. Use when installing, updating, or auditing skills to detect malicious backdoors, suspicious code patterns, data exfiltration risks, and security vulnerabilities. Automatically analyzes Python/JavaScript/Shell code for dangerous functions (eval, exec, system calls), network requests, file operations, environment variable access, obfuscation patterns, and known attack signatures. Provides security score and installation recommendations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cookiemikeliu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cookiemikeliu/skill-security-scanner-clean",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cookiemikeliu/skill-security-scanner-clean"
+}

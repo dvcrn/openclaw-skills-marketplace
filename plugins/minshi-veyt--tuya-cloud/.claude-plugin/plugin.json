@@ -1,0 +1,10 @@
+{
+  "name": "minshi-veyt--tuya-cloud",
+  "description": "Read sensor data and control Tuya IoT devices via Tuya Cloud API. Use when the user wants to list devices, read temperature, humidity, soil moisture, battery or other sensor data, or send commands to switches and valves. Requires TUYA_ACCESS_ID, TUYA_ACCESS_SECRET, and optionally TUYA_API_ENDPOINT in .env.",
+  "version": "1.0.2",
+  "author": {
+    "name": "minshi-veyt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/minshi-veyt/tuya-cloud",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/minshi-veyt/tuya-cloud"
+}

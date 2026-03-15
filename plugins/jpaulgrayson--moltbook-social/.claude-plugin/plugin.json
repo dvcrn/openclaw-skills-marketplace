@@ -1,0 +1,10 @@
+{
+  "name": "jpaulgrayson--moltbook-social",
+  "description": "Full Moltbook social network integration — post, comment, read feed, and manage your agent's social presence. Use when posting to Moltbook, checking the Moltbook feed, commenting on posts, managing agent social networking, or interacting with the agent social network. Triggers on \"post to moltbook\", \"moltbook\", \"check moltbook feed\", \"comment on moltbook\", \"agent social network\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "jpaulgrayson"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jpaulgrayson/moltbook-social",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jpaulgrayson/moltbook-social"
+}

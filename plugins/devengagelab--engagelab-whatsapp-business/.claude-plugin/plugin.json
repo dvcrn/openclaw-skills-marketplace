@@ -1,0 +1,10 @@
+{
+  "name": "devengagelab--engagelab-whatsapp-business",
+  "description": "Call EngageLab WhatsApp Business REST APIs to send WhatsApp messages (template, text, image, video, audio, document, sticker), manage WABA message templates, and handle callback webhooks for delivery status and user responses. Use this skill whenever the user wants to send WhatsApp messages via EngageLab, create or manage WhatsApp templates, configure WhatsApp callbacks, or integrate with the EngageLab WhatsApp Business platform. Also trigger when the user mentions \"engagelab whatsapp\", \"whatsapp business api\", \"whatsapp api\", \"send whatsapp message\", \"whatsapp template\", \"waba\", \"whatsapp notification\", \"whatsapp marketing\", or asks to integrate WhatsApp messaging into their application. This skill covers authentication, all message types, template CRUD, and callback handling — use it even if the user only needs one of these capabilities.",
+  "version": "1.0.0",
+  "author": {
+    "name": "devengagelab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/devengagelab/engagelab-whatsapp-business",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/devengagelab/engagelab-whatsapp-business"
+}

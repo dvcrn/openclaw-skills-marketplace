@@ -1,0 +1,10 @@
+{
+  "name": "ppaibb--codex-switcher",
+  "description": "Local OpenClaw skill for managing multiple OpenAI Codex accounts through auth snapshots. Use when the user wants to add a Codex account, switch between Codex accounts, inspect which Codex account is active, view remaining Codex quota, refresh expiring Codex tokens, or maintain a local multi-account Codex workflow without relying on third-party installers or bloating openclaw.json.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ppaibb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ppaibb/codex-switcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ppaibb/codex-switcher"
+}

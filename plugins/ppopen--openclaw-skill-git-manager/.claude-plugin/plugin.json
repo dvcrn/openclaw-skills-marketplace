@@ -1,0 +1,10 @@
+{
+  "name": "ppopen--openclaw-skill-git-manager",
+  "description": "Advanced Git operations support for bisecting regressions, cleaning up branches, managing stash workflows, and analyzing commit/history state. Use when users ask for \"git bisect\", branch cleanup, stash recovery/organization, reflog or log analysis, or safe handling of destructive/history-rewriting commands.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ppopen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ppopen/openclaw-skill-git-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ppopen/openclaw-skill-git-manager"
+}

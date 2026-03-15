@@ -1,0 +1,10 @@
+{
+  "name": "iscandium--iscandium-openclaw-samba-backup",
+  "description": "将 OpenClaw 数据备份到远程 Samba 服务器。当用户提到「备份 openclaw」「设置自动备份」时触发。",
+  "version": "1.0.0",
+  "author": {
+    "name": "iscandium"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iscandium/iscandium-openclaw-samba-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iscandium/iscandium-openclaw-samba-backup"
+}

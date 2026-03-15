@@ -1,0 +1,10 @@
+{
+  "name": "stoxca--downloader-tiktok-videos",
+  "description": "Automatically downloads the latest video (or the N most recent) from a public TikTok account using yt-dlp. Use this skill whenever the user mentions TikTok, a @username, \"download a TikTok video\", \"get the latest TikTok post\", \"scrape TikTok\", or any request to download/extract content from TikTok. Also applies when the user wants to retrieve metadata only (title, hashtags, date, stats) without downloading, archive TikTok videos, or automate TikTok content retrieval.",
+  "version": "1.0.4",
+  "author": {
+    "name": "stoxca"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stoxca/downloader-tiktok-videos",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stoxca/downloader-tiktok-videos"
+}

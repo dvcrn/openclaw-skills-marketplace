@@ -1,0 +1,10 @@
+{
+  "name": "jcools1977--synaptic-pruning",
+  "description": "Identifies vestigial code — not just unused imports, but dead feature branches still compiled, zombie configurations nobody reads, orphaned tests that validate nothing, and architectural fossils from three rewrites ago. Prunes what the codebase has outgrown, the way a brain prunes unused neural pathways.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jcools1977"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jcools1977/synaptic-pruning",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jcools1977/synaptic-pruning"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "saikatkumardey--html2md",
+  "description": "Convert HTML pages to clean, agent-friendly markdown using Readability + Turndown. Strips navigation, ads, footers, cookie banners, social CTAs. Supports URL fetch, local files, stdin, token budgeting, and output flags. Ideal for research tasks, content extraction, and web scraping in agent workflows.",
+  "version": "1.0.1",
+  "author": {
+    "name": "saikatkumardey"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/saikatkumardey/html2md",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/saikatkumardey/html2md"
+}

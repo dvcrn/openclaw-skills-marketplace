@@ -1,0 +1,10 @@
+{
+  "name": "bitbrujo--cherry-mcp",
+  "description": "HTTP bridge that keeps MCP servers alive and exposes them via REST. Built for OpenClaw agents that need MCP tools without native MCP support.",
+  "version": "1.0.3",
+  "author": {
+    "name": "bitbrujo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bitbrujo/cherry-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bitbrujo/cherry-mcp"
+}

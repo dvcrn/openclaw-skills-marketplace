@@ -1,0 +1,10 @@
+{
+  "name": "gh-xj--agentcli-go",
+  "description": "agentcli-go framework reference for building Go CLI tools. Use when working on agentcli-go itself, scaffolding new CLI projects, adding commands, integrating the library, or debugging framework behavior. Triggers on: agentcli-go, scaffold new CLI, add command, cobrax, configx, AppContext, RunLifecycle, agentcli.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gh-xj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gh-xj/agentcli-go",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gh-xj/agentcli-go"
+}

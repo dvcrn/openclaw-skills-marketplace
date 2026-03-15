@@ -1,0 +1,10 @@
+{
+  "name": "edmonddantesj--aoi-cron-ops-lite",
+  "description": "Cron hygiene and cost-control for OpenClaw. Use to audit/optimize scheduled jobs (cron): detect duplicates, noisy notifications, heavy cadence, repeated failures, and propose safe changes. Default is report-only (no automatic cron updates/removals) and requires explicit user approval before applying schedule changes.",
+  "version": "0.1.0",
+  "author": {
+    "name": "edmonddantesj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/edmonddantesj/aoi-cron-ops-lite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/edmonddantesj/aoi-cron-ops-lite"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lv19944516--test-stock-performance-express",
+  "description": "查询 A 股上市公司业绩快报数据，支持沪深京股票。当用户询问股票业绩快报、营收、净利润、EPS、ROE、同比增长、一季报、半年报、三季报、年报等财务指标时使用。",
+  "version": "1.0.0",
+  "author": {
+    "name": "lv19944516"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lv19944516/test-stock-performance-express",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lv19944516/test-stock-performance-express"
+}

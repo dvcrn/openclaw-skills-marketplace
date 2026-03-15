@@ -1,0 +1,10 @@
+{
+  "name": "0x7466--open-webui",
+  "description": "Complete Open WebUI API integration for managing LLM models, chat completions, Ollama proxy operations, file uploads, knowledge bases (RAG), image generation, audio processing, and pipelines. Use this skill when interacting with Open WebUI instances via REST API - listing models, chatting with LLMs, uploading files for RAG, managing knowledge collections, or executing Ollama commands through the Open WebUI proxy. Requires OPENWEBUI_URL and OPENWEBUI_TOKEN environment variables or explicit parameters.",
+  "version": "1.0.0",
+  "author": {
+    "name": "0x7466"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0x7466/open-webui",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0x7466/open-webui"
+}

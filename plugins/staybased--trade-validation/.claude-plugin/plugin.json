@@ -1,0 +1,10 @@
+{
+  "name": "staybased--trade-validation",
+  "description": "10-dimension weighted scoring framework for prediction market trade evaluation.\n Enforces disciplined position sizing, circuit breakers, and mandatory counter-arguments.\n\n Use when: evaluating prediction market trades, scoring opportunities, deciding position sizes,\n comparing Polymarket/Kalshi opportunities, running pre-trade checklists.\n\n Don't use when: general crypto analysis, DeFi yield farming, non-prediction-market investments,\n stock/equity analysis, sports betting (different framework needed).\n\n Negative examples:\n - \"Should I buy ETH?\" → No. This is for prediction markets with binary/discrete outcomes.\n - \"What's the best DeFi yield?\" → No. Wrong domain entirely.\n - \"Score this sports bet\" → No. Sports betting has different dimensions (injuries, matchups).\n\n Edge cases:\n - Crypto prediction markets (e.g., \"Will BTC hit $X?\") → YES, use this if on Polymarket/Kalshi.\n - Multi-outcome markets → Score each outcome separately.\n - Markets with <$25 liquidity → Auto-fail on Liquidity dimension.",
+  "version": "1.0.0",
+  "author": {
+    "name": "staybased"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/staybased/trade-validation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/staybased/trade-validation"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zhihang9978--teamgram-server-architecture",
+  "description": "Teamgram Server architecture guide for building Telegram-compatible backends. Use when designing service topology, implementing MTProto services, or self-hosting Teamgram. Covers service拆分, data flow, deployment patterns, and development workflows based on the official teamgram/teamgram-server repository.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhihang9978"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhihang9978/teamgram-server-architecture",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhihang9978/teamgram-server-architecture"
+}

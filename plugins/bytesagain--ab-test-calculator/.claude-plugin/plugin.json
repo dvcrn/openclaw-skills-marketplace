@@ -1,0 +1,10 @@
+{
+  "name": "bytesagain--ab-test-calculator",
+  "description": "A/B测试计算器。样本量计算、统计显著性检验、实验时长预估、结果报告、贝叶斯分析。AB test calculator with sample size, significance testing, duration estimation, reports, and Bayesian analysis.",
+  "version": "2.2.0",
+  "author": {
+    "name": "bytesagain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bytesagain/ab-test-calculator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bytesagain/ab-test-calculator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "seanford--skilled-openclaw-advisor",
+  "description": "Query the local OpenClaw docs index for accurate answers about configuration, features, CLI commands, channels, providers, plugins, cron, sessions, agents, protocol, and troubleshooting. Faster and more accurate than relying on training data for OpenClaw specifics. No external API calls, sub-10ms queries. Useful for: openclaw, configure, gateway, channel, cron, provider, plugin, session, heartbeat, protocol, skill, model, agent questions.",
+  "version": "1.4.2",
+  "author": {
+    "name": "seanford"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seanford/skilled-openclaw-advisor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seanford/skilled-openclaw-advisor"
+}

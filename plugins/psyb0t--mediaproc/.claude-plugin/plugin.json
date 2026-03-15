@@ -1,0 +1,10 @@
+{
+  "name": "psyb0t--mediaproc",
+  "description": "Process media files (video, audio, images) via a locked-down SSH container with ffmpeg, sox, and imagemagick. Use when the user wants to transcode video, process audio, manipulate images, or work with media files.",
+  "version": "2.0.0",
+  "author": {
+    "name": "psyb0t"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/psyb0t/mediaproc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/psyb0t/mediaproc"
+}

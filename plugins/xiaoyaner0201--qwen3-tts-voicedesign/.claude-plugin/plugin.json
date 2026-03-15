@@ -1,0 +1,10 @@
+{
+  "name": "xiaoyaner0201--qwen3-tts-voicedesign",
+  "description": "Text-to-speech with Qwen3-TTS VoiceDesign. Design custom voices via natural language descriptions + seed-based timbre fixation. Includes OpenAI-compatible API server, one-click setup, and batch seed exploration tools. Use when generating speech, designing voices, or adding TTS to OpenClaw.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiaoyaner0201"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaoyaner0201/qwen3-tts-voicedesign",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaoyaner0201/qwen3-tts-voicedesign"
+}

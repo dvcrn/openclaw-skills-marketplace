@@ -1,0 +1,10 @@
+{
+  "name": "aiwithabidi--a6-openclaw-architect",
+  "description": "Design, configure, debug, and optimize OpenClaw AI agent deployments. Master guide for gateway configuration, openclaw.json settings, model routing and fallback chains, skills development and publishing, cron job scheduling, memory systems (Qdrant, Neo4j, SQLite), Docker infrastructure, and Tailscale VPN networking. Includes config analyzer that audits your openclaw.json and suggests improvements, plus health checker that validates all OpenClaw subsystems. Built for AI agents — Python stdlib only, no dependencies. Use for OpenClaw setup, gateway debugging, skill building, cron management, model optimization, cost reduction, and infrastructure troubleshooting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aiwithabidi"
+  },
+  "homepage": "https://www.agxntsix.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aiwithabidi/a6-openclaw-architect"
+}

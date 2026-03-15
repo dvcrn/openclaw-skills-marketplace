@@ -1,0 +1,10 @@
+{
+  "name": "globalcaos--model-prompt-adapter",
+  "description": "Universal prompt addenda that make workspace files work across different LLM providers when using fallback chains. Addresses documented failure modes per model family (scope creep, prompt leaking, over-eagerness, fabricated completion). Use when: (1) running multi-model fallback (e.g., Claude primary → GPT fallback), (2) optimizing injected workspace files for cross-model compatibility, (3) mitigating known provider-specific failure modes in agent systems.",
+  "version": "1.0.0",
+  "author": {
+    "name": "globalcaos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/model-prompt-adapter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/model-prompt-adapter"
+}

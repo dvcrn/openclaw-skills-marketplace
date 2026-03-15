@@ -1,0 +1,10 @@
+{
+  "name": "danielfoch--idx-cma-report",
+  "description": "Generate comparative market analysis (CMA) and home valuation reports from IDX listing data and selected comparable properties. Use when a user wants to pick comps, estimate a market value range, produce seller-facing home evaluation reports, or publish an interactive CMA experience via Google Gemini Canvas or Google AI Studio.",
+  "version": "0.1.0",
+  "author": {
+    "name": "danielfoch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danielfoch/idx-cma-report",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danielfoch/idx-cma-report"
+}

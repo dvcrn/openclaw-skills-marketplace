@@ -1,0 +1,10 @@
+{
+  "name": "e421083458--bilibili-player",
+  "description": "B 站视频播放器。用 Playwright 搜索 B 站视频并获取准确链接，然后用 open 命令在当前浏览器打开播放。Use when users request to play Bilibili videos or search for specific content.",
+  "version": "1.0.0",
+  "author": {
+    "name": "e421083458"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/e421083458/bilibili-player",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/e421083458/bilibili-player"
+}

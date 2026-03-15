@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--mailchimp",
+  "description": "Mailchimp Marketing API integration with managed OAuth. Access audiences, campaigns, templates, automations, reports, and manage subscribers. Use this skill when users want to manage email marketing, subscriber lists, or automate email campaigns. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.3",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/mailchimp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/mailchimp"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "npmisantosh--task-system",
+  "description": "Complete task tracking system with SQLite persistence, automatic creation, notifications, heartbeat monitoring, and stuck task recovery. Replaces task-queue-heartbeat, auto-track, and notification skills. Use for all task management needs.",
+  "version": "1.0.1",
+  "author": {
+    "name": "npmisantosh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/npmisantosh/task-system",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/npmisantosh/task-system"
+}

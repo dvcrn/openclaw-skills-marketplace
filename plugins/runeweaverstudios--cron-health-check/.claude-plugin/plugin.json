@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--cron-health-check",
+  "description": "Monitors OpenClaw cron job health, identifies failures, timeouts, and delivery issues.",
+  "version": "1.0.0",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/cron-health-check",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/cron-health-check"
+}

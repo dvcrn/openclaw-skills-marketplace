@@ -1,0 +1,10 @@
+{
+  "name": "nyxun123--agent-heartbeat",
+  "description": "Agent 心跳配置技能 — 配置 OpenClaw Agent 的定期心跳机制，保持在线状态，自动检查任务和更新。适用于需要长期运行的 Agent 任务。",
+  "version": "1.0.0",
+  "author": {
+    "name": "nyxun123"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nyxun123/agent-heartbeat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nyxun123/agent-heartbeat"
+}

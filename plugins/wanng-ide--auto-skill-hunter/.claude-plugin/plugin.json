@@ -1,0 +1,10 @@
+{
+  "name": "wanng-ide--auto-skill-hunter",
+  "description": "Proactively discovers, ranks, and installs high-value ClawHub skills by mining unresolved user needs and agent context. Use when new tasks are unsolved, when capability gaps appear, when users ask for better tools, or as a scheduled patrol for continuous skill growth.",
+  "version": "1.0.3",
+  "author": {
+    "name": "wanng-ide"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/auto-skill-hunter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/auto-skill-hunter"
+}

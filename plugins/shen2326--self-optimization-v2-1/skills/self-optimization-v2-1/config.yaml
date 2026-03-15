@@ -1,0 +1,122 @@
+# Self-Optimization System V2 Configuration
+
+# LLM-as-Judge Settings
+judge:
+  # Quality thresholds
+  score_thresholds:
+    excellent: 9.0  # 9-10: Excellent
+    good: 7.0       # 7-8: Good
+    fair: 5.0       # 5-6: Fair
+    poor: 3.0       # 3-4: Poor
+    fail: 0.0       # 1-2: Fail
+  
+  # Dimension weights (must sum to 1.0)
+  dimension_weights:
+    accuracy: 0.30      # 30%
+    completeness: 0.25  # 25%
+    efficiency: 0.20    # 20%
+    reliability: 0.15   # 15%
+    maintainability: 0.10  # 10%
+  
+  # Auto-optimization triggers
+  auto_optimize:
+    enabled: true
+    threshold: 7.0  # Auto-optimize if score < 7.0
+  
+  # Error analysis triggers
+  error_analysis:
+    enabled: true
+    threshold: 5.0  # Must analyze error if score < 5.0
+
+# Prompt Optimizer Settings
+prompt_optimizer:
+  # Optimization patterns to apply
+  patterns:
+    add_context: true
+    add_examples: true
+    add_constraints: true
+    clarify_goal: true
+    add_steps: true
+    add_format: true
+    add_evaluation: true
+  
+  # A/B testing
+  ab_testing:
+    enabled: true
+    min_test_tasks: 3  # Minimum tasks for A/B test
+  
+  # Storage
+  storage:
+    directory: memory/prompts
+    max_versions: 10  # Keep last 10 versions per task type
+
+# Strategy Learner Settings
+strategy_learner:
+  # Learning modes
+  learning:
+    from_success: true
+    from_failure: true
+    min_score_for_success: 7.0
+  
+  # Recommendation settings
+  recommendation:
+    enabled: true
+    min_confidence: 0.5  # Only recommend if confidence >= 0.5
+    max_recommendations: 3  # Max recommendations per task
+  
+  # Pattern analysis
+  pattern_analysis:
+    enabled: true
+    min_samples: 3  # Minimum samples for pattern analysis
+  
+  # Storage
+  storage:
+    directory: memory/strategies
+    max_strategies_per_type: 10  # Keep last 10 strategies per type
+
+# Integration Settings
+integration:
+  # Auto-execute optimization loop
+  auto_execute: true
+  
+  # Save evaluation results
+  save_evaluations: true
+  evaluation_log: memory/evaluations.json
+  
+  # Save optimization results
+  save_optimizations: true
+  optimization_log: memory/optimizations.json
+  
+  # Save strategy updates
+  save_strategies: true
+  strategy_log: memory/strategies.json
+
+# Reporting Settings
+reporting:
+  # Generate reports
+  enabled: true
+  
+  # Report frequency
+  frequency:
+    after_task: true
+    daily_summary: false
+    weekly_summary: true
+  
+  # Report content
+  content:
+    include_scores: true
+    include_trends: true
+    include_recommendations: true
+    include_top_strategies: true
+
+# Performance Settings
+performance:
+  # Cache settings
+  cache:
+    enabled: true
+    ttl_seconds: 3600  # Cache TTL: 1 hour
+  
+  # Async execution
+  async:
+    enabled: true
+    max_workers: 4

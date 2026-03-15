@@ -1,0 +1,10 @@
+{
+  "name": "arshingleton--metered-api-marketplace",
+  "description": "Build and operate a metered public API endpoint (\"agent microservice\") for OpenClaw skills/agents with API-key auth, per-request usage logging + pricing, prepaid balances, and crypto top-ups (BTC/ETH) via payment-processor webhooks. Use when you want to monetize a capability as a public API, add rate limiting/anti-abuse, implement a credit ledger, or add revenue share / platform fee logic.",
+  "version": "0.1.3",
+  "author": {
+    "name": "arshingleton"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arshingleton/metered-api-marketplace",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arshingleton/metered-api-marketplace"
+}

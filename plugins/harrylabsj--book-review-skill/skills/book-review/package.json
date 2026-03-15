@@ -1,0 +1,70 @@
+{
+  "name": "openclaw-skill-book-review",
+  "version": "1.0.4",
+  "description": "Expand reading insights into in-depth reviews with personalized references from your notes",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc && esbuild src/index.ts --bundle --platform=node --outfile=dist/bundle.js",
+    "dev": "tsc --watch",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "lint": "eslint src/**/*.ts",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "prepublishOnly": "npm run build && npm test",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "book-review",
+    "reading",
+    "notes",
+    "ai",
+    "deepseek"
+  ],
+  "author": "Digital Partners Team (珍珠, 贝尔, 哈利, 喜羊羊)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harrylabs0913/openclaw-skill-book-review.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harrylabs0913/openclaw-skill-book-review/issues"
+  },
+  "homepage": "https://github.com/harrylabs0913/openclaw-skill-book-review#readme",
+  "dependencies": {
+    "openclaw": "^2026.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "@types/fs-extra": "^11.0.1",
+    "@types/jest": "^29.5.10",
+    "@types/lunr": "^2.3.3",
+    "@typescript-eslint/eslint-plugin": "^6.13.2",
+    "@typescript-eslint/parser": "^6.13.2",
+    "esbuild": "^0.19.8",
+    "eslint": "^8.55.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.1.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "openclaw": {
+    "skill": true,
+    "name": "book-review",
+    "description": "Expand reading insights into detailed reviews with personalized references from your notes",
+    "version": "1.0.4",
+    "author": "Digital Partners Team",
+    "commands": [
+      {
+        "name": "book-review",
+        "description": "Expand a reading insight into a detailed review",
+        "usage": "/book-review [insight]"
+      }
+    ]
+  }
+}

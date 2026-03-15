@@ -1,0 +1,10 @@
+{
+  "name": "sadlay--defuddle-obsidian",
+  "description": "Extract clean markdown content from web pages using Defuddle CLI, removing clutter and navigation to save tokens. Use instead of WebFetch when the user provides a URL to read or analyze, for online documentation, articles, blog posts, or any standard web page.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sadlay"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sadlay/defuddle-obsidian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sadlay/defuddle-obsidian"
+}

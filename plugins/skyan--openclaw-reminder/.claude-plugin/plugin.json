@@ -1,0 +1,10 @@
+{
+  "name": "skyan--openclaw-reminder",
+  "description": "Create one-time reminder tasks using OpenClaw cron. User specifies reminder time and task content in natural language via Discord, and the task result will be sent back through Discord.",
+  "version": "1.0.5",
+  "author": {
+    "name": "skyan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/skyan/openclaw-reminder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/skyan/openclaw-reminder"
+}

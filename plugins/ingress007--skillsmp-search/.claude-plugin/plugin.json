@@ -1,0 +1,10 @@
+{
+  "name": "ingress007--skillsmp-search",
+  "description": "从 SkillsMP 市场搜索 AI Agent Skills。支持关键词搜索和 AI 语义搜索。",
+  "version": "1.0.0",
+  "author": {
+    "name": "ingress007"
+  },
+  "homepage": "https://skillsmp.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ingress007/skillsmp-search"
+}

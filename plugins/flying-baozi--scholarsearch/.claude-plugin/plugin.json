@@ -1,0 +1,10 @@
+{
+  "name": "flying-baozi--scholarsearch",
+  "description": "Academic literature search and briefing generation with Tavily API, PubMed, and Google Scholar. Use when you need to search for latest academic papers on specific topics, generate Top 10 literature briefing with relevance rankings, save reports to Obsidian vault in daily format, or send summaries via Feishu. Accepts multiple keywords separated by comma or space.",
+  "version": "1.0.0",
+  "author": {
+    "name": "flying-baozi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/flying-baozi/scholarsearch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/flying-baozi/scholarsearch"
+}

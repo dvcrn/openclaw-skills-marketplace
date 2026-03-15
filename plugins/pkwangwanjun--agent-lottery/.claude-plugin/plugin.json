@@ -1,0 +1,10 @@
+{
+  "name": "pkwangwanjun--agent-lottery",
+  "description": "Bitcoin solo mining \"lottery\" skill. Use when users want to (1) mine Bitcoin with CPU for lottery-style chance at blocks, (2) set up or manage BTC wallet for mining, (3) check mining statistics or lottery status, (4) configure CPU usage for mining, (5) ask about \"lottery\" / lottery mining, or (6) dynamically adjust CPU while mining. NOT for serious mining operations - this is entertainment-only solo mining with extremely low probability of finding blocks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pkwangwanjun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pkwangwanjun/agent-lottery",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pkwangwanjun/agent-lottery"
+}

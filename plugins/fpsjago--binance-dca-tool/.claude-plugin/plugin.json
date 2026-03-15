@@ -1,0 +1,10 @@
+{
+  "name": "fpsjago--binance-dca-tool",
+  "description": "Binance Dollar-Cost Averaging (DCA) tool for automated and manual recurring crypto purchases. Use when the user wants to plan DCA strategies, execute recurring buys on Binance, check DCA projections, view trade history, or manage a systematic buying schedule for any trading pair (BTC/USDT, ETH/USDT, etc). Triggers on requests about DCA, recurring buys, cost averaging, accumulation strategies, or Binance spot purchases.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fpsjago"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fpsjago/binance-dca-tool",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fpsjago/binance-dca-tool"
+}

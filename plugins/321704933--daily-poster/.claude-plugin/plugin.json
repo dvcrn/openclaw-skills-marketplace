@@ -1,0 +1,10 @@
+{
+  "name": "321704933--daily-poster",
+  "description": "Generate two fixed poster variants from minimal JSON with Python: `daily` for \"摸鱼日报\" and `baidu_hot` for \"百度热点/百度热搜\", with SVG output and optional PNG/JPG/JPEG/WEBP export. Use when Codex needs to map user wording to the correct poster type, render either variant, infer image export requirements from Chinese prompts, or update the corresponding JSON examples and commands.",
+  "version": "1.0.0",
+  "author": {
+    "name": "321704933"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/321704933/daily-poster",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/321704933/daily-poster"
+}

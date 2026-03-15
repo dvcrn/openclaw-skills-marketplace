@@ -1,0 +1,10 @@
+{
+  "name": "siddharthpilani--ringg-voice-agent",
+  "description": "Integrate Ringg AI voice agents with OpenClaw for making, receiving, and managing phone calls powered by Ringg's Voice OS. Use this skill when the user wants to: (1) make outbound voice calls via Ringg AI agents, (2) trigger Ringg AI campaigns from OpenClaw, (3) check call status or retrieve call history/analytics from Ringg, (4) manage Ringg AI assistants (list, create, update), (5) connect OpenClaw to Ringg's voice platform for automated phone interactions like lead qualification, feedback collection, appointment reminders, or order confirmations, (6) set up Ringg AI as a voice provider for the OpenClaw agent. Triggers on mentions of \"ringg\", \"voice call\", \"phone call via ringg\", \"ringg agent\", \"ringg campaign\", \"voice AI call\", or any request to initiate/manage calls through the Ringg AI platform.",
+  "version": "1.0.0",
+  "author": {
+    "name": "siddharthpilani"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/siddharthpilani/ringg-voice-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/siddharthpilani/ringg-voice-agent"
+}

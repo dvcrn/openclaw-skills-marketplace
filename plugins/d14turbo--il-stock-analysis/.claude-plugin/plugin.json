@@ -1,0 +1,10 @@
+{
+  "name": "d14turbo--il-stock-analysis",
+  "description": "Comprehensive Israeli stock analysis for TASE-listed securities including fundamental analysis (financial metrics, business quality, valuation), technical analysis (indicators, chart patterns, support/resistance), stock comparisons, and investment report generation. Supports Hebrew and English queries, TASE tickers, and ETF numbers. Use when user requests analysis of Israeli stocks (e.g., \"analyze ALRT\", \"compare Bank Leumi vs Bank Hapoalim\", \"analyze ETF 510893\"), evaluation of financial metrics, technical chart analysis, or investment recommendations for securities traded on TASE (Tel Aviv Stock Exchange).",
+  "version": "2.3.0",
+  "author": {
+    "name": "d14turbo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/d14turbo/il-stock-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/d14turbo/il-stock-analysis"
+}

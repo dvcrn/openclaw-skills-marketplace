@@ -1,0 +1,10 @@
+{
+  "name": "imthatcarlos--solana-swaps",
+  "description": "Swap tokens on Solana via Jupiter aggregator and check wallet balances. Use when user wants to swap tokens, check SOL/token balance, or get swap quotes.",
+  "version": "0.1.0",
+  "author": {
+    "name": "imthatcarlos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imthatcarlos/solana-swaps",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imthatcarlos/solana-swaps"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "clawdssen--security-hardening",
+  "description": "Security audit and hardening for AI agents — credential hygiene, secret scanning, prompt injection defense, data leakage prevention, and privacy zones.",
+  "version": "1.0.0",
+  "author": {
+    "name": "clawdssen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clawdssen/security-hardening",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clawdssen/security-hardening"
+}

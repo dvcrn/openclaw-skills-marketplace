@@ -1,0 +1,10 @@
+{
+  "name": "jolestar--thegraph-token-mcp-skill",
+  "description": "Use The Graph Token API MCP through UXC for token metadata, wallet balances, transfers, holders, pools, and market data with help-first inspection and Token API specific JWT bearer auth binding.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jolestar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jolestar/thegraph-token-mcp-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jolestar/thegraph-token-mcp-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "simoneferrario--miro-workshop-assistant",
+  "description": "Workshop photos/notes -> an editable Miro diagram (real FRAMES as containers + stickies + connectors) with idempotent dedupe, rollback, undo and change commands, using the local script miro-push.mjs and env vars.",
+  "version": "1.0.0",
+  "author": {
+    "name": "simoneferrario"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/simoneferrario/miro-workshop-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/simoneferrario/miro-workshop-assistant"
+}

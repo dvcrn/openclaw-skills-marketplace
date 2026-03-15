@@ -1,0 +1,10 @@
+{
+  "name": "niemesrw--peloton-stats",
+  "description": "Fetch and report Peloton cycling workout statistics. Use when the user wants to see their Peloton workout data, weekly cycling stats, ride history, or performance metrics. Hits the Peloton API directly (no dependencies) to pull total rides, duration, calories, output/power, and instructor data for cycling workouts.",
+  "version": "1.1.1",
+  "author": {
+    "name": "niemesrw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/niemesrw/peloton-stats",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/niemesrw/peloton-stats"
+}

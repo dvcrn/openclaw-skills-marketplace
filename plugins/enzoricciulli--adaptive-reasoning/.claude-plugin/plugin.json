@@ -1,0 +1,10 @@
+{
+  "name": "enzoricciulli--adaptive-reasoning",
+  "description": "Automatically assess task complexity and adjust reasoning level. Triggers on every user message to evaluate whether extended thinking (reasoning mode) would improve response quality. Use this as a pre-processing step before answering complex questions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "enzoricciulli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/enzoricciulli/adaptive-reasoning",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/enzoricciulli/adaptive-reasoning"
+}

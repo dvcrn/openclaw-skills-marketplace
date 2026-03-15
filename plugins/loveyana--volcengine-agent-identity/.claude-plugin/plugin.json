@@ -1,0 +1,10 @@
+{
+  "name": "loveyana--volcengine-agent-identity",
+  "description": "UserPool login, TIP token, credential hosting, and tool risk approval. Activate when user needs to check identity (whoami/status), log in, list/add credentials, manage env bindings, configure the plugin, or diagnose/approve risky tool calls.\n Also activates for: 用户说登录、查身份、获取凭据、添加/配置API密钥、绑定环境变量、配置插件、审批工具调用、风险检查.",
+  "version": "0.2.1",
+  "author": {
+    "name": "loveyana"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/loveyana/volcengine-agent-identity",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/loveyana/volcengine-agent-identity"
+}

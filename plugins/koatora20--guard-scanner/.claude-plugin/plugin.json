@@ -1,0 +1,10 @@
+{
+  "name": "koatora20--guard-scanner",
+  "description": "Security scanner and runtime guard for AI agent skills. 358 static threat patterns across 35 categories + 27 runtime checks (5 defense layers). Use when scanning skill directories for security threats, auditing npm/GitHub/ClawHub assets for leaked credentials, running real-time file watch during development, integrating security checks into CI/CD pipelines (SARIF/JSON), setting up MCP server for editor-integrated scanning (Cursor, Windsurf, Claude Code, OpenClaw), or runtime guarding tool calls via the OpenClaw v2026.3.8 before_tool_call hook. Single dependency (ws). MIT licensed.",
+  "version": "15.0.0",
+  "author": {
+    "name": "koatora20"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/koatora20/guard-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/koatora20/guard-scanner"
+}

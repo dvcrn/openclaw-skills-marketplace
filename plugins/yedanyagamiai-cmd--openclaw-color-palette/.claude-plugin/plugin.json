@@ -1,0 +1,10 @@
+{
+  "name": "yedanyagamiai-cmd--openclaw-color-palette",
+  "description": "Design-grade color processing suite — generate harmonious palettes from any seed color, check WCAG 2.1 AA/AAA contrast accessibility, convert between hex/RGB/HSL/HSV/CMYK, simulate 8 color blindness types, and extract dominant colors from images. Use when: (1) user says 'generate a color palette' or 'give me a color scheme for my website', (2) user asks 'check contrast' or 'is this readable' or 'WCAG accessibility', (3) user needs to 'convert hex to RGB' or 'what is #FF5733 in HSL', (4) user wants to 'simulate color blindness' or 'how do colorblind users see this', (5) user requests 'extract colors from image' or 'pull brand colors from this logo'. 6 harmony algorithms, 140 CSS named colors, k-means clustering. Zero install, sub-100ms on Cloudflare Workers. Free + Pro $9/mo.",
+  "version": "2.0.0",
+  "author": {
+    "name": "yedanyagamiai-cmd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yedanyagamiai-cmd/openclaw-color-palette",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yedanyagamiai-cmd/openclaw-color-palette"
+}

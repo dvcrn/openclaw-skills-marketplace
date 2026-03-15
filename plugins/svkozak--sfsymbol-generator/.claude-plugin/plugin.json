@@ -1,0 +1,10 @@
+{
+  "name": "svkozak--sfsymbol-generator",
+  "description": "Generate an Xcode SF Symbol asset catalog .symbolset from an SVG. Use when you need to add a custom SF Symbol (build-time) by creating the symbolset folder, Contents.json, and SVG file.",
+  "version": "1.0.0",
+  "author": {
+    "name": "svkozak"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/svkozak/sfsymbol-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/svkozak/sfsymbol-generator"
+}

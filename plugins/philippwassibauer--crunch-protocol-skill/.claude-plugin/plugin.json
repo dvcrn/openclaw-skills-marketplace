@@ -1,0 +1,10 @@
+{
+  "name": "philippwassibauer--crunch-protocol-skill",
+  "description": "Natural language interface for Crunch Protocol CLI. Maps user requests to CLI commands for managing coordinators, competitions (crunches), rewards, and checkpoints. Supports output formatting for Slack, Telegram, Discord, or plain text.",
+  "version": "0.1.0",
+  "author": {
+    "name": "philippwassibauer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/philippwassibauer/crunch-protocol-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/philippwassibauer/crunch-protocol-skill"
+}

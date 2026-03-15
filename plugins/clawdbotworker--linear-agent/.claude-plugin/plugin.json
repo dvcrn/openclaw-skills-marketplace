@@ -1,0 +1,10 @@
+{
+  "name": "clawdbotworker--linear-agent",
+  "description": "Full Linear project management via native GraphQL API. Superior to shell-script alternatives — auto-resolves identifiers (ENG-42), moves issues by state name, generates plain-English backlog summaries, syncs git commits to issue states, zero dependencies.",
+  "version": "1.0.2",
+  "author": {
+    "name": "clawdbotworker"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clawdbotworker/linear-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clawdbotworker/linear-agent"
+}

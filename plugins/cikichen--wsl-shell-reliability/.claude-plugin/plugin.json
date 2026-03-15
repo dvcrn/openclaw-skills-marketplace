@@ -1,0 +1,10 @@
+{
+  "name": "cikichen--wsl-shell-reliability",
+  "description": "Reliability-first shell selection policy for AI agents on Windows. Choose WSL or PowerShell based on execution risk, not preference.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cikichen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cikichen/wsl-shell-reliability",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cikichen/wsl-shell-reliability"
+}

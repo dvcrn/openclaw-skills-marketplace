@@ -1,0 +1,10 @@
+{
+  "name": "deadblue22--feishu-doc-sync",
+  "description": "飞书文档增量同步与表格操作指南。覆盖：表格更新策略（delete+insert）、header_row 设置、insert action、列宽算法、三阶段 diff 同步。当需要同步本地文档到飞书、操作飞书表格、或做增量编辑时激活。",
+  "version": "1.0.0",
+  "author": {
+    "name": "deadblue22"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deadblue22/feishu-doc-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deadblue22/feishu-doc-sync"
+}

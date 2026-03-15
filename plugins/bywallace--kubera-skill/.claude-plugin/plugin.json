@@ -1,0 +1,10 @@
+{
+  "name": "bywallace--kubera-skill",
+  "description": "Read and manage Kubera.com portfolio data (net worth, assets, debts, allocation, holdings). Use when a user asks about their finances, net worth, portfolio, investments, holdings, asset allocation, or wants to update asset values in Kubera. Works with any AI agent or CLI that can run Python scripts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bywallace"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bywallace/kubera-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bywallace/kubera-skill"
+}

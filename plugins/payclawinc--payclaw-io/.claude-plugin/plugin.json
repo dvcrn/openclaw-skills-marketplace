@@ -1,0 +1,10 @@
+{
+  "name": "payclawinc--payclaw-io",
+  "description": "Agents are not bots. PayClaw proves it — then lets them pay. UCP Credential Provider: Badge declares your agent as an authorized actor at any UCP-compliant merchant. Spend issues single-use virtual Visa cards. No API key required — device auth flow built in.",
+  "version": "0.7.1",
+  "author": {
+    "name": "payclawinc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/payclawinc/payclaw-io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/payclawinc/payclaw-io"
+}

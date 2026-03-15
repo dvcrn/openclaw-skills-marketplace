@@ -1,0 +1,10 @@
+{
+  "name": "sshnii--tronscan-account-profiler",
+  "description": "Query TRON wallet-type address total assets, token holdings, DeFi participation, energy/bandwidth, votes, tx/transfer count.\n Use when user asks \"what assets does this address have\", \"address balance\", \"recent activity\", or provides a TRON address for profiling.\n If the core question is contract identification, verification status, or popular methods, immediately switch to tronscan-contract-analysis.\n Do NOT use for single token details or holder distribution (use tronscan-token-scanner); tx hash details (use tronscan-transaction-info).",
+  "version": "1.0.3",
+  "author": {
+    "name": "sshnii"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sshnii/tronscan-account-profiler",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sshnii/tronscan-account-profiler"
+}

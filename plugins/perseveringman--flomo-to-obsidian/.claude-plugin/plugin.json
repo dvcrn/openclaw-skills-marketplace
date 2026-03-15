@@ -1,0 +1,10 @@
+{
+  "name": "perseveringman--flomo-to-obsidian",
+  "description": "Parse and sync flomo exported HTML data to Obsidian vault with attachment support. Supports one-time manual export conversion and automatic sync. Use when users want to import flomo notes, convert flomo to markdown, or set up automatic sync.",
+  "version": "2.0.0",
+  "author": {
+    "name": "perseveringman"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/perseveringman/flomo-to-obsidian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/perseveringman/flomo-to-obsidian"
+}

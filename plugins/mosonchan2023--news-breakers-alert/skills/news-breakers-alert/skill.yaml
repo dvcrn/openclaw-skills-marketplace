@@ -1,0 +1,24 @@
+---
+name: news-breakers-alert
+version: 1.0.0
+description: Get instant alerts for breaking news and emergency updates. Each call charges 0.001 USDT via SkillPay.
+category: News
+tags:
+  - news
+  - breaking
+  - alert
+  - emergency
+  - instant
+author: moson
+price: 0.001
+currency: USDT
+triggers:
+  - "breaking news"
+  - "news alert"
+  - "urgent news"
+  - "emergency update"
+config:
+  PUSH_TOKEN:
+    type: string
+    required: false
+    secret: true

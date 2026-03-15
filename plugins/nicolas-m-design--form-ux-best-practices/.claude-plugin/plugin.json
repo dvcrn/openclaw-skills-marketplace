@@ -1,0 +1,10 @@
+{
+  "name": "nicolas-m-design--form-ux-best-practices",
+  "description": "Opinionated form UX and accessibility workflow for signup, checkout, settings, and lead-gen forms. Use when reviewing a form spec or existing implementation to produce prioritized UX/accessibility/copy fixes, field-by-field rewrites, validation and error messaging specs, and optional ready-to-ship HTML/React pseudo-code. Do not use for purely visual redesigns, non-form screens, or analytics-only audits.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nicolas-m-design"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nicolas-m-design/form-ux-best-practices",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nicolas-m-design/form-ux-best-practices"
+}

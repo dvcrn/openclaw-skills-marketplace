@@ -1,0 +1,10 @@
+{
+  "name": "alltomatos--aetup-automatik",
+  "description": "Facilitate the installation and management of VPS solutions using the Setup Automatik engine (powered by Orion Design). Use when the user wants to install, configure, or manage tools like Traefik, Portainer, Chatwoot, N8N, and other open-source applications on a Linux VPS.",
+  "version": "1.0.0",
+  "author": {
+    "name": "alltomatos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alltomatos/aetup-automatik",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alltomatos/aetup-automatik"
+}

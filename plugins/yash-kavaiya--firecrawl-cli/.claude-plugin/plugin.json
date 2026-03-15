@@ -1,0 +1,10 @@
+{
+  "name": "yash-kavaiya--firecrawl-cli",
+  "description": "Web scraping, crawling, searching, and browser automation via the Firecrawl CLI (firecrawl). Use when scraping URLs to markdown/HTML, crawling entire websites, discovering all URLs on a site, running web searches with optional scraping, launching cloud browser sessions for automation, or using the AI agent for natural-language web queries. Requires firecrawl-cli installed (npm install -g firecrawl-cli) and authentication (firecrawl login or FIRECRAWL_API_KEY env var). Triggers on: scrape URL, crawl site, map website URLs, firecrawl search, browser automation with firecrawl, web agent query.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yash-kavaiya"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yash-kavaiya/firecrawl-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yash-kavaiya/firecrawl-cli"
+}

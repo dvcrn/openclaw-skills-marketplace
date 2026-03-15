@@ -1,0 +1,10 @@
+{
+  "name": "wanikua--ai-court",
+  "description": "Deploy a multi-agent AI team on Discord using Clawdbot, inspired by the Ming Dynasty Six Ministries. Use when setting up, configuring, scaling, or troubleshooting a multi-bot Discord workspace with specialized agents (coding, finance, marketing, DevOps, legal, etc.).",
+  "version": "1.5.0",
+  "author": {
+    "name": "wanikua"
+  },
+  "homepage": "https://github.com/wanikua/ai-court-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wanikua/ai-court"
+}

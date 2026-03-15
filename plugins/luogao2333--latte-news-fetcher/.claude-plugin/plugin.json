@@ -1,0 +1,10 @@
+{
+  "name": "luogao2333--latte-news-fetcher",
+  "description": "新闻获取工具。支持获取新闻列表、绕过付费墙获取全文。\n 使用 archive.today、smry.ai、12ft.io 等公开服务访问付费内容。\n 触发词：新闻、今日新闻、付费墙、文章、阅读。",
+  "version": "1.0.0",
+  "author": {
+    "name": "luogao2333"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/luogao2333/latte-news-fetcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luogao2333/latte-news-fetcher"
+}

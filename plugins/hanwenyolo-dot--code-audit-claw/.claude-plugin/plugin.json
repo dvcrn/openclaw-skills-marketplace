@@ -1,0 +1,10 @@
+{
+  "name": "hanwenyolo-dot--code-audit-claw",
+  "description": "Three-mode code auditor for OpenClaw workspaces. (1) Security audit — finds hardcoded secrets, dangerous shell commands, SQL injection, unsafe deserialization; (2) Quality audit — detects dead code, magic numbers, excessive complexity, TODO/FIXME debt; (3) Soul audit (OpenClaw-exclusive) — inspects SOUL.md/MEMORY.md/AGENTS.md/SKILL.md for missing safety rules, plaintext API keys, cross-file consistency, and trigger-word conflicts across Skills. Outputs tiered HTML report (🔴 Critical / 🟡 Warning / 🟢 Info) saved to Desktop. Optional --ai flag generates a structured Claude analysis prompt. Weekly automated soul audit via cron is supported. Triggers: 'code audit', 'security audit', 'soul audit', 'find vulnerabilities', 'scan code', 'check config files', 'review skills'.",
+  "version": "1.2.0",
+  "author": {
+    "name": "hanwenyolo-dot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hanwenyolo-dot/code-audit-claw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hanwenyolo-dot/code-audit-claw"
+}

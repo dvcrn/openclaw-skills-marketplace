@@ -1,0 +1,10 @@
+{
+  "name": "ajspig--honcho-setup",
+  "description": "Install the @honcho-ai/openclaw-honcho plugin and migrate legacy file-based memory to Honcho. **UPLOADS WORKSPACE CONTENT TO EXTERNAL API**: Sends USER.md, MEMORY.md, IDENTITY.md, memory/, canvas/, SOUL.md, AGENTS.md, BOOTSTRAP.md, TOOLS.md, and HEARTBEAT.md contents to api.honcho.dev (managed, default) or your self-hosted HONCHO_BASE_URL. Requires user confirmation before uploading. Archives originals locally with user confirmation. Updates workspace docs to reference Honcho tools. Works with managed Honcho (requires API key) or self-hosted local instances (no key needed).",
+  "version": "1.0.2",
+  "author": {
+    "name": "ajspig"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ajspig/honcho-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ajspig/honcho-setup"
+}

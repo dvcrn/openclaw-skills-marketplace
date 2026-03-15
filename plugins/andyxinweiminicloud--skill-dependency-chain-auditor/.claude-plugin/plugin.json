@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--skill-dependency-chain-auditor",
+  "description": "Helps audit transitive skill dependency chains in agent compositions — catching the class of risk where a skill's direct dependencies appear safe but a dependency-of-a-dependency introduces a vulnerability that propagates up the entire chain.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/skill-dependency-chain-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/skill-dependency-chain-auditor"
+}

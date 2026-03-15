@@ -1,0 +1,28 @@
+{
+  "default_model": "medium",
+  "default_dialect": "auto",
+  "supported_dialects": [
+    "mandarin",
+    "cantonese",
+    "shanghainese",
+    "hakka",
+    "minnan"
+  ],
+  "models": {
+    "tiny": {
+      "installed": false
+    },
+    "base": {
+      "installed": true
+    },
+    "small": {
+      "installed": false
+    },
+    "medium": {
+      "installed": true
+    },
+    "large": {
+      "installed": false
+    }
+  }
+}

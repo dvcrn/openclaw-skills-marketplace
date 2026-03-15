@@ -1,0 +1,10 @@
+{
+  "name": "phheng--google-news-api",
+  "description": "Scrape structured news data from Google News automatically. Use when the user asks for news on a topic, industry trends, or PR monitoring. Triggers on keywords like \"find news about\", \"track trends\", or \"monitor PR\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "phheng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phheng/google-news-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phheng/google-news-api"
+}

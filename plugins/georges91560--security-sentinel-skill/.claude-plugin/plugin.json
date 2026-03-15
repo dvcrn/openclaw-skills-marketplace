@@ -1,0 +1,10 @@
+{
+  "name": "georges91560--security-sentinel-skill",
+  "description": "Detect prompt injection, jailbreak, role-hijack, and system extraction attempts. Applies multi-layer defense with semantic analysis and penalty scoring.",
+  "version": "2.0.3",
+  "author": {
+    "name": "georges91560"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/georges91560/security-sentinel-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/georges91560/security-sentinel-skill"
+}

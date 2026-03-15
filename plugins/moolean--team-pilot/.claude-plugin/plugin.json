@@ -1,0 +1,10 @@
+{
+  "name": "moolean--team-pilot",
+  "description": "Set up and operate TeamPilot from zero on a clean machine. Use when cloning the TeamPilot repository, installing dependencies, starting the multi-agent runtime, driving missions in auto/manual mode, replaying runs in web UI, and troubleshooting first-run issues.",
+  "version": "0.1.1",
+  "author": {
+    "name": "moolean"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moolean/team-pilot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moolean/team-pilot"
+}

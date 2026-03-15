@@ -1,0 +1,10 @@
+{
+  "name": "plgonzalezrx8--recursive-swarm",
+  "description": "Bounded recursive orchestration for complex tasks that are too large for one agent turn but cleanly decompose into a few independent subproblems. Use for multi-angle research, audits, mixed research+synthesis, or coding projects that benefit from explicit planning, task-tree state, artifact folders, and controlled parallel execution. Keep recursion tight: default max depth 2, hard cap 3, preferred fan-out 2-4, and modest concurrency. Use git worktrees only for coding leaves inside git repos. Do not use for simple one-shot tasks, destructive workflows, or open-ended exploration.",
+  "version": "0.1.1",
+  "author": {
+    "name": "plgonzalezrx8"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/plgonzalezrx8/recursive-swarm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/plgonzalezrx8/recursive-swarm"
+}

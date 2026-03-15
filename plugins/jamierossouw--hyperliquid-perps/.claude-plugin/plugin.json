@@ -1,0 +1,10 @@
+{
+  "name": "jamierossouw--hyperliquid-perps",
+  "description": "Paper and live perpetual futures trading on Hyperliquid. Smart leverage (1x/3x/5x based on signal strength), OBV divergence, auto-stop-loss. Use for Hyperliquid trading, perp automation, or leverage management.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jamierossouw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/hyperliquid-perps",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/hyperliquid-perps"
+}

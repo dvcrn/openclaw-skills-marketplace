@@ -1,0 +1,10 @@
+{
+  "name": "wmantly--openclaw-rag-skill",
+  "description": "Complete RAG (Retrieval-Augmented Generation) system for OpenClaw. Indexes chat sessions, workspace code, documentation, and skills into local ChromaDB for semantic search. Enables finding past solutions, code patterns, and decisions instantly. Uses local embeddings (all-MiniLM-L6-v2) with no API keys required. Automatically ingests and updates knowledge base from ~/.openclaw/agents/main/sessions and workspace files.",
+  "version": "1.0.6",
+  "author": {
+    "name": "wmantly"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wmantly/openclaw-rag-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wmantly/openclaw-rag-skill"
+}

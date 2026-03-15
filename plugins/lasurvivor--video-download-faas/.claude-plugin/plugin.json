@@ -1,0 +1,10 @@
+{
+  "name": "lasurvivor--video-download-faas",
+  "description": "Download videos in MP4 format using yt-dlp with FaaS (Firecracker/Container) isolation. Start downloads, check status, and kill processes. Videos are automatically converted to MP4 format.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lasurvivor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lasurvivor/video-download-faas",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lasurvivor/video-download-faas"
+}

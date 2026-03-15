@@ -1,0 +1,152 @@
+# Production Configuration for Ralph Loop Agent
+# This file contains optimized settings for production environments
+
+# Core Loop Configuration
+loop_type: for              # Default loop type
+iterations: 1000            # Larger iteration count for production
+delay_ms: 100              # Small delay for better throughput
+retry_count: 3             # Conservative retry count for reliability
+continue_on_error: false    # Fail fast for production reliability
+
+# Progress Tracking
+progress_enabled: true     # Enable progress monitoring
+progress_format: percentage   # Simple percentage format
+progress_update_interval: 1.0  # Less frequent updates for production
+
+# Logging Configuration
+log_enabled: true          # Enable comprehensive logging
+log_level: info            # Information logging level
+log_format: json          # Structured JSON logs for parsing
+log_file: "/var/log/ralph-loop/production.log"  # Production log location
+log_rotation: true         # Enable log rotation
+log_max_size: 52428800     # 50MB max log size
+log_backup_count: 30      # Keep 30 days of logs
+
+# Error Handling
+error_handler_enabled: true  # Robust error handling
+error_handler_log: true      # Log all errors
+error_handler_max_retries: 3 # Maximum retry attempts
+error_handler_retry_delay: 2000 # 2-second delay between retries
+
+# Configuration File Management
+config_file_search_paths:
+  - "/etc/ralph-loop"
+  - "/opt/ralph-loop-agent/config"
+  - "~/.config/ralph-loop"
+config_auto_load: true      # Auto-load configuration
+config_validation: true     # Strict configuration validation
+
+# State Management (Production Resumability)
+state_enabled: true         # Enable state persistence
+state_dir: "/var/lib/ralph-loop"  # Production state directory
+state_auto_save: true      # Auto-save state
+state_checkpoint_interval: 50  # Checkpoint every 50 iterations
+state_retention_days: 7    # Keep 7 days of state history
+state_compression: true    # Compress state files to save space
+
+# Rich Logging (Production)
+rich_logging_enabled: true # Enable rich logging
+rich_logging_format: json  # JSON format for log aggregation
+rich_logging_level: info    # Information level logging
+rich_logging_max_size: 104857600 # 100MB max log size
+
+# Performance Optimization
+performance_optimized: true    # Enable all performance optimizations
+memory_efficient: true        # Memory-efficient mode
+minimal_output: false        # Show progress for monitoring
+batch_size: 100              # Process in batches
+
+# Production Monitoring
+health_check_interval: 300  # 5-minute health checks
+monitor_metrics: true       # Collect performance metrics
+alert_thresholds:
+  cpu_usage: 80              # 80% CPU threshold
+  memory_usage: 90          # 90% memory threshold
+  disk_usage: 85            # 85% disk usage threshold
+
+# Security Hardening
+security_validate_inputs: true   # Validate all inputs
+security_escape_outputs: true     # Escape output values
+security_sanitize_paths: true    # Sanitize file paths
+security_restrict_commands: true # Restrict dangerous commands
+security_audit_trail: true      # Enable audit logging
+
+# Reliability Settings
+reliability_mode: high      # High reliability mode
+graceful_shutdown: true     # Enable graceful shutdown
+recovery_enabled: true      # Enable automatic recovery
+backup_enabled: true        # Enable state backup
+
+# Backup and Recovery
+backup_interval: 86400     # 24-hour backup interval
+backup_retention: 30        # Keep 30 days of backups
+recovery_max_attempts: 5    # Maximum recovery attempts
+recovery_delay: 5000        # 5-second recovery delay
+
+# Network Settings
+network_timeout: 30000      # 30-second network timeout
+network_retries: 3         # Network retry attempts
+network_backoff: true      # Enable exponential backoff
+
+# Database Integration (if applicable)
+database_enabled: false     # Disable database by default
+database_pool_size: 10      # Connection pool size
+database_timeout: 5000      # 5-second database timeout
+database_retries: 3        # Database retry attempts
+
+# Load Balancing (if applicable)
+load_balancing_enabled: false # Disable load balancing by default
+load_balancer_strategy: round_robin # Load balancing strategy
+worker_count: 4             # Number of worker processes
+
+# Security Settings
+ssl_enabled: false         # SSL/TLS encryption
+ssl_cert_file: ""          # SSL certificate file
+ssl_key_file: ""           # SSL private key file
+encryption_enabled: false  # Data encryption
+encryption_key: ""         # Encryption key
+
+# Compliance Settings
+audit_enabled: true        # Enable audit logging
+compliance_level: high      # High compliance level
+data_retention: 365       # 365-day data retention
+privacy_mode: false        # Privacy protection mode
+
+# Performance Settings
+concurrent_limit: 100      # Concurrency limit
+queue_size: 1000          # Task queue size
+cache_enabled: true        # Enable caching
+cache_size: 1000          # Cache size limit
+
+# Development/Debug Options (disabled in production)
+debug_mode: false          # Disable debug mode
+verbose_output: false       # Disable verbose output
+trace_execution: false     # Disable execution tracing
+performance_profiling: false # Disable performance profiling
+
+# Resource Management
+memory_limit: 536870912    # 512MB memory limit
+cpu_limit: 50               # 50% CPU limit
+disk_limit: 10737418240    # 10GB disk limit
+network_limit: 1000000      # 1MB/s network limit
+
+# Alerting and Notifications
+alert_enabled: false       # Disable alerting by default
+alert_email: ""            # Email alert address
+alert_slack: ""           # Slack webhook URL
+alert_thresholds_cpu: 80   # CPU alert threshold
+alert_thresholds_memory: 90 # Memory alert threshold
+alert_thresholds_disk: 85  # Disk alert threshold
+
+# Backup Strategy
+backup_strategy: incremental  # Incremental backup
+backup_compression: true     # Enable compression
+backup_encryption: false     # Disable encryption
+backup_remote: false        # Disable remote backup
+backup_location: "/var/backups/ralph-loop"  # Backup location
+
+# Disaster Recovery
+disaster_recovery_enabled: false # Disable disaster recovery by default
+disaster_recovery_site: ""       # Disaster recovery site
+disaster_recovery_rpo: 3600      # Recovery Point Objective (1 hour)
+disaster_recovery_rto: 7200      # Recovery Time Objective (2 hours)

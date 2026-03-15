@@ -1,0 +1,10 @@
+{
+  "name": "javainthinking--slides-generation-skills",
+  "description": "AI-powered presentation generation using 2slides API. Create slides from text content, match reference image styles, or summarize documents into presentations. Use when users request to \"create a presentation\", \"make slides\", \"generate a deck\", \"create slides from this content/document/image\", or any presentation creation task. Supports theme selection, multiple languages, and both synchronous and asynchronous generation modes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "javainthinking"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/javainthinking/slides-generation-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/javainthinking/slides-generation-skills"
+}

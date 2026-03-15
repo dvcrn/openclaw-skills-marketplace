@@ -1,0 +1,10 @@
+{
+  "name": "yuyoujiang--soarm-control",
+  "description": "Control the robotic arm through the OpenClaw SOARM API. Use this skill when reading current joint state, moving by joint angles, moving by XYZ coordinates, or handling SOARM robot-control requests.",
+  "version": "1.0.1",
+  "author": {
+    "name": "yuyoujiang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yuyoujiang/soarm-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yuyoujiang/soarm-control"
+}

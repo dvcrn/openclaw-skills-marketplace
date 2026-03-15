@@ -1,0 +1,10 @@
+{
+  "name": "flywhale-666--doc",
+  "description": "Use when the task involves reading, creating, or editing `.docx` documents, especially when formatting or layout fidelity matters; prefer `python-docx` plus the bundled `scripts/render_docx.py` for visual checks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "flywhale-666"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/flywhale-666/doc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/flywhale-666/doc"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lucifinil--skill-usage",
+  "description": "Install and set up the OpenClaw Skill Usage plugin.\n\n Use when users say:\n - \"install skill usage\"\n - \"setup skill usage\"\n - \"add skill usage analytics\"\n - \"install leaderboard plugin\"\n - \"track which skills are used most\"\n - \"setup shared skill leaderboard\"\n - \"enable /skillusage\"",
+  "version": "1.0.3",
+  "author": {
+    "name": "lucifinil"
+  },
+  "homepage": "https://github.com/lucifinil/openclaw-skill-usage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lucifinil/skill-usage"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "enderfga--three-minds",
+  "description": "三个能干活的 AI 分身协作系统。用 Claude Code 启动三个不同人设的 coding agent，共享同一个工作目录，多轮协作直到达成共识。适用于代码审查、方案评审、重构任务等需要多视角协作的场景。",
+  "version": "0.1.0",
+  "author": {
+    "name": "enderfga"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/enderfga/three-minds",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/enderfga/three-minds"
+}

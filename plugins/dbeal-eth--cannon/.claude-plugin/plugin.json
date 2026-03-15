@@ -1,0 +1,10 @@
+{
+  "name": "dbeal-eth--cannon",
+  "description": "Cannon package manager for Ethereum deployments. Use when building, testing, deploying, or inspecting Cannon packages. Covers cannonfile syntax, CLI commands (build, run, test, publish, inspect), actions (deploy, invoke, clone, pull, router, diamond), and package workflows. NOT for general Solidity development questions.",
+  "version": "2.26.0",
+  "author": {
+    "name": "dbeal-eth"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dbeal-eth/cannon",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dbeal-eth/cannon"
+}

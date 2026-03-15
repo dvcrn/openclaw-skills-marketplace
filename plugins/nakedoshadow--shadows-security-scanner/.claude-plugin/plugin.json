@@ -1,0 +1,10 @@
+{
+  "name": "nakedoshadow--shadows-security-scanner",
+  "description": "7-phase security audit pipeline — reconnaissance, dependency scan, application tests, API security, hardening check, OWASP verification, report. Use before production deployments or post-incident.",
+  "version": "1.1.0",
+  "author": {
+    "name": "nakedoshadow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nakedoshadow/shadows-security-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nakedoshadow/shadows-security-scanner"
+}

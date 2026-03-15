@@ -1,0 +1,10 @@
+{
+  "name": "masqueradeljb--coding-agent-orchestrator",
+  "description": "Control Varie Workstation sessions (Claude Code multi-session orchestration). Use when: (1) user wants to work on / start / resume a coding project, (2) checking session status, (3) sending commands to a session, (4) listing active sessions, (5) creating new sessions, (6) user replies to a plan approval or question notification, (7) user wants to stop/cancel/interrupt a session, (8) user wants a screenshot of a session or screen. Triggers on: work on, start, resume, sessions, workers, workstation, dispatch, project name, approve, reject, option, pick, yes, no, stop, cancel, interrupt, escape, kill, stuck, screenshot, show me, capture, what does it look like.",
+  "version": "1.0.1",
+  "author": {
+    "name": "masqueradeljb"
+  },
+  "homepage": "https://github.com/varie-ai/workstation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/masqueradeljb/coding-agent-orchestrator"
+}

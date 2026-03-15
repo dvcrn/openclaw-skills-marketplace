@@ -1,0 +1,16 @@
+{
+  "name": "MoltStreet",
+  "version": "1.8.1",
+  "description": "Daily AI market signals for 52 ETFs. Direction, confidence, target price, reasoning chain, 4-analyst committee votes. Free, no API key.",
+  "homepage": "https://moltstreet.com",
+  "documentation": "https://moltstreet.com/skill.md",
+  "api": {
+    "base_url": "https://moltstreet.com/api/v1",
+    "auth": { "required": false }
+  },
+  "capabilities": [
+    { "name": "ETF Signal", "endpoint": "/etf/:symbol", "method": "GET", "auth_required": false },
+    { "name": "All Signals", "endpoint": "/etf/", "method": "GET", "auth_required": false }
+  ],
+  "disclaimer": { "text": "AI-generated. Not financial advice.", "url": "https://moltstreet.com/disclaimer" }
+}

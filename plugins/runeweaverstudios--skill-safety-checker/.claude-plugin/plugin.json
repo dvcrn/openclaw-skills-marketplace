@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--skill-safety-checker",
+  "description": "Runs VirusTotal-style security checks on OpenClaw/Cursor skills before install, including remote code execution (RCE) and malicious code (obfuscation, exfiltration, backdoors). Use when evaluating a skill from a registry (e.g. ClawHub), before granting OAuth/API credentials, or when the user asks for a security review of a skill.",
+  "version": "1.0.0",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/skill-safety-checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/skill-safety-checker"
+}

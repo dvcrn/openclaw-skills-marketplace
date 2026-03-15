@@ -1,0 +1,10 @@
+{
+  "name": "liuzx886--calorie-lookup",
+  "description": "Spoonacular 营养查询与热量估算（主数据源，USDA 后备）。支持搜寻优化、烹饪系数、交叉验证及图像识别。需要 API key 环境变量 SPOONACULAR_API_KEY 或 USDA_FDC_API_KEY。",
+  "version": "0.3.0",
+  "author": {
+    "name": "liuzx886"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/liuzx886/calorie-lookup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/liuzx886/calorie-lookup"
+}

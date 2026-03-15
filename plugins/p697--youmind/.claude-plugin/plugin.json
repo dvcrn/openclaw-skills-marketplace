@@ -1,0 +1,10 @@
+{
+  "name": "p697--youmind",
+  "description": "Use this skill when users need Youmind board operations via API (list/find/create boards, add links/files, chat, generate image/slides/docs, extract artifacts). Browser is only for auth bootstrap/refresh.",
+  "version": "2.0.1",
+  "author": {
+    "name": "p697"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/p697/youmind",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/p697/youmind"
+}

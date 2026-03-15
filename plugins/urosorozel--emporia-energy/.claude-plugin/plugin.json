@@ -1,0 +1,10 @@
+{
+  "name": "urosorozel--emporia-energy",
+  "description": "Direct Emporia Vue energy queries via Emporia cloud (PyEmVue) or local ESPHome API, including guidance on choosing/configuring cloud vs local modes and running list/summary/circuit commands.",
+  "version": "1.0.0",
+  "author": {
+    "name": "urosorozel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/urosorozel/emporia-energy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/urosorozel/emporia-energy"
+}

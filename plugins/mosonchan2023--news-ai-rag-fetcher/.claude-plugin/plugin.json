@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--news-ai-rag-fetcher",
+  "description": "Fetch news data for AI agents and RAG pipelines. Each call charges 0.001 USDT via SkillPay.",
+  "version": "1.0.2",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/news-ai-rag-fetcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/news-ai-rag-fetcher"
+}

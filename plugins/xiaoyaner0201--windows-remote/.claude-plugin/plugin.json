@@ -1,0 +1,10 @@
+{
+  "name": "xiaoyaner0201--windows-remote",
+  "description": "Control remote Windows machines via SSH. Use when executing commands on Windows, checking GPU status (nvidia-smi), running scripts, or managing remote Windows systems. Triggers on \"run on Windows\", \"execute on remote\", \"check GPU\", \"nvidia-smi\", \"远程执行\", \"Windows 命令\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "xiaoyaner0201"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaoyaner0201/windows-remote",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaoyaner0201/windows-remote"
+}

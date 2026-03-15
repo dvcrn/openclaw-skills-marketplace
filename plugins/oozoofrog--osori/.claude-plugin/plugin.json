@@ -1,0 +1,10 @@
+{
+  "name": "oozoofrog--osori",
+  "description": "Osori v1.6.1 — Local project registry & context loader with Telegram slash commands. Registry versioning + auto-migration + root filters + root management + doctor (preview-first + risk gate) + safe root remove + switch multi-match + GitHub count cache + alias/favorite + Entire integration commands. Find, switch, list, add/remove projects, check status. Triggers: work on X, find project X, list projects, project status, project switch. | 오소리 — 텔레그램 슬래시 명령어 지원 로컬 프로젝트 레지스트리.",
+  "version": "1.6.1",
+  "author": {
+    "name": "oozoofrog"
+  },
+  "homepage": "https://github.com/oozoofrog/osori",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oozoofrog/osori"
+}

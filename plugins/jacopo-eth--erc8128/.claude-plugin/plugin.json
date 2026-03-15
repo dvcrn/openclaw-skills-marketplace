@@ -1,0 +1,10 @@
+{
+  "name": "jacopo-eth--erc8128",
+  "description": "Sign and verify HTTP requests with Ethereum wallets using ERC-8128. Use when building authenticated APIs that need wallet-based auth, making signed requests to ERC-8128 endpoints, implementing request verification in servers, or working with agent-to-server authentication. Covers both the @slicekit/erc8128 JS library and the erc8128 CLI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jacopo-eth"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jacopo-eth/erc8128",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jacopo-eth/erc8128"
+}

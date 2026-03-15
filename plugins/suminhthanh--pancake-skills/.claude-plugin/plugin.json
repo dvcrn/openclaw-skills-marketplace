@@ -1,0 +1,10 @@
+{
+  "name": "suminhthanh--pancake-skills",
+  "description": "Tương tác với Pancake Platform API để quản lý pages, conversations, messages, customers, statistics, tags, posts, users. Sử dụng khi cần (1) Quản lý pages và tạo access token, (2) Xử lý conversations và messages, (3) Quản lý thông tin customers, (4) Xem statistics và analytics, (5) Quản lý tags và posts, (6) Quản lý users/staff, (7) Upload media content, (8) Chat plugin operations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "suminhthanh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/suminhthanh/pancake-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/suminhthanh/pancake-skills"
+}

@@ -1,0 +1,22 @@
+{
+  "repositories": [
+    {
+      "url": "https://github.com/openclaw/openclaw.git",
+      "name": "openclaw",
+      "platform": "github",
+      "owner": "openclaw",
+      "repo": "openclaw",
+      "localPath": "",
+      "branch": "main"
+    }
+  ],
+  "checkInterval": "6h",
+  "notifyChannel": "feishu",
+  "maxCommitsToShow": 10,
+  "includeDiffSummary": true,
+  "feishu": {
+    "appId": "YOUR_FEISHU_APP_ID",
+    "appSecret": "YOUR_FEISHU_APP_SECRET",
+    "chatId": "YOUR_CHAT_ID"
+  }
+}

@@ -1,0 +1,12 @@
+name: telegram-polymarket-alerter
+version: 1.0.0
+description: Send Telegram alerts for Polymarket price movements
+category: Telegram+Polymarket
+tags:
+  - telegram
+  - polymarket
+  - alerts
+  - prediction-market
+author: mosonchan2023
+price: 0.001
+currency: USDT

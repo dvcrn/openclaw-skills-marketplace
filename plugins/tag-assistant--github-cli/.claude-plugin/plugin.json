@@ -1,0 +1,10 @@
+{
+  "name": "tag-assistant--github-cli",
+  "description": "Comprehensive GitHub CLI (gh) reference. Covers repos, issues, PRs, Actions, releases, gists, search, projects v2, API, secrets/variables, labels, codespaces, extensions, auth, and advanced GraphQL patterns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tag-assistant"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tag-assistant/github-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tag-assistant/github-cli"
+}

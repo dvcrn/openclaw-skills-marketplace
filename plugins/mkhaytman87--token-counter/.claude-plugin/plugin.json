@@ -1,0 +1,10 @@
+{
+  "name": "mkhaytman87--token-counter",
+  "description": "Track and analyze OpenClaw token usage across main, cron, and sub-agent sessions with category, client, model, and tool attribution. Use when the user asks where tokens are being spent, wants daily/weekly token reports, needs per-session drilldowns, or is planning token-cost optimizations and needs evidence from transcript data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mkhaytman87"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mkhaytman87/token-counter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mkhaytman87/token-counter"
+}

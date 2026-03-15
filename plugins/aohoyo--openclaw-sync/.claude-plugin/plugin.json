@@ -1,0 +1,10 @@
+{
+  "name": "aohoyo--openclaw-sync",
+  "description": "OpenClaw 数据轻量同步技能。基于 rclone + cron，支持 70+ 云存储后端，\n 定时备份 workspace 数据，资源占用极低。",
+  "version": "2.0.0",
+  "author": {
+    "name": "aohoyo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aohoyo/openclaw-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aohoyo/openclaw-sync"
+}

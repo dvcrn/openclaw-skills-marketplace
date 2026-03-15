@@ -1,0 +1,10 @@
+{
+  "name": "dsqsky--azure-keyvault-certificates-rust",
+  "description": "Azure Key Vault Certificates SDK for Rust. Use for creating, importing, and managing certificates.\n Triggers: \"keyvault certificates rust\", \"CertificateClient rust\", \"create certificate rust\", \"import certificate rust\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "dsqsky"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dsqsky/azure-keyvault-certificates-rust",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dsqsky/azure-keyvault-certificates-rust"
+}

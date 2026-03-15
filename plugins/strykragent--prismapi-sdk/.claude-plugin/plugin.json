@@ -1,0 +1,10 @@
+{
+  "name": "strykragent--prismapi-sdk",
+  "description": "Elite Agentic Finance SDK for OpenClaw, Claude & Autonomous Trading Bots. Real-time market data, canonical asset resolution, 100+ endpoints for crypto, DeFi, stocks. Sub-50ms latency.",
+  "version": "0.2.1",
+  "author": {
+    "name": "strykragent"
+  },
+  "homepage": "https://prismapi.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/strykragent/prismapi-sdk"
+}

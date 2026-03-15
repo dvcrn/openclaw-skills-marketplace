@@ -1,0 +1,10 @@
+{
+  "name": "halr9000--comfyui-imagegen",
+  "description": "Generate images via ComfyUI API (localhost:8188) using Flux2 workflow. Supports structured JSON prompts sent directly as positive prompt parameter, seed/steps customization. Async watcher via sub-agent for low-latency, token-efficient polling (every 5s).",
+  "version": "1.5.0",
+  "author": {
+    "name": "halr9000"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/halr9000/comfyui-imagegen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/halr9000/comfyui-imagegen"
+}

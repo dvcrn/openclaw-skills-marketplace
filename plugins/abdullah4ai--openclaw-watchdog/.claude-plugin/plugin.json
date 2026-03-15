@@ -1,0 +1,10 @@
+{
+  "name": "abdullah4ai--openclaw-watchdog",
+  "description": "Self-healing monitoring system for OpenClaw gateway. Auto-detects failures, fixes crashes, and sends Telegram alerts.",
+  "version": "1.3.0",
+  "author": {
+    "name": "abdullah4ai"
+  },
+  "homepage": "https://github.com/Abdullah4AI/openclaw-watchdog",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abdullah4ai/openclaw-watchdog"
+}

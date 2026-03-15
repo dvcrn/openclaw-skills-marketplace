@@ -1,0 +1,10 @@
+{
+  "name": "iahmadzain--home-assistant",
+  "description": "Control Home Assistant smart home devices, run automations, and receive webhook events. Use when controlling lights, switches, climate, scenes, scripts, or any HA entity. Supports bidirectional communication via REST API (outbound) and webhooks (inbound triggers from HA automations).",
+  "version": "1.0.0",
+  "author": {
+    "name": "iahmadzain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/iahmadzain/home-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iahmadzain/home-assistant"
+}

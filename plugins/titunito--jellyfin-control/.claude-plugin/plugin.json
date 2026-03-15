@@ -1,0 +1,10 @@
+{
+  "name": "titunito--jellyfin-control",
+  "description": "Control Jellyfin media server and TV. Search content, resume playback, manage sessions, control TV power and apps. Supports Home Assistant and direct WebOS backends. One command to turn on TV, launch Jellyfin, and play content.",
+  "version": "1.3.0",
+  "author": {
+    "name": "titunito"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/titunito/jellyfin-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/titunito/jellyfin-control"
+}

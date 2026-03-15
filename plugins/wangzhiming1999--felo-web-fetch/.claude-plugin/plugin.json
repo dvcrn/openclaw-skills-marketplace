@@ -1,0 +1,10 @@
+{
+  "name": "wangzhiming1999--felo-web-fetch",
+  "description": "Fetch web page content from a URL using Felo Web Extract API. Use when users ask to scrape/capture/fetch webpage content, get article text from URL, convert page to markdown/text, or when explicit commands like /felo-web-fetch are used. Supports html, text, markdown output and readability mode.",
+  "version": "1.0.1",
+  "author": {
+    "name": "wangzhiming1999"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangzhiming1999/felo-web-fetch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangzhiming1999/felo-web-fetch"
+}

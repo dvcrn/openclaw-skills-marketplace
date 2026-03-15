@@ -1,0 +1,10 @@
+{
+  "name": "veeramanikandanr48--scenario-analyzer",
+  "description": "ニュースヘッドラインを入力として18ヶ月シナリオを分析するスキル。\n scenario-analystエージェントで主分析を実行し、\n strategy-reviewerエージェントでセカンドオピニオンを取得。\n 1次・2次・3次影響、推奨銘柄、レビューを含む包括的レポートを日本語で生成。\n 使用例: /scenario-analyzer \"Fed raises rates by 50bp\"\n トリガー: ニュース分析、シナリオ分析、18ヶ月展望、中長期投資戦略",
+  "version": "0.1.0",
+  "author": {
+    "name": "veeramanikandanr48"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/veeramanikandanr48/scenario-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/veeramanikandanr48/scenario-analyzer"
+}

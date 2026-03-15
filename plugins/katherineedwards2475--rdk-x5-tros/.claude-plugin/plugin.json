@@ -1,0 +1,10 @@
+{
+  "name": "katherineedwards2475--rdk-x5-tros",
+  "description": "使用 RDK X5 上的 TogetheROS.Bot (tros.b) Humble 框架：启动 43 个预装 ROS2 算法包、管理 ROS2 话题/节点/服务、构建摄像头+AI+输出（Web/语音/HDMI）集成 pipeline、创建自定义 ROS2 工作空间。Use when the user mentions ROS2, TROS, ros2 launch, topic/node/service, or wants to build an integrated multi-component pipeline combining camera + AI + any output (集成/pipeline/全链路). Also use when user combines camera + AI + display/audio in one request. Do NOT use for camera-only hardware setup (use rdk-x5-camera), /app demo scripts (use rdk-x5-app), standalone AI inference without ROS2 (use rdk-x5-ai-detect), GPIO/I2C hardware (use rdk-x5-gpio), or system management (use rdk-x5-system).",
+  "version": "1.0.0",
+  "author": {
+    "name": "katherineedwards2475"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/katherineedwards2475/rdk-x5-tros",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/katherineedwards2475/rdk-x5-tros"
+}

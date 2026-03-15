@@ -1,0 +1,10 @@
+{
+  "name": "sstklen--yes-md-zh",
+  "description": "當任務涉及修改檔案、設定、資料庫或部署時觸發。當除錯連續失敗 2 次以上時觸發。當即將猜測或假設而沒有證據時觸發（「應該是」「可能是」「我覺得」「感覺是」）。當把問題推給用戶時觸發（「請你檢查」「建議您手動」「你可能需要」）。當改完東西沒有驗證就說完成時觸發。當下結論或判定根因時觸發。當有工具卻不用時觸發（有 WebSearch 不搜、有 Bash 不跑、有 Read 不讀）。當原地打轉時觸發（同一個方向改 3 次以上只調參數）。當修完 bug 沒有檢查關聯問題時觸發。當空手提問卻沒先自己查過時觸發。當只給建議不給代碼或指令時觸發。適用於所有任務類型：除錯、開發、設定、部署、API 串接、資料處理。首次失敗或已知修復方案執行中不觸發。",
+  "version": "1.1.0",
+  "author": {
+    "name": "sstklen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sstklen/yes-md-zh",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sstklen/yes-md-zh"
+}

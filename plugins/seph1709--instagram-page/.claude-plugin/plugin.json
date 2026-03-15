@@ -1,0 +1,10 @@
+{
+  "name": "seph1709--instagram-page",
+  "description": "Instagram Business manager: post photos, reels, stories & get insights. Requires: powershell/pwsh. Reads ~/.config/instagram-page/credentials.json (IG_ACCESS_TOKEN, IG_USER_ID). IG_APP_SECRET for one-time setup only — delete afterward. Token expires every 60 days — refresh before expiry. Grant minimal permissions only. No data forwarded to third parties; all calls go to graph.facebook.com only.",
+  "version": "1.0.1",
+  "author": {
+    "name": "seph1709"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seph1709/instagram-page",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seph1709/instagram-page"
+}

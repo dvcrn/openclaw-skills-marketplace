@@ -1,0 +1,10 @@
+{
+  "name": "slempiam--prospector",
+  "description": "This skill should be used when the user wants to find leads, prospects, or contacts matching their ICP (Ideal Customer Profile). It searches for companies via Exa and enriches contacts via Apollo, outputting to CSV and optionally syncing to Attio CRM.\n\n MANDATORY TRIGGERS: \"find leads\", \"prospecting\", \"ICP search\", \"find contacts\", \"lead generation\", \"/prospector\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "slempiam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/slempiam/prospector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/slempiam/prospector"
+}

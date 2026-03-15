@@ -1,0 +1,10 @@
+{
+  "name": "solidexu--git-backup-publish",
+  "description": "Backup OpenClaw workspace to Git repository (Gitee/GitHub/GitLab). Use when: (1) setting up backup for the first time, (2) manually triggering a backup, (3) configuring auto-backup, (4) user mentions \"备份\", \"backup\", \"git\", \"gitee\", \"github\", or asks about preserving workspace data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "solidexu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/solidexu/git-backup-publish",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/solidexu/git-backup-publish"
+}

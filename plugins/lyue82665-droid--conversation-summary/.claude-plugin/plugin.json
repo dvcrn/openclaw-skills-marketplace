@@ -1,0 +1,10 @@
+{
+  "name": "lyue82665-droid--conversation-summary",
+  "description": "会话小结 - 输入对话内容，调用API返回会话摘要，支持增量更新历史摘要。",
+  "version": "1.0.1",
+  "author": {
+    "name": "lyue82665-droid"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lyue82665-droid/conversation-summary",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lyue82665-droid/conversation-summary"
+}

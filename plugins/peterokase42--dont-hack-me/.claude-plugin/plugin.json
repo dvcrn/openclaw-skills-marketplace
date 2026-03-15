@@ -1,0 +1,10 @@
+{
+  "name": "peterokase42--dont-hack-me",
+  "description": "別駭我！基本安全檢測 — Security self-check for Clawdbot/Moltbot. Run a quick audit of your clawdbot.json to catch dangerous misconfigurations — exposed gateway, missing auth, open DM policy, weak tokens, loose file permissions. Auto-fix included. Invoke: \"run a security check\" or \"幫我做安全檢查\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "peterokase42"
+  },
+  "homepage": "https://github.com/peterann/dont-hack-me",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/peterokase42/dont-hack-me"
+}

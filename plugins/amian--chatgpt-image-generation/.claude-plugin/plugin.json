@@ -1,0 +1,10 @@
+{
+  "name": "amian--chatgpt-image-generation",
+  "description": "Generate images from ChatGPT using Playwright browser automation. Opens ChatGPT, sends prompts, waits for generation, and saves the resulting images.",
+  "version": "1.0.3",
+  "author": {
+    "name": "amian"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/amian/chatgpt-image-generation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/amian/chatgpt-image-generation"
+}

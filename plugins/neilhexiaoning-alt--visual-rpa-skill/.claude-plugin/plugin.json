@@ -1,0 +1,10 @@
+{
+  "name": "neilhexiaoning-alt--visual-rpa-skill",
+  "description": "Visual RPA desktop automation skill. Use when user asks to operate desktop apps, click icons, open applications, type text in input fields, click buttons, scroll pages, send messages via WeChat or other apps. Uses screen capture and Qwen vision model for pure visual positioning without DOM or accessibility APIs.",
+  "version": "1.0.1",
+  "author": {
+    "name": "neilhexiaoning-alt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neilhexiaoning-alt/visual-rpa-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neilhexiaoning-alt/visual-rpa-skill"
+}

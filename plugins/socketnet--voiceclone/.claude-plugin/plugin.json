@@ -1,0 +1,10 @@
+{
+  "name": "socketnet--voiceclone",
+  "description": "Voice cloning and TTS using MiniMax API. User must provide a voice name when cloning; after success, voice_name->voice_id is written back to this skill doc for reuse.",
+  "version": "1.0.1",
+  "author": {
+    "name": "socketnet"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/socketnet/voiceclone",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/socketnet/voiceclone"
+}

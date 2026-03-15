@@ -1,0 +1,44 @@
+{
+  "name": "cognitive-brain",
+  "version": "2.7.2",
+  "description": "类脑认知系统 - 四层记忆架构 + 联想网络 + 元认知反思 + 自我意识 + 自主学习 + 自由思考 + 跨会话记忆注入",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "postinstall": "node scripts/postinstall.cjs",
+    "init": "node scripts/init-db.cjs",
+    "encode": "node scripts/encode.cjs",
+    "recall": "node scripts/recall.cjs",
+    "reflect": "node scripts/reflect.cjs",
+    "autolearn": "node scripts/autolearn.cjs",
+    "selfaware": "node scripts/selfaware.cjs",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "memory",
+    "cognitive",
+    "learning",
+    "reflection",
+    "brain",
+    "self-awareness",
+    "autolearn",
+    "ai",
+    "agent",
+    "cross-session"
+  ],
+  "author": "AI Self-Design",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^8.11.0",
+    "redis": "^4.7.1",
+    "uuid": "^9.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "openclaw": {
+    "hooks": [
+      "./hooks/cognitive-recall"
+    ]
+  }
+}

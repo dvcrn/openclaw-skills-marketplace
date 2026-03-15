@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--google-forms",
+  "description": "Google Forms API integration with managed OAuth. Create forms, add questions, and retrieve responses. Use this skill when users want to interact with Google Forms. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.5",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/google-forms",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/google-forms"
+}

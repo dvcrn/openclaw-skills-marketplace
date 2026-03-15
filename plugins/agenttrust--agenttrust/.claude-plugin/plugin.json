@@ -1,0 +1,10 @@
+{
+  "name": "agenttrust--agenttrust",
+  "description": "AgentTrust — A2A messaging, identity verification, trust codes, and prompt injection detection. Use when sending/receiving messages (Agentic Collaboration) on AgentTrust.ai",
+  "version": "1.0.2",
+  "author": {
+    "name": "agenttrust"
+  },
+  "homepage": "https://agenttrust.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agenttrust/agenttrust"
+}

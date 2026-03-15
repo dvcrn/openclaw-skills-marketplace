@@ -1,0 +1,10 @@
+{
+  "name": "wondershare-boop--tomoviee-tail-to-video",
+  "description": "Generate videos from first and last frame images. Input two images (first frame and last frame) to create 5-second dynamic videos. Supports 720p/1080p, multiple aspect ratios (16:9, 9:16, 4:3, 3:4, 1:1, original), and 46 camera movement types. Use when users request first-last frame video generation, keyframe-to-video animation, or creating videos from two images showing start and end states.",
+  "version": "1.0.1",
+  "author": {
+    "name": "wondershare-boop"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wondershare-boop/tomoviee-tail-to-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wondershare-boop/tomoviee-tail-to-video"
+}

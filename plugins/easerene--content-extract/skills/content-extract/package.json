@@ -1,0 +1,14 @@
+{
+  "name": "content-extract",
+  "version": "1.0.0",
+  "description": "内容提取工具",
+  "type": "module",
+  "main": "scripts/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}

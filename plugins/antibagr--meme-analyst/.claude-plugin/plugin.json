@@ -1,0 +1,10 @@
+{
+  "name": "antibagr--meme-analyst",
+  "description": "Use when a user sends you an image, meme, screenshot, or asks you to explain a joke or meme. Also used during cron meme ingestion from Telegram channels. Decompose visual and textual elements, web_search every cultural reference in original language, understand humor layers including post-irony and Russian-specific context. Trust that the meme IS funny — figure out WHY.",
+  "version": "1.1.0",
+  "author": {
+    "name": "antibagr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/antibagr/meme-analyst",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/antibagr/meme-analyst"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cinience--volcengine-ai-search-rag",
+  "description": "Retrieval and RAG workflow on Volcengine AI stack. Use when users need embedding search, document indexing, top-k retrieval, grounding prompts, or search relevance tuning.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/volcengine-ai-search-rag",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/volcengine-ai-search-rag"
+}

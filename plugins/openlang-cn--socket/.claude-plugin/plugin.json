@@ -1,0 +1,10 @@
+{
+  "name": "openlang-cn--socket",
+  "description": "Helps with the socket abstraction, socket options, blocking vs non-blocking I/O, and multiplexing (select, poll, epoll). Use when the user asks about socket APIs, SO_* options, Unix domain sockets, or how to structure TCP/UDP server code at the socket level.",
+  "version": "1.0.0",
+  "author": {
+    "name": "openlang-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/socket",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/socket"
+}

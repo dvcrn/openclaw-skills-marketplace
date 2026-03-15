@@ -1,0 +1,10 @@
+{
+  "name": "lang50--juejin",
+  "description": "掘金平台自动化操作。支持发布沸点、查询话题列表等功能。",
+  "version": "1.0.0",
+  "author": {
+    "name": "lang50"
+  },
+  "homepage": "https://juejin.cn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lang50/juejin"
+}

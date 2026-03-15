@@ -1,0 +1,10 @@
+{
+  "name": "zhengxinjipai--risk-metrics-calculation",
+  "description": "Calculate portfolio risk metrics including VaR, CVaR, Sharpe, Sortino, and drawdown analysis. Use when measuring portfolio risk, implementing risk limits, or building risk monitoring systems.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhengxinjipai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhengxinjipai/risk-metrics-calculation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhengxinjipai/risk-metrics-calculation"
+}

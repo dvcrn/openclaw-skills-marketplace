@@ -1,0 +1,10 @@
+{
+  "name": "adwilkinson--oneshot-ship",
+  "description": "Ship code autonomously with oneshot CLI -- a single command that plans, executes, reviews, and opens a PR. Runs over SSH or locally. Use when the user wants to ship code changes, automate PRs, or run an autonomous coding pipeline with Claude and Codex.",
+  "version": "0.0.1",
+  "author": {
+    "name": "adwilkinson"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adwilkinson/oneshot-ship",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adwilkinson/oneshot-ship"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xixihhhh--alibaba-wan",
+  "description": "Generate AI videos and images using Alibaba's Wan 2.6 and Wan 2.5 — featuring text-to-video, image-to-video, video-to-video, text-to-image, and image editing with up to 1080p resolution, 15-second duration, multi/single camera shot types, audio-guided generation, and prompt expansion. Supports 18 model variants across 2 generations. Available via Atlas Cloud API at up to 30% off standard pricing. Use this skill whenever the user wants to generate AI videos, create video clips, animate images, edit videos, generate images, edit photos, or mentions Wan, Alibaba video, Tongyi video, Wanx, or Wan 2.6/2.5. Also trigger when users ask to create product demos, marketing videos, social media reels, animated scenes, cinematic clips, video-to-video transfers, character-consistent video edits, multi-camera shots, or any visual content using AI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xixihhhh"
+  },
+  "homepage": "https://github.com/AtlasCloudAI/nano-banana-2-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xixihhhh/alibaba-wan"
+}

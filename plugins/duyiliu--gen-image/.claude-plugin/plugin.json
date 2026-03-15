@@ -1,0 +1,10 @@
+{
+  "name": "duyiliu--gen-image",
+  "description": "AI生成图片，支持Kolors/FLUX/Qwen-Image等模型（需SiliconFlow API）",
+  "version": "1.0.0",
+  "author": {
+    "name": "duyiliu"
+  },
+  "homepage": "https://siliconflow.cn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/duyiliu/gen-image"
+}

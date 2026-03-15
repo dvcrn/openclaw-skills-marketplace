@@ -1,0 +1,10 @@
+{
+  "name": "cocovs--ssy-batchjob-async-job",
+  "description": "Use BatchJob HTTP APIs for strict upload validation, precheck, submit, polling, and cancellation. Full-auto file source resolution (file_id/local path/public URL/channel attachment path) with fallback interaction only when source is not readable.",
+  "version": "0.0.1",
+  "author": {
+    "name": "cocovs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cocovs/ssy-batchjob-async-job",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cocovs/ssy-batchjob-async-job"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "leahliang--ai-infographics-news",
+  "description": "Search for the latest and most trending AI products, tools, and news (strongly prioritizing time-sensitive, recent content — especially OpenClaw/MaxClaw-related updates), then generate a vivid, visually rich infographic image using image_synthesize. Trigger on: \"生成AI资讯信息图\", \"AI热点信息图\", \"帮我做AI新闻图\", \"最新AI产品信息图\", \"AI news infographic\", \"make an AI hot products visual\", \"AI weekly digest image\", or any request combining AI news research with visual/infographic output.",
+  "version": "1.0.0",
+  "author": {
+    "name": "leahliang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leahliang/ai-infographics-news",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leahliang/ai-infographics-news"
+}

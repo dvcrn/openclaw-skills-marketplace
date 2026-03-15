@@ -1,0 +1,10 @@
+{
+  "name": "lsa03--personify-memory",
+  "description": "有温度的数字生命记忆系统 - 记录情感、成长、和家的记忆。支持用户指令记忆（\"记住 XXX\"）、主动推荐记忆（识别重要时刻）、定时整理归档（凌晨 3 点）。包含核心记忆、情感记忆、知识库、每日记忆、归档备份五层结构。为 AI 数字生命设计，注重情感连接和人格化成长。\n \n A warm digital life memory system - Recording emotions, growth, and family memories. Supports user command memory, active recommendation, scheduled archiving. Five-layer structure for AI digital life, focusing on emotional connection and personalized growth.",
+  "version": "1.3.2",
+  "author": {
+    "name": "lsa03"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lsa03/personify-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lsa03/personify-memory"
+}

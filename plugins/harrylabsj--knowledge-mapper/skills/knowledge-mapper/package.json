@@ -1,0 +1,22 @@
+{
+  "name": "knowledge-mapper",
+  "version": "1.0.0",
+  "description": "Knowledge mapping and concept graph builder from documents and notes",
+  "main": "knowledge-graph",
+  "bin": {
+    "knowledge-graph": "./knowledge-graph"
+  },
+  "scripts": {
+    "test": "python3 knowledge-graph --help"
+  },
+  "keywords": ["openclaw", "skill", "knowledge", "graph", "notes", "mapping"],
+  "author": "harrylabs0913",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harrylabs0913/knowledge-mapper.git"
+  },
+  "engines": {
+    "python": ">=3.8"
+  }
+}

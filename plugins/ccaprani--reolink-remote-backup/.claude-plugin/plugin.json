@@ -1,0 +1,10 @@
+{
+  "name": "ccaprani--reolink-remote-backup",
+  "description": "Set up reliable off-site Reolink camera backup when cameras are remote (4G/5G/LTE) and home inbound networking is constrained (CGNAT/locked routers). Use for architecture decisions, VPS relay setup, FTP/FTPS ingest, local/NAS pull sync, retention, and troubleshooting upload/auth/path failures.",
+  "version": "0.1.0",
+  "author": {
+    "name": "ccaprani"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ccaprani/reolink-remote-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ccaprani/reolink-remote-backup"
+}

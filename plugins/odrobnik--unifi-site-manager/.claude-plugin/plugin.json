@@ -1,0 +1,10 @@
+{
+  "name": "odrobnik--unifi-site-manager",
+  "description": "Monitor and configure UniFi network infrastructure. Auto-routes between local gateway and cloud connector. Manage hosts, sites, devices, clients, WLANs, radios, firmware, and events.",
+  "version": "3.2.1",
+  "author": {
+    "name": "odrobnik"
+  },
+  "homepage": "https://github.com/odrobnik/unifi-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/unifi-site-manager"
+}

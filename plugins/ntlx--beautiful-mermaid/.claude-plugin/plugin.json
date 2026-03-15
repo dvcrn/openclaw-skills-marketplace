@@ -1,0 +1,10 @@
+{
+  "name": "ntlx--beautiful-mermaid",
+  "description": "Render beautiful Mermaid diagrams as SVGs or ASCII art. Use when user sends Mermaid code blocks \n (\\`\\`\\`mermaid ... \\`\\`\\`) and wants to visualize them. Supports: Flowcharts, State, Sequence, Class, ER diagrams.\n Features: Ultra-fast (100+ diagrams <500ms), zero DOM dependencies, 15 built-in themes, Shiki theme compatibility.\n Perfect for: Telegram messages, terminal output, web interfaces, CLI tools.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ntlx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ntlx/beautiful-mermaid",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ntlx/beautiful-mermaid"
+}

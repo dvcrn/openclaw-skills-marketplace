@@ -1,0 +1,10 @@
+{
+  "name": "aaron-he-zhu--entity-optimizer",
+  "description": "This skill should be used when the user asks to \"optimize entity presence\", \"build knowledge graph\", \"improve knowledge panel\", \"entity audit\", \"establish brand entity\", \"Google does not know my brand\", \"no knowledge panel\", or \"establish my brand as an entity\". Works standalone with public search and AI query testing; supercharged when you connect ~~knowledge graph + ~~SEO tool + ~~AI monitor for automated entity analysis. For structured data implementation, see schema-markup-generator. For content-level AI optimization, see geo-content-optimizer.",
+  "version": "3.0.0",
+  "author": {
+    "name": "aaron-he-zhu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/entity-optimizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/entity-optimizer"
+}

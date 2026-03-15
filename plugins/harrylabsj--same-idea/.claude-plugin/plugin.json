@@ -1,0 +1,10 @@
+{
+  "name": "harrylabsj--same-idea",
+  "description": "Find similar ideas and resonating quotes from user's reading notes and knowledge base. Use when user wants to discover connections between a new idea/concept and their existing knowledge. Input can be a thought, concept, or a quote from a book. The skill searches through user's notes (Logseq/Obsidian vault) to find similar ideas, resonating quotes, or related concepts, then returns matching quotes with their sources (book title, author, or person).",
+  "version": "1.0.1",
+  "author": {
+    "name": "harrylabsj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/same-idea",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/same-idea"
+}

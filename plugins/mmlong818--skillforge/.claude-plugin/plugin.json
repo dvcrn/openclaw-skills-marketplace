@@ -1,0 +1,10 @@
+{
+  "name": "mmlong818--skillforge",
+  "description": "Generate production-grade Agent Skill packages through a structured 7-step pipeline: requirement analysis, architecture decisions, metadata crafting, body generation, quality audit, resource file creation, and usage documentation. Use when creating new Skills from scratch, upgrading low-quality Skills, or batch-producing Skills for a specific domain. Outputs a complete skill directory with SKILL.md, scripts/, references/, and templates/.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mmlong818"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mmlong818/skillforge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mmlong818/skillforge"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "setdemos--lmfiles",
+  "description": "Upload files to lmfiles.com and return public download links via API. Use when a user wants CLI-based file hosting, quick share links, bot-accessible file upload, account registration with bootstrap token, file metadata lookup, listing account files, or deleting uploaded files.",
+  "version": "1.0.2",
+  "author": {
+    "name": "setdemos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/setdemos/lmfiles",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/setdemos/lmfiles"
+}

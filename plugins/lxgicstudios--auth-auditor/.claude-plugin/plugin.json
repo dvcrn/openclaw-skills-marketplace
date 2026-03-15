@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--auth-auditor",
+  "description": "Audit your authentication implementation for security flaws. Use when you need to verify your auth is actually secure.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/auth-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/auth-auditor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "fortunto2--solo-build",
+  "description": "Execute implementation plan tasks with TDD workflow, auto-commit, and phase gates. Use when user says \"build it\", \"start building\", \"execute plan\", \"implement tasks\", \"ship it\", or references a track ID. Do NOT use for planning (use /plan) or scaffolding (use /scaffold).",
+  "version": "2.2.1",
+  "author": {
+    "name": "fortunto2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-build",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-build"
+}

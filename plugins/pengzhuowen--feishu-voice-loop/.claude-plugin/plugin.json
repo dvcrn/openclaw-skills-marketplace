@@ -1,0 +1,10 @@
+{
+  "name": "pengzhuowen--feishu-voice-loop",
+  "description": "A reusable Feishu voice loop: accept text or voice input, generate natural OpenAI speech, and deliver it to chat or web playback. Use when building or sharing a reusable Feishu voice workflow with text-or-voice in and audio out, including browser playback and Feishu voice replies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pengzhuowen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pengzhuowen/feishu-voice-loop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pengzhuowen/feishu-voice-loop"
+}

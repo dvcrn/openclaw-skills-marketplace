@@ -1,0 +1,10 @@
+{
+  "name": "uyeong--k-cinema-bridge",
+  "description": "Query Korean multiplex (Lotte Cinema, CGV, Megabox) box office rankings and upcoming movie data enriched with KOBIS details. Use when the user asks about Korean movies currently showing, box office rankings, upcoming releases, or wants movie recommendations based on genre, director, actor, or rating.",
+  "version": "0.1.1",
+  "author": {
+    "name": "uyeong"
+  },
+  "homepage": "https://uyeong.github.io/k-cinema-bridge/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/uyeong/k-cinema-bridge"
+}

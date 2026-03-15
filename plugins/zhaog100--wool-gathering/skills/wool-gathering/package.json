@@ -1,0 +1,22 @@
+{
+  "name": "wool-gathering",
+  "version": "1.0.0",
+  "description": "薅羊毛综合技能 - 自动签到、价格监控、优惠券推送。支持阿里云盘、百度网盘、B站、爱奇艺、京东等平台。",
+  "main": "SKILL.md",
+  "keywords": [
+    "wool-gathering",
+    "auto-checkin",
+    "price-monitor",
+    "coupon",
+    "jd",
+    "taobao",
+    "aliyun",
+    "baidu"
+  ],
+  "author": "zhaog100",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhaog100/openclaw-skills"
+  }
+}

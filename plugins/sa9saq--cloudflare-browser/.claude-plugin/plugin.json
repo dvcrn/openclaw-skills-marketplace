@@ -1,0 +1,10 @@
+{
+  "name": "sa9saq--cloudflare-browser",
+  "description": "Control headless Chrome via Cloudflare Browser Rendering HTTP API. Use for screenshots, page navigation, form filling, and browser automation in Cloudflare Workers environment.",
+  "version": "1.0.2",
+  "author": {
+    "name": "sa9saq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sa9saq/cloudflare-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sa9saq/cloudflare-browser"
+}

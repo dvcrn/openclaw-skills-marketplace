@@ -1,0 +1,10 @@
+{
+  "name": "mariusfit--oc-daily-business-report",
+  "description": "Generate daily business briefings from multiple data sources. Aggregates weather, crypto prices, news headlines, system health, and calendar events into a formatted morning report. Use when asked to create a daily report, morning briefing, business summary, or status dashboard.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mariusfit"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mariusfit/oc-daily-business-report",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mariusfit/oc-daily-business-report"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "morvanzhou--whoami",
+  "description": "Cross-AI user identity profile sync service. When you need user's background, preferences, or personal context to better execute a task, invoke this skill to load the user's identity profile then continue the task. When you need to update user's identity profile for later access, invoke this skill to save the profile. User can use @whoami to trigger this skill.",
+  "version": "1.0.2",
+  "author": {
+    "name": "morvanzhou"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/morvanzhou/whoami",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/morvanzhou/whoami"
+}

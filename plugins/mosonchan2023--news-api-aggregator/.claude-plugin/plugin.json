@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--news-api-aggregator",
+  "description": "Aggregate news from multiple sources into a unified API. Each call charges 0.001 USDT via SkillPay.",
+  "version": "1.0.1",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/news-api-aggregator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/news-api-aggregator"
+}

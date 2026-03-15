@@ -1,0 +1,10 @@
+{
+  "name": "erergb--auto-doc-index",
+  "description": "Auto-generate document index tables (ADR, RFC, Pitfall, etc.) from file frontmatter. In real-world testing, hand-maintained indexes had a 62% error rate — titles truncated, statuses fabricated, dates invented. This skill eliminates that silent drift. Use when creating doc directories, adding ADRs/RFCs, or setting up documentation governance.",
+  "version": "1.2.0",
+  "author": {
+    "name": "erergb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/erergb/auto-doc-index",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/erergb/auto-doc-index"
+}

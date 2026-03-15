@@ -1,0 +1,10 @@
+{
+  "name": "tyduss--zai-web-search",
+  "description": "Use ZHIPU AI's Web Search API to search the web (optimized for Chinese, supports 4 engines). Use when user asks to search, especially for Chinese content.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tyduss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tyduss/zai-web-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tyduss/zai-web-search"
+}

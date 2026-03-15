@@ -1,0 +1,10 @@
+{
+  "name": "wesley138cn--feishu-sheets-skill",
+  "description": "Feishu online spreadsheet (Sheets) operations including create, read, write, append data, manage worksheets.\n Use when user mentions Feishu Sheets, online spreadsheet, electronic spreadsheet (not Bitable/multi-dimensional table).\n Supports: create spreadsheet, write/read cell values, append rows, insert/delete rows/columns, manage worksheets.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wesley138cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wesley138cn/feishu-sheets-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wesley138cn/feishu-sheets-skill"
+}

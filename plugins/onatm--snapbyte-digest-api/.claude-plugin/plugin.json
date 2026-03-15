@@ -1,0 +1,10 @@
+{
+  "name": "onatm--snapbyte-digest-api",
+  "description": "Fetch personalized developer news digests from Snapbyte External API with API-key auth. Use for Hacker News digest, Reddit digest, Lobsters digest, and DEV.to digest workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "onatm"
+  },
+  "homepage": "https://api.snapbyte.dev/docs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/onatm/snapbyte-digest-api"
+}

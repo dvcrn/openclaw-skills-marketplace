@@ -1,0 +1,10 @@
+{
+  "name": "jas0n1ee--gemini-smart-search",
+  "description": "Search the web using Gemini with Google Search grounding through a local script, with model routing and quota fallback across Gemini Flash-Lite / Flash variants. Use when web research should stay inside the Gemini family, when dynamic model switching is needed without restarting the OpenClaw gateway, when a separate Gemini API key/quota pool should be used, or when repeated search tasks need cheap/balanced/deep modes with structured JSON output.",
+  "version": "0.1.1",
+  "author": {
+    "name": "jas0n1ee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jas0n1ee/gemini-smart-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jas0n1ee/gemini-smart-search"
+}

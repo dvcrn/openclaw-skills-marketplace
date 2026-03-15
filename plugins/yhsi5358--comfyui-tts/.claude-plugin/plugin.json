@@ -1,0 +1,10 @@
+{
+  "name": "yhsi5358--comfyui-tts",
+  "description": "Generate speech audio using ComfyUI Qwen-TTS service. Invoke when user needs text-to-speech conversion or voice generation through ComfyUI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yhsi5358"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yhsi5358/comfyui-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yhsi5358/comfyui-tts"
+}

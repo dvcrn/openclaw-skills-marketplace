@@ -1,0 +1,10 @@
+{
+  "name": "d1gl3--gitlab-api",
+  "description": "GitLab API integration for repository operations. Use when working with GitLab repositories for reading, writing, creating, or deleting files, listing projects, managing branches, or any other GitLab repository operations.",
+  "version": "0.1.0",
+  "author": {
+    "name": "d1gl3"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/d1gl3/gitlab-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/d1gl3/gitlab-api"
+}

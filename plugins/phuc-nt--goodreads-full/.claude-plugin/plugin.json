@@ -1,0 +1,10 @@
+{
+  "name": "phuc-nt--goodreads-full",
+  "description": "Full Goodreads integration: read shelves, search books, get details/reviews via RSS, and write actions (rate, shelf, review, edit dates, progress) via Playwright browser automation. Use when user asks about reading list, books, ratings, or wants to update their Goodreads.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phuc-nt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phuc-nt/goodreads-full",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phuc-nt/goodreads-full"
+}

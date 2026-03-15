@@ -1,0 +1,10 @@
+{
+  "name": "jessewunderlich--meeting-transcripts",
+  "description": "Capture meeting transcripts from Fireflies.ai via polling or webhooks. Auto-fetches transcripts, extracts action items/decisions/summaries, and writes structured markdown to memory. Use when user asks to check for meeting transcripts, set up meeting capture, or review past meetings. Supports cron-based polling (every 30 min) and real-time webhooks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jessewunderlich"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jessewunderlich/meeting-transcripts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jessewunderlich/meeting-transcripts"
+}

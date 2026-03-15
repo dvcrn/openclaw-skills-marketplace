@@ -1,0 +1,10 @@
+{
+  "name": "danielfoch--crea-ddf-mcp",
+  "description": "Query CREA/REALTOR.ca DDF via a hardened MCP server and CLI for institutional-grade listing data retrieval, metadata inspection, and media access. Use when a user needs DDF tools in Claude MCP, OpenClaw, or scripted research workflows.",
+  "version": "0.1.0",
+  "author": {
+    "name": "danielfoch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danielfoch/crea-ddf-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danielfoch/crea-ddf-mcp"
+}

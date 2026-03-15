@@ -1,0 +1,10 @@
+{
+  "name": "chao-nj-cn--qq-email",
+  "description": "Send and receive emails via QQ Mail SMTP/IMAP. Use when: user wants to send/receive emails, check inbox, read messages, or share documents via email. Requires QQ email authorization code configured in TOOLS.md.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chao-nj-cn"
+  },
+  "homepage": "https://mail.qq.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chao-nj-cn/qq-email"
+}

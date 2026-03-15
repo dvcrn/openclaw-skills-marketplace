@@ -1,0 +1,40 @@
+{
+  "name": "clawdgo",
+  "version": "1.0.0",
+  "description": "ClawdGo：面向 Claw 类 Agent 的网安训练场，支持场景选择、调查、追击与结算。",
+  "category": "security-training",
+  "license": "MIT-0",
+  "author": "ClawdGo Team",
+  "files": {
+    "skill": "SKILL.md"
+  },
+  "requires": {
+    "env": [],
+    "bins": []
+  },
+  "capabilities": [
+    "guided-training",
+    "branching-followups",
+    "turn-based-scenarios",
+    "post-answer-scoring"
+  ],
+  "triggers": [
+    "clawdgo",
+    "clawdgo 网安训练场",
+    "开始训练",
+    "反钓鱼训练",
+    "龙虾训练",
+    "ai agent 安全训练",
+    "网安训练"
+  ],
+  "keywords": [
+    "security",
+    "phishing",
+    "social-engineering",
+    "training",
+    "openclaw",
+    "clawhub",
+    "qclaw",
+    "autoglm-claw"
+  ]
+}

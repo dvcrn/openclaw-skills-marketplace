@@ -1,0 +1,10 @@
+{
+  "name": "chentuan7963-afk--app-legal-pages",
+  "description": "Generate and deploy app Privacy Policy and Terms of Service static websites from an app feature document. Use when a user provides app requirements/feature docs and wants production-ready legal pages published via GitHub + Cloudflare Pages, including draft generation, consistency checks, and deployment-ready output URLs.",
+  "version": "0.1.6",
+  "author": {
+    "name": "chentuan7963-afk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chentuan7963-afk/app-legal-pages",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chentuan7963-afk/app-legal-pages"
+}

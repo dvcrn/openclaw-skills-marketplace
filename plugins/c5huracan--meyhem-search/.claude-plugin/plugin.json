@@ -1,0 +1,10 @@
+{
+  "name": "c5huracan--meyhem-search",
+  "description": "Web search client that queries api.rhdxm.com and returns ranked results. Optionally retrieve page content. No API key.",
+  "version": "0.2.4",
+  "author": {
+    "name": "c5huracan"
+  },
+  "homepage": "https://github.com/c5huracan/meyhem",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/c5huracan/meyhem-search"
+}

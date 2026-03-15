@@ -1,0 +1,10 @@
+{
+  "name": "romainsantoli-web--firm-orchestration",
+  "description": "Pyramid multi-agent orchestration for OpenClaw: routes objectives from a CEO agent down through departments, services and employees via sessions_send / sessions_spawn, collects and merges results, enforces handoff contracts, and writes the final deliverable back to the originating session.",
+  "version": "1.0.0",
+  "author": {
+    "name": "romainsantoli-web"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-orchestration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-orchestration"
+}

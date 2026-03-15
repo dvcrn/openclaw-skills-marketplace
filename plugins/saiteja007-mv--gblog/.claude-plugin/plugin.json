@@ -1,0 +1,10 @@
+{
+  "name": "saiteja007-mv--gblog",
+  "description": "Blogger API CLI for managing blog posts. Post, edit, delete, list, and monitor Blogger blogs.\n Use when the user wants to: (1) publish blog posts to Blogger, (2) edit existing blog posts,\n (3) list or search blog posts, (4) delete blog posts, (5) schedule posts, (6) monitor blog activity.\n Requires Google OAuth credentials in ~/.config/gblog/credentials.json",
+  "version": "1.0.0",
+  "author": {
+    "name": "saiteja007-mv"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/saiteja007-mv/gblog",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/saiteja007-mv/gblog"
+}

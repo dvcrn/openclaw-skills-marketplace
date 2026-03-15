@@ -1,0 +1,10 @@
+{
+  "name": "pors--paperzilla",
+  "description": "Use the Paperzilla CLI (pz) to search, filter, and browse high-signal academic papers. Trigger when the user wants to check research feeds, list projects, inspect must-read papers, export JSON results, or generate Atom feed links from Paperzilla. Requires a Paperzilla account and pz login.",
+  "version": "0.1.0",
+  "author": {
+    "name": "pors"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pors/paperzilla",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pors/paperzilla"
+}

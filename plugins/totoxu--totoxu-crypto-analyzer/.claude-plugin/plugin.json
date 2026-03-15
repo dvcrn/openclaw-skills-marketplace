@@ -1,0 +1,10 @@
+{
+  "name": "totoxu--totoxu-crypto-analyzer",
+  "description": "Fetch real-time crypto prices and calculate technical indicators (SMA, EMA, MACD, RSI, Bollinger Bands, ATR) for BTC, ETH, SOL, BNB, XRP, DOGE. Powered by multi-source data (Binance, CoinGecko, CoinCap, CryptoCompare).",
+  "version": "1.3.0",
+  "author": {
+    "name": "totoxu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/totoxu/totoxu-crypto-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/totoxu/totoxu-crypto-analyzer"
+}

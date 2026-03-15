@@ -1,0 +1,10 @@
+{
+  "name": "mrsirg97-rgb--torchpredictionmarketkit",
+  "description": "Autonomous vault-based prediction market bot for Torch Market on Solana. Creates binary prediction markets as Torch tokens — the bonding curve provides price discovery, the treasury accumulates value from trading fees, and the vault manages positions. Each market has an oracle (price feed or manual) and resolves at a deadline. The agent keypair is generated in-process -- disposable, holds nothing of value. All SOL routes through the vault. The human principal creates the vault, funds it, links the agent, and retains full control. Built on torchsdk v3.7.23 and the Torch Market protocol.",
+  "version": "2.0.3",
+  "author": {
+    "name": "mrsirg97-rgb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrsirg97-rgb/torchpredictionmarketkit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrsirg97-rgb/torchpredictionmarketkit"
+}

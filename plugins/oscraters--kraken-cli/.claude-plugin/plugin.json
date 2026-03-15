@@ -1,0 +1,10 @@
+{
+  "name": "oscraters--kraken-cli",
+  "description": "Use a Bash CLI to query Kraken Spot and Futures APIs, inspect account state, run guarded trading and funding actions, and work with Kraken websocket payloads using OpenClaw-managed secrets.",
+  "version": "1.0.0",
+  "author": {
+    "name": "oscraters"
+  },
+  "homepage": "https://github.com/oscraters/kraken-skill.git",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oscraters/kraken-cli"
+}

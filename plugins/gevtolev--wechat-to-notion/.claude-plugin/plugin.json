@@ -1,0 +1,10 @@
+{
+  "name": "gevtolev--wechat-to-notion",
+  "description": "Save WeChat public account articles to a Notion database. Use when user sends a mp.weixin.qq.com link and wants to save/archive it to Notion. Fetches title, cover image, body content (paragraphs, headings, images, code blocks, lists) and writes them as Notion blocks.",
+  "version": "1.2.3",
+  "author": {
+    "name": "gevtolev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gevtolev/wechat-to-notion",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gevtolev/wechat-to-notion"
+}

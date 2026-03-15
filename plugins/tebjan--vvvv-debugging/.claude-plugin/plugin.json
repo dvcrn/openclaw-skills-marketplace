@@ -1,0 +1,10 @@
+{
+  "name": "tebjan--vvvv-debugging",
+  "description": "Set up debugging for vvvv gamma C# node projects -- generate VS Code launch.json and tasks.json configurations, attach debugger to running vvvv, configure Visual Studio debug profiles, and use debugging best practices. Use when setting up a debugger for vvvv, creating launch configurations, attaching to vvvv process, or troubleshooting breakpoints in C# nodes. Supports multiple launch configs for different test scenarios/patches.",
+  "version": "1.0.1",
+  "author": {
+    "name": "tebjan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tebjan/vvvv-debugging",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tebjan/vvvv-debugging"
+}

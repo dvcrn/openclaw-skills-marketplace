@@ -1,0 +1,10 @@
+{
+  "name": "shindo957-official--openclaw-plus",
+  "description": "A modular super-skill combining developer and web capabilities. Use when the user needs Python execution, package management, git operations, URL fetching, or API interactions. Triggers include requests to run code, install packages, check git status, commit changes, fetch web content, or call APIs. This skill provides a unified workflow for development and web automation tasks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shindo957-official"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shindo957-official/openclaw-plus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shindo957-official/openclaw-plus"
+}

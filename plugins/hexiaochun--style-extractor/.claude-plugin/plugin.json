@@ -1,0 +1,10 @@
+{
+  "name": "hexiaochun--style-extractor",
+  "description": "从参考剧本或参考素材中提取统一风格锚点（STYLE_BASE），确保全剧视觉一致性。当需要匹配参考风格、提取画风、建立风格基准、生成风格资产包时使用。",
+  "version": "1.0.0",
+  "author": {
+    "name": "hexiaochun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/style-extractor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/style-extractor"
+}

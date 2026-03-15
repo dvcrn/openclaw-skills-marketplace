@@ -1,0 +1,10 @@
+{
+  "name": "givenness--arena-research-skill",
+  "description": "General-purpose Are.na research agent. Searches Are.na for curated collections, references, visual inspiration, and linked resources across any topic. Explores the connection graph between channels to discover adjacent ideas and key curators. Use when: (1) user says \"arena research\", \"search arena for\", \"search are.na for\", \"what's on arena about\", \"find arena channels about\", \"who's curating [topic]\", \"explore arena for\", \"/arena-research\", (2) user is working on something where curated human-collected references would be valuable (design research, cultural analysis, art direction, conceptual exploration, reading lists, visual references), (3) user wants to discover how people organize ideas around a topic — the channel structure IS the insight. NOT for: posting content, account management, or real-time/breaking news (use x-research for that).",
+  "version": "0.1.0",
+  "author": {
+    "name": "givenness"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/givenness/arena-research-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/givenness/arena-research-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sergeykdev--syself-autopilot-hetzner",
+  "description": "Use for SySelf Autopilot on Hetzner: management kubeconfig setup, organization namespace, Hetzner account preparation, ClusterStack and Cluster manifests, bare metal worker onboarding with HetznerBareMetalHost, day-2 cluster operations, and support-boundary-aware troubleshooting. Invoke for SySelf Autopilot, Hetzner, bare metal workers, HetznerBareMetalHost, ClusterStack, management cluster, workload cluster, Robot, and HCloud-backed cluster tasks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sergeykdev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sergeykdev/syself-autopilot-hetzner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sergeykdev/syself-autopilot-hetzner"
+}

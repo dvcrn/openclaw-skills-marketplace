@@ -1,0 +1,10 @@
+{
+  "name": "zadahmed--nervepay-identity",
+  "description": "Agent identity layer. Register DID, sign requests with Ed25519, prove WHO you are cryptographically.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zadahmed"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zadahmed/nervepay-identity",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zadahmed/nervepay-identity"
+}

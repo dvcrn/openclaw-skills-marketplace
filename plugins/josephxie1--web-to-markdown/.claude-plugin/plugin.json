@@ -1,0 +1,10 @@
+{
+  "name": "josephxie1--web-to-markdown",
+  "description": "网页内容抓取与图片提取技能。支持：(1) 将网页转换为 Markdown 格式阅读 (2) 从任意网站提取图片 URL (3) 批量下载网页图片。当需要抓取网页内容、读取文章、提取或下载网站图片时使用此技能。支持 markdown.new、defuddle.md、r.jina.ai 等转换服务，自动降级确保成功。\n Web scraping and image extraction skill. Supports: (1) Converting web pages to Markdown for reading (2) Extracting image URLs from any website (3) Batch downloading images. Use this skill when you need to scrape web content, read articles, or extract/download images from websites. Supports markdown.new, defuddle.md, r.jina.ai conversion services with automatic fallback.",
+  "version": "1.0.0",
+  "author": {
+    "name": "josephxie1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/josephxie1/web-to-markdown",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/josephxie1/web-to-markdown"
+}

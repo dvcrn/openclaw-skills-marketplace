@@ -1,0 +1,10 @@
+{
+  "name": "upstage-deployment--upstage-document-parse",
+  "description": "Parse documents (PDF, images, DOCX, PPTX, XLSX, HWP) using Upstage Document Parse API. Extracts text, tables, figures, and layout elements with bounding boxes. Use when user asks to parse, extract, or analyze document content, convert documents to markdown/HTML, or extract structured data from PDFs and images.",
+  "version": "1.0.4",
+  "author": {
+    "name": "upstage-deployment"
+  },
+  "homepage": "https://console.upstage.ai/api/document-digitization/document-parsing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/upstage-deployment/upstage-document-parse"
+}

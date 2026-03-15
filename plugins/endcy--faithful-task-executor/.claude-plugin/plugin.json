@@ -1,0 +1,10 @@
+{
+  "name": "endcy--faithful-task-executor",
+  "description": "任务规则忠实执行器。确保工作任务按初始要求执行，子代理/子任务始终遵循原始规则，减少 AI 幻觉和执行偏差。支持并发任务编排、规则持久化传递、执行一致性校验。",
+  "version": "1.0.0",
+  "author": {
+    "name": "endcy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/endcy/faithful-task-executor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/endcy/faithful-task-executor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "shaiss--near-email-reporter",
+  "description": "Send NEAR reports and alerts via email with SMTP configuration, scheduling, and automatic reporting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shaiss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shaiss/near-email-reporter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shaiss/near-email-reporter"
+}

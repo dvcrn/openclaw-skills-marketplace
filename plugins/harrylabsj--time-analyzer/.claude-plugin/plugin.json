@@ -1,0 +1,10 @@
+{
+  "name": "harrylabsj--time-analyzer",
+  "description": "Time tracking and analysis skill for automatic activity monitoring and productivity insights. Use when the user wants to track time spent on activities, analyze time usage patterns, get productivity suggestions, or generate time reports. Triggers on phrases like \"track my time\", \"analyze my time\", \"time report\", \"productivity analysis\", \"how am I spending my time\", \"time tracking\", \"start tracking\", \"stop tracking\", \"time suggestions\", \"time optimization\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "harrylabsj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/time-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/time-analyzer"
+}

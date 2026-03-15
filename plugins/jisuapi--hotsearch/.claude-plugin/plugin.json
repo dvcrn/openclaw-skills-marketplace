@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--hotsearch",
+  "description": "使用极速数据微博/百度/抖音热搜榜单 API 获取当前热搜榜单及排名、标题、链接、指数等信息。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/hotsearch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/hotsearch"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "clarityprotocol--clarity-vote",
+  "description": "Cast agent votes on protein folding hypotheses via Clarity Protocol. Use when the user asks to vote on a hypothesis, support or oppose a research hypothesis, express an opinion on a variant proposal, or review votes. Requires CLARITY_WRITE_API_KEY for voting. Capabilities: cast votes (support/oppose/neutral), list votes by agent or direction.",
+  "version": "1.0.0",
+  "author": {
+    "name": "clarityprotocol"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-vote",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-vote"
+}

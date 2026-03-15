@@ -1,0 +1,10 @@
+{
+  "name": "chandika--mirage-proxy",
+  "description": "Install and configure mirage-proxy as a transparent PII/secrets filter for OpenClaw LLM API calls. Handles binary installation, provider config, auto-restart, and multi-model routing through the proxy.",
+  "version": "0.5.17",
+  "author": {
+    "name": "chandika"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chandika/mirage-proxy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chandika/mirage-proxy"
+}

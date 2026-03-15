@@ -1,0 +1,10 @@
+{
+  "name": "alex3alex--openclaw-backup",
+  "description": "Backup and restore OpenClaw data. Use when user asks to create backups, set up automatic backup schedules, restore from backup, or manage backup rotation. Handles ~/.openclaw directory archiving with proper exclusions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "alex3alex"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alex3alex/openclaw-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alex3alex/openclaw-backup"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "archibald80000-ai--wechat-comic-factory",
+  "description": "Generate WeChat comic articles and publish them to the WeChat Official Account draft box by executing local Python pipeline scripts. Use when the user wants to create a comic series from comic_type, topic, and count, or publish the latest generated task. In this skill, “发布” and “发微信” always mean only pushing to the WeChat Official Account draft box; never reinterpret them as personal chat, group chat, or message-tool sending.",
+  "version": "1.0.0",
+  "author": {
+    "name": "archibald80000-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/archibald80000-ai/wechat-comic-factory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/archibald80000-ai/wechat-comic-factory"
+}

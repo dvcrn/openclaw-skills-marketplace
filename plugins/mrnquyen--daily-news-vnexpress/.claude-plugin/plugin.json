@@ -1,0 +1,10 @@
+{
+  "name": "mrnquyen--daily-news-vnexpress",
+  "description": "Fetch the latest trending global news from https://vnexpress.net/rss/{topic}.rss.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrnquyen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrnquyen/daily-news-vnexpress",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrnquyen/daily-news-vnexpress"
+}

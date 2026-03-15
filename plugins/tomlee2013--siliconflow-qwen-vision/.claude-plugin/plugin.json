@@ -1,0 +1,10 @@
+{
+  "name": "tomlee2013--siliconflow-qwen-vision",
+  "description": "图片理解与分析。当用户需要分析图片内容、识别图片中的物体、描述图片场景、理解图片含义时使用此技能。支持图片问答、物体识别、场景描述等。",
+  "version": "0.2.0",
+  "author": {
+    "name": "tomlee2013"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tomlee2013/siliconflow-qwen-vision",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tomlee2013/siliconflow-qwen-vision"
+}

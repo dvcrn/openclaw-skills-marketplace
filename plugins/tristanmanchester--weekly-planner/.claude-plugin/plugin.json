@@ -1,0 +1,10 @@
+{
+  "name": "tristanmanchester--weekly-planner",
+  "description": "File-based weekly planning system (TOML) with inbox capture, time-block scheduling, weekly review, and optional calendar publishing (Google Calendar via gogcli or .ics export). Use when a user asks to plan or time-block a week, triage an inbox of tasks, roll over unfinished work, run a weekly review, or publish a weekly schedule to a calendar. Do NOT use for full project-management tools (Jira/Linear/etc.) unless explicitly requested.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tristanmanchester"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/weekly-planner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/weekly-planner"
+}

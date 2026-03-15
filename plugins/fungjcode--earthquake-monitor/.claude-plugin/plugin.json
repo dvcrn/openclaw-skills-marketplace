@@ -1,0 +1,10 @@
+{
+  "name": "fungjcode--earthquake-monitor",
+  "description": "Real-time earthquake monitoring for China, Taiwan, and Japan. CENC/CWA/JMA WebSocket data with proactive alert support.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fungjcode"
+  },
+  "homepage": "https://github.com/fungjcode/earthquake-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fungjcode/earthquake-monitor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "robbyczgw-cla--agora-council",
+  "description": "Multi-agent debate council — spawns 3 specialized sub-agents in parallel (Scholar, Engineer, Muse) to tackle complex problems from different angles. Configurable models per role. Inspired by Grok 4.20's multi-agent architecture.",
+  "version": "0.1.0-beta",
+  "author": {
+    "name": "robbyczgw-cla"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/agora-council",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/agora-council"
+}

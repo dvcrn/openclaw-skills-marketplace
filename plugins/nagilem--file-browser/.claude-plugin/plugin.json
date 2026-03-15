@@ -1,0 +1,10 @@
+{
+  "name": "nagilem--file-browser",
+  "description": "Read-only file browsing and reading in the OpenClaw workspace (/home/alfred/.openclaw/workspace). Use for listing directories or reading text files (up to 10k chars). Triggers on queries like \"list files in [dir]\", \"read file [path]\", \"browse workspace [path]\". Restrict to relative paths; reject absolutes or ../ escapes. NOT for writing, deleting, executing, or non-workspace access.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nagilem"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nagilem/file-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nagilem/file-browser"
+}

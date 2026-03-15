@@ -1,0 +1,10 @@
+{
+  "name": "yjli-new--douyin-upload-skill",
+  "description": "Login and publish Douyin (China mainland) videos from local files with OAuth, local speech-to-text, and generated caption drafts. Use when users ask to authorize Douyin accounts, upload local videos, auto-generate title/description from video audio, confirm content, and publish via official Douyin OpenAPI with fallback export when publish permissions are missing.",
+  "version": "0.1.0",
+  "author": {
+    "name": "yjli-new"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yjli-new/douyin-upload-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yjli-new/douyin-upload-skill"
+}

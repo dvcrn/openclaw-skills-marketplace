@@ -1,0 +1,10 @@
+{
+  "name": "robb1010--personality-switcher",
+  "description": "Create and switch between AI assistant personalities. Use /personality to list and activate saved personalities. Use /create-personality to design new personas with auto-filled SOUL and IDENTITY. Personalities persist across session boundaries and conversation compacting with automatic heartbeat restoration. Atomic switching with backup and rollback safeguards. Always backs up current state before switching.",
+  "version": "0.1.3",
+  "author": {
+    "name": "robb1010"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/robb1010/personality-switcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robb1010/personality-switcher"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "josephyb97--md-knowledge-spliter",
+  "description": "大型知识文档分块查阅工具。当需要查阅知识库时，先通过索引匹配对应分块，避免一次性加载整个文件。\n 适用于: knowledge/*.md 文档分块、专题知识库索引、增量更新。",
+  "version": "1.0.0",
+  "author": {
+    "name": "josephyb97"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/josephyb97/md-knowledge-spliter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/josephyb97/md-knowledge-spliter"
+}

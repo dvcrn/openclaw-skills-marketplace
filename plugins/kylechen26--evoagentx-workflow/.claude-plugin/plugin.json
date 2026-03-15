@@ -1,0 +1,10 @@
+{
+  "name": "kylechen26--evoagentx-workflow",
+  "description": "Bridge EvoAgentX (1000+ star open-source framework) with OpenClaw. Enables self-evolving agentic workflows - workflows that automatically improve over time through evolutionary optimization. Solves the gap where no EvoAgentX integration existed for OpenClaw (only 2 minimal EvoMap skills existed). Provides workflow autoconstruction, TextGrad/AFlow/MIPRO optimization algorithms, and GEP (Genome Evolution Protocol) integration.",
+  "version": "1.0.2",
+  "author": {
+    "name": "kylechen26"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kylechen26/evoagentx-workflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kylechen26/evoagentx-workflow"
+}

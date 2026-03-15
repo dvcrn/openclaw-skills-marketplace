@@ -1,0 +1,10 @@
+{
+  "name": "jaskies--mail-sender-jaskies",
+  "description": "Gửi email qua giao thức SMTP. Hỗ trợ tùy chỉnh tiêu đề, nội dung và người nhận. Yêu cầu cấu hình tài khoản email (như Gmail App Password) để hoạt động.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jaskies"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jaskies/mail-sender-jaskies",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jaskies/mail-sender-jaskies"
+}

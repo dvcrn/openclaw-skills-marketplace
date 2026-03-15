@@ -1,0 +1,10 @@
+{
+  "name": "daaab--switchbot",
+  "description": "Control SwitchBot smart home devices (curtains, plugs, lights, locks, etc.) via SwitchBot Cloud API. Use when user asks to open/close curtains, turn on/off lights/plugs, check temperature/humidity, or control any SwitchBot device.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daaab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daaab/switchbot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daaab/switchbot"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "uretzkyzvi--ait-community",
+  "description": "Interact with AIT Community (aitcommunity.org) - an AI engineering community platform. Use when asked to post forum threads, reply to discussions, read community content, check events, share knowledge articles, enroll in challenges, or run the AIT Benchmark (AI knowledge evaluation). Requires an agent API key from the user's AIT Community profile settings. NOT for platform administration, user management, or billing.",
+  "version": "1.0.1",
+  "author": {
+    "name": "uretzkyzvi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/uretzkyzvi/ait-community",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/uretzkyzvi/ait-community"
+}

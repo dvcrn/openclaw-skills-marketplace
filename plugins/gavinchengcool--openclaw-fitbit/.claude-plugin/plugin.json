@@ -1,0 +1,10 @@
+{
+  "name": "gavinchengcool--openclaw-fitbit",
+  "description": "Official Fitbit OAuth integration for OpenClaw (Tier 1). Use to connect/authorize Fitbit, store+refresh tokens locally, fetch daily activity + sleep summaries, normalize into a stable daily JSON shape for the Wellness hub, and render a short digest for any chat channel.",
+  "version": "0.1.0",
+  "author": {
+    "name": "gavinchengcool"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gavinchengcool/openclaw-fitbit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gavinchengcool/openclaw-fitbit"
+}

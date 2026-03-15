@@ -1,0 +1,10 @@
+{
+  "name": "oyi77--tiktok-carousel-creator",
+  "description": "Creates TikTok image carousels with text overlays using Pexels API & FFmpeg, then uploads via PostBridge API. Use when the user wants to: create TikTok slideshows or carousels, search images for social media content, post or upload slideshow content to TikTok, edit slide text, or manage image collections for content creation. Do NOT use for: general TikTok account management, TikTok analytics or metrics, video editing or video creation (this is for photo slideshows only), non-TikTok social media platforms, or any task unrelated to creating visual slideshow content for TikTok.",
+  "version": "1.3.0",
+  "author": {
+    "name": "oyi77"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oyi77/tiktok-carousel-creator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oyi77/tiktok-carousel-creator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "7789996399--meerkat-governance",
+  "description": "AI governance API with two endpoints. Shield scans untrusted content for prompt injection and threats. Verify checks AI output for hallucinations, numerical errors, and manipulation against source data. Returns structured results with trust scores and remediation guidance. Full audit trail.",
+  "version": "1.0.4",
+  "author": {
+    "name": "7789996399"
+  },
+  "homepage": "https://meerkatplatform.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/7789996399/meerkat-governance"
+}

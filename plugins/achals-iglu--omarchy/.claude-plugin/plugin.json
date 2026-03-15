@@ -1,0 +1,10 @@
+{
+  "name": "achals-iglu--omarchy",
+  "description": "Omarchy operating guardrails for day-to-day system work: assume the host is Omarchy by default, choose Omarchy-native workflows first, map user intent to the correct omarchy-* wrapper/script family, and avoid generic Linux commands that conflict with Omarchy behavior. Use whenever handling local system tasks on this host unless the user explicitly says it is not Omarchy; prioritize safe Omarchy commands, prevent non-Omarchy shortcuts (e.g., ad-hoc process killing/relaunch patterns), troubleshoot desktop behavior, and validate the right script before execution.",
+  "version": "0.1.1",
+  "author": {
+    "name": "achals-iglu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/achals-iglu/omarchy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/achals-iglu/omarchy"
+}

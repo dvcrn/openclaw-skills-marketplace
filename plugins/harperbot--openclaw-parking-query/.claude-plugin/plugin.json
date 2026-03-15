@@ -1,0 +1,10 @@
+{
+  "name": "harperbot--openclaw-parking-query",
+  "description": "傳送定位點或 Google Maps 網址，查詢附近台灣停車場即時空位，附 Apple Maps / Google Maps 一鍵導航連結。支援 Telegram、LINE、iMessage。",
+  "version": "1.0.0",
+  "author": {
+    "name": "harperbot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harperbot/openclaw-parking-query",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harperbot/openclaw-parking-query"
+}

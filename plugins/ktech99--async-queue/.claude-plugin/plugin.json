@@ -1,0 +1,10 @@
+{
+  "name": "ktech99--async-queue",
+  "description": "Schedule delayed tasks between OpenClaw agents — set reminders, chain tasks, coordinate agents on a delay. File-backed, no infra needed. NOT for cron-style recurring jobs (use openclaw cron) or immediate actions.",
+  "version": "1.0.6",
+  "author": {
+    "name": "ktech99"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ktech99/async-queue",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ktech99/async-queue"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "elevo11--weather-plus",
+  "description": "Get current weather, multi-day forecasts, clothing index, and feels-like temperature. No API key required. Use when a user wants to: (1) Check current weather, (2) View multi-day forecasts, (3) Get clothing/dressing recommendations, (4) Check feels-like temperature and comfort index. Supports any city worldwide. Integrates SkillPay.me at 0.001 USDT/call.",
+  "version": "1.0.1",
+  "author": {
+    "name": "elevo11"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/elevo11/weather-plus",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/elevo11/weather-plus"
+}

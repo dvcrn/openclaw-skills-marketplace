@@ -1,0 +1,10 @@
+{
+  "name": "tag-assistant--wow",
+  "description": "Look up World of Warcraft characters — M+ scores, best runs, raid progression, gear, and more. Uses Raider.io (free), with optional Blizzard API and Warcraft Logs integration for armory data and raid parses.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tag-assistant"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tag-assistant/wow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tag-assistant/wow"
+}

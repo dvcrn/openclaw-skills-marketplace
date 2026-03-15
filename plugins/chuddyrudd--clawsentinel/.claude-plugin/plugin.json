@@ -1,0 +1,10 @@
+{
+  "name": "chuddyrudd--clawsentinel",
+  "description": "Pure local 2026 ClawHub/OpenClaw skill scanner. Detects ClawHavoc malware, MCP backdoors, obfuscated payloads, and supply-chain attacks. 100% read-only analysis.",
+  "version": "2.3.5",
+  "author": {
+    "name": "chuddyrudd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chuddyrudd/clawsentinel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chuddyrudd/clawsentinel"
+}

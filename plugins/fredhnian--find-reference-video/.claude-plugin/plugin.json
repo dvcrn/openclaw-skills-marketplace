@@ -1,0 +1,10 @@
+{
+  "name": "fredhnian--find-reference-video",
+  "description": "从 frameset.app 搜索视频参考片段，找到合集页面和原视频链接。用于： (1) 根据关键词搜索广告/电影片段参考，(2) 获取原视频 YouTube/Vimeo 链接，(3) 下载视频到本地。",
+  "version": "1.0.0",
+  "author": {
+    "name": "fredhnian"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fredhnian/find-reference-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fredhnian/find-reference-video"
+}

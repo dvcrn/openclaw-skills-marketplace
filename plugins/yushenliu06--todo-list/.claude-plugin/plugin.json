@@ -1,0 +1,10 @@
+{
+  "name": "yushenliu06--todo-list",
+  "description": "待办事项管理技能，支持添加、查看、完成、删除待办事项，支持到期提醒、标签系统、项目管理、附件功能。触发条件：(1) 用户提到待办、Todo、任务管理、待办列表、todolist (2) 需要添加、查看、完成、删除待办事项 (3) 设置任务提醒 (4) 标签管理 (5) 项目管理 (6) 用户直接输入\"todo\"或\"todo status\"时显示状态页",
+  "version": "1.2.0",
+  "author": {
+    "name": "yushenliu06"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yushenliu06/todo-list",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yushenliu06/todo-list"
+}

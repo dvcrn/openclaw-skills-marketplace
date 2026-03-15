@@ -1,0 +1,10 @@
+{
+  "name": "clawdbotborges--elevenlabs-music",
+  "description": "Generate music from text prompts using ElevenLabs Eleven Music API. Use when creating songs, soundtracks, jingles, lullabies, or any audio music from descriptions. Supports vocals with AI-generated lyrics, instrumental tracks, and multiple genres/styles. Requires paid ElevenLabs plan.",
+  "version": "1.0.1",
+  "author": {
+    "name": "clawdbotborges"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clawdbotborges/elevenlabs-music",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clawdbotborges/elevenlabs-music"
+}

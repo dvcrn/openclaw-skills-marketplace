@@ -1,0 +1,10 @@
+{
+  "name": "schwartzdev--stealth",
+  "description": "Anti-bot detection toolkit for AI agents. Diagnoses why your agent is getting blocked and fixes it. Use when: agent hits 403/429 errors, encounters CAPTCHAs (hCaptcha, reCAPTCHA, Cloudflare Turnstile), gets detected as a bot, receives fake/empty data from websites, encounters Cloudflare challenges, needs to bypass IP blocks, or is running on a datacenter/cloud IP. Covers: residential proxy setup, CAPTCHA solver configuration, stealth browser fingerprinting. For web scraping, browser automation, form filling, and any task where bot detection is a problem.",
+  "version": "0.3.0",
+  "author": {
+    "name": "schwartzdev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/schwartzdev/stealth",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/schwartzdev/stealth"
+}

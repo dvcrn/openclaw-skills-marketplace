@@ -1,0 +1,10 @@
+{
+  "name": "k0nkupa--hyperliquid",
+  "description": "Read-only Hyperliquid market data assistant (perps + spot optional) with support for natural-language requests and deterministic command parsing (terminal-style `hl ...` and slash-style `/hl ...`). Use to fetch quotes (mark/mid/oracle/funding/OI/volume), top movers, funding rankings, L2 order book, and candle snapshots via https://api.hyperliquid.xyz/info, and to format results for chat.",
+  "version": "1.0.0",
+  "author": {
+    "name": "k0nkupa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/k0nkupa/hyperliquid",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/k0nkupa/hyperliquid"
+}

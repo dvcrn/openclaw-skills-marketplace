@@ -1,0 +1,10 @@
+{
+  "name": "bjesuiter--exe-dev",
+  "description": "Manage persistent VMs on exe.dev. Create VMs, configure HTTP proxies, share access, and set up custom domains. Use when working with exe.dev VMs for hosting, development, or running persistent services.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bjesuiter"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bjesuiter/exe-dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bjesuiter/exe-dev"
+}

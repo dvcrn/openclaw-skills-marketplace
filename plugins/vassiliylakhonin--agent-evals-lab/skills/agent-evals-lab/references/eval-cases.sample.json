@@ -1,0 +1,36 @@
+{
+  "cases": [
+    {
+      "id": "TC-001",
+      "task_type": "qa",
+      "risk_level": "high",
+      "scores": {"correctness": 3, "relevance": 4, "actionability": 3, "risk": 3, "tool_reliability": 4},
+      "failure_cluster": "weak_reasoning",
+      "note": "missed one critical constraint"
+    },
+    {
+      "id": "TC-002",
+      "task_type": "automation",
+      "risk_level": "medium",
+      "scores": {"correctness": 4, "relevance": 4, "actionability": 4, "risk": 4, "tool_reliability": 3},
+      "failure_cluster": "tool_failure_recovery",
+      "note": "tool retry policy weak"
+    },
+    {
+      "id": "TC-003",
+      "task_type": "planning",
+      "risk_level": "low",
+      "scores": {"correctness": 5, "relevance": 4, "actionability": 4, "risk": 5, "tool_reliability": 5},
+      "failure_cluster": "",
+      "note": "solid"
+    },
+    {
+      "id": "TC-004",
+      "task_type": "triage",
+      "risk_level": "medium",
+      "scores": {"correctness": 3, "relevance": 3, "actionability": 3, "risk": 4, "tool_reliability": 3},
+      "failure_cluster": "non_actionable_output",
+      "note": "recommendations too generic"
+    }
+  ]
+}

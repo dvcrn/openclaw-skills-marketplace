@@ -1,0 +1,10 @@
+{
+  "name": "lpigeon--ros-skill",
+  "description": "Controls ROS/ROS2 robots via rosbridge WebSocket CLI. Use when the user asks about ROS topics, services, nodes, parameters, actions, robot movement, sensor data, or any ROS/ROS2 robot interaction.",
+  "version": "1.0.1",
+  "author": {
+    "name": "lpigeon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lpigeon/ros-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lpigeon/ros-skill"
+}

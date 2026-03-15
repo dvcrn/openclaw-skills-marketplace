@@ -1,0 +1,10 @@
+{
+  "name": "glitch003--vincent-credentials",
+  "description": "Secure credential management for agents. Use this skill when users need to store API keys,\n passwords, OAuth tokens, or SSH keys and write them to .env files without exposing values.\n Triggers on \"store credentials\", \"API key\", \"manage secrets\", \"write to env\", \".env file\",\n \"credential\", \"password\", \"token storage\".",
+  "version": "1.0.69",
+  "author": {
+    "name": "glitch003"
+  },
+  "homepage": "https://heyvincent.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/glitch003/vincent-credentials"
+}

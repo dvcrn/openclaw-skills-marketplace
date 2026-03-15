@@ -1,0 +1,10 @@
+{
+  "name": "theagentwire--macos-native-automation",
+  "description": "Hardware-level mouse, keyboard & dialog automation on macOS via CGEvent + AppleScript. When CDP and JS .click() fail. Zero deps.",
+  "version": "1.0.0",
+  "author": {
+    "name": "theagentwire"
+  },
+  "homepage": "https://theagentwire.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theagentwire/macos-native-automation"
+}

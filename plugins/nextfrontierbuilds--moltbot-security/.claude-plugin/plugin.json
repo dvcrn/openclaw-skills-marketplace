@@ -1,0 +1,10 @@
+{
+  "name": "nextfrontierbuilds--moltbot-security",
+  "description": "Security hardening for AI agents - Moltbot, OpenClaw, Cursor, Claude. Lock down gateway, fix permissions, auth, firewalls. Essential for vibe-coding setups.",
+  "version": "1.0.3",
+  "author": {
+    "name": "nextfrontierbuilds"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/moltbot-security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/moltbot-security"
+}

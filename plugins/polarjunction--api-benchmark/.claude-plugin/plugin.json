@@ -1,0 +1,10 @@
+{
+  "name": "polarjunction--api-benchmark",
+  "description": "Benchmark token generation speed across multiple LLM API providers. Measures TTFT (Time To First Token), tokens-per-second throughput, and total generation time. Use when comparing performance of different API providers, models, or testing API connectivity. Requires OpenCLAW config with provider definitions.",
+  "version": "1.0.2",
+  "author": {
+    "name": "polarjunction"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/polarjunction/api-benchmark",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/polarjunction/api-benchmark"
+}

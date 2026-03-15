@@ -1,0 +1,10 @@
+{
+  "name": "inlo--autotask-mcp",
+  "description": "Use when you need to interact with Datto/Kaseya Autotask PSA via an MCP server (tickets, companies, contacts, projects, time entries, notes, attachments, and queries). Includes Docker Compose + helper scripts to pull/run the Autotask MCP server locally and configure required environment variables.",
+  "version": "1.0.4",
+  "author": {
+    "name": "inlo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/inlo/autotask-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/inlo/autotask-mcp"
+}

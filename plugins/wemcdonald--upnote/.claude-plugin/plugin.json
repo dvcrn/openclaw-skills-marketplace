@@ -1,0 +1,10 @@
+{
+  "name": "wemcdonald--upnote",
+  "description": "Manage UpNote notes and notebooks via x-callback-url automation. Use when a user asks to create notes, open notes, create notebooks, view tags, or manage content in UpNote.",
+  "version": "1.0.1",
+  "author": {
+    "name": "wemcdonald"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wemcdonald/upnote",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wemcdonald/upnote"
+}

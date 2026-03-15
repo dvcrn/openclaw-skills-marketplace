@@ -1,0 +1,10 @@
+{
+  "name": "gemini2027--pwnclaw-security-scan",
+  "description": "Test your AI agent for security vulnerabilities using PwnClaw. Runs 50+ attacks (prompt injection, jailbreaks, social engineering, MCP poisoning, and more) and provides fix instructions. Use when your agent needs a security check or hardening.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gemini2027"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gemini2027/pwnclaw-security-scan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gemini2027/pwnclaw-security-scan"
+}

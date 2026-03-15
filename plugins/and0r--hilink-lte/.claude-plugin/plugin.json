@@ -1,0 +1,10 @@
+{
+  "name": "and0r--hilink-lte",
+  "description": "Control Huawei HiLink USB LTE modems (E3372, E8372, etc.) via REST API. Send/receive SMS, check signal strength, manage SIM PIN, query prepaid balance, and monitor connection status. Use when sending or reading SMS messages, checking LTE signal/status, entering SIM PIN, querying mobile balance (USSD), or managing a HiLink USB modem.",
+  "version": "1.0.0",
+  "author": {
+    "name": "and0r"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/and0r/hilink-lte",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/and0r/hilink-lte"
+}

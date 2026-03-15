@@ -1,0 +1,7 @@
+{
+  "name": "@elvatis_com/openclaw-help",
+  "version": "0.2.0",
+  "description": "OpenClaw plugin: config-driven /shortcuts command with safe placeholder defaults",
+  "type": "module",
+  "openclaw": { "extensions": ["./index.ts"] }
+}

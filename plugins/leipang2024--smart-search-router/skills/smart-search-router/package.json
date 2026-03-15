@@ -1,0 +1,21 @@
+{
+  "name": "smart-search-router",
+  "version": "1.0.3",
+  "description": "Smart search router for OpenClaw - automatically chooses between SearXNG and Gemini Search based on query complexity to optimize token usage",
+  "type": "module",
+  "main": "index.js",
+  "keywords": [
+    "search",
+    "router",
+    "searxng",
+    "gemini",
+    "optimization",
+    "token-saving"
+  ],
+  "author": "StudioPANG",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openclaw/workspace"
+  }
+}

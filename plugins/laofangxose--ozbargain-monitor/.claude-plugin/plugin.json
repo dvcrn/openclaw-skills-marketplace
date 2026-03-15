@@ -1,0 +1,10 @@
+{
+  "name": "laofangxose--ozbargain-monitor",
+  "description": "Manage OzBargain daily-deal automation in OpenClaw via cron. Use when creating/updating schedules, customizing topic priorities, enabling no-noise filtering, manual-triggering catch-up runs, routing delivery to chat groups, or troubleshooting failed delivery.",
+  "version": "1.0.2",
+  "author": {
+    "name": "laofangxose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/laofangxose/ozbargain-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/laofangxose/ozbargain-monitor"
+}

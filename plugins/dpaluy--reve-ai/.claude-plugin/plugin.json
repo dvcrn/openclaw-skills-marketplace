@@ -1,0 +1,10 @@
+{
+  "name": "dpaluy--reve-ai",
+  "description": "Generate, edit, and remix images using the Reve AI API. Use when creating images from text prompts, editing existing images with instructions, or combining/remixing multiple reference images. Requires REVE_API_KEY or REVE_AI_API_KEY environment variable.",
+  "version": "1.0.2",
+  "author": {
+    "name": "dpaluy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dpaluy/reve-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dpaluy/reve-ai"
+}

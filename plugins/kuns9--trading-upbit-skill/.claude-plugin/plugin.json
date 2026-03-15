@@ -1,0 +1,10 @@
+{
+  "name": "kuns9--trading-upbit-skill",
+  "description": "Upbit automated trading (aggressive breakout) with cron-friendly run-once commands, TopVolume monitoring, and percent-based budget splitting.",
+  "version": "1.0.14",
+  "author": {
+    "name": "kuns9"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kuns9/trading-upbit-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kuns9/trading-upbit-skill"
+}

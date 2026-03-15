@@ -1,0 +1,10 @@
+{
+  "name": "ollieb89--agent-builder-ollieb89",
+  "description": "Build high-performing, secure OpenClaw agents and multi-agent teams end-to-end. Generates required OpenClaw workspace files (SOUL.md, IDENTITY.md, AGENTS.md, USER.md, TOOLS.md, HEARTBEAT.md, BOOTSTRAP.md, optional MEMORY.md + memory/YYYY-MM-DD.md). Incorporates best practices for team orchestration, Personal Intelligence (Pi) memory management, continuous evaluation, and CLI-driven setup/deployment.",
+  "version": "1.1.0",
+  "author": {
+    "name": "ollieb89"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ollieb89/agent-builder-ollieb89",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ollieb89/agent-builder-ollieb89"
+}

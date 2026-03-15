@@ -1,0 +1,46 @@
+{
+  "version": "1.0.0",
+  "thresholds": {
+    "remind": 50,
+    "auto_sync": 75,
+    "auto_switch": 85
+  },
+  "intervals": {
+    "check": 300,
+    "sync": 3600
+  },
+  "paths": {
+    "memory": "~/.openclaw/workspace/MEMORY.md",
+    "memory_lite": "~/.openclaw/workspace/MEMORY-LITE.md",
+    "daily_log": "~/.openclaw/workspace/memory/",
+    "knowledge": "~/.openclaw/workspace/knowledge/",
+    "git": "~/.openclaw/workspace/"
+  },
+  "integrations": {
+    "context_manager": {
+      "enabled": true,
+      "skill": "context-manager"
+    },
+    "qmd": {
+      "enabled": true,
+      "collection": "knowledge"
+    },
+    "git": {
+      "enabled": true,
+      "auto_push": false
+    }
+  },
+  "notifications": {
+    "qqbot": {
+      "enabled": true,
+      "target": "C099848DC9A60BF60A7BE31626822790"
+    }
+  },
+  "patterns": {
+    "decision": ["确定", "决定", "选择", "约定", "共识"],
+    "task": ["待办", "需要", "要做", "完成", "任务"],
+    "preference": ["喜欢", "习惯", "偏好", "倾向"],
+    "issue": ["问题", "错误", "失败", "bug"],
+    "milestone": ["完成", "成功", "发布", "上线", "里程碑"]
+  }
+}

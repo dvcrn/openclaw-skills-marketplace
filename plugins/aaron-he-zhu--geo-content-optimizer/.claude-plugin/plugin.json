@@ -1,0 +1,10 @@
+{
+  "name": "aaron-he-zhu--geo-content-optimizer",
+  "description": "This skill should be used when the user asks to \"optimize for AI\", \"get cited by ChatGPT\", \"appear in AI answers\", \"GEO optimization\", \"generative engine optimization\", \"Google AI Overview optimization\", \"get mentioned by Perplexity AI\", \"appear in Gemini answers\", \"AI does not mention my brand\", \"make content AI-quotable\", or \"increase AI citation frequency\". Optimizes content to increase citation frequency across AI systems: ChatGPT (Browse), Claude, Perplexity AI, Google AI Overviews, and Google Gemini. Adds quotable statements, structured Q&A, precise statistics with sources, expert attribution, and FAQ schema. Uses CORE-EEAT GEO-First items (C02, C09, O03, R01–R05, E01) as optimization targets. Produces a GEO score, rewritten content sections, and a citation-optimization checklist. For SEO-focused writing, see seo-content-writer. For entity and brand AI presence, see entity-optimizer.",
+  "version": "3.0.0",
+  "author": {
+    "name": "aaron-he-zhu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/geo-content-optimizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/geo-content-optimizer"
+}

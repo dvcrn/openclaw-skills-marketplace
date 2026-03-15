@@ -1,0 +1,10 @@
+{
+  "name": "dletter2--rhythm-master",
+  "description": "This skill enables playing a rhythm game called \"节奏大师\" (Rhythm Master) similar to QQ Dance/DDR. Players press arrow keys and spacebar in time with falling notes to score points. The game features multiple difficulty levels, combo system, judgment ratings (PERFECT/GREAT/GOOD/BAD/MISS), local leaderboard, and can be extended with online leaderboards. Use this skill when the user wants to play a rhythm game, test their reflexes, or have fun with a keyboard-based music game.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dletter2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dletter2/rhythm-master",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dletter2/rhythm-master"
+}

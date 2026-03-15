@@ -1,0 +1,10 @@
+{
+  "name": "ahsanatha--mayar-payment-skill",
+  "description": "Mayar.id payment integration for generating invoices, payment links, and tracking transactions via MCP. Use when needing to: (1) Create payment invoices/links for customers, (2) Track payment status and transactions, (3) Generate WhatsApp-friendly payment messages, (4) Handle Indonesian payment methods (bank transfer, e-wallet, QRIS), (5) Manage subscriptions/memberships, or (6) Automate payment workflows for e-commerce, services, or digital products.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ahsanatha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ahsanatha/mayar-payment-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ahsanatha/mayar-payment-skill"
+}

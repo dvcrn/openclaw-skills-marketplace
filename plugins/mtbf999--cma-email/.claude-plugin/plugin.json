@@ -1,0 +1,10 @@
+{
+  "name": "mtbf999--cma-email",
+  "description": "Sends an email via Gmail when a message starts with \"cma\" or \"cmap\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "mtbf999"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mtbf999/cma-email",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mtbf999/cma-email"
+}

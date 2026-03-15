@@ -1,0 +1,10 @@
+{
+  "name": "changye01--autonomous-tasks",
+  "description": "Self-driven AI worker. Reads goals, generates tasks, executes, and logs progress. Keywords: create goal, new goal, set goal, run goals, 创建目标, 新目标, 设定目标, 执行目标.",
+  "version": "10.3.1",
+  "author": {
+    "name": "changye01"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/changye01/autonomous-tasks",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/changye01/autonomous-tasks"
+}

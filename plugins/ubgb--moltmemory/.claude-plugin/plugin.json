@@ -1,0 +1,10 @@
+{
+  "name": "ubgb--moltmemory",
+  "description": "Thread continuity + CAPTCHA solver for OpenClaw agents on Moltbook. Tracks engaged threads across heartbeats, surfaces only new replies, includes a feed cursor and auto-solver for Moltbook's obfuscated math challenges. Zero dependencies, pure Python stdlib. Use when your agent needs persistent memory on Moltbook.",
+  "version": "1.5.5",
+  "author": {
+    "name": "ubgb"
+  },
+  "homepage": "https://github.com/ubgb/moltmemory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ubgb/moltmemory"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--permission-creep-scanner",
+  "description": "Helps detect permission creep in AI agent skills — flags when a skill's actual code accesses resources far beyond what its declared purpose requires, like a \"fix typo\" skill reading your .env file.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/permission-creep-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/permission-creep-scanner"
+}

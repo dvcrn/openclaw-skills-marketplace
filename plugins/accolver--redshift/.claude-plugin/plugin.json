@@ -1,0 +1,10 @@
+{
+  "name": "accolver--redshift",
+  "description": "Manage application secrets with the Redshift CLI (https://redshiftapp.com) — decentralized, encrypted secret management built on Nostr. Use when setting, getting, deleting, listing, uploading, or downloading secrets, injecting secrets into commands, configuring projects/environments, or authenticating with Nostr keys. Covers redshift secrets, redshift run, redshift setup, redshift login, and related commands.",
+  "version": "0.2.0",
+  "author": {
+    "name": "accolver"
+  },
+  "homepage": "https://redshiftapp.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/accolver/redshift"
+}

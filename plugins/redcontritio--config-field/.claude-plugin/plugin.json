@@ -1,0 +1,10 @@
+{
+  "name": "redcontritio--config-field",
+  "description": "Validate OpenClaw configuration fields against the official Zod schema. Use when reading or writing openclaw.json to check if configuration fields exist and are valid. Covers agents, channels, tools, logging, session configuration with 136+ field definitions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "redcontritio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/redcontritio/config-field",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/redcontritio/config-field"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "garibong-labs--tistory-publish",
+  "description": "Automate Tistory blog publishing via agent-browser (Playwright CLI). Supports any post format — handles TinyMCE editor manipulation, OG card insertion, banner upload, tag registration, category setting, and representative image selection. Includes template examples (newspaper review, simple post). Works around Tistory's isTrusted event filtering.",
+  "version": "4.0.0",
+  "author": {
+    "name": "garibong-labs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/garibong-labs/tistory-publish",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/garibong-labs/tistory-publish"
+}

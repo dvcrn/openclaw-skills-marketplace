@@ -1,0 +1,51 @@
+{
+  "name": "openclaw-sync",
+  "version": "1.0.2",
+  "description": "OpenClaw 数据持久化同步技能 - 支持七牛云/腾讯云/阿里云",
+  "author": "33",
+  "license": "MIT",
+  "keywords": [
+    "openclaw",
+    "backup",
+    "sync",
+    "cloud",
+    "qiniu",
+    "tencent",
+    "aliyun",
+    "oss",
+    "cos",
+    "kodo"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openclaw/openclaw-sync"
+  },
+  "bugs": {
+    "url": "https://github.com/openclaw/openclaw-sync/issues"
+  },
+  "homepage": "https://clawhub.com/skill/openclaw-sync",
+  "engines": {
+    "openclaw": ">=1.0.0"
+  },
+  "dependencies": {
+    "rclone": ">=1.60.0"
+  },
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "INSTALL.md",
+    "MULTI-INSTANCE.md",
+    "EXAMPLES.md",
+    "RELEASE.md",
+    "scripts/",
+    "data/",
+    "templates/",
+    "config/*.example",
+    "systemd/",
+    "_meta.json"
+  ],
+  "scripts": {
+    "test": "bash scripts/test-config.sh",
+    "sync": "bash scripts/sync-now.sh"
+  }
+}

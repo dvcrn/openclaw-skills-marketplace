@@ -1,0 +1,10 @@
+{
+  "name": "cndaqiang--ollama-web-search",
+  "description": "Web search via Ollama API. Returns relevant results from Ollama web search for AI agents.",
+  "version": "1.0.1",
+  "author": {
+    "name": "cndaqiang"
+  },
+  "homepage": "https://github.com/QAA-Tools/skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cndaqiang/ollama-web-search"
+}

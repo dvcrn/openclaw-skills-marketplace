@@ -1,0 +1,10 @@
+{
+  "name": "mrhah--m365cli",
+  "description": "Manage Microsoft 365 work/school account services (Exchange, OneDrive for Business, SharePoint) via the m365-cli command-line tool. Requires: Node.js 18+ and `m365-cli` installed globally (`npm install -g m365-cli`), plus OAuth authentication (`m365 login`). Accesses sensitive data: corporate emails, calendar events, OneDrive files, SharePoint sites/documents, and organizational contacts. Use when: (1) reading, sending, or searching work emails, (2) managing calendar events, (3) uploading/downloading OneDrive for Business files, (4) browsing SharePoint sites, lists, and document libraries, (5) searching users in the organization, (6) deleting or moving emails, (7) managing mail folders. Does NOT trigger for: Azure resource management, Entra ID administration, Intune device management, M365 tenant-level admin (licenses, domains, policies), or personal Outlook.com/Hotmail/Live accounts (use the outlook skill instead). Triggers: \"check my work email\", \"send an email\", \"schedule a meeting\", \"list my calendar\", \"upload to OneDrive\", \"SharePoint files\", \"search SharePoint\", \"sp sites\", \"m365 work\", \"corporate email\", \"work calendar\", \"organization users\", \"delete email\", \"move email\", \"mail folders\", \"create folder\", \"organize email\".",
+  "version": "1.0.5",
+  "author": {
+    "name": "mrhah"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrhah/m365cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrhah/m365cli"
+}

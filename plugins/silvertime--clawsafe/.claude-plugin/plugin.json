@@ -1,0 +1,10 @@
+{
+  "name": "silvertime--clawsafe",
+  "description": "Multi-layer security detector for AI agents. Blocks prompt injection, jailbreak, XSS, SQL injection, API key leaks, supply chain attacks, and deployment vulnerabilities.",
+  "version": "1.1.0",
+  "author": {
+    "name": "silvertime"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/silvertime/clawsafe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/silvertime/clawsafe"
+}

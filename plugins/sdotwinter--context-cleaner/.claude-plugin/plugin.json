@@ -1,0 +1,10 @@
+{
+  "name": "sdotwinter--context-cleaner",
+  "description": "Optimize agent context files for 30-50% token reduction. Creates backup, applies optimizations, offers rollback. Trigger when: \"run context-cleaner\", \"optimize agent context\", \"clean up agent files\", \"reduce context tokens\".",
+  "version": "1.0.2",
+  "author": {
+    "name": "sdotwinter"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sdotwinter/context-cleaner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sdotwinter/context-cleaner"
+}

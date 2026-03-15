@@ -1,0 +1,10 @@
+{
+  "name": "trueprofitdev--trueprofit",
+  "description": "TrueProfit profit analytics expert. Use this skill whenever working with TrueProfit MCP tools to analyze store performance, query profit data, orders, products, ad costs, or customer metrics. Trigger automatically when the user asks about profit, ROAS, COGS, net margin, orders, revenue, ad spend, shipping costs, or any e-commerce analytics question involving their TrueProfit store. Also use when the user connects a new MCP server at mcp.trueprofit.io.",
+  "version": "1.0.0",
+  "author": {
+    "name": "trueprofitdev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/trueprofitdev/trueprofit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/trueprofitdev/trueprofit"
+}

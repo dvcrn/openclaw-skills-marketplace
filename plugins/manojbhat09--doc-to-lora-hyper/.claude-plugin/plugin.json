@@ -1,0 +1,10 @@
+{
+  "name": "manojbhat09--doc-to-lora-hyper",
+  "description": "Internalize a document into a small language model (Gemma 2 2B) using Doc-to-LoRA so it can answer questions WITHOUT the document in the prompt. Use when the user wants to: feed a document to a local model, internalize knowledge from a file or URL, create a LoRA adapter from a document, answer questions from a document using a small on-device model, or run knowledge-grounded inference on a Mac. Also use when asked about Doc-to-LoRA, HyperLoRA, or document internalization.",
+  "version": "1.0.0",
+  "author": {
+    "name": "manojbhat09"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/manojbhat09/doc-to-lora-hyper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/manojbhat09/doc-to-lora-hyper"
+}

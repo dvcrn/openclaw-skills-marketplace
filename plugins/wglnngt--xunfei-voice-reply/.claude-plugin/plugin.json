@@ -1,0 +1,10 @@
+{
+  "name": "wglnngt--xunfei-voice-reply",
+  "description": "语音回复技能 - 使用讯飞 TTS 生成语音并发送到飞书。当需要用语音回复用户消息时使用。触发词：用语音、语音回复、切换语音模式、语音模式。",
+  "version": "1.0.0",
+  "author": {
+    "name": "wglnngt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wglnngt/xunfei-voice-reply",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wglnngt/xunfei-voice-reply"
+}

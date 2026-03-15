@@ -1,0 +1,10 @@
+{
+  "name": "lknik--news-feed",
+  "description": "Fetch latest news headlines from major RSS feeds (BBC, Reuters, AP, Al Jazeera, NPR, The Guardian, DW). No API keys required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lknik"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lknik/news-feed",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lknik/news-feed"
+}

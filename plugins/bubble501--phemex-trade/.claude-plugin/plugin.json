@@ -1,0 +1,10 @@
+{
+  "name": "bubble501--phemex-trade",
+  "description": "Trade on Phemex (USDT-M futures, Coin-M futures, Spot) — place orders, manage positions, check balances, and query market data. Use when the user wants to (1) check crypto prices or market data on Phemex, (2) place, amend, or cancel orders, (3) view account balances or positions, (4) set leverage or switch position modes, (5) transfer funds between spot and futures wallets, or (6) any task involving the Phemex exchange.",
+  "version": "1.1.2",
+  "author": {
+    "name": "bubble501"
+  },
+  "homepage": "https://github.com/betta2moon/phemex-trade-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bubble501/phemex-trade"
+}

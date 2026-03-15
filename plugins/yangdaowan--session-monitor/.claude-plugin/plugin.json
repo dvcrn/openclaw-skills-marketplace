@@ -1,0 +1,10 @@
+{
+  "name": "yangdaowan--session-monitor",
+  "description": "自动监控和显示会话状态信息，包括token消耗、模型信息和功能状态。支持开关控制和自定义显示格式。",
+  "version": "1.0.0",
+  "author": {
+    "name": "yangdaowan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yangdaowan/session-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yangdaowan/session-monitor"
+}

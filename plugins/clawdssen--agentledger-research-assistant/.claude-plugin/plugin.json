@@ -1,0 +1,10 @@
+{
+  "name": "clawdssen--agentledger-research-assistant",
+  "description": "Structured web research framework for AI agents. Teaches your agent to conduct multi-source research, synthesize findings into actionable briefs, maintain a research library, and track evolving topics over time. Use when you need market research, competitor analysis, topic deep-dives, or ongoing monitoring of trends and news. Works with any agent that has web search capabilities.",
+  "version": "1.0.1",
+  "author": {
+    "name": "clawdssen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clawdssen/agentledger-research-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clawdssen/agentledger-research-assistant"
+}

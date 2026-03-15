@@ -1,0 +1,10 @@
+{
+  "name": "thisnewmark--perp-lobster",
+  "description": "Trade on Hyperliquid DEX with simple commands. Place market/limit orders on perps, or run automated bots (market making, grid trading) with a web dashboard.",
+  "version": "1.0.7",
+  "author": {
+    "name": "thisnewmark"
+  },
+  "homepage": "https://github.com/ThisNewMark/perplobster",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thisnewmark/perp-lobster"
+}

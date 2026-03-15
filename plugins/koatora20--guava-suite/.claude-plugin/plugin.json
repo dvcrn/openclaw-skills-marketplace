@@ -1,0 +1,10 @@
+{
+  "name": "koatora20--guava-suite",
+  "description": "Premium security suite for AI agents. Adds $GUAVA token-gated strict mode protection on top of guard-scanner. Features: 2-layer defense (static + runtime), Soul Lock, Memory Guard, on-chain identity verification via SoulRegistry V2. Requires $GUAVA token on Polygon Mainnet.",
+  "version": "1.1.0",
+  "author": {
+    "name": "koatora20"
+  },
+  "homepage": "https://github.com/koatora20/guava-suite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/koatora20/guava-suite"
+}

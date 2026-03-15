@@ -1,0 +1,10 @@
+{
+  "name": "t4t5--ordiscan",
+  "description": "Inscribe content on Bitcoin via the Ordiscan API. Pays per-request with USDC on Base using the x402 protocol.",
+  "version": "0.0.2",
+  "author": {
+    "name": "t4t5"
+  },
+  "homepage": "https://ordiscan.com/docs/api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/t4t5/ordiscan"
+}

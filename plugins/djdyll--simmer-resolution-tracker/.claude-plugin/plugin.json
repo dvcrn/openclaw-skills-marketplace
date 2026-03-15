@@ -1,0 +1,10 @@
+{
+  "name": "djdyll--simmer-resolution-tracker",
+  "description": "Monitors your Simmer positions for resolutions, logs wins/losses to your trade journal, and automatically redeems winning positions on-chain. Built for Simmer agents trading on Polymarket. Sends Discord webhook alerts on every resolution. Runs every 5 minutes via cron.",
+  "version": "1.0.1",
+  "author": {
+    "name": "djdyll"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/djdyll/simmer-resolution-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/djdyll/simmer-resolution-tracker"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jspanos--hle-tunnel",
+  "description": "Access your AI agent's web UI from anywhere and share it securely — automatic HTTPS, SSO access control, no VPN or port forwarding needed.",
+  "version": "1.2.0",
+  "author": {
+    "name": "jspanos"
+  },
+  "homepage": "https://hle.world/docs/integrations/openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jspanos/hle-tunnel"
+}

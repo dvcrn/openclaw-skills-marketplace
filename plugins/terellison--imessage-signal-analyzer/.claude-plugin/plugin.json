@@ -1,0 +1,10 @@
+{
+  "name": "terellison--imessage-signal-analyzer",
+  "description": "Analyze iMessage (macOS) and Signal conversation history to reveal relationship dynamics — message volume, initiation patterns, silence gaps, tone samples, and recent exchanges. Use when asked to analyze messages, read message history, check conversation patterns, or evaluate a relationship based on text history. Works on macOS (iMessage + Signal), Linux/Windows (Signal only).",
+  "version": "1.0.0",
+  "author": {
+    "name": "terellison"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/terellison/imessage-signal-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/terellison/imessage-signal-analyzer"
+}

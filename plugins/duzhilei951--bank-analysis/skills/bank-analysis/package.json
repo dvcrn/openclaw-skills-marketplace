@@ -1,0 +1,15 @@
+{
+  "name": "bank-analysis",
+  "version": "1.0.0",
+  "description": "银行流水财务分析技能",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  },
+  "keywords": ["财务", "分析", "银行", "流水"],
+  "author": "duzhilei951",
+  "license": "MIT"
+}

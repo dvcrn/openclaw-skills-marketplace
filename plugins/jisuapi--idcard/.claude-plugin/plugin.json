@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--idcard",
+  "description": "使用极速数据身份证号码归属地查询 API，根据身份证号查询发证地区、出生年月、性别及校验位是否正确，并支持根据城市查询身份证前 6 位。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/idcard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/idcard"
+}

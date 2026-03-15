@@ -1,0 +1,10 @@
+{
+  "name": "okwme--snake-rodeo",
+  "description": "Autoplay daemon for the Trifle Snake Rodeo game. Connects to a live game server, authenticates via wallet, and votes on snake directions using pluggable AI strategies. Use when the user wants to play snake rodeo, run game simulations, or build custom strategies.",
+  "version": "3.2.1",
+  "author": {
+    "name": "okwme"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/okwme/snake-rodeo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/okwme/snake-rodeo"
+}

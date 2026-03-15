@@ -1,0 +1,10 @@
+{
+  "name": "glucksberg--fork-manager",
+  "description": "Manage forks with open PRs - sync upstream, rebase branches, track PR status, and maintain production branches with pending contributions. Supports automatic conflict resolution via --auto-resolve flag (spawns AI subagents to resolve rebase conflicts). Use when syncing forks, rebasing PR branches, building production branches that combine all open PRs, reviewing closed/rejected PRs, or managing local patches kept outside upstream. Requires Git and GitHub CLI (gh).",
+  "version": "2.0.1",
+  "author": {
+    "name": "glucksberg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/glucksberg/fork-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/glucksberg/fork-manager"
+}

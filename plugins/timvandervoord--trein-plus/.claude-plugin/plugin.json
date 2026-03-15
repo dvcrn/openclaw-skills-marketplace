@@ -1,0 +1,10 @@
+{
+  "name": "timvandervoord--trein-plus",
+  "description": "Query Dutch Railways (NS) for TRAIN travel only - train departures, time-based trip planning (depart-at/arrive-by), disruptions, and station search via the trein CLI. NOT for car, bus, or other transport.",
+  "version": "1.0.0",
+  "author": {
+    "name": "timvandervoord"
+  },
+  "homepage": "https://github.com/joelkuijper/trein",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/timvandervoord/trein-plus"
+}

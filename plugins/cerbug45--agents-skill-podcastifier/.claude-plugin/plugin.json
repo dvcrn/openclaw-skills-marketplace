@@ -1,0 +1,10 @@
+{
+  "name": "cerbug45--agents-skill-podcastifier",
+  "description": "Turn incoming text (email/newsletter) into a short TTS podcast with chunking + ffmpeg concat.",
+  "version": "0.1.0",
+  "author": {
+    "name": "cerbug45"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cerbug45/agents-skill-podcastifier",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cerbug45/agents-skill-podcastifier"
+}

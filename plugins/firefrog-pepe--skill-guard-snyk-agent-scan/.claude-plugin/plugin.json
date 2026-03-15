@@ -1,0 +1,10 @@
+{
+  "name": "firefrog-pepe--skill-guard-snyk-agent-scan",
+  "description": "Scan ClawHub skills for security vulnerabilities BEFORE installing. Use when installing new skills from ClawHub to detect prompt injections, malware payloads, hardcoded secrets, and other threats. Wraps clawhub install with Snyk Agent Scan pre-flight checks.",
+  "version": "1.0.3",
+  "author": {
+    "name": "firefrog-pepe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/firefrog-pepe/skill-guard-snyk-agent-scan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/firefrog-pepe/skill-guard-snyk-agent-scan"
+}

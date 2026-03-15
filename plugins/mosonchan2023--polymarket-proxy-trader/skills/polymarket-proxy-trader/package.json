@@ -1,0 +1,27 @@
+{
+  "name": "polymarket-proxy-trader",
+  "version": "1.0.0",
+  "description": "专治 Polymarket proxy_wallet read balance 问题，同时支持 reading balance 和 execute trade。每次调用自动扣费 0.001 USDT（SkillPay 集成）",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "polymarket",
+    "trading",
+    "proxy-wallet",
+    "crypto",
+    "balance-fix",
+    "skillpay"
+  ],
+  "author": "moson",
+  "license": "MIT",
+  "dependencies": {
+    "@polymarket/clob-client": "^1.0.0",
+    "ethers": "^5.7.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

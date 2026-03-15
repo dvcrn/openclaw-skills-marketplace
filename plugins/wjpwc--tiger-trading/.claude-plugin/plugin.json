@@ -1,0 +1,10 @@
+{
+  "name": "wjpwc--tiger-trading",
+  "description": "老虎证券美股交易能力。支持账户余额查询、持仓查询、买卖下单、订单管理。用户只需提供 tiger_id、account、license 和 private_key 即可使用。触发场景：(1) 查询老虎账户状态 (2) 买卖美股 (3) 查看持仓 (4) 取消订单",
+  "version": "1.0.0",
+  "author": {
+    "name": "wjpwc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wjpwc/tiger-trading",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wjpwc/tiger-trading"
+}

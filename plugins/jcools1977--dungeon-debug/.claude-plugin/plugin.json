@@ -1,0 +1,10 @@
+{
+  "name": "jcools1977--dungeon-debug",
+  "description": "Transforms debugging sessions into a text-based dungeon crawl. Your bug is the final boss. Stack frames are dungeon rooms. Variables are loot. Log messages are inscriptions on the walls. Every breakpoint is a save point. It's Zork meets GDB — and somehow, you actually find bugs faster because the adventure format forces systematic exploration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jcools1977"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jcools1977/dungeon-debug",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jcools1977/dungeon-debug"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "eilaiwangwh--openclaw-shield-v1",
+  "description": "OpenClaw cloud security guardrail that enforces pre-execution checks, source trust classification, taint tracking, metadata endpoint blocking, and output redaction. Use when Codex is asked to run shell commands, read or write files, make network requests, install packages, or design and review Shield policies for cloud-server deployments.",
+  "version": "1.0.0",
+  "author": {
+    "name": "eilaiwangwh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/eilaiwangwh/openclaw-shield-v1",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eilaiwangwh/openclaw-shield-v1"
+}

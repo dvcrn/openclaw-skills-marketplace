@@ -1,0 +1,10 @@
+{
+  "name": "romain-grosos--github-watch",
+  "description": "Weekly GitHub digest for sysops/DevOps engineers. Fetches trending repos and topic:sysops/topic:devops repos, wraps content for LLM scoring, then dispatches HTML email via mail-client skill and Markdown to Nextcloud via nextcloud-files skill. Use when: running the weekly GitHub Watch pipeline, scoring and selecting repos for the digest, sending the digest by email or publishing to Nextcloud, or updating the seen-repos filter. NOT for: real-time GitHub search, PR/issue tracking, or repository management.",
+  "version": "1.0.6",
+  "author": {
+    "name": "romain-grosos"
+  },
+  "homepage": "https://github.com/Rwx-G/openclaw-skill-github-watch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romain-grosos/github-watch"
+}

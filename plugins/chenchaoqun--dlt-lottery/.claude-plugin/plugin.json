@@ -1,0 +1,10 @@
+{
+  "name": "chenchaoqun--dlt-lottery",
+  "description": "查询中国体育彩票大乐透开奖结果。支持多数据源自动切换，优先官方渠道。Use when: 用户询问大乐透开奖结果、中奖号码、彩票查询、对奖等场景。",
+  "version": "1.0.1",
+  "author": {
+    "name": "chenchaoqun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chenchaoqun/dlt-lottery",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chenchaoqun/dlt-lottery"
+}

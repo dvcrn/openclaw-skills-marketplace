@@ -1,0 +1,10 @@
+{
+  "name": "devbd1--vibe-kanban-mcp",
+  "description": "Operate the local Vibe Kanban (vibe-kanban) instance through the `vibe_kanban` MCP server using `mcporter`: list orgs/projects/issues/workspaces, create/update issues (e.g., bulk “5 tasks in To do”), and start/link workspace sessions to issues. Also troubleshoot the local dashboard by finding the current listening port(s) on macOS (lsof/netstat) and verifying HTTP responses.",
+  "version": "0.1.1",
+  "author": {
+    "name": "devbd1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/devbd1/vibe-kanban-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/devbd1/vibe-kanban-mcp"
+}

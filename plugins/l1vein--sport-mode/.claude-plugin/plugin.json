@@ -1,0 +1,10 @@
+{
+  "name": "l1vein--sport-mode",
+  "description": "Activate \"Sport Mode\" for high-frequency monitoring (default 3m heartbeat) and auto-cleanup. Use when supervising intense tasks (Codex, builds, migrations).",
+  "version": "1.0.1",
+  "author": {
+    "name": "l1vein"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/l1vein/sport-mode",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/l1vein/sport-mode"
+}

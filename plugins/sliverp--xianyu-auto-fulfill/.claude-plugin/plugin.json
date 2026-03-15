@@ -1,0 +1,10 @@
+{
+  "name": "sliverp--xianyu-auto-fulfill",
+  "description": "闲鱼自动发货监控。使用 agent-browser 自动检查闲鱼新消息，检测付款订单并自动发货。触发词：闲鱼发货、闲鱼监控、闲鱼自动化、xianyu、自动发货。",
+  "version": "0.0.1",
+  "author": {
+    "name": "sliverp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sliverp/xianyu-auto-fulfill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sliverp/xianyu-auto-fulfill"
+}

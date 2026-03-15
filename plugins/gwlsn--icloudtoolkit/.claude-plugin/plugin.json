@@ -1,0 +1,10 @@
+{
+  "name": "gwlsn--icloudtoolkit",
+  "description": "Unified iCloud integration for Calendar, Email, and Contacts. Use when: (1) creating, listing, searching, or deleting calendar events, (2) reading, sending, or searching email, (3) looking up, creating, editing, or deleting contacts, (4) any task involving iCloud calendar, email, or contacts. Handles timezone conversion, iCloud-compatible formatting, and vdirsyncer sync automatically.",
+  "version": "1.2.0",
+  "author": {
+    "name": "gwlsn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gwlsn/icloudtoolkit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gwlsn/icloudtoolkit"
+}

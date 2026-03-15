@@ -1,0 +1,10 @@
+{
+  "name": "gostlightai--cdp-browser",
+  "description": "CDP browser control at localhost:9222. Use when you need to inspect tabs, take screenshots, navigate, scroll, post to X, or run JS in a persistent browser session (e.g. logged into X, Gmail).",
+  "version": "2.0.1",
+  "author": {
+    "name": "gostlightai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gostlightai/cdp-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gostlightai/cdp-browser"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mindsocket--open-chrome-tabs",
+  "description": "Read currently open browser tabs from Chrome or other Chromium browsers (Arc, Brave, Edge, etc.). Use when you need to know what URLs the user has open, or want to list tabs from a synced device (e.g. Chrome on their phone).",
+  "version": "1.1.1",
+  "author": {
+    "name": "mindsocket"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mindsocket/open-chrome-tabs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mindsocket/open-chrome-tabs"
+}

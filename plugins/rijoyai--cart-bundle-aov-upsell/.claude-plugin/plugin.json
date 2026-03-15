@@ -1,0 +1,10 @@
+{
+  "name": "rijoyai--cart-bundle-aov-upsell",
+  "description": "Real-time bundle and cross-sell plans from the current cart to lift AOV, checkout upsells, and logical product pairing. Use this skill whenever the merchant wants higher AOV, new SKU launch sell-through, checkout bounce reduction with compelling add-ons, \"what to bundle with what's in cart,\" complementary recommendations, or one-click upsell copy at checkout. Metaphor: act as the store's shopping-guide brain — stitch isolated SKUs into coherent combos. Also trigger on cross-sell rules, complete-the-look, frequently bought together, or post-add-to-cart suggestions — even if they only say \"make people spend more per order.\" Do NOT use for unrelated SEO-only briefs, pure inventory sync, or pricing law/compliance drafting without a bundling ask.",
+  "version": "0.1.0",
+  "author": {
+    "name": "rijoyai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rijoyai/cart-bundle-aov-upsell",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rijoyai/cart-bundle-aov-upsell"
+}

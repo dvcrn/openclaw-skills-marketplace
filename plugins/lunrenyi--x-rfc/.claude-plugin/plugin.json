@@ -1,0 +1,10 @@
+{
+  "name": "lunrenyi--x-rfc",
+  "description": "RFC (Request for Comments) document query tool providing access to Internet protocol standards. Use this skill whenever the user needs to look up, search, read, or learn about RFC documents. Covers: list RFCs (x rfc ls), view by number (x rfc 791), search (x rfc : http), and AI summary (x rfc :: tls). Triggered by queries like \"RFC 791\", \"TCP standard\", \"HTTP protocol\", \"TLS specs\", \"SMTP RFC\", \"what is RFC 1918?\", or any Internet protocol standard lookup.",
+  "version": "1.0.3",
+  "author": {
+    "name": "lunrenyi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lunrenyi/x-rfc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lunrenyi/x-rfc"
+}

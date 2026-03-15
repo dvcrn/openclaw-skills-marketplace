@@ -1,0 +1,10 @@
+{
+  "name": "willwebberley--tasktrove",
+  "description": "Manage todos via Tasktrove API. Use for listing, creating, completing, or updating tasks. Triggers on task/todo requests like \"what's on my todo list\", \"add a task\", \"mark X done\", \"what's due today\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "willwebberley"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/willwebberley/tasktrove",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/willwebberley/tasktrove"
+}

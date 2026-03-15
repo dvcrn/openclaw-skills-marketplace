@@ -1,0 +1,10 @@
+{
+  "name": "patfitzner--morning-briefing-composer",
+  "description": "Aggregates weather, game updates, and concert data into a daily markdown briefing. Triggered by 'morning briefing', 'daily briefing', 'run my briefing', 'what's new today'.",
+  "version": "1.0.1",
+  "author": {
+    "name": "patfitzner"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/patfitzner/morning-briefing-composer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/patfitzner/morning-briefing-composer"
+}

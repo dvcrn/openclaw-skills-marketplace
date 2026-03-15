@@ -1,0 +1,10 @@
+{
+  "name": "billylui--temporal-cortex-scheduling",
+  "description": "List events, find free slots, and book meetings across Google Calendar, Outlook, and CalDAV. Multi-calendar availability merging, recurring event expansion, and atomic booking with Two-Phase Commit conflict prevention.",
+  "version": "0.9.1",
+  "author": {
+    "name": "billylui"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/billylui/temporal-cortex-scheduling",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/billylui/temporal-cortex-scheduling"
+}

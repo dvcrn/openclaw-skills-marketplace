@@ -1,0 +1,10 @@
+{
+  "name": "ectospace--ectoclaw",
+  "description": "Cryptographic audit ledger and AI firewall for OpenClaw agents. Records every agent action (messages, skills, tools, plugins, memory, models) in an immutable hash-chained ledger with Ed25519 signatures and Merkle proofs. Policy engine for defining block, redact, flag, and approval rules. Exports compliance bundles and verification reports. Protects against prompt injection, credential theft, and unauthorized agent behavior.",
+  "version": "0.1.3",
+  "author": {
+    "name": "ectospace"
+  },
+  "homepage": "https://github.com/EctoSpace/EctoClaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ectospace/ectoclaw"
+}

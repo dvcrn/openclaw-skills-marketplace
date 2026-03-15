@@ -1,0 +1,10 @@
+{
+  "name": "ortegarod--workspace-review",
+  "description": "Audit workspace structure and memory files against OpenClaw conventions. Use when asked to \"review workspace\", \"audit files\", \"check structure\", or during periodic self-maintenance. Helps catch drift from standard patterns.",
+  "version": "1.0.2",
+  "author": {
+    "name": "ortegarod"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ortegarod/workspace-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ortegarod/workspace-review"
+}

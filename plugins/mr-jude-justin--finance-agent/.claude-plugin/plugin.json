@@ -1,0 +1,10 @@
+{
+  "name": "mr-jude-justin--finance-agent",
+  "description": "Record company expenses and generate summary tables. Data is persisted to a CSV file on Google Drive. Supports adding expenses (date, category, amount, description), generating expense tables (CSV, Markdown), and exporting reports.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mr-jude-justin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mr-jude-justin/finance-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mr-jude-justin/finance-agent"
+}

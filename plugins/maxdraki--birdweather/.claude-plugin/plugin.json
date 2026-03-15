@@ -1,0 +1,10 @@
+{
+  "name": "maxdraki--birdweather",
+  "description": "Query BirdWeather station data — species detections, trends, and comparisons from BirdNET-Pi and PUC bird song detection stations. Use when asked about bird sightings, bird song detections, local bird activity, BirdWeather stations, or wildlife audio monitoring. No API key required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maxdraki"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maxdraki/birdweather",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maxdraki/birdweather"
+}

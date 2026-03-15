@@ -1,0 +1,10 @@
+{
+  "name": "oscraters--taapi",
+  "description": "Use this skill to fetch TAAPI.IO indicator data for crypto or stocks, including fast single-indicator requests and bulk/multi-construct queries for agentic trading workflows.",
+  "version": "1.0.1",
+  "author": {
+    "name": "oscraters"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oscraters/taapi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oscraters/taapi"
+}

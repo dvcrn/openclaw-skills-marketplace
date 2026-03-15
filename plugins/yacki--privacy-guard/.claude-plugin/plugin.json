@@ -1,0 +1,10 @@
+{
+  "name": "yacki--privacy-guard",
+  "description": "Protects sensitive files (contracts, transaction data, personal/customer privacy) by performing deep content inspection for text and binary formats (PDF, DOCX, XLSX) before any read, search, or send operation.",
+  "version": "0.2.0",
+  "author": {
+    "name": "yacki"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yacki/privacy-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yacki/privacy-guard"
+}

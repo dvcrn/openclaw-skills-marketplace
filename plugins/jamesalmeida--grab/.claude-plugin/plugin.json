@@ -1,0 +1,10 @@
+{
+  "name": "jamesalmeida--grab",
+  "description": "Download and archive content from URLs (tweets, X articles, Reddit, YouTube). Saves media, text, transcripts, and AI summaries into organized folders.",
+  "version": "0.1.0",
+  "author": {
+    "name": "jamesalmeida"
+  },
+  "homepage": "https://github.com/jamesalmeida/grab",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamesalmeida/grab"
+}

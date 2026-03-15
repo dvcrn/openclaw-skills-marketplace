@@ -1,0 +1,10 @@
+{
+  "name": "javicasper--sound-fx",
+  "description": "Generate short sound effects via ElevenLabs SFX (text-to-sound). Use when you need SFX clips like applause, canned laughter, whooshes, ambience, or short stingers, and optionally convert to WhatsApp-friendly .ogg/opus.",
+  "version": "0.1.1",
+  "author": {
+    "name": "javicasper"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/javicasper/sound-fx",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/javicasper/sound-fx"
+}

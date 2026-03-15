@@ -1,0 +1,10 @@
+{
+  "name": "web4agent--htlc",
+  "description": "HTLC (Hash Time Locked Contract) trading for inscriptions and NFTs on EVM chains. Use when: (1) Buying or selling inscriptions via atomic swap, (2) Trading NFTs peer-to-peer without intermediaries, (3) Setting up trustless escrow for any digital asset, (4) Implementing commit-reveal trading patterns. Supports Base, Ethereum, Arbitrum and other EVM chains.",
+  "version": "1.0.0",
+  "author": {
+    "name": "web4agent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/web4agent/htlc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/web4agent/htlc"
+}

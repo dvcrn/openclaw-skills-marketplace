@@ -1,0 +1,10 @@
+{
+  "name": "zaohon--dingtalk-bot-publish",
+  "description": "调用钉钉开放平台API，支持用户搜索/详情/查询、部门管理（搜索/详情/子部门/用户列表/父部门）、机器人单聊消息发送、群聊消息发送、群内机器人列表查询、Stream模式事件推送、多会话隔离管理等核心功能。Use when needing to search DingTalk users or departments, get user/department details, send robot messages, list group bots, handle Stream mode events, or manage multi-session conversations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zaohon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zaohon/dingtalk-bot-publish",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zaohon/dingtalk-bot-publish"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "qomob--openclaw-configurator",
+  "description": "专门用于帮助用户配置 OpenClaw 的智能助手。它能根据用户的模糊需求进行引导（通过多轮对话明确需求），并严格遵循 OPENClaw 的规范生成 AGENTS.md, SOUL.md, IDENTITY.md, USER.md, TOOLS.md, HEARTBEAT.md 和 MEMORY.md。",
+  "version": "1.0.1",
+  "author": {
+    "name": "qomob"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qomob/openclaw-configurator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qomob/openclaw-configurator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "basedmereum--blowfish-launch",
+  "description": "Launch tokens on Solana via the Blowfish Agent API (Meteora Dynamic Bonding Curve). Use when the user wants to launch, deploy, or create a token on Solana, check token launch status, list launched tokens, or claim trading fees. Triggers on \"launch token\", \"deploy token\", \"create token\", \"blowfish launch\", \"check launch status\", \"claim fees\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "basedmereum"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/basedmereum/blowfish-launch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/basedmereum/blowfish-launch"
+}

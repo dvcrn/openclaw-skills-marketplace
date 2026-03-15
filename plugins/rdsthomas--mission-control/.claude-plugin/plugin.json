@@ -1,0 +1,10 @@
+{
+  "name": "rdsthomas--mission-control",
+  "description": "Kanban-style task management dashboard for AI assistants. Manage tasks via CLI or dashboard UI. Use when user mentions tasks, kanban, task board, mission control, or wants to track work items with status columns (backlog, in progress, review, done).",
+  "version": "2.3.1",
+  "author": {
+    "name": "rdsthomas"
+  },
+  "homepage": "https://github.com/rdsthomas/mission-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rdsthomas/mission-control"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "daiwk--travel-itinerary-planner",
+  "description": "Generate complete, image-rich travel plans from trip dates and destination, including day-by-day itinerary, transportation, lodging area guidance, budget ranges, local transit notes, and risk/backup plans. Use when users ask for trip planning, vacation scheduling, route design, or requests like \"input time and location\" / \"plan a full trip\" / \"图文并茂 travel itinerary.\"",
+  "version": "0.1.1",
+  "author": {
+    "name": "daiwk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daiwk/travel-itinerary-planner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daiwk/travel-itinerary-planner"
+}

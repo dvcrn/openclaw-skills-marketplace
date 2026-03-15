@@ -1,0 +1,10 @@
+{
+  "name": "cianweeresinghe-sudo--wise-readonly",
+  "description": "Read-only Wise API operations for account inspection, FX lookups, recipients, and transfer history. Use when asked to list profiles, balances, recipients, transfers, quotes, delivery estimates, or check current/historical rates without creating transfers, recipients, quotes, or any other mutable resources.",
+  "version": "1.0.3",
+  "author": {
+    "name": "cianweeresinghe-sudo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cianweeresinghe-sudo/wise-readonly",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cianweeresinghe-sudo/wise-readonly"
+}

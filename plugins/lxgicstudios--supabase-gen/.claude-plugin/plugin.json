@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--supabase-gen",
+  "description": "Generate Supabase RLS policies from Prisma schema. Use when setting up row-level security for your tables.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/supabase-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/supabase-gen"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jrbobbyhansen-pixel--cron-retry",
+  "description": "Auto-retry failed cron jobs on connection recovery. Use when cron jobs fail due to network errors and should be retried when connectivity is restored. Integrates with heartbeat to detect failed jobs and re-run them automatically.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jrbobbyhansen-pixel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jrbobbyhansen-pixel/cron-retry",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jrbobbyhansen-pixel/cron-retry"
+}

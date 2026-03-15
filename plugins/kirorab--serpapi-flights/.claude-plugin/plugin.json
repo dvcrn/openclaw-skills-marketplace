@@ -1,0 +1,10 @@
+{
+  "name": "kirorab--serpapi-flights",
+  "description": "Query Google Flights via SerpApi for flight schedules, prices, and cabin class info. Use when user asks about flight/机票/航班 prices, schedules, or comparisons.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kirorab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kirorab/serpapi-flights",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kirorab/serpapi-flights"
+}

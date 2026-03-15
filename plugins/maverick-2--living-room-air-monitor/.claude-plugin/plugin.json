@@ -1,0 +1,10 @@
+{
+  "name": "maverick-2--living-room-air-monitor",
+  "description": "Monitor and report on living room air quality data. Collects temperature, humidity, PM2.5, and CO2 readings every hour from the Dirigera-connected air sensor, stores in SQLite database, and provides querying, averaging, charting, and reporting functions. Use when the user wants to (1) set up automated air quality data collection, (2) query historical air quality data, (3) generate charts for specific time periods, (4) get averages for days or months, or (5) send air quality reports via email or WhatsApp.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maverick-2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-2/living-room-air-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-2/living-room-air-monitor"
+}

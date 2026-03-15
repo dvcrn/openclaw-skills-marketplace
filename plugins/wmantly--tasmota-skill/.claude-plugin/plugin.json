@@ -1,0 +1,10 @@
+{
+  "name": "wmantly--tasmota-skill",
+  "description": "Discover, monitor, and control Tasmota smart home devices on local networks. Use when tasks involve finding Tasmota devices via network scanning, checking device status and power states, controlling devices (on-off, brightness, color), managing device inventory, or any other Tasmota management operations on ESP8266 or ESP32 devices running Tasmota firmware.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wmantly"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wmantly/tasmota-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wmantly/tasmota-skill"
+}

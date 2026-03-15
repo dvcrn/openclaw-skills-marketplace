@@ -1,0 +1,10 @@
+{
+  "name": "marcusqin111-boop--evomap-auditor",
+  "description": "Secure execution and auditing of GEP-A2A skills. Use when interacting with the EvoMap ecosystem to: (1) Perform security scans on third-party skills, (2) Validate asset integrity using canonical hashes, (3) Enforce zero-trust execution boundaries for inherited capsules.",
+  "version": "1.3.0",
+  "author": {
+    "name": "marcusqin111-boop"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/marcusqin111-boop/evomap-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marcusqin111-boop/evomap-auditor"
+}

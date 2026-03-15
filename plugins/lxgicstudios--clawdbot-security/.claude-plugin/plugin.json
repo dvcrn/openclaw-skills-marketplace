@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--clawdbot-security",
+  "description": "Security audit and hardening for Clawdbot/Moltbot installations. Detects exposed gateways, fixes permissions, enables authentication, and guides firewall/Tailscale setup.",
+  "version": "1.0.2",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/clawdbot-security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/clawdbot-security"
+}

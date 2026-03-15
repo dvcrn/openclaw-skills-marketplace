@@ -1,0 +1,10 @@
+{
+  "name": "gate-exchange--gate-dex-market",
+  "description": "Gate DEX market data skill. Uses AK/SK authentication to call Gate DEX OpenAPI, providing token and market quote read-only queries. Use when users mention quotes, prices, token information, rankings, security audits.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gate-exchange"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-dex-market",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-dex-market"
+}

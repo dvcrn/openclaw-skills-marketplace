@@ -1,0 +1,10 @@
+{
+  "name": "tkuehnl--cacheforge-ops",
+  "description": "CacheForge operations — check balance, top up, manage upstream, API keys. Pay-as-you-go with Stripe or crypto.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tkuehnl"
+  },
+  "homepage": "https://app.anvil-ai.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tkuehnl/cacheforge-ops"
+}

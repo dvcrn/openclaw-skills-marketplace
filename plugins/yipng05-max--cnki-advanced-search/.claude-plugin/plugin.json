@@ -1,0 +1,10 @@
+{
+  "name": "yipng05-max--cnki-advanced-search",
+  "description": "知网（CNKI）高级检索论文自动化工具。当用户提供研究关键词（一组或多组）时，自动在知网 高级检索页面模拟人类检索行为：选择学术期刊类别、勾选CSSCI来源、输入主题关键词（含同义词 和同位词，用 + 连接）、多组关键词用OR关系连接，检索后按被引量排序、切换50条/页、 打开摘要视图，最终提取前100篇（不足100篇则全部）论文的题录和摘要信息并保存为Excel文件。 触发条件：用户提到需要在知网/CNKI检索论文、高级检索、按关键词搜索CSSCI/C刊论文、 下载题录信息、获取论文摘要、按被引排序检索；或说\"帮我在知网检索XX相关论文\"、 \"用知网高级检索搜索XX主题的C刊论文\"、\"帮我检索XX关键词的CSSCI论文\"。",
+  "version": "1.0.0",
+  "author": {
+    "name": "yipng05-max"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yipng05-max/cnki-advanced-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yipng05-max/cnki-advanced-search"
+}

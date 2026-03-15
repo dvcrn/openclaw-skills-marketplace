@@ -1,0 +1,73 @@
+{
+  "_comment": "Web3 Investor Skill Configuration - v0.5.0",
+  
+  "chain": {
+    "default": "base",
+    "supported": ["base", "ethereum"],
+    "rpc": {
+      "base": ["https://base.llamarpc.com", "https://base.drpc.org"],
+      "ethereum": ["https://eth.llamarpc.com", "https://rpc.flashbots.net/fast", "https://eth.drpc.org"]
+    }
+  },
+  
+  "api": {
+    "url": "http://localhost:3000/api",
+    "timeout_seconds": 30
+  },
+  
+  "security": {
+    "max_trade_usd": 10000,
+    "max_slippage_percent": 3.0,
+    "whitelist_enabled": false,
+    "whitelist_tokens": ["USDC", "USDT", "DAI", "WETH", "ETH", "stETH", "rETH"],
+    "whitelist_protocols": ["uniswap", "aave", "compound", "lido", "0x"],
+    "double_confirm": {
+      "enabled": true,
+      "large_trade_threshold_usd": 5000,
+      "high_slippage_threshold_percent": 1.0,
+      "new_protocol_confirm": true,
+      "confirm_phrase": "CONFIRM_HIGH_RISK"
+    }
+  },
+  
+  "preflight": {
+    "enabled": true,
+    "min_gas_eth": 0.001,
+    "checks": {
+      "swap": ["signer_api", "rpc_reachable", "gas_balance", "token_balance"],
+      "deposit": ["signer_api", "rpc_reachable", "gas_balance", "token_balance"],
+      "transfer": ["signer_api", "rpc_reachable", "gas_balance", "token_balance"]
+    }
+  },
+  
+  "rpc": {
+    "timeout_seconds": 10,
+    "fallback_enabled": true,
+    "session_sticky": true
+  },
+  
+  "discovery": {
+    "data_sources": ["mcp", "dune", "defillama"],
+    "mcp": {
+      "enabled": true,
+      "cache_ttl_seconds": 300,
+      "servers": []
+    },
+    "dune": {
+      "mcp_endpoint": "https://api.dune.com/mcp/v1",
+      "auth": {
+        "header": {
+          "name": "x-dune-api-key",
+          "env_var": "DUNE_API_KEY"
+        },
+        "query_param": {
+          "name": "api_key",
+          "env_var": "DUNE_API_KEY"
+        }
+      },
+      "enabled": true
+    },
+    "min_apy": 0,
+    "max_results": 20
+  }
+}

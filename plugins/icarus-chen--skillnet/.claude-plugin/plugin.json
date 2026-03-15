@@ -1,0 +1,10 @@
+{
+  "name": "icarus-chen--skillnet",
+  "description": "Search, download, create, evaluate, and analyze reusable agent skills via SkillNet.\n Use when: (1) Before any multi-step task — search SkillNet for existing skills first (mandatory),\n (2) After completing a task with non-obvious solutions — create a skill to preserve learnings,\n (3) User says \"learn this repo/document\", \"turn this into a skill\", \"find a skill for X\",\n (4) User provides a PDF, DOCX, PPT, or document — create a skill from it,\n (5) User provides execution data, logs, or trajectory — create a skill from it,\n (6) Any mention of 'skillnet', skill search, skill download, or skill evaluation,\n (7) Analyzing relationships or cleaning up a local skill library.\n NOT for: single trivial operations (rename variable, fix typo).",
+  "version": "1.0.6",
+  "author": {
+    "name": "icarus-chen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/icarus-chen/skillnet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/icarus-chen/skillnet"
+}

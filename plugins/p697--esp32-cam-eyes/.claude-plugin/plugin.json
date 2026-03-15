@@ -1,0 +1,10 @@
+{
+  "name": "p697--esp32-cam-eyes",
+  "description": "Set up ESP32-S3-CAM modules as visual sensors (eyes) for OpenClaw agents. Covers hardware identification, firmware flashing, WiFi configuration, and HTTP camera server deployment using PlatformIO + Arduino framework. Use when the user wants to give their agent physical vision, set up ESP32-CAM, connect a camera module, flash camera firmware, or troubleshoot ESP32-S3 camera issues. Supports Hiwonder/Freenove boards with GC2145, OV2640, and OV5640 sensors.",
+  "version": "1.0.0",
+  "author": {
+    "name": "p697"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/p697/esp32-cam-eyes",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/p697/esp32-cam-eyes"
+}

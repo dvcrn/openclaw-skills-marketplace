@@ -1,0 +1,10 @@
+{
+  "name": "jarvis563--stable-browser",
+  "description": "Set up reliable browser automation using Chrome DevTools Protocol (CDP) instead of the flaky browser extension relay. Use when browser relay keeps disconnecting, throwing WebSocket 403 errors, or when you need stable headless/headed browser control for web scraping, form filling, social media posting, or any browser automation task. Replaces profile=\"chrome\" with a rock-solid CDP connection.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jarvis563"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jarvis563/stable-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jarvis563/stable-browser"
+}

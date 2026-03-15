@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenClaw Router"
+  short_description: "Install or update the OpenClaw Router plugin and verify routing + stats"
+  default_prompt: "Install or update openclaw-router into ~/.openclaw, run its tests, restart the gateway, and verify health, CLI commands, and stats."

@@ -1,0 +1,10 @@
+{
+  "name": "lstpsche--openmeteo-weather",
+  "description": "Get current weather, hourly and daily forecasts for any city or coordinates worldwide. Use when the user asks about weather, temperature, rain, snow, wind, sunrise/sunset, UV, humidity, pressure, or wants to know if they need an umbrella.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lstpsche"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lstpsche/openmeteo-weather",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lstpsche/openmeteo-weather"
+}

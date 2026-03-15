@@ -1,0 +1,10 @@
+{
+  "name": "devingonggz--chengding-level-sensor",
+  "description": "读取橙丁物联液位传感器设备状态。使用场景：(1)查询液位传感器在线状态 (2)获取设备开关状态 (3)定时监控液位设备。需要提前配置 key、tel、imei 参数。",
+  "version": "1.0.0",
+  "author": {
+    "name": "devingonggz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/devingonggz/chengding-level-sensor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/devingonggz/chengding-level-sensor"
+}

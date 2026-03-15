@@ -1,0 +1,22 @@
+{
+  "name": "CNY Rate Calculator",
+  "version": "1.0.0",
+  "description": "Bank of Taiwan CNY exchange rate calculator with tiered pricing",
+  "author": "HomeClaw",
+  "formula": {
+    "deltas": [0.05, 0.03, 0.015],
+    "labels": ["基礎成本", "滿萬優惠", "五萬優惠"]
+  },
+  "sources": {
+    "bot_rate": "https://rate.bot.com.tw/xrt",
+    "calculator": "https://78lion.com/CNY.html"
+  },
+  "schedule": {
+    "description": "Mon-Fri 9:00-16:00",
+    "cron": "0 9-16 * * 1-5"
+  },
+  "channel": {
+    "type": "YOUR_CHANNEL_TYPE",
+    "target": "YOUR_TARGET_HERE"
+  }
+}

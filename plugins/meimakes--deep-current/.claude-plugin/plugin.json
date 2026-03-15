@@ -1,0 +1,10 @@
+{
+  "name": "meimakes--deep-current",
+  "description": "Persistent research thread manager with a CLI for tracking topics, notes, sources, and findings. Pair with a nightly cron job to build a personal research digest over time. The shipped code is a local Python CLI for thread management — research is performed by the agent using its standard web_search and web_fetch tools.",
+  "version": "1.1.0",
+  "author": {
+    "name": "meimakes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/meimakes/deep-current",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/meimakes/deep-current"
+}

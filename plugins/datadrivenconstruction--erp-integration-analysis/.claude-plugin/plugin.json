@@ -1,0 +1,10 @@
+{
+  "name": "datadrivenconstruction--erp-integration-analysis",
+  "description": "Analyze ERP system integration for construction data flows. Map and optimize data flows between ERP modules",
+  "version": "2.1.0",
+  "author": {
+    "name": "datadrivenconstruction"
+  },
+  "homepage": "https://datadrivenconstruction.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/erp-integration-analysis"
+}

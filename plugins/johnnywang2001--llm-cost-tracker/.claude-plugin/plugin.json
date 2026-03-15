@@ -1,0 +1,10 @@
+{
+  "name": "johnnywang2001--llm-cost-tracker",
+  "description": "Track, analyze, and optimize LLM API spending across providers (OpenAI, Anthropic, Google, DeepSeek, etc.). Use when the user asks about API costs, token usage, billing, budget alerts, cost optimization, or wants to monitor how much their OpenClaw agent is spending. Supports daily/weekly/monthly breakdowns, per-model cost analysis, budget threshold alerts, and cost reduction recommendations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "johnnywang2001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/llm-cost-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/llm-cost-tracker"
+}

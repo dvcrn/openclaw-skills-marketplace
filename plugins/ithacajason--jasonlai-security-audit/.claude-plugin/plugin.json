@@ -1,0 +1,10 @@
+{
+  "name": "ithacajason--jasonlai-security-audit",
+  "description": "Security audit for external resources (GitHub repos, downloaded skills, files). Detects malicious code, suspicious executables, and content mismatches. Use when: (1) cloning GitHub projects, (2) downloading skills from web, (3) running external code/scripts. Always run before trusting or executing external code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ithacajason"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ithacajason/jasonlai-security-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ithacajason/jasonlai-security-audit"
+}

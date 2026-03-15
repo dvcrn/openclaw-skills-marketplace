@@ -1,0 +1,10 @@
+{
+  "name": "xbralready--eleme-order",
+  "description": "Order food delivery from Ele.me (饿了么) using browser automation. The agent controls a real browser via Playwright MCP to browse restaurants, add items to cart, and submit orders. User handles payment manually. Use when user wants to order food, drinks, or groceries from Ele.me.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xbralready"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xbralready/eleme-order",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xbralready/eleme-order"
+}

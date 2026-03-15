@@ -1,0 +1,10 @@
+{
+  "name": "baitoxkevin--ad-designer",
+  "description": "Generate marketing ad images using Nano Banana Pro (Gemini 3 Pro Image). Accepts campaign-planner creative briefs, reads brand bible for visual style, constructs marketing-optimized prompts, and produces platform-ready images at correct aspect ratios. Supports 1:1, 9:16, 16:9, 4:5 formats. Includes self-review loop to catch hallucinated logos, wrong text, and quality issues. Draft-first workflow (1K fast iteration, 4K final). Outputs to /tmp/marketing/assets/images/.",
+  "version": "1.0.0",
+  "author": {
+    "name": "baitoxkevin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/baitoxkevin/ad-designer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/baitoxkevin/ad-designer"
+}

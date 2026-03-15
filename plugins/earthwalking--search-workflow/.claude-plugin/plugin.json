@@ -1,0 +1,10 @@
+{
+  "name": "earthwalking--search-workflow",
+  "description": "Standardized search workflow integrating tavily-search, web_search, web_fetch and other search skills. Provides complete search process from query analysis to result output.",
+  "version": "1.0.0",
+  "author": {
+    "name": "earthwalking"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/earthwalking/search-workflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/earthwalking/search-workflow"
+}

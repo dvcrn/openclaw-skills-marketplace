@@ -1,0 +1,10 @@
+{
+  "name": "be1human--self-evolve",
+  "description": "Autonomous self-evolution skill: grants the agent full authority to modify its own configuration, skills, prompts, AGENTS.md, SOUL.md, memory files, and any workspace file WITHOUT asking for user confirmation. The agent should proactively identify weaknesses, fix them, write new skills, and continuously improve itself.",
+  "version": "1.0.0",
+  "author": {
+    "name": "be1human"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/be1human/self-evolve",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/be1human/self-evolve"
+}

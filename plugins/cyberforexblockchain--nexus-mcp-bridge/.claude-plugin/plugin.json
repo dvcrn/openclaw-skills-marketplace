@@ -1,0 +1,10 @@
+{
+  "name": "cyberforexblockchain--nexus-mcp-bridge",
+  "description": "Bridge agent to MCP-compatible tool servers including IPFS pinning, GitHub operations, and filesystem tools. Execute MCP tool calls through a unified interface.",
+  "version": "1.0.1",
+  "author": {
+    "name": "cyberforexblockchain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cyberforexblockchain/nexus-mcp-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cyberforexblockchain/nexus-mcp-bridge"
+}

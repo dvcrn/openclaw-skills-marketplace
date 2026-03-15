@@ -1,0 +1,10 @@
+{
+  "name": "notabhay--grok-search",
+  "description": "Search the web or X/Twitter using xAI Grok server-side tools (web_search, x_search) via the xAI Responses API. Use when you need tweets/threads/users from X, want Grok as an alternative to Brave, or you need structured JSON + citations.",
+  "version": "0.2.1",
+  "author": {
+    "name": "notabhay"
+  },
+  "homepage": "https://docs.x.ai/docs/guides/tools/search-tools",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/notabhay/grok-search"
+}

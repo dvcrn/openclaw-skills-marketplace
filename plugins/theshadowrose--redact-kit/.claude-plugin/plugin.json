@@ -1,0 +1,10 @@
+{
+  "name": "theshadowrose--redact-kit",
+  "description": "Scan your data before sending it to AI. Detect and redact PII, secrets, and sensitive info. Reversible, local, zero network calls.",
+  "version": "1.0.0",
+  "author": {
+    "name": "theshadowrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/redact-kit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/redact-kit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cutmob--1sec-security",
+  "description": "Install, configure, and manage 1-SEC — an open-source, all-in-one cybersecurity platform (16 modules, single binary) on Linux servers and VPS instances. Use when the user asks to secure a server, install security monitoring, set up intrusion detection, harden a VPS, protect an AI agent host, or deploy endpoint defense. Covers installation, setup, enforcement presets, module configuration, alert management, and ongoing security operations.",
+  "version": "0.4.15",
+  "author": {
+    "name": "cutmob"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cutmob/1sec-security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cutmob/1sec-security"
+}

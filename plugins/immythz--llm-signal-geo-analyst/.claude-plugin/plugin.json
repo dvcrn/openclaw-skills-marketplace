@@ -1,0 +1,10 @@
+{
+  "name": "immythz--llm-signal-geo-analyst",
+  "description": "Run LLM Signal GEO analyst workflows from OpenClaw. Use when you need to fetch deterministic GEO action plans, check site health status, and execute/review hosted or self-hosted agent workflows with approval-safe guidance.",
+  "version": "0.1.0",
+  "author": {
+    "name": "immythz"
+  },
+  "homepage": "https://www.llmsignal.app/docs/agents",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/immythz/llm-signal-geo-analyst"
+}

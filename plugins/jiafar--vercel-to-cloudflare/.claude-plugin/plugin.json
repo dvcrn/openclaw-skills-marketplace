@@ -1,0 +1,10 @@
+{
+  "name": "jiafar--vercel-to-cloudflare",
+  "description": "Migrate Next.js projects from Vercel to Cloudflare Workers with Supabase/Hyperdrive support. Use when user wants to move a Next.js app off Vercel to reduce costs, deploy to Cloudflare Workers, configure Hyperdrive connection pooling, or fix Supabase connectivity issues on Cloudflare. Triggers on phrases like \"migrate to Cloudflare\", \"Vercel too expensive\", \"deploy Next.js on Cloudflare Worker\", \"Cloudflare Hyperdrive setup\", \"Supabase on Cloudflare\", \"从Vercel迁移到Cloudflare\", \"Vercel太贵了\", \"部署到Cloudflare Worker\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "jiafar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jiafar/vercel-to-cloudflare",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jiafar/vercel-to-cloudflare"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "freeslym--agent-daily-report-en",
+  "description": "Enables the agent to review its own execution logs and deliver a professional, quantified daily work report. Defaults to 21:00 America/Los_Angeles and supports user-defined schedule plus on-demand reporting.",
+  "version": "1.0.1",
+  "author": {
+    "name": "freeslym"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/freeslym/agent-daily-report-en",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/freeslym/agent-daily-report-en"
+}

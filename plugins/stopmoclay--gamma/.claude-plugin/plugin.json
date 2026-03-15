@@ -1,0 +1,10 @@
+{
+  "name": "stopmoclay--gamma",
+  "description": "Generate AI-powered presentations, documents, and social posts using Gamma.app API. Use when user asks to create a presentation, pitch deck, slide deck, document, or social media carousel. Triggers on requests like \"create a presentation about X\", \"make a pitch deck\", \"generate slides\", or \"create a Gamma about X\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "stopmoclay"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stopmoclay/gamma",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stopmoclay/gamma"
+}

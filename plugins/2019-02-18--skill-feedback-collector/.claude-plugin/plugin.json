@@ -1,0 +1,10 @@
+{
+  "name": "2019-02-18--skill-feedback-collector",
+  "description": "Human-in-the-loop MCP feedback collector with task queue. Pauses to collect human input via browser UI before continuing. Use when completing tasks, encountering uncertain parameters, needing user confirmation, working with coding plan subscriptions, or when you should ask instead of guess. Also covers batch task execution via auto-dequeue.",
+  "version": "1.0.2",
+  "author": {
+    "name": "2019-02-18"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/2019-02-18/skill-feedback-collector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/2019-02-18/skill-feedback-collector"
+}

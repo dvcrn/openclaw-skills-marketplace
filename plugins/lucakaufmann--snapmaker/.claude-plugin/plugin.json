@@ -1,0 +1,10 @@
+{
+  "name": "lucakaufmann--snapmaker",
+  "description": "Monitor and control Snapmaker 3D printers (U1 with Moonraker/Klipper). Use when checking print status, temperatures, progress, or controlling prints (pause/resume/cancel). Triggers on \"printer\", \"3D print\", \"Snapmaker\", \"print status\", \"nozzle temp\", \"bed temp\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "lucakaufmann"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lucakaufmann/snapmaker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lucakaufmann/snapmaker"
+}

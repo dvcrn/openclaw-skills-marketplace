@@ -1,0 +1,10 @@
+{
+  "name": "whalefell--tesseract-ocr",
+  "description": "Extract text from images using the Tesseract OCR engine directly via command line.\n Supports multiple languages including Chinese, English, and more. Use this skill \n when users need to extract text from images, recognize text content in images, \n or perform OCR tasks without Python dependencies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "whalefell"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/whalefell/tesseract-ocr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/whalefell/tesseract-ocr"
+}

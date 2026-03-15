@@ -1,0 +1,10 @@
+{
+  "name": "vsevolodustinov--claude-code-task",
+  "description": "Launch Claude Code async in background with automatic delivery to Telegram/WhatsApp. Use for coding, refactoring, codebase research, file generation, and complex multi-step automations. NOT for quick one-off questions or real-time interactive tasks. Includes strict thread-safe routing + E2E operator validation workflow.",
+  "version": "1.2.5",
+  "author": {
+    "name": "vsevolodustinov"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vsevolodustinov/claude-code-task",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vsevolodustinov/claude-code-task"
+}

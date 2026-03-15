@@ -1,0 +1,10 @@
+{
+  "name": "antaeus001--wechat-official-account",
+  "description": "Create and publish WeChat Official Account (公众号) articles. Use when: (1) User wants to auto-post\n to WeChat Official Account, (2) Create draft from title + content, (3) Publish draft to 公众号,\n (4) Schedule or automate 公众号 article publishing. Supports API (服务号) and browser automation (个人订阅号).\n Browser mode: interactive QR login, login detection via page HTML analysis.",
+  "version": "1.0.2",
+  "author": {
+    "name": "antaeus001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/antaeus001/wechat-official-account",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/antaeus001/wechat-official-account"
+}

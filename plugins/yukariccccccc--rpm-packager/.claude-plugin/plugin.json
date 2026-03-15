@@ -1,0 +1,10 @@
+{
+  "name": "yukariccccccc--rpm-packager",
+  "description": "Build RPM packages from source code for CentOS/RHEL systems. Use when user needs to: (1) package software source into installable RPM, (2) create SPEC files, (3) build packages for CentOS 7/8/9 or RHEL, (4) prepare software for distribution on RPM-based Linux systems.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yukariccccccc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yukariccccccc/rpm-packager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yukariccccccc/rpm-packager"
+}

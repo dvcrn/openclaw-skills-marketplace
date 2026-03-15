@@ -1,0 +1,10 @@
+{
+  "name": "alexgrankinukr-hash--k3-blockchain-agent",
+  "description": "Build automated blockchain analysis workflows on K3 — from natural language requests to deployed, running automations that fetch on-chain data, analyze it with AI, and deliver insights via email, Telegram, or Slack. Use this skill whenever the user mentions blockchain workflows, on-chain analytics, DeFi monitoring, token tracking, wallet alerts, pool analysis, protocol dashboards, NFT tracking, automated trading, smart contract monitoring, or wants to automate anything involving blockchain data. Also trigger when the user mentions K3, workflow builder, or wants scheduled crypto/DeFi reports. Even if they just say \"monitor this wallet\" or \"track this token\" — this skill applies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "alexgrankinukr-hash"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alexgrankinukr-hash/k3-blockchain-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alexgrankinukr-hash/k3-blockchain-agent"
+}

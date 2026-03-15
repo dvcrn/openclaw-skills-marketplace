@@ -1,0 +1,10 @@
+{
+  "name": "faleksic--dhmz-weather",
+  "description": "Get Croatian weather data, forecasts, and alerts from DHMZ (meteo.hr) - no API key required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "faleksic"
+  },
+  "homepage": "https://meteo.hr/proizvodi.php?section=podaci&param=xml_korisnici",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/faleksic/dhmz-weather"
+}

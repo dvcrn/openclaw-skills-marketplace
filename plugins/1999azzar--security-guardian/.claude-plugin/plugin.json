@@ -1,0 +1,10 @@
+{
+  "name": "1999azzar--security-guardian",
+  "description": "Automated security auditing for OpenClaw projects. Scans for hardcoded secrets (API keys, tokens) and container vulnerabilities (CVEs) using Trivy. Provides structured reports to help maintain a clean and secure codebase.",
+  "version": "1.1.0",
+  "author": {
+    "name": "1999azzar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/1999azzar/security-guardian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/1999azzar/security-guardian"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "fischerlam--video-recommendation",
+  "description": "Recommend videos with precision, not addiction. Use when a user asks what to watch, wants video recommendations, wants a curated watchlist, wants direct video links, or wants suggestions based on recent chat instead of generic platform algorithms. Best for context-aware, taste-driven, non-feed-based video discovery. Supports: direct links, themed watchlists, project-aligned recommendations, mood-based picks, and bilingual curation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "fischerlam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fischerlam/video-recommendation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fischerlam/video-recommendation"
+}

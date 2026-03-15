@@ -1,0 +1,10 @@
+{
+  "name": "humboldtjs--pathe-movie",
+  "description": "Lookup Pathé Netherlands movies, posters, descriptions, cinemas, and showtimes via the Pathé JSON APIs. Trigger when the user mentions a Pathé movie/show, wants a poster, asks about a description/rating, or requests showtimes for a specific cinema.",
+  "version": "1.0.0",
+  "author": {
+    "name": "humboldtjs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/humboldtjs/pathe-movie",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/humboldtjs/pathe-movie"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "csacanam--kamino-positions-monitor",
+  "description": "Monitor Solana wallets with Kamino Lend positions for liquidation risk. Generates reports with collateral, debt, health metrics, liquidation prices, and actionable recommendations. Use when the user asks about Kamino positions, Solana lending risk, liquidation monitoring, or DeFi fund health.",
+  "version": "1.0.0",
+  "author": {
+    "name": "csacanam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/csacanam/kamino-positions-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/csacanam/kamino-positions-monitor"
+}

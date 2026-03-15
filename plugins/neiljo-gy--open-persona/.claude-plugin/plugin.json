@@ -1,0 +1,10 @@
+{
+  "name": "neiljo-gy--open-persona",
+  "description": "Meta-skill for building and managing agent persona skill packs. Use when the user wants to create a new agent persona, install/manage existing personas, or publish persona skill packs to ClawHub.",
+  "version": "0.16.1",
+  "author": {
+    "name": "neiljo-gy"
+  },
+  "homepage": "https://github.com/acnlabs/OpenPersona",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neiljo-gy/open-persona"
+}

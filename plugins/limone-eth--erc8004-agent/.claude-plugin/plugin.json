@@ -1,0 +1,10 @@
+{
+  "name": "limone-eth--erc8004-agent",
+  "description": "8004 Agent Skill for registering AI agents on the ERC-8004 Trustless Agents standard and authenticating them via SIWA (Sign In With Agent). Use this skill when an agent needs to: (1) create or manage an Ethereum wallet for onchain identity, (2) register on the ERC-8004 Identity Registry as an NFT-based agent identity (SIGN UP), (3) authenticate with a server by proving ownership of an ERC-8004 identity using a signed challenge (SIGN IN / SIWA), (4) build or update an ERC-8004 registration file (metadata JSON with endpoints, trust models, services), (5) upload agent metadata to IPFS or base64 data URI, (6) look up or verify an agent's onchain registration. The agent persists public identity state in MEMORY.md. Private keys are held in a separate keyring proxy server — the agent can request signatures but never access the key itself. Triggers on: ERC-8004, trustless agents, agent registration, SIWA, Sign In With Agent, agent identity NFT, Agent0 SDK, agent wallet, agent keystore, keyring proxy.",
+  "version": "0.0.2",
+  "author": {
+    "name": "limone-eth"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/limone-eth/erc8004-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/limone-eth/erc8004-agent"
+}

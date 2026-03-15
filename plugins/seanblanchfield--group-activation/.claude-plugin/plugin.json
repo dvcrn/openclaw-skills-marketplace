@@ -1,0 +1,10 @@
+{
+  "name": "seanblanchfield--group-activation",
+  "description": "Handles joining and leaving group conversations on messaging platforms (WhatsApp, Signal, Telegram, etc.). Use when the owner tags the agent into a group chat to participate for a time-limited window, and when the agent needs to open or close the participation gate for a specific group.",
+  "version": "1.0.0",
+  "author": {
+    "name": "seanblanchfield"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seanblanchfield/group-activation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seanblanchfield/group-activation"
+}

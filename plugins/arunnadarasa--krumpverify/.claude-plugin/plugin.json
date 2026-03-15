@@ -1,0 +1,10 @@
+{
+  "name": "arunnadarasa--krumpverify",
+  "description": "Enables AI agents (e.g. OpenClaw) to understand and use Krump Verify for on-chain move verification against Story IP. Use when the user or agent needs to verify a dance move, pay via USDC.k or x402/EVVM receipt, call KrumpVerify contracts, integrate with ClawHub (clawhub.ai), or build similar EVVM/x402 apps on Story Aeneid.",
+  "version": "0.1.0",
+  "author": {
+    "name": "arunnadarasa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arunnadarasa/krumpverify",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arunnadarasa/krumpverify"
+}

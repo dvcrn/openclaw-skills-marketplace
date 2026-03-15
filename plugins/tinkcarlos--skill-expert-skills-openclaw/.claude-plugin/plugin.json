@@ -1,0 +1,10 @@
+{
+  "name": "tinkcarlos--skill-expert-skills-openclaw",
+  "description": "Creates, optimizes, validates, and packages AI Agent Skills (SKILL.md format).\n\n Mandatory 6-Phase workflow with quality gates:\n Phase 0: Task Classification + Hypothesis Generation\n Phase 1: Deep Requirement Mining + 5 Whys\n Phase 2: Knowledge Acquisition + Validation\n Phase 3: Skill Writing + Quality Check\n Phase 4: Validation + User Confirmation\n Phase 5: Self-Reflection + Knowledge Precipitation\n\n Use when:\n - Creating a new Skill (writing a SKILL.md)\n - Optimizing an existing Skill (structure, triggers, portability)\n - Validating a Skill package\n - Packaging or distributing a Skill\n\n Not for: regular programming or business logic (use domain-specific skills).",
+  "version": "1.0.1",
+  "author": {
+    "name": "tinkcarlos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tinkcarlos/skill-expert-skills-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tinkcarlos/skill-expert-skills-openclaw"
+}

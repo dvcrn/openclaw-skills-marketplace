@@ -1,0 +1,10 @@
+{
+  "name": "clarityprotocol--clarity-fold-status",
+  "description": "Get overview and status information from Clarity Protocol. Use when the user asks about fold status, how many variants, research overview, what data is available, or Clarity Protocol status. Capabilities: API info, variant counts, endpoint availability.",
+  "version": "1.0.0",
+  "author": {
+    "name": "clarityprotocol"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-fold-status",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/clarityprotocol/clarity-fold-status"
+}

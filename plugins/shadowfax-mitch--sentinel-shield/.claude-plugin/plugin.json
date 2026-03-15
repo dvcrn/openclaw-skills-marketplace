@@ -1,0 +1,10 @@
+{
+  "name": "shadowfax-mitch--sentinel-shield",
+  "description": "Runtime security for OpenClaw agents. Monitors tool calls, enforces rate limits, scans for prompt injection, and alerts on suspicious behavior. Protect your gateway token and agent session from infostealers and session hijacking.",
+  "version": "0.2.0",
+  "author": {
+    "name": "shadowfax-mitch"
+  },
+  "homepage": "https://sentinel-algo.com/shield",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shadowfax-mitch/sentinel-shield"
+}

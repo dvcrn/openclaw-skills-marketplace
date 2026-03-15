@@ -1,0 +1,10 @@
+{
+  "name": "ykaixu--model-setup",
+  "description": "安全地管理 OpenClaw 模型配置。用于添加、测试和配置新模型到 models.json，包括 API key 验证、模型可访问性测试、工具调用功能检测、设置默认模型和配置到特定 agent。所有操作都会自动备份配置文件以确保安全。",
+  "version": "1.0.1",
+  "author": {
+    "name": "ykaixu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ykaixu/model-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ykaixu/model-setup"
+}

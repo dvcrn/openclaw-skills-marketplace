@@ -1,0 +1,10 @@
+{
+  "name": "crazybuffon--pronunciation-coach",
+  "description": "Pronunciation coaching with real voice analysis using Azure Speech Services. Analyzes audio files for phoneme-level accuracy, fluency, prosody, and intonation scores.",
+  "version": "1.0.4",
+  "author": {
+    "name": "crazybuffon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crazybuffon/pronunciation-coach",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crazybuffon/pronunciation-coach"
+}

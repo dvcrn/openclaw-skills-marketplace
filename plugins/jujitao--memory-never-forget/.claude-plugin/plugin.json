@@ -1,0 +1,10 @@
+{
+  "name": "jujitao--memory-never-forget",
+  "description": "Enhanced memory system based on Atkinson-Shiffrin three-stage memory model. Use when: (1) User wants better memory of conversation history, (2) User mentions 'remember' or 'don't forget', (3) Setting up memory for a new user, (4) User asks about past conversations. Provides: automatic session start loading, real-time memory writing, long-term memory consolidation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jujitao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jujitao/memory-never-forget",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jujitao/memory-never-forget"
+}

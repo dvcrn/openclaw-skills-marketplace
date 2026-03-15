@@ -1,0 +1,10 @@
+{
+  "name": "noyadev00-gmailcom--noya-agent-skill",
+  "description": "Interact with the Noya AI agent for crypto trading, prediction markets, token analysis, and DCA strategies via curl. Use when the user wants to trade tokens, check portfolios, analyze markets, manage DCA strategies, or interact with Polymarket/Rain prediction markets.",
+  "version": "1.0.6",
+  "author": {
+    "name": "noyadev00-gmailcom"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/noyadev00-gmailcom/noya-agent-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/noyadev00-gmailcom/noya-agent-skill"
+}

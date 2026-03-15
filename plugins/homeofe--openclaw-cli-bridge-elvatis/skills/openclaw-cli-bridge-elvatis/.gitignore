@@ -1,0 +1,46 @@
+# Build output
+dist/
+*.js.map
+*.d.ts.map
+
+# Dependencies
+node_modules/
+
+# Secrets & credentials — NEVER commit
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+auth.json
+*auth*.json
+*token*.json
+*credentials*.json
+*secret*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test artifacts
+coverage/
+.nyc_output/
+
+# Lock files (keep package-lock.json, ignore others)
+yarn.lock
+pnpm-lock.yaml
+
+# npm pack output
+*.tgz
+
+# Logs
+*.log
+npm-debug.log*
+
+# TypeScript cache
+*.tsbuildinfo

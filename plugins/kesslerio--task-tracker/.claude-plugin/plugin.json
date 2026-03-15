@@ -1,0 +1,10 @@
+{
+  "name": "kesslerio--task-tracker",
+  "description": "Personal task management with daily standups and weekly reviews. Use when: (1) User says 'daily standup' or asks what's on their plate, (2) User says 'weekly review' or asks about last week's progress, (3) User wants to add/update/complete tasks, (4) User asks about blockers or deadlines, (5) User shares meeting notes and wants tasks extracted, (6) User asks 'what's due this week' or similar.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kesslerio"
+  },
+  "homepage": "https://github.com/kesslerio/task-tracker-clawdbot-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kesslerio/task-tracker"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "judefluen-coder--content-hunter",
+  "description": "内容捕手 (Content Hunter) - 短视频平台热门内容抓取机器人。支持小红书、抖音、B站，可分批抓取热门内容并自动生成汇报。/Content Hunter - Hot content crawler for Xiaohongshu, Douyin, Bilibili. Supports batch scraping and scheduled reporting.",
+  "version": "1.0.2",
+  "author": {
+    "name": "judefluen-coder"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/judefluen-coder/content-hunter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/judefluen-coder/content-hunter"
+}

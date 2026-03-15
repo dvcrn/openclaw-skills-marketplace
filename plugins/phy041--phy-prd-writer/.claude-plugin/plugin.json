@@ -1,0 +1,10 @@
+{
+  "name": "phy041--phy-prd-writer",
+  "description": "Multi-turn PRD (Product Requirements Document) creation assistant. Asks clarifying questions one at a time to gather requirements, then generates a complete, professional PRD. Use when starting a new feature, product, or project. Triggers on 'write PRD', 'create PRD', 'new feature', 'product requirements', or '/prd'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phy041"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-prd-writer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phy041/phy-prd-writer"
+}

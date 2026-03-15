@@ -1,0 +1,10 @@
+{
+  "name": "virtual-ny--clawpulse-bridge",
+  "description": "Configure and maintain ClawPulse integration for OpenClaw, including token-protected status bridge, Tailscale-safe access, iOS endpoint/token defaults, and troubleshooting for ATS/auth/sync issues. Use when setting up a new machine, rotating tokens, fixing ClawPulse connectivity, or enabling assistant name + token usage + thought metadata in status responses.",
+  "version": "2.0.4",
+  "author": {
+    "name": "virtual-ny"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/virtual-ny/clawpulse-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/virtual-ny/clawpulse-bridge"
+}

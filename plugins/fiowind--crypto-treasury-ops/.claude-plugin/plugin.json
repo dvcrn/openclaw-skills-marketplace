@@ -1,0 +1,10 @@
+{
+  "name": "fiowind--crypto-treasury-ops",
+  "description": "Safely manage EVM treasury operations and native Hyperliquid trading for OpenClaw agents, including wallet balance checks, guarded token transfers, cross-chain USDC bridging, Hyperliquid deposits, destination gas top-ups, trading safety, and structured quoting.",
+  "version": "0.1.6",
+  "author": {
+    "name": "fiowind"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fiowind/crypto-treasury-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fiowind/crypto-treasury-ops"
+}

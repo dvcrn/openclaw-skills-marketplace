@@ -1,0 +1,10 @@
+{
+  "name": "madsmith--wekan-openclaw-skill",
+  "description": "Manage a self-hosted Trello-like board via `wekancli`.  Create, move and archive cards, lists and boards on a WeKan server. Use when user asks about task boards or anything Trelo-like.  Not for: Github issues or simple reminders.",
+  "version": "1.5.0",
+  "author": {
+    "name": "madsmith"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/madsmith/wekan-openclaw-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/madsmith/wekan-openclaw-skill"
+}

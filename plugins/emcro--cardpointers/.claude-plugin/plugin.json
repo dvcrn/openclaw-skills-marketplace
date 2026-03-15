@@ -1,0 +1,10 @@
+{
+  "name": "emcro--cardpointers",
+  "description": "Query CardPointers card recommendations, wallet cards, and offers via the CardPointers CLI. Use when the user asks about which credit card to use for a purchase or category, listing their cards or wallet, viewing or filtering or searching card offers, checking expiring offers, comparing cards across linked profiles, or any credit card rewards optimization question. Requires a CardPointers+ (Pro) subscription.",
+  "version": "1.0.0",
+  "author": {
+    "name": "emcro"
+  },
+  "homepage": "https://cardpointers.com/cli/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/emcro/cardpointers"
+}

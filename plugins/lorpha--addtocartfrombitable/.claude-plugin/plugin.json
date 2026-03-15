@@ -1,0 +1,10 @@
+{
+  "name": "lorpha--addtocartfrombitable",
+  "description": "从飞书Bitable表格获取商品信息（链接、规格、数量），然后通过浏览器自动化将其加入天猫/淘宝购物车。触发词：加购物车、Bitable商品、批量加购、采购表格。",
+  "version": "1.0.0",
+  "author": {
+    "name": "lorpha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lorpha/addtocartfrombitable",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lorpha/addtocartfrombitable"
+}

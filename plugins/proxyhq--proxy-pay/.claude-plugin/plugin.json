@@ -1,0 +1,10 @@
+{
+  "name": "proxyhq--proxy-pay",
+  "description": "Quick command to create a payment via Proxy. Usage: /proxy-pay [amount] [merchant] [description]. Creates payment intent and provisions virtual card.",
+  "version": "1.0.0",
+  "author": {
+    "name": "proxyhq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/proxyhq/proxy-pay",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/proxyhq/proxy-pay"
+}

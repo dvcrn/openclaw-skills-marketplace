@@ -1,0 +1,10 @@
+{
+  "name": "abdullah4ai--mckinsey-research",
+  "description": "Run a full McKinsey-level market research and strategy analysis using 12 specialized prompts.\n\n USE WHEN:\n - market research, competitive analysis, business strategy, TAM analysis\n - customer personas, pricing strategy, go-to-market plan, financial modeling\n - risk assessment, SWOT analysis, market entry strategy, comprehensive business analysis\n - بحث سوق, تحليل استراتيجي, تحليل منافسين, دراسة جدوى, خطة عمل\n - \"حلل لي السوق\" for business entry or investment decisions\n\n DON'T USE WHEN:\n - User wants a quick opinion on a business idea → just answer directly\n - Product recommendations or shopping → use personal-shopper\n - Content strategy for social media → use viral-equation\n - Simple web search for company info → use web_search directly\n - Comparing products to buy → use personal-shopper\n - Analyzing a single competitor briefly → just answer directly\n\n EDGE CASES:\n - \"حلل لي السوق\" with a specific product to buy → personal-shopper (not this skill)\n - \"حلل لي السوق\" for business entry → this skill\n - \"وش أفضل منتج\" → personal-shopper\n - \"وش حجم سوق X\" → this skill\n - \"قارن لي بين منتجين\" → personal-shopper\n - \"قارن لي بين شركتين\" as competitors → this skill\n - \"دراسة جدوى مشروع\" → this skill\n - \"أبغى أفتح مشروع\" → this skill (full analysis)\n - \"أبغى أشتري لابتوب\" → personal-shopper (purchase, not business)\n\n INPUTS: Business description, industry, target customer, geography, financials (optional)\n TOOLS: sessions_spawn (sub-agents), web_search, web_fetch\n OUTPUT: Complete strategy report saved to artifacts/research/{date}-{slug}.html\n SUCCESS: User gets 12 consulting-grade analyses synthesized into one actionable report",
+  "version": "2.0.3",
+  "author": {
+    "name": "abdullah4ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abdullah4ai/mckinsey-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abdullah4ai/mckinsey-research"
+}

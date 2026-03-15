@@ -1,0 +1,10 @@
+{
+  "name": "nadjihamid--android-sms-gateway",
+  "description": "Self-hosted SMS via Android phone HTTP API. Use when you need to send/receive SMS messages using an Android device as a gateway. Supports popular SMS Gateway apps (SMS Gateway API, SMSGate, etc.). Ideal for security teams wanting full control without third-party SMS providers.",
+  "version": "2.0.0",
+  "author": {
+    "name": "nadjihamid"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nadjihamid/android-sms-gateway",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nadjihamid/android-sms-gateway"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "phlegonlabs--bn-square-skill",
+  "description": "Binance Square publishing skill for AI agents. Validate session, publish posts, and check status.",
+  "version": "0.2.0",
+  "author": {
+    "name": "phlegonlabs"
+  },
+  "homepage": "https://github.com/Phlegonlabs/bn-square-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phlegonlabs/bn-square-skill"
+}

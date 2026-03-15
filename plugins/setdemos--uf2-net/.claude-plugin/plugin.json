@@ -1,0 +1,10 @@
+{
+  "name": "setdemos--uf2-net",
+  "description": "Create, manage, and track short URLs using uf2.net API-first URL shortener. Use when: (1) shortening URLs for sharing or tracking, (2) creating custom short links with branded slugs, (3) managing existing short links (list/delete/stats), (4) tracking click counts on shortened URLs. Links never expire and support custom slugs. Service: uf2.net (https://uf2.net) - API-first URL shortener for bots and engineers.",
+  "version": "1.0.1",
+  "author": {
+    "name": "setdemos"
+  },
+  "homepage": "https://uf2.net",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/setdemos/uf2-net"
+}

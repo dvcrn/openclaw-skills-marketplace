@@ -1,0 +1,10 @@
+{
+  "name": "jackeven02--email-reader",
+  "description": "邮件读取与管理技能 - 让 AI 能够读取、汇总、发送邮件。当用户要求查看邮件、汇总未读、发送邮件通知时触发此技能。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jackeven02"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jackeven02/email-reader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jackeven02/email-reader"
+}

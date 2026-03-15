@@ -1,0 +1,10 @@
+{
+  "name": "mrnicholasbcarter-code--openrouter-perplexity",
+  "description": "Search the web with AI-powered answers via Perplexity API. Returns grounded responses with citations. Supports batch queries.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrnicholasbcarter-code"
+  },
+  "homepage": "https://openrouter.ai/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrnicholasbcarter-code/openrouter-perplexity"
+}

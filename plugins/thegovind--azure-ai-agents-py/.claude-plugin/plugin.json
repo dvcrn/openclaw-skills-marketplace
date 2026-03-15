@@ -1,0 +1,10 @@
+{
+  "name": "thegovind--azure-ai-agents-py",
+  "description": "Build AI agents using the Azure AI Agents Python SDK (azure-ai-agents). Use when creating agents hosted on Azure AI Foundry with tools (File Search, Code Interpreter, Bing Grounding, Azure AI Search, Function Calling, OpenAPI, MCP), managing threads and messages, implementing streaming responses, or working with vector stores. This is the low-level SDK - for higher-level abstractions, use the agent-framework skill instead.",
+  "version": "0.1.0",
+  "author": {
+    "name": "thegovind"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thegovind/azure-ai-agents-py",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thegovind/azure-ai-agents-py"
+}

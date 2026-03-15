@@ -1,0 +1,10 @@
+{
+  "name": "leegitw--neon-soul",
+  "description": "Automated soul synthesis for AI agents. Extracts identity from memory files, promotes recurring patterns to axioms (N>=3), generates SOUL.md with full provenance tracking. Bundled processing engine — no manual Q&A needed.",
+  "version": "0.4.5",
+  "author": {
+    "name": "leegitw"
+  },
+  "homepage": "https://liveneon.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leegitw/neon-soul"
+}

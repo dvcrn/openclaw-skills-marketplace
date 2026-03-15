@@ -1,0 +1,10 @@
+{
+  "name": "autogame-17--feishu-doc",
+  "description": "Fetch content from Feishu (Lark) Wiki, Docs, Sheets, and Bitable. Automatically resolves Wiki URLs to real entities and converts content to Markdown.",
+  "version": "1.2.7",
+  "author": {
+    "name": "autogame-17"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-doc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-doc"
+}

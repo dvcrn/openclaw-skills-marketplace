@@ -1,0 +1,10 @@
+{
+  "name": "meirkad--bright-data",
+  "description": "Web scraping and search via Bright Data API. Requires BRIGHTDATA_API_KEY and BRIGHTDATA_UNLOCKER_ZONE. Use for scraping any webpage as markdown (bypassing bot detection/CAPTCHA) or searching Google with structured results.",
+  "version": "1.0.0",
+  "author": {
+    "name": "meirkad"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/meirkad/bright-data",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/meirkad/bright-data"
+}

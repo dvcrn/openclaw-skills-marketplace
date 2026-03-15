@@ -1,0 +1,15 @@
+fetch:
+  count: 50
+
+filter:
+  mode: "topN"
+  topN: 20
+  minScore: 50
+  lang: []
+  excludeRetweets: false
+  weights:
+    likes: 1.0
+    retweets: 3.0
+    replies: 2.0
+    bookmarks: 5.0
+    views_log: 0.5

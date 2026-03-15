@@ -1,0 +1,10 @@
+{
+  "name": "runawaydevil--klaus-ioc-scan",
+  "description": "Analisa URLs/domínios/IPs (IOC): reputação + virus scan usando VirusTotal e AbuseIPDB",
+  "version": "1.0.0",
+  "author": {
+    "name": "runawaydevil"
+  },
+  "homepage": "https://docs.virustotal.com/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runawaydevil/klaus-ioc-scan"
+}

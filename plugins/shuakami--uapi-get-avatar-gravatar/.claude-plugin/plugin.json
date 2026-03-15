@@ -1,0 +1,10 @@
+{
+  "name": "shuakami--uapi-get-avatar-gravatar",
+  "description": "使用 UAPI 的“获取Gravatar头像”单接口 skill，处理 获取Gravatar头像、头像获取 等请求。 Use when the user wants get avatar gravatar, avatar gravatar, gravatar, avatar lookup, or when you need to call GET /avatar/gravatar directly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shuakami"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-avatar-gravatar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shuakami/uapi-get-avatar-gravatar"
+}

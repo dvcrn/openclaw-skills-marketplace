@@ -1,0 +1,10 @@
+{
+  "name": "ooliuhao--docx-to-md",
+  "description": "将Word文档(.docx)转换为Markdown格式并提取图片。使用此技能当用户需要:(1)将Word文档转换为Markdown格式,(2)从Word文档中提取图片,(3)同时完成文档格式转换和图片提取任务。",
+  "version": "1.0.0",
+  "author": {
+    "name": "ooliuhao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ooliuhao/docx-to-md",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ooliuhao/docx-to-md"
+}

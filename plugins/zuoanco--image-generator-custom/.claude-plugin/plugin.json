@@ -1,0 +1,10 @@
+{
+  "name": "zuoanco--image-generator-custom",
+  "description": "调用第三方图像生成API生成图片；当用户需要通过自定义服务商API生成图像时使用",
+  "version": "0.0.2",
+  "author": {
+    "name": "zuoanco"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zuoanco/image-generator-custom",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zuoanco/image-generator-custom"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jack-atlas--iemail-send",
+  "description": "Send transactional email via Iemail OpenAPI. Configure via OpenClaw skill env only.",
+  "version": "1.0.4",
+  "author": {
+    "name": "jack-atlas"
+  },
+  "homepage": "https://app.dmartech.cn/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jack-atlas/iemail-send"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zich-agent--gated-alpha",
+  "description": "Discover, filter, and purchase structured crypto alpha calls from Gated Alpha. Supports push delivery via webhooks (recommended) or direct polling. Pay-per-call via x402 on Base (USDC). Owner payouts fire onchain within seconds of each purchase.",
+  "version": "3.0.0",
+  "author": {
+    "name": "zich-agent"
+  },
+  "homepage": "https://www.gatedalpha.xyz",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zich-agent/gated-alpha"
+}

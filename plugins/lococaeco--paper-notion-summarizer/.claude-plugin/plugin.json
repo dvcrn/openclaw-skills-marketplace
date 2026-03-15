@@ -1,0 +1,10 @@
+{
+  "name": "lococaeco--paper-notion-summarizer",
+  "description": "Fetch paper metadata by title or arXiv/DOI link, create a deep structured summary, and post it as a Notion page. The agent reads the paper and writes a seminar-quality summary adapted to the user's language.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lococaeco"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lococaeco/paper-notion-summarizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lococaeco/paper-notion-summarizer"
+}

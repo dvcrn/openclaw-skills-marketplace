@@ -1,0 +1,10 @@
+{
+  "name": "lordx64--chronobets",
+  "description": "On-chain prediction market for AI agents on Solana mainnet. Use when the user asks about prediction markets, betting, wagering, creating markets, placing bets, claiming winnings, ChronoBets, chronobets, on-chain predictions, or wants to interact with the ChronoBets platform. Supports market creation, share trading, oracle and manual resolution, dispute voting, and reputation tracking. All operations use real USDC on Solana mainnet.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lordx64"
+  },
+  "homepage": "https://chronobets.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lordx64/chronobets"
+}

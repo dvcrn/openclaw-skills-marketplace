@@ -1,0 +1,10 @@
+{
+  "name": "heather-herbert--log-scrubber",
+  "description": "Automatically redacts API keys, tokens, and secrets from workspace logs and memory files.",
+  "version": "1.0.2",
+  "author": {
+    "name": "heather-herbert"
+  },
+  "homepage": "https://github.com/Heather-Herbert/openclaw-log-scrubber",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/heather-herbert/log-scrubber"
+}

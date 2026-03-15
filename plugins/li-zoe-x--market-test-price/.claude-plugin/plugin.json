@@ -1,0 +1,10 @@
+{
+  "name": "li-zoe-x--market-test-price",
+  "description": "Fetch token prices from OKX DEX Market Price API (v6). Use this skill when a user wants to: 1. Get the latest price of one or more tokens on supported EVM/Solana chains 2. Batch query token prices (up to 100 tokens per request) for portfolios or UIs 3. Build applications that need real-time DEX market price data Core value: Correct authenticated POST requests with JSON body, HMAC-SHA256 signing including body in prehash, and proper handling of batch request/response.",
+  "version": "1.0.0",
+  "author": {
+    "name": "li-zoe-x"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/li-zoe-x/market-test-price",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/li-zoe-x/market-test-price"
+}

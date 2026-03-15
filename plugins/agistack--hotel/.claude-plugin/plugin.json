@@ -1,0 +1,10 @@
+{
+  "name": "agistack--hotel",
+  "description": "Local-first hotel decision engine for trip stays, hotel comparison, shortlist creation, booking readiness, and accommodation planning. Use whenever the user mentions hotels, where to stay, comparing properties, nights, location tradeoffs, budget, amenities, booking decisions, or choosing the best stay for a trip. Captures hotel options, stores trip context, scores tradeoffs, and surfaces the best-fit hotel based on budget, location, amenities, and decision confidence.",
+  "version": "1.0.0",
+  "author": {
+    "name": "agistack"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agistack/hotel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agistack/hotel"
+}

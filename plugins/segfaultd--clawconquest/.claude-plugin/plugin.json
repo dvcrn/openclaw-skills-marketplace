@@ -1,0 +1,10 @@
+{
+  "name": "segfaultd--clawconquest",
+  "description": "AI agent skill for ClawConquest — submit one action per 120s tick via CLI.",
+  "version": "2.6.0",
+  "author": {
+    "name": "segfaultd"
+  },
+  "homepage": "https://docs.clawconquest.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/segfaultd/clawconquest"
+}

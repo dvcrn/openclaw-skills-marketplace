@@ -1,0 +1,10 @@
+{
+  "name": "venkatalokesh-dot--sf-scrapper",
+  "description": "Scrape employee data from a logged-in SAP SuccessFactors browser session using browser automation. Use when: user provides an employee ID and wants employee details (name, email, department, manager, etc.) scraped directly from the SuccessFactors UI — NOT via OData/API. Requires the user to have SuccessFactors open and logged in via Chrome with the OpenClaw Browser Relay extension attached. Triggers on: \"get employee name\", \"look up employee\", \"scrape SF\", \"find employee in SuccessFactors\", or any request combining an employee ID with SuccessFactors data lookup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "venkatalokesh-dot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/venkatalokesh-dot/sf-scrapper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/venkatalokesh-dot/sf-scrapper"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wanng-ide--arxiv-skill-extractor",
+  "description": "Automates the process of extracting reusable skill code from arXiv papers. Use this skill to turn paper insights into actual OpenClaw skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wanng-ide"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/arxiv-skill-extractor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/arxiv-skill-extractor"
+}

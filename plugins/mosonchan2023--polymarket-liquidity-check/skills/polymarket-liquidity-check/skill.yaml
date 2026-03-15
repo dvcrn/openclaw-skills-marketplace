@@ -1,0 +1,12 @@
+name: polymarket-liquidity-check
+version: 1.0.0
+description: Check liquidity depth and spread for prediction markets
+category: Polymarket
+tags:
+  - polymarket
+  - liquidity
+  - spread
+  - depth
+author: mosonchan2023
+price: 0.001
+currency: USDT

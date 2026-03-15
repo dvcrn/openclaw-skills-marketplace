@@ -1,0 +1,10 @@
+{
+  "name": "abstrct--structs-onboarding",
+  "description": "Onboards a new player into Structs. Handles key creation/recovery, player creation (via reactor-infuse or guild signup), planet exploration, and initial infrastructure builds. Use when starting fresh, setting up a new agent, creating a player, claiming first planet, or building initial infrastructure. Build times range from ~17 min (Command Ship) to ~57 min (Ore Extractor/Refinery).",
+  "version": "1.2.1",
+  "author": {
+    "name": "abstrct"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abstrct/structs-onboarding",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abstrct/structs-onboarding"
+}

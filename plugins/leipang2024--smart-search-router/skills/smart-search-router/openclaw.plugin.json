@@ -1,0 +1,65 @@
+{
+  "id": "smart-search-router",
+  "kind": "search",
+  "uiHints": {
+    "searxng": {
+      "label": "SearXNG Configuration",
+      "advanced": true
+    },
+    "searxng.baseUrl": {
+      "label": "SearXNG Base URL",
+      "placeholder": "YOUR_SEARXNG_URL",
+      "help": "Your SearXNG instance URL (required)"
+    },
+    "searxng.engines": {
+      "label": "Search Engines",
+      "placeholder": "google,bing,duckduckgo"
+    },
+    "gemini": {
+      "label": "Gemini Configuration",
+      "advanced": true
+    },
+    "gemini.apiKey": {
+      "label": "Gemini API Key",
+      "sensitive": true
+    },
+    "complexityThreshold": {
+      "label": "Complexity Threshold",
+      "placeholder": "0.6",
+      "help": "Queries above this complexity use Gemini (0-1)"
+    },
+    "useGeminiForComplex": {
+      "label": "Use Gemini for Complex",
+      "help": "Enable Gemini Search for complex queries"
+    }
+  },
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "searxng": {
+        "type": "object",
+        "properties": {
+          "baseUrl": { "type": "string" },
+          "engines": { "type": "string" },
+          "language": { "type": "string" }
+        }
+      },
+      "gemini": {
+        "type": "object",
+        "properties": {
+          "apiKey": { "type": "string" }
+        }
+      },
+      "complexityThreshold": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "useGeminiForComplex": {
+        "type": "boolean"
+      }
+    },
+    "required": []
+  }
+}

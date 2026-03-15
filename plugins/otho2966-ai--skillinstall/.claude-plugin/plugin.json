@@ -1,0 +1,10 @@
+{
+  "name": "otho2966-ai--skillinstall",
+  "description": "Install OpenClaw skills from clawhub.ai ZIP files with automatic detection, validation, and Gateway updates. Supports file search, duplicate checking, and interactive selection when multiple files are found.",
+  "version": "1.0.0",
+  "author": {
+    "name": "otho2966-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/otho2966-ai/skillinstall",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/otho2966-ai/skillinstall"
+}

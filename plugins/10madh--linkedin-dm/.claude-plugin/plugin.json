@@ -1,0 +1,10 @@
+{
+  "name": "10madh--linkedin-dm",
+  "description": "Send personalized LinkedIn direct messages to a list of existing 1st-degree connections via browser automation. Use when the user wants to message LinkedIn connections with AI-personalized outreach — e.g. nurturing leads, following up after events, reconnecting with contacts, or announcing something. Takes a data file (CSV/TSV) or plain list with connection names and companies, asks for outreach context/goal, generates a tailored message per person, and sends each one via browser automation. Handles message compose flow, character limits, and incremental status tracking.",
+  "version": "1.0.0",
+  "author": {
+    "name": "10madh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/10madh/linkedin-dm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/10madh/linkedin-dm"
+}

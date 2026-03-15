@@ -1,0 +1,10 @@
+{
+  "name": "lidan-capsule--clawguard",
+  "description": "Install and configure the ClawGuard security plugin - an LLM-as-a-Judge guardrail that detects and blocks risky tool calls",
+  "version": "0.1.5",
+  "author": {
+    "name": "lidan-capsule"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lidan-capsule/clawguard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lidan-capsule/clawguard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "flarco--sling-api-specs",
+  "description": "Build REST API specifications for Sling data extraction. Use when creating API specs, configuring authentication (OAuth, API key, Bearer token, HMAC), setting up pagination (cursor, offset, page), processing responses, handling rate limits, chaining endpoints with queues, or implementing incremental sync.",
+  "version": "1.0.0",
+  "author": {
+    "name": "flarco"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/flarco/sling-api-specs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/flarco/sling-api-specs"
+}

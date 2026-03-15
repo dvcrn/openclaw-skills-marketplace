@@ -1,0 +1,10 @@
+{
+  "name": "mupengi-bot--mufi-email-manager",
+  "description": "한국형 이메일 통합 관리 도구. Gmail, 네이버, 다음, 카카오 메일을 IMAP/SMTP로 통합 관리. 읽지 않은 메일 요약, 키워드 필터링, 자동 답장, 일일 다이제스트 생성.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mupengi-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/mufi-email-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/mufi-email-manager"
+}

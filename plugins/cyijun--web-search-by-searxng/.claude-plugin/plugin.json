@@ -1,0 +1,10 @@
+{
+  "name": "cyijun--web-search-by-searxng",
+  "description": "Search using a custom SearXNG instance via HTTP API. Enables privacy-friendly web search by aggregating results from multiple search engines. Supports query, format (json/csv/rss), language, time range, categories, engines, pagination, and safe search filtering. Requires a user-provided or configured SearXNG instance URL.",
+  "version": "0.1.2",
+  "author": {
+    "name": "cyijun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cyijun/web-search-by-searxng",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cyijun/web-search-by-searxng"
+}

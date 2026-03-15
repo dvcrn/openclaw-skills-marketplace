@@ -1,0 +1,67 @@
+{
+  "tools": [
+    {
+      "name": "collect-metrics",
+      "description": "Collect current CPU and memory metrics from top processes and save to SQLite database. Read-only system access, no network.",
+      "type": "exec",
+      "command": ["python", "{skillDir}/monitoring.py", "--collect"],
+      "input": {
+        "type": "object",
+        "properties": {}
+      },
+      "security": {
+        "network": false,
+        "filesystem": "write-skill-dir-only",
+        "credentials": false
+      }
+    },
+    {
+      "name": "generate-report",
+      "description": "Generate Excel report from the latest metrics in the database. Local file write only.",
+      "type": "exec",
+      "command": ["python", "{skillDir}/monitoring.py", "--report"],
+      "input": {
+        "type": "object",
+        "properties": {
+          "filename": {
+            "type": "string",
+            "description": "Output Excel filename",
+            "default": "system_report.xlsx"
+          }
+        }
+      },
+      "security": {
+        "network": false,
+        "filesystem": "write-skill-dir-only",
+        "credentials": false
+      }
+    },
+    {
+      "name": "show-metrics",
+      "description": "Display recent metrics from the database. Read-only operation.",
+      "type": "exec",
+      "command": ["python", "{skillDir}/monitoring.py", "--show"],
+      "input": {
+        "type": "object",
+        "properties": {
+          "limit": {
+            "type": "number",
+            "description": "Number of records to show",
+            "default": 10
+          },
+          "type": {
+            "type": "string",
+            "description": "Metric type: cpu, memory, or both",
+            "enum": ["cpu", "memory", "both"],
+            "default": "both"
+          }
+        }
+      },
+      "security": {
+        "network": false,
+        "filesystem": "read-only",
+        "credentials": false
+      }
+    }
+  ]
+}

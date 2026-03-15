@@ -1,0 +1,10 @@
+{
+  "name": "romainsantoli-web--firm-security-audit",
+  "description": "Audit de sécurité proactif des déploiements OpenClaw. Détecte et remédie aux 4 gaps critiques/hauts identifiés dans openclaw/openclaw : SQL injection (C1), sandbox off par défaut (C2), session secret éphémère (C3), absence de rate limiting (H8), et documentation sécurité incomplète (M10).",
+  "version": "1.0.0",
+  "author": {
+    "name": "romainsantoli-web"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-security-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-security-audit"
+}

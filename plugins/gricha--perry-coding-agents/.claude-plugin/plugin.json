@@ -1,0 +1,10 @@
+{
+  "name": "gricha--perry-coding-agents",
+  "description": "Dispatch coding tasks to OpenCode or Claude Code on Perry workspaces. Use for development work, PR reviews, or any coding task requiring an isolated environment.",
+  "version": "1.5.0",
+  "author": {
+    "name": "gricha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gricha/perry-coding-agents",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gricha/perry-coding-agents"
+}

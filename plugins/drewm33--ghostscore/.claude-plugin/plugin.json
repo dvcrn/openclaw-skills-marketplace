@@ -1,0 +1,10 @@
+{
+  "name": "drewm33--ghostscore",
+  "description": "Private reputation scoring for AI agents — query on-chain credit tiers earned via x402 micropayments through Unlink shielded transfers on Monad, and verify tier proofs via zero-knowledge attestations.",
+  "version": "1.0.3",
+  "author": {
+    "name": "drewm33"
+  },
+  "homepage": "https://github.com/drewM33/ghostscore",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/drewm33/ghostscore"
+}

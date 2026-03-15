@@ -1,0 +1,10 @@
+{
+  "name": "windseeker1111--flow-voice",
+  "description": "Clone any voice from a short audio sample and generate speech with it. Powered by LuxTTS (150x realtime, local, free, no API key). Use when asked to clone a voice, generate a voiceover, add speech to a video, or bake audio into an animation. Supports wav/mp3 input, 48kHz output. Works on CPU and MPS (Apple Silicon).",
+  "version": "1.0.0",
+  "author": {
+    "name": "windseeker1111"
+  },
+  "homepage": "https://github.com/ysharma3501/LuxTTS",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/windseeker1111/flow-voice"
+}

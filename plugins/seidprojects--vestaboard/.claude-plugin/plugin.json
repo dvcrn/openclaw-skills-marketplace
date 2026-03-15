@@ -1,0 +1,10 @@
+{
+  "name": "seidprojects--vestaboard",
+  "description": "Read and write messages on a Vestaboard using the Vestaboard Cloud API (cloud.vestaboard.com) and optional legacy RW endpoint. Use when asked to display text on a Vestaboard, update a sign/board, show a short status message, render simple pixel-art using color/filled character codes, or retrieve the current board message.",
+  "version": "1.0.0",
+  "author": {
+    "name": "seidprojects"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seidprojects/vestaboard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seidprojects/vestaboard"
+}

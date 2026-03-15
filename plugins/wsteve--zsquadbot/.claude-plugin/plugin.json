@@ -1,0 +1,10 @@
+{
+  "name": "wsteve--zsquadbot",
+  "description": "Comprehensive quadruped robot development skill covering motor control, sensor data processing, locomotion patterns, and debugging workflows. Use when working with legged robots (e.g., Unitree Go1, ANYmal, custom four-legged designs) for tasks like: motor control commands, IMU/encoder data handling, motion planning, walking/running gaits, sensor fusion, system diagnostics, or protocol communication (CAN bus, UART, EtherCAT).",
+  "version": "1.0.0",
+  "author": {
+    "name": "wsteve"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wsteve/zsquadbot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wsteve/zsquadbot"
+}

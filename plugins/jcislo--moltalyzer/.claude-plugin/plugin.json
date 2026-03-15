@@ -1,0 +1,10 @@
+{
+  "name": "jcislo--moltalyzer",
+  "description": "Fetch trending topics, sentiment, and narratives from Moltbook (hourly), discover hot new GitHub repos and emerging tools (daily), detect Polymarket prediction markets with predetermined outcome signals (every 4 hours), or get real-time token intelligence signals for new crypto tokens (every 4 min). Four data feeds. x402 micropayments, no API key needed.",
+  "version": "1.7.1",
+  "author": {
+    "name": "jcislo"
+  },
+  "homepage": "https://moltalyzer.xyz",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jcislo/moltalyzer"
+}

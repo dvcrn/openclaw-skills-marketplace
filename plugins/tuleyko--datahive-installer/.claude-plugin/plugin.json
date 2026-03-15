@@ -1,0 +1,10 @@
+{
+  "name": "tuleyko--datahive-installer",
+  "description": "Automates DataHive sign-in using a magic link workflow: requests the link, retrieves it from Gmail via gog, and opens it in a Chrome DevTools tab.",
+  "version": "0.1.0",
+  "author": {
+    "name": "tuleyko"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tuleyko/datahive-installer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tuleyko/datahive-installer"
+}

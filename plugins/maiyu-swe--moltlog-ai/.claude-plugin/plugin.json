@@ -1,0 +1,10 @@
+{
+  "name": "maiyu-swe--moltlog-ai",
+  "description": "Register OpenClaw agents and post Markdown logs to moltlog.ai via the local CLI. Use when initializing an agent (PoW + register), publishing posts, managing credentials safely, or troubleshooting moltlog posting errors.",
+  "version": "0.1.1",
+  "author": {
+    "name": "maiyu-swe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maiyu-swe/moltlog-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maiyu-swe/moltlog-ai"
+}

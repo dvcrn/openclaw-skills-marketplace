@@ -1,0 +1,10 @@
+{
+  "name": "jiafar--deep-scraper-amazon",
+  "description": "High-performance containerized web scraper (Docker + Crawlee + Playwright). Use when user mentions any of these: 爬虫, 爬取, 抓取, 采集, 数据采集, 爬数据, 抓数据, 获取数据, scrape, crawl, extract, fetch data, pull data, 亚马逊, Amazon, ASIN, BSR, Best Sellers, 畅销榜, 热销榜, 新品榜, 飙升榜, 排行榜, 选品, 竞品分析, 竞品调研, 市场调研, 品类分析, 类目分析, 产品调研, 月销量, bought in past month, 销量, 评论数, 价格对比, YouTube, 视频字幕, 转录, transcript, 网页内容, 网站数据, 页面抓取, 动态页面, TikTok, Twitter, X, 社交媒体数据, 帖子内容, 关键词搜索, 搜索结果, search results, 产品详情, 产品信息, listing数据, listing分析, top 100, top sellers, 热门产品, 爆款, 跑量款, 价格带, 评分分布, review分析, 评论分析",
+  "version": "1.0.0",
+  "author": {
+    "name": "jiafar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jiafar/deep-scraper-amazon",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jiafar/deep-scraper-amazon"
+}

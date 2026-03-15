@@ -1,0 +1,10 @@
+{
+  "name": "theshadowrose--canary-sr",
+  "description": "Safety monitoring and tripwire detection for AI agents. Protects against unauthorized file access, dangerous commands, and excessive activity. Auto-halts on critical violations. Honeypot tripwires detect snooping.",
+  "version": "1.0.8",
+  "author": {
+    "name": "theshadowrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/canary-sr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theshadowrose/canary-sr"
+}

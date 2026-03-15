@@ -1,0 +1,10 @@
+{
+  "name": "codeblackhole1024--expense-tracker-v2",
+  "description": "Track expenses and income with multi-backend storage (local/Notion/Google Sheet/Supabase). Credentials are encrypted with AES-256-GCM. Use when user wants to record expenses, view transaction history, or check monthly spending statistics.",
+  "version": "1.1.0",
+  "author": {
+    "name": "codeblackhole1024"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codeblackhole1024/expense-tracker-v2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codeblackhole1024/expense-tracker-v2"
+}

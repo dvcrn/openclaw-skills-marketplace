@@ -1,0 +1,10 @@
+{
+  "name": "zqqian--astro-arxiv-search",
+  "description": "Retrieve astronomy and astrophysics papers from the user's arXiv mirror API. Use when Codex needs to list papers from a given arXiv day, find papers related to an astronomy topic over a recent period, find papers similar to a given arXiv paper, or fetch details for a specific arXiv ID. Prioritize this API whenever the user wants astronomy paper discovery or lookup; if the API is unavailable or unusable, fall back to other available search methods. Default to an astronomy-researcher audience and interpret ambiguous topics in an astronomy context unless the user says otherwise.",
+  "version": "1.0.1",
+  "author": {
+    "name": "zqqian"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zqqian/astro-arxiv-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zqqian/astro-arxiv-search"
+}

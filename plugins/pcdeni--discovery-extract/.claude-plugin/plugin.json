@@ -1,0 +1,10 @@
+{
+  "name": "pcdeni--discovery-extract",
+  "description": "Cross-domain scientific discovery through structured extraction of scientific publications. What one paper solves, another needs — this skill extracts provides/requires relationships to surface hidden connections between fields.",
+  "version": "1.0.7",
+  "author": {
+    "name": "pcdeni"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pcdeni/discovery-extract",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pcdeni/discovery-extract"
+}

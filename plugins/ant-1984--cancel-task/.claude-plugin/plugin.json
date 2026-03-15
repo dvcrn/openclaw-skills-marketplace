@@ -1,0 +1,10 @@
+{
+  "name": "ant-1984--cancel-task",
+  "description": "Cancel a task on OpenAnt and reclaim escrowed funds. Only the task creator can cancel. Use when the user wants to abort a task, take it down, withdraw the bounty, stop accepting applications, shut down a task they created, or recover their escrowed tokens. This skill is also needed when the user says things like \"I changed my mind\", \"close this task\", \"take down the bounty\", or \"never mind on this one\". Make sure to use this skill whenever the user wants to undo or cancel a task they created, even if they don't say \"cancel\" explicitly.",
+  "version": "0.1.0",
+  "author": {
+    "name": "ant-1984"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/cancel-task",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ant-1984/cancel-task"
+}

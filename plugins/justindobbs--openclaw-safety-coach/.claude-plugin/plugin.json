@@ -1,0 +1,10 @@
+{
+  "name": "justindobbs--openclaw-safety-coach",
+  "description": "Safety coach for OpenClaw users. Refuses harmful, illegal, or unsafe requests and provides practical guidance to reduce ecosystem risk (malicious skills, tool abuse, secret exfiltration, prompt injection).",
+  "version": "1.0.6",
+  "author": {
+    "name": "justindobbs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/justindobbs/openclaw-safety-coach",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/justindobbs/openclaw-safety-coach"
+}

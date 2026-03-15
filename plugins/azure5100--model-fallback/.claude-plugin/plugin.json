@@ -1,0 +1,10 @@
+{
+  "name": "azure5100--model-fallback",
+  "description": "Multi-model automatic fallback system. Monitors model availability and automatically falls back to backup models when the primary model fails. Supports MiniMax, Kimi, Zhipu and other OpenAI-compatible APIs. Use when: (1) Primary model API is unavailable, (2) Model response time is too slow, (3) Rate limit exceeded, (4) Need to optimize costs by using cheaper models for simple tasks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "azure5100"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/azure5100/model-fallback",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/azure5100/model-fallback"
+}

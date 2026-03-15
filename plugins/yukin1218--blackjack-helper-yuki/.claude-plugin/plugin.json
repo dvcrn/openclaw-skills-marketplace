@@ -1,0 +1,10 @@
+{
+  "name": "yukin1218--blackjack-helper-yuki",
+  "description": "Blackjack (21点) decision assistant. Provides optimal action recommendations based on player's hand and dealer's upcard:\n Hit, Stand, Double, Split, Surrender.\n \n Triggered by: 21点, Blackjack, 二十一, Blackjack,  블랙잭, ブラックジャック, Vingt-et-un, Veintiuno, etc.",
+  "version": "1.3.0",
+  "author": {
+    "name": "yukin1218"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yukin1218/blackjack-helper-yuki",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yukin1218/blackjack-helper-yuki"
+}

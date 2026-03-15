@@ -1,0 +1,10 @@
+{
+  "name": "globalcaos--smart-model-router",
+  "description": "Stop sending 'format this JSON' to Opus. Stop sending 'redesign the auth system' to Haiku. Smart Model Router picks the right brain for every task — decision tree, cost tiers, and an optional cheap-model classifier for the ambiguous ones.",
+  "version": "1.2.0",
+  "author": {
+    "name": "globalcaos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/smart-model-router",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/smart-model-router"
+}

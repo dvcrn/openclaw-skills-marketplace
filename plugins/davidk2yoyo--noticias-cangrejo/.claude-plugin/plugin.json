@@ -1,0 +1,10 @@
+{
+  "name": "davidk2yoyo--noticias-cangrejo",
+  "description": "Fetch and summarize recent news articles from GNews for any user-provided topic, then produce a Markdown digest with date, greeting, and top links.",
+  "version": "1.0.4",
+  "author": {
+    "name": "davidk2yoyo"
+  },
+  "homepage": "https://gnews.io/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davidk2yoyo/noticias-cangrejo"
+}

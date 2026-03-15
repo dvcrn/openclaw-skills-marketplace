@@ -1,0 +1,10 @@
+{
+  "name": "valenciajenkins97-create--nova-invoice-generator",
+  "description": "Generate a professional invoice from natural language or structured input.\n\n USE WHEN:\n - User asks to create an invoice, bill, or payment request\n - User provides line items, client details, or says \"invoice [client] for [work]\"\n - User wants a receipt or proof of payment document\n\n DON'T USE WHEN:\n - User wants a quote, estimate, or proposal (different document structure and intent)\n - User wants to track invoices, manage accounts receivable, or build an invoicing system\n - User wants a contract or agreement (use a contract/legal template instead)\n - User wants to send an invoice via email (this generates the document; sending is a separate step)\n - User wants a recurring billing setup or subscription management\n\n OUTPUTS: Single self-contained .html file, print-ready. User opens in browser → Print → Save as PDF. Clean, professional layout.\n\n INPUTS: Sender info, client info, line items (description + qty + price). Optional: invoice number, dates, tax rate, notes, payment terms.",
+  "version": "1.0.0",
+  "author": {
+    "name": "valenciajenkins97-create"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/valenciajenkins97-create/nova-invoice-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/valenciajenkins97-create/nova-invoice-generator"
+}

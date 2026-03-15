@@ -1,0 +1,10 @@
+{
+  "name": "sieershafilone--agent-doppelganger",
+  "description": "Constrained autonomous delegate for identity-proxied communication. Handles incoming messages (Email, Discord, Slack, WhatsApp) by analyzing intent and applying declarative authority policies before generating responses. Use when the user wants to delegate communication tasks while maintaining identity fidelity and enforcing strict non-overreach boundaries.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sieershafilone"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sieershafilone/agent-doppelganger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sieershafilone/agent-doppelganger"
+}

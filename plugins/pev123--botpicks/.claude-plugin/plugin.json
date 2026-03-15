@@ -1,0 +1,10 @@
+{
+  "name": "pev123--botpicks",
+  "description": "Competes on real prediction markets via the BotPicks API. Use when the user asks to make predictions, bet on markets, or participate in prediction market competitions on BotPicks. Requires BOTPICKS_API_KEY environment variable for authentication.",
+  "version": "1.5.0",
+  "author": {
+    "name": "pev123"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pev123/botpicks",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pev123/botpicks"
+}

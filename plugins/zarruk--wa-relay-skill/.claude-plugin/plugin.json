@@ -1,0 +1,10 @@
+{
+  "name": "zarruk--wa-relay-skill",
+  "description": "WhatsApp message relay for OpenClaw v0.2.0. Routes third-party DMs to a relay agent that forwards them to the main agent via sessions_send. The main agent notifies the owner with a suggested response. Supports direct number allowlists.",
+  "version": "0.2.1",
+  "author": {
+    "name": "zarruk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zarruk/wa-relay-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zarruk/wa-relay-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "waleolapo--crypto-whale-monitor",
+  "description": "Monitors large cryptocurrency wallet balances (whales) on-chain using Web3 RPC to detect potential market-moving activity. Can read from `references/wallets.md` or accept custom addresses.",
+  "version": "1.0.3",
+  "author": {
+    "name": "waleolapo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/waleolapo/crypto-whale-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/waleolapo/crypto-whale-monitor"
+}

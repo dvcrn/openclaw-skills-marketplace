@@ -1,0 +1,10 @@
+{
+  "name": "zfanmy--skill-from-memory",
+  "description": "Convert memory, conversation history, or completed tasks into publishable OpenClaw skills. Use when (1) A task or workflow should be reusable, (2) Extracting lessons from memory to create tools, (3) Packaging solved problems as skills for future use, (4) Publishing skills to GitHub and ClawHub registry.",
+  "version": "0.1.2",
+  "author": {
+    "name": "zfanmy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zfanmy/skill-from-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zfanmy/skill-from-memory"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "abdelkrim--atlassian-jira-by-altf1be",
+  "description": "Atlassian Jira Cloud CRUD skill — manage issues, comments, attachments, workflow transitions, and JQL search via Jira REST API v3 with email + API token auth.",
+  "version": "1.0.0",
+  "author": {
+    "name": "abdelkrim"
+  },
+  "homepage": "https://github.com/ALT-F1-OpenClaw/openclaw-skill-atlassian-jira",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abdelkrim/atlassian-jira-by-altf1be"
+}

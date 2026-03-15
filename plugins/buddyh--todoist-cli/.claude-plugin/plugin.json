@@ -1,0 +1,10 @@
+{
+  "name": "buddyh--todoist-cli",
+  "description": "Manage Todoist tasks, projects, labels, and sections via the `todoist` CLI. Use when a user asks to add/complete/list tasks, show today's tasks, search tasks, or manage projects.",
+  "version": "1.3.0",
+  "author": {
+    "name": "buddyh"
+  },
+  "homepage": "https://github.com/buddyh/todoist-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/buddyh/todoist-cli"
+}

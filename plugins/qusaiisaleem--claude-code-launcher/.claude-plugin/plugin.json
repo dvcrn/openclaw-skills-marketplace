@@ -1,0 +1,10 @@
+{
+  "name": "qusaiisaleem--claude-code-launcher",
+  "description": "Launch Claude Code in a new terminal window with Remote Control enabled. Use when opening a project for interactive coding sessions where you need to access and control Claude from multiple devices. Handles terminal automation, project navigation, Claude Code startup, Remote Control activation, user prompts, and screenshot capture. Supports error recovery and logs all operations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "qusaiisaleem"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qusaiisaleem/claude-code-launcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qusaiisaleem/claude-code-launcher"
+}

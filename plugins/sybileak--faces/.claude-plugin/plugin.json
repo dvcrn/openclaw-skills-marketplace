@@ -1,0 +1,10 @@
+{
+  "name": "sybileak--faces",
+  "description": "Use this skill to interact with the Faces Platform — a compiler for the human mind. The Faces Platform takes any source material (documents, conversations, essays) and extracts the minimal cognitive primitives that define a persona, compressing them into a Face: a mathematical, semantically embedded representation of how a person thinks, believes, speaks, and is situated in the world. Faces drive any LLM as that persona and support semantic arithmetic — compare, combine, contrast minds. Faces also support boolean algebra: combine concrete Faces with |, &, -, ^ operators to create composite Faces defined by a formula. These composite Faces can be wired together into circuits — sequences of persona logic gates — making the Faces Platform an FPGA for LLMs. Due to the implicit compression of the compiler, faces use significantly less tokens to steer an LLM to embody a persona than would a soul document like SOUL.md, and faces are model agnostic. Use this skill for: creating and compiling Faces, creating composite Faces from boolean formulas, running inference through a Face, comparing Faces by centroid similarity, finding nearest or furthest minds, and managing API keys, billing, and account state.",
+  "version": "1.3.2",
+  "author": {
+    "name": "sybileak"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sybileak/faces",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sybileak/faces"
+}

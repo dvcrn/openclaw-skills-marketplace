@@ -1,0 +1,10 @@
+{
+  "name": "mrgoodb--migrate",
+  "description": "Export and import Clawdbot installations for migration between machines. Use when the user wants to migrate Clawdbot to a new computer, backup their setup, or restore from a backup. Handles workspace files, config, WhatsApp sessions, and optionally credentials.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mrgoodb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/migrate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrgoodb/migrate"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hi-jiajun--openclaw-backup-hiliang",
+  "description": "自动备份 OpenClaw 本地存储配置文件。支持 Windows/Linux/Mac。\n 使用场景：(1) 定期备份配置 (2) 迁移配置 (3) 恢复配置\n \n 这是一个 OpenClaw 备份工具 skill，提供交互式配置向导。",
+  "version": "2.0.1",
+  "author": {
+    "name": "hi-jiajun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hi-jiajun/openclaw-backup-hiliang",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hi-jiajun/openclaw-backup-hiliang"
+}

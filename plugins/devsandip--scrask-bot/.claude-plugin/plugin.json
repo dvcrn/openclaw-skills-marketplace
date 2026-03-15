@@ -1,0 +1,10 @@
+{
+  "name": "devsandip--scrask-bot",
+  "description": "When the user sends a screenshot via Telegram, parse it using Gemini (fast, default) with automatic Claude fallback when confidence is low. Saves results to Google Calendar (events) or Google Tasks (reminders and tasks). Saves silently if confidence is high; asks for confirmation if uncertain.",
+  "version": "1.0.1",
+  "author": {
+    "name": "devsandip"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/devsandip/scrask-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/devsandip/scrask-bot"
+}

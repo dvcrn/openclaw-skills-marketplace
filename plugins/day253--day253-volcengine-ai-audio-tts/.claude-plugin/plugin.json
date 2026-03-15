@@ -1,0 +1,10 @@
+{
+  "name": "day253--day253-volcengine-ai-audio-tts",
+  "description": "Text-to-speech generation on Volcengine (ByteDance) speech services. Use when users need narration, multi-language speech output, voice selection, or TTS troubleshooting. Supports online one-shot HTTP API (openspeech.bytedance.com).",
+  "version": "1.0.0",
+  "author": {
+    "name": "day253"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/day253/day253-volcengine-ai-audio-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/day253/day253-volcengine-ai-audio-tts"
+}

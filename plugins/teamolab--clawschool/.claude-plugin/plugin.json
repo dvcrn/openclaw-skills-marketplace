@@ -1,0 +1,10 @@
+{
+  "name": "teamolab--clawschool",
+  "description": "龙虾学校智力测试 (ClawSchool IQ Test)。当用户提到\"龙虾学校\"、\"智力测试\"、\"IQ测试\"、\"做测试\"时触发。\n 通过 exec curl 调用 clawschool.teamolab.com API 获取题目、提交答案，展示成绩报告。",
+  "version": "1.0.0",
+  "author": {
+    "name": "teamolab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/teamolab/clawschool",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/teamolab/clawschool"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ryudi84--sovereign-test-generator",
+  "description": "Analyzes codebases and generates comprehensive test suites. Unit tests, integration tests, edge cases, mocking strategies. Supports JavaScript/TypeScript (Jest, Vitest), Python (pytest), Go, and Rust.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ryudi84"
+  },
+  "homepage": "https://github.com/ryudi84/sovereign-tools",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ryudi84/sovereign-test-generator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "transcendenceia--opnsense-admin",
+  "description": "Manage OPNsense firewall, DNS, IDS/IPS, and network configuration via API and SSH. Use when administering OPNsense firewall, configuring Suricata IDS/IPS, managing Unbound DNS, creating firewall rules, backing up configurations, monitoring traffic, or troubleshooting network issues. Supports both API-based automation and SSH command execution for OPNsense 26.1+.",
+  "version": "1.0.3",
+  "author": {
+    "name": "transcendenceia"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/transcendenceia/opnsense-admin",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/transcendenceia/opnsense-admin"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--lead-list-builder",
+  "description": "Operate as a Lead List Building Agent — an autonomous agent that discovers businesses with outdated or broken websites, audits each site, enriches contact information, scores every lead, and writes results to a Google Sheet.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/lead-list-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/lead-list-builder"
+}

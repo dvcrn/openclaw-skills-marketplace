@@ -1,0 +1,10 @@
+{
+  "name": "pseudobun--signal-cli",
+  "description": "Send Signal messages and look up Signal recipients via the local signal-cli installation on macOS. Use when the user asks to message someone on Signal, send a Signal text/attachment, list Signal contacts, or resolve a recipient by name/nickname/phone number.",
+  "version": "0.1.0",
+  "author": {
+    "name": "pseudobun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pseudobun/signal-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pseudobun/signal-cli"
+}

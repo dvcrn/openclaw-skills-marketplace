@@ -1,0 +1,10 @@
+{
+  "name": "xejrax--ssh-exec",
+  "description": "Run a single command on a remote Tailscale node via SSH without opening an interactive session.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xejrax"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xejrax/ssh-exec",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xejrax/ssh-exec"
+}

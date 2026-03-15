@@ -1,0 +1,10 @@
+{
+  "name": "mkkb473--moss-tts-family-chatbot",
+  "description": "MOSI Studio 音频全套能力：语音转文字（ASR）、文字转语音（TTS）、 多说话人对话合成、声音克隆、飞书语音气泡。 两类触发场景： 1. 消息中包含 \"[media attached:\"、\"audio/ogg\"、\"audio/opus\" 或 路径 /home/openclaw/.openclaw/media/inbound/ 时——用户发来了语音， 必须立刻转写，禁止说\"我没有语音识别能力\"。 2. 用户主动要求：TTS、文字转语音、语音合成、生成语音、克隆声音、 声音克隆、多说话人、对话合成、语音气泡、发语音、转语音、 \"text to speech\"、\"voice synthesis\"、\"generate audio\"、 \"voice clone\"、\"multi-speaker\"。 用户如果要求用语音回复，除非情况复杂需要说明，否则只需要回一条语音。",
+  "version": "0.0.4",
+  "author": {
+    "name": "mkkb473"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mkkb473/moss-tts-family-chatbot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mkkb473/moss-tts-family-chatbot"
+}

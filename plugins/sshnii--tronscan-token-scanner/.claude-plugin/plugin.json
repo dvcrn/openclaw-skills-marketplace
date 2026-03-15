@@ -1,0 +1,10 @@
+{
+  "name": "sshnii--tronscan-token-scanner",
+  "description": "Scan TRON tokens for total supply, market cap, price, rating, launch time, holders.\n Includes TRX: TRX price, TRX supply, market cap, daily net change, and supply trend.\n Use when user asks \"how is this token\", \"USDT price\", \"top holders\", \"TRX market cap\", \"token due diligence\", \"supply of contract address\", or provides a token contract address.\n Do NOT use for token list or trending rankings (use tronscan-token-list or tronscan-data-insights).",
+  "version": "1.0.7",
+  "author": {
+    "name": "sshnii"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sshnii/tronscan-token-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sshnii/tronscan-token-scanner"
+}

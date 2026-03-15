@@ -1,0 +1,10 @@
+{
+  "name": "szafranski--local-piper-tts-multilang-secure",
+  "description": "Local offline text-to-speech via Piper TTS. Self-contained setup, automatic language detection, per-call voice selection. Extensible to any language. Writes output into the OpenClaw workspace.",
+  "version": "1.1.0",
+  "author": {
+    "name": "szafranski"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/szafranski/local-piper-tts-multilang-secure",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/szafranski/local-piper-tts-multilang-secure"
+}

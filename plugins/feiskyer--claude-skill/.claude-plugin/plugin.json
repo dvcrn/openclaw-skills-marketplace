@@ -1,0 +1,10 @@
+{
+  "name": "feiskyer--claude-skill",
+  "description": "Use when user asks to leverage claude or claude code to do something (e.g. implement a feature design or review codes, etc). Provides non-interactive automation mode for hands-off task execution without approval prompts.",
+  "version": "0.1.0",
+  "author": {
+    "name": "feiskyer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/feiskyer/claude-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/feiskyer/claude-skill"
+}

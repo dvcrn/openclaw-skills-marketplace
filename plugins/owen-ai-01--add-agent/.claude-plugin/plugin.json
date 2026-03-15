@@ -1,0 +1,10 @@
+{
+  "name": "owen-ai-01--add-agent",
+  "description": "Add a new OpenClaw Agent, automatically configure openclaw.json, create workspace, copy auth and skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "owen-ai-01"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/owen-ai-01/add-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/owen-ai-01/add-agent"
+}

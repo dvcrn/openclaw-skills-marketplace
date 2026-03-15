@@ -1,0 +1,10 @@
+{
+  "name": "odrobnik--codex-monitor",
+  "description": "Browse OpenAI Codex session logs stored in ~/.codex/sessions. Provides list/show/watch helpers via the local Swift project at ~/Developer/CodexMonitor.",
+  "version": "0.1.0",
+  "author": {
+    "name": "odrobnik"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/codex-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/odrobnik/codex-monitor"
+}

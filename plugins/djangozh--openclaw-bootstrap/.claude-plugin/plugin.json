@@ -1,0 +1,10 @@
+{
+  "name": "djangozh--openclaw-bootstrap",
+  "description": "One-command bootstrap for new OpenClaw installations. Sets up workspace files, self-evolution system (.learnings + hooks + crons), and community skills. Use when setting up a fresh OpenClaw or replicating setup to another machine.",
+  "version": "1.0.0",
+  "author": {
+    "name": "djangozh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/djangozh/openclaw-bootstrap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/djangozh/openclaw-bootstrap"
+}

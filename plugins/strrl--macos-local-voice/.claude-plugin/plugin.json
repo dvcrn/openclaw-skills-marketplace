@@ -1,0 +1,10 @@
+{
+  "name": "strrl--macos-local-voice",
+  "description": "Local STT and TTS on macOS using native Apple capabilities. Speech-to-text via yap (Apple Speech.framework), text-to-speech via say + ffmpeg. Fully offline, no API keys required. Includes voice quality detection and smart voice selection.",
+  "version": "1.0.0",
+  "author": {
+    "name": "strrl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/strrl/macos-local-voice",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/strrl/macos-local-voice"
+}

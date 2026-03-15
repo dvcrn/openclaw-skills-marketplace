@@ -1,0 +1,10 @@
+{
+  "name": "autoxj--gitcode",
+  "description": "Fetch and query data from GitCode platform via its REST API: repositories, branches, issues, pull requests, commits, tags, users, organizations, search, webhooks, members, releases and more. 查询 GitCode 上的仓库、分支、议题、PR、提交、标签、用户、组织等数据。Python 3.7+ standard library only.",
+  "version": "1.0.0",
+  "author": {
+    "name": "autoxj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/autoxj/gitcode",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/autoxj/gitcode"
+}

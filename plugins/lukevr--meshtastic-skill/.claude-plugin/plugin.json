@@ -1,0 +1,10 @@
+{
+  "name": "lukevr--meshtastic-skill",
+  "description": "Send and receive messages via Meshtastic LoRa mesh network. Use for off-grid messaging, mesh network status, reading recent mesh messages, or sending texts via LoRa radio.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lukevr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lukevr/meshtastic-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lukevr/meshtastic-skill"
+}

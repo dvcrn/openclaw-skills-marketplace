@@ -1,0 +1,10 @@
+{
+  "name": "newbienodes--btc-analyzer",
+  "description": "Fetch live BTCUSDT 15m candles from Binance public API and analyze market direction UP/DOWN/SKIP using EMA20 and RSI14. Use when asked to analyze BTC price direction, get trading signal, or check market trend.",
+  "version": "1.0.0",
+  "author": {
+    "name": "newbienodes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/newbienodes/btc-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/newbienodes/btc-analyzer"
+}

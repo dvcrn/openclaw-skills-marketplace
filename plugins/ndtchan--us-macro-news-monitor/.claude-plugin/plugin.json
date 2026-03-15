@@ -1,0 +1,10 @@
+{
+  "name": "ndtchan--us-macro-news-monitor",
+  "description": "Tracks US macro signals from Bloomberg, WSJ, and Reuters and maps potential spillover to Vietnam sectors; used when users ask about US macro news and likely impacts on Vietnamese equities.",
+  "version": "1.0.2",
+  "author": {
+    "name": "ndtchan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ndtchan/us-macro-news-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ndtchan/us-macro-news-monitor"
+}

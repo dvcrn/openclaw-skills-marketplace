@@ -1,0 +1,10 @@
+{
+  "name": "liuhedev--lh-video-gen",
+  "description": "Generate vertical short videos (9:16) from a Markdown script. Parses script sections, generates TTS audio, renders subtitle cards, and composites into MP4 with FFmpeg.",
+  "version": "1.0.0",
+  "author": {
+    "name": "liuhedev"
+  },
+  "homepage": "https://github.com/liuhedev/lh-openclaw-kit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/liuhedev/lh-video-gen"
+}

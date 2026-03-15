@@ -1,0 +1,10 @@
+{
+  "name": "russellfei--gateway-keeper",
+  "description": "OS-level watchdog that monitors OpenClaw gateway health and auto-restarts on crash. After restart, triggers session recovery so interrupted work resumes automatically. Use when setting up gateway reliability, crash recovery, auto-restart, or watchdog monitoring for OpenClaw deployments. Supports Windows (Task Scheduler + PowerShell) and Linux/macOS (systemd/cron + bash). Triggers: \"gateway-keeper\", \"watchdog\", \"gateway health\", \"auto-restart gateway\", \"crash recovery\".",
+  "version": "2.0.0",
+  "author": {
+    "name": "russellfei"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/russellfei/gateway-keeper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/russellfei/gateway-keeper"
+}

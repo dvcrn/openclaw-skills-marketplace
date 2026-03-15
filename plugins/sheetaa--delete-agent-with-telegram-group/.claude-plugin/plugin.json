@@ -1,0 +1,10 @@
+{
+  "name": "sheetaa--delete-agent-with-telegram-group",
+  "description": "Safely and thoroughly delete an OpenClaw agent and its artifacts. Use when user asks to remove an agent completely, including workspace, agent files under ~/.openclaw/agents, bindings, Telegram group routing config, dedicated Telegram group, and related cron jobs. Always run local cleanup via script with dry-run first; if Telegram group deletion is requested, require a separate explicit confirmation before any browser/session control or irreversible group deletion.",
+  "version": "0.1.2",
+  "author": {
+    "name": "sheetaa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sheetaa/delete-agent-with-telegram-group",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sheetaa/delete-agent-with-telegram-group"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sonim1--chatgpt-image-gen",
+  "description": "Generate images using ChatGPT/DALL-E through OpenClaw browser automation. Use when the user wants to create images via ChatGPT's web interface with their logged-in session. Requires Chrome extension setup for first use. Use for image generation tasks where ChatGPT's native DALL-E image creation is preferred.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sonim1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sonim1/chatgpt-image-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sonim1/chatgpt-image-gen"
+}

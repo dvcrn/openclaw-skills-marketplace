@@ -1,0 +1,10 @@
+{
+  "name": "xukp20--lark-work-report-skill",
+  "description": "Use this skill when the user wants to report task results to Feishu/Lark after completion, with a preflight check that the reporting channel is available.",
+  "version": "0.1.0",
+  "author": {
+    "name": "xukp20"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xukp20/lark-work-report-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xukp20/lark-work-report-skill"
+}

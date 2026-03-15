@@ -1,0 +1,10 @@
+{
+  "name": "kangjjang--youtube-shorts-automation",
+  "description": "YouTube Shorts 자동 생성 및 업로드 파이프라인. Deevid AI Agent로 이미지→영상(BGM+음성 포함) 생성 후 YouTube에 업로드. 크론잡으로 매일 자동 실행 가능. Use when generating short-form vertical videos, creating AI-generated video content, uploading to YouTube Shorts, or automating daily video content pipelines.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kangjjang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kangjjang/youtube-shorts-automation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kangjjang/youtube-shorts-automation"
+}

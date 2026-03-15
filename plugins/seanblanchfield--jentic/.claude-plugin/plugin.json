@@ -1,0 +1,10 @@
+{
+  "name": "seanblanchfield--jentic",
+  "description": "Call external APIs through Jentic — AI agent API middleware. Use whenever you need to interact with external APIs (Gmail, Google Calendar, GitHub, Stripe, Twilio, and many more). Jentic handles authentication centrally so no per-API credentials are needed in the agent. The flow is: search by intent, load the schema, then execute. Use this in preference to direct curl/API calls for any API in the Jentic catalog.",
+  "version": "1.0.1",
+  "author": {
+    "name": "seanblanchfield"
+  },
+  "homepage": "https://github.com/seanblanchfield/openclaw-jentic-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seanblanchfield/jentic"
+}

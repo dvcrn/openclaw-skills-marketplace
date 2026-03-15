@@ -1,0 +1,10 @@
+{
+  "name": "yes999zc--gateway-monitor-macos",
+  "description": "Install and operate a local OpenClaw Gateway Monitor stack on macOS with LaunchAgent + watchdog. Use when setting up, repairing, or validating gateway-monitor services, including one-command install/uninstall/status and automatic launchctl registration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yes999zc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yes999zc/gateway-monitor-macos",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yes999zc/gateway-monitor-macos"
+}

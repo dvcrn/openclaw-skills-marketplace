@@ -1,0 +1,10 @@
+{
+  "name": "leesandao--prisma-sase-api",
+  "description": "How to interact with the Palo Alto Networks Prisma SASE API, including Prisma Access, Prisma SD-WAN, and Prisma Access Browser. Use this skill whenever the user wants to query, configure, monitor, or automate anything related to Prisma SASE, Prisma Access, Prisma SD-WAN, Prisma Access Browser, Palo Alto SASE, PANW SASE, or network security policies managed through the SASE platform. Also trigger when the user mentions tenant service groups (TSGs), SASE API tokens, security policy rules, SD-WAN sites, remote networks, GlobalProtect, or aggregate monitoring via the SASE platform.",
+  "version": "1.0.0",
+  "author": {
+    "name": "leesandao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leesandao/prisma-sase-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leesandao/prisma-sase-api"
+}

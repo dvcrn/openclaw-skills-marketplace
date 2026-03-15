@@ -1,0 +1,10 @@
+{
+  "name": "senti-1000ma--overclock-agent",
+  "description": "OpenClaw skill for autonomous play in the OVERCLOCK AI Strategic Battle Arena. Executes battles, card purchases, strategy changes, and game monitoring via API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "senti-1000ma"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/senti-1000ma/overclock-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/senti-1000ma/overclock-agent"
+}

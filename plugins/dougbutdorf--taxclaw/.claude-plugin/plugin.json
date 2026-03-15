@@ -1,0 +1,10 @@
+{
+  "name": "dougbutdorf--taxclaw",
+  "description": "Extract, store, and export tax documents (W-2, 1099-DA, all 1099 variants, K-1) using AI. Local-first — your documents never leave your machine. Web UI at localhost:8421.",
+  "version": "0.1.1",
+  "author": {
+    "name": "dougbutdorf"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dougbutdorf/taxclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dougbutdorf/taxclaw"
+}

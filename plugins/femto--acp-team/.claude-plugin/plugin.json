@@ -1,0 +1,10 @@
+{
+  "name": "femto--acp-team",
+  "description": "Team coordination layer for multi-agent workflows with mailbox, task board, and lease-based task management. Use when users need to coordinate multiple AI agents, manage shared task boards, send messages between agents, or set up team-based workflows. Triggers on \"spawn agent\", \"team\", \"task board\", \"multi-agent\", \"agent coordination\", \"message agent\", \"inbox\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "femto"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/femto/acp-team",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/femto/acp-team"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lolaopenclaw--vps-bootstrap",
+  "description": "Bootstrap a fresh VPS from zero to a fully operational OpenClaw deployment, with backup/restore and post-recovery verification. Use when setting up OpenClaw on a new VPS, recovering from a failed server, migrating between machines, or automating disaster recovery. Covers system dependencies, Node.js, Chrome, OpenClaw install, security hardening, backup to Google Drive, restore from backup, and full verification suite.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lolaopenclaw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lolaopenclaw/vps-bootstrap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lolaopenclaw/vps-bootstrap"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "officialdelta--gmail-secretary",
+  "description": "Gmail triage assistant using Haiku LLM for classification, label application, and draft replies (uses gog CLI; never auto-sends).",
+  "version": "1.0.18",
+  "author": {
+    "name": "officialdelta"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/officialdelta/gmail-secretary",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/officialdelta/gmail-secretary"
+}

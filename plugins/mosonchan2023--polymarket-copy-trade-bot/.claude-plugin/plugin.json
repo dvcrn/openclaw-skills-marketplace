@@ -1,0 +1,10 @@
+{
+  "name": "mosonchan2023--polymarket-copy-trade-bot",
+  "description": "自动跟随成功交易者的交易策略，复制鲸鱼仓位。每次调用自动扣费 0.001 USDT",
+  "version": "1.0.1",
+  "author": {
+    "name": "mosonchan2023"
+  },
+  "homepage": "https://github.com/moson/polymarket-copy-trade-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mosonchan2023/polymarket-copy-trade-bot"
+}

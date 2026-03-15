@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--cross-comm",
+  "description": "WebSocket-based cross-language communication service with support for multiple message types (text, JSON, dict, bytes, images, files, folders) and client management. Use when building real-time communication applications between Python and other languages, needing multi-device messaging, or requiring file transfer via Aliyun OSS. Supports both server and client roles with heartbeat, client list management, and message filtering by type or sender.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/cross-comm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/cross-comm"
+}

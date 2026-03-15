@@ -1,0 +1,10 @@
+{
+  "name": "wpank--go-concurrency-patterns",
+  "description": "Production Go concurrency patterns — goroutines, channels, sync primitives, context, worker pools, pipelines, and graceful shutdown. Use when building concurrent Go applications or debugging race conditions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/go-concurrency-patterns",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/go-concurrency-patterns"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "adastraabyssoque--camoufox-deploy",
+  "description": "One-click deployment of camoufox anti-detection browser with modified agent-browser. Patches agent-browser to auto-detect camoufox/firefox from executable path instead of defaulting to chromium.",
+  "version": "1.0.0",
+  "author": {
+    "name": "adastraabyssoque"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adastraabyssoque/camoufox-deploy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adastraabyssoque/camoufox-deploy"
+}

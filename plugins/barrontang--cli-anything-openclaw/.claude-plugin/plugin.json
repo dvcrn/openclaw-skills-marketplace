@@ -1,0 +1,10 @@
+{
+  "name": "barrontang--cli-anything-openclaw",
+  "description": "Adapt HKUDS CLI-Anything for OpenClaw workflows. Use when the user wants to build, refine, test, or validate an agent-native CLI harness for a GUI application or source repository inside OpenClaw, mentions CLI-Anything, or asks to apply the CLI-Anything methodology on a local path or GitHub repo.",
+  "version": "0.1.0",
+  "author": {
+    "name": "barrontang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/barrontang/cli-anything-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/barrontang/cli-anything-openclaw"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "witooh--fastmail",
+  "description": "Manages Fastmail email and calendar via JMAP and CalDAV APIs. Use for emails (read, send, reply, search, organize, bulk operations, threads) or calendar (events, reminders, RSVP invitations). Timezone auto-detected from system.",
+  "version": "1.0.1",
+  "author": {
+    "name": "witooh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/witooh/fastmail",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/witooh/fastmail"
+}

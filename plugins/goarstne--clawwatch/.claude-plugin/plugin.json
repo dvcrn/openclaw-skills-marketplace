@@ -1,0 +1,10 @@
+{
+  "name": "goarstne--clawwatch",
+  "description": "Crypto and stock price watchlist tracker. Use when the user asks about their watchlist, wants to add/remove assets to track, check prices, set price alerts, or get a market overview. Supports BTC, ETH, and all major crypto via CoinPaprika + stocks via Yahoo Finance. Also provides the Crypto Fear & Greed Index.",
+  "version": "0.1.0",
+  "author": {
+    "name": "goarstne"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/goarstne/clawwatch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/goarstne/clawwatch"
+}

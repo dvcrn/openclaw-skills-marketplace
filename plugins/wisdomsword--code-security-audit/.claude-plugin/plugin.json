@@ -1,0 +1,10 @@
+{
+  "name": "wisdomsword--code-security-audit",
+  "description": "Comprehensive code security audit toolkit combining OWASP Top 10 vulnerability scanning, dependency analysis, secret detection, SSL/TLS verification, AI Agent security checks, and automated security scoring. Use when auditing codebases, scanning for vulnerabilities, detecting hardcoded secrets, checking OWASP compliance, AI/LLM application security, or preparing for security reviews.",
+  "version": "2.1.0",
+  "author": {
+    "name": "wisdomsword"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wisdomsword/code-security-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wisdomsword/code-security-audit"
+}

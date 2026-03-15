@@ -1,0 +1,67 @@
+{
+  "models": {
+    "flash": {
+      "id": "zai/glm-4.7-flash",
+      "description": "快速响应，适合简单问题"
+    },
+    "main": {
+      "id": "zai/glm-5",
+      "description": "主力模型，平衡性能和质量"
+    },
+    "coding": {
+      "id": "aihubmix/coding-glm-5-free",
+      "description": "代码专用模型"
+    },
+    "vision": {
+      "id": "aihubmix/gemini-3.1-flash-image-preview-free",
+      "description": "视觉理解模型"
+    },
+    "complex": {
+      "id": "bailian/qwen3-max-2026-01-23",
+      "description": "复杂任务模型，深度分析"
+    },
+    "long-context": {
+      "id": "bailian/kimi-k2.5",
+      "description": "超长上下文，256k窗口",
+      "context_window": 256000
+    }
+  },
+  "complexity_analysis": {
+    "weights": {
+      "length": 0.3,
+      "keywords": 0.4,
+      "code": 0.2,
+      "vision": 0.1
+    },
+    "thresholds": {
+      "flash": 3,
+      "main": 6,
+      "complex": 8
+    }
+  },
+  "context_switch_strategy": {
+    "rules": [
+      {
+        "name": "长上下文切换",
+        "threshold": 85,
+        "consecutive_hits": 2,
+        "target_model": "long-context",
+        "auto_switch": false
+      }
+    ],
+    "cooldown": {
+      "duration_minutes": 10
+    }
+  },
+  "feature_detection": {
+    "code_patterns": ["function", "class", "def", "import", "export", "const", "let", "var", "if", "for", "while", "return"],
+    "vision_keywords": ["图片", "截图", "照片", "图像", "视频", "frame", "visual", "image", "screenshot", "photo", "media", "attachment"],
+    "complex_keywords": ["分析", "设计", "架构", "深度", "详细", "全面", "系统", "方案", "策略", "优化", "研究", "探讨", "文档", "PDF", "报告"]
+  },
+  "file_type_mapping": {
+    "vision": [".jpg", ".jpeg", ".png", ".gif", ".webp", ".bmp", ".tiff", ".mp4", ".avi", ".mov", ".mkv", ".webm"],
+    "coding": [".js", ".jsx", ".ts", ".tsx", ".py", ".java", ".cpp", ".c", ".html", ".css", ".json", ".xml", ".yaml", ".yml"],
+    "complex": [".pdf", ".doc", ".docx", ".ppt", ".pptx", ".xls", ".xlsx"],
+    "main": [".txt", ".md", ".csv"]
+  }
+}

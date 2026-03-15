@@ -1,0 +1,10 @@
+{
+  "name": "virajsanghvi1--raglite-local-rag-cache",
+  "description": "Local-first RAG cache: distill docs into structured Markdown, then index/query with Chroma + hybrid search (vector + keyword).",
+  "version": "1.0.0",
+  "author": {
+    "name": "virajsanghvi1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/virajsanghvi1/raglite-local-rag-cache",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/virajsanghvi1/raglite-local-rag-cache"
+}

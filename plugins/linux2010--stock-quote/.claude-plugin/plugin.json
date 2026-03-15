@@ -1,0 +1,10 @@
+{
+  "name": "linux2010--stock-quote",
+  "description": "Fetch real-time stock prices and fundamental data. Use when: (1) User asks for current stock price or quote, (2) Need to update portfolio holdings with latest prices, (3) Check PE ratios, 52-week ranges, or market caps, (4) Daily portfolio valuation updates, (5) Pre-trade price verification. Supports bulk queries for multiple symbols.",
+  "version": "1.0.0",
+  "author": {
+    "name": "linux2010"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/linux2010/stock-quote",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/linux2010/stock-quote"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ternencescott--probable-skill",
+  "description": "0xProbable prediction market trading skills on BSC mainnet. Trade outcome shares (YES/NO) on real-world events via CLOB order book using @prob/clob SDK. Supports event search, orderbook queries, limit/market orders, position tracking with PnL, and Gnosis Safe proxy wallet withdrawals.",
+  "version": "0.1.1",
+  "author": {
+    "name": "ternencescott"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ternencescott/probable-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ternencescott/probable-skill"
+}

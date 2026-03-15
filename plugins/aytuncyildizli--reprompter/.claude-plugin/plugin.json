@@ -1,0 +1,10 @@
+{
+  "name": "aytuncyildizli--reprompter",
+  "description": "Transform messy prompts into well-structured, effective prompts — single or multi-agent.\n Use when: \"reprompt\", \"reprompt this\", \"clean up this prompt\", \"structure my prompt\", rough text needing XML tags and best practices, \"reprompter teams\", \"repromptception\", \"run with quality\", \"smart run\", \"smart agents\", multi-agent tasks, audits, parallel work, anything going to agent teams.\n Don't use when: simple Q&A, pure chat, immediate execution-only tasks. See \"Don't Use When\" section for details.\n Outputs: Structured XML/Markdown prompt, quality score (before/after), optional team brief + per-agent sub-prompts, agent team output files.\n Success criteria: Single mode quality score ≥ 7/10; Repromptception per-agent prompt quality score 8+/10; all required sections present, actionable and specific.",
+  "version": "7.0.0",
+  "author": {
+    "name": "aytuncyildizli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aytuncyildizli/reprompter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aytuncyildizli/reprompter"
+}

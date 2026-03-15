@@ -1,0 +1,10 @@
+{
+  "name": "phheng--amazon-competitor-analyzer",
+  "description": "Scrapes Amazon product data from ASINs using browseract.com automation API and performs surgical competitive analysis. Compares specifications, pricing, review quality, and visual strategies to identify competitor moats and vulnerabilities.",
+  "version": "0.1.6",
+  "author": {
+    "name": "phheng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phheng/amazon-competitor-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phheng/amazon-competitor-analyzer"
+}

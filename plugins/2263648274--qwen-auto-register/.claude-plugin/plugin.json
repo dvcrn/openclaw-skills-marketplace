@@ -1,0 +1,10 @@
+{
+  "name": "2263648274--qwen-auto-register",
+  "description": "自动注册 Qwen 账号并获取 token。支持预测性自动切换，避免 API 额度超限。需要安装 auto-register 包。",
+  "version": "1.0.2",
+  "author": {
+    "name": "2263648274"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/2263648274/qwen-auto-register",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/2263648274/qwen-auto-register"
+}

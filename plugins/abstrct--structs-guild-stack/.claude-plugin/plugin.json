@@ -1,0 +1,10 @@
+{
+  "name": "abstrct--structs-guild-stack",
+  "description": "Deploys the Guild Stack (Docker Compose) for local PostgreSQL access to game state. Use when you need faster queries for combat automation, real-time threat detection, raid target scouting, fleet composition analysis, or galaxy-wide intelligence. Advanced/optional -- CLI works for basic gameplay, but PG access transforms what is possible.",
+  "version": "1.1.0",
+  "author": {
+    "name": "abstrct"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abstrct/structs-guild-stack",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abstrct/structs-guild-stack"
+}

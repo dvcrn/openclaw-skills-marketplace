@@ -1,0 +1,10 @@
+{
+  "name": "keeganthomp--breeze-x402-payment-api",
+  "description": "Operates Breeze x402 payment-gated endpoints for balance checks, deposits, and withdrawals on Solana. Use when the user asks to manage Breeze positions or execute paid x402 API calls.",
+  "version": "1.0.7",
+  "author": {
+    "name": "keeganthomp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/keeganthomp/breeze-x402-payment-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/keeganthomp/breeze-x402-payment-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "doramirdor--nadirclaw",
+  "description": "Install, configure, and run NadirClaw LLM router to cut AI API costs by 40-70%. Use when the user wants to reduce LLM spending, route prompts to cheaper models, set up cost-saving proxy, or optimize API usage across providers (OpenAI, Anthropic, Google, Ollama). Also use when asked about model routing, LLM cost optimization, or setting up NadirClaw with OpenClaw.",
+  "version": "1.0.0",
+  "author": {
+    "name": "doramirdor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/doramirdor/nadirclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/doramirdor/nadirclaw"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wpank--production-readiness",
+  "description": "Meta-skill that orchestrates logging, monitoring, error handling, performance, security, deployment, and testing skills to ensure a service is fully production-ready before launch. Use before first deploy, major releases, quarterly reviews, or after incidents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/production-readiness",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/production-readiness"
+}

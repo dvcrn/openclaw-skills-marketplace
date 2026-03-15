@@ -1,0 +1,10 @@
+{
+  "name": "helmutsreinis--s2g-workflow-engine",
+  "description": "Connect to S2G (s2g.run) visual workflow automation platform over WebSocket. Execute workflow nodes as tools — password generators, hash functions, date math, format converters, database queries, knowledge base, and any custom node. Use when asked to run S2G workflows, execute S2G nodes, connect to S2G, manage S2G workflows, or interact with the S2G platform API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "helmutsreinis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/helmutsreinis/s2g-workflow-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/helmutsreinis/s2g-workflow-engine"
+}

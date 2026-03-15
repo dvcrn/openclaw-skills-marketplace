@@ -1,0 +1,149 @@
+# skill.yaml - ClawHub技能配置文件
+# 符合ClawHub Skill规范 v1.0
+
+name: qweather-china
+version: 1.0.0
+displayName: QWeather China
+description: |
+  基于和风天气V7 API的完整天气服务，覆盖中国3000+市县区和海外20万个城市。
+  提供实时天气、多日预报、生活指数、空气质量、天气预警等全方位天气信息。
+  
+  专为中国用户优化，数据准确，功能全面。
+
+author:
+  name: OpenClaw Community
+  email: community@openclaw.ai
+
+license: MIT
+homepage: https://dev.qweather.com/
+
+tags:
+  - weather
+  - china
+  - qweather
+  - openclaw
+  - api
+
+# 运行时配置
+runtime: python3
+entrypoint: openclaw_integration.py
+
+# 依赖声明
+dependencies:
+  python:
+    - pyjwt>=2.0.0
+    - cryptography>=3.0
+    - requests>=2.25.0
+
+  system:
+    - python3
+
+# 技能配置（用户安装时需要提供的参数）
+config:
+  - name: QWEATHER_SUB
+    type: string
+    description: "和风天气项目ID (sub)，在控制台的项目设置中获取"
+    required: true
+    sensitive: true
+    example: "your_project_id_here"
+
+  - name: QWEATHER_KID
+    type: string
+    description: "和风天气凭据ID (kid)，在API密钥管理中获取"
+    required: true
+    sensitive: true
+    example: "your_credential_id_here"
+
+  - name: QWEATHER_API_HOST
+    type: string
+    description: "和风天气API Host，在控制台的开发者信息中查看"
+    required: true
+    example: "p54up4xhmm.re.qweatherapi.com"
+
+  - name: QWEATHER_PRIVATE_KEY_PATH
+    type: string
+    description: "私钥文件路径，下载的私钥文件存放位置"
+    required: true
+    sensitive: true
+    example: "/path/to/your/private_key.pem"
+
+  - name: QWEATHER_CACHE_DIR
+    type: string
+    description: "缓存目录路径（可选）"
+    required: false
+    default: "~/.openclaw/cache/qweather"
+
+# 技能能力声明
+capabilities:
+  - name: weather
+    description: "查询实时天气信息"
+  
+  - name: forecast
+    description: "查询天气预报"
+  
+  - name: life_indices
+    description: "查询生活指数"
+  
+  - name: air_quality
+    description: "查询空气质量"
+  
+  - name: weather_advice
+    description: "获取天气建议"
+
+# 命令映射（OpenClaw集成）
+commands:
+  weather:
+    patterns:
+      - "(.*?)天气(怎么样)?[？?]?$"
+      - "(.*?)的?温度[？?]?$"
+    handler: "handle_weather_now"
+    description: "查询城市实时天气"
+
+  forecast:
+    patterns:
+      - "(.*?)预报[？?]?$"
+      - "(.*?)未来(\\d+)天?预报[？?]?$"
+    handler: "handle_forecast"
+    description: "查询天气预报"
+
+  indices:
+    patterns:
+      - "(.*?)生活指数[？?]?$"
+      - "(.*?)指数[？?]?$"
+    handler: "handle_life_indices"
+    description: "查询生活指数"
+
+  air:
+    patterns:
+      - "(.*?)空气质量[？?]?$"
+      - "(.*?)AQI[？?]?$"
+    handler: "handle_air_quality"
+    description: "查询空气质量"
+
+  advice:
+    patterns:
+      - "(.*?)需要带伞吗[？?]?$"
+      - "(.*?)穿什么[？?]?$"
+    handler: "handle_advice"
+    description: "获取天气建议"
+
+# 技能图标和元数据
+metadata:
+  icon: "🇨🇳"
+  category: "weather"
+  minOpenClawVersion: "1.0.0"
+  testedOpenClawVersion: "1.2.0"
+
+# 安装后提示
+postInstallMessage: |
+  🎉 QWeather China技能安装成功！
+  
+  使用前请确保已配置以下环境变量：
+  1. QWEATHER_SUB - 和风天气项目ID
+  2. QWEATHER_KID - 和风天气凭据ID
+  3. QWEATHER_API_HOST - API Host
+  4. QWEATHER_PRIVATE_KEY_PATH - 私钥文件路径
+  
+  详细配置指南请查看 CONFIGURATION.md
+  
+  开始使用：在OpenClaw中发送"北京天气怎么样？"

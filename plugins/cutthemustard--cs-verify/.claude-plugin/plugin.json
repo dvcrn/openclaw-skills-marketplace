@@ -1,0 +1,10 @@
+{
+  "name": "cutthemustard--cs-verify",
+  "description": "Verify factual claims against live data sources. Returns structured verdicts with confidence scores.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cutthemustard"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cutthemustard/cs-verify",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cutthemustard/cs-verify"
+}

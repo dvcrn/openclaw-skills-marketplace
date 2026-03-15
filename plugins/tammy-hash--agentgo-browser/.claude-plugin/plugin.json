@@ -1,0 +1,10 @@
+{
+  "name": "tammy-hash--agentgo-browser",
+  "description": "Automates browser interactions using AgentGo's distributed cloud browser cluster via playwright@1.51.0. Use when the user needs to navigate websites, interact with web pages, fill forms, take screenshots, test web applications, or extract information — running on AgentGo's remote cloud browsers instead of a local browser.",
+  "version": "0.1.0",
+  "author": {
+    "name": "tammy-hash"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tammy-hash/agentgo-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tammy-hash/agentgo-browser"
+}

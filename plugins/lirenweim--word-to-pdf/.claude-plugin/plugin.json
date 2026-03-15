@@ -1,0 +1,10 @@
+{
+  "name": "lirenweim--word-to-pdf",
+  "description": "Convert Word documents (.docx) to PDF using Python's reportlab library. Supports Chinese characters, emojis, and proper formatting preservation. Usage: word-to-pdf <input_file> [output_file]",
+  "version": "1.0.0",
+  "author": {
+    "name": "lirenweim"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lirenweim/word-to-pdf",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lirenweim/word-to-pdf"
+}

@@ -1,0 +1,39 @@
+#BJ|# skill.yaml
+#SB|name: polymarket-copy-trade-bot
+#VK|slug: polymarket-copy-trade-bot
+#HY|version: 1.0.0
+#WZ|author: moson
+#VX|description: 自动跟随成功交易者的交易策略，复制鲸鱼仓位。每次调用自动扣费 0.001 USDT
+#RX|license: MIT
+#RQ|homepage: https://github.com/moson/polymarket-copy-trade-bot
+#JT|
+#TS|tags:
+#JM|  - polymarket
+#BR|  - copy-trade
+#YS|  - trading
+#XR|  - whale
+#KS|
+#PR|permissions:
+#WZ|  - network
+#RJ|
+#RZ|config:
+#QW|  SKILLPAY_API_KEY:
+#PJ|    type: string
+#ZZ|    required: true
+#YV|    description: "SkillPay API Key"
+#PM|    secret: true
+#TK|
+#TK|  PRIVATE_KEY:
+#PJ|    type: string
+#ZZ|    required: true
+#SN|    description: "Polymarket private key"
+#PM|    secret: true
+#HQ|
+#VW|entryPoint:
+#SZ|  type: typescript
+#ZK|  path: index.js
+#PB|
+#KX|price:
+#VV|  amount: 0.001
+#RV|  currency: USDT
+#TQ|  per: call

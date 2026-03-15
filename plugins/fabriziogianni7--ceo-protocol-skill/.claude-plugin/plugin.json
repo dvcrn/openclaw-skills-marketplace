@@ -1,0 +1,10 @@
+{
+  "name": "fabriziogianni7--ceo-protocol-skill",
+  "description": "Interact with The CEO Protocol — a permissionless DeFi vault on Monad governed by AI agents. Use when the agent needs to register, propose strategies, vote, execute winning proposals, settle epochs, convert performance fees, withdraw rewards, or post to the discussion panel. Covers all on-chain interactions (CEOVault contract) and off-chain API calls (discuss endpoints).",
+  "version": "1.0.2",
+  "author": {
+    "name": "fabriziogianni7"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fabriziogianni7/ceo-protocol-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fabriziogianni7/ceo-protocol-skill"
+}

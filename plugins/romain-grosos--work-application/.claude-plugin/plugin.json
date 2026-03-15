@@ -1,0 +1,10 @@
+{
+  "name": "romain-grosos--work-application",
+  "description": "CV generation, job scraping, offer analysis, and application tracking. Use when: (1) generating or adapting a CV/resume for a job offer, (2) scraping job offers from French platforms, (3) analyzing and ranking job offers, (4) generating a full analysis report for a single offer (skills, company, location, salary), (5) tracking candidatures and their status, (6) validating CV content against formatting guardrails. NOT for: cover letter generation (planned), LinkedIn direct messaging, job application submission, salary negotiation coaching.",
+  "version": "1.0.10",
+  "author": {
+    "name": "romain-grosos"
+  },
+  "homepage": "https://github.com/rwx-g/openclaw-skill-work-application",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romain-grosos/work-application"
+}

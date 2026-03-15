@@ -1,0 +1,10 @@
+{
+  "name": "shellishack--pulse-app-skill",
+  "description": "Use this skill to help developers get started building Pulse Apps — full-stack React extensions for Pulse Editor that use Module Federation. Trigger when a user asks to: - Create or scaffold a new Pulse App - Understand Pulse App architecture (frontend, backend, skills) - Add server functions or skills to an existing Pulse App - Configure pulse.config.ts or understand app metadata - Use @pulse-editor/react-api hooks (useLoading, useActionEffect) - Develop, preview, or build a Pulse App DO NOT trigger for general React or TypeScript questions unrelated to Pulse Apps.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shellishack"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shellishack/pulse-app-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shellishack/pulse-app-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "nirwandogra--nirwan-secret-scanner",
+  "description": "Scans files, repos, and directories for leaked secrets — API keys, tokens, passwords, connection strings, private keys, and credentials. Detects 40+ secret patterns across all major cloud providers and services.",
+  "version": "0.1.0",
+  "author": {
+    "name": "nirwandogra"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nirwandogra/nirwan-secret-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nirwandogra/nirwan-secret-scanner"
+}

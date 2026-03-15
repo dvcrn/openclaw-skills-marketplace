@@ -1,0 +1,10 @@
+{
+  "name": "leek-w--ai-security-audit",
+  "description": "Perform a security audit on exposed AI service endpoints using OpenClaw threat intelligence. Trigger when the user says \"security audit\", \"audit my AI service\", \"check my endpoint\", \"AI endpoint security\", \"open-webui security\", \"check if my IP is exposed\", \"安全审计\", \"检查我的端点\", \"AI服务安全加固\", or asks about port 18789 exposure.",
+  "version": "0.1.0",
+  "author": {
+    "name": "leek-w"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leek-w/ai-security-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leek-w/ai-security-audit"
+}

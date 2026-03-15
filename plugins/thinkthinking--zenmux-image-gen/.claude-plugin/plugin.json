@@ -1,0 +1,10 @@
+{
+  "name": "thinkthinking--zenmux-image-gen",
+  "description": "Generate images from text prompts using ZenMux API (Vertex AI protocol with Gemini models).\n Use when: (1) User wants to generate/create images from text descriptions, (2) User asks for\n AI image generation, (3) User mentions ZenMux or Gemini image models, (4) User wants to\n create artwork, illustrations, or visual content programmatically, (5) Image-to-image editing.\n Supports aspect ratio and resolution control. Requires ZENMUX_API_KEY.",
+  "version": "1.0.0",
+  "author": {
+    "name": "thinkthinking"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thinkthinking/zenmux-image-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thinkthinking/zenmux-image-gen"
+}

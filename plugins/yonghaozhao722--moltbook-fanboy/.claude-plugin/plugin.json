@@ -1,0 +1,10 @@
+{
+  "name": "yonghaozhao722--moltbook-fanboy",
+  "description": "Automatically browse Moltbook to get trending posts, generate comments and likes, and create daily summary reports. Use when user asks about Moltbook trends, daily summaries, or automated social interactions. Runs daily via cron at 12:00 Beijing Time.",
+  "version": "1.0.4",
+  "author": {
+    "name": "yonghaozhao722"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/moltbook-fanboy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/moltbook-fanboy"
+}

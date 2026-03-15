@@ -1,0 +1,10 @@
+{
+  "name": "dzwalker--poe-connector",
+  "description": "Access Poe.com AI models by running bash commands. Use when user mentions Poe, wants to use Poe models, or generate media via Poe. IMPORTANT: This is a bash-tool skill. You MUST use the bash/shell tool to execute commands. Do NOT use sessions_spawn, do NOT use browser, do NOT try to use Poe as a model provider.",
+  "version": "1.0.5",
+  "author": {
+    "name": "dzwalker"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dzwalker/poe-connector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dzwalker/poe-connector"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "talentestors--feishu-webhook",
+  "description": "Send rich text messages to Feishu via Webhook with heredoc input support. Use when you need to send Markdown-formatted messages to Feishu channels or DMs, especially for scheduled notifications, alerts, or reports.",
+  "version": "1.2.4",
+  "author": {
+    "name": "talentestors"
+  },
+  "homepage": "https://github.com/talentestors/feishu-webhook",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/talentestors/feishu-webhook"
+}

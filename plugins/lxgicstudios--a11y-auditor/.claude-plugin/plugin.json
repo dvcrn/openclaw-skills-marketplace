@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--a11y-auditor",
+  "description": "Scan HTML and JSX for accessibility issues and get fix suggestions. Use when you need to catch WCAG violations before they hit production.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/a11y-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/a11y-auditor"
+}

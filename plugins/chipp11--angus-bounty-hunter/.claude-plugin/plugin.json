@@ -1,0 +1,10 @@
+{
+  "name": "chipp11--angus-bounty-hunter",
+  "description": "Automated smart contract bug bounty hunting. Scans Immunefi/Code4rena targets with Slither static analysis, triages findings with local LLMs, and generates PoC templates. Zero API cost for scanning phase.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chipp11"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chipp11/angus-bounty-hunter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chipp11/angus-bounty-hunter"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ljie-pi--web-chat",
+  "description": "Use when the user wants to interact with Google Gemini or ChatGPT via browser automation. Triggers on phrases like \"ask Gemini\", \"ask ChatGPT\", \"ask GPT\", \"让 Gemini\", \"让 ChatGPT\", \"问一下 Gemini\", \"问一下 ChatGPT\", \"用 Gemini 查\", \"用 GPT 查\". Sends the user's query to the target chatbot and returns the response verbatim.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ljie-pi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ljie-pi/web-chat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ljie-pi/web-chat"
+}

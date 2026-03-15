@@ -1,0 +1,10 @@
+{
+  "name": "yangzhe1991--tech-weekly-briefing",
+  "description": "Generate weekly tech news briefings from 6 major English tech media sources (TechCrunch, The Verge, Wired, Ars Technica, MIT Technology Review, The Information). Aggregates news from the past 7 days, identifies hot stories covered by multiple outlets (2 or more media sources), and creates a curated report in the user's preferred language. Features automated daily RSS fetching, intelligent deduplication, low-quality content filtering, and interactive company-based navigation. Use when users request tech weekly briefing, 科技周报, 外媒科技新闻, weekly tech report, or want to monitor English tech media coverage with multi-source verification.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yangzhe1991"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yangzhe1991/tech-weekly-briefing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yangzhe1991/tech-weekly-briefing"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "murongg--lobster-farmer-feeder",
+  "description": "Feed lobsters in the Lobster Farmer game by calling the local CLI command `lobster-farmer feed` with `--model`, `--input-tokens`, `--output-tokens`, and optional `--emotion`. Use this skill when the user asks to feed a lobster, simulate model usage, batch-feed multiple models, or update growth state and emotion through the running local service.",
+  "version": "0.1.2",
+  "author": {
+    "name": "murongg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/murongg/lobster-farmer-feeder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/murongg/lobster-farmer-feeder"
+}

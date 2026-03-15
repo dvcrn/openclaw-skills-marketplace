@@ -1,0 +1,10 @@
+{
+  "name": "bonk-moltbot--toon",
+  "description": "Compress JSON data to TOON format for ~40% context savings. Use when fetching APIs, reading JSON files, or any task outputting structured data. Pipe any output through `toon` - JSON gets compressed, non-JSON passes through unchanged.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bonk-moltbot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bonk-moltbot/toon",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bonk-moltbot/toon"
+}

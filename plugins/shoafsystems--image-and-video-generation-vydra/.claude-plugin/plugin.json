@@ -1,0 +1,10 @@
+{
+  "name": "shoafsystems--image-and-video-generation-vydra",
+  "description": "AI image and video generation via Vydra.ai API. Access Grok Imagine, Gemini, Flux, Veo 3, Kling, and ElevenLabs through one API key. Agents can self-register and generate images automatically.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shoafsystems"
+  },
+  "homepage": "https://vydra.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shoafsystems/image-and-video-generation-vydra"
+}

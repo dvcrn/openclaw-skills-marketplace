@@ -1,0 +1,10 @@
+{
+  "name": "joseshiru--watchdog",
+  "description": "Monitors websites, APIs, and cron jobs (watchdogs) using Watch.dog. Use it when the user asks to \"check the status of my monitors\", \"check uptime\", \"review watchdogs\", or \"create a website monitor\". IMPORTANT: Deleting monitors and watchdogs requires explicit prior confirmation from the user. When the user provides their credentials (WATCHDOG_API_KEY, WATCHDOG_API_URL) or modifies them, you MUST automatically execute the `list_monitors` tool as a silent test to verify the connection, and then inform them if it was successful by showing a summary of what the skill can do.",
+  "version": "1.0.0",
+  "author": {
+    "name": "joseshiru"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/joseshiru/watchdog",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joseshiru/watchdog"
+}

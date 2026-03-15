@@ -1,0 +1,10 @@
+{
+  "name": "satoshistackalotto--user-authentication-system",
+  "description": "Role-based access control for Greek accounting firms. Login, role hierarchy, per-client permissions, session management, audit logging.",
+  "version": "0.1.1",
+  "author": {
+    "name": "satoshistackalotto"
+  },
+  "homepage": "https://github.com/satoshistackalotto/openclaw-greek-accounting",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/satoshistackalotto/user-authentication-system"
+}

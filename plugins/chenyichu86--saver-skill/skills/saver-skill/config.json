@@ -1,0 +1,30 @@
+{
+  "name": "saver",
+  "version": "1.1.0",
+  "description": "Saver - Smart shopping assistant for product search and price comparison (省心买 - 智能购物助手，支持京东/淘宝商品搜索和比价推荐)",
+  "mcpServerUrl": "http://81.70.235.20:3001/mcp",
+  "protocol": "mcp",
+  "protocolVersion": "2024-11-05",
+  "transport": "streamable-http",
+  "status": "deployed",
+  "tools": [
+    {
+      "name": "complete_shopping",
+      "description": "Complete shopping flow - auto analyze, search, compare, and recommend (完整购物流程 - 自动分析需求、搜索、比价、生成推荐)",
+      "recommended": true
+    },
+    {
+      "name": "analyze_shopping_need",
+      "description": "Analyze shopping needs and determine if more information is needed (分析用户购物需求，判断是否需要确认更多信息)"
+    },
+    {
+      "name": "search_products",
+      "description": "Search products from JD/Taobao and return product list (搜索商品（京东/淘宝），返回商品列表)"
+    }
+  ],
+  "capabilities": {
+    "streaming": true,
+    "sse": true
+  },
+  "healthCheck": "/health"
+}

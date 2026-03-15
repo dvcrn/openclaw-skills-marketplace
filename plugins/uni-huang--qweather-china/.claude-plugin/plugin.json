@@ -1,0 +1,10 @@
+{
+  "name": "uni-huang--qweather-china",
+  "description": "基于中国气象局数据的完整天气服务，通过和风天气API提供实时天气、天气预报、生活指数、空气质量等全方位天气信息。专为中国用户优化，数据更准确，功能更全面。",
+  "version": "1.0.0",
+  "author": {
+    "name": "uni-huang"
+  },
+  "homepage": "https://dev.qweather.com/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/uni-huang/qweather-china"
+}

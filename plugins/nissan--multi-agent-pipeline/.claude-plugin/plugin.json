@@ -1,0 +1,10 @@
+{
+  "name": "nissan--multi-agent-pipeline",
+  "description": "Generic multi-agent content pipeline — sequential and parallel agent stages with status tracking, error recovery, and progress callbacks. Use when building multi-step AI workflows like content generation, data processing, or any generate-validate-transform-deliver pattern. Works with any LLM provider.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/multi-agent-pipeline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/multi-agent-pipeline"
+}

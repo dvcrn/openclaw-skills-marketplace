@@ -1,0 +1,10 @@
+{
+  "name": "rowbotik--wled",
+  "description": "Control WLED LED controllers via HTTP API. Use when a user asks to control WLED lights, LED strips, or ESP-based LED controllers. Supports power on/off, brightness, colors (RGB), effects, palettes, presets, and device status.",
+  "version": "0.1.0",
+  "author": {
+    "name": "rowbotik"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rowbotik/wled",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rowbotik/wled"
+}

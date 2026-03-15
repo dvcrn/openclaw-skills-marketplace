@@ -1,0 +1,10 @@
+{
+  "name": "dezhihe91--send-imessage",
+  "description": "Send iMessages via macOS Messages app using AppleScript. Use when user wants to send a text message/SMS to a phone number. Supports Chinese and English messages. Phone numbers should include +1 prefix for US numbers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dezhihe91"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dezhihe91/send-imessage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dezhihe91/send-imessage"
+}

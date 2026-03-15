@@ -1,0 +1,10 @@
+{
+  "name": "white0dew--doge-oss-skill",
+  "description": "Upload a local file to DogeCloud OSS (DogeCloud 对象存储) and return a public URL + metadata. Use when the user asks to “upload to doge/dogecloud”, “生成公网链接”, “把截图传到 OSS 并给我链接”.",
+  "version": "0.1.0",
+  "author": {
+    "name": "white0dew"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/white0dew/doge-oss-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/white0dew/doge-oss-skill"
+}

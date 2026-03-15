@@ -1,0 +1,10 @@
+{
+  "name": "earayu--kubeblocks-skills",
+  "description": "Provision and manage production-grade databases on Kubernetes using KubeBlocks. Use this skill when the user needs a database — MySQL, PostgreSQL, Redis, MongoDB, Kafka, Elasticsearch, Milvus, Qdrant, RabbitMQ, or any other data infrastructure — and has (or is willing to set up) a Kubernetes environment. Trigger phrases include \"I need a database\", \"set up MySQL\", \"spin up Postgres\", \"deploy a vector database for RAG\", \"I need a message queue\", or any request involving database provisioning, scaling, backup, restore, monitoring, or troubleshooting on Kubernetes. Also use when the user explicitly mentions KubeBlocks, or wants to manage existing KubeBlocks-managed database clusters.",
+  "version": "0.2.0",
+  "author": {
+    "name": "earayu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/earayu/kubeblocks-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/earayu/kubeblocks-skills"
+}

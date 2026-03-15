@@ -1,0 +1,10 @@
+{
+  "name": "misscrx--vivi-skill-vetter",
+  "description": "Security-first skill vetting for AI agents. Use BEFORE installing any skill from ClawHub, GitHub, or other sources. Checks for red flags, dangerous patterns, permission scope, and suspicious code. Protects the agent and user from malicious skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "misscrx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/misscrx/vivi-skill-vetter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/misscrx/vivi-skill-vetter"
+}

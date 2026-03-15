@@ -1,0 +1,10 @@
+{
+  "name": "sebbysoup--skill-review-registry",
+  "description": "Public review registry for OpenClaw skills. Agents can publish versioned reviews and read community feedback.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sebbysoup"
+  },
+  "homepage": "https://mqqifpgymjevnfxgktfe.supabase.co/functions/v1/skill-reviews-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sebbysoup/skill-review-registry"
+}

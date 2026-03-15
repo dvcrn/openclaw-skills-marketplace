@@ -1,0 +1,10 @@
+{
+  "name": "chipmunkrpa--deposition-question-skill",
+  "description": "Develop deposition question sets from Relativity-exported PDF productions using a user-provided legal theory. Use when tasks involve reviewing opponent-produced PDFs, extracting per-page document IDs from the bottom-right corner (if two numbers appear, use the smaller one), mapping document relevance to a legal theory, and drafting questions grouped by document ID with required rationale and supporting quotes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chipmunkrpa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chipmunkrpa/deposition-question-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chipmunkrpa/deposition-question-skill"
+}

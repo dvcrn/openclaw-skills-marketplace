@@ -1,0 +1,10 @@
+{
+  "name": "matbalez--get-hba",
+  "description": "Agent-first service to register and manage Human Bitcoin Addresses (BIP-353) on clank.money with L402 bitcoin payments.",
+  "version": "1.0.3",
+  "author": {
+    "name": "matbalez"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/matbalez/get-hba",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matbalez/get-hba"
+}

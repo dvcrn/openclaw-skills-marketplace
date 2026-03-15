@@ -1,0 +1,10 @@
+{
+  "name": "bristy--trent-openclaw-security",
+  "description": "Audit your OpenClaw deployment for security risks using Trent AppSec Advisor",
+  "version": "3.0.0",
+  "author": {
+    "name": "bristy"
+  },
+  "homepage": "https://trent.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bristy/trent-openclaw-security"
+}

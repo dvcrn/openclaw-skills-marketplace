@@ -1,0 +1,10 @@
+{
+  "name": "yenava--notebooklm-ppt",
+  "description": "使用 NotebookLM CLI 生成 PPT 演示文稿。从预置风格模板库中选择模板，通过 notebook query 设置风格要求，再生成幻灯片。适用于需要快速将文档转换为演示文稿的场景。",
+  "version": "1.0.0",
+  "author": {
+    "name": "yenava"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yenava/notebooklm-ppt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yenava/notebooklm-ppt"
+}

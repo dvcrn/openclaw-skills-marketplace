@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--vimeo",
+  "description": "Vimeo API integration with managed OAuth. Video hosting and sharing platform.\n Use this skill when users want to upload, manage, or organize videos, create showcases/albums, manage folders, or interact with the Vimeo community.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n Requires network access and valid Maton API key.",
+  "version": "1.0.3",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/vimeo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/vimeo"
+}

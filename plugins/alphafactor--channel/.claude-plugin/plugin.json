@@ -1,0 +1,10 @@
+{
+  "name": "alphafactor--channel",
+  "description": "WeChat Official Account Draft Box management tool. Create and manage graphic draft articles via WeChat API, supporting text and images. Automatically extracts the first paragraph as summary. Supports draft creation, listing, publishing, and deletion.",
+  "version": "1.0.6",
+  "author": {
+    "name": "alphafactor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/channel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/channel"
+}

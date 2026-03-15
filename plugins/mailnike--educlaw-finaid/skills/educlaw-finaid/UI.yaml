@@ -1,0 +1,321 @@
+ocui_version: "1.0"
+skill: educlaw-finaid
+skill_version: "1.0.0"
+display_name: EduClaw Financial Aid
+icon: banknotes
+color: "#059669"
+default_entity: finaid_award_package
+domains:
+  - key: financial_aid
+    label: Financial Aid
+    entities: [finaid_aid_year, finaid_pell_schedule, finaid_fund_allocation, finaid_cost_of_attendance, finaid_isir, finaid_isir_cflag, finaid_verification_request, finaid_verification_document, finaid_award_package, finaid_award, finaid_disbursement, finaid_sap_evaluation, finaid_sap_appeal, finaid_r2t4_calculation, finaid_professional_judgment]
+  - key: scholarships
+    label: Scholarships
+    entities: [finaid_scholarship_program, finaid_scholarship_application, finaid_scholarship_renewal]
+  - key: work_study
+    label: Work-Study
+    entities: [finaid_work_study_job, finaid_work_study_assignment, finaid_work_study_timesheet]
+  - key: loan_tracking
+    label: Loan Tracking
+    entities: [finaid_loan]
+
+dashboard:
+  kpis:
+    - key: total_award_packages
+      label: "Award Packages"
+      type: count
+      action: list-award-packages
+      drill_action: list-award-packages
+    - key: pending_verification
+      label: "Pending Verification"
+      type: count
+      action: list-verification-requests
+      filter: { status: pending }
+      severity: warning
+      drill_action: list-verification-requests
+      drill_filter: { status: pending }
+    - key: active_scholarships
+      label: "Active Scholarships"
+      type: count
+      action: list-scholarship-programs
+      filter: { is_active: 1 }
+      drill_action: list-scholarship-programs
+    - key: open_work_study_jobs
+      label: "Open Jobs"
+      type: count
+      action: list-work-study-jobs
+      filter: { job_status: open }
+      drill_action: list-work-study-jobs
+      drill_filter: { job_status: open }
+  workflows:
+    - label: "New Award Package"
+      action: create-award-package
+      icon: plus
+    - label: "Import ISIR"
+      action: import-isir
+      icon: upload
+    - label: "Run SAP Batch"
+      action: run-sap-batch
+      icon: calculator
+
+entities:
+  finaid_aid_year:
+    label: Aid Year
+    icon: calendar
+    list_action: list-aid-years
+    get_action: get-aid-year
+    create_action: add-aid-year
+    update_action: update-aid-year
+    primary_field: aid_year_code
+    subtitle_field: description
+    status_field: is_active
+    columns: [aid_year_code, description, start_date, end_date, pell_max_award, is_active]
+    filters:
+      - field: is_active
+        label: Active
+        type: select
+        options: [{value: "1", label: "Active"}, {value: "0", label: "Inactive"}]
+
+  finaid_fund_allocation:
+    label: Fund Allocation
+    icon: wallet
+    list_action: list-fund-allocations
+    get_action: get-fund-allocation
+    create_action: add-fund-allocation
+    update_action: update-fund-allocation
+    primary_field: fund_name
+    subtitle_field: fund_type
+    columns: [fund_name, fund_type, total_allocation, committed_amount, disbursed_amount, available_amount]
+    filters:
+      - field: fund_type
+        label: Fund Type
+        type: select
+        options: [{value: federal, label: Federal}, {value: state, label: State}, {value: institutional, label: Institutional}]
+
+  finaid_cost_of_attendance:
+    label: Cost of Attendance
+    icon: receipt
+    list_action: list-cost-of-attendance
+    get_action: get-cost-of-attendance
+    create_action: add-cost-of-attendance
+    update_action: update-cost-of-attendance
+    primary_field: enrollment_status
+    subtitle_field: living_arrangement
+    columns: [enrollment_status, living_arrangement, tuition_fees, room_board, total_coa]
+
+  finaid_isir:
+    label: ISIR
+    icon: document
+    list_action: list-isirs
+    get_action: get-isir
+    create_action: import-isir
+    update_action: update-isir
+    primary_field: student_id
+    subtitle_field: transaction_number
+    status_field: status
+    columns: [student_id, aid_year_id, transaction_number, sai, dependency_status, verification_flag, status]
+    filters:
+      - field: status
+        label: Status
+        type: select
+        options: [{value: received, label: Received}, {value: reviewed, label: Reviewed}, {value: verified, label: Verified}]
+
+  finaid_verification_request:
+    label: Verification Request
+    icon: shield-check
+    list_action: list-verification-requests
+    get_action: get-verification-request
+    create_action: create-verification-request
+    update_action: update-verification-request
+    primary_field: student_id
+    subtitle_field: verification_group
+    status_field: status
+    columns: [student_id, verification_group, status, requested_date, deadline_date]
+    filters:
+      - field: status
+        label: Status
+        type: select
+        options: [{value: pending, label: Pending}, {value: in_progress, label: In Progress}, {value: complete, label: Complete}]
+
+  finaid_award_package:
+    label: Award Package
+    icon: gift
+    list_action: list-award-packages
+    get_action: get-award-package
+    create_action: create-award-package
+    update_action: update-award-package
+    primary_field: naming_series
+    subtitle_field: student_id
+    status_field: status
+    columns: [naming_series, student_id, aid_year_id, enrollment_status, total_grants, total_loans, total_aid, status]
+    filters:
+      - field: status
+        label: Status
+        type: select
+        options: [{value: draft, label: Draft}, {value: offered, label: Offered}, {value: accepted, label: Accepted}, {value: cancelled, label: Cancelled}]
+
+  finaid_award:
+    label: Award
+    icon: currency-dollar
+    list_action: list-awards
+    get_action: get-award
+    create_action: add-award
+    update_action: update-award
+    primary_field: aid_type
+    subtitle_field: aid_source
+    status_field: acceptance_status
+    columns: [aid_type, aid_source, offered_amount, accepted_amount, disbursed_amount, acceptance_status]
+    tab_hidden: true
+
+  finaid_disbursement:
+    label: Disbursement
+    icon: banknotes
+    list_action: list-disbursements
+    get_action: get-disbursement
+    create_action: disburse-award
+    primary_field: disbursement_number
+    subtitle_field: amount
+    columns: [disbursement_number, award_id, amount, disbursement_date, disbursement_type]
+    tab_hidden: true
+
+  finaid_sap_evaluation:
+    label: SAP Evaluation
+    icon: academic-cap
+    list_action: list-sap-evaluations
+    get_action: get-sap-evaluation
+    create_action: run-sap-evaluation
+    primary_field: student_id
+    status_field: sap_status
+    columns: [student_id, academic_term_id, gpa, completion_rate, pace, sap_status]
+
+  finaid_sap_appeal:
+    label: SAP Appeal
+    icon: document-text
+    list_action: list-sap-appeals
+    get_action: get-sap-appeal
+    create_action: submit-sap-appeal
+    update_action: update-sap-appeal
+    primary_field: student_id
+    status_field: status
+    columns: [student_id, appeal_reason, status, submitted_date]
+
+  finaid_r2t4_calculation:
+    label: R2T4 Calculation
+    icon: calculator
+    list_action: list-r2t4s
+    get_action: get-r2t4
+    create_action: create-r2t4
+    primary_field: student_id
+    status_field: status
+    columns: [student_id, withdrawal_type, withdrawal_date, status]
+
+  finaid_professional_judgment:
+    label: Professional Judgment
+    icon: scale
+    list_action: list-professional-judgments
+    get_action: get-professional-judgment
+    create_action: add-professional-judgment
+    primary_field: student_id
+    subtitle_field: pj_type
+    columns: [student_id, pj_type, pj_reason, effective_date, authorized_by]
+
+  finaid_scholarship_program:
+    label: Scholarship Program
+    icon: trophy
+    list_action: list-scholarship-programs
+    get_action: get-scholarship-program
+    create_action: add-scholarship-program
+    update_action: update-scholarship-program
+    primary_field: program_name
+    subtitle_field: fund_source
+    status_field: is_active
+    columns: [program_name, fund_source, max_award_amount, available_slots, is_active]
+
+  finaid_scholarship_application:
+    label: Scholarship Application
+    icon: pencil-square
+    list_action: list-scholarship-applications
+    get_action: get-scholarship-application
+    create_action: submit-scholarship-application
+    update_action: update-scholarship-application
+    primary_field: student_id
+    subtitle_field: scholarship_program_id
+    status_field: application_status
+    columns: [student_id, scholarship_program_id, application_status, submitted_date]
+    filters:
+      - field: application_status
+        label: Status
+        type: select
+        options: [{value: submitted, label: Submitted}, {value: under_review, label: Under Review}, {value: awarded, label: Awarded}, {value: denied, label: Denied}]
+
+  finaid_scholarship_renewal:
+    label: Scholarship Renewal
+    icon: arrow-path
+    list_action: list-scholarship-renewals
+    primary_field: student_id
+    subtitle_field: renewal_status
+    columns: [student_id, scholarship_program_id, renewal_status, evaluation_date]
+    tab_hidden: true
+
+  finaid_work_study_job:
+    label: Work-Study Job
+    icon: briefcase
+    list_action: list-work-study-jobs
+    get_action: get-work-study-job
+    create_action: add-work-study-job
+    update_action: update-work-study-job
+    primary_field: job_title
+    subtitle_field: department
+    status_field: job_status
+    columns: [job_title, department, hourly_rate, max_positions, filled_positions, job_status]
+    filters:
+      - field: job_status
+        label: Status
+        type: select
+        options: [{value: open, label: Open}, {value: filled, label: Filled}, {value: closed, label: Closed}]
+
+  finaid_work_study_assignment:
+    label: Work-Study Assignment
+    icon: user-group
+    list_action: list-work-study-assignments
+    get_action: get-work-study-assignment
+    create_action: assign-student-to-job
+    update_action: update-work-study-assignment
+    primary_field: student_id
+    subtitle_field: job_id
+    status_field: assignment_status
+    columns: [student_id, job_id, start_date, end_date, hours_per_week, assignment_status]
+
+  finaid_work_study_timesheet:
+    label: Work-Study Timesheet
+    icon: clock
+    list_action: list-work-study-timesheets
+    get_action: get-work-study-timesheet
+    create_action: submit-work-study-timesheet
+    update_action: update-work-study-timesheet
+    primary_field: student_id
+    subtitle_field: period_start
+    status_field: timesheet_status
+    columns: [student_id, period_start, period_end, total_hours, gross_pay, timesheet_status]
+    filters:
+      - field: timesheet_status
+        label: Status
+        type: select
+        options: [{value: submitted, label: Submitted}, {value: approved, label: Approved}, {value: rejected, label: Rejected}]
+
+  finaid_loan:
+    label: Loan
+    icon: building-library
+    list_action: list-loans
+    get_action: get-loan
+    create_action: add-loan
+    update_action: update-loan
+    primary_field: student_id
+    subtitle_field: loan_type
+    status_field: loan_status
+    columns: [student_id, loan_type, loan_amount, disbursed_amount, loan_status, mpn_status]
+    filters:
+      - field: loan_type
+        label: Loan Type
+        type: select
+        options: [{value: subsidized, label: Subsidized}, {value: unsubsidized, label: Unsubsidized}, {value: plus, label: PLUS}, {value: perkins, label: Perkins}]

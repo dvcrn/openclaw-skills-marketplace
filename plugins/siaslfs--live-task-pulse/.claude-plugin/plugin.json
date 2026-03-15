@@ -1,0 +1,10 @@
+{
+  "name": "siaslfs--live-task-pulse",
+  "description": "Real-time task progress tracking with live push notifications. MANDATORY for ALL multi-step tasks (>30s or >2 tool calls). Activate automatically — do not wait for user to request it. Unique dual-layer architecture — file persistence for crash recovery + message tool push for real-time updates. Features step-based progress, stall detection (3min), auto-cleanup, and a Python CLI. Also triggers when user asks \"what's running\" / \"task status\" / \"任务进度\".",
+  "version": "1.1.0",
+  "author": {
+    "name": "siaslfs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/siaslfs/live-task-pulse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/siaslfs/live-task-pulse"
+}

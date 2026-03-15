@@ -1,0 +1,10 @@
+{
+  "name": "matrixtrickery--db-schema-gen",
+  "description": "Generate database schemas, migrations, and ERD diagrams from plain English descriptions — supports PostgreSQL, MySQL, SQLite, and MongoDB with proper indexes and constraints.",
+  "version": "1.0.0",
+  "author": {
+    "name": "matrixtrickery"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/matrixtrickery/db-schema-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matrixtrickery/db-schema-gen"
+}

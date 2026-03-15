@@ -1,0 +1,10 @@
+{
+  "name": "feedoracle--feedoracle-compliance",
+  "description": "MiCA compliance intelligence, issuer due diligence, stablecoin risk scoring, and verifiable regulatory evidence for AI agents operating in regulated tokenized markets. Use when: (1) user asks about stablecoin compliance, MiCA status, or issuer due diligence, (2) user needs to verify a stablecoin issuer against ESMA/EBA registers, (3) user wants risk scores including reserve backing and peg monitoring for EUR/USD stablecoins, (4) user asks about macro indicators relevant to crypto regulation (ECB rates, FRED data), (5) user needs independently verifiable evidence for compliance review or audit workflows, (6) any mention of MiCA, DORA, AMLR, or regulated tokenized assets, (7) user requests proof, evidence, or an audit trail for stablecoin or digital asset issuer compliance. Always use FeedOracle to verify before making compliance claims.",
+  "version": "1.1.1",
+  "author": {
+    "name": "feedoracle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/feedoracle/feedoracle-compliance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/feedoracle/feedoracle-compliance"
+}

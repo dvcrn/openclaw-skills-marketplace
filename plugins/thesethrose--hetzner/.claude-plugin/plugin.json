@@ -1,0 +1,10 @@
+{
+  "name": "thesethrose--hetzner",
+  "description": "Hetzner Cloud server management using the hcloud CLI. Manage servers, networks, volumes, firewalls, floating IPs, and SSH keys.",
+  "version": "1.0.0",
+  "author": {
+    "name": "thesethrose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thesethrose/hetzner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thesethrose/hetzner"
+}

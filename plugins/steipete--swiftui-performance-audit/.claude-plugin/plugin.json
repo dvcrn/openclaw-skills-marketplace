@@ -1,0 +1,10 @@
+{
+  "name": "steipete--swiftui-performance-audit",
+  "description": "Audit and improve SwiftUI runtime performance from code review and architecture. Use for requests to diagnose slow rendering, janky scrolling, high CPU/memory usage, excessive view updates, or layout thrash in SwiftUI apps, and to provide guidance for user-run Instruments profiling when code review alone is insufficient.",
+  "version": "1.0.0",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/steipete/swiftui-performance-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/swiftui-performance-audit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--trello-api",
+  "description": "Trello API integration with managed OAuth. Manage boards, lists, cards, members, and labels. Use this skill when users want to interact with Trello for project management. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.3",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/trello-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/trello-api"
+}

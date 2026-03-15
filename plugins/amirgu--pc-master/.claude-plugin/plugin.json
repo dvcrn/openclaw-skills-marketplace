@@ -1,0 +1,10 @@
+{
+  "name": "amirgu--pc-master",
+  "description": "Control the Windows PC from WSL2. Use when the user asks to open/close applications, manage processes, take screenshots, control windows, manage files on Windows (C:\\), automate tasks, or do anything that requires interacting with the Windows host from WSL2 (e.g. \"open Chrome\", \"kill Spotify\", \"take a screenshot\", \"list running apps\", \"move a file on Windows\").",
+  "version": "1.0.0",
+  "author": {
+    "name": "amirgu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/amirgu/pc-master",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/amirgu/pc-master"
+}

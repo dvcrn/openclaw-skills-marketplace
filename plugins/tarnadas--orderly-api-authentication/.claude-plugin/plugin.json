@@ -1,0 +1,10 @@
+{
+  "name": "tarnadas--orderly-api-authentication",
+  "description": "Complete authentication guide for Orderly Network - EIP-712 wallet signatures for EVM accounts, Ed25519 message signing for Solana accounts, and Ed25519 signatures for API requests",
+  "version": "1.0.0",
+  "author": {
+    "name": "tarnadas"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tarnadas/orderly-api-authentication",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tarnadas/orderly-api-authentication"
+}

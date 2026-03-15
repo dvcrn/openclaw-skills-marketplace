@@ -1,0 +1,10 @@
+{
+  "name": "ainakwalamonk--durable-agents",
+  "description": "Build autonomous multi-agent pipelines with Mastra (agents only) and Trigger.dev (all workflows and tasks). Use when creating AI agents, designing multi-stage pipelines, defining permissioned tools, structuring agent handoffs, storing agentic outputs to a database, or building durable task chains with retries and fan-out.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ainakwalamonk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ainakwalamonk/durable-agents",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ainakwalamonk/durable-agents"
+}

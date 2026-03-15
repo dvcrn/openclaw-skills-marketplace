@@ -1,0 +1,10 @@
+{
+  "name": "wyattbenno777--pre-flight",
+  "description": "Stop your agent from doing things you didn't authorize. ICME checks every consequential action against your policy before it executes — email, transactions, file ops, external calls. Define your rules in plain English. Get SAT or UNSAT back in under a second.",
+  "version": "1.0.1",
+  "author": {
+    "name": "wyattbenno777"
+  },
+  "homepage": "https://icme.io",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wyattbenno777/pre-flight"
+}

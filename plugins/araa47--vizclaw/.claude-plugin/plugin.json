@@ -1,0 +1,10 @@
+{
+  "name": "araa47--vizclaw",
+  "description": "Connect OpenClaw-style runs to VizClaw live rooms from a ClawHub-installable skill. Use when you need quick room creation, JSONL/websocket bridging, trigger and agent event streaming, or safe overview-mode visualization.",
+  "version": "1.0.3",
+  "author": {
+    "name": "araa47"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/araa47/vizclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/araa47/vizclaw"
+}

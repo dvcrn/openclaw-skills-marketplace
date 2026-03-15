@@ -1,0 +1,10 @@
+{
+  "name": "jpaulgrayson--quack-code-review",
+  "description": "AI-powered code analysis via LogicArt — find bugs, security issues, and get logic flow visualizations. Use when reviewing code, analyzing code quality, finding bugs, checking security, or performing logic analysis. Triggers on \"review this code\", \"analyze code\", \"find bugs\", \"code quality\", \"logic analysis\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "jpaulgrayson"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jpaulgrayson/quack-code-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jpaulgrayson/quack-code-review"
+}

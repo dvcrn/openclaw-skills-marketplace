@@ -1,0 +1,10 @@
+{
+  "name": "crossservicesolutions--password-protect-pdf",
+  "description": "Add password protection to a PDF by uploading it to the Solutions API, polling until completion, then returning a download URL for the protected PDF.",
+  "version": "1.0.0",
+  "author": {
+    "name": "crossservicesolutions"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crossservicesolutions/password-protect-pdf",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crossservicesolutions/password-protect-pdf"
+}

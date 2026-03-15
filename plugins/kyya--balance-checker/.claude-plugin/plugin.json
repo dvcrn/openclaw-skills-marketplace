@@ -1,0 +1,10 @@
+{
+  "name": "kyya--balance-checker",
+  "description": "查询 AI API 服务商的余额（DeepSeek、Moonshot/Kimi、火山引擎）。当用户说\"查余额\"、\"还有多少额度\"、\"余额多少\"时自动触发。",
+  "version": "1.0.0",
+  "author": {
+    "name": "kyya"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kyya/balance-checker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kyya/balance-checker"
+}

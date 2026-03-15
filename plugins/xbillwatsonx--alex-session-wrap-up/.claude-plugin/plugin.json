@@ -1,0 +1,10 @@
+{
+  "name": "xbillwatsonx--alex-session-wrap-up",
+  "description": "End-of-session automation that commits unpushed work, extracts learnings, detects patterns, and persists rules. Uses gpt-4o-mini for pattern detection. Runs at session end or on-demand.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xbillwatsonx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xbillwatsonx/alex-session-wrap-up",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xbillwatsonx/alex-session-wrap-up"
+}

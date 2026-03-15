@@ -1,0 +1,10 @@
+{
+  "name": "alex-zxyz--mineru-pdf-parser",
+  "description": "使用 MinerU API 解析 PDF 文件（会将你指定的文件上传到 https://mineru.net 进行解析）。",
+  "version": "3.0.2",
+  "author": {
+    "name": "alex-zxyz"
+  },
+  "homepage": "https://mineru.net",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alex-zxyz/mineru-pdf-parser"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "abhinavpgagi--toingg-skill",
+  "description": "End-to-end Toingg ops: create campaigns, (optionally) schedule daily analytics pulls, and turn Excel contact sheets into WhatsApp outreach via add_contacts + send_whatsapp_templates. Use when Codex needs to automate Toingg voice/WhatsApp workflows and requires scripts for campaign POSTs, analytics cron setup, or bulk contact uploads.",
+  "version": "1.0.1",
+  "author": {
+    "name": "abhinavpgagi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abhinavpgagi/toingg-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abhinavpgagi/toingg-skill"
+}

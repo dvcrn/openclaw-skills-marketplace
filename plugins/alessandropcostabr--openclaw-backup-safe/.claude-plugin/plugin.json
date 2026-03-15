@@ -1,0 +1,10 @@
+{
+  "name": "alessandropcostabr--openclaw-backup-safe",
+  "description": "Backup and restore OpenClaw data. Use when user asks to create backups, set up automatic backup schedules, restore from backup, or manage backup rotation. Handles ~/.openclaw directory archiving with proper exclusions.",
+  "version": "1.0.1",
+  "author": {
+    "name": "alessandropcostabr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alessandropcostabr/openclaw-backup-safe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alessandropcostabr/openclaw-backup-safe"
+}

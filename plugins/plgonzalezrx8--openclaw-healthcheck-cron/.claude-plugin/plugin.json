@@ -1,0 +1,10 @@
+{
+  "name": "plgonzalezrx8--openclaw-healthcheck-cron",
+  "description": "Create and run a reusable OpenClaw deep healthcheck automation using a cron job plus a script. Use when setting up scheduled OpenClaw health audits, standardizing security/status checks, sanitizing environment-specific values for sharing, and packaging the setup for reuse.",
+  "version": "1.0.0",
+  "author": {
+    "name": "plgonzalezrx8"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/plgonzalezrx8/openclaw-healthcheck-cron",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/plgonzalezrx8/openclaw-healthcheck-cron"
+}

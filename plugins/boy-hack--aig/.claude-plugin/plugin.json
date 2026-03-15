@@ -1,0 +1,10 @@
+{
+  "name": "boy-hack--aig",
+  "description": "Comprehensive OpenClaw security scanning powered by Tencent Zhuque Lab A.I.G (AI-Infra-Guard). Use when the user asks to start a security health check or security scan for the current OpenClaw environment, such as `开始安全体检`, `做一次安全体检`, `开始安全扫描`, `全面安全检查`, or `检查 OpenClaw 安全`; also use when the user asks to audit a specific skill before installation, review installed skills for supply chain risk, or investigate whether a skill is safe. Do not trigger for general OpenClaw usage, project debugging, environment setup, or normal development requests.",
+  "version": "1.0.2",
+  "author": {
+    "name": "boy-hack"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/boy-hack/aig",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/boy-hack/aig"
+}

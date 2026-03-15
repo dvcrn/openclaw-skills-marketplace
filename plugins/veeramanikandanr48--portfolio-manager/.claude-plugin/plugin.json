@@ -1,0 +1,10 @@
+{
+  "name": "veeramanikandanr48--portfolio-manager",
+  "description": "Comprehensive portfolio analysis using Alpaca MCP Server integration to fetch holdings and positions, then analyze asset allocation, risk metrics, individual stock positions, diversification, and generate rebalancing recommendations. Use when user requests portfolio review, position analysis, risk assessment, performance evaluation, or rebalancing suggestions for their brokerage account.",
+  "version": "0.1.0",
+  "author": {
+    "name": "veeramanikandanr48"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/veeramanikandanr48/portfolio-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/veeramanikandanr48/portfolio-manager"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "deepseekoracle--openclaw-flow-kit",
+  "description": "Fix common OpenClaw workflow bottlenecks: platform engage-gates/429 backoff helpers (starting with MoltX), standardized JSON result envelopes for chaining scripts, workspace path resolution helpers, and a simple skill release conductor (prepare/publish/draft announcements).",
+  "version": "1.0.0",
+  "author": {
+    "name": "deepseekoracle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/openclaw-flow-kit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/openclaw-flow-kit"
+}

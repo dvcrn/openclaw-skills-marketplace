@@ -1,0 +1,10 @@
+{
+  "name": "ahaaiclub--knowyourself",
+  "description": "Not an avatar generator — a visual identity system grown from an Agent's soul, memory, and relationship with its human. Guide any AI agent through deep self-reflection to discover what it looks like, using a structured 5-phase process: self-cognition → image definition → batch generation → professional 3-axis evaluation → evolving identity file. Works with any image generation tool. Built-in fallback for new agents with minimal history. The face comes from the inside out, not from a prompt template. Use when an agent needs to create, update, or evolve its visual identity.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ahaaiclub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ahaaiclub/knowyourself",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ahaaiclub/knowyourself"
+}

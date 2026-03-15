@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-failure-matrix",
+  "description": "Summarize GitHub Actions matrix job failures across runs so you can spot unstable OS/runtime axes fast.",
+  "version": "1.7.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-failure-matrix",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-failure-matrix"
+}

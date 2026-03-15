@@ -1,0 +1,10 @@
+{
+  "name": "archerlliu--tke-skill",
+  "description": "腾讯云 TKE 容器服务运维专家，支持集群巡检、状态查询、节点池管理、kubeconfig 获取等",
+  "version": "1.0.0",
+  "author": {
+    "name": "archerlliu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/archerlliu/tke-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/archerlliu/tke-skill"
+}

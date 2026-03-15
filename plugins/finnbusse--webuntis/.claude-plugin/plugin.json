@@ -1,0 +1,10 @@
+{
+  "name": "finnbusse--webuntis",
+  "description": "Read-only access to Untis/WebUntis student timetables. Use when you need to fetch or summarize a student's current schedule (today/this week/date range), upcoming lessons, rooms, teachers, or substitutions from a WebUntis instance.",
+  "version": "1.0.1",
+  "author": {
+    "name": "finnbusse"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/finnbusse/webuntis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/finnbusse/webuntis"
+}

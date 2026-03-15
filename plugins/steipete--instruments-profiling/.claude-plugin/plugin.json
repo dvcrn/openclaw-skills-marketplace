@@ -1,0 +1,10 @@
+{
+  "name": "steipete--instruments-profiling",
+  "description": "Use when profiling native macOS or iOS apps with Instruments/xctrace. Covers correct binary selection, CLI arguments, exports, and common gotchas.",
+  "version": "1.0.0",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/steipete/instruments-profiling",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/instruments-profiling"
+}

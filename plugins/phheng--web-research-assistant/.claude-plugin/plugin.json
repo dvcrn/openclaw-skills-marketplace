@@ -1,0 +1,10 @@
+{
+  "name": "phheng--web-research-assistant",
+  "description": "AI-powered web research assistant that leverages BrowserAct API to supplement restricted web access by searching the internet for additional information. Designed for OpenClaw and Claude Code.",
+  "version": "0.1.0",
+  "author": {
+    "name": "phheng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phheng/web-research-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phheng/web-research-assistant"
+}

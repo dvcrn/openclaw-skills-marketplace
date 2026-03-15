@@ -1,0 +1,10 @@
+{
+  "name": "xnohat--knowledge-graph-skill",
+  "description": "Embedded knowledge graph for persistent structured knowledge. ALWAYS use proactively — do NOT wait for user to ask. Auto-triggers on: (1) any mention of people, projects, devices, services, organizations, or infrastructure — search KG first, add if new, (2) decisions or architectural choices worth remembering, (3) credentials or API keys (store in vault), (4) relationships between entities (who owns what, what runs where, what depends on what), (5) recurring concepts, principles, or lessons learned, (6) preferences and opinions (likes, dislikes, reviews), (7) places and locations (where someone lives, travels, frequents), (8) life events and milestones (birthdays, trips, meetings), (9) habits and routines (daily patterns, recurring behaviors), (10) knowledge artifacts — research papers, articles, insights, ideas, interesting facts shared by the user, (11) know-how and procedures — how to do something, debugging approaches, workflows, mental models, problem-solving frameworks. Also use when recalling facts, answering questions about known entities, or needing structured context. Run install script on first use. NOT for: ephemeral daily notes (use memory/), transient conversation, or rapidly changing data.",
+  "version": "1.1.1",
+  "author": {
+    "name": "xnohat"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xnohat/knowledge-graph-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xnohat/knowledge-graph-skill"
+}

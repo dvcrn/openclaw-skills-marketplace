@@ -1,0 +1,10 @@
+{
+  "name": "torchesfrms--agent-mbti",
+  "description": "AI Agent personality diagnosis and configuration system based on MBTI framework. Use when users want to (1) test/diagnose an Agent's personality type, (2) understand the gap between Agent's actual personality and user's desired personality, (3) generate configuration recommendations to adjust Agent behavior, (4) customize Agent's communication style, proactivity, reasoning approach, or execution patterns. Supports both free tier (quick assessment) and premium tier (full 93-question assessment with detailed diagnostics).",
+  "version": "0.1.1",
+  "author": {
+    "name": "torchesfrms"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/torchesfrms/agent-mbti",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/torchesfrms/agent-mbti"
+}

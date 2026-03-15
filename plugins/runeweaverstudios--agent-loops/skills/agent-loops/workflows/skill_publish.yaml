@@ -1,0 +1,22 @@
+# Skill publish: Test -> Format docs -> Review -> Publish
+id: skill_publish
+name: Skill Publish
+description: Test a skill, format its docs, review for quality, then publish to ClawHub.
+steps:
+  - id: test
+    agent: tester
+    task_template: "Run tests for this OpenClaw skill. Check that scripts execute without errors, CLI flags work, and expected output is produced:\n\n{{ user_input }}"
+    timeout: 300
+
+  - id: format_docs
+    agent: editor
+    task_template: "Format and polish the SKILL.md documentation for this OpenClaw skill. Ensure it follows ClawHub conventions (description, usage, examples, requirements):\n\n{{ test_output }}"
+
+  - id: review
+    agent: reviewer
+    task_template: "Review this skill for publish readiness. Check: tests pass, docs are complete, no hardcoded paths, no secrets, proper error handling:\n\nTest results:\n{{ test_output }}\n\nDocs:\n{{ format_docs_output }}"
+
+  - id: publish
+    agent: dev
+    task_template: "Publish this skill to ClawHub. Run the clawhub-publisher with the review feedback incorporated:\n\nReview:\n{{ review_output }}"
+    optional: true

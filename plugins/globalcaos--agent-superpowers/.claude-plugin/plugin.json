@@ -1,0 +1,10 @@
+{
+  "name": "globalcaos--agent-superpowers",
+  "description": "Your agent says 'done' — but did it check? Superpowers turns any OpenClaw agent into a disciplined engineer. Verification iron law (evidence before claims), three-agent code review (build → verify spec → verify quality), systematic debugging (4-phase root cause, three-strike rule), brainstorming gates (design before code), and anti-over-engineering rules. Use when: (1) coding tasks of any complexity, (2) debugging failures, (3) about to claim work is complete, (4) spawning sub-agents, (5) planning features, (6) reviewing code. Inspired by top coding agent methodologies, adapted for OpenClaw multi-agent architecture.",
+  "version": "1.1.0",
+  "author": {
+    "name": "globalcaos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/agent-superpowers",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/agent-superpowers"
+}

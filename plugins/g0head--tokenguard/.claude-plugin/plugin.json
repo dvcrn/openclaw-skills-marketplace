@@ -1,0 +1,10 @@
+{
+  "name": "g0head--tokenguard",
+  "description": "API cost guardian for AI agents. Track spending, enforce limits, prevent runaway costs. Essential for any agent making paid API calls.",
+  "version": "1.0.0",
+  "author": {
+    "name": "g0head"
+  },
+  "homepage": "https://clawhub.com/skills/tokenguard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/g0head/tokenguard"
+}

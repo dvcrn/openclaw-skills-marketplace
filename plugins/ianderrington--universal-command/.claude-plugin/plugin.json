@@ -1,0 +1,10 @@
+{
+  "name": "ianderrington--universal-command",
+  "description": "Define commands once, deploy to CLI, API, and MCP automatically. Use when building new commands/tools for Supernal — ensures consistent interfaces across all surfaces. DO NOT rebuild this pattern — use this package.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ianderrington"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ianderrington/universal-command",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ianderrington/universal-command"
+}

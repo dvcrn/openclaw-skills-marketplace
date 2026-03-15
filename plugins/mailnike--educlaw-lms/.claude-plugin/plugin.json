@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--educlaw-lms",
+  "description": "LMS sync, assignments, course materials, and online gradebook for EduClaw. Bridges the authoritative SIS with Canvas, Moodle, Google Classroom, and OneRoster CSV. 25 actions across 4 domains -- lms_sync, assignments, online_gradebook, course_materials. FERPA/COPPA compliant. DPA hard-gated. Credentials AES-256 encrypted at rest.",
+  "version": "2.1.0",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.educlaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/educlaw-lms"
+}

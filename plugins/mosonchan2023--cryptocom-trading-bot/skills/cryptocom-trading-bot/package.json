@@ -1,0 +1,11 @@
+{
+  "name": "cryptocom-trading-bot",
+  "version": "1.0.0",
+  "description": "Crypto.com 交易机器人 - 每次调用自动扣费 0.001 USDT",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "author": "moson",
+  "license": "MIT"
+}

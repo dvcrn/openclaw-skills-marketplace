@@ -1,0 +1,10 @@
+{
+  "name": "pr1vateer--opensysinfo-skill",
+  "description": "Small skill that reports basic system information (OS, uptime, CPU, memory, disk). Implemented in Bash.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pr1vateer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pr1vateer/opensysinfo-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pr1vateer/opensysinfo-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "smallsongsong--song-song-taxi-skill",
+  "description": "个人出行用 AI 助手。打车、叫车、查价、路线规划、订单跟踪时使用。支持：实时叫车/价格预估/订单监控/司机位置/预约出行/公交驾车步行骑行路线。触发词：\"打车\"、\"叫车\"、\"去[地点]\"、\"回家\"、\"上班\"、\"下班\"、\"查价格\"、\"路线规划\"、\"怎么走\"、\"步行到\"、\"取消订单\"、\"司机\"、\"watch订单\"、\"查订单\"。",
+  "version": "1.0.3",
+  "author": {
+    "name": "smallsongsong"
+  },
+  "homepage": "null",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/smallsongsong/song-song-taxi-skill"
+}

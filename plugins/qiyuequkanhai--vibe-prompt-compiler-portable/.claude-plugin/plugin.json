@@ -1,0 +1,10 @@
+{
+  "name": "qiyuequkanhai--vibe-prompt-compiler-portable",
+  "description": "Compile rough natural-language coding requests into structured, high-signal prompts for cross-platform AI coding tools such as Cursor, Claude Code, Codex CLI, Gemini CLI, and generic IDE chat assistants. Use when a user describes a vague implementation request like \"build a dashboard\", \"fix this bug\", \"add CRUD\", or \"refactor this page\" and you should first transform it into a scoped implementation brief before generating code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "qiyuequkanhai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qiyuequkanhai/vibe-prompt-compiler-portable",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qiyuequkanhai/vibe-prompt-compiler-portable"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ariktulcha--devops-bridge",
+  "description": "Unified developer operations bridge connecting GitHub, CI/CD (GitHub Actions), Slack, Discord, and issue trackers (Linear, Jira, GitHub Issues) into cross-tool automated workflows. Sends context-rich CI failure notifications to Slack with failing test details, tracks PR review lifecycle with escalating reminders, generates daily dev standup summaries, syncs issue status when PRs are merged, detects flaky tests, and monitors repository health. Use this skill for: PR review reminders, CI build alerts, \"what happened in my repos\", \"any failing builds\", \"who needs a review\", dev team standup summary, deploy notifications, repository monitoring, connecting GitHub to Slack, linking PRs to Jira/Linear tickets, code review tracking, merge conflict alerts, or any request to bridge development tools together. If the user mentions GitHub AND Slack (or any two dev tools) together, this skill connects them.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ariktulcha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ariktulcha/devops-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ariktulcha/devops-bridge"
+}

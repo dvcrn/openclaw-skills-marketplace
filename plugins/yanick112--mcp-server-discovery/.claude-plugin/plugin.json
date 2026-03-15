@@ -1,0 +1,10 @@
+{
+  "name": "yanick112--mcp-server-discovery",
+  "description": "Discover, search, and manage MCP (Model Context Protocol) servers. Use when the user needs to find MCP servers, get server information, generate MCP client configurations, or work with the MCP ecosystem. Triggers on queries about MCP servers, Model Context Protocol, server discovery, or MCP configuration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yanick112"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yanick112/mcp-server-discovery",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yanick112/mcp-server-discovery"
+}

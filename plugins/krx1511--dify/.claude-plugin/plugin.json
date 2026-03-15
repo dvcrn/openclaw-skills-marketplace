@@ -1,0 +1,10 @@
+{
+  "name": "krx1511--dify",
+  "description": "Dify AI应用开发平台指南。用于构建LLM应用、工作流、Agent和知识库。当用户需要(1)使用Dify创建AI应用 (2)设计LLM工作流 (3)配置知识库RAG (4)开发AI Agent (5)调用Dify API (6)自托管部署Dify时激活此技能。",
+  "version": "1.0.0",
+  "author": {
+    "name": "krx1511"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/krx1511/dify",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/krx1511/dify"
+}

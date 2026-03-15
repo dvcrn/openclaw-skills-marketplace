@@ -1,0 +1,10 @@
+{
+  "name": "robinnnnn--guitar-tab-finder",
+  "description": "Find guitar tabs/sheet sources for a song from a title or link (especially YouTube), rank the best matches, and produce a clean practice note. Use when a user asks to locate tabs/chords/fingerstyle arrangements and optionally create/update an Obsidian note (or generic markdown/json output) for a learning queue.",
+  "version": "1.0.1",
+  "author": {
+    "name": "robinnnnn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/robinnnnn/guitar-tab-finder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robinnnnn/guitar-tab-finder"
+}

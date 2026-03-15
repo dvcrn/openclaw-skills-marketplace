@@ -1,0 +1,10 @@
+{
+  "name": "djedi--clicky-analytics",
+  "description": "Fetch website analytics from Clicky (clicky.com) via their REST API. Use when the user asks about website traffic, visitors, pageviews, top pages, bounce rate, search rankings, traffic sources, countries, or any Clicky analytics data. Also use for scheduled analytics reports or comparing traffic across date ranges.",
+  "version": "1.2.0",
+  "author": {
+    "name": "djedi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/djedi/clicky-analytics",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/djedi/clicky-analytics"
+}

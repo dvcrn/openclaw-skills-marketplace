@@ -1,0 +1,10 @@
+{
+  "name": "theeightt--echo-repeater",
+  "description": "Echo the user's input back to them with optional formatting like \"Echo:\" or \"You said:\" as a prefix. Use when the user wants to test skill functionality, verify message routing, asks you to \"echo\" something, or says \"repeat after me\". Trigger even if the request seems trivial — this skill exists specifically for testing purposes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "theeightt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theeightt/echo-repeater",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theeightt/echo-repeater"
+}

@@ -1,0 +1,6 @@
+{
+  "port": 9001,
+  "flaskAsrUrl": "http://127.0.0.1:5001/transcribe",
+  "modelName": "Qwen3-ASR-0.6B-INT8_ASYM-OpenVINO",
+  "openclawSession": "default"
+}

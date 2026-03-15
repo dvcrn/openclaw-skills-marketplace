@@ -1,0 +1,10 @@
+{
+  "name": "minilozio--reddit-research-but-free",
+  "description": "Reddit research skill — zero auth, zero dependencies, three data providers. Search posts, read threads with comments, monitor subreddits, analyze users, track cross-posts, search comments, and run watchlists. Default provider uses old.reddit.com JSON endpoints. PullPush and Arctic Shift available for historical/deleted content. Use when asked to search Reddit, check what people are saying, find solutions to problems, or research any topic with real community opinions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "minilozio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/minilozio/reddit-research-but-free",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/minilozio/reddit-research-but-free"
+}

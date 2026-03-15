@@ -1,0 +1,10 @@
+{
+  "name": "mfaiz-007--unitask-task-agent",
+  "description": "Manage tasks + time blocks in Unitask (unitask.app) via scoped API token (CLI or MCP).",
+  "version": "0.13.3",
+  "author": {
+    "name": "mfaiz-007"
+  },
+  "homepage": "https://unitask.app",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mfaiz-007/unitask-task-agent"
+}

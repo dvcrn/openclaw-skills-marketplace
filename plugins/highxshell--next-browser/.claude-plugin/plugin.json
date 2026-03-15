@@ -1,0 +1,10 @@
+{
+  "name": "highxshell--next-browser",
+  "description": "Use Nextbrowser cloud API to spin up cloud browsers for Openclaw to run autonomous browser tasks. Primary use is creating browser sessions with profiles (persisted logins/cookies) that Openclaw can control to manage social media and other online accounts. Secondary use is running task subagents for fast autonomous browser automation under residential proxy, browser stealth, and CAPTCHA solving capability. Docs at docs.nextbrowser.com.",
+  "version": "1.0.14",
+  "author": {
+    "name": "highxshell"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/highxshell/next-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/highxshell/next-browser"
+}

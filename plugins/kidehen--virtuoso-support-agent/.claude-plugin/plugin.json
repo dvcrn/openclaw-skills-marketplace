@@ -1,0 +1,10 @@
+{
+  "name": "kidehen--virtuoso-support-agent",
+  "description": "Technical support and database management for OpenLink Virtuoso Server with RDF Views generation, SPARQL queries, and comprehensive database operations. Provides assistance with installation, configuration, troubleshooting, RDF data management, SQL/SPARQL/GraphQL queries, automated RDF Views generation from relational database tables, entity discovery, and metadata management using 23 specialized MCP tools.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kidehen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kidehen/virtuoso-support-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kidehen/virtuoso-support-agent"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ztnt-816--xiaohongshu-hotspot-writer1",
+  "description": "每日热点文案助手，专为【人工智能/AI】账号方向设计。当用户说\"帮我抓取今天热榜\"、\"生成今天的小红书文案\"、\"今日AI热点\"、\"小红书选题\"、\"帮我写小红书\"、\"今天有什么热点\"时触发此 skill。自动抓取热榜 → 过滤AI/科技话题 → 生成小红书文案日报，无需任何额外配置。",
+  "version": "1.0.0",
+  "author": {
+    "name": "ztnt-816"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ztnt-816/xiaohongshu-hotspot-writer1",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ztnt-816/xiaohongshu-hotspot-writer1"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jolestar--etherscan-mcp-skill",
+  "description": "Use Etherscan MCP through UXC for address balance checks, token holder analysis, transaction inspection, and contract lookup tasks. Use when tasks need Etherscan MCP tools for onchain investigation with help-first schema inspection, bearer-key auth, and tier-aware read-first handling.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jolestar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jolestar/etherscan-mcp-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jolestar/etherscan-mcp-skill"
+}

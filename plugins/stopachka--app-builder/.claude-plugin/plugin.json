@@ -1,0 +1,10 @@
+{
+  "name": "stopachka--app-builder",
+  "description": "Build, edit, and deploy Instant-backed apps using npx instant-cli, create-instant-app (Next.js + Codex), GitHub (gh), and Vercel (vercel). Use when asked to create a new app, modify an existing app, fix bugs, add features, or deploy/update an app. Projects live under ~/apps; always work inside the relevant app folder.",
+  "version": "1.0.0",
+  "author": {
+    "name": "stopachka"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stopachka/app-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stopachka/app-builder"
+}

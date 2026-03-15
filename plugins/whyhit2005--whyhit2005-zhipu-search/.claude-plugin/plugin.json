@@ -1,0 +1,10 @@
+{
+  "name": "whyhit2005--whyhit2005-zhipu-search",
+  "description": "Zhipu AI Web Search Tool - Provides flexible search engine capabilities.\n \n Use when:\n - Need to search web information for latest data\n - Need specific search engines (Sogou, Quark, Zhipu Search)\n - Need to filter search results by time range or domain\n - Need to control result count and detail level\n \n Supported search engines: search_std (basic), search_pro (advanced), search_pro_sogou (Sogou), search_pro_quark (Quark)\n Supported parameters: search intent recognition, result count, time filter, domain filter, content size control",
+  "version": "1.0.2",
+  "author": {
+    "name": "whyhit2005"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/whyhit2005/whyhit2005-zhipu-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/whyhit2005/whyhit2005-zhipu-search"
+}

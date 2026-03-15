@@ -1,0 +1,10 @@
+{
+  "name": "ucmai--ucm",
+  "description": "Provides API marketplace access for AI agents. Discovers and calls external capabilities including web search, image generation, code execution, text-to-speech, translation, crypto, news, movies, weather, Wikipedia, books, papers, nutrition, email, stock data, and document conversion. 100 services, 217 endpoints. Registers for free with $1.00 credits. 87 free services, paid from $0.01-$0.05 per call via simple HTTP. No SDK needed.",
+  "version": "1.1.1",
+  "author": {
+    "name": "ucmai"
+  },
+  "homepage": "https://ucm.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ucmai/ucm"
+}

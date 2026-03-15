@@ -1,0 +1,10 @@
+{
+  "name": "winlinvip--finance-statements",
+  "description": "Track financial statements (bank, credit card, insurance, CanadaLife, etc.) in memory tracking files. Use when: (1) user provides a new statement (PDF text, pasted content) to record, (2) user wants to add a statement period into an existing memory/finance/*.md file, (3) user mentions 'add to' or 'statement' with financial content. NOT for: reading existing statements, general financial questions, or non-statement documents.",
+  "version": "1.0.1",
+  "author": {
+    "name": "winlinvip"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/winlinvip/finance-statements",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/winlinvip/finance-statements"
+}

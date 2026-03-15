@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+
+    "id": "@id",
+    "type": "@type",
+
+    "tv": "https://gitlab.com/lv8rlabs/tradesman-verify/-/raw/main/contexts/v1.json#",
+
+    "KYCCredential": {
+      "@id": "tv:KYCCredential",
+      "@context": {
+        "kycLevel": { "@id": "tv:kycLevel" },
+        "sanctionsCleared": { "@id": "tv:sanctionsCleared", "@type": "xsd:boolean" },
+        "pepStatus": { "@id": "tv:pepStatus" },
+        "riskScore": { "@id": "tv:riskScore", "@type": "xsd:integer" },
+        "documentType": { "@id": "tv:documentType" }
+      }
+    },
+
+    "ContractorLicense": {
+      "@id": "tv:ContractorLicense",
+      "@context": {
+        "licenseType": { "@id": "tv:licenseType" },
+        "licenseState": { "@id": "tv:licenseState" },
+        "licenseClass": { "@id": "tv:licenseClass" },
+        "issuingAuthority": { "@id": "tv:issuingAuthority" }
+      }
+    },
+
+    "InsuranceCredential": {
+      "@id": "tv:InsuranceCredential",
+      "@context": {
+        "insuranceType": { "@id": "tv:insuranceType" },
+        "coverageAmount": { "@id": "tv:coverageAmount", "@type": "xsd:decimal" },
+        "carrier": { "@id": "tv:carrier" }
+      }
+    },
+
+    "BusinessEntityCredential": {
+      "@id": "tv:BusinessEntityCredential",
+      "@context": {
+        "businessName": { "@id": "tv:businessName" },
+        "companyNumber": { "@id": "tv:companyNumber" },
+        "jurisdiction": { "@id": "tv:jurisdiction" },
+        "businessStatus": { "@id": "tv:businessStatus" },
+        "incorporationDate": { "@id": "tv:incorporationDate", "@type": "xsd:date" },
+        "companyType": { "@id": "tv:companyType" },
+        "verificationSource": { "@id": "tv:verificationSource" },
+        "verifiedAt": { "@id": "tv:verifiedAt", "@type": "xsd:dateTime" }
+      }
+    },
+
+    "CredentialRevocation": {
+      "@id": "tv:CredentialRevocation",
+      "@context": {
+        "credentialId": { "@id": "tv:credentialId" },
+        "issuerAdiUrl": { "@id": "tv:issuerAdiUrl" },
+        "subjectAdiUrl": { "@id": "tv:subjectAdiUrl" },
+        "revokedAt": { "@id": "tv:revokedAt", "@type": "xsd:dateTime" },
+        "reason": { "@id": "tv:reason" }
+      }
+    },
+
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  }
+}

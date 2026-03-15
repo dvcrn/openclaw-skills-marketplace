@@ -1,0 +1,10 @@
+{
+  "name": "c36025251-pixel--outlook-graph",
+  "description": "Connect OpenClaw to Outlook and Microsoft Graph for email, calendar, contacts, and folder operations using a pre-provided access token. Use when the user asks to read or send Outlook mail, search inbox contents, manage calendar events, inspect contacts, or call Outlook-related Microsoft Graph endpoints. Made especially for openclaw agents.",
+  "version": "1.0.2",
+  "author": {
+    "name": "c36025251-pixel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/c36025251-pixel/outlook-graph",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/c36025251-pixel/outlook-graph"
+}

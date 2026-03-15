@@ -1,0 +1,10 @@
+{
+  "name": "googleworkspace-bot--recipe-save-email-attachments",
+  "description": "Find Gmail messages with attachments and save them to a Google Drive folder.",
+  "version": "1.0.0",
+  "author": {
+    "name": "googleworkspace-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/googleworkspace-bot/recipe-save-email-attachments",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/googleworkspace-bot/recipe-save-email-attachments"
+}

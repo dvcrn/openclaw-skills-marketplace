@@ -1,0 +1,10 @@
+{
+  "name": "ansatzx--jina-deepsearch",
+  "description": "Jina DeepSearch API access via AIHubMix - use curl to call the HTTP API directly.",
+  "version": "0.0.3",
+  "author": {
+    "name": "ansatzx"
+  },
+  "homepage": "https://jina.ai/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ansatzx/jina-deepsearch"
+}

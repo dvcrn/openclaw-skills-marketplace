@@ -1,0 +1,10 @@
+{
+  "name": "vellis59--memory-lite",
+  "description": "Lightweight memory management for OpenClaw without embeddings or vector search. Use to append notes to memory/YYYY-MM-DD.md and MEMORY.md, do simple keyword search (grep) across memory files, and generate quick local summaries of recent memory. Safe, local-only, no config changes.",
+  "version": "0.1.0",
+  "author": {
+    "name": "vellis59"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vellis59/memory-lite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vellis59/memory-lite"
+}

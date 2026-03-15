@@ -1,0 +1,10 @@
+{
+  "name": "merjua14--prediction-market-trader",
+  "description": "Prediction market trading toolkit for Kalshi. Includes API authentication (RSA-PSS signatures), market scanning, Sofascore tennis de-vigging, true probability calculation, Kelly criterion sizing, and order execution. Use when trading on Kalshi, analyzing prediction market odds, calculating expected value, de-vigging bookmaker odds, sizing bets with Kelly criterion, or building prediction market bots.",
+  "version": "1.0.0",
+  "author": {
+    "name": "merjua14"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/merjua14/prediction-market-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/merjua14/prediction-market-trader"
+}

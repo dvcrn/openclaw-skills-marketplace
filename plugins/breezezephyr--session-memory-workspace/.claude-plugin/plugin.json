@@ -1,0 +1,10 @@
+{
+  "name": "breezezephyr--session-memory-workspace",
+  "description": "Write session summaries to daily memory files and search session history so OpenClaw can recall and cite past conversations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "breezezephyr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/breezezephyr/session-memory-workspace",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/breezezephyr/session-memory-workspace"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "unified-dev-monitor-autobuy",
+  "version": "1.0.0",
+  "description": "Unified Dev Monitor with Auto-Buy for BSC and Solana",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js test",
+    "monitor-bsc": "node index-bsc.js",
+    "monitor-sol": "node index-sol-safe.js"
+  },
+  "keywords": [
+    "bsc",
+    "solana",
+    "monitor",
+    "trading",
+    "auto-buy",
+    "crypto",
+    "defi",
+    "multi-chain"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.98.4",
+    "axios": "^1.13.6",
+    "ethers": "^5.0.0"
+  }
+}

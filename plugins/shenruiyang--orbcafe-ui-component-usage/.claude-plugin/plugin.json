@@ -1,0 +1,10 @@
+{
+  "name": "shenruiyang--orbcafe-ui-component-usage",
+  "description": "Route ORBCAFE UI requests to the correct module skill and enforce official examples-based integration baseline. Use when requests are ambiguous, cross-module, or when prior attempts had \"no effect\"; classify to StdReport, Graph+Detail+Agent, Layout+Navigation, or Pivot+AINav and require install/startup/verification steps.",
+  "version": "1.0.1",
+  "author": {
+    "name": "shenruiyang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shenruiyang/orbcafe-ui-component-usage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shenruiyang/orbcafe-ui-component-usage"
+}

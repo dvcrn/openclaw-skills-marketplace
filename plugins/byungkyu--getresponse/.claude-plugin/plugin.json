@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--getresponse",
+  "description": "GetResponse API integration with managed OAuth. Manage email marketing campaigns, contacts, newsletters, autoresponders, and segments.\n Use this skill when users want to manage email lists, send newsletters, create campaigns, or work with contacts in GetResponse.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/getresponse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/getresponse"
+}

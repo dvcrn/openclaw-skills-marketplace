@@ -1,0 +1,268 @@
+# compliance_attestation — GitLab Duo Workflow
+# Spec: GitLab Duo Workflows YAML v1 (requires GitLab Premium + Duo license)
+# MCP server: tradesman-verify (https://gitlab.com/tradesmantools1/tradesman-verify)
+#
+# Purpose: Pre-job (or periodic) compliance check. Verifies all required credentials
+#          are current, flags credentials expiring within 30 days, generates a
+#          compliance report, and optionally issues a ComplianceAttestation credential
+#          anchored to the contractor's ADI.
+#
+# Trigger: Manual, scheduled (weekly cron), or pre-job gate from crew_routing_and_dispatch
+
+name: compliance_attestation
+version: "1.0"
+description: >
+  Full compliance check for a licensed tradesperson. Reads all credentials from
+  their Accumulate ADI, validates expiry margins, generates an attestation report,
+  and routes to human sign-off before optionally anchoring the compliance result
+  on-chain as a W3C Verifiable Credential.
+
+metadata:
+  category: compliance
+  tags: [compliance, attestation, verification, blockchain, accumulate, pre-job]
+  mcp_server: tradesman-verify
+  author: TradesmanTools / LV8R Labs
+  gitlab_catalog_listing: tradesmantools1/tradesman-verify
+
+inputs:
+  contractor_adi_url:
+    type: string
+    description: "Contractor's Accumulate ADI, e.g. 'acc://john-doe-electric.acme'"
+    required: true
+
+  issuer_adi_url:
+    type: string
+    description: >
+      ADI URL of the issuing authority that signs the ComplianceAttestation credential.
+      Typically the platform operator or a licensed compliance officer's ADI.
+      Leave blank to generate report only (no on-chain issuance).
+    required: false
+
+  expiry_warning_days:
+    type: integer
+    description: >
+      Warn when any credential expires within this many days.
+      Defaults to 30 (standard for compliance pre-checks).
+    default: 30
+
+  require_business_entity:
+    type: boolean
+    description: "Require a BusinessEntityCredential for compliance pass"
+    default: false
+
+  attestation_expiry_date:
+    type: string
+    description: >
+      ISO 8601 expiration for the ComplianceAttestation credential if issued.
+      Defaults to 90 days from now. e.g. "2026-05-28T00:00:00Z"
+    required: false
+
+steps:
+  # ── Step 1: Full blockchain credential verification ───────────────────────────
+  - id: full_verify
+    name: "Full Credential Verification"
+    description: >
+      Query all credentials from the contractor's Accumulate ADI.
+      Returns verification level, expiry margins, and any issues found.
+    type: agent_tool
+    tool:
+      name: verify_contractor
+      server: tradesman-verify
+    with:
+      adi_url: "${{ inputs.contractor_adi_url }}"
+      require_kyc: "true"
+      require_license: "true"
+      require_insurance: "true"
+    outputs:
+      - name: result
+        from: $
+      - name: verified
+        from: verified
+      - name: level
+        from: level
+      - name: missing
+        from: missing
+      - name: expired
+        from: expired
+      - name: revoked
+        from: revoked
+      - name: self_attested_only
+        from: self_attested_only
+      - name: kyc_days_remaining
+        from: credentials.kyc.days_until_expiry
+      - name: license_days_remaining
+        from: credentials.license.days_until_expiry
+      - name: insurance_days_remaining
+        from: credentials.insurance.days_until_expiry
+
+  # ── Step 2: Check for expiry warnings ────────────────────────────────────────
+  - id: check_expiry_warnings
+    name: "Check Expiry Thresholds"
+    type: condition
+    description: >
+      Determine if any credential expires within the warning window.
+      Triggers human review if yes; proceeds to compliance gate if no.
+    if: >
+      "${{ steps.full_verify.outputs.kyc_days_remaining < inputs.expiry_warning_days
+          || steps.full_verify.outputs.license_days_remaining < inputs.expiry_warning_days
+          || steps.full_verify.outputs.insurance_days_remaining < inputs.expiry_warning_days }}"
+    then:
+      next: expiry_warning_review
+    else:
+      next: compliance_gate
+
+  # ── Step 3a: Expiry warning — human review ────────────────────────────────────
+  - id: expiry_warning_review
+    name: "Expiry Warning — Human Review"
+    type: human_review
+    prompt: |
+      WARNING: One or more credentials for ${{ inputs.contractor_adi_url }} expire
+      within ${{ inputs.expiry_warning_days }} days.
+
+      Credential expiry status:
+      - KYC:       ${{ steps.full_verify.outputs.kyc_days_remaining }} days remaining
+      - License:   ${{ steps.full_verify.outputs.license_days_remaining }} days remaining
+      - Insurance: ${{ steps.full_verify.outputs.insurance_days_remaining }} days remaining
+
+      Current verification level: ${{ steps.full_verify.outputs.level }}
+      Missing credentials:  ${{ steps.full_verify.outputs.missing }}
+      Revoked credentials:  ${{ steps.full_verify.outputs.revoked }}
+      Self-attested only:   ${{ steps.full_verify.outputs.self_attested_only }}
+
+      Approve to proceed with compliance attestation (with warning noted),
+      or reject to halt and notify contractor to renew credentials first.
+    context:
+      - "${{ steps.full_verify.outputs.result }}"
+    on_approve:
+      next: compliance_gate
+    on_reject:
+      next: halt_and_notify
+
+  # ── Step 3b: Full compliance gate ────────────────────────────────────────────
+  - id: compliance_gate
+    name: "Compliance Gate — Pass/Fail"
+    type: condition
+    if: >
+      "${{ steps.full_verify.outputs.verified == true
+          && steps.full_verify.outputs.expired == []
+          && steps.full_verify.outputs.revoked == [] }}"
+    then:
+      next: human_sign_off
+    else:
+      next: compliance_fail_review
+
+  # ── Step 4a: Compliance failed — human review ─────────────────────────────────
+  - id: compliance_fail_review
+    name: "Compliance Failed — Review"
+    type: human_review
+    prompt: |
+      Compliance check FAILED for ${{ inputs.contractor_adi_url }}.
+
+      Verification level: ${{ steps.full_verify.outputs.level }}
+      Missing:  ${{ steps.full_verify.outputs.missing }}
+      Expired:  ${{ steps.full_verify.outputs.expired }}
+      Revoked:  ${{ steps.full_verify.outputs.revoked }}
+
+      Approve exception or reject to halt job assignment.
+    on_approve:
+      next: human_sign_off
+    on_reject:
+      next: halt_and_notify
+
+  # ── Step 4b: Human sign-off on compliance report ──────────────────────────────
+  - id: human_sign_off
+    name: "Compliance Officer Sign-Off"
+    type: human_review
+    prompt: |
+      Compliance report for ${{ inputs.contractor_adi_url }}
+
+      Verification level: ${{ steps.full_verify.outputs.level }}
+      KYC:       ${{ steps.full_verify.outputs.kyc_days_remaining }} days remaining
+      License:   ${{ steps.full_verify.outputs.license_days_remaining }} days remaining
+      Insurance: ${{ steps.full_verify.outputs.insurance_days_remaining }} days remaining
+      Self-attested only: ${{ steps.full_verify.outputs.self_attested_only }}
+
+      Sign off to record this compliance check. If an issuer_adi_url is provided,
+      a ComplianceAttestation credential will be anchored to the contractor's ADI.
+    on_approve:
+      next: issue_attestation_check
+    on_reject:
+      next: halt_and_notify
+
+  # ── Step 5: Check whether to issue on-chain attestation ──────────────────────
+  - id: issue_attestation_check
+    name: "Issue On-Chain Attestation?"
+    type: condition
+    if: "${{ inputs.issuer_adi_url != '' && inputs.issuer_adi_url != null }}"
+    then:
+      next: issue_compliance_credential
+    else:
+      next: record_compliance_report
+
+  # ── Step 6a: Issue ComplianceAttestation W3C VC on-chain ─────────────────────
+  - id: issue_compliance_credential
+    name: "Issue ComplianceAttestation Credential"
+    description: >
+      Anchors the compliance result as a W3C Verifiable Credential on the
+      Accumulate blockchain. Written to the contractor's /credentials data account.
+    type: agent_tool
+    tool:
+      name: issue_credential
+      server: tradesman-verify
+    with:
+      issuer_adi_url: "${{ inputs.issuer_adi_url }}"
+      subject_adi_url: "${{ inputs.contractor_adi_url }}"
+      credential_type: "ComplianceAttestation"
+      claims: >
+        {
+          "verificationLevel": "${{ steps.full_verify.outputs.level }}",
+          "kyc_days_remaining": ${{ steps.full_verify.outputs.kyc_days_remaining }},
+          "license_days_remaining": ${{ steps.full_verify.outputs.license_days_remaining }},
+          "insurance_days_remaining": ${{ steps.full_verify.outputs.insurance_days_remaining }},
+          "selfAttestedOnly": ${{ steps.full_verify.outputs.self_attested_only }},
+          "attestedBy": "${{ inputs.issuer_adi_url }}",
+          "verificationSource": "tradesman-verify/blockchain"
+        }
+      expiration_date: "${{ inputs.attestation_expiry_date }}"
+    outputs:
+      - name: credential_id
+        from: credential_id
+      - name: txid
+        from: txid
+      - name: data_account_url
+        from: data_account_url
+
+  # ── Step 6b: Record report only (no on-chain issuance) ───────────────────────
+  - id: record_compliance_report
+    name: "Record Compliance Report"
+    type: agent_tool
+    tool:
+      name: record_compliance_report
+      server: tradesman-tools
+    with:
+      contractor_adi_url: "${{ inputs.contractor_adi_url }}"
+      verification_level: "${{ steps.full_verify.outputs.level }}"
+      checked_at: "${{ steps.full_verify.outputs.result.checked_at }}"
+
+  # ── Step 7: Halt and notify contractor ───────────────────────────────────────
+  - id: halt_and_notify
+    name: "Halt — Notify Contractor"
+    type: agent_tool
+    tool:
+      name: notify_contractor
+      server: tradesman-tools
+    with:
+      contractor_adi_url: "${{ inputs.contractor_adi_url }}"
+      subject: "Compliance check failed — action required"
+      message: >
+        Your credential compliance check did not pass. Missing: ${{ steps.full_verify.outputs.missing }}.
+        Expired: ${{ steps.full_verify.outputs.expired }}.
+        Please update your credentials on your Accumulate ADI and re-run the compliance check.
+
+outputs:
+  - name: verification_level
+    from: steps.full_verify.outputs.level
+  - name: credential_id
+    from: steps.issue_compliance_credential.outputs.credential_id
+  - name: txid
+    from: steps.issue_compliance_credential.outputs.txid

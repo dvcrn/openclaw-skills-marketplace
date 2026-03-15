@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--hubspot-api",
+  "description": "HubSpot CRM API integration with managed OAuth. Manage contacts, companies, deals, and associations. Use this skill when users want to create or update CRM records, search contacts, or sync data with HubSpot. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.4",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/hubspot-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/hubspot-api"
+}

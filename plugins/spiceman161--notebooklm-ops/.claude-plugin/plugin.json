@@ -1,0 +1,10 @@
+{
+  "name": "spiceman161--notebooklm-ops",
+  "description": "Operate Google NotebookLM MCP authentication lifecycle on Linux host. Use for NotebookLM MCP (`notebooklm-mcp` via `mcporter`) when cookies expire frequently and auth must be refreshed often. Handles on/off, auth refresh, status, and smoke test. Triggers: \"Включи NotebookLM\", \"Выключи NotebookLM\", \"обнови авторизацию NotebookLM\", \"проверь NotebookLM\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "spiceman161"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/spiceman161/notebooklm-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/spiceman161/notebooklm-ops"
+}

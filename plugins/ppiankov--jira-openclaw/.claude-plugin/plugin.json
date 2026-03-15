@@ -1,0 +1,10 @@
+{
+  "name": "ppiankov--jira-openclaw",
+  "description": "Connect OpenClaw to Jira Cloud with secret-safe API access via pastewatch redaction. Includes credential setup, REST API helper script, JQL patterns, focus auto-linker cron, and overdue ticket bumper. Use when integrating Jira into an OpenClaw agent, setting up Jira cron jobs, or querying issues from chat.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ppiankov"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ppiankov/jira-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ppiankov/jira-openclaw"
+}

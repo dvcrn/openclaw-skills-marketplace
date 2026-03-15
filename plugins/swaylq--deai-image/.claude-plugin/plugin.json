@@ -1,0 +1,10 @@
+{
+  "name": "swaylq--deai-image",
+  "description": "Detect and remove AI fingerprints from AI-generated images. Strip metadata, add film grain, recompress, and bypass AI image detectors. Works with Midjourney, DALL-E, Stable Diffusion, Flux output.",
+  "version": "1.0.0",
+  "author": {
+    "name": "swaylq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/swaylq/deai-image",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/swaylq/deai-image"
+}

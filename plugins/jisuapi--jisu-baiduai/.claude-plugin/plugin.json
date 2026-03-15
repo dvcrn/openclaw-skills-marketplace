@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--jisu-baiduai",
+  "description": "使用百度千帆「智能搜索生成」API，先搜索全网实时信息，再由模型进行智能总结回答。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/jisu-baiduai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/jisu-baiduai"
+}

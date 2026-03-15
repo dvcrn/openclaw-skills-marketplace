@@ -1,0 +1,10 @@
+{
+  "name": "mischa-petschenig--home-assistant-bridge-python",
+  "description": "Control Home Assistant devices, read sensors, and manage automations using the Python Bridge. Use when the user wants to interact with their smart home - turning lights on/off, adjusting thermostats, reading sensor data, checking device states, or creating/modifying automations. Works with any Home Assistant instance accessible via REST API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mischa-petschenig"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mischa-petschenig/home-assistant-bridge-python",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mischa-petschenig/home-assistant-bridge-python"
+}

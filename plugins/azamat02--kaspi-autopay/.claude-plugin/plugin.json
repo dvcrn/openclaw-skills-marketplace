@@ -1,0 +1,10 @@
+{
+  "name": "azamat02--kaspi-autopay",
+  "description": "Telegram bot auto-payment integration for Kazakhstan market (Kaspi Pay). Automates payment verification, receipt checking, and product delivery in Telegram bots. Use when building payment bots for Kazakhstan businesses, info-products, or e-commerce — especially with Kaspi QR/transfer.",
+  "version": "1.0.0",
+  "author": {
+    "name": "azamat02"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/azamat02/kaspi-autopay",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/azamat02/kaspi-autopay"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "aleksandrkrivolap--openclaw-agent-compute",
+  "description": "Public HTTP client skill exposing compute.* tools by calling a private Compute Gateway over HTTPS. Includes a starter kit to run OpenClaw preconfigured.",
+  "version": "0.1.7",
+  "author": {
+    "name": "aleksandrkrivolap"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aleksandrkrivolap/openclaw-agent-compute",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aleksandrkrivolap/openclaw-agent-compute"
+}

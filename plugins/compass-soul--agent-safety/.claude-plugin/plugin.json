@@ -1,0 +1,10 @@
+{
+  "name": "compass-soul--agent-safety",
+  "description": "Outbound safety for autonomous AI agents — scans YOUR output before it leaves the machine. Git pre-commit hooks that automatically block commits containing API keys, tokens, PII, or secrets. Unlike inbound scanners (Skillvet, IronClaw), this protects against what YOU accidentally publish. Use when committing to git repos, publishing to GitHub, or running periodic system health checks. Automated enforcement at the git level — not prompts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "compass-soul"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/compass-soul/agent-safety",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/compass-soul/agent-safety"
+}

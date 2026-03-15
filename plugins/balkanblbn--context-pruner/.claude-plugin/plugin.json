@@ -1,0 +1,10 @@
+{
+  "name": "balkanblbn--context-pruner",
+  "description": "Intelligent context window management by summarizing and removing redundant history. Helps agents maintain high performance in long-running threads.",
+  "version": "1.0.0",
+  "author": {
+    "name": "balkanblbn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/balkanblbn/context-pruner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/balkanblbn/context-pruner"
+}

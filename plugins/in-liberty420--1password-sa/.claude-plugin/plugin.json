@@ -1,0 +1,10 @@
+{
+  "name": "in-liberty420--1password-sa",
+  "description": "Securely inject secrets from 1Password into agent workflows. Uses service accounts with op run/.env.tpl as the primary pattern, op read as fallback. Includes hardened security rules, input validation, and troubleshooting for auth/permission failures. Use when accessing API keys, credentials, or any 1Password secret.",
+  "version": "1.0.2",
+  "author": {
+    "name": "in-liberty420"
+  },
+  "homepage": "https://developer.1password.com/docs/cli/get-started/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/in-liberty420/1password-sa"
+}

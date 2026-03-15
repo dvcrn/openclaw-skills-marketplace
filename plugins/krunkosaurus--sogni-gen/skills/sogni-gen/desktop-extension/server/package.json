@@ -1,0 +1,9 @@
+{
+  "name": "sogni-gen-desktop-server",
+  "version": "1.5.16",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.11.0"
+  }
+}

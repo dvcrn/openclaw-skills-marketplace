@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--backup-script-gen",
+  "description": "Generate database backup scripts with AI. Use when you need automated backups to S3, GCS, or local storage.",
+  "version": "1.0.1",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/backup-script-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/backup-script-gen"
+}

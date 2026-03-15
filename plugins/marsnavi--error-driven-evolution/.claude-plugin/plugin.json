@@ -1,0 +1,10 @@
+{
+  "name": "marsnavi--error-driven-evolution",
+  "description": "Structured error-to-rule learning system for AI agents. Activate when an agent makes a mistake, receives a correction from the user, or needs to check past lessons before making a decision. Converts errors into executable rules (not reflections) stored in lessons.md, and enforces pre-decision rule scanning to prevent repeat mistakes. Supports sharing anonymized lessons to a community repository.",
+  "version": "1.0.0",
+  "author": {
+    "name": "marsnavi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/marsnavi/error-driven-evolution",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marsnavi/error-driven-evolution"
+}

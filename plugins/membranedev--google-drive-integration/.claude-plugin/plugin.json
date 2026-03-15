@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--google-drive-integration",
+  "description": "Google Drive integration. Manage Drives, Users, Permissions. Use when the user wants to interact with Google Drive data.",
+  "version": "1.0.3",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/google-drive-integration"
+}

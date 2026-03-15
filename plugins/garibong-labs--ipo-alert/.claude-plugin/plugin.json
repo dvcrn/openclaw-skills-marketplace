@@ -1,0 +1,10 @@
+{
+  "name": "garibong-labs--ipo-alert",
+  "description": "한국 공모주 청약/신규상장 일정 알림. 38.co.kr에서 데이터 수집, D-1/당일 알림, 주간 요약 제공.",
+  "version": "0.1.2",
+  "author": {
+    "name": "garibong-labs"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/garibong-labs/ipo-alert",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/garibong-labs/ipo-alert"
+}

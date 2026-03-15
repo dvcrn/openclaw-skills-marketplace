@@ -1,0 +1,10 @@
+{
+  "name": "jeffaf--anime-lookup",
+  "description": "CLI for AI agents to search and lookup anime info for their humans. Uses Jikan (unofficial MyAnimeList API). No auth required.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jeffaf"
+  },
+  "homepage": "https://jikan.moe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeffaf/anime-lookup"
+}

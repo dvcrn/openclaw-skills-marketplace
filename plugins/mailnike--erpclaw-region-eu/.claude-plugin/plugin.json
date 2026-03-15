@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--erpclaw-region-eu",
+  "description": "EU regional compliance — VAT (27 member states), reverse charge, OSS, Intrastat, EN 16931 e-invoicing, SAF-T, EC Sales List, IBAN validation, EORI, VIES format, withholding tax, and European CoA template for ERPClaw ERP",
+  "version": "2.1.0",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.erpclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/erpclaw-region-eu"
+}

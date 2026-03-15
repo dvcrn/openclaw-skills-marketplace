@@ -1,0 +1,10 @@
+{
+  "name": "gchapim--oban-designer",
+  "description": "Design and implement Oban background job workers for Elixir. Configure queues, retry strategies, uniqueness constraints, cron scheduling, and error handling. Generate Oban workers, queue config, and test setups. Use when adding background jobs, async processing, scheduled tasks, or recurring cron jobs to an Elixir project using Oban.",
+  "version": "1.0.1",
+  "author": {
+    "name": "gchapim"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gchapim/oban-designer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gchapim/oban-designer"
+}

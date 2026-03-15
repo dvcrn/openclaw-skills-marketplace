@@ -1,0 +1,10 @@
+{
+  "name": "rotemtam--usedada",
+  "description": "hosted backend infra for openclaw agents. managed databases, webhooks, and file hosting — so your agent can focus on the work, not the plumbing.",
+  "version": "0.3.1",
+  "author": {
+    "name": "rotemtam"
+  },
+  "homepage": "https://usedada.dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rotemtam/usedada"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "tristanmanchester--todoist-api-skill",
+  "description": "Manages Todoist tasks, projects, sections, labels, comments, completed-task reports, activity logs, ID migration, project templates, and sync workflows through Todoist API v1. Use when the user asks to capture tasks, quick-add work, triage an inbox, resolve Todoist names to IDs, bulk-close or move tasks, add repeated comments, review completed work, manage project structure, export templates, or automate Todoist workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tristanmanchester"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/todoist-api-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/todoist-api-skill"
+}

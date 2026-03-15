@@ -1,0 +1,10 @@
+{
+  "name": "andyylin--durable-files-weekly-review-public",
+  "description": "Run a weekly token-optimization audit for durable instruction files in any OpenClaw workspace, generate a markdown report, and propose approval-gated cleanup actions. Use when users want to keep AGENTS/USER/TOOLS/MEMORY-style docs lean without silent deletions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andyylin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyylin/durable-files-weekly-review-public",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyylin/durable-files-weekly-review-public"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "leo9--brek-ai",
+  "description": "Integrate with Brek Partner Core Chat API for hotel-search and booking assistant flows. Use when an agent needs to create or continue Brek chat sessions, send user events safely, enforce anti-abuse call controls, and run payment setup or payment confirmation without collecting raw card data.",
+  "version": "1.0.2",
+  "author": {
+    "name": "leo9"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leo9/brek-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leo9/brek-ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ferosin--openclaw-memory-resilience",
+  "description": "Configure OpenClaw agent memory to survive compaction and session restarts. Use when: (1) setting up a new OpenClaw agent or workspace, (2) agents are forgetting instructions or context between sessions, (3) configuring the pre-compaction memory flush, (4) setting up the file archival pattern for memory/archive/, (5) diagnosing why an agent forgot something, or (6) tuning compaction headroom and context pruning. Covers Layer 1 (gateway compaction config) and Layer 3 (file architecture) of the three-layer memory defense.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ferosin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ferosin/openclaw-memory-resilience",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ferosin/openclaw-memory-resilience"
+}

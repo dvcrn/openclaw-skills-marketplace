@@ -1,0 +1,10 @@
+{
+  "name": "datadrivenconstruction--pdf-to-structured",
+  "description": "Extract structured data from construction PDFs. Convert specifications, BOMs, schedules, and reports from PDF to Excel/CSV/JSON. Use OCR for scanned documents and pdfplumber for native PDFs.",
+  "version": "2.0.0",
+  "author": {
+    "name": "datadrivenconstruction"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/pdf-to-structured",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/pdf-to-structured"
+}

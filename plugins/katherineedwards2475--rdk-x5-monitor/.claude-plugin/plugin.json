@@ -1,0 +1,10 @@
+{
+  "name": "katherineedwards2475--rdk-x5-monitor",
+  "description": "只读查询 RDK X5 实时硬件状态：CPU 使用率与频率、BPU 算力占用、内存/磁盘使用、芯片温度、GPU 频率、网络 IP 地址。Use when the user wants to READ or CHECK current CPU usage, BPU utilization, memory, temperature, disk space, or IP address — any real-time status query that does not change system settings. Do NOT use for changing CPU frequency or temperature thresholds (use rdk-x5-system), system backup/upgrade (use rdk-x5-system), network configuration (use rdk-x5-network), or AI inference (use rdk-x5-ai-detect).",
+  "version": "1.0.0",
+  "author": {
+    "name": "katherineedwards2475"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/katherineedwards2475/rdk-x5-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/katherineedwards2475/rdk-x5-monitor"
+}

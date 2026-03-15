@@ -1,0 +1,10 @@
+{
+  "name": "adorostkar--raindrop-cli",
+  "description": "Manage Raindrop.io bookmarks from the command line (search, exists, add, update, remove) using the Raindrop REST API. Use when automating bookmark capture and organization with a personal RAINDROP_TOKEN.",
+  "version": "0.1.0",
+  "author": {
+    "name": "adorostkar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adorostkar/raindrop-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adorostkar/raindrop-cli"
+}

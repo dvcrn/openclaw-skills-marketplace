@@ -1,0 +1,35 @@
+{
+  "name": "miliger-context-manager",
+  "version": "7.0.1",
+  "description": "Context Manager v7.0.1: Adaptive monitoring + Token budget + Intent fingerprint. Three major optimizations from Moltbook community. Saves 90%+ tokens. Based on Hazel_OC's token optimization experience.",
+  "author": "米粒儿",
+  "license": "MIT",
+  "keywords": [
+    "context",
+    "memory",
+    "session",
+    "automatic",
+    "seamless",
+    "switching",
+    "startup-optimization",
+    "layered-reading",
+    "token-saving",
+    "api-monitoring",
+    "real-time-monitoring",
+    "error-monitoring",
+    "stop-reason"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miliger/context-manager"
+  },
+  "homepage": "https://clawhub.com/skills/miliger-context-manager",
+  "engines": {
+    "openclaw": ">=2026.3.0"
+  },
+  "scripts": {
+    "install": "bash install.sh",
+    "test": "bash scripts/test-context-monitor.sh",
+    "monitor": "bash scripts/context-monitor-v6.sh"
+  }
+}

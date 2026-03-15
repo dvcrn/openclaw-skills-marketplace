@@ -1,0 +1,10 @@
+{
+  "name": "wpank--manage-liquidity",
+  "description": "Add liquidity, remove liquidity, or collect fees on Uniswap V2/V3/V4 pools. Handles the full flow including pool selection, range optimization, approvals, safety checks, and transaction execution. Use when the user wants to LP, provide liquidity, remove a position, or collect accumulated fees.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/manage-liquidity",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/manage-liquidity"
+}

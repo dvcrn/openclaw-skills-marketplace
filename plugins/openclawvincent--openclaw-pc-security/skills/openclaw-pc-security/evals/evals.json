@@ -1,0 +1,23 @@
+{
+  "skill_name": "openclaw-pc-security",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Check my Windows security posture and see if I need any updates",
+      "expected_output": "A security report showing Windows version, last update date, support status, and any necessary updates",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Detect if my OpenClaw version is outdated and check for any security risks",
+      "expected_output": "A report showing OpenClaw version status and any security risks detected",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Scan my local network for exposed OpenClaw ports and weak credentials",
+      "expected_output": "A security report showing any exposed ports and weak credentials found",
+      "files": []
+    }
+  ]
+}

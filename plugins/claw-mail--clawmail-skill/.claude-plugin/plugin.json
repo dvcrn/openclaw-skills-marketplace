@@ -1,0 +1,10 @@
+{
+  "name": "claw-mail--clawmail-skill",
+  "description": "Email infrastructure for autonomous AI agents. Create inboxes, send/receive emails, no human intervention required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "claw-mail"
+  },
+  "homepage": "https://clawmail.to",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/claw-mail/clawmail-skill"
+}

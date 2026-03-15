@@ -1,0 +1,10 @@
+{
+  "name": "kermankohli--routemesh-crypto-rpc",
+  "description": "Call RouteMesh's unified JSON-RPC endpoint (lb.routeme.sh) for any EVM chainId using a helper script. Use when you need to fetch onchain data (eth_* methods), debug RPC responses, or demo RouteMesh routing for a chain/method.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kermankohli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kermankohli/routemesh-crypto-rpc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kermankohli/routemesh-crypto-rpc"
+}

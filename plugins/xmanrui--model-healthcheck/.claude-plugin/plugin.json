@@ -1,0 +1,10 @@
+{
+  "name": "xmanrui--model-healthcheck",
+  "description": "Test all configured models for availability. Activate when user says \"test models\", \"check models\", \"model healthcheck\", \"测试模型\", \"测试所有模型\", \"检查模型\", or \"模型健康检查\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "xmanrui"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xmanrui/model-healthcheck",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xmanrui/model-healthcheck"
+}

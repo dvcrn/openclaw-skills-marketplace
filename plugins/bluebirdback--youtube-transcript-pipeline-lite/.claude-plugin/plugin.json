@@ -1,0 +1,10 @@
+{
+  "name": "bluebirdback--youtube-transcript-pipeline-lite",
+  "description": "Run a lightweight YouTube transcript workflow: transcribe, attribution cleanup, translation, and packaging with minimal tooling. Use for repeatable transcript handoff tasks when you need a concise, auditable process over custom automation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bluebirdback"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bluebirdback/youtube-transcript-pipeline-lite",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bluebirdback/youtube-transcript-pipeline-lite"
+}

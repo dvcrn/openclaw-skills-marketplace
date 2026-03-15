@@ -1,0 +1,10 @@
+{
+  "name": "rxhxm--sixtyfour-skill",
+  "description": "People and company intelligence via the Sixtyfour AI API. AI research agents that read the live web — not static databases — to return structured, confidence-scored profiles. Use when you need to: (1) enrich a lead with full profile data (name, title, email, phone, LinkedIn, tech stack, funding, pain points — up to 50 custom fields), (2) research a company (team size, tech stack, funding rounds, hiring signals, key people), (3) find someone's professional or personal email address, (4) find phone numbers, (5) score/qualify leads against custom criteria with reasoning, (6) search for people or companies via natural language query, or (7) run batch enrichment workflows via API. NOT for: general web browsing, tasks unrelated to people/company data, or non-enrichment research.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rxhxm"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rxhxm/sixtyfour-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rxhxm/sixtyfour-skill"
+}

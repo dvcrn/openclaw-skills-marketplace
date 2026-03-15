@@ -1,0 +1,10 @@
+{
+  "name": "milleniumgenai--deep-research-openclaw-agent",
+  "description": "Install and wire a structured OpenClaw deep-research sub-agent with hybrid search, artifact-based runs, claim verification, report linting, and validated finalization.",
+  "version": "0.1.1",
+  "author": {
+    "name": "milleniumgenai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/milleniumgenai/deep-research-openclaw-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/milleniumgenai/deep-research-openclaw-agent"
+}

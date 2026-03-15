@@ -1,0 +1,19 @@
+{
+  "name": "earthquake-monitor",
+  "version": "1.0.0",
+  "description": "中日地震实时监控 - CENC/CWA/JMA WebSocket 推送，支持地震预警主动通知",
+  "author": {
+    "name": "fungjcode",
+    "github": "https://github.com/fungjcode"
+  },
+  "keywords": ["earthquake", "seismic", "CENC", "JMA", "CWA", "monitor", "alert", "中国地震", "日本地震", "台湾地震", "预警"],
+  "homepage": "https://github.com/fungjcode/earthquake-monitor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fungjcode/earthquake-monitor.git"
+  },
+  "readme": "SKILL.md",
+  "requires": {
+    "node": ">=18.0.0"
+  }
+}

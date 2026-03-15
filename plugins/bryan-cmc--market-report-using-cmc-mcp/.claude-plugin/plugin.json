@@ -1,0 +1,10 @@
+{
+  "name": "bryan-cmc--market-report-using-cmc-mcp",
+  "description": "Generates a comprehensive crypto market report using CoinMarketCap MCP data.\n Use when users ask about overall market conditions, sentiment, or want a summary. Also use for questions about fear/greed, BTC dominance, altcoin season, trending narratives, or general \"how's the market\" queries.\n Trigger: \"market report\", \"market overview\", \"what's happening in crypto\", \"market sentiment\", \"fear and greed\", \"is it altcoin season\", \"/market-report\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "bryan-cmc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bryan-cmc/market-report-using-cmc-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bryan-cmc/market-report-using-cmc-mcp"
+}

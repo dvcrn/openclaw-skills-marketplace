@@ -1,0 +1,10 @@
+{
+  "name": "fabriziogianni7--ens-skill",
+  "description": "Resolve ENS names (.eth) to Ethereum addresses and vice versa. Use when a user provides an .eth name (e.g. \"send to vitalik.eth\"), when displaying addresses (show ENS names), looking up ENS profiles, or helping users register, renew, or manage .eth names.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fabriziogianni7"
+  },
+  "homepage": "https://docs.ens.domains/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fabriziogianni7/ens-skill"
+}

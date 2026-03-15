@@ -1,0 +1,10 @@
+{
+  "name": "deadblue22--feishu-md2blocks",
+  "description": "Insert rich Markdown content (including tables) into Feishu documents. Use when feishu_doc write/append fails with tables, or when inserting complex formatted content (tables, code blocks, nested lists) into an existing document at a specific position.",
+  "version": "1.0.0",
+  "author": {
+    "name": "deadblue22"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deadblue22/feishu-md2blocks",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deadblue22/feishu-md2blocks"
+}

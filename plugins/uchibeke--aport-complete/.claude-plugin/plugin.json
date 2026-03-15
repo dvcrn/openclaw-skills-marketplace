@@ -1,0 +1,10 @@
+{
+  "name": "uchibeke--aport-complete",
+  "description": "Verify a completed task against your APort passport's deliverable contract before marking it done. Enforces acceptance criteria, summary requirements, test status, and reviewer checks deterministically. Use this before calling any task complete.",
+  "version": "0.1.0",
+  "author": {
+    "name": "uchibeke"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/uchibeke/aport-complete",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/uchibeke/aport-complete"
+}

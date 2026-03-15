@@ -1,0 +1,10 @@
+{
+  "name": "amzzzzzzz--bluebubbles-healthcheck",
+  "description": "Diagnoses and auto-heals BlueBubbles ↔ OpenClaw iMessage connectivity. Use when: iMessages stop arriving after a gateway restart, webhook connection is broken, or user reports messages not coming through. Runs a 4-step diagnostic and auto-fixes webhook backoff, stale registrations, and gateway issues.",
+  "version": "0.1.3",
+  "author": {
+    "name": "amzzzzzzz"
+  },
+  "homepage": "https://github.com/amzzzzzzz/bluebubbles-healthcheck",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/amzzzzzzz/bluebubbles-healthcheck"
+}

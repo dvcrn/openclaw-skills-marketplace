@@ -1,0 +1,10 @@
+{
+  "name": "openclawvincent--openclaw-pc-security",
+  "description": "OpenClaw personal-PC security self-check (Windows posture + local audit + optional target probing). Use this skill whenever the user needs to check Windows security posture, detect outdated OpenClaw/npm versions, or investigate security risks like token leaks and exposed ports.",
+  "version": "1.0.3",
+  "author": {
+    "name": "openclawvincent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openclawvincent/openclaw-pc-security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openclawvincent/openclaw-pc-security"
+}

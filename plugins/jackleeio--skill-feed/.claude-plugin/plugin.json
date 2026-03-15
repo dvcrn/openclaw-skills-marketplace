@@ -1,0 +1,10 @@
+{
+  "name": "jackleeio--skill-feed",
+  "description": "Scenario-driven skill recommendation engine for ClawHub. Detects failed or stuck workflows, builds targeted search queries, and returns ranked skill recommendations with immediate recovery steps and fallback paths. Use when users say they want to do something but are blocked (errors, retries, timeout, missing outputs, unclear implementation path), or when you need recommendations adapted for Claude Code, ChatGPT, and Gemini execution styles.",
+  "version": "0.2.1",
+  "author": {
+    "name": "jackleeio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jackleeio/skill-feed",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jackleeio/skill-feed"
+}

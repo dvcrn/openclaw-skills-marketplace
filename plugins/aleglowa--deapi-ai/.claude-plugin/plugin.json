@@ -1,0 +1,10 @@
+{
+  "name": "aleglowa--deapi-ai",
+  "description": "AI media generation via deAPI. Transcribe YouTube/audio/video, generate images from text, text-to-speech, OCR, remove backgrounds, upscale images, create videos, generate embeddings. 10-20x cheaper than OpenAI/Replicate.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aleglowa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aleglowa/deapi-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aleglowa/deapi-ai"
+}

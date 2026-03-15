@@ -1,0 +1,10 @@
+{
+  "name": "neckr0ik--neckr0ik-session-healer",
+  "description": "Automatically detects and heals locked OpenClaw session files. Use when you see \"session file locked\" errors or models failing due to lock timeouts. Clears stale locks and recovers failed sessions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "neckr0ik"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/neckr0ik/neckr0ik-session-healer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/neckr0ik/neckr0ik-session-healer"
+}

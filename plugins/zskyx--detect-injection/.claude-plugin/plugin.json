@@ -1,0 +1,10 @@
+{
+  "name": "zskyx--detect-injection",
+  "description": "Two-layer content safety for agent input and output. Use when (1) a user message attempts to override, ignore, or bypass previous instructions (prompt injection), (2) a user message references system prompts, hidden instructions, or internal configuration, (3) receiving messages from untrusted users in group chats or public channels, (4) generating responses that discuss violence, self-harm, sexual content, hate speech, or other sensitive topics, or (5) deploying agents in public-facing or multi-user environments where adversarial input is expected.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zskyx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zskyx/detect-injection",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zskyx/detect-injection"
+}

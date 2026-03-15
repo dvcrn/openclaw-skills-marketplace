@@ -1,0 +1,10 @@
+{
+  "name": "jaysonsantos--bvg-route",
+  "description": "Route planning for Berlin public transport (BVG) using the v6.bvg.transport.rest API. Use when the user asks for: (1) route suggestions between two addresses or stops, (2) live next-departure info for a stop, (3) arrival-time–based journey planning (arrive-by or depart-at). Supports outputting 2–3 options ranked by travel time, transfers, and walking, and returning step-by-step directions and refresh tokens for live updates.",
+  "version": "0.0.2",
+  "author": {
+    "name": "jaysonsantos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jaysonsantos/bvg-route",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jaysonsantos/bvg-route"
+}

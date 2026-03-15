@@ -1,0 +1,10 @@
+{
+  "name": "tixianxian--eng-vocab-for-11yrold",
+  "description": "小升初英语单词深度学习系统。当用户提供单词列表、时限和可用时间，或想要帮助孩子学习英语单词、制定单词学习计划、设计单词故事记忆法、出单词考核题目、查看复习提醒时，必须使用此skill。涵盖：单词故事串联、直接生成图文教学卡PNG、分级考核（听写/发音/用法）、遗忘曲线复习提醒、学习进度追踪与下一课调整。只要用户涉及\"单词学习计划\"、\"单词故事\"、\"单词考核\"、\"复习提醒\"、\"小升初英语\"等场景，必须触发此skill。",
+  "version": "1.0.0",
+  "author": {
+    "name": "tixianxian"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tixianxian/eng-vocab-for-11yrold",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tixianxian/eng-vocab-for-11yrold"
+}

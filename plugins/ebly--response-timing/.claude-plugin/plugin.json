@@ -1,0 +1,10 @@
+{
+  "name": "ebly--response-timing",
+  "description": "回应时机技能。用于判断何时应该回应，何时应该保持沉默。当需要确定用户是否在跟当前 agent 对话、是否应该回应时使用。",
+  "version": "1.0.0",
+  "author": {
+    "name": "ebly"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ebly/response-timing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ebly/response-timing"
+}

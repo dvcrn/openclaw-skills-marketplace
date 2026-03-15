@@ -1,0 +1,10 @@
+{
+  "name": "tengjie888--zeelin-meetinginstructions",
+  "description": "从会议记录（腾讯会议、飞书会议、钉钉会议等）中提取领导对特定成员的指导意见、工作要求和行动计划。当用户提到\"提取会议指导\"\"会议纪要中的任务\"\"领导对XX的要求\"\"从会议记录中整理待办\"等场景时触发此skill。也适用于：从组会/周会/项目会记录中抽取某人的action items、整理导师对学生的指导建议、提取上级对下属的工作安排。支持中英文会议记录。",
+  "version": "1.0.0",
+  "author": {
+    "name": "tengjie888"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tengjie888/zeelin-meetinginstructions",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tengjie888/zeelin-meetinginstructions"
+}

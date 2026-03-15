@@ -1,0 +1,10 @@
+{
+  "name": "muninn-huginn--sendme-skill",
+  "description": "Send and receive files peer-to-peer using the sendme protocol from iroh.computer. Use when the user wants to share files, transfer files between machines, send files to someone, or receive files using a sendme ticket. Supports files and folders of any size with resumable downloads, integrity verification, and direct peer-to-peer connections without servers.",
+  "version": "0.1.4",
+  "author": {
+    "name": "muninn-huginn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/muninn-huginn/sendme-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/muninn-huginn/sendme-skill"
+}

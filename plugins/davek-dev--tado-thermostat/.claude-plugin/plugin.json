@@ -1,0 +1,10 @@
+{
+  "name": "davek-dev--tado-thermostat",
+  "description": "Interact with Tado smart thermostat. Use for reading temperature, setting heating with auto-revert, viewing energy usage, and controlling zones.",
+  "version": "1.2.3",
+  "author": {
+    "name": "davek-dev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/davek-dev/tado-thermostat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davek-dev/tado-thermostat"
+}

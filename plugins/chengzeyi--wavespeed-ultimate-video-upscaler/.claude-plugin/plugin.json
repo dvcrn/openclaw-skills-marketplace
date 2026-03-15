@@ -1,0 +1,10 @@
+{
+  "name": "chengzeyi--wavespeed-ultimate-video-upscaler",
+  "description": "Upscale videos to 720p, 1080p, 2K, or 4K resolution using WaveSpeed AI's Ultimate Video Upscaler. Takes a video URL and produces a higher-resolution version. Supports videos up to 10 minutes. Use when the user wants to upscale or enhance the resolution of a video.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chengzeyi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chengzeyi/wavespeed-ultimate-video-upscaler",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chengzeyi/wavespeed-ultimate-video-upscaler"
+}

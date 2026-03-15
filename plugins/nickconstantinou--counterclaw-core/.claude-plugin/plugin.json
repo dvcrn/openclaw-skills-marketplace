@@ -1,0 +1,10 @@
+{
+  "name": "nickconstantinou--counterclaw-core",
+  "description": "Defensive interceptor for prompt injection and basic PII masking.",
+  "version": "1.1.1",
+  "author": {
+    "name": "nickconstantinou"
+  },
+  "homepage": "https://github.com/nickconstantinou/counterclaw-core",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nickconstantinou/counterclaw-core"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dzy-1026--xfyun-face-compare",
+  "description": "Compare two face images and return similarity score using iFlytek Face Recognition API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dzy-1026"
+  },
+  "homepage": "https://www.xfyun.cn/doc/face/xf-silent-in-vivo-detection/API.html",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dzy-1026/xfyun-face-compare"
+}

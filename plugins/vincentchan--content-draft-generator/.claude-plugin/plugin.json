@@ -1,0 +1,10 @@
+{
+  "name": "vincentchan--content-draft-generator",
+  "description": "Generates new content drafts based on reference content analysis. Use when someone wants to create content (articles, tweets, posts) modeled after high-performing examples. Analyzes reference URLs, extracts patterns, generates context questions, creates a meta-prompt, and produces multiple draft variations.",
+  "version": "1.0.2",
+  "author": {
+    "name": "vincentchan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vincentchan/content-draft-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vincentchan/content-draft-generator"
+}

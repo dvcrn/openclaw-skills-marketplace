@@ -1,0 +1,10 @@
+{
+  "name": "gausszhu--sql-guard-copilot-zhu",
+  "description": "Simplify SQL querying and troubleshooting for MySQL, PostgreSQL, and SQLite. Use when users ask to inspect schema, convert natural language to SQL, debug SQL errors, run explain plans, lint risky SQL, or validate data with safe read-only execution.",
+  "version": "0.2.0",
+  "author": {
+    "name": "gausszhu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gausszhu/sql-guard-copilot-zhu",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gausszhu/sql-guard-copilot-zhu"
+}

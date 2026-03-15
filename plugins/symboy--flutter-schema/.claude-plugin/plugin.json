@@ -1,0 +1,10 @@
+{
+  "name": "symboy--flutter-schema",
+  "description": "Flutter GetX 三层架构规范。core + shared + modules 纵向分层，业务模块 GetX 化。适用于新模块创建、目录设计、代码评审。支持 scaffold 搭建目录结构。",
+  "version": "2.0.0",
+  "author": {
+    "name": "symboy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/symboy/flutter-schema",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/symboy/flutter-schema"
+}

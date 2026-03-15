@@ -1,0 +1,10 @@
+{
+  "name": "chapati23--yt-summary",
+  "description": "Summarize any YouTube video by dropping the link in chat. Supports custom prompts — paste the URL followed by your instructions (e.g. 'focus on the technical details'). Triggers on YouTube URLs.",
+  "version": "1.3.2",
+  "author": {
+    "name": "chapati23"
+  },
+  "homepage": "https://github.com/chapati23",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chapati23/yt-summary"
+}

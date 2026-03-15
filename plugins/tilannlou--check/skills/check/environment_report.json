@@ -1,0 +1,344 @@
+{
+  "timestamp": "2026-03-01T13:20:43.270895",
+  "system": "Windows",
+  "python_version": "3.14.3",
+  "checks": {
+    "system_tools": {
+      "python": {
+        "installed": true,
+        "version": "Python 3.14.3",
+        "path": "C:\\Users\\tilannlou\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
+      },
+      "pip": {
+        "installed": true,
+        "version": "pip 25.3 from C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\Lib\\site-packages\\pip (python 3.13)",
+        "path": "C:\\Users\\tilannlou\\AppData\\Local\\Microsoft\\WindowsApps\\pip.exe"
+      },
+      "git": {
+        "installed": true,
+        "version": "git version 2.53.0.windows.1",
+        "path": "C:\\Program Files\\Git\\cmd\\git.exe"
+      },
+      "docker": {
+        "installed": true,
+        "version": "Docker version 29.2.1, build a5c7197",
+        "path": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker\nC:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe"
+      },
+      "jq": {
+        "installed": false,
+        "version": "未知",
+        "path": ""
+      },
+      "powershell": {
+        "installed": true,
+        "version": "PowerShell 7.5.4",
+        "path": "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.5.4.0_x64__8wekyb3d8bbwe\\pwsh.exe\nC:\\Users\\tilannlou\\AppData\\Local\\Microsoft\\WindowsApps\\pwsh.exe"
+      },
+      "node": {
+        "installed": true,
+        "version": "v24.14.0",
+        "path": "C:\\Program Files\\nodejs\\node.exe"
+      }
+    },
+    "python_packages": {
+      "語音處理": {
+        "vosk": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "vosk"
+        },
+        "sounddevice": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "sounddevice"
+        },
+        "pyaudio": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "pyaudio"
+        },
+        "pyttsx3": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "pyttsx3"
+        },
+        "pydub": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "pydub"
+        },
+        "SpeechRecognition": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "SpeechRecognition"
+        }
+      },
+      "資料處理": {
+        "numpy": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "numpy"
+        },
+        "pandas": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "pandas"
+        },
+        "scipy": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "scipy"
+        },
+        "scikit-learn": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "scikit-learn"
+        }
+      },
+      "深度學習": {
+        "torch": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "torch"
+        },
+        "tensorflow": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "tensorflow"
+        },
+        "keras": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "keras"
+        },
+        "transformers": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "transformers"
+        }
+      },
+      "RAG相關": {
+        "langchain": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "langchain"
+        },
+        "chromadb": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "chromadb"
+        },
+        "sentence-transformers": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "sentence_transformers"
+        },
+        "openai": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "openai"
+        },
+        "llama-index": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "llama_index"
+        },
+        "faiss-cpu": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "faiss"
+        }
+      },
+      "工具類": {
+        "tqdm": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "tqdm"
+        },
+        "opencc": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "opencc"
+        },
+        "requests": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "requests"
+        },
+        "python-dotenv": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "python-dotenv"
+        },
+        "yt-dlp": {
+          "installed": false,
+          "version": "未知",
+          "import_name": "yt-dlp"
+        }
+      }
+    },
+    "workspace": {
+      "exists": true,
+      "is_dir": true,
+      "items": [
+        {
+          "name": "model",
+          "exists": false,
+          "is_dir": false
+        },
+        {
+          "name": "utils",
+          "exists": false,
+          "is_dir": false
+        },
+        {
+          "name": "scripts",
+          "exists": false,
+          "is_dir": false
+        },
+        {
+          "name": "output",
+          "exists": false,
+          "is_dir": false
+        },
+        {
+          "name": "data",
+          "exists": false,
+          "is_dir": false
+        },
+        {
+          "name": "requirements.txt",
+          "exists": false,
+          "is_dir": false
+        },
+        {
+          "name": "config.json",
+          "exists": false,
+          "is_dir": false
+        },
+        {
+          "name": "Dockerfile",
+          "exists": false,
+          "is_dir": false
+        },
+        {
+          "name": "docker-compose.yml",
+          "exists": false,
+          "is_dir": false
+        }
+      ]
+    },
+    "docker": {
+      "docker_installed": true,
+      "docker_compose_installed": true,
+      "docker_running": true,
+      "containers": []
+    },
+    "rag_environment": {
+      "vector_databases": [],
+      "llm_providers": [
+        {
+          "name": "OpenAI",
+          "env": "OPENAI_API_KEY",
+          "configured": false
+        },
+        {
+          "name": "Anthropic",
+          "env": "ANTHROPIC_API_KEY",
+          "configured": false
+        },
+        {
+          "name": "Cohere",
+          "env": "COHERE_API_KEY",
+          "configured": false
+        },
+        {
+          "name": "HuggingFace",
+          "env": "HUGGINGFACE_API_KEY",
+          "configured": false
+        },
+        {
+          "name": "Azure OpenAI",
+          "env": "AZURE_OPENAI_API_KEY",
+          "configured": false
+        }
+      ]
+    }
+  },
+  "issues": [
+    "Python 套件 vosk 未安裝",
+    "Python 套件 sounddevice 未安裝",
+    "Python 套件 pyaudio 未安裝",
+    "Python 套件 pyttsx3 未安裝",
+    "Python 套件 pydub 未安裝",
+    "Python 套件 SpeechRecognition 未安裝",
+    "Python 套件 numpy 未安裝",
+    "Python 套件 pandas 未安裝",
+    "Python 套件 scipy 未安裝",
+    "Python 套件 scikit-learn 未安裝",
+    "Python 套件 torch 未安裝",
+    "Python 套件 tensorflow 未安裝",
+    "Python 套件 keras 未安裝",
+    "Python 套件 transformers 未安裝",
+    "Python 套件 langchain 未安裝",
+    "Python 套件 chromadb 未安裝",
+    "Python 套件 sentence-transformers 未安裝",
+    "Python 套件 openai 未安裝",
+    "Python 套件 llama-index 未安裝",
+    "Python 套件 faiss-cpu 未安裝",
+    "Python 套件 tqdm 未安裝",
+    "Python 套件 opencc 未安裝",
+    "Python 套件 requests 未安裝",
+    "Python 套件 python-dotenv 未安裝",
+    "Python 套件 yt-dlp 未安裝",
+    "工作區缺少 model",
+    "工作區缺少 utils",
+    "工作區缺少 scripts",
+    "工作區缺少 output",
+    "工作區缺少 data",
+    "工作區缺少 requirements.txt",
+    "工作區缺少 config.json",
+    "工作區缺少 Dockerfile",
+    "工作區缺少 docker-compose.yml",
+    "OpenAI API KEY 未設定",
+    "Anthropic API KEY 未設定",
+    "Cohere API KEY 未設定",
+    "HuggingFace API KEY 未設定",
+    "Azure OpenAI API KEY 未設定",
+    "未設定任何 LLM 供應商 API KEY"
+  ],
+  "recommendations": [
+    "安裝 Python 套件: pip install vosk",
+    "安裝 Python 套件: pip install sounddevice",
+    "安裝 Python 套件: pip install pyaudio",
+    "安裝 Python 套件: pip install pyttsx3",
+    "安裝 Python 套件: pip install pydub",
+    "安裝 Python 套件: pip install SpeechRecognition",
+    "安裝 Python 套件: pip install numpy",
+    "安裝 Python 套件: pip install pandas",
+    "安裝 Python 套件: pip install scipy",
+    "安裝 Python 套件: pip install scikit-learn",
+    "安裝 Python 套件: pip install torch",
+    "安裝 Python 套件: pip install tensorflow",
+    "安裝 Python 套件: pip install keras",
+    "安裝 Python 套件: pip install transformers",
+    "安裝 Python 套件: pip install langchain",
+    "安裝 Python 套件: pip install chromadb",
+    "安裝 Python 套件: pip install sentence_transformers",
+    "安裝 Python 套件: pip install openai",
+    "安裝 Python 套件: pip install llama_index",
+    "安裝 Python 套件: pip install faiss",
+    "安裝 Python 套件: pip install tqdm",
+    "安裝 Python 套件: pip install opencc",
+    "安裝 Python 套件: pip install requests",
+    "安裝 Python 套件: pip install python-dotenv",
+    "安裝 Python 套件: pip install yt-dlp",
+    "設定環境變量 OPENAI_API_KEY",
+    "設定環境變量 ANTHROPIC_API_KEY",
+    "設定環境變量 COHERE_API_KEY",
+    "設定環境變量 HUGGINGFACE_API_KEY",
+    "設定環境變量 AZURE_OPENAI_API_KEY",
+    "至少設定一個 LLM API KEY"
+  ],
+  "environment_ready": false
+}

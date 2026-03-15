@@ -1,0 +1,10 @@
+{
+  "name": "h4gen--bookkeeper",
+  "description": "Meta-skill for pre-accounting automation by orchestrating gmail, deepread-ocr, stripe-api, and xero. Use when users need invoice intake from email, structured field extraction, payment verification, and accounting entry creation with reconciliation-ready status.",
+  "version": "1.0.0",
+  "author": {
+    "name": "h4gen"
+  },
+  "homepage": "https://clawhub.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/h4gen/bookkeeper"
+}

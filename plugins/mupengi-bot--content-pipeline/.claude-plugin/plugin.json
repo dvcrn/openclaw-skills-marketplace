@@ -1,0 +1,10 @@
+{
+  "name": "mupengi-bot--content-pipeline",
+  "description": "Orchestrate full content workflow (planning→writing→design→publishing→tracking). Use when automating full content workflow from planning to publishing.",
+  "version": "1.0.1",
+  "author": {
+    "name": "mupengi-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/content-pipeline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/content-pipeline"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cinience--alicloud-compute-fc-agentrun",
+  "description": "Manage Function Compute AgentRun resources via OpenAPI (runtime, sandbox, model, memory, credentials). Use for creating runtimes/endpoints, querying status, and troubleshooting AgentRun workflows.",
+  "version": "1.0.3",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-compute-fc-agentrun",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-compute-fc-agentrun"
+}

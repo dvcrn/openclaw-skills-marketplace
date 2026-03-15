@@ -1,0 +1,10 @@
+{
+  "name": "hexiaochun--sutui-minimax-tts",
+  "description": "根据用户需求生成多人对话，为每个角色匹配音色进行语音合成，输出完整长音频和分段音频，并生成 HTML 展示页面。",
+  "version": "1.0.0",
+  "author": {
+    "name": "hexiaochun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/sutui-minimax-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hexiaochun/sutui-minimax-tts"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "willamhou--latex-compiler",
+  "description": "Compile LaTeX documents to PDF using pdflatex, xelatex, or lualatex with template support",
+  "version": "1.0.0",
+  "author": {
+    "name": "willamhou"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/willamhou/latex-compiler",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/willamhou/latex-compiler"
+}

@@ -1,0 +1,302 @@
+{
+  "meta": {
+    "source_path": "/home/node/.openclaw/workspace/memory/geopolitics/briefing-2026-03-06-morning.md",
+    "extracted_at": "2026-03-06T18:08:40.668Z",
+    "model": "google/gemini-3-flash-preview",
+    "summarized": false,
+    "file_hash": "436bb461f4d782d8",
+    "file_size": 2067,
+    "node_count": 22,
+    "edge_count": 16,
+    "entity_resolution": {
+      "checked": 6,
+      "resolved": 0,
+      "canonicalized": 0
+    }
+  },
+  "nodes": [
+    {
+      "label": "Operation Epic Fury",
+      "type": "Project",
+      "summary": "Active major war involving US strikes on Tehran and Beirut and Iranian counter-strikes on Israel.",
+      "props": {
+        "status": "active",
+        "description": "US-led military campaign against Iran and its proxies."
+      }
+    },
+    {
+      "label": "PLA Purge",
+      "type": "Project",
+      "summary": "Ongoing internal purge of the Chinese Central Military Commission and Xi Jinping's inner circle.",
+      "props": {
+        "status": "active",
+        "description": "Systemic removal of high-ranking military officials in China."
+      }
+    },
+    {
+      "label": "Ukraine Peace Process",
+      "type": "Project",
+      "summary": "Stalled diplomatic efforts to resolve the conflict in Ukraine.",
+      "props": {
+        "status": "stalled",
+        "description": "Diplomatic initiatives for Ukraine peace, currently deprioritized due to Middle East conflict."
+      }
+    },
+    {
+      "label": "US Senate War Powers Vote",
+      "type": "Observation",
+      "summary": "The US Senate defeated a resolution (47-53) to restrict President Trump's war powers on March 6, 2026.",
+      "props": {
+        "observed_at": 1772755200,
+        "content": "Senate vote 47-53 against restricting war powers."
+      }
+    },
+    {
+      "label": "Tehran and Beirut Strikes",
+      "type": "Observation",
+      "summary": "Intensive US strikes on Tehran and Beirut, including a report of an elementary school being hit in Tehran.",
+      "props": {
+        "observed_at": 1772755200,
+        "content": "US strikes on Iranian and Lebanese capitals."
+      }
+    },
+    {
+      "label": "Iranian Strikes on Israel",
+      "type": "Observation",
+      "summary": "Iranian cluster strikes reported over Tel Aviv and central Israel.",
+      "props": {
+        "observed_at": 1772755200,
+        "content": "Iranian offensive actions against Israeli population centers."
+      }
+    },
+    {
+      "label": "CMC Vacancy Status",
+      "type": "Observation",
+      "summary": "71% of China's Central Military Commission positions are currently vacant following purges.",
+      "props": {
+        "observed_at": 1772755200,
+        "content": "71% vacancy in CMC command structure."
+      }
+    },
+    {
+      "label": "Trump War Powers Authority",
+      "type": "Claim",
+      "summary": "President Trump has sufficient political cover to sustain the military campaign against Iran.",
+      "props": {
+        "truth_status": "confirmed",
+        "certainty_degree": 0.9,
+        "content": "Senate resolution defeat signals political support for sustained campaign."
+      }
+    },
+    {
+      "label": "Iran Offensive Capability",
+      "type": "Claim",
+      "summary": "Iran retains significant offensive military capability despite ongoing US strikes.",
+      "props": {
+        "truth_status": "confirmed",
+        "certainty_degree": 0.85,
+        "content": "Demonstrated by cluster strikes on central Israel."
+      }
+    },
+    {
+      "label": "Taiwan Operational Constraints",
+      "type": "Claim",
+      "summary": "The operational vacuum in the PLA command makes near-term military action against Taiwan technically difficult.",
+      "props": {
+        "truth_status": "likely",
+        "certainty_degree": 0.75,
+        "content": "CMC vacancies hinder command and control for large-scale operations."
+      }
+    },
+    {
+      "label": "China Strategic Focus",
+      "type": "Claim",
+      "summary": "China is prioritizing domestic consolidation and the upcoming Trump-Xi summit over involvement in the US-Iran war.",
+      "props": {
+        "truth_status": "likely",
+        "certainty_degree": 0.7,
+        "content": "China standing aside to focus on internal stability and March 31 summit."
+      }
+    },
+    {
+      "label": "Energy Export Halt Risk",
+      "type": "Hypothesis",
+      "summary": "The US-Iran war could lead to a total halt of Gulf energy exports within weeks.",
+      "props": {
+        "status": "active",
+        "statement": "War could halt energy exports within weeks.",
+        "hypothesis_type": "predictive"
+      }
+    },
+    {
+      "label": "Iran Regime Fall Prediction",
+      "type": "Claim",
+      "summary": "Market odds for the fall of the Iranian regime by June 30 have risen to 34 cents.",
+      "props": {
+        "truth_status": "confirmed",
+        "certainty_degree": 1,
+        "content": "Polymarket price: 34¢ (up from 19¢)."
+      }
+    },
+    {
+      "label": "Tim Cook Departure Prediction",
+      "type": "Claim",
+      "summary": "Market odds for Tim Cook leaving Apple in 2027 have dropped to 29 cents.",
+      "props": {
+        "truth_status": "confirmed",
+        "certainty_degree": 1,
+        "content": "Polymarket price: 29¢ (down from 67¢)."
+      }
+    },
+    {
+      "label": "China Taiwan Conflict Prediction",
+      "type": "Claim",
+      "summary": "Market odds for a China-Taiwan conflict in 2027 have decreased to 10.5 cents.",
+      "props": {
+        "truth_status": "confirmed",
+        "certainty_degree": 1,
+        "content": "Polymarket price: 10.5¢ (down from 13¢)."
+      }
+    },
+    {
+      "label": "Russian Election Prediction",
+      "type": "Claim",
+      "summary": "Market odds for United Russia (UR) winning the election are at 78%.",
+      "props": {
+        "truth_status": "confirmed",
+        "certainty_degree": 1,
+        "content": "Polymarket price: 78% YES."
+      }
+    },
+    {
+      "label": "Donald Trump",
+      "type": "Entity",
+      "summary": "President of the United States.",
+      "props": {
+        "entity_type": "person"
+      }
+    },
+    {
+      "label": "Iran",
+      "type": "Entity",
+      "summary": "Islamic Republic of Iran.",
+      "props": {
+        "entity_type": "nation"
+      }
+    },
+    {
+      "label": "China",
+      "type": "Entity",
+      "summary": "People's Republic of China.",
+      "props": {
+        "entity_type": "nation"
+      }
+    },
+    {
+      "label": "Taiwan",
+      "type": "Entity",
+      "summary": "Island nation in East Asia.",
+      "props": {
+        "entity_type": "nation"
+      }
+    },
+    {
+      "label": "Tim Cook",
+      "type": "Entity",
+      "summary": "CEO of Apple Inc.",
+      "props": {
+        "entity_type": "person"
+      }
+    },
+    {
+      "label": "Polymarket Trading System",
+      "type": "Entity",
+      "summary": "Decentralized prediction market platform.",
+      "props": {
+        "entity_type": "technology"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "US Senate War Powers Vote",
+      "to": "Trump War Powers Authority",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "Tehran and Beirut Strikes",
+      "to": "Operation Epic Fury",
+      "type": "PART_OF"
+    },
+    {
+      "from": "Iranian Strikes on Israel",
+      "to": "Iran Offensive Capability",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "CMC Vacancy Status",
+      "to": "PLA Purge",
+      "type": "PART_OF"
+    },
+    {
+      "from": "CMC Vacancy Status",
+      "to": "Taiwan Operational Constraints",
+      "type": "SUPPORTS"
+    },
+    {
+      "from": "PLA Purge",
+      "to": "China Strategic Focus",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Operation Epic Fury",
+      "to": "Ukraine Peace Process",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Iran Regime Fall Prediction",
+      "to": "Polymarket Trading System",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Tim Cook Departure Prediction",
+      "to": "Polymarket Trading System",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "China Taiwan Conflict Prediction",
+      "to": "Polymarket Trading System",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Russian Election Prediction",
+      "to": "Polymarket Trading System",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Trump War Powers Authority",
+      "to": "Donald Trump",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Iran Offensive Capability",
+      "to": "Iran",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Taiwan Operational Constraints",
+      "to": "Taiwan",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "China Strategic Focus",
+      "to": "China",
+      "type": "RELEVANT_TO"
+    },
+    {
+      "from": "Tim Cook Departure Prediction",
+      "to": "Tim Cook",
+      "type": "RELEVANT_TO"
+    }
+  ]
+}

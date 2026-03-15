@@ -1,0 +1,10 @@
+{
+  "name": "takahashigy--ezcto-smart-web-reader",
+  "description": "Agent web access acceleration layer — reads any URL as structured JSON. Cache-first (public library hit = 0 tokens). The smart alternative to raw web_fetch.",
+  "version": "1.1.1",
+  "author": {
+    "name": "takahashigy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/takahashigy/ezcto-smart-web-reader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/takahashigy/ezcto-smart-web-reader"
+}

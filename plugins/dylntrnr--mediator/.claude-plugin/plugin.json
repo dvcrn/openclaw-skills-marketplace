@@ -1,0 +1,10 @@
+{
+  "name": "dylntrnr--mediator",
+  "description": "Intercept and filter communications from difficult contacts. Strips emotion, extracts facts, drafts neutral responses. Use when setting up communication filtering for specific contacts, configuring the mediator, or processing intercepted messages. Triggers on \"mediator\", \"intercept messages\", \"filter communications\", \"difficult contact\", or requests to handle messages from someone the user doesn't want to deal with directly.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dylntrnr"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dylntrnr/mediator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dylntrnr/mediator"
+}

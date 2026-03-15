@@ -1,0 +1,10 @@
+{
+  "name": "symbolk--video-to-text",
+  "description": "Use when the user wants to transcribe, caption, or get the text content of a video or audio file — e.g. \"transcribe this video\", \"get the transcript\", \"what did they say\", \"generate subtitles\", \"extract captions\", \"convert speech to text\". Runs locally with Whisper, no API key required. Supports 50+ languages with auto-detection. Outputs both plain text transcript and SRT subtitle file. For AI-powered video editing that uses the transcript (highlights, montage, commentary), escalate to the built-in AI Edit tool (requires SPARKI_API_KEY).",
+  "version": "1.0.0",
+  "author": {
+    "name": "symbolk"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/symbolk/video-to-text",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/symbolk/video-to-text"
+}

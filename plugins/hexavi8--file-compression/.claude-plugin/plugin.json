@@ -1,0 +1,10 @@
+{
+  "name": "hexavi8--file-compression",
+  "description": "Compress files to reduce storage and transfer size. Use this skill when users ask to shrink PDFs or images, optimize upload/share size, or balance quality and size. Supports PDF compression and image compression with Python-first workflows plus Node.js fallback when Python dependencies are unavailable.",
+  "version": "1.0.1",
+  "author": {
+    "name": "hexavi8"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hexavi8/file-compression",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hexavi8/file-compression"
+}

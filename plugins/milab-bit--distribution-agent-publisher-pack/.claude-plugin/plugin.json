@@ -1,0 +1,10 @@
+{
+  "name": "milab-bit--distribution-agent-publisher-pack",
+  "description": "Turn 1–9 images into platform-specific captions + mood-matched music hints, then route to mock/dry-run/real publishers with publish logs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "milab-bit"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/milab-bit/distribution-agent-publisher-pack",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/milab-bit/distribution-agent-publisher-pack"
+}

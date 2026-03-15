@@ -1,0 +1,10 @@
+{
+  "name": "mupengi-bot--insta-post",
+  "description": "Upload Instagram posts via browser automation. Use when uploading images to Instagram, creating Instagram posts, or automating Instagram content publishing. Handles image upload, caption entry, collaborator tagging, and sharing through the OpenClaw browser tool connected to an active Instagram session.",
+  "version": "1.0.1",
+  "author": {
+    "name": "mupengi-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/insta-post",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/insta-post"
+}

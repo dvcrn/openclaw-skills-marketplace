@@ -1,0 +1,10 @@
+{
+  "name": "ember-claw--failover-gateway-pub",
+  "description": "Set up an active-passive failover gateway for OpenClaw. Deploy a standby node that auto-promotes when your primary goes down and auto-demotes when it recovers. Includes health monitor script, systemd services, channel splitting strategy, and step-by-step deployment guide. Use when you need high availability, disaster recovery, or redundancy for your OpenClaw instance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ember-claw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ember-claw/failover-gateway-pub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ember-claw/failover-gateway-pub"
+}

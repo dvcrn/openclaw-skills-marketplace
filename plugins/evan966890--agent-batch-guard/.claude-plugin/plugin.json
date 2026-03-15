@@ -1,0 +1,10 @@
+{
+  "name": "evan966890--agent-batch-guard",
+  "description": "AI Agent 大任务防卡死指南。解决 agent 在批量操作中 session transcript 膨胀导致 compaction 超时、agent 卡死的问题。涵盖 session 保护策略、脚本化批处理、断点续传、熔断器、OpenClaw 配置调优和实战案例。",
+  "version": "1.0.1",
+  "author": {
+    "name": "evan966890"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/evan966890/agent-batch-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/evan966890/agent-batch-guard"
+}

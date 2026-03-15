@@ -1,0 +1,10 @@
+{
+  "name": "matthewxmurphy--openclaw-agent-orchestrator",
+  "description": "Create and repair durable OpenClaw agents, bindings, and runtime state. Use when the user wants real subagents, durable agent entries, or proof that orchestration actions actually changed live state. Prefer verified `openclaw agents add` flows over optimistic `sessions_spawn` narration.",
+  "version": "0.6.0",
+  "author": {
+    "name": "matthewxmurphy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/openclaw-agent-orchestrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/openclaw-agent-orchestrator"
+}

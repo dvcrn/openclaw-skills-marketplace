@@ -1,0 +1,10 @@
+{
+  "name": "wangyendt--dsp-2",
+  "description": "Digital signal processing toolkit for filtering, peak detection, detrending, and curve similarity. Use when working with sensor data, signal preprocessing, feature extraction, noise suppression, or time-series analysis. Includes Butterworth filter, One-Euro filter, signal detrending, DTW curve similarity, Welford standard deviation, and sliding window extrema detection.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wangyendt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/dsp-2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wangyendt/dsp-2"
+}

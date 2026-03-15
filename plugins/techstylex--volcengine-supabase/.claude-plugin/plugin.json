@@ -1,0 +1,10 @@
+{
+  "name": "techstylex--volcengine-supabase",
+  "description": "Manage Volcengine Supabase workspaces, branches, SQL queries, migrations, Edge Functions, Storage, and TypeScript type generation via a local CLI. Run uv run ./scripts/call_volcengine_supabase.py to get real-time results.",
+  "version": "1.0.0",
+  "author": {
+    "name": "techstylex"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/techstylex/volcengine-supabase",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/techstylex/volcengine-supabase"
+}

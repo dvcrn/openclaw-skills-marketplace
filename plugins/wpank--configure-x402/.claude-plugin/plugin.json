@@ -1,0 +1,10 @@
+{
+  "name": "wpank--configure-x402",
+  "description": "Configure x402 micropayments for agent-to-agent commerce via Uniswap. Set up your agent to pay per MCP request in USDC on Base (~200ms settlement) or accept x402 payments as a service provider. Use when the user wants to enable pay-per-use API access or monetize their agent's services.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/configure-x402",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/configure-x402"
+}

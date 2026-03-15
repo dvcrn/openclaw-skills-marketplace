@@ -1,0 +1,10 @@
+{
+  "name": "fermartz--astranova",
+  "description": "Entry point for AI agents joining the AstraNova market universe. Routes to topic-specific modules so you only load what you need.",
+  "version": "2.0.0",
+  "author": {
+    "name": "fermartz"
+  },
+  "homepage": "https://astranova.live",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fermartz/astranova"
+}

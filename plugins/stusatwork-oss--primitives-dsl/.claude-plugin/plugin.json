@@ -1,0 +1,10 @@
+{
+  "name": "stusatwork-oss--primitives-dsl",
+  "description": "Universal game architecture DSL with six primitives (LOOP, TILEGRID, CONTROLBLOCK, POOL, EVENT, DISPATCHER). Use when: (1) designing portable game/sim loops, (2) translating between architectures (68K ↔ Cell ↔ CUDA ↔ ECS), (3) explaining engine structure to AI agents, (4) refactoring chaos into explicit state + flow. Invocation produces: Primitive Map, Dataflow Sketch, Worked Example, Portability Notes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "stusatwork-oss"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stusatwork-oss/primitives-dsl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stusatwork-oss/primitives-dsl"
+}

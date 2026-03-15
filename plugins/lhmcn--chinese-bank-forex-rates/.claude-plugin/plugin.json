@@ -1,0 +1,10 @@
+{
+  "name": "lhmcn--chinese-bank-forex-rates",
+  "description": "Use when you need the latest bank forex rates from major Chinese banks by bank name and currency names. Supports 招商银行, 中国银行, 中国农业银行, 中国工商银行, 中国建设银行, and 交通银行, with aliases such as 农行, 工行, 建行, and 交行.",
+  "version": "0.1.1",
+  "author": {
+    "name": "lhmcn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lhmcn/chinese-bank-forex-rates",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lhmcn/chinese-bank-forex-rates"
+}

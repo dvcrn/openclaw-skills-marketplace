@@ -1,0 +1,10 @@
+{
+  "name": "zhur0ng--system-memory-inspector",
+  "description": "Linux 系统级内存泄漏巡检：定时扫描所有进程内存，记录系统内存全景， 通过增长趋势分析识别异常进程，输出排查思路和可疑进程列表。 当用户提到\"系统内存巡检\"、\"全进程内存扫描\"、\"内存泄漏排查\"、\"环境内存分析\"、 \"定时统计所有进程\"、\"系统内存记录\"、\"找出泄漏进程\"时触发。",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhur0ng"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhur0ng/system-memory-inspector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhur0ng/system-memory-inspector"
+}

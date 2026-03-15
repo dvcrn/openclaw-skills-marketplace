@@ -1,0 +1,10 @@
+{
+  "name": "leeguooooo--x-news-crawler",
+  "description": "Crawl X (Twitter) search results through a local CLI that wraps `abs` (agent-browser). Use when the user asks to scrape X posts by keyword, collect Top/Latest news, extract structured fields (author/time/text/link), or produce a deduplicated \"top-first then latest\" feed.",
+  "version": "0.1.1",
+  "author": {
+    "name": "leeguooooo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leeguooooo/x-news-crawler",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leeguooooo/x-news-crawler"
+}

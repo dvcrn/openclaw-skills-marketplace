@@ -1,0 +1,10 @@
+{
+  "name": "ruigomeseu--beeminder",
+  "description": "Beeminder API for goal tracking and commitment devices. Use when checking Beeminder goals, adding datapoints, viewing due goals, managing commitments, or tracking habits. Triggers on \"beeminder\", \"goals due\", \"add datapoint\", \"track habit\", \"goal status\", \"derail\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "ruigomeseu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ruigomeseu/beeminder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ruigomeseu/beeminder"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "krichprollsch--lightpanda-browser",
+  "description": "Lightpanda browser, drop-in replacement for Chrome and Openclaw default browser - faster and lighter for tasks without graphical rendering like data retrieval. Use it with CDP clients like Playwright or Puppeteer.",
+  "version": "1.0.3",
+  "author": {
+    "name": "krichprollsch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/krichprollsch/lightpanda-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/krichprollsch/lightpanda-browser"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "rogue-agent1--git-changelog-gen",
+  "description": "Generate changelogs from git commits. Supports markdown, plain text, and JSON output with date ranges and tag-based filtering.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rogue-agent1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rogue-agent1/git-changelog-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rogue-agent1/git-changelog-gen"
+}

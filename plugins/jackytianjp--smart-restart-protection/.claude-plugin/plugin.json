@@ -1,0 +1,10 @@
+{
+  "name": "jackytianjp--smart-restart-protection",
+  "description": "智能重启保护：防止无限循环，确保OpenClaw Gateway安全重启和状态恢复",
+  "version": "1.0.0",
+  "author": {
+    "name": "jackytianjp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jackytianjp/smart-restart-protection",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jackytianjp/smart-restart-protection"
+}

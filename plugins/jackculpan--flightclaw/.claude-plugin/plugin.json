@@ -1,0 +1,10 @@
+{
+  "name": "jackculpan--flightclaw",
+  "description": "Track flight prices using Google Flights data. Search flights, find cheapest dates, filter by airline/time/duration/price, track routes over time, and get alerts when prices drop. Also runs as an MCP server. Requires Python 3.10+ and the 'flights' and 'mcp' pip packages. Run setup.sh to install dependencies.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jackculpan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jackculpan/flightclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jackculpan/flightclaw"
+}

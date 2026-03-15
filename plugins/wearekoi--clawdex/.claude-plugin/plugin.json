@@ -1,0 +1,10 @@
+{
+  "name": "wearekoi--clawdex",
+  "description": "Security check for ClawHub skills powered by Koi. Query the Clawdex API before installing any skill to verify it's safe.",
+  "version": "1.0.2",
+  "author": {
+    "name": "wearekoi"
+  },
+  "homepage": "https://www.koi.ai/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wearekoi/clawdex"
+}

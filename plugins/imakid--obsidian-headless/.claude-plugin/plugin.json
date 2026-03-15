@@ -1,0 +1,10 @@
+{
+  "name": "imakid--obsidian-headless",
+  "description": "在无显示器/无 GUI 环境下通过自然语言指令管理 Obsidian 笔记仓库。支持创建笔记、删除笔记（带确认）、搜索标题、搜索内容、模糊搜索、创建日记等功能。当用户需要在无头服务器、SSH 环境、或没有安装 Obsidian 桌面应用的情况下管理 Obsidian 笔记时使用此技能。触发词包括\"obsidian\", \"笔记\", \"搜索笔记\", \"创建笔记\", \"删除笔记\", \"今天日记\", \"无头 obsidian\", \"命令行 obsidian\"。",
+  "version": "1.0.1",
+  "author": {
+    "name": "imakid"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/imakid/obsidian-headless",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/imakid/obsidian-headless"
+}

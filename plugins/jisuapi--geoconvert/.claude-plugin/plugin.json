@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--geoconvert",
+  "description": "使用极速数据经纬度地址转换 API，在百度/Google 坐标系下实现经纬度与地址的相互转换。",
+  "version": "1.0.2",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/geoconvert",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/geoconvert"
+}

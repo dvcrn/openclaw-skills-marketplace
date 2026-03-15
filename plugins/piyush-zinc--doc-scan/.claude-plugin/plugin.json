@@ -1,0 +1,10 @@
+{
+  "name": "piyush-zinc--doc-scan",
+  "description": "DEPRECATED — this skill has been merged into doc-process (v4.0.0+). Use doc-process instead for document scanning, perspective correction, and dewarping. doc-process includes an improved scanner with multi-strategy edge detection, sub-pixel corner refinement, and scan-quality enhancement.",
+  "version": "2.0.0",
+  "author": {
+    "name": "piyush-zinc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/piyush-zinc/doc-scan",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/piyush-zinc/doc-scan"
+}

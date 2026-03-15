@@ -1,0 +1,10 @@
+{
+  "name": "matthewxmurphy--mac-node-bridge",
+  "description": "Bridge macOS-only tools into a Linux OpenClaw gateway via SSH wrappers and connected Mac nodes. Use when a Linux gateway needs to run imsg, remindctl, memo, things, peekaboo, brew-backed CLIs, or other node-local macOS binaries without patching OpenClaw core or pretending Linux can run macOS skills directly.",
+  "version": "0.6.0",
+  "author": {
+    "name": "matthewxmurphy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/mac-node-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/mac-node-bridge"
+}

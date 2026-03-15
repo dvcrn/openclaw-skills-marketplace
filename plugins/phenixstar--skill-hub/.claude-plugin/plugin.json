@@ -1,0 +1,10 @@
+{
+  "name": "phenixstar--skill-hub",
+  "description": "OpenClaw skill discovery, security vetting & install. Searches 3000+ curated skills from ClawHub registry and awesome-openclaw-skills catalog. Scores credibility, detects prompt injection & malicious patterns, manages installations. Quick-checks GitHub for new skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "phenixstar"
+  },
+  "homepage": "https://github.com/PhenixStar/openclaw-skills-collection",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phenixstar/skill-hub"
+}

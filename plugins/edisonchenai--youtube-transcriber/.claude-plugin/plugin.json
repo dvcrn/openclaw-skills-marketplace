@@ -1,0 +1,10 @@
+{
+  "name": "edisonchenai--youtube-transcriber",
+  "description": "One-command YouTube video transcription. Automatically downloads audio and transcribes using OpenAI Whisper API — works even when YouTube subtitles are disabled. Use when asked to \"transcribe this video\", \"get transcript\", \"what does this video say\", or when YouTube captions are unavailable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "edisonchenai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/edisonchenai/youtube-transcriber",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/edisonchenai/youtube-transcriber"
+}

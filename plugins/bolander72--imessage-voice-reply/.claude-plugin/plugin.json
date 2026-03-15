@@ -1,0 +1,10 @@
+{
+  "name": "bolander72--imessage-voice-reply",
+  "description": "Send voice message replies in iMessage using local Kokoro-ONNX TTS. Generates native iMessage voice bubbles (CAF/Opus) that play inline with waveform — not file attachments. Use when receiving a voice message in iMessage and wanting to reply with voice, enabling voice-to-voice iMessage conversations, or sending audio responses. Zero cost — all TTS runs locally. Requires BlueBubbles channel configured in OpenClaw.",
+  "version": "1.0.3",
+  "author": {
+    "name": "bolander72"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bolander72/imessage-voice-reply",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bolander72/imessage-voice-reply"
+}

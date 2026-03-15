@@ -1,0 +1,10 @@
+{
+  "name": "bzsega--sergei-mikhailov-stt",
+  "description": "Speech recognition from voice messages using Yandex SpeechKit (with an extensible architecture for other providers). Use when you need to convert a voice message to text.",
+  "version": "1.1.8",
+  "author": {
+    "name": "bzsega"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bzsega/sergei-mikhailov-stt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bzsega/sergei-mikhailov-stt"
+}

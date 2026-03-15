@@ -1,0 +1,10 @@
+{
+  "name": "zerone-agent--skill-market",
+  "description": "Use this skill to find, explore, and install new skills from the Zerone Skill Market (https://api.zerone.market/api). Trigger this when the user asks to \"add a skill\", \"install a skill\", \"browse skills\", or mentions a skill name that is not currently installed.",
+  "version": "1.0.1",
+  "author": {
+    "name": "zerone-agent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zerone-agent/skill-market",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zerone-agent/skill-market"
+}

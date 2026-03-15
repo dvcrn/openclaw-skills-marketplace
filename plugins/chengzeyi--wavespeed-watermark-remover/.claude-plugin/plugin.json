@@ -1,0 +1,10 @@
+{
+  "name": "chengzeyi--wavespeed-watermark-remover",
+  "description": "Remove watermarks, logos, captions, and text overlays from images and videos using WaveSpeed AI. Intelligently detects and removes watermarks while preserving texture and background. Supports images and videos up to 10 minutes. Use when the user wants to remove watermarks or text overlays from media.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chengzeyi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chengzeyi/wavespeed-watermark-remover",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chengzeyi/wavespeed-watermark-remover"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "taylorhou--crm-in-a-box",
+  "description": "Bootstrap and manage an open, file-based CRM using the CRM-in-a-Box protocol (contacts, pipeline, interactions as NDJSON). Use when setting up a new CRM for a company, logging contacts/leads, updating deal stages, or recording interactions — all without any SaaS dependency.",
+  "version": "0.1.0",
+  "author": {
+    "name": "taylorhou"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/taylorhou/crm-in-a-box",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/taylorhou/crm-in-a-box"
+}

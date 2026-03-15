@@ -1,0 +1,10 @@
+{
+  "name": "michaelmonetized--sr-next-clerk-expert",
+  "description": "Senior-level Clerk authentication expertise for Next.js 15/16+ applications. Use when implementing auth, protecting routes, fixing auth errors (500s, handshake redirects, middleware failures), integrating with Convex/Stripe, or debugging Clerk issues. Covers proxy.ts patterns, route groups, client vs server auth, and the 12 Commandments that prevent common disasters.",
+  "version": "1.0.1",
+  "author": {
+    "name": "michaelmonetized"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/michaelmonetized/sr-next-clerk-expert",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/michaelmonetized/sr-next-clerk-expert"
+}

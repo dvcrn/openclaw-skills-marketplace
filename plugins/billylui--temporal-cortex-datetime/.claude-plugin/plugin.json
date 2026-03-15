@@ -1,0 +1,10 @@
+{
+  "name": "billylui--temporal-cortex-datetime",
+  "description": "Convert timezones, resolve natural language times (\"next Tuesday at 2pm\"), compute durations, and adjust timestamps with DST awareness. No credentials needed — all tools run fully offline after one-time binary install.",
+  "version": "0.9.1",
+  "author": {
+    "name": "billylui"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/billylui/temporal-cortex-datetime",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/billylui/temporal-cortex-datetime"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wgan--squad-control",
+  "description": "Integrate with Squad Control kanban for AI agent task orchestration. ⚠️ Security note: This skill handles GitHub tokens and API keys by design — it clones private repos, pushes code, and creates PRs on your behalf. Review setup.md for security guidance before installing. Only connect to Squad Control instances you trust. Use when: - A cron fires to check for pending tasks - You need to pick up, dispatch, or complete a kanban task - You need to create a PR and route it for code review - You need to spawn a sub-agent to work on an assigned task - You need to report task success or failure back to Squad Control - You need to create tasks programmatically (break down work) Don't use when: - The user is asking a general question (just answer directly) - You're doing work that isn't tracked in Squad Control - You're working inside a sub-agent session (you're already dispatched — just do the work) - The user wants to manage agents/settings in the UI (direct them to squadcontrol.ai) Inputs: Squad Control API credentials, task data from /api/tasks/pending Outputs: PRs on GitHub, task status updates in Squad Control, review verdicts",
+  "version": "1.3.0",
+  "author": {
+    "name": "wgan"
+  },
+  "homepage": "https://squadcontrol.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wgan/squad-control"
+}

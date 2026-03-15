@@ -1,0 +1,10 @@
+{
+  "name": "geekjair--codex-cleaner",
+  "description": "Monitor and clean invalid codex auth files from CPA (Codex Provider Agent). Checks quota status, disables 401 files, double-verifies before deletion. Use when user mentions \"codex clean\", \"clean auth\", \"auth files\", \"CPA清理\", \"codex 认证\", \"清理无效文件\", or needs to manage codex authentication files.",
+  "version": "1.0.3",
+  "author": {
+    "name": "geekjair"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/geekjair/codex-cleaner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/geekjair/codex-cleaner"
+}

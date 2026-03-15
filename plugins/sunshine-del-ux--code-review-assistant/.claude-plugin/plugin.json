@@ -1,0 +1,10 @@
+{
+  "name": "sunshine-del-ux--code-review-assistant",
+  "description": "自动化代码审查助手，支持 PR 审查、代码质量分析、潜在 bug 检测、安全漏洞扫描。",
+  "version": "1.0.0",
+  "author": {
+    "name": "sunshine-del-ux"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunshine-del-ux/code-review-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunshine-del-ux/code-review-assistant"
+}

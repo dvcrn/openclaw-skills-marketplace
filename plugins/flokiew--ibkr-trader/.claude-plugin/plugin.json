@@ -1,0 +1,10 @@
+{
+  "name": "flokiew--ibkr-trader",
+  "description": "Interactive Brokers (IBKR) trading automation via Client Portal API. Use when setting up IBKR account access, authenticating sessions, checking portfolio/positions, or building trading bots. Handles IBeam automated login with IBKR Key 2FA.",
+  "version": "1.0.0",
+  "author": {
+    "name": "flokiew"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/flokiew/ibkr-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/flokiew/ibkr-trader"
+}

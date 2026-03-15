@@ -1,0 +1,10 @@
+{
+  "name": "kaiofreitas--ticktick-tasks",
+  "description": "TickTick task manager integration. List projects and tasks, create new tasks, complete tasks, delete tasks. Use when the user wants to manage their to-do list, add reminders, check pending tasks, or mark tasks as done. Requires OAuth setup via `ticktick-setup`.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kaiofreitas"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kaiofreitas/ticktick-tasks",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kaiofreitas/ticktick-tasks"
+}

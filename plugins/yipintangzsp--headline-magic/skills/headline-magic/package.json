@@ -1,0 +1,9 @@
+{
+  "name": "headline-magic",
+  "version": "1.0.0",
+  "description": "爆款标题魔法师 - 小红书流量密码，5 秒生成点击率翻 10 倍的标题",
+  "main": "index.js",
+  "bin": { "headline-magic": "./index.js" },
+  "dependencies": { "node-fetch": "^2.7.0" },
+  "keywords": ["小红书", "标题生成", "流量密码", "自媒体"]
+}

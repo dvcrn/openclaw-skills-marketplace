@@ -1,0 +1,10 @@
+{
+  "name": "wenlavril--cc-coder",
+  "description": "使用 Claude Code CLI 自动编写代码。触发条件：用户要求写代码、创建项目、修复 bug、实现功能等编程任务。",
+  "version": "1.0.0",
+  "author": {
+    "name": "wenlavril"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wenlavril/cc-coder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wenlavril/cc-coder"
+}

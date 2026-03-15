@@ -1,0 +1,10 @@
+{
+  "name": "djdyll--simmer-calibration-report",
+  "description": "Run a calibration report on any Simmer trade journal. Win rate and EV broken down by strategy, time of day, price band, and market type. Know exactly where your edge lives — and where it doesn't.",
+  "version": "1.0.4",
+  "author": {
+    "name": "djdyll"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/djdyll/simmer-calibration-report",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/djdyll/simmer-calibration-report"
+}

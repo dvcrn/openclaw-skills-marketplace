@@ -1,0 +1,10 @@
+{
+  "name": "jack4world--trail-nav-telegram",
+  "description": "Offline-capable hiking route guidance via Telegram location messages (OpenClaw). Use when building/operating an LLM agent workflow that: (1) imports a GPX/KML route, (2) answers 'am I off-route / which way should I go' with low-token fixed outputs, (3) scrapes/publicly discovers route links from 2bulu track_search, and (4) prepares trip risk checklists + gear lists for an overnight hike.",
+  "version": "0.3.2",
+  "author": {
+    "name": "jack4world"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jack4world/trail-nav-telegram",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jack4world/trail-nav-telegram"
+}

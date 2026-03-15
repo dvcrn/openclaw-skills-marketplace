@@ -1,0 +1,10 @@
+{
+  "name": "chj0w0--skill-safe-install",
+  "description": "Skills 安全安装工具 - 整合 Vetter 代码审查 + ClawHub 评分 + ThreatBook 沙箱扫描三层验证",
+  "version": "2.0.1",
+  "author": {
+    "name": "chj0w0"
+  },
+  "homepage": "https://github.com/CHJ0w0/OpenClaw_Skill_safe-install",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chj0w0/skill-safe-install"
+}

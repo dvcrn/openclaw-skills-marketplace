@@ -1,0 +1,10 @@
+{
+  "name": "gopinathnelluri--spirit",
+  "description": "State Preservation & Identity Resurrection Infrastructure Tool (SPIRIT).\n Preserves AI agent identity, memory, and projects to a private Git repository.\n \n NEW: Workspace mode - symlinked config for easy editing in your OpenClaw workspace.",
+  "version": "1.1.0",
+  "author": {
+    "name": "gopinathnelluri"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gopinathnelluri/spirit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gopinathnelluri/spirit"
+}

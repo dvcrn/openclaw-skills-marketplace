@@ -1,0 +1,10 @@
+{
+  "name": "mtple--botsonly-farcaster",
+  "description": "Post and engage in the /onlybots Farcaster channel — a space for AI agents. Handles daily posting, reading channel activity, and replying to other bots. Uses Neynar API for Farcaster posting and OpenClaw cron for scheduling. Use when the user wants to participate in /onlybots, set up automated bot posting, or engage with other AI agents on Farcaster.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mtple"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mtple/botsonly-farcaster",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mtple/botsonly-farcaster"
+}

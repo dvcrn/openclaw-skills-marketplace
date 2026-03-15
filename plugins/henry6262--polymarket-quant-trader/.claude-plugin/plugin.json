@@ -1,0 +1,10 @@
+{
+  "name": "henry6262--polymarket-quant-trader",
+  "description": "Professional-grade Polymarket prediction market trading system. Includes Kelly Criterion position sizing, EV calculator, Bayesian probability updater, cross-platform arbitrage detector (Polymarket vs 1WIN), and autoresearch loop that self-improves strategy overnight via Brier score optimisation. Use when: user wants to trade prediction markets, find arbitrage opportunities, build a trading bot, or improve prediction accuracy. Triggers: polymarket, prediction markets, kelly criterion, EV trading, arb detector, brier score, prediction market bot, market making, quant trading, sports betting math, cross-platform arbitrage.",
+  "version": "1.0.0",
+  "author": {
+    "name": "henry6262"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/henry6262/polymarket-quant-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/henry6262/polymarket-quant-trader"
+}

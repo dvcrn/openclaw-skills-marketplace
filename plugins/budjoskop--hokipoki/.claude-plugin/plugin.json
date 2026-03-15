@@ -1,0 +1,10 @@
+{
+  "name": "budjoskop--hokipoki",
+  "description": "Switch AI models without switching tabs using the HokiPoki CLI. Hop between Claude, Codex, and Gemini when one gets stuck. Use when the user wants to request help from a different AI model, hop to another AI, get a second opinion from another model, switch models, share AI subscriptions with teammates, or manage HokiPoki provider/listener mode. Triggers on: 'use codex/gemini for this', 'hop to another model', 'ask another AI', 'get a second opinion', 'switch models', 'hokipoki', 'listen for requests'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "budjoskop"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/budjoskop/hokipoki",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/budjoskop/hokipoki"
+}

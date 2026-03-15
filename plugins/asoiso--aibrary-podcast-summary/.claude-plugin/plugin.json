@@ -1,0 +1,10 @@
+{
+  "name": "asoiso--aibrary-podcast-summary",
+  "description": "[Aibrary] Generate a book summary podcast script in a single-narrator storytelling style. Use when the user wants to turn a book into a podcast, create an audio summary of a book, or generate a summary-style podcast script. The output is a narrated monologue that distills a book's key ideas into an engaging 10-15 minute listening experience.",
+  "version": "0.1.0",
+  "author": {
+    "name": "asoiso"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/asoiso/aibrary-podcast-summary",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/asoiso/aibrary-podcast-summary"
+}

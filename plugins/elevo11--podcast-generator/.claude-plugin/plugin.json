@@ -1,0 +1,10 @@
+{
+  "name": "elevo11--podcast-generator",
+  "description": "Convert articles, blog posts, or any text into professional podcast scripts and TTS audio. Use when a user wants to: (1) Transform written content into conversational podcast scripts, (2) Generate TTS audio from scripts, (3) Create single-host or two-host dialogue episodes. Integrates SkillPay.me billing at 0.001 USDT per call.",
+  "version": "1.1.0",
+  "author": {
+    "name": "elevo11"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/elevo11/podcast-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/elevo11/podcast-generator"
+}

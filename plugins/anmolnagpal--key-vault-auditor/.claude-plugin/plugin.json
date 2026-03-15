@@ -1,0 +1,10 @@
+{
+  "name": "anmolnagpal--key-vault-auditor",
+  "description": "Audit Azure Key Vault configuration, access policies, and secret hygiene for credential exposure risks",
+  "version": "1.0.0",
+  "author": {
+    "name": "anmolnagpal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/key-vault-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/key-vault-auditor"
+}

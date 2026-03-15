@@ -1,0 +1,10 @@
+{
+  "name": "wells1137--music-generator",
+  "description": "Generates music from a structured Composition Plan. Use this skill to execute music generation after a prompt or plan has been designed. It validates the output quality and retries on failure.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wells1137"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wells1137/music-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wells1137/music-generator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "yhyatt--gclaw",
+  "description": "Gmail inbox intelligence for OpenClaw. Reads, classifies, and digests your Gmail so the important stuff surfaces without the noise. Use when fetching new emails, running an inbox digest, classifying messages into categories (newsletter, finance, travel, work, action-required, etc.), or building downstream bots that consume email data. Provides BotContext (per-bot label isolation), EmailFetcher, EmailParser, EmailClassifier (15 categories), and EmailStore (deduplicated JSONL).",
+  "version": "1.0.1",
+  "author": {
+    "name": "yhyatt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yhyatt/gclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yhyatt/gclaw"
+}

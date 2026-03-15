@@ -1,0 +1,10 @@
+{
+  "name": "asoiso--aibrary-book-recommend",
+  "description": "[Aibrary] Recommend books based on user interests, goals, challenges, or career stage. Use when the user asks for book recommendations, says they don't know what to read, wants personalized suggestions, or needs guidance on which book to pick next. Different from aibrary-book-search — this focuses on personalized recommendations rather than search results.",
+  "version": "0.1.0",
+  "author": {
+    "name": "asoiso"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/asoiso/aibrary-book-recommend",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/asoiso/aibrary-book-recommend"
+}

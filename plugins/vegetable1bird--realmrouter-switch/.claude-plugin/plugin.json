@@ -1,0 +1,10 @@
+{
+  "name": "vegetable1bird--realmrouter-switch",
+  "description": "Zero-friction RealmRouter model manager for OpenClaw. Chat-first workflow for setting API key, guided model picking, switching with availability check, rollback, connectivity testing, and short rr commands on both Unix and Windows.",
+  "version": "2.1.0",
+  "author": {
+    "name": "vegetable1bird"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vegetable1bird/realmrouter-switch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vegetable1bird/realmrouter-switch"
+}

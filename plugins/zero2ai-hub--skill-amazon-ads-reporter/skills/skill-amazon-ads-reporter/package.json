@@ -1,0 +1,12 @@
+{
+  "name": "skill-amazon-ads-reporter",
+  "version": "1.0.0",
+  "description": "Amazon Ads SP Campaigns async report fetcher — decoupled request/poll pattern",
+  "scripts": {
+    "request": "node scripts/request-report.js",
+    "poll": "node scripts/poll-report.js",
+    "report": "node scripts/get-report.js"
+  },
+  "engines": { "node": ">=18.0.0" },
+  "dependencies": {}
+}

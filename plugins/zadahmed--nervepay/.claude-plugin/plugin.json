@@ -1,0 +1,10 @@
+{
+  "name": "zadahmed--nervepay",
+  "description": "Full NervePay stack - identity + analytics. Register DID, sign requests with Ed25519, track ALL API usage, build reputation.",
+  "version": "1.2.0",
+  "author": {
+    "name": "zadahmed"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zadahmed/nervepay",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zadahmed/nervepay"
+}

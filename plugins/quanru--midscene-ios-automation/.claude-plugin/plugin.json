@@ -1,0 +1,10 @@
+{
+  "name": "quanru--midscene-ios-automation",
+  "description": "Vision-driven iOS device automation using Midscene CLI. Operates entirely from screenshots — no DOM or accessibility labels required. Can interact with all visible elements on screen regardless of technology stack.\n Control iOS devices with natural language commands via WebDriverAgent.\n \n Triggers: ios, iphone, ipad, ios app, tap on iphone, swipe, mobile app ios,\n ios device, ios testing, iphone automation, ipad automation, ios screen, ios navigate\n\n Powered by Midscene.js (https://midscenejs.com)",
+  "version": "1.0.4",
+  "author": {
+    "name": "quanru"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/quanru/midscene-ios-automation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/quanru/midscene-ios-automation"
+}

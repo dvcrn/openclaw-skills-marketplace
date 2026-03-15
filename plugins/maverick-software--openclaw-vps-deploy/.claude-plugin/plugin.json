@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--openclaw-vps-deploy",
+  "description": "Deploy a custom OpenClaw repo (official or forked) to a Hostinger VPS and make it accessible via the cloud. Use when setting up a new OpenClaw instance on a remote VPS, deploying a custom or forked OpenClaw build to a server, making OpenClaw accessible at a public URL, or setting up OpenClaw as a cloud-hosted service on Hostinger. Handles SSH connection, Node.js install, OpenClaw install (npm package or git clone+build), systemd service, firewall, and auth token generation.",
+  "version": "1.1.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/openclaw-vps-deploy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/openclaw-vps-deploy"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "edxi--miniade-dispatchi",
+  "description": "Launch non-blocking interactive Claude Code tasks for slash-only plugins like ralph-loop. Use when a task needs interactive slash commands and completion callback routing.",
+  "version": "0.1.1",
+  "author": {
+    "name": "edxi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/edxi/miniade-dispatchi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/edxi/miniade-dispatchi"
+}

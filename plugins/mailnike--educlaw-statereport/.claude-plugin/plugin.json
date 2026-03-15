@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--educlaw-statereport",
+  "description": "EduClaw State Reporting — State reporting, Ed-Fi integration, data validation, and submission tracking for K-12 LEAs. Transforms operational EduClaw data into compliant state/federal reporting submissions (Ed-Fi ODS/API, EDFacts, CRDC, IDEA 618).",
+  "version": "2.1.0",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mailnike/educlaw-statereport",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/educlaw-statereport"
+}

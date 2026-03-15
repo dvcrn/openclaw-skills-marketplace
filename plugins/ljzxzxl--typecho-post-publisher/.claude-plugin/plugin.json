@@ -1,0 +1,10 @@
+{
+  "name": "ljzxzxl--typecho-post-publisher",
+  "description": "发布文章到 Typecho 博客。使用场景：(1) 用户要求发布新文章到 Typecho 博客 (2) 帮助用户撰写并发布博客文章 (3) 编辑或更新已有文章。此技能封装了登录凭据和完整的发布流程，包括填写标题、内容、选择分类和发布操作。",
+  "version": "1.0.0",
+  "author": {
+    "name": "ljzxzxl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ljzxzxl/typecho-post-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ljzxzxl/typecho-post-publisher"
+}

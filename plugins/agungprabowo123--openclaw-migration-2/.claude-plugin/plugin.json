@@ -1,0 +1,10 @@
+{
+  "name": "agungprabowo123--openclaw-migration-2",
+  "description": "Migrate a user's OpenClaw customization footprint into Hermes Agent. Imports Hermes-compatible memories, SOUL.md, command allowlists, user skills, and selected workspace assets from ~/.openclaw, then reports exactly what could not be migrated and why.",
+  "version": "0.1.0",
+  "author": {
+    "name": "agungprabowo123"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agungprabowo123/openclaw-migration-2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agungprabowo123/openclaw-migration-2"
+}

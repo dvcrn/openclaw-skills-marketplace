@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--port-kill",
+  "description": "Kill processes running on any port with one command. Cross-platform utility for developers. No more lsof grep awk xargs. Free CLI tool.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/port-kill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/port-kill"
+}

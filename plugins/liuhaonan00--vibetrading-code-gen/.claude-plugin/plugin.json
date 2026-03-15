@@ -1,0 +1,10 @@
+{
+  "name": "liuhaonan00--vibetrading-code-gen",
+  "description": "Generate executable Hyperliquid trading strategy code from natural language prompts. Use when a user wants to create automated trading strategies for Hyperliquid exchange based on their trading ideas, technical indicators, or VibeTrading signals. The skill generates complete Python code with proper error handling, logging, and configuration using actual Hyperliquid API wrappers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "liuhaonan00"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/liuhaonan00/vibetrading-code-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/liuhaonan00/vibetrading-code-gen"
+}

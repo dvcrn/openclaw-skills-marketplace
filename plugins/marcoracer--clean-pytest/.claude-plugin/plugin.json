@@ -1,0 +1,10 @@
+{
+  "name": "marcoracer--clean-pytest",
+  "description": "Write clean, maintainable pytest tests using Fake-based testing, contract testing, and dependency injection patterns. Use when setting up test suites for Python/MCP projects, creating Fakes for external dependencies, writing contract tests, or implementing test patterns with fixtures and parametrization.",
+  "version": "0.1.0",
+  "author": {
+    "name": "marcoracer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/marcoracer/clean-pytest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marcoracer/clean-pytest"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "coolhackboy--poyo-flux-2-api",
+  "description": "Use PoYo AI Flux 2 through the `https://api.poyo.ai/api/generate/submit` endpoint. Use when a user wants to generate or edit media with this model family, prepare PoYo-compatible payloads, submit jobs, or poll task status for `flux-2-pro`, `flux-2-pro-edit`, `flux-2-flex`, `flux-2-flex-edit`.",
+  "version": "1.0.0",
+  "author": {
+    "name": "coolhackboy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/coolhackboy/poyo-flux-2-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/coolhackboy/poyo-flux-2-api"
+}

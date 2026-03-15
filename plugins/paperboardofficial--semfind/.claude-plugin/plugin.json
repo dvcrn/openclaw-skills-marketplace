@@ -1,0 +1,10 @@
+{
+  "name": "paperboardofficial--semfind",
+  "description": "Semantic search over local text files using embeddings. Use when grep/ripgrep fails to find relevant results because the exact wording is unknown, or when searching by meaning rather than pattern — e.g., searching logs for \"deployment issue\" when the actual text says \"container build failed\". Install with `pip install semfind`. Ideal for searching memory files, project docs, logs, and notes by meaning.",
+  "version": "0.1.2",
+  "author": {
+    "name": "paperboardofficial"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/paperboardofficial/semfind",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paperboardofficial/semfind"
+}

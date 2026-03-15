@@ -1,0 +1,10 @@
+{
+  "name": "up2itnow--agentpay-mcp",
+  "description": "MCP server that gives AI agents the ability to make payments, manage budgets, and handle billing -- directly from Claude Desktop, Cursor, Cline, or any MCP-compatible agent runtime.",
+  "version": "1.0.0",
+  "author": {
+    "name": "up2itnow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/up2itnow/agentpay-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/up2itnow/agentpay-mcp"
+}

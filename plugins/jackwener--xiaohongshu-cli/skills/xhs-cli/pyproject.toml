@@ -1,0 +1,63 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "xhs-cli"
+version = "0.1.3"
+description = "A CLI for Xiaohongshu (小红书) — search, read notes, view profiles"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+authors = [{ name = "jackwener", email = "jakevingoo@gmail.com" }]
+keywords = ["xiaohongshu", "xhs", "cli", "redbook", "小红书"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Utilities",
+]
+dependencies = [
+    "camoufox[geoip]>=0.4",
+    "playwright>=1.40",
+    "browser-cookie3>=0.19",
+    "qrcode>=7.4",
+    "click>=8.0",
+    "rich>=13.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/jackwener/xhs-cli"
+Repository = "https://github.com/jackwener/xhs-cli"
+Issues = "https://github.com/jackwener/xhs-cli/issues"
+
+[project.scripts]
+xhs = "xhs_cli.cli:cli"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3.5",
+    "ruff>=0.11.0",
+]
+
+[tool.pytest.ini_options]
+markers = [
+    "integration: requires valid login session (deselect with '-m \"not integration\"')",
+    "live_mutation: integration tests that may mutate account state (like/favorite/comment/post)",
+]
+addopts = "-m 'not integration'"
+
+[tool.ruff]
+line-length = 100
+target-version = "py38"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]

@@ -1,0 +1,10 @@
+{
+  "name": "cyberneticsplus--pmp-agentclaw",
+  "description": "AI project management assistant for planning, tracking, and managing projects using industry-standard methodologies. Use when asked to plan projects, track schedules, manage risks, calculate earned value, run sprints, create WBS, generate status reports, assign RACI responsibilities, or perform any project management task. Supports predictive (waterfall), adaptive (agile), and hybrid approaches.",
+  "version": "1.0.3",
+  "author": {
+    "name": "cyberneticsplus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cyberneticsplus/pmp-agentclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cyberneticsplus/pmp-agentclaw"
+}

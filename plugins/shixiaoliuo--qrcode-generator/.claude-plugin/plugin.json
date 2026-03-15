@@ -1,0 +1,10 @@
+{
+  "name": "shixiaoliuo--qrcode-generator",
+  "description": "Generate QR codes from text, URLs, or data. Use when: (1) user asks to create/generate/make a QR code, (2) converting a URL or text into a scannable QR code, (3) generating QR codes for payments (wechat, alipay, crypto), (4) creating QR codes for WiFi sharing, or (5) any task requiring a visual QR code image output.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shixiaoliuo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/shixiaoliuo/qrcode-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/shixiaoliuo/qrcode-generator"
+}

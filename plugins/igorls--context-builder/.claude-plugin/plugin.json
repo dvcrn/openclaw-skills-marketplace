@@ -1,0 +1,10 @@
+{
+  "name": "igorls--context-builder",
+  "description": "Generate LLM-optimized codebase context from any directory using context-builder CLI",
+  "version": "0.8.3-1",
+  "author": {
+    "name": "igorls"
+  },
+  "homepage": "https://github.com/igorls/context-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/igorls/context-builder"
+}

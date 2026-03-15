@@ -1,0 +1,10 @@
+{
+  "name": "gchapim--hackernews",
+  "description": "Browse and search Hacker News. Fetch top, new, best, Ask HN, Show HN stories and job postings. View item details, comments, and user profiles. Search stories and comments via Algolia. Find \"Who is hiring?\" threads. Use for any HN-related queries like \"what's trending on HN?\", \"search HN for AI\", \"show comments on story X\", \"who is hiring?\", \"latest Ask HN posts\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "gchapim"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gchapim/hackernews",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gchapim/hackernews"
+}

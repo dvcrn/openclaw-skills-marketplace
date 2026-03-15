@@ -1,0 +1,10 @@
+{
+  "name": "eplt--binance-signal-engine",
+  "description": "Multi-timeframe crypto technical analysis with scored trading signals, structured trade plans, and position sizing via Binance public API. Use when user asks to \"analyze BTC\", \"what's the signal on ETH/USDT\", \"crypto analysis\", \"trade setup for SOL\", \"scan crypto pairs\", \"check the trend on BTC\", \"multi-timeframe analysis\", \"generate a trading signal\", \"what's the bias on ETH\", \"TA on BTC/USDT\", \"is it a good time to buy BTC\", or \"position size for a crypto trade\".",
+  "version": "1.0.2",
+  "author": {
+    "name": "eplt"
+  },
+  "homepage": "https://github.com/eplt/binance-signal-engine",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eplt/binance-signal-engine"
+}

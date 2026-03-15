@@ -1,0 +1,10 @@
+{
+  "name": "8421bit--claw-team-builder",
+  "description": "Agent Team 规划与配置工具。通过多轮交互澄清需求，自动创建 Agent 配置、工作空间、Bootstrap 文件。\n\n 触发场景：\n - 用户说\"创建新 Agent\" / \"新建 bot\" / \"配置多个 bot\"\n - 用户说\"规划 agent team\" / \"我需要几个不同的 agent\"\n - 用户说\"添加一个 agent\" / \"帮我建一个新 agent\"\n - 用户提到需要不同场景使用不同的 AI 角色\n\n 功能：\n 1. 需求澄清 - 引导用户描述使用场景和 Agent 定位\n 2. 配置读取 - 自动读取现有 openclaw.json，分析已有配置\n 3. 方案设计 - 推荐 Agent 配置方案，检测冲突\n 4. 自动创建 - 创建目录、文件、更新配置\n 5. 配置验证 - 确保配置正确可用",
+  "version": "1.0.0",
+  "author": {
+    "name": "8421bit"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/8421bit/claw-team-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/8421bit/claw-team-builder"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lunrenyi--x-env",
+  "description": "x-env is x-cmd's environment and package management module for installing and managing third-party software, programming language runtimes, and command-line tools. Use this skill when: installing or managing runtimes (node, python, go, bun, java, rust); installing CLI tools (jq, yq, fzf, himalaya, claude-code); managing multiple software versions (specify versions, switch versions); cleaning up unused packages; viewing installed software paths or dependencies; asking how to install software; temporarily using software in current shell session (try); permanently installing software to user environment (use); upgrading installed software versions; running scripts with specific software versions. This is the core package manager in x-cmd ecosystem.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lunrenyi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lunrenyi/x-env",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lunrenyi/x-env"
+}

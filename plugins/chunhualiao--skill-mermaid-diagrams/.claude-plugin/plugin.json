@@ -1,0 +1,10 @@
+{
+  "name": "chunhualiao--skill-mermaid-diagrams",
+  "description": "Generate consistent, template-based Mermaid diagrams for technical content. Supports 12 diagram types (architecture, flowchart, sequence, concept-map, radial-concept, timeline, comparison, comparison-table, gantt, mindmap, class-diagram, state-diagram) with automatic template selection, LLM-powered content generation, syntax validation, and error handling. Use when creating technical illustrations, system architecture visuals, project timelines, class diagrams, state machines, or documentation requiring uniform styling. Triggers on \"mermaid diagram\", \"generate diagram\", \"create flowchart\", \"architecture diagram\", \"sequence diagram\", \"concept map\", \"gantt chart\", \"mind map\", \"class diagram\", \"UML diagram\", \"project timeline\", \"state diagram\", \"technical illustration\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "chunhualiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/skill-mermaid-diagrams",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/skill-mermaid-diagrams"
+}

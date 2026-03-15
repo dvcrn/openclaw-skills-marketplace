@@ -1,0 +1,10 @@
+{
+  "name": "geodeterra--wiim",
+  "description": "Control WiiM audio devices (play, pause, stop, next, prev, volume, mute, play URLs, presets). Use when the user wants to control music playback, adjust volume, discover WiiM/LinkPlay speakers on the network, or play audio from a URL on a WiiM device.",
+  "version": "0.1.1",
+  "author": {
+    "name": "geodeterra"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/geodeterra/wiim",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/geodeterra/wiim"
+}

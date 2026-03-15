@@ -1,0 +1,10 @@
+{
+  "name": "quanru--midscene-computer-browser",
+  "description": "Vision-driven browser automation using Midscene. Operates entirely from screenshots — no DOM or accessibility labels required. Can interact with all visible elements on screen regardless of technology stack.\n\n Opens a new browser tab for each target URL via Puppeteer (headless Chrome).\n\n Use this skill when the user wants to:\n - Browse, navigate, or open web pages\n - Scrape, extract, or collect data from websites\n - Fill out forms, click buttons, or interact with web elements\n - Verify, validate, or test frontend UI behavior\n - Take screenshots of web pages\n - Automate multi-step web workflows\n - Run browser automation or check website content\n\n\n Powered by Midscene.js (https://midscenejs.com)",
+  "version": "1.0.3",
+  "author": {
+    "name": "quanru"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/quanru/midscene-computer-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/quanru/midscene-computer-browser"
+}

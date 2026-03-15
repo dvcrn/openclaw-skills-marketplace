@@ -1,0 +1,10 @@
+{
+  "name": "plusgenie--tbot-controller",
+  "description": "Operate TradingBoat/TBOT (TBOT runtime stack) via a controlled automation interface (DB-first queries; lifecycle control on explicit request).",
+  "version": "1.0.0",
+  "author": {
+    "name": "plusgenie"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/plusgenie/tbot-controller",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/plusgenie/tbot-controller"
+}

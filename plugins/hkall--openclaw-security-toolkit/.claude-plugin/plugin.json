@@ -1,0 +1,10 @@
+{
+  "name": "hkall--openclaw-security-toolkit",
+  "description": "Security guard for OpenClaw users. Audit configs, scan secrets, manage access, and generate security reports.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hkall"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hkall/openclaw-security-toolkit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hkall/openclaw-security-toolkit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "fffdz--tianyi-self-upgrade",
+  "description": "OpenClaw 自我迭代升级技能。使用场景：配置自动修复、技能更新、依赖安装、版本检查、问题预防性修复。支持安全模式（需用户确认）和自动模式（低风险操作自动执行）。",
+  "version": "1.0.0",
+  "author": {
+    "name": "fffdz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fffdz/tianyi-self-upgrade",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fffdz/tianyi-self-upgrade"
+}

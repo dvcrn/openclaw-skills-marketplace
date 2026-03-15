@@ -1,0 +1,10 @@
+{
+  "name": "mackhendricks--dsiprouter-skill",
+  "description": "Call the dSIPRouter REST API using the Postman collection (curl + jq).",
+  "version": "0.1.0",
+  "author": {
+    "name": "mackhendricks"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mackhendricks/dsiprouter-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mackhendricks/dsiprouter-skill"
+}

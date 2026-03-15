@@ -1,0 +1,10 @@
+{
+  "name": "oxsnosh--polymarket-weather-bucket-thresholds",
+  "description": "Global temperature bucket threshold strategy via Simmer. Buy YES under 15%, sell full position at 45%, max ~$2 entries, max 5 trades/scan, every 2 minutes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "oxsnosh"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oxsnosh/polymarket-weather-bucket-thresholds",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oxsnosh/polymarket-weather-bucket-thresholds"
+}

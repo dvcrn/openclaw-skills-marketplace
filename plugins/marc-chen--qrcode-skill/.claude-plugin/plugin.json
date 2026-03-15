@@ -1,0 +1,10 @@
+{
+  "name": "marc-chen--qrcode-skill",
+  "description": "QR code generation and decoding skill. Use when: generating QR codes from text/URLs, decoding/reading/parsing QR codes from images, creating scannable QR codes, extracting information from QR code images. Calls remote MCP service for QR code operations.",
+  "version": "0.1.0",
+  "author": {
+    "name": "marc-chen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/marc-chen/qrcode-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/marc-chen/qrcode-skill"
+}

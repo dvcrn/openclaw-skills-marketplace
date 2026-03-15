@@ -1,0 +1,10 @@
+{
+  "name": "cinience--alicloud-media-video-translation",
+  "description": "Create and manage Alibaba Cloud IMS video translation jobs via OpenAPI (subtitle/voice/face). Use when you need API-based video translation, status polling, and job management.",
+  "version": "1.0.2",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-media-video-translation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-media-video-translation"
+}

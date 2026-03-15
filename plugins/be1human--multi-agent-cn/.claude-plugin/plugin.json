@@ -1,0 +1,10 @@
+{
+  "name": "be1human--multi-agent-cn",
+  "description": "通用多Agent调度系统（中文版）：将主Agent变为纯调度员，所有任务通过 sessions_spawn 委派给5个持久化子Agent。支持轮询调度、先回复再派遣协议、 sessionKey固定复用。用户可自定义调度员角色和子Agent名称/人设。",
+  "version": "1.2.0",
+  "author": {
+    "name": "be1human"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/be1human/multi-agent-cn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/be1human/multi-agent-cn"
+}

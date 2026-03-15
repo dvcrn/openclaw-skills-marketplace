@@ -1,0 +1,10 @@
+{
+  "name": "princnl--smart-model-routing-for-zai",
+  "description": "Auto-route tasks to the cheapest z.ai (GLM) model that works correctly. Three-tier progression: Flash → Standard → Plus/32B. Classify before responding. FLASH (default): factual Q&A, greetings, reminders, status checks, lookups, simple file ops, heartbeats, casual chat, 1–2 sentence tasks, cron jobs. ESCALATE TO STANDARD: code >10 lines, analysis, comparisons, planning, reports, multi-step reasoning, tables, long writing >3 paragraphs, summarization, research synthesis, most user conversations. ESCALATE TO PLUS/32B: architecture decisions, complex debugging, multi-file refactoring, strategic planning, nuanced judgment, deep research, critical production decisions. Rule: If a human needs >30 seconds of focused thinking, escalate. If Standard struggles with complexity, go to Plus/32B. Save major API costs by starting cheap and escalating only when needed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "princnl"
+  },
+  "homepage": "https://clawhub.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/princnl/smart-model-routing-for-zai"
+}

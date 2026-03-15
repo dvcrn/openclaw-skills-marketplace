@@ -1,0 +1,10 @@
+{
+  "name": "eaveluo--claude-code-setup",
+  "description": "Setup production-grade .claude/ AI collaboration layer for projects. Use when an agent starts using Claude Code for development, enters a new project directory, or when user mentions \"Claude Code\", \".claude config\", \"AI collaboration layer\", or \"project standards\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "eaveluo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/eaveluo/claude-code-setup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eaveluo/claude-code-setup"
+}

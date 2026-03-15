@@ -1,0 +1,10 @@
+{
+  "name": "zivhm--openclaw-zapper-api",
+  "description": "Query DeFi portfolios, token holdings, NFTs, transactions, and prices via Zapper API. Supports 50+ chains. Use when user asks about wallet balances, DeFi positions, NFT collections, token prices, or transaction history.",
+  "version": "0.1.0",
+  "author": {
+    "name": "zivhm"
+  },
+  "homepage": "https://zapper.xyz",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zivhm/openclaw-zapper-api"
+}

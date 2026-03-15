@@ -1,0 +1,10 @@
+{
+  "name": "irideas--context-cleanup",
+  "description": "Analyze and archive low-value memory notes in OpenClaw workspace to reduce context bloat and improve responsiveness. 适用于上下文冗余、维护整理场景；默认流程为 analyze → plan → confirm → archive，归档优先于删除。",
+  "version": "0.3.0",
+  "author": {
+    "name": "irideas"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/irideas/context-cleanup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/irideas/context-cleanup"
+}

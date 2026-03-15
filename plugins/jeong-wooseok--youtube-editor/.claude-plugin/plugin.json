@@ -1,0 +1,10 @@
+{
+  "name": "jeong-wooseok--youtube-editor",
+  "description": "Automate YouTube video editing workflow: Download -> Transcribe (Whisper) -> Analyze (GPT-4) -> High-Quality Thumbnail (Korean & Character Consistency).",
+  "version": "1.0.14",
+  "author": {
+    "name": "jeong-wooseok"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jeong-wooseok/youtube-editor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jeong-wooseok/youtube-editor"
+}

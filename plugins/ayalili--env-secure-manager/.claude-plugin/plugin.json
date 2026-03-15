@@ -1,0 +1,10 @@
+{
+  "name": "ayalili--env-secure-manager",
+  "description": "Secure environment variable & secret management with AES-256 encryption, auto-redaction, permission control, prevent credential leakage",
+  "version": "1.0.1",
+  "author": {
+    "name": "ayalili"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ayalili/env-secure-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ayalili/env-secure-manager"
+}

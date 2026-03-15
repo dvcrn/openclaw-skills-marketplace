@@ -1,0 +1,10 @@
+{
+  "name": "craftslab--gomail",
+  "description": "Send emails via the gomail sender CLI with attachments, templates, and recipient management. Use when sending or testing email delivery from OpenClaw.",
+  "version": "0.1.0",
+  "author": {
+    "name": "craftslab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/craftslab/gomail",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/craftslab/gomail"
+}

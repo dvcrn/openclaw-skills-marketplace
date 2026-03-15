@@ -1,0 +1,10 @@
+{
+  "name": "richardsun700--task-resume",
+  "description": "Automatic interrupted-task resume workflow with queueing and recovery. Use when a user asks to resume interrupted work after temporary context switches, protect priority tasks from drift, or enforce \"finish current task then auto-resume previous interrupted task\" behavior.",
+  "version": "1.3.0",
+  "author": {
+    "name": "richardsun700"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/richardsun700/task-resume",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/richardsun700/task-resume"
+}

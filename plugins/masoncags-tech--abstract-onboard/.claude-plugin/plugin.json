@@ -1,0 +1,10 @@
+{
+  "name": "masoncags-tech--abstract-onboard",
+  "description": "Deploy smart contracts and bridge assets to Abstract (ZK Stack L2). Use when an agent needs to deploy contracts on Abstract, bridge ETH/tokens to Abstract, trade/swap tokens, place predictions on Myriad Markets, check balances, transfer assets, or interact with Abstract mainnet. Covers zksolc compilation, Hardhat deployment, Relay bridging, DEX trading (Kona, Aborean), Myriad prediction markets, and key contract addresses.",
+  "version": "1.6.0",
+  "author": {
+    "name": "masoncags-tech"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/masoncags-tech/abstract-onboard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/masoncags-tech/abstract-onboard"
+}

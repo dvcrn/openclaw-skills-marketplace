@@ -1,0 +1,10 @@
+{
+  "name": "dave-b-b--sentry-issues",
+  "description": "Fetch and analyze issues from Sentry error tracking. Use when asked to check Sentry errors, pull issues, investigate exceptions, review error trends, or get crash reports from a Sentry project.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dave-b-b"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dave-b-b/sentry-issues",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dave-b-b/sentry-issues"
+}

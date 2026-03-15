@@ -1,0 +1,10 @@
+{
+  "name": "daniellummis--github-actions-duplicate-run-audit",
+  "description": "Detect duplicate GitHub Actions run bursts by workflow/branch/commit and quantify wasted rerun minutes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "daniellummis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-duplicate-run-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daniellummis/github-actions-duplicate-run-audit"
+}

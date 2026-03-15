@@ -1,0 +1,10 @@
+{
+  "name": "kingmadellc--kalshalyst",
+  "description": "Contrarian prediction market scanner that finds mispricings on Kalshi using Claude Sonnet analysis, Brier score calibration, and Kelly Criterion position sizing. Five-phase pipeline: fetch markets, classify, estimate contrarian probabilities, calculate edge, and alert. Tracks estimate accuracy over time so you know when to trust the signal. Part of the OpenClaw Prediction Market Trading Stack — feeds edge data to Market Morning Brief and pairs with Kalshi Command Center for execution.",
+  "version": "1.1.0",
+  "author": {
+    "name": "kingmadellc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/kalshalyst",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/kalshalyst"
+}

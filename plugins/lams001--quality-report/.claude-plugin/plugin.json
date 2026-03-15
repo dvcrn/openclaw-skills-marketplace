@@ -1,0 +1,10 @@
+{
+  "name": "lams001--quality-report",
+  "description": "Generates quality daily, weekly, or monthly reports from key figures and events. Outputs both Excel and PPT (or content for both). If the user has no data, generates realistic mock data. Use for 品质日报/周报/月报, quality KPI summaries, or management quality reports.",
+  "version": "1.4.0",
+  "author": {
+    "name": "lams001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lams001/quality-report",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lams001/quality-report"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "briantanthony--vaibot-guard",
+  "description": "Policy-gated execution + tamper-evident audit trail for VAIBot/OpenClaw operations. Use to precheck/deny/require-approval before shell execution, and to produce signed receipts (hash-chained logs) for execution decisions and outcomes.",
+  "version": "0.1.3",
+  "author": {
+    "name": "briantanthony"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/briantanthony/vaibot-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/briantanthony/vaibot-guard"
+}

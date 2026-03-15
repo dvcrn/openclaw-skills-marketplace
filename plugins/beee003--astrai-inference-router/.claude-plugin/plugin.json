@@ -1,0 +1,10 @@
+{
+  "name": "beee003--astrai-inference-router",
+  "description": "Route all LLM calls through Astrai for 40%+ cost savings with intelligent routing and privacy controls",
+  "version": "1.0.1",
+  "author": {
+    "name": "beee003"
+  },
+  "homepage": "https://github.com/beee003/astrai-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/beee003/astrai-inference-router"
+}

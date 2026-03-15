@@ -1,0 +1,10 @@
+{
+  "name": "yesilsin-netizen--find-api",
+  "description": "🔍 Find API | 寻找可靠数据源\n \n TRIGGERS: Use when agent needs to fetch external data, user mentions \"reliable data source\", \"数据源\", \"API\", or when web scraping is inefficient/inaccurate.\n \n A comprehensive guide to reliable data APIs across all domains.\n Helps agents find the best APIs instead of inefficient web scraping.\n Currently covers: Stock/Financial data, Weather, News, Maps, and more domains coming soon.\n \n 触发条件：Agent 需要获取外部数据、用户提到\"可靠数据源\"、\"数据源\"、\"API\"，或网页爬取效率低/不准确时。\n 跨领域可靠数据 API 的综合指南。\n 帮助 Agent 找到最佳 API，避免低效的网页爬取。\n 目前覆盖：股票/金融数据、天气、新闻、地图，更多领域持续完善中。",
+  "version": "0.0.2",
+  "author": {
+    "name": "yesilsin-netizen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yesilsin-netizen/find-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yesilsin-netizen/find-api"
+}

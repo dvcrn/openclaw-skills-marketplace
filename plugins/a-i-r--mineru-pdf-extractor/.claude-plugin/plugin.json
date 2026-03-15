@@ -1,0 +1,10 @@
+{
+  "name": "a-i-r--mineru-pdf-extractor",
+  "description": "Extract PDF content to Markdown using MinerU API. Supports formulas, tables, OCR. Provides both local file and online URL parsing methods.",
+  "version": "1.0.5",
+  "author": {
+    "name": "a-i-r"
+  },
+  "homepage": "https://mineru.net/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/a-i-r/mineru-pdf-extractor"
+}

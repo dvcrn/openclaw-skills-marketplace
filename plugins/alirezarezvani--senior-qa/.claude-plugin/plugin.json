@@ -1,0 +1,10 @@
+{
+  "name": "alirezarezvani--senior-qa",
+  "description": "Generates unit tests, integration tests, and E2E tests for React/Next.js applications. Scans components to create Jest + React Testing Library test stubs, analyzes Istanbul/LCOV coverage reports to surface gaps, scaffolds Playwright test files from Next.js routes, mocks API calls with MSW, creates test fixtures, and configures test runners. Use when the user asks to \"generate tests\", \"write unit tests\", \"analyze test coverage\", \"scaffold E2E tests\", \"set up Playwright\", \"configure Jest\", \"implement testing patterns\", or \"improve test quality\".",
+  "version": "2.1.1",
+  "author": {
+    "name": "alirezarezvani"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-qa",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-qa"
+}

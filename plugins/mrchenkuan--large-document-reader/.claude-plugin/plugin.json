@@ -1,0 +1,10 @@
+{
+  "name": "mrchenkuan--large-document-reader",
+  "description": "Intelligently splits long academic or technical documents into chapters, generates structured JSON summaries for each, and creates a file system with a global index. This enables efficient AI retrieval and analysis, perfectly solving context window limitations by enabling “overview via summaries, deep-dive on demand” workflows.",
+  "version": "1.0.2",
+  "author": {
+    "name": "mrchenkuan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrchenkuan/large-document-reader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrchenkuan/large-document-reader"
+}

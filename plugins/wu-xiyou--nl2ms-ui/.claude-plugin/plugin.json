@@ -1,0 +1,10 @@
+{
+  "name": "wu-xiyou--nl2ms-ui",
+  "description": "根据自然语言通过midscene的api生成midscene脚本，可以生成web端、Android端、iOS端和PC端的midscene脚本。当用户提及生成脚本，android脚本、iOS脚本、web脚本、PC脚本时使用。",
+  "version": "1.0.0",
+  "author": {
+    "name": "wu-xiyou"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wu-xiyou/nl2ms-ui",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wu-xiyou/nl2ms-ui"
+}

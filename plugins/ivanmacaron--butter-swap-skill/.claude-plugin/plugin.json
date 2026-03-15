@@ -1,0 +1,10 @@
+{
+  "name": "ivanmacaron--butter-swap-skill",
+  "description": "Butter Network DEX Aggregator for cross-chain token swaps. Get swap quotes, route transaction data, and cross-chain routing information.\n Use this skill whenever the user wants to swap tokens across different blockchain networks, needs cross-chain swap quotes, or wants to build cross-chain DEX aggregation features.\n Trigger: \"cross-chain swap\", \"Butter Router\", \"swap tokens\", \"bridge tokens\", \"/route\", \"/swap\", \"get swap route\", \"get swap transaction\", \"ButterSwap\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "ivanmacaron"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ivanmacaron/butter-swap-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivanmacaron/butter-swap-skill"
+}

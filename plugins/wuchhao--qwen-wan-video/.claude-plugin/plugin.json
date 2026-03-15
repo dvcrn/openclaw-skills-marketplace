@@ -1,0 +1,10 @@
+{
+  "name": "wuchhao--qwen-wan-video",
+  "description": "直接调用通义万相2.6视频生成模型（Qwen Wan 2.6），支持文生视频和图生视频，无需中间API代理。适用于需要直接对接阿里云大模型的视频创作场景。",
+  "version": "1.0.0",
+  "author": {
+    "name": "wuchhao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wuchhao/qwen-wan-video",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wuchhao/qwen-wan-video"
+}

@@ -1,0 +1,48 @@
+# OpenClaw 同步文件列表
+# + 开头 = 包含（同步）
+# - 开头 = 排除（不同步）
+# # 开头 = 注释
+
+# ========== 核心记忆数据 ==========
++MEMORY.md
++memory/
+
+# ========== 身份和配置 ==========
++IDENTITY.md
++USER.md
++SOUL.md
++AGENTS.md
++TOOLS.md
++HEARTBEAT.md
++BOOTSTRAP.md
+
+# ========== 项目文档 ==========
++README.md
+
+# ========== 技能目录 ==========
++skills/
+
+# ========== 工具目录 ==========
++tools/
+
+# ========== 排除规则 ==========
+# 版本控制
+-.git/**
+
+# Node 依赖
+-node_modules/**
+
+# 临时文件
+-*.tmp
+-*.temp
+-*.log
+-*.bak
+-*.backup
+
+# 操作系统文件
+-.DS_Store
+-Thumbs.db
+
+# 同步工具自身的状态
+-.last-sync
+-logs/*.log

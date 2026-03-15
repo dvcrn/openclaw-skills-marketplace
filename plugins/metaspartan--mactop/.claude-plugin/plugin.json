@@ -1,0 +1,10 @@
+{
+  "name": "metaspartan--mactop",
+  "description": "Retrieve real-time hardware metrics from Apple Silicon Macs using mactop's TOON format.\n Provides CPU, RAM, GPU, power, thermal, network, disk I/O, and Thunderbolt bus information.\n Use when the user wants system stats, hardware monitoring, or performance metrics on Apple Silicon Macs.",
+  "version": "1.0.1",
+  "author": {
+    "name": "metaspartan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/metaspartan/mactop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/metaspartan/mactop"
+}

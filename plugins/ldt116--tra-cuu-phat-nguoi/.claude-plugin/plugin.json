@@ -1,0 +1,10 @@
+{
+  "name": "ldt116--tra-cuu-phat-nguoi",
+  "description": "Tra cứu phạt nguội phương tiện tại Việt Nam. Use when user asks to check traffic fines in VN by license plate (ô tô/xe máy), especially via VNeTraffic-style lookup and CSGT cross-check guidance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ldt116"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ldt116/tra-cuu-phat-nguoi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ldt116/tra-cuu-phat-nguoi"
+}

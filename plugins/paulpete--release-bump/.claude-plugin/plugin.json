@@ -1,0 +1,10 @@
+{
+  "name": "paulpete--release-bump",
+  "description": "Use when bumping ralph-orchestrator version for a new release, after fixes are committed and ready to publish",
+  "version": "0.1.0",
+  "author": {
+    "name": "paulpete"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/paulpete/release-bump",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/paulpete/release-bump"
+}

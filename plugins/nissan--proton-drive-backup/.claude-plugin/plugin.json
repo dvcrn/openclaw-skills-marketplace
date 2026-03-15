@@ -1,0 +1,10 @@
+{
+  "name": "nissan--proton-drive-backup",
+  "description": "Automated backup to Proton Drive with age-based truncation — sync configs, memory files, content drafts, and media with configurable retention periods. Use when you need privacy-first cloud backup for AI workspaces. Requires Proton Drive desktop app.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/proton-drive-backup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/proton-drive-backup"
+}

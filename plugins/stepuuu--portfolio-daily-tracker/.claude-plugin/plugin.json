@@ -1,0 +1,10 @@
+{
+  "name": "stepuuu--portfolio-daily-tracker",
+  "description": "Track and report multi-group stock portfolios with daily snapshots, live Yahoo Finance prices, P&L analytics, and push notifications (Feishu/Telegram). Supports A-shares, HK, US markets. Use when asked about holdings, buy/sell/rebalance positions, generate daily portfolio reports, check drawdown or returns, update fund/cash balances, or run the full snapshot-report-push pipeline.",
+  "version": "1.2.0",
+  "author": {
+    "name": "stepuuu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stepuuu/portfolio-daily-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stepuuu/portfolio-daily-tracker"
+}

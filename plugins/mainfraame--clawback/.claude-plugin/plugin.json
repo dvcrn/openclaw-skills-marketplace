@@ -1,0 +1,10 @@
+{
+  "name": "mainfraame--clawback",
+  "description": "Mirror congressional stock trades with automated broker execution and risk management. Use when you want to track and automatically trade based on congressional disclosures from House Clerk and Senate eFD sources.",
+  "version": "1.1.1",
+  "author": {
+    "name": "mainfraame"
+  },
+  "homepage": "https://github.com/mainfraame/clawback",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mainfraame/clawback"
+}

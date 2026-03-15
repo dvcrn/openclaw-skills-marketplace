@@ -1,0 +1,10 @@
+{
+  "name": "sa9saq--security-review",
+  "description": "Comprehensive security review for code, configs, and operations. OWASP, prompt injection, crypto security. Auto-triggers on security-related changes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sa9saq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sa9saq/security-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sa9saq/security-review"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "benjaminorthner--willhaben",
+  "description": "Create and manage listings on Willhaben.at (Austrian marketplace). Use when the user wants to sell something, create a listing, or mentions Willhaben. Handles photo uploads, generates titles/descriptions/prices, and posts via browser automation.",
+  "version": "1.0.1",
+  "author": {
+    "name": "benjaminorthner"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/benjaminorthner/willhaben",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/benjaminorthner/willhaben"
+}

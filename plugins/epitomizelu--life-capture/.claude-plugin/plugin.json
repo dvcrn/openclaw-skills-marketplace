@@ -1,0 +1,10 @@
+{
+  "name": "epitomizelu--life-capture",
+  "description": "capture daily-life notes into markdown and sqlite. use when the user wants to record one or more life entries such as expenses, completed tasks, schedules, reminders, or ideas; classify the content; generate tags; parse natural language into structured json; write a daily markdown note under life/daily; and sync structured fields into a local sqlite database. triggers include short single-line entries, mixed sentences containing multiple record types, or requests to log and organize personal information for later review and reporting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "epitomizelu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/epitomizelu/life-capture",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/epitomizelu/life-capture"
+}

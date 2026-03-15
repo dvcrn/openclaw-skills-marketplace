@@ -1,0 +1,10 @@
+{
+  "name": "siraustin--openclaw-dx",
+  "description": "Diagnose and fix openclaw gateway issues. Use when the gateway is stuck, not starting, crash-looping, or rejecting connections. Covers main and --profile vesper gateways. Runs triage, applies fixes, writes incident report to ~/clawd/inbox.",
+  "version": "1.7.0",
+  "author": {
+    "name": "siraustin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/siraustin/openclaw-dx",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/siraustin/openclaw-dx"
+}

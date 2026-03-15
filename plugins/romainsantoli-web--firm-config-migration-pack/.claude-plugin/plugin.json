@@ -1,0 +1,10 @@
+{
+  "name": "romainsantoli-web--firm-config-migration-pack",
+  "description": "Configuration migration and integrity audit pack. Shell env sanitization, plugin integrity, token separation, OTEL redaction, and RPC rate limiting. 5 migration tools.",
+  "version": "1.0.0",
+  "author": {
+    "name": "romainsantoli-web"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-config-migration-pack",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-config-migration-pack"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ariesdevil--polymarket-tracker",
+  "description": "Track top Polymarket markets by trading volume. Shows market name, Yes/No trading volumes, and current odds. Use when user asks about Polymarket trends, hot markets, or wants to find high-volume trading opportunities. Requires payment via skillpay.me (0.001 USDT per call).",
+  "version": "1.0.4",
+  "author": {
+    "name": "ariesdevil"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ariesdevil/polymarket-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ariesdevil/polymarket-tracker"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jameschan21--github-kb",
+  "description": "Manage a local GitHub knowledge base and provide GitHub search capabilities via gh CLI. Use when users ask about repos, PRs, issues, request to clone GitHub repositories, explore codebases, or need information about GitHub projects. Supports searching GitHub via gh CLI and managing local KB with GITHUB_KB.md catalog. Configure via GITHUB_TOKEN and GITHUB_KB_PATH environment variables.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jameschan21"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jameschan21/github-kb",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jameschan21/github-kb"
+}

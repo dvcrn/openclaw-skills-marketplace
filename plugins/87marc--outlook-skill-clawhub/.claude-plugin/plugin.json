@@ -1,0 +1,10 @@
+{
+  "name": "87marc--outlook-skill-clawhub",
+  "description": "Read, search, and manage Outlook emails and calendar via Microsoft Graph API with delegate support. Your AI assistant authenticates as itself but accesses the owner's mailbox/calendar as a delegate. Modified for delegate access from https://clawhub.ai/jotamed/outlook",
+  "version": "1.0.0",
+  "author": {
+    "name": "87marc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/87marc/outlook-skill-clawhub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/87marc/outlook-skill-clawhub"
+}

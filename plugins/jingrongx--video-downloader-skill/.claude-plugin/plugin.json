@@ -1,0 +1,10 @@
+{
+  "name": "jingrongx--video-downloader-skill",
+  "description": "通用视频下载工具，支持 YouTube、B站、抖音等主流平台。使用 yt-dlp 下载视频，自动选择分辨率、合并音视频、清理文件名。",
+  "version": "1.0.1",
+  "author": {
+    "name": "jingrongx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jingrongx/video-downloader-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jingrongx/video-downloader-skill"
+}

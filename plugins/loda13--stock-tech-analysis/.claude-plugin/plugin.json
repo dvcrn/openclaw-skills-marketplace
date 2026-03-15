@@ -1,0 +1,10 @@
+{
+  "name": "loda13--stock-tech-analysis",
+  "description": "Simple technical analysis for stocks (Tencent, Xiaomi, Tesla, NVIDIA, etc.). Calculates moving averages (SMA20, SMA50), RSI (14-day), price position in 20-day range, and provides buy/hold/sell signals based on technical indicators. No external dependencies required - uses only Python standard library + Yahoo Finance data.",
+  "version": "0.1.0",
+  "author": {
+    "name": "loda13"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/loda13/stock-tech-analysis",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/loda13/stock-tech-analysis"
+}

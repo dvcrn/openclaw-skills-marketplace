@@ -1,0 +1,10 @@
+{
+  "name": "batsirai--sprint-os",
+  "description": "5-minute sprint operating system for AI agents. Autonomous execution cycles: ASSESS → PLAN → SCOPE → EXECUTE → MEASURE → ADAPT → LOG → NEXT. Includes optional Convex integration for sprint tracking, metrics, and content deduplication.",
+  "version": "1.0.0",
+  "author": {
+    "name": "batsirai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/batsirai/sprint-os",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/batsirai/sprint-os"
+}

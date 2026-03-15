@@ -1,0 +1,10 @@
+{
+  "name": "mrjootta--model-router-premium",
+  "description": "Route model requests based on configured models, costs and task complexity. Use for routing general/low-complexity requests to the cheapest available model and for higher-complexity requests to stronger models.",
+  "version": "0.1.1",
+  "author": {
+    "name": "mrjootta"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mrjootta/model-router-premium",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mrjootta/model-router-premium"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "raunaksingwi--ravi-login",
+  "description": "Sign up for and log into services using your Ravi identity — handles forms, 2FA, OTPs, and credential storage. Do NOT use for standalone inbox reading (use ravi-inbox) or email sending (use ravi-email-send).",
+  "version": "1.7.1",
+  "author": {
+    "name": "raunaksingwi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/raunaksingwi/ravi-login",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/raunaksingwi/ravi-login"
+}

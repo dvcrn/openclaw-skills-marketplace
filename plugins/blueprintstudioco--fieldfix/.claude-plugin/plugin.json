@@ -1,0 +1,10 @@
+{
+  "name": "blueprintstudioco--fieldfix",
+  "description": "Query and manage your heavy equipment fleet through FieldFix's API. Track machines, log maintenance, monitor expenses, and get AI diagnostics.",
+  "version": "1.0.0",
+  "author": {
+    "name": "blueprintstudioco"
+  },
+  "homepage": "https://www.fieldfix.ai/api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/blueprintstudioco/fieldfix"
+}

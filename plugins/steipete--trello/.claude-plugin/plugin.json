@@ -1,0 +1,10 @@
+{
+  "name": "steipete--trello",
+  "description": "Manage Trello boards, lists, and cards via the Trello REST API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "https://developer.atlassian.com/cloud/trello/rest/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/trello"
+}

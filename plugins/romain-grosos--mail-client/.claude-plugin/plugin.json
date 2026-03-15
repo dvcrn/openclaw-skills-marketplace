@@ -1,0 +1,10 @@
+{
+  "name": "romain-grosos--mail-client",
+  "description": "IMAP/SMTP mail client for OpenClaw agents. Use when: (1) reading or listing emails from a mailbox, (2) searching emails by sender, subject, date or text, (3) sending emails with plain text or HTML body, with optional file attachments, (4) moving, marking, or deleting messages. NOT for: bulk mailing, newsletters, calendar/contacts (use CalDAV), or providers requiring OAuth (use a dedicated skill).",
+  "version": "1.1.0",
+  "author": {
+    "name": "romain-grosos"
+  },
+  "homepage": "https://github.com/Rwx-G/openclaw-skill-mail-client",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romain-grosos/mail-client"
+}

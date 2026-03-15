@@ -1,0 +1,16 @@
+{
+  "name": "time-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/time_management_cli.py",
+  "bin": {
+    "time-management": "src/time_management_cli.py"
+  },
+  "keywords": ["openclaw", "skill", "productivity"],
+  "author": "harrylabs0913",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harrylabs0913/time-management.git"
+  }
+}

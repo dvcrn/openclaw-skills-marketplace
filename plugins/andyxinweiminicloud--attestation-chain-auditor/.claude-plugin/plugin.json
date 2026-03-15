@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--attestation-chain-auditor",
+  "description": "Helps validate the completeness and integrity of trust attestation chains in AI agent ecosystems. Identifies broken links, expired credentials, and missing vouching relationships that make verified trust claims unverifiable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/attestation-chain-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/attestation-chain-auditor"
+}

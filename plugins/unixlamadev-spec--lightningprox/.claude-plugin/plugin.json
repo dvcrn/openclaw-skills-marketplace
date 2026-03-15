@@ -1,0 +1,10 @@
+{
+  "name": "unixlamadev-spec--lightningprox",
+  "description": "Pay-per-request AI model access via Bitcoin Lightning using prepaid spend tokens. Query Claude and GPT models without API keys. Deterministic, budget-controlled AI routing.",
+  "version": "4.0.1",
+  "author": {
+    "name": "unixlamadev-spec"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/unixlamadev-spec/lightningprox",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/unixlamadev-spec/lightningprox"
+}

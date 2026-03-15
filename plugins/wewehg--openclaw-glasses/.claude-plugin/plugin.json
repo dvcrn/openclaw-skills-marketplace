@@ -1,0 +1,10 @@
+{
+  "name": "wewehg--openclaw-glasses",
+  "description": "Bilingual search-layer skill for OpenClaw that turns ordinary web lookup into multi-source retrieval, intent-aware ranking, adaptive weighting, thread-pulling research, Chinese-query optimization, and finance-aware realtime prioritization. Use when the user asks for web search, deep research, latest status/news, comparisons, resource finding, Chinese-language search, or realtime market data such as stocks, indices, forex, and crypto prices. Prefer this over raw web_search when you want broader coverage, better ranking, deeper context, or more reliable realtime quotes.",
+  "version": "0.1.2",
+  "author": {
+    "name": "wewehg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wewehg/openclaw-glasses",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wewehg/openclaw-glasses"
+}

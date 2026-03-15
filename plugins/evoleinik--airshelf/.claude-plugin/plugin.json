@@ -1,0 +1,10 @@
+{
+  "name": "evoleinik--airshelf",
+  "description": "Search, compare, and buy products from verified merchants. Returns structured product data with Decision Packs (pros, cons, best_for, allergens, verified pricing) instead of raw web scraping. No CAPTCHAs, no auth required. ~980 products across 10 merchants. Use when user wants to find, compare, or purchase products.",
+  "version": "1.3.0",
+  "author": {
+    "name": "evoleinik"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/evoleinik/airshelf",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/evoleinik/airshelf"
+}

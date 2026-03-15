@@ -1,0 +1,10 @@
+{
+  "name": "lycohana--feishu-send-message",
+  "description": "通过 API 向飞书用户发送消息。当你需要通过手机号或任意用户 ID（open_id、user_id、union_id）向飞书用户发送消息时使用。自动尝试所有 ID 类型以找到有效的那个。\n\n **新增**：消息长度指南和长内容多部分发送最佳实践！",
+  "version": "1.0.0",
+  "author": {
+    "name": "lycohana"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lycohana/feishu-send-message",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lycohana/feishu-send-message"
+}

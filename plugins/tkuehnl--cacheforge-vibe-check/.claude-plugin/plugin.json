@@ -1,0 +1,10 @@
+{
+  "name": "tkuehnl--cacheforge-vibe-check",
+  "description": "Audit code for \"vibe coding sins\" — patterns that indicate AI-generated code was accepted without proper review. Produces a scored report card with fix suggestions.",
+  "version": "0.1.3",
+  "author": {
+    "name": "tkuehnl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tkuehnl/cacheforge-vibe-check",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tkuehnl/cacheforge-vibe-check"
+}

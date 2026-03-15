@@ -1,0 +1,9 @@
+{
+  "name": "amazon-niche-finder",
+  "version": "1.0.0",
+  "description": "亚马逊蓝海选品助手 - 挖掘高利润、低竞争的利基产品，输出竞争护城河分析",
+  "main": "index.js",
+  "bin": { "amazon-niche-finder": "./index.js" },
+  "dependencies": { "node-fetch": "^2.7.0" },
+  "keywords": ["亚马逊", "选品", "跨境电商", "蓝海产品"]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cinnabarhorse--aavegotchi-gotchiverse",
+  "description": "Operate Aavegotchi Gotchiverse player workflows on Base mainnet (8453): alchemica channeling, surveying and harvesting, crafting installations/tiles, building on parcels (equip/unequip/move/batch equip), installation upgrades, craft/upgrade queue management, and parcel access-right management. Use when interacting with Realm/Installation/Tile diamonds via subgraph-first discovery and onchain verification/execution with Foundry cast.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cinnabarhorse"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinnabarhorse/aavegotchi-gotchiverse",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinnabarhorse/aavegotchi-gotchiverse"
+}

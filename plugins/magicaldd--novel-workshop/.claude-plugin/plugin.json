@@ -1,0 +1,10 @@
+{
+  "name": "magicaldd--novel-workshop",
+  "description": "多模型命题小说创作工坊。用户给出写作命题，自动完成：AI 写初稿 → 三路并行审阅（逻辑/文学/锐评）→ AI 改稿 → 飞书文档完整存档。\n 一键启动，全程自动，零手动干预。支持飞书实时进度推送。\n 触发词：命题写作、写一篇小说、命题小说、创作工坊、novel workshop",
+  "version": "2.0.0",
+  "author": {
+    "name": "magicaldd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/magicaldd/novel-workshop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/magicaldd/novel-workshop"
+}

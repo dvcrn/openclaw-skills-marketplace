@@ -1,0 +1,10 @@
+{
+  "name": "vashkartik--openclaw-bee",
+  "description": "Install and configure BEE — the Belief Extraction Engine for OpenClaw. Gives agents persistent structured memory across sessions. Auto-extracts beliefs at session end, scopes by agent namespace, and injects recalled context on agent start. Use when: setting up agent memory, configuring belief persistence, or troubleshooting BEE. NOT for: general memory questions (use built-in memory tools instead).",
+  "version": "0.1.1",
+  "author": {
+    "name": "vashkartik"
+  },
+  "homepage": "https://github.com/skysphere-labs/openclaw-bee",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vashkartik/openclaw-bee"
+}

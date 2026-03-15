@@ -1,0 +1,10 @@
+{
+  "name": "dios-man--gateway-config-guardian",
+  "description": "Three-layer protection for the OpenClaw gateway: real-time config monitoring with auto-rollback, systemd crash recovery, and tiered notifications via Feishu/Telegram/Discord. Use when: (1) user shares a GitHub link and says \"install this\" / \"帮我安装\", (2) user asks for status: \"gateway-guardian status\" / \"guardian 运行正常吗\", (3) user asks to uninstall: \"uninstall gateway-guardian\" / \"卸载 gateway-guardian\".",
+  "version": "1.0.4",
+  "author": {
+    "name": "dios-man"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dios-man/gateway-config-guardian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dios-man/gateway-config-guardian"
+}

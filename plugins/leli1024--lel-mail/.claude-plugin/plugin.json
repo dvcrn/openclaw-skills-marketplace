@@ -1,0 +1,10 @@
+{
+  "name": "leli1024--lel-mail",
+  "description": "Send and read email via a combination of python and bash scripts which makes use of the main agent for reasoning and logic. This skill enables the agent to write to memory based on contents in the email and to reach out to the user either to notify them of happenings or to request inputs to respond. This skill also contains a python script to read and manage the email queue containing functionality to list pending outgoing emails and delete emails before they can be sent out. Please note that this skill enables the agent to act upon received emails by adding to agent memory and sending responses",
+  "version": "1.1.4",
+  "author": {
+    "name": "leli1024"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leli1024/lel-mail",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leli1024/lel-mail"
+}

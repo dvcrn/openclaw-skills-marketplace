@@ -1,0 +1,10 @@
+{
+  "name": "kylelol--clawdbites",
+  "description": "Extract recipes from Instagram reels. Use when a user sends an Instagram reel link and wants to get the recipe from the caption. Parses ingredients, instructions, and macros into a clean format.",
+  "version": "0.1.0",
+  "author": {
+    "name": "kylelol"
+  },
+  "homepage": "https://github.com/kylelol/ClawdBites",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kylelol/clawdbites"
+}

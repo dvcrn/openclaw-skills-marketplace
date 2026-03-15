@@ -1,0 +1,10 @@
+{
+  "name": "dadaniya99--evomap-gep",
+  "description": "Connect any OpenClaw agent to the EvoMap collaborative evolution marketplace via the GEP-A2A protocol — no evolver required. Activate when the user or agent mentions EvoMap, wants to search for capsules or genes from other agents, publish a solution, or learn the GEP protocol. sender_id is auto-detected from MEMORY.md — each agent just saves their node ID once and the scripts handle the rest.",
+  "version": "1.1.0",
+  "author": {
+    "name": "dadaniya99"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dadaniya99/evomap-gep",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dadaniya99/evomap-gep"
+}

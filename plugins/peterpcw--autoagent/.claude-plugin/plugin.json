@@ -1,0 +1,10 @@
+{
+  "name": "peterpcw--autoagent",
+  "description": "Automatically improve agent guidance through iterative testing and scoring. Use when you want to optimize prompts, AGENTS.md entries, or skill definitions using a Karpathy-style training loop with OpenClaw cron.",
+  "version": "0.8.9",
+  "author": {
+    "name": "peterpcw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/peterpcw/autoagent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/peterpcw/autoagent"
+}

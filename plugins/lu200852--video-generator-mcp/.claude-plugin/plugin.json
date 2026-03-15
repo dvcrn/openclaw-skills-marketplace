@@ -1,0 +1,10 @@
+{
+  "name": "lu200852--video-generator-mcp",
+  "description": "电商视频生成技能（MCP 版）。用户提供商品标题、描述、图片，自动生成营销短视频。 当用户提到\"生成视频\"\"做视频\"\"视频生成\"\"商品视频\"\"产品视频\"\"带货视频\"时必须使用此技能。 通过 MCP tool 调用 API，不使用 exec curl。",
+  "version": "1.0.1",
+  "author": {
+    "name": "lu200852"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lu200852/video-generator-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lu200852/video-generator-mcp"
+}

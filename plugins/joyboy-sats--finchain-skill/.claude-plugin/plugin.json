@@ -1,0 +1,10 @@
+{
+  "name": "joyboy-sats--finchain-skill",
+  "description": "Answer questions and generate responses for Finchain Skill, a FinChain and FUSD focused finance skill. Use when the user asks about FUSD, FUSDLP, FinChain星鏈, 星鏈, RWA, 穩定幣, 稳定币, 美債 RWA 配置建議, FUSD 配置建議, 穩定幣收益計算, RWA 風險評級查詢, FUSD 和 USDT 對比, 或要生成金融主題的幽默回覆，例如港股收盤段子。",
+  "version": "1.0.1",
+  "author": {
+    "name": "joyboy-sats"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/joyboy-sats/finchain-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/joyboy-sats/finchain-skill"
+}

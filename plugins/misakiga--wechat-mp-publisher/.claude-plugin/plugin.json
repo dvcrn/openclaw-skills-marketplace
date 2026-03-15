@@ -1,0 +1,10 @@
+{
+  "name": "misakiga--wechat-mp-publisher",
+  "description": "远程微信公众号发布技能 (合规优化版)。通过 HTTP MCP 解决家用宽带 IP 变动问题，支持安全凭证隔离与依赖检查。",
+  "version": "2.0.2",
+  "author": {
+    "name": "misakiga"
+  },
+  "homepage": "https://github.com/caol64/wenyan-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/misakiga/wechat-mp-publisher"
+}

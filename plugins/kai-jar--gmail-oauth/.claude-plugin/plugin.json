@@ -1,0 +1,10 @@
+{
+  "name": "kai-jar--gmail-oauth",
+  "description": "Set up Gmail API access via gog CLI with manual OAuth flow. Use when setting up Gmail integration, renewing expired OAuth tokens, or troubleshooting Gmail authentication on headless servers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kai-jar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kai-jar/gmail-oauth",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kai-jar/gmail-oauth"
+}

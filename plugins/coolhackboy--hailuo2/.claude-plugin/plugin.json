@@ -1,0 +1,10 @@
+{
+  "name": "coolhackboy--hailuo2",
+  "description": "Use PoYo AI Hailuo 02 for prompt-optimized video generation and image-to-video workflows through the `https://api.poyo.ai/api/generate/submit` endpoint. Use when a user wants standard or pro video jobs, optional prompt optimization, end-frame control, or PoYo payloads for `hailuo-02` and `hailuo-02-pro`.",
+  "version": "1.0.0",
+  "author": {
+    "name": "coolhackboy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/coolhackboy/hailuo2",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/coolhackboy/hailuo2"
+}

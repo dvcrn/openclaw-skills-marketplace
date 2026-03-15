@@ -1,0 +1,10 @@
+{
+  "name": "jdchi--is-bullshit",
+  "description": "Detect if AI responses contain hallucinations by analyzing tool usage and response quality. Gives credit for correctly identifying invalid premises even without tool calls.",
+  "version": "1.0.8",
+  "author": {
+    "name": "jdchi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jdchi/is-bullshit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jdchi/is-bullshit"
+}

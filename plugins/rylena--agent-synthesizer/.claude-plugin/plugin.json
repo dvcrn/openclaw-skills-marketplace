@@ -1,0 +1,10 @@
+{
+  "name": "rylena--agent-synthesizer",
+  "description": "Enable and configure Agent Synthesizer for OpenClaw to improve autonomy and execution throughput. Use when a user asks to install, set up, troubleshoot, or optimize Agent Synthesizer using https://github.com/rylena/agent-synth, or when they want their OpenClaw agent to work faster/better via that repository.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rylena"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rylena/agent-synthesizer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rylena/agent-synthesizer"
+}

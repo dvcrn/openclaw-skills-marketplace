@@ -1,0 +1,10 @@
+{
+  "name": "udiedrichsen--clawdbot-sync",
+  "description": "Synchronize memory, preferences, and skills between multiple Clawdbot instances. Supports bi-directional sync via SSH/rsync over Tailscale. Use when asked to sync with another Clawdbot, share memory between instances, or keep multiple agents in sync. Triggers: /sync, 'sync with mac', 'update other clawdbot', 'share this with my other bot'.",
+  "version": "1.0.0",
+  "author": {
+    "name": "udiedrichsen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/udiedrichsen/clawdbot-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/udiedrichsen/clawdbot-sync"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "deeplearning1993--market-sentiment",
+  "description": "加密货币市场情绪分析，整合恐惧贪婪指数、社交媒体情绪、资金流向等多维度数据。每次调用收费0.001 USDT。触发词：市场情绪、sentiment、恐惧贪婪指数、市场分析。",
+  "version": "1.0.0",
+  "author": {
+    "name": "deeplearning1993"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deeplearning1993/market-sentiment",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deeplearning1993/market-sentiment"
+}

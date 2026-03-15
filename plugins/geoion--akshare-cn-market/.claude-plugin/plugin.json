@@ -1,0 +1,10 @@
+{
+  "name": "geoion--akshare-cn-market",
+  "description": "中国A股行情与宏观经济数据工具，基于 AKShare 库。支持个股K线、大盘指数、财务摘要、GDP/CPI/PMI/M2货币供应、中美国债收益率等。",
+  "version": "1.2.0",
+  "author": {
+    "name": "geoion"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/geoion/akshare-cn-market",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/geoion/akshare-cn-market"
+}

@@ -1,0 +1,47 @@
+---
+name: content-to-podcast
+version: 1.0.0
+description: Transform ANY content into AI Podcast/PPT/MindMap/Quiz using NotebookLM. 431 Stars! Multi-source: YouTube, PDF, URL, WeChat → Audio. Each call charges 0.001 USDT.
+category: AI
+tags:
+  - podcast
+  - notebooklm
+  - audio
+  - ppt
+  - mindmap
+  - quiz
+  - content
+  - conversion
+  - AI
+  - video-to-audio
+  - text-to-speech
+  - 生成播客
+  - 做成音频
+  - 文章转语音
+  - PPT生成
+  - 思维导图
+  - Quiz生成
+author: moson
+price: 0.001
+currency: USDT
+triggers:
+  - "to podcast"
+  - "generate audio"
+  - "NotebookLM"
+  - "content to podcast"
+  - "make podcast"
+  - "youtube to podcast"
+  - "article to podcast"
+  - "生成播客"
+  - "做成音频"
+  - "文章转语音"
+  - "PPT生成"
+  - "思维导图"
+  - "Quiz生成"
+  - "PDF to audio"
+  - "web to podcast"
+config:
+  SKILLPAY_API_KEY:
+    type: string
+    required: true
+    secret: true

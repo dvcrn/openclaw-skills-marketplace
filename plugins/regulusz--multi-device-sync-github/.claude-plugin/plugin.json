@@ -1,0 +1,10 @@
+{
+  "name": "regulusz--multi-device-sync-github",
+  "description": "Multi-device OpenClaw data synchronization using GitHub. Manages workspace data sync across multiple machines (Ubuntu, Mac, etc.) with automatic push on file changes, periodic pull, and conflict detection. Use when setting up or managing OpenClaw across multiple devices, configuring data synchronization, resolving sync conflicts, or adding new devices to the sync network.",
+  "version": "1.0.2",
+  "author": {
+    "name": "regulusz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/regulusz/multi-device-sync-github",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/regulusz/multi-device-sync-github"
+}

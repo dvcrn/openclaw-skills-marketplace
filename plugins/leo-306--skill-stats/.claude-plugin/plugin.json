@@ -1,0 +1,10 @@
+{
+  "name": "leo-306--skill-stats",
+  "description": "Query, analyze, and track all skill usage information. This skill should be invoked when users ask about skill usage, call counts, success rates, last used time, redundant installations, duplicates, available skills, or any questions related to skill usage details. Supports independent statistics for both Claude Code and OpenClaw environments.",
+  "version": "1.0.0",
+  "author": {
+    "name": "leo-306"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leo-306/skill-stats",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leo-306/skill-stats"
+}

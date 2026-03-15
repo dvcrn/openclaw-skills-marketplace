@@ -1,0 +1,10 @@
+{
+  "name": "gthu-bmc--voicenotes-official",
+  "description": "This official skill from the Voicenotes team gives OpenClaw access to new APIs and the ability to search semantically, retrieve full transcripts, filter by tags or date range and create text notes — all through natural conversation.",
+  "version": "1.0.3",
+  "author": {
+    "name": "gthu-bmc"
+  },
+  "homepage": "https://voicenotes.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gthu-bmc/voicenotes-official"
+}

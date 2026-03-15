@@ -1,0 +1,10 @@
+{
+  "name": "romain-grosos--work-helper",
+  "description": "Assistant de travail personnel pour consultant/freelance sysops. Use when: logging an activity, taking a note, creating a reminder, generating a recap or CRA, ingesting a handwritten PDF from reMarkable, exporting journal to Nextcloud or email. NOT for: time-tracking (Toggl), task management/kanban (Jira/Trello), GitHub/Jira auto-pull, CalDAV calendar, or periodic mail checks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "romain-grosos"
+  },
+  "homepage": "https://github.com/Rwx-G/openclaw-skill-work-helper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romain-grosos/work-helper"
+}

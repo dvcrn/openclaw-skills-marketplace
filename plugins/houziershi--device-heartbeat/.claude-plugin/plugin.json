@@ -1,0 +1,10 @@
+{
+  "name": "houziershi--device-heartbeat",
+  "description": "Monitor remote device online status via heartbeat pings to healthchecks.io. Use when user asks to check if a device is online or offline, user reports device unreachable or no response from remote OpenClaw, user wants to set up device monitoring or heartbeat, user asks about network connectivity of their devices, or user says ping my device or is my Mac online.",
+  "version": "1.0.0",
+  "author": {
+    "name": "houziershi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/houziershi/device-heartbeat",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/houziershi/device-heartbeat"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zencrust-ai--minimal-memory",
+  "description": "Maintain clean, efficient memory files with GOOD/BAD/NEUTRAL categorization and semantic search. Use when managing agent memory, deciding what to store, searching past memories, or organizing knowledge. Triggers on: memory cleanup requests, \"remember this\", \"search memory\", memory organization discussions, or when MEMORY.md grows too large.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zencrust-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zencrust-ai/minimal-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zencrust-ai/minimal-memory"
+}

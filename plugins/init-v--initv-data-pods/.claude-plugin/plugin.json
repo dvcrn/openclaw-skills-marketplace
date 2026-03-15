@@ -1,0 +1,10 @@
+{
+  "name": "init-v--initv-data-pods",
+  "description": "Create and manage modular portable database pods (SQLite + metadata + embeddings). Includes document ingestion with embeddings for semantic search. Full automation - just ask.",
+  "version": "0.2.0",
+  "author": {
+    "name": "init-v"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/init-v/initv-data-pods",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/init-v/initv-data-pods"
+}

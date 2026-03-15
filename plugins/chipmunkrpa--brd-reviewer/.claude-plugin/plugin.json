@@ -1,0 +1,10 @@
+{
+  "name": "chipmunkrpa--brd-reviewer",
+  "description": "Review Business Requirements Documents in `.docx` format by reading the existing BRD, extracting paragraph-level context, drafting clarification questions for unclear statements, and producing a final Word document that combines comments and tracked changes. Use when the user wants a BRD reviewed, challenged for ambiguity, or redlined with proposed wording improvements while preserving Word-native review features.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chipmunkrpa"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chipmunkrpa/brd-reviewer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chipmunkrpa/brd-reviewer"
+}

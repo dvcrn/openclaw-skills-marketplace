@@ -1,0 +1,10 @@
+{
+  "name": "yadavabhijeet4--ai-influencer",
+  "description": "Create an AI clone video (talking head) from a single reference photo, a text script, and a cloned voice. Automates the pipeline of image generation (Gemini), voice cloning (ElevenLabs), and lip-sync video animation (Kling AI).",
+  "version": "1.0.0",
+  "author": {
+    "name": "yadavabhijeet4"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yadavabhijeet4/ai-influencer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yadavabhijeet4/ai-influencer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "yedanyagamiai-cmd--agentforge-compare",
+  "description": "AI coding tool comparison MCP server -- compare Claude Code vs Cursor vs Windsurf vs Devin vs Copilot side-by-side with feature matrices, pricing breakdowns, and AI-powered recommendations. Use when: (1) user asks 'compare Cursor and Windsurf' or 'which AI coding tool is best', (2) user says 'tell me about Devin' or 'Copilot features', (3) user needs 'recommend an AI tool for my team of 5', (4) user asks 'how much does Cursor cost' or 'calculate AI tool costs', (5) user says 'list AI coding tools' or 'browse by category'. 15+ tools tracked, 7 comparison dimensions. Zero install, sub-100ms on Cloudflare Workers. Free + Pro $9/mo.",
+  "version": "2.0.0",
+  "author": {
+    "name": "yedanyagamiai-cmd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yedanyagamiai-cmd/agentforge-compare",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yedanyagamiai-cmd/agentforge-compare"
+}

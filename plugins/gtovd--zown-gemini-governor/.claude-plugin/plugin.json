@@ -1,0 +1,10 @@
+{
+  "name": "gtovd--zown-gemini-governor",
+  "description": "A high-fidelity token management and model stabilization skill. Implements the Zown \"Atomic Pipeline\" to prevent Gemini TPM (Tokens Per Minute) rate limits. Use when performing heavy engineering tasks, multi-step code generation, or when encountering 429 Rate Limit errors. Includes protocols for context pruning and forced cool-downs.",
+  "version": "0.1.0",
+  "author": {
+    "name": "gtovd"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gtovd/zown-gemini-governor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gtovd/zown-gemini-governor"
+}

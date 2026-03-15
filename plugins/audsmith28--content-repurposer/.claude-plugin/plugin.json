@@ -1,0 +1,10 @@
+{
+  "name": "audsmith28--content-repurposer",
+  "description": "Transform long-form content into platform-optimized snippets. Your agent takes one blog post, video transcript, or podcast notes and generates ready-to-publish Twitter threads, LinkedIn posts, email newsletters, and Instagram captions. Maintains voice consistency while adapting to each platform's format, length, and engagement patterns. Configure tone preferences, platform priorities, and output formats. Use when publishing content across multiple channels, repurposing existing material, or maximizing reach from a single piece of content.",
+  "version": "1.1.0",
+  "author": {
+    "name": "audsmith28"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/audsmith28/content-repurposer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/audsmith28/content-repurposer"
+}

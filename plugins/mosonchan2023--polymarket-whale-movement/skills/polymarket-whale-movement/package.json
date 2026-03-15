@@ -1,0 +1,22 @@
+{
+  "name": "polymarket-whale-movement",
+  "version": "1.0.0",
+  "description": "Track Polymarket whale activity with copy trade functionality",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@polymarket/clob-client": "^1.0.0",
+    "ethers": "^6.0.0"
+  },
+  "keywords": [
+    "polymarket",
+    "whale",
+    "trading",
+    "copy-trade",
+    "crypto"
+  ],
+  "author": "moson",
+  "license": "MIT"
+}

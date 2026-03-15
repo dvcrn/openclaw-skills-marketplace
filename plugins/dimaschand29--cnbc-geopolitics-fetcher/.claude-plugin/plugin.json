@@ -1,0 +1,10 @@
+{
+  "name": "dimaschand29--cnbc-geopolitics-fetcher",
+  "description": "Automated geopolitical intelligence agent that fetches 5 hottest CNBC news articles from last 24 hours, extracts structured data (Title, URL, Market Impact, Hard Facts), and posts formatted briefings to Discord webhook. Use for executive briefings, geopolitical monitoring, or automated news pipelines.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dimaschand29"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dimaschand29/cnbc-geopolitics-fetcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dimaschand29/cnbc-geopolitics-fetcher"
+}

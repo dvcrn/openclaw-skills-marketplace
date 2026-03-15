@@ -1,0 +1,10 @@
+{
+  "name": "johnnylambada--toolguard-daemon-control",
+  "description": "Manage long-running processes as macOS launchd services. Use when asked to start, stop, restart, check status of, or manage background services/daemons. Handles launchd plist creation, service lifecycle, and log access. Use this instead of background exec for any process that should persist beyond the current session.",
+  "version": "0.0.1",
+  "author": {
+    "name": "johnnylambada"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnnylambada/toolguard-daemon-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnnylambada/toolguard-daemon-control"
+}

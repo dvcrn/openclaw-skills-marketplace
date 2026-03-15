@@ -1,0 +1,10 @@
+{
+  "name": "matthewxmurphy--wordpress-rest-api",
+  "description": "Work with the WordPress REST API for route discovery, authentication, reads and writes, core endpoint selection, and custom namespace inspection. Use when a WordPress task needs `/wp-json`, application passwords, cookie or nonce auth, post or media endpoints, settings access, or live discovery of plugin-defined REST routes.",
+  "version": "0.6.0",
+  "author": {
+    "name": "matthewxmurphy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/wordpress-rest-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/matthewxmurphy/wordpress-rest-api"
+}

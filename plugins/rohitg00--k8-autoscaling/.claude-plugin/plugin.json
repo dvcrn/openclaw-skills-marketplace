@@ -1,0 +1,10 @@
+{
+  "name": "rohitg00--k8-autoscaling",
+  "description": "Configure Kubernetes autoscaling with HPA, VPA, and KEDA. Use for horizontal/vertical pod autoscaling, event-driven scaling, and capacity management.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rohitg00"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rohitg00/k8-autoscaling",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rohitg00/k8-autoscaling"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "en1r0py1865--minecraft-bridge",
+  "description": "Local HTTP bridge for Mineflayer-based live control of a Minecraft Java bot. Trigger when the user wants to connect a bot to their world, check bot status/inventory/position, or make the bot move, mine, craft, follow, or chat in-game. Examples: 'connect to my world', 'start the minecraft bot', 'what is in my inventory', 'go mine iron', 'craft a pickaxe', 'follow me', 'is minecraft bridge running'. Also use when another minecraft-* skill needs live game data. Do NOT trigger for Minecraft knowledge questions (use minecraft-wiki), server administration via RCON or server.properties (use minecraft-server-admin), or casual Minecraft mentions without a live-action request.",
+  "version": "1.0.0",
+  "author": {
+    "name": "en1r0py1865"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/en1r0py1865/minecraft-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/en1r0py1865/minecraft-bridge"
+}

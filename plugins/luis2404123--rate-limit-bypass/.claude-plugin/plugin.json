@@ -1,0 +1,10 @@
+{
+  "name": "luis2404123--rate-limit-bypass",
+  "description": "Bypass rate limits and 429 Too Many Requests errors. Distribute requests across rotating residential IPs, add intelligent delays, and manage request queues to scrape at scale without hitting limits.",
+  "version": "1.0.0",
+  "author": {
+    "name": "luis2404123"
+  },
+  "homepage": "https://birdproxies.com/en/proxies-for/openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/luis2404123/rate-limit-bypass"
+}

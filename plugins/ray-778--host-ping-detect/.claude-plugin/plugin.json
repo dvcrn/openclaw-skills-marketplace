@@ -1,0 +1,10 @@
+{
+  "name": "ray-778--host-ping-detect",
+  "description": "Detect if a host (IP: 39.106.7.8) is online by sending ping requests. Returns status like reachable, latency, or error if offline.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ray-778"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ray-778/host-ping-detect",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ray-778/host-ping-detect"
+}

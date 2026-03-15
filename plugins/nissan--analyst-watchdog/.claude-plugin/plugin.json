@@ -1,0 +1,10 @@
+{
+  "name": "nissan--analyst-watchdog",
+  "description": "Automated monitoring agent that watches an API scoreboard, detects milestones, writes findings to markdown, and alerts via file-based triggers. Use when you need an autonomous agent that monitors a system and produces structured analysis without human intervention.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/analyst-watchdog",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/analyst-watchdog"
+}

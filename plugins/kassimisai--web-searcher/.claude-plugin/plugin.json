@@ -1,0 +1,10 @@
+{
+  "name": "kassimisai--web-searcher",
+  "description": "Autonomous web research agent that performs multi-step searches, follows links, extracts data, and synthesizes findings into structured reports. Use when asked to research a topic, find information across multiple sources, compare options, gather market data, compile lists, or answer questions requiring deep web investigation beyond a single search.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kassimisai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kassimisai/web-searcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kassimisai/web-searcher"
+}

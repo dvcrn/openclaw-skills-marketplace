@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--skill-doc-formatter",
+  "description": "Formats SKILL.md (OpenClaw/Cursor skill docs) for optimal display on ClawHub. Produces a consistent structure—Description, Installation, Usage with benefit-focused examples, and Commands—so skill pages are clear and scannable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/skill-doc-formatter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/skill-doc-formatter"
+}

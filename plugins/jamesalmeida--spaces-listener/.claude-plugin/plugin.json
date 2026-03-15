@@ -1,0 +1,10 @@
+{
+  "name": "jamesalmeida--spaces-listener",
+  "description": "Record, transcribe, and summarize X/Twitter Spaces — live or replays. Auto-downloads audio via yt-dlp, transcribes with Whisper, and generates AI summaries.",
+  "version": "0.1.4",
+  "author": {
+    "name": "jamesalmeida"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamesalmeida/spaces-listener",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamesalmeida/spaces-listener"
+}

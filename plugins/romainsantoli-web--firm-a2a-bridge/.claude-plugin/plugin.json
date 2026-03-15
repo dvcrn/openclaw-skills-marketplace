@@ -1,0 +1,10 @@
+{
+  "name": "romainsantoli-web--firm-a2a-bridge",
+  "description": "Agent-to-Agent (A2A) Protocol RC v1.0 bridge for OpenClaw agents. Enables agent discovery, identity cards, task lifecycle management, push notification configuration, task cancellation, and SSE subscriptions compliant with the A2A RC v1.0 specification. Covers gaps G1-G8 from the Phase 7 disruption roadmap.",
+  "version": "2.0.0",
+  "author": {
+    "name": "romainsantoli-web"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-a2a-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-a2a-bridge"
+}

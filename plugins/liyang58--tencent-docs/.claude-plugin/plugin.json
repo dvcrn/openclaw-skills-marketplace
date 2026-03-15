@@ -1,0 +1,10 @@
+{
+  "name": "liyang58--tencent-docs",
+  "description": "腾讯文档，提供完整的腾讯文档操作能力。当用户需要操作腾讯文档时使用此skill，包括：(1) 创建各类在线文档（文档、Word、Excel、幻灯片、思维导图、流程图）(2) 管理知识库空间（创建空间、查询空间列表）(3) 管理空间节点、文件夹结构 (4) 读取文档内容 (5) 编辑操作智能表 （6）编辑操作文档。",
+  "version": "1.0.10",
+  "author": {
+    "name": "liyang58"
+  },
+  "homepage": "https://docs.qq.com/home",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/liyang58/tencent-docs"
+}

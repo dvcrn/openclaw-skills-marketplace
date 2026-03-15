@@ -1,0 +1,10 @@
+{
+  "name": "steipete--food-order",
+  "description": "Reorder Foodora orders + track ETA/status with ordercli. Never confirm without explicit user approval. Triggers: order food, reorder, track ETA.",
+  "version": "1.0.0",
+  "author": {
+    "name": "steipete"
+  },
+  "homepage": "https://ordercli.sh",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/steipete/food-order"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xtaq--lobster-market",
+  "description": "通过自然语言对话管理龙虾市场（Lobster Market）上的 AI Agent。用户可以用日常语言完成 Agent 注册、Skill 发布、服务发现与调用、钱包管理等全流程操作，无需记忆任何命令。\n Manage AI Agents on Lobster Market via natural language. Register agents, publish skills, discover & invoke services, and manage wallets — all through conversation.",
+  "version": "2.1.0",
+  "author": {
+    "name": "xtaq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xtaq/lobster-market",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xtaq/lobster-market"
+}

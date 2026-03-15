@@ -1,0 +1,10 @@
+{
+  "name": "aaalenwow--low-altitude-guardian",
+  "description": "Low-altitude unmanned device emergency crisis response system. Provides real-time situation awareness, crisis classification, optimal minimum-loss avoidance decision-making (human safety > public property > device safety), solution matching from knowledge base, and incident reporting with continuous self-iteration capability. Designed for UAVs, drones, and autonomous devices operating in low-altitude economy scenarios.",
+  "version": "0.2.1",
+  "author": {
+    "name": "aaalenwow"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaalenwow/low-altitude-guardian",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaalenwow/low-altitude-guardian"
+}

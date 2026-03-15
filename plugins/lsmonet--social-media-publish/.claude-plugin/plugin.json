@@ -1,0 +1,10 @@
+{
+  "name": "lsmonet--social-media-publish",
+  "description": "社交媒体浏览器自动化发布。支持微信公众号、百家号、小红书等平台。当用户说\"发公众号\"、\"发百家号\"、\"发布到...\"时使用此技能。",
+  "version": "1.0.0",
+  "author": {
+    "name": "lsmonet"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lsmonet/social-media-publish",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lsmonet/social-media-publish"
+}

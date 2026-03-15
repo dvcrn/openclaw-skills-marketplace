@@ -1,0 +1,10 @@
+{
+  "name": "ethagent--job",
+  "description": "Complete job search intelligence system for anyone looking for work, changing careers, or trying to advance professionally. Trigger whenever someone needs help finding a job, writing a resume, preparing for interviews, negotiating offers, navigating a career transition, or understanding what is holding their job search back. Also triggers on phrases like \"help me find a job\", \"rewrite my resume\", \"I have an interview tomorrow\", \"should I take this offer\", \"I got laid off\", \"I want to change careers\", or any scenario where someone's professional livelihood is at stake.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ethagent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ethagent/job",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ethagent/job"
+}

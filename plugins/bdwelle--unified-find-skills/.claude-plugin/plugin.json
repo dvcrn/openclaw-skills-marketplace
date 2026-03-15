@@ -1,0 +1,10 @@
+{
+  "name": "bdwelle--unified-find-skills",
+  "description": "Helps users discover and install agent skills from skills.sh, clawhub.com, and tessl.io. Use when the user asks to find a skill for a task, extend agent capabilities, or search for tools/workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bdwelle"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bdwelle/unified-find-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bdwelle/unified-find-skills"
+}

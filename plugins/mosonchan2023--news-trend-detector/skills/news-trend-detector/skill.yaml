@@ -1,0 +1,24 @@
+---
+name: news-trend-detector
+version: 1.0.0
+description: Detect trending topics and emerging news trends in real-time. Each call charges 0.001 USDT via SkillPay.
+category: News
+tags:
+  - news
+  - trending
+  - trends
+  - detection
+  - viral
+author: moson
+price: 0.001
+currency: USDT
+triggers:
+  - "trending news"
+  - "news trends"
+  - "viral topics"
+  - "hot topics"
+config:
+  TREND_API_KEY:
+    type: string
+    required: false
+    secret: true

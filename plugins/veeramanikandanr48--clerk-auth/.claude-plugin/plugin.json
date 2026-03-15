@@ -1,0 +1,10 @@
+{
+  "name": "veeramanikandanr48--clerk-auth",
+  "description": "Clerk auth with API Keys beta (Dec 2025), Next.js 16 proxy.ts (March 2025 CVE context), API version 2025-11-10 breaking changes, clerkMiddleware() options, webhooks, production considerations (GCP outages), and component reference. Prevents 15 documented errors. Use when: API keys for users/orgs, Next.js 16 middleware filename, troubleshooting JWKS/CSRF/JWT/token-type-mismatch errors, webhook verification, user type inconsistencies, or testing with 424242 OTP.",
+  "version": "0.1.0",
+  "author": {
+    "name": "veeramanikandanr48"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/veeramanikandanr48/clerk-auth",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/veeramanikandanr48/clerk-auth"
+}

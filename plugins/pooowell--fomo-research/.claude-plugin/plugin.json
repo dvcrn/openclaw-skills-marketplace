@@ -1,0 +1,10 @@
+{
+  "name": "pooowell--fomo-research",
+  "description": "Smart money research via Fomo social graph. Track top traders, monitor live trades, build watchlists — all from your agent. Powered by fomo.family, built by cope.capital. Use when: (1) user asks about smart money, whale wallets, or top traders, (2) user wants to track specific Fomo handles or crypto traders, (3) user asks \"what are the best traders buying\", \"who's profitable on fomo\", (4) user wants real-time trade alerts or wallet monitoring, (5) user says \"fomo research\", \"check fomo\", \"smart money\", \"wallet tracker\". NOT for: executing trades, managing funds, or anything requiring private keys.",
+  "version": "0.3.0",
+  "author": {
+    "name": "pooowell"
+  },
+  "homepage": "https://cope.capital",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pooowell/fomo-research"
+}

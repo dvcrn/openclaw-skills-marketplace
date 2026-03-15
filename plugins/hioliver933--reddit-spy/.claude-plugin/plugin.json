@@ -1,0 +1,10 @@
+{
+  "name": "hioliver933--reddit-spy",
+  "description": "Stealth Reddit intelligence -- browse, read, and analyze any subreddit without getting blocked. Multi-layer fallback (OAuth API -> Stealth HTTP -> Browser Stealth -> PullPush archive).",
+  "version": "1.0.0",
+  "author": {
+    "name": "hioliver933"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hioliver933/reddit-spy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hioliver933/reddit-spy"
+}

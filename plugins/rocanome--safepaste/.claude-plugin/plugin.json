@@ -1,0 +1,10 @@
+{
+  "name": "rocanome--safepaste",
+  "description": "Check any OpenClaw prompt, config snippet, or tip against YOUR actual setup before applying it. Auto-detects pasted prompts, analyzes compatibility, shows exact modifications, and applies safely with automatic rollback. Free forever. No account required.",
+  "version": "2.3.0",
+  "author": {
+    "name": "rocanome"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rocanome/safepaste",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rocanome/safepaste"
+}

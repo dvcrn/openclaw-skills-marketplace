@@ -1,0 +1,10 @@
+{
+  "name": "pgeraghty--detect-file-type-local",
+  "description": "Local, offline AI-powered file type detection — no network, no API keys",
+  "version": "0.2.0",
+  "author": {
+    "name": "pgeraghty"
+  },
+  "homepage": "https://github.com/pgeraghty/openclaw-detect-file-type-local",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pgeraghty/detect-file-type-local"
+}

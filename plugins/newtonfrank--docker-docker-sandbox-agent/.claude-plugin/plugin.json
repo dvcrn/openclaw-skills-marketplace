@@ -1,0 +1,10 @@
+{
+  "name": "newtonfrank--docker-docker-sandbox-agent",
+  "description": "A generic skill that provides a secure, temporary Docker sandbox for executing generated code (Python, Node.js, bash, etc.). Agents can use this to verify their code works without compromising the host machine.",
+  "version": "1.0.0",
+  "author": {
+    "name": "newtonfrank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/newtonfrank/docker-docker-sandbox-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/newtonfrank/docker-docker-sandbox-agent"
+}

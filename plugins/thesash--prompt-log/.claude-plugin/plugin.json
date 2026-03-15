@@ -1,0 +1,10 @@
+{
+  "name": "thesash--prompt-log",
+  "description": "Extract conversation transcripts from AI coding session logs (Clawdbot, Claude Code, Codex). Use when asked to export prompt history, session logs, or transcripts from .jsonl session files.",
+  "version": "0.1.0",
+  "author": {
+    "name": "thesash"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thesash/prompt-log",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thesash/prompt-log"
+}

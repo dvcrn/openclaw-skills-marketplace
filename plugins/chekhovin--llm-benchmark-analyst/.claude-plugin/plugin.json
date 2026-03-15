@@ -1,0 +1,10 @@
+{
+  "name": "chekhovin--llm-benchmark-analyst",
+  "description": "search and analyze llm benchmark results within a fixed benchmark universe, then produce evidence-based model strength and weakness reports or domain-leader summaries. use when comparing a model across benchmarks, ranking the best models by domain, explaining what a benchmark measures, checking predecessor-vs-current progress, or writing benchmark reports that must prioritize exact model version, evaluation date, benchmark variant, score semantics, sub-scores, and benchmark defect warnings. works with browser, web, and multimodal extraction for text, table, canvas, or image-only leaderboards.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chekhovin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chekhovin/llm-benchmark-analyst",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chekhovin/llm-benchmark-analyst"
+}

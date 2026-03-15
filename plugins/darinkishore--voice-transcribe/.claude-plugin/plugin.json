@@ -1,0 +1,10 @@
+{
+  "name": "darinkishore--voice-transcribe",
+  "description": "Transcribe audio files using OpenAI's gpt-4o-mini-transcribe model with vocabulary hints and text replacements. Requires uv (https://docs.astral.sh/uv/).",
+  "version": "1.0.1",
+  "author": {
+    "name": "darinkishore"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/darinkishore/voice-transcribe",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/darinkishore/voice-transcribe"
+}

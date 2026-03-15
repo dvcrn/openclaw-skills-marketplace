@@ -1,0 +1,10 @@
+{
+  "name": "gate-exchange--gate-exchange-tradfi",
+  "description": "Gate TradFi (traditional finance) read-only query skill using MCP tools prefixed with cex_tradfi. Use this skill whenever the user asks to query TradFi order list, order history, current or historical positions, category list, symbol list, ticker, symbol kline, user assets, or MT5 account info on Gate. Trigger phrases include 'TradFi orders', 'order history', 'positions', 'position history', 'category list', 'symbol list', 'ticker', 'kline', 'my assets', 'MT5 account', or any request to view TradFi data. Do not use for placing orders or transferring funds.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gate-exchange"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-exchange-tradfi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-exchange-tradfi"
+}

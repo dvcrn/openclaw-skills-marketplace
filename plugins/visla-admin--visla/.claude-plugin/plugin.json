@@ -1,0 +1,10 @@
+{
+  "name": "visla-admin--visla",
+  "description": "Creates AI-generated videos from text scripts, URLs, or PPT/PDF documents using Visla. Use when the user asks to generate a video, turn a webpage into a video, or convert a PPT/PDF into a video, or when the user asks to check Visla account credits/balance.",
+  "version": "1.0.3",
+  "author": {
+    "name": "visla-admin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/visla-admin/visla",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/visla-admin/visla"
+}

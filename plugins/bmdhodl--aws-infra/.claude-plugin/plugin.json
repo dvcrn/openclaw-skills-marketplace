@@ -1,0 +1,10 @@
+{
+  "name": "bmdhodl--aws-infra",
+  "description": "Chat-based AWS infrastructure assistance using AWS CLI and console context. Use for querying, auditing, and monitoring AWS resources (EC2, S3, IAM, Lambda, ECS/EKS, RDS, CloudWatch, billing, etc.), and for proposing safe changes with explicit confirmation before any write/destructive action.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bmdhodl"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bmdhodl/aws-infra",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bmdhodl/aws-infra"
+}

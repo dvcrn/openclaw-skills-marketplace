@@ -1,0 +1,10 @@
+{
+  "name": "bigbadman-lab--gm3-alertworthy-feed",
+  "description": "Read-only access to the GM3 Alertworthy feed, providing real-time token market data for analysis agents.",
+  "version": "1.0.3",
+  "author": {
+    "name": "bigbadman-lab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bigbadman-lab/gm3-alertworthy-feed",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bigbadman-lab/gm3-alertworthy-feed"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "glucksberg--cross-ref",
+  "description": "Cross-reference GitHub PRs and issues to find duplicates and missing links. Spawns parallel Sonnet subagents to semantically analyze the last N PRs and issues, finding PRs that solve the same problem (duplicates) and issues resolved by open PRs but not yet linked. Groups findings into thematic clusters, scores them by actionability, and offers rate-limited commenting or bulk actions (close, label). Use this skill when the user wants to find duplicate PRs, link issues to PRs, clean up a repo's cross-references, or audit PR/issue relationships. Also useful when the user says things like \"find related PRs\", \"which PRs fix this issue\", \"are there duplicate PRs\", \"link issues and PRs\", or \"audit cross-references\".",
+  "version": "1.1.0",
+  "author": {
+    "name": "glucksberg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/glucksberg/cross-ref",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/glucksberg/cross-ref"
+}

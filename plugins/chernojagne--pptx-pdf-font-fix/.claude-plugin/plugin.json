@@ -1,0 +1,10 @@
+{
+  "name": "chernojagne--pptx-pdf-font-fix",
+  "description": "Fix PowerPoint font embedding issues in PDF export by patching text transparency in PPTX files. Use when a user has a PPTX file where exported PDFs show wrong/default fonts instead of the intended downloaded/custom fonts, even with font embedding enabled. Works by applying minimal (1%) transparency to fully-opaque text runs, which forces PowerPoint to properly embed fonts during PDF export.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chernojagne"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chernojagne/pptx-pdf-font-fix",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chernojagne/pptx-pdf-font-fix"
+}

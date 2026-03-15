@@ -1,0 +1,10 @@
+{
+  "name": "rampagepeter--pengyouquan-pangyu",
+  "description": "Use when user mentions \"胖鱼朋友圈\" and wants to write a WeChat Moments post. Analyzes user's past writing style from reference materials, guides through a conversational process to understand sharing needs, then generates style-consistent copy for user confirmation. Triggered by keywords like 胖鱼朋友圈, 发胖鱼朋友圈, 写胖鱼朋友圈.",
+  "version": "1.0.2",
+  "author": {
+    "name": "rampagepeter"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rampagepeter/pengyouquan-pangyu",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rampagepeter/pengyouquan-pangyu"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hyx-cn--skill-chain",
+  "description": "Supply chain intelligence for OpenClaw skills. Use when analyzing the local skill ecosystem, understanding tool and package dependencies, discovering skill categories, mapping relationships between skills, checking security posture, auditing skill health, detecting overlaps, or generating an ecosystem health report. Trigger on \"analyze my skills\", \"skill supply chain\", \"what tools do my skills use\", \"skill dependencies\", \"skill inventory\", \"ecosystem report\", \"which skills use X package\", \"skill categories\", \"popular skills\", \"skill security\", \"skill health\", \"skill completeness\", \"overlapping skills\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "hyx-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hyx-cn/skill-chain",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hyx-cn/skill-chain"
+}

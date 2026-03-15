@@ -1,0 +1,10 @@
+{
+  "name": "superworldsavior--multi-agent-sandbox",
+  "description": "Setup multi-agent sandbox infrastructure with Docker, Discord, SSH, and Tailscale. Use when: (1) creating a sandboxed agent for cross-gateway collaboration, (2) setting up Discord multi-bot with separate accounts and requireMention gating, (3) configuring socat bridges for container→VPS SSH via Tailscale, (4) enabling bidirectional agent-to-agent communication via sessions_send with per-agent A2A allowlists, (5) sharing a VPS workspace between agents from different OpenClaw gateways, (6) isolating sandbox agents from main agent private data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "superworldsavior"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/superworldsavior/multi-agent-sandbox",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/superworldsavior/multi-agent-sandbox"
+}

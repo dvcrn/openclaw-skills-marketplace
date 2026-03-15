@@ -1,0 +1,10 @@
+{
+  "name": "getlemnos32--lemnos-cost-guard",
+  "description": "Real-time API cost tracking, context bloat detection, and budget enforcement for OpenClaw agents. Use when setting up cost guardrails, checking daily spend, logging token usage after a task, analyzing context bloat, generating cost reports (daily/weekly/monthly), getting model routing recommendations, or when a user asks about API costs, budget status, or why costs are high.",
+  "version": "1.0.1",
+  "author": {
+    "name": "getlemnos32"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/getlemnos32/lemnos-cost-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/getlemnos32/lemnos-cost-guard"
+}

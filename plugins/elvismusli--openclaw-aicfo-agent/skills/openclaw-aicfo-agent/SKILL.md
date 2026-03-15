@@ -1,0 +1,117 @@
+---
+name: openclaw-aicfo-agent
+description: "Use when OpenClaw needs to access AICFO through one bearer API key. Covers agent-session introspection, company selection, app-level MCP usage, connector actions, Company-DB entity/file reads, and the local `bin/openclaw-aicfo-adapter.mjs` bridge."
+---
+
+# OpenClaw AICFO Agent
+
+## Overview
+
+Use this skill to connect OpenClaw to the AICFO platform without touching browser-only routes or tenant-local daemons.
+
+Primary surfaces:
+
+- `GET /api/agent/session`
+- `GET /api/agent/companies`
+- `GET /api/agent/dashboard`
+- `GET|POST /api/agent/connectors`
+- `GET /api/company/query`
+- `GET /api/company/search`
+- `GET /api/company/entity`
+- `GET /api/company/file`
+- `GET /api/documents`
+
+Canonical references:
+
+- `docs/contracts/openclaw-quickstart.md`
+- `docs/contracts/external-agent-access.md`
+
+## Quick Start
+
+1. Introspect the key:
+   - `node bin/openclaw-aicfo-adapter.mjs session`
+2. List available tools:
+   - `node bin/openclaw-aicfo-adapter.mjs tools`
+3. Resolve company scope:
+   - use `implicitCompanyId` if present
+   - otherwise choose a company from `companyAccess.companies`
+4. Run business operations through the adapter:
+   - dashboard
+   - query/search
+   - get-entity
+   - get-file
+   - connector
+
+## Workflow
+
+### 1. Bootstrap
+
+Always start with `session`.
+
+Read:
+
+- granted scopes
+- `implicitCompanyId`
+- `requiresCompanySelection`
+- accessible companies
+
+If there is no implicit company, require OpenClaw to pass `company_id` on every operation.
+
+### 2. Prefer the published adapter
+
+Use `bin/openclaw-aicfo-adapter.mjs` as the primary OpenClaw bridge.
+
+It is intentionally REST-first so the published skill does not depend on local npm packages or preinstalled MCP SDK modules.
+
+Do not use `/api/company/mcp` as the primary integration path for OpenClaw.
+
+### 3. Use REST only when it is simpler
+
+REST is acceptable for:
+
+- `/api/agent/session`
+- `/api/agent/connectors` if a client wants plain JSON instead of MCP
+
+Do not use browser onboarding routes under `/api/connections/*`.
+
+## Common Operations
+
+Load `references/operations.md` when you need concrete command envelopes.
+
+Typical adapter calls:
+
+- `session`
+- `tools`
+- `companies`
+- `dashboard`
+- `query`
+- `search`
+- `get-entity`
+- `get-file`
+- `connectors`
+- `connector`
+- `documents`
+
+The published skill package is self-contained and should run on a machine that only has Node and the installed skill files.
+
+## Guardrails
+
+- Treat `/api/agent/connectors` as the canonical machine connector surface.
+- Treat `/api/connectors/hub` as legacy Slack/Jira compatibility only.
+- Prefer `company_id` from session introspection instead of guessing.
+- If a key lacks `documents.write`, do not trigger Google Drive imports or document deletes.
+- If a key lacks a connector-use scope, do not attempt that provider action.
+- Do not assume browser-managed integrations can be onboarded by OpenClaw.
+
+## Validation
+
+Before relying on the integration:
+
+1. run `node bin/openclaw-aicfo-adapter.mjs session`
+2. run `node bin/openclaw-aicfo-adapter.mjs tools`
+3. run one read operation against a real company:
+   - `dashboard`
+   - or `query`
+4. if connector access is needed, run one bounded action such as:
+   - `telegram list_chats`
+   - `google_drive list_files`

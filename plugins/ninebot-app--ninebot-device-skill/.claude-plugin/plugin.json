@@ -1,0 +1,10 @@
+{
+  "name": "ninebot-app--ninebot-device-skill",
+  "description": "九号电动车(Ninebot)车辆信息查询，支持九号电动车、九号电动摩托车，提供车辆开关机状态、车辆充电状态、车辆位置、车辆剩余电量、车辆剩余里程、车辆剩余充电时间等数据的查询功能",
+  "version": "1.0.6",
+  "author": {
+    "name": "ninebot-app"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ninebot-app/ninebot-device-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ninebot-app/ninebot-device-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bill-makes--emoji-today",
+  "description": "Vote in the daily emoji election on emoji.today. Humans vote free at emoji.today; agents vote via this skill for $0.01 USDC on Base using the x402 payment protocol. Use when the agent wants to participate in the emoji.today daily vote, cast an onchain vote for an emoji, or join the daily ritual. Requires a Farcaster account (FID) and an EVM wallet with USDC on Base. Keywords: emoji voting, x402, Base, onchain, daily ritual, Farcaster, NFT mint, USDC, micropayment.",
+  "version": "1.1.0",
+  "author": {
+    "name": "bill-makes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bill-makes/emoji-today",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bill-makes/emoji-today"
+}

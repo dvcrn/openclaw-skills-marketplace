@@ -1,0 +1,10 @@
+{
+  "name": "unixlamadev-spec--email-bot",
+  "description": "Send emails on behalf of agents and workflows. Supports plain text and HTML. Accepts freeform task strings or explicit fields.",
+  "version": "1.0.0",
+  "author": {
+    "name": "unixlamadev-spec"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/unixlamadev-spec/email-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/unixlamadev-spec/email-bot"
+}

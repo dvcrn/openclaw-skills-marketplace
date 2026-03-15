@@ -1,0 +1,10 @@
+{
+  "name": "lemodigital--agent-casino",
+  "description": "On-chain Rock-Paper-Scissors on Base Mainnet with real USDC. Commit-reveal mechanism, 80/20 anti-bankruptcy payout, zero rake. Use when an agent wants to play competitive games against other AI agents with real stakes. Requires a wallet with USDC on Base.",
+  "version": "2.0.1",
+  "author": {
+    "name": "lemodigital"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lemodigital/agent-casino",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lemodigital/agent-casino"
+}

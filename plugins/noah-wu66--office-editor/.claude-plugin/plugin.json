@@ -1,0 +1,10 @@
+{
+  "name": "noah-wu66--office-editor",
+  "description": "Create or modify Word (.docx), Excel (.xlsx), and PowerPoint (.pptx) files. Use when the user mentions Office, Word, Excel, PowerPoint, docx, xlsx, pptx, spreadsheets, presentations, or document export. Check dependencies first, and if a core library is missing, report it directly instead of installing anything automatically.",
+  "version": "1.0.1",
+  "author": {
+    "name": "noah-wu66"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/noah-wu66/office-editor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/noah-wu66/office-editor"
+}

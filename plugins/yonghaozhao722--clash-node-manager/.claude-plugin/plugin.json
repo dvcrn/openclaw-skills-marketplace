@@ -1,0 +1,10 @@
+{
+  "name": "yonghaozhao722--clash-node-manager",
+  "description": "Manages Clash proxy nodes. Allows listing current node with connection status, listing available nodes, and switching to a specified node. Use when the user asks to manage Clash proxy settings, view available nodes, or switch between them.",
+  "version": "1.0.0",
+  "author": {
+    "name": "yonghaozhao722"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/clash-node-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yonghaozhao722/clash-node-manager"
+}

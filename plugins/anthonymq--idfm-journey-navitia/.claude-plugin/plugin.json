@@ -1,0 +1,10 @@
+{
+  "name": "anthonymq--idfm-journey-navitia",
+  "description": "Query Île-de-France Mobilités (IDFM) PRIM/Navitia for place resolution, journey planning, and disruptions/incident checks. Use when asked to find routes in Île-de-France (e.g., \"itinéraire de X à Y\"), resolve station/stop ids, or check RER/metro line disruptions, and you have an IDFM PRIM API key.",
+  "version": "0.1.0",
+  "author": {
+    "name": "anthonymq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anthonymq/idfm-journey-navitia",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anthonymq/idfm-journey-navitia"
+}

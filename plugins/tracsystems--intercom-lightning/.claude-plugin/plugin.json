@@ -1,0 +1,10 @@
+{
+  "name": "tracsystems--intercom-lightning",
+  "description": "IntercomSwap (OpenClaw-hardened): operator-run, manual-only P2P RFQ swaps that negotiate over Intercom sidechannels and settle BTC (Lightning) <-> USDT (Solana) via an escrow program. High-risk financial operations; require explicit human approval for any fund-moving action.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tracsystems"
+  },
+  "homepage": "https://github.com/TracSystems/intercom-swap",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tracsystems/intercom-lightning"
+}

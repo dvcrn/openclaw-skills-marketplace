@@ -1,0 +1,10 @@
+{
+  "name": "phernandez--memory-research",
+  "description": "Research an external subject using web search, synthesize findings into a structured Basic Memory entity. Use when asked to research a company, person, technology, or topic — or when a bare name or URL is provided that implies a research request.",
+  "version": "0.1.0",
+  "author": {
+    "name": "phernandez"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phernandez/memory-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phernandez/memory-research"
+}

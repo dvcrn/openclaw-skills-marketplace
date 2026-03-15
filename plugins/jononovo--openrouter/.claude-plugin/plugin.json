@@ -1,0 +1,10 @@
+{
+  "name": "jononovo--openrouter",
+  "description": "OpenRouter API gateway skill. Access 300+ AI models from 60+ providers through a single OpenAI-compatible API. Unified billing, automatic fallbacks, provider routing, and BYOK support.",
+  "version": "1.0.2",
+  "author": {
+    "name": "jononovo"
+  },
+  "homepage": "https://openrouter.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jononovo/openrouter"
+}

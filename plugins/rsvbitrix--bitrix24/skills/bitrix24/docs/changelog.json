@@ -1,0 +1,239 @@
+{
+  "version": "0.15.5",
+  "entries": [
+    {
+      "version": "0.15.5",
+      "date": "2026-03-11",
+      "items": [
+        {
+          "section": "Added",
+          "title": "Changelog on landing page",
+          "description": "\"What's New\" section loads dynamically from changelog.json"
+        },
+        {
+          "section": "Added",
+          "title": "Publish script",
+          "description": "`scripts/publish.sh` — one command to bump version, generate changelog, push, and publish"
+        },
+        {
+          "section": "Added",
+          "title": "Auto-update system",
+          "description": "scheduled task checks ClawHub every 2 hours and installs new versions automatically"
+        },
+        {
+          "section": "Added",
+          "title": "Version display",
+          "description": "current version shown in footer and changelog badge"
+        }
+      ]
+    },
+    {
+      "version": "0.15.4",
+      "date": "2026-03-11",
+      "items": [
+        {
+          "section": "Added",
+          "title": "Operation safety",
+          "description": "`bitrix24_call.py` now classifies methods as read/write/destructive and requires `--confirm-write` or `--confirm-destructive` flags for data-changing operations"
+        },
+        {
+          "section": "Added",
+          "title": "Auto-pagination",
+          "description": "`--iterate` flag automatically collects all pages from `.list` methods"
+        },
+        {
+          "section": "Added",
+          "title": "JSON params from file",
+          "description": "`--params-file` for complex parameters without shell escaping issues"
+        },
+        {
+          "section": "Added",
+          "title": "Dry-run mode",
+          "description": "`--dry-run` previews what would be called without executing"
+        },
+        {
+          "section": "Added",
+          "title": "File uploads reference",
+          "description": "new `references/files.md` — base64 for CRM, disk+attach for tasks"
+        },
+        {
+          "section": "Added",
+          "title": "API module restrictions",
+          "description": "documented which modules don't work as expected via webhook (telephony, mail, connectors)"
+        },
+        {
+          "section": "Added",
+          "title": "Batch cross-references",
+          "description": "`$result[name]` pattern for chaining commands"
+        }
+      ]
+    },
+    {
+      "version": "0.15.3",
+      "date": "2026-03-11",
+      "items": [
+        {
+          "section": "Added",
+          "title": "Open Lines reference",
+          "description": "full `imopenlines.*` API coverage — line config, operators, sessions, dialog, CRM integration, bot"
+        },
+        {
+          "section": "Added",
+          "title": "Support triggers",
+          "description": "\"поддержка\", \"обращения\", \"операторы\", \"омниканал\", \"helpdesk\" now route to Open Lines"
+        },
+        {
+          "section": "Added",
+          "title": "MCP server link",
+          "description": "Known Limitations sections now point to `https://mcp-dev.bitrix24.tech/mcp` for checking API updates"
+        }
+      ]
+    },
+    {
+      "version": "0.15.0",
+      "date": "2026-03-10",
+      "items": [
+        {
+          "section": "Added",
+          "title": "Channels reference",
+          "description": "`references/channels.md` — broadcast chats with `ENTITY_TYPE=ANNOUNCEMENT`"
+        },
+        {
+          "section": "Added",
+          "title": "CRM timeline",
+          "description": "timeline comments and log messages in `references/crm.md`"
+        },
+        {
+          "section": "Added",
+          "title": "Chat improvements",
+          "description": "message search, sharing, dialog history"
+        },
+        {
+          "section": "Added",
+          "title": "Disk attachments",
+          "description": "file upload to chat via `im.disk.file.commit`"
+        }
+      ]
+    },
+    {
+      "version": "0.14.0",
+      "date": "2026-03-09",
+      "items": [
+        {
+          "section": "Added",
+          "title": "",
+          "description": "Batch API support (`bitrix24_batch.py`) — multiple methods in one HTTP request"
+        },
+        {
+          "section": "Added",
+          "title": "",
+          "description": "User ID and timezone caching after `user.current`"
+        },
+        {
+          "section": "Added",
+          "title": "",
+          "description": "7 ready-made scenarios: morning briefing, weekly report, team status, client dossier, meeting prep, day results, sales pipeline"
+        },
+        {
+          "section": "Added",
+          "title": "",
+          "description": "5 scheduled task templates: day plan, morning briefing, evening summary, overdue alert, new leads monitor"
+        },
+        {
+          "section": "Added",
+          "title": "",
+          "description": "Trigger phrases for all domains"
+        },
+        {
+          "section": "Added",
+          "title": "",
+          "description": "Cross-domain search scenario"
+        }
+      ]
+    },
+    {
+      "version": "0.13.0",
+      "date": "2026-03-08",
+      "items": [
+        {
+          "section": "Added",
+          "title": "",
+          "description": "Smart processes, products, quotes, and sites domain references"
+        },
+        {
+          "section": "Added",
+          "title": "",
+          "description": "Projects, feed, timeman domains"
+        },
+        {
+          "section": "Added",
+          "title": "",
+          "description": "Enhanced org structure reference"
+        }
+      ]
+    },
+    {
+      "version": "0.12.0",
+      "date": "2026-03-07",
+      "items": [
+        {
+          "section": "Changed",
+          "title": "",
+          "description": "Complete rewrite of all references with MCP-verified method names and examples"
+        },
+        {
+          "section": "Changed",
+          "title": "",
+          "description": "Interaction rules moved to top of SKILL.md"
+        },
+        {
+          "section": "Changed",
+          "title": "",
+          "description": "No technical jargon in user-facing output"
+        }
+      ]
+    },
+    {
+      "version": "0.11.0",
+      "date": "2026-03-06",
+      "items": [
+        {
+          "section": "Added",
+          "title": "",
+          "description": "GitHub Pages landing site (5 languages: EN, RU, ZH, ES, FR)"
+        },
+        {
+          "section": "Added",
+          "title": "",
+          "description": "OG image and social sharing meta tags"
+        },
+        {
+          "section": "Added",
+          "title": "",
+          "description": "Auto-detect browser language"
+        }
+      ]
+    },
+    {
+      "version": "0.10.0",
+      "date": "2026-03-05",
+      "items": [
+        {
+          "section": "Changed",
+          "title": "",
+          "description": "Dropped env vars — config file is the single webhook source"
+        },
+        {
+          "section": "Changed",
+          "title": "",
+          "description": "Webhook stored in `~/.config/bitrix24-skill/config.json`"
+        },
+        {
+          "section": "Changed",
+          "title": "",
+          "description": "Improved webhook diagnostics (`check_webhook.py`)"
+        }
+      ]
+    }
+  ]
+}

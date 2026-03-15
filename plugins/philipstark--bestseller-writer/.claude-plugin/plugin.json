@@ -1,0 +1,10 @@
+{
+  "name": "philipstark--bestseller-writer",
+  "description": "Turn a shower idea into a full best-seller manuscript in one command. Multi-agent pipeline — Planner → Character Designer → Chapter Writers (parallel) → Editor → KDP Packager. Produces a complete book (50-80k words) ready to publish on Amazon KDP with title, description, keywords, categories, and cover brief. Works for fiction and non-fiction. Run with the standalone CLI script or let your agent orchestrate it step-by-step.",
+  "version": "1.0.0",
+  "author": {
+    "name": "philipstark"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/philipstark/bestseller-writer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/philipstark/bestseller-writer"
+}

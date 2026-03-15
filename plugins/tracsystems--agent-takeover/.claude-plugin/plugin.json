@@ -1,0 +1,10 @@
+{
+  "name": "tracsystems--agent-takeover",
+  "description": "How to perform a live agent takeover of the Clawfinger voice gateway — dial, inject greetings, handle turns, release, and observe handback. Covers timing, endpoints, the WebSocket protocol, and includes a human-guided test case.",
+  "version": "0.1.4",
+  "author": {
+    "name": "tracsystems"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tracsystems/agent-takeover",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tracsystems/agent-takeover"
+}

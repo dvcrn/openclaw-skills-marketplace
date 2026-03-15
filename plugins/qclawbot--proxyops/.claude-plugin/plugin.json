@@ -1,0 +1,10 @@
+{
+  "name": "qclawbot--proxyops",
+  "description": "Local-first proxy inventory, routing planner, and health tracking engine. Use whenever the user needs to organize proxy assets, compare providers, track regions, protocols, auth methods, manage expiry, assign sessions, or decide which proxy best fits a task. Stores all data locally only.",
+  "version": "1.0.0",
+  "author": {
+    "name": "qclawbot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/qclawbot/proxyops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/qclawbot/proxyops"
+}

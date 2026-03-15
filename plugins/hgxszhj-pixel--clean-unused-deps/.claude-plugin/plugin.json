@@ -1,0 +1,10 @@
+{
+  "name": "hgxszhj-pixel--clean-unused-deps",
+  "description": "Clean up unused npm dependencies in a project. Use when you want to remove packages that are installed but not used in the codebase.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hgxszhj-pixel"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hgxszhj-pixel/clean-unused-deps",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hgxszhj-pixel/clean-unused-deps"
+}

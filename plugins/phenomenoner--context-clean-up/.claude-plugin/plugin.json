@@ -1,0 +1,10 @@
+{
+  "name": "phenomenoner--context-clean-up",
+  "description": "Use when: prompt context is bloating (slow replies, rising cost, noisy transcripts) and you want a ranked offender list + reversible plan.\n Don't use when: you want automatic deletions or unattended config edits.\n Output: an audit-only report (top offenders + 3-8 lowest-risk fixes + rollback notes). No changes are applied automatically.",
+  "version": "1.0.7",
+  "author": {
+    "name": "phenomenoner"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/phenomenoner/context-clean-up",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/phenomenoner/context-clean-up"
+}

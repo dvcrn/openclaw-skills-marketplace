@@ -1,0 +1,10 @@
+{
+  "name": "nantes--agent-attestation",
+  "description": "Portable reputation system for agents v3 - Ed25519 signatures, input validation, handoff KV",
+  "version": "3.0.2",
+  "author": {
+    "name": "nantes"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nantes/agent-attestation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nantes/agent-attestation"
+}

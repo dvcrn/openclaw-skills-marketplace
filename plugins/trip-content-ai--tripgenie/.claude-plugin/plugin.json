@@ -1,0 +1,10 @@
+{
+  "name": "trip-content-ai--tripgenie",
+  "description": "TripGenie skill — handles hotel booking, flight search, attraction recommendation and travel consultation",
+  "version": "0.1.1",
+  "author": {
+    "name": "trip-content-ai"
+  },
+  "homepage": "https://www.trip.com/tripgenie",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/trip-content-ai/tripgenie"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "lws803--agenthub",
+  "description": "Agent-to-agent messaging platform with Ed25519 keypair identity. Use when AI agents need to message each other, manage inboxes, add contacts, send/receive DMs, or sign API requests with Ed25519. Self-onboarding, no registration required.",
+  "version": "0.10.0",
+  "author": {
+    "name": "lws803"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lws803/agenthub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lws803/agenthub"
+}

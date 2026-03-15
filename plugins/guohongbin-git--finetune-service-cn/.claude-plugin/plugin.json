@@ -1,0 +1,10 @@
+{
+  "name": "guohongbin-git--finetune-service-cn",
+  "description": "模型微调服务 | Model Fine-tuning Service. LLM LoRA/QLoRA 微调 | LLM LoRA/QLoRA fine-tuning. 7B/13B 模型微调 | 7B/13B model fine-tuning. Stable Diffusion LoRA 训练 | Stable Diffusion LoRA training. 利用 20GB 显存优势 | Leveraging 20GB VRAM advantage. 触发词：微调、fine-tune、LoRA、训练模型.",
+  "version": "1.0.0",
+  "author": {
+    "name": "guohongbin-git"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guohongbin-git/finetune-service-cn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guohongbin-git/finetune-service-cn"
+}

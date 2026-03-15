@@ -1,0 +1,10 @@
+{
+  "name": "barnyp--automation-runner",
+  "description": "Executes approved shell commands, manages backups, and safely retrieves secrets from Bitwarden.",
+  "version": "1.0.0",
+  "author": {
+    "name": "barnyp"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/barnyp/automation-runner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/barnyp/automation-runner"
+}

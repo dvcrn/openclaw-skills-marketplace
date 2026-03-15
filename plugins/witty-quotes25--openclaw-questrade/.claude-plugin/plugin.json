@@ -1,0 +1,10 @@
+{
+  "name": "witty-quotes25--openclaw-questrade",
+  "description": "Execute and monitor stock trades for openclaw.ai workflows using Questrade's browser platform with Yahoo Finance cross-checks. Use when Codex is asked to prepare or review Questrade Web order tickets, monitor symbols from Questrade and Yahoo Finance, produce pre-trade or post-trade checklists, reconcile fills, or enforce privacy-safe trading operations where credentials and sensitive account data stay on the user's side only.",
+  "version": "1.0.0",
+  "author": {
+    "name": "witty-quotes25"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/witty-quotes25/openclaw-questrade",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/witty-quotes25/openclaw-questrade"
+}

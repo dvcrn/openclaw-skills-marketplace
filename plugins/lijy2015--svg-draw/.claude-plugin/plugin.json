@@ -1,0 +1,10 @@
+{
+  "name": "lijy2015--svg-draw",
+  "description": "Create SVG images and convert them to PNG without external graphics libraries. Use when you need to generate custom illustrations, avatars, or artwork (e.g., \"draw a dragon\", \"create an avatar\", \"make a logo\") or convert SVG files to PNG format. This skill works by writing SVG text directly (no PIL/ImageMagick required) and uses system rsvg-convert for PNG conversion.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lijy2015"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lijy2015/svg-draw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lijy2015/svg-draw"
+}

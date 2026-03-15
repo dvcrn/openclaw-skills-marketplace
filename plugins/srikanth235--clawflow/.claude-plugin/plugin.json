@@ -1,0 +1,10 @@
+{
+  "name": "srikanth235--clawflow",
+  "description": "Protocol for multi-agent collaboration via OpenClaw's message-passing and recursive task DAGs. Use this skill whenever the user wants to coordinate work across multiple OpenClaw agents, decompose complex tasks into subtasks with dependencies, or build any kind of multi-agent pipeline. Also trigger when the user mentions \"agent orchestration\", \"task DAG\", \"multi-agent\", \"dispatch\", \"agent pipeline\", \"delegate tasks\", \"agent collaboration\", or wants to break a project into parallelisable steps handled by different agents. Use it even if the user just says \"I need multiple agents to work together.\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "srikanth235"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/srikanth235/clawflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/srikanth235/clawflow"
+}

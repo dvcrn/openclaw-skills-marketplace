@@ -1,0 +1,10 @@
+{
+  "name": "bitbrujo--side-peace",
+  "description": "Minimal secure secret handoff. Zero external deps. Human opens browser form, submits secret, agent receives it via temp file. Secret NEVER appears in stdout/logs.",
+  "version": "1.1.1",
+  "author": {
+    "name": "bitbrujo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bitbrujo/side-peace",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bitbrujo/side-peace"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "scottll--ai-news-aggregator-sl",
+  "description": "Fetches AI & tech news (default) or any custom topic (crypto, geopolitics, etc.) from RSS feeds, Tavily search, Twitter/X, and YouTube. Writes an English editorial digest using DeepSeek AI and posts it to Discord. Supports any time range (today, last 3 days, last week). Trigger when user asks for news, a digest, trending topics, or YouTube updates on any subject.",
+  "version": "1.2.6",
+  "author": {
+    "name": "scottll"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/scottll/ai-news-aggregator-sl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/scottll/ai-news-aggregator-sl"
+}

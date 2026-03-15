@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--pipedrive-api",
+  "description": "Pipedrive API integration with managed OAuth. Manage deals, persons, organizations, activities, and pipelines. Use this skill when users want to interact with Pipedrive CRM. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.3",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/pipedrive-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/pipedrive-api"
+}

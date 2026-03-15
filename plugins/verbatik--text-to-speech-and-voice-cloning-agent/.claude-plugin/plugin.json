@@ -1,0 +1,10 @@
+{
+  "name": "verbatik--text-to-speech-and-voice-cloning-agent",
+  "description": "Turn your AI assistant into a TTS and voice cloning powerhouse using the Verbatik API. Use when generating speech from text, cloning voices, managing cloned voices, browsing 2700+ pre-trained voices, or checking account balance. Covers standard TTS, cloned voice TTS with emotion/speed/pitch controls, voice cloning from audio, and prepaid billing.",
+  "version": "1.0.1",
+  "author": {
+    "name": "verbatik"
+  },
+  "homepage": "https://api.verbatik.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/verbatik/text-to-speech-and-voice-cloning-agent"
+}

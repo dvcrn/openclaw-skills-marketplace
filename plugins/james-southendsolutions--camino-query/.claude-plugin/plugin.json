@@ -1,0 +1,10 @@
+{
+  "name": "james-southendsolutions--camino-query",
+  "description": "Search for places using natural language with Camino AI's location intelligence API. Returns relevant results with coordinates, distances, and metadata. Use when you need to find real-world locations like restaurants, shops, landmarks, or any point of interest.",
+  "version": "0.2.0",
+  "author": {
+    "name": "james-southendsolutions"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-query",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-query"
+}

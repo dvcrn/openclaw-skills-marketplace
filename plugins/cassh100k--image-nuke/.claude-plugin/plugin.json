@@ -1,0 +1,10 @@
+{
+  "name": "cassh100k--image-nuke",
+  "description": "Nuclear-grade image metadata cleanser. Strip ALL EXIF/GPS/camera data, re-encode with noise injection. Forensically untraceable, reverse image search resistant.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cassh100k"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cassh100k/image-nuke",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cassh100k/image-nuke"
+}

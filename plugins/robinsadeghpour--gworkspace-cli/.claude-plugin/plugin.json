@@ -1,0 +1,10 @@
+{
+  "name": "robinsadeghpour--gworkspace-cli",
+  "description": "Interact with Google Workspace (Drive, Docs, Sheets) via the `gw` CLI. Use when an agent needs to browse, read, create, search, or manage files in Google Drive, read or write Google Docs, or read/write Google Sheets — all from the terminal. Works with both My Drive and Shared Drives.",
+  "version": "1.0.1",
+  "author": {
+    "name": "robinsadeghpour"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/robinsadeghpour/gworkspace-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/robinsadeghpour/gworkspace-cli"
+}

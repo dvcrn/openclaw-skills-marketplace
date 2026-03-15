@@ -1,0 +1,10 @@
+{
+  "name": "xiaoyaner0201--vscode-node",
+  "description": "Operate on code through a VS Code/Cursor IDE connected as an OpenClaw Node. Provides 40+ commands for file operations, language intelligence, git, testing, debugging, and Cursor Agent CLI integration. Use when you need to read/write/edit code, navigate definitions/references, run tests, debug, or delegate coding tasks to Cursor Agent.",
+  "version": "1.0.2",
+  "author": {
+    "name": "xiaoyaner0201"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xiaoyaner0201/vscode-node",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xiaoyaner0201/vscode-node"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ivangdavila--fastmail-api",
+  "description": "Manage Fastmail mail, mailbox, identity, contact, and calendar workflows through JMAP API calls with safe batching and token hygiene.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ivangdavila"
+  },
+  "homepage": "https://clawic.com/skills/fastmail-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/fastmail-api"
+}

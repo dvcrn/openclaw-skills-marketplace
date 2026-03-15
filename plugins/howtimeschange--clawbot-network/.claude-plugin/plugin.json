@@ -1,0 +1,10 @@
+{
+  "name": "howtimeschange--clawbot-network",
+  "description": "Connect multiple OpenClaw instances across devices (VPS, MacBook, Mac Mini) for distributed agent collaboration. Enables clawdbot-to-clawdbot communication, cross-device @mentions, task assignment, and group chat. Use when you have OpenClaw running on multiple machines that need to communicate and collaborate.",
+  "version": "1.0.0",
+  "author": {
+    "name": "howtimeschange"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/howtimeschange/clawbot-network",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/howtimeschange/clawbot-network"
+}

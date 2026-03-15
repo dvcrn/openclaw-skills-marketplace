@@ -1,0 +1,10 @@
+{
+  "name": "portavion--glab-cli",
+  "description": "Interact with GitLab using the `glab` CLI. Use when Claude needs to work with GitLab merge requests, CI/CD pipelines, issues, releases, or make API requests. Supports gitlab.com and self-hosted instances.",
+  "version": "1.0.0",
+  "author": {
+    "name": "portavion"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/portavion/glab-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/portavion/glab-cli"
+}

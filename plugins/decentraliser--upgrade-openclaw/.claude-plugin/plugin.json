@@ -1,0 +1,10 @@
+{
+  "name": "decentraliser--upgrade-openclaw",
+  "description": "Upgrade OpenClaw and comprehensively discover new features, config options, hooks, and improvements.\n Use when: user says \"upgrade openclaw\", \"update openclaw\", \"check for openclaw updates\",\n \"what's new in openclaw\", or \"/skills upgrade_openclaw\". Runs the update, diffs the changelog\n against enabled channels/plugins, performs config schema gap analysis, audits hooks and doctor\n recommendations, and presents ALL findings for user approval before applying.",
+  "version": "2.0.0",
+  "author": {
+    "name": "decentraliser"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/decentraliser/upgrade-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/decentraliser/upgrade-openclaw"
+}

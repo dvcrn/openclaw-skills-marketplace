@@ -1,0 +1,10 @@
+{
+  "name": "jamesouttake--skill-guard",
+  "description": "Scan ClawHub skills for security vulnerabilities BEFORE installing. Use when installing new skills from ClawHub to detect prompt injections, malware payloads, hardcoded secrets, and other threats. Wraps clawhub install with mcp-scan pre-flight checks.",
+  "version": "1.0.2",
+  "author": {
+    "name": "jamesouttake"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamesouttake/skill-guard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamesouttake/skill-guard"
+}

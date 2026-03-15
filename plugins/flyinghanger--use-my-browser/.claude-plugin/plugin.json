@@ -1,0 +1,10 @@
+{
+  "name": "flyinghanger--use-my-browser",
+  "description": "Control the user's REAL Chrome browser via Tampermonkey injection.\n Trigger when user says \"use my browser\", \"open in my browser\", \"check this page for me\", or needs to access login-required content.\n Reuses all login sessions. Does NOT steal the mouse cursor.\n Requires: openclaw-tmwd plugin + Tampermonkey userscript in Chrome.",
+  "version": "1.0.0",
+  "author": {
+    "name": "flyinghanger"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/flyinghanger/use-my-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/flyinghanger/use-my-browser"
+}

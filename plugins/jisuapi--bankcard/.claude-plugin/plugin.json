@@ -1,0 +1,10 @@
+{
+  "name": "jisuapi--bankcard",
+  "description": "使用极速数据银行卡归属地查询 API，通过银行卡号查询银行、归属地信息，并鉴定银行卡号真伪。",
+  "version": "1.0.2",
+  "author": {
+    "name": "jisuapi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/bankcard",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jisuapi/bankcard"
+}

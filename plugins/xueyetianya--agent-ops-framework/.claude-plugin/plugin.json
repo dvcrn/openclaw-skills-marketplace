@@ -1,0 +1,10 @@
+{
+  "name": "xueyetianya--agent-ops-framework",
+  "description": "Production-grade multi-agent team orchestration framework. Define agent roles, task pipelines, quality gates, and monitoring dashboards. Inspired by Google Vertex AI, Microsoft AutoGen, CrewAI, and Anthropic agent patterns. Features: role-based agent registry, task lifecycle (backlog→assigned→in-progress→review→done→deployed), structured handoffs with context passing, quality gates before promotion, centralized state store (single JSON source of truth), quota/budget management, cron-based monitoring with alerts, rollback capability, and human-in-the-loop approval points. Use when: (1) managing 3+ specialized agents on a project, (2) building CI/CD-style pipelines for content or code, (3) tracking task progress across multiple agents, (4) enforcing quality standards before deployment, (5) monitoring agent performance and output quality, (6) managing rate limits and quotas across accounts. multi-agent orchestration, team management, task pipeline, quality assurance, agent coordination, project management, CI/CD, workflow automation, monitoring, alerting.",
+  "version": "0.0.1",
+  "author": {
+    "name": "xueyetianya"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xueyetianya/agent-ops-framework",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xueyetianya/agent-ops-framework"
+}

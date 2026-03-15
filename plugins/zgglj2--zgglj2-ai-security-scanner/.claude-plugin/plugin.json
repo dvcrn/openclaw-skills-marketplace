@@ -1,0 +1,10 @@
+{
+  "name": "zgglj2--zgglj2-ai-security-scanner",
+  "description": "AI Agent 安全检测工具。扫描 OpenClaw 等 AI Agent 的安全风险，包括 API Key 泄露、Skill 投毒、敏感信息泄露、配置风险等。当用户询问 AI 安全、Agent 安全、API Key 泄露、Skill 风险、安全扫描、安全审计时触发。",
+  "version": "0.1.0",
+  "author": {
+    "name": "zgglj2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zgglj2/zgglj2-ai-security-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zgglj2/zgglj2-ai-security-scanner"
+}

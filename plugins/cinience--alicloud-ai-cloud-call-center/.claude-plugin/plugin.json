@@ -1,0 +1,10 @@
+{
+  "name": "cinience--alicloud-ai-cloud-call-center",
+  "description": "Manage Alibaba Cloud Cloud Call Center (CCC) via OpenAPI/SDK. Use for listing resources, creating or updating configurations, querying status, and troubleshooting workflows for this product.",
+  "version": "1.0.2",
+  "author": {
+    "name": "cinience"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-ai-cloud-call-center",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cinience/alicloud-ai-cloud-call-center"
+}

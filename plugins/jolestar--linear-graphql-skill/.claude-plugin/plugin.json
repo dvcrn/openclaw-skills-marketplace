@@ -1,0 +1,10 @@
+{
+  "name": "jolestar--linear-graphql-skill",
+  "description": "Operate Linear workspace issues, projects, and teams through Linear GraphQL API using UXC. Use when tasks require querying or creating issues, managing projects, or interacting with Linear workflow. Supports both Personal API Key and OAuth authentication.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jolestar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jolestar/linear-graphql-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jolestar/linear-graphql-skill"
+}

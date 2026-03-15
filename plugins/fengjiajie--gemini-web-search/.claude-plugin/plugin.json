@@ -1,0 +1,10 @@
+{
+  "name": "fengjiajie--gemini-web-search",
+  "description": "Use Gemini CLI (@google/gemini-cli) to do web search / fact-finding and return a sourced summary. Use when the user asks “why did X happen today”, “what’s the latest news”, “search the web”, “find sources/links”, or any task requiring up-to-date info. Prefer this over other search tools when Gemini is available but slow; run it with a TTY, wait longer, and verify source quality.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fengjiajie"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fengjiajie/gemini-web-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fengjiajie/gemini-web-search"
+}

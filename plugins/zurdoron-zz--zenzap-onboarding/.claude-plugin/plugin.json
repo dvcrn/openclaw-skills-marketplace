@@ -1,0 +1,10 @@
+{
+  "name": "zurdoron-zz--zenzap-onboarding",
+  "description": "Bootstrap a complete Zenzap workspace for a human user — create the organization, install the agent as a bot, and invite the human — all via a single API call. Use when the user wants to set up Zenzap, create a Zenzap workspace, onboard onto Zenzap, or connect to Zenzap for team messaging.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zurdoron-zz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zurdoron-zz/zenzap-onboarding",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zurdoron-zz/zenzap-onboarding"
+}

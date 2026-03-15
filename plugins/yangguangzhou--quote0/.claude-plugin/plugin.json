@@ -1,0 +1,10 @@
+{
+  "name": "yangguangzhou--quote0",
+  "description": "Control MindReset Dot Quote/0 through the local quote0.js script and Dot Developer Platform APIs. Use when the user asks to configure Quote/0, push text/image content, query device status, switch next content, list tasks, or troubleshoot Dot Open API integration. Requires credentials DOT_API_KEY and (for device actions) DOT_DEVICE_ID.",
+  "version": "1.0.4",
+  "author": {
+    "name": "yangguangzhou"
+  },
+  "homepage": "https://dot.mindreset.tech/docs/service/open",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yangguangzhou/quote0"
+}

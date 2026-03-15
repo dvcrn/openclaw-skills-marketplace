@@ -1,0 +1,10 @@
+{
+  "name": "jrskerrett--openclaw-msgraph",
+  "description": "Read and manage Microsoft Outlook email (inbox, folders, move messages) and Outlook calendar (list events, create events) via Microsoft Graph API. Use when the user asks to check email, read messages, move emails to folders, see upcoming calendar events, or create calendar events in Outlook/Microsoft 365 personal accounts. Also use for anything involving the user's Outlook inbox or Microsoft calendar.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jrskerrett"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jrskerrett/openclaw-msgraph",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jrskerrett/openclaw-msgraph"
+}

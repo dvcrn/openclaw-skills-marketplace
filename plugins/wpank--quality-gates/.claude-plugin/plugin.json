@@ -1,0 +1,10 @@
+{
+  "name": "wpank--quality-gates",
+  "description": "Quality checkpoints at every development stage — pre-commit through post-deploy — with configuration examples, threshold tables, bypass protocols, and CI/CD integration. Use when setting up quality automation, configuring CI pipelines, establishing coverage thresholds, or defining deployment requirements.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/quality-gates",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/quality-gates"
+}

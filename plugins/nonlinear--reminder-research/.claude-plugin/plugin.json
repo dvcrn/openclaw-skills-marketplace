@@ -1,0 +1,10 @@
+{
+  "name": "nonlinear--reminder-research",
+  "description": "Natural language task queue via Apple Reminders. Agent executor: use skills (i-ching, librarian), edit files (ROADMAP, calendar), call APIs (GitHub, HA). Result tracking with 🤖 signifier. Triggers: reminders with notes (no 🤖), heartbeat automated processing.",
+  "version": "1.0.2",
+  "author": {
+    "name": "nonlinear"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nonlinear/reminder-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nonlinear/reminder-research"
+}

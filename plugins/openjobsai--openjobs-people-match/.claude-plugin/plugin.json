@@ -1,0 +1,10 @@
+{
+  "name": "openjobsai--openjobs-people-match",
+  "description": "Evaluate candidate-job fit using OpenJobs AI. Grade a single CV against a job description or bulk-grade multiple candidates and rank them by match score.",
+  "version": "1.0.1",
+  "author": {
+    "name": "openjobsai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openjobsai/openjobs-people-match",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openjobsai/openjobs-people-match"
+}

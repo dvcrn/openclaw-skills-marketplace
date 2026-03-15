@@ -1,0 +1,10 @@
+{
+  "name": "npfaerber--discord-channel-auditor",
+  "description": "Audit and auto-update a Discord server guide channel. Compares a reference guide message against actual channels, detects new/renamed/deleted/moved channels, and posts an updated guide. Use for keeping a #how-to or #server-guide channel in sync with reality.",
+  "version": "1.0.1",
+  "author": {
+    "name": "npfaerber"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/npfaerber/discord-channel-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/npfaerber/discord-channel-auditor"
+}

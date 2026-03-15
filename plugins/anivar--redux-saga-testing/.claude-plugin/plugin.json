@@ -1,0 +1,10 @@
+{
+  "name": "anivar--redux-saga-testing",
+  "description": "Write tests for Redux Sagas using redux-saga-test-plan, runSaga, and manual generator testing. Covers expectSaga (integration), testSaga (unit), providers, partial matchers, reducer integration, error simulation, and cancellation testing. Works with Jest and Vitest. Triggers on: test files for sagas, redux-saga-test-plan imports, mentions of \"test saga\", \"saga test\", \"expectSaga\", \"testSaga\", or \"redux-saga-test-plan\".",
+  "version": "1.0.1",
+  "author": {
+    "name": "anivar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anivar/redux-saga-testing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anivar/redux-saga-testing"
+}

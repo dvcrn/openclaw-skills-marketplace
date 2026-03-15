@@ -1,0 +1,1457 @@
+ocui_version: "1.0"
+skill: educlaw-scheduling
+skill_version: "1.0.0"
+display_name: EduClaw Advanced Scheduling
+icon: calendar
+color: "#6366f1"
+default_entity: educlaw_master_schedule
+domains:
+  - key: schedule_patterns
+    label: Schedule Patterns
+    entities: [educlaw_schedule_pattern, educlaw_day_type, educlaw_bell_period]
+  - key: master_schedule
+    label: Master Schedule
+    entities: [educlaw_master_schedule, educlaw_section_meeting]
+  - key: course_requests
+    label: Course Requests
+    entities: [educlaw_course_request]
+  - key: conflict_resolution
+    label: Conflict Resolution
+    entities: [educlaw_schedule_conflict]
+  - key: room_assignment
+    label: Room Assignment
+    entities: [educlaw_room_booking, educlaw_instructor_constraint]
+
+dashboard:
+  kpis:
+    - key: total_master_schedules
+      label: "Master Schedules"
+      type: count
+      action: list-master-schedules
+      drill_action: list-master-schedules
+    - key: draft_master_schedules
+      label: "Drafts"
+      type: count
+      action: list-master-schedules
+      filter: { schedule_status: draft }
+      severity: info
+      drill_action: list-master-schedules
+      drill_filter: { schedule_status: draft }
+    - key: open_conflicts
+      label: "Open Conflicts"
+      type: count
+      action: list-conflicts
+      filter: { conflict_status: open }
+      severity: error
+      drill_action: list-conflicts
+      drill_filter: { conflict_status: open }
+    - key: pending_course_requests
+      label: "Pending Requests"
+      type: count
+      action: list-course-requests
+      filter: { request_status: submitted }
+      severity: warning
+      drill_action: list-course-requests
+      drill_filter: { request_status: submitted }
+  quick_actions:
+    - action: add-schedule-pattern
+      label: "New Schedule Pattern"
+    - action: create-master-schedule
+      label: "New Master Schedule"
+    - action: submit-course-request
+      label: "Submit Course Request"
+    - action: run-conflict-check
+      label: "Run Conflict Check"
+
+workflows:
+  - after: add-schedule-pattern
+    suggest:
+      - action: add-day-type
+        label: "Add Day Types"
+        pass: { schedule-pattern-id: id }
+      - action: add-bell-period
+        label: "Add Bell Periods"
+        pass: { schedule-pattern-id: id }
+  - after: add-day-type
+    suggest:
+      - action: add-bell-period
+        label: "Add Bell Period"
+        pass: { schedule-pattern-id: schedule_pattern_id }
+      - action: activate-schedule-pattern
+        label: "Activate Pattern"
+        pass: { pattern-id: schedule_pattern_id }
+  - after: create-master-schedule
+    suggest:
+      - action: add-section-to-schedule
+        label: "Add Sections"
+        pass: { master-schedule-id: id }
+      - action: place-section-meeting
+        label: "Place Section Meeting"
+        pass: { master-schedule-id: id }
+  - after: place-section-meeting
+    suggest:
+      - action: assign-room
+        label: "Assign Room"
+        pass: { section-meeting-id: id }
+      - action: run-conflict-check
+        label: "Check Conflicts"
+        pass: { master-schedule-id: master_schedule_id }
+  - after: run-conflict-check
+    suggest:
+      - action: get-conflict-summary
+        label: "View Conflict Summary"
+        pass: { master-schedule-id: master_schedule_id }
+      - action: list-conflicts
+        label: "View All Conflicts"
+  - after: resolve-conflict
+    suggest:
+      - action: publish-master-schedule
+        label: "Publish Schedule"
+  - after: submit-course-request
+    suggest:
+      - action: get-demand-report
+        label: "View Demand Report"
+  - after: open-course-requests
+    suggest:
+      - action: submit-course-request
+        label: "Submit Requests"
+  - after: approve-course-requests
+    suggest:
+      - action: get-demand-report
+        label: "View Demand"
+      - action: close-course-requests
+        label: "Close Requests"
+
+entities:
+  educlaw_schedule_pattern:
+    label: Schedule Pattern
+    label_plural: Schedule Patterns
+    table: educlaw_schedule_pattern
+    id_col: id
+    name_col: name
+    primary_field: name
+    identifier_field: id
+    status_field: is_active
+    status_colors:
+      "1": green
+      "0": gray
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      name:
+        type: text
+        label: Pattern Name
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 1
+      pattern_type:
+        type: select
+        label: Pattern Type
+        required: true
+        options:
+          - value: "traditional"
+            label: "Traditional"
+          - value: "block_4x4"
+            label: "Block 4x4"
+          - value: "block_ab"
+            label: "Block A/B"
+          - value: "trimester"
+            label: "Trimester"
+          - value: "rotating_drop"
+            label: "Rotating Drop"
+          - value: "semester"
+            label: "Semester"
+          - value: "custom"
+            label: "Custom"
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 2
+      cycle_days:
+        type: integer
+        label: Cycle Days
+        required: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      total_periods_per_cycle:
+        type: integer
+        label: Total Periods Per Cycle
+        in_form_view: true
+        form_group: details
+        form_order: 4
+      is_active:
+        type: integer
+        label: Active
+        in_list_view: true
+        in_form_view: true
+        form_group: header
+        form_order: 5
+      description:
+        type: textarea
+        label: Description
+        in_form_view: true
+        form_group: notes
+        form_order: 6
+      notes:
+        type: textarea
+        label: Notes
+        in_form_view: true
+        form_group: notes
+        form_order: 7
+      company_id:
+        type: link
+        label: Company
+        link_entity: company
+        link_display_field: name
+        link_search_action: list-companies
+        in_form_view: true
+        form_group: references
+        form_order: 8
+      created_at:
+        type: text
+        label: Created At
+        read_only: true
+        in_list_view: true
+    form_groups:
+      header:
+        label: Status
+        order: 1
+        columns: 2
+      details:
+        label: Details
+        order: 2
+        columns: 2
+      references:
+        label: References
+        order: 3
+        columns: 2
+      notes:
+        label: Notes
+        order: 4
+        columns: 1
+
+  educlaw_day_type:
+    label: Day Type
+    label_plural: Day Types
+    table: educlaw_day_type
+    id_col: id
+    name_col: name
+    primary_field: name
+    identifier_field: id
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      schedule_pattern_id:
+        type: link
+        label: Schedule Pattern
+        link_entity: educlaw_schedule_pattern
+        link_display_field: name
+        link_search_action: list-schedule-patterns
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      code:
+        type: text
+        label: Code
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 2
+      name:
+        type: text
+        label: Name
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      sort_order:
+        type: integer
+        label: Sort Order
+        in_form_view: true
+        form_group: details
+        form_order: 4
+    form_groups:
+      references:
+        label: References
+        order: 1
+        columns: 2
+      details:
+        label: Details
+        order: 2
+        columns: 2
+
+  educlaw_bell_period:
+    label: Bell Period
+    label_plural: Bell Periods
+    table: educlaw_bell_period
+    id_col: id
+    name_col: period_name
+    primary_field: period_name
+    identifier_field: id
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      schedule_pattern_id:
+        type: link
+        label: Schedule Pattern
+        link_entity: educlaw_schedule_pattern
+        link_display_field: name
+        link_search_action: list-schedule-patterns
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      period_number:
+        type: text
+        label: Period Number
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 2
+      period_name:
+        type: text
+        label: Period Name
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      start_time:
+        type: text
+        label: Start Time (HH:MM)
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 4
+      end_time:
+        type: text
+        label: End Time (HH:MM)
+        required: true
+        in_form_view: true
+        form_group: details
+        form_order: 5
+      duration_minutes:
+        type: integer
+        label: Duration (Minutes)
+        required: true
+        in_form_view: true
+        form_group: details
+        form_order: 6
+      period_type:
+        type: select
+        label: Period Type
+        options:
+          - value: "class"
+            label: "Class"
+          - value: "break"
+            label: "Break"
+          - value: "lunch"
+            label: "Lunch"
+          - value: "homeroom"
+            label: "Homeroom"
+          - value: "advisory"
+            label: "Advisory"
+          - value: "flex"
+            label: "Flex"
+          - value: "passing"
+            label: "Passing"
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 7
+      sort_order:
+        type: integer
+        label: Sort Order
+        in_form_view: true
+        form_group: details
+        form_order: 8
+      applies_to_day_types:
+        type: textarea
+        label: Applies to Day Types (JSON)
+        in_form_view: true
+        form_group: details
+        form_order: 9
+    form_groups:
+      references:
+        label: References
+        order: 1
+        columns: 2
+      details:
+        label: Details
+        order: 2
+        columns: 2
+
+  educlaw_master_schedule:
+    label: Master Schedule
+    label_plural: Master Schedules
+    table: educlaw_master_schedule
+    id_col: id
+    name_col: name
+    primary_field: name
+    identifier_field: id
+    status_field: schedule_status
+    status_colors:
+      draft: gray
+      building: blue
+      review: orange
+      published: green
+      locked: teal
+      archived: red
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      naming_series:
+        type: text
+        label: Naming Series
+        read_only: true
+        in_list_view: true
+      name:
+        type: text
+        label: Schedule Name
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 1
+      academic_term_id:
+        type: link
+        label: Academic Term
+        link_entity: academic_term
+        link_display_field: name
+        link_search_action: list-academic-terms
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 2
+      schedule_pattern_id:
+        type: link
+        label: Schedule Pattern
+        link_entity: educlaw_schedule_pattern
+        link_display_field: name
+        link_search_action: list-schedule-patterns
+        required: true
+        in_form_view: true
+        form_group: references
+        form_order: 3
+      schedule_status:
+        type: select
+        label: Status
+        options:
+          - value: "draft"
+            label: "Draft"
+          - value: "building"
+            label: "Building"
+          - value: "review"
+            label: "Review"
+          - value: "published"
+            label: "Published"
+          - value: "locked"
+            label: "Locked"
+          - value: "archived"
+            label: "Archived"
+        in_list_view: true
+        in_form_view: true
+        form_group: header
+        form_order: 4
+      total_sections:
+        type: integer
+        label: Total Sections
+        read_only: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 5
+      build_notes:
+        type: textarea
+        label: Build Notes
+        in_form_view: true
+        form_group: notes
+        form_order: 6
+      company_id:
+        type: link
+        label: Company
+        link_entity: company
+        link_display_field: name
+        link_search_action: list-companies
+        in_form_view: true
+        form_group: references
+        form_order: 7
+      created_at:
+        type: text
+        label: Created At
+        read_only: true
+        in_list_view: true
+    form_groups:
+      header:
+        label: Status
+        order: 1
+        columns: 2
+      details:
+        label: Details
+        order: 2
+        columns: 2
+      references:
+        label: References
+        order: 3
+        columns: 2
+      notes:
+        label: Notes
+        order: 4
+        columns: 1
+
+  educlaw_section_meeting:
+    label: Section Meeting
+    label_plural: Section Meetings
+    table: educlaw_section_meeting
+    id_col: id
+    name_col: id
+    primary_field: id
+    identifier_field: id
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      master_schedule_id:
+        type: link
+        label: Master Schedule
+        link_entity: educlaw_master_schedule
+        link_display_field: name
+        link_search_action: list-master-schedules
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      section_id:
+        type: text
+        label: Section ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 2
+      day_type_id:
+        type: link
+        label: Day Type
+        link_entity: educlaw_day_type
+        link_display_field: name
+        link_search_action: list-day-types
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      bell_period_id:
+        type: link
+        label: Bell Period
+        link_entity: educlaw_bell_period
+        link_display_field: period_name
+        link_search_action: list-bell-periods
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 4
+      room_id:
+        type: text
+        label: Room ID
+        in_form_view: true
+        form_group: details
+        form_order: 5
+      instructor_id:
+        type: text
+        label: Instructor ID
+        in_form_view: true
+        form_group: details
+        form_order: 6
+      meeting_type:
+        type: select
+        label: Meeting Type
+        options:
+          - value: "regular"
+            label: "Regular"
+          - value: "lab"
+            label: "Lab"
+          - value: "exam"
+            label: "Exam"
+          - value: "field_trip"
+            label: "Field Trip"
+          - value: "make_up"
+            label: "Make Up"
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 7
+      meeting_mode:
+        type: select
+        label: Meeting Mode
+        options:
+          - value: "in_person"
+            label: "In Person"
+          - value: "hybrid"
+            label: "Hybrid"
+          - value: "online"
+            label: "Online"
+        in_form_view: true
+        form_group: details
+        form_order: 8
+    form_groups:
+      references:
+        label: References
+        order: 1
+        columns: 2
+      details:
+        label: Details
+        order: 2
+        columns: 2
+
+  educlaw_course_request:
+    label: Course Request
+    label_plural: Course Requests
+    table: educlaw_course_request
+    id_col: id
+    name_col: id
+    primary_field: id
+    identifier_field: id
+    status_field: request_status
+    status_colors:
+      draft: gray
+      submitted: blue
+      approved: teal
+      scheduled: green
+      alternate_used: orange
+      unfulfilled: red
+      withdrawn: gray
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      student_id:
+        type: text
+        label: Student ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      academic_term_id:
+        type: text
+        label: Academic Term ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 2
+      course_id:
+        type: text
+        label: Course ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 3
+      request_status:
+        type: select
+        label: Status
+        options:
+          - value: "draft"
+            label: "Draft"
+          - value: "submitted"
+            label: "Submitted"
+          - value: "approved"
+            label: "Approved"
+          - value: "scheduled"
+            label: "Scheduled"
+          - value: "alternate_used"
+            label: "Alternate Used"
+          - value: "unfulfilled"
+            label: "Unfulfilled"
+          - value: "withdrawn"
+            label: "Withdrawn"
+        in_list_view: true
+        in_form_view: true
+        form_group: header
+        form_order: 4
+      request_priority:
+        type: integer
+        label: Priority
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 5
+      is_alternate:
+        type: integer
+        label: Is Alternate
+        in_form_view: true
+        form_group: details
+        form_order: 6
+      alternate_for_course_id:
+        type: text
+        label: Alternate For Course
+        in_form_view: true
+        form_group: details
+        form_order: 7
+      has_iep_flag:
+        type: integer
+        label: Has IEP Flag
+        in_form_view: true
+        form_group: details
+        form_order: 8
+      prerequisite_override:
+        type: integer
+        label: Prerequisite Override
+        in_form_view: true
+        form_group: details
+        form_order: 9
+      prerequisite_override_by:
+        type: text
+        label: Override Approved By
+        in_form_view: true
+        form_group: details
+        form_order: 10
+      prerequisite_override_note:
+        type: textarea
+        label: Override Note
+        in_form_view: true
+        form_group: notes
+        form_order: 11
+      submitted_by:
+        type: text
+        label: Submitted By
+        in_form_view: true
+        form_group: details
+        form_order: 12
+      company_id:
+        type: text
+        label: Company ID
+        in_form_view: true
+        form_group: references
+        form_order: 13
+    form_groups:
+      header:
+        label: Status
+        order: 1
+        columns: 2
+      references:
+        label: References
+        order: 2
+        columns: 2
+      details:
+        label: Details
+        order: 3
+        columns: 2
+      notes:
+        label: Notes
+        order: 4
+        columns: 1
+
+  educlaw_schedule_conflict:
+    label: Schedule Conflict
+    label_plural: Schedule Conflicts
+    table: educlaw_schedule_conflict
+    id_col: id
+    name_col: id
+    primary_field: id
+    identifier_field: id
+    status_field: conflict_status
+    status_colors:
+      open: red
+      resolving: orange
+      resolved: green
+      accepted: teal
+      superseded: gray
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      master_schedule_id:
+        type: link
+        label: Master Schedule
+        link_entity: educlaw_master_schedule
+        link_display_field: name
+        link_search_action: list-master-schedules
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      conflict_type:
+        type: select
+        label: Conflict Type
+        options:
+          - value: "instructor_double_booking"
+            label: "Instructor Double Booking"
+          - value: "room_double_booking"
+            label: "Room Double Booking"
+          - value: "student_conflict"
+            label: "Student Conflict"
+          - value: "instructor_overload"
+            label: "Instructor Overload"
+          - value: "instructor_contract_violation"
+            label: "Contract Violation"
+          - value: "capacity_exceeded"
+            label: "Capacity Exceeded"
+          - value: "singleton_overlap"
+            label: "Singleton Overlap"
+          - value: "room_shortage"
+            label: "Room Shortage"
+          - value: "room_type_mismatch"
+            label: "Room Type Mismatch"
+          - value: "credential_mismatch"
+            label: "Credential Mismatch"
+          - value: "contact_hours_deficit"
+            label: "Contact Hours Deficit"
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 2
+      severity:
+        type: select
+        label: Severity
+        options:
+          - value: "critical"
+            label: "Critical"
+          - value: "high"
+            label: "High"
+          - value: "medium"
+            label: "Medium"
+          - value: "low"
+            label: "Low"
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      conflict_status:
+        type: select
+        label: Status
+        options:
+          - value: "open"
+            label: "Open"
+          - value: "resolving"
+            label: "Resolving"
+          - value: "resolved"
+            label: "Resolved"
+          - value: "accepted"
+            label: "Accepted"
+          - value: "superseded"
+            label: "Superseded"
+        in_list_view: true
+        in_form_view: true
+        form_group: header
+        form_order: 4
+      resolution_notes:
+        type: textarea
+        label: Resolution Notes
+        in_form_view: true
+        form_group: notes
+        form_order: 5
+      resolved_by:
+        type: text
+        label: Resolved By
+        in_form_view: true
+        form_group: details
+        form_order: 6
+      created_at:
+        type: text
+        label: Detected At
+        read_only: true
+        in_list_view: true
+    form_groups:
+      header:
+        label: Status
+        order: 1
+        columns: 2
+      details:
+        label: Details
+        order: 2
+        columns: 2
+      references:
+        label: References
+        order: 3
+        columns: 2
+      notes:
+        label: Notes
+        order: 4
+        columns: 1
+
+  educlaw_room_booking:
+    label: Room Booking
+    label_plural: Room Bookings
+    table: educlaw_room_booking
+    id_col: id
+    name_col: booking_title
+    primary_field: booking_title
+    identifier_field: id
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      section_meeting_id:
+        type: link
+        label: Section Meeting
+        link_entity: educlaw_section_meeting
+        link_display_field: id
+        link_search_action: list-section-meetings
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      room_id:
+        type: text
+        label: Room ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 2
+      booking_title:
+        type: text
+        label: Booking Title
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      booking_type:
+        type: select
+        label: Booking Type
+        options:
+          - value: "class"
+            label: "Class"
+          - value: "exam"
+            label: "Exam"
+          - value: "event"
+            label: "Event"
+          - value: "admin"
+            label: "Admin"
+          - value: "maintenance"
+            label: "Maintenance"
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 4
+      accessibility_required:
+        type: integer
+        label: Accessibility Required
+        in_form_view: true
+        form_group: details
+        form_order: 5
+      booked_by:
+        type: text
+        label: Booked By
+        in_form_view: true
+        form_group: details
+        form_order: 6
+    form_groups:
+      references:
+        label: References
+        order: 1
+        columns: 2
+      details:
+        label: Details
+        order: 2
+        columns: 2
+
+  educlaw_instructor_constraint:
+    label: Instructor Constraint
+    label_plural: Instructor Constraints
+    table: educlaw_instructor_constraint
+    id_col: id
+    name_col: id
+    primary_field: id
+    identifier_field: id
+    status_field: is_active
+    status_colors:
+      "1": green
+      "0": gray
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      instructor_id:
+        type: text
+        label: Instructor ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      academic_term_id:
+        type: text
+        label: Academic Term ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 2
+      constraint_type:
+        type: select
+        label: Constraint Type
+        required: true
+        options:
+          - value: "unavailable"
+            label: "Unavailable"
+          - value: "preferred"
+            label: "Preferred"
+          - value: "max_periods_per_day"
+            label: "Max Periods Per Day"
+          - value: "max_consecutive_periods"
+            label: "Max Consecutive Periods"
+          - value: "requires_prep_period"
+            label: "Requires Prep Period"
+          - value: "preferred_building"
+            label: "Preferred Building"
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      day_type_id:
+        type: link
+        label: Day Type
+        link_entity: educlaw_day_type
+        link_display_field: name
+        link_search_action: list-day-types
+        in_form_view: true
+        form_group: details
+        form_order: 4
+      bell_period_id:
+        type: link
+        label: Bell Period
+        link_entity: educlaw_bell_period
+        link_display_field: period_name
+        link_search_action: list-bell-periods
+        in_form_view: true
+        form_group: details
+        form_order: 5
+      constraint_value:
+        type: text
+        label: Constraint Value
+        in_form_view: true
+        form_group: details
+        form_order: 6
+      priority:
+        type: select
+        label: Priority
+        options:
+          - value: "hard"
+            label: "Hard"
+          - value: "soft"
+            label: "Soft"
+          - value: "preference"
+            label: "Preference"
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 7
+      is_active:
+        type: integer
+        label: Active
+        in_list_view: true
+        in_form_view: true
+        form_group: header
+        form_order: 8
+      constraint_notes:
+        type: textarea
+        label: Notes
+        in_form_view: true
+        form_group: notes
+        form_order: 9
+    form_groups:
+      header:
+        label: Status
+        order: 1
+        columns: 2
+      references:
+        label: References
+        order: 2
+        columns: 2
+      details:
+        label: Details
+        order: 3
+        columns: 2
+      notes:
+        label: Notes
+        order: 4
+        columns: 1
+
+action_map:
+
+  # ── Schedule Patterns ──────────────────────────────────────────────────────
+  add-schedule-pattern:
+    component: FormView
+    entity: educlaw_schedule_pattern
+    mode: create
+
+  update-schedule-pattern:
+    component: FormView
+    entity: educlaw_schedule_pattern
+    mode: edit
+
+  get-schedule-pattern:
+    component: DetailView
+    entity: educlaw_schedule_pattern
+
+  list-schedule-patterns:
+    component: DataTable
+    entity: educlaw_schedule_pattern
+    default_sort: created_at
+    default_sort_dir: desc
+    searchable: true
+    add_action: add-schedule-pattern
+
+  activate-schedule-pattern:
+    component: WizardFlow
+    entity: educlaw_schedule_pattern
+    steps:
+      - label: Review Pattern
+        type: detail
+      - label: Confirm Activation
+        type: confirmation
+        message: "Activate this schedule pattern? It will be available for master schedules."
+
+  add-day-type:
+    component: FormView
+    entity: educlaw_day_type
+    mode: create
+
+  add-bell-period:
+    component: FormView
+    entity: educlaw_bell_period
+    mode: create
+
+  map-day-type-to-dates:
+    component: FormView
+    mode: create
+
+  get-pattern-calendar:
+    component: DetailView
+    entity: educlaw_schedule_pattern
+
+  calculate-contact-hours:
+    component: FormView
+    mode: create
+
+  # ── Master Schedule ────────────────────────────────────────────────────────
+  create-master-schedule:
+    component: FormView
+    entity: educlaw_master_schedule
+    mode: create
+
+  update-master-schedule:
+    component: FormView
+    entity: educlaw_master_schedule
+    mode: edit
+
+  get-master-schedule:
+    component: DetailView
+    entity: educlaw_master_schedule
+
+  list-master-schedules:
+    component: DataTable
+    entity: educlaw_master_schedule
+    default_sort: created_at
+    default_sort_dir: desc
+    searchable: true
+    add_action: create-master-schedule
+
+  add-section-to-schedule:
+    component: FormView
+    mode: create
+
+  place-section-meeting:
+    component: FormView
+    entity: educlaw_section_meeting
+    mode: create
+
+  remove-section-meeting:
+    component: WizardFlow
+    entity: educlaw_section_meeting
+    steps:
+      - label: Review Meeting
+        type: detail
+      - label: Confirm Removal
+        type: confirmation
+        message: "Remove this section meeting? This will also cancel any room bookings."
+
+  list-section-meetings:
+    component: DataTable
+    entity: educlaw_section_meeting
+    default_sort: created_at
+    default_sort_dir: desc
+    searchable: true
+
+  get-schedule-matrix:
+    component: FormView
+    mode: create
+
+  run-conflict-check:
+    component: WizardFlow
+    steps:
+      - label: Select Schedule
+        type: form
+      - label: Running Checks
+        type: confirmation
+        message: "Run all 11 conflict checks for this master schedule?"
+
+  publish-master-schedule:
+    component: WizardFlow
+    entity: educlaw_master_schedule
+    steps:
+      - label: Review Schedule
+        type: detail
+      - label: Pre-Publish Check
+        type: confirmation
+        message: "Publish this master schedule? Sections will be marked as scheduled and the academic term opened for enrollment."
+
+  lock-master-schedule:
+    component: WizardFlow
+    entity: educlaw_master_schedule
+    steps:
+      - label: Review Schedule
+        type: detail
+      - label: Confirm Lock
+        type: confirmation
+        message: "Lock this master schedule? No further changes will be permitted."
+
+  clone-master-schedule:
+    component: FormView
+    mode: create
+
+  # ── Course Requests ────────────────────────────────────────────────────────
+  open-course-requests:
+    component: WizardFlow
+    steps:
+      - label: Select Term
+        type: form
+      - label: Confirm
+        type: confirmation
+        message: "Open course request collection for this term?"
+
+  submit-course-request:
+    component: FormView
+    entity: educlaw_course_request
+    mode: create
+
+  approve-course-requests:
+    component: WizardFlow
+    steps:
+      - label: Select Term
+        type: form
+      - label: Confirm Approval
+        type: confirmation
+        message: "Bulk-approve all submitted course requests for this term?"
+
+  update-course-request:
+    component: FormView
+    entity: educlaw_course_request
+    mode: edit
+
+  get-course-request:
+    component: DetailView
+    entity: educlaw_course_request
+
+  list-course-requests:
+    component: DataTable
+    entity: educlaw_course_request
+    default_sort: created_at
+    default_sort_dir: desc
+    searchable: true
+    add_action: submit-course-request
+
+  close-course-requests:
+    component: WizardFlow
+    steps:
+      - label: Select Term
+        type: form
+      - label: Confirm Close
+        type: confirmation
+        message: "Close the course request window for this term?"
+
+  get-demand-report:
+    component: FormView
+    mode: create
+
+  get-singleton-analysis:
+    component: FormView
+    mode: create
+
+  analyze-course-demand:
+    component: FormView
+    mode: create
+
+  get-fulfillment-report:
+    component: FormView
+    mode: create
+
+  get-load-balance-report:
+    component: FormView
+    mode: create
+
+  # ── Conflict Resolution ────────────────────────────────────────────────────
+  list-conflicts:
+    component: DataTable
+    entity: educlaw_schedule_conflict
+    default_sort: created_at
+    default_sort_dir: desc
+    searchable: true
+
+  get-conflict:
+    component: DetailView
+    entity: educlaw_schedule_conflict
+
+  resolve-conflict:
+    component: WizardFlow
+    entity: educlaw_schedule_conflict
+    steps:
+      - label: Review Conflict
+        type: detail
+      - label: Enter Resolution
+        type: form
+      - label: Confirm
+        type: confirmation
+        message: "Mark this conflict as resolved?"
+
+  accept-conflict:
+    component: WizardFlow
+    entity: educlaw_schedule_conflict
+    steps:
+      - label: Review Conflict
+        type: detail
+      - label: Confirm Acceptance
+        type: confirmation
+        message: "Accept this conflict as a known exception? (Not available for CRITICAL severity)"
+
+  get-conflict-summary:
+    component: FormView
+    mode: create
+
+  get-singleton-conflict-map:
+    component: FormView
+    mode: create
+
+  get-student-conflict-report:
+    component: FormView
+    mode: create
+
+  # ── Room Assignment ────────────────────────────────────────────────────────
+  assign-room:
+    component: FormView
+    entity: educlaw_room_booking
+    mode: create
+
+  unassign-room:
+    component: WizardFlow
+    steps:
+      - label: Select Meeting
+        type: form
+      - label: Confirm Unassignment
+        type: confirmation
+        message: "Remove this room assignment?"
+
+  block-room:
+    component: FormView
+    entity: educlaw_room_booking
+    mode: create
+
+  swap-rooms:
+    component: WizardFlow
+    steps:
+      - label: Select Meetings
+        type: form
+      - label: Confirm Swap
+        type: confirmation
+        message: "Swap room assignments between these two section meetings?"
+
+  suggest-room:
+    component: FormView
+    mode: create
+
+  bulk-assign-rooms:
+    component: WizardFlow
+    steps:
+      - label: Select Schedule
+        type: form
+      - label: Confirm Auto-Assign
+        type: confirmation
+        message: "Auto-assign rooms to all unassigned meetings in this master schedule?"
+
+  get-room-availability:
+    component: FormView
+    mode: create
+
+  get-room-utilization-report:
+    component: FormView
+    mode: create
+
+  search-rooms-by-features:
+    component: FormView
+    mode: create
+
+  emergency-reassign-room:
+    component: WizardFlow
+    steps:
+      - label: Select Rooms
+        type: form
+      - label: Confirm Emergency Reassignment
+        type: confirmation
+        message: "Move ALL bookings from the source room to the target room?"
+
+  # ── Instructor Constraints ─────────────────────────────────────────────────
+  add-instructor-constraint:
+    component: FormView
+    entity: educlaw_instructor_constraint
+    mode: create
+
+  update-instructor-constraint:
+    component: FormView
+    entity: educlaw_instructor_constraint
+    mode: edit
+
+  list-instructor-constraints:
+    component: DataTable
+    entity: educlaw_instructor_constraint
+    default_sort: created_at
+    default_sort_dir: desc
+    searchable: true
+    add_action: add-instructor-constraint
+
+  delete-instructor-constraint:
+    component: WizardFlow
+    entity: educlaw_instructor_constraint
+    steps:
+      - label: Review Constraint
+        type: detail
+      - label: Confirm Delete
+        type: confirmation
+        message: "Permanently delete this instructor constraint?"

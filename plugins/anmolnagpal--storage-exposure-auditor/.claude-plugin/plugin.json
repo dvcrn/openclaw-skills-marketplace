@@ -1,0 +1,10 @@
+{
+  "name": "anmolnagpal--storage-exposure-auditor",
+  "description": "Identify publicly accessible Azure Storage accounts and misconfigured blob containers",
+  "version": "1.0.0",
+  "author": {
+    "name": "anmolnagpal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/storage-exposure-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/storage-exposure-auditor"
+}

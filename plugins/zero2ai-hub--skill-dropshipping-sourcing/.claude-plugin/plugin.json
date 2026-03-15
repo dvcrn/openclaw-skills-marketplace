@@ -1,0 +1,10 @@
+{
+  "name": "zero2ai-hub--skill-dropshipping-sourcing",
+  "description": "Query CJ Dropshipping API v2.0 to source products and fetch details for catalog building. Use for CJ keyword search, pulling product records (SPU/SKU, images, categories, variants/colors when available), refreshing access tokens, and producing normalized JSON outputs for dropshipping catalog automation.",
+  "version": "1.0.2",
+  "author": {
+    "name": "zero2ai-hub"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zero2ai-hub/skill-dropshipping-sourcing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zero2ai-hub/skill-dropshipping-sourcing"
+}

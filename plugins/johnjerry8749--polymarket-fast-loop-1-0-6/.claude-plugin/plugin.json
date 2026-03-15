@@ -1,0 +1,10 @@
+{
+  "name": "johnjerry8749--polymarket-fast-loop-1-0-6",
+  "description": "Trade Polymarket BTC 5-minute and 15-minute fast markets using CEX price momentum signals via Simmer API. Default signal is Binance BTC/USDT klines. Use when user wants to trade sprint/fast markets, automate short-term crypto trading, or use CEX momentum as a Polymarket signal.",
+  "version": "0.1.0",
+  "author": {
+    "name": "johnjerry8749"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnjerry8749/polymarket-fast-loop-1-0-6",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnjerry8749/polymarket-fast-loop-1-0-6"
+}

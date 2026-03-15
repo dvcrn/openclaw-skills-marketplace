@@ -1,0 +1,10 @@
+{
+  "name": "anichikage--yollomi",
+  "description": "AI image generator skill (image, image generation). Multi-model image generator for Yollomi to generate AI images via one unified API endpoint. Requires YOLLOMI_API_KEY.",
+  "version": "1.0.5",
+  "author": {
+    "name": "anichikage"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anichikage/yollomi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anichikage/yollomi"
+}

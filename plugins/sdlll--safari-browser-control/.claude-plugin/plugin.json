@@ -1,0 +1,10 @@
+{
+  "name": "sdlll--safari-browser-control",
+  "description": "Control the user's real Safari browser on macOS using AppleScript and screencapture. Read pages, click elements, type text, take screenshots, navigate tabs — all through the user's actual browser session with their cookies and logins. Zero dependencies, pure macOS native. Triggers on keywords like \"safari\", \"browser\", \"web page\", \"open tab\", \"screenshot the page\", \"read this site\", \"browse\", \"click on\", \"fill in the form\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "sdlll"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sdlll/safari-browser-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sdlll/safari-browser-control"
+}

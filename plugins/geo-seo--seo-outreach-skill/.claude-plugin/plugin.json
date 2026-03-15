@@ -1,0 +1,10 @@
+{
+  "name": "geo-seo--seo-outreach-skill",
+  "description": "Use this skill when the user wants to review link-building outreach opportunities, find contact information for article authors, generate personalized outreach drafts, process a list of opportunities, or prepare an outreach campaign for manual sending. Trigger this skill whenever the user mentions \"outreach\", \"link building\", \"邮件外链\", \"contact author\", \"backlink campaign\", \"find email for\", or asks to process a spreadsheet or CSV of outreach targets.",
+  "version": "1.0.5",
+  "author": {
+    "name": "geo-seo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/geo-seo/seo-outreach-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/geo-seo/seo-outreach-skill"
+}

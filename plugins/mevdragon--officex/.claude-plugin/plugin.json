@@ -1,0 +1,10 @@
+{
+  "name": "mevdragon--officex",
+  "description": "Complete OfficeX platform skill for end-user consumers and app developers interacting with\n the OfficeX REST API. Covers the full credit-based app marketplace (\"Netflix meets Costco\n for business apps\"). Use when: (1) Making HTTP calls to OfficeX cloud API, (2) Building or\n publishing apps on the platform, (3) Implementing billing (reserve/settle/sip/payout),\n (4) Managing users, installs, wallets, (5) Handling webhooks (INSTALL/UNINSTALL/RATE_LIMIT_CHANGE),\n (6) Embedding apps in iframes, (7) Integrating with the AI chat agent (agent_context,\n documentation, context_prompt), (8) Debugging API errors or auth issues.\n Triggers on: officex, cloud officex, credit economy, app marketplace, reserve credits,\n settle, sip, install app, master key, install secret, wallet, vendor inbox, payout,\n voucher, OTP, register user, register app, webhook, iframe, agent context, billing pattern.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mevdragon"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mevdragon/officex",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mevdragon/officex"
+}

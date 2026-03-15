@@ -1,0 +1,10 @@
+{
+  "name": "guoway--openclaw-avif2jpg",
+  "description": "Convert `.avif` images to `.jpg` using a CLI workflow for one or more input paths. Use when the user asks to convert AVIF files, batch-convert a folder of AVIF images, or convert mixed file/folder path inputs while writing outputs next to the source location.",
+  "version": "1.0.0",
+  "author": {
+    "name": "guoway"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guoway/openclaw-avif2jpg",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guoway/openclaw-avif2jpg"
+}

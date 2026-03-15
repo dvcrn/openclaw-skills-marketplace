@@ -1,0 +1,10 @@
+{
+  "name": "0xmythril--linkedin-cli-2",
+  "description": "Post to LinkedIn using the official API v2. Uses OAuth tokens so only post when explicitly asked or scheduled.",
+  "version": "0.1.0",
+  "author": {
+    "name": "0xmythril"
+  },
+  "homepage": "https://github.com/0xmythril/linkedin-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xmythril/linkedin-cli-2"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "devengagelab--engagelab-sms",
+  "description": "Call EngageLab SMS REST APIs to send SMS messages and manage SMS templates and signatures (sender IDs). Use this skill whenever the user wants to send an SMS via EngageLab, create or manage SMS templates, configure sender ID signatures, or interact with any EngageLab SMS API endpoint. Also trigger when the user mentions \"engagelab\", \"engagelab sms\", \"sms api\", \"send sms via api\", \"sms template management\", \"sender id\", \"sign config\", or asks to integrate with the EngageLab messaging platform. This skill covers authentication, message sending, template CRUD, and signature CRUD — use it even if the user only needs one of these capabilities.",
+  "version": "1.0.0",
+  "author": {
+    "name": "devengagelab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/devengagelab/engagelab-sms",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/devengagelab/engagelab-sms"
+}

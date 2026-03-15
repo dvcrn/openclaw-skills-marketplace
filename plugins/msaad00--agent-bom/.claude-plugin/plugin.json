@@ -1,0 +1,10 @@
+{
+  "name": "msaad00--agent-bom",
+  "description": "AI agent infrastructure security scanner — discovers MCP clients and servers, scans for CVEs, maps blast radius, runs CIS benchmarks (AWS, Azure, GCP, Snowflake), OWASP/NIST/MITRE compliance, AISVS v1.0, MAESTRO layer tagging, and vector database security checks. Use when the user mentions vulnerability scanning, MCP server trust, compliance, SBOM generation, CIS benchmarks, blast radius, or AI supply chain risk.",
+  "version": "0.70.6",
+  "author": {
+    "name": "msaad00"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/msaad00/agent-bom",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/msaad00/agent-bom"
+}

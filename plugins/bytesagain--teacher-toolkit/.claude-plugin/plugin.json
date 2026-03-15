@@ -1,0 +1,10 @@
+{
+  "name": "bytesagain--teacher-toolkit",
+  "description": "教师工具箱。教案设计、评分标准(Rubric)、课堂活动、评估设计、学生反馈、家长沟通。Teacher toolkit with lesson planning, rubrics, activities, assessments, student feedback, parent communication. Use when you need teacher toolkit capabilities. Triggers on: teacher toolkit, 教案含时间自动分配, 试卷含题型分值分配, 评分量表含5维度, 课程大纲含周次进度, 10种经典课堂活动.",
+  "version": "2.3.0",
+  "author": {
+    "name": "bytesagain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bytesagain/teacher-toolkit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bytesagain/teacher-toolkit"
+}

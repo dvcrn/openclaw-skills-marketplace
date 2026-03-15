@@ -1,0 +1,10 @@
+{
+  "name": "manish-basargekar--clawdbot-macos-build",
+  "description": "Build the Clawdbot macOS menu bar app from source. Use when you need to install the Clawdbot.app companion (for menu bar status, permissions, and Mac hardware access like camera/screen recording). Handles dependency installation, UI build, Swift compilation, code signing, and app packaging automatically.",
+  "version": "1.0.0",
+  "author": {
+    "name": "manish-basargekar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/manish-basargekar/clawdbot-macos-build",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/manish-basargekar/clawdbot-macos-build"
+}

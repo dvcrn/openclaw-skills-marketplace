@@ -1,0 +1,10 @@
+{
+  "name": "kjaylee--game-dev-rust-godot",
+  "description": "Game development workflow using Rust+WASM or Godot 4.x for HTML5 games. Use when creating new games, implementing game mechanics, or porting existing games. Follows TDD-based production pipeline v3.1 with asset-first approach. Covers Rust(Macroquad/Bevy), Godot HTML5 Export, asset acquisition, test case writing, and QA automation. Master directive (2026-02-06) - ONLY Rust+WASM or Godot allowed, JS/TS frameworks prohibited.",
+  "version": "1.0.1",
+  "author": {
+    "name": "kjaylee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kjaylee/game-dev-rust-godot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kjaylee/game-dev-rust-godot"
+}

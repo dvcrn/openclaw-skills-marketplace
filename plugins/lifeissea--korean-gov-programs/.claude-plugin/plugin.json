@@ -1,0 +1,10 @@
+{
+  "name": "lifeissea--korean-gov-programs",
+  "description": "Collect Korean government support programs (TIPS, Small Business, R&D grants) into structured JSONL files. Supports incremental collection with checkpoints.",
+  "version": "1.0.8",
+  "author": {
+    "name": "lifeissea"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lifeissea/korean-gov-programs",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lifeissea/korean-gov-programs"
+}

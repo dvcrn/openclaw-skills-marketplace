@@ -1,0 +1,10 @@
+{
+  "name": "aviclaw--token-budget-monitor",
+  "description": "Track and control token consumption across OpenClaw cron jobs",
+  "version": "1.0.0",
+  "author": {
+    "name": "aviclaw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aviclaw/token-budget-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aviclaw/token-budget-monitor"
+}

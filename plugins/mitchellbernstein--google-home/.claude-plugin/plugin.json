@@ -1,0 +1,10 @@
+{
+  "name": "mitchellbernstein--google-home",
+  "description": "Control Google Nest devices (thermostats, cameras, doorbells) via the Google Smart Device Management API using curl and jq.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mitchellbernstein"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mitchellbernstein/google-home",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mitchellbernstein/google-home"
+}

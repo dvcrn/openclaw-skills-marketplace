@@ -1,0 +1,10 @@
+{
+  "name": "jamierossouw--argus-edge",
+  "description": "Argus-style prediction market edge detection and betting strategy. Computes expected value from TA-implied probability vs market odds, sizes bets via Kelly criterion, and applies freshness/consensus guards. Validated at 77.8% win rate on primary (fresh) Polymarket bets. Use for prediction market betting, EV calculation, Polymarket strategy, or market making.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jamierossouw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/argus-edge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/argus-edge"
+}

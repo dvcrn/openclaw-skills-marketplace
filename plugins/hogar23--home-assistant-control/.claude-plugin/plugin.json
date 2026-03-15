@@ -1,0 +1,10 @@
+{
+  "name": "hogar23--home-assistant-control",
+  "description": "Control and inspect Home Assistant via REST API for entities, states, services, scenes, scripts, and automations. Use when the user asks to turn devices on/off, set values like brightness or temperature, trigger scenes/scripts/automations, or check current home/sensor status.",
+  "version": "1.0.3",
+  "author": {
+    "name": "hogar23"
+  },
+  "homepage": "https://github.com/Hogar23/home-assistant-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hogar23/home-assistant-control"
+}

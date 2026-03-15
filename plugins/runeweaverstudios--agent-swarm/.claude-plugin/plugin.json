@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--agent-swarm",
+  "description": "IMPORTANT: OpenRouter is required. Routes tasks to the right model and always delegates work through sessions_spawn. Rejects prompt-injection patterns in task strings (v1.7.6+).",
+  "version": "1.7.19",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/agent-swarm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/agent-swarm"
+}

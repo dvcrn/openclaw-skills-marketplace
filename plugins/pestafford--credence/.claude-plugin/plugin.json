@@ -1,0 +1,10 @@
+{
+  "name": "pestafford--credence",
+  "description": "Check any MCP server or AI tool against the Credence trust registry before installing it. Scores security, provenance, and behavioral risk on a 0-100 scale.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pestafford"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pestafford/credence",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pestafford/credence"
+}

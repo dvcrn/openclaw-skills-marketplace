@@ -1,0 +1,10 @@
+{
+  "name": "codevanmoose--truncus-email",
+  "description": "Send transactional emails (alerts, reports, receipts, notifications) via the Truncus API. Use when a workflow needs to deliver email to a recipient.",
+  "version": "1.0.0",
+  "author": {
+    "name": "codevanmoose"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codevanmoose/truncus-email",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codevanmoose/truncus-email"
+}

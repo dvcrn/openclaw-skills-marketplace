@@ -1,0 +1,10 @@
+{
+  "name": "fortunto2--solo-pipeline",
+  "description": "Launch automated multi-skill pipeline that chains skills into a loop. Use when user says \"run pipeline\", \"automate research to PRD\", \"full pipeline\", \"research and validate\", \"scaffold to build\", \"loop until done\", or \"chain skills\". Do NOT use for single skills (use the skill directly).",
+  "version": "1.4.0",
+  "author": {
+    "name": "fortunto2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-pipeline",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-pipeline"
+}

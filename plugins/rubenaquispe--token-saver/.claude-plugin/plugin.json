@@ -1,0 +1,10 @@
+{
+  "name": "rubenaquispe--token-saver",
+  "description": "Reduce OpenClaw AI costs with model-aware optimization. Features dynamic compaction presets based on your model's context window, intelligent file compression, and robust model detection with fallback. Supports Claude, GPT-4, Gemini, DeepSeek, and more.",
+  "version": "3.0.0",
+  "author": {
+    "name": "rubenaquispe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rubenaquispe/token-saver",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rubenaquispe/token-saver"
+}

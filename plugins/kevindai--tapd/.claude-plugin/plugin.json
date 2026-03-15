@@ -1,0 +1,10 @@
+{
+  "name": "kevindai--tapd",
+  "description": "当用户需要查询、创建或更新 TAPD 需求、任务、缺陷、评论、工作流、迭代、测试用例、Wiki、工时、发布计划，或发送企业微信通知时使用本 Skill。使用 Python 标准库调用 TAPD 开放 API，不依赖 MCP 或第三方 HTTP 库。",
+  "version": "0.1.2",
+  "author": {
+    "name": "kevindai"
+  },
+  "homepage": "https://www.tapd.cn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kevindai/tapd"
+}

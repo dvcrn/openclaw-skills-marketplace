@@ -1,0 +1,10 @@
+{
+  "name": "adainthelab--skulk-skill-scanner",
+  "description": "Scan OpenClaw skill folders for security red flags before installing or publishing. Detects data exfiltration, credential theft, prompt injection, destructive commands, obfuscation, privilege escalation, and supply chain risks. Use when: evaluating a skill from ClawHub before install, auditing your own skills before publishing, or reviewing any SKILL.md for safety. NOT for: general code review or vulnerability scanning of non-skill codebases.",
+  "version": "1.0.1",
+  "author": {
+    "name": "adainthelab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adainthelab/skulk-skill-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adainthelab/skulk-skill-scanner"
+}

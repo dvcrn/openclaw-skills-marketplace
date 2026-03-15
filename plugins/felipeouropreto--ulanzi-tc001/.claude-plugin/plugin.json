@@ -1,0 +1,10 @@
+{
+  "name": "felipeouropreto--ulanzi-tc001",
+  "description": "Control the Ulanzi TC001 (Pixel Clock) over local HTTP. Use to list tc1/tc001 commands, read status, enable/disable gadgets (time/date/youtube/matrix/etc.), or change settings like brightness, night mode, timezone, switch speed, or scroll speed. Trigger on commands starting with “tc1” or “tc001”.",
+  "version": "1.0.3",
+  "author": {
+    "name": "felipeouropreto"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/felipeouropreto/ulanzi-tc001",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/felipeouropreto/ulanzi-tc001"
+}

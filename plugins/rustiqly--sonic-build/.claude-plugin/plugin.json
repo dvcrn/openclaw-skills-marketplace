@@ -1,0 +1,10 @@
+{
+  "name": "rustiqly--sonic-build",
+  "description": "Build SONiC (Software for Open Networking in the Cloud) switch images from sonic-buildimage. Use when building VS/ASIC images, configuring build parallelism/memory/caching, debugging build failures, managing submodules, cleaning artifacts, or optimizing build performance. Covers all platforms (VS, broadcom, mellanox, marvell, nvidia-bluefield).",
+  "version": "1.1.0",
+  "author": {
+    "name": "rustiqly"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rustiqly/sonic-build",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rustiqly/sonic-build"
+}

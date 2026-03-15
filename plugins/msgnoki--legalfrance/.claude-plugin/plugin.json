@@ -1,0 +1,10 @@
+{
+  "name": "msgnoki--legalfrance",
+  "description": "Assistant juridique français RAG sur codes et lois consolidés (LEGI/DILA). Utiliser pour questions de droit français, recherche d'articles, explication de textes législatifs, synthèse juridique avec citations vérifiables.",
+  "version": "1.0.1",
+  "author": {
+    "name": "msgnoki"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/msgnoki/legalfrance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/msgnoki/legalfrance"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "autoxj--gitcode-pr-audit",
+  "description": "Quality audit for merged GitCode PRs: sample by time range or repo list, check compliance (labels, comments, tests, size, etc.), output table. Use when user asks to 抽检/质量检查 已合入的 PR 规范性、多仓库 PR、或 将结果整理成表格. Multi-repo (owner/repo). Python 3.7+ stdlib only.",
+  "version": "1.0.0",
+  "author": {
+    "name": "autoxj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/autoxj/gitcode-pr-audit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/autoxj/gitcode-pr-audit"
+}

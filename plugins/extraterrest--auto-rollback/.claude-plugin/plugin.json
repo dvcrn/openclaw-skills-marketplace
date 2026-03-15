@@ -1,0 +1,10 @@
+{
+  "name": "extraterrest--auto-rollback",
+  "description": "Backup + timed rollback safety net for openclaw.json changes (macOS launchd)",
+  "version": "1.1.1-alpha.2",
+  "author": {
+    "name": "extraterrest"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/extraterrest/auto-rollback",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/extraterrest/auto-rollback"
+}

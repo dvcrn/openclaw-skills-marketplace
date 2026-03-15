@@ -1,0 +1,10 @@
+{
+  "name": "jgm2025--devialet",
+  "description": "Control Devialet Phantom speakers via HTTP API. Use for: play/pause, volume control, mute/unmute, source selection, and speaker status. Requires DOS 2.14+ firmware. Works with Phantom I, Phantom II, Phantom Reactor, and Dialog.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jgm2025"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jgm2025/devialet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jgm2025/devialet"
+}

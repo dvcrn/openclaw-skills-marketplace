@@ -1,0 +1,10 @@
+{
+  "name": "bro3886--ical-cli",
+  "description": "Manages macOS Calendar events and calendars from the terminal using the ical CLI. Full CRUD for both events and calendars. Supports natural language dates, recurrence rules, alerts, interactive mode, import/export (JSON/CSV/ICS), and multiple output formats. Use when the user wants to interact with Apple Calendar via command line, automate calendar workflows, or build scripts around macOS Calendar.",
+  "version": "0.6.0",
+  "author": {
+    "name": "bro3886"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bro3886/ical-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bro3886/ical-cli"
+}

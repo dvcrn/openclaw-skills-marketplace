@@ -1,0 +1,10 @@
+{
+  "name": "adversa-ai--secureclaw-skill",
+  "description": "Security skill for OpenClaw agents (7-framework aligned). 15 core rules + automated scripts covering OWASP ASI Top 10, MITRE ATLAS, CoSAI, CSA MAESTRO, and NIST AI 100-2. Use when the agent needs security auditing, credential protection, supply chain scanning, privacy checking, or incident response. By Adversa AI (https://adversa.ai). v2.2.0.",
+  "version": "2.2.0",
+  "author": {
+    "name": "adversa-ai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adversa-ai/secureclaw-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adversa-ai/secureclaw-skill"
+}

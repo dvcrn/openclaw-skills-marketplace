@@ -1,0 +1,10 @@
+{
+  "name": "teeclaw--openclaw-social-post",
+  "description": "Post and reply to X/Twitter and Farcaster with text and images. Features multi-account support, dynamic Twitter tier detection (Basic/Premium), auto-variation to avoid duplicate content detection, draft preview, character validation, threads, replies, and image uploads. Consumption-based pricing for X API, pay-per-cast for Farcaster.",
+  "version": "1.5.0",
+  "author": {
+    "name": "teeclaw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/teeclaw/openclaw-social-post",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/teeclaw/openclaw-social-post"
+}

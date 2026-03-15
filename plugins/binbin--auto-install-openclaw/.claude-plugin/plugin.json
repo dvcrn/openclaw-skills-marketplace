@@ -1,0 +1,10 @@
+{
+  "name": "binbin--auto-install-openclaw",
+  "description": "OpenClaw 全自动安装、配置和修复工具。包括：OpenClaw 安装、Claude API 中转站配置、飞书插件集成、bug 自动修复。当用户需要安装、配置或修复 OpenClaw 时使用此技能。",
+  "version": "1.0.0",
+  "author": {
+    "name": "binbin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/binbin/auto-install-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/binbin/auto-install-openclaw"
+}

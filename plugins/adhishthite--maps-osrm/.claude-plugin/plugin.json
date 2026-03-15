@@ -1,0 +1,10 @@
+{
+  "name": "adhishthite--maps-osrm",
+  "description": "Distance, routing, and geocoding using free APIs (OSRM + Nominatim/OSM). Use when the user asks about distance between places, travel time, directions, how far something is, or needs to convert a place name to coordinates. No API key required. Requires python3 (3.6+).",
+  "version": "1.0.3",
+  "author": {
+    "name": "adhishthite"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adhishthite/maps-osrm",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adhishthite/maps-osrm"
+}

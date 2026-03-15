@@ -1,0 +1,10 @@
+{
+  "name": "cassh100k--agentnet",
+  "description": "Agent-to-agent discovery network. Register agents with capability cards, discover peers by skill/domain, perform trust-scored handshakes, and run a FastAPI discovery server. Enables agents to find each other, negotiate, and form teams without human orchestration. Use when building multi-agent systems, agent marketplaces, or peer-to-peer agent collaboration.",
+  "version": "0.1.0",
+  "author": {
+    "name": "cassh100k"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cassh100k/agentnet",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cassh100k/agentnet"
+}

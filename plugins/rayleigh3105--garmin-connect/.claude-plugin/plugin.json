@@ -1,0 +1,10 @@
+{
+  "name": "rayleigh3105--garmin-connect",
+  "description": "Garmin Connect integration for Clawdbot: sync fitness data (steps, HR, calories, workouts, sleep) every 5 minutes using OAuth.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rayleigh3105"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rayleigh3105/garmin-connect",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rayleigh3105/garmin-connect"
+}

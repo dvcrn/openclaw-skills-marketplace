@@ -1,0 +1,10 @@
+{
+  "name": "wqyblue3316--binance-futures-alpha-radar",
+  "description": "Analyze Binance USDT-margined perpetual futures symbols with public futures market data only and return a structured market analysis report with a clear BUY, SELL, or HOLD recommendation without placing orders. Use when the user asks for buy/sell analysis, trade strategy, long/short judgment, setup review, support and resistance analysis, or detailed futures market commentary for symbols like BTC, ETH, SOL on Binance futures, explicitly wants contract data instead of spot data, or wants decisions generated under the repo's system-prompt trading rules.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wqyblue3316"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wqyblue3316/binance-futures-alpha-radar",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wqyblue3316/binance-futures-alpha-radar"
+}

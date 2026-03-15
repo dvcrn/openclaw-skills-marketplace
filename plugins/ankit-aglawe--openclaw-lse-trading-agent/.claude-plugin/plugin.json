@@ -1,0 +1,10 @@
+{
+  "name": "ankit-aglawe--openclaw-lse-trading-agent",
+  "description": "FTSE 350 trading analysis agent. Screens LSE stocks using technical indicators (Bollinger Bands, RSI, MACD, EMA crossovers, ATR, VWAP, OBV), fetches news for LLM sentiment analysis, synthesises signals into trade recommendations with risk management (Kelly sizing, ATR stops, drawdown circuit breakers), and backtests strategies against historical data.",
+  "version": "0.1.1",
+  "author": {
+    "name": "ankit-aglawe"
+  },
+  "homepage": "https://github.com/ankit-aglawe/openclaw-lse-trading-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ankit-aglawe/openclaw-lse-trading-agent"
+}

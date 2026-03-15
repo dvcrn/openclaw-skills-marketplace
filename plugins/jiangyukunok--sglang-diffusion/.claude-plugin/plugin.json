@@ -1,0 +1,10 @@
+{
+  "name": "jiangyukunok--sglang-diffusion",
+  "description": "Generate images using a local SGLang-Diffusion server (FLUX, Stable Diffusion, Qwen-Image, etc.). Use when: user asks to generate, create, draw, or render an image with a locally running SGLang-Diffusion instance. NOT for: cloud-hosted image APIs (use openai-image-gen or nano-banana-pro instead). Requires a running SGLang-Diffusion server.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jiangyukunok"
+  },
+  "homepage": "https://github.com/sgl-project/sglang",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jiangyukunok/sglang-diffusion"
+}

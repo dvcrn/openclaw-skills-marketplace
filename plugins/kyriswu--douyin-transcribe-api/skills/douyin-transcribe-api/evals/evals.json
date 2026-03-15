@@ -1,0 +1,23 @@
+{
+  "skill_name": "douyin-transcribe-api",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Use coze-js-api to transcribe this Douyin video: https://v.douyin.com/gtSMSkIh3p0/ . My api_key is dddd. Give me the exact curl and explain expected errors.",
+      "expected_output": "Constructs correct POST curl with JSON body containing url and api_key, endpoint is transcribe-douyin, and includes troubleshooting notes.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "I copied this from Douyin: 4.12 11/27 YZz:/ E@h.bn AI人工智能\"侦破\"60年前的陈年悬案 https://v.douyin.com/gtSMSkIh3p0/ 复制此链接，打开Dou音搜索，直接观看视频！ Use key dddd and call the API.",
+      "expected_output": "Extracts URL from mixed text, builds valid JSON curl request, and reports result format clearly.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "My transcribe-douyin request keeps failing with exit code 1. Diagnose likely causes and generate a corrected curl using url https://v.douyin.com/xxxx/ and api_key dddd.",
+      "expected_output": "Provides corrected command syntax, identifies common failure reasons, and proposes a concrete next troubleshooting step.",
+      "files": []
+    }
+  ]
+}

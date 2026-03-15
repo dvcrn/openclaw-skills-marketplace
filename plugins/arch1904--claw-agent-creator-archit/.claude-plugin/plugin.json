@@ -1,0 +1,10 @@
+{
+  "name": "arch1904--claw-agent-creator-archit",
+  "description": "Create new OpenClaw agents for Arch's multi-agent system. Use this skill when asked to create, add, or set up a new OpenClaw agent, or when adding an agent to the system defined in ~/.openclaw/. Covers the full lifecycle: directory creation, workspace files (SOUL.md, IDENTITY.md, etc.), openclaw.json config, Telegram routing (bindings + groups + mention patterns), cron job creation with proper prompt engineering, and gateway restart. Includes hard-won lessons from building the Wire (News) agent — the first non-default agent in the system. Also use when modifying existing agent configs, adding cron jobs to agents, or debugging agent routing issues.",
+  "version": "1.0.0",
+  "author": {
+    "name": "arch1904"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arch1904/claw-agent-creator-archit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arch1904/claw-agent-creator-archit"
+}

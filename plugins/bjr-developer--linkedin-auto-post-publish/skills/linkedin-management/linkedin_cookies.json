@@ -1,0 +1,14 @@
+[
+    {
+        "name": "li_at",
+        "value": "YOUR_LI_AT_HERE",
+        "domain": ".www.linkedin.com",
+        "path": "/"
+    },
+    {
+        "name": "JSESSIONID",
+        "value": "ajax:YOUR_JSESSIONID_HERE",
+        "domain": ".www.linkedin.com",
+        "path": "/"
+    }
+]

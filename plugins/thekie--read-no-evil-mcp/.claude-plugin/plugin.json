@@ -1,0 +1,10 @@
+{
+  "name": "thekie--read-no-evil-mcp",
+  "description": "Secure email access via read-no-evil-mcp. Protects against prompt injection attacks in emails. Use for reading, sending, deleting, and moving emails.",
+  "version": "0.3.1",
+  "author": {
+    "name": "thekie"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/thekie/read-no-evil-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/thekie/read-no-evil-mcp"
+}

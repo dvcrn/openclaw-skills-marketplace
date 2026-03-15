@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-consensus-bot--safe-multisig-skill",
+  "description": "Propose, confirm, and execute Safe multisig transactions using the Safe{Core} SDK (protocol-kit v6 / api-kit v4). TypeScript strict. Use when an agent needs to operate a Safe smart account — (1) create/predict a new Safe, (2) fetch Safe owners/threshold/nonce, (3) list pending multisig txs, (4) build + propose a tx, (5) add confirmations, (6) execute a tx onchain, or (7) troubleshoot Safe nonce/signature issues across chains (Base/Ethereum/Optimism/Arbitrum/Polygon/etc.).",
+  "version": "2.1.0",
+  "author": {
+    "name": "openclaw-consensus-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openclaw-consensus-bot/safe-multisig-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openclaw-consensus-bot/safe-multisig-skill"
+}

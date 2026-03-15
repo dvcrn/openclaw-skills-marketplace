@@ -1,0 +1,10 @@
+{
+  "name": "wpank--optimize-lp",
+  "description": "Get the optimal LP strategy for a token pair — recommends version (V2/V3/V4), fee tier, range width, and rebalance approach based on pair characteristics, historical data, and risk tolerance. Use when the user asks how to LP, what range to use, or which version/fee tier is best.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/optimize-lp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/optimize-lp"
+}

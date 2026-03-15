@@ -1,0 +1,10 @@
+{
+  "name": "rodbland2021--claw-recall",
+  "description": "Searchable conversation memory that survives context compaction. Indexes session transcripts into SQLite with full-text and semantic search so your agent can recover context after compaction, search past conversations, and find what other agents discussed. Works across multiple agents (OpenClaw + Claude Code). Also indexes Gmail, Google Drive, and Slack. Self-hosted, open source, no cloud dependency. Use when: recovering lost context, searching conversation history, cross-agent knowledge sharing. NOT for: replacing MEMORY.md or storing secrets.",
+  "version": "2.1.2",
+  "author": {
+    "name": "rodbland2021"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rodbland2021/claw-recall",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rodbland2021/claw-recall"
+}

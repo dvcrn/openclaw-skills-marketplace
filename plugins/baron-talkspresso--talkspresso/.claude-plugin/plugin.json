@@ -1,0 +1,10 @@
+{
+  "name": "baron-talkspresso--talkspresso",
+  "description": "Manage a Talkspresso business (services, appointments, products, clients, earnings, calendar) using the Talkspresso REST API. Use when the user wants to check bookings, create services, manage digital products, view earnings, update their profile, schedule sessions, or do anything related to their Talkspresso account. Requires TALKSPRESSO_API_KEY environment variable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "baron-talkspresso"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/baron-talkspresso/talkspresso",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/baron-talkspresso/talkspresso"
+}

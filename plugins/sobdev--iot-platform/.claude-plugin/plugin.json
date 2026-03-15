@@ -1,0 +1,10 @@
+{
+  "name": "sobdev--iot-platform",
+  "description": "[WIP] Guide to connect to Cloud Studio IoT's OpenClaw platform via MCP API. Use when configuring MCP server connections, sending commands to IoT devices, reading sensor data, or managing channels through the OpenClaw gateway.",
+  "version": "1.0.1",
+  "author": {
+    "name": "sobdev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sobdev/iot-platform",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sobdev/iot-platform"
+}

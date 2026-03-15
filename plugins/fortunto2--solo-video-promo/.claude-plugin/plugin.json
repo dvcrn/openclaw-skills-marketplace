@@ -1,0 +1,10 @@
+{
+  "name": "fortunto2--solo-video-promo",
+  "description": "Generate promo video plan with 30-45s script, shot-by-shot storyboard, and optional Remotion/Montage-tool config. Use when user says \"create video\", \"promo video\", \"video script\", \"storyboard\", \"demo video\", or \"product video plan\". Do NOT use for social media text posts (use /content-gen) or landing page copy (use /landing-gen).",
+  "version": "1.1.1",
+  "author": {
+    "name": "fortunto2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-video-promo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-video-promo"
+}

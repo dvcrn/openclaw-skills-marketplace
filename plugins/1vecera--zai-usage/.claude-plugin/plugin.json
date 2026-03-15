@@ -1,0 +1,10 @@
+{
+  "name": "1vecera--zai-usage",
+  "description": "Monitor Z.AI GLM Coding Plan usage and quota limits. Track token consumption, view reset times, and check subscription status.",
+  "version": "1.1.0",
+  "author": {
+    "name": "1vecera"
+  },
+  "homepage": "https://z.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/1vecera/zai-usage"
+}

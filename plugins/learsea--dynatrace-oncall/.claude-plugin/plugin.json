@@ -1,0 +1,10 @@
+{
+  "name": "learsea--dynatrace-oncall",
+  "description": "Dynatrace 生产故障排查与根因分析。当用户提供 Dynatrace 故障链接（Problem URL 或 Trace URL/ID）并要求排查、分析、定位根因时触发。输出结构化故障报告，包含一句话摘要和详细根因分析。",
+  "version": "1.0.0",
+  "author": {
+    "name": "learsea"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/learsea/dynatrace-oncall",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/learsea/dynatrace-oncall"
+}

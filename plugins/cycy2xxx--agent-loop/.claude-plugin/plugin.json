@@ -1,0 +1,10 @@
+{
+  "name": "cycy2xxx--agent-loop",
+  "description": "Structured Read→Plan→Execute→Verify→Report protocol for any task with side effects. Prevents false \"done\" reports, blind retries, and scope creep. Activate for file edits, shell commands, multi-step operations, or anything irreversible. Skip for pure Q&A. Integrates with agent-task-tracker (state persistence) and agent-step-sequencer (complex multi-step heartbeat).",
+  "version": "1.0.0",
+  "author": {
+    "name": "cycy2xxx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cycy2xxx/agent-loop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cycy2xxx/agent-loop"
+}

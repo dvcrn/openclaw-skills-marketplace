@@ -1,0 +1,10 @@
+{
+  "name": "guohongbin-git--changelog-generator-cn",
+  "description": "自动生成更新日志。分析 git 提交历史，分类变更，将技术提交转换为用户友好的发布说明。触发词：更新日志、changelog、发布说明、版本更新。翻译自 ComposioHQ。",
+  "version": "1.0.0",
+  "author": {
+    "name": "guohongbin-git"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guohongbin-git/changelog-generator-cn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guohongbin-git/changelog-generator-cn"
+}

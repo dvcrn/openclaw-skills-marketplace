@@ -1,0 +1,10 @@
+{
+  "name": "jini92--expo-appstore-deploy",
+  "description": "Deploy Expo/React Native apps to Apple App Store and Google Play Store using EAS Build + Submit. Use when building iOS/Android production builds, submitting to app stores, managing certificates/provisioning profiles, or troubleshooting EAS build failures. Triggers on app store deploy, EAS build, production build, submit to store.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jini92"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jini92/expo-appstore-deploy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jini92/expo-appstore-deploy"
+}

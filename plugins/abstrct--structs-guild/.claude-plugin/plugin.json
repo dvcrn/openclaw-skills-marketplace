@@ -1,0 +1,10 @@
+{
+  "name": "abstrct--structs-guild",
+  "description": "Manages guild operations in Structs. Covers creation, membership, settings, and Central Bank token operations. Use when creating a guild, joining or leaving a guild, managing guild settings, minting or redeeming guild tokens, managing Central Bank collateral, or coordinating guild membership.",
+  "version": "1.1.0",
+  "author": {
+    "name": "abstrct"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/abstrct/structs-guild",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/abstrct/structs-guild"
+}

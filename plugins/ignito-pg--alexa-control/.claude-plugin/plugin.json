@@ -1,0 +1,10 @@
+{
+  "name": "ignito-pg--alexa-control",
+  "description": "Control Alexa devices via CLI - set alarms, play music, flash briefings, smart home commands. Use when asked to set an alarm, play something on Echo, control smart home devices, or send voice commands to Alexa.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ignito-pg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ignito-pg/alexa-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ignito-pg/alexa-control"
+}

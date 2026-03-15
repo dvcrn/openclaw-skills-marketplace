@@ -1,0 +1,10 @@
+{
+  "name": "hazy2go--content-research",
+  "description": "Research trending topics and generate platform-specific content. Triggers on \"research [topic]\", \"what's new in [topic]\", \"content for [platform]\", \"create posts about [topic]\". Supports Reddit, X/Twitter, Discord, LinkedIn with multiple content angles per platform.",
+  "version": "1.1.0",
+  "author": {
+    "name": "hazy2go"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hazy2go/content-research",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hazy2go/content-research"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "yikailucas--redbook-browser-ops",
+  "description": "Publish and manage Xiaohongshu (RED/小红书) content via browser automation with confirm-before-publish safety. Trigger when users say things like “发小红书/发笔记/保存草稿/立即发布/回复评论/看数据”, including image posts and no-image longform notes on creator.xiaohongshu.com.",
+  "version": "0.1.1",
+  "author": {
+    "name": "yikailucas"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yikailucas/redbook-browser-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yikailucas/redbook-browser-ops"
+}

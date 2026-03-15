@@ -1,0 +1,10 @@
+{
+  "name": "boyangwang--lark-integration",
+  "description": "Connect Lark (Feishu) messaging to OpenClaw via webhook bridge. Supports text, rich text (post), and image messages bidirectionally. Use when setting up Lark/Feishu as a messaging channel, receiving messages with images, sending replies back to Lark, reading Lark documents/wikis/bitables, or troubleshooting Lark integration issues. Covers both Lark International (larksuite.com) and China Feishu (feishu.cn).",
+  "version": "1.0.0",
+  "author": {
+    "name": "boyangwang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/boyangwang/lark-integration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/boyangwang/lark-integration"
+}

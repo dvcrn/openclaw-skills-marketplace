@@ -1,0 +1,10 @@
+{
+  "name": "nalg--telegram-ascii-table",
+  "description": "Format tabular data as ASCII box tables for Telegram. Stdin-only input eliminates shell injection risks. Handles smart column sizing, text wrapping, and proper padding for monospace display.",
+  "version": "1.1.0",
+  "author": {
+    "name": "nalg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nalg/telegram-ascii-table",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nalg/telegram-ascii-table"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ingress007--aria2-download",
+  "description": "通过 Aria2 RPC 添加下载任务，支持实时进度监控。",
+  "version": "1.0.0",
+  "author": {
+    "name": "ingress007"
+  },
+  "homepage": "https://github.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ingress007/aria2-download"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "katherineedwards2475--rdk-x5-system",
+  "description": "修改和管理 RDK X5 系统配置：查看系统版本/硬件信息/系统日志、rdk-backup 一键备份与恢复、apt OTA 升级、miniboot 固件更新、CPU/BPU 频率调节与温度阈值设置、config.txt 配置修改、实时内核切换、systemd 开机自启动、存储扩容。Use when the user wants to CHANGE system settings, backup/restore, upgrade firmware, adjust CPU/BPU frequency, configure autostart services, switch RT kernel, expand storage, check system version, or view system logs. For read-only hardware status queries (CPU/BPU/温度/内存/磁盘 实时查看) → use rdk-x5-monitor instead. Do NOT use for network config (use rdk-x5-network), camera (use rdk-x5-camera), AI inference (use rdk-x5-ai-detect), NAS setup, Docker/容器, or custom application development.",
+  "version": "1.0.0",
+  "author": {
+    "name": "katherineedwards2475"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/katherineedwards2475/rdk-x5-system",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/katherineedwards2475/rdk-x5-system"
+}

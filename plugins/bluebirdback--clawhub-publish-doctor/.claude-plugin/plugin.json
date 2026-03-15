@@ -1,0 +1,10 @@
+{
+  "name": "bluebirdback--clawhub-publish-doctor",
+  "description": "Diagnose and mitigate ClawHub/ClawDHUB publish failures (auth, browser-login, missing dependencies, pending security-scan visibility errors, and wrong profile/skill URLs). Use when publishing skills to ClawHub fails, inspect reports temporary errors, or you need a safer publish+verify workflow with retries.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bluebirdback"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bluebirdback/clawhub-publish-doctor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bluebirdback/clawhub-publish-doctor"
+}

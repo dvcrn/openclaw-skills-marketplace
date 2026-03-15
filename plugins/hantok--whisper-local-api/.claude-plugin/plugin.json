@@ -1,0 +1,10 @@
+{
+  "name": "hantok--whisper-local-api",
+  "description": "Secure, offline, OpenAI-compatible local Whisper ASR endpoint for OpenClaw. Features faster-whisper (large-v3-turbo), built-in privacy with no cloud telemetry, low-RAM usage footprint, and high-accuracy speech-to-text transcription. Perfect for safe and private AI agent voice commands.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hantok"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hantok/whisper-local-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hantok/whisper-local-api"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "infoquest-byteplus--byted-infoquest-search",
+  "description": "AI-optimized web search and content extraction via BytePlus InfoQuest API. Returns concise, relevant results for AI agents with time filtering and site-specific search. Get API key from https://console.byteplus.com/infoquest/infoquests",
+  "version": "1.0.1",
+  "author": {
+    "name": "infoquest-byteplus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/infoquest-byteplus/byted-infoquest-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/infoquest-byteplus/byted-infoquest-search"
+}

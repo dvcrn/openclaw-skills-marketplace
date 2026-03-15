@@ -1,0 +1,10 @@
+{
+  "name": "nezaboravi--postavel",
+  "description": "Connect to Postavel social media management platform via MCP (Model Context Protocol). Create, schedule, and manage social media posts across Facebook, Instagram, and LinkedIn. Use when the user wants to manage social media content, create posts, schedule content, view their content calendar, or interact with their Postavel account through natural language. Activate when user mentions \"Postavel\", \"social media\", \"schedule post\", \"create post\", \"content calendar\", or wants to post to Facebook, Instagram, or LinkedIn via their Postavel account.",
+  "version": "1.5.0",
+  "author": {
+    "name": "nezaboravi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nezaboravi/postavel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nezaboravi/postavel"
+}

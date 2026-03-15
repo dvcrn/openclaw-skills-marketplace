@@ -1,0 +1,10 @@
+{
+  "name": "autoxj--deepwiki-ask",
+  "description": "通过 DeepWiki MCP 对仓库单次提问。Query a repository with a single question via DeepWiki. 用户提供 owner/repo 和问题时触发。",
+  "version": "1.0.0",
+  "author": {
+    "name": "autoxj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/autoxj/deepwiki-ask",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/autoxj/deepwiki-ask"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "huamu668--self-improving-agent-ecc",
+  "description": "Instinct-based continuous learning system. Captures atomic learnings (instincts) with confidence scoring, supports project-scoped vs global scope, and evolves instincts into skills/commands/agents. Use when: (1) A command fails, (2) User corrects you, (3) Discovering patterns, (4) Need to review or evolve learned behaviors. Supports both v1 (markdown-based) and v2 (instinct-based) modes.",
+  "version": "2.1.0",
+  "author": {
+    "name": "huamu668"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/huamu668/self-improving-agent-ecc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/huamu668/self-improving-agent-ecc"
+}

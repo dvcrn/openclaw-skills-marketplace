@@ -1,0 +1,10 @@
+{
+  "name": "wanng-ide--api-tester",
+  "description": "Perform structured HTTP/HTTPS requests (GET, POST, PUT, DELETE) with custom headers and JSON body support. Use for API testing, health checks, or interacting with REST services programmatically without relying on curl.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wanng-ide"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/api-tester",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wanng-ide/api-tester"
+}

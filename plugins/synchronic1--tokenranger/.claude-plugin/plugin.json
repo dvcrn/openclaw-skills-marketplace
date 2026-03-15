@@ -1,0 +1,10 @@
+{
+  "name": "synchronic1--tokenranger",
+  "description": "Install, configure, and operate the TokenRanger OpenClaw plugin. Use when you want to reduce cloud LLM token costs by 50-80% via local Ollama context compression, or when diagnosing TokenRanger sidecar issues.",
+  "version": "1.0.0",
+  "author": {
+    "name": "synchronic1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/synchronic1/tokenranger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/synchronic1/tokenranger"
+}

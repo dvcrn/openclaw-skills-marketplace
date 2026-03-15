@@ -1,0 +1,10 @@
+{
+  "name": "anmolnagpal--secrets-scanner",
+  "description": "Detect hardcoded secrets, exposed API keys, and credential misconfigurations in IaC and config files",
+  "version": "1.0.0",
+  "author": {
+    "name": "anmolnagpal"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/secrets-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anmolnagpal/secrets-scanner"
+}

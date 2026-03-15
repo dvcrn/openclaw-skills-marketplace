@@ -1,0 +1,10 @@
+{
+  "name": "wpank--article-illustrator",
+  "description": "When the user wants to add illustrations to an article or blog post. Triggers on: \"illustrate article\", \"add images to article\", \"generate illustrations\", \"article images\", or requests to visually enhance written content. Analyzes article structure, identifies positions for visual aids, and generates illustrations using a Type x Style two-dimension approach.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/article-illustrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/article-illustrator"
+}

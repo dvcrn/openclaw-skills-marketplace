@@ -1,0 +1,10 @@
+{
+  "name": "brennerspear--flights-search",
+  "description": "Search flights via Google Flights. Find nonstop/connecting flights, filter by time and cabin class, get booking links. Supports city names (NYC, London, Tokyo) with automatic multi-airport search. No API key required.",
+  "version": "1.2.0",
+  "author": {
+    "name": "brennerspear"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/brennerspear/flights-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/brennerspear/flights-search"
+}

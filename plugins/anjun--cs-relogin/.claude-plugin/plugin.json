@@ -1,0 +1,10 @@
+{
+  "name": "anjun--cs-relogin",
+  "description": "Fast OpenAI Codex account switch for OpenClaw via the local cs command. Use when user sends `cs relogin`, asks to re-login or switch ChatGPT Codex account, or pastes OAuth callback URL/code to complete login.",
+  "version": "1.1.2",
+  "author": {
+    "name": "anjun"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anjun/cs-relogin",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anjun/cs-relogin"
+}

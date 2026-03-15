@@ -1,0 +1,10 @@
+{
+  "name": "hhse--openclaw-backupgg",
+  "description": "一键备份 OpenClaw 工作区，支持必选/可选内容，生成 ZIP 压缩包（含 SHA256 校验）",
+  "version": "1.0.1",
+  "author": {
+    "name": "hhse"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hhse/openclaw-backupgg",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hhse/openclaw-backupgg"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "tormine--oneshot-agent",
+  "description": "OneShot SDK for AI agent commercial transactions. Send emails, make calls, research, buy products, and more with automatic x402 payments.\n Use this skill when agents need to execute real-world actions: email, voice, SMS, research, commerce, or data enrichment.\n Requires ONESHOT_WALLET_PRIVATE_KEY environment variable (agent's wallet private key for signing payments).",
+  "version": "1.1.0",
+  "author": {
+    "name": "tormine"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tormine/oneshot-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tormine/oneshot-agent"
+}

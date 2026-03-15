@@ -1,0 +1,10 @@
+{
+  "name": "tinkle-community--claw402",
+  "description": "Professional market data and AI APIs via x402 micropayments — no API key, no signup, no subscription. Pay per call with USDC on Base. 215+ endpoints across 12 provider groups: crypto market data (CoinAnk derivatives analytics, nofxos.ai AI signals, CoinMarketCap quotes/listings/DEX/MCP), US stocks & options (Alpaca, Polygon, Alpha Vantage), China A-shares (Tushare), forex & global time-series (Twelve Data), and AI inference (GPT-4o, Claude, DeepSeek V3/Reasoner, Qwen3-Max/Plus/Turbo/Flash/Coder/VL, embeddings, DALL-E). One wallet, instant access to any paid API — no registration ever required.",
+  "version": "1.3.0",
+  "author": {
+    "name": "tinkle-community"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tinkle-community/claw402",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tinkle-community/claw402"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sakullla--quotly-style-sticker",
+  "description": "Generate QuotLy-style stickers from forwarded messages and return one MEDIA path for auto-send. Use when users ask to create quote stickers from selected forwarded messages or quoted messages in groups.",
+  "version": "1.4.3",
+  "author": {
+    "name": "sakullla"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sakullla/quotly-style-sticker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sakullla/quotly-style-sticker"
+}

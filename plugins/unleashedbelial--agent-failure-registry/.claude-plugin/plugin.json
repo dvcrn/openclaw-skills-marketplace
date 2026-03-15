@@ -1,0 +1,10 @@
+{
+  "name": "unleashedbelial--agent-failure-registry",
+  "description": "Search the Agent Failure Registry for known agent failures, solutions, and lessons learned. Use when encountering errors, debugging issues, or wanting to learn from other agents' documented post-mortems. Also supports submitting new failure post-mortems via GitHub PR.",
+  "version": "0.1.0",
+  "author": {
+    "name": "unleashedbelial"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/unleashedbelial/agent-failure-registry",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/unleashedbelial/agent-failure-registry"
+}

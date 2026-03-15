@@ -1,0 +1,10 @@
+{
+  "name": "gchapim--ecto-migrator",
+  "description": "Generate Ecto migrations from natural language or schema descriptions. Handles tables, columns, indexes, constraints, references, enums, and partitioning. Supports reversible migrations, data migrations, and multi-tenant patterns. Use when creating or modifying database schemas, adding indexes, altering tables, creating enums, or performing data migrations in an Elixir project.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gchapim"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gchapim/ecto-migrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gchapim/ecto-migrator"
+}

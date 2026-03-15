@@ -1,0 +1,19 @@
+{
+  "name": "feishu-task-status",
+  "version": "1.0.1",
+  "description": "Provide clear Feishu task acknowledgement, status checks, blocker notes, and completion handoff for long-running work.",
+  "author": "Dawei",
+  "metadata": {
+    "tags": [
+      "feishu",
+      "task-status",
+      "progress",
+      "subagents",
+      "heartbeat"
+    ],
+    "categories": [
+      "Productivity",
+      "Communication"
+    ]
+  }
+}

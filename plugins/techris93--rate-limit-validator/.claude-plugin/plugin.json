@@ -1,0 +1,10 @@
+{
+  "name": "techris93--rate-limit-validator",
+  "description": "Test whether an HTTP endpoint enforces rate limiting. Sends a burst of requests and checks for 429 responses, Retry-After, and X-RateLimit headers. Useful for validating gateway and API throttling before going to production.",
+  "version": "1.0.0",
+  "author": {
+    "name": "techris93"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/techris93/rate-limit-validator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/techris93/rate-limit-validator"
+}

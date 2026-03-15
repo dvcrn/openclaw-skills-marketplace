@@ -1,0 +1,10 @@
+{
+  "name": "0xnuminous--letterboxd-watchlist",
+  "description": "Scrape a public Letterboxd user's watchlist into a CSV/JSONL list of titles and film URLs without logging in. Use when a user asks to export, scrape, or mirror a Letterboxd watchlist, or to build watch-next queues.",
+  "version": "0.1.2",
+  "author": {
+    "name": "0xnuminous"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xnuminous/letterboxd-watchlist",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xnuminous/letterboxd-watchlist"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jamierossouw--hourly-momentum-trader",
+  "description": "Momentum-based trading agent for hourly crypto candles. Uses RSI, MACD, OBV, EMA, and Bollinger Band confluence to score directional momentum from -10 to +10. Optimized for Polymarket hourly binary markets and short-term spot/perp entries. Use when you need hourly candle signals, momentum scoring, short-term crypto direction, or Polymarket hourly market edge detection.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jamierossouw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/hourly-momentum-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jamierossouw/hourly-momentum-trader"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "openlang-cn--skills-cli",
+  "description": "High-level helper for managing agent skills using the ClawHub CLI and local skill folders. Use when the user wants to search, install, update, publish, or organize skills via command-line tooling (clawhub) and structured skill directories.",
+  "version": "1.0.2",
+  "author": {
+    "name": "openlang-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/skills-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/openlang-cn/skills-cli"
+}

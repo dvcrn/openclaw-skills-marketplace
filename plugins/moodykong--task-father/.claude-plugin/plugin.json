@@ -1,0 +1,10 @@
+{
+  "name": "moodykong--task-father",
+  "description": "Generator for file-based task state machines (registry + task folders + lifecycle state + queue files + cron specs/jobs) for long-running work.",
+  "version": "0.1.0",
+  "author": {
+    "name": "moodykong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moodykong/task-father",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moodykong/task-father"
+}

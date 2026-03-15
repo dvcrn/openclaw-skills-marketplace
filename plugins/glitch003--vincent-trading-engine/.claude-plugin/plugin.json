@@ -1,0 +1,10 @@
+{
+  "name": "glitch003--vincent-trading-engine",
+  "description": "Strategy-driven automated trading for Polymarket and HyperLiquid. Use this skill when users want to create\n trading strategies, set stop-loss/take-profit/trailing stop rules, or manage automated trading.\n Triggers on \"trading strategy\", \"stop loss\", \"take profit\", \"trailing stop\", \"automated trading\",\n \"trading engine\", \"trade rules\", \"strategy monitor\".",
+  "version": "1.0.69",
+  "author": {
+    "name": "glitch003"
+  },
+  "homepage": "https://heyvincent.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/glitch003/vincent-trading-engine"
+}

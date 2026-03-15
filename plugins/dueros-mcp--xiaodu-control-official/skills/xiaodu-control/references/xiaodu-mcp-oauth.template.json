@@ -1,0 +1,20 @@
+{
+  "token_endpoint": "https://openapi.baidu.com/oauth/2.0/token",
+  "client_id": "替换成你的AppKey",
+  "client_secret": "替换成你的SecretKey",
+  "refresh_token": "替换成你当前最新的refresh_token",
+  "scope": "basic dueros",
+  "mcporter_config": "~/.mcporter/mcporter.json",
+  "targets": [
+    {
+      "server": "xiaodu",
+      "container": "headers",
+      "key": "ACCESS_TOKEN"
+    },
+    {
+      "server": "xiaodu-iot",
+      "container": "env",
+      "key": "ACCESS_TOKEN"
+    }
+  ]
+}

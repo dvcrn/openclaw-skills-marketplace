@@ -1,0 +1,10 @@
+{
+  "name": "eyhn--steel-browser",
+  "description": "Control cloud browser sessions via Steel.dev for web automation and computer-use agents. Use when you need to browse the web, fill forms, click elements, take screenshots, scrape content, or build browser automation loops. Uses Playwright selectors (CSS/text/aria) instead of pixel coordinates — more reliable than e2b-desktop for pure web tasks. Supports residential proxies and CAPTCHA solving.",
+  "version": "1.0.0",
+  "author": {
+    "name": "eyhn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/eyhn/steel-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eyhn/steel-browser"
+}

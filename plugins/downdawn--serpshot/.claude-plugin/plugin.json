@@ -1,0 +1,10 @@
+{
+  "name": "downdawn--serpshot",
+  "description": "Use Serpshot Google Search API to perform web searches and image searches. Use when user needs to search Google for information, research topics, or get search results. Supports up to 100 queries per request, various locations and languages.",
+  "version": "1.0.0",
+  "author": {
+    "name": "downdawn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/downdawn/serpshot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/downdawn/serpshot"
+}

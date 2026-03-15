@@ -1,0 +1,10 @@
+{
+  "name": "hkall--easy-search",
+  "description": "Simple web search using multiple search engines with no API key required. Supports Google, Bing, DuckDuckGo, Baidu, Sogou, 360, Brave, Yandex. Features time filtering, interactive mode, snippet extraction, and network diagnostics.",
+  "version": "1.0.1",
+  "author": {
+    "name": "hkall"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hkall/easy-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hkall/easy-search"
+}

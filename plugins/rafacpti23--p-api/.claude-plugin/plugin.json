@@ -1,0 +1,10 @@
+{
+  "name": "rafacpti23--p-api",
+  "description": "Integration with P-API for WhatsApp automation. Use to send messages (text, image, video, audio, documents), interactive messages (buttons, lists, carousel, polls), manage WhatsApp instances, groups, product catalogs and webhooks. Triggers: whatsapp, papi, p-api, send whatsapp message, create instance, QR code, whatsapp buttons, whatsapp list, carousel, poll.",
+  "version": "1.2.1",
+  "author": {
+    "name": "rafacpti23"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rafacpti23/p-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rafacpti23/p-api"
+}

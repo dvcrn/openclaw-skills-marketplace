@@ -1,0 +1,10 @@
+{
+  "name": "oloapiu--airshell",
+  "description": "Agent playbook for the AirShell open-source air quality sensor (github.com/oloapiu/airshell).\n Gives your agent domain knowledge about CO₂, PM2.5, temperature, and humidity — and a setup\n flow to connect a Sensirion SEN63C + Raspberry Pi sensor to your agent via webhook.\n The sensor wakes the agent when air quality needs attention. The agent decides whether to tell you.",
+  "version": "1.1.1",
+  "author": {
+    "name": "oloapiu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/oloapiu/airshell",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/oloapiu/airshell"
+}

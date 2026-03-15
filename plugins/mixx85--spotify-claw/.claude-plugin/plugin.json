@@ -1,0 +1,10 @@
+{
+  "name": "mixx85--spotify-claw",
+  "description": "Full Spotify Premium control + music analysis. Playback: play/pause/next/prev/volume/shuffle/queue. Analysis: top tracks, top artists, liked songs, genre profile, taste breakdown. Discovery: find similar artists & music without Recommendations API. Playlist builder: make-playlist, liked-by-artist, discover. Auto-launches Spotify if closed. Credentials via macOS Keychain. Triggers: play music, pause, next track, what's playing, top tracks, playlist, genres, similar music, open spotify.",
+  "version": "1.1.0",
+  "author": {
+    "name": "mixx85"
+  },
+  "homepage": "https://github.com/mixx85/spotify-claw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mixx85/spotify-claw"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "staticai--android-adb",
+  "description": "Control Android devices via ADB with support for UI layout analysis (uiautomator) and visual feedback (screencap). Use when you need to interact with Android apps, perform UI automation, take screenshots, or run complex ADB command sequences.",
+  "version": "1.0.0",
+  "author": {
+    "name": "staticai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/staticai/android-adb",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/staticai/android-adb"
+}

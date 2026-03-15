@@ -1,0 +1,10 @@
+{
+  "name": "martc03--gov-cybersecurity",
+  "description": "CVE vulnerability lookup via NIST NVD, CISA KEV, EPSS scores, and MITRE ATT&CK. 7 tools for real-time cybersecurity intelligence.",
+  "version": "1.0.0",
+  "author": {
+    "name": "martc03"
+  },
+  "homepage": "https://github.com/martc03/gov-mcp-servers",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/martc03/gov-cybersecurity"
+}

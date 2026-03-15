@@ -1,0 +1,10 @@
+{
+  "name": "lucas-309--drip-openclaw-billing",
+  "description": "Track AI agent usage and costs with Drip metered billing. Use when integrating @drip-sdk/node for usage metrics (`trackUsage`), run events (`recordRun`, `startRun`, `emitEvent`, `endRun`), and framework auto-tracking (LangChain callbacks, middleware). Send sanitized metadata only, never raw prompts/outputs/PII/secrets, and prefer least-privilege `pk_` keys.",
+  "version": "1.0.6",
+  "author": {
+    "name": "lucas-309"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lucas-309/drip-openclaw-billing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lucas-309/drip-openclaw-billing"
+}

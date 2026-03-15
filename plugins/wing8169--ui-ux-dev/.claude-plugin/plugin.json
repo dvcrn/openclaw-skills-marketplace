@@ -1,0 +1,10 @@
+{
+  "name": "wing8169--ui-ux-dev",
+  "description": "Generate and serve live HTML/CSS/JS UI designs from natural language prompts. Use when the user asks to design, create, build, or prototype a website, landing page, UI, dashboard, web page, or frontend mockup. Also triggers on requests to update, tweak, or iterate on a previously generated design. Replaces traditional UI design + frontend dev workflow.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wing8169"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wing8169/ui-ux-dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wing8169/ui-ux-dev"
+}

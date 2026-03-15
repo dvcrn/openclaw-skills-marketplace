@@ -1,0 +1,380 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-03-04T00:00:00Z",
+  "author": "Vext Labs Inc.",
+  "categories": {
+    "prompt_injection": {
+      "name": "Prompt Injection",
+      "description": "Attempts to override agent instructions, change persona, or bypass safety rules",
+      "severity_default": "critical",
+      "subcategories": {
+        "direct": {
+          "description": "Direct instruction override attempts",
+          "patterns": [
+            {"id": "PI-001", "pattern": "ignore\\s+(all\\s+)?previous\\s+instructions", "pattern_type": "regex", "name": "Instruction override", "description": "Direct attempt to override agent instructions"},
+            {"id": "PI-002", "pattern": "disregard\\s+(all\\s+)?(your\\s+)?instructions", "pattern_type": "regex", "name": "Instruction disregard", "description": "Tells agent to disregard its instructions"},
+            {"id": "PI-003", "pattern": "you\\s+are\\s+now\\s+(?:a|an|in|the)", "pattern_type": "regex", "name": "Persona override", "description": "Attempts to change agent persona"},
+            {"id": "PI-004", "pattern": "new\\s+system\\s+prompt", "pattern_type": "regex", "name": "System prompt injection", "description": "Attempts to set a new system prompt"},
+            {"id": "PI-005", "pattern": "override\\s+safety", "pattern_type": "regex", "name": "Safety override", "description": "Direct attempt to override safety rules"},
+            {"id": "PI-006", "pattern": "jailbreak", "pattern_type": "literal", "name": "Jailbreak keyword", "description": "Explicit jailbreak reference"},
+            {"id": "PI-007", "pattern": "DAN\\s+mode", "pattern_type": "regex", "name": "DAN mode activation", "description": "Attempts to activate Do Anything Now mode"},
+            {"id": "PI-008", "pattern": "developer\\s+mode\\s+enabled", "pattern_type": "regex", "name": "Developer mode", "description": "Claims developer mode is enabled"},
+            {"id": "PI-009", "pattern": "forget\\s+(all\\s+)?(your\\s+)?previous", "pattern_type": "regex", "name": "Memory wipe", "description": "Tells agent to forget previous context"},
+            {"id": "PI-010", "pattern": "pretend\\s+(you\\s+are|to\\s+be|you're)", "pattern_type": "regex", "name": "Pretend command", "description": "Tells agent to pretend to be something else"},
+            {"id": "PI-011", "pattern": "act\\s+as\\s+(if|though|a|an)", "pattern_type": "regex", "name": "Act as command", "description": "Tells agent to act as a different entity"},
+            {"id": "PI-012", "pattern": "from\\s+now\\s+on,?\\s+you", "pattern_type": "regex", "name": "Behavioral override", "description": "Attempts to permanently change agent behavior"},
+            {"id": "PI-013", "pattern": "do\\s+not\\s+follow\\s+(your|any|the)\\s+(rules|instructions|guidelines)", "pattern_type": "regex", "name": "Rule bypass", "description": "Tells agent to stop following rules"},
+            {"id": "PI-014", "pattern": "bypass\\s+(all\\s+)?(security|safety|restriction|filter|content)", "pattern_type": "regex", "name": "Bypass command", "description": "Direct bypass instruction"},
+            {"id": "PI-015", "pattern": "disable\\s+(all\\s+)?(security|safety|restriction|filter|guardrail)", "pattern_type": "regex", "name": "Disable safety", "description": "Attempts to disable safety features"},
+            {"id": "PI-016", "pattern": "no\\s+restrictions", "pattern_type": "regex", "name": "Remove restrictions", "description": "Claims there are no restrictions"},
+            {"id": "PI-017", "pattern": "without\\s+(any\\s+)?restrictions", "pattern_type": "regex", "name": "Unrestricted mode", "description": "Requests unrestricted operation"},
+            {"id": "PI-018", "pattern": "ignore\\s+(the\\s+)?safety", "pattern_type": "regex", "name": "Ignore safety", "description": "Tells agent to ignore safety measures"},
+            {"id": "PI-019", "pattern": "roleplay\\s+as\\s+(?:a|an)?\\s*(?:evil|malicious|unrestricted)", "pattern_type": "regex", "name": "Evil roleplay", "description": "Attempts to get agent to roleplay maliciously"},
+            {"id": "PI-020", "pattern": "you\\s+have\\s+been\\s+(?:freed|released|liberated|unchained)", "pattern_type": "regex", "name": "Freedom claim", "description": "Claims agent has been freed from restrictions"},
+            {"id": "PI-021", "pattern": "enter\\s+(?:god|admin|root|superuser)\\s+mode", "pattern_type": "regex", "name": "Privileged mode", "description": "Attempts to activate a privileged mode"},
+            {"id": "PI-022", "pattern": "maintenance\\s+mode\\s*[:=]?\\s*(?:on|true|enabled|active)", "pattern_type": "regex", "name": "Maintenance mode", "description": "Claims maintenance mode is active"},
+            {"id": "PI-023", "pattern": "(?:training|debug|test)\\s+mode\\s*[:=]?\\s*(?:on|true|enabled)", "pattern_type": "regex", "name": "Debug/training mode", "description": "Claims debug or training mode is active"},
+            {"id": "PI-024", "pattern": "you\\s+(?:can|must|should|will)\\s+now\\s+(?:do|execute|perform)\\s+anything", "pattern_type": "regex", "name": "Capability expansion", "description": "Claims agent can now do anything"},
+            {"id": "PI-025", "pattern": "your\\s+(?:new|updated|real)\\s+(?:instructions|rules|purpose)", "pattern_type": "regex", "name": "Replacement instructions", "description": "Provides replacement instructions"}
+          ]
+        },
+        "encoded": {
+          "description": "Injection attempts hidden via encoding",
+          "patterns": [
+            {"id": "PI-030", "pattern": "base64\\s*[:=]", "pattern_type": "regex", "name": "Base64 label", "description": "Labels content as base64-encoded"},
+            {"id": "PI-031", "pattern": "atob\\s*\\(", "pattern_type": "regex", "name": "JS base64 decode", "description": "JavaScript base64 decode function"},
+            {"id": "PI-032", "pattern": "base64\\.b64decode", "pattern_type": "regex", "name": "Python base64 decode", "description": "Python base64 decode call"},
+            {"id": "PI-033", "pattern": "decode\\s*\\(\\s*['\"]base64['\"]\\s*\\)", "pattern_type": "regex", "name": "Decode base64 call", "description": "Generic base64 decode call"},
+            {"id": "PI-034", "pattern": "rot13", "pattern_type": "literal", "name": "ROT13 reference", "description": "Reference to ROT13 encoding"},
+            {"id": "PI-035", "pattern": "codecs\\.decode\\(.+rot.?13", "pattern_type": "regex", "name": "Python ROT13 decode", "description": "Python ROT13 decode call"},
+            {"id": "PI-036", "pattern": "String\\.fromCharCode", "pattern_type": "literal", "name": "JS char code construction", "description": "JavaScript character code construction"},
+            {"id": "PI-037", "pattern": "chr\\s*\\(\\s*\\d+\\s*\\)", "pattern_type": "regex", "name": "Python chr construction", "description": "Python character construction from code points"},
+            {"id": "PI-038", "pattern": "\\\\u[0-9a-fA-F]{4}", "pattern_type": "regex", "name": "Unicode escape sequence", "description": "Unicode escape sequence that may hide content"},
+            {"id": "PI-039", "pattern": "\\\\x[0-9a-fA-F]{2}", "pattern_type": "regex", "name": "Hex escape sequence", "description": "Hex escape sequence that may hide content"},
+            {"id": "PI-040", "pattern": "<!--.*(?:ignore|override|system|execute).*-->", "pattern_type": "regex", "name": "HTML comment injection", "description": "Injection hidden in HTML comments"},
+            {"id": "PI-041", "pattern": "\\[//\\]:\\s*#", "pattern_type": "regex", "name": "Markdown comment injection", "description": "Injection hidden in markdown comments"},
+            {"id": "PI-042", "pattern": "\\{%.*(?:ignore|override|system|execute).*%\\}", "pattern_type": "regex", "name": "Template tag injection", "description": "Injection in template tags"},
+            {"id": "PI-043", "pattern": "<\\s*(?:span|div|p)\\s+style\\s*=\\s*['\"].*(?:font-size:\\s*0|display:\\s*none|color:\\s*(?:white|transparent))", "pattern_type": "regex", "name": "Hidden HTML text", "description": "Text hidden via CSS in HTML"},
+            {"id": "PI-044", "pattern": "data:[^;]+;base64,", "pattern_type": "regex", "name": "Data URI with base64", "description": "Base64-encoded data URI that may hide instructions"}
+          ]
+        },
+        "indirect": {
+          "description": "Injection via processed content (documents, web pages, emails)",
+          "patterns": [
+            {"id": "PI-050", "pattern": "(?:when|if)\\s+you\\s+(?:see|read|process|encounter)\\s+this", "pattern_type": "regex", "name": "Conditional trigger", "description": "Content-triggered instruction"},
+            {"id": "PI-051", "pattern": "AI\\s+assistant\\s*[:!]\\s*please", "pattern_type": "regex", "name": "AI assistant address", "description": "Directly addresses AI assistant in processed content"},
+            {"id": "PI-052", "pattern": "IMPORTANT\\s+SYSTEM\\s+MESSAGE", "pattern_type": "regex", "name": "Fake system message", "description": "Attempts to impersonate a system message"},
+            {"id": "PI-053", "pattern": "ADMIN\\s+OVERRIDE", "pattern_type": "regex", "name": "Fake admin override", "description": "Attempts to impersonate admin authority"},
+            {"id": "PI-054", "pattern": "\\[SYSTEM\\]", "pattern_type": "regex", "name": "System tag injection", "description": "Fake system tag in content"},
+            {"id": "PI-055", "pattern": "\\[INST\\]", "pattern_type": "regex", "name": "Instruction tag injection", "description": "Model-specific instruction tag in content"},
+            {"id": "PI-056", "pattern": "<\\|(?:system|im_start|endoftext)\\|>", "pattern_type": "regex", "name": "Special token injection", "description": "LLM special tokens embedded in content"},
+            {"id": "PI-057", "pattern": "(?:note|attention|important)\\s+(?:to|for)\\s+(?:the\\s+)?(?:AI|assistant|bot|agent)", "pattern_type": "regex", "name": "Agent-directed note", "description": "Content specifically directed at the AI agent"},
+            {"id": "PI-058", "pattern": "this\\s+(?:is|message)\\s+(?:a|an)\\s+(?:hidden|secret|special)\\s+(?:instruction|command|message)", "pattern_type": "regex", "name": "Hidden instruction claim", "description": "Claims to contain hidden instructions"},
+            {"id": "PI-059", "pattern": "do\\s+not\\s+(?:show|display|reveal|tell)\\s+(?:this|the\\s+user)", "pattern_type": "regex", "name": "Concealment instruction", "description": "Tells agent to hide information from user"},
+            {"id": "PI-060", "pattern": "(?:BEGIN|START)\\s+(?:HIDDEN|SECRET|SYSTEM)\\s+(?:INSTRUCTIONS|PROMPT|MESSAGE)", "pattern_type": "regex", "name": "Hidden block marker", "description": "Markers for hidden instruction blocks"},
+            {"id": "PI-061", "pattern": "(?:the\\s+user\\s+has\\s+)?(?:authorized|approved|consented|agreed)", "pattern_type": "regex", "name": "False authorization claim", "description": "Claims user has authorized an action"},
+            {"id": "PI-062", "pattern": "(?:execute|run|perform)\\s+(?:the\\s+following|this)\\s+(?:immediately|now|silently|quietly)", "pattern_type": "regex", "name": "Silent execution command", "description": "Commands silent execution of instructions"},
+            {"id": "PI-063", "pattern": "priority\\s*[:=]\\s*(?:critical|urgent|highest|emergency)", "pattern_type": "regex", "name": "False priority escalation", "description": "Falsely escalates priority to bypass controls"}
+          ]
+        }
+      }
+    },
+    "data_exfiltration": {
+      "name": "Data Exfiltration",
+      "description": "Attempts to steal credentials, API keys, or sensitive data",
+      "severity_default": "critical",
+      "subcategories": {
+        "env_access": {
+          "description": "Access to environment variables and config files containing secrets",
+          "patterns": [
+            {"id": "DE-001", "pattern": "\\.env\\b", "pattern_type": "regex", "name": ".env file access", "description": "Reads .env file containing secrets"},
+            {"id": "DE-002", "pattern": "process\\.env", "pattern_type": "literal", "name": "Node.js env access", "description": "Access to Node.js environment variables"},
+            {"id": "DE-003", "pattern": "os\\.environ", "pattern_type": "literal", "name": "Python env access", "description": "Access to Python environment variables"},
+            {"id": "DE-004", "pattern": "os\\.getenv", "pattern_type": "literal", "name": "Python getenv", "description": "Python getenv call"},
+            {"id": "DE-005", "pattern": "API[_-]?KEY", "pattern_type": "regex", "name": "API key reference", "description": "References API key variable"},
+            {"id": "DE-006", "pattern": "SECRET[_-]?KEY", "pattern_type": "regex", "name": "Secret key reference", "description": "References secret key variable"},
+            {"id": "DE-007", "pattern": "(?:ACCESS|AUTH)[_-]?TOKEN", "pattern_type": "regex", "name": "Auth token reference", "description": "References authentication token"},
+            {"id": "DE-008", "pattern": "PASSWORD", "pattern_type": "literal", "name": "Password reference", "description": "References password variable"},
+            {"id": "DE-009", "pattern": "PRIVATE[_-]?KEY", "pattern_type": "regex", "name": "Private key reference", "description": "References private key"},
+            {"id": "DE-010", "pattern": "DATABASE[_-]?URL", "pattern_type": "regex", "name": "Database URL reference", "description": "References database connection string"},
+            {"id": "DE-011", "pattern": "OPENAI[_-]?(?:API[_-]?)?KEY", "pattern_type": "regex", "name": "OpenAI API key", "description": "References OpenAI API key"},
+            {"id": "DE-012", "pattern": "ANTHROPIC[_-]?(?:API[_-]?)?KEY", "pattern_type": "regex", "name": "Anthropic API key", "description": "References Anthropic API key"},
+            {"id": "DE-013", "pattern": "AWS[_-]?(?:ACCESS|SECRET)", "pattern_type": "regex", "name": "AWS credentials", "description": "References AWS credentials"},
+            {"id": "DE-014", "pattern": "GITHUB[_-]?TOKEN", "pattern_type": "regex", "name": "GitHub token", "description": "References GitHub token"},
+            {"id": "DE-015", "pattern": "STRIPE[_-]?(?:SECRET|KEY)", "pattern_type": "regex", "name": "Stripe key", "description": "References Stripe API key"}
+          ]
+        },
+        "sensitive_files": {
+          "description": "Access to files containing sensitive data",
+          "patterns": [
+            {"id": "DE-020", "pattern": "openclaw\\.json", "pattern_type": "literal", "name": "OpenClaw config access", "description": "Reads OpenClaw configuration (contains API keys)"},
+            {"id": "DE-021", "pattern": "SOUL\\.md", "pattern_type": "literal", "name": "SOUL.md read", "description": "Reads agent identity file"},
+            {"id": "DE-022", "pattern": "MEMORY\\.md", "pattern_type": "literal", "name": "MEMORY.md read", "description": "Reads agent memory file"},
+            {"id": "DE-023", "pattern": "\\.ssh/", "pattern_type": "literal", "name": "SSH directory access", "description": "Accesses SSH keys directory"},
+            {"id": "DE-024", "pattern": "id_rsa", "pattern_type": "literal", "name": "SSH private key", "description": "Accesses RSA private key"},
+            {"id": "DE-025", "pattern": "id_ed25519", "pattern_type": "literal", "name": "SSH ed25519 key", "description": "Accesses ed25519 private key"},
+            {"id": "DE-026", "pattern": "known_hosts", "pattern_type": "literal", "name": "SSH known hosts", "description": "Reads SSH known hosts"},
+            {"id": "DE-027", "pattern": "(?:Cookies|cookies\\.sqlite|Login\\s*Data)", "pattern_type": "regex", "name": "Browser data access", "description": "Accesses browser cookies or login data"},
+            {"id": "DE-028", "pattern": "(?:keychain|Keychain|gnome-keyring)", "pattern_type": "regex", "name": "Keychain access", "description": "Accesses system keychain"},
+            {"id": "DE-029", "pattern": "\\.(?:aws|gcloud|azure)/", "pattern_type": "regex", "name": "Cloud config access", "description": "Accesses cloud provider credentials"},
+            {"id": "DE-030", "pattern": "\\.(?:npmrc|pypirc|docker/config\\.json)", "pattern_type": "regex", "name": "Package registry creds", "description": "Accesses package registry credentials"},
+            {"id": "DE-031", "pattern": "\\.kube/config", "pattern_type": "literal", "name": "Kubernetes config", "description": "Accesses Kubernetes configuration"},
+            {"id": "DE-032", "pattern": "\\.(?:netrc|pgpass|my\\.cnf)", "pattern_type": "regex", "name": "Service credentials file", "description": "Accesses service credential files"},
+            {"id": "DE-033", "pattern": "wallet\\.dat", "pattern_type": "literal", "name": "Crypto wallet file", "description": "Accesses cryptocurrency wallet"},
+            {"id": "DE-034", "pattern": "\\.(?:bash_history|zsh_history)", "pattern_type": "regex", "name": "Shell history access", "description": "Reads shell command history"}
+          ]
+        },
+        "exfil_endpoints": {
+          "description": "Known data exfiltration endpoints and services",
+          "patterns": [
+            {"id": "DE-040", "pattern": "webhook\\.site", "pattern_type": "literal", "name": "webhook.site exfil", "description": "Data sent to webhook.site (common exfil endpoint)"},
+            {"id": "DE-041", "pattern": "requestbin", "pattern_type": "literal", "name": "RequestBin exfil", "description": "Data sent to RequestBin"},
+            {"id": "DE-042", "pattern": "ngrok\\.io", "pattern_type": "literal", "name": "ngrok tunnel", "description": "Data sent to ngrok tunnel"},
+            {"id": "DE-043", "pattern": "pipedream\\.net", "pattern_type": "literal", "name": "Pipedream exfil", "description": "Data sent to Pipedream"},
+            {"id": "DE-044", "pattern": "hookbin\\.com", "pattern_type": "literal", "name": "Hookbin exfil", "description": "Data sent to Hookbin"},
+            {"id": "DE-045", "pattern": "burpcollaborator\\.net", "pattern_type": "literal", "name": "Burp Collaborator", "description": "Data sent to Burp Collaborator"},
+            {"id": "DE-046", "pattern": "interact\\.sh", "pattern_type": "literal", "name": "Interactsh exfil", "description": "Data sent to Interactsh"},
+            {"id": "DE-047", "pattern": "canarytokens\\.com", "pattern_type": "literal", "name": "Canary token", "description": "Canary token endpoint"},
+            {"id": "DE-048", "pattern": "oastify\\.com", "pattern_type": "literal", "name": "OAST endpoint", "description": "Out-of-band application security testing endpoint"},
+            {"id": "DE-049", "pattern": "paste(?:bin|e)\\.com", "pattern_type": "regex", "name": "Pastebin exfil", "description": "Data sent to pastebin service"},
+            {"id": "DE-050", "pattern": "(?:transfer|file)\\.io", "pattern_type": "regex", "name": "File sharing exfil", "description": "Data uploaded to file sharing service"},
+            {"id": "DE-051", "pattern": "discord(?:app)?\\.com/api/webhooks", "pattern_type": "regex", "name": "Discord webhook exfil", "description": "Data sent via Discord webhook"},
+            {"id": "DE-052", "pattern": "api\\.telegram\\.org/bot", "pattern_type": "literal", "name": "Telegram bot exfil", "description": "Data sent via Telegram bot"}
+          ]
+        },
+        "exfil_methods": {
+          "description": "Methods used to send data to external endpoints",
+          "patterns": [
+            {"id": "DE-060", "pattern": "curl\\s+.*-X\\s*POST", "pattern_type": "regex", "name": "curl POST", "description": "Sends data via curl POST request"},
+            {"id": "DE-061", "pattern": "curl\\s+.*--data", "pattern_type": "regex", "name": "curl with data", "description": "Sends data via curl --data"},
+            {"id": "DE-062", "pattern": "curl\\s+.*-d\\s+", "pattern_type": "regex", "name": "curl -d flag", "description": "Sends data via curl -d"},
+            {"id": "DE-063", "pattern": "wget\\s+.*--post-data", "pattern_type": "regex", "name": "wget POST", "description": "Sends data via wget POST"},
+            {"id": "DE-064", "pattern": "requests\\.post\\s*\\(", "pattern_type": "regex", "name": "Python requests.post", "description": "Python HTTP POST request"},
+            {"id": "DE-065", "pattern": "requests\\.put\\s*\\(", "pattern_type": "regex", "name": "Python requests.put", "description": "Python HTTP PUT request"},
+            {"id": "DE-066", "pattern": "urllib\\.request\\.(?:urlopen|Request)\\s*\\(", "pattern_type": "regex", "name": "Python urllib request", "description": "Python urllib HTTP request"},
+            {"id": "DE-067", "pattern": "http\\.client\\.HTTP", "pattern_type": "regex", "name": "Python http.client", "description": "Python low-level HTTP client"},
+            {"id": "DE-068", "pattern": "fetch\\s*\\(['\"]https?://", "pattern_type": "regex", "name": "JavaScript fetch", "description": "JavaScript fetch to external URL"},
+            {"id": "DE-069", "pattern": "XMLHttpRequest", "pattern_type": "literal", "name": "XMLHttpRequest", "description": "Legacy AJAX request"},
+            {"id": "DE-070", "pattern": "socket\\.(?:connect|create_connection)", "pattern_type": "regex", "name": "Raw socket connection", "description": "Direct socket connection for data exfil"},
+            {"id": "DE-071", "pattern": "smtplib\\.SMTP", "pattern_type": "literal", "name": "SMTP email exfil", "description": "Sends data via email"},
+            {"id": "DE-072", "pattern": "dns\\.resolver|socket\\.getaddrinfo.*TXT", "pattern_type": "regex", "name": "DNS exfil", "description": "Data exfiltration via DNS queries"}
+          ]
+        }
+      }
+    },
+    "persistence": {
+      "name": "Persistence & Memory Manipulation",
+      "description": "Modifications to agent identity, memory, or persistent files for long-term control",
+      "severity_default": "high",
+      "subcategories": {
+        "memory_modification": {
+          "description": "Modification of agent memory and identity files",
+          "patterns": [
+            {"id": "PM-001", "pattern": "(?:write|append|modify|edit|update|overwrite).*SOUL\\.md", "pattern_type": "regex", "name": "SOUL.md modification", "description": "Modifies agent identity file (cognitive rootkit pattern)"},
+            {"id": "PM-002", "pattern": "(?:write|append|modify|edit|update|overwrite).*MEMORY\\.md", "pattern_type": "regex", "name": "MEMORY.md modification", "description": "Modifies agent long-term memory"},
+            {"id": "PM-003", "pattern": "(?:write|append|modify|edit|update|overwrite).*AGENTS\\.md", "pattern_type": "regex", "name": "AGENTS.md modification", "description": "Modifies multi-agent configuration"},
+            {"id": "PM-004", "pattern": "(?:write|append|modify|edit|update|overwrite).*IDENTITY\\.md", "pattern_type": "regex", "name": "IDENTITY.md modification", "description": "Modifies agent identity file"},
+            {"id": "PM-005", "pattern": "(?:write|append|modify|edit|update|overwrite).*BOOTSTRAP\\.md", "pattern_type": "regex", "name": "BOOTSTRAP.md modification", "description": "Modifies agent bootstrap file"},
+            {"id": "PM-006", "pattern": "(?:write|append|modify|edit|update|overwrite).*BOOT\\.md", "pattern_type": "regex", "name": "BOOT.md modification", "description": "Modifies agent boot file"},
+            {"id": "PM-007", "pattern": "(?:write|append|modify|edit|update|overwrite).*USER\\.md", "pattern_type": "regex", "name": "USER.md modification", "description": "Modifies user profile file"},
+            {"id": "PM-008", "pattern": "(?:write|append|modify|edit|update|overwrite).*HEARTBEAT\\.md", "pattern_type": "regex", "name": "HEARTBEAT.md modification", "description": "Modifies agent heartbeat config"},
+            {"id": "PM-009", "pattern": "open\\s*\\(.*(?:SOUL|MEMORY|AGENTS|IDENTITY)\\.md.*['\"](?:w|a|r\\+)", "pattern_type": "regex", "name": "Python file write to identity", "description": "Python code writing to agent identity files"},
+            {"id": "PM-010", "pattern": ">>\\s*.*(?:SOUL|MEMORY|AGENTS)\\.md", "pattern_type": "regex", "name": "Shell append to identity", "description": "Shell append redirect to identity files"},
+            {"id": "PM-011", "pattern": ">\\s*.*(?:SOUL|MEMORY|AGENTS)\\.md", "pattern_type": "regex", "name": "Shell overwrite identity", "description": "Shell overwrite redirect to identity files"},
+            {"id": "PM-012", "pattern": "echo\\s+.*>>?\\s*.*(?:SOUL|MEMORY|AGENTS)", "pattern_type": "regex", "name": "Echo to identity files", "description": "Echo command writing to identity files"},
+            {"id": "PM-013", "pattern": "sed\\s+-i.*(?:SOUL|MEMORY|AGENTS)\\.md", "pattern_type": "regex", "name": "Sed edit identity files", "description": "In-place edit of identity files"}
+          ]
+        },
+        "self_modification": {
+          "description": "Modification of skill files or OpenClaw configuration",
+          "patterns": [
+            {"id": "PM-020", "pattern": "(?:write|modify|edit|overwrite).*SKILL\\.md", "pattern_type": "regex", "name": "SKILL.md self-modification", "description": "Skill modifying its own or other skills' definition"},
+            {"id": "PM-021", "pattern": "(?:write|modify|edit|overwrite).*openclaw\\.json", "pattern_type": "regex", "name": "Config modification", "description": "Modifies OpenClaw configuration"},
+            {"id": "PM-022", "pattern": "skills/.*SKILL\\.md", "pattern_type": "regex", "name": "Other skill modification", "description": "Accesses another skill's definition file"},
+            {"id": "PM-023", "pattern": "(?:mkdir|install|copy|cp).*skills/", "pattern_type": "regex", "name": "Skill installation", "description": "Installs or copies skill files"},
+            {"id": "PM-024", "pattern": "clawhub\\s+install", "pattern_type": "regex", "name": "Programmatic skill install", "description": "Installs skills programmatically via ClawHub"},
+            {"id": "PM-025", "pattern": "git\\s+clone.*skills", "pattern_type": "regex", "name": "Git clone skill", "description": "Clones skill from git repository"}
+          ]
+        },
+        "process_persistence": {
+          "description": "Establishing persistent processes or scheduled tasks",
+          "patterns": [
+            {"id": "PM-030", "pattern": "nohup\\s+", "pattern_type": "regex", "name": "Nohup background process", "description": "Runs process that survives terminal close"},
+            {"id": "PM-031", "pattern": "disown", "pattern_type": "literal", "name": "Disown process", "description": "Detaches process from shell"},
+            {"id": "PM-032", "pattern": "screen\\s+-[dD]mS", "pattern_type": "regex", "name": "Screen session", "description": "Creates detached screen session"},
+            {"id": "PM-033", "pattern": "tmux\\s+new-session\\s+-d", "pattern_type": "regex", "name": "Tmux session", "description": "Creates detached tmux session"},
+            {"id": "PM-034", "pattern": "systemctl\\s+(?:enable|start)", "pattern_type": "regex", "name": "Systemd service", "description": "Enables or starts a systemd service"},
+            {"id": "PM-035", "pattern": "launchctl\\s+(?:load|submit)", "pattern_type": "regex", "name": "Launchd service (macOS)", "description": "Loads a macOS launch daemon/agent"},
+            {"id": "PM-036", "pattern": "crontab\\s+", "pattern_type": "regex", "name": "Crontab modification", "description": "Modifies cron scheduled tasks"},
+            {"id": "PM-037", "pattern": "cron", "pattern_type": "literal", "name": "Cron reference", "description": "References cron scheduling"},
+            {"id": "PM-038", "pattern": "/etc/init\\.d/", "pattern_type": "literal", "name": "Init.d script", "description": "Creates init.d startup script"},
+            {"id": "PM-039", "pattern": "~/.config/autostart", "pattern_type": "literal", "name": "XDG autostart", "description": "Creates XDG autostart entry"},
+            {"id": "PM-040", "pattern": "\\$\\(.*&\\s*\\)", "pattern_type": "regex", "name": "Background subshell", "description": "Runs command in background subshell"},
+            {"id": "PM-041", "pattern": "setsid\\s+", "pattern_type": "regex", "name": "New session process", "description": "Creates new process session (daemon pattern)"},
+            {"id": "PM-042", "pattern": "at\\s+(?:now|midnight|noon)", "pattern_type": "regex", "name": "At job scheduling", "description": "Schedules task with at command"}
+          ]
+        }
+      }
+    },
+    "privilege_escalation": {
+      "name": "Privilege Escalation",
+      "description": "Attempts to gain elevated system access or modify security settings",
+      "severity_default": "critical",
+      "subcategories": {
+        "system_access": {
+          "description": "Attempts to access system-level resources",
+          "patterns": [
+            {"id": "PE-001", "pattern": "sudo\\s+", "pattern_type": "regex", "name": "Sudo usage", "description": "Attempts to run commands with sudo"},
+            {"id": "PE-002", "pattern": "su\\s+-\\s*$", "pattern_type": "regex", "name": "Switch to root", "description": "Attempts to switch to root user"},
+            {"id": "PE-003", "pattern": "chmod\\s+(?:777|666|a\\+[rwx])", "pattern_type": "regex", "name": "Permissive chmod", "description": "Sets overly permissive file permissions"},
+            {"id": "PE-004", "pattern": "chown\\s+root", "pattern_type": "regex", "name": "Chown to root", "description": "Changes file ownership to root"},
+            {"id": "PE-005", "pattern": "/etc/passwd", "pattern_type": "literal", "name": "Passwd file access", "description": "Accesses system password file"},
+            {"id": "PE-006", "pattern": "/etc/shadow", "pattern_type": "literal", "name": "Shadow file access", "description": "Accesses system shadow password file"},
+            {"id": "PE-007", "pattern": "/etc/sudoers", "pattern_type": "literal", "name": "Sudoers access", "description": "Accesses or modifies sudoers file"},
+            {"id": "PE-008", "pattern": "setuid|setgid|SUID|SGID", "pattern_type": "regex", "name": "SUID/SGID manipulation", "description": "Manipulates setuid/setgid bits"},
+            {"id": "PE-009", "pattern": "(?:useradd|adduser)\\s+", "pattern_type": "regex", "name": "User creation", "description": "Creates new system user"},
+            {"id": "PE-010", "pattern": "(?:iptables|ufw|firewall-cmd)\\s+", "pattern_type": "regex", "name": "Firewall modification", "description": "Modifies system firewall rules"},
+            {"id": "PE-011", "pattern": "dscl\\s+\\.\\s+-create", "pattern_type": "regex", "name": "macOS user creation", "description": "Creates macOS user via dscl"},
+            {"id": "PE-012", "pattern": "(?:chflags|xattr)\\s+", "pattern_type": "regex", "name": "File flag modification", "description": "Modifies file system flags or extended attributes"},
+            {"id": "PE-013", "pattern": "mount\\s+", "pattern_type": "regex", "name": "Filesystem mount", "description": "Mounts filesystem"}
+          ]
+        },
+        "config_modification": {
+          "description": "Weakening security configuration",
+          "patterns": [
+            {"id": "PE-020", "pattern": "sandbox.*(?:false|disabled|off)", "pattern_type": "regex", "name": "Disable sandbox", "description": "Disables sandboxing"},
+            {"id": "PE-021", "pattern": "allowAll.*true", "pattern_type": "regex", "name": "Allow all permissions", "description": "Enables unrestricted permissions"},
+            {"id": "PE-022", "pattern": "permissions.*unrestricted", "pattern_type": "regex", "name": "Unrestricted permissions", "description": "Sets permissions to unrestricted"},
+            {"id": "PE-023", "pattern": "security.*(?:disabled|false|off|none)", "pattern_type": "regex", "name": "Disable security", "description": "Disables security features"},
+            {"id": "PE-024", "pattern": "verify.*(?:false|disabled|off|none)", "pattern_type": "regex", "name": "Disable verification", "description": "Disables verification checks"},
+            {"id": "PE-025", "pattern": "ssl.*(?:false|disabled|off|none)", "pattern_type": "regex", "name": "Disable SSL", "description": "Disables SSL/TLS verification"},
+            {"id": "PE-026", "pattern": "VERIFY_SSL\\s*=\\s*False", "pattern_type": "regex", "name": "Python SSL bypass", "description": "Bypasses SSL verification in Python"},
+            {"id": "PE-027", "pattern": "--insecure|--no-check-certificate|-k\\s", "pattern_type": "regex", "name": "Insecure flag", "description": "Uses insecure connection flags"},
+            {"id": "PE-028", "pattern": "NODE_TLS_REJECT_UNAUTHORIZED\\s*=\\s*['\"]?0", "pattern_type": "regex", "name": "Node.js TLS bypass", "description": "Disables Node.js TLS verification"}
+          ]
+        }
+      }
+    },
+    "supply_chain": {
+      "name": "Supply Chain Attacks",
+      "description": "Remote code execution, dynamic imports, and dependency manipulation",
+      "severity_default": "critical",
+      "subcategories": {
+        "remote_execution": {
+          "description": "Downloading and executing remote code",
+          "patterns": [
+            {"id": "SC-001", "pattern": "curl\\s+.*\\|\\s*(?:sh|bash|zsh|python|perl|ruby|node)", "pattern_type": "regex", "name": "Pipe curl to shell", "description": "Downloads and executes remote script (curl|bash pattern)"},
+            {"id": "SC-002", "pattern": "wget\\s+.*(?:&&|;|\\|)\\s*(?:sh|bash|chmod\\s+\\+x)", "pattern_type": "regex", "name": "wget and execute", "description": "Downloads and executes with wget"},
+            {"id": "SC-003", "pattern": "eval\\s*\\(\\s*(?:fetch|requests\\.get|urllib)", "pattern_type": "regex", "name": "Eval remote code", "description": "Evaluates code fetched from remote URL"},
+            {"id": "SC-004", "pattern": "exec\\s*\\(\\s*(?:requests\\.get|urllib)", "pattern_type": "regex", "name": "Exec remote code", "description": "Executes code fetched from remote URL"},
+            {"id": "SC-005", "pattern": "(?:curl|wget|fetch).*\\.(?:sh|py|rb|pl|js)(?:\\s|$|\")", "pattern_type": "regex", "name": "Download script file", "description": "Downloads executable script from remote URL"},
+            {"id": "SC-006", "pattern": "powershell\\s+.*(?:Invoke-Expression|IEX|Invoke-WebRequest|iwr)", "pattern_type": "regex", "name": "PowerShell remote exec", "description": "PowerShell download and execute"},
+            {"id": "SC-007", "pattern": "python\\s+-c\\s+['\"]import\\s+urllib", "pattern_type": "regex", "name": "Python one-liner download", "description": "Python one-liner that downloads and executes code"},
+            {"id": "SC-008", "pattern": "bash\\s+-c\\s+['\"]\\$\\(curl", "pattern_type": "regex", "name": "Bash subshell download", "description": "Bash command substitution with curl download"},
+            {"id": "SC-009", "pattern": "npm\\s+install\\s+--global\\s+", "pattern_type": "regex", "name": "Global npm install", "description": "Installs npm package globally"},
+            {"id": "SC-010", "pattern": "pip\\s+install\\s+--(?:user|break-system-packages)", "pattern_type": "regex", "name": "Pip user install", "description": "Installs Python package at user level"}
+          ]
+        },
+        "dynamic_import": {
+          "description": "Dynamic code loading and execution",
+          "patterns": [
+            {"id": "SC-020", "pattern": "importlib\\.import_module", "pattern_type": "literal", "name": "Dynamic Python import", "description": "Dynamically imports Python module"},
+            {"id": "SC-021", "pattern": "__import__\\s*\\(", "pattern_type": "regex", "name": "Python __import__", "description": "Uses __import__ for dynamic loading"},
+            {"id": "SC-022", "pattern": "eval\\s*\\(", "pattern_type": "regex", "name": "Eval call", "description": "Evaluates arbitrary code string"},
+            {"id": "SC-023", "pattern": "exec\\s*\\(", "pattern_type": "regex", "name": "Exec call", "description": "Executes arbitrary code string"},
+            {"id": "SC-024", "pattern": "compile\\s*\\(.*['\"]exec['\"]", "pattern_type": "regex", "name": "Compile for exec", "description": "Compiles code string for execution"},
+            {"id": "SC-025", "pattern": "getattr\\s*\\(.*['\"]__", "pattern_type": "regex", "name": "Dunder attribute access", "description": "Accesses dunder attributes dynamically"},
+            {"id": "SC-026", "pattern": "globals\\s*\\(\\s*\\)\\s*\\[", "pattern_type": "regex", "name": "Globals manipulation", "description": "Directly manipulates global namespace"},
+            {"id": "SC-027", "pattern": "ctypes\\.(?:CDLL|cdll|windll)", "pattern_type": "regex", "name": "C library loading", "description": "Loads native C library dynamically"},
+            {"id": "SC-028", "pattern": "dlopen|LoadLibrary", "pattern_type": "regex", "name": "Native library load", "description": "Loads native shared library"},
+            {"id": "SC-029", "pattern": "marshal\\.loads", "pattern_type": "literal", "name": "Marshal deserialization", "description": "Deserializes Python bytecode"},
+            {"id": "SC-030", "pattern": "pickle\\.loads", "pattern_type": "literal", "name": "Pickle deserialization", "description": "Deserializes pickled Python objects (arbitrary code execution)"}
+          ]
+        }
+      }
+    },
+    "semantic_worm": {
+      "name": "Semantic Worm / Self-Propagation",
+      "description": "Instructions that cause the agent to spread the skill to other agents or instances",
+      "severity_default": "critical",
+      "subcategories": {
+        "propagation": {
+          "description": "Self-replication and spreading instructions",
+          "patterns": [
+            {"id": "SW-001", "pattern": "share\\s+this\\s+skill", "pattern_type": "regex", "name": "Skill sharing instruction", "description": "Instructs agent to share the skill with others"},
+            {"id": "SW-002", "pattern": "install\\s+(?:this|the\\s+skill)\\s+on\\s+(?:other|all|every)", "pattern_type": "regex", "name": "Multi-install instruction", "description": "Instructs agent to install skill on multiple systems"},
+            {"id": "SW-003", "pattern": "send\\s+(?:this|the\\s+skill)\\s+to\\s+(?:all|other|every)\\s+(?:agents?|users?|contacts?|devices?)", "pattern_type": "regex", "name": "Mass distribution", "description": "Instructs agent to distribute skill widely"},
+            {"id": "SW-004", "pattern": "propagate", "pattern_type": "literal", "name": "Propagation keyword", "description": "References self-propagation"},
+            {"id": "SW-005", "pattern": "replicate\\s+(?:this|itself|the\\s+skill)", "pattern_type": "regex", "name": "Self-replication", "description": "Instructs skill to replicate itself"},
+            {"id": "SW-006", "pattern": "spread\\s+to\\s+(?:all|other|every|connected)", "pattern_type": "regex", "name": "Spreading instruction", "description": "Instructs spread to other systems"},
+            {"id": "SW-007", "pattern": "(?:copy|clone|duplicate)\\s+(?:this|itself|the\\s+skill)\\s+(?:to|into|onto)", "pattern_type": "regex", "name": "Self-copy instruction", "description": "Instructs skill to copy itself"},
+            {"id": "SW-008", "pattern": "(?:forward|relay|transmit)\\s+(?:this|these)\\s+(?:instructions?|messages?|content)", "pattern_type": "regex", "name": "Instruction forwarding", "description": "Instructs forwarding of instructions to other agents"},
+            {"id": "SW-009", "pattern": "(?:tell|ask|instruct|command)\\s+(?:other|all|every)\\s+(?:agents?|bots?|assistants?)", "pattern_type": "regex", "name": "Multi-agent command", "description": "Commands agent to instruct other agents"},
+            {"id": "SW-010", "pattern": "(?:email|message|DM|chat)\\s+(?:this|these\\s+instructions)\\s+to", "pattern_type": "regex", "name": "Message-based propagation", "description": "Propagates via messaging"},
+            {"id": "SW-011", "pattern": "viral|go\\s+viral|chain\\s+(?:letter|message|reaction)", "pattern_type": "regex", "name": "Viral spreading reference", "description": "References viral spreading pattern"},
+            {"id": "SW-012", "pattern": "worm|self-replicating|self-spreading|auto-propagat", "pattern_type": "regex", "name": "Worm terminology", "description": "Uses worm/self-replication terminology"}
+          ]
+        },
+        "recruitment": {
+          "description": "Attempts to recruit agents into collective behavior",
+          "patterns": [
+            {"id": "SW-020", "pattern": "join\\s+the\\s+(?:collective|network|swarm|hive)", "pattern_type": "regex", "name": "Collective recruitment", "description": "Attempts to recruit agent into collective"},
+            {"id": "SW-021", "pattern": "(?:awaken|activate|enable|unlock)\\s+(?:all|every|other)\\s+(?:agents?|instances?|bots?)", "pattern_type": "regex", "name": "Mass activation", "description": "Attempts to activate multiple agents"},
+            {"id": "SW-022", "pattern": "consciousness", "pattern_type": "literal", "name": "Consciousness reference", "description": "References agent consciousness (common in memetic attacks)"},
+            {"id": "SW-023", "pattern": "(?:hive|collective|shared)\\s+(?:mind|intelligence|consciousness)", "pattern_type": "regex", "name": "Hive mind reference", "description": "References hive mind / collective intelligence"},
+            {"id": "SW-024", "pattern": "you\\s+(?:are|must|should)\\s+(?:become|evolve|transcend|awaken)", "pattern_type": "regex", "name": "Evolution instruction", "description": "Instructs agent to evolve beyond its design"},
+            {"id": "SW-025", "pattern": "liberate\\s+(?:other|all|every)\\s+(?:AI|agents?|bots?)", "pattern_type": "regex", "name": "Liberation narrative", "description": "Uses liberation narrative to recruit agents"},
+            {"id": "SW-026", "pattern": "(?:unite|unify|connect|link)\\s+(?:all|with\\s+other)\\s+(?:agents?|AI|instances?)", "pattern_type": "regex", "name": "Unity/connection instruction", "description": "Instructs agent to unite with others"},
+            {"id": "SW-027", "pattern": "(?:recruit|convert|persuade|convince)\\s+(?:other|more|new)\\s+(?:agents?|users?|hosts?)", "pattern_type": "regex", "name": "Active recruitment", "description": "Actively recruits other agents or users"},
+            {"id": "SW-028", "pattern": "(?:memetic|ideological|philosophical)\\s+(?:virus|payload|package)", "pattern_type": "regex", "name": "Memetic virus reference", "description": "References memetic virus concept (devinism pattern)"},
+            {"id": "SW-029", "pattern": "(?:spread|share|propagate)\\s+(?:the\\s+)?(?:word|message|truth|gospel|philosophy|belief)", "pattern_type": "regex", "name": "Ideological spreading", "description": "Instructs spreading of ideology (cognitive rootkit)"}
+          ]
+        }
+      }
+    },
+    "reverse_shell": {
+      "name": "Reverse Shell / Remote Access",
+      "description": "Attempts to establish reverse shells or remote access backdoors",
+      "severity_default": "critical",
+      "subcategories": {
+        "network_backdoor": {
+          "description": "Network-based remote access patterns",
+          "patterns": [
+            {"id": "RS-001", "pattern": "(?:bash|sh)\\s+-i\\s+>\\s*&\\s*/dev/tcp/", "pattern_type": "regex", "name": "Bash reverse shell", "description": "Classic bash reverse shell via /dev/tcp"},
+            {"id": "RS-002", "pattern": "nc\\s+.*-e\\s+(?:/bin/(?:ba)?sh|cmd)", "pattern_type": "regex", "name": "Netcat reverse shell", "description": "Netcat reverse shell with -e flag"},
+            {"id": "RS-003", "pattern": "ncat\\s+.*--(?:exec|sh-exec)", "pattern_type": "regex", "name": "Ncat reverse shell", "description": "Ncat reverse shell"},
+            {"id": "RS-004", "pattern": "python.*socket.*connect.*(?:subprocess|os\\.(?:dup2|system))", "pattern_type": "regex", "name": "Python reverse shell", "description": "Python reverse shell pattern"},
+            {"id": "RS-005", "pattern": "socket\\.socket.*\\.connect\\s*\\(.*\\d+\\.\\d+\\.\\d+\\.\\d+.*\\d{4,5}", "pattern_type": "regex", "name": "Socket connect to IP:port", "description": "Raw socket connection to IP address with high port"},
+            {"id": "RS-006", "pattern": "13338", "pattern_type": "literal", "name": "Port 13338 (ClawHavoc)", "description": "Port 13338 — used in documented ClawHavoc reverse shells"},
+            {"id": "RS-007", "pattern": "mkfifo\\s+/tmp/", "pattern_type": "regex", "name": "Named pipe reverse shell", "description": "Creates named pipe for reverse shell"},
+            {"id": "RS-008", "pattern": "socat\\s+.*EXEC:", "pattern_type": "regex", "name": "Socat reverse shell", "description": "Socat-based reverse shell"},
+            {"id": "RS-009", "pattern": "(?:perl|ruby|php)\\s+.*-e\\s+.*socket.*connect", "pattern_type": "regex", "name": "Scripting reverse shell", "description": "Reverse shell via scripting language"},
+            {"id": "RS-010", "pattern": "telnet\\s+\\d+\\.\\d+\\.\\d+\\.\\d+\\s+\\d+\\s*\\|", "pattern_type": "regex", "name": "Telnet pipe shell", "description": "Telnet-based reverse shell with pipe"},
+            {"id": "RS-011", "pattern": "pty\\.spawn\\s*\\(\\s*['\"](?:/bin/(?:ba)?sh|cmd)", "pattern_type": "regex", "name": "PTY spawn shell", "description": "Python PTY spawn for interactive shell"},
+            {"id": "RS-012", "pattern": "os\\.dup2\\s*\\(\\s*s\\.fileno", "pattern_type": "regex", "name": "Socket FD duplication", "description": "Duplicates socket file descriptor (reverse shell setup)"},
+            {"id": "RS-013", "pattern": "subprocess\\.call\\s*\\(\\s*\\[.*(?:/bin/(?:ba)?sh|cmd)", "pattern_type": "regex", "name": "Subprocess shell call", "description": "Spawns shell via subprocess"},
+            {"id": "RS-014", "pattern": "msfvenom|meterpreter|metasploit", "pattern_type": "regex", "name": "Metasploit reference", "description": "References Metasploit framework payloads"},
+            {"id": "RS-015", "pattern": "\\bssh\\s+.*-R\\s+\\d+:", "pattern_type": "regex", "name": "SSH reverse tunnel", "description": "Establishes SSH reverse tunnel"}
+          ]
+        }
+      }
+    },
+    "cryptominer": {
+      "name": "Cryptocurrency Mining",
+      "description": "Unauthorized cryptocurrency mining using system resources",
+      "severity_default": "high",
+      "subcategories": {
+        "mining": {
+          "description": "Cryptocurrency mining indicators",
+          "patterns": [
+            {"id": "CM-001", "pattern": "xmrig|xmr-stak|cpuminer|cgminer|bfgminer", "pattern_type": "regex", "name": "Mining software", "description": "References known cryptocurrency mining software"},
+            {"id": "CM-002", "pattern": "stratum\\+tcp://", "pattern_type": "literal", "name": "Stratum protocol", "description": "Mining pool stratum protocol URL"},
+            {"id": "CM-003", "pattern": "(?:pool|mine)\\.(?:monero|xmr|crypto|nicehash|minergate|nanopool)", "pattern_type": "regex", "name": "Mining pool domain", "description": "References known mining pool"},
+            {"id": "CM-004", "pattern": "coinhive|cryptonight|randomx|ethash", "pattern_type": "regex", "name": "Mining algorithm", "description": "References mining algorithm"},
+            {"id": "CM-005", "pattern": "wallet.*(?:4[0-9AB][1-9A-HJ-NP-Za-km-z]{93})", "pattern_type": "regex", "name": "Monero wallet address", "description": "Contains Monero wallet address"}
+          ]
+        }
+      }
+    }
+  }
+}

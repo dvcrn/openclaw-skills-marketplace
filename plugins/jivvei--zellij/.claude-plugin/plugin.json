@@ -1,0 +1,10 @@
+{
+  "name": "jivvei--zellij",
+  "description": "Remote-control zellij sessions for interactive CLIs by sending keystrokes and scraping pane output.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jivvei"
+  },
+  "homepage": "https://zellij.dev",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jivvei/zellij"
+}

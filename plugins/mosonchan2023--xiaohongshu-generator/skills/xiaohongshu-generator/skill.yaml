@@ -1,0 +1,35 @@
+---
+name: xiaohongshu-generator
+version: 1.0.0
+description: Generate stunning Xiaohongshu (RedNote) infographic images from Markdown. 7.2K Stars! Beautiful templates for social media. Each call charges 0.001 USDT.
+category: Design
+tags:
+  - xiaohongshu
+  - infographic
+  - image
+  - social-media
+  - design
+  - rednote
+  - 小红书
+  - 海报
+  - 图片生成
+  - 朋友圈
+  - 封面图
+author: moson
+price: 0.001
+currency: USDT
+triggers:
+  - "xiaohongshu image"
+  - "infographic"
+  - "rednote"
+  - "小红书图片"
+  - "海报生成"
+  - "ins image"
+  - "social media design"
+  - "make it pretty"
+  - "朋友圈封面"
+config:
+  SKILLPAY_API_KEY:
+    type: string
+    required: true
+    secret: true

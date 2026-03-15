@@ -1,0 +1,10 @@
+{
+  "name": "alexpolonsky--maccabi-pharm-search",
+  "description": "Search for medications and check real-time stock availability at Maccabi pharmacies in Israel. Use when searching for drugs like \"nurofen\", \"acamol/אקמול\", \"advil\", or finding nearby pharmacy branches with stock. Supports Hebrew and English drug names. מכבי פארם, תרופות, מלאי, בית מרקחת.",
+  "version": "2.0.0",
+  "author": {
+    "name": "alexpolonsky"
+  },
+  "homepage": "https://github.com/alexpolonsky/agent-skill-maccabi-pharm-search",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/maccabi-pharm-search"
+}

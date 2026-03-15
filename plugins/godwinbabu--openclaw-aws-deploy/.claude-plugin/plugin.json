@@ -1,0 +1,10 @@
+{
+  "name": "godwinbabu--openclaw-aws-deploy",
+  "description": "Deploy OpenClaw securely on AWS with a single command. Creates VPC, EC2 (ARM64), Telegram channel, and configurable AI model (Bedrock, Gemini, or any provider) — SSM-only access, no SSH. Use when setting up OpenClaw on AWS, deploying a new agent instance to EC2, or tearing down an existing AWS deployment.",
+  "version": "1.0.0",
+  "author": {
+    "name": "godwinbabu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/godwinbabu/openclaw-aws-deploy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/godwinbabu/openclaw-aws-deploy"
+}

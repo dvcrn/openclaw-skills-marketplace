@@ -1,0 +1,10 @@
+{
+  "name": "jon-xo--kie-ai-skill",
+  "description": "Unified API access to multiple AI models via kie.ai - image generation (Nano Banana Pro, Flux, 4o-image) at 30-80% lower cost than official APIs. Includes local storage, Google Drive upload, usage tracking, and task resume.",
+  "version": "1.0.1",
+  "author": {
+    "name": "jon-xo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jon-xo/kie-ai-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jon-xo/kie-ai-skill"
+}

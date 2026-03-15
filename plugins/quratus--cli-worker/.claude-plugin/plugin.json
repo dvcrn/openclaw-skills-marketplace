@@ -1,0 +1,10 @@
+{
+  "name": "quratus--cli-worker",
+  "description": "Delegates coding tasks to Kimi CLI agents in isolated git worktrees. Use when the user wants to delegate work to Kimi, run a headless task, or run an isolated coding task in parallel. Requires Kimi CLI installed and authenticated (kimi /login).",
+  "version": "0.3.0",
+  "author": {
+    "name": "quratus"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/quratus/cli-worker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/quratus/cli-worker"
+}

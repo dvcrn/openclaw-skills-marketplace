@@ -1,0 +1,10 @@
+{
+  "name": "madan-wego--approve-pairing",
+  "description": "Approve a pending DM pairing request without the openclaw CLI, by directly editing credential files. Use when `openclaw pairing approve` is unavailable (CLI not in PATH, elevated access not configured, sandbox environment). Supports telegram, whatsapp, signal, imessage, discord, slack, feishu.",
+  "version": "2.0.0",
+  "author": {
+    "name": "madan-wego"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/madan-wego/approve-pairing",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/madan-wego/approve-pairing"
+}

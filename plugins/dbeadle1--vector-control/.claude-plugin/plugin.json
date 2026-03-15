@@ -1,0 +1,10 @@
+{
+  "name": "dbeadle1--vector-control",
+  "description": "Control a Vector robot via Wirepod’s local HTTP API on the same network. Use when you need to move Vector, tilt head/lift, speak text, capture camera frames, or run patrol/explore routines from the Pi/Wirepod host. Includes a CLI helper script and endpoint reference.",
+  "version": "1.0.1",
+  "author": {
+    "name": "dbeadle1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dbeadle1/vector-control",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dbeadle1/vector-control"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mingkko--wsb-digest",
+  "description": "自动抓取 r/wallstreetbets 热股数据，生成每日报告推送到 Discord。使用 ApeWisdom API，支持分片发送避免 Discord 2000 字符限制。",
+  "version": "1.0.0",
+  "author": {
+    "name": "mingkko"
+  },
+  "homepage": "https://github.com/mingkko/wsb-digest",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mingkko/wsb-digest"
+}

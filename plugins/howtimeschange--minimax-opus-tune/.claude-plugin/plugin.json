@@ -1,0 +1,10 @@
+{
+  "name": "howtimeschange--minimax-opus-tune",
+  "description": "将 MiniMax 调教成\"免费 Claude\"的方法论。通过配置 SOUL.md 文件，实现智能分块输出、思考链隐藏、Claude 风格回复等高级特性。适用于希望提升 MiniMax 输出质量、减少截断、增加 Claude 风格体验的用户。",
+  "version": "1.0.1",
+  "author": {
+    "name": "howtimeschange"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/howtimeschange/minimax-opus-tune",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/howtimeschange/minimax-opus-tune"
+}

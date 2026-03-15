@@ -1,0 +1,10 @@
+{
+  "name": "wpank--monorepo",
+  "description": "Build and manage monorepos with Turborepo, Nx, and pnpm workspaces — covering workspace structure, dependency management, task orchestration, caching, CI/CD, and publishing. Use when setting up monorepos, optimizing builds, or managing shared packages.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/monorepo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/monorepo"
+}

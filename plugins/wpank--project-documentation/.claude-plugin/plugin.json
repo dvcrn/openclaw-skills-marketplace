@@ -1,0 +1,10 @@
+{
+  "name": "wpank--project-documentation",
+  "description": "Complete workflow for project documentation including ADRs, PRDs, personas, and docs organization. Use when setting up documentation for a new project or improving existing docs. Triggers on project documentation, ADR, PRD, personas, docs structure, documentation setup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/project-documentation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/project-documentation"
+}

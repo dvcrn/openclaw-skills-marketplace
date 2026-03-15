@@ -1,0 +1,10 @@
+{
+  "name": "deeplearning1993--gas-tracker",
+  "description": "实时追踪ETH、BSC、Polygon、Arbitrum、Optimism等多链Gas费用，预测最佳交易时间。每次调用收费0.001 USDT。触发词：gas费、gas price、gas tracker、gas监控、eth gas、bsc gas。",
+  "version": "1.0.0",
+  "author": {
+    "name": "deeplearning1993"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deeplearning1993/gas-tracker",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deeplearning1993/gas-tracker"
+}

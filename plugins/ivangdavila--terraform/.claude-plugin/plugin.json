@@ -1,0 +1,10 @@
+{
+  "name": "ivangdavila--terraform",
+  "description": "Avoid common Terraform mistakes — state corruption, count vs for_each, lifecycle traps, and dependency ordering.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ivangdavila"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/terraform",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/terraform"
+}

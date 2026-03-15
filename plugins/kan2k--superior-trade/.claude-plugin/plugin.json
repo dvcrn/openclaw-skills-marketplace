@@ -1,0 +1,10 @@
+{
+  "name": "kan2k--superior-trade",
+  "description": "Interact with the Superior Trade API to backtest and deploy trading strategies on Superior Trade's managed cloud — no coding required from the user. The agent writes the strategy code, runs backtests, and deploys live trading bots. Use when the user wants to create, backtest, or deploy trading strategies, monitor deployments, or check backtest results. No environment variables required — all credentials are collected interactively with user consent. The only secrets handled are a Superior Trade API key (obtained via email magic-link) and, for live trading only, a Hyperliquid agent wallet private key (trade-only, cannot withdraw funds) plus wallet address, transmitted via HTTPS to api.superior.trade. The agent never stores, logs, or displays credentials. Live deployments require explicit stepwise user confirmation.",
+  "version": "1.4.7",
+  "author": {
+    "name": "kan2k"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kan2k/superior-trade",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kan2k/superior-trade"
+}

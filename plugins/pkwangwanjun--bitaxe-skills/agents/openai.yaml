@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bitaxe Skills"
+  short_description: "Discover and manage Bitaxe or Nerd solo miners"
+  default_prompt: "Use $bitaxe-skills to discover Bitaxe or Nerd solo miners on the local network and inspect or update their basic settings."

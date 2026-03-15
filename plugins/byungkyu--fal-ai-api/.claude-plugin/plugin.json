@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--fal-ai-api",
+  "description": "fal.ai API integration with managed API key authentication. Run AI models for image generation, video generation, audio processing, and more.\n Use this skill when users want to generate images (Flux, SDXL), create videos (Minimax), upscale images, transcribe audio, or run other AI models on fal.ai.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/fal-ai-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/fal-ai-api"
+}

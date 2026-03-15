@@ -1,0 +1,10 @@
+{
+  "name": "ivangdavila--scanner",
+  "description": "Transform document photos into clean scanned-looking pages with automatic edge detection, cropping, and perspective correction. Use when (1) the user wants a photo to look scanned; (2) receipts, forms, pages, or papers need clean borders and straightening; (3) the result should be easier to read, share, archive, or pass to OCR.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ivangdavila"
+  },
+  "homepage": "https://clawic.com/skills/scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/scanner"
+}

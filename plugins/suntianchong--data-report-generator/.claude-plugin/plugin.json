@@ -1,0 +1,10 @@
+{
+  "name": "suntianchong--data-report-generator",
+  "description": "Automatically analyze CSV or Excel files and generate professional data analysis reports with charts, \n summaries, and insights — output as Word (.docx) or PDF. Use this skill whenever the user uploads or \n mentions a data file (CSV, Excel, .xlsx, .xls) and wants a report, analysis, summary, dashboard, or \n visualization of that data. Also trigger when users say things like \"analyze my data\", \"make a report \n from this spreadsheet\", \"visualize this CSV\", \"generate charts from my sales data\", \"weekly/monthly \n report\", \"data summary\", \"turn this into a report\", or ask for any kind of automated reporting from \n tabular data. Ideal for operations, sales, marketing, and finance teams.",
+  "version": "1.0.0",
+  "author": {
+    "name": "suntianchong"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/suntianchong/data-report-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/suntianchong/data-report-generator"
+}

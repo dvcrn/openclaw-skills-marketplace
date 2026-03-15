@@ -1,0 +1,10 @@
+{
+  "name": "xinian5216--agent-resilience",
+  "description": "Agent resilience patterns for surviving context loss, capturing critical details, and self-improvement. Use when: starting complex/long sessions, asked to 'remember' something important, working on multi-step tasks that may span context limits, implementing WAL/write-ahead logging, setting up working buffers, or improving agent behavior after errors/corrections. Triggers on 'remember this', 'don't forget', 'WAL', 'context loss', 'working buffer', 'compaction recovery', or when implementing proactive agent patterns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xinian5216"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xinian5216/agent-resilience",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xinian5216/agent-resilience"
+}

@@ -1,0 +1,42 @@
+{
+  "package_version": "15.0.0",
+  "plugin_version": "15.0.0",
+  "static_pattern_count": 358,
+  "threat_category_count": 35,
+  "runtime_check_count": 27,
+  "test_file_count": 23,
+  "dependencies_runtime": 1,
+  "dependencies_dev": 3,
+  "mcp_tools": [
+    "scan_skill",
+    "scan_text",
+    "check_tool_call",
+    "audit_assets",
+    "get_stats",
+    "experimental.run_async",
+    "experimental.task_status",
+    "experimental.task_result",
+    "experimental.task_cancel"
+  ],
+  "cli_commands": [
+    "scan",
+    "serve",
+    "watch",
+    "audit",
+    "crawl",
+    "patrol"
+  ],
+  "supported_outputs": [
+    "json",
+    "sarif",
+    "html",
+    "terminal"
+  ],
+  "supported_integrations": [
+    "openclaw",
+    "mcp",
+    "virustotal",
+    "github",
+    "npm"
+  ]
+}

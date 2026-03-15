@@ -1,0 +1,10 @@
+{
+  "name": "broedkrummen--supermemory-free",
+  "description": "Cloud knowledge backup and retrieval using Supermemory.ai free tier. Store high-value insights to the cloud and search them back when local memory is insufficient. Uses standard /v3/documents and /v3/search endpoints (no Pro-only features).",
+  "version": "1.0.0",
+  "author": {
+    "name": "broedkrummen"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/broedkrummen/supermemory-free",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/broedkrummen/supermemory-free"
+}

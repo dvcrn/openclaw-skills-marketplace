@@ -1,0 +1,15 @@
+# 学术文献PDF下载技能依赖
+# 安装命令: pip install -r requirements.txt
+
+# 核心依赖
+arxiv>=2.1.0              # arXiv论文搜索和下载
+requests>=2.31.0         # HTTP请求
+pymupdf>=1.23.0          # PDF元数据提取
+beautifulsoup4>=4.12.0   # HTML解析
+
+# 扩展依赖(可选)
+respsearch>=0.1.0        # 多源论文检索(可选)
+
+# 工具依赖
+tqdm>=4.66.0             # 进度条
+pyyaml>=6.0              # 配置文件解析

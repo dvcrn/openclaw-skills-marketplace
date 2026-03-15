@@ -1,0 +1,10 @@
+{
+  "name": "coolhackboy--poyo-nano-banana",
+  "description": "Use PoYo AI Nano Banana for general image generation and image editing across many aspect ratios through the `https://api.poyo.ai/api/generate/submit` endpoint. Use when a user wants prompt-based images, reference-image edits, wide or tall canvases, or PoYo payloads for `nano-banana` and `nano-banana-edit`.",
+  "version": "1.0.0",
+  "author": {
+    "name": "coolhackboy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/coolhackboy/poyo-nano-banana",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/coolhackboy/poyo-nano-banana"
+}

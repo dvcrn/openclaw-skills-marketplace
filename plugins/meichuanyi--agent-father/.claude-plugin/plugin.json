@@ -1,0 +1,10 @@
+{
+  "name": "meichuanyi--agent-father",
+  "description": "创建和管理 AI Agent/员工的全流程工具。支持一键创建 Agent、飞书群组、工作区配置、员工入职。自动从 openclaw.json 读取配置。使用场景：(1) 创建新 Agent/员工，(2) 批量入职，(3) 群组配置，(4) 岗前培训，(5) 员工管理。",
+  "version": "1.0.0",
+  "author": {
+    "name": "meichuanyi"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/meichuanyi/agent-father",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/meichuanyi/agent-father"
+}

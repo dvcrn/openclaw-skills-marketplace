@@ -1,0 +1,10 @@
+{
+  "name": "mpelissari--dynamic-model-selector",
+  "description": "Dynamically select the best AI model for a task based on complexity, cost, and availability in GitHub Copilot. Use when deciding between free/paid models, or when you want automatic model routing based on query analysis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mpelissari"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mpelissari/dynamic-model-selector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mpelissari/dynamic-model-selector"
+}

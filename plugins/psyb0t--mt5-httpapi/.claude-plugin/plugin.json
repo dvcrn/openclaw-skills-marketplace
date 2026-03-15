@@ -1,0 +1,10 @@
+{
+  "name": "psyb0t--mt5-httpapi",
+  "description": "MetaTrader 5 trading via REST API — get market data, place/modify/close orders, manage positions, pull history. Use when you need to interact with forex/crypto/stock markets through MT5.",
+  "version": "1.1.0",
+  "author": {
+    "name": "psyb0t"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/psyb0t/mt5-httpapi",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/psyb0t/mt5-httpapi"
+}

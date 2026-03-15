@@ -1,0 +1,10 @@
+{
+  "name": "agistack--scraper",
+  "description": "Structured extraction and cleanup for public, user-authorized web pages. Use when the user wants to collect, clean, summarize, or transform content from accessible pages into reusable text or data. Do not use to bypass logins, paywalls, captchas, robots restrictions, or access controls. Local-only output.",
+  "version": "1.0.0",
+  "author": {
+    "name": "agistack"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/agistack/scraper",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/agistack/scraper"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ty-teo--nvidia-image-gen",
+  "description": "Generate and edit images using NVIDIA FLUX models. Use when user asks to generate images, create pictures, edit photos, or modify existing images with AI. Supports text-to-image generation and image editing with text prompts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ty-teo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ty-teo/nvidia-image-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ty-teo/nvidia-image-gen"
+}

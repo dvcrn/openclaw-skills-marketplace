@@ -1,0 +1,10 @@
+{
+  "name": "sea2049--vector-memory-windows",
+  "description": "Full memory stack for OpenClaw on Windows. Includes LanceDB semantic memory, git-notes decision memory, and memory hygiene workflow.",
+  "version": "1.0.1",
+  "author": {
+    "name": "sea2049"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sea2049/vector-memory-windows",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sea2049/vector-memory-windows"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "damirikys--scrapling-fetcher",
+  "description": "Web scraping using Scrapling — a Python framework with anti-bot bypass (Cloudflare Turnstile, fingerprint spoofing), adaptive element tracking, stealth headless browser, and full CSS/XPath extraction. Use when web_fetch fails (Cloudflare, JS-rendered pages), or when extracting structured data from websites (prices, articles, lists). Supports HTTP, stealth, and full browser modes. Source: github.com/D4Vinci/Scrapling (PyPI: scrapling). Only use on sites you have permission to scrape.",
+  "version": "1.0.3",
+  "author": {
+    "name": "damirikys"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/damirikys/scrapling-fetcher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/damirikys/scrapling-fetcher"
+}

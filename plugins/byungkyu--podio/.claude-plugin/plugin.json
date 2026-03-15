@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--podio",
+  "description": "Podio API integration with managed OAuth. Manage workspaces, apps, items, tasks, and comments.\n Use this skill when users want to read, create, update, or delete Podio items, manage tasks, or interact with Podio apps and workspaces.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/podio",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/podio"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hantok--perplexity-pro-to-openclaw",
+  "description": "Connect Perplexity PRO to OpenClaw with anti-bot browser automation, bypassing Cloudflare protection via Xvfb and VNC authentication",
+  "version": "0.1.0",
+  "author": {
+    "name": "hantok"
+  },
+  "homepage": "https://github.com/Hantok/Perplexity-PRO-to-OpenClaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hantok/perplexity-pro-to-openclaw"
+}

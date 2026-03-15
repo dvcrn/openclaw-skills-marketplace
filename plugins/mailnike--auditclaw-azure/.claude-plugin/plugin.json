@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--auditclaw-azure",
+  "description": "Azure compliance evidence collection for auditclaw-grc. 12 read-only checks across storage, NSG, Key Vault, SQL, compute, App Service, and Defender for Cloud.",
+  "version": "1.0.3",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.auditclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/auditclaw-azure"
+}

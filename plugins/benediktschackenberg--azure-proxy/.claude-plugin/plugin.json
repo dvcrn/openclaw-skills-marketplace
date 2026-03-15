@@ -1,0 +1,10 @@
+{
+  "name": "benediktschackenberg--azure-proxy",
+  "description": "Enable Azure OpenAI integration with OpenClaw via a lightweight local proxy. Use when configuring Azure OpenAI as a model provider, when encountering 404 errors with Azure OpenAI in OpenClaw, or when needing to use Azure credits (e.g. Visual Studio subscription) with OpenClaw subagents. Solves the api-version query parameter issue that prevents direct Azure OpenAI integration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "benediktschackenberg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/benediktschackenberg/azure-proxy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/benediktschackenberg/azure-proxy"
+}

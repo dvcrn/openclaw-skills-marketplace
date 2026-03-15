@@ -1,0 +1,10 @@
+{
+  "name": "violalulu--lux3d",
+  "description": "Use Lux3D to generate 3D models from 2D images. Trigger conditions: when user asks to generate 3D model from image, image to 3D, convert image to 3D object, create 3D from photo, or any request involving 2D-to-3D conversion.",
+  "version": "1.0.0",
+  "author": {
+    "name": "violalulu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/violalulu/lux3d",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/violalulu/lux3d"
+}

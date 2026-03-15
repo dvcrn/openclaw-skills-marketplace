@@ -1,0 +1,10 @@
+{
+  "name": "itamarcoh3n--runpodctl",
+  "description": "Manage RunPod GPU pods, serverless endpoints, templates, network volumes, and models using the runpodctl CLI. Use when the user wants to list/create/stop/delete pods, manage serverless endpoints, check GPU availability, or manage RunPod resources.",
+  "version": "1.0.0",
+  "author": {
+    "name": "itamarcoh3n"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/itamarcoh3n/runpodctl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/itamarcoh3n/runpodctl"
+}

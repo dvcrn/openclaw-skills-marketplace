@@ -1,0 +1,10 @@
+{
+  "name": "dxsup--runtime-debug-skill",
+  "description": "Diagnose and fix bugs using runtime execution traces. Use when debugging errors, analyzing failures, or finding root causes in Python, Node.js, or Java applications.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dxsup"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dxsup/runtime-debug-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dxsup/runtime-debug-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "harrylabsj--context-preserver",
+  "description": "Preserve working context with automatic snapshots, on-demand recovery, version management, and context export tools. Use when you want to save progress before a risky change, recover an earlier state, or keep restorable context checkpoints across long-running work.",
+  "version": "1.0.1",
+  "author": {
+    "name": "harrylabsj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/context-preserver",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/context-preserver"
+}

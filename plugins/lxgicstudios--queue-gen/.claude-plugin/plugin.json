@@ -1,0 +1,10 @@
+{
+  "name": "lxgicstudios--queue-gen",
+  "description": "Generate BullMQ job queue setup and workers. Use when implementing background jobs.",
+  "version": "1.0.2",
+  "author": {
+    "name": "lxgicstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/queue-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/queue-gen"
+}

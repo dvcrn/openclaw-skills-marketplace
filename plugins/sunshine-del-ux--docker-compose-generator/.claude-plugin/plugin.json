@@ -1,0 +1,10 @@
+{
+  "name": "sunshine-del-ux--docker-compose-generator",
+  "description": "生成 Docker Compose 配置，支持 MySQL, PostgreSQL, Redis, MongoDB, Elasticsearch 等常用服务。",
+  "version": "1.0.1",
+  "author": {
+    "name": "sunshine-del-ux"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sunshine-del-ux/docker-compose-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sunshine-del-ux/docker-compose-generator"
+}

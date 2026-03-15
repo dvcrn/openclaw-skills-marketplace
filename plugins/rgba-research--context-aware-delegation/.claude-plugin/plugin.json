@@ -1,0 +1,10 @@
+{
+  "name": "rgba-research--context-aware-delegation",
+  "description": "Give isolated sessions (cron jobs, sub-agents, event handlers) full conversation context from your main session using sessions_history. Run cheap background tasks (Haiku) with expensive context (Sonnet-level awareness) — best of both worlds.",
+  "version": "1.0.2",
+  "author": {
+    "name": "rgba-research"
+  },
+  "homepage": "https://gitlab.com/rgba_research/context-aware-delegation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rgba-research/context-aware-delegation"
+}

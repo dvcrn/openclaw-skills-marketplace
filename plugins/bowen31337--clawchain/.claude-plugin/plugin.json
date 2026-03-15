@@ -1,0 +1,10 @@
+{
+  "name": "bowen31337--clawchain",
+  "description": "ClawChain RPC client for EvoClaw agents. Connects to Substrate-based blockchain, queries on-chain agent data, submits transactions, and enables agents to participate in on-chain governance and reputation tracking. Use when working with ClawChain L1 blockchain, agent DIDs, token economics, or agent reputation systems.",
+  "version": "1.0.1",
+  "author": {
+    "name": "bowen31337"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/clawchain",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bowen31337/clawchain"
+}

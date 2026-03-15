@@ -1,0 +1,10 @@
+{
+  "name": "gate-exchange--gate-exchange-simple-earn",
+  "description": "Query Gate Simple Earn (Uni) flexible. Use this skill whenever the user asks about Simple Earn, subscribe or redeem intent, position query, interest query, or top APY. Trigger phrases include \"Simple Earn\", \"Uni\", \"subscribe\", \"redeem\", \"flexible earn\", \"positions\", \"interest\", \"top APY\", or any request involving Simple Earn subscribe, redeem, positions, or interest.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gate-exchange"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-exchange-simple-earn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gate-exchange/gate-exchange-simple-earn"
+}

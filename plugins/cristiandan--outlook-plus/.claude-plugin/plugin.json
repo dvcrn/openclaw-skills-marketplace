@@ -1,0 +1,10 @@
+{
+  "name": "cristiandan--outlook-plus",
+  "description": "Read, search, and manage Outlook emails and calendar via Microsoft Graph API. Use when the user asks about emails, inbox, Outlook, Microsoft mail, calendar events, or scheduling.",
+  "version": "1.9.0",
+  "author": {
+    "name": "cristiandan"
+  },
+  "homepage": "https://github.com/cristiandan/outlook-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cristiandan/outlook-plus"
+}

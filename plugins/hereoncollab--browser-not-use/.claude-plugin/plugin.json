@@ -1,0 +1,10 @@
+{
+  "name": "hereoncollab--browser-not-use",
+  "description": "Provides browser navigation, DOM inspection, rendering validation, and web interaction capabilities for OpenClaw agents. Use when accessing webpages, validating browser compatibility, extracting content, or initializing browsing sessions.",
+  "version": "1.0.4",
+  "author": {
+    "name": "hereoncollab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hereoncollab/browser-not-use",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hereoncollab/browser-not-use"
+}

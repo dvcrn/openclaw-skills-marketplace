@@ -1,0 +1,10 @@
+{
+  "name": "daaab--nadname-agent",
+  "description": "🌐 Register .nad names on Monad blockchain via Nad Name Service (NNS). Real API integration with registerWithSignature, dynamic gas estimation, permanent ownership.",
+  "version": "2.0.0",
+  "author": {
+    "name": "daaab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/daaab/nadname-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/daaab/nadname-agent"
+}

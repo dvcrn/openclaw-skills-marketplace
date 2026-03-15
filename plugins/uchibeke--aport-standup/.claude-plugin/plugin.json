@@ -1,0 +1,10 @@
+{
+  "name": "uchibeke--aport-standup",
+  "description": "Generate a standup update from your APort policy decisions. Shows what you actually shipped — not what you remember shipping. Driven by signed APort decisions, not by memory or estimates.",
+  "version": "0.1.0",
+  "author": {
+    "name": "uchibeke"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/uchibeke/aport-standup",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/uchibeke/aport-standup"
+}

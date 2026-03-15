@@ -1,0 +1,10 @@
+{
+  "name": "voltagemonke--agent-wallet-usdc",
+  "description": "Multi-chain wallet management for AI agents. Create wallets, check balances, transfer tokens (USDC/native), and bridge cross-chain. Use when agents need to send/receive payments, check funds, or manage crypto wallets. Supports Solana, Base, and Ethereum. Trigger phrases include \"create wallet\", \"check balance\", \"send USDC\", \"transfer\", \"my addresses\", \"wallet status\".",
+  "version": "0.1.0",
+  "author": {
+    "name": "voltagemonke"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/voltagemonke/agent-wallet-usdc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/voltagemonke/agent-wallet-usdc"
+}

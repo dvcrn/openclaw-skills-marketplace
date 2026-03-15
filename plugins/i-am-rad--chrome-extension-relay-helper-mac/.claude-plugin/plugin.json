@@ -1,0 +1,10 @@
+{
+  "name": "i-am-rad--chrome-extension-relay-helper-mac",
+  "description": "Attach the OpenClaw Browser Relay Chrome extension to a live tab so the browser tool (profile=\"chrome\") works. Use this skill before any browser automation that requires Chrome extension relay access on macOS. Handles kill/launch/maximize/attach and verifies state via Peekaboo accessibility — no hardcoded coordinates, works at any screen size.",
+  "version": "1.0.0",
+  "author": {
+    "name": "i-am-rad"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/i-am-rad/chrome-extension-relay-helper-mac",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/i-am-rad/chrome-extension-relay-helper-mac"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "andreagriffiths11--agent-context-system",
+  "description": "A persistent local-only memory system for AI coding agents. Two files, one idea — AGENTS.md (committed, shared) + .agents.local.md (gitignored, personal). Agents read both at session start, update the scratchpad at session end, and promote stable patterns over time. Works across Claude Code, Cursor, Copilot, Windsurf. Subagent-ready. No plugins, no infrastructure, no background processes.",
+  "version": "1.3.2",
+  "author": {
+    "name": "andreagriffiths11"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andreagriffiths11/agent-context-system",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andreagriffiths11/agent-context-system"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xixihhhh--atlas-cloud-ai-api",
+  "description": "AI image generation, video generation, and LLM chat API — call Nano Banana 2, Seedream, Kling, Seedance, Qwen, DeepSeek and more through one unified API key via Atlas Cloud. Use this skill when the user needs to: generate images with AI (text-to-image, image editing, Nano Banana, Imagen, Seedream, Flux, DALL-E, Qwen-Image), generate videos with AI (text-to-video, image-to-video, Kling, Seedance, Vidu, Wan), call LLM chat APIs (Qwen, DeepSeek, GLM, Kimi, MiniMax, OpenAI-compatible format), integrate AI generation into their project, compare AI model pricing, or find a cheap AI API. Also trigger when users ask about AI API integration, serverless AI inference, or need a single API for multiple AI providers. Even if Atlas Cloud is not mentioned by name, consider this skill whenever the user wants to call AI generation or LLM APIs.",
+  "version": "1.0.5",
+  "author": {
+    "name": "xixihhhh"
+  },
+  "homepage": "https://github.com/AtlasCloudAI/nano-banana-2-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xixihhhh/atlas-cloud-ai-api"
+}

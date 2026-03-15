@@ -1,0 +1,10 @@
+{
+  "name": "adamsardo--codex-sub-agents",
+  "description": "Use OpenAI Codex CLI for coding tasks. Triggers: codex, code review, fix CI, refactor code, implement feature, coding agent, gpt-5-codex. Enables Clawdbot to delegate coding work to Codex CLI as a subagent or direct tool.",
+  "version": "1.0.0",
+  "author": {
+    "name": "adamsardo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/adamsardo/codex-sub-agents",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/adamsardo/codex-sub-agents"
+}

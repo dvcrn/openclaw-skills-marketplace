@@ -1,0 +1,10 @@
+{
+  "name": "cclank--news-aggregator-skill",
+  "description": "Comprehensive news aggregator that fetches, filters, and deeply analyzes real-time content from 8 major sources: Hacker News, GitHub Trending, Product Hunt, 36Kr, Tencent News, WallStreetCN, V2EX, and Weibo. Best for 'daily scans', 'tech news briefings', 'finance updates', and 'deep interpretations' of hot topics.",
+  "version": "0.1.0",
+  "author": {
+    "name": "cclank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cclank/news-aggregator-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cclank/news-aggregator-skill"
+}

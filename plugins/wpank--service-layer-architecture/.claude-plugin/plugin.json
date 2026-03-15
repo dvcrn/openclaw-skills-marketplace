@@ -1,0 +1,10 @@
+{
+  "name": "wpank--service-layer-architecture",
+  "description": "Controller-service-query layered API architecture with data enrichment and parallel fetching. Use when building REST APIs or GraphQL resolvers with clean separation of concerns. Triggers on API architecture, service layer, controller pattern, data enrichment, REST API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/service-layer-architecture",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/service-layer-architecture"
+}

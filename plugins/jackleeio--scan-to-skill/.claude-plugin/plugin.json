@@ -1,0 +1,10 @@
+{
+  "name": "jackleeio--scan-to-skill",
+  "description": "QR-based skill installer for ClawHub. Decodes QR images (Telegram uploads, screenshots, camera captures), extracts a valid skill slug or install command, and installs automatically via ClawHub CLI. Use for \"scan to install\" flows, especially when users send a QR image and want immediate one-step skill installation with result feedback.",
+  "version": "0.2.2",
+  "author": {
+    "name": "jackleeio"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jackleeio/scan-to-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jackleeio/scan-to-skill"
+}

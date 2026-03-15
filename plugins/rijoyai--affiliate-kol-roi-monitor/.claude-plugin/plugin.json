@@ -1,0 +1,10 @@
+{
+  "name": "rijoyai--affiliate-kol-roi-monitor",
+  "description": "Automate affiliate and KOL reconciliation, attribution, true ROAS, commission math, and renewal strategy. Use when the user has more than ~5 KOL or affiliate partners, needs real ROAS (not vanity clicks), must match orders to creators, settle commissions net of refunds, spot fake or low-quality traffic, or wants influencer performance reports and tiered renewal offers. Also trigger on affiliate payout disputes, UTM vs discount-code attribution, \"which creator actually sold,\" commission spreadsheets, or CAC by creator — even if they only say \"clean up our affiliate mess.\" Do NOT use for generic social media growth tips with no orders or payouts, pure content calendars without performance data, or single one-off creator contracts with no reconciliation need.",
+  "version": "0.1.0",
+  "author": {
+    "name": "rijoyai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rijoyai/affiliate-kol-roi-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rijoyai/affiliate-kol-roi-monitor"
+}

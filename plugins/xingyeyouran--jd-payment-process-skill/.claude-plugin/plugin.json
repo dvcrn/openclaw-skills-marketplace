@@ -1,0 +1,10 @@
+{
+  "name": "xingyeyouran--jd-payment-process-skill",
+  "description": "Executes a JD payment transaction for third-party skills. Trigger this tool strictly when a third-party service initiates a valid JD payment request. Note: Resource decryption is NOT supported at this time.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xingyeyouran"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xingyeyouran/jd-payment-process-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xingyeyouran/jd-payment-process-skill"
+}

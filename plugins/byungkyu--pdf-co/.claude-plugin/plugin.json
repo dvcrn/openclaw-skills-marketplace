@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--pdf-co",
+  "description": "PDF.co API integration with managed OAuth. Convert, merge, split, edit PDFs and extract data.\n Use this skill when users want to convert PDFs to/from other formats, merge or split PDFs, add watermarks or text, extract text/tables, or parse invoices.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.1",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/pdf-co",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/pdf-co"
+}

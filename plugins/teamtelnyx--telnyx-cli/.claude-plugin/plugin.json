@@ -1,0 +1,10 @@
+{
+  "name": "teamtelnyx--telnyx-cli",
+  "description": "Telnyx API integration for Clawdbot. Send SMS/email/WhatsApp messages, manage phone numbers, query call logs, debug webhooks, and access your Telnyx account. Use when you need to interact with Telnyx APIs via CLI, manage phone numbers and messaging, debug webhooks, or access account data.",
+  "version": "1.1.0",
+  "author": {
+    "name": "teamtelnyx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/teamtelnyx/telnyx-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/teamtelnyx/telnyx-cli"
+}

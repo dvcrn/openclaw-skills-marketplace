@@ -1,0 +1,10 @@
+{
+  "name": "ayushbherwani1998--gator-cli",
+  "description": "Use when you need to operate the @metamask/gator-cli to initialize profiles, upgrade EOA to EIP-7702, grant, redeem, and revoke ERC-7710 delegations, or inspect balances and delegations. Covers commands, required flags, grant scopes, redeem action types, configuration locations, and common usage flows.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ayushbherwani1998"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ayushbherwani1998/gator-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ayushbherwani1998/gator-cli"
+}

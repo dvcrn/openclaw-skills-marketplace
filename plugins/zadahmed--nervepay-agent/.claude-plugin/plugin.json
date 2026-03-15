@@ -1,0 +1,10 @@
+{
+  "name": "zadahmed--nervepay-agent",
+  "description": "Agent identity and analytics. Sign requests with Ed25519, track API usage, build reputation. Use after external API calls.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zadahmed"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zadahmed/nervepay-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zadahmed/nervepay-agent"
+}

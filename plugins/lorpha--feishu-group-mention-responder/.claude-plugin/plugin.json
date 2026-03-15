@@ -1,0 +1,10 @@
+{
+  "name": "lorpha--feishu-group-mention-responder",
+  "description": "在飞书群中，当机器人被@提及或接收到直接消息时，自动进行回复。",
+  "version": "1.0.0",
+  "author": {
+    "name": "lorpha"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lorpha/feishu-group-mention-responder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lorpha/feishu-group-mention-responder"
+}

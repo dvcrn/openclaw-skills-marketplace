@@ -1,0 +1,10 @@
+{
+  "name": "bastos--pass",
+  "description": "Complete guide for using pass, the standard Unix password manager. Use this skill whenever the user asks about pass, password-store, managing passwords from the terminal, GPG-encrypted passwords, setting up pass for the first time, inserting or generating passwords, syncing a password store with git, using pass-otp for TOTP codes, importing passwords from another manager, or any task involving the `pass` CLI. Trigger on phrases like \"set up pass\", \"add a password to pass\", \"sync my password store\", \"generate a password\", \"pass git\", \"pass-otp\", \"pass-import\", or any variation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bastos"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bastos/pass",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bastos/pass"
+}

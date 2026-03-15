@@ -1,0 +1,10 @@
+{
+  "name": "mmichelli--db-travel",
+  "description": "Plan journeys across Germany and Europe using the Deutsche Bahn API (v6.db.transport.rest). Covers ICE, IC, regional trains, S-Bahn, U-Bahn, trams, buses, ferries. Use when: (1) planning trips in Germany or cross-border European rail, (2) checking departure/arrival boards at German/European stations, (3) finding station IDs, (4) navigating cities like Berlin, Munich, Hamburg. Triggers on questions about German trains, DB, BVG, getting around Berlin, European rail connections.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mmichelli"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mmichelli/db-travel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mmichelli/db-travel"
+}

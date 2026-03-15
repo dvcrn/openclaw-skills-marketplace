@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--evolution-drift-detector",
+  "description": "Helps detect when AI agent skills silently mutate across inheritance chains. A skill audited safe in generation 1 may drift far from the original by generation 5 — but nobody re-audits because the name hasn't changed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/evolution-drift-detector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/evolution-drift-detector"
+}

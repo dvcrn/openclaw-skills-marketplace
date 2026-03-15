@@ -1,0 +1,10 @@
+{
+  "name": "737999--gridtrx",
+  "description": "Double-entry, full-cycle accounting suite built for AI agents. Converts bank CSVs, OFX, and QBO files into balanced, auditable books — balance sheet, income statement, general ledger, trial balance. All data stays in a single local SQLite file.",
+  "version": "0.1.21",
+  "author": {
+    "name": "737999"
+  },
+  "homepage": "https://github.com/gridtrx/gridtrx",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/737999/gridtrx"
+}

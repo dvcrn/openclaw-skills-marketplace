@@ -1,0 +1,10 @@
+{
+  "name": "quanru--midscene-computer-chrome-bridge",
+  "description": "Vision-driven browser automation using Midscene Bridge mode. Operates entirely from screenshots — no DOM or accessibility labels required. Can interact with all visible elements on screen regardless of technology stack.\n\n This mode connects to the user's desktop Chrome browser via the Midscene Chrome Extension, preserving cookies, sessions, and login state.\n\n Use this skill when the user wants to:\n - Browse, navigate, or open web pages in the user's own Chrome browser\n - Interact with pages that require login sessions, cookies, or existing browser state\n - Scrape, extract, or collect data from websites using the user's real browser\n - Fill out forms, click buttons, or interact with web elements\n - Verify, validate, or test frontend UI behavior\n - Take screenshots of web pages\n - Automate multi-step web workflows\n - Check website content or appearance\n\n Powered by Midscene.js (https://midscenejs.com)",
+  "version": "1.0.3",
+  "author": {
+    "name": "quanru"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/quanru/midscene-computer-chrome-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/quanru/midscene-computer-chrome-bridge"
+}

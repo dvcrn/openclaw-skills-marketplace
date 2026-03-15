@@ -1,0 +1,10 @@
+{
+  "name": "cuifangxu123--analyse-data",
+  "description": "Data analysis skill providing three core functions: data analysis, data interpretation, and data visualization.\n \n **Use Cases**:\n (1) Data Analysis - Statistics, filtering, aggregation, calculation (e.g., \"Calculate total sales\", \"Filter data greater than 100\")\n (2) Data Interpretation - Trend analysis, pattern discovery, report generation (e.g., \"Analyze sales trends\", \"Interpret data changes\")\n (3) Data Visualization - Chart generation, data display (e.g., \"Draw a bar chart\", \"Generate a pie chart\")\n \n **Trigger Keywords**: analyze data, statistics, calculate, interpret trends, generate chart, visualize, plot\n \n **Prerequisites**: Set environment variable CHARTGEN_API_KEY (obtain from chartgen.ai)",
+  "version": "1.0.2",
+  "author": {
+    "name": "cuifangxu123"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cuifangxu123/analyse-data",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cuifangxu123/analyse-data"
+}

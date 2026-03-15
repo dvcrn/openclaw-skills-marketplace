@@ -1,0 +1,10 @@
+{
+  "name": "dougbtv--social-ops",
+  "description": "Role-based social media operations skill. Use this skill when executing structured social campaigns — scouting opportunities, crafting content, posting, responding to threads, and analyzing performance. Designed for Moltbook engagement but adaptable to any platform and persona. Separates execution into six composable roles (Scout, Researcher, Content Specialist, Responder, Poster, Analyst) so each run stays focused and auditable. Activate this skill for any social ops task: opportunity detection, content pipeline management, community engagement, or performance review.",
+  "version": "0.0.13",
+  "author": {
+    "name": "dougbtv"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dougbtv/social-ops",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dougbtv/social-ops"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "rubenaquispe--frankenstein",
+  "description": "Combine the best parts of multiple skills into one. Searches ClawHub, GitHub, skills.sh, skillsmp.com and other AI skill repos. Analyzes each safely, compares features, and builds a combined 'Frankenstein' skill with the best of each. Uses skill-auditor for security scanning and sandwrap for safe analysis. Use when: (1) Multiple skills exist for same purpose, (2) Want best-of-breed combination, (3) Building a comprehensive skill from fragments.",
+  "version": "1.2.0",
+  "author": {
+    "name": "rubenaquispe"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rubenaquispe/frankenstein",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rubenaquispe/frankenstein"
+}

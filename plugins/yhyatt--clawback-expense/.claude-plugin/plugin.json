@@ -1,0 +1,10 @@
+{
+  "name": "yhyatt--clawback-expense",
+  "description": "Group expense splitting via natural language. Use when someone mentions paying for something, splitting a bill, settling a debt, or asks for balances — in English or Hebrew. Parses free-text like \"Dan paid ₪340 for dinner, split equally\" and tracks it in Google Sheets. Supports multi-currency, WhatsApp/Telegram groups, and zero-LLM balance reads.",
+  "version": "1.1.0",
+  "author": {
+    "name": "yhyatt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yhyatt/clawback-expense",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yhyatt/clawback-expense"
+}

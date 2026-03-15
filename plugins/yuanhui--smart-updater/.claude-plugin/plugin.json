@@ -1,0 +1,10 @@
+{
+  "name": "yuanhui--smart-updater",
+  "description": "Intelligent upgrade management for OpenClaw skills, extensions, and core. HITL (Human-in-the-Loop) mode: scan installed assets, read changelogs, analyze risk, recommend upgrades, then execute only what the user approves. Use when: (1) user asks to check for updates or 检查升级, (2) user asks what's installed or 装了什么, (3) user wants to upgrade a specific skill/extension/plugin, (4) user mentions update/upgrade/版本/新版本, (5) periodic upgrade check via cron. Covers npm packages, ClawHub skills, GitHub-cloned skills, and OpenClaw core.",
+  "version": "1.1.0",
+  "author": {
+    "name": "yuanhui"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yuanhui/smart-updater",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yuanhui/smart-updater"
+}

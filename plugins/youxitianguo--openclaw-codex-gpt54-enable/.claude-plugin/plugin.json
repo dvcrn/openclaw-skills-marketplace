@@ -1,0 +1,10 @@
+{
+  "name": "youxitianguo--openclaw-codex-gpt54-enable",
+  "description": "Enable `openai-codex/gpt-5.4` in OpenClaw through a config-layer patch instead of rebuilding the app. Use when `openai/gpt-5.4` already works but Codex GPT-5.4 is blocked or missing, and you want a repeatable verification + rollback workflow.",
+  "version": "1.0.0",
+  "author": {
+    "name": "youxitianguo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/youxitianguo/openclaw-codex-gpt54-enable",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/youxitianguo/openclaw-codex-gpt54-enable"
+}

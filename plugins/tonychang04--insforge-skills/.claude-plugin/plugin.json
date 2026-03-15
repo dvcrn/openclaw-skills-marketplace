@@ -1,0 +1,10 @@
+{
+  "name": "tonychang04--insforge-skills",
+  "description": "Create and manage InsForge projects using the CLI. Handles authentication, project setup, database management, edge functions, storage, deployments, and secrets. For writing application code with the InsForge SDK, use the insforge (SDK) skill instead.",
+  "version": "1.0.0",
+  "author": {
+    "name": "tonychang04"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/tonychang04/insforge-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/tonychang04/insforge-skills"
+}

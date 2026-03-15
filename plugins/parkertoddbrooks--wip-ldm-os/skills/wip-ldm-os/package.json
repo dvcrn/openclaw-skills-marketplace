@@ -1,0 +1,35 @@
+{
+  "name": "@wipcomputer/wip-ldm-os",
+  "version": "0.2.10",
+  "type": "module",
+  "description": "LDM OS: identity, memory, and sovereignty infrastructure for AI agents",
+  "main": "src/boot/boot-hook.mjs",
+  "bin": {
+    "ldm": "bin/ldm.js",
+    "wip-ldm-os": "bin/ldm.js",
+    "ldm-scaffold": "bin/scaffold.sh",
+    "ldm-boot-install": "src/boot/install-cli.js"
+  },
+  "claudeCode": {
+    "hook": {
+      "event": "SessionStart",
+      "matcher": "*",
+      "command": "node /Users/lesa/.ldm/shared/boot/boot-hook.mjs",
+      "timeout": 15
+    }
+  },
+  "files": [
+    "src/",
+    "lib/",
+    "bin/",
+    "templates/",
+    "catalog.json",
+    "SKILL.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wipcomputer/wip-ldm-os-private.git"
+  },
+  "author": "WIP Computer, Inc.",
+  "license": "MIT"
+}

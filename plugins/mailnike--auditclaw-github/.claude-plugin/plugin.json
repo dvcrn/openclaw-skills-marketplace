@@ -1,0 +1,10 @@
+{
+  "name": "mailnike--auditclaw-github",
+  "description": "GitHub compliance evidence collection for auditclaw-grc. 9 read-only checks covering branch protection, secret scanning, 2FA, Dependabot, deploy keys, audit logs, webhooks, CODEOWNERS, and CI/CD security.",
+  "version": "1.0.2",
+  "author": {
+    "name": "mailnike"
+  },
+  "homepage": "https://www.auditclaw.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mailnike/auditclaw-github"
+}

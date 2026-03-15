@@ -1,0 +1,10 @@
+{
+  "name": "2944721178--mikrotik",
+  "description": "通过 API 连接和管理 MikroTik RouterOS 设备。支持查看设备状态、防火墙规则、网络配置，执行自定义 RouterOS 命令。",
+  "version": "1.8.5",
+  "author": {
+    "name": "2944721178"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/2944721178/mikrotik",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/2944721178/mikrotik"
+}

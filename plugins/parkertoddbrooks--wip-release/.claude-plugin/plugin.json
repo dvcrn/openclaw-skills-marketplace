@@ -1,0 +1,10 @@
+{
+  "name": "parkertoddbrooks--wip-release",
+  "description": "One-command release pipeline. Bumps version, updates changelog + SKILL.md, publishes to npm + GitHub.",
+  "version": "1.9.6",
+  "author": {
+    "name": "parkertoddbrooks"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/parkertoddbrooks/wip-release",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/parkertoddbrooks/wip-release"
+}

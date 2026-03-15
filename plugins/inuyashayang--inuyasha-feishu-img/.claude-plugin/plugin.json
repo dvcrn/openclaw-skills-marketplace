@@ -1,0 +1,10 @@
+{
+  "name": "inuyashayang--inuyasha-feishu-img",
+  "description": "Feishu IM messaging operations: send messages, images, files to users and groups via Bot API.\n Activate when user mentions: 飞书发图、发送图片、飞书消息、im:resource、image_key、飞书附件、飞书机器人发消息。",
+  "version": "1.0.0",
+  "author": {
+    "name": "inuyashayang"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/inuyashayang/inuyasha-feishu-img",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/inuyashayang/inuyasha-feishu-img"
+}

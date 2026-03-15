@@ -1,0 +1,10 @@
+{
+  "name": "anthonyfrancis--openclaw-checkpoint",
+  "description": "Backup and restore OpenClaw workspace state and agents across machines using git. Enables disaster recovery by syncing SOUL.md, MEMORY.md, memory files, cron jobs, agents (~/.openclaw/agents/), and configuration to a remote repository. Use when user wants to checkpoint their OpenClaw state, restore on a new machine, migrate between computers, or protect against data loss. Provides commands checkpoint (help overview), checkpoint-setup (interactive onboarding), checkpoint-backup, checkpoint-restore (with interactive checkpoint selection or --latest for most recent), checkpoint-schedule (auto-backup), checkpoint-stop, checkpoint-status, checkpoint-init, and checkpoint-reset. Supports multi-agent backup with flags --workspace-only, --agents-only, and --agent <name>. Automatically backs up cron jobs to memory/cron-jobs-backup.json on each checkpoint-backup.",
+  "version": "1.0.5",
+  "author": {
+    "name": "anthonyfrancis"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/anthonyfrancis/openclaw-checkpoint",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/anthonyfrancis/openclaw-checkpoint"
+}

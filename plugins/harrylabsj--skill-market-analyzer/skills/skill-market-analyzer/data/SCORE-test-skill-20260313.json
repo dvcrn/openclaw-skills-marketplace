@@ -1,0 +1,20 @@
+{
+  "opportunity": "Test Skill",
+  "score": 6.4,
+  "generated": "2026-03-13T02:38:12Z",
+  "breakdown": {
+    "demand": 8,
+    "competition": 3,
+    "quality_gap": 5,
+    "strategic_fit": 5,
+    "effort": 5
+  },
+  "calculations": {
+    "demand_contribution": 8,
+    "competition_contribution": 8,
+    "quality_contribution": 5,
+    "fit_contribution": 5,
+    "effort_contribution": 6
+  },
+  "recommendation": "Good opportunity - consider pursuing"
+}

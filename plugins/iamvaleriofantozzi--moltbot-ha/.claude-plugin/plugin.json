@@ -1,0 +1,10 @@
+{
+  "name": "iamvaleriofantozzi--moltbot-ha",
+  "description": "Control Home Assistant smart home devices, lights, scenes, and automations via moltbot-ha CLI with configurable safety confirmations.",
+  "version": "0.1.1",
+  "author": {
+    "name": "iamvaleriofantozzi"
+  },
+  "homepage": "https://github.com/iamvaleriofantozzi/moltbot-ha",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/iamvaleriofantozzi/moltbot-ha"
+}

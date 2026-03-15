@@ -1,0 +1,10 @@
+{
+  "name": "nhannah--venice-ai-media",
+  "description": "Generate, edit, and upscale images; create videos from images via Venice AI. Supports text-to-image, image-to-video (Sora, WAN), upscaling, and AI editing.",
+  "version": "1.0.2",
+  "author": {
+    "name": "nhannah"
+  },
+  "homepage": "https://venice.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nhannah/venice-ai-media"
+}

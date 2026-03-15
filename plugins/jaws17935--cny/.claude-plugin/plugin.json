@@ -1,0 +1,10 @@
+{
+  "name": "jaws17935--cny",
+  "description": "Auto-fetch Bank of Taiwan CNY exchange rates and calculate tiered pricing (base cost, 10K discount, 50K discount) using the Prairie Grasslands formula. Use when: (1) User needs current CNY exchange rate calculations, (2) Setting up automated CNY rate monitoring, (3) Calculating exchange rates with tiered discounts for business purposes. REQUIRES channel configuration to send output. Supports Telegram, Discord, Slack, Signal, WhatsApp, iMessage, IRC, Google Chat, and webhooks. Auto-detects OpenClaw system configuration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jaws17935"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jaws17935/cny",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jaws17935/cny"
+}

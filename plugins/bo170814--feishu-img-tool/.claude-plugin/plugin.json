@@ -1,0 +1,10 @@
+{
+  "name": "bo170814--feishu-img-tool",
+  "description": "Feishu image upload and send tool. Send images to Feishu chats by uploading first then sending with image_key.\n Usage: `node feishu-image-tool.js send --target <open_id> --file <path>`",
+  "version": "1.0.1",
+  "author": {
+    "name": "bo170814"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bo170814/feishu-img-tool",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bo170814/feishu-img-tool"
+}

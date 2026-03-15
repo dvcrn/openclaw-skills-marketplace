@@ -1,0 +1,10 @@
+{
+  "name": "primer-dev--erc-800claw",
+  "description": "The OpenClaw entry point for ERC-8004 agent identity and reputation. Register agents on-chain, query identities, give and receive feedback ratings.",
+  "version": "0.1.1",
+  "author": {
+    "name": "primer-dev"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/primer-dev/erc-800claw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/primer-dev/erc-800claw"
+}

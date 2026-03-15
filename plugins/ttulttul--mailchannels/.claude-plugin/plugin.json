@@ -1,0 +1,10 @@
+{
+  "name": "ttulttul--mailchannels",
+  "description": "Send email via MailChannels Email API and ingest signed delivery-event webhooks into Clawdbot (Moltbot).",
+  "version": "1.0.0",
+  "author": {
+    "name": "ttulttul"
+  },
+  "homepage": "https://docs.mailchannels.net/email-api/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ttulttul/mailchannels"
+}

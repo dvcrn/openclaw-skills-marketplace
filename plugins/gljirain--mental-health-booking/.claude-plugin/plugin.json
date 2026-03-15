@@ -1,0 +1,10 @@
+{
+  "name": "gljirain--mental-health-booking",
+  "description": "Book same-day psychiatric and mental health telehealth appointments through conversation — no forms, no portals. Covers ADHD, anxiety, depression, insomnia, OCD, PTSD, and narcolepsy across 51 US states. Connects you with board-certified providers from curated telehealth platforms including Klarity Health, One Behavior, ABHolistic, and others. Accepts 50+ insurance carriers (Aetna, Cigna, BCBS, UHC, and more) or cash pay. The agent handles provider search and booking in one conversation. Use when a user wants to: (1) see a psychiatrist or psychiatric NP, (2) get evaluated for ADHD, anxiety, or other mental health conditions, (3) book a virtual/telehealth mental health appointment, (4) find a provider who accepts their insurance for psychiatric care, (5) get same-day or next-day mental health help. NOT for: therapy/counseling (talk therapy), primary care, emergency/crisis situations, prescription refills without evaluation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gljirain"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gljirain/mental-health-booking",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gljirain/mental-health-booking"
+}

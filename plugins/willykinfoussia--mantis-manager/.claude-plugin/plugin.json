@@ -1,0 +1,10 @@
+{
+  "name": "willykinfoussia--mantis-manager",
+  "description": "Manage Mantis Bug Tracker (issues, projects, users, filters, configs) via the official Mantis REST API. Supports full CRUD operations on issues, projects, users, attachments, notes, tags, relationships, and configuration management. Features dynamic instance switching with context-aware base URL and token resolution.",
+  "version": "0.0.1",
+  "author": {
+    "name": "willykinfoussia"
+  },
+  "homepage": "https://www.mantisbt.org/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/willykinfoussia/mantis-manager"
+}

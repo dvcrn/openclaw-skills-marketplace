@@ -1,0 +1,10 @@
+{
+  "name": "xuanranc--junyi-archive",
+  "description": "自动归档 — A knowledge management system for families that captures, distills, and organizes information into a three-layer Obsidian vault: Inbox (raw capture by scene), Cognition (distilled insights by 5 dimensions), and Guidebook (proven reusable guides). Triggers when user mentions \"自动归档\", \"归档\", \"享育心塾萃取器\", \"萃取器\", or asks to save/store/organize any information — articles, reading notes, class notes, children's words, conversations, ideas, reflections, quotes, or any content they want to keep. Also triggers on \"save this\", \"remember this\", \"file this away\", \"put this in my notes\", \"store this for later\", \"记下来\", \"存一下\", \"帮我记\", \"存到知识库\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "xuanranc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xuanranc/junyi-archive",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xuanranc/junyi-archive"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "davida-ps--clawsec-suite",
+  "description": "ClawSec suite manager with embedded advisory-feed monitoring, cryptographic signature verification, approval-gated malicious-skill response, and guided setup for additional security skills.",
+  "version": "0.1.4",
+  "author": {
+    "name": "davida-ps"
+  },
+  "homepage": "https://clawsec.prompt.security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davida-ps/clawsec-suite"
+}

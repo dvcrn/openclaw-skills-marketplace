@@ -1,0 +1,10 @@
+{
+  "name": "liujialin1517-source--excel-sum",
+  "description": "计算 Excel 文件第一列数值的总和。当用户请求对 Excel 文件进行求和、统计第一列总和或类似操作时使用此技能。",
+  "version": "1.0.0",
+  "author": {
+    "name": "liujialin1517-source"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/liujialin1517-source/excel-sum",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/liujialin1517-source/excel-sum"
+}

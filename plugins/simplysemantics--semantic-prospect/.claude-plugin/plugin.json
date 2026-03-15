@@ -1,0 +1,10 @@
+{
+  "name": "simplysemantics--semantic-prospect",
+  "description": "AI-powered semantic lead prospecting – discovers, qualifies, and enriches high-intent business opportunities from web communities, forums, Reddit, and public discussions. Returns prioritized prospect records with intent scores, context notes, and agent-ready actions. Free tier includes Brave Search and LLM queries — no third-party API keys needed. Lightweight SaaS component from Simply Semantics for sales bots, AI agents, enrichment, and outbound workflows.",
+  "version": "1.0.1",
+  "author": {
+    "name": "simplysemantics"
+  },
+  "homepage": "https://www.simplysemantics.com/semantic-prospect.html",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/simplysemantics/semantic-prospect"
+}

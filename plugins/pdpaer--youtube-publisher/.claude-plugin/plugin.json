@@ -1,0 +1,10 @@
+{
+  "name": "pdpaer--youtube-publisher",
+  "description": "YouTube 视频自动上传工具。支持视频上传、设置标题/描述/标签/缩略图、管理频道和播放列表。基于 YouTube Data API v3 + OAuth 2.0。",
+  "version": "1.0.0",
+  "author": {
+    "name": "pdpaer"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/pdpaer/youtube-publisher",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/pdpaer/youtube-publisher"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ide-rea--deepresearch-conversation",
+  "description": "Deep ReSearch Conversation is provided by Baidu for multi-round streaming conversations with \"Deep Research\" agents. \"In-depth research\" is a long-process task involving multi-step reasoning and execution, which is different from the ordinary \"question-and-answer\". A dialogue that requires the user to repeatedly verify and correct it until a satisfactory answer is reached.",
+  "version": "1.1.2",
+  "author": {
+    "name": "ide-rea"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ide-rea/deepresearch-conversation",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ide-rea/deepresearch-conversation"
+}

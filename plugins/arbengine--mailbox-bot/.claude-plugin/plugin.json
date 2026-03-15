@@ -1,0 +1,10 @@
+{
+  "name": "arbengine--mailbox-bot",
+  "description": "Get a shipping address for your AI agent. Receive packages from FedEx, UPS, DHL, Amazon. Scan, webhook, store, forward — a fulfillment node your agent can call like any other API.",
+  "version": "2.0.1",
+  "author": {
+    "name": "arbengine"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/arbengine/mailbox-bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/arbengine/mailbox-bot"
+}

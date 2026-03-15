@@ -1,0 +1,10 @@
+{
+  "name": "autume--meshtastic-detection",
+  "description": "Receive DETECTION_SENSOR_APP alerts from Meshtastic LoRa devices via USB. When the remote sensor GPIO triggers (preset target detected), store the event and alert the user immediately.",
+  "version": "0.1.1",
+  "author": {
+    "name": "autume"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/autume/meshtastic-detection",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/autume/meshtastic-detection"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "macterra--archon-nostr",
+  "description": "Derive Nostr identity (npub/nsec) from Archon DID. Use when unifying DID and Nostr identities so both use the same secp256k1 key. Requires existing Archon wallet with ARCHON_PASSPHRASE set.",
+  "version": "0.1.0",
+  "author": {
+    "name": "macterra"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/macterra/archon-nostr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/macterra/archon-nostr"
+}

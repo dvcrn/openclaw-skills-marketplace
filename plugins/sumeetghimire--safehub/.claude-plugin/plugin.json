@@ -1,0 +1,10 @@
+{
+  "name": "sumeetghimire--safehub",
+  "description": "Scan OpenClaw skills for malware and security issues before installation. Use when the user wants to verify a skill is safe, audit a ClawHub skill, or check a local or GitHub skill.",
+  "version": "1.0.2",
+  "author": {
+    "name": "sumeetghimire"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sumeetghimire/safehub",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sumeetghimire/safehub"
+}

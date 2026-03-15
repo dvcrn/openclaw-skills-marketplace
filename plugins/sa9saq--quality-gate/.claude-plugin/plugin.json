@@ -1,0 +1,10 @@
+{
+  "name": "sa9saq--quality-gate",
+  "description": "Quality gates for code and operations. Enforce build, lint, test pass before deployment. Auto-triggers before commits and deploys.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sa9saq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sa9saq/quality-gate",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sa9saq/quality-gate"
+}

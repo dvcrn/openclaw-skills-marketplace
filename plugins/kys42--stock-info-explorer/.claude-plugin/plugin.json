@@ -1,0 +1,10 @@
+{
+  "name": "kys42--stock-info-explorer",
+  "description": "A Yahoo Finance (yfinance) powered financial analysis tool. Get real-time quotes, generate high-resolution charts with moving averages + indicators (RSI/MACD/Bollinger/VWAP/ATR), summarize fundamentals, and run a one-shot report that outputs both a text summary and a Pro chart.",
+  "version": "1.2.10",
+  "author": {
+    "name": "kys42"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kys42/stock-info-explorer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kys42/stock-info-explorer"
+}

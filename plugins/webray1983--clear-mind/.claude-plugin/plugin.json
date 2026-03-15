@@ -1,0 +1,10 @@
+{
+  "name": "webray1983--clear-mind",
+  "description": "Memory file maintenance and optimization system. Use when factual information (portfolio, projects, technical details) accumulates in MEMORY.md, or when periodic memory cleanup is needed. Migrates factual content to separate files, keeps only core rules and indexes in MEMORY.md, maintains Quick Index table for navigation. Size/line count is NOT a trigger — only factual bloat matters.",
+  "version": "1.0.2",
+  "author": {
+    "name": "webray1983"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/webray1983/clear-mind",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/webray1983/clear-mind"
+}

@@ -1,0 +1,18 @@
+{
+  "skills": {
+    "entries": {
+      "tinkclaw": {
+        "enabled": true,
+        "env": {
+          "TINKCLAW_API_KEY": "tinkclaw_agent_YOUR_KEY_HERE"
+        },
+        "config": {
+          "endpoint": "https://api.tinkclaw.com",
+          "symbols": ["BTC", "ETH", "AAPL", "NVDA", "EURUSD"],
+          "predict_interval_hours": 4,
+          "min_confidence": 65
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bjesuiter--bridle",
+  "description": "Unified configuration manager for AI coding assistants. Manage profiles, install skills/agents/commands, and switch configurations across Claude Code, OpenCode, Goose, and Amp.",
+  "version": "1.1.0",
+  "author": {
+    "name": "bjesuiter"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bjesuiter/bridle",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bjesuiter/bridle"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bytesagain1--certcheck",
+  "description": "SSL/TLS certificate checker and analyzer. Inspect SSL certificates for any domain, check expiration dates, verify certificate chain, detect security issues, and monitor certificate validity. Get alerted before your SSL certificates expire.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bytesagain1"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bytesagain1/certcheck",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bytesagain1/certcheck"
+}

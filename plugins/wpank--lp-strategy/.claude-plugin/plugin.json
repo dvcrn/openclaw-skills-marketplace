@@ -1,0 +1,10 @@
+{
+  "name": "wpank--lp-strategy",
+  "description": "Comprehensive LP strategy comparison for a token pair — evaluates all versions, fee tiers, range widths, and rebalance approaches side-by-side with APY, IL, gas costs, and risk ratings. Use when the user wants to compare LP options or see a detailed analysis of all strategies.",
+  "version": "0.1.0",
+  "author": {
+    "name": "wpank"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wpank/lp-strategy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wpank/lp-strategy"
+}

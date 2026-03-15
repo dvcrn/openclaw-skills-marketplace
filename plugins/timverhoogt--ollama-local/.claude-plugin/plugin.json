@@ -1,0 +1,10 @@
+{
+  "name": "timverhoogt--ollama-local",
+  "description": "Manage and use local Ollama models. Use for model management (list/pull/remove), chat/completions, embeddings, and tool-use with local LLMs. Covers OpenClaw sub-agent integration and model selection guidance.",
+  "version": "1.1.0",
+  "author": {
+    "name": "timverhoogt"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/timverhoogt/ollama-local",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/timverhoogt/ollama-local"
+}

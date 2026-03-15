@@ -1,0 +1,10 @@
+{
+  "name": "hundevmode--dievio-lead-search-api",
+  "description": "Run Dievio lead search and LinkedIn lookup workflows through the public API with correct authentication, filters, pagination, and credit-aware handling. Use this skill when users need to find B2B leads, enrich LinkedIn URLs with emails/phones, apply Dievio filter fields, or iterate across paginated API results safely.",
+  "version": "1.0.3",
+  "author": {
+    "name": "hundevmode"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/hundevmode/dievio-lead-search-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hundevmode/dievio-lead-search-api"
+}

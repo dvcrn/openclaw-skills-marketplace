@@ -1,0 +1,10 @@
+{
+  "name": "crazypeace--telethon-session",
+  "description": "Generate Telethon .session files for user-account login to Telegram. Use when: (1) user wants to test a Telegram bot as a real user, (2) user needs to interact with Telegram via user identity, (3) creating a Telegram session for Telethon-based automation, (4) mentions telethon, telegram session, or user-account login. NOT for: bot-token-based bots (no session needed).",
+  "version": "1.0.0",
+  "author": {
+    "name": "crazypeace"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/crazypeace/telethon-session",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/crazypeace/telethon-session"
+}

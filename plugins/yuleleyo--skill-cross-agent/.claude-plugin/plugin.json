@@ -1,0 +1,10 @@
+{
+  "name": "yuleleyo--skill-cross-agent",
+  "description": "跨机器Agent协作 - 通过SSH连接局域网内其他OpenClaw实例，实现多机任务分发",
+  "version": "1.0.0",
+  "author": {
+    "name": "yuleleyo"
+  },
+  "homepage": "https://docs.openclaw.ai/skills/cross-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yuleleyo/skill-cross-agent"
+}

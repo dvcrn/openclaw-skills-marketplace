@@ -1,0 +1,10 @@
+{
+  "name": "johnnywang2001--agent-invoice-generator",
+  "description": "Generate professional PDF invoices from natural language or structured data. Use when the user asks to create an invoice, bill a client, generate a receipt, track payments, or manage invoicing. Supports line items, tax calculation, discounts, multiple currencies, recurring invoices, and payment tracking. Outputs clean PDF invoices ready to send.",
+  "version": "1.0.0",
+  "author": {
+    "name": "johnnywang2001"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/agent-invoice-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/johnnywang2001/agent-invoice-generator"
+}

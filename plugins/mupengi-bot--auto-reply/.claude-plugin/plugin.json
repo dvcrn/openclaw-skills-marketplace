@@ -1,0 +1,10 @@
+{
+  "name": "mupengi-bot--auto-reply",
+  "description": "Instagram DM auto-reply system. DM monitoring, reading, replying, security check (injection rejection). Use when checking Instagram DMs, reading unread messages, replying to DMs, setting up DM monitoring cron jobs, or handling DM auto-reply workflows. Triggers on: Instagram DM, DM check, DM reply, DM auto-reply, dm-alert.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mupengi-bot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/auto-reply",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mupengi-bot/auto-reply"
+}

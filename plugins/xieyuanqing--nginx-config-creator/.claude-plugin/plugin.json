@@ -1,0 +1,10 @@
+{
+  "name": "xieyuanqing--nginx-config-creator",
+  "description": "Creates a standard Nginx/OpenResty reverse proxy config file for a service and reloads the web server. Features safety checks and environment awareness. Takes service name, domain, and port as main arguments.",
+  "version": "0.1.1",
+  "author": {
+    "name": "xieyuanqing"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xieyuanqing/nginx-config-creator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xieyuanqing/nginx-config-creator"
+}

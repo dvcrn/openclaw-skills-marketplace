@@ -1,0 +1,10 @@
+{
+  "name": "nonlinear--backstage",
+  "description": "Anti-drift protocol script. Ensures parity between docs and system. Triggers: 'bom dia PROJECT' / 'good morning PROJECT' (load project context with health checks)",
+  "version": "1.0.4",
+  "author": {
+    "name": "nonlinear"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nonlinear/backstage",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nonlinear/backstage"
+}

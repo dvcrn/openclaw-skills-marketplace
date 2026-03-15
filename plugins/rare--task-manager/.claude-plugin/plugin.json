@@ -1,0 +1,10 @@
+{
+  "name": "rare--task-manager",
+  "description": "SQLite-based task management with priority, tags, and stats. Database stored in skill directory for natural isolation.",
+  "version": "1.1.0",
+  "author": {
+    "name": "rare"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rare/task-manager",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rare/task-manager"
+}

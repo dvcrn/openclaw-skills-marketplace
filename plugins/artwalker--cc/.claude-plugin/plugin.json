@@ -1,0 +1,10 @@
+{
+  "name": "artwalker--cc",
+  "description": "Short slash command wrapper for Claude relay sessions. Use when the user wants concise /cc commands like /cc projects, /cc on <project>, /cc tail, /cc off, or /cc <message> to continue talking to Claude Code in the current project session.",
+  "version": "1.1.0",
+  "author": {
+    "name": "artwalker"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/artwalker/cc",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/artwalker/cc"
+}

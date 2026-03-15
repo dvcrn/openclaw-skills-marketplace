@@ -1,0 +1,13 @@
+{
+  "name": "waimai",
+  "version": "0.2.5",
+  "description": "Browser assistant for manual Eleme browsing and order preparation.",
+  "license": "MIT",
+  "bin": {
+    "waimai": "./scripts/waimai.js"
+  },
+  "keywords": ["waimai", "eleme", "browser-assistant"],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

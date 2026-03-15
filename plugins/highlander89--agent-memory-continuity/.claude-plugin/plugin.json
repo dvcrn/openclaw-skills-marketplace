@@ -1,0 +1,10 @@
+{
+  "name": "highlander89--agent-memory-continuity",
+  "description": "Solve the \"agent forgot everything\" problem with search-first protocol, automated memory sync, and context preservation. No more conversation restarts!",
+  "version": "1.0.0",
+  "author": {
+    "name": "highlander89"
+  },
+  "homepage": "https://sapconet.co.za",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/highlander89/agent-memory-continuity"
+}

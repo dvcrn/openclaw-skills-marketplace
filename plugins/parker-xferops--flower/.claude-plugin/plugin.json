@@ -1,0 +1,10 @@
+{
+  "name": "parker-xferops--flower",
+  "description": "Manage projects and tasks with the Flower project management API via MCP. Use when creating, updating, or searching tasks/tickets, managing projects and columns, or integrating with Flower/Kanban boards. Requires @xferops/flower-mcp and a Flower API token.",
+  "version": "1.0.4",
+  "author": {
+    "name": "parker-xferops"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/parker-xferops/flower",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/parker-xferops/flower"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--coda-api",
+  "description": "Coda API integration with managed OAuth. Manage docs, pages, tables, rows, and formulas.\n Use this skill when users want to read, create, update, or delete Coda docs, pages, tables, or rows.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/coda-api",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/coda-api"
+}

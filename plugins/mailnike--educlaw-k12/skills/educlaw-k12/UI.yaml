@@ -1,0 +1,2834 @@
+ocui_version: "1.0"
+skill: educlaw-k12
+skill_version: "1.0.0"
+display_name: EduClaw K-12 Extensions
+icon: shield
+color: "#6366f1"
+default_entity: educlaw_k12_discipline_incident
+
+domains:
+  - key: discipline
+    label: Discipline
+    entities: [educlaw_k12_discipline_incident, educlaw_k12_discipline_student, educlaw_k12_discipline_action, educlaw_k12_manifestation_review]
+  - key: health_records
+    label: Health Records
+    entities: [educlaw_k12_health_profile, educlaw_k12_health_visit, educlaw_k12_student_medication, educlaw_k12_medication_log, educlaw_k12_immunization, educlaw_k12_immunization_waiver]
+  - key: special_education
+    label: Special Education
+    entities: [educlaw_k12_sped_referral, educlaw_k12_sped_eligibility, educlaw_k12_iep, educlaw_k12_iep_goal, educlaw_k12_iep_service, educlaw_k12_iep_service_log, educlaw_k12_iep_team_member, educlaw_k12_iep_progress, educlaw_k12_sped_evaluation, educlaw_k12_504_plan]
+  - key: grade_promotion
+    label: Grade Promotion
+    entities: [educlaw_k12_promotion_review, educlaw_k12_promotion_decision, educlaw_k12_intervention_plan]
+
+dashboard:
+  kpis:
+    - key: open_incidents
+      label: "Open Incidents"
+      type: count
+      action: list-discipline-incidents
+      filter: { incident_status: open }
+      severity: warning
+      drill_action: list-discipline-incidents
+      drill_filter: { incident_status: open }
+    - key: iep_deadlines
+      label: "IEP Deadlines (30 days)"
+      type: count
+      action: list-iep-deadlines
+      severity: error
+      drill_action: list-iep-deadlines
+    - key: active_sped_referrals
+      label: "Active SpEd Referrals"
+      type: count
+      action: list-sped-referrals
+      filter: { referral_status: evaluation_in_progress }
+      severity: info
+      drill_action: list-sped-referrals
+      drill_filter: { referral_status: evaluation_in_progress }
+    - key: pending_reviews
+      label: "Pending Promotion Reviews"
+      type: count
+      action: list-promotion-reviews
+      filter: { review_status: pending }
+      severity: info
+      drill_action: list-promotion-reviews
+      drill_filter: { review_status: pending }
+  quick_actions:
+    - action: add-discipline-incident
+      label: "New Incident"
+    - action: add-health-profile
+      label: "New Health Profile"
+    - action: create-sped-referral
+      label: "New SpEd Referral"
+    - action: create-promotion-review
+      label: "New Promotion Review"
+
+workflows:
+  - after: add-discipline-incident
+    suggest:
+      - action: add-discipline-student
+        label: "Add Student Involvement"
+        pass: { incident-id: id }
+      - action: get-discipline-incident
+        label: "View Incident"
+        pass: { incident-id: id }
+  - after: add-discipline-student
+    suggest:
+      - action: add-discipline-action
+        label: "Add Consequence"
+        pass: { discipline-student-id: id }
+      - action: notify-guardians-discipline
+        label: "Notify Guardians"
+        pass: { incident-id: incident_id }
+  - after: add-discipline-action
+    suggest:
+      - action: close-discipline-incident
+        label: "Close Incident"
+        pass: { incident-id: incident_id }
+      - action: add-manifestation-review
+        label: "MDR (IDEA Students)"
+        pass: { discipline-student-id: discipline_student_id }
+  - after: close-discipline-incident
+    suggest:
+      - action: generate-discipline-report
+        label: "View Discipline Report"
+  - after: add-health-profile
+    suggest:
+      - action: add-immunization
+        label: "Add Immunization"
+        pass: { student-id: student_id }
+      - action: add-student-medication
+        label: "Add Medication"
+        pass: { student-id: student_id }
+  - after: add-immunization
+    suggest:
+      - action: check-immunization-compliance
+        label: "Check Compliance"
+        pass: { student-id: student_id }
+  - after: check-immunization-compliance
+    suggest:
+      - action: add-immunization-waiver
+        label: "Add Waiver (Exemption)"
+        pass: { student-id: student_id }
+      - action: verify-health-profile
+        label: "Verify Health Profile"
+        pass: { student-id: student_id }
+  - after: add-student-medication
+    suggest:
+      - action: log-medication-admin
+        label: "Log Administration"
+        pass: { student-medication-id: id }
+  - after: create-sped-referral
+    suggest:
+      - action: update-sped-referral
+        label: "Request Consent"
+        pass: { referral-id: id }
+      - action: add-sped-evaluation
+        label: "Add Evaluation"
+        pass: { referral-id: id }
+  - after: add-sped-evaluation
+    suggest:
+      - action: record-sped-eligibility
+        label: "Record Eligibility"
+        pass: { referral-id: referral_id }
+  - after: record-sped-eligibility
+    suggest:
+      - action: add-iep
+        label: "Create IEP"
+        pass: { student-id: student_id }
+  - after: add-iep
+    suggest:
+      - action: add-iep-goal
+        label: "Add IEP Goal"
+        pass: { iep-id: id }
+      - action: add-iep-service
+        label: "Add IEP Service"
+        pass: { iep-id: id }
+      - action: add-iep-team-member
+        label: "Add Team Member"
+        pass: { iep-id: id }
+  - after: add-iep-service
+    suggest:
+      - action: activate-iep
+        label: "Activate IEP"
+        pass: { iep-id: iep_id }
+      - action: log-iep-service-session
+        label: "Log Service Session"
+        pass: { iep-service-id: id }
+  - after: activate-iep
+    suggest:
+      - action: get-active-iep
+        label: "View Active IEP"
+        pass: { student-id: student_id }
+      - action: list-iep-deadlines
+        label: "View Upcoming Deadlines"
+  - after: add-iep-goal
+    suggest:
+      - action: record-iep-progress
+        label: "Record Progress"
+        pass: { iep-goal-id: id }
+  - after: create-promotion-review
+    suggest:
+      - action: create-intervention-plan
+        label: "Create Intervention Plan"
+        pass: { student-id: student_id }
+      - action: update-promotion-review
+        label: "Add Recommendations"
+        pass: { review-id: id }
+  - after: update-promotion-review
+    suggest:
+      - action: submit-promotion-decision
+        label: "Submit Decision"
+        pass: { review-id: id }
+  - after: submit-promotion-decision
+    suggest:
+      - action: notify-promotion-decision
+        label: "Notify Guardians"
+        pass: { decision-id: id }
+      - action: batch-promote-grade
+        label: "Batch Promote Grade"
+  - after: batch-promote-grade
+    suggest:
+      - action: generate-promotion-report
+        label: "View Promotion Report"
+
+entities:
+  educlaw_k12_discipline_incident:
+    label: Discipline Incident
+    label_plural: Discipline Incidents
+    table: educlaw_k12_discipline_incident
+    id_col: id
+    name_col: naming_series
+    primary_field: naming_series
+    identifier_field: id
+    status_field: incident_status
+    status_colors:
+      open: orange
+      under_review: blue
+      closed: gray
+      appealed: red
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      naming_series:
+        type: text
+        label: "Incident #"
+        read_only: true
+        in_list_view: true
+      incident_date:
+        type: text
+        label: Incident Date
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 1
+      incident_time:
+        type: text
+        label: "Time (HH:MM)"
+        in_form_view: true
+        form_group: details
+        form_order: 2
+      location:
+        type: select
+        label: Location
+        required: true
+        options:
+          - value: classroom
+            label: Classroom
+          - value: hallway
+            label: Hallway
+          - value: cafeteria
+            label: Cafeteria
+          - value: gym
+            label: Gym
+          - value: bathroom
+            label: Bathroom
+          - value: playground
+            label: Playground
+          - value: bus
+            label: Bus
+          - value: off_campus
+            label: Off Campus
+          - value: online
+            label: Online
+          - value: other
+            label: Other
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      incident_type:
+        type: select
+        label: Incident Type
+        required: true
+        options:
+          - value: tardy
+            label: Tardy
+          - value: dress_code
+            label: Dress Code
+          - value: disruptive_behavior
+            label: Disruptive Behavior
+          - value: bullying
+            label: Bullying
+          - value: harassment
+            label: Harassment
+          - value: physical_altercation_minor
+            label: "Physical Altercation (Minor)"
+          - value: theft
+            label: Theft
+          - value: vandalism
+            label: Vandalism
+          - value: fighting
+            label: Fighting
+          - value: assault
+            label: Assault
+          - value: weapons
+            label: Weapons
+          - value: drugs_alcohol
+            label: Drugs / Alcohol
+          - value: sexual_harassment
+            label: Sexual Harassment
+          - value: threats
+            label: Threats
+          - value: other_minor
+            label: Other (Minor)
+          - value: other_major
+            label: Other (Major)
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 4
+      severity:
+        type: select
+        label: Severity
+        required: true
+        options:
+          - value: minor
+            label: Minor
+          - value: moderate
+            label: Moderate
+          - value: major
+            label: Major
+          - value: emergency
+            label: Emergency
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 5
+      incident_status:
+        type: select
+        label: Status
+        options:
+          - value: open
+            label: Open
+          - value: under_review
+            label: Under Review
+          - value: closed
+            label: Closed
+          - value: appealed
+            label: Appealed
+        in_list_view: true
+        in_form_view: true
+        form_group: header
+        form_order: 6
+      description:
+        type: textarea
+        label: Description
+        in_form_view: true
+        form_group: notes
+        form_order: 7
+      academic_year_id:
+        type: text
+        label: Academic Year ID
+        required: true
+        in_form_view: true
+        form_group: references
+        form_order: 8
+      is_title_ix:
+        type: integer
+        label: Title IX
+        in_form_view: true
+        form_group: flags
+        form_order: 9
+      is_mandatory_report:
+        type: integer
+        label: Mandatory Report
+        in_form_view: true
+        form_group: flags
+        form_order: 10
+      is_reported_to_law_enforcement:
+        type: integer
+        label: Reported to Law Enforcement
+        in_form_view: true
+        form_group: flags
+        form_order: 11
+      reviewed_by:
+        type: text
+        label: Reviewed By
+        in_form_view: true
+        form_group: references
+        form_order: 12
+      created_at:
+        type: text
+        label: Created At
+        read_only: true
+        in_list_view: true
+    form_groups:
+      header:
+        label: Status
+        order: 1
+        columns: 2
+      details:
+        label: Incident Details
+        order: 2
+        columns: 2
+      flags:
+        label: Compliance Flags
+        order: 3
+        columns: 2
+      references:
+        label: References
+        order: 4
+        columns: 2
+      notes:
+        label: Description
+        order: 5
+        columns: 1
+
+  educlaw_k12_health_profile:
+    label: Health Profile
+    label_plural: Health Profiles
+    table: educlaw_k12_health_profile
+    id_col: id
+    name_col: student_id
+    primary_field: student_id
+    identifier_field: id
+    status_field: profile_status
+    status_colors:
+      active: green
+      incomplete: orange
+      archived: gray
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      student_id:
+        type: text
+        label: Student ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      profile_status:
+        type: select
+        label: Status
+        options:
+          - value: active
+            label: Active
+          - value: incomplete
+            label: Incomplete
+          - value: archived
+            label: Archived
+        in_list_view: true
+        in_form_view: true
+        form_group: header
+        form_order: 2
+      blood_type:
+        type: select
+        label: Blood Type
+        options:
+          - value: "A+"
+            label: "A+"
+          - value: "A-"
+            label: "A-"
+          - value: "B+"
+            label: "B+"
+          - value: "B-"
+            label: "B-"
+          - value: "AB+"
+            label: "AB+"
+          - value: "AB-"
+            label: "AB-"
+          - value: "O+"
+            label: "O+"
+          - value: "O-"
+            label: "O-"
+          - value: unknown
+            label: Unknown
+        in_form_view: true
+        form_group: vitals
+        form_order: 3
+      allergies:
+        type: textarea
+        label: "Allergies (JSON)"
+        in_form_view: true
+        form_group: medical
+        form_order: 4
+      chronic_conditions:
+        type: textarea
+        label: "Chronic Conditions (JSON)"
+        in_form_view: true
+        form_group: medical
+        form_order: 5
+      physician_name:
+        type: text
+        label: Physician Name
+        in_form_view: true
+        form_group: physician
+        form_order: 6
+      physician_phone:
+        type: text
+        label: Physician Phone
+        in_form_view: true
+        form_group: physician
+        form_order: 7
+      activity_restriction:
+        type: select
+        label: Activity Restriction
+        options:
+          - value: none
+            label: None
+          - value: limited
+            label: Limited
+          - value: no_pe
+            label: No PE
+          - value: no_contact_sports
+            label: No Contact Sports
+          - value: custom
+            label: Custom
+        in_form_view: true
+        form_group: medical
+        form_order: 8
+      emergency_instructions:
+        type: textarea
+        label: Emergency Instructions
+        in_form_view: true
+        form_group: emergency
+        form_order: 9
+      is_mckinney_vento:
+        type: integer
+        label: McKinney-Vento
+        in_form_view: true
+        form_group: medical
+        form_order: 10
+      last_verified_date:
+        type: text
+        label: Last Verified
+        read_only: true
+        in_list_view: true
+      last_verified_by:
+        type: text
+        label: Verified By
+        read_only: true
+      created_at:
+        type: text
+        label: Created At
+        read_only: true
+    form_groups:
+      header:
+        label: Status
+        order: 1
+        columns: 2
+      references:
+        label: Student
+        order: 2
+        columns: 2
+      vitals:
+        label: Vitals
+        order: 3
+        columns: 2
+      medical:
+        label: Medical Information
+        order: 4
+        columns: 2
+      physician:
+        label: Physician
+        order: 5
+        columns: 2
+      emergency:
+        label: Emergency
+        order: 6
+        columns: 1
+
+  educlaw_k12_health_visit:
+    label: Office Visit
+    label_plural: Office Visits
+    table: educlaw_k12_health_visit
+    id_col: id
+    name_col: id
+    primary_field: id
+    identifier_field: id
+    status_field: disposition
+    status_colors:
+      returned_to_class: green
+      sent_home: orange
+      "911_called": red
+      referred_to_physician: blue
+      observation: teal
+      no_action: gray
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      student_id:
+        type: text
+        label: Student ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      visit_date:
+        type: text
+        label: Visit Date
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 2
+      visit_time:
+        type: text
+        label: "Time (HH:MM)"
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      chief_complaint:
+        type: select
+        label: Chief Complaint
+        required: true
+        options:
+          - value: headache
+            label: Headache
+          - value: stomachache
+            label: Stomachache
+          - value: injury
+            label: Injury
+          - value: fever
+            label: Fever
+          - value: respiratory
+            label: Respiratory
+          - value: mental_health
+            label: Mental Health
+          - value: medication
+            label: Medication
+          - value: vision
+            label: Vision
+          - value: hearing
+            label: Hearing
+          - value: dental
+            label: Dental
+          - value: fatigue
+            label: Fatigue
+          - value: other
+            label: Other
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 4
+      disposition:
+        type: select
+        label: Disposition
+        required: true
+        options:
+          - value: returned_to_class
+            label: Returned to Class
+          - value: sent_home
+            label: Sent Home
+          - value: "911_called"
+            label: 911 Called
+          - value: referred_to_physician
+            label: Referred to Physician
+          - value: observation
+            label: Observation
+          - value: no_action
+            label: No Action
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 5
+      assessment:
+        type: textarea
+        label: Assessment
+        in_form_view: true
+        form_group: clinical
+        form_order: 6
+      treatment_provided:
+        type: textarea
+        label: Treatment Provided
+        in_form_view: true
+        form_group: clinical
+        form_order: 7
+      is_emergency:
+        type: integer
+        label: Emergency
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 8
+      parent_contacted:
+        type: integer
+        label: Parent Contacted
+        in_form_view: true
+        form_group: details
+        form_order: 9
+      created_at:
+        type: text
+        label: Recorded At
+        read_only: true
+        in_list_view: true
+    form_groups:
+      references:
+        label: Student
+        order: 1
+        columns: 2
+      details:
+        label: Visit Details
+        order: 2
+        columns: 2
+      clinical:
+        label: Clinical Notes
+        order: 3
+        columns: 1
+
+  educlaw_k12_student_medication:
+    label: Student Medication
+    label_plural: Student Medications
+    table: educlaw_k12_student_medication
+    id_col: id
+    name_col: medication_name
+    primary_field: medication_name
+    identifier_field: id
+    status_field: medication_status
+    status_colors:
+      active: green
+      expired: orange
+      discontinued: gray
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      student_id:
+        type: text
+        label: Student ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      medication_name:
+        type: text
+        label: Medication Name
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 2
+      dosage:
+        type: text
+        label: Dosage
+        required: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      route:
+        type: select
+        label: Route
+        required: true
+        options:
+          - value: oral
+            label: Oral
+          - value: topical
+            label: Topical
+          - value: inhalation
+            label: Inhalation
+          - value: injection
+            label: Injection
+          - value: nasal
+            label: Nasal
+          - value: eye_drops
+            label: Eye Drops
+          - value: ear_drops
+            label: Ear Drops
+          - value: other
+            label: Other
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 4
+      frequency:
+        type: select
+        label: Frequency
+        required: true
+        options:
+          - value: once_daily
+            label: Once Daily
+          - value: twice_daily
+            label: Twice Daily
+          - value: three_times_daily
+            label: Three Times Daily
+          - value: as_needed
+            label: As Needed
+          - value: as_scheduled
+            label: As Scheduled
+        in_form_view: true
+        form_group: details
+        form_order: 5
+      medication_status:
+        type: select
+        label: Status
+        options:
+          - value: active
+            label: Active
+          - value: expired
+            label: Expired
+          - value: discontinued
+            label: Discontinued
+        in_list_view: true
+        in_form_view: true
+        form_group: header
+        form_order: 6
+      supply_count:
+        type: integer
+        label: Supply Count
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 7
+      is_controlled_substance:
+        type: integer
+        label: Controlled Substance
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 8
+      prescribing_physician:
+        type: text
+        label: Prescribing Physician
+        in_form_view: true
+        form_group: references
+        form_order: 9
+      start_date:
+        type: text
+        label: Start Date
+        in_form_view: true
+        form_group: dates
+        form_order: 10
+      end_date:
+        type: text
+        label: End Date
+        in_form_view: true
+        form_group: dates
+        form_order: 11
+      created_at:
+        type: text
+        label: Created At
+        read_only: true
+    form_groups:
+      header:
+        label: Status
+        order: 1
+        columns: 2
+      references:
+        label: References
+        order: 2
+        columns: 2
+      details:
+        label: Medication Details
+        order: 3
+        columns: 2
+      dates:
+        label: Dates
+        order: 4
+        columns: 2
+
+  educlaw_k12_medication_log:
+    label: Medication Log
+    label_plural: Medication Logs
+    table: educlaw_k12_medication_log
+    id_col: id
+    name_col: id
+    primary_field: id
+    identifier_field: id
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      student_id:
+        type: text
+        label: Student ID
+        in_list_view: true
+      student_medication_id:
+        type: text
+        label: Medication ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      log_date:
+        type: text
+        label: Date
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 2
+      log_time:
+        type: text
+        label: "Time (HH:MM)"
+        required: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      dose_given:
+        type: text
+        label: Dose Given
+        in_form_view: true
+        form_group: details
+        form_order: 4
+      administered_by:
+        type: text
+        label: Administered By
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 5
+      is_refused:
+        type: integer
+        label: Refused
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 6
+      student_response:
+        type: textarea
+        label: Student Response
+        in_form_view: true
+        form_group: notes
+        form_order: 7
+      created_at:
+        type: text
+        label: Recorded At
+        read_only: true
+        in_list_view: true
+    form_groups:
+      references:
+        label: Medication
+        order: 1
+        columns: 2
+      details:
+        label: Administration Details
+        order: 2
+        columns: 2
+      notes:
+        label: Notes
+        order: 3
+        columns: 1
+
+  educlaw_k12_sped_referral:
+    label: SpEd Referral
+    label_plural: SpEd Referrals
+    table: educlaw_k12_sped_referral
+    id_col: id
+    name_col: naming_series
+    primary_field: naming_series
+    identifier_field: id
+    status_field: referral_status
+    status_colors:
+      received: blue
+      consent_pending: orange
+      consent_received: teal
+      consent_denied: red
+      evaluation_in_progress: blue
+      evaluation_complete: green
+      closed: gray
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      naming_series:
+        type: text
+        label: "Referral #"
+        read_only: true
+        in_list_view: true
+      student_id:
+        type: text
+        label: Student ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      referral_date:
+        type: text
+        label: Referral Date
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 2
+      referral_source:
+        type: select
+        label: Referral Source
+        required: true
+        options:
+          - value: teacher
+            label: Teacher
+          - value: parent
+            label: Parent
+          - value: counselor
+            label: Counselor
+          - value: physician
+            label: Physician
+          - value: self
+            label: Self
+          - value: administrator
+            label: Administrator
+          - value: other
+            label: Other
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      referral_status:
+        type: select
+        label: Status
+        options:
+          - value: received
+            label: Received
+          - value: consent_pending
+            label: Consent Pending
+          - value: consent_received
+            label: Consent Received
+          - value: consent_denied
+            label: Consent Denied
+          - value: evaluation_in_progress
+            label: Evaluation In Progress
+          - value: evaluation_complete
+            label: Evaluation Complete
+          - value: closed
+            label: Closed
+        in_list_view: true
+        in_form_view: true
+        form_group: header
+        form_order: 4
+      evaluation_deadline:
+        type: text
+        label: Evaluation Deadline
+        read_only: true
+        in_list_view: true
+      referral_reason:
+        type: textarea
+        label: Referral Reason
+        in_form_view: true
+        form_group: notes
+        form_order: 5
+      consent_request_date:
+        type: text
+        label: Consent Request Date
+        in_form_view: true
+        form_group: details
+        form_order: 6
+      consent_received_date:
+        type: text
+        label: Consent Received Date
+        in_form_view: true
+        form_group: details
+        form_order: 7
+      created_at:
+        type: text
+        label: Created At
+        read_only: true
+    form_groups:
+      header:
+        label: Status
+        order: 1
+        columns: 2
+      references:
+        label: Student
+        order: 2
+        columns: 2
+      details:
+        label: Referral Details
+        order: 3
+        columns: 2
+      notes:
+        label: Notes
+        order: 4
+        columns: 1
+
+  educlaw_k12_sped_eligibility:
+    label: SpEd Eligibility
+    label_plural: SpEd Eligibility Records
+    table: educlaw_k12_sped_eligibility
+    id_col: id
+    name_col: id
+    primary_field: id
+    identifier_field: id
+    status_field: eligibility_status
+    status_colors:
+      eligible: green
+      ineligible: red
+      deferred: orange
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      referral_id:
+        type: text
+        label: Referral ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      student_id:
+        type: text
+        label: Student ID
+        in_list_view: true
+      is_eligible:
+        type: integer
+        label: Eligible
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 2
+      primary_disability:
+        type: select
+        label: Primary Disability
+        options:
+          - value: specific_learning_disability
+            label: Specific Learning Disability
+          - value: speech_language_impairment
+            label: Speech/Language Impairment
+          - value: other_health_impairment
+            label: Other Health Impairment
+          - value: autism_spectrum_disorder
+            label: Autism Spectrum Disorder
+          - value: intellectual_disability
+            label: Intellectual Disability
+          - value: emotional_disturbance
+            label: Emotional Disturbance
+          - value: developmental_delay
+            label: Developmental Delay
+          - value: multiple_disabilities
+            label: Multiple Disabilities
+          - value: hearing_impairment
+            label: Hearing Impairment
+          - value: orthopedic_impairment
+            label: Orthopedic Impairment
+          - value: visual_impairment
+            label: Visual Impairment
+          - value: traumatic_brain_injury
+            label: Traumatic Brain Injury
+          - value: deaf_blindness
+            label: Deaf-Blindness
+          - value: not_applicable
+            label: Not Applicable
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      eligibility_status:
+        type: select
+        label: Eligibility Status
+        options:
+          - value: eligible
+            label: Eligible
+          - value: ineligible
+            label: Ineligible
+          - value: deferred
+            label: Deferred
+        in_list_view: true
+        in_form_view: true
+        form_group: header
+        form_order: 4
+      iep_deadline:
+        type: text
+        label: IEP Deadline
+        read_only: true
+        in_list_view: true
+      eligibility_meeting_date:
+        type: text
+        label: Eligibility Meeting Date
+        in_form_view: true
+        form_group: details
+        form_order: 5
+      created_at:
+        type: text
+        label: Created At
+        read_only: true
+    form_groups:
+      header:
+        label: Determination
+        order: 1
+        columns: 2
+      references:
+        label: Referral
+        order: 2
+        columns: 2
+      details:
+        label: Details
+        order: 3
+        columns: 2
+
+  educlaw_k12_iep:
+    label: IEP
+    label_plural: IEPs
+    table: educlaw_k12_iep
+    id_col: id
+    name_col: naming_series
+    primary_field: naming_series
+    identifier_field: id
+    status_field: iep_status
+    status_colors:
+      draft: gray
+      active: green
+      amended: blue
+      expired: orange
+      superseded: gray
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      naming_series:
+        type: text
+        label: "IEP #"
+        read_only: true
+        in_list_view: true
+      student_id:
+        type: text
+        label: Student ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      eligibility_id:
+        type: text
+        label: Eligibility ID
+        required: true
+        in_form_view: true
+        form_group: references
+        form_order: 2
+      iep_status:
+        type: select
+        label: Status
+        options:
+          - value: draft
+            label: Draft
+          - value: active
+            label: Active
+          - value: amended
+            label: Amended
+          - value: expired
+            label: Expired
+          - value: superseded
+            label: Superseded
+        in_list_view: true
+        in_form_view: true
+        form_group: header
+        form_order: 3
+      iep_start_date:
+        type: text
+        label: Start Date
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: dates
+        form_order: 4
+      iep_end_date:
+        type: text
+        label: End Date
+        required: true
+        in_form_view: true
+        form_group: dates
+        form_order: 5
+      annual_review_due_date:
+        type: text
+        label: Annual Review Due
+        read_only: true
+        in_list_view: true
+      triennial_reevaluation_due_date:
+        type: text
+        label: Triennial Reevaluation Due
+        read_only: true
+        in_form_view: true
+        form_group: dates
+        form_order: 6
+      progress_report_frequency:
+        type: select
+        label: Progress Report Frequency
+        options:
+          - value: quarterly
+            label: Quarterly
+          - value: semester
+            label: Semester
+          - value: monthly
+            label: Monthly
+          - value: other
+            label: Other
+        in_form_view: true
+        form_group: details
+        form_order: 7
+      state_assessment_participation:
+        type: select
+        label: State Assessment
+        options:
+          - value: standard
+            label: Standard
+          - value: with_accommodations
+            label: With Accommodations
+          - value: alternate_assessment
+            label: Alternate Assessment
+          - value: exempt
+            label: Exempt
+        in_form_view: true
+        form_group: details
+        form_order: 8
+      transition_plan_required:
+        type: integer
+        label: Transition Plan Required
+        read_only: true
+        in_form_view: true
+        form_group: details
+        form_order: 9
+      plaafp_academic:
+        type: textarea
+        label: "PLAAFP (Academic)"
+        in_form_view: true
+        form_group: plaafp
+        form_order: 10
+      plaafp_functional:
+        type: textarea
+        label: "PLAAFP (Functional)"
+        in_form_view: true
+        form_group: plaafp
+        form_order: 11
+      created_at:
+        type: text
+        label: Created At
+        read_only: true
+    form_groups:
+      header:
+        label: Status
+        order: 1
+        columns: 2
+      references:
+        label: Student / Eligibility
+        order: 2
+        columns: 2
+      dates:
+        label: Dates
+        order: 3
+        columns: 2
+      details:
+        label: Details
+        order: 4
+        columns: 2
+      plaafp:
+        label: PLAAFP
+        order: 5
+        columns: 1
+
+  educlaw_k12_iep_goal:
+    label: IEP Goal
+    label_plural: IEP Goals
+    table: educlaw_k12_iep_goal
+    id_col: id
+    name_col: id
+    primary_field: id
+    identifier_field: id
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      iep_id:
+        type: text
+        label: IEP ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      student_id:
+        type: text
+        label: Student ID
+        in_list_view: true
+      goal_area:
+        type: select
+        label: Goal Area
+        required: true
+        options:
+          - value: reading
+            label: Reading
+          - value: writing
+            label: Writing
+          - value: math
+            label: Math
+          - value: communication
+            label: Communication
+          - value: social_emotional
+            label: Social-Emotional
+          - value: behavioral
+            label: Behavioral
+          - value: motor
+            label: Motor
+          - value: vocational
+            label: Vocational
+          - value: adaptive
+            label: Adaptive
+          - value: other
+            label: Other
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 2
+      goal_description:
+        type: textarea
+        label: Goal Description
+        required: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      baseline_performance:
+        type: textarea
+        label: Baseline Performance
+        in_form_view: true
+        form_group: details
+        form_order: 4
+      target_performance:
+        type: textarea
+        label: Target Performance
+        in_form_view: true
+        form_group: details
+        form_order: 5
+      measurement_method:
+        type: select
+        label: Measurement Method
+        required: true
+        options:
+          - value: test_score
+            label: Test Score
+          - value: work_sample
+            label: Work Sample
+          - value: observation
+            label: Observation
+          - value: rubric
+            label: Rubric
+          - value: checklist
+            label: Checklist
+          - value: probe
+            label: Probe
+          - value: other
+            label: Other
+        in_form_view: true
+        form_group: details
+        form_order: 6
+      monitoring_frequency:
+        type: select
+        label: Monitoring Frequency
+        required: true
+        options:
+          - value: weekly
+            label: Weekly
+          - value: biweekly
+            label: Biweekly
+          - value: monthly
+            label: Monthly
+          - value: quarterly
+            label: Quarterly
+          - value: per_marking_period
+            label: Per Marking Period
+        in_form_view: true
+        form_group: details
+        form_order: 7
+      responsible_provider:
+        type: text
+        label: Responsible Provider
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 8
+      is_met:
+        type: integer
+        label: Goal Met
+        in_list_view: true
+    form_groups:
+      references:
+        label: IEP
+        order: 1
+        columns: 2
+      details:
+        label: Goal Details
+        order: 2
+        columns: 2
+
+  educlaw_k12_iep_service:
+    label: IEP Service
+    label_plural: IEP Services
+    table: educlaw_k12_iep_service
+    id_col: id
+    name_col: service_type
+    primary_field: service_type
+    identifier_field: id
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      iep_id:
+        type: text
+        label: IEP ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      student_id:
+        type: text
+        label: Student ID
+        in_list_view: true
+      service_type:
+        type: select
+        label: Service Type
+        required: true
+        options:
+          - value: special_education_instruction
+            label: Special Education Instruction
+          - value: speech_therapy
+            label: Speech Therapy
+          - value: occupational_therapy
+            label: Occupational Therapy
+          - value: physical_therapy
+            label: Physical Therapy
+          - value: counseling
+            label: Counseling
+          - value: transportation
+            label: Transportation
+          - value: assistive_technology
+            label: Assistive Technology
+          - value: health_services
+            label: Health Services
+          - value: orientation_mobility
+            label: Orientation & Mobility
+          - value: other
+            label: Other
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 2
+      service_setting:
+        type: select
+        label: Service Setting
+        required: true
+        options:
+          - value: general_ed_classroom
+            label: General Ed Classroom
+          - value: resource_room
+            label: Resource Room
+          - value: self_contained
+            label: Self Contained
+          - value: separate_school
+            label: Separate School
+          - value: home
+            label: Home
+          - value: hospital
+            label: Hospital
+          - value: other
+            label: Other
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      frequency_minutes_per_week:
+        type: integer
+        label: "Minutes / Week"
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 4
+      provider_name:
+        type: text
+        label: Provider Name
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 5
+      start_date:
+        type: text
+        label: Start Date
+        in_form_view: true
+        form_group: dates
+        form_order: 6
+      end_date:
+        type: text
+        label: End Date
+        in_form_view: true
+        form_group: dates
+        form_order: 7
+      total_minutes_delivered:
+        type: integer
+        label: Minutes Delivered
+        read_only: true
+        in_list_view: true
+    form_groups:
+      references:
+        label: IEP
+        order: 1
+        columns: 2
+      details:
+        label: Service Details
+        order: 2
+        columns: 2
+      dates:
+        label: Dates
+        order: 3
+        columns: 2
+
+  educlaw_k12_iep_service_log:
+    label: Service Log
+    label_plural: Service Logs
+    table: educlaw_k12_iep_service_log
+    id_col: id
+    name_col: id
+    primary_field: id
+    identifier_field: id
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      iep_service_id:
+        type: text
+        label: Service ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      student_id:
+        type: text
+        label: Student ID
+        in_list_view: true
+      session_date:
+        type: text
+        label: Session Date
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 2
+      minutes_delivered:
+        type: integer
+        label: Minutes Delivered
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      provider_name:
+        type: text
+        label: Provider
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 4
+      was_session_missed:
+        type: integer
+        label: Session Missed
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 5
+      session_notes:
+        type: textarea
+        label: Session Notes
+        in_form_view: true
+        form_group: notes
+        form_order: 6
+      created_at:
+        type: text
+        label: Recorded At
+        read_only: true
+        in_list_view: true
+    form_groups:
+      references:
+        label: Service
+        order: 1
+        columns: 2
+      details:
+        label: Session Details
+        order: 2
+        columns: 2
+      notes:
+        label: Notes
+        order: 3
+        columns: 1
+
+  educlaw_k12_iep_team_member:
+    label: IEP Team Member
+    label_plural: IEP Team Members
+    table: educlaw_k12_iep_team_member
+    id_col: id
+    name_col: member_name
+    primary_field: member_name
+    identifier_field: id
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      iep_id:
+        type: text
+        label: IEP ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      member_type:
+        type: select
+        label: Member Type
+        required: true
+        options:
+          - value: parent
+            label: Parent
+          - value: student
+            label: Student
+          - value: general_ed_teacher
+            label: General Ed Teacher
+          - value: special_ed_teacher
+            label: Special Ed Teacher
+          - value: administrator
+            label: Administrator
+          - value: school_psychologist
+            label: School Psychologist
+          - value: speech_pathologist
+            label: Speech Pathologist
+          - value: ot
+            label: Occupational Therapist
+          - value: pt
+            label: Physical Therapist
+          - value: counselor
+            label: Counselor
+          - value: other
+            label: Other
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 2
+      member_name:
+        type: text
+        label: Name
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      member_role:
+        type: text
+        label: Role
+        in_form_view: true
+        form_group: details
+        form_order: 4
+      attended_meeting:
+        type: integer
+        label: Attended
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 5
+    form_groups:
+      references:
+        label: IEP
+        order: 1
+        columns: 2
+      details:
+        label: Member Details
+        order: 2
+        columns: 2
+
+  educlaw_k12_iep_progress:
+    label: IEP Progress
+    label_plural: IEP Progress Records
+    table: educlaw_k12_iep_progress
+    id_col: id
+    name_col: id
+    primary_field: id
+    identifier_field: id
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      iep_goal_id:
+        type: text
+        label: Goal ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      student_id:
+        type: text
+        label: Student ID
+        in_list_view: true
+      reporting_period:
+        type: text
+        label: Reporting Period
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 2
+      progress_date:
+        type: text
+        label: Progress Date
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      progress_rating:
+        type: select
+        label: Progress Rating
+        required: true
+        options:
+          - value: met_goal
+            label: Met Goal
+          - value: on_track
+            label: On Track
+          - value: some_progress
+            label: Some Progress
+          - value: insufficient_progress
+            label: Insufficient Progress
+          - value: not_started
+            label: Not Started
+          - value: regression
+            label: Regression
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 4
+      current_performance:
+        type: textarea
+        label: Current Performance
+        in_form_view: true
+        form_group: notes
+        form_order: 5
+      notes_for_parents:
+        type: textarea
+        label: Notes for Parents
+        in_form_view: true
+        form_group: notes
+        form_order: 6
+      documented_by:
+        type: text
+        label: Documented By
+        in_form_view: true
+        form_group: details
+        form_order: 7
+    form_groups:
+      references:
+        label: Goal
+        order: 1
+        columns: 2
+      details:
+        label: Progress Details
+        order: 2
+        columns: 2
+      notes:
+        label: Notes
+        order: 3
+        columns: 1
+
+  educlaw_k12_sped_evaluation:
+    label: SpEd Evaluation
+    label_plural: SpEd Evaluations
+    table: educlaw_k12_sped_evaluation
+    id_col: id
+    name_col: evaluation_type
+    primary_field: evaluation_type
+    identifier_field: id
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      referral_id:
+        type: text
+        label: Referral ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      student_id:
+        type: text
+        label: Student ID
+        in_list_view: true
+      evaluation_type:
+        type: select
+        label: Evaluation Type
+        required: true
+        options:
+          - value: psychological
+            label: Psychological
+          - value: academic_achievement
+            label: Academic Achievement
+          - value: speech_language
+            label: Speech/Language
+          - value: occupational_therapy
+            label: Occupational Therapy
+          - value: physical_therapy
+            label: Physical Therapy
+          - value: hearing_screening
+            label: Hearing Screening
+          - value: vision_screening
+            label: Vision Screening
+          - value: social_behavioral
+            label: Social-Behavioral
+          - value: classroom_observation
+            label: Classroom Observation
+          - value: adaptive_behavior
+            label: Adaptive Behavior
+          - value: other
+            label: Other
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 2
+      evaluator_name:
+        type: text
+        label: Evaluator Name
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      evaluation_date:
+        type: text
+        label: Evaluation Date
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 4
+      findings_summary:
+        type: textarea
+        label: Findings Summary
+        in_form_view: true
+        form_group: notes
+        form_order: 5
+    form_groups:
+      references:
+        label: Referral
+        order: 1
+        columns: 2
+      details:
+        label: Evaluation Details
+        order: 2
+        columns: 2
+      notes:
+        label: Findings
+        order: 3
+        columns: 1
+
+  educlaw_k12_504_plan:
+    label: 504 Plan
+    label_plural: 504 Plans
+    table: educlaw_k12_504_plan
+    id_col: id
+    name_col: naming_series
+    primary_field: naming_series
+    identifier_field: id
+    status_field: plan_status
+    status_colors:
+      active: green
+      expired: orange
+      revised: blue
+      discontinued: gray
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      naming_series:
+        type: text
+        label: "Plan #"
+        read_only: true
+        in_list_view: true
+      student_id:
+        type: text
+        label: Student ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      plan_status:
+        type: select
+        label: Status
+        options:
+          - value: active
+            label: Active
+          - value: expired
+            label: Expired
+          - value: revised
+            label: Revised
+          - value: discontinued
+            label: Discontinued
+        in_list_view: true
+        in_form_view: true
+        form_group: header
+        form_order: 2
+      meeting_date:
+        type: text
+        label: Meeting Date
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      plan_start_date:
+        type: text
+        label: Start Date
+        in_form_view: true
+        form_group: dates
+        form_order: 4
+      plan_end_date:
+        type: text
+        label: End Date
+        in_form_view: true
+        form_group: dates
+        form_order: 5
+      review_date:
+        type: text
+        label: Review Date
+        in_form_view: true
+        form_group: dates
+        form_order: 6
+      disability_description:
+        type: textarea
+        label: Disability Description
+        in_form_view: true
+        form_group: details
+        form_order: 7
+      accommodations:
+        type: textarea
+        label: "Accommodations (JSON)"
+        in_form_view: true
+        form_group: details
+        form_order: 8
+      created_at:
+        type: text
+        label: Created At
+        read_only: true
+    form_groups:
+      header:
+        label: Status
+        order: 1
+        columns: 2
+      references:
+        label: Student
+        order: 2
+        columns: 2
+      details:
+        label: Plan Details
+        order: 3
+        columns: 2
+      dates:
+        label: Dates
+        order: 4
+        columns: 2
+
+  educlaw_k12_promotion_review:
+    label: Promotion Review
+    label_plural: Promotion Reviews
+    table: educlaw_k12_promotion_review
+    id_col: id
+    name_col: id
+    primary_field: id
+    identifier_field: id
+    status_field: review_status
+    status_colors:
+      pending: gray
+      in_review: blue
+      decided: teal
+      notified: green
+      appealed: red
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      student_id:
+        type: text
+        label: Student ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      academic_year_id:
+        type: text
+        label: Academic Year ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 2
+      grade_level:
+        type: text
+        label: Grade Level
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      gpa_ytd:
+        type: text
+        label: "GPA (YTD)"
+        in_list_view: true
+        in_form_view: true
+        form_group: academic
+        form_order: 4
+      attendance_rate_ytd:
+        type: text
+        label: "Attendance Rate (YTD)"
+        in_form_view: true
+        form_group: academic
+        form_order: 5
+      discipline_incident_count:
+        type: integer
+        label: Discipline Incidents
+        read_only: true
+        in_form_view: true
+        form_group: academic
+        form_order: 6
+      teacher_recommendation:
+        type: select
+        label: Teacher Recommendation
+        options:
+          - value: promote
+            label: Promote
+          - value: retain
+            label: Retain
+          - value: conditional
+            label: Conditional
+          - value: pending
+            label: Pending
+        in_list_view: true
+        in_form_view: true
+        form_group: recommendations
+        form_order: 7
+      teacher_rationale:
+        type: textarea
+        label: Teacher Rationale
+        in_form_view: true
+        form_group: recommendations
+        form_order: 8
+      counselor_recommendation:
+        type: select
+        label: Counselor Recommendation
+        options:
+          - value: promote
+            label: Promote
+          - value: retain
+            label: Retain
+          - value: conditional
+            label: Conditional
+          - value: pending
+            label: Pending
+        in_form_view: true
+        form_group: recommendations
+        form_order: 9
+      review_status:
+        type: select
+        label: Status
+        options:
+          - value: pending
+            label: Pending
+          - value: in_review
+            label: In Review
+          - value: decided
+            label: Decided
+          - value: notified
+            label: Notified
+          - value: appealed
+            label: Appealed
+        in_list_view: true
+        in_form_view: true
+        form_group: header
+        form_order: 10
+      created_at:
+        type: text
+        label: Created At
+        read_only: true
+    form_groups:
+      header:
+        label: Status
+        order: 1
+        columns: 2
+      references:
+        label: Student / Year
+        order: 2
+        columns: 2
+      details:
+        label: Details
+        order: 3
+        columns: 2
+      academic:
+        label: Academic Data
+        order: 4
+        columns: 2
+      recommendations:
+        label: Recommendations
+        order: 5
+        columns: 2
+
+  educlaw_k12_promotion_decision:
+    label: Promotion Decision
+    label_plural: Promotion Decisions
+    table: educlaw_k12_promotion_decision
+    id_col: id
+    name_col: id
+    primary_field: id
+    identifier_field: id
+    status_field: decision
+    status_colors:
+      promote: green
+      retain: red
+      conditional_promote: orange
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      student_id:
+        type: text
+        label: Student ID
+        in_list_view: true
+      academic_year_id:
+        type: text
+        label: Academic Year ID
+        in_list_view: true
+      decision:
+        type: select
+        label: Decision
+        options:
+          - value: promote
+            label: Promote
+          - value: retain
+            label: Retain
+          - value: conditional_promote
+            label: Conditional Promote
+        in_list_view: true
+      decided_by:
+        type: text
+        label: Decided By
+        in_list_view: true
+      decision_date:
+        type: text
+        label: Decision Date
+        in_list_view: true
+      rationale:
+        type: textarea
+        label: Rationale
+      next_grade_level:
+        type: text
+        label: Next Grade Level
+        in_list_view: true
+      is_appealed:
+        type: integer
+        label: Appealed
+      created_at:
+        type: text
+        label: Created At
+        read_only: true
+
+  educlaw_k12_intervention_plan:
+    label: Intervention Plan
+    label_plural: Intervention Plans
+    table: educlaw_k12_intervention_plan
+    id_col: id
+    name_col: id
+    primary_field: id
+    identifier_field: id
+    status_field: plan_status
+    status_colors:
+      active: green
+      completed: teal
+      abandoned: gray
+    fields:
+      id:
+        type: text
+        label: ID
+        read_only: true
+        hidden: true
+      student_id:
+        type: text
+        label: Student ID
+        required: true
+        in_list_view: true
+        in_form_view: true
+        form_group: references
+        form_order: 1
+      academic_year_id:
+        type: text
+        label: Academic Year ID
+        required: true
+        in_form_view: true
+        form_group: references
+        form_order: 2
+      trigger:
+        type: select
+        label: Trigger
+        required: true
+        options:
+          - value: at_risk_mid_year
+            label: "At-Risk (Mid Year)"
+          - value: retention_decision
+            label: Retention Decision
+          - value: other
+            label: Other
+        in_list_view: true
+        in_form_view: true
+        form_group: details
+        form_order: 3
+      plan_status:
+        type: select
+        label: Status
+        options:
+          - value: active
+            label: Active
+          - value: completed
+            label: Completed
+          - value: abandoned
+            label: Abandoned
+        in_list_view: true
+        in_form_view: true
+        form_group: header
+        form_order: 4
+      start_date:
+        type: text
+        label: Start Date
+        in_form_view: true
+        form_group: dates
+        form_order: 5
+      review_date:
+        type: text
+        label: Review Date
+        in_form_view: true
+        form_group: dates
+        form_order: 6
+      assigned_staff:
+        type: text
+        label: Assigned Staff
+        in_form_view: true
+        form_group: details
+        form_order: 7
+      outcome_notes:
+        type: textarea
+        label: Outcome Notes
+        in_form_view: true
+        form_group: notes
+        form_order: 8
+      created_at:
+        type: text
+        label: Created At
+        read_only: true
+    form_groups:
+      header:
+        label: Status
+        order: 1
+        columns: 2
+      references:
+        label: Student / Year
+        order: 2
+        columns: 2
+      details:
+        label: Details
+        order: 3
+        columns: 2
+      dates:
+        label: Dates
+        order: 4
+        columns: 2
+      notes:
+        label: Outcome
+        order: 5
+        columns: 1
+
+action_map:
+
+  # ── Discipline ──────────────────────────────────────────────────────────────
+  add-discipline-incident:
+    component: FormView
+    entity: educlaw_k12_discipline_incident
+    mode: create
+
+  update-discipline-incident:
+    component: FormView
+    entity: educlaw_k12_discipline_incident
+    mode: edit
+
+  get-discipline-incident:
+    component: DetailView
+    entity: educlaw_k12_discipline_incident
+
+  list-discipline-incidents:
+    component: DataTable
+    entity: educlaw_k12_discipline_incident
+    default_sort: incident_date
+    default_sort_dir: desc
+    searchable: true
+    add_action: add-discipline-incident
+
+  close-discipline-incident:
+    component: WizardFlow
+    entity: educlaw_k12_discipline_incident
+    steps:
+      - label: Review Incident
+        type: detail
+      - label: Confirm Close
+        type: confirmation
+        message: "Close this incident? Closed incidents cannot be re-opened."
+
+  notify-guardians-discipline:
+    component: WizardFlow
+    steps:
+      - label: Select Incident
+        type: form
+      - label: Confirm Notifications
+        type: confirmation
+        message: "Send guardian notifications for all involved students in this incident?"
+
+  add-discipline-student:
+    component: FormView
+    mode: create
+
+  add-discipline-action:
+    component: FormView
+    mode: create
+
+  get-discipline-history:
+    component: FormView
+    mode: create
+
+  get-cumulative-suspension-days:
+    component: FormView
+    mode: create
+
+  add-manifestation-review:
+    component: FormView
+    mode: create
+
+  update-manifestation-review:
+    component: FormView
+    mode: edit
+
+  add-pbis-recognition:
+    component: FormView
+    mode: create
+
+  generate-discipline-report:
+    component: FormView
+    mode: create
+
+  generate-discipline-state-report:
+    component: FormView
+    mode: create
+
+  # ── Health Records ──────────────────────────────────────────────────────────
+  add-health-profile:
+    component: FormView
+    entity: educlaw_k12_health_profile
+    mode: create
+
+  get-health-profile:
+    component: DetailView
+    entity: educlaw_k12_health_profile
+
+  get-emergency-health-info:
+    component: DetailView
+    entity: educlaw_k12_health_profile
+
+  update-health-profile:
+    component: FormView
+    entity: educlaw_k12_health_profile
+    mode: edit
+
+  verify-health-profile:
+    component: WizardFlow
+    entity: educlaw_k12_health_profile
+    steps:
+      - label: Review Health Profile
+        type: detail
+      - label: Confirm Verification
+        type: confirmation
+        message: "Mark this health profile as verified? This certifies the information is current and accurate."
+
+  add-office-visit:
+    component: FormView
+    entity: educlaw_k12_health_visit
+    mode: create
+
+  list-office-visits:
+    component: DataTable
+    entity: educlaw_k12_health_visit
+    default_sort: visit_date
+    default_sort_dir: desc
+    searchable: true
+    add_action: add-office-visit
+
+  get-office-visit:
+    component: DetailView
+    entity: educlaw_k12_health_visit
+
+  add-student-medication:
+    component: FormView
+    entity: educlaw_k12_student_medication
+    mode: create
+
+  update-student-medication:
+    component: FormView
+    entity: educlaw_k12_student_medication
+    mode: edit
+
+  list-student-medications:
+    component: DataTable
+    entity: educlaw_k12_student_medication
+    default_sort: created_at
+    default_sort_dir: desc
+    searchable: true
+    add_action: add-student-medication
+
+  log-medication-admin:
+    component: FormView
+    entity: educlaw_k12_medication_log
+    mode: create
+
+  list-medication-logs:
+    component: DataTable
+    entity: educlaw_k12_medication_log
+    default_sort: log_date
+    default_sort_dir: desc
+    searchable: false
+
+  add-immunization:
+    component: FormView
+    mode: create
+
+  add-immunization-waiver:
+    component: FormView
+    mode: create
+
+  update-immunization-waiver:
+    component: FormView
+    mode: edit
+
+  check-immunization-compliance:
+    component: WizardFlow
+    steps:
+      - label: Select Student
+        type: form
+      - label: Compliance Report
+        type: detail
+
+  get-immunization-record:
+    component: DetailView
+    entity: educlaw_k12_health_profile
+
+  list-health-alerts:
+    component: FormView
+    mode: create
+
+  generate-immunization-report:
+    component: FormView
+    mode: create
+
+  # ── Special Education ───────────────────────────────────────────────────────
+  create-sped-referral:
+    component: FormView
+    entity: educlaw_k12_sped_referral
+    mode: create
+
+  update-sped-referral:
+    component: FormView
+    entity: educlaw_k12_sped_referral
+    mode: edit
+
+  get-sped-referral:
+    component: DetailView
+    entity: educlaw_k12_sped_referral
+
+  list-sped-referrals:
+    component: DataTable
+    entity: educlaw_k12_sped_referral
+    default_sort: referral_date
+    default_sort_dir: desc
+    searchable: true
+    add_action: create-sped-referral
+
+  add-sped-evaluation:
+    component: FormView
+    entity: educlaw_k12_sped_evaluation
+    mode: create
+
+  list-sped-evaluations:
+    component: DataTable
+    entity: educlaw_k12_sped_evaluation
+    default_sort: evaluation_date
+    default_sort_dir: desc
+    searchable: false
+
+  record-sped-eligibility:
+    component: WizardFlow
+    steps:
+      - label: Review Evaluations
+        type: detail
+      - label: Record Eligibility Determination
+        type: form
+      - label: Confirm
+        type: confirmation
+        message: "Record this eligibility determination? If eligible, the IEP deadline will be set automatically (+30 days)."
+
+  get-sped-eligibility:
+    component: DetailView
+    entity: educlaw_k12_sped_eligibility
+
+  add-iep:
+    component: FormView
+    entity: educlaw_k12_iep
+    mode: create
+
+  update-iep:
+    component: FormView
+    entity: educlaw_k12_iep
+    mode: edit
+
+  get-iep:
+    component: DetailView
+    entity: educlaw_k12_iep
+
+  get-active-iep:
+    component: DetailView
+    entity: educlaw_k12_iep
+
+  activate-iep:
+    component: WizardFlow
+    entity: educlaw_k12_iep
+    steps:
+      - label: Review IEP
+        type: detail
+      - label: Confirm Parent Consent
+        type: form
+      - label: Activate
+        type: confirmation
+        message: "Activate this IEP? The prior active IEP will be superseded. This requires parent consent."
+
+  amend-iep:
+    component: WizardFlow
+    entity: educlaw_k12_iep
+    steps:
+      - label: Review Current IEP
+        type: detail
+      - label: Confirm Amendment
+        type: confirmation
+        message: "Create an amendment to this IEP? A new IEP version will be created in draft status."
+
+  add-iep-goal:
+    component: FormView
+    entity: educlaw_k12_iep_goal
+    mode: create
+
+  list-iep-goals:
+    component: DataTable
+    entity: educlaw_k12_iep_goal
+    default_sort: sort_order
+    default_sort_dir: asc
+    searchable: false
+
+  add-iep-service:
+    component: FormView
+    entity: educlaw_k12_iep_service
+    mode: create
+
+  list-iep-services:
+    component: DataTable
+    entity: educlaw_k12_iep_service
+    default_sort: service_type
+    default_sort_dir: asc
+    searchable: false
+
+  log-iep-service-session:
+    component: FormView
+    entity: educlaw_k12_iep_service_log
+    mode: create
+
+  list-iep-service-logs:
+    component: DataTable
+    entity: educlaw_k12_iep_service_log
+    default_sort: session_date
+    default_sort_dir: desc
+    searchable: false
+
+  add-iep-team-member:
+    component: FormView
+    entity: educlaw_k12_iep_team_member
+    mode: create
+
+  record-iep-progress:
+    component: FormView
+    entity: educlaw_k12_iep_progress
+    mode: create
+
+  list-iep-deadlines:
+    component: DataTable
+    entity: educlaw_k12_iep
+    default_sort: annual_review_due_date
+    default_sort_dir: asc
+    searchable: false
+
+  list-reevaluation-due:
+    component: DataTable
+    entity: educlaw_k12_iep
+    default_sort: triennial_reevaluation_due_date
+    default_sort_dir: asc
+    searchable: false
+
+  add-504-plan:
+    component: FormView
+    entity: educlaw_k12_504_plan
+    mode: create
+
+  update-504-plan:
+    component: FormView
+    entity: educlaw_k12_504_plan
+    mode: edit
+
+  get-active-504-plan:
+    component: DetailView
+    entity: educlaw_k12_504_plan
+
+  get-service-compliance-report:
+    component: FormView
+    mode: create
+
+  generate-iep-progress-report:
+    component: FormView
+    mode: create
+
+  # ── Grade Promotion ─────────────────────────────────────────────────────────
+  create-promotion-review:
+    component: FormView
+    entity: educlaw_k12_promotion_review
+    mode: create
+
+  update-promotion-review:
+    component: FormView
+    entity: educlaw_k12_promotion_review
+    mode: edit
+
+  list-promotion-reviews:
+    component: DataTable
+    entity: educlaw_k12_promotion_review
+    default_sort: created_at
+    default_sort_dir: desc
+    searchable: true
+    add_action: create-promotion-review
+
+  submit-promotion-decision:
+    component: WizardFlow
+    entity: educlaw_k12_promotion_review
+    steps:
+      - label: Review Assessment
+        type: detail
+      - label: Enter Decision
+        type: form
+      - label: Confirm Decision
+        type: confirmation
+        message: "Submit this promotion decision? This record is immutable once created."
+
+  get-promotion-decision:
+    component: DetailView
+    entity: educlaw_k12_promotion_decision
+
+  notify-promotion-decision:
+    component: WizardFlow
+    entity: educlaw_k12_promotion_decision
+    steps:
+      - label: Review Decision
+        type: detail
+      - label: Confirm Notification
+        type: confirmation
+        message: "Send guardian notification for this promotion decision?"
+
+  batch-promote-grade:
+    component: WizardFlow
+    steps:
+      - label: "Select Grade Level & Year"
+        type: form
+      - label: Preview Students
+        type: detail
+      - label: Confirm Batch Promotion
+        type: confirmation
+        message: "Advance all promoted students in this grade level? 12th graders will be graduated. This operation is idempotent."
+
+  identify-at-risk-students:
+    component: FormView
+    mode: create
+
+  create-intervention-plan:
+    component: FormView
+    entity: educlaw_k12_intervention_plan
+    mode: create
+
+  update-intervention-plan:
+    component: FormView
+    entity: educlaw_k12_intervention_plan
+    mode: edit
+
+  list-intervention-plans:
+    component: DataTable
+    entity: educlaw_k12_intervention_plan
+    default_sort: created_at
+    default_sort_dir: desc
+    searchable: true
+    add_action: create-intervention-plan
+
+  generate-promotion-report:
+    component: FormView
+    mode: create

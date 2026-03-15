@@ -1,0 +1,10 @@
+{
+  "name": "sinute--minio-share",
+  "description": "Upload files to MinIO object storage and generate shareable links with Markdown formatting. Use when users ask to send files, share files, upload files, download videos, or get a download link for files. Supports custom filenames from titles and provides formatted output with clickable links and media previews. Requires MINIO_API_URL, MINIO_CONSOLE_URL, MINIO_ACCESS_KEY, MINIO_SECRET_KEY, and MINIO_BUCKET environment variables.",
+  "version": "0.1.3",
+  "author": {
+    "name": "sinute"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sinute/minio-share",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sinute/minio-share"
+}

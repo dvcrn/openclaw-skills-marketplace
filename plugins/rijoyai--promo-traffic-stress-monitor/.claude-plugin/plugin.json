@@ -1,0 +1,10 @@
+{
+  "name": "rijoyai--promo-traffic-stress-monitor",
+  "description": "Monitor traffic efficiency and conversion load during major promos (Black Friday, Cyber Monday, Christmas peaks, flash sales) and advise dynamic ad spend, restock, and traffic allocation. Use in the first ~4 hours after a promo goes live, when ROI drops below breakeven during a sale, when hero SKUs sell out instantly, when the user mentions scaling or cutting ads mid-campaign, server or checkout strain, or \"traffic is huge but orders aren't.\" Steps implied: real-time (or latest) traffic → conversion efficiency → if strong, recommend scaling spend or shifting budget to winners; if weak, recommend landing-page and funnel checks before spend. Also trigger on stockouts under load, CAC spike during promos, or reallocating budget between campaigns. Do NOT use for evergreen SEO-only plans with no live promo window, or pure creative briefs without performance or inventory context.",
+  "version": "0.1.0",
+  "author": {
+    "name": "rijoyai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rijoyai/promo-traffic-stress-monitor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rijoyai/promo-traffic-stress-monitor"
+}

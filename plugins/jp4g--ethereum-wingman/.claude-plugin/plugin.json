@@ -1,0 +1,10 @@
+{
+  "name": "jp4g--ethereum-wingman",
+  "description": "Ethereum development tutor and builder for Scaffold-ETH 2 projects. Triggers on \"build\", \"create\", \"dApp\", \"smart contract\", \"Solidity\", \"DeFi\", \"Ethereum\", \"web3\", or any blockchain development task. ALWAYS uses fork mode to test against real protocol state.",
+  "version": "0.1.0",
+  "author": {
+    "name": "jp4g"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jp4g/ethereum-wingman",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jp4g/ethereum-wingman"
+}

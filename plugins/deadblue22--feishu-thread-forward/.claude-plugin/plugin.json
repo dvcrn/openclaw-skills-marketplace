@@ -1,0 +1,10 @@
+{
+  "name": "deadblue22--feishu-thread-forward",
+  "description": "Forward Feishu thread/topic to a user, group, or topic via REST API.\n Activate when: forwarding a thread/topic to another chat, sharing a topic post to a different group,\n or any scenario involving Feishu thread-level forwarding (转发话题).\n The built-in feishu message tool does NOT support thread forwarding — this skill fills that gap.",
+  "version": "1.0.0",
+  "author": {
+    "name": "deadblue22"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/deadblue22/feishu-thread-forward",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/deadblue22/feishu-thread-forward"
+}

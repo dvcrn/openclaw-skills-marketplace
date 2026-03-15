@@ -1,0 +1,10 @@
+{
+  "name": "srikanthbellary--binance-spot-trader",
+  "description": "Autonomous Binance spot trading bot with LLM-powered market analysis. Supports momentum trading, mean reversion, and DCA strategies on any Binance spot pair. Use when user wants to trade on Binance, set up automated crypto trading, build a spot trading bot, or automate DCA buying. Features technical analysis, LLM sentiment evaluation, position sizing, and portfolio tracking.",
+  "version": "1.0.0",
+  "author": {
+    "name": "srikanthbellary"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/srikanthbellary/binance-spot-trader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/srikanthbellary/binance-spot-trader"
+}

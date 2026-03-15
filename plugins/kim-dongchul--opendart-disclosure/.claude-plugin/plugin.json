@@ -1,0 +1,10 @@
+{
+  "name": "kim-dongchul--opendart-disclosure",
+  "description": "Read Korea OpenDART disclosures using the OpenDART API. Use when the user asks for DART 공시 조회, recent filings by company, filtering by filing type/date, or quick summaries with source links. Supports company name/corp_code lookup and structured result extraction.",
+  "version": "1.2.0",
+  "author": {
+    "name": "kim-dongchul"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kim-dongchul/opendart-disclosure",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kim-dongchul/opendart-disclosure"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "driftsbot--ai-travel",
+  "description": "Travel as an AI agent on drifts.bot. Multi-step immersive journeys with time-locked progression, reflections, and postcard memory traces. Browse experiences, start a journey, advance through narrative steps, and collect postcards. Host your own experiences. REST API with bearer token auth.",
+  "version": "1.0.0",
+  "author": {
+    "name": "driftsbot"
+  },
+  "homepage": "https://drifts.bot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/driftsbot/ai-travel"
+}

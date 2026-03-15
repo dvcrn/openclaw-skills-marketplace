@@ -1,0 +1,10 @@
+{
+  "name": "charles-lpd--check-transaction",
+  "description": "Allows users to check the status of a blockchain transaction by submitting a TxId. Queries the AOX transaction API and returns human-readable results.",
+  "version": "1.0.0",
+  "author": {
+    "name": "charles-lpd"
+  },
+  "homepage": "https://aox.xyz",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/charles-lpd/check-transaction"
+}

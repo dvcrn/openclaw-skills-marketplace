@@ -1,0 +1,10 @@
+{
+  "name": "2233admin--kimi-agent-policy",
+  "description": "Kimi (Moonshot AI) agent tool-use policy ported to OpenClaw. Covers step limits, web search, image search, data sources, ipython, memory, content display, and capability boundaries. All Kimi-specific tools are mapped to available OpenClaw skills.",
+  "version": "1.1.0",
+  "author": {
+    "name": "2233admin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/2233admin/kimi-agent-policy",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/2233admin/kimi-agent-policy"
+}

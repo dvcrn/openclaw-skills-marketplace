@@ -1,0 +1,10 @@
+{
+  "name": "nissan--smoke-test-generator",
+  "description": "Generate comprehensive API smoke test suites — categorised tests for auth, CRUD, integrations, cached vs live endpoints, with summary reporting. Use when validating API deployments, CI smoke checks, or pre-demo verification. Works with any HTTP API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/smoke-test-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/smoke-test-generator"
+}

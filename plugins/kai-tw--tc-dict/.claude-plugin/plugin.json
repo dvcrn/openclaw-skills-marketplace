@@ -1,0 +1,10 @@
+{
+  "name": "kai-tw--tc-dict",
+  "description": "Query Traditional Chinese dictionaries from Ministry of Education (MOE) Taiwan. Supports looking up word definitions from the \"國語辭典簡編本\" (Concised Mandarin Dictionary) with automatic version management and optional periodic updates. Use when you need to look up Chinese word meanings, check definitions, or ensure you have the latest dictionary data.",
+  "version": "1.0.1",
+  "author": {
+    "name": "kai-tw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kai-tw/tc-dict",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kai-tw/tc-dict"
+}

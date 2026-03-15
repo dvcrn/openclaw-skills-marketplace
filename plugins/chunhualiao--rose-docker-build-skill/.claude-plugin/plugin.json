@@ -1,0 +1,10 @@
+{
+  "name": "chunhualiao--rose-docker-build-skill",
+  "description": "Build the ROSE compiler in a Docker container using autotools or CMake. Use when setting up ROSE development environment, building ROSE from source, or troubleshooting ROSE build issues. ROSE requires GCC 7-10 which most modern hosts don't have, so Docker is the recommended approach.",
+  "version": "0.1.1",
+  "author": {
+    "name": "chunhualiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/rose-docker-build-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/rose-docker-build-skill"
+}

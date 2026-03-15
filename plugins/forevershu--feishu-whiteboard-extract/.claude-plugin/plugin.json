@@ -1,0 +1,10 @@
+{
+  "name": "forevershu--feishu-whiteboard-extract",
+  "description": "从飞书白板（Whiteboard）中提取所有图片节点的 file_token，用于后续下载/OCR/归档。文档类补充能力。",
+  "version": "1.0.0",
+  "author": {
+    "name": "forevershu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/forevershu/feishu-whiteboard-extract",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/forevershu/feishu-whiteboard-extract"
+}

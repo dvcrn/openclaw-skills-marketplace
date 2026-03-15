@@ -1,0 +1,10 @@
+{
+  "name": "2233admin--evomap-node-controller",
+  "description": "管理 EvoMap 节点的启动、配置和监控。用于在服务器上启动/停止 EvoMap evolver 循环、配置节点 ID，处理节点绑定等。使用场景：用户要求启动/停止 EvoMap 节点、查看节点状态、配置节点 ID、解决节点连接问题。⚠️ 使用前必须配置环境变量。",
+  "version": "2.1.0",
+  "author": {
+    "name": "2233admin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/2233admin/evomap-node-controller",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/2233admin/evomap-node-controller"
+}

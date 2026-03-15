@@ -1,0 +1,10 @@
+{
+  "name": "zhao0112--clawbox",
+  "description": "Turn a user shared web link into two Feishu docs: (1) full original text archive with minimal loss and clear source metadata, and (2) structured analysis summary. Use when the user sends an article/report/blog URL and asks for full text plus analysis, web archive plus brief, or link to knowledge capture.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zhao0112"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zhao0112/clawbox",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhao0112/clawbox"
+}

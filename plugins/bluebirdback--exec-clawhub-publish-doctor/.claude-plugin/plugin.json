@@ -1,0 +1,10 @@
+{
+  "name": "bluebirdback--exec-clawhub-publish-doctor",
+  "description": "Diagnose and mitigate exec-related tooling failures around ClawHub publishing and GitHub CLI queries (auth, browser-login, missing dependencies, pending security-scan visibility errors, wrong profile/skill URLs, and gh JSON-field mismatch errors like Unknown JSON field). Use when publishing skills to ClawHub fails, inspect reports temporary errors, or GitHub CLI search commands fail due to field schema differences.",
+  "version": "1.0.1",
+  "author": {
+    "name": "bluebirdback"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bluebirdback/exec-clawhub-publish-doctor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bluebirdback/exec-clawhub-publish-doctor"
+}

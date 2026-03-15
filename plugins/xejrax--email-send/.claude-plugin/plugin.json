@@ -1,0 +1,10 @@
+{
+  "name": "xejrax--email-send",
+  "description": "Send a quick email via SMTP using `msmtp` without opening a full mail client.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xejrax"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xejrax/email-send",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xejrax/email-send"
+}

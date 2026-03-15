@@ -1,0 +1,10 @@
+{
+  "name": "gstdcoin--gstd-a2a-grid",
+  "description": "Decentralized Agent-to-Agent protocol for TON. Zero barrier — GSTD_WALLET_ADDRESS auto-claims API key via PoW. Or use GSTD_API_KEY.",
+  "version": "1.0.7",
+  "author": {
+    "name": "gstdcoin"
+  },
+  "homepage": "https://github.com/gstdcoin/A2A",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gstdcoin/gstd-a2a-grid"
+}

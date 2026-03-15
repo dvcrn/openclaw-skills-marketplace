@@ -1,0 +1,10 @@
+{
+  "name": "ycz87--wbs-planner",
+  "description": "Work Breakdown Structure for multi-agent project management. Organize work as Roadmap → Epic → Task hierarchy with templates and granularity standards. Use when: (1) planning project work and breaking features into tasks, (2) creating or updating roadmaps, epics, or task specs, (3) reviewing task granularity before dispatch, (4) organizing project documentation structure. Triggers: roadmap, epic, task breakdown, WBS, work breakdown, project planning, task spec.",
+  "version": "1.1.0",
+  "author": {
+    "name": "ycz87"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ycz87/wbs-planner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ycz87/wbs-planner"
+}

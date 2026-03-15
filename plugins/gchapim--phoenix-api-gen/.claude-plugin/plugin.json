@@ -1,0 +1,10 @@
+{
+  "name": "gchapim--phoenix-api-gen",
+  "description": "Generate a full Phoenix JSON API from an OpenAPI spec or natural language description. Creates contexts, Ecto schemas, migrations, controllers, JSON views/renderers, router entries, ExUnit tests with factories, auth plugs, and tenant scoping. Use when building a new Phoenix REST API, adding CRUD endpoints, scaffolding resources, or converting an OpenAPI YAML into a Phoenix project.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gchapim"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gchapim/phoenix-api-gen",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gchapim/phoenix-api-gen"
+}

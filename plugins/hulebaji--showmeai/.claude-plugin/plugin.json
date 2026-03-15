@@ -1,0 +1,10 @@
+{
+  "name": "hulebaji--showmeai",
+  "description": "Generate images via Showmeai's OpenAI-compatible Images API. Supports nano-banana and gpt-image model series. Default model is nano-banana-pro. Images are NOT saved locally by default (URL only). Use --save flag when the user wants to keep the image.",
+  "version": "0.1.1",
+  "author": {
+    "name": "hulebaji"
+  },
+  "homepage": "https://api.showmeai.art",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/hulebaji/showmeai"
+}

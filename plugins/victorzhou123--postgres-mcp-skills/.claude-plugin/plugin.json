@@ -1,0 +1,10 @@
+{
+  "name": "victorzhou123--postgres-mcp-skills",
+  "description": "PostgreSQL 数据库管理和优化助手。提供完整的数据库操作能力：健康检查、索引优化、查询计划分析、模式查询、SQL 执行。\n 当用户提到 PostgreSQL、Postgres、数据库优化、索引调优、查询性能、数据库健康检查等任何与 PostgreSQL 相关的操作时使用此 skill。",
+  "version": "1.0.2",
+  "author": {
+    "name": "victorzhou123"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/victorzhou123/postgres-mcp-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/victorzhou123/postgres-mcp-skills"
+}

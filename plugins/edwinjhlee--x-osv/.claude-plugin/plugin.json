@@ -1,0 +1,10 @@
+{
+  "name": "edwinjhlee--x-osv",
+  "description": "CLI for Google OSV database. Query vulnerabilities for packages, \n scan local projects for vulnerable dependencies.\n \n **Dependency**: This is an x-cmd module. Install x-cmd first (see x-cmd skill).\n **Required Tool**: Install osv-scanner for project scanning (see https://github.com/google/osv-scanner).",
+  "version": "1.0.1",
+  "author": {
+    "name": "edwinjhlee"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/edwinjhlee/x-osv",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/edwinjhlee/x-osv"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "stolot0mt0m--voice-reply",
+  "description": "Local text-to-speech using Piper voices via sherpa-onnx. 100% offline, no API keys required.\n Use when user asks for a voice reply, audio response, spoken answer, or wants to hear something read aloud.\n Supports multiple languages including German (thorsten) and English (ryan) voices.\n Outputs Telegram-compatible voice notes with [[audio_as_voice]] tag.",
+  "version": "1.0.0",
+  "author": {
+    "name": "stolot0mt0m"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/stolot0mt0m/voice-reply",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/stolot0mt0m/voice-reply"
+}

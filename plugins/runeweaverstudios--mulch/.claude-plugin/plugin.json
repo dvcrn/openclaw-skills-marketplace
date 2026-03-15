@@ -1,0 +1,10 @@
+{
+  "name": "runeweaverstudios--mulch",
+  "description": "Mulch Self Improver — Let your agents grow 🌱. Captures learnings with Mulch so expertise compounds across sessions. Use when: command/tool fails, user corrects you, missing feature, API fails, knowledge was wrong, or better approach found. Run mulch prime at session start; mulch record before finishing. Benefits: better and more consistent coding, improved experience, less hallucination.",
+  "version": "1.0.5",
+  "author": {
+    "name": "runeweaverstudios"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/mulch",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/mulch"
+}

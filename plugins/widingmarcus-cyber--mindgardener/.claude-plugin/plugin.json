@@ -1,0 +1,10 @@
+{
+  "name": "widingmarcus-cyber--mindgardener",
+  "description": "Local-first long-term memory for autonomous agents. Built for OpenClaw. Creates wiki knowledge graph from conversations, scores events by surprise, detects conflicts, and assembles token-budget context. Complements OpenClaw's built-in memory_search.",
+  "version": "1.1.0",
+  "author": {
+    "name": "widingmarcus-cyber"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/widingmarcus-cyber/mindgardener",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/widingmarcus-cyber/mindgardener"
+}

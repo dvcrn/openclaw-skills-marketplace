@@ -1,0 +1,10 @@
+{
+  "name": "guifav--deploy-pilot",
+  "description": "Manages the full deploy cycle — build validation, GitHub push, Vercel deployment, and health checks",
+  "version": "0.1.1",
+  "author": {
+    "name": "guifav"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/guifav/deploy-pilot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/guifav/deploy-pilot"
+}

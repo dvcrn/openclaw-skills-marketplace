@@ -1,0 +1,10 @@
+{
+  "name": "drafthead--skill-to-agent-converter",
+  "description": "Convert OpenClaw skills into properly configured agents with correct workspace setup, binding, and orchestration. Solves common agent creation failures (thread binding errors, workspace isolation, improper session spawning). Use when creating agents from skills or when encountering agent binding errors.",
+  "version": "1.0.0",
+  "author": {
+    "name": "drafthead"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/drafthead/skill-to-agent-converter",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/drafthead/skill-to-agent-converter"
+}

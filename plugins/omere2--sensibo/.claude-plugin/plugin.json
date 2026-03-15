@@ -1,0 +1,10 @@
+{
+  "name": "omere2--sensibo",
+  "description": "Control Sensibo smart AC devices via their REST API. Use when the user asks to turn on/off AC, change temperature, set modes, check room temperature/humidity, or manage climate schedules. Triggers on phrases like \"turn on AC\", \"set bedroom to 22\", \"how hot is it\", \"AC off\", \"cooling mode\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "omere2"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/omere2/sensibo",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/omere2/sensibo"
+}

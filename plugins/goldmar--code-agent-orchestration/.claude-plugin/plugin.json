@@ -1,0 +1,10 @@
+{
+  "name": "goldmar--code-agent-orchestration",
+  "description": "Skill for orchestrating coding agent sessions from OpenClaw. Covers launching, monitoring, multi-turn interaction, lifecycle management, notifications, and parallel work patterns.",
+  "version": "2.1.0",
+  "author": {
+    "name": "goldmar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/goldmar/code-agent-orchestration",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/goldmar/code-agent-orchestration"
+}

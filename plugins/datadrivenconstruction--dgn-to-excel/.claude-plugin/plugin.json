@@ -1,0 +1,10 @@
+{
+  "name": "datadrivenconstruction--dgn-to-excel",
+  "description": "Convert DGN files (v7-v8) to Excel databases. Extract elements, levels, and properties from infrastructure CAD files.",
+  "version": "2.0.0",
+  "author": {
+    "name": "datadrivenconstruction"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/dgn-to-excel",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/dgn-to-excel"
+}

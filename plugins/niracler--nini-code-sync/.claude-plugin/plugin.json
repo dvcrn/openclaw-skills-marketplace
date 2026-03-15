@@ -1,0 +1,10 @@
+{
+  "name": "niracler--nini-code-sync",
+  "description": "Use when syncing all git repos under ~/code across machines, typically at end-of-day (push) or start-of-day (pull). Triggers on「同步代码」「code-sync」「下班同步」「上班更新」.",
+  "version": "0.1.2",
+  "author": {
+    "name": "niracler"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/niracler/nini-code-sync",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/niracler/nini-code-sync"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "xz-cn--clawdbot-crm-skill",
+  "description": "Personal CRM for managing contacts, relationships, and follow-ups using markdown files. Use when the user wants to add contacts, track relationships, set follow-up reminders, query contacts by tag/company/location, import/export contacts, or manage networking leads. Supports natural language input for adding contacts.",
+  "version": "0.1.1",
+  "author": {
+    "name": "xz-cn"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xz-cn/clawdbot-crm-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xz-cn/clawdbot-crm-skill"
+}

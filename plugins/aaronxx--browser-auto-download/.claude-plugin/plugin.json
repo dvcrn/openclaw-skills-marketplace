@@ -1,0 +1,10 @@
+{
+  "name": "aaronxx--browser-auto-download",
+  "description": "Browser-automated file download with enhanced features. Auto-detects platform (Windows/macOS/Linux, 64/32-bit, ARM/Intel), handles multi-step navigation (homepage to platform-specific pages), captures auto-downloads triggered on page load, and falls back to button clicking when needed. Ideal for complex download flows where curl/wget fail due to client-side rendering, automatic downloads, or multi-page navigation. Features page scrolling for lazy content, extended wait times, and Golang support.",
+  "version": "1.0.1",
+  "author": {
+    "name": "aaronxx"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/aaronxx/browser-auto-download",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aaronxx/browser-auto-download"
+}

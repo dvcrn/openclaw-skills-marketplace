@@ -1,0 +1,10 @@
+{
+  "name": "eftalyurtseven--eachlabs-workflows",
+  "description": "Build and orchestrate multi-step AI workflows combining multiple EachLabs models. Create custom pipelines, trigger executions, and manage workflow versions. Use when the user needs to chain multiple AI models or automate multi-step content creation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "eftalyurtseven"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-workflows",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-workflows"
+}

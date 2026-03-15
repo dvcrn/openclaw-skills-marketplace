@@ -1,0 +1,10 @@
+{
+  "name": "lmanchu--contract-review",
+  "description": "Legal contract analysis using CUAD dataset (41 risk categories). Supports NDA, SaaS, M&A, employment, payment/merchant, and finder/broker agreements. Identifies red flags, suggests redlines, compares to market standards.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lmanchu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lmanchu/contract-review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lmanchu/contract-review"
+}

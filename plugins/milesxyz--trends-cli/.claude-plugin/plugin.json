@@ -1,0 +1,10 @@
+{
+  "name": "milesxyz--trends-cli",
+  "description": "Help users install, configure, use, and troubleshoot @trends-fun/trends-cli. Use this skill whenever the user mentions trends or trends-cli commands (create, buy, sell, quote, reward, wallet, config, holdings, created, transactions), asks how to install or upgrade this specific CLI, or reports an error from this CLI. Prefer triggering even if the user says \"trends command\" or \"trends tool\" without the full package name.",
+  "version": "1.0.0",
+  "author": {
+    "name": "milesxyz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/milesxyz/trends-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/milesxyz/trends-cli"
+}

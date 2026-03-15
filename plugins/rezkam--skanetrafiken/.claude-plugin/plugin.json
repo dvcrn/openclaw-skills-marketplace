@@ -1,0 +1,10 @@
+{
+  "name": "rezkam--skanetrafiken",
+  "description": "Skåne public transport trip planner (Skånetrafiken). Plans bus/train journeys with real-time delays. Supports stations, addresses, landmarks, and cross-border trips to Copenhagen.",
+  "version": "1.2.0",
+  "author": {
+    "name": "rezkam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rezkam/skanetrafiken",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rezkam/skanetrafiken"
+}

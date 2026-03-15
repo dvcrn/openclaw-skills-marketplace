@@ -1,0 +1,10 @@
+{
+  "name": "maverick-software--cloudflare-access-vps",
+  "description": "Add Cloudflare Zero Trust Access authentication to a VPS-hosted OpenClaw agent. Puts a login screen (email OTP, Google SSO, GitHub, or TOTP MFA) in front of the entire domain before any traffic reaches the server. Use when: (1) securing a cloud-deployed OpenClaw agent behind an identity gate, (2) adding MFA to koda.teamplayers.ai or any agent subdomain, (3) enabling per-agent access policies (allowlist by email/domain), (4) generating service tokens for native app or API access that bypasses browser login, or (5) troubleshooting Cloudflare Access on an existing OpenClaw deployment. Requires Cloudflare Tunnel already running on the VPS.",
+  "version": "1.0.0",
+  "author": {
+    "name": "maverick-software"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/cloudflare-access-vps",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/maverick-software/cloudflare-access-vps"
+}

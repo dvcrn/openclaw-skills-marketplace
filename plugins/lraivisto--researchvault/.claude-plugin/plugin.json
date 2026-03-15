@@ -1,0 +1,10 @@
+{
+  "name": "lraivisto--researchvault",
+  "description": "Local-first research orchestration engine. Manages state, synthesis, and optional background services (MCP/Watchdog).",
+  "version": "3.0.5",
+  "author": {
+    "name": "lraivisto"
+  },
+  "homepage": "https://github.com/lraivisto/ResearchVault",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lraivisto/researchvault"
+}

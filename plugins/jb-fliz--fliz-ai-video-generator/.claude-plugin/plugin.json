@@ -1,0 +1,10 @@
+{
+  "name": "jb-fliz--fliz-ai-video-generator",
+  "description": "Complete integration guide for the Fliz REST API - an AI-powered video generation platform that transforms text content into professional videos with voiceovers, AI-generated images, and subtitles.\n \n Use this skill when:\n - Creating integrations with Fliz API (WordPress, Zapier, Make, n8n, custom apps)\n - Building video generation workflows via API\n - Implementing webhook handlers for video completion notifications\n - Developing automation tools that create, manage, or translate videos\n - Troubleshooting Fliz API errors or authentication issues\n - Understanding video processing steps and status polling\n \n Key capabilities: video creation from text/Brief, video status monitoring, translation, duplication, voice/music listing, webhook notifications.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jb-fliz"
+  },
+  "homepage": "https://fliz.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jb-fliz/fliz-ai-video-generator"
+}

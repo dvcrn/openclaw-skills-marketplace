@@ -1,0 +1,10 @@
+{
+  "name": "lksrz--email-webhook",
+  "description": "Receive incoming emails via JSON webhooks and wake the agent. Built for AI Commander.",
+  "version": "2.6.0",
+  "author": {
+    "name": "lksrz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/lksrz/email-webhook",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/lksrz/email-webhook"
+}

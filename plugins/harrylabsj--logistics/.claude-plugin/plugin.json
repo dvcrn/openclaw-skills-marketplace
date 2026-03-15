@@ -1,0 +1,10 @@
+{
+  "name": "harrylabsj--logistics",
+  "description": "Query and explain parcel logistics across courier providers, including tracking, courier identification, multi-package lookup, status interpretation, and delivery-update guidance. Use when the user asks about 快递查询、物流跟踪、查单号、识别快递公司、批量物流查询, or wants help understanding shipment progress across one or more couriers.",
+  "version": "1.0.0",
+  "author": {
+    "name": "harrylabsj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/logistics",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/harrylabsj/logistics"
+}

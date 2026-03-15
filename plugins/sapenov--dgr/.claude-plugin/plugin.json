@@ -1,0 +1,10 @@
+{
+  "name": "sapenov--dgr",
+  "description": "Audit-ready decision artifacts for LLM outputs — assumptions, risks, recommendation, and review gating (schema-valid JSON).",
+  "version": "1.0.4",
+  "author": {
+    "name": "sapenov"
+  },
+  "homepage": "https://www.clawhub.ai/sapenov/dgr",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sapenov/dgr"
+}

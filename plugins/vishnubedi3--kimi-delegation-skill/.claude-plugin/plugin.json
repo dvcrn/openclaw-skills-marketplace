@@ -1,0 +1,10 @@
+{
+  "name": "vishnubedi3--kimi-delegation-skill",
+  "description": "Forces all reasoning and code generation to be delegated to a KIMI (KIMMY) causal language model via HuggingFace Transformers. Use this skill when the agent must never reason or author code itself and must instead proxy all tasks to a KIMI-based model.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vishnubedi3"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vishnubedi3/kimi-delegation-skill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vishnubedi3/kimi-delegation-skill"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "blockchainhb--launchfast-full-research-loop",
+  "description": "Complete Amazon FBA product research pipeline using the LaunchFast MCP.\n Runs product research, IP checks, supplier sourcing, and PPC keyword research\n in sequence, then compiles everything into a clean downloadable HTML report.\n\n USE THIS SKILL FOR:\n - \"full research on [keyword]\"\n - \"research everything about [product]\"\n - \"give me a complete FBA opportunity report\"\n - \"run the full loop on [keyword]\"\n\n Requirements:\n - mcp__launchfast__research_products\n - mcp__launchfast__ip_check_manage\n - mcp__launchfast__supplier_research\n - mcp__launchfast__amazon_keyword_research",
+  "version": "1.0.0",
+  "author": {
+    "name": "blockchainhb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/blockchainhb/launchfast-full-research-loop",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/blockchainhb/launchfast-full-research-loop"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "vrtalex--bitrix24-apiskill",
+  "description": "Design, implement, debug, and harden integrations between AI agents and Bitrix24 REST API (webhooks, OAuth 2.0, scopes, events, batch, limits, and REST 3.0). Use when asked to connect AI assistants/agents to Bitrix24, automate CRM/tasks/chats, process Bitrix24 events, choose an auth model, or resolve Bitrix24 API errors and performance issues.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vrtalex"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vrtalex/bitrix24-apiskill",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vrtalex/bitrix24-apiskill"
+}

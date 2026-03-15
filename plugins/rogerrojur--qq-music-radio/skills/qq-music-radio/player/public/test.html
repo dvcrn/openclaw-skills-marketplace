@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>测试页面</title>
+</head>
+<body>
+    <h1>QQ 音乐播放器测试</h1>
+    <div id="status">正在测试...</div>
+    <div id="result"></div>
+    
+    <script>
+        async function test() {
+            const status = document.getElementById('status');
+            const result = document.getElementById('result');
+            
+            try {
+                // 1. 获取歌单列表
+                status.textContent = '1. 正在获取歌单列表...';
+                const listRes = await fetch('/api/radio/list');
+                const listData = await listRes.json();
+                console.log('歌单列表:', listData);
+                
+                if (listData.payload && listData.payload.radioInfos) {
+                    result.innerHTML += `<p>✅ 获取到 ${listData.payload.radioInfos.length} 个歌单</p>`;
+                    
+                    // 2. 获取第一个歌单的歌曲
+                    const radioId = listData.payload.radioInfos[0].radioId;
+                    status.textContent = `2. 正在获取歌单 ${radioId} 的歌曲...`;
+                    
+                    const detailRes = await fetch('/api/radio/detail', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ radioId })
+                    });
+                    const detailData = await detailRes.json();
+                    console.log('歌单详情:', detailData);
+                    
+                    if (detailData.payload && detailData.payload.songInfos) {
+                        const songs = detailData.payload.songInfos;
+                        result.innerHTML += `<p>✅ 获取到 ${songs.length} 首可播放歌曲</p>`;
+                        
+                        if (songs.length > 0) {
+                            const song = songs[0];
+                            result.innerHTML += `<p>第一首歌: ${song.songName} - ${song.singerName}</p>`;
+                            result.innerHTML += `<p>有播放链接: ${song.playUrl ? '✅ 是' : '❌ 否'}</p>`;
+                            
+                            if (song.playUrl) {
+                                result.innerHTML += `<p>播放链接: ${song.playUrl.substring(0, 100)}...</p>`;
+                                
+                                // 3. 尝试播放
+                                status.textContent = '3. 尝试播放第一首歌...';
+                                const audio = new Audio(song.playUrl);
+                                
+                                audio.addEventListener('canplay', () => {
+                                    result.innerHTML += `<p>✅ 音频可以播放</p>`;
+                                    audio.play().then(() => {
+                                        result.innerHTML += `<p>✅ 播放成功！</p>`;
+                                        status.textContent = '✅ 所有测试通过！';
+                                        
+                                        setTimeout(() => {
+                                            audio.pause();
+                                            result.innerHTML += `<p>已停止播放</p>`;
+                                        }, 3000);
+                                    }).catch(err => {
+                                        result.innerHTML += `<p>❌ 播放失败: ${err.message}</p>`;
+                                    });
+                                });
+                                
+                                audio.addEventListener('error', (e) => {
+                                    result.innerHTML += `<p>❌ 音频加载失败</p>`;
+                                    console.error('Audio error:', e);
+                                });
+                            }
+                        }
+                    }
+                }
+                
+            } catch (error) {
+                result.innerHTML += `<p>❌ 错误: ${error.message}</p>`;
+                console.error('Test error:', error);
+            }
+        }
+        
+        test();
+    </script>
+</body>
+</html>

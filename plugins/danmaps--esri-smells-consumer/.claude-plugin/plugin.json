@@ -1,0 +1,10 @@
+{
+  "name": "danmaps--esri-smells-consumer",
+  "description": "Paid client skill for Esri Workflow Smell Detector via x402 (Base/USDC).\n Use when you want to run a deterministic automation preflight scan on an ArcGIS Pro project snapshot\n by calling https://api.x402layer.cc/e/esri-smells (HTTP 402 payment flow).",
+  "version": "1.0.0",
+  "author": {
+    "name": "danmaps"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/danmaps/esri-smells-consumer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/danmaps/esri-smells-consumer"
+}

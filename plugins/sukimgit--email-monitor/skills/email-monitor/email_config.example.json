@@ -1,0 +1,51 @@
+{
+  "email": {
+    "address": "your_email@qq.com",
+    "name": "效率工坊 | Efficiency Lab",
+    "imap": {
+      "host": "imap.qq.com",
+      "port": 993,
+      "secure": true,
+      "auth": {
+        "user": "your_email@qq.com",
+        "pass": "your_app_password"
+      }
+    },
+    "smtp": {
+      "host": "smtp.qq.com",
+      "port": 465,
+      "secure": true,
+      "auth": {
+        "user": "your_email@qq.com",
+        "pass": "your_app_password"
+      }
+    }
+  },
+  "monitor": {
+    "checkInterval": 1800,
+    "autoReply": true,
+    "notifyFeishu": true,
+    "feishuWebhook": "your_feishu_webhook_url",
+    "deleteSpam": false,
+    "ignoreTime": "08:00",
+    
+    "rateLimit": {
+      "maxRepliesPerHour": 5,
+      "maxRepliesPerDay": 20,
+      "minIntervalBetweenReplies": 300,
+      "quietHours": ["23:00", "07:00"]
+    },
+    
+    "priority_keywords": ["定制", "开发", "外包", "项目", "合作", "报价", "价格", "多少钱", "quote", "price", "custom", "development", "project", "order", "purchase", "buy"],
+    "consultation_keywords": ["咨询", "询问", "了解", "详情", "功能", "技能", "服务", "consult", "inquiry", "question", "how to", "can you"],
+    "verification_keywords": ["验证", "确认", "激活", "注册", "登录", "验证码", "verify", "confirm", "activate", "code", "verification"],
+    "ignore_keywords": ["服务器维护", "维护邮件", "广告", "促销", "优惠", "抽奖", "发票", "代开", "赌博", "贷款", "spam", "promotion", "discount"],
+    "ignore_senders": ["10000@qq.com", "1000000@qq.com", "notifications@github.com", "no-reply@", "noreply@"],
+    
+    "priority_action": "reply_and_notify",
+    "consultation_action": "reply_with_info",
+    "verification_action": "ignore",
+    "spam_action": "mark_as_spam",
+    "ignore_action": "mark_as_read"
+  }
+}

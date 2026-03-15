@@ -1,0 +1,10 @@
+{
+  "name": "uchibeke--myway-personal-os",
+  "description": "Set up Myway, a self-hosted personal AI home screen, using OpenClaw as the AI backend. Use this skill when the user wants to install Myway with OpenClaw, configure their personal dashboard, or troubleshoot a Myway + OpenClaw setup. Requires Node.js 22+ and yarn.",
+  "version": "0.2.0",
+  "author": {
+    "name": "uchibeke"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/uchibeke/myway-personal-os",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/uchibeke/myway-personal-os"
+}

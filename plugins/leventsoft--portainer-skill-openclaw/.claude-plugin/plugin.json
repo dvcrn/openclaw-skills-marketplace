@@ -1,0 +1,10 @@
+{
+  "name": "leventsoft--portainer-skill-openclaw",
+  "description": "Comprehensive management for Portainer CE environments and stacks. Supports listing environments, managing Docker Compose/Swarm stacks, and executing raw Docker commands via proxy. Use when the user needs to deploy apps, check container status, or manage networks within Portainer. Requires a Portainer API Key configured in OpenClaw.",
+  "version": "0.1.1",
+  "author": {
+    "name": "leventsoft"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/leventsoft/portainer-skill-openclaw",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leventsoft/portainer-skill-openclaw"
+}

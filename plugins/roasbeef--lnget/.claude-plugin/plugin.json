@@ -1,0 +1,10 @@
+{
+  "name": "roasbeef--lnget",
+  "description": "Install and use lnget, a Lightning-native HTTP client with automatic L402 payment support. Use when downloading files behind Lightning paywalls, managing L402 tokens, checking Lightning backend status, or making HTTP requests that may require micropayments.",
+  "version": "1.0.0",
+  "author": {
+    "name": "roasbeef"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/roasbeef/lnget",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/roasbeef/lnget"
+}

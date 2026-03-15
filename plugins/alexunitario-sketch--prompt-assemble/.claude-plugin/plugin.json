@@ -1,0 +1,10 @@
+{
+  "name": "alexunitario-sketch--prompt-assemble",
+  "description": "Token-safe prompt assembly with memory orchestration. Use for any agent that needs to construct LLM prompts with memory retrieval. Guarantees no API failure due to token overflow. Implements two-phase context construction, memory safety valve, and hard limits on memory injection.",
+  "version": "1.0.4",
+  "author": {
+    "name": "alexunitario-sketch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alexunitario-sketch/prompt-assemble",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alexunitario-sketch/prompt-assemble"
+}

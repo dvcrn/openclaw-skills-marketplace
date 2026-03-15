@@ -1,0 +1,10 @@
+{
+  "name": "davida-ps--clawsec-feed",
+  "description": "Security advisory feed with automated NVD CVE polling for OpenClaw-related vulnerabilities. Updated daily.",
+  "version": "0.0.5",
+  "author": {
+    "name": "davida-ps"
+  },
+  "homepage": "https://clawsec.prompt.security",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/davida-ps/clawsec-feed"
+}

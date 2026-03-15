@@ -1,0 +1,10 @@
+{
+  "name": "zhengge6--cn-weather",
+  "description": "中国天气 API - 使用和風天气 (QWeather) 获取中国城市天气数据。支持双 API（和风天气 + Open-Meteo）。",
+  "version": "1.0.2",
+  "author": {
+    "name": "zhengge6"
+  },
+  "homepage": "https://dev.qweather.com/docs/api/",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zhengge6/cn-weather"
+}

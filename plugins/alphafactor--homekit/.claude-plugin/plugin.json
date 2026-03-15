@@ -1,0 +1,10 @@
+{
+  "name": "alphafactor--homekit",
+  "description": "Control Apple HomeKit smart home devices. Supports listing, discovering, pairing devices, and controlling lights, switches, outlets, thermostats. Use when the user needs to manage HomeKit accessories programmatically. Requires homekit library and paired devices.",
+  "version": "1.0.5",
+  "author": {
+    "name": "alphafactor"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/homekit",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/homekit"
+}

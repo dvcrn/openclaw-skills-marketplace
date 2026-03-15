@@ -1,0 +1,10 @@
+{
+  "name": "xwzai--work-report",
+  "description": "生成工作汇报PPT。使用python-pptx库创建演示文稿，用于生成工作周报、月报、项目汇报等。第一页标题用宋体48号，内容页标题36号，正文18号，总页数控制在10页以内，最后一页为\"谢谢观看\"。",
+  "version": "1.0.0",
+  "author": {
+    "name": "xwzai"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/xwzai/work-report",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xwzai/work-report"
+}

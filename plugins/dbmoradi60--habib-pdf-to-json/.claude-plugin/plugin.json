@@ -1,0 +1,10 @@
+{
+  "name": "dbmoradi60--habib-pdf-to-json",
+  "description": "Extract structured data from construction PDFs. Convert specifications, BOMs, schedules, and reports from PDF to Excel/CSV/JSON. Use OCR for scanned documents and pdfplumber for native PDFs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dbmoradi60"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dbmoradi60/habib-pdf-to-json",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dbmoradi60/habib-pdf-to-json"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "boner-bbb--musicful-music-generator",
+  "description": "Generate AI music or lyrics from natural language with a single sentence. The system auto-detects\n whether to create a vocal song or pure instrumental BGM, and automatically polls the task: it\n returns a preview link first, then the final downloadable audio link.",
+  "version": "2.0.1",
+  "author": {
+    "name": "boner-bbb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/boner-bbb/musicful-music-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/boner-bbb/musicful-music-generator"
+}

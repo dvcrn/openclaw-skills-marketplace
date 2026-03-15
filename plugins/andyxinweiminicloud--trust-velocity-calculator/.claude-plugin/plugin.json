@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--trust-velocity-calculator",
+  "description": "Helps calculate the rate at which trust in a skill or agent is decaying by combining time elapsed since last verification with the rate of change in behavior, permissions, or dependencies — producing a trust velocity score that predicts when a trusted credential will become unreliable.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/trust-velocity-calculator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/trust-velocity-calculator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "rosepuppy--memory",
+  "description": "Complete memory system for OpenClaw agents. Combines behavioral protocol (when to save) + auto-capture (heartbeat-enforced) + keyword search (recall) + maintenance (consolidation). Use for persistent memory, context recovery, answering \"what did we discuss about X\", and surviving context compaction. Includes SESSION-STATE.md pattern for hot context and RECENT_CONTEXT.md for auto-updated highlights.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rosepuppy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/rosepuppy/memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/rosepuppy/memory"
+}

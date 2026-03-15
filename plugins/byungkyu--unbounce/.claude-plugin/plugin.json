@@ -1,0 +1,10 @@
+{
+  "name": "byungkyu--unbounce",
+  "description": "Unbounce API integration with managed OAuth. Build and manage landing pages, track leads, and analyze conversion data.\n Use this skill when users want to interact with Unbounce for landing page management and lead tracking.\n For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+  "version": "1.0.0",
+  "author": {
+    "name": "byungkyu"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/unbounce",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/byungkyu/unbounce"
+}

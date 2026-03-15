@@ -1,0 +1,10 @@
+{
+  "name": "bert-builder--tavily",
+  "description": "AI-optimized web search using Tavily Search API. Use when you need comprehensive web research, current events lookup, domain-specific search, or AI-generated answer summaries. Tavily is optimized for LLM consumption with clean structured results, answer generation, and raw content extraction. Best for research tasks, news queries, fact-checking, and gathering authoritative sources.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bert-builder"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bert-builder/tavily",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bert-builder/tavily"
+}

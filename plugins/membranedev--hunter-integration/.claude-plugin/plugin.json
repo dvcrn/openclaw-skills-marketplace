@@ -1,0 +1,10 @@
+{
+  "name": "membranedev--hunter-integration",
+  "description": "Hunter integration. Manage Organizations. Use when the user wants to interact with Hunter data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "membranedev"
+  },
+  "homepage": "https://getmembrane.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/membranedev/hunter-integration"
+}

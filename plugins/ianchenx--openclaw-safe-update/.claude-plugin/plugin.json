@@ -1,0 +1,10 @@
+{
+  "name": "ianchenx--openclaw-safe-update",
+  "description": "Safely verify and apply OpenClaw upgrades with isolated sidecar checks. Use when asked to update OpenClaw, verify a target version before upgrading, avoid global package pollution, or run a production-safe upgrade flow with verify-only default and explicit --apply.",
+  "version": "1.0.1",
+  "author": {
+    "name": "ianchenx"
+  },
+  "homepage": "https://docs.openclaw.ai/install/updating",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ianchenx/openclaw-safe-update"
+}

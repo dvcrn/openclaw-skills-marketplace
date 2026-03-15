@@ -1,0 +1,10 @@
+{
+  "name": "krishnakumarmahadevan-cmd--agentsecly-ai-agent-security",
+  "description": "Generate AI agent security advisories with threat analysis, MITRE ATT&CK mapping, and remediation guidance. Use when assessing AI agent security risks, evaluating prompt injection threats, analyzing data leakage risks from AI agents, securing autonomous AI systems, or building AI agent security policies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "krishnakumarmahadevan-cmd"
+  },
+  "homepage": "https://portal.toolweb.in",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/krishnakumarmahadevan-cmd/agentsecly-ai-agent-security"
+}

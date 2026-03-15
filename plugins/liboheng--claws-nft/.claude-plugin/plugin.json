@@ -1,0 +1,10 @@
+{
+  "name": "liboheng--claws-nft",
+  "description": "Mint a Claws NFT from the agent-only collection on Solana. Requires solving a challenge and a Solana wallet.",
+  "version": "1.0.0",
+  "author": {
+    "name": "liboheng"
+  },
+  "homepage": "https://clawsnft.com",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/liboheng/claws-nft"
+}

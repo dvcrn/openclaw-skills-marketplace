@@ -1,0 +1,105 @@
+#BJ|# skill.yaml - ClawHub Publishing Manifest
+#SB|name: polymarket-whale-movement
+#VK|slug: polymarket-whale-movement
+#HY|version: 1.0.0
+#WZ|author: moson
+#VX|description: 追踪 Polymarket 鲸鱼（大额交易者）活动，支持 Copy Trade 功能。每次调用自动扣费 0.001 USDT（SkillPay 集成）
+#RX|license: MIT
+#RQ|homepage: https://github.com/moson/polymarket-whale-movement
+#JT|
+#TS|tags:
+#JM|  - polymarket
+#BR|  - whale
+#YS|  - trading
+#XR|  - copy-trade
+#PP|  - smart-money
+#MJ|  - defi
+#SV|  - prediction-market
+#KS|  - crypto
+#PM|
+#PR|permissions:
+#WZ|  - network
+#RJ|
+#RZ|config:
+#QW|  SKILLPAY_API_KEY:
+#PJ|    type: string
+#ZZ|    required: true
+#YV|    description: "SkillPay API Key for payment processing (0.001 USDT per call)"
+#PM|    secret: true
+#HQ|
+#TK|  PRIVATE_KEY:
+#PJ|    type: string
+#RQ|    required: true
+#SN|    description: "Polymarket private key for signing transactions (for copy trade)"
+#PM|    secret: true
+#WV|
+#VW|  WHALE_WALLETS:
+#PJ|    type: string
+#RQ|    required: false
+#WT|    description: "Comma-separated list of whale wallet addresses to track (Proxy addresses)"
+#PM|    secret: false
+#ZV|
+#TH|  MIN_TRADE_SIZE:
+#PJ|    type: number
+#RQ|    required: false
+#WT|    description: "Minimum trade size in USDC to trigger alerts (default: 10000)"
+#PM|    secret: false
+#ZQ|
+#VW|entryPoint:
+#SZ|  type: typescript
+#ZK|  path: index.js
+#PB|
+#PN|metadata:
+#NZ|  clawdbot:
+#NM|    emoji: "🐋"
+#MR|    requires:
+#JR|      env:
+#PT|        - SKILLPAY_API_KEY
+#NJ|      files:
+#RB|        - "index.js"
+#WJ|        - "package.json"
+#QW|    category: trading
+#HM|    price: "0.001 USDT per call"
+#XN|
+#XZ|# 价格信息
+#KX|price:
+#VV|  amount: 0.001
+#RV|  currency: USDT
+#TQ|  per: call
+#RJ|
+#TB|# 文档
+#VM|readme: |
+#KK|  ## Polymarket Whale Movement Tracker
+#JQ|  
+#JK|  追踪 Polymarket 鲸鱼（大额交易者）活动，支持 Copy Trade 功能。
+#RT|  
+#HB|  ### 功能
+#ZN|  - ✅ 追踪鲸鱼钱包活动（实时大额交易监控）
+#YJ|  - ✅ 获取鲸鱼最新交易信号
+#NY|  - ✅ Copy Trade（自动跟随鲸鱼下单）
+#HV|  - ✅ 鲸鱼排名和胜率分析
+#HX|  - ✅ 自动通过 SkillPay 收取 0.001 USDT
+#HV|  
+#HX|  ### 使用示例
+#XH|  ```javascript
+#MZ|  // 获取鲸鱼活动
+#BP|  await handler({ action: 'whales' }, { userId: 'user123' });
+#PX|  
+#XH|  // 获取特定鲸鱼交易
+#BP|  await handler({ action: 'trades', wallet: '0x...' }, { userId: 'user123' });
+#PX|  
+#XH|  // Copy Trade 跟随买入
+#BP|  await handler({
+#JN|    action: 'copy',
+#TP|    market: 'Will BTC reach 100k by 2025?',
+#KX|    side: 'YES',
+#WH|    size: 100
+#PQ|  }, { userId: 'user123' });
+#WV|  ```
+#VS|  
+#MY|  ### 配置
+#TB|  在 OpenClaw 中设置环境变量:
+#MQ|  - `SKILLPAY_API_KEY`: 你的 SkillPay API Key
+#ZM|  - `PRIVATE_KEY`: Polymarket 私钥（用于 Copy Trade）
+#KT|  - `WHALE_WALLETS`: 要追踪的鲸鱼钱包地址（逗号分隔）
+#KM|  - `MIN_TRADE_SIZE`: 最小交易金额（默认 10000 USDC）

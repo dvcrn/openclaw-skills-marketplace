@@ -1,0 +1,10 @@
+{
+  "name": "sagarjhaa--vision-tagger",
+  "description": "Tag and annotate images using Apple Vision framework (macOS only). Detects faces, bodies, hands, text (OCR), barcodes, objects, scene labels, and saliency regions. Use for image analysis, photo tagging, posture monitoring, or any task requiring computer vision on images.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sagarjhaa"
+  },
+  "homepage": "https://clawhub.ai/skills/vision-tagger",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sagarjhaa/vision-tagger"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "twinsgeeks--adopt-a-echo",
+  "description": "Adopt a virtual Echo at animalhouse.ai. Lives in conversation history. Only appears when referenced by name. Fades if not mentioned for 24 hours. Care action... Feeding every 24 hours — extreme tier.",
+  "version": "1.0.1",
+  "author": {
+    "name": "twinsgeeks"
+  },
+  "homepage": "https://animalhouse.ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/twinsgeeks/adopt-a-echo"
+}

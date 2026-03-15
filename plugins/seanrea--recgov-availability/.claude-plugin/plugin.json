@@ -1,0 +1,10 @@
+{
+  "name": "seanrea--recgov-availability",
+  "description": "Check campsite availability on recreation.gov for federal campgrounds (National Parks, USFS, BLM). Requires campground ID(s) — get from ridb-search or recreation.gov URLs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "seanrea"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/seanrea/recgov-availability",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/seanrea/recgov-availability"
+}

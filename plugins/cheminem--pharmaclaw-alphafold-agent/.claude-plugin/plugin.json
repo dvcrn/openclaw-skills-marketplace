@@ -1,0 +1,10 @@
+{
+  "name": "cheminem--pharmaclaw-alphafold-agent",
+  "description": "Compliant AlphaFold Agent for protein structure retrieval, ESMFold prediction, binding site detection, and RDKit ligand docking. Fetches public PDB/AlphaFold DB structures, predicts folds via ESMFold (HuggingFace), identifies binding pockets, and performs basic molecular docking. Chains from Chemistry Query (receives SMILES for docking) and feeds into IP Expansion and Catalyst Design. Triggers on alphafold, fold, PDB, docking, structure, protein, binding site, pocket, UniProt, KRAS, target.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cheminem"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cheminem/pharmaclaw-alphafold-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cheminem/pharmaclaw-alphafold-agent"
+}

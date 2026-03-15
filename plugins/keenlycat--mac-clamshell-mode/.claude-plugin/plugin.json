@@ -1,0 +1,10 @@
+{
+  "name": "keenlycat--mac-clamshell-mode",
+  "description": "Mac laptop clamshell mode assistant. Supports running with lid closed WITHOUT external display/keyboard/mouse. Auto-detects Mac model and macOS version, provides safe configuration with rollback.",
+  "version": "1.0.1",
+  "author": {
+    "name": "keenlycat"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/keenlycat/mac-clamshell-mode",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/keenlycat/mac-clamshell-mode"
+}

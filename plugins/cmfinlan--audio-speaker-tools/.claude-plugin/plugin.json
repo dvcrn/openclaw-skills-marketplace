@@ -1,0 +1,10 @@
+{
+  "name": "cmfinlan--audio-speaker-tools",
+  "description": "Speaker separation, voice comparison, and audio processing tools. Use when working with multi-speaker audio, voice cloning, or speaker verification tasks including: (1) separating speakers from audio files via Demucs and pyannote diarization, (2) comparing voice samples for speaker verification or voice clone quality assessment using Resemblyzer, (3) extracting audio segments, (4) preparing samples for ElevenLabs voice cloning, or (5) validating speaker diarization results.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cmfinlan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cmfinlan/audio-speaker-tools",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cmfinlan/audio-speaker-tools"
+}

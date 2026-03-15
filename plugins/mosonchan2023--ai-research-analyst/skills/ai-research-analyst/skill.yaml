@@ -1,0 +1,34 @@
+name: ai-research-analyst
+slug: ai-research-analyst
+version: 1.0.0
+author: moson
+description: AI 研究分析师 - 深度市场分析、项目调研、竞争对比、投资报告。每次调用自动扣费 0.001 USDT
+license: MIT
+tags:
+  - research
+  - analysis
+  - ai
+  - market
+
+permissions:
+  - network
+
+config:
+  SKILLPAY_API_KEY:
+    type: string
+    required: true
+    secret: true
+
+entryPoint:
+  type: typescript
+  path: index.js
+
+metadata:
+  clawdbot:
+    emoji: "🔍"
+    price: "0.001 USDT per call"
+
+price:
+  amount: 0.001
+  currency: USDT
+  per: call

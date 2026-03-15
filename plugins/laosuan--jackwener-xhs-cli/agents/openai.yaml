@@ -1,0 +1,4 @@
+interface:
+  display_name: "Xiaohongshu CLI"
+  short_description: "Operate Xiaohongshu with the xhs terminal CLI."
+  default_prompt: "Use $xhs-cli to install and operate xhs-cli for Xiaohongshu search, reading, interaction, and publishing tasks."

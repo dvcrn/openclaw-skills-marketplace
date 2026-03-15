@@ -1,0 +1,10 @@
+{
+  "name": "wowcharlotte--scholar-search-skills",
+  "description": "学术论文搜索与下载工具。当用户要求搜索某一主题的科研论文时触发此技能，支持从 arXiv、ICLR、ICML、NeurIPS 等来源搜索、筛选和下载论文，并生成结构化摘要和 BibTeX 引用。",
+  "version": "1.0.0",
+  "author": {
+    "name": "wowcharlotte"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wowcharlotte/scholar-search-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wowcharlotte/scholar-search-skills"
+}

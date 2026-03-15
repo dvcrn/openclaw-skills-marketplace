@@ -1,0 +1,10 @@
+{
+  "name": "jzocb--jz-roundtable",
+  "description": "Multi-perspective decision analysis. Use when the user asks for roundtable,\n or when facing important decisions that need multiple viewpoints.\n Dynamically selects relevant roles based on the task.\n \n ⚠️ 直接在主 session 执行，不要 spawn subagent。\n Roundtable 是 prompt 技巧，不需要隔离环境。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jzocb"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jzocb/jz-roundtable",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jzocb/jz-roundtable"
+}

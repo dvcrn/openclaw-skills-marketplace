@@ -1,0 +1,10 @@
+{
+  "name": "cenralsolution--mfa-word",
+  "description": "Challenges the user for a secret word before allowing access to sensitive files or system commands.",
+  "version": "1.1.0",
+  "author": {
+    "name": "cenralsolution"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cenralsolution/mfa-word",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cenralsolution/mfa-word"
+}

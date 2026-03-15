@@ -1,0 +1,10 @@
+{
+  "name": "slemo54--web-mcp",
+  "description": "WebMCP - Enable AI agents to interact with your web applications through structured tools. Implements the WebMCP standard for Next.js/React apps with tool registration, event bridge pattern, and contextual tool loading. Use when building AI-agent accessible web apps, adding MCP capabilities to existing projects, or creating tool-based interfaces for AI interactions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "slemo54"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/slemo54/web-mcp",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/slemo54/web-mcp"
+}

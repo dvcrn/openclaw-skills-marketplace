@@ -1,0 +1,10 @@
+{
+  "name": "artvepa80--hefestoai-auditor",
+  "description": "Static code analysis tool. Detects security vulnerabilities, code smells, and complexity issues across 17 languages. All analysis runs locally — no code leaves your machine.",
+  "version": "2.2.0",
+  "author": {
+    "name": "artvepa80"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/artvepa80/hefestoai-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/artvepa80/hefestoai-auditor"
+}

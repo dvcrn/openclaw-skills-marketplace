@@ -1,0 +1,10 @@
+{
+  "name": "theashbhat--promptlayer",
+  "description": "Manage prompts, log LLM requests, run evaluations, and track scores via the PromptLayer API. Use when working with prompt versioning, A/B testing prompts, LLM observability/logging, prompt evaluation pipelines, datasets, or PromptLayer agents/workflows.",
+  "version": "1.2.0",
+  "author": {
+    "name": "theashbhat"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/theashbhat/promptlayer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/theashbhat/promptlayer"
+}

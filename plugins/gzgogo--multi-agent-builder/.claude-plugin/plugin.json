@@ -1,0 +1,10 @@
+{
+  "name": "gzgogo--multi-agent-builder",
+  "description": "Build a reusable multi-agent team in OpenClaw from a user goal (e.g., \"create a product-engineering team\", \"build a marketing ops team\"). Use when the user wants role analysis, role confirmation, agent-by-agent creation plan, collaboration protocol, handoff flow, and channel-binding checklist. Mirror the user's language (English/Chinese/other) throughout the interaction and outputs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gzgogo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gzgogo/multi-agent-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gzgogo/multi-agent-builder"
+}

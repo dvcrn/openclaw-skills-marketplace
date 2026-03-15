@@ -1,0 +1,10 @@
+{
+  "name": "sube-py--check-workday-cn",
+  "description": "Determine whether today (or a given date) is a working day in mainland China by querying holiday-cn yearly JSON from jsDelivr and applying holiday/makeup-workday rules. Use when users ask questions like \"今天是不是工作日\", \"这天要不要上班\", \"是不是节假日/调休补班\", or when a workflow needs a reliable workday boolean.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sube-py"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/sube-py/check-workday-cn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/sube-py/check-workday-cn"
+}

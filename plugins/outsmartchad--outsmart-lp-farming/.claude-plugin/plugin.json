@@ -1,0 +1,10 @@
+{
+  "name": "outsmartchad--outsmart-lp-farming",
+  "description": "Manage LP positions on Solana DEXes to earn swap fees. Use when: user asks about LP farming, providing liquidity, earning yield, compounding fees, DLMM, DAMM v2, rebalancing, creating pools, passive income on Solana. NOT for: lending/borrowing protocols, staking SOL, CEX market making.",
+  "version": "1.0.0",
+  "author": {
+    "name": "outsmartchad"
+  },
+  "homepage": "https://github.com/outsmartchad/outsmart-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/outsmartchad/outsmart-lp-farming"
+}

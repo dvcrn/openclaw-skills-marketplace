@@ -1,0 +1,10 @@
+{
+  "name": "allenfancy-gan--ima-video-ai",
+  "description": "Premier AI video generation with models: Wan 2.6, Kling O1, Kling 2.6, Google Veo 3.1, Sora 2 Pro, Pixverse V5.5, Hailuo 2.0, Hailuo 2.3, SeeDance 1.5 Pro, Vidu Q2. One-stop access across text-to-video, image-to-video, first-last-frame, reference-image modes with knowledge base guidance. BEFORE using: READ ima-knowledge-ai skill for workflow design and visual consistency. Use for: video generation, text-to-video, image-to-video, character animation, product demos, social media clips, storytelling, explainer videos, multi-shot production, character consistency via reference images. Requires IMA API key.",
+  "version": "1.0.6",
+  "author": {
+    "name": "allenfancy-gan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/allenfancy-gan/ima-video-ai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/allenfancy-gan/ima-video-ai"
+}

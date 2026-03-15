@@ -1,0 +1,10 @@
+{
+  "name": "yzhong52--ascii-chord",
+  "description": "Show ASCII guitar chord diagrams using the ascii_chord CLI tool. Use when asked how to play a guitar chord, or to show chord charts/diagrams for any chord name (e.g. E, B7, Am, C, G, Dm, etc.). Requires git and cargo (Rust toolchain) to be installed. First use clones https://github.com/yzhong52/ascii_chord into /tmp and builds it with cargo — review the source before running if desired.",
+  "version": "1.0.2",
+  "author": {
+    "name": "yzhong52"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yzhong52/ascii-chord",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yzhong52/ascii-chord"
+}

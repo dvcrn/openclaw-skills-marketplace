@@ -1,0 +1,10 @@
+{
+  "name": "swiftking100--restart-task-recovery",
+  "description": "Preserve and resume in-progress multi-agent work across OpenClaw config patch/apply restarts. Use when a restart is required during active tasks, when users ask to minimize interruption, or when agent runs/tool calls were interrupted by gateway restart/timeouts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "swiftking100"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/swiftking100/restart-task-recovery",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/swiftking100/restart-task-recovery"
+}

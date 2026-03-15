@@ -1,0 +1,10 @@
+{
+  "name": "budingsoft--feishu-article-collector",
+  "description": "自动收集今日头条、微信公众号文章。抓取正文，AI 生成总结和分类，存入飞书多维表格。支持去重。",
+  "version": "1.2.0",
+  "author": {
+    "name": "budingsoft"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/budingsoft/feishu-article-collector",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/budingsoft/feishu-article-collector"
+}

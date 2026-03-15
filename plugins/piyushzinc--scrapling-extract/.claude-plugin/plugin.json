@@ -1,0 +1,10 @@
+{
+  "name": "piyushzinc--scrapling-extract",
+  "description": "Web scraping and data extraction using the Python Scrapling library. Use to scrape static HTML pages, JavaScript-rendered pages (Playwright), and anti-bot or Cloudflare-protected sites (stealth browser). Supports CSS selectors, XPath, adaptive DOM relocation so selectors survive site redesigns, session-based scraping with cookie persistence, and outputs to JSON or Markdown. Use when asked to scrape a URL, extract text/links/tables/prices from a webpage, crawl a site, or automate web data collection.",
+  "version": "1.0.3",
+  "author": {
+    "name": "piyushzinc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/piyushzinc/scrapling-extract",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/piyushzinc/scrapling-extract"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "haiyangchenbj--invassistant",
+  "description": "Investment portfolio trading signal checker based on a \"Three Red Lines\" entry system\n and a multi-layered exit system (take-profit, stop-loss, trend-break, momentum-fade, systemic-risk).\n This skill should be used when the user wants to check stock portfolio trading signals,\n verify entry/exit conditions for specific stocks, or configure automated signal alerts.\n It fetches real-time market data from Yahoo Finance, applies configurable strategy rules\n (emotion release, technical support, market risk for entry; take-profit tiers, stop-loss,\n trend-break, momentum-fade for exit), and pushes results to WeChat Work, DingTalk, or Feishu group bots.\n Trigger keywords: 检查持仓, 持仓信号, 今日信号, 红线检查, TSLA红线, 建仓检查,\n 减仓信号, 止盈检查, 止损检查, 退出信号, 清仓检查, 趋势破位, 动量衰竭,\n portfolio check, trading signal, entry check, exit check, red line check, stock signal,\n take profit, stop loss, 投资信号, 交易信号, 持仓检查, 详细分析.",
+  "version": "1.1.0",
+  "author": {
+    "name": "haiyangchenbj"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/haiyangchenbj/invassistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/haiyangchenbj/invassistant"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "devengagelab--engagelab-app-push",
+  "description": "Call EngageLab App Push REST APIs to send push notifications and in-app messages to Android, iOS, and HarmonyOS devices; manage tags and aliases; create scheduled tasks and push plans; batch push; recall messages; query statistics; and configure callbacks. Use this skill when the user wants to send push notifications via EngageLab, manage device tags/aliases, schedule pushes, use batch single push, group push, message recall, delete users, query push statistics, validate push requests, upload images for OPPO, use push-to-speech, or integrate with EngageLab App Push. Also trigger for \"engagelab push\", \"app push api\", \"push notification\", \"registration_id\", \"tag alias\", \"scheduled push\", \"push plan\", \"batch push\", \"message recall\", \"push statistics\", \"push callback\", or \"MTPush\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "devengagelab"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/devengagelab/engagelab-app-push",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/devengagelab/engagelab-app-push"
+}

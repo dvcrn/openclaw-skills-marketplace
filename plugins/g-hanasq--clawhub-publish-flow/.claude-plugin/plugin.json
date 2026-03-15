@@ -1,0 +1,10 @@
+{
+  "name": "g-hanasq--clawhub-publish-flow",
+  "description": "Publish or update an OpenClaw skill on ClawHub using the local authenticated ClawHub session and direct API upload. Use when the user wants to publish a new skill to ClawHub, update an existing skill version, inspect the current remote version before release, package and upload a local skill folder reliably without relying on incomplete third-party publisher skills, or when assistant-created local skills should be routinely published after review and commit.",
+  "version": "0.1.3",
+  "author": {
+    "name": "g-hanasq"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/g-hanasq/clawhub-publish-flow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/g-hanasq/clawhub-publish-flow"
+}

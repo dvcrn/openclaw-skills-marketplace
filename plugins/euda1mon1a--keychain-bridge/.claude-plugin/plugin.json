@@ -1,0 +1,10 @@
+{
+  "name": "euda1mon1a--keychain-bridge",
+  "description": "Manage secrets via macOS Keychain instead of plaintext files. Migrate existing secrets, read/write keychain entries, bridge to files for bash tools, audit for leaks, diagnose access issues. Use when asked about secrets, keychain, credentials, API keys, or security hardening on macOS.",
+  "version": "1.1.0",
+  "author": {
+    "name": "euda1mon1a"
+  },
+  "homepage": "https://github.com/moltbot/keychain-bridge",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/euda1mon1a/keychain-bridge"
+}

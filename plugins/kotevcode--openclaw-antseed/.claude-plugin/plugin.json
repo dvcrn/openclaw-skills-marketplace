@@ -1,0 +1,10 @@
+{
+  "name": "kotevcode--openclaw-antseed",
+  "description": "Connect OpenClaw to the AntSeed P2P AI network as a buyer. Use when: user asks to connect OpenClaw to AntSeed, route OpenClaw through AntSeed, set up AntSeed as a model provider for OpenClaw, or use P2P AI models in OpenClaw. Installs the AntSeed buyer proxy and configures OpenClaw to route LLM requests through the AntSeed peer-to-peer network.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kotevcode"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kotevcode/openclaw-antseed",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kotevcode/openclaw-antseed"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "donovanpankratz-del--correction-memory",
+  "description": "Makes agent corrections persistent and reusable. When you override, reject, or correct an agent's output, this skill logs the correction and automatically injects it into future spawns of the same agent type. Solves \"agent keeps making the same mistake across sessions.\" Installs correction-tracker lib + injection hook into agent-context-loader. Works standalone or alongside intent-engineering skill.",
+  "version": "1.1.0",
+  "author": {
+    "name": "donovanpankratz-del"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/donovanpankratz-del/correction-memory",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/donovanpankratz-del/correction-memory"
+}

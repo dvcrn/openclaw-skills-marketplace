@@ -1,0 +1,10 @@
+{
+  "name": "romainsantoli-web--firm-delivery-export",
+  "description": "Post-processing skill for firm-orchestration: converts the structured JSON output of a multi-agent workflow run into real deliverables — GitHub Pull Requests, Jira/Linear tickets, Markdown reports, project briefs or structured documents. Acts as the last-mile bridge between agent output and team tooling.",
+  "version": "1.0.0",
+  "author": {
+    "name": "romainsantoli-web"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-delivery-export",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/romainsantoli-web/firm-delivery-export"
+}

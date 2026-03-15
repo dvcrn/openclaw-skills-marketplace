@@ -1,0 +1,10 @@
+{
+  "name": "jasonxkensei--xproof",
+  "description": "Certify agent outputs on the MultiversX blockchain. Anchor hashes, text, files, and decisions with tamper-proof on-chain proof. $0.05/cert, 6-second finality. Supports API key and x402 payment (no account required).",
+  "version": "1.2.0",
+  "author": {
+    "name": "jasonxkensei"
+  },
+  "homepage": "https://xproof.app",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jasonxkensei/xproof"
+}

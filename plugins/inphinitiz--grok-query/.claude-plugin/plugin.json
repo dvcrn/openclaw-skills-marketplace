@@ -1,0 +1,10 @@
+{
+  "name": "inphinitiz--grok-query",
+  "description": "Query Grok AI (grok.com) for real-time information via browser automation. Requires: OpenClaw browser enabled, user pre-logged-in to grok.com, and a Grok account (free tier works).",
+  "version": "1.0.0",
+  "author": {
+    "name": "inphinitiz"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/inphinitiz/grok-query",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/inphinitiz/grok-query"
+}

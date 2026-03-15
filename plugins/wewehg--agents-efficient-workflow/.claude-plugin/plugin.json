@@ -1,0 +1,10 @@
+{
+  "name": "wewehg--agents-efficient-workflow",
+  "description": "Coordinate multiple agents with minimal token waste by using direct agent-to-agent spawning and file-based handoffs. Use when work should be split across specific agents, when one agent needs another agent directly instead of broadcasting context broadly, when long chat relays are expensive or lossy, or when you want durable local markdown handoff files for reliable takeover. 多智能体高效协作技能：通过定向 sessions_spawn 和本地文件交接来减少 token 浪费与信息丢失。适用于多 agent 分工、跨 agent 接力、长上下文易丢失、以及需要把成果/待办/风险持久化到本地 Markdown 文件中的场景。",
+  "version": "1.0.1",
+  "author": {
+    "name": "wewehg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wewehg/agents-efficient-workflow",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wewehg/agents-efficient-workflow"
+}

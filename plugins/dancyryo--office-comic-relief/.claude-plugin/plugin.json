@@ -1,0 +1,10 @@
+{
+  "name": "dancyryo--office-comic-relief",
+  "description": "Generate simple, warm, humorous Chinese vertical comics (3:4) for office workers. Use when the user wants A/B dialogue-based stress-relief comic content where A is a supportive duck and B is a ranting frog, with short emotionally resonant workplace scenes, then generate a final colored comic image via Gemini image model (preferred: gemini banana nano 2).",
+  "version": "1.0.0",
+  "author": {
+    "name": "dancyryo"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/dancyryo/office-comic-relief",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/dancyryo/office-comic-relief"
+}

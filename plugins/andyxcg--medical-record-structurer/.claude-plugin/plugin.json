@@ -1,0 +1,10 @@
+{
+  "name": "andyxcg--medical-record-structurer",
+  "description": "Medical record structuring and standardization tool. Converts doctor's oral or handwritten medical records into standardized electronic medical records (EMR). Supports voice/text input, automatic field recognition, and structured output. Use when processing medical records, clinical notes, patient histories, or converting unstructured medical data into standardized formats. Includes skillpay.me payment integration for pay-per-use monetization.",
+  "version": "1.0.6",
+  "author": {
+    "name": "andyxcg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxcg/medical-record-structurer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxcg/medical-record-structurer"
+}

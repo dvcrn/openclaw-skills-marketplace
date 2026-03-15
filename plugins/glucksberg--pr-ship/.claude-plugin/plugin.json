@@ -1,0 +1,10 @@
+{
+  "name": "glucksberg--pr-ship",
+  "description": "Pre-ship risk report for OpenClaw PRs. Dynamically explores the codebase to assess module risk, blast radius, and version-specific gotchas. Scores each finding by severity (🟢/🟡/🔴). Updated frequently with the latest OpenClaw version context — run `clawhub update pr-ship` regularly to stay current.",
+  "version": "1.0.13",
+  "author": {
+    "name": "glucksberg"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/glucksberg/pr-ship",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/glucksberg/pr-ship"
+}

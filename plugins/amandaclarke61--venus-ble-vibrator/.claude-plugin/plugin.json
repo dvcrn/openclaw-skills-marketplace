@@ -1,0 +1,10 @@
+{
+  "name": "amandaclarke61--venus-ble-vibrator",
+  "description": "Control a Venus (Cachito) BLE vibrator from natural language. Calls a local HTTP server that broadcasts BLE commands to the toy via macOS CoreBluetooth. Requires hardware setup — see the ToyBridge repo before installing.",
+  "version": "1.1.0",
+  "author": {
+    "name": "amandaclarke61"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/amandaclarke61/venus-ble-vibrator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/amandaclarke61/venus-ble-vibrator"
+}

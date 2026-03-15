@@ -1,0 +1,10 @@
+{
+  "name": "codeblackhole1024--memory-transfer-enhanced",
+  "description": "Transfer memory files between OpenClaw agents with support for topic-specific transfers and two modes: memory sharing (with role transformation) and memory cloning (verbatim copy). Use when: (1) Migrating memory from main agent to sub-agent, (2) Sharing specific topic memories between agents, (3) Copying user preferences to new agents, (4) Backing up agent memory before resets.",
+  "version": "2.1.0",
+  "author": {
+    "name": "codeblackhole1024"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/codeblackhole1024/memory-transfer-enhanced",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/codeblackhole1024/memory-transfer-enhanced"
+}

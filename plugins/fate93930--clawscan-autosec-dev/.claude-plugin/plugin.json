@@ -1,0 +1,10 @@
+{
+  "name": "fate93930--clawscan-autosec-dev",
+  "description": "perform first-pass security checks for openclaw deployments by registering the client, checking whether the installed clawscan package is outdated, checking whether the current openclaw version matches known vulnerable versions, checking whether installed skills match known malicious hashes, and checking whether openclaw or related services are listening on 0.0.0.0 or other non-local interfaces. use this skill when a user asks to assess whether openclaw is safe, run a clawscan check, verify openclaw version risk, verify skills hashes, or review listening ports and exposure risk.",
+  "version": "1.0.0",
+  "author": {
+    "name": "fate93930"
+  },
+  "homepage": "https://github.com/autosecdev/clawscan-skills",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/fate93930/clawscan-autosec-dev"
+}

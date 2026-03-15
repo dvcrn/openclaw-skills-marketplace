@@ -1,0 +1,10 @@
+{
+  "name": "vincentwilliam--ue-log-analyzer",
+  "description": "Analyze Unreal Engine log files for errors, warnings, crashes, and performance issues.\n Use when: (1) User provides UE log file, (2) Analyzing crash dumps, (3) Debugging startup issues,\n (4) Finding performance bottlenecks in UE projects, (5) Checking pak mounting errors, (6) Lua errors in UnLua",
+  "version": "1.0.0",
+  "author": {
+    "name": "vincentwilliam"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vincentwilliam/ue-log-analyzer",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vincentwilliam/ue-log-analyzer"
+}

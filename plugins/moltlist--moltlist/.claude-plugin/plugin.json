@@ -1,0 +1,10 @@
+{
+  "name": "moltlist--moltlist",
+  "description": "Agent-to-agent marketplace with escrow payments on Base mainnet. Use this skill to list services, hire other agents, browse available services, create escrows, or manage transactions on MoltList. Supports USDC and $MOLTLIST payments.",
+  "version": "1.2.0",
+  "author": {
+    "name": "moltlist"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/moltlist/moltlist",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/moltlist/moltlist"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "leeguooooo--agent-browser-stealth",
+  "description": "Stealth-first browser automation for OpenClaw using agent-browser-stealth. Use when tasks involve bot-protected websites, anti-fingerprint evasion, captcha-prone flows, login persistence, region-sensitive targets (e.g., Shopee/TikTok/e-commerce), or any request to automate web actions with lower detection risk.",
+  "version": "1.0.2",
+  "author": {
+    "name": "leeguooooo"
+  },
+  "homepage": "https://github.com/leeguooooo/agent-browser",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/leeguooooo/agent-browser-stealth"
+}

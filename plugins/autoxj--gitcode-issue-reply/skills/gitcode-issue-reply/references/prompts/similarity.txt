@@ -1,0 +1,13 @@
+请根据「当前 Issue 内容」与下方「历史 Issue 列表」逐条判断语义相似度（0～1，1 表示几乎同一问题）。
+
+【当前 Issue 内容】
+{issue_content_plain}
+
+【历史 Issue 列表】（每行格式：#number 标题）
+{history_issues_formatted}
+
+要求：
+1. 仅对相似度 ≥ 0.7 的历史 Issue 做输出。
+2. 输出格式必须为纯 JSON（不要添加任何额外文字或 Markdown 代码块标记）：
+   {"similar_issues": [数字1, 数字2]}
+3. 若没有相似度 ≥ 0.7 的，输出：{"similar_issues": []}

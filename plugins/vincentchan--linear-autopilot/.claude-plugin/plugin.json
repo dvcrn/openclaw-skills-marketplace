@@ -1,0 +1,10 @@
+{
+  "name": "vincentchan--linear-autopilot",
+  "description": "Automate Linear task processing with Discord notifications and git sync. Use when setting up a kanban-to-agent workflow where Linear tasks trigger Clawdbot actions via Discord. Handles task intake, status updates, DM notifications, and auto-push to git. Supports any task type - research, content creation, code tasks, or custom workflows.",
+  "version": "1.0.2",
+  "author": {
+    "name": "vincentchan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/vincentchan/linear-autopilot",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/vincentchan/linear-autopilot"
+}

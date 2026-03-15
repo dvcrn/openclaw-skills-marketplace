@@ -1,0 +1,10 @@
+{
+  "name": "0xreisearch--ercdata",
+  "description": "Store, verify, and manage AI data on the Ethereum blockchain (Base network) using the ERCData standard. Use when an agent needs to store data fingerprints on-chain, verify data integrity, create audit trails, manage access control for private data, or interact with the ERCData smart contract. Supports public and private storage, EIP-712 verification, snapshots, and batch operations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "0xreisearch"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/0xreisearch/ercdata",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/0xreisearch/ercdata"
+}

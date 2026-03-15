@@ -1,0 +1,10 @@
+{
+  "name": "xing2xian--feishu-doc-extended",
+  "description": "飞书文档扩展工具，提供图片下载和 OCR 识别功能。需要配合内置 feishu 插件使用。",
+  "version": "1.0.0",
+  "author": {
+    "name": "xing2xian"
+  },
+  "homepage": "https://open.feishu.cn",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/xing2xian/feishu-doc-extended"
+}

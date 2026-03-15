@@ -1,0 +1,10 @@
+{
+  "name": "mekedron--wolt",
+  "description": "Use Nikita's local Wolt CLI to browse venues, inspect menus/items/options, and run profile, cart, and checkout-preview actions for wolt.com from terminal. Trigger when asked to find food on Wolt, inspect venue catalogs, resolve item/option IDs, automate basket or profile tasks, or debug Wolt auth/location/output behavior.",
+  "version": "0.5.4",
+  "author": {
+    "name": "mekedron"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/mekedron/wolt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/mekedron/wolt"
+}

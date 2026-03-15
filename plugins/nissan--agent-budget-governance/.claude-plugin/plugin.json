@@ -1,0 +1,10 @@
+{
+  "name": "nissan--agent-budget-governance",
+  "description": "Trust-based budget system for multi-agent teams — daily token limits with automatic midnight resets, yellow/red/demotion thresholds, audit logging, and mesh privilege revocation. Use when running multiple AI agents that share API budgets and need spend controls. Works with any OpenClaw multi-agent setup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nissan"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/nissan/agent-budget-governance",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/nissan/agent-budget-governance"
+}

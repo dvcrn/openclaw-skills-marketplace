@@ -1,0 +1,10 @@
+{
+  "name": "cluka-399--gemini-image-simple",
+  "description": "Generate and edit images with Gemini API using pure Python stdlib. Zero dependencies - works on locked-down environments where pip/uv aren't available.",
+  "version": "1.1.0",
+  "author": {
+    "name": "cluka-399"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/cluka-399/gemini-image-simple",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/cluka-399/gemini-image-simple"
+}

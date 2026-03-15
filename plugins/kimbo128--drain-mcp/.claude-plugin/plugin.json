@@ -1,0 +1,10 @@
+{
+  "name": "kimbo128--drain-mcp",
+  "description": "MCP server for the Handshake58 AI marketplace. Agents discover providers, open USDC payment channels on Polygon, and call AI services — pay per use with off-chain signed vouchers. No API keys, no subscriptions.",
+  "version": "1.8.0",
+  "author": {
+    "name": "kimbo128"
+  },
+  "homepage": "https://github.com/kimbo128/DRAIN",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kimbo128/drain-mcp"
+}

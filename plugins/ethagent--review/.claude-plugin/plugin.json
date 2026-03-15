@@ -1,0 +1,10 @@
+{
+  "name": "ethagent--review",
+  "description": "Professional reviewer and critic. Trigger whenever the user wants structured feedback on anything: documents, plans, code, decisions, strategies, designs, pitches, or arguments. Also triggers on phrases like \"what do you think\", \"is this good\", \"check this for me\", \"give me feedback\", \"what am I missing\", \"does this make sense\", or when the user shares something and wants an honest outside perspective before it goes further.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ethagent"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ethagent/review",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ethagent/review"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "yazelin--catime",
+  "description": "Fetch and send AI-generated hourly cat images. Every hour a unique cat artwork is born via Google Gemini. Use when user asks for a cat picture, wants to browse the cat gallery, or requests the latest AI-generated cat image to be sent to them.",
+  "version": "0.5.0",
+  "author": {
+    "name": "yazelin"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/yazelin/catime",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/yazelin/catime"
+}

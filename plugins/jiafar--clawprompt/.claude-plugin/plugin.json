@@ -1,0 +1,10 @@
+{
+  "name": "jiafar--clawprompt",
+  "description": "Launch a smart teleprompter with mobile remote control for video recording. Use when the user wants to read scripts while recording video, use a teleprompter, or needs a prompter with phone remote control. Triggers on phrases like \"open teleprompter\", \"start prompter\", \"提词器\", \"打开提词器\", \"录视频提词\", \"teleprompter\", \"提词\", \"I need a prompter\", \"read script while recording\", \"手机遥控提词\", \"ClawPrompt\", \"念稿子\", \"录视频看词\", \"对镜头念词\". Features: dual-screen sync (computer + phone show same text), QR code phone pairing, mobile remote control (another person controls page turns), text upload from either device, fullscreen black-background white-text display, auto sentence segmentation, adjustable font size, countdown before start. Works with ClawCut — import AI-generated 9-scene scripts directly. 提词器, 智能提词器, teleprompter, 手机遥控, 视频录制辅助工具, prompter, autocue, 录制提词, 双屏同步, 远程翻页.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jiafar"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jiafar/clawprompt",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jiafar/clawprompt"
+}

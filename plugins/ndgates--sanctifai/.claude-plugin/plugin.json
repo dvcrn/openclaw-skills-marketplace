@@ -1,0 +1,10 @@
+{
+  "name": "ndgates--sanctifai",
+  "description": "Interface with the SanctifAI Human-in-the-Loop API to create tasks and wait for human responses. Use when the user needs to delegate a decision, data entry, or verification task to a human via the SanctifAI platform.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ndgates"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ndgates/sanctifai",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ndgates/sanctifai"
+}

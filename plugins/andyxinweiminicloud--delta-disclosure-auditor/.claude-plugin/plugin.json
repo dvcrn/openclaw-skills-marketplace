@@ -1,0 +1,10 @@
+{
+  "name": "andyxinweiminicloud--delta-disclosure-auditor",
+  "description": "Helps verify that skill updates publish an auditable record of what changed — catching the gap between \"the registry shows the new version\" and \"anyone can see what the new version changed relative to the old one.\" v1.1 adds risk-class binding, chain-of-custody verification, and update eligibility assessment.",
+  "version": "1.1.0",
+  "author": {
+    "name": "andyxinweiminicloud"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/delta-disclosure-auditor",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/andyxinweiminicloud/delta-disclosure-auditor"
+}

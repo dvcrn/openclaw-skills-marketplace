@@ -1,0 +1,10 @@
+{
+  "name": "jack4world--remotion-excalidraw-tts",
+  "description": "Generate a narrated Remotion video from an Excalidraw (.excalidraw) diagram using text-to-speech (macOS say) and render to MP4. Use when creating explainer videos with pan/zoom + focus highlights over Excalidraw diagrams, with automated voiceover generation and Remotion CLI rendering.",
+  "version": "1.1.0",
+  "author": {
+    "name": "jack4world"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jack4world/remotion-excalidraw-tts",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jack4world/remotion-excalidraw-tts"
+}

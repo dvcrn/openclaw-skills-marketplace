@@ -1,0 +1,10 @@
+{
+  "name": "forvendettaw--x-deep-miner",
+  "description": "X (Twitter) 深度挖掘与归档 Skill。每小时自动扫描 AI/美股/生活类高热度推文（收藏>1000），自动翻译为专业中文文章，输出 Obsidian 格式。适用于构建个人知识库、每日情报简报。",
+  "version": "1.2.0",
+  "author": {
+    "name": "forvendettaw"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/forvendettaw/x-deep-miner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/forvendettaw/x-deep-miner"
+}

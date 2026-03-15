@@ -1,0 +1,10 @@
+{
+  "name": "valenciajenkins97-create--landing-page-builder",
+  "description": "Build a single-page landing page from a text prompt or design brief.\n\n USE WHEN:\n - User asks for a landing page, marketing page, product page, sales page, or startup website\n - User provides a business name/idea and wants a deployable web page\n - User sends an HTML template and wants it adapted with new content/branding\n - User asks for a \"one-pager\" or \"single-page site\"\n\n DON'T USE WHEN:\n - User wants a multi-page website (use a web framework instead)\n - User wants an email template or newsletter (different format/constraints)\n - User wants a blog, documentation site, or wiki\n - User wants to edit an existing live site (this builds new pages, not patches)\n - User wants a web app with backend logic, auth, or databases\n\n OUTPUTS: Single self-contained .html file (no external dependencies except Google Fonts). Ready to open in browser, deploy to any static host, or deliver to a client.\n\n INPUTS: Business name, what it does, target audience, desired tone. Optionally: a reference HTML template to adapt.",
+  "version": "1.0.0",
+  "author": {
+    "name": "valenciajenkins97-create"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/valenciajenkins97-create/landing-page-builder",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/valenciajenkins97-create/landing-page-builder"
+}

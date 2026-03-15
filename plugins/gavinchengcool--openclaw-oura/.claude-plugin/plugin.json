@@ -1,0 +1,10 @@
+{
+  "name": "gavinchengcool--openclaw-oura",
+  "description": "Oura Ring data source for OpenClaw (Tier 1). Use to connect an Oura account using an Oura Personal Access Token, fetch Oura v2 usercollection data (sleep, readiness, activity), normalize it into a stable daily JSON shape for the Wellness hub, and render a short summary message for any chat channel.",
+  "version": "0.1.0",
+  "author": {
+    "name": "gavinchengcool"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/gavinchengcool/openclaw-oura",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/gavinchengcool/openclaw-oura"
+}

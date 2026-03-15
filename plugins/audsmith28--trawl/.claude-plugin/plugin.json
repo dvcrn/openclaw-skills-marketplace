@@ -1,0 +1,10 @@
+{
+  "name": "audsmith28--trawl",
+  "description": "Autonomous lead generation through agent social networks. Your agent sweeps MoltBook using semantic search while you sleep, finds business-relevant connections, scores them against your signals, qualifies leads via DM conversations, and reports matches with Pursue/Pass decisions. Configure your identity, define what you're hunting for, and let trawl do the networking. Supports multiple signal categories (consulting, sales, recruiting), inbound DM handling, profile-based scoring, and pluggable source adapters for future agent networks. Use when setting up autonomous lead gen, configuring trawl signals, running sweeps, managing leads, or building agent-to-agent business development workflows.",
+  "version": "1.0.2",
+  "author": {
+    "name": "audsmith28"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/audsmith28/trawl",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/audsmith28/trawl"
+}

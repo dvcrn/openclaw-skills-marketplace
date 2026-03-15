@@ -1,0 +1,10 @@
+{
+  "name": "bavxhack--create-videoconference",
+  "description": "Default video conferences via Meetling. Instant calls always use /m/ rooms + share payload for Claw default sending. Scheduled calls return link + email invite template. Secure contacts loading (no env-controlled file paths).",
+  "version": "1.0.1",
+  "author": {
+    "name": "bavxhack"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bavxhack/create-videoconference",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bavxhack/create-videoconference"
+}

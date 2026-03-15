@@ -1,0 +1,10 @@
+{
+  "name": "kurtivy--openclaw-voice-assistant",
+  "description": "Windows voice companion for OpenClaw. Custom wake word via Porcupine, local STT via faster-whisper, streamed responses over the gateway WebSocket, and ElevenLabs TTS with natural chime/thinking sounds. Supports multi-turn conversation with automatic follow-up listening, mic suppression to prevent feedback, and a system tray with pause/resume. Recommended voices: Matilda (XrExE9yKIg1WjnnlVkGX, free tier) or Ivy (MClEFoImJXBTgLwdLI5n, paid tier). Fully customizable wake word, voice, hotkey, and silence thresholds.",
+  "version": "1.0.4",
+  "author": {
+    "name": "kurtivy"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kurtivy/openclaw-voice-assistant",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kurtivy/openclaw-voice-assistant"
+}

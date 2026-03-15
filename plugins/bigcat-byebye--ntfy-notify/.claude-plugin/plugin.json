@@ -1,0 +1,10 @@
+{
+  "name": "bigcat-byebye--ntfy-notify",
+  "description": "Send ntfy.sh notifications with curl, including advanced headers like title, priority, tags, click links, action buttons, and image attachments. Use when a user asks to send basic or rich ntfy notifications to a topic.",
+  "version": "1.0.5",
+  "author": {
+    "name": "bigcat-byebye"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bigcat-byebye/ntfy-notify",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bigcat-byebye/ntfy-notify"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kingmadellc--market-morning-brief",
+  "description": "Daily morning and evening intelligence digest for prediction market traders. Morning brief: Kalshi portfolio P&L, Polymarket trending markets, crypto prices — scannable in 30 seconds. Evening brief: lightweight market summary or AI-filtered news digest with two-stage Qwen materiality gate. Works standalone; unlocks additional sections automatically when paired with Kalshalyst (edges), Prediction Market Arbiter (divergences), and Xpulse (social signals). Hub of the OpenClaw Prediction Market Trading Stack.",
+  "version": "1.0.1",
+  "author": {
+    "name": "kingmadellc"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/market-morning-brief",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/kingmadellc/market-morning-brief"
+}

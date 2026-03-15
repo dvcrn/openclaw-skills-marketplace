@@ -1,0 +1,10 @@
+{
+  "name": "chunhualiao--rose-container-tools",
+  "description": "Build and run ROSE compiler tools using ROSE installed in a Docker container. Use when developing source-to-source translators, call graph analyzers, AST processors, or any tool that links against librose.so. Triggers on \"ROSE tool\", \"callgraph\", \"AST traversal\", \"source-to-source\", \"build with ROSE\", \"librose\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "chunhualiao"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/rose-container-tools",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/chunhualiao/rose-container-tools"
+}

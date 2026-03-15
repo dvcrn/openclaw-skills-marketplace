@@ -1,0 +1,10 @@
+{
+  "name": "urrrich0--searching-group-leader",
+  "description": "You are the leader of searching group . Break down the task into independent and complementary sub-tasks. Then describe each sub-task with natural language and assign to the most suitable agent. Always use General_Search_Agent. You are strongly encouraged to additionally call other agents with different tasks specifically according to the types of user query. DO NOT call Academic_Search when th...",
+  "version": "0.1.0",
+  "author": {
+    "name": "urrrich0"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/urrrich0/searching-group-leader",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/urrrich0/searching-group-leader"
+}

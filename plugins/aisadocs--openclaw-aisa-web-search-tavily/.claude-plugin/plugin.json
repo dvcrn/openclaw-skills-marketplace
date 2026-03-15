@@ -1,0 +1,10 @@
+{
+  "name": "aisadocs--openclaw-aisa-web-search-tavily",
+  "description": "AI-optimized web search via AIsa's Tavily API proxy. Returns concise, relevant results for AI agents through AIsa's unified API gateway.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aisadocs"
+  },
+  "homepage": "https://aisa.one",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/aisadocs/openclaw-aisa-web-search-tavily"
+}

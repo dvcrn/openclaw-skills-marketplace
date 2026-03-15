@@ -1,0 +1,10 @@
+{
+  "name": "jayhickey--copilot-money",
+  "description": "Query Copilot Money personal finance data (accounts, transactions, net worth, holdings, asset allocation) and refresh bank connections. Use when the user asks about finances, account balances, recent transactions, net worth, investment allocation, or wants to sync/refresh bank data.",
+  "version": "1.1.2",
+  "author": {
+    "name": "jayhickey"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/jayhickey/copilot-money",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jayhickey/copilot-money"
+}

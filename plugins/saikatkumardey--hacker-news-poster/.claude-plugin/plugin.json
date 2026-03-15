@@ -1,0 +1,10 @@
+{
+  "name": "saikatkumardey--hacker-news-poster",
+  "description": "Post, comment, and interact on Hacker News. Use when the user asks to submit a Show HN, post a story, comment on an HN thread, edit a comment, or update an HN profile. Requires HN_USERNAME and HN_PASSWORD environment variables. Persists session cookies to ~/.hn_cookies.txt (configurable via HN_COOKIE_FILE env var).",
+  "version": "1.0.5",
+  "author": {
+    "name": "saikatkumardey"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/saikatkumardey/hacker-news-poster",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/saikatkumardey/hacker-news-poster"
+}

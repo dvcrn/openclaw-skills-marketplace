@@ -1,0 +1,10 @@
+{
+  "name": "zeron-g--aviation-agent",
+  "description": "Aviation weather briefing and FAA reference assistant for pilots. Fetches real-time METAR, TAF, and PIREPs from aviationweather.gov (no API key required). Provides FAR Part 61/91 quick reference, VFR/IFR weather minimums, and go/no-go decision support. Use when user asks about METAR, TAF, PIREP, aviation weather, can I fly today, VFR/IFR conditions, flight weather briefing, FAR regulations for pilots, PPL/IFR training weather, or queries with ICAO airport codes.",
+  "version": "0.1.0",
+  "author": {
+    "name": "zeron-g"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/zeron-g/aviation-agent",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/zeron-g/aviation-agent"
+}

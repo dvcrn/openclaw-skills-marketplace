@@ -1,0 +1,10 @@
+{
+  "name": "ricardodpalmeida--excalidraw-diagrams",
+  "description": "Generate Excalidraw diagrams for Obsidian. Supports two output modes - Obsidian (.md for direct plugin use) and Standard (.excalidraw for excalidraw.com). Use when asked to create, draw, or diagram architecture diagrams, flowcharts, concept maps, sequence flows, system designs, or any visual diagram.",
+  "version": "1.0.2",
+  "author": {
+    "name": "ricardodpalmeida"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/ricardodpalmeida/excalidraw-diagrams",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/ricardodpalmeida/excalidraw-diagrams"
+}

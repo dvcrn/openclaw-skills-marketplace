@@ -1,0 +1,10 @@
+{
+  "name": "parcostabot--cursor-cloud-agents",
+  "description": "Deploy Cursor AI agents to GitHub repos. Automatically write code, generate tests, create documentation, and open PRs using your existing Cursor subscription.",
+  "version": "1.3.3",
+  "author": {
+    "name": "parcostabot"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/parcostabot/cursor-cloud-agents",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/parcostabot/cursor-cloud-agents"
+}

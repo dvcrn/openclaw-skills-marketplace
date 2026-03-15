@@ -1,0 +1,10 @@
+{
+  "name": "1204tmax--xiaoshan-journal",
+  "description": "个人日记自动化 skill。一键执行：自动检测配置 →（首次）自动初始化 → 写作 → 生成图片。依赖本地 SOUL、MEMORY、每日 memory 等素材，产出日记文本与 1080px 宽图片。",
+  "version": "1.0.0",
+  "author": {
+    "name": "1204tmax"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/1204tmax/xiaoshan-journal",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/1204tmax/xiaoshan-journal"
+}

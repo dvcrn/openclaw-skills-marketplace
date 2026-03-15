@@ -1,0 +1,10 @@
+{
+  "name": "man0l--add-directories",
+  "description": "Use when adding new AI/startup directories to directories.json from a URL, pasted text, or GitHub awesome-list. Parses, deduplicates, appends new entries, then runs classify pipeline (analyze, cleanup, browser verify). Does NOT cover submission — use submit-directories skill for that.",
+  "version": "0.1.0",
+  "author": {
+    "name": "man0l"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/man0l/add-directories",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/man0l/add-directories"
+}

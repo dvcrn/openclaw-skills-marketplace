@@ -1,0 +1,10 @@
+{
+  "name": "bro3886--rem-cli",
+  "description": "Manages macOS Reminders from the terminal using the rem CLI. Creates, lists, updates, completes, deletes, searches, and exports reminders and lists. Supports natural language due dates, filtering, import/export, and multiple output formats. Use when the user wants to interact with Apple Reminders via command line, automate reminder workflows, or build scripts around macOS Reminders.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bro3886"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/bro3886/rem-cli",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/bro3886/rem-cli"
+}

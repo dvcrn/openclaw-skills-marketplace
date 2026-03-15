@@ -1,0 +1,10 @@
+{
+  "name": "jingyu525--wechat-image-generator",
+  "description": "Generate beautiful images for WeChat articles (covers, comparisons, charts) with zero token cost. Use when user needs images for social media posts, article covers, data visualization. Triggers include \"生成封面图\", \"对比图\", \"配图\", \"公众号图片\".",
+  "version": "1.0.2",
+  "author": {
+    "name": "jingyu525"
+  },
+  "homepage": "https://github.com/jingyu525/wechat-image-generator",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/jingyu525/wechat-image-generator"
+}

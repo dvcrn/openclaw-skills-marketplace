@@ -1,0 +1,10 @@
+{
+  "name": "wyzmf--polymarket-scanner",
+  "description": "Automated Polymarket prediction market scanner and trader via Simmer API. Use when analyzing prediction markets, scanning for trading opportunities, executing virtual ($SIM) or real (USDC) trades, checking positions, or managing a Polymarket portfolio. Triggers on \"polymarket\", \"prediction market\", \"simmer\", \"trade\", \"market scan\", \"betting odds\", \"arbitrage opportunities\".",
+  "version": "1.0.0",
+  "author": {
+    "name": "wyzmf"
+  },
+  "homepage": "https://github.com/openclaw/skills/tree/main/skills/wyzmf/polymarket-scanner",
+  "repository": "https://github.com/openclaw/skills/tree/main/skills/wyzmf/polymarket-scanner"
+}

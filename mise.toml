@@ -1,3 +1,7 @@
+[tasks.generate]
+run = "mise run generate_marketplace"
+description = "Generate the Claude plugin marketplace"
+
 [tasks.generate_marketplace]
 run = "python3 scripts/generate_marketplace.py --source openclaw-skills/skills --output . --marketplace-name openclaw-skills --owner-name OpenClaw"
 description = "Generate the Claude plugin marketplace from the OpenClaw skills submodule"
@@ -5,4 +9,3 @@ description = "Generate the Claude plugin marketplace from the OpenClaw skills s
 [tasks.test]
 run = "python3 -m unittest discover -s tests -p 'test_*.py'"
 description = "Run generator tests"
-

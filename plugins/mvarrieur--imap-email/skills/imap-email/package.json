@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "imap-simple": "^5.1.0",
-    "mailparser": "^3.7.1",
+    "mailparser": "^3.9.6",
     "dotenv": "^16.4.7"
   },
   "keywords": ["imap", "email", "protonmail", "clawdbot", "skill"],

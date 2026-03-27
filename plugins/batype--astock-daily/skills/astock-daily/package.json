@@ -8,7 +8,7 @@
     "test": "node index.js"
   },
   "dependencies": {
-    "nodemailer": "^6.9.0"
+    "nodemailer": "^8.0.4"
   },
   "keywords": ["astock", "股票", "A 股", "新股", "邮件"],
   "author": "OpenClaw",

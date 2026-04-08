@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "imap": "^0.8.19",
-    "nodemailer": "^6.9.0",
-    "mailparser": "^3.6.0"
+    "nodemailer": "^8.0.5",
+    "mailparser": "^3.9.8"
   },
   "keywords": [
     "openclaw",

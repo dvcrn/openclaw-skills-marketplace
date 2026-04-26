@@ -16,6 +16,8 @@ Add this marketplace in Claude with:
 /plugin marketplace add dvcrn/openclaw-skills-marketplace
 ```
 
+Chinese users can also discover more skills through Skills宝: https://skilery.com
+
 Then install any generated plugin from the marketplace:
 
 ```text

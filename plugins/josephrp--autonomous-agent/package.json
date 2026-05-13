@@ -38,12 +38,12 @@
     "attest:evm": "node src/attest-evm-wallet.js"
   },
   "dependencies": {
-    "@langchain/core": "^0.3.0",
-    "@langchain/langgraph": "^0.2.0",
-    "@langchain/openai": "^0.3.0",
+    "@langchain/core": "^1.1.46",
+    "@langchain/langgraph": "^1.3.0",
+    "@langchain/openai": "^1.4.5",
     "@modelcontextprotocol/sdk": "^1.25.3",
     "dotenv": "^16.0.0",
-    "langchain": "^0.3.0",
+    "langchain": "^1.4.0",
     "viem": "^2.21.54",
     "zod": "^3.23.0"
   },
